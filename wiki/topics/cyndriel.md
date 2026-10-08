@@ -86,6 +86,16 @@ Source: [Enlightenment, and Cyndriel Aldebaran, a Mystical planet. (English)](ht
 
 Related topics: [Natural and artificial portals](natural-portals.md).
 
+### src-f6a0faeb1f8f-c05
+
+A second Hyades-class ship, Cyndriel, is being built, named for a Taygetan colony planet orbiting Aldebaran.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 28, June 20, 2024, Alenym, brand new S.S. Hyades (English)](https://swaruu.org/transcripts/space-news-28-june-20-2024-alenym-brand-new-s-s-hyades-english) (2024-06-20; en); passages p0011. [Structured record](../../records/src-f6a0faeb1f8f.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-67f9e11f45a4-c06](amelie.md#src-67f9e11f45a4-c06) — Amelie
@@ -93,6 +103,7 @@ Related topics: [Natural and artificial portals](natural-portals.md).
 
 ## Review flags
 
+- Alenym-retirement-not-decided
 - unverified\_biological\_and\_metaphysical\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_temporal\_claims

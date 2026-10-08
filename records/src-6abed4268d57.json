@@ -1,0 +1,103 @@
+{
+  "source_id": "src-6abed4268d57",
+  "snapshot_sha256": "36cacdb6e6cf0fc4975b8d4c1a4cb768300e453fad73ed8a40f45f2fadd72ccf",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6abed4268d57-c01",
+      "assertion": "Mari models natural portals as locations whose mathematical fields coincide, creating spatial bridges.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6abed4268d57-c02",
+      "assertion": "Artificial portal machines use electromagnetic toroids and frequency modulation to match destinations, transporting entrants while machinery stays put.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "starship-systems"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6abed4268d57-c03",
+      "assertion": "Heavier cargo and more dissimilar destinations require greater energy; cross-realm jumps remain limited.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6abed4268d57-c04",
+      "assertion": "Mari says lower-astral connections need small frequency shifts, enabling entities and people to perceive or affect each other.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6abed4268d57-c05",
+      "assertion": "She alleges Earth particle accelerators disguise portals enabling low-empathy, Source-disconnected entities to enter the material realm.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "archons-and-demons"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "portal-technology-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "astral-entity-definition-detail"
+  ]
+}

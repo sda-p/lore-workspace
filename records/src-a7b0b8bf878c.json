@@ -99,9 +99,9 @@
     {
       "id": "project-second-contact",
       "name": "Project Second Contact",
-      "kind": "institution",
+      "kind": "program",
       "aliases": [
-        "Second Contact Project"
+        "Taygetan internet project"
       ]
     }
   ],

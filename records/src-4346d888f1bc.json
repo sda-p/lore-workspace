@@ -1,0 +1,110 @@
+{
+  "source_id": "src-4346d888f1bc",
+  "snapshot_sha256": "46eaf9ee5dbda964cec0f8919edbb80ff23a7ce892964aee0f3a9ed369f79e97",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4346d888f1bc-c01",
+      "assertion": "Mari says Second Contact’s roughly 500 operatives will pose as humans, dispersed worldwide and across languages.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0019"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4346d888f1bc-c02",
+      "assertion": "They will seed ideas to elevate human collective vibration in public forums, especially spiritual and New Age spaces.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0015",
+        "p0022"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4346d888f1bc-c03",
+      "assertion": "Operatives should share information without confrontation; Prime Directive rules bar technology beyond Earth’s level.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "project-second-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4346d888f1bc-c04",
+      "assertion": "They must conceal stellar origins publicly; disclosure in closed, like-minded groups remains their choice.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0021"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4346d888f1bc-c05",
+      "assertion": "Mari says broad searches are unlikely to find operatives, though her group’s forums are likelier; misinformation and impostors obscure them.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "project-second-contact",
+      "name": "Project Second Contact",
+      "kind": "program",
+      "aliases": [
+        "Taygetan internet project"
+      ]
+    }
+  ],
+  "review_flags": [
+    "project-guidance-attributed-to-mari"
+  ],
+  "coverage_gaps": [
+    "First-Contact-project-failure-theory"
+  ]
+}

@@ -88,6 +88,64 @@ Source: [Basic Principles for Real Time Travel, Second Part (English)](https://s
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-682e0b02c3c5-c04
+
+Anéeka says computers can arrange energy nodes by frequency maps to create objects.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Questions and Answers - Swaruu of Erra and Aneeka of Temmer](https://swaruu.org/transcripts/questions-and-answers-swaruu-of-erra-and-aneeka-of-temmer) (2025-04-29; en); passages p0016, p0017. [Structured record](../../records/src-682e0b02c3c5.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-25cd15eb88db-c04
+
+Gosia says Taygetans navigate by frequency maps of etheric awareness-stamps, not calendars; travelers carry subjective time.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Time Is Linear - My Metaphysical Divagations and Conclusions (Gosia)](https://swaruu.org/transcripts/time-is-linear-my-metaphysical-divagations-and-conclusions-gosia) (2024-12-29; en); passages p0016, p0017. [Structured record](../../records/src-25cd15eb88db.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-756f10136c06-c01
+
+Anéeka models navigation coordinates as combined place-and-time frequency values, with time rate observer-dependent.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Interstellar Life 11- Ships Getting Lost in Timelines - Numerical Reality](https://swaruu.org/transcripts/interstellar-life-11-ships-getting-lost-in-timelines-numerical-reality) (2025-08-12; en); passages p0004, p0005, p0006. [Structured record](../../records/src-756f10136c06.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-756f10136c06-c03
+
+Athena says dates fail frequency-map calculations because recorded chronology is false.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Interstellar Life 11- Ships Getting Lost in Timelines - Numerical Reality](https://swaruu.org/transcripts/interstellar-life-11-ships-getting-lost-in-timelines-numerical-reality) (2025-08-12; en); passages p0016, p0018. [Structured record](../../records/src-756f10136c06.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-756f10136c06-c06
+
+Yazhi remains open to a race whose numeric manipulation evades her civilization’s instruments.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Interstellar Life 11- Ships Getting Lost in Timelines - Numerical Reality](https://swaruu.org/transcripts/interstellar-life-11-ships-getting-lost-in-timelines-numerical-reality) (2025-08-12; en); passages p0028, p0029. [Structured record](../../records/src-756f10136c06.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-016e686c1508-c03
+
+Athena says time maps stack frequency-value maps to represent location and temporal variants.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Galactic Federation, Time (PART 2)](https://swaruu.org/transcripts/athena-swaruu-spiritual-chat-with-dale-rich-2021-galactic-federation-time-part-2) (2025-08-26; en); passages p0060, p0065, p0066. [Structured record](../../records/src-016e686c1508.json).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c01](stellar-navigation.md#src-426ea469937a-c01) — Stellar navigation
@@ -96,13 +154,23 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-30d632b02db6-c05](temporal-skipping.md#src-30d632b02db6-c05) — Temporal skipping
 - [src-af4500c882ec-c05](temporal-skipping.md#src-af4500c882ec-c05) — Temporal skipping
 - [src-8609c7064ec9-c02](temporal-skipping.md#src-8609c7064ec9-c02) — Temporal skipping
+- [src-756f10136c06-c02](timeline-branching.md#src-756f10136c06-c02) — Timeline branching
+- [src-756f10136c06-c04](consciousness-metaphysics.md#src-756f10136c06-c04) — Consciousness and metaphysics
+- [src-6eecf487bb1a-c02](natural-portals.md#src-6eecf487bb1a-c02) — Natural and artificial portals
+- [src-6eecf487bb1a-c03](natural-portals.md#src-6eecf487bb1a-c03) — Natural and artificial portals
 
 ## Review flags
 
+- author-personal-philosophical-analysis
 - conspiracy\_claims
 - contested\_historical\_claims
 - ethical\_use\_limits
+- long conversation contains disputed health claims not included in core extraction
+- nonhuman-technology\_claims\_attributed
+- portal-mechanics-overlap-src-6abed4268d57
+- speaker-shifts-Aneeka-Athena-Yazhi
 - time\_travel\_lore
+- translated-from-Spanish-original-not-available
 - unverified\_historical\_claims
 - unverified\_physics\_claims
 - unverified\_technical\_claims

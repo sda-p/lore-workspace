@@ -1148,6 +1148,160 @@ Source: [Yazhi Swaruu talks with Rich - Metaphysical Conversation from 2021](htt
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-6e20d75c06ef-c05
+
+Mari Swa attributes Earth’s weaker past-life memory to its Matrix culture.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Gender Roles and Homosexuality in Space Lyrians and on Earth, and Past Lives (English)](https://swaruu.org/transcripts/gender-roles-and-homosexuality-in-space-lyrians-and-on-earth-and-past-lives-english) (2024-08-22; en); passages p0005, p0015, p0016. [Structured record](../../records/src-6e20d75c06ef.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-6c5c3b665064-c02
+
+Mari Swaruu says humanity’s Earth origin story is promoted to preserve the planet’s Matrix.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Greater Interstellar Humanity, First Part (English)](https://swaruu.org/transcripts/the-greater-interstellar-humanity-first-part-english) (2024-06-08; en); passages p0005, p0010. [Structured record](../../records/src-6c5c3b665064.json).
+
+### src-d10c5f67b6bd-c01
+
+Yazhi says Matrix manifestations—including documents, memories, and matter—arise from personal and collective perceptions.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Post - "Mirrors" Chat - Metaphysical Conversation with Yazhi Swaruu](https://swaruu.org/transcripts/post-mirrors-chat-metaphysical-conversation-with-yazhi-swaruu) (2024-05-26; en); passages p0007, p0012, p0015, p0026. [Structured record](../../records/src-d10c5f67b6bd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d10c5f67b6bd-c02
+
+She says Matrix narratives may fill gaps when observed, using explanations compatible with observers’ understanding.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Post - "Mirrors" Chat - Metaphysical Conversation with Yazhi Swaruu](https://swaruu.org/transcripts/post-mirrors-chat-metaphysical-conversation-with-yazhi-swaruu) (2024-05-26; en); passages p0040, p0042, p0043. [Structured record](../../records/src-d10c5f67b6bd.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-cea409311112-c04
+
+She says controllers on and off Earth shape shared beliefs to influence collective reality and reincarnation expectations.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Forced Reincarnation? (English)](https://swaruu.org/transcripts/forced-reincarnation-english) (2024-07-08; en); passages p0020, p0021, p0024. [Structured record](../../records/src-cea409311112.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-55eec113b537-c01
+
+Mari describes Earth’s Matrix as a self-validating reality shaped by nonhuman controllers and limiting cosmology.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [The Importance of ET Contact (English)](https://swaruu.org/transcripts/the-importance-of-et-contact-english) (2024-06-01; en); passages p0013, p0015, p0016. [Structured record](../../records/src-55eec113b537.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-55eec113b537-c05
+
+Mari says broad ET contact could destabilize Earth’s Matrix by exposing a wider cosmology.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [The Importance of ET Contact (English)](https://swaruu.org/transcripts/the-importance-of-et-contact-english) (2024-06-01; en); passages p0023, p0029. [Structured record](../../records/src-55eec113b537.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-d6ad19833be1-c02
+
+She says authorities shape collective agreements by filtering information through media, science, and institutions.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASS 002 - False Realities Around you - Is Reality as You Are Told?](https://swaruu.org/transcripts/class-002-false-realities-around-you-is-reality-as-you-are-told) (2025-02-14; en); passages p0011, p0012, p0015, p0016, p0017. [Structured record](../../records/src-d6ad19833be1.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-d6ad19833be1-c04
+
+She says controllers use collective beliefs to shape what people manifest, thereby maintaining Earth’s Matrix.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASS 002 - False Realities Around you - Is Reality as You Are Told?](https://swaruu.org/transcripts/class-002-false-realities-around-you-is-reality-as-you-are-told) (2025-02-14; en); passages p0023, p0026, p0027. [Structured record](../../records/src-d6ad19833be1.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-e655edc71350-c02
+
+She says eclipses weaken lunar modulation and Matrix boundaries, allowing astral realms to cross more readily.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Eclipse, April 8th, 2024 (English)](https://swaruu.org/transcripts/eclipse-april-8th-2024-english) (2024-04-04; en); passages p0017. [Structured record](../../records/src-e655edc71350.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-3082849baa66-c01
+
+Gosia says society steers people toward career, money, material success, and entertainment, limiting deeper inquiry.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASS 001 - Something Is Not Right in the Reality Around You](https://swaruu.org/transcripts/class-001-something-is-not-right-in-the-reality-around-you) (2025-01-25; en); passages p0007, p0008. [Structured record](../../records/src-3082849baa66.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-663b16f733ac-c01
+
+Mari says people above Earth’s average vibration are targeted to bring them down.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Monitoring Spirits, Narcissists (English)](https://swaruu.org/transcripts/monitoring-spirits-narcissists-english) (2024-05-09; en); passages p0003, p0004, p0007. [Structured record](../../records/src-663b16f733ac.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-663b16f733ac-c03
+
+Mari identifies dependent family, especially unsupportive mothers, as especially difficult obstacles; she allows supportive-family exceptions.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Monitoring Spirits, Narcissists (English)](https://swaruu.org/transcripts/monitoring-spirits-narcissists-english) (2024-05-09; en); passages p0016, p0017, p0019, p0020. [Structured record](../../records/src-663b16f733ac.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-347d74ef65e6-c03
+
+Mari says life outside Earth remains difficult and includes its own Matrix.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Two most Self-destructive, Star Seed Beliefs (English)](https://swaruu.org/transcripts/the-two-most-self-destructive-star-seed-beliefs-english) (2024-07-06; en); passages p0021, p0022, p0027, p0028. [Structured record](../../records/src-347d74ef65e6.json).
+
+### src-1098d5d992f8-c04
+
+Gosia says Earth’s isolation narrative portrays humans as indigenous to one planet.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 006 - Are We Alone in the Universe? Are Governments Hiding the Truth?](https://swaruu.org/transcripts/class-006-are-we-alone-in-the-universe-are-governments-hiding-the-truth) (2025-05-16; en); passages p0012, p0014, p0015. [Structured record](../../records/src-1098d5d992f8.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-d3aa4459ae38-c05
+
+Athena says lunar phases reflect sunlight; a nearly featureless surface has superimposed details.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) (2024-11-18; en); passages p0015, p0016, p0017. [Structured record](../../records/src-d3aa4459ae38.json).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -1191,21 +1345,41 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-0a9c03921995-c01](earth-cabal.md#src-0a9c03921995-c01) — Earth Cabal and power structures
 - [src-4936c3c90ef9-c01](earth-cabal.md#src-4936c3c90ef9-c01) — Earth Cabal and power structures
 - [src-4936c3c90ef9-c02](earth-cabal.md#src-4936c3c90ef9-c02) — Earth Cabal and power structures
+- [src-a1e8f5a09186-c03](galactic-federation.md#src-a1e8f5a09186-c03) — Galactic Federation
+- [src-fc193e0d15bd-c04](galactic-federation.md#src-fc193e0d15bd-c04) — Galactic Federation
+- [src-fc193e0d15bd-c05](galactic-federation.md#src-fc193e0d15bd-c05) — Galactic Federation
+- [src-437981222071-c03](galactic-federation.md#src-437981222071-c03) — Galactic Federation
+- [src-f6e898a0d9d7-c01](dimensional-mirroring.md#src-f6e898a0d9d7-c01) — Dimensional mirroring
+- [src-f6e898a0d9d7-c03](dimensional-mirroring.md#src-f6e898a0d9d7-c03) — Dimensional mirroring
+- [src-f6e898a0d9d7-c05](dimensional-mirroring.md#src-f6e898a0d9d7-c05) — Dimensional mirroring
+- [src-55eec113b537-c02](terrestrial-science.md#src-55eec113b537-c02) — Terrestrial science
+- [src-e655edc71350-c01](sunspot-portals.md#src-e655edc71350-c01) — Sunspot portals
+- [src-e655edc71350-c03](consciousness-metaphysics.md#src-e655edc71350-c03) — Consciousness and metaphysics
+- [src-fe44b9d9c0b3-c02](galactic-federation.md#src-fe44b9d9c0b3-c02) — Galactic Federation
+- [src-f624a9cc2d74-c05](galactic-federation.md#src-f624a9cc2d74-c05) — Galactic Federation
+- [src-dec092ce158f-c04](consciousness-metaphysics.md#src-dec092ce158f-c04) — Consciousness and metaphysics
+- [src-fe82d1a07961-c04](galactic-federation.md#src-fe82d1a07961-c04) — Galactic Federation
 
 ## Review flags
 
 - 3d-to-5d-transition
+- Federation-arguments\_reported
+- Federation-policy\_claims\_attributed
+- These are attributed dialogue claims; terminology for Hyades varies by convention
 - afterlife\_model
 - agency\_and\_noninterference
 - ai-clone-claims-attributed
 - archon\_interference\_qualification
 - attribution: extraordinary intelligence claims remain source-specific
 - blockade-and-biology-attributed
+- broad-exopolitical-allegations
 - claim: extraordinary abduction and biology account
+- claims reflect Space Academy’s attributed lore
 - conceptual-tension: real/unreal distinctions are context-dependent
 - conspiracy\_claims
 - contested-space-history-allegation
 - contested\_intelligence\_claims
+- cosmology-claims\_attributed
 - coverage: 5D transition forecast
 - coverage: Atonism details
 - coverage: Matrix scripts
@@ -1226,6 +1400,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - extraordinary\_exopolitical\_claims
 - extraordinary\_extraction\_claims
 - extraordinary\_metaphysical\_claims
+- family-dynamics-generalization
+- gender-reincarnation\_views\_attributed
 - historical-claims-unverified
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - internal\_uncertainty
@@ -1236,6 +1412,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - medical-misinformation: pandemic, testing, and vaccine claims
 - medical-misinformation: virus, vaccine, and nanopowder claims
 - metaphysical-claims
+- metaphysical-model\_attributed
 - moon-conspiracy-claims
 - personal\_accusations
 - reincarnation-model-metaphysical
@@ -1246,11 +1423,13 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - speaker: interviewer prompts excluded as claims
 - speaker\_qualifies\_script\_claims
 - spiritual\_afterlife\_claims\_unverified
+- succession-report\_attributed
 - suffering\_causality
 - technology\_and\_mind\_interface
 - terminology: “positronic” is a human-language approximation (p0002)
 - time\_and\_dimension\_claims\_unverified
 - uncertainty-shift: 5G moves from possible explanation to formal position
+- unverified-astral-causation
 - unverified\_biological\_claims
 - unverified\_geopolitical\_claims
 - unverified\_lunar\_claims

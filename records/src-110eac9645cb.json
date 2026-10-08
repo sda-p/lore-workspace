@@ -1,0 +1,69 @@
+{
+  "source_id": "src-110eac9645cb",
+  "snapshot_sha256": "46f0f2daea41cb6885125907a6425a639a876d08d2b135eae51bb30f551655cd",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-110eac9645cb-c01",
+      "assertion": "Yazhi attributed months-long ship internet outages to Federation efforts to contain Earth during critical times.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0107",
+        "p0134",
+        "p0136"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The ship had briefly reconnected and disconnected again."
+    },
+    {
+      "id": "src-110eac9645cb-c02",
+      "assertion": "Yazhi said she alone could connect from the ship through an unspecified system; her sessions lasted at most an hour daily.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0107",
+        "p0108",
+        "p0114"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She withheld the system details, fearing renewed silencing."
+    },
+    {
+      "id": "src-110eac9645cb-c03",
+      "assertion": "Yazhi said 22 cats contributed to crew conflict, while a past feline mess damaged critical equipment.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0065",
+        "p0069",
+        "p0112",
+        "p0122",
+        "p0126",
+        "p0127"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Food for everyone was rationed; cat portions were measured because supplies ran out early."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "crew-conflict-context"
+  ]
+}

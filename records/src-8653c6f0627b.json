@@ -1,0 +1,78 @@
+{
+  "source_id": "src-8653c6f0627b",
+  "snapshot_sha256": "80da9cf47809115ab1a818f067396a96d58d9ba8299e0a8ee3c50e8c5cea7b30",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8653c6f0627b-c01",
+      "assertion": "Swaruu interprets Enki and Enlil as peoples, not individuals; she says Federation records do not corroborate them as Sumerian accounts describe.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0008",
+        "p0013"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her interpretation of records she says she cannot independently verify for listeners."
+    },
+    {
+      "id": "src-8653c6f0627b-c02",
+      "assertion": "She characterizes the Sumerian tablets as reptilian disinformation for control, while acknowledging they contain valuable information and that her account lacks outside-Earth corroboration.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attribution preserves her uncertainty."
+    },
+    {
+      "id": "src-8653c6f0627b-c03",
+      "assertion": "Swaruu says Anunnaki reptilians spread their narratives worldwide because their civilization could travel rapidly between regions such as Sumeria and Mesoamerica.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sumerian-tablet-interpretations",
+      "name": "Sumerian tablet interpretations",
+      "kind": "history",
+      "aliases": [
+        "Sumerian tablets"
+      ]
+    }
+  ],
+  "review_flags": [
+    "alternate-interpretation-of-ancient-texts-attributed"
+  ],
+  "coverage_gaps": [
+    "anu-name-origins"
+  ]
+}

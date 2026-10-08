@@ -1,0 +1,152 @@
+{
+  "method": "Full body comparison, excluding only first article-title passage, normalizing whitespace; source metadata and original snapshot hashes stay distinct.",
+  "policy": "Same text variants are retained as records; this report does not alter job assignments or extraction counts.",
+  "confirmed_body_matches": [
+    {
+      "source_ids": [
+        "src-8636b4bb3446",
+        "src-98f45fed7656"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "Mujer Extraterrestre Explica como funciona “la Política” Fuera de la Tierra -Sociedad Holística",
+        "Sociedad \"Holográfica\" - Holística - Sociedades Transicionales son Posibles - Yazhi Swaruu"
+      ],
+      "body_equivalence_group": "body-337a910581a1"
+    },
+    {
+      "source_ids": [
+        "src-7d45f5f944a1",
+        "src-85df30bab80f"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "SOCIEDAD HOLÍSTICA - PRIMERA PARTE - SOPHIA SWARUU - YAZHI",
+        "Sociedad \"Holográfica\" - Holística - Preparación Espiritual y Ética es la Clave - Yazhi Swaruu"
+      ],
+      "body_equivalence_group": "body-5934a2ea4b66"
+    },
+    {
+      "source_ids": [
+        "src-11de0477daf4",
+        "src-4942a07c7e4f"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "CONVERSIÓN DE CONCIENCIA-INTENCIÓN A MATERIA DURA - Swaruu de Erra – REACTOR DE ENERGIA PUNTO CERO",
+        "Energia Libre (Punto Zero): Mecanica de Manifestacion 1 - Mensaje Extraterrestre- Swaruu de Erra"
+      ],
+      "body_equivalence_group": "body-dbd7e0c377d5"
+    },
+    {
+      "source_ids": [
+        "src-22d5f1e26b59",
+        "src-9440df7f5243"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "Exopolitics and Ufology Circles and CIA - Infiltrations - Yazhi and Athena Swaruu",
+        "UFO and Exopolitics Groups and CIA - Infiltrations - Athena and Yazhi Swaruu"
+      ],
+      "body_equivalence_group": "body-305adbe0af63"
+    },
+    {
+      "source_ids": [
+        "src-2550a101a222",
+        "src-b48ede308895"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "Pods Medicos Extraterrestres - Taygeta (Pleyades) - Yazhi Swaruu",
+        "CAMAS MEDICAS REGENERATIVAS – PODS MÉDICOS - TECNOLOGIA MEDICA"
+      ],
+      "body_equivalence_group": "body-4042edc0cdc0"
+    },
+    {
+      "source_ids": [
+        "src-06cd5c8d1a9d",
+        "src-3e51d50bca48"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "Como se Fragmentan las Almas - Conocimiento Estelar - Yazhi Swaruu",
+        "CREACIÓN DE UN ALMA NUEVA FRAGMENTACIÓN ADMATICA Y MAS ALLÁ"
+      ],
+      "body_equivalence_group": "body-9ce2563c27f8"
+    },
+    {
+      "source_ids": [
+        "src-c4eea8caf581",
+        "src-eba1fa9a8f38"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "EXTRATERRESTRE ME CUENTA UN INCREÍBLE RELATO SOBRE EL LUGAR MAS ATERRADOR - Yazhi Swaruu",
+        "Mundo al Revés y el Futuro influenciando el Pasado - Charlas metafísicas con Yazhi Swaruu"
+      ],
+      "body_equivalence_group": "body-8bcdce1f0ad5"
+    },
+    {
+      "source_ids": [
+        "src-429d15872426",
+        "src-6f4abd2348fc"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "Charla Metafísica sobre la Expansión del Alma - con Yazhi Swaruu",
+        "¿CÓMO SE FRAGMENTAN LAS ALMAS EN LA ENTREVIDA?"
+      ],
+      "body_equivalence_group": "body-9655cb60d700"
+    },
+    {
+      "source_ids": [
+        "src-8e490481292c",
+        "src-ab81c3f220ab"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "CONTACTO EXTRATERRESTRE PLEYADIANO DE TAYGETA CON EL PRESIDENTE IKE EISENHOWER - RASHELL DE TEMMER",
+        "Nosotras, Pleyadianas, Hablamos con Eisenhower: Primer Relato en la Historia"
+      ],
+      "body_equivalence_group": "body-54d9acefc208"
+    },
+    {
+      "source_ids": [
+        "src-22af298b0f43",
+        "src-e30d1897bec1"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "Pods Medicos y Camas Medicas - Yazhi habla con Dale Harder sobre su diseño",
+        "CONVERSACIÓN CON DALE HARDER SOBRE SU CAMA MEDICA - Yazhi Swaruu"
+      ],
+      "body_equivalence_group": "body-90a959779047"
+    },
+    {
+      "source_ids": [
+        "src-3c6d31174c4d",
+        "src-6b8c0befd4ce"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "NAVE EXTRATERRESTRE TAYGETEANA PLEYADIANA EN ORBITA DE LA TIERRA - YAZHI - ALCYONE",
+        "Taygeteanos en las Redes Sociales - Llegada de Nave Alcyone - Yazhi Swaruu"
+      ],
+      "body_equivalence_group": "body-1a5a05778eb3"
+    },
+    {
+      "source_ids": [
+        "src-2c578d18d896",
+        "src-6be48f6d0431"
+      ],
+      "comparison": "Complete body after article title is byte-identical after whitespace normalization; punctuation and wording retained.",
+      "distinct_title_metadata": [
+        "Divulgación Taygeteana y Viejos Trucos de Desacreditación de lo que va Contra de la Matrix",
+        "Informacion importante para los seguidores de la divulgacion Taygeteana - La Matrix se tambalea"
+      ],
+      "body_equivalence_group": "body-5ea9fc4f255d"
+    }
+  ],
+  "body_equivalence_groups": 12,
+  "grouped_source_records": 24
+}

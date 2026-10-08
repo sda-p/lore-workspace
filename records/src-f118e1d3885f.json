@@ -1,0 +1,101 @@
+{
+  "source_id": "src-f118e1d3885f",
+  "snapshot_sha256": "517a9ba202e1aafb4c4f28982dbcaaffe69c4bcfe10cac768781f5c87fc90405",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f118e1d3885f-c01",
+      "assertion": "Mari says Etorthan and Orion Council Gray presence rose; Urmah warn normalization may signal a passive regional takeover.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "orion-council",
+      "topics": [
+        "orion-council",
+        "etorthans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f118e1d3885f-c02",
+      "assertion": "Zeta Grays are non-Orion planetary-biology guardians; other similar Grays may be cultureless biological drones serving reptilian groups.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f118e1d3885f-c03",
+      "assertion": "Mari says human-AI takeover theories require a still-unsolved interface between incompatible computer systems.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f118e1d3885f-c04",
+      "assertion": "Mari says biological Taygetans retain decisions; their AI is cooperative and less controlling than Earth AI.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f118e1d3885f-c05",
+      "assertion": "Saska completed Toleka repairs and is outfitting Asterope and Vigilant Eagle with human communications systems.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "factional-threat-interpretation-attributed-to-urmah"
+  ],
+  "coverage_gaps": [
+    "Kassia-guard-role",
+    "Mari-content-production"
+  ]
+}

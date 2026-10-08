@@ -18,13 +18,84 @@ Source: [The Moon, part 4, how it influences Earth’s Matrix, shady things and 
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Galactic Federation](galactic-federation.md).
 
+### src-41d2f89260a5-c01
+
+Anéeka describes Viera as an agile arrow-shaped biosphere ship.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 10 - Aboard Viera - Inside a Galactic Federation Starship](https://swaruu.org/transcripts/interstellar-life-10-aboard-viera-inside-a-galactic-federation-starship) (2025-06-06; en); passages p0003. [Structured record](../../records/src-41d2f89260a5.json).
+
+### src-41d2f89260a5-c02
+
+Anéeka says Viera has plasma and gravity engines, hyperspace, and Zero Point reactors. Reactor count unspecified.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 10 - Aboard Viera - Inside a Galactic Federation Starship](https://swaruu.org/transcripts/interstellar-life-10-aboard-viera-inside-a-galactic-federation-starship) (2025-06-06; en); passages p0008. [Structured record](../../records/src-41d2f89260a5.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-41d2f89260a5-c03
+
+Anéeka says programmable nanometal forms Viera’s hull.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 10 - Aboard Viera - Inside a Galactic Federation Starship](https://swaruu.org/transcripts/interstellar-life-10-aboard-viera-inside-a-galactic-federation-starship) (2025-06-06; en); passages p0010. [Structured record](../../records/src-41d2f89260a5.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-41d2f89260a5-c05
+
+Anéeka describes Viera’s upper biosphere as terrestrial, lower as marine. She had not visited the marine level.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 10 - Aboard Viera - Inside a Galactic Federation Starship](https://swaruu.org/transcripts/interstellar-life-10-aboard-viera-inside-a-galactic-federation-starship) (2025-06-06; en); passages p0031, p0062. [Structured record](../../records/src-41d2f89260a5.json).
+
+### src-41d2f89260a5-c07
+
+Anéeka says Viera’s marine ecosystem supports land life and supplies seaweed. She had not visited the marine level.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 10 - Aboard Viera - Inside a Galactic Federation Starship](https://swaruu.org/transcripts/interstellar-life-10-aboard-viera-inside-a-galactic-federation-starship) (2025-06-06; en); passages p0062, p0068. [Structured record](../../records/src-41d2f89260a5.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-fc193e0d15bd-c01
+
+Mari Swa says local Federation conferences were held twice monthly aboard Viera.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Gori'el Report. Why the Earth must be kept as it is according to the Galactic Federation (English)](https://swaruu.org/transcripts/gori-el-report-why-the-earth-must-be-kept-as-it-is-according-to-the-galactic-federation-english) (2024-07-04; en); passages p0003, p0028. [Structured record](../../records/src-fc193e0d15bd.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0578a3b0bcf0-c02
+
+She says the Federation’s Earth Council invited her to work aboard Viera, but online contact workloads impede it.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Swaruu of Erra - Problems with Contacts (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-swaruu-of-erra-problems-with-contacts-part-1) (2025-09-03; en); passages p0025, p0029. [Structured record](../../records/src-0578a3b0bcf0.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-45558fcded2a-c01](galactic-federation.md#src-45558fcded2a-c01) — Galactic Federation
 - [src-45558fcded2a-c02](galactic-federation.md#src-45558fcded2a-c02) — Galactic Federation
+- [src-41d2f89260a5-c06](galactic-federation.md#src-41d2f89260a5-c06) — Galactic Federation
+- [src-fe82d1a07961-c02](galactic-federation.md#src-fe82d1a07961-c02) — Galactic Federation
 
 ## Review flags
 
+- Federation-arguments\_reported
+- broad-exopolitical-allegations
 - forecast-in-retrospect
 - lunar-reactor-age-origin-uncertainty
+- ship-specifications\_attributed
 - unverified-contact-claims

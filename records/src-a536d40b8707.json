@@ -1,0 +1,104 @@
+{
+  "source_id": "src-a536d40b8707",
+  "snapshot_sha256": "b7efb9984c1e09cea54e7aecbce2b49be9a472f67d9a5db8b8afe4fd66e65f19",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a536d40b8707-c01",
+      "assertion": "Mari says ships bearing Alfratan transponders repeatedly passed the close-orbit Taygetan fleet, triggering red alerts.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0010"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a536d40b8707-c02",
+      "assertion": "Dense, bidirectional traffic centered on central Australia; Federation restrictions barred Taygetan approaches, but its purpose was unknown.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alfrata"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a536d40b8707-c03",
+      "assertion": "She alleges Earth Cabal installations beneath and above central Australia, suspecting meetings with Federation representatives.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a536d40b8707-c04",
+      "assertion": "Mari suspects wildlife fences also constrain people, while admitting she lacks proof and does not know their legal status.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a536d40b8707-c05",
+      "assertion": "She describes Alfratans as a multi-Lyrian political structure, not one species, while allowing individual variation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Australian-traffic-purpose-unknown",
+    "fence-control-theory-unconfirmed"
+  ],
+  "coverage_gaps": [
+    "sighting-reliability-warning"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "source_id": "src-29dec782e6b2",
+  "snapshot_sha256": "c72e6761856c2b73d2a2adb67a68b2afdb409cfde14c2e96db573925344eba53",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-29dec782e6b2-c01",
+      "assertion": "Swaruu distinguishes Matrix and Original Matrix records.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "akashic-records",
+      "topics": [
+        "akashic-records"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-29dec782e6b2-c02",
+      "assertion": "Taygetans access Matrix data by computer, not real people linked to Source.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0048"
+      ],
+      "primary_topic": "akashic-records",
+      "topics": [
+        "akashic-records"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-29dec782e6b2-c03",
+      "assertion": "She describes soulless Matrix persons as limited program routines without independent thought.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0052",
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-29dec782e6b2-c04",
+      "assertion": "She says real people may lose Source contact through Matrix priorities.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0055"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-29dec782e6b2-c05",
+      "assertion": "She distinguishes Adamic humans, humanlike starseeds, and reptilian beings.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0052"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-29dec782e6b2-c06",
+      "assertion": "She says Taygeta has no government-imposed birth-control rules; individuals use it for personal reasons.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-29dec782e6b2-c07",
+      "assertion": "She defines free will as rewriting the Matrix through knowledge and responsibility.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0123",
+        "p0124"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "akashic-records",
+      "name": "Akashic records",
+      "kind": "cosmology",
+      "aliases": [
+        "Registros Akáshicos"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Taygetan-history",
+    "species-physiology",
+    "other-contact-topics"
+  ]
+}

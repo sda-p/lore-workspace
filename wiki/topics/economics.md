@@ -446,6 +446,98 @@ Source: [Maui Fires, Complete Report. Space News Number 01 (English)](https://sw
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-1ab8fffe5f20-c02
+
+Mari Swa says Taygetans lack the surface-operation funding allowance given to Alfratans.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Step Down Anecdotes 02. Bank-Office, Supplies, Difficult Return Home (English)](https://swaruu.org/transcripts/step-down-anecdotes-02-bank-office-supplies-difficult-return-home-english) (2024-09-09; en); passages p0006. [Structured record](../../records/src-1ab8fffe5f20.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-b18ffa3a44a6-c06
+
+Mari Swaruu says the crew relied on Earth donations for food and other supplies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Space News 22. May 4th 2024, Alcyone Arriving, Black Knight Pilots, My Youtube. (English)](https://swaruu.org/transcripts/space-news-22-may-4th-2024-alcyone-arriving-black-knight-pilots-my-youtube-english) (2024-05-04; en); passages p0015, p0016. [Structured record](../../records/src-b18ffa3a44a6.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-cae1127d2078-c05
+
+Mari Swa says Taygeta and the Maya agreed to exchange surplus citrus for grains and cotton.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Space News, 26, June 6, 2024, Alenym, Political context, Mari Swa now Acting Queen (English)](https://swaruu.org/transcripts/space-news-26-june-6-2024-alenym-political-context-mari-swa-now-acting-queen-english) (2024-06-06; en); passages p0014, p0015, p0016. [Structured record](../../records/src-cae1127d2078.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-f9789939fb7e-c03
+
+Mari says aquaponics extends ship autonomy, but non-vegan crews remain dependent on Earth food.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 47, My Health, Sick Taygetans, Queen Subjects in Temmer (English)](https://swaruu.org/transcripts/space-news-47-my-health-sick-taygetans-queen-subjects-in-temmer-english) (2024-10-19; en); passages p0016. [Structured record](../../records/src-f9789939fb7e.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-a11243a06a8a-c05
+
+Alcyone and Vigilant Eagle rely on Taygetan supplies; Toleka’s crew depends on Earth provisioning.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Space News 18. April 6 2024, Eclipse, Starships, Meetings, Yazhi, and other news (English)](https://swaruu.org/transcripts/space-news-18-april-6-2024-eclipse-starships-meetings-yazhi-and-other-news-english) (2024-04-06; en); passages p0027. [Structured record](../../records/src-a11243a06a8a.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-de7987eb8690-c01
+
+Mari says Toleka’s crew relies on Earth food and goods, unlike other Taygetans supplied from Temmer and Erra.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [A Taygetan Supply Mission to Earth (English)](https://swaruu.org/transcripts/a-taygetan-supply-mission-to-earth-english) (2024-05-30; en); passages p0004, p0007. [Structured record](../../records/src-de7987eb8690.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-3980f5f58d0b-c01
+
+Gosia says she kept her English channel unmonetized for five years before enabling ads in late 2022.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Gosia and Robert - Money & Fame, And True Intentions](https://swaruu.org/transcripts/gosia-and-robert-money-fame-and-true-intentions) (2025-07-29; en); passages p0010. [Structured record](../../records/src-3980f5f58d0b.json).
+
+### src-3980f5f58d0b-c02
+
+Gosia says she sent half her channel revenue to Athena and Yazhi monthly for two years, without conditions.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Gosia and Robert - Money & Fame, And True Intentions](https://swaruu.org/transcripts/gosia-and-robert-money-fame-and-true-intentions) (2025-07-29; en); passages p0011. [Structured record](../../records/src-3980f5f58d0b.json).
+
+### src-3980f5f58d0b-c03
+
+Gosia says transcripts and videos remained free, with no paid courses or merchandise.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Gosia and Robert - Money & Fame, And True Intentions](https://swaruu.org/transcripts/gosia-and-robert-money-fame-and-true-intentions) (2025-07-29; en); passages p0036, p0038, p0042. [Structured record](../../records/src-3980f5f58d0b.json).
+
+### src-3980f5f58d0b-c04
+
+Gosia says Space Academy used non-monetized English, Spanish, and French channels to share information.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Gosia and Robert - Money & Fame, And True Intentions](https://swaruu.org/transcripts/gosia-and-robert-money-fame-and-true-intentions) (2025-07-29; en); passages p0040, p0041. [Structured record](../../records/src-3980f5f58d0b.json).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -476,9 +568,25 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-cff930fb7cbd-c04](holistic-society.md#src-cff930fb7cbd-c04) — Holistic society
 - [src-f16ea4c6f1ae-c01](starship-systems.md#src-f16ea4c6f1ae-c01) — Starship systems
 - [src-28ddf6479cea-c05](maternal-med-pods.md#src-28ddf6479cea-c05) — Maternal medical pods
+- [src-41d2f89260a5-c07](viera.md#src-41d2f89260a5-c07) — Viera
+- [src-b0a69aaecc08-c04](galactic-federation.md#src-b0a69aaecc08-c04) — Galactic Federation
+- [src-cae1127d2078-c06](holistic-society.md#src-cae1127d2078-c06) — Holistic society
+- [src-ee2bcb823310-c01](alcyone-council.md#src-ee2bcb823310-c01) — Alcyone Council
+- [src-682e0b02c3c5-c03](terrestrial-science.md#src-682e0b02c3c5-c03) — Terrestrial science
+- [src-96581cc2ca29-c04](starship-systems.md#src-96581cc2ca29-c04) — Starship systems
+- [src-0578a3b0bcf0-c01](taygetans.md#src-0578a3b0bcf0-c01) — Taygetans
+- [src-fd371d9f8fcd-c05](toleka-class.md#src-fd371d9f8fcd-c05) — Toleka-class starships
+- [src-857383d23bc1-c02](alien-species.md#src-857383d23bc1-c02) — Alien species and distinctions
+- [src-680909ec608a-c04](starship-systems.md#src-680909ec608a-c04) — Starship systems
+- [src-f9789939fb7e-c02](taygetans.md#src-f9789939fb7e-c02) — Taygetans
+- [src-f9789939fb7e-c04](starship-systems.md#src-f9789939fb7e-c04) — Starship systems
+- [src-3980f5f58d0b-c05](taygetans.md#src-3980f5f58d0b-c05) — Taygetans
 
 ## Review flags
 
+- Federation-infiltration\_theory
+- Federation-sanctions\_reported
+- attack-theory\_speculative
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
 - conspiracy-claims
@@ -495,6 +603,9 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - extraordinary\_economic\_claims
 - extraordinary\_exopolitical\_claims
 - faction\_tension
+- field-procedure-account-attributed-to-mari
+- first-person claims reflect Gosia’s account in a dispute
+- fleet-status\_as-reported
 - forecast\_predictions\_not\_confirmed
 - geopolitical-allegation
 - health-claims-unverified
@@ -508,6 +619,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - metaphysical-claims
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
+- nonhuman-technology\_claims\_attributed
 - personal\_metaphysics
 - personal\_social\_theory
 - policy-claims-unverified
@@ -515,6 +627,8 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - political\_claims
 - political\_structure\_claims
 - prior\_statement\_conflict
+- secondhand-fleet-reports
+- ship-specifications\_attributed
 - speaker-attribution-swaruu-x-athena
 - symbolic-conspiracy-claims
 - technology\_claims
@@ -522,6 +636,8 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - transport\_safety\_and\_policy\_claims\_unverified
+- unverified-eclipse-portal-theory
+- unverified-encounter
 - unverified\_conspiracy\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims

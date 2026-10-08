@@ -1,0 +1,253 @@
+{
+  "batch_id": "continuous-010",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-70bae46a6291",
+    "src-b9ad02cc39ec",
+    "src-41d2f89260a5",
+    "src-b13379b319a5",
+    "src-fa5f0d3e6d92",
+    "src-ff2138119484",
+    "src-347d74ef65e6",
+    "src-41aeba88905d",
+    "src-42e3d8553c1f",
+    "src-d75dca329107",
+    "src-3aa29ffdb9c1",
+    "src-0578a3b0bcf0",
+    "src-36012d587a34",
+    "src-a0d86f489b86",
+    "src-f4849bf7aa2d",
+    "src-a51af977308e",
+    "src-fd371d9f8fcd",
+    "src-cea409311112",
+    "src-857383d23bc1",
+    "src-1098d5d992f8",
+    "src-1ab8fffe5f20",
+    "src-0afd8a265a42",
+    "src-36e353120a01",
+    "src-a1e8f5a09186",
+    "src-dbed5ac98466",
+    "src-cf0ae0f8a31e",
+    "src-55f8a18447af",
+    "src-ba29b281f533",
+    "src-ff4973c6a444",
+    "src-6e20d75c06ef",
+    "src-3f83b10b1792",
+    "src-8a111863ff79",
+    "src-bfaf065e0281",
+    "src-fc193e0d15bd",
+    "src-620ccccce34a",
+    "src-4bcc1973bc1e",
+    "src-437981222071",
+    "src-1d9c7182389e",
+    "src-0689f51f7290",
+    "src-b0a69aaecc08",
+    "src-fe82d1a07961",
+    "src-1aa59d2c774b",
+    "src-c0ea4ddd8632",
+    "src-61184d950658",
+    "src-cebafb0193ca",
+    "src-7288ab90f589",
+    "src-b18ffa3a44a6",
+    "src-680909ec608a",
+    "src-83397d1d698c",
+    "src-8a20bf02262a",
+    "src-15a5d7380aeb",
+    "src-f6e898a0d9d7",
+    "src-1f8d569d9e4f",
+    "src-91851d621bc3",
+    "src-cae1127d2078",
+    "src-f8cf4e785330",
+    "src-802b0f3f9360",
+    "src-f9789939fb7e",
+    "src-6b5449860d14",
+    "src-682e0b02c3c5",
+    "src-d3aa4459ae38",
+    "src-5ffe56780faa",
+    "src-38b07e39e45a",
+    "src-03ea45d7d724",
+    "src-9afde86ad754",
+    "src-46bd13901f5f",
+    "src-c533f1f1e9a7",
+    "src-722b52946af6",
+    "src-25cd15eb88db",
+    "src-9947bada3803",
+    "src-5eead64421cb",
+    "src-293f7dd241ff",
+    "src-f118e1d3885f",
+    "src-f4085f32044d",
+    "src-4346d888f1bc",
+    "src-bb2e4f6bf652",
+    "src-e0b94245b234",
+    "src-6eecf487bb1a",
+    "src-234bba72765f",
+    "src-5f58a24652ac"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-70bae46a6291",
+      "claim_id": "src-70bae46a6291-c04",
+      "problem": "“Bimonthly” is ambiguous and may mean twice a month; the source explicitly says every two months.",
+      "action": "Replaced the ambiguous frequency with the source’s explicit interval.",
+      "paragraph_ids": [
+        "p0231",
+        "p0235"
+      ]
+    },
+    {
+      "source_id": "src-ff2138119484",
+      "claim_id": "src-ff2138119484-c01",
+      "problem": "The paraphrase narrowed the source comparison to “earlier models,” while the cited passage compares the engines with any other Suzy class.",
+      "action": "Changed the comparison to match the source’s full stated scope.",
+      "paragraph_ids": [
+        "p0016"
+      ]
+    },
+    {
+      "source_id": "src-41aeba88905d",
+      "claim_id": "src-41aeba88905d-c05",
+      "problem": "The claim made a definitive 3,000-ton cutoff, but the source says the limit is “something in the vicinity” of 3,000 metric tons.",
+      "action": "Restored the source’s approximate threshold.",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ]
+    },
+    {
+      "source_id": "src-42e3d8553c1f",
+      "claim_id": "src-42e3d8553c1f-c02",
+      "problem": "Vega-origin details appear in Gosia’s narration (p0007); the Mari Swa quotation in p0008 only supports the existence of broader interstellar humanity.",
+      "action": "Corrected the speaker attribution to Gosia and narrowed the assertion to her statement.",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ]
+    },
+    {
+      "source_id": "src-f4849bf7aa2d",
+      "claim_id": "src-f4849bf7aa2d-c03",
+      "problem": "The cited paragraphs omitted the actual AI-flying answer; p0022 only introduces two answers.",
+      "action": "Added p0023, which explicitly says anyone can fly the ship using its AI.",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-f4849bf7aa2d",
+      "claim_id": "src-f4849bf7aa2d-c07",
+      "problem": "The claim paraphrased an answer about AI intervention but cited only the answer, omitting the specific collision-course question that sets its scope.",
+      "action": "Restored the trigger condition from the question and cited both question and answer.",
+      "paragraph_ids": [
+        "p0067",
+        "p0068"
+      ]
+    },
+    {
+      "source_id": "src-36012d587a34",
+      "claim_id": "src-36012d587a34-c05",
+      "problem": "“Sand Clock is an elite 12-fighter squadron” collapsed the source’s plural Sand Clock squadrons and separate statement that each squadron has 12 fighters.",
+      "action": "Rephrased to preserve group/squadron scope and the separate fighter count.",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0062",
+        "p0064"
+      ]
+    },
+    {
+      "source_id": "src-3aa29ffdb9c1",
+      "claim_id": "src-3aa29ffdb9c1-c05",
+      "problem": "The claim attributed both memory and psychic-ability statements to Mari and generalized the latter as residing in an etheric field, but the psychic-ability quote is attributed to Swaruu of Erra and says only that it is nonphysical/not in brain or gene.",
+      "action": "Narrowed the claim to Mari’s directly attributed memory statement and corrected speaker/citation.",
+      "paragraph_ids": [
+        "p0042",
+        "p0043"
+      ]
+    },
+    {
+      "source_id": "src-857383d23bc1",
+      "claim_id": "src-857383d23bc1-c04",
+      "problem": "The “synchronizes” component was paraphrased from the system setup but its explicit setup passage was not cited.",
+      "action": "Added the paragraph stating that the Muon system was synchronized with Temmer before remote presence.",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-55f8a18447af",
+      "claim_id": "src-55f8a18447af-c05",
+      "problem": "The claim names Toleka, but the source names Alcyone and Asterope.",
+      "action": "Corrected the ship names to match the cited passage.",
+      "paragraph_ids": [
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-ff4973c6a444",
+      "claim_id": "src-ff4973c6a444-c06",
+      "problem": "“Failed against” suggests the systems were activated and ineffective; the source says they had no chance to start before the cyclone developed.",
+      "action": "Restored the source’s sequence and scope.",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-cf0ae0f8a31e",
+      "claim_id": "src-cf0ae0f8a31e-c02",
+      "problem": "“Excluded from the council” suggests intentional exclusion; the source only says the civilizations did not participate and did not know of the meeting.",
+      "action": "Removed the unsupported implication and retained the source’s wording.",
+      "paragraph_ids": [
+        "p0021"
+      ]
+    },
+    {
+      "source_id": "src-620ccccce34a",
+      "claim_id": "src-620ccccce34a-c03",
+      "problem": "“Threatened reduced cooperation” contradicted Ruhr’s explicit caveat that his statement was not a threat but a consequence already in progress.",
+      "action": "Rephrased the claim to preserve the source’s non-threat caveat and progressive withdrawal framing.",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ]
+    },
+    {
+      "source_id": "src-61184d950658",
+      "claim_id": "src-61184d950658-c06",
+      "problem": "Unsupported species-specific attribution; source generalizes to some Lyrian races and most consumers.",
+      "action": "Broadened the claim to most Lyrian races and retained Anéeka’s warning about Earth synthetic meat.",
+      "paragraph_ids": [
+        "p0076"
+      ]
+    },
+    {
+      "source_id": "src-d3aa4459ae38",
+      "claim_id": "src-d3aa4459ae38-c05",
+      "problem": "Cited passages omitted the substantive answer; the claim included the wrong phrasing and conflated hologram details with the phase explanation.",
+      "action": "Added the exact answer passage and narrowed the statement to sunlight reflection plus superimposed details.",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ]
+    },
+    {
+      "source_id": "src-9afde86ad754",
+      "claim_id": "src-9afde86ad754-c05",
+      "problem": "“Battle-damaged” overstated the passage, which reports evidence of a major fight in the ship’s interior; investigation is described as delayed by Federation reluctance and excuses.",
+      "action": "Replaced “battle-damaged” with the supported interior evidence and specified the ongoing delays.",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ]
+    }
+  ],
+  "unresolved": []
+}

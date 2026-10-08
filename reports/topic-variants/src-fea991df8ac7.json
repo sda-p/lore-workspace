@@ -1,0 +1,20 @@
+[
+  {
+    "proposed": {
+      "id": "ancient-egypt",
+      "name": "Ancient Egypt",
+      "kind": "history",
+      "aliases": [
+        "Egyptian civilization"
+      ]
+    },
+    "canonical": {
+      "id": "ancient-egypt",
+      "name": "Ancient Egypt",
+      "kind": "historical civilization",
+      "aliases": [
+        "Egypt"
+      ]
+    }
+  }
+]

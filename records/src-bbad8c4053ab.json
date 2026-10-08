@@ -1,0 +1,71 @@
+{
+  "source_id": "src-bbad8c4053ab",
+  "snapshot_sha256": "64261ffbc427a5dae791fbe4549632253e90760af42c2e287cf12f587ab3aba5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bbad8c4053ab-c01",
+      "assertion": "Swaruu says Taygeta’s Sand Clock time-travel squad admits only highly ethical members, follows the Prime Directive, and undertakes important missions despite temporal risks.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "sand-clock",
+      "topics": [
+        "sand-clock",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bbad8c4053ab-c02",
+      "assertion": "She says hyperspace is a controlled frequency change, not propulsion; entering origin data enables return, while repeated jumps can reduce its precision and strand crews.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0018",
+        "p0043",
+        "p0044",
+        "p0046"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "frequency-map-navigation",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bbad8c4053ab-c03",
+      "assertion": "She says Taygetan ships create their own wormholes, while negative species depend on space corridors, portals, and jumps rather than traveling independently.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "unknown-space-mapping",
+    "collective-consciousness"
+  ]
+}

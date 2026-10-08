@@ -1,0 +1,102 @@
+{
+  "source_id": "src-ac71d59738c3",
+  "snapshot_sha256": "e7a426af5a0b5632b538a1acfb6b86b2e252dfa1759b15452eabd851d6b3b00f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ac71d59738c3-c01",
+      "assertion": "Yazhi calls her influence an invasion because she has never been human; Gosia disputes this.",
+      "speaker": "Yazhi; Gosia",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0015",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "They frame interference differently."
+    },
+    {
+      "id": "src-ac71d59738c3-c02",
+      "assertion": "Gosia distinguishes offering ideas from coercion; Yazhi accepts information sharing as morally necessary.",
+      "speaker": "Gosia; Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac71d59738c3-c03",
+      "assertion": "Yazhi speculates Taygetan ships in orbit may deter threats, though their crew feel constrained.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac71d59738c3-c04",
+      "assertion": "Yazhi says broadcasts shift minds indirectly, creating chains of influence against the Cabal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0069",
+        "p0090",
+        "p0091"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac71d59738c3-c05",
+      "assertion": "Yazhi says followers were hurt or killed in earlier campaigns and fears recruiting others into combat.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0066",
+        "p0072",
+        "p0073"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She cites several past dates."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The discussion presents competing views on whether nonhuman influence counts as invasion."
+  ],
+  "coverage_gaps": [
+    "platform reach",
+    "crew withdrawal conditions",
+    "mission motivations"
+  ]
+}

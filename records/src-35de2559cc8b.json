@@ -1,0 +1,82 @@
+{
+  "source_id": "src-35de2559cc8b",
+  "snapshot_sha256": "3f0a90770a87bd6e83aab9fd4d0bc585b0f4b22cfb3a0225ed956ffbbe8b1101",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-35de2559cc8b-c01",
+      "assertion": "Swaruu (9) says Suzy-class craft can enter hyperspace while stationary and remain undetectable and invulnerable there, enabling surveillance, extraction, passage through walls, or attacks.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35de2559cc8b-c02",
+      "assertion": "She says immersion toroids reduce mass-drag during plasma acceleration, allowing speeds near one-third light speed; interstellar travel uses hyperspace jumps.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35de2559cc8b-c03",
+      "assertion": "She describes mapping space through frequency readings at sampled points and inferring adjacent unmapped regions mathematically; Dhor says time layers and changing frequencies add complexity.",
+      "speaker": "Swaruu (9); Dhor Káal’el (qualification)",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0023",
+        "p0024",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "suzy-class-starships",
+      "name": "Suzy-class starships",
+      "kind": "technology",
+      "aliases": [
+        "Suzy class",
+        "Suzy-class"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "flight-mode-sequence",
+    "frequency-harmonics-metaphysics"
+  ]
+}

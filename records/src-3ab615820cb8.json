@@ -1,0 +1,84 @@
+{
+  "source_id": "src-3ab615820cb8",
+  "snapshot_sha256": "0212724d10cc1c6fcff6e811f3fb601270ccec00b5a8e38660a14de5faa8235f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3ab615820cb8-c01",
+      "assertion": "Gosia’s lesson describes the Federation as a physical, multiracial organization founded by Andromedans, Arcturians, and Lyrians after the Great Expansion from Lyra.",
+      "speaker": "Gosia (lesson; presenting Mari Swa’s account)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says it coordinates alliances and rules."
+    },
+    {
+      "id": "src-3ab615820cb8-c02",
+      "assertion": "Gosia says Federation authority over Earth is layered, with local politics at Viera behind the Moon and higher system decisions extending to Saturn.",
+      "speaker": "Gosia (lesson)",
+      "paragraph_ids": [
+        "p0017",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "viera",
+        "saturn-bases"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says lower levels often lack knowledge of higher-level activity."
+    },
+    {
+      "id": "src-3ab615820cb8-c03",
+      "assertion": "Gosia says the Federation views Earth incarnates as avatars for offworld souls seeking intense, constrained experiences, and supervises that setting.",
+      "speaker": "Gosia (lesson, describing Federation claims)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the account includes soul choice and manipulated conditions."
+    },
+    {
+      "id": "src-3ab615820cb8-c04",
+      "assertion": "Gosia portrays the Federation as non-monolithic: many local members are benevolent, while hidden upper levels lack transparency and may hold conflicting interests.",
+      "speaker": "Gosia (lesson)",
+      "paragraph_ids": [
+        "p0025",
+        "p0035",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the organization resists a simple good-or-bad judgment."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "earth-governance-details"
+  ]
+}

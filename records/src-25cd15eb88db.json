@@ -1,0 +1,97 @@
+{
+  "source_id": "src-25cd15eb88db",
+  "snapshot_sha256": "334bb501fef35f9d432075ed513555b167acd7311de6927bd5376031439a8646",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-25cd15eb88db-c01",
+      "assertion": "Gosia argues time is self-awareness sequencing thoughts, not an external flow.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25cd15eb88db-c02",
+      "assertion": "Each conscious identity experiences a linear sequence even when others perceive its chronology as scrambled.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25cd15eb88db-c03",
+      "assertion": "She says reincarnation into dates viewed as past or future remains sequential for the soul; dates are collective conventions.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25cd15eb88db-c04",
+      "assertion": "Gosia says Taygetans navigate by frequency maps of etheric awareness-stamps, not calendars; travelers carry subjective time.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25cd15eb88db-c05",
+      "assertion": "She allows oversouls may perceive moments simultaneously while constituent identities retain personal chronology.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "author-personal-philosophical-analysis"
+  ],
+  "coverage_gaps": [
+    "time-travel-mechanics-detail"
+  ]
+}

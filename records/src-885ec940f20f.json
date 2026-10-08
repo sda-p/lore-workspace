@@ -1,0 +1,83 @@
+{
+  "source_id": "src-885ec940f20f",
+  "snapshot_sha256": "1f7396452213583397ec2e4dabc7098d187bc437386008d88cc996af49e47e7a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-885ec940f20f-c01",
+      "assertion": "Anéeka says fewer than 100 Earth people were in contact with Taygeta; pressure to halt contacts existed, while Swaruu remained in contact as a counselor.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0010",
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-885ec940f20f-c02",
+      "assertion": "She describes her specialties as intelligence and counterespionage, holographic computing interfaces, and strategic architecture of virtual worlds.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-885ec940f20f-c03",
+      "assertion": "She says humanity must receive credit for its liberation; outside species should avoid becoming idols or solving human problems, preventing dependence.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-885ec940f20f-c04",
+      "assertion": "She identifies Earth’s oppressing archon group as chiefly Usungal, Usungal Naga, Draco, Kingu, and Anunnaki.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "kingu",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "taygetan-language",
+    "contact-protocols"
+  ]
+}

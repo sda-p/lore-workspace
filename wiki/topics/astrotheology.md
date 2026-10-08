@@ -136,6 +136,22 @@ Source: [Buddha and Enlightenment - Can it be Reached? Yazhi Swaruu](https://swa
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-f14039337563-c05
+
+Athena links serpents with knowledge and DNA; Reptilian influence is possible but unconfirmed.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Ancient Egypt (5) - Egyptian Mysteries - Questions (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-5-egyptian-mysteries-questions-athena-swaruu) (2025-03-18; en); passages p0061, p0063, p0065. [Structured record](../../records/src-f14039337563.json).
+
+### src-f14039337563-c06
+
+Athena links ram sphinxes to Aries worship, not a species.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Ancient Egypt (5) - Egyptian Mysteries - Questions (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-5-egyptian-mysteries-questions-athena-swaruu) (2025-03-18; en); passages p0068, p0069, p0070, p0071. [Structured record](../../records/src-f14039337563.json).
+
 ## Claims filed under other topics
 
 - [src-8889af167782-c03](natural-portals.md#src-8889af167782-c03) — Natural and artificial portals
@@ -143,9 +159,13 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-8889af167782-c06](natural-portals.md#src-8889af167782-c06) — Natural and artificial portals
 - [src-0700efa54ddc-c05](earth-cabal.md#src-0700efa54ddc-c05) — Earth Cabal and power structures
 - [src-ae7f46d3466c-c04](urmah.md#src-ae7f46d3466c-c04) — Urmah
+- [src-64665fcf10bc-c02](consciousness-metaphysics.md#src-64665fcf10bc-c02) — Consciousness and metaphysics
+- [src-3c54f1ef569a-c03](atlantis-lemuria.md#src-3c54f1ef569a-c03) — Atlantis and Lemuria
+- [src-f042ab839938-c06](earth-cabal.md#src-f042ab839938-c06) — Earth Cabal and power structures
 
 ## Review flags
 
+- Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - astronomical-claims-unverified
 - conspiracy\_claims
 - definition\_varies
@@ -155,4 +175,5 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - ideological-commentary
 - metaphysical-model
 - related\_series\_part
+- speaker-perspective-model
 - symbolic\_interpretations

@@ -1,0 +1,115 @@
+{
+  "source_id": "src-67ae68e2b345",
+  "snapshot_sha256": "48b82fd72d5451c43761672f8288deea7a0a85a9684d6c48c6ffdb7f15194c2a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-67ae68e2b345-c01",
+      "assertion": "Swaruu uses densities for frequency bands, not mathematical dimensions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0015"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67ae68e2b345-c02",
+      "assertion": "She says 3D and 5D are natural; artificial suppression restricts perception.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67ae68e2b345-c03",
+      "assertion": "She describes 4D as an astral buffer populated by varied creatures.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67ae68e2b345-c04",
+      "assertion": "She says 4D Reptiles can perceive 3D, but not 5D Taygetans.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0031"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67ae68e2b345-c05",
+      "assertion": "She says electromagnetic interference suppresses perception imperfectly, allowing 4D leaks.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0039"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67ae68e2b345-c06",
+      "assertion": "She places matter’s transition to energy around 6D–7D; intent can manifest matter in any density.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0074",
+        "p0076",
+        "p0078",
+        "p0080"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "density-consciousness-model",
+    "higher-density-being-types",
+    "dream-states"
+  ]
+}

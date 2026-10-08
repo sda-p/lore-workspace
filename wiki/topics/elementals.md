@@ -45,3 +45,13 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 Source: [Are We Influenced by Other Densities? Elementals and Etheric Beings - Athena Swaruu](https://swaruu.org/transcripts/are-we-influenced-by-other-densities-elementals-and-etheric-beings-athena-swaruu) (2023-11-18; en); passages p0017, p0027, p0028, p0030. [Structured record](../../records/src-c747f32ab65f.json).
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b13379b319a5-c04
+
+Athena says gravity-imaging sensors can detect elementals as massive beings beyond ordinary human perception.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Higher Consciousness (PART 1)](https://swaruu.org/transcripts/athena-swaruu-spiritual-chat-with-dale-rich-2021-higher-consciousness-part-1) (2025-08-20; en); passages p0060, p0062, p0064, p0067. [Structured record](../../records/src-b13379b319a5.json).
+
+Related topics: [Starship systems](starship-systems.md).

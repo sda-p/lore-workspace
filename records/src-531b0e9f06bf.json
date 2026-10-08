@@ -1,0 +1,117 @@
+{
+  "source_id": "src-531b0e9f06bf",
+  "snapshot_sha256": "040d493b43ee174efebd879a217c00ceb8730a44978e0d69077c4d7bb8d3581c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-531b0e9f06bf-c01",
+      "assertion": "Mari says CIC sensors recorded eclipse power surges she attributes to artificial portals.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "sunspot-portals"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-531b0e9f06bf-c02",
+      "assertion": "Viera reported a Black Knight missing; Mari says an Arlington video match was only possible.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alfrata"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-531b0e9f06bf-c03",
+      "assertion": "Centauri claimed recovery in Mexico, which Mari doubted; pilots remained missing and Hashmallim joined search.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "astral-military-units"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-531b0e9f06bf-c04",
+      "assertion": "Mari says Federation nonintervention orders applied, though compartmentalized government factions might disobey.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-531b0e9f06bf-c05",
+      "assertion": "She suspects a campaign against Black Knights enforcing Earth’s blockade after three incidents.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-531b0e9f06bf-c06",
+      "assertion": "Asterope, a 2.5-km Alcyone II, might replace Saska and defend alongside Vigilant Eagle.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "black-knight-loss-details-provisional",
+    "eclipse-portal-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "Asterope arrival-contingency"
+  ]
+}

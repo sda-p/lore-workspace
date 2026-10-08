@@ -57,3 +57,23 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 Source: [Is there AI behind our Contact? Artificial Intelligence of the Spaceships](https://swaruu.org/transcripts/is-there-ai-behind-our-contact-artificial-intelligence-of-the-spaceships) (2022-05-14; en); passages p0076, p0080, p0082, p0083, p0084. [Structured record](../../records/src-c826a25c1a7d.json).
 
 Related topics: [Starship systems](starship-systems.md).
+
+### src-96581cc2ca29-c02
+
+Swaruu (9) says her, Dhor Káal’el’s, and Chiqui’s Suzy ships synchronize information and consciousness, but not with Toleka.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 5C - Swaruu and Yazhi and their Starship Suzy - Anecdotes](https://swaruu.org/transcripts/interstellar-life-5c-swaruu-and-yazhi-and-their-starship-suzy-anecdotes) (2024-04-05; en); passages p0067, p0068. [Structured record](../../records/src-96581cc2ca29.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-96581cc2ca29-c05
+
+Yazhi says Suzy was programmed to aid another timeline’s Swaruu and transfer its stored information.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 5C - Swaruu and Yazhi and their Starship Suzy - Anecdotes](https://swaruu.org/transcripts/interstellar-life-5c-swaruu-and-yazhi-and-their-starship-suzy-anecdotes) (2024-04-05; en); passages p0103, p0105, p0109. [Structured record](../../records/src-96581cc2ca29.json).
+
+Related topics: [Timeline branching](timeline-branching.md).

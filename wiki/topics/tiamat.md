@@ -230,6 +230,26 @@ Attributed to **Arishah**; reported; extraction confidence: high.
 
 Source: [The Urmah Interview, Arishah-Tiger, Part 2 (English)](https://swaruu.org/transcripts/the-urmah-interview-arishah-tiger-part-2-english) (2023-09-07; en); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-069cfa908078.json).
 
+### src-6ce55fb86338-c02
+
+Her account relays Federation data: oceanic Tiamat between Mars and Jupiter was destroyed in war 12,500 years ago.
+
+Attributed to **Mari Swa**; reported; extraction confidence: low.
+
+Source: [Did the last Global Deluge happen less than 200 years ago? (English)](https://swaruu.org/transcripts/did-the-last-global-deluge-happen-less-than-200-years-ago-english) (2024-10-31; en); passages p0012, p0014. [Structured record](../../records/src-6ce55fb86338.json).
+
+Related topics: [Orion Wars](orion-wars.md).
+
+### src-6ce55fb86338-c03
+
+She says Tiamat’s water fell on planets as rain; the asteroid belt is mostly icy debris, with solid planetary remnants.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: low.
+
+Source: [Did the last Global Deluge happen less than 200 years ago? (English)](https://swaruu.org/transcripts/did-the-last-global-deluge-happen-less-than-200-years-ago-english) (2024-10-31; en); passages p0015, p0016, p0026. [Structured record](../../records/src-6ce55fb86338.json).
+
+Related topics: [Black holes](black-holes.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c02](black-goo.md#src-d47faace954b-c02) — Black goo
@@ -239,6 +259,7 @@ Source: [The Urmah Interview, Arishah-Tiger, Part 2 (English)](https://swaruu.or
 - [src-c0c392776fd0-c01](moon-matrix.md#src-c0c392776fd0-c01) — Moon and terrestrial Matrix
 - [src-4667fff63537-c01](alien-species.md#src-4667fff63537-c01) — Alien species and distinctions
 - [src-691d121eef5a-c01](moon-matrix.md#src-691d121eef5a-c01) — Moon and terrestrial Matrix
+- [src-6ce55fb86338-c05](temporal-skipping.md#src-6ce55fb86338-c05) — Temporal skipping
 
 ## Review flags
 
@@ -252,6 +273,7 @@ Source: [The Urmah Interview, Arishah-Tiger, Part 2 (English)](https://swaruu.or
 - extraordinary\_metaphysical\_claims
 - historical-claims-unverified
 - historical-conspiracy-claims
+- internal-date-tension
 - lunar-reactor-age-origin-uncertainty
 - metaphysical-claims
 - no-parallel-source-in-batch
@@ -261,3 +283,4 @@ Source: [The Urmah Interview, Arishah-Tiger, Part 2 (English)](https://swaruu.or
 - translated-from-spanish
 - translated\_source
 - translation-equivalence-review
+- unproven-historical-speculation

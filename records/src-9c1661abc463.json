@@ -1,0 +1,104 @@
+{
+  "source_id": "src-9c1661abc463",
+  "snapshot_sha256": "510944350a948219ffcbec9594e7a2c3c952da8d2787e52fe32f774e61fd9089",
+  "language": "en",
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-model"
+  ],
+  "coverage_gaps": [
+    "additional-free-will-constraints"
+  ],
+  "claims": [
+    {
+      "id": "src-9c1661abc463-c01",
+      "assertion": "Mari says incarnate free will is limited by resources, circumstances, prior choices, and unconscious programming.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0009",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c1661abc463-c02",
+      "assertion": "She says trauma responses and shared telepathic thoughts can override conscious intentions; recognizing them strengthens agency.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c1661abc463-c03",
+      "assertion": "Her model treats timelines as preexisting possibilities selected by consciousness through thought and emotional vibration.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c1661abc463-c04",
+      "assertion": "Souls may plan incarnations outside linear time for growth, though embodied selves may resist planned suffering.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c1661abc463-c05",
+      "assertion": "Mari says free will varies with awareness and self-congruence; absolute freedom belongs only to timeless Source.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "src-5b3bbfac8b2b",
+  "snapshot_sha256": "35f300600a245116f5042d6accd8cadd10a266cfb1a6a90625b2e0c37e8f65d2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5b3bbfac8b2b-c01",
+      "assertion": "Yazhi says people are perspectives of one being; integrating others’ viewpoints through self-love dissolves separation, fear, and conflict.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0018",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    },
+    {
+      "id": "src-5b3bbfac8b2b-c02",
+      "assertion": "Yazhi describes her body as an idea she can mentally alter or remove, while choosing to project a physical form.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes these changes as occurring in her mind."
+    },
+    {
+      "id": "src-5b3bbfac8b2b-c03",
+      "assertion": "Yazhi says death does not automatically grant higher consciousness: people retain their ideas and Matrix in the astral and plan lives from that limited perspective.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0063",
+        "p0064",
+        "p0075",
+        "p0077",
+        "p0080",
+        "p0084"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says consciousness depends on understanding, not embodiment."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "postmortem-consciousness-doctrine-attributed"
+  ],
+  "coverage_gaps": [
+    "self-love-practice-details",
+    "suffering-and-incarnation-debate"
+  ]
+}

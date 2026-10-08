@@ -18,6 +18,24 @@ Source: [Extraterrestrial Information - Mini Topics with Gosia - Cosmic Agency](
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+### src-ff4973c6a444-c06
+
+Mari says Temmer climate-control systems were caught off guard by the cyclone.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [Space News, 29, June 24, 2024, Hurricane in Temmer, Fluffy Cotton in the Sky (English)](https://swaruu.org/transcripts/space-news-29-june-24-2024-hurricane-in-temmer-fluffy-cotton-in-the-sky-english) (2024-06-24; en); passages p0021, p0022, p0023. [Structured record](../../records/src-ff4973c6a444.json).
+
+### src-1f8d569d9e4f-c01
+
+Mari speculates Valencia flooding may involve weaponized weather and points to an equipment-laden ship nearby.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
+
+Source: [Space News 50. Floods in Spain, Carrot, New Projects in Temmer (English)](https://swaruu.org/transcripts/space-news-50-floods-in-spain-carrot-new-projects-in-temmer-english) (2024-11-09; en); passages p0004, p0006, p0009. [Structured record](../../records/src-1f8d569d9e4f.json).
+
 ## Review flags
 
+- Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - earth\_science\_claims\_unverified
+- p0024–p0026 use an oblique coded allegory; interpretation is uncertain

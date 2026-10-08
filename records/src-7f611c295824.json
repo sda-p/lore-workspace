@@ -1,0 +1,86 @@
+{
+  "source_id": "src-7f611c295824",
+  "snapshot_sha256": "e4b0b7a965f1ecabc78963b89cba277f0831e3657e6033d714bd2f42154c849e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7f611c295824-c01",
+      "assertion": "Swaruu says one consciousness occupied her and her mother’s bodies; she calls this natural cloning.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0068",
+        "p0069",
+        "p0070"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says it felt natural."
+    },
+    {
+      "id": "src-7f611c295824-c02",
+      "assertion": "Swaruu says Taygetan bodies mature at 20 and then age slowly; she was 17.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0052",
+        "p0054",
+        "p0056"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She gives ages in Earth-time reference."
+    },
+    {
+      "id": "src-7f611c295824-c03",
+      "assertion": "Swaruu attributes human limits to mind control, not DNA alteration; she calls telepathy mental.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0099",
+        "p0101",
+        "p0103",
+        "p0105"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says DNA alteration is real, but did not limit humans."
+    },
+    {
+      "id": "src-7f611c295824-c04",
+      "assertion": "Swaruu says Earth’s problems need internal solutions; contacts should inform people and awaken a core.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0111"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The cloning and genetic-control statements are Swaruu’s claims."
+  ],
+  "coverage_gaps": [
+    "Taygetan childhood",
+    "satellite contact logistics",
+    "mission details"
+  ]
+}

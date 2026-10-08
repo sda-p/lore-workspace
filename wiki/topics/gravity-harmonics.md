@@ -116,13 +116,64 @@ Source: [Yazhi Swaruu talks with Rich - Metaphysical Conversation from 2021](htt
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-4a80271a1b8e-c03
+
+Mari Swa says matter is energy held in standing waves shaped by consciousness.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Astral Warriors, Part 2 (English)](https://swaruu.org/transcripts/astral-warriors-part-2-english) (2024-10-03; en); passages p0006. [Structured record](../../records/src-4a80271a1b8e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-dbed5ac98466-c01
+
+Mari says “gravity” has no direct Taygetan translation and carries Earth-science assumptions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Case Against the Existence of Gravity (English)](https://swaruu.org/transcripts/a-case-against-the-existence-of-gravity-english) (2024-06-22; en); passages p0004, p0005, p0007. [Structured record](../../records/src-dbed5ac98466.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-dbed5ac98466-c04
+
+Mari attributes celestial balance to kinetic forces combined with consciousness and intention.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Case Against the Existence of Gravity (English)](https://swaruu.org/transcripts/a-case-against-the-existence-of-gravity-english) (2024-06-22; en); passages p0021, p0022, p0023. [Structured record](../../records/src-dbed5ac98466.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-dbed5ac98466-c05
+
+Mari rejects gravity as an independent force and says she will avoid using it for Taygetan concepts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Case Against the Existence of Gravity (English)](https://swaruu.org/transcripts/a-case-against-the-existence-of-gravity-english) (2024-06-22; en); passages p0024, p0025, p0029. [Structured record](../../records/src-dbed5ac98466.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-30d632b02db6-c04](frequency-map-navigation.md#src-30d632b02db6-c04) — Frequency-map navigation
 - [src-5759f6ed8a71-c02](starship-systems.md#src-5759f6ed8a71-c02) — Starship systems
+- [src-f4849bf7aa2d-c02](suzy-fighter-craft.md#src-f4849bf7aa2d-c02) — Suzy fighter craft
+- [src-682e0b02c3c5-c05](energy-generation.md#src-682e0b02c3c5-c05) — Energy generation technology
+- [src-dec092ce158f-c01](starship-systems.md#src-dec092ce158f-c01) — Starship systems
+- [src-c533f1f1e9a7-c03](starship-systems.md#src-c533f1f1e9a7-c03) — Starship systems
+- [src-6eecf487bb1a-c01](natural-portals.md#src-6eecf487bb1a-c01) — Natural and artificial portals
 
 ## Review flags
 
+- Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
+- classified-details
+- metaphysical-model\_attributed
+- nonhuman-technology\_claims\_attributed
+- portal-mechanics-overlap-src-6abed4268d57
+- source-speaker-shift-dhor-to-yazhi
 - technology\_claims
 - unverified\_conspiracy\_claims
 - unverified\_extraterrestrial\_claims

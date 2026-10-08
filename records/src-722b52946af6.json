@@ -1,0 +1,118 @@
+{
+  "source_id": "src-722b52946af6",
+  "snapshot_sha256": "4ad45ee6dd45459a300df49d957ce45903f094bf9ecc765d12f9e8dd1bf6cddd",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-722b52946af6-c01",
+      "assertion": "Alcyone-class ships provide counter-intimidation; Yazhi accepts Taygetan militarization.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-722b52946af6-c02",
+      "assertion": "Sadicleya’s Sadi AI links to an android interface; Moma stayed on Toleka after transferring data.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0024",
+        "p0094"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-722b52946af6-c03",
+      "assertion": "Yazhi says the Federation halted Second Contact as invasive; 900 cadets continue duties aboard Alcyone and Asterope.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0063",
+        "p0065",
+        "p0069"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-722b52946af6-c04",
+      "assertion": "Treaties use parties’ languages; the Alcyone Council–Urmah pact used Taygetan, Urmah and Yena, a Pleiadian lingua franca.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0097",
+        "p0099"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-722b52946af6-c05",
+      "assertion": "Yazhi says the Swaruunian distinction was political, not biological; she liked the separate-race idea.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "lyrian-cellular-body",
+      "topics": [
+        "lyrian-cellular-body",
+        "sophia-swaruu"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-722b52946af6-c06",
+      "assertion": "Yazhi describes inactive drones as aluminum spheres with cameras, sensors and small zero-point reactors.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "second-contact-stoppage-attributed-to-yazhi"
+  ],
+  "coverage_gaps": [
+    "Yena-physical-counterparts",
+    "Alcyone-medical-status"
+  ]
+}

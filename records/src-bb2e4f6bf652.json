@@ -1,0 +1,111 @@
+{
+  "source_id": "src-bb2e4f6bf652",
+  "snapshot_sha256": "b731ced2ae78f11882e10ccb6b1e158e91fa95f4b2a64e9b4df99efa085fd09d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bb2e4f6bf652-c01",
+      "assertion": "Mari says Taygetan kings earn servant-leader roles; posts are not inherited and may be temporary.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb2e4f6bf652-c02",
+      "assertion": "Senetre detected a genetic weapon and suspects contaminated party food fed to Moghyay birds was its route to Alenym.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "genetic-weapons",
+      "topics": [
+        "genetic-weapons",
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb2e4f6bf652-c03",
+      "assertion": "Nai’Shara and Alenym were affected differently; Nai’Shara had muscle pain, while Alenym was scheduled for months-long wet-pod treatment.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb2e4f6bf652-c04",
+      "assertion": "Mari took acting Princess-Queen office June 10, age 16, with counselors supporting her until Alenym recovers.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0021"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb2e4f6bf652-c05",
+      "assertion": "A new destroyer was planned to escort Toleka; Mari moved to another ship after a threat warning.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "genetic-weapons",
+      "name": "Genetic weapons",
+      "kind": "technology",
+      "aliases": [
+        "targeted genetic weapon"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Senetre-diagnosed-weapon-route-suspected"
+  ],
+  "coverage_gaps": [
+    "Sadicleya-test-failure",
+    "fleet-dreadnought-status"
+  ]
+}

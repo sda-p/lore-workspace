@@ -284,6 +284,84 @@ Source: [Yazhi Swaruu talks with Rich - Metaphysical Conversation from 2021](htt
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-2bca495f8f63-c04
+
+Anéeka says hyperspace-capable interstellar ships can technically travel across timelines. Ethical permission is restricted.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Portals - Conversations with Aneeka of Temmer and Aneeka´s live with Robert](https://swaruu.org/transcripts/portals-conversations-with-aneeka-of-temmer-and-aneeka-s-live-with-robert) (2024-04-18; en); passages p0078, p0079. [Structured record](../../records/src-2bca495f8f63.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-1aa59d2c774b-c01
+
+Anéeka reports that Yazhi teleports, passes through titanium, moves at extreme speed, duplicates herself, and changes her apparent age.
+
+Attributed to **Anéeka**; reported; extraction confidence: low.
+
+Source: [Sophia Swaruu (Yazhi) - Yazhi´s Early Life on Toleka (PART 1)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-yazhi-s-early-life-on-toleka-part-1) (2024-08-20; en); passages p0009, p0010, p0020. [Structured record](../../records/src-1aa59d2c774b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1aa59d2c774b-c02
+
+Taygetans say they cannot perform these feats and struggle to guide Yazhi as a child.
+
+Attributed to **Anéeka**; reported; extraction confidence: low.
+
+Source: [Sophia Swaruu (Yazhi) - Yazhi´s Early Life on Toleka (PART 1)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-yazhi-s-early-life-on-toleka-part-1) (2024-08-20; en); passages p0020, p0026, p0027. [Structured record](../../records/src-1aa59d2c774b.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-1aa59d2c774b-c03
+
+Anéeka attributes Yazhi’s abilities to temporal manipulation and links density to data and oscillations over time.
+
+Attributed to **Anéeka**; reported; extraction confidence: low.
+
+Source: [Sophia Swaruu (Yazhi) - Yazhi´s Early Life on Toleka (PART 1)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-yazhi-s-early-life-on-toleka-part-1) (2024-08-20; en); passages p0041, p0043, p0051, p0053, p0054. [Structured record](../../records/src-1aa59d2c774b.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-6ce55fb86338-c05
+
+Temmer days last 4.6 Earth days, she says, complicating dates; Tiamat’s destruction may be far more recent.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: low.
+
+Source: [Did the last Global Deluge happen less than 200 years ago? (English)](https://swaruu.org/transcripts/did-the-last-global-deluge-happen-less-than-200-years-ago-english) (2024-10-31; en); passages p0006, p0027. [Structured record](../../records/src-6ce55fb86338.json).
+
+Related topics: [Tiamat](tiamat.md).
+
+### src-016e686c1508-c04
+
+Athena describes potential timelines converging on each observer, whose thoughts shape experienced futures.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Galactic Federation, Time (PART 2)](https://swaruu.org/transcripts/athena-swaruu-spiritual-chat-with-dale-rich-2021-galactic-federation-time-part-2) (2025-08-26; en); passages p0070, p0071, p0072, p0073, p0074. [Structured record](../../records/src-016e686c1508.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-347d74ef65e6-c01
+
+Mari says souls may have preset plans yet choose among timelines as their vibration changes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Two most Self-destructive, Star Seed Beliefs (English)](https://swaruu.org/transcripts/the-two-most-self-destructive-star-seed-beliefs-english) (2024-07-06; en); passages p0011, p0012, p0013. [Structured record](../../records/src-347d74ef65e6.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6b5449860d14-c02
+
+Mari reports a 25-minute Temmer remote-presence visit corresponded to over two hours aboard Earth-time Sadicleya.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (English)](https://swaruu.org/transcripts/space-news-49-new-spaceport-more-on-australia-my-health-birthday-english) (2024-10-26; en); passages p0005. [Structured record](../../records/src-6b5449860d14.json).
+
 ## Claims filed under other topics
 
 - [src-07494ef21f67-c05](ship-internal-time.md#src-07494ef21f67-c05) — Ship internal time
@@ -292,11 +370,23 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-8609c7064ec9-c01](consciousness-metaphysics.md#src-8609c7064ec9-c01) — Consciousness and metaphysics
 - [src-2d3ac10bf2dd-c01](consciousness-metaphysics.md#src-2d3ac10bf2dd-c01) — Consciousness and metaphysics
 - [src-0a76aae844b1-c03](stellar-navigation.md#src-0a76aae844b1-c03) — Stellar navigation
+- [src-ff2138119484-c03](starship-systems.md#src-ff2138119484-c03) — Starship systems
+- [src-1aa59d2c774b-c05](ship-internal-time.md#src-1aa59d2c774b-c05) — Ship internal time
+- [src-12122c9c7bda-c02](dimensional-mirroring.md#src-12122c9c7bda-c02) — Dimensional mirroring
+- [src-12122c9c7bda-c04](dimensional-mirroring.md#src-12122c9c7bda-c04) — Dimensional mirroring
 
 ## Review flags
 
+- Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - conspiracy\_claims
+- extraordinary-ability-claims
+- internal-date-tension
+- long conversation contains disputed health claims not included in core extraction
+- mirror-identity-varies
 - personal\_metaphysics
+- speaker-shift-in-source
+- speaker\_attribution
+- unproven-historical-speculation
 - unverified\_extraterrestrial\_claims
 - unverified\_historical\_claims
 - unverified\_paranormal\_claims

@@ -128,6 +128,7 @@ Related topics: [Orion Wars](orion-wars.md).
 - [src-78f6779f9011-c01](taygetans.md#src-78f6779f9011-c01) — Taygetans
 - [src-4c18957bd2f2-c04](taygetans.md#src-4c18957bd2f2-c04) — Taygetans
 - [src-caf9efbd11f1-c04](alien-species.md#src-caf9efbd11f1-c04) — Alien species and distinctions
+- [src-fe82d1a07961-c01](galactic-federation.md#src-fe82d1a07961-c01) — Galactic Federation
 
 ## Review flags
 
@@ -136,6 +137,7 @@ Related topics: [Orion Wars](orion-wars.md).
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - approximate\_dates
+- broad-exopolitical-allegations
 - conflicting\_origin\_accounts
 - extraordinary\_history\_claims
 - translated\_source

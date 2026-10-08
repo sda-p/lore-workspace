@@ -1,0 +1,9 @@
+{
+  "completed_at": "2026-10-08T16:26:29+00:00",
+  "inventoried_urls": 2207,
+  "cached_hash_validated_sources": 2207,
+  "original_source_words": 5274594,
+  "unresolved_download_errors": 0,
+  "initial_connection_failures": "See continuous-019/download-errors-initial.json and download-recovery.json.",
+  "metadata_recovery": "See continuous-012/metadata-recovery.json."
+}

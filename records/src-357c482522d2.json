@@ -1,0 +1,82 @@
+{
+  "source_id": "src-357c482522d2",
+  "snapshot_sha256": "3f92c9836bc71c6801aeaaf6338a33f3ae8276492be4712780cb62afa07f1758",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-357c482522d2-c01",
+      "assertion": "Swaruu says Lyrian humans reached Earth about 40,000 years ago; a Taygetan Lemurian colony coexisted with them before reptilian invaders attacked and enslaved Lyrians.",
+      "speaker": "Swaruu (as recorded by Robert)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "reptilian-invaders"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-357c482522d2-c02",
+      "assertion": "She says a Federation-Taygeta fleet was ambushed at Tiamat, destroying over three-quarters of both forces and Tiamat; its waters flooded Earth and destroyed Atlantis and Lemuria.",
+      "speaker": "Swaruu (as recorded by Robert)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "galactic-federation",
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-357c482522d2-c03",
+      "assertion": "She says the Federation projected an electromagnetic barrier around Earth from a damaged Andromedan biosphere Moon ship, creating the 3D Matrix to contain the reptiles.",
+      "speaker": "Swaruu (as recorded by Robert)",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "moon-biosphere-ship",
+        "galactic-federation",
+        "reptilian-invaders"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "reptilian-invaders",
+      "name": "Reptilian invaders",
+      "kind": "faction",
+      "aliases": [
+        "reptile invaders",
+        "reptilians"
+      ]
+    }
+  ],
+  "review_flags": [
+    "speaker-attribution-inferred-from-transcript"
+  ],
+  "coverage_gaps": [
+    "genetic-enslavement-details",
+    "post-flood-migrations"
+  ]
+}

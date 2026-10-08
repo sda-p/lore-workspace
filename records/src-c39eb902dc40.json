@@ -1,0 +1,64 @@
+{
+  "source_id": "src-c39eb902dc40",
+  "snapshot_sha256": "f01438fb79340746019a410c71562185e4a6149db903fbe3e234e499d9265934",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c39eb902dc40-c01",
+      "assertion": "Swaruu (9) says Taygeta’s First Contact Project involved at least about 550 participants contacting people online from 2009–2016; only a few remained partly convinced.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c39eb902dc40-c02",
+      "assertion": "She says the Prime Directive protects free will, including an incarnating soul’s deeper intentions; complex cases may be left to individual ship captains.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0020",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She acknowledges the directive is imperfect."
+    },
+    {
+      "id": "src-c39eb902dc40-c03",
+      "assertion": "She says the Federation and other space organizations assist Earth’s ordinary population covertly, avoiding visible external intervention.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "contact-response",
+    "intervention-limits"
+  ]
+}

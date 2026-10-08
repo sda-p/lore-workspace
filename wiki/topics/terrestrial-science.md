@@ -1832,6 +1832,76 @@ Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
 
 Source: [Arrogance and False Science - The Sickness of Earth's Society, Part 2](https://swaruu.org/transcripts/arrogance-and-false-science-the-sickness-of-earth-s-society-part-2) (2023-10-19; en); passages p0008. [Structured record](../../records/src-9f6b8fccb9d1.json).
 
+### src-682e0b02c3c5-c02
+
+Anéeka says Greenland and other glaciers melt in natural cycles.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Questions and Answers - Swaruu of Erra and Aneeka of Temmer](https://swaruu.org/transcripts/questions-and-answers-swaruu-of-erra-and-aneeka-of-temmer) (2025-04-29; en); passages p0009, p0011. [Structured record](../../records/src-682e0b02c3c5.json).
+
+### src-682e0b02c3c5-c03
+
+Anéeka says oil is renewable and formed through Earth’s transformation of seawater.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Questions and Answers - Swaruu of Erra and Aneeka of Temmer](https://swaruu.org/transcripts/questions-and-answers-swaruu-of-erra-and-aneeka-of-temmer) (2025-04-29; en); passages p0013. [Structured record](../../records/src-682e0b02c3c5.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-55eec113b537-c02
+
+She claims Earth’s base-10 mathematics limits perception compared with a nonhuman base-12 model.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [The Importance of ET Contact (English)](https://swaruu.org/transcripts/the-importance-of-et-contact-english) (2024-06-01; en); passages p0017. [Structured record](../../records/src-55eec113b537.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-d6ad19833be1-c05
+
+Gosia cites a 1981 aging experiment as evidence that beliefs can produce biological changes.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 002 - False Realities Around you - Is Reality as You Are Told?](https://swaruu.org/transcripts/class-002-false-realities-around-you-is-reality-as-you-are-told) (2025-02-14; en); passages p0024, p0025. [Structured record](../../records/src-d6ad19833be1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-dbed5ac98466-c03
+
+Mari says Earth gravity equations work within their model but incompletely describe stellar interactions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Case Against the Existence of Gravity (English)](https://swaruu.org/transcripts/a-case-against-the-existence-of-gravity-english) (2024-06-22; en); passages p0018, p0019, p0020. [Structured record](../../records/src-dbed5ac98466.json).
+
+### src-ff4973c6a444-c07
+
+Mari’s allegory implies aircraft disperse harmful substances over Earth; meaning is unclear.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
+
+Source: [Space News, 29, June 24, 2024, Hurricane in Temmer, Fluffy Cotton in the Sky (English)](https://swaruu.org/transcripts/space-news-29-june-24-2024-hurricane-in-temmer-fluffy-cotton-in-the-sky-english) (2024-06-24; en); passages p0024, p0025, p0026. [Structured record](../../records/src-ff4973c6a444.json).
+
+### src-6313385e14d2-c02
+
+Mari says Taygetan doctors struggled because crew lacked antibodies to illnesses imported from Earth.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (English)](https://swaruu.org/transcripts/space-news-51-what-is-up-with-taygetans-my-youtube-channel-and-me-english) (2024-11-16; en); passages p0011. [Structured record](../../records/src-6313385e14d2.json).
+
+### src-d3aa4459ae38-c06
+
+Athena criticizes string theory and says physics omits ether and consciousness.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) (2024-11-18; en); passages p0021, p0023. [Structured record](../../records/src-d3aa4459ae38.json).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -1916,10 +1986,17 @@ Source: [Arrogance and False Science - The Sickness of Earth's Society, Part 2](
 - [src-8aee5e8d5c92-c03](holistic-society.md#src-8aee5e8d5c92-c03) — Holistic society
 - [src-ce90cae90fd1-c01](earth-cabal.md#src-ce90cae90fd1-c01) — Earth Cabal and power structures
 - [src-ce90cae90fd1-c03](earth-cabal.md#src-ce90cae90fd1-c03) — Earth Cabal and power structures
+- [src-72696c075fca-c02](artificial-intelligence.md#src-72696c075fca-c02) — Artificial intelligence
+- [src-3082849baa66-c04](holistic-society.md#src-3082849baa66-c04) — Holistic society
+- [src-9afde86ad754-c01](earth-cabal.md#src-9afde86ad754-c01) — Earth Cabal and power structures
+- [src-756f10136c06-c03](frequency-map-navigation.md#src-756f10136c06-c03) — Frequency-map navigation
 
 ## Review flags
 
+- Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
+- Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
 - Nibiru\_claim\_conflicts\_with\_other\_sources
+- These are attributed dialogue claims; terminology for Hyades varies by convention
 - alternative-weapons-claims
 - astronomical-claims-unverified
 - biological-claims-unverified
@@ -1978,9 +2055,11 @@ Source: [Arrogance and False Science - The Sickness of Earth's Society, Part 2](
 - metaphysical-claims
 - metaphysical\_model
 - moon-conspiracy-claims
+- nonhuman-technology\_claims\_attributed
 - nonstandard\_astrophysics\_claims
 - nuclear\_science\_misinformation
 - occult\_claims
+- p0024–p0026 use an oblique coded allegory; interpretation is uncertain
 - paleontology\_claims\_unverified
 - personal\_cosmology
 - personal\_metaphysics
@@ -1990,16 +2069,20 @@ Source: [Arrogance and False Science - The Sickness of Earth's Society, Part 2](
 - related\_series\_part
 - science\_claims\_unverified\_in\_source
 - space\_suit\_claims\_unverified
+- speaker-shifts-Aneeka-Athena-Yazhi
+- speaker-speculation
 - technology\_claims
 - terrestrial-history-claims-unverified
 - time-bound-prediction
 - time\_travel\_lore
+- translated-from-Spanish-original-not-available
 - translated\_source
 - translation-not-applicable
 - transport\_safety\_and\_policy\_claims\_unverified
 - ufo\_researcher\_critique
 - unsupported\_planetary\_claims
 - unverified-current-events
+- unverified-reset-claims
 - unverified-technology-claims
 - unverified\_aerospace\_claims
 - unverified\_ancient\_technology\_claims

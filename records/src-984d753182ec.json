@@ -1,0 +1,124 @@
+{
+  "source_id": "src-984d753182ec",
+  "snapshot_sha256": "6865b69023521203a8a2e334ed25e2adf419b07db389bce2d333eae538a36288",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-984d753182ec-c01",
+      "assertion": "Engans are Pleiades’ most numerous people and strongest military; they serve Alcyone Council, with Taygetans second.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "engan-people"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-984d753182ec-c02",
+      "assertion": "Their patriarchal king is checked by a high council.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "engan-people",
+      "topics": [
+        "engan-people",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-984d753182ec-c03",
+      "assertion": "Three worlds orbit Electra: Engan, Valhalla and Asgard; Mari calls them super-inhabitable.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "engan-people",
+      "topics": [
+        "engan-people",
+        "procyon"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-984d753182ec-c04",
+      "assertion": "Mari says Engans inspired ancient gods and taught metallurgy, agriculture and philosophy; she warns myths are distorted.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0017"
+      ],
+      "primary_topic": "engan-people",
+      "topics": [
+        "engan-people",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-984d753182ec-c05",
+      "assertion": "She identifies Zeus, Jupiter, Amun and Odin as one powerful, mortal visitor.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "engan-people",
+      "topics": [
+        "engan-people",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-984d753182ec-c06",
+      "assertion": "No official Engan ships orbit Earth under Council arrangements, though civilian craft visit; Taygetans represent Pleiades.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "engan-people"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "engan-people",
+      "name": "Engan people",
+      "kind": "species",
+      "aliases": [
+        "Engans",
+        "Engan"
+      ]
+    }
+  ],
+  "review_flags": [
+    "mythic-identifications-attributed-to-mari"
+  ],
+  "coverage_gaps": [
+    "cross-cultural-reincarnation-claims"
+  ]
+}

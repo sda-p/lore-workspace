@@ -83,9 +83,15 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-2c37577fd6a4-c03](urmah.md#src-2c37577fd6a4-c03) — Urmah
 - [src-42ef2a1bb92f-c02](lyran-expansion.md#src-42ef2a1bb92f-c02) — Lyran expansion
 - [src-f16ea4c6f1ae-c05](galactic-federation.md#src-f16ea4c6f1ae-c05) — Galactic Federation
+- [src-0afd8a265a42-c05](spatium-lupi.md#src-0afd8a265a42-c05) — Spatium Lupi
+- [src-8c8d4905d738-c03](galactic-federation.md#src-8c8d4905d738-c03) — Galactic Federation
+- [src-ee2bcb823310-c03](galactic-federation.md#src-ee2bcb823310-c03) — Galactic Federation
+- [src-cf0ae0f8a31e-c05](urmah.md#src-cf0ae0f8a31e-c05) — Urmah
+- [src-6ce55fb86338-c02](tiamat.md#src-6ce55fb86338-c02) — Tiamat
 
 ## Review flags
 
+- Federation-infiltration\_theory
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - approximate\_dates
@@ -94,7 +100,11 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - directive-rules-not-in-transcript
 - extraordinary\_history\_claims
 - faction\_tension
+- internal-date-tension
 - no-parallel-source-in-batch
+- political-claims\_attributed
+- reported-claims\_by\_Ari
 - translated-from-spanish
 - translated\_source
+- unproven-historical-speculation
 - unverified\_extraterrestrial\_claims

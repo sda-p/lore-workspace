@@ -1,0 +1,106 @@
+{
+  "source_id": "src-03ea45d7d724",
+  "snapshot_sha256": "de4e28ffb976250a4f1bad1e988fac06e0ea9fd88992c7ae47bae656ab4ec4d0",
+  "language": "en",
+  "proposed_topics": [],
+  "review_flags": [
+    "technology-description-unverified"
+  ],
+  "coverage_gaps": [
+    "earlier-system-versions-omitted"
+  ],
+  "claims": [
+    {
+      "id": "src-03ea45d7d724-c01",
+      "assertion": "Mari says next-generation immersion uses muon-coded quantum holographic computers and drones that map local mass and energy by frequency.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "holographic-computers",
+        "spherical-drones"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03ea45d7d724-c02",
+      "assertion": "The system creates multisensory hard-matter illusions around users without physically transporting them.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03ea45d7d724-c03",
+      "assertion": "Remote drones project interactive user avatars that locals can touch and hand objects to.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "total-immersion-simulations"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03ea45d7d724-c04",
+      "assertion": "Ship-to-ship links or equipped buildings need no drone; Mari says the system is commonplace in Taygeta.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03ea45d7d724-c05",
+      "assertion": "She says user fields are tuned above personal frequencies to avoid biological harm and promote positive feelings.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0030"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ]
+}

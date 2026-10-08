@@ -1,0 +1,80 @@
+{
+  "source_id": "src-db5d7dcfb7ef",
+  "snapshot_sha256": "3d0c817b05e88a5871f4f73b1fff21a75395247d673271324e3311943799aded",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-db5d7dcfb7ef-c01",
+      "assertion": "Swaruu says stellar travel is instantaneous externally but has ship-internal time: seven hours for a large craft and one hour forty minutes for a fighter.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db5d7dcfb7ef-c02",
+      "assertion": "She describes one eternal Whole, denies a Big Bang, and treats multiverses and density divisions as perceptual categories rather than separate universes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0037",
+        "p0052",
+        "p0054",
+        "p0056"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db5d7dcfb7ef-c03",
+      "assertion": "Swaruu identifies a painting Robert dates to 1561 as depicting the Battle for Alpha Centauri’s liberation, which she says reached Earth and included her current ship.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "alpha-centauri-liberation",
+      "topics": [
+        "alpha-centauri-liberation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The date and artwork identification are reported by Robert."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "alpha-centauri-liberation",
+      "name": "Battle for the liberation of Alpha Centauri",
+      "kind": "historical event",
+      "aliases": [
+        "Alpha Centauri liberation battle"
+      ]
+    }
+  ],
+  "review_flags": [
+    "historical-event-identified-from-painting"
+  ],
+  "coverage_gaps": [
+    "afterlife-density-model",
+    "angel-interpretations"
+  ]
+}

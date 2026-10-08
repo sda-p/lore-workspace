@@ -1,0 +1,79 @@
+{
+  "source_id": "src-e15992dcfa52",
+  "snapshot_sha256": "ef3a4af4966f0a864d8c90d63fde07f9237e45366ce37763f86db83d7d9494bc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e15992dcfa52-c01",
+      "assertion": "Swaruu says crop circles include human hoaxes and complex formations made by several extraterrestrial races; some convey greetings or activate human DNA memory.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "crop-circles",
+      "topics": [
+        "crop-circles",
+        "alien-species",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes multiple purposes."
+    },
+    {
+      "id": "src-e15992dcfa52-c02",
+      "assertion": "Swaruu says she and other crews leave crop-circle marks as time-space references; their freshness helps track return to a timeline.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "crop-circles",
+      "topics": [
+        "crop-circles",
+        "temporal-skipping",
+        "sand-clock"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this practice is taught to elite pilots."
+    },
+    {
+      "id": "src-e15992dcfa52-c03",
+      "assertion": "She says ships make crop circles with tractor beams and use known sites, including portal areas, as navigation points; each crew’s designs are unique.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "crop-circles",
+      "topics": [
+        "crop-circles",
+        "tractor-beams",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "crop-circles",
+      "name": "Crop circles",
+      "kind": "phenomenon",
+      "aliases": [
+        "agro glyphs",
+        "crop formations"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific-reptilian-and-sassani-symbol-identifications"
+  ]
+}

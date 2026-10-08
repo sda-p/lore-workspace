@@ -2108,6 +2108,192 @@ Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
 
 Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](https://swaruu.org/transcripts/ufos-in-congress-chatting-more-about-the-subject-with-athena-swaruu) (2023-08-17; en); passages p0004. [Structured record](../../records/src-2adab2ea6183.json).
 
+### src-f042ab839938-c06
+
+She warns controllers also infiltrate New Age communities.
+
+Attributed to **Gosia**; asserted; extraction confidence: low.
+
+Source: [CLASS 003 - What is The Matrix? Free Your Mind - Types of Matrixes Explained](https://swaruu.org/transcripts/class-003-what-is-the-matrix-free-your-mind-types-of-matrixes-explained) (2025-03-09; en); passages p0031, p0032. [Structured record](../../records/src-f042ab839938.json).
+
+Related topics: [Astrotheology](astrotheology.md).
+
+### src-9afde86ad754-c01
+
+Mari alleges Earth’s controllers made the internet a surveillance and truth-shaping tool.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [You are Experiencing the last stages of a total Cultural and Social Reset (English)](https://swaruu.org/transcripts/you-are-experiencing-the-last-stages-of-a-total-cultural-and-social-reset-english) (2024-05-27; en); passages p0008, p0009, p0010, p0013. [Structured record](../../records/src-9afde86ad754.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-9afde86ad754-c02
+
+She says digital information control and destruction of records support a civilization reset.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [You are Experiencing the last stages of a total Cultural and Social Reset (English)](https://swaruu.org/transcripts/you-are-experiencing-the-last-stages-of-a-total-cultural-and-social-reset-english) (2024-05-27; en); passages p0011, p0014, p0015. [Structured record](../../records/src-9afde86ad754.json).
+
+Related topics: [Tartaria](tartaria.md).
+
+### src-9afde86ad754-c06
+
+She speculates Earth’s controllers are nonhuman and use another time frame, while admitting incomplete knowledge.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [You are Experiencing the last stages of a total Cultural and Social Reset (English)](https://swaruu.org/transcripts/you-are-experiencing-the-last-stages-of-a-total-cultural-and-social-reset-english) (2024-05-27; en); passages p0027, p0028, p0029. [Structured record](../../records/src-9afde86ad754.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-5eead64421cb-c03
+
+Mari alleges government agents monitor Earth’s nonhumans and suppress evidence of extraterrestrial visitors.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Step Down Anecdotes and Stories Number 1, Unwanted Visitors (English)](https://swaruu.org/transcripts/step-down-anecdotes-and-stories-number-1-unwanted-visitors-english) (2024-07-27; en); passages p0008. [Structured record](../../records/src-5eead64421cb.json).
+
+Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
+
+### src-a536d40b8707-c03
+
+She alleges Earth Cabal installations beneath and above central Australia, suspecting meetings with Federation representatives.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News 48, What on Earth is going on in Australia? (English)](https://swaruu.org/transcripts/space-news-48-what-on-earth-is-going-on-in-australia-english) (2024-10-21; en); passages p0013, p0017. [Structured record](../../records/src-a536d40b8707.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a536d40b8707-c04
+
+Mari suspects wildlife fences also constrain people, while admitting she lacks proof and does not know their legal status.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News 48, What on Earth is going on in Australia? (English)](https://swaruu.org/transcripts/space-news-48-what-on-earth-is-going-on-in-australia-english) (2024-10-21; en); passages p0012, p0014. [Structured record](../../records/src-a536d40b8707.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-016e686c1508-c01
+
+Athena describes an Earth energy cocoon as fog that obscures perception and limits offworld contact.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Galactic Federation, Time (PART 2)](https://swaruu.org/transcripts/athena-swaruu-spiritual-chat-with-dale-rich-2021-galactic-federation-time-part-2) (2025-08-26; en); passages p0004. [Structured record](../../records/src-016e686c1508.json).
+
+### src-e34286c88397-c01
+
+Gosia describes Earth authority as layered from public governments through deep state and secret societies.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 008 - Cabal and Power Structures of Earth - Who is in Control of our Planet?](https://swaruu.org/transcripts/class-008-cabal-and-power-structures-of-earth-who-is-in-control-of-our-planet) (2025-09-30; en); passages p0005, p0006, p0007, p0008. [Structured record](../../records/src-e34286c88397.json).
+
+### src-e34286c88397-c03
+
+Yazhi describes Vatican, City of London, and Washington as control centers for spirituality, economy, and military power.
+
+Attributed to **Gosia quoting Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [CLASS 008 - Cabal and Power Structures of Earth - Who is in Control of our Planet?](https://swaruu.org/transcripts/class-008-cabal-and-power-structures-of-earth-who-is-in-control-of-our-planet) (2025-09-30; en); passages p0023, p0024. [Structured record](../../records/src-e34286c88397.json).
+
+### src-e34286c88397-c04
+
+Gosia says compartmentalization prevents groups from seeing the full control structure.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 008 - Cabal and Power Structures of Earth - Who is in Control of our Planet?](https://swaruu.org/transcripts/class-008-cabal-and-power-structures-of-earth-who-is-in-control-of-our-planet) (2025-09-30; en); passages p0042. [Structured record](../../records/src-e34286c88397.json).
+
+### src-e8830ab53fa0-c02
+
+Gosia alleges control mechanisms extend into alternative spiritual and extraterrestrial communities.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 004 - Matrix in the New Age - Layers of Control](https://swaruu.org/transcripts/class-004-matrix-in-the-new-age-layers-of-control) (2025-03-26; en); passages p0013, p0014, p0015. [Structured record](../../records/src-e8830ab53fa0.json).
+
+### src-e8830ab53fa0-c03
+
+Gosia says Space Academy believes agencies infiltrated New Age movements to steer public perception.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 004 - Matrix in the New Age - Layers of Control](https://swaruu.org/transcripts/class-004-matrix-in-the-new-age-layers-of-control) (2025-03-26; en); passages p0017, p0019, p0020. [Structured record](../../records/src-e8830ab53fa0.json).
+
+### src-e8830ab53fa0-c04
+
+Gosia describes controlled opposition as groups appearing dissenting while guided by the same power structure.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 004 - Matrix in the New Age - Layers of Control](https://swaruu.org/transcripts/class-004-matrix-in-the-new-age-layers-of-control) (2025-03-26; en); passages p0023, p0025. [Structured record](../../records/src-e8830ab53fa0.json).
+
+### src-bddaa45917d5-c02
+
+Mari alleges New Age movements can redirect awakening populations into managed belief systems.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Analysing the Galactic Federation and Gori’el’s Report, and the New Age (English)](https://swaruu.org/transcripts/analysing-the-galactic-federation-and-gori-el-s-report-and-the-new-age-english) (2024-07-22; en); passages p0008, p0009, p0012, p0016. [Structured record](../../records/src-bddaa45917d5.json).
+
+### src-1098d5d992f8-c03
+
+Gosia alleges Earth controllers conceal extraterrestrial presence and frame it as fiction or fantasy.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 006 - Are We Alone in the Universe? Are Governments Hiding the Truth?](https://swaruu.org/transcripts/class-006-are-we-alone-in-the-universe-are-governments-hiding-the-truth) (2025-05-16; en); passages p0009, p0016, p0017. [Structured record](../../records/src-1098d5d992f8.json).
+
+### src-36e353120a01-c01
+
+Mari portrays Earth as one controlled culture divided into regions for population management.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Should you worry about the news? (English)](https://swaruu.org/transcripts/should-you-worry-about-the-news-english) (2024-09-30; en); passages p0004, p0005, p0006. [Structured record](../../records/src-36e353120a01.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-36e353120a01-c05
+
+Mari says surface conflicts are real but their stated causes are controlled narratives.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Should you worry about the news? (English)](https://swaruu.org/transcripts/should-you-worry-about-the-news-english) (2024-09-30; en); passages p0018, p0019, p0020. [Structured record](../../records/src-36e353120a01.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-b0c4a788e5de-c05
+
+She describes the Cabal as a cross-species corporation seeking Earth and expansion.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
+
+Source: [Ancient Egypt (3) - Meritaten, Exodus, Scotland, Cabal - Swaruu of Erra](https://swaruu.org/transcripts/ancient-egypt-3-meritaten-exodus-scotland-cabal-swaruu-of-erra) (2025-02-09; en); passages p0029, p0035, p0038. [Structured record](../../records/src-b0c4a788e5de.json).
+
+### src-cebafb0193ca-c04
+
+Mari rejects a simple Orion–Reptilian conflict explanation for Earth wars and stresses human participation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [Space News 44, Galactic Federation and Earth Situation Update (English)](https://swaruu.org/transcripts/space-news-44-galactic-federation-and-earth-situation-update-english) (2024-09-28; en); passages p0011, p0012, p0013. [Structured record](../../records/src-cebafb0193ca.json).
+
+### src-6b5449860d14-c05
+
+Mari warns that official relief groups may divert donations and that media narratives can manipulate public responses.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (English)](https://swaruu.org/transcripts/space-news-49-new-spaceport-more-on-australia-my-health-birthday-english) (2024-10-26; en); passages p0014, p0015. [Structured record](../../records/src-6b5449860d14.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -2187,19 +2373,54 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 - [src-2adab2ea6183-c02](false-alien-invasion.md#src-2adab2ea6183-c02) — False alien invasion scenarios
 - [src-2adab2ea6183-c04](false-alien-invasion.md#src-2adab2ea6183-c04) — False alien invasion scenarios
 - [src-2adab2ea6183-c05](false-alien-invasion.md#src-2adab2ea6183-c05) — False alien invasion scenarios
+- [src-73198a2de79a-c01](taygetans.md#src-73198a2de79a-c01) — Taygetans
+- [src-73198a2de79a-c02](taygetans.md#src-73198a2de79a-c02) — Taygetans
+- [src-cae1127d2078-c01](taygetans.md#src-cae1127d2078-c01) — Taygetans
+- [src-cea409311112-c04](moon-matrix.md#src-cea409311112-c04) — Moon and terrestrial Matrix
+- [src-55eec113b537-c01](moon-matrix.md#src-55eec113b537-c01) — Moon and terrestrial Matrix
+- [src-d6ad19833be1-c02](moon-matrix.md#src-d6ad19833be1-c02) — Moon and terrestrial Matrix
+- [src-d6ad19833be1-c04](moon-matrix.md#src-d6ad19833be1-c04) — Moon and terrestrial Matrix
+- [src-e655edc71350-c04](false-alien-invasion.md#src-e655edc71350-c04) — False alien invasion scenarios
+- [src-e655edc71350-c05](natural-portals.md#src-e655edc71350-c05) — Natural and artificial portals
+- [src-fe82d1a07961-c04](galactic-federation.md#src-fe82d1a07961-c04) — Galactic Federation
+- [src-c0ea4ddd8632-c02](galactic-federation.md#src-c0ea4ddd8632-c02) — Galactic Federation
+- [src-61184d950658-c04](galactic-federation.md#src-61184d950658-c04) — Galactic Federation
+- [src-f042ab839938-c04](original-matrix.md#src-f042ab839938-c04) — Original Matrix
+- [src-38b07e39e45a-c02](postmortem-realities.md#src-38b07e39e45a-c02) — Postmortem realities
+- [src-531b0e9f06bf-c04](galactic-federation.md#src-531b0e9f06bf-c04) — Galactic Federation
+- [src-984d753182ec-c04](engan-people.md#src-984d753182ec-c04) — Engan people
+- [src-984d753182ec-c05](engan-people.md#src-984d753182ec-c05) — Engan people
+- [src-e34286c88397-c05](galactic-federation.md#src-e34286c88397-c05) — Galactic Federation
+- [src-e8830ab53fa0-c01](consciousness-metaphysics.md#src-e8830ab53fa0-c01) — Consciousness and metaphysics
+- [src-e8830ab53fa0-c05](consciousness-metaphysics.md#src-e8830ab53fa0-c05) — Consciousness and metaphysics
+- [src-bddaa45917d5-c01](galactic-federation.md#src-bddaa45917d5-c01) — Galactic Federation
+- [src-bddaa45917d5-c03](galactic-federation.md#src-bddaa45917d5-c03) — Galactic Federation
+- [src-bddaa45917d5-c04](galactic-federation.md#src-bddaa45917d5-c04) — Galactic Federation
 
 ## Review flags
 
 - AI\_capability\_claims\_unverified
+- Australian-traffic-purpose-unknown
+- Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
+- Federation and New Age claims are Mari’s allegations and interpretations
+- Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Higher-level free-will explanation is challenged by Gosia
 - Maitre\_relationship\_with\_Reptilians
+- Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Proposed intervention remains conditional and internally qualified
 - agenda\_term\_varies
 - ark\_location\_and\_war\_claims\_unverified
+- attack-theory\_speculative
 - attribution-care: source claims about sexuality are speaker-specific
 - attribution: extraordinary intelligence claims remain source-specific
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
+- black-knight-loss-details-provisional
+- broad-exopolitical-allegations
 - chronology\_conflict
+- claims about current events and power structures are Mari’s interpretations
+- claims are attributed teachings from Space Academy, not independently verified
+- claims are presented as attributed lore and quotations within a lesson
+- claims reflect Space Academy’s attributed lore
 - competing\_attributions
 - conditional\_forecast
 - conflict\_claims\_unverified
@@ -2229,6 +2450,7 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 - earth-consciousness\_claim\_omitted
 - earth-population-claims
 - earthquake-causation-unverified
+- eclipse-portal-claims-unverified
 - egregor-vs-species-levels
 - ethical\_perspective\_conflict
 - extraordinary-contact-claims
@@ -2247,12 +2469,14 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 - extraordinary\_scientific\_claims
 - factional\_viewpoint\_conflict
 - false-invasion-not-prediction
+- fence-control-theory-unconfirmed
 - food\_and\_health\_claims\_unverified
 - forecast\_predictions\_not\_confirmed
 - genetic-surveillance-allegations
 - geopolitical-allegation
 - health-conspiracy-claims
 - health\_claims
+- historical-allegations
 - historical-claims-unverified
 - historical-conspiracy-claims
 - historical-uncertainty
@@ -2261,11 +2485,13 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 - ideological-commentary
 - incomplete-investigation
 - institutional\_conspiracy\_claims
+- intercultural-claims
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - internal\_qualification
 - internal\_revision
 - internal\_scope\_tension
 - internal\_tension
+- long conversation contains disputed health claims not included in core extraction
 - lunar-reactor-age-origin-uncertainty
 - media-control-allegation
 - medical-claims-unverified
@@ -2280,9 +2506,11 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 - metaphysical-social-commentary
 - metaphysical\_model
 - meteorite\_claim\_omitted
+- mythic-identifications-attributed-to-mari
 - named\_government\_and\_secret\_base\_claims
 - nuclear\_science\_misinformation
 - occult\_claims
+- personal-childhood-anecdote
 - personal\_accusations
 - personal\_cosmology
 - personal\_metaphysics
@@ -2290,10 +2518,12 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 - political-allegation
 - political-claims
 - political-claims-unverified
+- political-narrative\_attributed
 - political\_conspiracy\_claims
 - population-control-allegations
 - prior\_statement\_conflict
 - protest\_operation\_allegations
+- reincarnation-cosmology
 - related\_series\_part
 - review: claims on sexual orientation and depopulation
 - scenario-not-prediction
@@ -2301,6 +2531,8 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 - second\_hand\_claims
 - soulless-people-claim
 - speaker-label-ambiguity
+- speaker-perspective-model
+- speaker-speculation
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker-unidentified
 - speaker\_identity\_unclear\_p0002\_p0019
@@ -2318,6 +2550,7 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 - unverified-cabinet-claims
 - unverified-current-events
 - unverified-historical-claims
+- unverified-reset-claims
 - unverified-technology-claims
 - unverified\_aerospace\_claims
 - unverified\_agency\_claims
@@ -2342,5 +2575,6 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 - unverified\_wartime\_claims
 - vaccine-harm-allegations
 - virus-account-internal-tension
+- visitors-identified-as-key-returners
 - warrior\_symbolism
 - zero-point-mechanics

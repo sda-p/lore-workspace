@@ -1,0 +1,119 @@
+{
+  "source_id": "src-5faa731bafee",
+  "snapshot_sha256": "806c7ba2c892d768dc3af93b6f622e7cace14e90ba3ce90c3b2d7fe73b8cd6c1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5faa731bafee-c01",
+      "assertion": "Swaruu denies global warming but recognizes ecosystem destruction, attributing weather variation to cycles and HAARP.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0046",
+        "p0048",
+        "p0013",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "weather-control"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5faa731bafee-c02",
+      "assertion": "She says HAARP can intensify or steer existing storms, but cannot create hurricanes from nothing.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0046",
+        "p0048",
+        "p0049",
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5faa731bafee-c03",
+      "assertion": "Swaruu portrays the Sun as relaying galactic-center positronic energy through solar wind and says its output is harmless.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0063",
+        "p0064",
+        "p0065",
+        "p0066",
+        "p0067"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5faa731bafee-c04",
+      "assertion": "She says Earth has continent-sized interior cavities and Van Allen belts suppress energy variations in its core.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0070",
+        "p0071",
+        "p0072",
+        "p0073",
+        "p0075",
+        "p0076"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5faa731bafee-c05",
+      "assertion": "Swaruu says Cabal climate messaging promotes carbon bonds, taxes, and regulations, citing Greta as a campaign figure.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0081",
+        "p0084",
+        "p0088",
+        "p0089",
+        "p0092",
+        "p0093"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "entertainment-disclaimer",
+    "climate-claims"
+  ],
+  "coverage_gaps": [
+    "CO2 claims",
+    "polar ice claims",
+    "ozone claim",
+    "climate-policy details"
+  ]
+}

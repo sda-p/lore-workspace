@@ -1,0 +1,75 @@
+{
+  "source_id": "src-fd4806542048",
+  "snapshot_sha256": "840c2ef9dfd04ce507031899f61b6df62edddddb28ec81802bd4ae9984652d7d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fd4806542048-c01",
+      "assertion": "Swaruu calls humans secondary species, but calls Taygeta primary in one answer and adapted, therefore not primary in another.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd4806542048-c02",
+      "assertion": "She says alien soul incarnations can prompt genetic adaptation: intention usually suffices in 5D, while slower-manifesting 3D bodies may need artificial intervention.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd4806542048-c03",
+      "assertion": "She rejects the human reading of Sumerian tablets as physical human engineering, saying Matrix beliefs impose reversible limits while stellar-race genes remain latent until consciousness activates them.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0041",
+        "p0042",
+        "p0044"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "species-taxonomy-contradiction"
+  ],
+  "coverage_gaps": [
+    "adaptation-timeframe",
+    "human-genetics-model"
+  ]
+}

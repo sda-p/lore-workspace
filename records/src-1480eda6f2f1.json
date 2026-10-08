@@ -1,0 +1,117 @@
+{
+  "source_id": "src-1480eda6f2f1",
+  "snapshot_sha256": "0d280413a7711a0895693b2d20f788bf1c80beeaa6f5bd568d11c7d41fc199e9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1480eda6f2f1-c01",
+      "assertion": "Swaruu classifies Taygeta as primary and terrestrial humans as secondary species.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1480eda6f2f1-c02",
+      "assertion": "She says consciousness and intention shape genetics; human changes are reversible and not laboratory-made.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1480eda6f2f1-c03",
+      "assertion": "She says high-density souls may alter a body’s DNA to fit its incoming consciousness.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0027"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1480eda6f2f1-c04",
+      "assertion": "She says starseeds occur across Earth’s populations, not one selected ethnicity.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1480eda6f2f1-c05",
+      "assertion": "She claims engineered hybrids rarely reproduce and require sustained low-frequency conditions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0057",
+        "p0059",
+        "p0061"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1480eda6f2f1-c06",
+      "assertion": "She says crossbred dogs may revert toward ancestral types over generations, depending on lineage.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0063",
+        "p0065",
+        "p0071",
+        "p0072"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "species-origin-detail",
+    "frequency-model",
+    "animal-aging",
+    "hybridization-detail"
+  ]
+}

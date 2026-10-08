@@ -1,0 +1,679 @@
+{
+  "method": "Same-language normalized exact-passage overlap; passages under8 words, article title, and fingerprints seen in over20 documents excluded. Candidate threshold80% of smaller document and at least200 retained words.",
+  "policy": "Candidates only; not proof of equivalence and never used to skip extraction without complete content comparison. Translations across languages are not detected.",
+  "prepared_snapshots_scanned": 2060,
+  "candidates": [
+    {
+      "source_ids": [
+        "src-2be77fc03489",
+        "src-a5922967f589"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 6565,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "ADN - REFLEJO DE LA CONSCIENCIA - YAZHI SWARUU",
+        "ADN - Registro de Quienes Somos - Perspectiva Extraterrestre - Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-8636b4bb3446",
+        "src-98f45fed7656"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 5353,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "Mujer Extraterrestre Explica como funciona “la Política” Fuera de la Tierra -Sociedad Holística",
+        "Sociedad \"Holográfica\" - Holística - Sociedades Transicionales son Posibles - Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-54b7fc64a7de",
+        "src-6a5223076196"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 5328,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "Navegacion Estelar Extraterrestre, Viajes en Tiempo, Mapas InterEstelares: Swaruu de Erra (Pleyades)",
+        "MENSAJE EXTRATERRESTRE - NAVEGACION ESTELAR - SWARUU DE ERRA- Sistema Taygeta - PLEYADES"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-7d45f5f944a1",
+        "src-85df30bab80f"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 4422,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "SOCIEDAD HOLÍSTICA - PRIMERA PARTE - SOPHIA SWARUU - YAZHI",
+        "Sociedad \"Holográfica\" - Holística - Preparación Espiritual y Ética es la Clave - Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-11de0477daf4",
+        "src-4942a07c7e4f"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 4333,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "CONVERSIÓN DE CONCIENCIA-INTENCIÓN A MATERIA DURA - Swaruu de Erra – REACTOR DE ENERGIA PUNTO CERO",
+        "Energia Libre (Punto Zero): Mecanica de Manifestacion 1 - Mensaje Extraterrestre- Swaruu de Erra"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-8c1056201ab7",
+        "src-fa7665e5b209"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 3847,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "Pods Medicos de Taygeta - Preguntas y Respuestas - Yazhi Swaruu",
+        "ALTA TECNOLOGIA MEDICA - LAS CAMAS MEDICAS REGENERATIVAS - PODS MEDICOS - PREGUNTAS"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-22d5f1e26b59",
+        "src-9440df7f5243"
+      ],
+      "language": "en",
+      "shared_normalized_passage_words": 2899,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "Exopolitics and Ufology Circles and CIA - Infiltrations - Yazhi and Athena Swaruu",
+        "UFO and Exopolitics Groups and CIA - Infiltrations - Athena and Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-2550a101a222",
+        "src-b48ede308895"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2733,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "Pods Medicos Extraterrestres - Taygeta (Pleyades) - Yazhi Swaruu",
+        "CAMAS MEDICAS REGENERATIVAS – PODS MÉDICOS - TECNOLOGIA MEDICA"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-06cd5c8d1a9d",
+        "src-3e51d50bca48"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2733,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "Como se Fragmentan las Almas - Conocimiento Estelar - Yazhi Swaruu",
+        "CREACIÓN DE UN ALMA NUEVA FRAGMENTACIÓN ADMATICA Y MAS ALLÁ"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-c4eea8caf581",
+        "src-eba1fa9a8f38"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2687,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "EXTRATERRESTRE ME CUENTA UN INCREÍBLE RELATO SOBRE EL LUGAR MAS ATERRADOR - Yazhi Swaruu",
+        "Mundo al Revés y el Futuro influenciando el Pasado - Charlas metafísicas con Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-429d15872426",
+        "src-6f4abd2348fc"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2640,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "Charla Metafísica sobre la Expansión del Alma - con Yazhi Swaruu",
+        "¿CÓMO SE FRAGMENTAN LAS ALMAS EN LA ENTREVIDA?"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-8e490481292c",
+        "src-ab81c3f220ab"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2408,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "CONTACTO EXTRATERRESTRE PLEYADIANO DE TAYGETA CON EL PRESIDENTE IKE EISENHOWER - RASHELL DE TEMMER",
+        "Nosotras, Pleyadianas, Hablamos con Eisenhower: Primer Relato en la Historia"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-22af298b0f43",
+        "src-e30d1897bec1"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1239,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "Pods Medicos y Camas Medicas - Yazhi habla con Dale Harder sobre su diseño",
+        "CONVERSACIÓN CON DALE HARDER SOBRE SU CAMA MEDICA - Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-3c6d31174c4d",
+        "src-6b8c0befd4ce"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 893,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "NAVE EXTRATERRESTRE TAYGETEANA PLEYADIANA EN ORBITA DE LA TIERRA - YAZHI - ALCYONE",
+        "Taygeteanos en las Redes Sociales - Llegada de Nave Alcyone - Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-3f5e32e319ee",
+        "src-a02f81bbff4a"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 816,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLARES",
+        "Porque se esta Debilitando el Campo Magnético Terrestre? Deberíamos preocuparnos? (Athena Swaruu)"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-2c578d18d896",
+        "src-6be48f6d0431"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 664,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 1.0,
+      "titles": [
+        "Divulgación Taygeteana y Viejos Trucos de Desacreditación de lo que va Contra de la Matrix",
+        "Informacion importante para los seguidores de la divulgacion Taygeteana - La Matrix se tambalea"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-2e44af6cf865",
+        "src-f344c5152e16"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 8268,
+      "overlap_of_smaller": 0.9969,
+      "overlap_of_larger": 0.9969,
+      "titles": [
+        "LO QUE NO TE CUENTAN DEL VEGANISMO - SUS PELIGROS - TAYGETA",
+        "Veganismo - Agendas - Investigación Taygeteana - NO recomendamos Dieta Vegana"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-b6c6fa839c76",
+        "src-ceb65bcc3f82"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 3311,
+      "overlap_of_smaller": 0.9813,
+      "overlap_of_larger": 0.981,
+      "titles": [
+        "Mecánica de Manifestacion 2 (Tecnologias Extraterrestres explicado por Swaruu de Erra - Pleyades)",
+        "Navegacion Estelar II - Swaruu de Erra -Como pilotar una nave"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-2a6863e625a6",
+        "src-a554af026ae2"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2570,
+      "overlap_of_smaller": 0.9727,
+      "overlap_of_larger": 0.9727,
+      "titles": [
+        "La Terrible #Batalla en EL MUNDO ASTRAL - #Metafisica - #Yazhi - Sophia #Swaruu XII #Exopolitica",
+        "Guerra Astral-Controladores de Sombra del Cabal - Charla con Yazhi Swaruu (Contacto Extraterrestre)"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-024defbdba5d",
+        "src-3163ad7ea9b7"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1232,
+      "overlap_of_smaller": 0.9617,
+      "overlap_of_larger": 0.961,
+      "titles": [
+        "Contratos del Alma - Quiero Saber que Son - Charla casual con Yazhi, Matias, y Gosia",
+        "CONTACTO EXTRATERRESTRE - CONTRATOS LA ENTRE VIDA - Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-7872bc2f2c04",
+        "src-af005c73ed53"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 6695,
+      "overlap_of_smaller": 0.9579,
+      "overlap_of_larger": 0.9577,
+      "titles": [
+        "Inteligencia Artificial, Goo Negro, Chemtrails y mas: Articulo de Swaruu (Taygeta, Pleyades)",
+        "BIOLOGÍA IV - GOO NEGRO EXTRATERRESTRE - CHEMTRAILS - INTELIGENCIA ARTIFICIAL – SWARUU DE ERRA"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-7ab85bafab6b",
+        "src-e285065c4098"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2146,
+      "overlap_of_smaller": 0.9183,
+      "overlap_of_larger": 0.9183,
+      "titles": [
+        "LO QUE OCULTA LA NASA NI LO SABEN LOS ASTRONAUTAS",
+        "Luna - Influencia en las Mujeres - Bandas van Allen, Holograma, y Mas - Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-46f3bf392b0e",
+        "src-d8bc3b414a4c"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1715,
+      "overlap_of_smaller": 0.9098,
+      "overlap_of_larger": 0.9093,
+      "titles": [
+        "PUMA PUNKU ANTIGUA BASE ESTELAR Y SUS PORTALES ESTELARES - Aneeka de Temmer",
+        "Aneeka de Temmer - Puma Punku, Machu Pichu y mas - Bases Extraterrestres"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-9b0e688f41d9",
+        "src-b01e12100c02"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 5093,
+      "overlap_of_smaller": 0.9887,
+      "overlap_of_larger": 0.9016,
+      "titles": [
+        "Astrología - Plutón entrando en Acuario - Perspectiva Extraterrestre",
+        "Pluton y Shiva - Astrologia"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-2496c5717d1f",
+        "src-f698e76aaac9"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1687,
+      "overlap_of_smaller": 0.8993,
+      "overlap_of_larger": 0.8954,
+      "titles": [
+        "Existen Trampas para las Almas y Maquinas de Borrado de Memorias? - Athena Swaruu",
+        "LA TRAMPA DE LAS ALMAS – ES VERDAD? - Athena Swaruu - Sophia Swaruu - Swaruu de Erra"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-74d9087d50f8",
+        "src-e60fdddd8457"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 5787,
+      "overlap_of_smaller": 0.8824,
+      "overlap_of_larger": 0.8818,
+      "titles": [
+        "Libre Albedrío y Líneas Temporales: Yázhí Swaruu - Contacto Extraterrestre",
+        "ERES EL UNIVERSO TODOS ESTAMOS CONECTADOS POR ESO TODOS SOMOS UNO - Sophia Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-05476d7782cb",
+        "src-eb3d807278aa"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2983,
+      "overlap_of_smaller": 0.8802,
+      "overlap_of_larger": 0.8781,
+      "titles": [
+        "EL GRAN SECRETO OCULTO DE LA NASA SOBRE LA LUNA - Athena Swaruu",
+        "Reactores Humanos en la Luna - Examinando el Tema con Athena Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-4255098ec77d",
+        "src-ca8f3655acdd"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1491,
+      "overlap_of_smaller": 0.8628,
+      "overlap_of_larger": 0.8609,
+      "titles": [
+        "DEFINITIVAMENTE NO SUCEDE NINGUNA GUERRA - UCRANIA RUSIA - Athena Swaruu",
+        "Ucrania - Que Han Visto los Hashmallim en la Tierra? Athena Swaruu Informa"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-5e8b4d828ea6",
+        "src-d26552c9fbda"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2528,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 0.8584,
+      "titles": [
+        "Los Extraterrestres. Porque estan aqui ? - Taygeteanas - Swaruunianas - Sophia Swaruu",
+        "Nave de Taygeta - Porque Esta Aquí? Actualización - Conoce Algunos Miembros de la Tripulación"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-735f991fe169",
+        "src-954309ae5feb"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2761,
+      "overlap_of_smaller": 0.822,
+      "overlap_of_larger": 0.8217,
+      "titles": [
+        "MENSAJE EXTRATRRESTRE PARA LOS ESCEPTICOS - SWARUU DE ERRA - PLEYADES",
+        "Swaruu se Dirige a los Escepticos - Mensaje Extraterreste de Pleyades (Taygeta)"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-75d6af7d0b46",
+        "src-d778f32d51ae"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1017,
+      "overlap_of_smaller": 0.8208,
+      "overlap_of_larger": 0.8188,
+      "titles": [
+        "NO HAY DENSIDADES 3D 5D COMO LES DICEN – ATHENA SWARUU",
+        "DENSIDADES CONVERSACIÓN METAFÍSICA – CONTACTO EXTRATERRESTRE- ATHENA SWARUU"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-6fff99fdbd26",
+        "src-e10b7b1c1712"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1410,
+      "overlap_of_smaller": 0.8094,
+      "overlap_of_larger": 0.809,
+      "titles": [
+        "Hablemos mas sobre las Pirámides - Información Extraterrestre - Taygeta (Pléyades)",
+        "LOS GRANDES MISTERIOS DE LAS PIRÁMIDES EGIPCIAS Y LA GRAN ESFINGE DE GUIZA"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-226904c4f73e",
+        "src-2aeaa7622c61"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 2132,
+      "overlap_of_smaller": 0.8597,
+      "overlap_of_larger": 0.7767,
+      "titles": [
+        "UN GRAN PODER CONLLEVA UNA GRAN RESPONSABILIDAD - Sophia Swaruu",
+        "Semillas Estelares - Que Debemos Hacer Ahora? Conversacion con Yazhi Swaruu - Niña Extraterrestre"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-8d5449505ff0",
+        "src-b00727c7921a"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1345,
+      "overlap_of_smaller": 0.8132,
+      "overlap_of_larger": 0.7638,
+      "titles": [
+        "LA FAMOSA ASCENSIÓN PLANETARIA- EL INCONSCIENTE COLECTIVO - Sophia Swaruu - Yazhi",
+        "Ascensión Planetaria - Charla con Yazhi Swaruu (Sophia)"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-b0eb8093b751",
+        "src-bfb9700317e0"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1456,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 0.7204,
+      "titles": [
+        "Nebulosas, Precesión de los equinoccios, y Mas - Una Mujer Extraterrestre Explica (Athena Swaruu)",
+        "El Diluvio Universial Tiamat Cronologia Terrestre de los 12.500 años – Athena Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-6e8bf66d80f9",
+        "src-b85ee8ec9a41"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1936,
+      "overlap_of_smaller": 0.8532,
+      "overlap_of_larger": 0.644,
+      "titles": [
+        "Mensaje a las Semillas - Manifiesto de Juana - Mensaje de Gosia y de Yazhi Swaruu",
+        "MENSAJE A LAS SEMILLAS ESTELARES - #YAZHI SOPHIA SWARUU - #EXOPOLITICA"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-8a37a5eaeb7b",
+        "src-97c055d470ab"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1956,
+      "overlap_of_smaller": 0.9192,
+      "overlap_of_larger": 0.5746,
+      "titles": [
+        "NAVES EXTRATERRESTRES PUEDEN ENVIAR MENSAJES DE LUZ EN FORMA DE DESTELLOS",
+        "Vida Interestelar 3 - Scimitars - NAVES DE CAZA - Athena Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-531dd2c83cf3",
+        "src-96743ca87fea"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1175,
+      "overlap_of_smaller": 0.9711,
+      "overlap_of_larger": 0.5124,
+      "titles": [
+        "Semillas Estelares - Conversación con Sophia Swaruu (Yazhi)",
+        "EL DESAFÍO DEL JUEGO ACEPTANDO LOS DESAFÍOS DE LA VIDA"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-2f1a34ed22b2",
+        "src-6f1a8a7d6452"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1138,
+      "overlap_of_smaller": 0.9082,
+      "overlap_of_larger": 0.5083,
+      "titles": [
+        "DESCLASIFICACIÓN DE LA DIVULGACIÓN DEL FENÓMENO OVNI - CONTACTO EXTRATERRESTRE - Athena 2/2",
+        "Desclasificación OVNI - Preguntas - Conversación con Athena Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-075f03199db3",
+        "src-828b1cc9dc5c"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1671,
+      "overlap_of_smaller": 0.9091,
+      "overlap_of_larger": 0.4926,
+      "titles": [
+        "NO HAY NINGÚN DESPERTAR SOLO HAS ADQUIRIDO MÁS CONCIENCIA - SOPHIA SWARUU -YAZHI",
+        "Reseteo Planetario - Respuestas de Yázhi Swaruu (Comunicación Extraterrestre)"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-531dd2c83cf3",
+        "src-d834e6dbdec7"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1083,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 0.4723,
+      "titles": [
+        "Semillas Estelares - Conversación con Sophia Swaruu (Yazhi)",
+        "ROMPIENDO LAS CADENAS DEL JUEGO ABRAZANDO LA ALEGRÍA Y LA PLENITUD"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-4cc1ee1cc7ec",
+        "src-8d5449505ff0"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1490,
+      "overlap_of_smaller": 0.8461,
+      "overlap_of_larger": 0.4664,
+      "titles": [
+        "Ascensión Planetaria – Parasitación del bajo astral - Sophia Swaruu #Yazhi #Consciencia #Metafisica",
+        "LA FAMOSA ASCENSIÓN PLANETARIA- EL INCONSCIENTE COLECTIVO - Sophia Swaruu - Yazhi"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-6f1a8a7d6452",
+        "src-d899310fae70"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 986,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 0.4404,
+      "titles": [
+        "Desclasificación OVNI - Preguntas - Conversación con Athena Swaruu",
+        "DESCLASIFICACIÓN DE LA DIVULGACIÓN DEL FENÓMENO OVNI - CONTACTO EXTRATERRESTRE - Athena 1/2"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-04168227bd18",
+        "src-c3edb79b5f6c"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1109,
+      "overlap_of_smaller": 1.0,
+      "overlap_of_larger": 0.4112,
+      "titles": [
+        "Galaxias - Información Aportada por Mujeres Extraterrestres",
+        "LAS GALAXIAS QUE CHOCAN - Yazhi Swaruu"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-9143cd103af6",
+        "src-d778f32d51ae"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 1201,
+      "overlap_of_smaller": 0.9693,
+      "overlap_of_larger": 0.2574,
+      "titles": [
+        "3D - 5D son Estados Mentales - Somos Seres en Varias Densidades a la vez - Yazhi y Athena Swaruu",
+        "DENSIDADES CONVERSACIÓN METAFÍSICA – CONTACTO EXTRATERRESTRE- ATHENA SWARUU"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-13154e3227fd",
+        "src-59758ad652fa"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 563,
+      "overlap_of_smaller": 0.8783,
+      "overlap_of_larger": 0.1459,
+      "titles": [
+        "LA ESCASEZ DEL AGUA EL NEGOCIO OCULTO - Athena Swaruu",
+        "Mini Temas - Información de las Personas Extraterrestres - Taygeta, Pléyades"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-1f01e4810fc2",
+        "src-706e33985c24"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 437,
+      "overlap_of_smaller": 0.9583,
+      "overlap_of_larger": 0.1412,
+      "titles": [
+        "EXTRATERRESTRES - COMO COORDINAN EL TIEMPO - ANÉEKA DE TEMMER",
+        "Tiempo - Mezcla de Temas - Comunicación Extraterrestre (Taygeta - Pléyades)"
+      ]
+    },
+    {
+      "source_ids": [
+        "src-18ebdb1cca3c",
+        "src-a82352157b1a"
+      ],
+      "language": "es",
+      "shared_normalized_passage_words": 260,
+      "overlap_of_smaller": 0.8202,
+      "overlap_of_larger": 0.1399,
+      "titles": [
+        "DESCLASIFICACIÓN DEL FENÓMENO EXTRATERRESTRE CONSECUENCIAS -ANEEKA DE TEMMER",
+        "Desclasificación de los OVNIS? Preguntas para la entrevista con AJ Roberts"
+      ]
+    }
+  ]
+}

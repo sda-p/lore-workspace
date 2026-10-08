@@ -1,0 +1,121 @@
+{
+  "source_id": "src-293f7dd241ff",
+  "snapshot_sha256": "9d9ea0529b1604007fbab6158cabef5e554af00ba0337c5ac915fd72792bd600",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-293f7dd241ff-c01",
+      "assertion": "Full-immersion systems support remote presence, shared or solo entertainment, and user-created worlds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-293f7dd241ff-c02",
+      "assertion": "Mari says thought interfaces read intentions through the quantum field, avoiding invasive brainwave sensors.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-293f7dd241ff-c03",
+      "assertion": "Engineering simulations model materials and component interactions to find weaknesses and guide manufacture.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-293f7dd241ff-c04",
+      "assertion": "Military simulations test options and predict opponents, but quality depends on available data.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-293f7dd241ff-c05",
+      "assertion": "Taygeta limits computers in art and music after automation harmed creativity, honoring handmade work.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-293f7dd241ff-c06",
+      "assertion": "VR recreates touch, temperature, smell and taste, though taste is weakest and overuse risks real-life neglect.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "technology-described-by-mari"
+  ],
+  "coverage_gaps": [
+    "immersive-education",
+    "3d-replication"
+  ]
+}

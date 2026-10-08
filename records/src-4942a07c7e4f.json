@@ -1,0 +1,135 @@
+{
+  "source_id": "src-4942a07c7e4f",
+  "snapshot_sha256": "9837deb746f1d9a86833f208cea756ae6cc9484f9bbba40c5faa9b0cfb33756a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4942a07c7e4f-c01",
+      "assertion": "She describes matter as toroidal standing-wave nodes in ether.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4942a07c7e4f-c02",
+      "assertion": "She says consciousness and attention shape matter and events.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4942a07c7e4f-c03",
+      "assertion": "Shared focus reinforces nodes; conflicting intentions disrupt them.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4942a07c7e4f-c04",
+      "assertion": "She describes zero-point energy as depolarization between physical and etheric fields.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0040",
+        "p0041",
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4942a07c7e4f-c05",
+      "assertion": "She says quartz reactors use controlled crystals and nested toroids for abundant power.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0063",
+        "p0064",
+        "p0065",
+        "p0066",
+        "p0067"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4942a07c7e4f-c06",
+      "assertion": "She describes wireless power as clean and harmless because it travels nonmaterially.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4942a07c7e4f-c07",
+      "assertion": "She says positive civilizations use only needed energy, largely through zero-point systems.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0076",
+        "p0077"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Compared English candidate src-622099cec238; article substantially matches but has paragraph segmentation/translation differences."
+  ],
+  "coverage_gaps": [
+    "number-sequence-detail",
+    "terrestrial-energy-critique",
+    "Kardashev-scale",
+    "KIC-8462852"
+  ]
+}

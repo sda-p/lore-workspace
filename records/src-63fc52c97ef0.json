@@ -1,0 +1,64 @@
+{
+  "source_id": "src-63fc52c97ef0",
+  "snapshot_sha256": "fdd533b9c2e18796241063171e3be0c1fde874ee75b5f48028aaae016a26e967",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-63fc52c97ef0-c01",
+      "assertion": "Robert recounts meeting an older woman at Montserrat’s ufology congress; she said she was a long-time contactee and introduced him to people she identified as Taygetans, including Swaruu.",
+      "speaker": "Robert",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The Taygetan identity is reported by the narrators."
+    },
+    {
+      "id": "src-63fc52c97ef0-c02",
+      "assertion": "Gosia says her first connection with Swaruu was in December, followed by a months-long interruption and renewed contact around April.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0028"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63fc52c97ef0-c03",
+      "assertion": "Gosia says Swaruu explained that Taygetans shifted from telepathy to computer chat, which she described as less vulnerable to interference and distortion.",
+      "speaker": "Gosia, relaying Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "contact-identity-reported"
+  ],
+  "coverage_gaps": [
+    "contact-communication-details"
+  ]
+}

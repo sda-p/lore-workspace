@@ -1,0 +1,113 @@
+{
+  "source_id": "src-c1b972dbf490",
+  "snapshot_sha256": "0bc4111571a4859cf73dad95252ac17b46663cff0e08150daace15b6bd24bfb2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c1b972dbf490-c01",
+      "assertion": "Mari says astral is primary reality; physical worlds are restricted, agreed perceptions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1b972dbf490-c02",
+      "assertion": "Earth’s souls collectively manifest its Matrix; each person’s frequency shapes personal experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1b972dbf490-c03",
+      "assertion": "Federation leaves Earth to learn its own lessons and isolates it to contain low-frequency influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1b972dbf490-c04",
+      "assertion": "Fear can trap souls in reincarnation; entities exploit creative power but do not force return.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1b972dbf490-c05",
+      "assertion": "Spirit guides are expanded aspects of the same souls, existing outside linear time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1b972dbf490-c06",
+      "assertion": "Advanced souls may learn through empathy and observation without suffering.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims describe Mari’s spiritual model of the Federation and reincarnation"
+  ],
+  "coverage_gaps": [
+    "ethical critique of Federation permissiveness"
+  ]
+}

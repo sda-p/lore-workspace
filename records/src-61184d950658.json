@@ -90,7 +90,7 @@
     },
     {
       "id": "src-61184d950658-c06",
-      "assertion": "She distinguishes Taygetan cultivated meat from Earth’s synthetic products and discourages the latter.",
+      "assertion": "Anéeka distinguishes cultivated tissue consumed by most Lyrian races from Earth’s synthetic meat, which she discourages.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0076"
@@ -100,7 +100,7 @@
         "cultivated-meat"
       ],
       "modality": "asserted",
-      "confidence": "low",
+      "confidence": "high",
       "qualifiers": ""
     }
   ],

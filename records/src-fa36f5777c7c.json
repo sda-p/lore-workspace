@@ -1,0 +1,67 @@
+{
+  "source_id": "src-fa36f5777c7c",
+  "snapshot_sha256": "adbdf86728ea4a90657ec1013aaeb8c507e9643a471a37e4ff93824c040bd72b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fa36f5777c7c-c01",
+      "assertion": "Swaruu distinguishes environmental pollution and ecosystem destruction from what she calls a climate-change control agenda, denying global warming as commonly described.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0029"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed claims; the denial and agenda framing are Swaruu’s."
+    },
+    {
+      "id": "src-fa36f5777c7c-c02",
+      "assertion": "Swaruu says climate manipulation cannot create hurricanes from nothing but can intensify or steer existing storms.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She also attributes climate variation to natural cycles and other factors."
+    },
+    {
+      "id": "src-fa36f5777c7c-c03",
+      "assertion": "Swaruu alleges the Cabal uses Greta Thunberg to promote carbon credits, taxes, and regulations as population-control measures.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The source presents this as Swaruu’s allegation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "attributed-climate-conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "solar-core-claims",
+    "ozone-layer-claims"
+  ]
+}

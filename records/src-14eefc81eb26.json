@@ -1,0 +1,134 @@
+{
+  "source_id": "src-14eefc81eb26",
+  "snapshot_sha256": "38d07ee9527f3a845f4955a79eb95a84398f90885dbd62c738d035d1ef6ed76e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-14eefc81eb26-c01",
+      "assertion": "Athena says partners meet by frequency compatibility, not compulsory soul contracts.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "soulmates",
+      "topics": [
+        "soulmates"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-14eefc81eb26-c02",
+      "assertion": "She says incarnated partner variants may differ in memories, though higher selves are one consciousness.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0015",
+        "p0025",
+        "p0030"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-14eefc81eb26-c03",
+      "assertion": "Athena says apparent future memories can map events still to come.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-14eefc81eb26-c04",
+      "assertion": "She says attachment sustains reincarnation loops; releasing attachments dissolves them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0046",
+        "p0048"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-14eefc81eb26-c05",
+      "assertion": "Athena attributes present personality to unconscious influences from many past lives.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0050",
+        "p0051",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-14eefc81eb26-c06",
+      "assertion": "Swaruu (9) defines soulmates as close-frequency fragments of one soul.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0057",
+        "p0058",
+        "p0061"
+      ],
+      "primary_topic": "soulmates",
+      "topics": [
+        "soulmates"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-14eefc81eb26-c07",
+      "assertion": "Swaruu (9) says Taygetan identical twins may share one soul; Earth’s veil divides attention.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0059",
+        "p0060"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections"
+  ],
+  "coverage_gaps": [
+    "compatibility and non-kin partner examples"
+  ]
+}

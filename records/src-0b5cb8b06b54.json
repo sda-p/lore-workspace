@@ -1,0 +1,82 @@
+{
+  "source_id": "src-0b5cb8b06b54",
+  "snapshot_sha256": "5ca62f4be6103b3930dbe4d053ad1a8cc2a3a9020ee5399a505bdae0d9336f7b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0b5cb8b06b54-c01",
+      "assertion": "Swaruu says positive offworld groups must aid a planet after enough inhabitants request help, under galactic rules protecting free will and preventing abuse of authority.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0b5cb8b06b54-c02",
+      "assertion": "She says Earth’s liberation depends on its inhabitants; requesting assistance must not surrender their own power or responsibility.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0b5cb8b06b54-c03",
+      "assertion": "She calls herself an independent Ronin, not a representative of Taygeta or the Federation, and says she withholds definitive proof to avoid imposing on listeners.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0b5cb8b06b54-c04",
+      "assertion": "She says the Cabal uses the Internet for population control, surveillance, censorship, and shaping public values.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "federation-dispute",
+    "platform-history"
+  ]
+}

@@ -64,6 +64,16 @@ Source: [Synthetic Telepathy - What is it and How is it Used? - Athena Swaruu](h
 
 Related topics: [Prime Directive](prime-directive.md).
 
+### src-3aa29ffdb9c1-c04
+
+Mari describes the body, brain, and DNA as filters or translators for consciousness.
+
+Attributed to **Gosia quoting Mari Swa**; reported; extraction confidence: high.
+
+Source: [CLASS 005 - Body or Soul - Who Are You? What Makes You "You"? Are you Consciousness?](https://swaruu.org/transcripts/class-005-body-or-soul-who-are-you-what-makes-you-you-are-you-consciousness) (2025-04-22; en); passages p0038, p0039, p0040. [Structured record](../../records/src-3aa29ffdb9c1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-a4e838c75ab3-c04](starship-systems.md#src-a4e838c75ab3-c04) — Starship systems

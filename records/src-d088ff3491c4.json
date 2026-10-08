@@ -1,0 +1,101 @@
+{
+  "source_id": "src-d088ff3491c4",
+  "snapshot_sha256": "559f4ab10b9e9592d735c70479b3eb4620c29da0a6c3ed282a7c80bad6e82f4f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d088ff3491c4-c01",
+      "assertion": "Alenym says the ship museum keeps relics from visited worlds, including many terrestrial objects.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d088ff3491c4-c02",
+      "assertion": "Anéeka describes fragile Sassani alloy figurines and Urmah armor among the cross-species collection.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0027",
+        "p0030"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d088ff3491c4-c03",
+      "assertion": "Anéeka describes four linked 10-by-6-meter rooms with sealed, climate-controlled cases and low lighting.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d088ff3491c4-c04",
+      "assertion": "Anéeka says collecting is common among crews; a ship designed for 1,800 carries 30, leaving room for museums.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0040"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d088ff3491c4-c05",
+      "assertion": "Objects come by direct collection, tractor beam, or gifts; Urmah give souvenirs, while Andromedans tend to hoard.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "urmah",
+        "andromeda-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translated-originally-Spanish"
+  ],
+  "coverage_gaps": [
+    "named collection inventory",
+    "artifact provenance",
+    "Viera museums"
+  ]
+}

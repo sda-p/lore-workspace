@@ -516,6 +516,226 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Religions, another perspective, False History, Reality and Egregors. (English)](https://swaruu.org/transcripts/religions-another-perspective-false-history-reality-and-egregors-english) (2023-08-14; en); passages p0013, p0015, p0016. [Structured record](../../records/src-4936c3c90ef9.json).
 
+### src-a0d86f489b86-c01
+
+Mari Swaruu says past-life memory is common beyond Earth, rare on Earth.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Remembering Past Lives 2, Implanted Memories, Walk-Ins and Extreme Gaslighting (English)](https://swaruu.org/transcripts/remembering-past-lives-2-implanted-memories-walk-ins-and-extreme-gaslighting-english) (2024-08-10; en); passages p0003. [Structured record](../../records/src-a0d86f489b86.json).
+
+### src-a0d86f489b86-c02
+
+Mari Swaruu links forgetting to frequency gaps and soul choices.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Remembering Past Lives 2, Implanted Memories, Walk-Ins and Extreme Gaslighting (English)](https://swaruu.org/transcripts/remembering-past-lives-2-implanted-memories-walk-ins-and-extreme-gaslighting-english) (2024-08-10; en); passages p0006, p0007. [Structured record](../../records/src-a0d86f489b86.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6e20d75c06ef-c01
+
+Mari Swa says most Lyrian star cultures recall past lives and regard reincarnation as ordinary.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Gender Roles and Homosexuality in Space Lyrians and on Earth, and Past Lives (English)](https://swaruu.org/transcripts/gender-roles-and-homosexuality-in-space-lyrians-and-on-earth-and-past-lives-english) (2024-08-22; en); passages p0004, p0006. [Structured record](../../records/src-6e20d75c06ef.json).
+
+### src-6e20d75c06ef-c02
+
+Mari Swa says past-life memories shape personality, values, and present identity.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Gender Roles and Homosexuality in Space Lyrians and on Earth, and Past Lives (English)](https://swaruu.org/transcripts/gender-roles-and-homosexuality-in-space-lyrians-and-on-earth-and-past-lives-english) (2024-08-22; en); passages p0007. [Structured record](../../records/src-6e20d75c06ef.json).
+
+### src-6e20d75c06ef-c03
+
+Mari Swa says repeated incarnations can establish a soul’s gender preference.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Gender Roles and Homosexuality in Space Lyrians and on Earth, and Past Lives (English)](https://swaruu.org/transcripts/gender-roles-and-homosexuality-in-space-lyrians-and-on-earth-and-past-lives-english) (2024-08-22; en); passages p0008, p0009. [Structured record](../../records/src-6e20d75c06ef.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6e20d75c06ef-c04
+
+Mari Swa says clear past-life memories shape social values in Lyrian cultures.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Gender Roles and Homosexuality in Space Lyrians and on Earth, and Past Lives (English)](https://swaruu.org/transcripts/gender-roles-and-homosexuality-in-space-lyrians-and-on-earth-and-past-lives-english) (2024-08-22; en); passages p0010, p0011. [Structured record](../../records/src-6e20d75c06ef.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-2dc889901b55-c03
+
+Mari Swa says Earth’s lower astral mirrors collective fears and beliefs.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Thoughts on the Astral. Part 2 (English)](https://swaruu.org/transcripts/thoughts-on-the-astral-part-2-english) (2024-09-16; en); passages p0015, p0017. [Structured record](../../records/src-2dc889901b55.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4bcc1973bc1e-c05
+
+Mari Swa says some Lyrian visitors enter Earth to forget past lives.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 31, July 11, 2024, Hurricane, Chat GPT, and other things (English)](https://swaruu.org/transcripts/space-news-31-july-11-2024-hurricane-chat-gpt-and-other-things-english) (2024-07-11; en); passages p0020. [Structured record](../../records/src-4bcc1973bc1e.json).
+
+Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
+
+### src-4a80271a1b8e-c04
+
+Mari Swa says astral bodies reflect a soul’s self-image and attachments.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Astral Warriors, Part 2 (English)](https://swaruu.org/transcripts/astral-warriors-part-2-english) (2024-10-03; en); passages p0007, p0008. [Structured record](../../records/src-4a80271a1b8e.json).
+
+### src-4a80271a1b8e-c05
+
+Mari Swa says each soul manifests its own astral realm and perception range.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Astral Warriors, Part 2 (English)](https://swaruu.org/transcripts/astral-warriors-part-2-english) (2024-10-03; en); passages p0011, p0012, p0015. [Structured record](../../records/src-4a80271a1b8e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4a80271a1b8e-c06
+
+Mari Swa says near-death experiences can open perception of astral realms.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Astral Warriors, Part 2 (English)](https://swaruu.org/transcripts/astral-warriors-part-2-english) (2024-10-03; en); passages p0013, p0014. [Structured record](../../records/src-4a80271a1b8e.json).
+
+### src-d61cbc9c170b-c02
+
+Swaruu says the records’ library appearance is a personal manifestation.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Akashic Records - Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/akashic-records-swaruu-of-erra-taygeta-pleiades) (2024-04-22; en); passages p0006. [Structured record](../../records/src-d61cbc9c170b.json).
+
+### src-cea409311112-c01
+
+Mari says the memory veil occurs beyond Earth too, varying with core beliefs more than species or location. She presents this as her view.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Forced Reincarnation? (English)](https://swaruu.org/transcripts/forced-reincarnation-english) (2024-07-08; en); passages p0003, p0004, p0005. [Structured record](../../records/src-cea409311112.json).
+
+Related topics: [Nexus souls](nexus-souls.md).
+
+### src-414c8f76eb66-c05
+
+Mari says unresolved problems persist across death and other astral realms, so souls must face them.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Thoughts on the Astral (English)](https://swaruu.org/transcripts/thoughts-on-the-astral-english) (2024-09-14; en); passages p0017, p0018. [Structured record](../../records/src-414c8f76eb66.json).
+
+Related topics: [Nexus souls](nexus-souls.md).
+
+### src-9c1661abc463-c04
+
+Souls may plan incarnations outside linear time for growth, though embodied selves may resist planned suffering.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: low.
+
+Source: [Free Will (English)](https://swaruu.org/transcripts/free-will-english) (2024-05-02; en); passages p0026, p0028, p0029. [Structured record](../../records/src-9c1661abc463.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-38b07e39e45a-c01
+
+Mari attributes Earth’s memory veil to mismatch with higher-vibration astral or past-life states.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: low.
+
+Source: [What it is like to Remember Past Lives (English)](https://swaruu.org/transcripts/what-it-is-like-to-remember-past-lives-english) (2024-08-03; en); passages p0006. [Structured record](../../records/src-38b07e39e45a.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-38b07e39e45a-c02
+
+She says Earth’s amnesia enables manipulation and resets; remembering cultures are calmer but may stagnate, though art can counter this.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: low.
+
+Source: [What it is like to Remember Past Lives (English)](https://swaruu.org/transcripts/what-it-is-like-to-remember-past-lives-english) (2024-08-03; en); passages p0007, p0008, p0013, p0014, p0015. [Structured record](../../records/src-38b07e39e45a.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-38b07e39e45a-c03
+
+Taygetans remember three to five past lives on average; Sophia Yazhi recalls many more.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: low.
+
+Source: [What it is like to Remember Past Lives (English)](https://swaruu.org/transcripts/what-it-is-like-to-remember-past-lives-english) (2024-08-03; en); passages p0020. [Structured record](../../records/src-38b07e39e45a.json).
+
+Related topics: [Taygetans](taygetans.md), [Sophia Swaruu](sophia-swaruu.md).
+
+### src-38b07e39e45a-c05
+
+She chose a new identity as Mari Swa, using prior lives as reference despite painful, unwanted memories.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: low.
+
+Source: [What it is like to Remember Past Lives (English)](https://swaruu.org/transcripts/what-it-is-like-to-remember-past-lives-english) (2024-08-03; en); passages p0025, p0026, p0030, p0031. [Structured record](../../records/src-38b07e39e45a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-25cd15eb88db-c03
+
+She says reincarnation into dates viewed as past or future remains sequential for the soul; dates are collective conventions.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [Time Is Linear - My Metaphysical Divagations and Conclusions (Gosia)](https://swaruu.org/transcripts/time-is-linear-my-metaphysical-divagations-and-conclusions-gosia) (2024-12-29; en); passages p0015. [Structured record](../../records/src-25cd15eb88db.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3aa29ffdb9c1-c03
+
+Mari says perceptions carried across lives shape later preferences and identity.
+
+Attributed to **Gosia quoting Mari Swa**; reported; extraction confidence: high.
+
+Source: [CLASS 005 - Body or Soul - Who Are You? What Makes You "You"? Are you Consciousness?](https://swaruu.org/transcripts/class-005-body-or-soul-who-are-you-what-makes-you-you-are-you-consciousness) (2025-04-22; en); passages p0027, p0028, p0029. [Structured record](../../records/src-3aa29ffdb9c1.json).
+
+### src-eaeca76aac30-c02
+
+Mari says interstellar populations remember past lives more often than humans on Earth.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Thoughts on Reincarnation, and the Higher Self (English)](https://swaruu.org/transcripts/thoughts-on-reincarnation-and-the-higher-self-english) (2024-05-23; en); passages p0008, p0010. [Structured record](../../records/src-eaeca76aac30.json).
+
+### src-af94d1557c05-c04
+
+Mari says postmortem awareness depends on a soul’s values and vibration; expanded consciousness can transform, rather than erase, identity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [On Souls and Entities, Life and Death from the point of view of a Spirit](https://swaruu.org/transcripts/on-souls-and-entities-life-and-death-from-the-point-of-view-of-a-spirit) (2024-05-16; en); passages p0011, p0012, p0014, p0015, p0016. [Structured record](../../records/src-af94d1557c05.json).
+
+### src-af94d1557c05-c05
+
+Mari speculates that comfortable souls may reincarnate to seek experience and further expansion.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
+
+Source: [On Souls and Entities, Life and Death from the point of view of a Spirit](https://swaruu.org/transcripts/on-souls-and-entities-life-and-death-from-the-point-of-view-of-a-spirit) (2024-05-16; en); passages p0017, p0018, p0019. [Structured record](../../records/src-af94d1557c05.json).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c01](consciousness-metaphysics.md#src-331beeab2088-c01) — Consciousness and metaphysics
@@ -523,14 +743,46 @@ Source: [Religions, another perspective, False History, Reality and Egregors. (E
 - [src-faff88963391-c02](consciousness-metaphysics.md#src-faff88963391-c02) — Consciousness and metaphysics
 - [src-c3fb6e0f8cde-c01](alien-species.md#src-c3fb6e0f8cde-c01) — Alien species and distinctions
 - [src-3b9cf6cc3db8-c03](archons-and-demons.md#src-3b9cf6cc3db8-c03) — Archons and demons
+- [src-a0d86f489b86-c03](immersion-pods.md#src-a0d86f489b86-c03) — Immersion pods
+- [src-0afd8a265a42-c06](spatium-lupi.md#src-0afd8a265a42-c06) — Spatium Lupi
+- [src-6e20d75c06ef-c05](moon-matrix.md#src-6e20d75c06ef-c05) — Moon and terrestrial Matrix
+- [src-2dc889901b55-c05](egregors.md#src-2dc889901b55-c05) — Egregors
+- [src-2dc889901b55-c06](egregors.md#src-2dc889901b55-c06) — Egregors
+- [src-f06248faba98-c02](urmah.md#src-f06248faba98-c02) — Urmah
+- [src-f06248faba98-c05](urmah.md#src-f06248faba98-c05) — Urmah
+- [src-fc193e0d15bd-c03](galactic-federation.md#src-fc193e0d15bd-c03) — Galactic Federation
+- [src-2b891f3fac7b-c05](archons-and-demons.md#src-2b891f3fac7b-c05) — Archons and demons
+- [src-b13379b319a5-c03](consciousness-metaphysics.md#src-b13379b319a5-c03) — Consciousness and metaphysics
+- [src-cea409311112-c03](nexus-souls.md#src-cea409311112-c03) — Nexus souls
+- [src-414c8f76eb66-c02](nexus-souls.md#src-414c8f76eb66-c02) — Nexus souls
+- [src-3f83b10b1792-c03](nexus-souls.md#src-3f83b10b1792-c03) — Nexus souls
+- [src-645493db4473-c02](consciousness-metaphysics.md#src-645493db4473-c02) — Consciousness and metaphysics
+- [src-38b07e39e45a-c04](taygetans.md#src-38b07e39e45a-c04) — Taygetans
+- [src-12122c9c7bda-c03](dimensional-mirroring.md#src-12122c9c7bda-c03) — Dimensional mirroring
+- [src-9947bada3803-c02](consciousness-metaphysics.md#src-9947bada3803-c02) — Consciousness and metaphysics
 
 ## Review flags
 
+- Federation-arguments\_reported
+- Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s
+- These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - agenda\_term\_varies
+- astral-warfare-claims-unverified
+- author-personal-philosophical-analysis
+- gender-reincarnation\_views\_attributed
 - gender\_role\_generalization
+- metaphysical-claims\_attributed
 - metaphysical-model
+- metaphysical-model\_attributed
+- metaphysical\_claims\_attributed
+- mirror-identity-varies
+- pathogen-claim\_attributed
 - personal\_metaphysics
 - postmortem-identity-ambiguity
+- reincarnation-cosmology
+- reported-claims\_by\_Ari
 - rescue-anecdotes-unverified
+- speaker-shift-in-source
 - unverified\_biological\_claims
 - unverified\_paranormal\_claims
+- vision-narrative\_attributed

@@ -44,8 +44,14 @@ Source: [Human Genetic Compatibility with Reptilian Possessions (English)](https
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+## Claims filed under other topics
+
+- [src-f4085f32044d-c02](taygetans.md#src-f4085f32044d-c02) — Taygetans
+
 ## Review flags
 
+- Alenym-attack-culprit-unknown
+- genetic-weapon-causation-speculative
 - medical-claims-unverified
 - medical\_claims
 - population-control-allegations

@@ -69,5 +69,26 @@ class ReviewGateTests(unittest.TestCase):
             self.assertEqual(json.loads((root/f'records/{sid}.json').read_text())['proposed_topics'],[canonical])
             self.assertEqual(json.loads((root/'work/ledger.json').read_text())['jobs'][sid]['status'],'reviewed')
 
+    def test_duplicate_review_ids_rejected_before_ledger_changes(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory);(root/'scripts').mkdir();(root/'.git').mkdir()
+            for name in ('lore.py','continuous.py'):
+                shutil.copyfile(ROOT/'scripts'/name,root/'scripts'/name)
+            sid='src-123456789abc'
+            fixtures={
+                'work/cohorts/test-batch.json':{'source_ids':[sid],'active_source_ids':[sid]},
+                'work/ledger.json':{'jobs':{sid:{'status':'running'}}},
+                'sources/manifest.json':{'sources':[]},'config/topics.json':[],
+                'work/batches/test-batch/review-1.json':{'source_ids':[sid]},
+                'reports/batches/test-batch/review-1.json':{'batch_id':'test-batch','reviewer':1,'reviewed_source_ids':[sid,sid],'corrections':[],'unresolved':[]},
+            }
+            for name,value in fixtures.items():
+                path=root/name;path.parent.mkdir(parents=True,exist_ok=True);path.write_text(json.dumps(value))
+            before=(root/'work/ledger.json').read_bytes()
+            result=subprocess.run([sys.executable,'scripts/continuous.py','integrate','--batch','test-batch'],cwd=root,capture_output=True,text=True)
+            self.assertNotEqual(result.returncode,0)
+            self.assertIn('unique array',result.stderr)
+            self.assertEqual((root/'work/ledger.json').read_bytes(),before)
+
 if __name__=='__main__':
     unittest.main()

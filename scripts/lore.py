@@ -10,6 +10,7 @@ import json
 from html.parser import HTMLParser
 from pathlib import Path
 import re
+import time
 import urllib.request
 from urllib.parse import quote, urljoin, urlparse, urlunparse
 
@@ -148,7 +149,7 @@ def validate_snapshot(snapshot, expected_sha=None):
     return actual
 
 def download(url):
-    request = urllib.request.Request(url, headers={'User-Agent':'LoreResearchPilot/0.1 (small source-linked research batch)'})
+    request = urllib.request.Request(url, headers={'User-Agent':'LoreResearch/0.2 (source-linked research; bounded download concurrency)'})
     with urllib.request.urlopen(request, timeout=25) as response:
         return response.read().decode('utf-8')
 
@@ -210,6 +211,7 @@ def prepare(cache, selection_path=None, batch_id='pilot-001'):
                     break
                 except Exception as exc:
                     error = exc
+                    if attempt == 0: time.sleep(2)
             else:
                 raise error
         validate_snapshot(snapshot,source.get('snapshot_sha256'))
@@ -224,7 +226,7 @@ def prepare(cache, selection_path=None, batch_id='pilot-001'):
         return source
 
     errors = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:
         futures = {pool.submit(fetch,s):s for s in selected}
         for future in concurrent.futures.as_completed(futures):
             try:
@@ -375,14 +377,14 @@ def build():
         for claim in record['claims']:
             for topic in claim['topics']:
                 linked.setdefault(topic,[]).append((record,claim))
-    lines = ['# Lore topic wiki','','All statements below are attributed lore claims. Evidence passage IDs refer to the hashed local source snapshot, not anchors on the live website.','','Language counterparts are retained separately when they contain editorial changes or extra passages. Their agreement is not independent corroboration.','','| Topic | Primary claims | Related claims |','| --- | ---: | ---: |']
+    lines = ['# Lore topic wiki','','All statements below are attributed lore claims. Evidence passage IDs refer to the hashed local source snapshot, not anchors on the live website.','','Language and revision variants remain separate source records unless content equivalence is established. Their agreement is not independent corroboration.','','| Topic | Type | Primary claims | Related claims |','| --- | --- | ---: | ---: |']
     for topic_id in sorted(linked):
         if not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',topic_id):
             raise ValueError('Unsafe topic path')
         topic = topics[topic_id]
         primary = [(r,c) for r,c in linked[topic_id] if c['primary_topic']==topic_id]
         related = [(r,c) for r,c in linked[topic_id] if c['primary_topic']!=topic_id]
-        lines.append(f"| [{md(topic['name'])}](topics/{topic_id}.md) | {len(primary)} | {len(related)} |")
+        lines.append(f"| [{md(topic['name'])}](topics/{topic_id}.md) | {md(topic['kind'])} | {len(primary)} | {len(related)} |")
         page = [f"# {md(topic['name'])}",'',f"Type: {md(topic['kind'])}",'',f"Aliases: {md(', '.join(topic['aliases']) or 'None recorded')}",'', 'These are source-specific assertions; disagreement is preserved rather than resolved by publication order.','', '## Collected claims','']
         for record,claim in primary:
             source = sources[record['source_id']]
@@ -401,7 +403,7 @@ def build():
         if flags:
             page += ['## Review flags',''] + ['- '+md(flag) for flag in flags] + ['']
         (wiki / 'topics' / f'{topic_id}.md').write_text('\n'.join(page),encoding='utf-8')
-    lines += ['','## Sources in this batch','','| Source | Language | Published | Claims |','| --- | --- | --- | ---: |']
+    lines += ['','## Reviewed sources','','| Source | Language | Published | Claims |','| --- | --- | --- | ---: |']
     for record in sorted(records,key=lambda r:sources[r['source_id']].get('published_date') or ''):
         source = sources[record['source_id']]
         lines.append(f"| [{md(source['title'])}]({source_url(source['url'])}) | {source['language']} | {source.get('published_date') or 'Unknown'} | {len(record['claims'])} |")

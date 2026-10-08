@@ -1,0 +1,133 @@
+{
+  "source_id": "src-7ced6b157e35",
+  "snapshot_sha256": "fe480dd2c9a4428e5777ea0146c92b7364a4084208410d750e53046f4d69946e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7ced6b157e35-c01",
+      "assertion": "Cyndriel has 0.7g gravity and ~80% oxygen, toxic to unacclimatized Earth arrivals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ced6b157e35-c02",
+      "assertion": "Desert, radiation, and sandstorms push settlements underground despite subterranean water.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0033"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ced6b157e35-c03",
+      "assertion": "Endemic flora and fauna adapt to constant daylight and Aldebaran radiation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0061"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ced6b157e35-c04",
+      "assertion": "Anéeka describes Amélie as high-density telepaths appearing as light or observer-suited forms.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0064",
+        "p0065",
+        "p0066",
+        "p0067"
+      ],
+      "primary_topic": "amelie",
+      "topics": [
+        "amelie"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ced6b157e35-c05",
+      "assertion": "Cyndriel is Taygeta’s only long-term colony beyond M45, dating roughly 500,000 years.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0071",
+        "p0074"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "cyndriel"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Dates are approximate references."
+    },
+    {
+      "id": "src-7ced6b157e35-c06",
+      "assertion": "It hosts Alcyone Council spaceport work, research, retirement, and tourism.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0074",
+        "p0075"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel",
+        "taygetans",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ced6b157e35-c07",
+      "assertion": "Underground farms control crops and cycles to protect native ecosystems.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0082",
+        "p0083"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Cyndriel time-difference mechanism remains unknown."
+  ],
+  "coverage_gaps": [
+    "native species",
+    "floating plants",
+    "planetary orbit"
+  ]
+}

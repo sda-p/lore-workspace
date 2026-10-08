@@ -57,3 +57,7 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 Source: [Taygetean Technology: Part 1 - Suits and Boots (English)](https://swaruu.org/transcripts/taygetean-technology-part-1-suits-and-boots-english) (2023-02-18; en); passages p0021, p0022, p0023. [Structured record](../../records/src-194038ff3d24.json).
 
 Related topics: [Taygetans](taygetans.md), [Starship systems](starship-systems.md), [Energy generation technology](energy-generation.md).
+
+## Claims filed under other topics
+
+- [src-96581cc2ca29-c01](starship-systems.md#src-96581cc2ca29-c01) — Starship systems

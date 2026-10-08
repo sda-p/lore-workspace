@@ -1,0 +1,122 @@
+{
+  "source_id": "src-5aee7ebba0c5",
+  "snapshot_sha256": "cdb33650d70ca519b1b32bab466dcb78d5e5bae90aa00cf17871dc92c62e9b6c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5aee7ebba0c5-c01",
+      "assertion": "Mari defines Akashic Records as Source-consciousness expressed in individual and collective levels.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "nexus-souls"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5aee7ebba0c5-c02",
+      "assertion": "Each existential realm has collective unconscious or Records formed by shared ideas and frequencies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5aee7ebba0c5-c03",
+      "assertion": "Bodies filter soul perception into material realms; broader Records require a frequency match.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5aee7ebba0c5-c04",
+      "assertion": "Meditation can access expanded Records; Mari warns psychedelics may cause overwhelming, chaotic lower-astral perceptions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5aee7ebba0c5-c05",
+      "assertion": "Starseeds channel higher-realm information because they belong to advanced civilizations and hold higher vibration.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "alien-species",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5aee7ebba0c5-c06",
+      "assertion": "Dreams connect parallel selves, whose experiences and values influence each other.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "entertainment-disclaimer"
+  ],
+  "coverage_gaps": [
+    "private soul records",
+    "channeling practice",
+    "unity with Source"
+  ]
+}

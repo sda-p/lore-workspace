@@ -926,6 +926,96 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [On Starships and why many look so human, and Earth as an Isolated Island (English)](https://swaruu.org/transcripts/on-starships-and-why-many-look-so-human-and-earth-as-an-isolated-island-english) (2024-01-22; en); passages p0009. [Structured record](../../records/src-58d43415bb30.json).
 
+### src-a1e8f5a09186-c04
+
+Mari Swa says a damaged, crewless 2-kilometer ship was placed in high Earth orbit. Its origin remains uncertain.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 23, May 11, 2024, 500 Video Special. Mari-16 (English)](https://swaruu.org/transcripts/space-news-23-may-11-2024-500-video-special-mari-16-english) (2024-05-11; en); passages p0011, p0012. [Structured record](../../records/src-a1e8f5a09186.json).
+
+### src-a1e8f5a09186-c05
+
+Mari Swa says the wreck has two welded tube-like hulls and visible battle damage. Its crew loss and Earth manufacture are speculative.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 23, May 11, 2024, 500 Video Special. Mari-16 (English)](https://swaruu.org/transcripts/space-news-23-may-11-2024-500-video-special-mari-16-english) (2024-05-11; en); passages p0012. [Structured record](../../records/src-a1e8f5a09186.json).
+
+### src-b0a69aaecc08-c01
+
+Mari Swa says Toleka-class ships can reach Taygeta in about seven hours.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Taygeta Space News, 36, G.F. Cancels Project Second Contact Toleka and Vigilant Eagle (English)](https://swaruu.org/transcripts/taygeta-space-news-36-g-f-cancels-project-second-contact-toleka-and-vigilant-eagle-english) (2024-08-17; en); passages p0003. [Structured record](../../records/src-b0a69aaecc08.json).
+
+Related topics: [Toleka-class starships](toleka-class.md).
+
+### src-f95f21ca391d-c01
+
+Anéeka describes a crewless, damaged two-kilometer ship in high Earth orbit. Its Lemurian origin is only presumed.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Ancient Abandoned Lemurian Ship - Aneeka of Temmer](https://swaruu.org/transcripts/ancient-abandoned-lemurian-ship-aneeka-of-temmer) (2024-06-22; en); passages p0003, p0004. [Structured record](../../records/src-f95f21ca391d.json).
+
+### src-f95f21ca391d-c02
+
+Anéeka says the ship is over 12,000 years old and returned on impulse with failing engines.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Ancient Abandoned Lemurian Ship - Aneeka of Temmer](https://swaruu.org/transcripts/ancient-abandoned-lemurian-ship-aneeka-of-temmer) (2024-06-22; en); passages p0003, p0005. [Structured record](../../records/src-f95f21ca391d.json).
+
+### src-f95f21ca391d-c04
+
+Anéeka says investigation was delayed because the wreck’s interior is dangerous. Blood and structural debris were reported.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Ancient Abandoned Lemurian Ship - Aneeka of Temmer](https://swaruu.org/transcripts/ancient-abandoned-lemurian-ship-aneeka-of-temmer) (2024-06-22; en); passages p0007, p0019. [Structured record](../../records/src-f95f21ca391d.json).
+
+### src-42e3d8553c1f-c05
+
+Anéeka describes nonhuman traffic in multiple Earth orbits, with low-orbit ships using speed to counter gravity.
+
+Attributed to **Gosia quoting Anéeka of Temmer**; reported; extraction confidence: high.
+
+Source: [CLASS 007 - Extraterrestrial People That Look Just Like Us \| ET Disclosure 2025](https://swaruu.org/transcripts/class-007-extraterrestrial-people-that-look-just-like-us-et-disclosure-2025) (2025-05-31; en); passages p0033, p0034. [Structured record](../../records/src-42e3d8553c1f.json).
+
+### src-f8715fda448c-c02
+
+Mari says large ships must exit hyperspace far from Earth and notify space traffic before approach.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 38, New Crew Member, Another G.F. Diplomatic Incident, Thinking Hat 02 (English)](https://swaruu.org/transcripts/space-news-38-new-crew-member-another-g-f-diplomatic-incident-thinking-hat-02-english) (2024-08-31; en); passages p0011, p0012. [Structured record](../../records/src-f8715fda448c.json).
+
+### src-cebafb0193ca-c01
+
+Mari reports about 977 large starships in Earth orbit; she says transponder identities often cannot be verified.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 44, Galactic Federation and Earth Situation Update (English)](https://swaruu.org/transcripts/space-news-44-galactic-federation-and-earth-situation-update-english) (2024-09-28; en); passages p0003, p0004. [Structured record](../../records/src-cebafb0193ca.json).
+
+### src-15a5d7380aeb-c03
+
+Mari says Toleka will stop at Cyndriel, then face a 375-light-year leg to Temmer; Vigilant Eagle escorts her.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (English)](https://swaruu.org/transcripts/taygeta-space-news-35-august-12-2024-good-bye-starship-toleka-english) (2024-08-12; en); passages p0011, p0012. [Structured record](../../records/src-15a5d7380aeb.json).
+
+### src-d3aa4459ae38-c07
+
+Yazhi says Hyades may be called a constellation locally, but lies within Taurus.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) (2024-11-18; en); passages p0043, p0047. [Structured record](../../records/src-d3aa4459ae38.json).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -967,11 +1057,23 @@ Source: [On Starships and why many look so human, and Earth as an Isolated Islan
 - [src-07494ef21f67-c04](ship-internal-time.md#src-07494ef21f67-c04) — Ship internal time
 - [src-0e992795e982-c01](taygetans.md#src-0e992795e982-c01) — Taygetans
 - [src-0a76aae844b1-c05](timeline-branching.md#src-0a76aae844b1-c05) — Timeline branching
+- [src-921d31cbf21f-c05](timeline-branching.md#src-921d31cbf21f-c05) — Timeline branching
+- [src-41aeba88905d-c05](galactic-federation.md#src-41aeba88905d-c05) — Galactic Federation
+- [src-8a20bf02262a-c06](hashmallim.md#src-8a20bf02262a-c06) — Hashmallim
+- [src-f95f21ca391d-c03](galactic-federation.md#src-f95f21ca391d-c03) — Galactic Federation
+- [src-9afde86ad754-c04](nazca-spaceport.md#src-9afde86ad754-c04) — Nazca spaceport
 
 ## Review flags
 
+- Federation-policy\_claims\_attributed
+- Federation-sanctions\_reported
+- Figures and ship status are Mari’s account as of August 2024
+- Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- The account is Mari’s report; it describes a near-escalation without further reported consequences
+- These are attributed dialogue claims; terminology for Hyades varies by convention
+- attribution\_scope
 - cern-portal-claim
 - comparative\_technology\_claims
 - conflicting\_primary\_purpose\_claims
@@ -998,7 +1100,9 @@ Source: [On Starships and why many look so human, and Earth as an Isolated Islan
 - hyperspace\_model
 - jumper\_vs\_origin\_line
 - metaphysical-claims
+- military-claims\_attributed
 - multiple\_futures\_claim
+- narrator\_claims
 - nonstandard\_astrophysics\_claims
 - past-editing-metaphysical-claim
 - personal\_metaphysics
@@ -1007,6 +1111,7 @@ Source: [On Starships and why many look so human, and Earth as an Isolated Islan
 - related\_series\_part
 - secret\_ship\_capability\_claims
 - space\_suit\_claims\_unverified
+- speaker-speculation
 - species\_specific\_reproduction
 - starlink-observation-scope-ambiguity
 - symbolic\_interpretations
@@ -1016,6 +1121,7 @@ Source: [On Starships and why many look so human, and Earth as an Isolated Islan
 - timeline\_model
 - translated\_source
 - unmapped\_regions\_and\_return\_risk
+- unverified-reset-claims
 - unverified\_ancient\_technology\_claims
 - unverified\_archaeology
 - unverified\_cosmology\_and\_technology
@@ -1024,3 +1130,4 @@ Source: [On Starships and why many look so human, and Earth as an Isolated Islan
 - unverified\_technical\_claims
 - unverified\_temporal\_claims
 - unverified\_time\_travel\_claims
+- wreck-origin\_uncertain

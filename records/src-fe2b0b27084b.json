@@ -1,0 +1,115 @@
+{
+  "source_id": "src-fe2b0b27084b",
+  "snapshot_sha256": "ef6e9f94c59af1d429155249bfcea5a15a33df699f616e06060660ee8d054614",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fe2b0b27084b-c01",
+      "assertion": "Swaruu says genes express consciousness and respond to perception.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe2b0b27084b-c02",
+      "assertion": "She says invasive laboratory edits tend to revert; on Earth this may take a generation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe2b0b27084b-c03",
+      "assertion": "She says lasting artificial changes require subjects’ disconnection from Source.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0018"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe2b0b27084b-c04",
+      "assertion": "She says controllers use beliefs and mind control to shape population genetics.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0012",
+        "p0025"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe2b0b27084b-c05",
+      "assertion": "She says benevolent extraterrestrials alter genetics to adapt mothers for high-frequency starseeds or restore health.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe2b0b27084b-c06",
+      "assertion": "She claims telomere shortening follows perceived aging rather than causing it.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0039"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Compared English candidate src-4ae3eab52e34; closely aligned translation with differences in segmentation and some explanatory detail."
+  ],
+  "coverage_gaps": [
+    "pineal-claims",
+    "mental-health-claims",
+    "rejuvenation-example"
+  ]
+}

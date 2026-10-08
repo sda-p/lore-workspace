@@ -1,0 +1,88 @@
+{
+  "source_id": "src-1d479f08f57b",
+  "snapshot_sha256": "debc84f97d165575155355e6d97fd78ca14f68de662d933e1564d81603abc1ed",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1d479f08f57b-c01",
+      "assertion": "Swaruu says Taygetan women reproduce sexually, store sperm for decades, or trigger parthenogenesis: an egg completes its DNA, producing a female clone sharing her consciousness.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "taygetan-parthenogenesis",
+      "topics": [
+        "taygetan-parthenogenesis",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this occurs mostly in virgins under severe loneliness or stress."
+    },
+    {
+      "id": "src-1d479f08f57b-c02",
+      "assertion": "She says sexless Dieslientiplex gestate offspring in a pouch for years; the progenitor’s consciousness transfers into the young before the old body dies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "dieslientiplex",
+      "topics": [
+        "dieslientiplex",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1d479f08f57b-c03",
+      "assertion": "She says telepathy can cross any distance beyond physical space; its strength depends more on an individual’s connection to Source than on the body.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-parthenogenesis",
+      "name": "Taygetan parthenogenesis",
+      "kind": "reproductive mechanism",
+      "aliases": [
+        "auto-pregnancy",
+        "self-pregnancy",
+        "parthenogenesis"
+      ]
+    },
+    {
+      "id": "dieslientiplex",
+      "name": "Dieslientiplex",
+      "kind": "species",
+      "aliases": [
+        "Arcturians"
+      ]
+    }
+  ],
+  "review_flags": [
+    "attributed-reproductive-lore"
+  ],
+  "coverage_gaps": [
+    "brain-structure",
+    "telepathic-twin-claims"
+  ]
+}

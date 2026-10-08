@@ -1,0 +1,110 @@
+{
+  "source_id": "src-69ad8dca8c41",
+  "snapshot_sha256": "8b8db2dd848df661855e6a196ab077c9ce30469c5377590b25e5ba020f714612",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-69ad8dca8c41-c01",
+      "assertion": "Swaruu’s reading suggests Gosia may be a 7D Ramyena from Rama.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-69ad8dca8c41-c02",
+      "assertion": "Swaruu says Yenas mostly inhabit 7D, guide Taygetans, and share the Alcyone Council.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "taygetans",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-69ad8dca8c41-c03",
+      "assertion": "Swaruu describes full immersion as computerized Matrix entry, possible at birth or later.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0090",
+        "p0092",
+        "p0101",
+        "p0104"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "moon-matrix",
+        "walk-in-phenomenon"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls later entry a walk-in."
+    },
+    {
+      "id": "src-69ad8dca8c41-c04",
+      "assertion": "Anéeka says this starseed chose the best frequency match; Swaruu says only awareness enters while the soul remains higher.",
+      "speaker": "Anéeka; Swaruu (9)",
+      "paragraph_ids": [
+        "p0203",
+        "p0205",
+        "p0207"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-69ad8dca8c41-c05",
+      "assertion": "Swaruu identifies Gosia as part of Caroline’s ground team aboard the Alcyone-class Taygeta near Earth.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0114",
+        "p0116",
+        "p0118",
+        "p0120"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "total-immersion-simulations"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her reported prior knowledge changes."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed."
+  ],
+  "coverage_gaps": [
+    "immersion-entry variants",
+    "Caroline mission",
+    "identity timeline",
+    "crew history"
+  ]
+}

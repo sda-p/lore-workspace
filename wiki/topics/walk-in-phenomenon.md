@@ -57,3 +57,11 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 Source: [Walk-Ins, Second Part, the Same Soul Re-Entering, but a Lot More Evolved (English)](https://swaruu.org/transcripts/walk-ins-second-part-the-same-soul-re-entering-but-a-lot-more-evolved-english) (2023-11-10; en); passages p0020, p0021, p0026. [Structured record](../../records/src-e3285caca47d.json).
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+## Claims filed under other topics
+
+- [src-4af520912230-c05](lyrian-cellular-body.md#src-4af520912230-c05) — Lyrian cellular-body model
+
+## Review flags
+
+- federation-authority-critique

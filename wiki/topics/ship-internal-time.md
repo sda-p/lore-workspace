@@ -64,11 +64,50 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Non-linear Time and its Perception (English)](https://swaruu.org/transcripts/non-linear-time-and-its-perception-english) (2023-10-25; en); passages p0002, p0014. [Structured record](../../records/src-2cf60c16f1d6.json).
 
+### src-0689f51f7290-c01
+
+Mari says Temmer time runs 4.6 times slower than Earth time; Alenym’s local wet-pod stay was therefore shorter than Earth observers’ estimate.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 46, My Health, Open Letter to Taygetans, How I Write. Current Situation (English)](https://swaruu.org/transcripts/space-news-46-my-health-open-letter-to-taygetans-how-i-write-current-situation-english) (2024-10-14; en); passages p0014, p0015. [Structured record](../../records/src-0689f51f7290.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-1aa59d2c774b-c05
+
+She describes grafting the pantry’s past state into the present, relocating food through time rather than replicating it.
+
+Attributed to **Yazhi**; asserted; extraction confidence: low.
+
+Source: [Sophia Swaruu (Yazhi) - Yazhi´s Early Life on Toleka (PART 1)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-yazhi-s-early-life-on-toleka-part-1) (2024-08-20; en); passages p0082, p0084. [Structured record](../../records/src-1aa59d2c774b.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-fa5f0d3e6d92-c02
+
+Anéeka reports low orbit produces about five minutes of daily time drift relative to Earth.
+
+Attributed to **Anéeka of Temmer**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 8 - Life Onboard the Starship - Aneeka of Temmer](https://swaruu.org/transcripts/interstellar-life-8-life-onboard-the-starship-aneeka-of-temmer) (2024-12-18; en); passages p0032, p0033. [Structured record](../../records/src-fa5f0d3e6d92.json).
+
+### src-15a5d7380aeb-c02
+
+Mari says Toleka can cover 440 light-years in seven hours at full power; crew travel time includes ship-internal frequency-transition time.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (English)](https://swaruu.org/transcripts/taygeta-space-news-35-august-12-2024-good-bye-starship-toleka-english) (2024-08-12; en); passages p0006. [Structured record](../../records/src-15a5d7380aeb.json).
+
 ## Claims filed under other topics
 
 - [src-07494ef21f67-c02](cyndriel.md#src-07494ef21f67-c02) — Cyndriel
 - [src-be2e5cb2654b-c01](taygetans.md#src-be2e5cb2654b-c01) — Taygetans
+- [src-1aa59d2c774b-c04](tractor-beams.md#src-1aa59d2c774b-c04) — Tractor beams
 
 ## Review flags
 
+- Figures and ship status are Mari’s account as of August 2024
+- extraordinary-ability-claims
 - unverified\_temporal\_claims

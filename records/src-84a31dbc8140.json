@@ -1,0 +1,94 @@
+{
+  "source_id": "src-84a31dbc8140",
+  "snapshot_sha256": "e742d0cea2aa153b0ed1d754eedcb6de7205164915427e05a54edf07939681e8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-84a31dbc8140-c01",
+      "assertion": "Swaruu says Alpha Dracos colonized thousands of planets around Alpha Draconis after arriving from another galaxy and timeline; their precise origin remains unknown.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "alpha-draconians",
+      "topics": [
+        "alpha-draconians",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84a31dbc8140-c02",
+      "assertion": "She describes adults over 12 m tall and 15 tonnes, winged and scaled; their fangs spray an oxygen-igniting liquid rather than fire.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alpha-draconians",
+      "topics": [
+        "alpha-draconians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84a31dbc8140-c03",
+      "assertion": "She says they are telepathic and belong to the Orion Council, not the Federation; Earth hosts two positive ships while positive factions restrain remaining negatives.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0020",
+        "p0056",
+        "p0062"
+      ],
+      "primary_topic": "alpha-draconians",
+      "topics": [
+        "alpha-draconians",
+        "orion-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84a31dbc8140-c04",
+      "assertion": "She says they are now vegans eating synthetic meat and maintain a patriarchal holographic civilization.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0014"
+      ],
+      "primary_topic": "alpha-draconians",
+      "topics": [
+        "alpha-draconians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "alpha-draconians",
+      "name": "Alpha Draconians",
+      "kind": "species",
+      "aliases": [
+        "Alpha Dracos",
+        "Alpha Draconian"
+      ]
+    }
+  ],
+  "review_flags": [
+    "uncertain-origin"
+  ],
+  "coverage_gaps": [
+    "housing",
+    "language"
+  ]
+}

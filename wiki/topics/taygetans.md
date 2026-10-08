@@ -1476,6 +1476,556 @@ Source: [A Day in Mari’s Life (English)](https://swaruu.org/transcripts/a-day-
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-921d31cbf21f-c01
+
+Rashell reports an eye stroke and heart failure.
+
+Attributed to **Rashell**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Swaruu of Erra - Health (PART 2)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-swaruu-of-erra-health-part-2) (2025-09-09; en); passages p0003. [Structured record](../../records/src-921d31cbf21f.json).
+
+### src-921d31cbf21f-c02
+
+Rashell blames criticism-related stress for Swaruu’s illness.
+
+Attributed to **Rashell**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Swaruu of Erra - Health (PART 2)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-swaruu-of-erra-health-part-2) (2025-09-09; en); passages p0004. [Structured record](../../records/src-921d31cbf21f.json).
+
+### src-921d31cbf21f-c08
+
+Khila calls Swaruu an oracle with unmatched knowledge in their group.
+
+Attributed to **Khila**; asserted; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Swaruu of Erra - Health (PART 2)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-swaruu-of-erra-health-part-2) (2025-09-09; en); passages p0259. [Structured record](../../records/src-921d31cbf21f.json).
+
+### src-b9ad02cc39ec-c02
+
+Swaruu says intelligence work exhausted Anéeka.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Aneeka - Rise to the Top (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-rise-to-the-top-part-1) (2025-10-25; en); passages p0043. [Structured record](../../records/src-b9ad02cc39ec.json).
+
+### src-b9ad02cc39ec-c03
+
+Dhor Káal’él cites reluctance to hurt contacts.
+
+Attributed to **Dhor Káal’él**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Aneeka - Rise to the Top (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-rise-to-the-top-part-1) (2025-10-25; en); passages p0052, p0053. [Structured record](../../records/src-b9ad02cc39ec.json).
+
+### src-b9ad02cc39ec-c04
+
+Anéeka says her group numbered 34 aboard a ship in deep space.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Aneeka - Rise to the Top (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-rise-to-the-top-part-1) (2025-10-25; en); passages p0079. [Structured record](../../records/src-b9ad02cc39ec.json).
+
+### src-41aeba88905d-c03
+
+Mari Swaruu recounts a joking order to dump four tons of garbage, taken literally.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Garbage Dump Mistake gone Horribly Wrong (English)](https://swaruu.org/transcripts/garbage-dump-mistake-gone-horribly-wrong-english) (2024-09-26; en); passages p0011, p0013, p0014. [Structured record](../../records/src-41aeba88905d.json).
+
+### src-d75dca329107-c02
+
+Mari Swaruu says Taygetans developed enzymes for plant foods but are generally fragile and often ill.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Problem with Food and Diet on Earth (English)](https://swaruu.org/transcripts/the-problem-with-food-and-diet-on-earth-english) (2024-04-20; en); passages p0025, p0026. [Structured record](../../records/src-d75dca329107.json).
+
+### src-73198a2de79a-c01
+
+Mari Swa says Taygeta’s High Council installed Alenym amid an attempted Cabal-backed takeover.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [What it is like to be the Taygetan Princess Queen and a Youtuber, Part 1, Queen Alenym. (English)](https://swaruu.org/transcripts/what-it-is-like-to-be-the-taygetan-princess-queen-and-a-youtuber-part-1-queen-alenym-english) (2024-07-15; en); passages p0005, p0008. [Structured record](../../records/src-73198a2de79a.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-73198a2de79a-c02
+
+Mari Swa says Alenym’s restoration reversed Cabal propaganda and mind control in Taygeta.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [What it is like to be the Taygetan Princess Queen and a Youtuber, Part 1, Queen Alenym. (English)](https://swaruu.org/transcripts/what-it-is-like-to-be-the-taygetan-princess-queen-and-a-youtuber-part-1-queen-alenym-english) (2024-07-15; en); passages p0009, p0010. [Structured record](../../records/src-73198a2de79a.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-293a7b70452d-c02
+
+Mari Swa says Taygetan succession requires merit, not royal descent.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [What it is like to be the Taygetan Queen and a Youtuber, Part 2, My Experience (English)](https://swaruu.org/transcripts/what-it-is-like-to-be-the-taygetan-queen-and-a-youtuber-part-2-my-experience-english) (2024-07-20; en); passages p0008, p0009. [Structured record](../../records/src-293a7b70452d.json).
+
+### src-293a7b70452d-c03
+
+Mari Swa says Alenym required an Earth-experienced successor because Taygeta’s problems begin there.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [What it is like to be the Taygetan Queen and a Youtuber, Part 2, My Experience (English)](https://swaruu.org/transcripts/what-it-is-like-to-be-the-taygetan-queen-and-a-youtuber-part-2-my-experience-english) (2024-07-20; en); passages p0010. [Structured record](../../records/src-293a7b70452d.json).
+
+### src-293a7b70452d-c04
+
+Mari Swa says Nai’Shara and Athena declined succession; Yazhi was considered too young.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [What it is like to be the Taygetan Queen and a Youtuber, Part 2, My Experience (English)](https://swaruu.org/transcripts/what-it-is-like-to-be-the-taygetan-queen-and-a-youtuber-part-2-my-experience-english) (2024-07-20; en); passages p0013, p0015. [Structured record](../../records/src-293a7b70452d.json).
+
+### src-293a7b70452d-c05
+
+Mari Swa says Alenym nominated her successor, and an attack accelerated her appointment as queen. Mari says she was 16.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [What it is like to be the Taygetan Queen and a Youtuber, Part 2, My Experience (English)](https://swaruu.org/transcripts/what-it-is-like-to-be-the-taygetan-queen-and-a-youtuber-part-2-my-experience-english) (2024-07-20; en); passages p0016, p0017, p0018. [Structured record](../../records/src-293a7b70452d.json).
+
+### src-437981222071-c05
+
+Mari Swa says Alenym abdicated before pod treatment, making her Taygeta’s full queen. The Council disclosed this later.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 32, July 18, 2024, Beryl, Attempt against Carrot, Gori'el Rep-2, New Ship (English)](https://swaruu.org/transcripts/space-news-32-july-18-2024-beryl-attempt-against-carrot-gori-el-rep-2-new-ship-english) (2024-07-18; en); passages p0026, p0027. [Structured record](../../records/src-437981222071.json).
+
+### src-b0a69aaecc08-c06
+
+Mari Swa says Antarians and Urmah publicly supported Taygetans in the dispute.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Taygeta Space News, 36, G.F. Cancels Project Second Contact Toleka and Vigilant Eagle (English)](https://swaruu.org/transcripts/taygeta-space-news-36-g-f-cancels-project-second-contact-toleka-and-vigilant-eagle-english) (2024-08-17; en); passages p0020, p0021. [Structured record](../../records/src-b0a69aaecc08.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-cae1127d2078-c01
+
+Mari Swa says Alenym remained near Earth partly because of political threats to her rule.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 26, June 6, 2024, Alenym, Political context, Mari Swa now Acting Queen (English)](https://swaruu.org/transcripts/space-news-26-june-6-2024-alenym-political-context-mari-swa-now-acting-queen-english) (2024-06-06; en); passages p0004, p0006. [Structured record](../../records/src-cae1127d2078.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-cae1127d2078-c03
+
+Mari Swa says suspicion of foul play remained despite a suspected bird-related infection.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News, 26, June 6, 2024, Alenym, Political context, Mari Swa now Acting Queen (English)](https://swaruu.org/transcripts/space-news-26-june-6-2024-alenym-political-context-mari-swa-now-acting-queen-english) (2024-06-06; en); passages p0009, p0010. [Structured record](../../records/src-cae1127d2078.json).
+
+### src-cae1127d2078-c04
+
+Mari Swa says she became acting queen during Alenym’s recovery, with advisers supporting her.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Space News, 26, June 6, 2024, Alenym, Political context, Mari Swa now Acting Queen (English)](https://swaruu.org/transcripts/space-news-26-june-6-2024-alenym-political-context-mari-swa-now-acting-queen-english) (2024-06-06; en); passages p0011, p0013. [Structured record](../../records/src-cae1127d2078.json).
+
+### src-5a5ded3e94ce-c01
+
+Yazhi says Taygetan posts would reach audiences across social platforms worldwide.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Taygetans in the Social Media - Arrival of Starship Alcyone - Yazhi Swaruu](https://swaruu.org/transcripts/taygetans-in-the-social-media-arrival-of-starship-alcyone-yazhi-swaruu) (2024-05-08; en); passages p0024, p0032, p0036. [Structured record](../../records/src-5a5ded3e94ce.json).
+
+### src-5a5ded3e94ce-c02
+
+Yazhi says participants would not identify themselves as extraterrestrials.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Taygetans in the Social Media - Arrival of Starship Alcyone - Yazhi Swaruu](https://swaruu.org/transcripts/taygetans-in-the-social-media-arrival-of-starship-alcyone-yazhi-swaruu) (2024-05-08; en); passages p0022, p0026. [Structured record](../../records/src-5a5ded3e94ce.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-5a5ded3e94ce-c03
+
+Yazhi says the project aimed to influence social values, not prompt extraterrestrial contact.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Taygetans in the Social Media - Arrival of Starship Alcyone - Yazhi Swaruu](https://swaruu.org/transcripts/taygetans-in-the-social-media-arrival-of-starship-alcyone-yazhi-swaruu) (2024-05-08; en); passages p0026, p0028, p0038. [Structured record](../../records/src-5a5ded3e94ce.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-70bae46a6291-c04
+
+Anéeka says resupply arrives every two months; a Temmer visit lasts about two local weeks.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Aneeka - Downfall (PART 2)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-downfall-part-2) (2025-11-03; en); passages p0229, p0231, p0233, p0235. [Structured record](../../records/src-70bae46a6291.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-70bae46a6291-c05
+
+Yazhi says Raguel stepped down as Hashmallim leader during Anéeka’s decline.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Aneeka - Downfall (PART 2)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-downfall-part-2) (2025-11-03; en); passages p0252, p0253, p0254. [Structured record](../../records/src-70bae46a6291.json).
+
+### src-0578a3b0bcf0-c01
+
+Swaruu says she leads a 7,600-person crew and a 13-ship fleet.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Swaruu of Erra - Problems with Contacts (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-swaruu-of-erra-problems-with-contacts-part-1) (2025-09-03; en); passages p0022. [Structured record](../../records/src-0578a3b0bcf0.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-0578a3b0bcf0-c03
+
+Swaruu describes Taygetan men as highly respectful and women as the sexual initiators, unlike human men.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Swaruu of Erra - Problems with Contacts (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-swaruu-of-erra-problems-with-contacts-part-1) (2025-09-03; en); passages p0036, p0044. [Structured record](../../records/src-0578a3b0bcf0.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-f853da2d0bcd-c01
+
+Mari says she was born aboard a Taygetan ship in 2008; interstellar law assigns ship-born children to that nation.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [I am Mari Swa (English)](https://swaruu.org/transcripts/i-am-mari-swa-english) (2024-07-25; en); passages p0003, p0004. [Structured record](../../records/src-f853da2d0bcd.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-f853da2d0bcd-c04
+
+She identifies as Queen Mari Swa, rejecting Minerva, Swaruu, and numbered lineage labels as her present identity.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [I am Mari Swa (English)](https://swaruu.org/transcripts/i-am-mari-swa-english) (2024-07-25; en); passages p0021, p0023, p0024, p0025, p0026. [Structured record](../../records/src-f853da2d0bcd.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-fe44b9d9c0b3-c03
+
+Yazhi says Taygetan culture absorbs outside customs selectively, adapting them to local norms.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Dimensional Mirrors 4 - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dimensional-mirrors-4-questions-from-the-public-yazhi-swaruu) (2024-05-19; en); passages p0019, p0021, p0027. [Structured record](../../records/src-fe44b9d9c0b3.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-f9789939fb7e-c02
+
+She reports 14 ships under construction, but Taygeta lacks crews; its population is about 38 million.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 47, My Health, Sick Taygetans, Queen Subjects in Temmer (English)](https://swaruu.org/transcripts/space-news-47-my-health-sick-taygetans-queen-subjects-in-temmer-english) (2024-10-19; en); passages p0011, p0012. [Structured record](../../records/src-f9789939fb7e.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-c0ea4ddd8632-c03
+
+Swaruu says DUFES collapsed after members rebelled on March 21, 2019; Asket’s same-day withdrawal was unrelated.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: low.
+
+Source: [Swaruu of Erra and Shady Events in 2019 - Relevant for Today?](https://swaruu.org/transcripts/swaruu-of-erra-and-shady-events-in-2019-relevant-for-today) (2025-07-23; en); passages p0078, p0079, p0080, p0081. [Structured record](../../records/src-c0ea4ddd8632.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-61184d950658-c03
+
+She names Druidic culture as Taygeta’s major Earth influence and Urmah influence in ancient architecture.
+
+Attributed to **Anéeka**; asserted; extraction confidence: low.
+
+Source: [Extraterrestrial races and Humans - Intercultural Exchanges in Interstellar Societies](https://swaruu.org/transcripts/extraterrestrial-races-and-humans-intercultural-exchanges-in-interstellar-societies) (2024-11-26; en); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-61184d950658.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-61184d950658-c05
+
+Taygetans adopted Earth birthdays, cake, candles, and music, she says.
+
+Attributed to **Anéeka**; asserted; extraction confidence: low.
+
+Source: [Extraterrestrial races and Humans - Intercultural Exchanges in Interstellar Societies](https://swaruu.org/transcripts/extraterrestrial-races-and-humans-intercultural-exchanges-in-interstellar-societies) (2024-11-26; en); passages p0036, p0086. [Structured record](../../records/src-61184d950658.json).
+
+### src-38b07e39e45a-c04
+
+Mari says full past-life memories helped the Taygetan High Council accept her as queen at sixteen.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: low.
+
+Source: [What it is like to Remember Past Lives (English)](https://swaruu.org/transcripts/what-it-is-like-to-remember-past-lives-english) (2024-08-03; en); passages p0026, p0027. [Structured record](../../records/src-38b07e39e45a.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-050bbb7ffa95-c02
+
+She says 17 mice were captured aboard Sadicleya and returned to Earth unharmed.
+
+Attributed to **Mari**; reported; extraction confidence: high.
+
+Source: [Space News 53, Event Report 01 (English)](https://swaruu.org/transcripts/space-news-53-event-report-01-english) (2024-12-09; en); passages p0014. [Structured record](../../records/src-050bbb7ffa95.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-050bbb7ffa95-c03
+
+During simultaneous illnesses, 22 of Sadicleya’s 30 crew were hospitalized and Mari transferred fleet command to Alcyone’s Captain Gori’el.
+
+Attributed to **Mari**; reported; extraction confidence: high.
+
+Source: [Space News 53, Event Report 01 (English)](https://swaruu.org/transcripts/space-news-53-event-report-01-english) (2024-12-09; en); passages p0019, p0020. [Structured record](../../records/src-050bbb7ffa95.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-050bbb7ffa95-c04
+
+Protocol 827 permits forcible extraction of an active Taygetan monarch from an inoperable installation to preserve government continuity.
+
+Attributed to **Mari**; asserted; extraction confidence: high.
+
+Source: [Space News 53, Event Report 01 (English)](https://swaruu.org/transcripts/space-news-53-event-report-01-english) (2024-12-09; en); passages p0021. [Structured record](../../records/src-050bbb7ffa95.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-050bbb7ffa95-c05
+
+Vehicles are washed to prevent contaminants; Mari reports a black widow aboard a ship not used for surface visits, its origin unknown.
+
+Attributed to **Mari**; reported; extraction confidence: high.
+
+Source: [Space News 53, Event Report 01 (English)](https://swaruu.org/transcripts/space-news-53-event-report-01-english) (2024-12-09; en); passages p0026, p0028. [Structured record](../../records/src-050bbb7ffa95.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-46bd13901f5f-c02
+
+CIC says Swaruunians is a political label for Erra descendants, not a separate species.
+
+Attributed to **CIC**; asserted; extraction confidence: high.
+
+Source: [More on Genetics, Swaruuneans, and Other Things, Reaction Video (English)](https://swaruu.org/transcripts/more-on-genetics-swaruuneans-and-other-things-reaction-video-english) (2024-08-08; en); passages p0003. [Structured record](../../records/src-46bd13901f5f.json).
+
+Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
+
+### src-722b52946af6-c01
+
+Alcyone-class ships provide counter-intimidation; Yazhi accepts Taygetan militarization.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Chatting with Yazhi Swaruu - September 2024](https://swaruu.org/transcripts/chatting-with-yazhi-swaruu-september-2024) (2024-09-29; en); passages p0008. [Structured record](../../records/src-722b52946af6.json).
+
+Related topics: [Alcyone Council](alcyone-council.md).
+
+### src-de7987eb8690-c02
+
+Hashmallim male and Shinonim female special operators mix on supply missions, using military command hierarchy.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [A Taygetan Supply Mission to Earth (English)](https://swaruu.org/transcripts/a-taygetan-supply-mission-to-earth-english) (2024-05-30; en); passages p0011, p0012. [Structured record](../../records/src-de7987eb8690.json).
+
+Related topics: [Astral military units](astral-military-units.md).
+
+### src-293f7dd241ff-c05
+
+Taygeta limits computers in art and music after automation harmed creativity, honoring handmade work.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Full Immersion Communication Technology, Part One, Applications (English)](https://swaruu.org/transcripts/full-immersion-communication-technology-part-one-applications-english) (2024-06-17; en); passages p0018, p0019, p0020. [Structured record](../../records/src-293f7dd241ff.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-f4085f32044d-c01
+
+Mari became Taygeta’s Princess-Queen 72 under senior Queen Alenym 71, who mentors her; Alenym has not announced abdication.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Surprise Live with Yazhi Swaruu\! - Mari Swaruu has been Crowned a Queen](https://swaruu.org/transcripts/surprise-live-with-yazhi-swaruu-mari-swaruu-has-been-crowned-a-queen) (2024-06-10; en); passages p0003, p0007, p0010, p0036. [Structured record](../../records/src-f4085f32044d.json).
+
+Related topics: [Alcyone Council](alcyone-council.md).
+
+### src-f4085f32044d-c02
+
+Yazhi thinks a genetic weapon awaited Alenym on a contaminated Mogh-yay bird; it also affected Nai’Shara’s muscles, later cleared.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Surprise Live with Yazhi Swaruu\! - Mari Swaruu has been Crowned a Queen](https://swaruu.org/transcripts/surprise-live-with-yazhi-swaruu-mari-swaruu-has-been-crowned-a-queen) (2024-06-10; en); passages p0061, p0063, p0065. [Structured record](../../records/src-f4085f32044d.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-f4085f32044d-c04
+
+Remote presence lets the queen work in Taygeta while physically aboard a ship, Yazhi says.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Surprise Live with Yazhi Swaruu\! - Mari Swaruu has been Crowned a Queen](https://swaruu.org/transcripts/surprise-live-with-yazhi-swaruu-mari-swaruu-has-been-crowned-a-queen) (2024-06-10; en); passages p0043, p0044. [Structured record](../../records/src-f4085f32044d.json).
+
+Related topics: [Total-immersion simulations](total-immersion-simulations.md).
+
+### src-bb2e4f6bf652-c01
+
+Mari says Taygetan kings earn servant-leader roles; posts are not inherited and may be temporary.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Space News, 27, June 10, 2024, Kings and Queens in Space, Alenym, Mari Swa, Ships (English)](https://swaruu.org/transcripts/space-news-27-june-10-2024-kings-and-queens-in-space-alenym-mari-swa-ships-english) (2024-06-10; en); passages p0007, p0008. [Structured record](../../records/src-bb2e4f6bf652.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-bb2e4f6bf652-c04
+
+Mari took acting Princess-Queen office June 10, age 16, with counselors supporting her until Alenym recovers.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 27, June 10, 2024, Kings and Queens in Space, Alenym, Mari Swa, Ships (English)](https://swaruu.org/transcripts/space-news-27-june-10-2024-kings-and-queens-in-space-alenym-mari-swa-ships-english) (2024-06-10; en); passages p0015, p0016, p0021. [Structured record](../../records/src-bb2e4f6bf652.json).
+
+Related topics: [Alcyone Council](alcyone-council.md).
+
+### src-f6a0faeb1f8f-c02
+
+Alenym was stable and out of danger; pod treatment may last three to four months, after which retirement is her choice.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 28, June 20, 2024, Alenym, brand new S.S. Hyades (English)](https://swaruu.org/transcripts/space-news-28-june-20-2024-alenym-brand-new-s-s-hyades-english) (2024-06-20; en); passages p0004, p0006. [Structured record](../../records/src-f6a0faeb1f8f.json).
+
+Related topics: [Maternal medical pods](maternal-med-pods.md).
+
+### src-3980f5f58d0b-c05
+
+Athena told Gosia that the crew depended on Earth-only supplies and needed channel monetization.
+
+Attributed to **Gosia quoting Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Gosia and Robert - Money & Fame, And True Intentions](https://swaruu.org/transcripts/gosia-and-robert-money-fame-and-true-intentions) (2025-07-29; en); passages p0019, p0021. [Structured record](../../records/src-3980f5f58d0b.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-9d8a8bc7d382-c01
+
+Mari reports ship doctor Ana diagnosed her with type 1 diabetes after onboard blood tests.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [I am not well (English)](https://swaruu.org/transcripts/i-am-not-well-english) (2024-10-05; en); passages p0009, p0010. [Structured record](../../records/src-9d8a8bc7d382.json).
+
+### src-6f8ab895fea6-c01
+
+Mari says crystalline 12-strand DNA is common among Taygetans and Lyrians, not evidence of a separate species.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygeta Space News, 34, August 5, 2024, Swaruuneans No More, Bad-G.F., New-Meetings (English)](https://swaruu.org/transcripts/taygeta-space-news-34-august-5-2024-swaruuneans-no-more-bad-g-f-new-meetings-english) (2024-08-05; en); passages p0007, p0008, p0009, p0010. [Structured record](../../records/src-6f8ab895fea6.json).
+
+### src-562516284299-c03
+
+Mari describes a Taygetan social-media mission that trains crew to pose as starseeds without identifying themselves.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 20. April 14 2024, Asterope, Mari Swa's first Live Public Presentation (English)](https://swaruu.org/transcripts/space-news-20-april-14-2024-asterope-mari-swa-s-first-live-public-presentation-english) (2024-04-15; en); passages p0007, p0008, p0009, p0013. [Structured record](../../records/src-562516284299.json).
+
+### src-562516284299-c04
+
+Mari reports nearly 3,000 applicants were waitlisted for recruitment across Asterope and Alcyone.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 20. April 14 2024, Asterope, Mari Swa's first Live Public Presentation (English)](https://swaruu.org/transcripts/space-news-20-april-14-2024-asterope-mari-swa-s-first-live-public-presentation-english) (2024-04-15; en); passages p0010, p0011, p0012. [Structured record](../../records/src-562516284299.json).
+
+### src-ff4973c6a444-c01
+
+Mari reports 900 cadets training for Project Second Contact.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News, 29, June 24, 2024, Hurricane in Temmer, Fluffy Cotton in the Sky (English)](https://swaruu.org/transcripts/space-news-29-june-24-2024-hurricane-in-temmer-fluffy-cotton-in-the-sky-english) (2024-06-24; en); passages p0003. [Structured record](../../records/src-ff4973c6a444.json).
+
+### src-8a111863ff79-c01
+
+Mari describes Taygetan military as large, highly trained, ethical, and willing to use lethal force when needed.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan Military (English)](https://swaruu.org/transcripts/taygetan-military-english) (2024-12-07; en); passages p0012, p0016, p0017. [Structured record](../../records/src-8a111863ff79.json).
+
+### src-8a111863ff79-c02
+
+Mari says Taygetan forces use ranks and command hierarchy, while training members to think and protect life.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan Military (English)](https://swaruu.org/transcripts/taygetan-military-english) (2024-12-07; en); passages p0013, p0014. [Structured record](../../records/src-8a111863ff79.json).
+
+### src-f8715fda448c-c01
+
+Mari says Anna Olgyria, selected from over 300 cadets, joined Sadicleya as a communications cadet before becoming her assistant.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 38, New Crew Member, Another G.F. Diplomatic Incident, Thinking Hat 02 (English)](https://swaruu.org/transcripts/space-news-38-new-crew-member-another-g-f-diplomatic-incident-thinking-hat-02-english) (2024-08-31; en); passages p0003, p0022. [Structured record](../../records/src-f8715fda448c.json).
+
+### src-6825f8d595d8-c03
+
+Athena says a soap-skating prank by Mari and Yazhi created a cleanup hazard aboard ship.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-past-anecdotes-life-on-the-ship-part-4) (2024-10-07; en); passages p0012, p0014, p0016, p0018. [Structured record](../../records/src-6825f8d595d8.json).
+
+### src-6825f8d595d8-c04
+
+Athena recounts Yazhi and Sophia playing dangerously on hangar scaffolding; Anéeka raised the alarm and Hashmallim escorted them down.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-past-anecdotes-life-on-the-ship-part-4) (2024-10-07; en); passages p0026, p0027, p0028, p0032. [Structured record](../../records/src-6825f8d595d8.json).
+
+### src-15a5d7380aeb-c05
+
+Mari reports Sadicleya replaced Toleka as flagship, with Alcyone, Asterope, Hyades, and Saska 1 remaining near Earth.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (English)](https://swaruu.org/transcripts/taygeta-space-news-35-august-12-2024-good-bye-starship-toleka-english) (2024-08-12; en); passages p0017. [Structured record](../../records/src-15a5d7380aeb.json).
+
+### src-6313385e14d2-c01
+
+Mari reports recurring respiratory and stomach illnesses among crew; the surgeon said Yazhi’s lungs remained infected with fungus.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (English)](https://swaruu.org/transcripts/space-news-51-what-is-up-with-taygetans-my-youtube-channel-and-me-english) (2024-11-16; en); passages p0005, p0006, p0009. [Structured record](../../records/src-6313385e14d2.json).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -1559,12 +2109,113 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-de6bce5d6310-c01](starship-systems.md#src-de6bce5d6310-c01) — Starship systems
 - [src-de6bce5d6310-c02](starship-systems.md#src-de6bce5d6310-c02) — Starship systems
 - [src-de6bce5d6310-c03](starship-systems.md#src-de6bce5d6310-c03) — Starship systems
+- [src-921d31cbf21f-c03](immersion-pods.md#src-921d31cbf21f-c03) — Immersion pods
+- [src-921d31cbf21f-c06](hashmallim.md#src-921d31cbf21f-c06) — Hashmallim
+- [src-921d31cbf21f-c07](immersion-pods.md#src-921d31cbf21f-c07) — Immersion pods
+- [src-d75dca329107-c05](cultivated-meat.md#src-d75dca329107-c05) — Cultivated meat
+- [src-e1067d3dc607-c02](alcyone-council.md#src-e1067d3dc607-c02) — Alcyone Council
+- [src-e1067d3dc607-c04](toleka-class.md#src-e1067d3dc607-c04) — Toleka-class starships
+- [src-e1067d3dc607-c05](toleka-class.md#src-e1067d3dc607-c05) — Toleka-class starships
+- [src-73198a2de79a-c03](extraterrestrial-stepdowns.md#src-73198a2de79a-c03) — Extraterrestrial step-downs
+- [src-73198a2de79a-c05](urmah.md#src-73198a2de79a-c05) — Urmah
+- [src-293a7b70452d-c01](toleka-class.md#src-293a7b70452d-c01) — Toleka-class starships
+- [src-1ab8fffe5f20-c01](prime-directive.md#src-1ab8fffe5f20-c01) — Prime Directive
+- [src-1ab8fffe5f20-c02](economics.md#src-1ab8fffe5f20-c02) — Economics and resources
+- [src-1ab8fffe5f20-c03](hashmallim.md#src-1ab8fffe5f20-c03) — Hashmallim
+- [src-1ab8fffe5f20-c04](hashmallim.md#src-1ab8fffe5f20-c04) — Hashmallim
+- [src-55f8a18447af-c05](artificial-intelligence.md#src-55f8a18447af-c05) — Artificial intelligence
+- [src-4bcc1973bc1e-c02](moghyay.md#src-4bcc1973bc1e-c02) — Moghyay
+- [src-4bcc1973bc1e-c04](hashmallim.md#src-4bcc1973bc1e-c04) — Hashmallim
+- [src-437981222071-c01](toleka-class.md#src-437981222071-c01) — Toleka-class starships
+- [src-6c5c3b665064-c03](alien-species.md#src-6c5c3b665064-c03) — Alien species and distinctions
+- [src-a0be05135c11-c04](alien-species.md#src-a0be05135c11-c04) — Alien species and distinctions
+- [src-b18ffa3a44a6-c03](toleka-class.md#src-b18ffa3a44a6-c03) — Toleka-class starships
+- [src-b18ffa3a44a6-c06](economics.md#src-b18ffa3a44a6-c06) — Economics and resources
+- [src-8a20bf02262a-c01](hashmallim.md#src-8a20bf02262a-c01) — Hashmallim
+- [src-8a20bf02262a-c03](hashmallim.md#src-8a20bf02262a-c03) — Hashmallim
+- [src-cae1127d2078-c05](economics.md#src-cae1127d2078-c05) — Economics and resources
+- [src-682e0b02c3c5-c06](soulmates.md#src-682e0b02c3c5-c06) — Soulmates
+- [src-5a5ded3e94ce-c05](muonic-galactic-ai-network.md#src-5a5ded3e94ce-c05) — Muonic galactic AI network
+- [src-70bae46a6291-c03](muonic-galactic-ai-network.md#src-70bae46a6291-c03) — Muonic galactic AI network
+- [src-b13379b319a5-c01](alien-species.md#src-b13379b319a5-c01) — Alien species and distinctions
+- [src-ff2138119484-c02](artificial-intelligence.md#src-ff2138119484-c02) — Artificial intelligence
+- [src-554b76780378-c04](toleka-class.md#src-554b76780378-c04) — Toleka-class starships
+- [src-554b76780378-c05](toleka-class.md#src-554b76780378-c05) — Toleka-class starships
+- [src-f97a14514a47-c03](remote-presence-technology.md#src-f97a14514a47-c03) — Remote-presence technology
+- [src-3c54f1ef569a-c01](alien-species.md#src-3c54f1ef569a-c01) — Alien species and distinctions
+- [src-cf0ae0f8a31e-c02](alcyone-council.md#src-cf0ae0f8a31e-c02) — Alcyone Council
+- [src-cf0ae0f8a31e-c03](galactic-federation.md#src-cf0ae0f8a31e-c03) — Galactic Federation
+- [src-cf0ae0f8a31e-c04](starship-systems.md#src-cf0ae0f8a31e-c04) — Starship systems
+- [src-3f83b10b1792-c01](alien-species.md#src-3f83b10b1792-c01) — Alien species and distinctions
+- [src-3f83b10b1792-c04](alien-species.md#src-3f83b10b1792-c04) — Alien species and distinctions
+- [src-1d9c7182389e-c01](taygetan-ecosystems.md#src-1d9c7182389e-c01) — Taygetan ecosystems
+- [src-1d9c7182389e-c05](toleka-class.md#src-1d9c7182389e-c05) — Toleka-class starships
+- [src-0689f51f7290-c02](maternal-med-pods.md#src-0689f51f7290-c02) — Maternal medical pods
+- [src-0689f51f7290-c03](maternal-med-pods.md#src-0689f51f7290-c03) — Maternal medical pods
+- [src-7288ab90f589-c01](toleka-class.md#src-7288ab90f589-c01) — Toleka-class starships
+- [src-357511a0f248-c02](alcyone-council.md#src-357511a0f248-c02) — Alcyone Council
+- [src-f9789939fb7e-c03](economics.md#src-f9789939fb7e-c03) — Economics and resources
+- [src-1aa59d2c774b-c02](temporal-skipping.md#src-1aa59d2c774b-c02) — Temporal skipping
+- [src-4af520912230-c03](galactic-federation.md#src-4af520912230-c03) — Galactic Federation
+- [src-924330cd4b6f-c05](galactic-federation.md#src-924330cd4b6f-c05) — Galactic Federation
+- [src-38b07e39e45a-c03](postmortem-realities.md#src-38b07e39e45a-c03) — Postmortem realities
+- [src-03ea45d7d724-c04](total-immersion-simulations.md#src-03ea45d7d724-c04) — Total-immersion simulations
+- [src-46bd13901f5f-c04](dna-metaphysics.md#src-46bd13901f5f-c04) — DNA and metaphysical patterns
+- [src-a11243a06a8a-c04](alcyone-council.md#src-a11243a06a8a-c04) — Alcyone Council
+- [src-a11243a06a8a-c05](economics.md#src-a11243a06a8a-c05) — Economics and resources
+- [src-c533f1f1e9a7-c01](starship-systems.md#src-c533f1f1e9a7-c01) — Starship systems
+- [src-722b52946af6-c03](galactic-federation.md#src-722b52946af6-c03) — Galactic Federation
+- [src-de7987eb8690-c01](economics.md#src-de7987eb8690-c01) — Economics and resources
+- [src-de7987eb8690-c03](starship-systems.md#src-de7987eb8690-c03) — Starship systems
+- [src-de7987eb8690-c04](galactic-federation.md#src-de7987eb8690-c04) — Galactic Federation
+- [src-de7987eb8690-c05](taygetan-ecosystems.md#src-de7987eb8690-c05) — Taygetan ecosystems
+- [src-f118e1d3885f-c04](artificial-intelligence.md#src-f118e1d3885f-c04) — Artificial intelligence
+- [src-f118e1d3885f-c05](starship-systems.md#src-f118e1d3885f-c05) — Starship systems
+- [src-f4085f32044d-c03](urmah.md#src-f4085f32044d-c03) — Urmah
+- [src-f4085f32044d-c05](urmah.md#src-f4085f32044d-c05) — Urmah
+- [src-4346d888f1bc-c01](project-second-contact.md#src-4346d888f1bc-c01) — Project Second Contact
+- [src-4346d888f1bc-c04](project-second-contact.md#src-4346d888f1bc-c04) — Project Second Contact
+- [src-4346d888f1bc-c05](project-second-contact.md#src-4346d888f1bc-c05) — Project Second Contact
+- [src-bb2e4f6bf652-c03](maternal-med-pods.md#src-bb2e4f6bf652-c03) — Maternal medical pods
+- [src-bb2e4f6bf652-c05](starship-systems.md#src-bb2e4f6bf652-c05) — Starship systems
+- [src-a536d40b8707-c01](alfrata.md#src-a536d40b8707-c01) — Alfrata (Phaeton)
+- [src-234bba72765f-c02](starship-systems.md#src-234bba72765f-c02) — Starship systems
+- [src-234bba72765f-c04](galactic-federation.md#src-234bba72765f-c04) — Galactic Federation
+- [src-fa5f0d3e6d92-c01](starship-systems.md#src-fa5f0d3e6d92-c01) — Starship systems
+- [src-fa5f0d3e6d92-c03](starship-systems.md#src-fa5f0d3e6d92-c03) — Starship systems
+- [src-fa5f0d3e6d92-c04](starship-systems.md#src-fa5f0d3e6d92-c04) — Starship systems
+- [src-fa5f0d3e6d92-c05](starship-systems.md#src-fa5f0d3e6d92-c05) — Starship systems
+- [src-9d8a8bc7d382-c02](medical-pods.md#src-9d8a8bc7d382-c02) — Medical regeneration pods
+- [src-9d8a8bc7d382-c03](medical-pods.md#src-9d8a8bc7d382-c03) — Medical regeneration pods
+- [src-9d8a8bc7d382-c04](medical-pods.md#src-9d8a8bc7d382-c04) — Medical regeneration pods
+- [src-a51af977308e-c03](taygetan-ecosystems.md#src-a51af977308e-c03) — Taygetan ecosystems
+- [src-a51af977308e-c04](starship-systems.md#src-a51af977308e-c04) — Starship systems
+- [src-a51af977308e-c05](taygetan-ecosystems.md#src-a51af977308e-c05) — Taygetan ecosystems
+- [src-6f8ab895fea6-c02](swaruunians.md#src-6f8ab895fea6-c02) — Swaruunians
+- [src-6f8ab895fea6-c03](swaruunians.md#src-6f8ab895fea6-c03) — Swaruunians
+- [src-562516284299-c01](starship-systems.md#src-562516284299-c01) — Starship systems
+- [src-562516284299-c02](starship-systems.md#src-562516284299-c02) — Starship systems
+- [src-562516284299-c05](starship-systems.md#src-562516284299-c05) — Starship systems
 
 ## Review flags
 
+- Alenym-attack-culprit-unknown
+- Alenym-retirement-not-decided
+- Athena-interview-original-English
+- Australian-traffic-purpose-unknown
+- Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
+- Federation-sanctions\_reported
+- Figures and ship status are Mari’s account as of August 2024
+- Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - Maitre\_relationship\_with\_Reptilians
+- Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
+- Senetre-diagnosed-weapon-route-suspected
+- The account is Mari’s report; it describes a near-escalation without further reported consequences
 - afterlife\_model
+- arrival-date discrepancy: remembered estimate differs from photo-based estimate
+- attack-theory\_speculative
 - attribution-care: source claims about sexuality are speaker-specific
+- attribution\_scope
 - blockade-and-biology-attributed
 - conflicting\_origin\_accounts
 - conflicting\_primary\_purpose\_claims
@@ -1573,6 +2224,7 @@ Related topics: [Starship systems](starship-systems.md).
 - contested\_intelligence\_claims
 - contradictory\_past\_change\_model
 - contradicts\_prior\_public\_claims
+- cosmology-claims\_attributed
 - coverage: climate and architecture
 - coverage: full metaphysical questions
 - coverage: interspecies compatibility
@@ -1581,10 +2233,12 @@ Related topics: [Starship systems](starship-systems.md).
 - crop\_circle\_interpretation
 - culturally\_variable\_nde\_claim
 - definition\_varies
+- dietary-claims\_attributed
 - dietary\_advice
 - directive-rules-not-in-transcript
 - disclosure\_claims\_unverified
 - earth-population-claims
+- extraordinary-ability-claims
 - extraordinary-cosmology-claims
 - extraordinary-technology-claims
 - extraordinary\_biological\_claims
@@ -1598,37 +2252,74 @@ Related topics: [Starship systems](starship-systems.md).
 - extraordinary\_paranormal\_claims
 - extraordinary\_personal\_ability\_claims
 - faction\_tension
+- factional-threat-interpretation-attributed-to-urmah
+- federation-authority-critique
+- federation\_dispute
+- fence-control-theory-unconfirmed
+- field-procedure-account-attributed-to-mari
+- first-person claims reflect Gosia’s account in a dispute
+- fleet-status\_as-reported
 - gender\_role\_generalization
+- genetic-weapon-causation-speculative
+- historical-allegations
 - historical-claims-uncorroborated
 - historical-claims-unverified
 - historical-conspiracy-claims
 - historical\_account\_unverified
 - identity-claims-unverified
 - incomplete-investigation
+- intercultural-claims
 - logo\_identity\_claim\_unverified
+- medical account is attributed narrative, not medical guidance
 - medical\_misinformation\_present
 - metaphysical-claims
+- metaphysical-genetics-unverified
+- military-claims\_attributed
 - multiple\_futures\_claim
 - named\_government\_and\_secret\_base\_claims
+- narrator\_claims
+- nonhuman-technology\_claims\_attributed
+- p0024–p0026 use an oblique coded allegory; interpretation is uncertain
+- pathogen-claim\_attributed
 - personal\_accusations
 - personal\_cosmology
 - pilot-account-attributed
 - political-claims
 - political-claims-unverified
+- political-narrative\_attributed
+- project-guidance-attributed-to-mari
+- reincarnation-cosmology
+- reported\_plan
 - review: claims on sexual orientation and depopulation
+- second-contact-stoppage-attributed-to-yazhi
+- secondhand-fleet-reports
 - self-reported-traits
 - self\_description
+- serious\_allegations\_attributed
+- social-media-project\_details\_speculative
 - source includes conflicting publication and event dates; claims retain stated dates
+- source-speaker-shift-dhor-to-yazhi
 - speaker-attribution-swaruu-x-athena
+- speaker-shift-cic-to-mari
 - speaker-split: Gosia reflection; Anéeka statement at p0050-p0054
+- species status is contested within Mari’s account; preserve her stated rationale
+- species-cosmology\_attributed
+- species-description\_attributed
 - species\_specific\_reproduction
+- succession-report\_attributed
+- succession-rules\_attributed
 - symbolic-conspiracy-claims
+- technology-described-by-mari
+- technology-description-unverified
 - technology\_claims
 - translated\_source
 - translation\_approximation\_navajo\_inuit
 - unverified-contact-claims
+- unverified-eclipse-portal-theory
+- unverified-encounter
 - unverified-historical-claims
 - unverified-paranormal-claims
+- unverified-spiritual-attack-interpretation
 - unverified\_biological\_and\_metaphysical\_claims
 - unverified\_biological\_claims
 - unverified\_disinformation\_claims

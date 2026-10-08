@@ -1,0 +1,7 @@
+{
+  "batch_id": "continuous-019",
+  "recovered_at": "2026-10-08T16:10:22+00:00",
+  "initial_failed_sources": 84,
+  "all_selected_sources_prepared": 160,
+  "action": "Normal retry with two download workers succeeded; initial errors retained separately."
+}

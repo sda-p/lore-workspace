@@ -224,6 +224,70 @@ Source: [Yazhi Swaruu and the Issues of Human Past - Perceptual and Laboratory I
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-6c5c3b665064-c04
+
+Mari Swaruu claims six planetary resets erased advanced civilizations. Her data, without proof.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [The Greater Interstellar Humanity, First Part (English)](https://swaruu.org/transcripts/the-greater-interstellar-humanity-first-part-english) (2024-06-08; en); passages p0017. [Structured record](../../records/src-6c5c3b665064.json).
+
+### src-91851d621bc3-c01
+
+Athena Swaruu says classical Egypt inherited infrastructure from an earlier civilization.
+
+Attributed to **Athena Swaruu**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (4) - Ancient Egypt Is Not what You´ve Been Told (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-4-ancient-egypt-is-not-what-you-ve-been-told-athena-swaruu) (2025-03-01; en); passages p0003, p0004. [Structured record](../../records/src-91851d621bc3.json).
+
+### src-91851d621bc3-c05
+
+Athena Swaruu says later Egyptians used the earlier site and knew the base as a divine abode.
+
+Attributed to **Athena Swaruu**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (4) - Ancient Egypt Is Not what You´ve Been Told (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-4-ancient-egypt-is-not-what-you-ve-been-told-athena-swaruu) (2025-03-01; en); passages p0020, p0022, p0033. [Structured record](../../records/src-91851d621bc3.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-3c54f1ef569a-c02
+
+She says post-Tiamat Federation and M45 arrivals aided pre-dynastic Egypt, with a Giza Federation spaceport by 12,500 BCE.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (2) - Homo Capensis - Extraterrestrial Presence on Earth (Akhenaten/Nefertiti)](https://swaruu.org/transcripts/ancient-egypt-2-homo-capensis-extraterrestrial-presence-on-earth-akhenaten-nefertiti) (2025-01-31; en); passages p0009, p0010. [Structured record](../../records/src-3c54f1ef569a.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-3c54f1ef569a-c03
+
+Swaruu says Akhenaten and Nefertiti imposed solar monotheism, provoking revolt and expulsion under Ramses II.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (2) - Homo Capensis - Extraterrestrial Presence on Earth (Akhenaten/Nefertiti)](https://swaruu.org/transcripts/ancient-egypt-2-homo-capensis-extraterrestrial-presence-on-earth-akhenaten-nefertiti) (2025-01-31; en); passages p0004, p0005, p0012, p0016. [Structured record](../../records/src-3c54f1ef569a.json).
+
+Related topics: [Astrotheology](astrotheology.md).
+
+### src-9afde86ad754-c05
+
+Mari says an uncrewed Lemurian starship arrived within a decade, with evidence of a major interior fight; Federation delays stalled investigation.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [You are Experiencing the last stages of a total Cultural and Social Reset (English)](https://swaruu.org/transcripts/you-are-experiencing-the-last-stages-of-a-total-cultural-and-social-reset-english) (2024-05-27; en); passages p0024, p0025. [Structured record](../../records/src-9afde86ad754.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-b0c4a788e5de-c03
+
+She links the post-exodus journey with the origin of Celtic culture.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
+
+Source: [Ancient Egypt (3) - Meritaten, Exodus, Scotland, Cabal - Swaruu of Erra](https://swaruu.org/transcripts/ancient-egypt-3-meritaten-exodus-scotland-cabal-swaruu-of-erra) (2025-02-09; en); passages p0021. [Structured record](../../records/src-b0c4a788e5de.json).
+
 ## Claims filed under other topics
 
 - [src-4edf6c848c69-c03](tiamat.md#src-4edf6c848c69-c03) — Tiamat
@@ -236,20 +300,28 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-c07ce04540a6-c03](tiamat.md#src-c07ce04540a6-c03) — Tiamat
 - [src-15ba6ed0a80c-c03](terrestrial-science.md#src-15ba6ed0a80c-c03) — Terrestrial science
 - [src-075c8d444cc5-c04](galactic-federation.md#src-075c8d444cc5-c04) — Galactic Federation
+- [src-5ffe56780faa-c01](intraterrestrial-civilizations.md#src-5ffe56780faa-c01) — Intraterrestrial civilizations
+- [src-5ffe56780faa-c03](intraterrestrial-civilizations.md#src-5ffe56780faa-c03) — Intraterrestrial civilizations
+- [src-9afde86ad754-c03](tartaria.md#src-9afde86ad754-c03) — Tartaria
 
 ## Review flags
 
+- Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- alternate-history\_claims\_attributed
 - competing\_attributions
+- cosmology-claims\_attributed
 - extraordinary\_archaeological\_claims
 - extraordinary\_conflict\_claims
 - extraordinary\_history\_claims
 - frequency\_health\_claims\_unverified
 - historical-conspiracy-claims
 - no-parallel-source-in-batch
+- speaker-speculation
 - symbolic\_interpretations
 - translated-from-spanish
 - translated\_source
+- unverified-reset-claims
 - unverified\_archaeology
 - unverified\_extraterrestrial\_claims

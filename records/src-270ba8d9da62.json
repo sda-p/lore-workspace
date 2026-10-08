@@ -1,0 +1,123 @@
+{
+  "source_id": "src-270ba8d9da62",
+  "snapshot_sha256": "8fe908db84686724aa6485655e44da577bc7741a528d077afddd41ad35a506be",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-270ba8d9da62-c01",
+      "assertion": "Mari reports lower-astral activity surged after the 2024 eclipse, which she attributes to rituals and portals.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0010"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-270ba8d9da62-c02",
+      "assertion": "She describes portals as idea-based bridges, often hidden in underground military installations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0017",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-270ba8d9da62-c03",
+      "assertion": "Her ship and drone sensors map hotspots where lower-astral and material frequencies overlap.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "nonhuman-surveillance-drones",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-270ba8d9da62-c04",
+      "assertion": "Mari says such entities cannot manifest alone; they rely on soul-connected humans' creative capacity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-270ba8d9da62-c05",
+      "assertion": "She warns entities can impersonate loved ones and says naming a ghost can grant passage.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "archons-and-demons"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-270ba8d9da62-c06",
+      "assertion": "Mari says hateful, resentful souls may remain in lower astral; friendly ghosts are rare.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "archons-and-demons"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "entertainment-disclaimer",
+    "post-eclipse-causal-attribution"
+  ],
+  "coverage_gaps": [
+    "ritual protocols",
+    "haunting response",
+    "frequency-map locations"
+  ]
+}

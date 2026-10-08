@@ -1,0 +1,84 @@
+{
+  "source_id": "src-ed681d9a2b1f",
+  "snapshot_sha256": "004e260c03dad979373843f8cf0e129c0801af8b62097d4378a4a5a57d987699",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ed681d9a2b1f-c01",
+      "assertion": "Swaruu (9) says artificial portals send a wormhole vortex rather than the apparatus; travelers need a portal at their destination to return.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0043"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed681d9a2b1f-c02",
+      "assertion": "She says ships and portals reach destinations by matching frequencies; ships use mapped locations and engines tuned to destination frequencies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0042",
+        "p0044",
+        "p0050"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed681d9a2b1f-c03",
+      "assertion": "She describes natural portals as dependent on many planetary and nearby-astral conditions, potentially predictable but unstable and unreliable.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0054",
+        "p0055"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "They do not always open."
+    },
+    {
+      "id": "src-ed681d9a2b1f-c04",
+      "assertion": "She says Taygetan ships create wormholes at will and use quantum holographic computers with particle nano-accelerators instead of transistor cores.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0057",
+        "p0059"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "related-frequency-navigation-source"
+  ],
+  "coverage_gaps": [
+    "portal-history",
+    "portal-markers"
+  ]
+}

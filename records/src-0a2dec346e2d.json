@@ -1,0 +1,126 @@
+{
+  "source_id": "src-0a2dec346e2d",
+  "snapshot_sha256": "ecb86826d5497fd42f49343e35d0adc5eb24fa029f45c0b5fec4e212a6901b56",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0a2dec346e2d-c01",
+      "assertion": "Swaruu identifies Yeti and Bigfoot as semi-intraterrestrial, telepathic humanoids hiding in camouflaged cavities.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "bigfoot-sasquatch",
+      "topics": [
+        "bigfoot-sasquatch",
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a2dec346e2d-c02",
+      "assertion": "Swaruu says at least five Sasquatch varieties use underground networks; some are friendly to specific humans.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0044",
+        "p0046"
+      ],
+      "primary_topic": "bigfoot-sasquatch",
+      "topics": [
+        "bigfoot-sasquatch",
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says aggression varies by individual."
+    },
+    {
+      "id": "src-0a2dec346e2d-c03",
+      "assertion": "Swaruu analogizes Sasquatch and cetaceans to FM frequencies, less affected by lunar signals than humans.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "bigfoot-sasquatch"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a2dec346e2d-c04",
+      "assertion": "Swaruu blamed Dyatlov on a Reptile-released Yeti; Anéeka later favored tribal murder and reports no ship records.",
+      "speaker": "Swaruu (9); Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0013",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0025"
+      ],
+      "primary_topic": "dyatlov-pass-incident",
+      "topics": [
+        "dyatlov-pass-incident",
+        "bigfoot-sasquatch"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a2dec346e2d-c05",
+      "assertion": "Swaruu says negative forces modified Bigfoot for warfare, citing Reptile-released Yetis.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "bigfoot-sasquatch",
+      "topics": [
+        "bigfoot-sasquatch",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "bigfoot-sasquatch",
+      "name": "Bigfoot, Sasquatch and Yeti",
+      "kind": "species",
+      "aliases": [
+        "Bigfoot",
+        "Sasquatch",
+        "Yeti",
+        "Menk"
+      ]
+    },
+    {
+      "id": "dyatlov-pass-incident",
+      "name": "Dyatlov Pass Incident",
+      "kind": "historical event",
+      "aliases": [
+        "Dyatlov Pass"
+      ]
+    }
+  ],
+  "review_flags": [
+    "2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account."
+  ],
+  "coverage_gaps": [
+    "habitat range",
+    "human encounters",
+    "reported park disappearances"
+  ]
+}

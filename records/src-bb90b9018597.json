@@ -1,0 +1,91 @@
+{
+  "source_id": "src-bb90b9018597",
+  "snapshot_sha256": "6abfc4709bf621dbbd305c0a126e29ec429b73c9a7f46adce429d35065243579",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bb90b9018597-c01",
+      "assertion": "The account recasts Enki and Enlil as rival groups rooted in Egyptian politics, not individuals: Enki aligned with Akhenaten, Enlil with his opponents.",
+      "speaker": "Swaruu (as attributed by Robert)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "sumerian-tablets"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb90b9018597-c02",
+      "assertion": "It claims Egyptian civilization predates Sumerian culture by millennia, with Egyptian roots traced to Ireland, and says later chronology was reversed.",
+      "speaker": "Swaruu (as attributed by Robert)",
+      "paragraph_ids": [
+        "p0005",
+        "p0009",
+        "p0010",
+        "p0013",
+        "p0019"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "sumerian-tablets"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb90b9018597-c03",
+      "assertion": "The account links Anu, Enlil, and Enki to Beta, Gamma, and Mothallah in a stellar-origin interpretation of the Trinity.",
+      "speaker": "Swaruu (as attributed by Robert)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sumerian-tablets",
+      "name": "Sumerian tablets",
+      "kind": "historical source",
+      "aliases": [
+        "Sumerian tablets"
+      ]
+    },
+    {
+      "id": "ancient-egypt",
+      "name": "Ancient Egypt",
+      "kind": "civilization",
+      "aliases": [
+        "Egypt",
+        "Egyptian civilization"
+      ]
+    }
+  ],
+  "review_flags": [
+    "speaker-attribution-inferred-from-robert-transcript"
+  ],
+  "coverage_gaps": [
+    "historical-dating-claims",
+    "religious-interpretation"
+  ]
+}

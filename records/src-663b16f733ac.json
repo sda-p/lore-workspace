@@ -1,0 +1,102 @@
+{
+  "source_id": "src-663b16f733ac",
+  "snapshot_sha256": "5cb72db4f869642ee7f8bf93a91088585e5ab5ba0631181b5aff89ca9986795e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-663b16f733ac-c01",
+      "assertion": "Mari says people above Earth’s average vibration are targeted to bring them down.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-663b16f733ac-c02",
+      "assertion": "She alleges lower astral entities manipulate associates, sometimes inhabiting NPC shells as organic portals against positive starseeds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-663b16f733ac-c03",
+      "assertion": "Mari identifies dependent family, especially unsupportive mothers, as especially difficult obstacles; she allows supportive-family exceptions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-663b16f733ac-c04",
+      "assertion": "She describes spiritual awakening as recognizing exploitative relationships and setting boundaries to protect a starseed’s mission.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-663b16f733ac-c05",
+      "assertion": "Mari attributes to Urmah Ari the advice to care for oneself before helping others and avoid self-harming overgiving.",
+      "speaker": "Mari Swa, reporting Ari",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-astral-causation",
+    "family-dynamics-generalization"
+  ],
+  "coverage_gaps": [
+    "narcissism-description"
+  ]
+}

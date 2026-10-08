@@ -1,0 +1,116 @@
+{
+  "source_id": "src-4d31d71233c1",
+  "snapshot_sha256": "ddf95a57c8e671182ded5e709b699bb51b165db752d334ebce3994186de0a1c4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4d31d71233c1-c01",
+      "assertion": "Swaruu frames karma as a rule operating inside the Matrix, not an unavoidable debt.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d31d71233c1-c02",
+      "assertion": "She says souls choose whether to carry guilt or perceived karmic obligations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d31d71233c1-c03",
+      "assertion": "She contrasts her view with Andromedan karma, which she says Taygetans reject.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d31d71233c1-c04",
+      "assertion": "She says belief and attention shape postmortem experience and possible reincarnation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0078",
+        "p0079"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d31d71233c1-c05",
+      "assertion": "She says clear intent can let a soul refuse reincarnation and leave the Matrix.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d31d71233c1-c06",
+      "assertion": "She says individuals can revise perceived cause-and-effect rules through changed beliefs.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0062",
+        "p0063",
+        "p0065",
+        "p0069",
+        "p0071"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "historical-origin-claims",
+    "specific-examples"
+  ]
+}

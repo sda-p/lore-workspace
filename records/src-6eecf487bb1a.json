@@ -1,0 +1,101 @@
+{
+  "source_id": "src-6eecf487bb1a",
+  "snapshot_sha256": "cd1742d619af12bd4ec73c9e531356df8bcc7704cad1916f626584856c0577ea",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6eecf487bb1a-c01",
+      "assertion": "Taygetan science treats mass as concentrated gravity; numeric mass-energy changes ripple through connected fields.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "gravity-harmonics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6eecf487bb1a-c02",
+      "assertion": "Each location maps object positions and relationships in a changing numerical field.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "frequency-map-navigation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6eecf487bb1a-c03",
+      "assertion": "Natural portals open when two locations’ mass-energy-frequency values match, closing as they diverge; astronomical events may favor some sites.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "frequency-map-navigation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6eecf487bb1a-c04",
+      "assertion": "Vibration matching can shift a person’s perceived reality; portals may connect different times as well as places.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6eecf487bb1a-c05",
+      "assertion": "Mari says artificial portals can move anything within their influence to another time or place.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "starship-systems"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "portal-mechanics-overlap-src-6abed4268d57"
+  ],
+  "coverage_gaps": [
+    "butterfly-effect-example"
+  ]
+}

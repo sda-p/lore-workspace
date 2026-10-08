@@ -1,0 +1,103 @@
+{
+  "source_id": "src-f4085f32044d",
+  "snapshot_sha256": "d91886a763bdca71f06145565abcc322cca14d335d58881629da7a45268d83d9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f4085f32044d-c01",
+      "assertion": "Mari became Taygeta’s Princess-Queen 72 under senior Queen Alenym 71, who mentors her; Alenym has not announced abdication.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0010",
+        "p0036"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f4085f32044d-c02",
+      "assertion": "Yazhi thinks a genetic weapon awaited Alenym on a contaminated Mogh-yay bird; it also affected Nai’Shara’s muscles, later cleared.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0061",
+        "p0063",
+        "p0065"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f4085f32044d-c03",
+      "assertion": "Vigilant Eagle guards Toleka; Urmah cooperate with investigations into the attack on Alenym.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f4085f32044d-c04",
+      "assertion": "Remote presence lets the queen work in Taygeta while physically aboard a ship, Yazhi says.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "total-immersion-simulations"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f4085f32044d-c05",
+      "assertion": "Yazhi says Taygetans and Urmah face attacks because they actively support Earth starseeds.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0075",
+        "p0076"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Alenym-attack-culprit-unknown",
+    "genetic-weapon-causation-speculative"
+  ],
+  "coverage_gaps": [
+    "other-races-alert-response",
+    "Taygeta-remote-governance-detail"
+  ]
+}

@@ -15,3 +15,38 @@ Anéeka describes layered harmonic shields that absorb impacts and admit identif
 Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [Alfratan (Centauri) Ship Attacked - Weapons - Aneeka of Temmer explains the Incident](https://swaruu.org/transcripts/alfratan-centauri-ship-attacked-weapons-aneeka-of-temmer-explains-the-incident) (2022-02-25; en); passages p0050, p0058, p0123, p0124, p0126, p0127. [Structured record](../../records/src-1f3a3984c56e.json).
+
+### src-fd371d9f8fcd-c02
+
+Transparent windows are continuous alloy; layered shields protect hulls up to 90cm thick.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 7 - Taygetan Pleiadian Starships - Materials and Construction](https://swaruu.org/transcripts/interstellar-life-7-taygetan-pleiadian-starships-materials-and-construction) (2024-11-11; en); passages p0016, p0017. [Structured record](../../records/src-fd371d9f8fcd.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-680909ec608a-c01
+
+Mari says engine-generated shields repel ships unless harmonics are synchronized, enabling shield-blended docking.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Space News 52. Two Major Taygetan Starships Crash (English)](https://swaruu.org/transcripts/space-news-52-two-major-taygetan-starships-crash-english) (2024-11-18; en); passages p0004, p0005, p0008. [Structured record](../../records/src-680909ec608a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+## Claims filed under other topics
+
+- [src-8a20bf02262a-c04](hashmallim.md#src-8a20bf02262a-c04) — Hashmallim
+- [src-ff2138119484-c05](starship-systems.md#src-ff2138119484-c05) — Starship systems
+- [src-bfaf065e0281-c04](consciousness-metaphysics.md#src-bfaf065e0281-c04) — Consciousness and metaphysics
+- [src-1d9c7182389e-c03](starship-systems.md#src-1d9c7182389e-c03) — Starship systems
+- [src-c533f1f1e9a7-c04](starship-systems.md#src-c533f1f1e9a7-c04) — Starship systems
+- [src-e0b94245b234-c05](consciousness-metaphysics.md#src-e0b94245b234-c05) — Consciousness and metaphysics
+
+## Review flags
+
+- astral-perception-and-protection-claims
+- military-claims\_attributed
+- source-speaker-shift-dhor-to-yazhi

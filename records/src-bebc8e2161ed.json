@@ -1,0 +1,95 @@
+{
+  "source_id": "src-bebc8e2161ed",
+  "snapshot_sha256": "e95de083aa3074efb737888cb760e6e32bd17a18983bffe05b0d77bebf4973d1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bebc8e2161ed-c01",
+      "assertion": "Swaruu identifies Phaethon/Alfrata as the inhabited temperate planet in Alpha Centauri A; nearby Phainon and Pyroies host colonies and facilities.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bebc8e2161ed-c02",
+      "assertion": "She says Draco groups invaded Phaethon, destroyed its original Lyrian population, and used humans—mostly abducted from Earth—as livestock.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "lyran-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She allows possible Lyrian survivors."
+    },
+    {
+      "id": "src-bebc8e2161ed-c03",
+      "assertion": "Swaruu says Federation forces liberated Phaethon around 1560–1570, bypassing the Prime Directive because it was an openly exploitative farm and most residents wanted liberation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0017",
+        "p0019",
+        "p0023"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bebc8e2161ed-c04",
+      "assertion": "She says Federation mentors helped survivors build a society that later became independent and joined the Federation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "galactic-federation",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "phaethon-liberation",
+      "name": "Liberation of Phaethon",
+      "kind": "historical event",
+      "aliases": [
+        "Phaethon liberation"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "centauri-ship-design",
+    "current-liberation-campaign"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "policy": "Worker-identified comparison candidates, not confirmed identical works; retain original-language records and citations.",
+  "candidates": [
+    {
+      "source_ids": [
+        "src-4942a07c7e4f",
+        "src-622099cec238"
+      ],
+      "origin": "continuous-013 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Close Spanish/English alignment reported by extractor4; equivalence unconfirmed."
+    },
+    {
+      "source_ids": [
+        "src-9dd66aa45b9f",
+        "src-f22366424c26"
+      ],
+      "origin": "continuous-013 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Close Spanish/English alignment reported by extractor4; equivalence unconfirmed."
+    },
+    {
+      "source_ids": [
+        "src-7872bc2f2c04",
+        "src-d47faace954b"
+      ],
+      "origin": "continuous-013 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Spanish source has broader scope than English account; retain distinct source claims."
+    }
+  ]
+}

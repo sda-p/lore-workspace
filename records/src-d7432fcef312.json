@@ -1,0 +1,80 @@
+{
+  "source_id": "src-d7432fcef312",
+  "snapshot_sha256": "6438ded03272392daac238628c9c13bd68d3bf9b64e0cd2fe2a7c2400a33c315",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d7432fcef312-c01",
+      "assertion": "Swaruu says Tiamat’s black goo reached Mars and Venus and can alter DNA; she presents it as a substance used by others rather than inherently agenda-driven.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0042",
+        "p0044",
+        "p0046"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "tiamat",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d7432fcef312-c02",
+      "assertion": "She says imposed frequencies can reprogram black goo’s quartz-like crystals; intention can neutralize it and an EMP can disable nanobots or implants.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0039"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d7432fcef312-c03",
+      "assertion": "Swaruu alleges Earth vaccines serve population-control agendas, including a 1918 influenza campaign she claims helped cause the pandemic.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0056",
+        "p0058"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "nanotechnology",
+      "name": "Nanotechnology and implants",
+      "kind": "technology",
+      "aliases": [
+        "smart dust",
+        "nanobots"
+      ]
+    }
+  ],
+  "review_flags": [
+    "attributed-medical-conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "black-goo-behavior",
+    "vaccine-agenda-claims"
+  ]
+}

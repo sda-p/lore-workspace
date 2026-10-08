@@ -1,0 +1,82 @@
+{
+  "source_id": "src-fdf4bfc8aa32",
+  "snapshot_sha256": "037a909fa17c2f801038d34ba2112690f0e2c326850160a0746ce2929d9114b3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fdf4bfc8aa32-c01",
+      "assertion": "Anéeka characterizes Sumerian tablets as mixing verifiable history with religious control messaging, calling them an early Bible-like instrument for guiding thought.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "sumerian-tablets",
+      "topics": [
+        "sumerian-tablets"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fdf4bfc8aa32-c02",
+      "assertion": "She says Earth controllers use YouTube to profile creators and social relationships for targeted manipulation; Taygeta also analyzes its data through her.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fdf4bfc8aa32-c03",
+      "assertion": "Anéeka, explicitly not speaking for Swaruu, reports that Swaruu rated ancient Egyptian civilization 8/10 and modern society 2/10.",
+      "speaker": "Anéeka, reporting Swaruu’s view",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sumerian-tablets",
+      "name": "Sumerian tablets",
+      "kind": "historical source",
+      "aliases": [
+        "Sumerian tablets"
+      ]
+    },
+    {
+      "id": "ancient-egypt",
+      "name": "Ancient Egypt",
+      "kind": "civilization",
+      "aliases": [
+        "Egypt",
+        "Egyptian civilization"
+      ]
+    }
+  ],
+  "review_flags": [
+    "reported-comparison-not-speaker-endorsement"
+  ],
+  "coverage_gaps": [
+    "astrotheology-details",
+    "jesus-discussion"
+  ]
+}

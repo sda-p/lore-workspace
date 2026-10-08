@@ -368,6 +368,210 @@ Source: [Reptilians and the Galactic Federation, and Positive Reptiles (English)
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-2bca495f8f63-c01
+
+Anéeka says a ship tractor beam can open a portal to a room on Earth.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Portals - Conversations with Aneeka of Temmer and Aneeka´s live with Robert](https://swaruu.org/transcripts/portals-conversations-with-aneeka-of-temmer-and-aneeka-s-live-with-robert) (2024-04-18; en); passages p0004, p0012. [Structured record](../../records/src-2bca495f8f63.json).
+
+Related topics: [Tractor beams](tractor-beams.md).
+
+### src-2bca495f8f63-c02
+
+Anéeka says a tractor beam portal requires several gigawatts and produces detectable magnetic effects.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Portals - Conversations with Aneeka of Temmer and Aneeka´s live with Robert](https://swaruu.org/transcripts/portals-conversations-with-aneeka-of-temmer-and-aneeka-s-live-with-robert) (2024-04-18; en); passages p0008, p0014, p0020. [Structured record](../../records/src-2bca495f8f63.json).
+
+Related topics: [Tractor beams](tractor-beams.md).
+
+### src-2bca495f8f63-c03
+
+Anéeka says fully bridged portals consume twice the energy of membrane portals.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Portals - Conversations with Aneeka of Temmer and Aneeka´s live with Robert](https://swaruu.org/transcripts/portals-conversations-with-aneeka-of-temmer-and-aneeka-s-live-with-robert) (2024-04-18; en); passages p0032, p0036. [Structured record](../../records/src-2bca495f8f63.json).
+
+Related topics: [Tractor beams](tractor-beams.md).
+
+### src-2bca495f8f63-c05
+
+Anéeka says some natural portals evade monitoring, but unknown ones can be dangerous.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Portals - Conversations with Aneeka of Temmer and Aneeka´s live with Robert](https://swaruu.org/transcripts/portals-conversations-with-aneeka-of-temmer-and-aneeka-s-live-with-robert) (2024-04-18; en); passages p0081, p0082. [Structured record](../../records/src-2bca495f8f63.json).
+
+### src-3c54f1ef569a-c05
+
+Yazhi says Hayu Marca was a ley-line portal used by Elohi, probably built by them.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (2) - Homo Capensis - Extraterrestrial Presence on Earth (Akhenaten/Nefertiti)](https://swaruu.org/transcripts/ancient-egypt-2-homo-capensis-extraterrestrial-presence-on-earth-akhenaten-nefertiti) (2025-01-31; en); passages p0043, p0044, p0046, p0048. [Structured record](../../records/src-3c54f1ef569a.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-e655edc71350-c05
+
+Mari claims CERN’s collider is a portal the Cabal may activate during the eclipse to exploit thinner barriers.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Eclipse, April 8th, 2024 (English)](https://swaruu.org/transcripts/eclipse-april-8th-2024-english) (2024-04-04; en); passages p0021, p0022. [Structured record](../../records/src-e655edc71350.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-a11243a06a8a-c01
+
+Mari alleges CERN’s eclipse tests and lunar-shadow probes support an artificial portal between astral and material realms.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News 18. April 6 2024, Eclipse, Starships, Meetings, Yazhi, and other news (English)](https://swaruu.org/transcripts/space-news-18-april-6-2024-eclipse-starships-meetings-yazhi-and-other-news-english) (2024-04-06; en); passages p0003, p0004, p0005. [Structured record](../../records/src-a11243a06a8a.json).
+
+Related topics: [Sunspot portals](sunspot-portals.md).
+
+### src-531b0e9f06bf-c01
+
+Mari says CIC sensors recorded eclipse power surges she attributes to artificial portals.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News 19. April 10 2024, Eclipse from Space, Starships, Black Knights (English)](https://swaruu.org/transcripts/space-news-19-april-10-2024-eclipse-from-space-starships-black-knights-english) (2024-04-11; en); passages p0008. [Structured record](../../records/src-531b0e9f06bf.json).
+
+Related topics: [Sunspot portals](sunspot-portals.md).
+
+### src-6abed4268d57-c01
+
+Mari models natural portals as locations whose mathematical fields coincide, creating spatial bridges.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Artificial Portals (English)](https://swaruu.org/transcripts/artificial-portals-english) (2024-04-13; en); passages p0005, p0008. [Structured record](../../records/src-6abed4268d57.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6abed4268d57-c02
+
+Artificial portal machines use electromagnetic toroids and frequency modulation to match destinations, transporting entrants while machinery stays put.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Artificial Portals (English)](https://swaruu.org/transcripts/artificial-portals-english) (2024-04-13; en); passages p0009, p0011, p0012, p0013, p0014. [Structured record](../../records/src-6abed4268d57.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-6abed4268d57-c03
+
+Heavier cargo and more dissimilar destinations require greater energy; cross-realm jumps remain limited.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Artificial Portals (English)](https://swaruu.org/transcripts/artificial-portals-english) (2024-04-13; en); passages p0014, p0015, p0016. [Structured record](../../records/src-6abed4268d57.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-6abed4268d57-c04
+
+Mari says lower-astral connections need small frequency shifts, enabling entities and people to perceive or affect each other.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Artificial Portals (English)](https://swaruu.org/transcripts/artificial-portals-english) (2024-04-13; en); passages p0017, p0018. [Structured record](../../records/src-6abed4268d57.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-6abed4268d57-c05
+
+She alleges Earth particle accelerators disguise portals enabling low-empathy, Source-disconnected entities to enter the material realm.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Artificial Portals (English)](https://swaruu.org/transcripts/artificial-portals-english) (2024-04-13; en); passages p0019, p0020. [Structured record](../../records/src-6abed4268d57.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-756f10136c06-c05
+
+She says portals or tractor beams insert or remove matter; their technology detects changes hidden from humans.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Interstellar Life 11- Ships Getting Lost in Timelines - Numerical Reality](https://swaruu.org/transcripts/interstellar-life-11-ships-getting-lost-in-timelines-numerical-reality) (2025-08-12; en); passages p0025, p0027. [Structured record](../../records/src-756f10136c06.json).
+
+Related topics: [Tractor beams](tractor-beams.md).
+
+### src-6eecf487bb1a-c01
+
+Taygetan science treats mass as concentrated gravity; numeric mass-energy changes ripple through connected fields.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Portals. Basic Principles (English)](https://swaruu.org/transcripts/portals-basic-principles-english) (2024-04-08; en); passages p0004, p0005, p0007. [Structured record](../../records/src-6eecf487bb1a.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-6eecf487bb1a-c02
+
+Each location maps object positions and relationships in a changing numerical field.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Portals. Basic Principles (English)](https://swaruu.org/transcripts/portals-basic-principles-english) (2024-04-08; en); passages p0009, p0010, p0011. [Structured record](../../records/src-6eecf487bb1a.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-6eecf487bb1a-c03
+
+Natural portals open when two locations’ mass-energy-frequency values match, closing as they diverge; astronomical events may favor some sites.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Portals. Basic Principles (English)](https://swaruu.org/transcripts/portals-basic-principles-english) (2024-04-08; en); passages p0012, p0013. [Structured record](../../records/src-6eecf487bb1a.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-6eecf487bb1a-c04
+
+Vibration matching can shift a person’s perceived reality; portals may connect different times as well as places.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Portals. Basic Principles (English)](https://swaruu.org/transcripts/portals-basic-principles-english) (2024-04-08; en); passages p0014, p0015, p0016. [Structured record](../../records/src-6eecf487bb1a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6eecf487bb1a-c05
+
+Mari says artificial portals can move anything within their influence to another time or place.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Portals. Basic Principles (English)](https://swaruu.org/transcripts/portals-basic-principles-english) (2024-04-08; en); passages p0017. [Structured record](../../records/src-6eecf487bb1a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-f14039337563-c04
+
+Athena says Karnak’s seven-key motif marks a frequency-matched portal with destinations or security levels.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Ancient Egypt (5) - Egyptian Mysteries - Questions (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-5-egyptian-mysteries-questions-athena-swaruu) (2025-03-18; en); passages p0048, p0050, p0052, p0054. [Structured record](../../records/src-f14039337563.json).
+
+### src-959864c4fde8-c05
+
+The account interprets the Eye’s spiral as portal trajectory and its eyebrow as a sign of origin in space.
+
+Attributed to **Unattributed source narration**; reported; extraction confidence: medium.
+
+Source: [Osiris, Eye of Horus, Ancient Egyptian matters - Extraterrestrial People](https://swaruu.org/transcripts/osiris-eye-of-horus-ancient-egyptian-matters-extraterrestrial-people) (2025-04-13; en); passages p0009. [Structured record](../../records/src-959864c4fde8.json).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -392,9 +596,13 @@ Related topics: [Alien species and distinctions](alien-species.md).
 
 ## Review flags
 
+- Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
+- Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
+- black-knight-loss-details-provisional
 - conspiracy\_claims
 - contested\_archaeology
 - earth\_science\_claims\_unverified
+- eclipse-portal-claims-unverified
 - ethical\_use\_limits
 - extraordinary-technology-claims
 - extraordinary\_archaeological\_claims
@@ -406,10 +614,17 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - medical-misinformation-allegation
 - metaphysical-claims
 - paranormal-claims-unverified
+- portal-mechanics-overlap-src-6abed4268d57
+- portal-technology-claims-unverified
 - related\_series\_part
+- secondhand-fleet-reports
+- speaker-shifts-Aneeka-Athena-Yazhi
+- speaker\_attribution
 - symbolic\_interpretations
 - third\_party\_allegations
+- translated-from-Spanish-original-not-available
 - translated\_source
+- unverified-eclipse-portal-theory
 - unverified-historical-claims
 - unverified\_ancient\_technology\_claims
 - unverified\_archaeology

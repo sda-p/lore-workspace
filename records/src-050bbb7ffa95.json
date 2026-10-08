@@ -1,0 +1,96 @@
+{
+  "source_id": "src-050bbb7ffa95",
+  "snapshot_sha256": "52301886dc38dfcd0db93f52467ff46db3639150d485d5a3f827702d4680c133",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-050bbb7ffa95-c01",
+      "assertion": "Mari suspects fungus and later illness were an astral attack, but says unprovable.",
+      "speaker": "Mari",
+      "paragraph_ids": [
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-050bbb7ffa95-c02",
+      "assertion": "She says 17 mice were captured aboard Sadicleya and returned to Earth unharmed.",
+      "speaker": "Mari",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-050bbb7ffa95-c03",
+      "assertion": "During simultaneous illnesses, 22 of Sadicleya’s 30 crew were hospitalized and Mari transferred fleet command to Alcyone’s Captain Gori’el.",
+      "speaker": "Mari",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-050bbb7ffa95-c04",
+      "assertion": "Protocol 827 permits forcible extraction of an active Taygetan monarch from an inoperable installation to preserve government continuity.",
+      "speaker": "Mari",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-050bbb7ffa95-c05",
+      "assertion": "Vehicles are washed to prevent contaminants; Mari reports a black widow aboard a ship not used for surface visits, its origin unknown.",
+      "speaker": "Mari",
+      "paragraph_ids": [
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-spiritual-attack-interpretation"
+  ],
+  "coverage_gaps": [
+    "illness-causation"
+  ]
+}

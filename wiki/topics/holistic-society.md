@@ -1104,6 +1104,80 @@ Source: [Is removing the Cabal advisable? Holistic Society Part 2. (English)](ht
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-b9ad02cc39ec-c05
+
+Anéeka proposed a five-year holistic society with global government and wireless Zero Point energy. This was a proposal.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Aneeka - Rise to the Top (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-rise-to-the-top-part-1) (2025-10-25; en); passages p0094. [Structured record](../../records/src-b9ad02cc39ec.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-cae1127d2078-c06
+
+Mari Swa describes interstellar barter as a basis of holistic societies without money.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Space News, 26, June 6, 2024, Alenym, Political context, Mari Swa now Acting Queen (English)](https://swaruu.org/transcripts/space-news-26-june-6-2024-alenym-political-context-mari-swa-now-acting-queen-english) (2024-06-06; en); passages p0017. [Structured record](../../records/src-cae1127d2078.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-857383d23bc1-c05
+
+Mari remotely represented Queen Alenym to sign an agricultural agreement with three-planet Molusc Maya.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 25, June 3, 2024, Moghyays, Alenym Unwell, Mari Swa in Control (English)](https://swaruu.org/transcripts/space-news-25-june-3-2024-moghyays-alenym-unwell-mari-swa-in-control-english) (2024-06-03; en); passages p0014, p0015, p0024, p0025. [Structured record](../../records/src-857383d23bc1.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-3082849baa66-c03
+
+Gosia says Space Academy offers perspectives rather than a new religion, leaving acceptance to learners.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASS 001 - Something Is Not Right in the Reality Around You](https://swaruu.org/transcripts/class-001-something-is-not-right-in-the-reality-around-you) (2025-01-25; en); passages p0012. [Structured record](../../records/src-3082849baa66.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3082849baa66-c04
+
+The course includes community workshops for members to share and practice communicating their knowledge.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [CLASS 001 - Something Is Not Right in the Reality Around You](https://swaruu.org/transcripts/class-001-something-is-not-right-in-the-reality-around-you) (2025-01-25; en); passages p0014, p0015, p0016. [Structured record](../../records/src-3082849baa66.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-b0c4a788e5de-c04
+
+Celtic society is described as holistic; she alleges its destruction.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
+
+Source: [Ancient Egypt (3) - Meritaten, Exodus, Scotland, Cabal - Swaruu of Erra](https://swaruu.org/transcripts/ancient-egypt-3-meritaten-exodus-scotland-cabal-swaruu-of-erra) (2025-02-09; en); passages p0028. [Structured record](../../records/src-b0c4a788e5de.json).
+
+### src-8a111863ff79-c03
+
+Mari argues military hierarchy enables rapid action during threats, when collective councils are too slow.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan Military (English)](https://swaruu.org/transcripts/taygetan-military-english) (2024-12-07; en); passages p0014, p0015. [Structured record](../../records/src-8a111863ff79.json).
+
+### src-1f8d569d9e4f-c02
+
+Mari says Toleka City approved most proposed bridges, hospitals, library, museum, and cadet facilities.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 50. Floods in Spain, Carrot, New Projects in Temmer (English)](https://swaruu.org/transcripts/space-news-50-floods-in-spain-carrot-new-projects-in-temmer-english) (2024-11-09; en); passages p0016, p0017. [Structured record](../../records/src-1f8d569d9e4f.json).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -1134,10 +1208,37 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-8183f4237107-c04](earth-cabal.md#src-8183f4237107-c04) — Earth Cabal and power structures
 - [src-554a031b6c3c-c05](galactic-federation.md#src-554a031b6c3c-c05) — Galactic Federation
 - [src-b7b4119e55e3-c02](earth-cabal.md#src-b7b4119e55e3-c02) — Earth Cabal and power structures
+- [src-fc193e0d15bd-c05](galactic-federation.md#src-fc193e0d15bd-c05) — Galactic Federation
+- [src-0578a3b0bcf0-c03](taygetans.md#src-0578a3b0bcf0-c03) — Taygetans
+- [src-0578a3b0bcf0-c04](sophia-swaruu.md#src-0578a3b0bcf0-c04) — Sophia Swaruu
+- [src-f853da2d0bcd-c01](taygetans.md#src-f853da2d0bcd-c01) — Taygetans
+- [src-f853da2d0bcd-c04](taygetans.md#src-f853da2d0bcd-c04) — Taygetans
+- [src-72e66bf3c62a-c02](egregors.md#src-72e66bf3c62a-c02) — Egregors
+- [src-72e66bf3c62a-c04](consciousness-metaphysics.md#src-72e66bf3c62a-c04) — Consciousness and metaphysics
+- [src-1d9c7182389e-c04](starship-systems.md#src-1d9c7182389e-c04) — Starship systems
+- [src-7288ab90f589-c03](toleka-class.md#src-7288ab90f589-c03) — Toleka-class starships
+- [src-fe44b9d9c0b3-c03](taygetans.md#src-fe44b9d9c0b3-c03) — Taygetans
+- [src-3082849baa66-c01](moon-matrix.md#src-3082849baa66-c01) — Moon and terrestrial Matrix
+- [src-c0ea4ddd8632-c01](galactic-federation.md#src-c0ea4ddd8632-c01) — Galactic Federation
+- [src-f042ab839938-c03](original-matrix.md#src-f042ab839938-c03) — Original Matrix
+- [src-663b16f733ac-c04](consciousness-metaphysics.md#src-663b16f733ac-c04) — Consciousness and metaphysics
+- [src-663b16f733ac-c05](urmah.md#src-663b16f733ac-c05) — Urmah
+- [src-293f7dd241ff-c05](taygetans.md#src-293f7dd241ff-c05) — Taygetans
+- [src-293f7dd241ff-c06](total-immersion-simulations.md#src-293f7dd241ff-c06) — Total-immersion simulations
+- [src-bb2e4f6bf652-c01](taygetans.md#src-bb2e4f6bf652-c01) — Taygetans
+- [src-a536d40b8707-c04](earth-cabal.md#src-a536d40b8707-c04) — Earth Cabal and power structures
 
 ## Review flags
 
+- Australian-traffic-purpose-unknown
+- Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
+- Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
+- Federation-arguments\_reported
+- Senetre-diagnosed-weapon-route-suspected
+- Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - agenda\_term\_varies
+- arrival-date discrepancy: remembered estimate differs from photo-based estimate
+- attack-theory\_speculative
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
 - conditional\_forecast
 - conflicting\_primary\_purpose\_claims
@@ -1155,7 +1256,11 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - extraordinary\_history\_claims
 - extraordinary\_medical\_claims
 - extraordinary\_metaphysical\_claims
+- family-dynamics-generalization
+- federation\_dispute
+- fence-control-theory-unconfirmed
 - gender\_role\_generalization
+- historical-allegations
 - historical-conspiracy-claims
 - ideological-commentary
 - incomplete-investigation
@@ -1178,14 +1283,18 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - politically\_contested
 - prior\_statement\_conflict
 - related\_series\_part
+- reported\_plan
 - self-reported-traits
 - self\_description
+- speaker-perspective-model
 - speaker: interviewer questions excluded as claims
 - species\_specific\_reproduction
+- technology-described-by-mari
 - technology\_claims
 - translated\_source
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- unverified-astral-causation
 - unverified\_biological\_claims
 - unverified\_conspiracy\_claims
 - unverified\_extraterrestrial\_claims

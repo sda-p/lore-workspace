@@ -875,5 +875,137 @@
     "aliases": [
       "full immersion simulation"
     ]
+  },
+  {
+    "id": "hashmallim",
+    "name": "Hashmallim",
+    "kind": "faction",
+    "aliases": [
+      "Taygeta Special Forces"
+    ]
+  },
+  {
+    "id": "project-second-contact",
+    "name": "Project Second Contact",
+    "kind": "program",
+    "aliases": [
+      "Taygetan internet project"
+    ]
+  },
+  {
+    "id": "engan-people",
+    "name": "Engan people",
+    "kind": "species",
+    "aliases": [
+      "Engans",
+      "Engan"
+    ]
+  },
+  {
+    "id": "forshagh",
+    "name": "Forshagh",
+    "kind": "sport",
+    "aliases": [
+      "Urmah contact sport"
+    ]
+  },
+  {
+    "id": "solatians",
+    "name": "Solatians",
+    "kind": "species",
+    "aliases": [
+      "white Pleiadians"
+    ]
+  },
+  {
+    "id": "moghyay",
+    "name": "Moghyay",
+    "kind": "species",
+    "aliases": [
+      "Moghyay birds"
+    ]
+  },
+  {
+    "id": "genetic-weapons",
+    "name": "Genetic weapons",
+    "kind": "technology",
+    "aliases": [
+      "targeted genetic weapon"
+    ]
+  },
+  {
+    "id": "spatium-lupi",
+    "name": "Spatium Lupi",
+    "kind": "faction",
+    "aliases": [
+      "Lupi",
+      "Denando De Sixte Terrae"
+    ]
+  },
+  {
+    "id": "suzy-fighter-craft",
+    "name": "Suzy fighter craft",
+    "kind": "technology",
+    "aliases": [
+      "Suzy",
+      "Super Suzy"
+    ]
+  },
+  {
+    "id": "swaruunians",
+    "name": "Swaruunians",
+    "kind": "civilization",
+    "aliases": [
+      "Swaruunian race"
+    ]
+  },
+  {
+    "id": "medical-pods",
+    "name": "Medical regeneration pods",
+    "kind": "technology",
+    "aliases": [
+      "dry medical pod",
+      "wet medical pod"
+    ]
+  },
+  {
+    "id": "teleportation",
+    "name": "Teleportation",
+    "kind": "technology",
+    "aliases": [
+      "short-range teleportation"
+    ]
+  },
+  {
+    "id": "remote-presence-technology",
+    "name": "Remote-presence technology",
+    "kind": "technology",
+    "aliases": [
+      "remote presence"
+    ]
+  },
+  {
+    "id": "global-deluge",
+    "name": "Global deluge",
+    "kind": "historical event",
+    "aliases": [
+      "universal deluge"
+    ]
+  },
+  {
+    "id": "ancient-egypt",
+    "name": "Ancient Egypt",
+    "kind": "historical civilization",
+    "aliases": [
+      "Egypt"
+    ]
+  },
+  {
+    "id": "frequency-microscopes",
+    "name": "Frequency Mapping Microscopes",
+    "kind": "technology",
+    "aliases": [
+      "molecular frequency microscope"
+    ]
   }
 ]

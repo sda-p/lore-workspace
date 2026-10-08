@@ -434,6 +434,62 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Important Comments, several other subjects, please watch to understand everything better (English)](https://swaruu.org/transcripts/important-comments-several-other-subjects-please-watch-to-understand-everything-better-english) (2023-10-17; en); passages p0005, p0007. [Structured record](../../records/src-86dc1fdb6247.json).
 
+### src-1ab8fffe5f20-c01
+
+Mari Swa says Taygetans use Earth supplies because Federation rules restrict imported technology.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Step Down Anecdotes 02. Bank-Office, Supplies, Difficult Return Home (English)](https://swaruu.org/transcripts/step-down-anecdotes-02-bank-office-supplies-difficult-return-home-english) (2024-09-09; en); passages p0004, p0005. [Structured record](../../records/src-1ab8fffe5f20.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-5a5ded3e94ce-c04
+
+Yazhi says high-technology disclosures would violate the Prime Directive.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Taygetans in the Social Media - Arrival of Starship Alcyone - Yazhi Swaruu](https://swaruu.org/transcripts/taygetans-in-the-social-media-arrival-of-starship-alcyone-yazhi-swaruu) (2024-05-08; en); passages p0029, p0030. [Structured record](../../records/src-5a5ded3e94ce.json).
+
+### src-70bae46a6291-c01
+
+Anéeka says the Federation warned her to stop disclosures as Prime Directive violations.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Aneeka - Downfall (PART 2)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-downfall-part-2) (2025-11-03; en); passages p0003, p0004, p0005. [Structured record](../../records/src-70bae46a6291.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-4346d888f1bc-c03
+
+Operatives should share information without confrontation; Prime Directive rules bar technology beyond Earth’s level.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Project Second Contact, Extra Comments (English)](https://swaruu.org/transcripts/project-second-contact-extra-comments-english) (2024-05-20; en); passages p0014. [Structured record](../../records/src-4346d888f1bc.json).
+
+Related topics: [Project Second Contact](project-second-contact.md).
+
+### src-c1a25429c797-c02
+
+Unlike Federation First Contact, it must follow Prime Directive; its inexperienced operatives and plan are not ready.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Chat with Yazhi about new updates from Mari (Extraterrestrial Communication)](https://swaruu.org/transcripts/chat-with-yazhi-about-new-updates-from-mari-extraterrestrial-communication) (2024-04-12; en); passages p0011, p0014, p0015. [Structured record](../../records/src-c1a25429c797.json).
+
+Related topics: [Project Second Contact](project-second-contact.md).
+
+### src-679ef96054ba-c03
+
+Mari says Taygeta sought an investigation, Federation transparency, reduced Earth interference, and lifted communication restrictions.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politics (English)](https://swaruu.org/transcripts/taygeta-space-news-37-galactic-federation-update-taygetan-exo-politics-english) (2024-08-24; en); passages p0019, p0020, p0021. [Structured record](../../records/src-679ef96054ba.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c04](galactic-federation.md#src-a5811312e55c-c04) — Galactic Federation
@@ -455,13 +511,21 @@ Source: [Important Comments, several other subjects, please watch to understand 
 - [src-1afd7588a669-c04](galactic-federation.md#src-1afd7588a669-c04) — Galactic Federation
 - [src-a4e838c75ab3-c05](pineal-interface.md#src-a4e838c75ab3-c05) — Pineal interface
 - [src-3ea817d6282d-c04](nonhuman-surveillance-drones.md#src-3ea817d6282d-c04) — Nonhuman surveillance drones
+- [src-5a5ded3e94ce-c02](taygetans.md#src-5a5ded3e94ce-c02) — Taygetans
+- [src-5a5ded3e94ce-c03](taygetans.md#src-5a5ded3e94ce-c03) — Taygetans
+- [src-fe82d1a07961-c03](galactic-federation.md#src-fe82d1a07961-c03) — Galactic Federation
+- [src-c0ea4ddd8632-c05](holographic-computers.md#src-c0ea4ddd8632-c05) — Holographic computers
+- [src-4af520912230-c01](galactic-federation.md#src-4af520912230-c01) — Galactic Federation
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - AI\_capability\_claims\_unverified
+- Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
 - Federation-as-controller claim conflicts with mentor framing within transcript
+- Yazhi-interview-report
 - agency\_and\_noninterference
+- broad-exopolitical-allegations
 - cognitive-dissonance-concept
 - comparative\_technology\_claims
 - conspiracy-claims
@@ -471,6 +535,8 @@ Source: [Important Comments, several other subjects, please watch to understand 
 - directive-rules-not-in-transcript
 - extraordinary\_exopolitical\_claims
 - faction\_claims
+- federation-authority-critique
+- historical-allegations
 - historical-claims-unverified
 - internal\_tension
 - matrix\_layers
@@ -481,8 +547,12 @@ Source: [Important Comments, several other subjects, please watch to understand 
 - personal\_metaphysics
 - planetary-lore-unverified
 - political-claims-unverified
+- project-guidance-attributed-to-mari
 - self\_description
+- social-media-project\_details\_speculative
 - time\_travel\_risks
+- translated-from-Spanish-original-not-available
+- unverified-encounter
 - unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims
 - unverified\_medical\_claims

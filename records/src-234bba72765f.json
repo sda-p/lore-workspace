@@ -1,0 +1,105 @@
+{
+  "source_id": "src-234bba72765f",
+  "snapshot_sha256": "65fbf475c4d93f351a96228757fefce3ad327d504b8c20cb45a171f06eebd7dc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-234bba72765f-c01",
+      "assertion": "Athena says Gray activity near Earth concerns Alcyone Council and Urmah, while Federation calls it normal under closer Orion ties.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "orion-council",
+      "topics": [
+        "orion-council",
+        "alcyone-council",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-234bba72765f-c02",
+      "assertion": "Saska fits both ships with human computers, internet, microwave and radio; crews report to Toleka.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-234bba72765f-c03",
+      "assertion": "Earth military, civil, emergency and broadcast transmissions feed CIC for plotting action.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-234bba72765f-c04",
+      "assertion": "Athena says CAPs may deter trouble at Federation level; Earth militaries may not care, and altitude is restricted.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0030",
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-234bba72765f-c05",
+      "assertion": "She says Grey traffic may connect to three downed Alfratan Black Knights and two missing pilots.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "orion-council"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Athena-interview-original-English"
+  ],
+  "coverage_gaps": [
+    "crew-mixing-practices"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "source_id": "src-38b07e39e45a",
+  "snapshot_sha256": "41046fc0f8a3fbb3353a75f7a8b000cb89d7918edfe396ebaa6b903d9f1bbde3",
+  "language": "en",
+  "proposed_topics": [],
+  "review_flags": [
+    "reincarnation-cosmology"
+  ],
+  "coverage_gaps": [
+    "additional-memory-effects"
+  ],
+  "claims": [
+    {
+      "id": "src-38b07e39e45a-c01",
+      "assertion": "Mari attributes Earth’s memory veil to mismatch with higher-vibration astral or past-life states.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-38b07e39e45a-c02",
+      "assertion": "She says Earth’s amnesia enables manipulation and resets; remembering cultures are calmer but may stagnate, though art can counter this.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-38b07e39e45a-c03",
+      "assertion": "Taygetans remember three to five past lives on average; Sophia Yazhi recalls many more.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "taygetans",
+        "sophia-swaruu"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-38b07e39e45a-c04",
+      "assertion": "Mari says full past-life memories helped the Taygetan High Council accept her as queen at sixteen.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-38b07e39e45a-c05",
+      "assertion": "She chose a new identity as Mari Swa, using prior lives as reference despite painful, unwanted memories.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ]
+}

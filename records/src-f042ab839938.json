@@ -1,0 +1,118 @@
+{
+  "source_id": "src-f042ab839938",
+  "snapshot_sha256": "da58ccc3ad5fa38a3f33b918f65ad6df083d5f96c2bff6ca14dd3ac56ad1f6ee",
+  "language": "en",
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-perspective-model"
+  ],
+  "coverage_gaps": [
+    "extended-examples-omitted"
+  ],
+  "claims": [
+    {
+      "id": "src-f042ab839938-c01",
+      "assertion": "Gosia defines a Matrix as shared rules, beliefs, and perception agreements plus attachments to them.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f042ab839938-c02",
+      "assertion": "She distinguishes biological rules, chosen social conventions, and imposed, limiting belief structures.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0016"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f042ab839938-c03",
+      "assertion": "Ordinary social agreements enable coexistence, she says, and individuals can repurpose conventions like object uses.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f042ab839938-c04",
+      "assertion": "Gosia says imposed Matrix structures indoctrination and official history to serve powerful groups and limit awareness.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f042ab839938-c05",
+      "assertion": "Escaping means questioning accepted truths, choosing personal values, and selectively constructing one’s own Matrix while navigating society.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f042ab839938-c06",
+      "assertion": "She warns controllers also infiltrate New Age communities.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ]
+}

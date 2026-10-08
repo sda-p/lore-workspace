@@ -1,0 +1,84 @@
+{
+  "source_id": "src-5f58a24652ac",
+  "snapshot_sha256": "ba6b589c8e06954c7d5e6b88a47ea4686aebb4982b410b45109ff291f05c2e99",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5f58a24652ac-c01",
+      "assertion": "Anéeka rejects a spirituality gene, describing Source connection as electromagnetic frequency signaling across neural networks.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5f58a24652ac-c02",
+      "assertion": "She claims RNA-based substances can alter neuron DNA over weeks to months, shifting bioelectric frequencies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5f58a24652ac-c03",
+      "assertion": "In her model, the brain decodes a soul’s high-frequency signal; neural disruption can reduce compatibility with Source.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5f58a24652ac-c04",
+      "assertion": "Anéeka says immersion technology can deflect soul signals, while Muon communication links bodies with their originals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translated-from-Spanish-original-not-available",
+    "nonhuman-medical-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "neuron-response-sequence-detail"
+  ]
+}

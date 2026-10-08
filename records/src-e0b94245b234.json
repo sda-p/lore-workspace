@@ -1,0 +1,99 @@
+{
+  "source_id": "src-e0b94245b234",
+  "snapshot_sha256": "9c6adc038714d27b41b703d022f6c00d9ea1befe7c134b852da45c8ee1da7844",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e0b94245b234-c01",
+      "assertion": "Mari says biological senses restrict perception to the material realm, while unseen frequency realms contain diverse beings.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0b94245b234-c02",
+      "assertion": "She says lower-astral entities attach to places; frequency compatibility may shape whether they perceive visitors or react.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0b94245b234-c03",
+      "assertion": "She treats auras and orbs as astral signs; orbs are neutral and may show only part of entities.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0b94245b234-c04",
+      "assertion": "She says subtle emotional responses can indicate low-frequency places or nearby entities affecting occupants.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0b94245b234-c05",
+      "assertion": "Mari claims invoking Source and visualizing a bright shield protects by focusing creative attention and sustaining high vibration.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "astral-perception-and-protection-claims"
+  ],
+  "coverage_gaps": [
+    "place-memory-vibration-model"
+  ]
+}

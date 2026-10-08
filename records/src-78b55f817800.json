@@ -1,0 +1,49 @@
+{
+  "source_id": "src-78b55f817800",
+  "snapshot_sha256": "ec890fa0425b11978f7439ba02ab0385aefc58d2624e786312738031d5c3e796",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-78b55f817800-c01",
+      "assertion": "Swaruu says each consciousness is its own universe and timeline; what exists can differ by observer.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents conflicting observer perspectives as potentially valid."
+    },
+    {
+      "id": "src-78b55f817800-c02",
+      "assertion": "Swaruu denies an objective material world, describing perceived matter as an idea in the mind.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Gosia questions this view; the claim is Swaruu’s."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "subjective-reality-doctrine-attributed"
+  ],
+  "coverage_gaps": [
+    "attention-manifestation-example"
+  ]
+}

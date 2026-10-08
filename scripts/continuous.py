@@ -77,7 +77,10 @@ def integrate(batch,cache):
         if report.get('batch_id')!=batch or report.get('reviewer')!=i:
             raise ValueError('Review report identity does not match its assigned cohort/shard')
         assigned=set(lore.read(ROOT/f'work/batches/{batch}/review-{i}.json')['source_ids'])
-        reviewed=set(report.get('reviewed_source_ids',[]))
+        reviewed_ids=report.get('reviewed_source_ids',[])
+        if not isinstance(reviewed_ids,list) or any(not isinstance(sid,str) for sid in reviewed_ids) or len(reviewed_ids)!=len(set(reviewed_ids)):
+            raise ValueError('Review IDs must form a unique array; shared ledger unchanged')
+        reviewed=set(reviewed_ids)
         if not reviewed<=assigned: raise ValueError('Review includes unassigned sources')
         blocked={item.get('source_id') for item in report.get('unresolved',[]) if item.get('severity') in ('high','medium')}
         approved.update(reviewed-blocked)

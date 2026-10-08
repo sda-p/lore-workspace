@@ -28,6 +28,90 @@ Source: [Alpha Centauri: Historical Lies? Mari’s and Urmah's Perspective. (Eng
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-a11243a06a8a-c03
+
+Mari relays Viera’s report that a pursued Alfratan L-class fighter regained control before impact after engine failure, with hull damage.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 18. April 6 2024, Eclipse, Starships, Meetings, Yazhi, and other news (English)](https://swaruu.org/transcripts/space-news-18-april-6-2024-eclipse-starships-meetings-yazhi-and-other-news-english) (2024-04-06; en); passages p0018, p0021. [Structured record](../../records/src-a11243a06a8a.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-531b0e9f06bf-c03
+
+Centauri claimed recovery in Mexico, which Mari doubted; pilots remained missing and Hashmallim joined search.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 19. April 10 2024, Eclipse from Space, Starships, Black Knights (English)](https://swaruu.org/transcripts/space-news-19-april-10-2024-eclipse-from-space-starships-black-knights-english) (2024-04-11; en); passages p0013, p0014, p0015. [Structured record](../../records/src-531b0e9f06bf.json).
+
+Related topics: [Astral military units](astral-military-units.md).
+
+### src-531b0e9f06bf-c05
+
+She suspects a campaign against Black Knights enforcing Earth’s blockade after three incidents.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News 19. April 10 2024, Eclipse from Space, Starships, Black Knights (English)](https://swaruu.org/transcripts/space-news-19-april-10-2024-eclipse-from-space-starships-black-knights-english) (2024-04-11; en); passages p0018, p0019. [Structured record](../../records/src-531b0e9f06bf.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-5eead64421cb-c01
+
+Mari says Alfratans are Earth’s most frequent stepdown visitors, owing to close human genetics and culture.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Step Down Anecdotes and Stories Number 1, Unwanted Visitors (English)](https://swaruu.org/transcripts/step-down-anecdotes-and-stories-number-1-unwanted-visitors-english) (2024-07-27; en); passages p0005. [Structured record](../../records/src-5eead64421cb.json).
+
+Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
+
+### src-a536d40b8707-c01
+
+Mari says ships bearing Alfratan transponders repeatedly passed the close-orbit Taygetan fleet, triggering red alerts.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 48, What on Earth is going on in Australia? (English)](https://swaruu.org/transcripts/space-news-48-what-on-earth-is-going-on-in-australia-english) (2024-10-21; en); passages p0004, p0005, p0006, p0010. [Structured record](../../records/src-a536d40b8707.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-a536d40b8707-c05
+
+She describes Alfratans as a multi-Lyrian political structure, not one species, while allowing individual variation.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Space News 48, What on Earth is going on in Australia? (English)](https://swaruu.org/transcripts/space-news-48-what-on-earth-is-going-on-in-australia-english) (2024-10-21; en); passages p0007, p0008. [Structured record](../../records/src-a536d40b8707.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-234bba72765f-c05
+
+She says Grey traffic may connect to three downed Alfratan Black Knights and two missing pilots.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [How is Athena Swaruu? Flight Missions, Asterope, and Grays](https://swaruu.org/transcripts/how-is-athena-swaruu-flight-missions-asterope-and-grays) (2024-04-25; en); passages p0026, p0027. [Structured record](../../records/src-234bba72765f.json).
+
+Related topics: [Orion Council](orion-council.md).
+
 ## Claims filed under other topics
 
 - [src-19300029508e-c05](urmah.md#src-19300029508e-c05) — Urmah
+- [src-531b0e9f06bf-c02](galactic-federation.md#src-531b0e9f06bf-c02) — Galactic Federation
+- [src-a536d40b8707-c02](galactic-federation.md#src-a536d40b8707-c02) — Galactic Federation
+
+## Review flags
+
+- Athena-interview-original-English
+- Australian-traffic-purpose-unknown
+- black-knight-loss-details-provisional
+- eclipse-portal-claims-unverified
+- fence-control-theory-unconfirmed
+- personal-childhood-anecdote
+- secondhand-fleet-reports
+- unverified-eclipse-portal-theory
+- visitors-identified-as-key-returners

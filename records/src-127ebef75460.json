@@ -1,0 +1,95 @@
+{
+  "source_id": "src-127ebef75460",
+  "snapshot_sha256": "f8f8294dbb699b7f5168b75cf928caba1b93bd638d4db4284fa13fd24dc3105a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-127ebef75460-c01",
+      "assertion": "Anéeka says starseeds may have 22 or 23 active chromosomes plus inactive extras, potentially activating 24.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0006"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-127ebef75460-c02",
+      "assertion": "She claims genetic databases seek nonhumans and doubts common three-letter tests detect them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-127ebef75460-c03",
+      "assertion": "Anéeka links 24-chromosome activation to advanced mental abilities and difficulty having human offspring.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-127ebef75460-c04",
+      "assertion": "She says some awakened starseeds remember offworld lives while living in human bodies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-127ebef75460-c05",
+      "assertion": "Anéeka says Yazhi repelled thrown toys with an invisible force field through mind-manifestation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance"
+  ],
+  "coverage_gaps": [
+    "claims about suppression of starseed children"
+  ]
+}

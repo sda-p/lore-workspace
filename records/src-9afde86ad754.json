@@ -1,0 +1,120 @@
+{
+  "source_id": "src-9afde86ad754",
+  "snapshot_sha256": "966451ca8ed4d07e60ebb608b7141741cf2fdcc16027ea579d7592d296d9dd7a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9afde86ad754-c01",
+      "assertion": "Mari alleges Earth’s controllers made the internet a surveillance and truth-shaping tool.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9afde86ad754-c02",
+      "assertion": "She says digital information control and destruction of records support a civilization reset.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "tartaria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9afde86ad754-c03",
+      "assertion": "She dates a reset to 1750–1850 and suspects Earth had an advanced, perhaps interstellar civilization.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria",
+        "atlantis-lemuria"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9afde86ad754-c04",
+      "assertion": "She interprets Nazca lines and Giza as starship runways.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport",
+        "stellar-navigation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9afde86ad754-c05",
+      "assertion": "Mari says an uncrewed Lemurian starship arrived within a decade, with evidence of a major interior fight; Federation delays stalled investigation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9afde86ad754-c06",
+      "assertion": "She speculates Earth’s controllers are nonhuman and use another time frame, while admitting incomplete knowledge.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-reset-claims",
+    "speaker-speculation"
+  ],
+  "coverage_gaps": [
+    "alleged-social-engineering-detail"
+  ]
+}

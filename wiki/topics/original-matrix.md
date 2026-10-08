@@ -184,6 +184,74 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Thoughts on Consciousness and Awakening](https://swaruu.org/transcripts/thoughts-on-consciousness-and-awakening) (2024-02-12; en); passages p0010, p0017. [Structured record](../../records/src-831bdc2709f5.json).
 
+### src-4af520912230-c04
+
+She says embodied societies need some governance, though Federation space remains another Matrix.
+
+Attributed to **Anéeka**; asserted; extraction confidence: low.
+
+Source: [Galactic Federation & the Matrix Beyond Earth - Conversation with Aneeka of Temmer](https://swaruu.org/transcripts/galactic-federation-the-matrix-beyond-earth-conversation-with-aneeka-of-temmer) (2025-11-09; en); passages p0061, p0063, p0065. [Structured record](../../records/src-4af520912230.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-f042ab839938-c01
+
+Gosia defines a Matrix as shared rules, beliefs, and perception agreements plus attachments to them.
+
+Attributed to **Gosia**; asserted; extraction confidence: low.
+
+Source: [CLASS 003 - What is The Matrix? Free Your Mind - Types of Matrixes Explained](https://swaruu.org/transcripts/class-003-what-is-the-matrix-free-your-mind-types-of-matrixes-explained) (2025-03-09; en); passages p0006. [Structured record](../../records/src-f042ab839938.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f042ab839938-c02
+
+She distinguishes biological rules, chosen social conventions, and imposed, limiting belief structures.
+
+Attributed to **Gosia**; asserted; extraction confidence: low.
+
+Source: [CLASS 003 - What is The Matrix? Free Your Mind - Types of Matrixes Explained](https://swaruu.org/transcripts/class-003-what-is-the-matrix-free-your-mind-types-of-matrixes-explained) (2025-03-09; en); passages p0007, p0010, p0016. [Structured record](../../records/src-f042ab839938.json).
+
+### src-f042ab839938-c03
+
+Ordinary social agreements enable coexistence, she says, and individuals can repurpose conventions like object uses.
+
+Attributed to **Gosia**; asserted; extraction confidence: low.
+
+Source: [CLASS 003 - What is The Matrix? Free Your Mind - Types of Matrixes Explained](https://swaruu.org/transcripts/class-003-what-is-the-matrix-free-your-mind-types-of-matrixes-explained) (2025-03-09; en); passages p0013, p0015. [Structured record](../../records/src-f042ab839938.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-f042ab839938-c04
+
+Gosia says imposed Matrix structures indoctrination and official history to serve powerful groups and limit awareness.
+
+Attributed to **Gosia**; asserted; extraction confidence: low.
+
+Source: [CLASS 003 - What is The Matrix? Free Your Mind - Types of Matrixes Explained](https://swaruu.org/transcripts/class-003-what-is-the-matrix-free-your-mind-types-of-matrixes-explained) (2025-03-09; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-f042ab839938.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-f042ab839938-c05
+
+Escaping means questioning accepted truths, choosing personal values, and selectively constructing one’s own Matrix while navigating society.
+
+Attributed to **Gosia**; asserted; extraction confidence: low.
+
+Source: [CLASS 003 - What is The Matrix? Free Your Mind - Types of Matrixes Explained](https://swaruu.org/transcripts/class-003-what-is-the-matrix-free-your-mind-types-of-matrixes-explained) (2025-03-09; en); passages p0028, p0029, p0030. [Structured record](../../records/src-f042ab839938.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-12122c9c7bda-c01
+
+Athena says Matrix insertions require a compatible causal history, altering related frequencies and events.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: low.
+
+Source: [Dimensional Mirrors - People Repeating Themselves - Athena and Yazhi Swaruu](https://swaruu.org/transcripts/dimensional-mirrors-people-repeating-themselves-athena-and-yazhi-swaruu) (2024-04-30; en); passages p0003, p0004, p0005, p0016. [Structured record](../../records/src-12122c9c7bda.json).
+
+Related topics: [Dimensional mirroring](dimensional-mirroring.md).
+
 ## Claims filed under other topics
 
 - [src-bb4c17621e1a-c02](moon-matrix.md#src-bb4c17621e1a-c02) — Moon and terrestrial Matrix
@@ -209,13 +277,17 @@ Source: [Thoughts on Consciousness and Awakening](https://swaruu.org/transcripts
 
 - agency\_and\_noninterference
 - conspiracy\_claims
+- federation-authority-critique
 - historical-uncertainty
 - matrix\_layers
 - medical-misinformation-allegation
 - metaphysical-model
 - metaphysical\_model
+- mirror-identity-varies
 - paranormal\_claims
 - personal\_metaphysics
+- speaker-perspective-model
+- speaker-shift-in-source
 - unverified\_historical\_claims
 - unverified\_physics\_claims
 - unverified\_technology\_claims

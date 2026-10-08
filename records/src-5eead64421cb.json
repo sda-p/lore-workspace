@@ -1,0 +1,99 @@
+{
+  "source_id": "src-5eead64421cb",
+  "snapshot_sha256": "b219fbd564d6b0caf0f8450a02638c0e82f0e9dce2a6881fa0ee6fd9f536ff8b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5eead64421cb-c01",
+      "assertion": "Mari says Alfratans are Earth’s most frequent stepdown visitors, owing to close human genetics and culture.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5eead64421cb-c02",
+      "assertion": "She says many stepdowns build real lives on Earth while concealing nonhuman origins.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5eead64421cb-c03",
+      "assertion": "Mari alleges government agents monitor Earth’s nonhumans and suppress evidence of extraterrestrial visitors.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5eead64421cb-c04",
+      "assertion": "As a child, Mari’s mother summoned a hidden Suzy ship via makeup-kit communicator, fearing agents; visitors only returned lost keys.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0020",
+        "p0021",
+        "p0026"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5eead64421cb-c05",
+      "assertion": "Mari says maintaining a human facade and absorbing others’ social energy can exhaust stepdowns, who need solitude.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal-childhood-anecdote",
+    "visitors-identified-as-key-returners"
+  ],
+  "coverage_gaps": [
+    "stepdown-detection-details"
+  ]
+}

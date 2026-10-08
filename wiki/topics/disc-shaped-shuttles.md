@@ -58,6 +58,21 @@ Source: [Interstellar Life 2 - Flying Discs - Extraterrestrial Information](http
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-ff2138119484-c01
+
+MK-6 Suzys have newer electronics and materials, with engines nearing twice any other Suzy class’s raw power.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 6B - Taygetan Pleiadian Advanced Fighter Crafts - Yazhi and Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-6b-taygetan-pleiadian-advanced-fighter-crafts-yazhi-and-athena-swaruu) (2024-07-23; en); passages p0011, p0013, p0016. [Structured record](../../records/src-ff2138119484.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+## Claims filed under other topics
+
+- [src-96581cc2ca29-c03](starship-systems.md#src-96581cc2ca29-c03) — Starship systems
+- [src-555d02ebcd4e-c05](solatians.md#src-555d02ebcd4e-c05) — Solatians
+
 ## Review flags
 
 - Billy\_Meier\_photo\_authenticity\_uncertain

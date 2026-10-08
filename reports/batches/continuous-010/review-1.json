@@ -1,0 +1,173 @@
+{
+  "batch_id": "continuous-010",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-921d31cbf21f",
+    "src-3980f5f58d0b",
+    "src-016e686c1508",
+    "src-4a80271a1b8e",
+    "src-64665fcf10bc",
+    "src-e34286c88397",
+    "src-96581cc2ca29",
+    "src-fea991df8ac7",
+    "src-7f473709c914",
+    "src-2bca495f8f63",
+    "src-d10c5f67b6bd",
+    "src-c3f4e5261a9c",
+    "src-4ee25eb4b1e0",
+    "src-554b76780378",
+    "src-9d8a8bc7d382",
+    "src-f97a14514a47",
+    "src-e1067d3dc607",
+    "src-e8830ab53fa0",
+    "src-73198a2de79a",
+    "src-bddaa45917d5",
+    "src-293a7b70452d",
+    "src-55eec113b537",
+    "src-6f8ab895fea6",
+    "src-3c54f1ef569a",
+    "src-414c8f76eb66",
+    "src-8c8d4905d738",
+    "src-f853da2d0bcd",
+    "src-a7b0b8bf878c",
+    "src-78c88dfdb6e5",
+    "src-d6ad19833be1",
+    "src-b0c4a788e5de",
+    "src-2dc889901b55",
+    "src-f06248faba98",
+    "src-6c5c3b665064",
+    "src-eaeca76aac30",
+    "src-72696c075fca",
+    "src-72e66bf3c62a",
+    "src-8475fb1082ba",
+    "src-679ef96054ba",
+    "src-7649b38c1b14",
+    "src-562516284299",
+    "src-e655edc71350",
+    "src-f14039337563",
+    "src-f8715fda448c",
+    "src-a0be05135c11",
+    "src-6825f8d595d8",
+    "src-fe44b9d9c0b3",
+    "src-2ce90bb2fe65",
+    "src-2b891f3fac7b",
+    "src-f624a9cc2d74",
+    "src-357511a0f248",
+    "src-af94d1557c05",
+    "src-d61cbc9c170b",
+    "src-5a5ded3e94ce",
+    "src-f95f21ca391d",
+    "src-6313385e14d2",
+    "src-ee2bcb823310",
+    "src-4af520912230",
+    "src-645493db4473",
+    "src-555d02ebcd4e",
+    "src-3082849baa66",
+    "src-dec092ce158f",
+    "src-959864c4fde8",
+    "src-924330cd4b6f",
+    "src-f042ab839938",
+    "src-9c1661abc463",
+    "src-6ce55fb86338",
+    "src-12122c9c7bda",
+    "src-050bbb7ffa95",
+    "src-663b16f733ac",
+    "src-a11243a06a8a",
+    "src-de7987eb8690",
+    "src-531b0e9f06bf",
+    "src-984d753182ec",
+    "src-6abed4268d57",
+    "src-1addc043bd04",
+    "src-a536d40b8707",
+    "src-f6a0faeb1f8f",
+    "src-756f10136c06",
+    "src-c1a25429c797"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-4a80271a1b8e",
+      "claim_id": "src-4a80271a1b8e-c02",
+      "problem": "Cited passage says day/night cycles and clocks synchronize the population’s perception; it does not call the synchronized object the material world.",
+      "action": "Removed unsupported “and the material world” scope.",
+      "paragraph_ids": [
+        "p0005"
+      ]
+    },
+    {
+      "source_id": "src-96581cc2ca29",
+      "claim_id": "src-96581cc2ca29-c02",
+      "problem": "The cited account concerns three specific Suzy ships, not the full Suzy class.",
+      "action": "Narrowed to Swaruu’s, Dhor Káal’el’s, and Chiqui’s ships.",
+      "paragraph_ids": [
+        "p0067",
+        "p0068"
+      ]
+    },
+    {
+      "source_id": "src-f14039337563",
+      "claim_id": "src-f14039337563-c02",
+      "problem": "The cited source says the Giza city exists below the plateau; it is separate temple structures and embellishments that were fabricated or repurposed.",
+      "action": "Clarified the city’s existence and narrowed fabrication to structures and decor.",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020",
+        "p0031",
+        "p0032"
+      ]
+    },
+    {
+      "source_id": "src-4af520912230",
+      "claim_id": "src-4af520912230-c05",
+      "problem": "The source qualifies the body choice: Yazhi says she no longer needs reproduction because she is simultaneous across time.",
+      "action": "Added the qualification while retaining the stated reason of helping others relate to her.",
+      "paragraph_ids": [
+        "p0077",
+        "p0079",
+        "p0083"
+      ]
+    },
+    {
+      "source_id": "src-6ce55fb86338",
+      "claim_id": "src-6ce55fb86338-c03",
+      "problem": "Conflated icy asteroid-belt material with Tiamat’s water; source distinguishes it from solid planetary remnants.",
+      "action": "Narrowed to icy belt debris and separate solid remnants.",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0026"
+      ]
+    },
+    {
+      "source_id": "src-663b16f733ac",
+      "claim_id": "src-663b16f733ac-c02",
+      "problem": "“Empathic” adds an unsupported qualifier to the cited high-vibration/positive-star-seed category.",
+      "action": "Changed to positive starseeds, matching the source description.",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ]
+    },
+    {
+      "source_id": "src-a11243a06a8a",
+      "claim_id": "src-a11243a06a8a-c02",
+      "problem": "Misattributed suspicion of the official explanation to the Urmah; Mari says her side suspects the opposite and predicts Urmah disbelief.",
+      "action": "Reattributed the suspicion and retained the official rationale as an attributed claim.",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ]
+    },
+    {
+      "source_id": "src-050bbb7ffa95",
+      "claim_id": "src-050bbb7ffa95-c05",
+      "problem": "The account does not establish that the omitted cleaning caused the black widow; it says the ship had never visited the surface.",
+      "action": "Separated the cleaning protocol from the spider discovery and retained the reported unknown origin.",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ]
+    }
+  ],
+  "unresolved": []
+}

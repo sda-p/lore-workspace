@@ -1,0 +1,125 @@
+{
+  "source_id": "src-87bd832ea105",
+  "snapshot_sha256": "2fa32b505865bb7bfaf551ee34c30a2d0c4f2f9f918d76cfd78e1135273f153b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-87bd832ea105-c01",
+      "assertion": "Athena says controllers orchestrate conflicts across sides to create civilian suffering and distraction.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0013"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "ukraine"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87bd832ea105-c02",
+      "assertion": "She says an invasion objective is seizing Chernobyl, whose cracked reactor containment is leaking radiation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "ukraine"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87bd832ea105-c03",
+      "assertion": "She claims Ukraine’s underground bases link to Busegi and Giza, drawing Russia and NATO into a control struggle.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "deep-underground-military-bases",
+      "topics": [
+        "deep-underground-military-bases",
+        "ukraine",
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87bd832ea105-c04",
+      "assertion": "Athena says Ukraine’s Slavic people have off-Earth roots; its ley-line energy and their creativity are targeted.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "alien-species",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87bd832ea105-c05",
+      "assertion": "She frames war as distraction from pandemic protests and inoculation effects; fear and suffering feed lower egregores.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "earth-cabal",
+        "ukraine"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "kind": "location",
+      "aliases": [
+        "Ukraine"
+      ]
+    },
+    {
+      "id": "deep-underground-military-bases",
+      "name": "Deep underground military bases",
+      "kind": "infrastructure",
+      "aliases": [
+        "DUMB",
+        "DUMBs"
+      ]
+    }
+  ],
+  "review_flags": [
+    "translated-originally-Spanish",
+    "wartime-conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "named conflict parties",
+    "base locations",
+    "ley-line mechanism"
+  ]
+}

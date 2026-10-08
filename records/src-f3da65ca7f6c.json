@@ -1,0 +1,134 @@
+{
+  "source_id": "src-f3da65ca7f6c",
+  "snapshot_sha256": "411e139abb3d6b0bb85a2289e11b238be7412fd8156f3bb539e4d4053c37bc6c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f3da65ca7f6c-c01",
+      "assertion": "Asket says the Cabal uses human-made lookalike clones to discredit them.",
+      "speaker": "Asket",
+      "paragraph_ids": [
+        "p0044"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3da65ca7f6c-c02",
+      "assertion": "Asket says the First Directive bars communication beyond a recipient society’s technology level.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3da65ca7f6c-c03",
+      "assertion": "Swaruu says non-Federation Tall Whites cooperate with the US for base access.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0134"
+      ],
+      "primary_topic": "tall-whites",
+      "topics": [
+        "tall-whites"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3da65ca7f6c-c04",
+      "assertion": "She says Tall Whites cannot freely leave Earth; her group estimates fewer than forty remain.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0135"
+      ],
+      "primary_topic": "tall-whites",
+      "topics": [
+        "tall-whites"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3da65ca7f6c-c05",
+      "assertion": "She says Tall Whites have an unresolved growth disorder deforming internal organs.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0136"
+      ],
+      "primary_topic": "tall-whites",
+      "topics": [
+        "tall-whites"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3da65ca7f6c-c06",
+      "assertion": "Anéeka calls CERN a damaged portal for reinforcements, hampered by failures and sabotage.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0140",
+        "p0142"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3da65ca7f6c-c07",
+      "assertion": "Asket says Russia’s president is their sole leader contact.",
+      "speaker": "Asket",
+      "paragraph_ids": [
+        "p0119",
+        "p0122",
+        "p0125"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "tall-whites",
+      "name": "Tall Whites",
+      "kind": "species",
+      "aliases": [
+        "Altos Blancos"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Leader-contact claim is attributed to Asket in this transcript."
+  ],
+  "coverage_gaps": [
+    "telepathy",
+    "Taygetean appearance",
+    "other contact topics"
+  ]
+}

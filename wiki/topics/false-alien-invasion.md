@@ -134,9 +134,20 @@ Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-e655edc71350-c04
+
+She speculates officials may use eclipse warnings and drills to lower public vibration and mask a false-flag operation.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Eclipse, April 8th, 2024 (English)](https://swaruu.org/transcripts/eclipse-april-8th-2024-english) (2024-04-04; en); passages p0006, p0007, p0010, p0011. [Structured record](../../records/src-e655edc71350.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-19b9c2bb57a1-c04](earth-cabal.md#src-19b9c2bb57a1-c04) — Earth Cabal and power structures
+- [src-55eec113b537-c03](galactic-federation.md#src-55eec113b537-c03) — Galactic Federation
 
 ## Review flags
 

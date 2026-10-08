@@ -1,0 +1,97 @@
+{
+  "source_id": "src-1da40cd3aac1",
+  "snapshot_sha256": "db22d37759dabe6d0d2218d42635f6eaf95b53a765c2739eed36170db058c7fe",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1da40cd3aac1-c01",
+      "assertion": "Swaruu names cats, ferrets, and Mogh-yay among Taygeta’s main pets; Mogh-yay are colorful, tree-climbing birds common on tropical Temmer.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "mogh-yay",
+      "topics": [
+        "mogh-yay",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1da40cd3aac1-c02",
+      "assertion": "She says Earth-bred dogs threaten Taygetan native species, though a leashed pet might be considered after customs review.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1da40cd3aac1-c03",
+      "assertion": "She says advanced interstellar races are vegan, while animal predation persists even in 5D; Urmah and Alpha Dracos are vegan.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0036",
+        "p0045"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1da40cd3aac1-c04",
+      "assertion": "She describes Temmer as tropical, Erra as forested and mountainous, Procyon as a hazardous jungle at 1.2G, and Dakote as icy tundra.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "procyon"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "mogh-yay",
+      "name": "Mogh-yay",
+      "kind": "species",
+      "aliases": [
+        "Mogh yay",
+        "Mogh-yays"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "fauna-diversity",
+    "animal-consciousness"
+  ]
+}

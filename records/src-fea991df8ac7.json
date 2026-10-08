@@ -95,9 +95,9 @@
     {
       "id": "ancient-egypt",
       "name": "Ancient Egypt",
-      "kind": "history",
+      "kind": "historical civilization",
       "aliases": [
-        "Egyptian civilization"
+        "Egypt"
       ]
     }
   ],

@@ -1,0 +1,123 @@
+{
+  "source_id": "src-c1a25429c797",
+  "snapshot_sha256": "b60061b0b084067e41527750a49c834d4a50c17e44401eeabecb2d1e0f4f59d0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c1a25429c797-c01",
+      "assertion": "Yazhi says a unilateral Taygetan internet project would seed positive ideas and counter regressive influence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0014"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1a25429c797-c02",
+      "assertion": "Unlike Federation First Contact, it must follow Prime Directive; its inexperienced operatives and plan are not ready.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "project-second-contact"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1a25429c797-c03",
+      "assertion": "Alcyone needs carefully selected crew for its mission; Asterope is staffed for guard duty, not public interaction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1a25429c797-c04",
+      "assertion": "Alcyone and Asterope could each bring roughly 475 people, contingent on Alcyone recruitment and Asterope’s readiness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0035",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1a25429c797-c05",
+      "assertion": "Urmah fly with Taygetans; Engans guard the Pleiades perimeter, which Yazhi says needs no added force.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0029"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "engan-people"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "project-second-contact",
+      "name": "Project Second Contact",
+      "kind": "program",
+      "aliases": [
+        "Taygetan internet project"
+      ]
+    },
+    {
+      "id": "engan-people",
+      "name": "Engan people",
+      "kind": "species",
+      "aliases": [
+        "Engans",
+        "Engan"
+      ]
+    }
+  ],
+  "review_flags": [
+    "translated-from-Spanish-original-not-available",
+    "Yazhi-interview-report"
+  ],
+  "coverage_gaps": [
+    "Orion-Pleiades-polarization-detail"
+  ]
+}

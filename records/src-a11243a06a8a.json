@@ -1,0 +1,102 @@
+{
+  "source_id": "src-a11243a06a8a",
+  "snapshot_sha256": "21f7265f872ec758ff70ea82edc088ab606336cb57677e04fa2e85b3b112d925",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a11243a06a8a-c01",
+      "assertion": "Mari alleges CERN’s eclipse tests and lunar-shadow probes support an artificial portal between astral and material realms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "sunspot-portals"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a11243a06a8a-c02",
+      "assertion": "Officials cite ritual deterrence for Antarctic meetings; Mari doubts this and expects Urmah disbelief.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a11243a06a8a-c03",
+      "assertion": "Mari relays Viera’s report that a pursued Alfratan L-class fighter regained control before impact after engine failure, with hull damage.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0021"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a11243a06a8a-c04",
+      "assertion": "Alcyone will reinforce Alcyone Council presence in Earth orbit for at least a year, monitoring starseeds under Queen Alenym.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a11243a06a8a-c05",
+      "assertion": "Alcyone and Vigilant Eagle rely on Taygetan supplies; Toleka’s crew depends on Earth provisioning.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-eclipse-portal-theory",
+    "secondhand-fleet-reports"
+  ],
+  "coverage_gaps": [
+    "ship-maintenance-detail",
+    "Alcyone-media-directive"
+  ]
+}

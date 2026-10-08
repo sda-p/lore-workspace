@@ -1,0 +1,67 @@
+{
+  "source_id": "src-331f8bef4748",
+  "snapshot_sha256": "d031b581f7c7bd1c4cc47edbbaa1c48ae086adbaa9ca86c65c883d574dd484c5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-331f8bef4748-c01",
+      "assertion": "Gosia describes the Federation as complex, mostly benevolent and nonmilitary, but containing hidden darker elements.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-331f8bef4748-c02",
+      "assertion": "Athena says Taygetan readiness means hypothetical self-defense; she expects no war and names peaceful member races.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-331f8bef4748-c03",
+      "assertion": "Gosia says some hidden members oppose Toleka; Urmah and Taygetans are ready if Earth management worsens.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "urmah",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "identity-of-hidden-faction-unknown"
+  ],
+  "coverage_gaps": [
+    "specific hidden faction identities",
+    "Taygetan infrastructure disruptions"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "source_id": "src-17057e78d90e",
+  "snapshot_sha256": "f38a8c25159cfb5a90c6d5f1ee23e3897ab0751fe5d644822ce69ec1a0b262ac",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-17057e78d90e-c01",
+      "assertion": "Swaruu distinguishes Lyria-Gaia, a multiracial embassy, from Atlantis, a nearly all-reptilian stronghold; she says their histories are conflated.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-17057e78d90e-c02",
+      "assertion": "She names Atlas-origin Alantes among giant races and says the Atlantes she has seen were 8–10 meters tall.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0009",
+        "p0016"
+      ],
+      "primary_topic": "atlantes",
+      "topics": [
+        "atlantes",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-17057e78d90e-c03",
+      "assertion": "She says Atlantes last visited central Mexico about 600 years ago and belong to Alcyone Council; Taygeta represents nine Pleiades M45 systems.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "atlantes",
+      "topics": [
+        "atlantes",
+        "alcyone-council",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-17057e78d90e-c04",
+      "assertion": "She says reptilian genetic engineering of humans failed; human Lyrian DNA remains complete but suppressed through consciousness control, not laboratory alteration.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "lyrian-cellular-body",
+      "topics": [
+        "lyrian-cellular-body",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "atlantes",
+      "name": "Atlantes",
+      "kind": "species",
+      "aliases": [
+        "Atlanteans",
+        "people of Atlas"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "post-flood-migrations",
+    "human-variant-letters"
+  ]
+}

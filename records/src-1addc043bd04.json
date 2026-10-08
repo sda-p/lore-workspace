@@ -1,0 +1,112 @@
+{
+  "source_id": "src-1addc043bd04",
+  "snapshot_sha256": "b24b9a2515c4a8159839013799b0c837f4331d90b74e431e4c99fc0551450c1b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1addc043bd04-c01",
+      "assertion": "Forshagh uses 12 players and 60-kg artificial prey, which they haul through numbered goals.",
+      "speaker": "Arishah, translated by Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "forshagh"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1addc043bd04-c02",
+      "assertion": "Players cannot use claws or teeth against opponents or strike heads; sexes and subspecies compete separately due to size and strength differences.",
+      "speaker": "Arishah, translated by Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "forshagh"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1addc043bd04-c03",
+      "assertion": "Mostly played by males, forshagh favors lions and tigers for strength; players wear padded armor and muzzles.",
+      "speaker": "Arishah, translated by Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "forshagh"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1addc043bd04-c04",
+      "assertion": "Championship forshagh is popular and violent, with most players reportedly hospitalized afterward.",
+      "speaker": "Arishah, translated by Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0022"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "forshagh"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1addc043bd04-c05",
+      "assertion": "A forest team variant hides artificial prey and rewards searching, teamwork and deception.",
+      "speaker": "Arishah, translated by Mari Swa",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "forshagh"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "forshagh",
+      "name": "Forshagh",
+      "kind": "sport",
+      "aliases": [
+        "Urmah contact sport"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Ari-interview-translated-from-German-by-Mari"
+  ],
+  "coverage_gaps": [
+    "informal-inverse-variant",
+    "equipment-material-detail"
+  ]
+}

@@ -86,6 +86,10 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)](https://swaruu.org/transcripts/space-news-11-galactic-federation-update-for-january-17-2024-english) (2024-01-18; en); passages p0010, p0011, p0012. [Structured record](../../records/src-de6bce5d6310.json).
 
+## Claims filed under other topics
+
+- [src-72696c075fca-c04](galactic-federation.md#src-72696c075fca-c04) — Galactic Federation
+
 ## Review flags
 
 - reported arrival date conflicts with article chronology

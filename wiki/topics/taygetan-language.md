@@ -94,14 +94,46 @@ Source: [A Day in Mari’s Life (English)](https://swaruu.org/transcripts/a-day-
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-41aeba88905d-c06
+
+Mari Swaruu says Taygetan telepathy conveys extra meaning but still permits misunderstanding and falsification.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Garbage Dump Mistake gone Horribly Wrong (English)](https://swaruu.org/transcripts/garbage-dump-mistake-gone-horribly-wrong-english) (2024-09-26; en); passages p0026, p0028. [Structured record](../../records/src-41aeba88905d.json).
+
+### src-1ab8fffe5f20-c05
+
+Mari Swa says operatives use human radio terms near Earth to conceal their language.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Step Down Anecdotes 02. Bank-Office, Supplies, Difficult Return Home (English)](https://swaruu.org/transcripts/step-down-anecdotes-02-bank-office-supplies-difficult-return-home-english) (2024-09-09; en); passages p0022. [Structured record](../../records/src-1ab8fffe5f20.json).
+
+### src-722b52946af6-c04
+
+Treaties use parties’ languages; the Alcyone Council–Urmah pact used Taygetan, Urmah and Yena, a Pleiadian lingua franca.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Chatting with Yazhi Swaruu - September 2024](https://swaruu.org/transcripts/chatting-with-yazhi-swaruu-september-2024) (2024-09-29; en); passages p0097, p0099. [Structured record](../../records/src-722b52946af6.json).
+
+Related topics: [Urmah](urmah.md).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c03](urmah.md#src-5e6c8ea2cb2c-c03) — Urmah
+- [src-8a20bf02262a-c02](hashmallim.md#src-8a20bf02262a-c02) — Hashmallim
+- [src-3f83b10b1792-c02](consciousness-metaphysics.md#src-3f83b10b1792-c02) — Consciousness and metaphysics
 
 ## Review flags
 
 - historical-claims-unverified
 - language-claims-unverified
 - medical-claims-unverified
+- military-claims\_attributed
+- narrator\_claims
+- second-contact-stoppage-attributed-to-yazhi
 - translation-equivalence-review
+- unverified-encounter
 - unverified\_extraterrestrial\_claims

@@ -1,0 +1,61 @@
+{
+  "source_id": "src-95838b2a2aa6",
+  "snapshot_sha256": "c885deda4703aad897d7600ea9eb6027de130b781821bf404171ba66d93c0488",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-95838b2a2aa6-c01",
+      "assertion": "Dhor Káal’él alleges the Cabal coordinates Latin American unrest to destabilize countries and justify authoritarian control; some genuine protests may be co-opted.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed political-conspiracy claims."
+    },
+    {
+      "id": "src-95838b2a2aa6-c02",
+      "assertion": "He alleges Cabal-funded organizers recruit peaceful marchers before paid agitators turn protests violent, naming Chile, Bolivia, then Colombia; he advises other forms of civil resistance.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is his allegation and recommendation."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "engineered-social-unrest",
+      "name": "Engineered social unrest",
+      "kind": "political mechanism",
+      "aliases": [
+        "social engineering",
+        "staged unrest"
+      ]
+    }
+  ],
+  "review_flags": [
+    "attributed-political-conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "named-organizations-and-other-alleged-operations"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "source_id": "src-f6a0faeb1f8f",
+  "snapshot_sha256": "e63f71fe2c035bb415896c28b73ad05b74be17ae8e9eee1e73f5aa2c4f9cb31f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f6a0faeb1f8f-c01",
+      "assertion": "Wet pods treat severe conditions using holography and stem-cell liquid to repair tissue or regrow limbs.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6a0faeb1f8f-c02",
+      "assertion": "Alenym was stable and out of danger; pod treatment may last three to four months, after which retirement is her choice.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "maternal-med-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6a0faeb1f8f-c03",
+      "assertion": "Hyades, a 310-meter light destroyer, joined Toleka as escort; two destroyers now flank the flagship.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6a0faeb1f8f-c04",
+      "assertion": "Hyades has four counter-rotating engines, self-healing alloys, robotics and quantum AI; it is agile but cramped.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6a0faeb1f8f-c05",
+      "assertion": "A second Hyades-class ship, Cyndriel, is being built, named for a Taygetan colony planet orbiting Aldebaran.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Alenym-retirement-not-decided"
+  ],
+  "coverage_gaps": [
+    "party-security-procedures",
+    "crew-rotation-detail"
+  ]
+}

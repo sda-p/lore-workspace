@@ -1,0 +1,80 @@
+{
+  "source_id": "src-7027fa794a95",
+  "snapshot_sha256": "627ae9e79c3b4628bb91184b8cc842ee3e92973250f84a92f88b284804c0891c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7027fa794a95-c01",
+      "assertion": "Swaruu says crop circles can be human hoaxes, spacecraft time-space markers, DNA activators, or extraterrestrial communications.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "crop-circles",
+      "topics": [
+        "crop-circles",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents multiple possible purposes."
+    },
+    {
+      "id": "src-7027fa794a95-c02",
+      "assertion": "Swaruu identifies gravitational-intensity frequencies as the universal interstellar language; she says most races use base-12 mathematics, while other systems communicate only partly.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames the mathematical and language claims as her account."
+    },
+    {
+      "id": "src-7027fa794a95-c03",
+      "assertion": "She says UFO formations encode constellations and spatial regions as contact messages, which some non-speaking civilizations cannot convey in spoken languages.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0032",
+        "p0033",
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the symbols remain undeciphered by humans."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "crop-circles",
+      "name": "Crop circles",
+      "kind": "phenomenon",
+      "aliases": [
+        "agro glyphs",
+        "crop formations"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Swaruu-identity-and-forecast-answers"
+  ]
+}

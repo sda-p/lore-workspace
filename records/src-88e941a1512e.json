@@ -72,19 +72,18 @@
     },
     {
       "id": "src-88e941a1512e-c05",
-      "assertion": "Anéeka says some Reptilian cargo ships travel underwater to portal entrances near Yemen and Los Angeles.",
+      "assertion": "Anéeka says regressives use underwater needle-nose ships to move cargo to portal entrances near Yemen and Los Angeles.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0050",
-        "p0052",
-        "p0053"
+        "p0052"
       ],
       "primary_topic": "natural-portals",
       "topics": [
         "natural-portals"
       ],
       "modality": "reported",
-      "confidence": "medium",
+      "confidence": "high",
       "qualifiers": ""
     },
     {

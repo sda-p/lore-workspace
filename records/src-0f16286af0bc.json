@@ -1,0 +1,76 @@
+{
+  "source_id": "src-0f16286af0bc",
+  "snapshot_sha256": "bef132f1be175e8414074a1654f891c9dbf13d5d2fe4a4116f923b8effe8c2e3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0f16286af0bc-c01",
+      "assertion": "Swaruu says the 12,500-year-old Moon Matrix has four of twelve reactors working; Federation forces controlled its lunar system since 2008 but avoid abrupt shutdown to respect inhabitants’ consent.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f16286af0bc-c02",
+      "assertion": "She says galactic-center positronic storms and gradual lunar frequency changes weaken the Matrix; she alleges controllers counter them with chemtrails, HAARP, and GUEN cellular microwave transmissions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "earth-cabal",
+        "weather-control"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She gives no date for the Matrix’s natural dissolution."
+    },
+    {
+      "id": "src-0f16286af0bc-c03",
+      "assertion": "She says each person generates a personal and collective Matrix through shared agreements; experience reflects individual thought and feeling, limiting outside intervention.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "attributed-frequency-interference-claims"
+  ],
+  "coverage_gaps": [
+    "targeted-electromagnetic-systems",
+    "density-transition"
+  ]
+}

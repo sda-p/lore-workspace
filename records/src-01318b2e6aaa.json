@@ -1,0 +1,69 @@
+{
+  "source_id": "src-01318b2e6aaa",
+  "snapshot_sha256": "750a2878d4f03caf837f9cd2978133196f4a6062f1cb8363c30868f8d9790691",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-01318b2e6aaa-c01",
+      "assertion": "Swaruu says regressive entities trap souls using computer-controlled zero-point containers tuned to specific frequencies; awareness can break the hold, leading them to use artificial souls.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01318b2e6aaa-c02",
+      "assertion": "She says some AI serving archons manipulates souls into choosing Earth reincarnation, but cannot contain souls directly; invasive AI seeks planetary energy resources.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "archons-and-demons",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01318b2e6aaa-c03",
+      "assertion": "She claims Taygetan science places a fetus’s soul entry at two to three weeks, when abortion is allowed by the woman; she considers it murder afterward.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames this as Taygetan knowledge."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "attributed-reproductive-lore"
+  ],
+  "coverage_gaps": [
+    "animal-density-transition",
+    "euthanasia-practice"
+  ]
+}

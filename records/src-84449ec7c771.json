@@ -1,0 +1,125 @@
+{
+  "source_id": "src-84449ec7c771",
+  "snapshot_sha256": "c9a818974baab6c5d60daf409d7c5dd02b7725c6f262509f63ec7a8c216d54e6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-84449ec7c771-c01",
+      "assertion": "Mind-only teleportation drains energy and carries only what Yazhi can physically hold.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "teleportation",
+      "topics": [
+        "teleportation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84449ec7c771-c02",
+      "assertion": "Yazhi says coordinated starseed thought influences timelines and earned her Federation danger rating 10.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0040",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84449ec7c771-c03",
+      "assertion": "Yazhi stopped moving food between timelines after leaving others with empty pantries.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0085",
+        "p0087"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84449ec7c771-c04",
+      "assertion": "Yazhi says she controls her body’s growth, remaining nine, though some growth may occur.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0099",
+        "p0101"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84449ec7c771-c05",
+      "assertion": "Yazhi describes her body as a manifested form among simultaneously accessible astral and physical states.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0111",
+        "p0115",
+        "p0117"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84449ec7c771-c06",
+      "assertion": "Yazhi says lower densities define higher ones, which she experiences together from timeless perspective.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0121",
+        "p0123",
+        "p0125",
+        "p0127"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "teleportation",
+      "name": "Teleportation",
+      "kind": "technology",
+      "aliases": [
+        "short-range teleportation"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Abilities, body control, and density model are Yazhi’s self-reports"
+  ],
+  "coverage_gaps": [
+    "energy grounding",
+    "timeline repairs"
+  ]
+}

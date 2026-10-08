@@ -1,0 +1,158 @@
+{
+  "source_id": "src-8532628fad7a",
+  "snapshot_sha256": "6a735584808b816392b91d053c60b6172af29a702a4e36c8464c53a93ce33a3c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8532628fad7a-c01",
+      "assertion": "Karistus is Earth’s label for high-density bioplasmic beings inhabiting Jupiter and its moons.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8532628fad7a-c02",
+      "assertion": "She says Karistus guide Earth, appearing as beings or starseeds.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8532628fad7a-c03",
+      "assertion": "Jupiter has aerial life in 5D and Karistus crystal cities in 6D.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0024",
+        "p0056"
+      ],
+      "primary_topic": "jupiter",
+      "topics": [
+        "jupiter"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8532628fad7a-c04",
+      "assertion": "She says Jovian moons are protected developing worlds; Europa has primitive Sirian tritons, not advanced bases.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0039",
+        "p0043",
+        "p0047",
+        "p0055"
+      ],
+      "primary_topic": "europa",
+      "topics": [
+        "europa"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8532628fad7a-c05",
+      "assertion": "Karistus guard moons from negative races.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0044",
+        "p0055"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8532628fad7a-c06",
+      "assertion": "She speculates Jupiter’s orbiting monolith signals observation and relates to moon-life development.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "monoliths",
+      "topics": [
+        "monoliths"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8532628fad7a-c07",
+      "assertion": "Jupiter radiates more energy than it receives, warming its moons.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0039"
+      ],
+      "primary_topic": "jupiter",
+      "topics": [
+        "jupiter"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "karistus",
+      "name": "Karistus",
+      "kind": "species",
+      "aliases": [
+        "Karistus beings"
+      ]
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "kind": "location",
+      "aliases": [
+        "Júpiter"
+      ]
+    },
+    {
+      "id": "europa",
+      "name": "Europa",
+      "kind": "location",
+      "aliases": [
+        "Europa, moon of Jupiter"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Compared English translation candidate src-a2a5bfc5daf9 and Spanish version src-f94fd5d77808; bodies closely align with paragraph shifts and added explanatory material in English."
+  ],
+  "coverage_gaps": [
+    "species-fauna-detail",
+    "sun-energy-claims",
+    "Karistus-human-contacts"
+  ]
+}

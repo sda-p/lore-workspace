@@ -49,3 +49,17 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 Source: [Soul Fragmentation - Metaphysical Contemplations - Live with Gosia](https://swaruu.org/transcripts/soul-fragmentation-metaphysical-contemplations-live-with-gosia) (2023-05-06; en); passages p0032, p0033, p0035, p0036, p0037. [Structured record](../../records/src-bbd42e5699d0.json).
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-682e0b02c3c5-c06
+
+Anéeka says Taygetan partners connect through telepathy and past-life memories.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Questions and Answers - Swaruu of Erra and Aneeka of Temmer](https://swaruu.org/transcripts/questions-and-answers-swaruu-of-erra-and-aneeka-of-temmer) (2025-04-29; en); passages p0031. [Structured record](../../records/src-682e0b02c3c5.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+## Review flags
+
+- nonhuman-technology\_claims\_attributed

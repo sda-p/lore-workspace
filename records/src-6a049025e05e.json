@@ -1,0 +1,86 @@
+{
+  "source_id": "src-6a049025e05e",
+  "snapshot_sha256": "b6c0a65fca6b098f3d6650502a27d2c193cb330bbbdeb6d611592af2ddbdca40",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6a049025e05e-c01",
+      "assertion": "Swaruu says superconducting magnetic interferometers detect local gravity frequencies; an onboard computer calculates them and adjusts engine output.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "gravitic-generators",
+      "topics": [
+        "gravitic-generators",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a049025e05e-c02",
+      "assertion": "Distributed gravitic generators cancel or reshape gravity with opposing frequencies, steering craft through gradients; gravity propulsion alone cannot reach near-light speed.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "gravitic-generators",
+      "topics": [
+        "gravitic-generators",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a049025e05e-c03",
+      "assertion": "Taygetan ships use gravitational, plasma-jet, and high-energy toroidal flight modes; toroidal immersion changes ship density to match destination frequency and enables faster-than-light travel.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0036",
+        "p0037",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "gravitic-generators",
+      "name": "Gravitic generators",
+      "kind": "technology",
+      "aliases": [
+        "gravity generators"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "plasma-turbine-construction",
+    "toroidal-field-equations"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source_id": "src-de7987eb8690",
+  "snapshot_sha256": "cac713a66d646ce80c183f9afbf7732acf1fb1e8d334752e847131b8f35dc411",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-de7987eb8690-c01",
+      "assertion": "Mari says Toleka’s crew relies on Earth food and goods, unlike other Taygetans supplied from Temmer and Erra.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de7987eb8690-c02",
+      "assertion": "Hashmallim male and Shinonim female special operators mix on supply missions, using military command hierarchy.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "astral-military-units"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de7987eb8690-c03",
+      "assertion": "Night supply runs use ECM-equipped fighters carrying SUVs, with escort cover and remote rural landing zones.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de7987eb8690-c04",
+      "assertion": "Federation rules treat human-looking visitors on Earth as humans under its laws, limiting movement and operations.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de7987eb8690-c05",
+      "assertion": "Returned vehicles are mandatorily washed to remove biological contaminants; skipped cleaning once left a black widow aboard.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "field-procedure-account-attributed-to-mari"
+  ],
+  "coverage_gaps": [
+    "safe-house-scarcity",
+    "cargo-inspection"
+  ]
+}

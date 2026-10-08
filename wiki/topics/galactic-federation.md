@@ -2458,6 +2458,614 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)](https://swaruu.org/transcripts/space-news-11-galactic-federation-update-for-january-17-2024-english) (2024-01-18; en); passages p0013, p0014. [Structured record](../../records/src-de6bce5d6310.json).
 
+### src-b9ad02cc39ec-c06
+
+The Federation rejected the plan; they refused to leave. Notice was reportedly withheld from them.
+
+Attributed to **Source narration**; reported; extraction confidence: medium.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Aneeka - Rise to the Top (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-rise-to-the-top-part-1) (2025-10-25; en); passages p0100. [Structured record](../../records/src-b9ad02cc39ec.json).
+
+### src-41d2f89260a5-c06
+
+Anéeka places regional Federation headquarters on Viera, system base on Saturn.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 10 - Aboard Viera - Inside a Galactic Federation Starship](https://swaruu.org/transcripts/interstellar-life-10-aboard-viera-inside-a-galactic-federation-starship) (2025-06-06; en); passages p0079. [Structured record](../../records/src-41d2f89260a5.json).
+
+Related topics: [Viera](viera.md).
+
+### src-41aeba88905d-c05
+
+Mari Swaruu says Federation rules bar ships heavier than roughly 3,000 metric tons from near-planet hyperspace jumps.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Garbage Dump Mistake gone Horribly Wrong (English)](https://swaruu.org/transcripts/garbage-dump-mistake-gone-horribly-wrong-english) (2024-09-26; en); passages p0022, p0023. [Structured record](../../records/src-41aeba88905d.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-e1067d3dc607-c01
+
+Mari Swa says investigators linked the pathogen against Queen Alenym to a Federation lab near Saturn. She reports high certainty.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 33, July 29, 2024, Attacks against Alenym and Carrot, Bye Bye Toleka. (English)](https://swaruu.org/transcripts/space-news-33-july-29-2024-attacks-against-alenym-and-carrot-bye-bye-toleka-english) (2024-07-29; en); passages p0014, p0015. [Structured record](../../records/src-e1067d3dc607.json).
+
+### src-a1e8f5a09186-c01
+
+Mari Swa says several Federation member races increasingly oppose its Earth policy.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 23, May 11, 2024, 500 Video Special. Mari-16 (English)](https://swaruu.org/transcripts/space-news-23-may-11-2024-500-video-special-mari-16-english) (2024-05-11; en); passages p0005, p0006. [Structured record](../../records/src-a1e8f5a09186.json).
+
+### src-a1e8f5a09186-c03
+
+Mari Swa says Federation conferences defended Earth’s isolation as controlled theatre for souls.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 23, May 11, 2024, 500 Video Special. Mari-16 (English)](https://swaruu.org/transcripts/space-news-23-may-11-2024-500-video-special-mari-16-english) (2024-05-11; en); passages p0008. [Structured record](../../records/src-a1e8f5a09186.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-8c8d4905d738-c01
+
+Mari Swa says all three popular accounts of the Federation contain some truth.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation Conspiracy Theories (English)](https://swaruu.org/transcripts/galactic-federation-conspiracy-theories-english) (2024-08-26; en); passages p0003, p0007. [Structured record](../../records/src-8c8d4905d738.json).
+
+### src-8c8d4905d738-c02
+
+Mari Swa says Federation hierarchy is compartmentalized, with lower bodies awaiting inaccessible higher approval.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Galactic Federation Conspiracy Theories (English)](https://swaruu.org/transcripts/galactic-federation-conspiracy-theories-english) (2024-08-26; en); passages p0011, p0014. [Structured record](../../records/src-8c8d4905d738.json).
+
+### src-8c8d4905d738-c03
+
+Mari Swa considers an Orion-linked takeover of the Federation highly probable.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Galactic Federation Conspiracy Theories (English)](https://swaruu.org/transcripts/galactic-federation-conspiracy-theories-english) (2024-08-26; en); passages p0013, p0014. [Structured record](../../records/src-8c8d4905d738.json).
+
+Related topics: [Orion Wars](orion-wars.md).
+
+### src-8c8d4905d738-c04
+
+Mari Swa says Federation fleets use member-race ships rather than a single Federation-owned force.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Galactic Federation Conspiracy Theories (English)](https://swaruu.org/transcripts/galactic-federation-conspiracy-theories-english) (2024-08-26; en); passages p0019, p0020. [Structured record](../../records/src-8c8d4905d738.json).
+
+### src-8c8d4905d738-c05
+
+Mari Swa describes Saturn as a hub for hostile Federation forces. Her assessment.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Galactic Federation Conspiracy Theories (English)](https://swaruu.org/transcripts/galactic-federation-conspiracy-theories-english) (2024-08-26; en); passages p0022. [Structured record](../../records/src-8c8d4905d738.json).
+
+### src-fc193e0d15bd-c02
+
+Alfratan hosts separated conference attendees by genetic or star-family origin. Mari suspects this limited coordination.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Gori'el Report. Why the Earth must be kept as it is according to the Galactic Federation (English)](https://swaruu.org/transcripts/gori-el-report-why-the-earth-must-be-kept-as-it-is-according-to-the-galactic-federation-english) (2024-07-04; en); passages p0015, p0016. [Structured record](../../records/src-fc193e0d15bd.json).
+
+### src-fc193e0d15bd-c03
+
+Alfratan representatives said Earth’s hardship promotes souls’ growth.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Gori'el Report. Why the Earth must be kept as it is according to the Galactic Federation (English)](https://swaruu.org/transcripts/gori-el-report-why-the-earth-must-be-kept-as-it-is-according-to-the-galactic-federation-english) (2024-07-04; en); passages p0020, p0021. [Structured record](../../records/src-fc193e0d15bd.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-fc193e0d15bd-c04
+
+They argued Earth should remain isolated to contain its harmful social effects.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Gori'el Report. Why the Earth must be kept as it is according to the Galactic Federation (English)](https://swaruu.org/transcripts/gori-el-report-why-the-earth-must-be-kept-as-it-is-according-to-the-galactic-federation-english) (2024-07-04; en); passages p0025, p0026. [Structured record](../../records/src-fc193e0d15bd.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-fc193e0d15bd-c05
+
+They said direct contact could collapse Earth’s Matrix into a holistic society.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Gori'el Report. Why the Earth must be kept as it is according to the Galactic Federation (English)](https://swaruu.org/transcripts/gori-el-report-why-the-earth-must-be-kept-as-it-is-according-to-the-galactic-federation-english) (2024-07-04; en); passages p0027. [Structured record](../../records/src-fc193e0d15bd.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Holistic society](holistic-society.md).
+
+### src-437981222071-c02
+
+Alfratan hosts urged unity and warned against independent theories about Federation policy.
+
+Attributed to **Gori’el**; reported; extraction confidence: high.
+
+Source: [Space News, 32, July 18, 2024, Beryl, Attempt against Carrot, Gori'el Rep-2, New Ship (English)](https://swaruu.org/transcripts/space-news-32-july-18-2024-beryl-attempt-against-carrot-gori-el-rep-2-new-ship-english) (2024-07-18; en); passages p0020. [Structured record](../../records/src-437981222071.json).
+
+### src-437981222071-c03
+
+Gori’el says hosts argued Earth should stay isolated until humans developed suitable ethics.
+
+Attributed to **Gori’el**; reported; extraction confidence: high.
+
+Source: [Space News, 32, July 18, 2024, Beryl, Attempt against Carrot, Gori'el Rep-2, New Ship (English)](https://swaruu.org/transcripts/space-news-32-july-18-2024-beryl-attempt-against-carrot-gori-el-rep-2-new-ship-english) (2024-07-18; en); passages p0022, p0024. [Structured record](../../records/src-437981222071.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-437981222071-c04
+
+Gori’el says hosts interrupted his question about Earth’s separation and ignored his follow-up.
+
+Attributed to **Gori’el**; reported; extraction confidence: high.
+
+Source: [Space News, 32, July 18, 2024, Beryl, Attempt against Carrot, Gori'el Rep-2, New Ship (English)](https://swaruu.org/transcripts/space-news-32-july-18-2024-beryl-attempt-against-carrot-gori-el-rep-2-new-ship-english) (2024-07-18; en); passages p0021, p0023. [Structured record](../../records/src-437981222071.json).
+
+### src-b0a69aaecc08-c02
+
+Mari Swa says Federation headquarters cancelled support for Second Contact and threatened sanctions.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Taygeta Space News, 36, G.F. Cancels Project Second Contact Toleka and Vigilant Eagle (English)](https://swaruu.org/transcripts/taygeta-space-news-36-g-f-cancels-project-second-contact-toleka-and-vigilant-eagle-english) (2024-08-17; en); passages p0007, p0008. [Structured record](../../records/src-b0a69aaecc08.json).
+
+### src-b0a69aaecc08-c03
+
+Mari Swa says Earth-orbit communications pass through Federation servers and AI filters.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Taygeta Space News, 36, G.F. Cancels Project Second Contact Toleka and Vigilant Eagle (English)](https://swaruu.org/transcripts/taygeta-space-news-36-g-f-cancels-project-second-contact-toleka-and-vigilant-eagle-english) (2024-08-17; en); passages p0011, p0014. [Structured record](../../records/src-b0a69aaecc08.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-b0a69aaecc08-c04
+
+Mari Swa says the Federation removed Taygetan funding and internet support after Alenym refused its terms.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Taygeta Space News, 36, G.F. Cancels Project Second Contact Toleka and Vigilant Eagle (English)](https://swaruu.org/transcripts/taygeta-space-news-36-g-f-cancels-project-second-contact-toleka-and-vigilant-eagle-english) (2024-08-17; en); passages p0012, p0013. [Structured record](../../records/src-b0a69aaecc08.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-ee2bcb823310-c03
+
+Mari Swa says the Council suspects high Federation levels were infiltrated by Orion forces.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News 45, Alcyone Council, Galactic Federation and New Starships, Update (English)](https://swaruu.org/transcripts/space-news-45-alcyone-council-galactic-federation-and-new-starships-update-english) (2024-10-12; en); passages p0004, p0005. [Structured record](../../records/src-ee2bcb823310.json).
+
+Related topics: [Orion Wars](orion-wars.md).
+
+### src-f95f21ca391d-c03
+
+Anéeka says the ship nearly followed a surface-impact trajectory before Federation intervention.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Ancient Abandoned Lemurian Ship - Aneeka of Temmer](https://swaruu.org/transcripts/ancient-abandoned-lemurian-ship-aneeka-of-temmer) (2024-06-22; en); passages p0006. [Structured record](../../records/src-f95f21ca391d.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-ff2138119484-c04
+
+Suzys can hide, project false locations, or mimic aircraft; Federation protocols favor human forms over Earth.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 6B - Taygetan Pleiadian Advanced Fighter Crafts - Yazhi and Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-6b-taygetan-pleiadian-advanced-fighter-crafts-yazhi-and-athena-swaruu) (2024-07-23; en); passages p0048, p0049, p0052, p0054. [Structured record](../../records/src-ff2138119484.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-554b76780378-c03
+
+Mari speculates that disguised Orion craft could conduct abductions under Zeta permits, with possible Federation tolerance.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News 43, Increased Orion Grey Activity, Yazhi, Ships, ET Critics, my YouTube](https://swaruu.org/transcripts/space-news-43-increased-orion-grey-activity-yazhi-ships-et-critics-my-youtube) (2024-09-21; en); passages p0007, p0008, p0009, p0010. [Structured record](../../records/src-554b76780378.json).
+
+Related topics: [Orion Grays](orion-grays.md).
+
+### src-55eec113b537-c03
+
+Mari says Federation rules constrain Earth contact, while some extraterrestrial groups resist disclosure and face containment.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [The Importance of ET Contact (English)](https://swaruu.org/transcripts/the-importance-of-et-contact-english) (2024-06-01; en); passages p0024, p0025, p0026. [Structured record](../../records/src-55eec113b537.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-cf0ae0f8a31e-c03
+
+Mari reports intelligence suggesting Federation headquarters orbit Saturn and seek to dominate Taygeta before expanding across Pleiades.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News 40, New Pleiadian Treaty with the Urmah (English)](https://swaruu.org/transcripts/space-news-40-new-pleiadian-treaty-with-the-urmah-english) (2024-09-05; en); passages p0024, p0025. [Structured record](../../records/src-cf0ae0f8a31e.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-72696c075fca-c04
+
+She alleges deep-government astral programs cooperate with Reptilians, Tall Grays, and Federation-member Centauri.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [The Astral Warriors, Part 1 (English)](https://swaruu.org/transcripts/the-astral-warriors-part-1-english) (2024-10-07; en); passages p0013, p0014. [Structured record](../../records/src-72696c075fca.json).
+
+Related topics: [Maitre](maitre.md), [Alien species and distinctions](alien-species.md).
+
+### src-fe44b9d9c0b3-c02
+
+She says Earth’s Cabal mirrors Federation governments, with the older Federation exporting ideas and souls into Earth’s Matrix.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Dimensional Mirrors 4 - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dimensional-mirrors-4-questions-from-the-public-yazhi-swaruu) (2024-05-19; en); passages p0013, p0015, p0017. [Structured record](../../records/src-fe44b9d9c0b3.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-f624a9cc2d74-c05
+
+She says the Galactic Federation synchronizes member consciousness, extending a shared Matrix beyond Earth.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Extra-terrestrial or Interdimensional (English)](https://swaruu.org/transcripts/extra-terrestrial-or-interdimensional-english) (2024-10-17; en); passages p0015. [Structured record](../../records/src-f624a9cc2d74.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-5ffe56780faa-c02
+
+She says the site was part of Egypt’s Federation base system, linked by tunnels to Giza, Crimea, and Bucegi.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Aswan Dam and Extraterrestrial DUMBs - Why did they move Abu Simbel statues?](https://swaruu.org/transcripts/aswan-dam-and-extraterrestrial-dumbs-why-did-they-move-abu-simbel-statues) (2025-04-11; en); passages p0006, p0012. [Structured record](../../records/src-5ffe56780faa.json).
+
+Related topics: [Intraterrestrial civilizations](intraterrestrial-civilizations.md).
+
+### src-fe82d1a07961-c01
+
+Gosia’s Taygetan-source summary describes the Federation as a physical multiracial polity founded by Andromedans, Arcturians, and Lyrians after Lyran expansion.
+
+Attributed to **Gosia**; reported; extraction confidence: low.
+
+Source: [The Galactic Federation - TO ALL EARTH CITIZENS - No BS or New Age - THIS IS IT](https://swaruu.org/transcripts/the-galactic-federation-to-all-earth-citizens-no-bs-or-new-age-this-is-it) (2024-10-27; en); passages p0004, p0006. [Structured record](../../records/src-fe82d1a07961.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-fe82d1a07961-c02
+
+It portrays Earth oversight as layered: Antarctic councils, Viera headquarters, and a Saturn-based solar-system council.
+
+Attributed to **Gosia**; reported; extraction confidence: low.
+
+Source: [The Galactic Federation - TO ALL EARTH CITIZENS - No BS or New Age - THIS IS IT](https://swaruu.org/transcripts/the-galactic-federation-to-all-earth-citizens-no-bs-or-new-age-this-is-it) (2024-10-27; en); passages p0009, p0010, p0011. [Structured record](../../records/src-fe82d1a07961.json).
+
+Related topics: [Viera](viera.md), [Saturnian orbital bases](saturn-bases.md).
+
+### src-fe82d1a07961-c03
+
+It says lower Federation members may be benevolent, while opaque upper levels control Earth affairs and bend noninterference rules.
+
+Attributed to **Gosia**; reported; extraction confidence: low.
+
+Source: [The Galactic Federation - TO ALL EARTH CITIZENS - No BS or New Age - THIS IS IT](https://swaruu.org/transcripts/the-galactic-federation-to-all-earth-citizens-no-bs-or-new-age-this-is-it) (2024-10-27; en); passages p0013, p0014, p0027. [Structured record](../../records/src-fe82d1a07961.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-fe82d1a07961-c04
+
+The account claims Federation agents alter Earth politics, technology, weather, money, and history to shape the Matrix.
+
+Attributed to **Gosia**; reported; extraction confidence: low.
+
+Source: [The Galactic Federation - TO ALL EARTH CITIZENS - No BS or New Age - THIS IS IT](https://swaruu.org/transcripts/the-galactic-federation-to-all-earth-citizens-no-bs-or-new-age-this-is-it) (2024-10-27; en); passages p0020, p0021, p0022, p0025, p0026. [Structured record](../../records/src-fe82d1a07961.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-c0ea4ddd8632-c01
+
+Swaruu says Cinna founded DUFES to mediate human–ET contact, with Federation approval requiring surface contacts through it.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: low.
+
+Source: [Swaruu of Erra and Shady Events in 2019 - Relevant for Today?](https://swaruu.org/transcripts/swaruu-of-erra-and-shady-events-in-2019-relevant-for-today) (2025-07-23; en); passages p0074, p0076, p0077. [Structured record](../../records/src-c0ea4ddd8632.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-c0ea4ddd8632-c02
+
+She describes DUFES as a worldwide organization with alleged covert control, extortion, and off-planet ambitions.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: low.
+
+Source: [Swaruu of Erra and Shady Events in 2019 - Relevant for Today?](https://swaruu.org/transcripts/swaruu-of-erra-and-shady-events-in-2019-relevant-for-today) (2025-07-23; en); passages p0076. [Structured record](../../records/src-c0ea4ddd8632.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-61184d950658-c04
+
+Anéeka says Federation internet shares knowledge, while Earth’s version enables population monitoring and behavioral influence.
+
+Attributed to **Anéeka**; asserted; extraction confidence: low.
+
+Source: [Extraterrestrial races and Humans - Intercultural Exchanges in Interstellar Societies](https://swaruu.org/transcripts/extraterrestrial-races-and-humans-intercultural-exchanges-in-interstellar-societies) (2024-11-26; en); passages p0056, p0057. [Structured record](../../records/src-61184d950658.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-4af520912230-c01
+
+Anéeka says the Federation sent a muon-coded warning to stop her disclosures, invoking the Prime Directive.
+
+Attributed to **Anéeka**; reported; extraction confidence: low.
+
+Source: [Galactic Federation & the Matrix Beyond Earth - Conversation with Aneeka of Temmer](https://swaruu.org/transcripts/galactic-federation-the-matrix-beyond-earth-conversation-with-aneeka-of-temmer) (2025-11-09; en); passages p0012, p0018. [Structured record](../../records/src-4af520912230.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-4af520912230-c02
+
+She says no Federation official was responsible for answering her appeal.
+
+Attributed to **Anéeka**; reported; extraction confidence: low.
+
+Source: [Galactic Federation & the Matrix Beyond Earth - Conversation with Aneeka of Temmer](https://swaruu.org/transcripts/galactic-federation-the-matrix-beyond-earth-conversation-with-aneeka-of-temmer) (2025-11-09; en); passages p0010, p0014, p0018. [Structured record](../../records/src-4af520912230.json).
+
+### src-4af520912230-c03
+
+Anéeka describes Taygetans as part of the Federation coalition policing Earth, questioning their authority over humans.
+
+Attributed to **Anéeka**; asserted; extraction confidence: low.
+
+Source: [Galactic Federation & the Matrix Beyond Earth - Conversation with Aneeka of Temmer](https://swaruu.org/transcripts/galactic-federation-the-matrix-beyond-earth-conversation-with-aneeka-of-temmer) (2025-11-09; en); passages p0032, p0047, p0049. [Structured record](../../records/src-4af520912230.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-924330cd4b6f-c01
+
+Mari says Federation step councils restrict members to local authorities, leaving some concerns unappealable.
+
+Attributed to **Mari Swa**; reported; extraction confidence: low.
+
+Source: [Galactic Federation, Current Situation, Taygetean Exo-Politics and Diplomatic Incident (English)](https://swaruu.org/transcripts/galactic-federation-current-situation-taygetean-exo-politics-and-diplomatic-incident-english) (2024-08-15; en); passages p0016, p0017. [Structured record](../../records/src-924330cd4b6f.json).
+
+### src-924330cd4b6f-c03
+
+Mari reports an Andromedan official urged her to stop criticizing the Federation and organizing Earth-focused meetings.
+
+Attributed to **Mari Swa**; reported; extraction confidence: low.
+
+Source: [Galactic Federation, Current Situation, Taygetean Exo-Politics and Diplomatic Incident (English)](https://swaruu.org/transcripts/galactic-federation-current-situation-taygetean-exo-politics-and-diplomatic-incident-english) (2024-08-15; en); passages p0021, p0022, p0024. [Structured record](../../records/src-924330cd4b6f.json).
+
+### src-924330cd4b6f-c05
+
+Mari accuses the Federation of attempting Alenym’s assassination, citing claimed forensic evidence from the Saturn level.
+
+Attributed to **Mari Swa**; reported; extraction confidence: low.
+
+Source: [Galactic Federation, Current Situation, Taygetean Exo-Politics and Diplomatic Incident (English)](https://swaruu.org/transcripts/galactic-federation-current-situation-taygetean-exo-politics-and-diplomatic-incident-english) (2024-08-15; en); passages p0025. [Structured record](../../records/src-924330cd4b6f.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-722b52946af6-c03
+
+Yazhi says the Federation halted Second Contact as invasive; 900 cadets continue duties aboard Alcyone and Asterope.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Chatting with Yazhi Swaruu - September 2024](https://swaruu.org/transcripts/chatting-with-yazhi-swaruu-september-2024) (2024-09-29; en); passages p0063, p0065, p0069. [Structured record](../../records/src-722b52946af6.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-de7987eb8690-c04
+
+Federation rules treat human-looking visitors on Earth as humans under its laws, limiting movement and operations.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [A Taygetan Supply Mission to Earth (English)](https://swaruu.org/transcripts/a-taygetan-supply-mission-to-earth-english) (2024-05-30; en); passages p0018. [Structured record](../../records/src-de7987eb8690.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-531b0e9f06bf-c02
+
+Viera reported a Black Knight missing; Mari says an Arlington video match was only possible.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 19. April 10 2024, Eclipse from Space, Starships, Black Knights (English)](https://swaruu.org/transcripts/space-news-19-april-10-2024-eclipse-from-space-starships-black-knights-english) (2024-04-11; en); passages p0010, p0011. [Structured record](../../records/src-531b0e9f06bf.json).
+
+Related topics: [Alfrata (Phaeton)](alfrata.md).
+
+### src-531b0e9f06bf-c04
+
+Mari says Federation nonintervention orders applied, though compartmentalized government factions might disobey.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 19. April 10 2024, Eclipse from Space, Starships, Black Knights (English)](https://swaruu.org/transcripts/space-news-19-april-10-2024-eclipse-from-space-starships-black-knights-english) (2024-04-11; en); passages p0016, p0017. [Structured record](../../records/src-531b0e9f06bf.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-a536d40b8707-c02
+
+Dense, bidirectional traffic centered on central Australia; Federation restrictions barred Taygetan approaches, but its purpose was unknown.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 48, What on Earth is going on in Australia? (English)](https://swaruu.org/transcripts/space-news-48-what-on-earth-is-going-on-in-australia-english) (2024-10-21; en); passages p0011, p0014, p0015, p0016. [Structured record](../../records/src-a536d40b8707.json).
+
+Related topics: [Alfrata (Phaeton)](alfrata.md).
+
+### src-234bba72765f-c04
+
+Athena says CAPs may deter trouble at Federation level; Earth militaries may not care, and altitude is restricted.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [How is Athena Swaruu? Flight Missions, Asterope, and Grays](https://swaruu.org/transcripts/how-is-athena-swaruu-flight-missions-asterope-and-grays) (2024-04-25; en); passages p0028, p0030, p0032, p0034. [Structured record](../../records/src-234bba72765f.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-016e686c1508-c02
+
+Athena says the Federation will not intervene as humans expect and that Earth must solve its problems.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Galactic Federation, Time (PART 2)](https://swaruu.org/transcripts/athena-swaruu-spiritual-chat-with-dale-rich-2021-galactic-federation-time-part-2) (2025-08-26; en); passages p0016. [Structured record](../../records/src-016e686c1508.json).
+
+### src-e34286c88397-c05
+
+Aneeka describes the Galactic Federation as managing Earth affairs and overseeing lower power layers.
+
+Attributed to **Gosia quoting Anéeka of Temmer**; reported; extraction confidence: high.
+
+Source: [CLASS 008 - Cabal and Power Structures of Earth - Who is in Control of our Planet?](https://swaruu.org/transcripts/class-008-cabal-and-power-structures-of-earth-who-is-in-control-of-our-planet) (2025-09-30; en); passages p0047, p0049, p0050. [Structured record](../../records/src-e34286c88397.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-bddaa45917d5-c01
+
+Mari describes three Earth-control layers: public institutions, Deep State networks, and nonhuman Federation authority.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Analysing the Galactic Federation and Gori’el’s Report, and the New Age (English)](https://swaruu.org/transcripts/analysing-the-galactic-federation-and-gori-el-s-report-and-the-new-age-english) (2024-07-22; en); passages p0003, p0004, p0005. [Structured record](../../records/src-bddaa45917d5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-bddaa45917d5-c03
+
+Mari says Federation conferences restrict questions and isolate attendees from other races.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Analysing the Galactic Federation and Gori’el’s Report, and the New Age (English)](https://swaruu.org/transcripts/analysing-the-galactic-federation-and-gori-el-s-report-and-the-new-age-english) (2024-07-22; en); passages p0018, p0019. [Structured record](../../records/src-bddaa45917d5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-bddaa45917d5-c04
+
+Mari alleges atrocity imagery is used to frighten offworld attendees and justify Earth’s isolation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Analysing the Galactic Federation and Gori’el’s Report, and the New Age (English)](https://swaruu.org/transcripts/analysing-the-galactic-federation-and-gori-el-s-report-and-the-new-age-english) (2024-07-22; en); passages p0022, p0023, p0025, p0026. [Structured record](../../records/src-bddaa45917d5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-6f8ab895fea6-c04
+
+Mari says local Federation officials denied involvement in Alenym’s attempted assassination, while Saturn-level authorities remained unreachable.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygeta Space News, 34, August 5, 2024, Swaruuneans No More, Bad-G.F., New-Meetings (English)](https://swaruu.org/transcripts/taygeta-space-news-34-august-5-2024-swaruuneans-no-more-bad-g-f-new-meetings-english) (2024-08-05; en); passages p0016, p0017, p0018. [Structured record](../../records/src-6f8ab895fea6.json).
+
+### src-36e353120a01-c02
+
+Mari says the Galactic Federation’s collective unconscious helps manifest Earth’s conflicts and conditions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Should you worry about the news? (English)](https://swaruu.org/transcripts/should-you-worry-about-the-news-english) (2024-09-30; en); passages p0009, p0010, p0011. [Structured record](../../records/src-36e353120a01.json).
+
+### src-a7b0b8bf878c-c01
+
+Mari says First Contact was a Federation-wide effort judged unsuccessful because Earth audiences were unprepared.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Project Second Contact, and Protocols (English)](https://swaruu.org/transcripts/project-second-contact-and-protocols-english) (2024-05-18; en); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-a7b0b8bf878c.json).
+
+### src-ff4973c6a444-c03
+
+Mari says Gori’el’s team represented Taygeta at Federation meetings about Earth.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News, 29, June 24, 2024, Hurricane in Temmer, Fluffy Cotton in the Sky (English)](https://swaruu.org/transcripts/space-news-29-june-24-2024-hurricane-in-temmer-fluffy-cotton-in-the-sky-english) (2024-06-24; en); passages p0005, p0006. [Structured record](../../records/src-ff4973c6a444.json).
+
+### src-f8715fda448c-c03
+
+Mari reports Alfratan destroyers intercepted Vigilant Eagle after it failed to notify traffic; Asterope fired warning shots and escorted it.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 38, New Crew Member, Another G.F. Diplomatic Incident, Thinking Hat 02 (English)](https://swaruu.org/transcripts/space-news-38-new-crew-member-another-g-f-diplomatic-incident-thinking-hat-02-english) (2024-08-31; en); passages p0012, p0013, p0015, p0016. [Structured record](../../records/src-f8715fda448c.json).
+
+### src-f8715fda448c-c05
+
+Mari says the Andromedan representative acknowledged Alfratan aggression and urged Taygetan crews to follow arrival protocols.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 38, New Crew Member, Another G.F. Diplomatic Incident, Thinking Hat 02 (English)](https://swaruu.org/transcripts/space-news-38-new-crew-member-another-g-f-diplomatic-incident-thinking-hat-02-english) (2024-08-31; en); passages p0018, p0019, p0020. [Structured record](../../records/src-f8715fda448c.json).
+
+### src-679ef96054ba-c01
+
+Mari reports an Andromedan representative urged cooperation and warned Taygetan allies’ growth made them seem dangerous to the Federation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politics (English)](https://swaruu.org/transcripts/taygeta-space-news-37-galactic-federation-update-taygetan-exo-politics-english) (2024-08-24; en); passages p0008, p0011, p0012. [Structured record](../../records/src-679ef96054ba.json).
+
+### src-679ef96054ba-c02
+
+Mari alleges a Federation Saturn lab supplied the pathogen used in an attempt on Alenym, citing a protein signature.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politics (English)](https://swaruu.org/transcripts/taygeta-space-news-37-galactic-federation-update-taygetan-exo-politics-english) (2024-08-24; en); passages p0013, p0014, p0015. [Structured record](../../records/src-679ef96054ba.json).
+
+### src-83397d1d698c-c02
+
+Mari reports the Federation anonymously asked whether the treaty declared war, with replies routed through Viera headquarters.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 42, Galactic Federation And Alcyone Council Update](https://swaruu.org/transcripts/space-news-42-galactic-federation-and-alcyone-council-update) (2024-09-19; en); passages p0007, p0008. [Structured record](../../records/src-83397d1d698c.json).
+
+### src-6313385e14d2-c04
+
+Mari says she would hold the Galactic Federation responsible for future disease attacks, while rejecting Earth’s virus model.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (English)](https://swaruu.org/transcripts/space-news-51-what-is-up-with-taygetans-my-youtube-channel-and-me-english) (2024-11-16; en); passages p0012. [Structured record](../../records/src-6313385e14d2.json).
+
+### src-6b5449860d14-c04
+
+Mari reports Alfratans transported Federation delegates to meetings at central-Australia installations; she says the purpose was unknown.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (English)](https://swaruu.org/transcripts/space-news-49-new-spaceport-more-on-australia-my-health-birthday-english) (2024-10-26; en); passages p0011, p0012, p0013. [Structured record](../../records/src-6b5449860d14.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c02](urmah.md#src-a5811312e55c-c02) — Urmah
@@ -2598,24 +3206,80 @@ Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)
 - [src-9b1732b6fb53-c04](saturn-bases.md#src-9b1732b6fb53-c04) — Saturnian orbital bases
 - [src-3a84733d9846-c03](earth-cabal.md#src-3a84733d9846-c03) — Earth Cabal and power structures
 - [src-3a84733d9846-c04](earth-cabal.md#src-3a84733d9846-c04) — Earth Cabal and power structures
+- [src-b9ad02cc39ec-c07](alcyone-council.md#src-b9ad02cc39ec-c07) — Alcyone Council
+- [src-a0d86f489b86-c06](immersion-pods.md#src-a0d86f489b86-c06) — Immersion pods
+- [src-e1067d3dc607-c03](alcyone-council.md#src-e1067d3dc607-c03) — Alcyone Council
+- [src-73198a2de79a-c04](alcyone-council.md#src-73198a2de79a-c04) — Alcyone Council
+- [src-0afd8a265a42-c06](spatium-lupi.md#src-0afd8a265a42-c06) — Spatium Lupi
+- [src-a1e8f5a09186-c02](urmah.md#src-a1e8f5a09186-c02) — Urmah
+- [src-8c8d4905d738-c06](urmah.md#src-8c8d4905d738-c06) — Urmah
+- [src-fc193e0d15bd-c01](viera.md#src-fc193e0d15bd-c01) — Viera
+- [src-b0a69aaecc08-c05](alcyone-council.md#src-b0a69aaecc08-c05) — Alcyone Council
+- [src-b18ffa3a44a6-c05](alien-species.md#src-b18ffa3a44a6-c05) — Alien species and distinctions
+- [src-91851d621bc3-c02](nazca-spaceport.md#src-91851d621bc3-c02) — Nazca spaceport
+- [src-91851d621bc3-c05](atlantis-lemuria.md#src-91851d621bc3-c05) — Atlantis and Lemuria
+- [src-cae1127d2078-c02](alcyone-council.md#src-cae1127d2078-c02) — Alcyone Council
+- [src-ee2bcb823310-c02](alcyone-council.md#src-ee2bcb823310-c02) — Alcyone Council
+- [src-70bae46a6291-c01](prime-directive.md#src-70bae46a6291-c01) — Prime Directive
+- [src-0578a3b0bcf0-c02](viera.md#src-0578a3b0bcf0-c02) — Viera
+- [src-55eec113b537-c05](moon-matrix.md#src-55eec113b537-c05) — Moon and terrestrial Matrix
+- [src-3c54f1ef569a-c02](atlantis-lemuria.md#src-3c54f1ef569a-c02) — Atlantis and Lemuria
+- [src-357511a0f248-c03](alcyone-council.md#src-357511a0f248-c03) — Alcyone Council
+- [src-555d02ebcd4e-c01](solatians.md#src-555d02ebcd4e-c01) — Solatians
+- [src-fe82d1a07961-c05](muonic-galactic-ai-network.md#src-fe82d1a07961-c05) — Muonic galactic AI network
+- [src-c0ea4ddd8632-c03](taygetans.md#src-c0ea4ddd8632-c03) — Taygetans
+- [src-c0ea4ddd8632-c04](archons-and-demons.md#src-c0ea4ddd8632-c04) — Archons and demons
+- [src-4af520912230-c04](original-matrix.md#src-4af520912230-c04) — Original Matrix
+- [src-924330cd4b6f-c02](saturn-bases.md#src-924330cd4b6f-c02) — Saturnian orbital bases
+- [src-924330cd4b6f-c04](alcyone-council.md#src-924330cd4b6f-c04) — Alcyone Council
+- [src-9afde86ad754-c05](atlantis-lemuria.md#src-9afde86ad754-c05) — Atlantis and Lemuria
+- [src-9afde86ad754-c06](earth-cabal.md#src-9afde86ad754-c06) — Earth Cabal and power structures
+- [src-a11243a06a8a-c02](etorthans.md#src-a11243a06a8a-c02) — Etorthans
+- [src-a11243a06a8a-c03](alfrata.md#src-a11243a06a8a-c03) — Alfrata (Phaeton)
+- [src-531b0e9f06bf-c05](alfrata.md#src-531b0e9f06bf-c05) — Alfrata (Phaeton)
+- [src-a536d40b8707-c03](earth-cabal.md#src-a536d40b8707-c03) — Earth Cabal and power structures
+- [src-36e353120a01-c01](earth-cabal.md#src-36e353120a01-c01) — Earth Cabal and power structures
+- [src-36e353120a01-c05](earth-cabal.md#src-36e353120a01-c05) — Earth Cabal and power structures
+- [src-a7b0b8bf878c-c02](project-second-contact.md#src-a7b0b8bf878c-c02) — Project Second Contact
+- [src-a7b0b8bf878c-c03](project-second-contact.md#src-a7b0b8bf878c-c03) — Project Second Contact
+- [src-a7b0b8bf878c-c04](project-second-contact.md#src-a7b0b8bf878c-c04) — Project Second Contact
+- [src-a7b0b8bf878c-c05](project-second-contact.md#src-a7b0b8bf878c-c05) — Project Second Contact
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
+- Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
+- Athena-interview-original-English
+- Australian-traffic-purpose-unknown
+- Federation and New Age claims are Mari’s allegations and interpretations
+- Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
+- Federation-arguments\_reported
 - Federation-as-controller claim conflicts with mentor framing within transcript
+- Federation-infiltration\_theory
+- Federation-policy\_claims\_attributed
+- Federation-sanctions\_reported
+- Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
+- Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Higher-level free-will explanation is challenged by Gosia
 - Maitre\_relationship\_with\_Reptilians
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Proposed intervention remains conditional and internally qualified
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- The account is Mari’s report; it describes a near-escalation without further reported consequences
 - Weapon and defense capabilities are source-attributed technical claims
+- alternate-history\_claims\_attributed
 - approximate\_dates
+- attack-theory\_speculative
 - attribution: extraordinary intelligence claims remain source-specific
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - biological-claims-unverified
+- black-knight-loss-details-provisional
 - blockade-and-biology-attributed
+- broad-exopolitical-allegations
 - cern-portal-claim
 - claimed\_observation
+- claims about current events and power structures are Mari’s interpretations
+- claims are presented as attributed lore and quotations within a lesson
 - competing\_attributions
 - conditional\_forecast
 - conflicting\_faction\_accounts
@@ -2645,6 +3309,7 @@ Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)
 - earth-consciousness\_claim\_omitted
 - earth-population-claims
 - earthquake-causation-unverified
+- eclipse-portal-claims-unverified
 - extraordinary-contact-claims
 - extraordinary\_ai\_claims
 - extraordinary\_astronomical\_claims
@@ -2660,17 +3325,24 @@ Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)
 - factional-perspective-difference
 - factional\_viewpoint\_conflict
 - false-invasion-not-prediction
+- federation-authority-critique
 - federation\_control\_claims\_unverified
+- federation\_dispute
+- fence-control-theory-unconfirmed
+- field-procedure-account-attributed-to-mari
+- fleet-status\_as-reported
 - forecast-in-retrospect
 - frequency\_health\_claims\_unverified
 - health-claims-unverified
 - health-conspiracy-claims
+- historical-allegations
 - historical-claims-uncorroborated
 - historical-claims-unverified
 - historical-conspiracy-claims
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
 - incomplete-investigation
+- intercultural-claims
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - internal\_revision
@@ -2678,6 +3350,7 @@ Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)
 - internal\_uncertainty
 - intervention\_tension
 - logo\_identity\_claim\_unverified
+- long conversation contains disputed health claims not included in core extraction
 - lunar-reactor-age-origin-uncertainty
 - maitre\_claims\_conflicting\_and\_uncertain
 - medical-misinformation-claims
@@ -2688,34 +3361,48 @@ Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)
 - medical\_claims\_unverified
 - metaphysical-claims
 - metaphysical-social-commentary
+- metaphysical\_claims\_attributed
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
 - named\_government\_and\_secret\_base\_claims
+- narrator\_claims
 - no-parallel-source-in-batch
 - nuclear\_science\_misinformation
+- p0024–p0026 use an oblique coded allegory; interpretation is uncertain
 - personal\_accusations
 - personal\_metaphysics
 - personal\_social\_theory
 - political-allegation
 - political-claims
 - political-claims-unverified
+- political-claims\_attributed
+- political-narrative\_attributed
 - political-structure-unverified
 - political\_claims
 - politically\_contested
 - related\_series\_part
 - reported arrival date conflicts with article chronology
+- reported-claims\_by\_Ari
+- reported\_plan
 - saturn-council-uncertainty
 - scenario-not-prediction
+- second-contact-stoppage-attributed-to-yazhi
 - second\_hand\_claims
+- secondhand-fleet-reports
 - self-reported-traits
 - self\_description
+- serious\_allegations\_attributed
+- ship-specifications\_attributed
 - source includes conflicting publication and event dates; claims retain stated dates
 - speaker-attribution-swaruu-x-athena
+- speaker-speculation
 - speaker-split: Gosia reflection; Anéeka statement at p0050-p0054
 - speaker: interviewer prompts excluded as claims
 - speaker: interviewer questions excluded as claims
+- species status is contested within Mari’s account; preserve her stated rationale
 - spiritual-warfare-claims
 - starlink-observation-scope-ambiguity
+- succession-report\_attributed
 - technology\_claims
 - time\_travel\_lore
 - translated-from-spanish
@@ -2724,6 +3411,8 @@ Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)
 - unsupported\_planetary\_claims
 - unverified-cabinet-claims
 - unverified-contact-claims
+- unverified-eclipse-portal-theory
+- unverified-reset-claims
 - unverified-technology-claims
 - unverified\_agency\_claims
 - unverified\_antarctica\_claims
@@ -2746,3 +3435,4 @@ Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)
 - unverified\_political\_claims
 - unverified\_public\_figure\_claims
 - unverified\_source\_claims
+- wreck-origin\_uncertain

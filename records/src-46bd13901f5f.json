@@ -1,0 +1,117 @@
+{
+  "source_id": "src-46bd13901f5f",
+  "snapshot_sha256": "f75d218297d5737c0c19379eb2aa08d27bf1533c0ff29d19f6773a8a612c1371",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-46bd13901f5f-c01",
+      "assertion": "CIC says Swaruus 2–9 reincarnated Swaruu Papri in repeated loops, broken after Swaruu 9.",
+      "speaker": "CIC",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46bd13901f5f-c02",
+      "assertion": "CIC says Swaruunians is a political label for Erra descendants, not a separate species.",
+      "speaker": "CIC",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46bd13901f5f-c03",
+      "assertion": "Mari says Taygetan and Swaruunian DNA reflects soul experience, not species.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0021"
+      ],
+      "primary_topic": "lyrian-cellular-body",
+      "topics": [
+        "lyrian-cellular-body",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46bd13901f5f-c04",
+      "assertion": "She describes human, Taygetan and Swaruunian DNA as 2-, 12- and 24-stranded, respectively.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46bd13901f5f-c05",
+      "assertion": "Mari says complex DNA indicates an experienced soul, not superiority, and remains within the Lyrian species.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46bd13901f5f-c06",
+      "assertion": "She speculates ten extra Lyrian DNA strands lie in etheric density, beyond Earth detection.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0026"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-genetics-unverified",
+    "speaker-shift-cic-to-mari"
+  ],
+  "coverage_gaps": [
+    "reincarnation-loop-detail",
+    "genetic-engineering-claims"
+  ]
+}

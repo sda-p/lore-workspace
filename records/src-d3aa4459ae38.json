@@ -69,10 +69,11 @@
     },
     {
       "id": "src-d3aa4459ae38-c05",
-      "assertion": "Athena says lunar phases reflect sunlight on the real Moon beneath overlaid surface detail.",
+      "assertion": "Athena says lunar phases reflect sunlight; a nearly featureless surface has superimposed details.",
       "speaker": "Swaruu X (Athena)",
       "paragraph_ids": [
-        "p0014",
+        "p0015",
+        "p0016",
         "p0017"
       ],
       "primary_topic": "moon-matrix",
@@ -80,7 +81,7 @@
         "moon-matrix"
       ],
       "modality": "asserted",
-      "confidence": "medium",
+      "confidence": "high",
       "qualifiers": ""
     },
     {

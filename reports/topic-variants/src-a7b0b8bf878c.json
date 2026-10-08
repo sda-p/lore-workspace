@@ -1,0 +1,20 @@
+[
+  {
+    "proposed": {
+      "id": "project-second-contact",
+      "name": "Project Second Contact",
+      "kind": "institution",
+      "aliases": [
+        "Second Contact Project"
+      ]
+    },
+    "canonical": {
+      "id": "project-second-contact",
+      "name": "Project Second Contact",
+      "kind": "program",
+      "aliases": [
+        "Taygetan internet project"
+      ]
+    }
+  }
+]

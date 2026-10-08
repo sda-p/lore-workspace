@@ -1,0 +1,101 @@
+{
+  "source_id": "src-9947bada3803",
+  "snapshot_sha256": "96f35f0ac6736cfe15b23b5041dfc8c8d9f80ed6a2054b5b91eaae9bc6d31081",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9947bada3803-c01",
+      "assertion": "Mari says astral realms vary by vibration and awareness, extending beyond electromagnetic ranges technology can detect.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9947bada3803-c02",
+      "assertion": "She describes human astral travel as shifting awareness; dreams also involve subjective astral realms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9947bada3803-c03",
+      "assertion": "Mari alleges governments train special forces to travel astrally and sabotage rival groups.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "astral-military-units",
+      "topics": [
+        "astral-military-units",
+        "archons-and-demons"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9947bada3803-c04",
+      "assertion": "She says astral conflict reflects in living-world disorder; self-directed starseed warriors seek to contain evil forces.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "astral-military-units",
+      "topics": [
+        "astral-military-units",
+        "archons-and-demons"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9947bada3803-c05",
+      "assertion": "Mari says ordinary sleepers may perform astral missions under prenatal agreements, using bodies as bases.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "astral-military-units",
+      "topics": [
+        "astral-military-units",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "astral-warfare-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "astral-entity-taxonomy"
+  ]
+}

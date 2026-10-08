@@ -1,0 +1,70 @@
+{
+  "source_id": "src-63234070a0cd",
+  "snapshot_sha256": "b1e2e4e36a87c5352bb617a6f7887f1f900927bde07c4f4dc9c555b2c265481a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-63234070a0cd-c01",
+      "assertion": "Swaruu says Taygetans have no homosexuals and offers soul/body mismatch or depopulation agendas as explanations for Earth same-sex orientation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "soulmates"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63234070a0cd-c02",
+      "assertion": "She says souls may be intercepted by archons or return voluntarily under karmic beliefs, with gender preferences shaping future embodiment.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63234070a0cd-c03",
+      "assertion": "She says orientation does not bar ascension; she speculates people may choose a preferred gender in future lives while remaining homosexual in their current bodies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "discriminatory-sexuality-theory-attributed-to-speaker"
+  ],
+  "coverage_gaps": [
+    "cabal-agenda-claims",
+    "gender-identity-claims"
+  ]
+}

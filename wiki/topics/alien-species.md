@@ -2508,6 +2508,278 @@ Source: [Emotions - Their Power and Meaning](https://swaruu.org/transcripts/emot
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-b9ad02cc39ec-c01
+
+Alenym says Anéeka and Swaruu differ in species and density.
+
+Attributed to **Alenym**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Aneeka - Rise to the Top (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-aneeka-rise-to-the-top-part-1) (2025-10-25; en); passages p0020. [Structured record](../../records/src-b9ad02cc39ec.json).
+
+### src-41d2f89260a5-c04
+
+Anéeka says Andromedans rely on allied fighters.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 10 - Aboard Viera - Inside a Galactic Federation Starship](https://swaruu.org/transcripts/interstellar-life-10-aboard-viera-inside-a-galactic-federation-starship) (2025-06-06; en); passages p0012. [Structured record](../../records/src-41d2f89260a5.json).
+
+### src-d75dca329107-c01
+
+Mari Swaruu says her civilization’s data indicates humans require animal products, especially ruminant meat.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Problem with Food and Diet on Earth (English)](https://swaruu.org/transcripts/the-problem-with-food-and-diet-on-earth-english) (2024-04-20; en); passages p0016, p0020. [Structured record](../../records/src-d75dca329107.json).
+
+### src-d75dca329107-c03
+
+Mari Swaruu says not everyone can sustain a vegetarian diet because metabolisms differ.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Problem with Food and Diet on Earth (English)](https://swaruu.org/transcripts/the-problem-with-food-and-diet-on-earth-english) (2024-04-20; en); passages p0016, p0029. [Structured record](../../records/src-d75dca329107.json).
+
+### src-6c5c3b665064-c01
+
+Mari Swaruu says humans with similar genetics exist across many planets.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Greater Interstellar Humanity, First Part (English)](https://swaruu.org/transcripts/the-greater-interstellar-humanity-first-part-english) (2024-06-08; en); passages p0004, p0012. [Structured record](../../records/src-6c5c3b665064.json).
+
+### src-6c5c3b665064-c03
+
+Mari Swaruu names Antarians, Centauri, Engan, Taygetans, and Maya as human civilizations.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Greater Interstellar Humanity, First Part (English)](https://swaruu.org/transcripts/the-greater-interstellar-humanity-first-part-english) (2024-06-08; en); passages p0022. [Structured record](../../records/src-6c5c3b665064.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-a0be05135c11-c01
+
+Mari Swa says human Lyrians exist across many worlds and share common species traits.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [The Unity of Each Species (English)](https://swaruu.org/transcripts/the-unity-of-each-species-english) (2024-12-02; en); passages p0005, p0007, p0009. [Structured record](../../records/src-a0be05135c11.json).
+
+### src-a0be05135c11-c04
+
+Mari Swa says space-dwelling Pleiadians can experience hardship like Earth humans.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [The Unity of Each Species (English)](https://swaruu.org/transcripts/the-unity-of-each-species-english) (2024-12-02; en); passages p0012, p0014. [Structured record](../../records/src-a0be05135c11.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-b18ffa3a44a6-c05
+
+Mari Swaruu says two downed Alfratan pilots were held by a human government. The Alfratan High Command confirmed their capture.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 22. May 4th 2024, Alcyone Arriving, Black Knight Pilots, My Youtube. (English)](https://swaruu.org/transcripts/space-news-22-may-4th-2024-alcyone-arriving-black-knight-pilots-my-youtube-english) (2024-05-04; en); passages p0012, p0013. [Structured record](../../records/src-b18ffa3a44a6.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-f95f21ca391d-c05
+
+Anéeka says an unknown space-adapted animal might survive aboard the wreck.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Ancient Abandoned Lemurian Ship - Aneeka of Temmer](https://swaruu.org/transcripts/ancient-abandoned-lemurian-ship-aneeka-of-temmer) (2024-06-22; en); passages p0019, p0021. [Structured record](../../records/src-f95f21ca391d.json).
+
+### src-b13379b319a5-c01
+
+Athena says she and Yazhi are Swaruunian, not Taygetan; the Federation recognizes the name.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Higher Consciousness (PART 1)](https://swaruu.org/transcripts/athena-swaruu-spiritual-chat-with-dale-rich-2021-higher-consciousness-part-1) (2025-08-20; en); passages p0013, p0016. [Structured record](../../records/src-b13379b319a5.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-857383d23bc1-c01
+
+Mari describes moghyays as cat-sized, four-legged, wingless fruit-eating climbers native to Temmer islands.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 25, June 3, 2024, Moghyays, Alenym Unwell, Mari Swa in Control (English)](https://swaruu.org/transcripts/space-news-25-june-3-2024-moghyays-alenym-unwell-mari-swa-in-control-english) (2024-06-03; en); passages p0003, p0004. [Structured record](../../records/src-857383d23bc1.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-857383d23bc1-c02
+
+She says moghyays are warm-blooded and locally treated as birds, though they can devastate island crops.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News, 25, June 3, 2024, Moghyays, Alenym Unwell, Mari Swa in Control (English)](https://swaruu.org/transcripts/space-news-25-june-3-2024-moghyays-alenym-unwell-mari-swa-in-control-english) (2024-06-03; en); passages p0005, p0006. [Structured record](../../records/src-857383d23bc1.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-55eec113b537-c04
+
+She describes starseeds as nonhumans in human bodies who bring offworld values and experience.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [The Importance of ET Contact (English)](https://swaruu.org/transcripts/the-importance-of-et-contact-english) (2024-06-01; en); passages p0025. [Structured record](../../records/src-55eec113b537.json).
+
+Related topics: [Nexus souls](nexus-souls.md).
+
+### src-3c54f1ef569a-c01
+
+Anéeka says Homo Capensis or Elohi came from Asterope, are distant Lyrian relatives, and had protective elongated skulls without greater intelligence.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (2) - Homo Capensis - Extraterrestrial Presence on Earth (Akhenaten/Nefertiti)](https://swaruu.org/transcripts/ancient-egypt-2-homo-capensis-extraterrestrial-presence-on-earth-akhenaten-nefertiti) (2025-01-31; en); passages p0007, p0024, p0029, p0056. [Structured record](../../records/src-3c54f1ef569a.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-3f83b10b1792-c01
+
+Mari says interstellar Lyrians share human kinship through similar perception, prenatal agreements, and soul affinity.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [The Greater Interstellar Humanity, Second Part ( English )](https://swaruu.org/transcripts/the-greater-interstellar-humanity-second-part-english) (2024-06-13; en); passages p0012, p0014. [Structured record](../../records/src-3f83b10b1792.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-3f83b10b1792-c04
+
+She identifies Centauri/Alfratans as especially close to Earth humans, with Engans and Taygetans also historically involved.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [The Greater Interstellar Humanity, Second Part ( English )](https://swaruu.org/transcripts/the-greater-interstellar-humanity-second-part-english) (2024-06-13; en); passages p0022, p0023. [Structured record](../../records/src-3f83b10b1792.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-357511a0f248-c01
+
+Mari reports an Alfratan L-class Black Knight crashed in Yukon after evading a missile; both pilots died. The account came via Viera high-priority notice.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 39, Another Black Knight Crash, New Pleiadian Treaty with the Urmah (English)](https://swaruu.org/transcripts/space-news-39-another-black-knight-crash-new-pleiadian-treaty-with-the-urmah-english) (2024-09-02; en); passages p0003, p0004, p0005. [Structured record](../../records/src-357511a0f248.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-61184d950658-c01
+
+Anéeka says starseeds migrate among cultures, carrying ideas; interstellar travel also spreads customs.
+
+Attributed to **Anéeka**; asserted; extraction confidence: low.
+
+Source: [Extraterrestrial races and Humans - Intercultural Exchanges in Interstellar Societies](https://swaruu.org/transcripts/extraterrestrial-races-and-humans-intercultural-exchanges-in-interstellar-societies) (2024-11-26; en); passages p0005, p0006. [Structured record](../../records/src-61184d950658.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-61184d950658-c02
+
+She describes human-form beings as widespread, ranging from Earthlike to biologically nonhuman.
+
+Attributed to **Anéeka**; asserted; extraction confidence: low.
+
+Source: [Extraterrestrial races and Humans - Intercultural Exchanges in Interstellar Societies](https://swaruu.org/transcripts/extraterrestrial-races-and-humans-intercultural-exchanges-in-interstellar-societies) (2024-11-26; en); passages p0007, p0008. [Structured record](../../records/src-61184d950658.json).
+
+### src-050bbb7ffa95-c01
+
+Mari suspects fungus and later illness were an astral attack, but says unprovable.
+
+Attributed to **Mari**; speculative; extraction confidence: high.
+
+Source: [Space News 53, Event Report 01 (English)](https://swaruu.org/transcripts/space-news-53-event-report-01-english) (2024-12-09; en); passages p0010, p0013. [Structured record](../../records/src-050bbb7ffa95.json).
+
+### src-e34286c88397-c02
+
+Yazhi says deeper secret societies include nonhuman members and maintain agreements with offworld species.
+
+Attributed to **Gosia quoting Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [CLASS 008 - Cabal and Power Structures of Earth - Who is in Control of our Planet?](https://swaruu.org/transcripts/class-008-cabal-and-power-structures-of-earth-who-is-in-control-of-our-planet) (2025-09-30; en); passages p0036, p0037, p0038. [Structured record](../../records/src-e34286c88397.json).
+
+### src-42e3d8553c1f-c01
+
+Gosia says humanoid extraterrestrials are common and many are indistinguishable from ordinary humans.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 007 - Extraterrestrial People That Look Just Like Us \| ET Disclosure 2025](https://swaruu.org/transcripts/class-007-extraterrestrial-people-that-look-just-like-us-et-disclosure-2025) (2025-05-31; en); passages p0005, p0006. [Structured record](../../records/src-42e3d8553c1f.json).
+
+### src-42e3d8553c1f-c02
+
+Gosia says interstellar human-looking populations are called Lyrian, with origins attributed to planets orbiting Vega.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 007 - Extraterrestrial People That Look Just Like Us \| ET Disclosure 2025](https://swaruu.org/transcripts/class-007-extraterrestrial-people-that-look-just-like-us-et-disclosure-2025) (2025-05-31; en); passages p0007, p0008. [Structured record](../../records/src-42e3d8553c1f.json).
+
+### src-bddaa45917d5-c05
+
+Mari cautions against generalizing whole species, saying most Alfratans and Andromedans are positive.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Analysing the Galactic Federation and Gori’el’s Report, and the New Age (English)](https://swaruu.org/transcripts/analysing-the-galactic-federation-and-gori-el-s-report-and-the-new-age-english) (2024-07-22; en); passages p0028, p0029. [Structured record](../../records/src-bddaa45917d5.json).
+
+### src-1098d5d992f8-c01
+
+Gosia says the universe contains intelligent species of many forms, some involved with Earth for millennia.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 006 - Are We Alone in the Universe? Are Governments Hiding the Truth?](https://swaruu.org/transcripts/class-006-are-we-alone-in-the-universe-are-governments-hiding-the-truth) (2025-05-16; en); passages p0024, p0025, p0027. [Structured record](../../records/src-1098d5d992f8.json).
+
+### src-1098d5d992f8-c02
+
+Swaruu describes life as common throughout the universe rather than exceptional.
+
+Attributed to **Gosia quoting Swaruu of Erra**; reported; extraction confidence: high.
+
+Source: [CLASS 006 - Are We Alone in the Universe? Are Governments Hiding the Truth?](https://swaruu.org/transcripts/class-006-are-we-alone-in-the-universe-are-governments-hiding-the-truth) (2025-05-16; en); passages p0021. [Structured record](../../records/src-1098d5d992f8.json).
+
+### src-1098d5d992f8-c05
+
+Gosia identifies human-like extraterrestrials as among the most common forms.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [CLASS 006 - Are We Alone in the Universe? Are Governments Hiding the Truth?](https://swaruu.org/transcripts/class-006-are-we-alone-in-the-universe-are-governments-hiding-the-truth) (2025-05-16; en); passages p0029. [Structured record](../../records/src-1098d5d992f8.json).
+
+### src-b0c4a788e5de-c06
+
+She says morality depends on individuals, not species, and separates the Cabal from Elohi generally.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
+
+Source: [Ancient Egypt (3) - Meritaten, Exodus, Scotland, Cabal - Swaruu of Erra](https://swaruu.org/transcripts/ancient-egypt-3-meritaten-exodus-scotland-cabal-swaruu-of-erra) (2025-02-09; en); passages p0032, p0033, p0044. [Structured record](../../records/src-b0c4a788e5de.json).
+
+### src-8a111863ff79-c04
+
+Mari says advanced human-Lyrian societies can fall to invasive forces despite high-vibration beliefs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan Military (English)](https://swaruu.org/transcripts/taygetan-military-english) (2024-12-07; en); passages p0016. [Structured record](../../records/src-8a111863ff79.json).
+
+### src-620ccccce34a-c04
+
+Mari attributes alcohol abuse to Alfratan Federation pilots and says Taygetans avoid alcohol as toxic and spiritually risky.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfratans, Alcyone (English)](https://swaruu.org/transcripts/space-news-41-pleiadian-urmah-treaty-and-now-antaria-alcohol-and-alfratans-alcyone-english) (2024-09-07; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-620ccccce34a.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -2640,12 +2912,37 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-ed8cbef23d82-c05](consciousness-metaphysics.md#src-ed8cbef23d82-c05) — Consciousness and metaphysics
 - [src-56be9f8f16bb-c01](galactic-federation.md#src-56be9f8f16bb-c01) — Galactic Federation
 - [src-56be9f8f16bb-c03](natural-portals.md#src-56be9f8f16bb-c03) — Natural and artificial portals
+- [src-6e20d75c06ef-c04](postmortem-realities.md#src-6e20d75c06ef-c04) — Postmortem realities
+- [src-a0be05135c11-c02](consciousness-metaphysics.md#src-a0be05135c11-c02) — Consciousness and metaphysics
+- [src-a0be05135c11-c05](consciousness-metaphysics.md#src-a0be05135c11-c05) — Consciousness and metaphysics
+- [src-c3f4e5261a9c-c05](urmah.md#src-c3f4e5261a9c-c05) — Urmah
+- [src-554b76780378-c01](orion-grays.md#src-554b76780378-c01) — Orion Grays
+- [src-857383d23bc1-c05](holistic-society.md#src-857383d23bc1-c05) — Holistic society
+- [src-3c54f1ef569a-c04](intraterrestrial-civilizations.md#src-3c54f1ef569a-c04) — Intraterrestrial civilizations
+- [src-3c54f1ef569a-c05](natural-portals.md#src-3c54f1ef569a-c05) — Natural and artificial portals
+- [src-72696c075fca-c03](perceptual-density.md#src-72696c075fca-c03) — Perceptual density
+- [src-72696c075fca-c04](galactic-federation.md#src-72696c075fca-c04) — Galactic Federation
+- [src-7649b38c1b14-c01](dimensional-mirroring.md#src-7649b38c1b14-c01) — Dimensional mirroring
+- [src-f624a9cc2d74-c01](perceptual-density.md#src-f624a9cc2d74-c01) — Perceptual density
+- [src-f624a9cc2d74-c03](perceptual-density.md#src-f624a9cc2d74-c03) — Perceptual density
+- [src-357511a0f248-c05](urmah.md#src-357511a0f248-c05) — Urmah
+- [src-555d02ebcd4e-c02](solatians.md#src-555d02ebcd4e-c02) — Solatians
+- [src-dec092ce158f-c02](perceptual-density.md#src-dec092ce158f-c02) — Perceptual density
+- [src-f118e1d3885f-c02](zeta-reticuli-gardeners.md#src-f118e1d3885f-c02) — Zeta Reticuli Gardeners
+- [src-a536d40b8707-c05](alfrata.md#src-a536d40b8707-c05) — Alfrata (Phaeton)
+- [src-42e3d8553c1f-c03](starship-systems.md#src-42e3d8553c1f-c03) — Starship systems
+- [src-1098d5d992f8-c04](moon-matrix.md#src-1098d5d992f8-c04) — Moon and terrestrial Matrix
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - 3d\_5d\_dna\_comparison
+- Alcohol claims and spiritual effects are Mari’s assertions; avoid generalizing to all Alfratans
+- Australian-traffic-purpose-unknown
 - Billy\_Meier\_photo\_authenticity\_uncertain
+- Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
+- Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
+- Federation and New Age claims are Mari’s allegations and interpretations
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Higher-level free-will explanation is challenged by Gosia
 - Maitre\_relationship\_with\_Reptilians
@@ -2662,6 +2959,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - blockade-and-biology-attributed
 - claim: extraordinary abduction and biology account
 - claimed\_observation
+- claims are presented as attributed lore and quotations within a lesson
+- claims reflect Space Academy’s attributed lore
 - competing\_attributions
 - conditional\_forecast
 - conflicting\_faction\_accounts
@@ -2669,6 +2968,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - conspiracy-claims
 - conspiracy\_claims
 - contested\_extraterrestrial\_history
+- cosmology-claims\_attributed
 - coverage: 5D transition forecast
 - coverage: aircraft technical details
 - coverage: clone mechanics
@@ -2685,6 +2985,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - definition\_varies
 - dialogue-perspectives-distinguished
 - diet\_claim\_omitted
+- dietary-claims\_attributed
 - disclosure\_claims\_unverified
 - disputed\_specimen
 - dog\_import\_exception\_is\_uncertain
@@ -2709,11 +3010,16 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - faction\_claims
 - faction\_tension
 - factional-perspective-difference
+- factional-threat-interpretation-attributed-to-urmah
 - factional\_viewpoint\_conflict
 - false-invasion-not-prediction
 - fauna\_and\_ecology\_claims
 - federation\_control\_claims\_unverified
+- federation\_dispute
+- fence-control-theory-unconfirmed
+- fleet-status\_as-reported
 - frequency\_health\_claims\_unverified
+- gender-reincarnation\_views\_attributed
 - genetic-surveillance-allegations
 - health\_claims
 - higher\_plane\_genetics\_claims
@@ -2725,6 +3031,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - historical\_and\_nuclear\_claims\_unverified
 - identity-claims-unverified
 - inter-speaker-distinction
+- intercultural-claims
 - internal-contradictions
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
@@ -2757,10 +3064,12 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - population-control-allegations
 - reincarnation-model-metaphysical
 - related\_series\_part
+- reported\_plan
 - scenario-not-prediction
 - self-reported-traits
 - self\_description
 - sensitive\_claims
+- ship-specifications\_attributed
 - soul-model-metaphysical
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker-unidentified
@@ -2768,6 +3077,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - speaker\_identity\_unclear\_p0002\_p0019
 - speaker\_qualifies\_script\_claims
 - species-claims-unverified
+- species-cosmology\_attributed
 - species\_specific\_reproduction
 - starlink-observation-scope-ambiguity
 - suffering\_causality
@@ -2780,6 +3090,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - translation\_approximation\_navajo\_inuit
 - ufo\_researcher\_critique
 - unsupported\_planetary\_claims
+- unverified-spiritual-attack-interpretation
 - unverified\_agency\_claims
 - unverified\_antarctica\_claims
 - unverified\_archaeology
@@ -2795,3 +3106,4 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - virus-account-internal-tension
 - warrior\_symbolism
 - weather\_claims
+- wreck-origin\_uncertain

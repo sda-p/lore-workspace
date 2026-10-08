@@ -1,0 +1,80 @@
+{
+  "source_id": "src-2a59653712d3",
+  "snapshot_sha256": "924c44c27f7e0aa9bbf0fa3c2bc2122d7797330584f32092c2c8b16bc677a56f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2a59653712d3-c01",
+      "assertion": "Anéeka says low-orbit suspension requires velocity to balance gravity; the vessel’s changing equatorial track surveys most of Earth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes the vessel’s current orbit."
+    },
+    {
+      "id": "src-2a59653712d3-c02",
+      "assertion": "Anéeka’s intelligence team monitors Earth communications; quantum holographic computers process a claimed billion terabytes per second and infer population reactions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0071",
+        "p0073",
+        "p0074",
+        "p0075",
+        "p0076"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her estimate."
+    },
+    {
+      "id": "src-2a59653712d3-c03",
+      "assertion": "Taygetan First Contact began as a planned 500-person online effort; it was canceled, then continued with fewer than 20 contact-ready people.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0058",
+        "p0090"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Federation rules limit contact to text."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-first-contact-project",
+      "name": "Taygetan First Contact Project",
+      "kind": "institution",
+      "aliases": [
+        "Primer Contacto"
+      ]
+    }
+  ],
+  "review_flags": [
+    "computer-throughput-claim-attributed"
+  ],
+  "coverage_gaps": [
+    "aneeka-personal-background",
+    "taygetan-education-archives"
+  ]
+}

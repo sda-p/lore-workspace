@@ -67,10 +67,13 @@ Related topics: [Natural and artificial portals](natural-portals.md).
 - [src-0d8c0f4f7056-c01](tiamat.md#src-0d8c0f4f7056-c01) — Tiamat
 - [src-db55ee8f9480-c01](consciousness-singularity.md#src-db55ee8f9480-c01) — Consciousness singularity
 - [src-db55ee8f9480-c02](consciousness-singularity.md#src-db55ee8f9480-c02) — Consciousness singularity
+- [src-6ce55fb86338-c03](tiamat.md#src-6ce55fb86338-c03) — Tiamat
 
 ## Review flags
 
 - extraordinary\_astronomical\_claims
 - extraordinary\_cosmology\_claims
+- internal-date-tension
 - metaphysical-claims
+- unproven-historical-speculation
 - unverified\_cosmology\_and\_technology

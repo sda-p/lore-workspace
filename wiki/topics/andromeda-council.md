@@ -24,6 +24,14 @@ Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
 
 Source: [Pluto and why it was degraded to Planetoid - Swaruu of Erra](https://swaruu.org/transcripts/pluto-and-why-it-was-degraded-to-planetoid-swaruu-of-erra) (2023-01-30; en); passages p0014, p0015. [Structured record](../../records/src-103854c694ff.json).
 
+### src-679ef96054ba-c05
+
+Mari says the Andromedan planned to relay her requests and affirmed interest in strengthening Andromedan–Taygetan relations.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politics (English)](https://swaruu.org/transcripts/taygeta-space-news-37-galactic-federation-update-taygetan-exo-politics-english) (2024-08-24; en); passages p0018, p0022, p0023. [Structured record](../../records/src-679ef96054ba.json).
+
 ## Claims filed under other topics
 
 - [src-22d5f1e26b59-c01](alcyone-council.md#src-22d5f1e26b59-c01) — Alcyone Council
@@ -33,6 +41,7 @@ Source: [Pluto and why it was degraded to Planetoid - Swaruu of Erra](https://sw
 
 ## Review flags
 
+- Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
 - astronomical-claims-unverified
 - conflicting\_faction\_accounts
 - conspiracy\_claims

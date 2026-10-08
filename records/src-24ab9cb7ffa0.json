@@ -1,0 +1,129 @@
+{
+  "source_id": "src-24ab9cb7ffa0",
+  "snapshot_sha256": "d2a917cde025d96c8f4027dd952e6fa653340a7378a3005c4ad78ed3aa25e995",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-24ab9cb7ffa0-c01",
+      "assertion": "City, island, and planetary councils form a nested Taygetan system; any citizen may serve.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-24ab9cb7ffa0-c02",
+      "assertion": "She says Taygeta has no countries or artificial borders.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-24ab9cb7ffa0-c03",
+      "assertion": "Taygeta has no formal government; experienced councilors serve without coercive authority.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-24ab9cb7ffa0-c04",
+      "assertion": "Unique frequencies identify citizens; telepathy allows openness and mental firewalls protect privacy.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-24ab9cb7ffa0-c05",
+      "assertion": "Abundance limits material crime; SAR handles fights and therapy centers replace prisons.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0028",
+        "p0032"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-24ab9cb7ffa0-c06",
+      "assertion": "Swaruu says Taygetan children recall past lives around age thirteen, with some earlier and others later.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0053",
+        "p0054",
+        "p0056"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-24ab9cb7ffa0-c07",
+      "assertion": "Standard private ships are discoidal; small sport craft lack warp capability.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "species-language-distinction",
+    "social-health-practices",
+    "arts-and-music"
+  ]
+}

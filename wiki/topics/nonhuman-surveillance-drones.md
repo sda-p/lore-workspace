@@ -78,8 +78,17 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [You are never really alone, Part 3, Technological surveillance (English)](https://swaruu.org/transcripts/you-are-never-really-alone-part-3-technological-surveillance-english) (2023-12-26; en); passages p0028, p0030. [Structured record](../../records/src-3ea817d6282d.json).
 
+### src-6825f8d595d8-c05
+
+Athena says Yazhi replicated webcams to expose Taygetan surveillance drones monitoring starseeds; Taygetans say surveillance is limited to research or danger.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-past-anecdotes-life-on-the-ship-part-4) (2024-10-07; en); passages p0041, p0043, p0045, p0047, p0049, p0051. [Structured record](../../records/src-6825f8d595d8.json).
+
 ## Review flags
 
+- Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - conspiracy\_claims
 - disaster-causation-unverified
 - policy-claims-unverified

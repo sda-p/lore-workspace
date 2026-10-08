@@ -66,12 +66,38 @@ Source: [Why there is no Real History and a bit of What We Know (English)](https
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+### src-6ce55fb86338-c04
+
+She suspects Tartarian buildings were buried by global mudflows around 1800–1850, possibly exploited as a social reset.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: low.
+
+Source: [Did the last Global Deluge happen less than 200 years ago? (English)](https://swaruu.org/transcripts/did-the-last-global-deluge-happen-less-than-200-years-ago-english) (2024-10-31; en); passages p0018, p0019, p0021, p0024, p0028. [Structured record](../../records/src-6ce55fb86338.json).
+
+Related topics: [Global deluge](global-deluge.md).
+
+### src-9afde86ad754-c03
+
+She dates a reset to 1750–1850 and suspects Earth had an advanced, perhaps interstellar civilization.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [You are Experiencing the last stages of a total Cultural and Social Reset (English)](https://swaruu.org/transcripts/you-are-experiencing-the-last-stages-of-a-total-cultural-and-social-reset-english) (2024-05-27; en); passages p0021, p0022. [Structured record](../../records/src-9afde86ad754.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
 ## Claims filed under other topics
 
 - [src-5f504bef5a30-c01](terrestrial-science.md#src-5f504bef5a30-c01) — Terrestrial science
 - [src-5f504bef5a30-c04](galactic-federation.md#src-5f504bef5a30-c04) — Galactic Federation
+- [src-6ce55fb86338-c01](global-deluge.md#src-6ce55fb86338-c01) — Global deluge
+- [src-9afde86ad754-c02](earth-cabal.md#src-9afde86ad754-c02) — Earth Cabal and power structures
 
 ## Review flags
 
 - conspiracy\_claims
+- internal-date-tension
+- speaker-speculation
+- unproven-historical-speculation
+- unverified-reset-claims
 - unverified\_historical\_claims

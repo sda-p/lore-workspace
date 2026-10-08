@@ -1,0 +1,131 @@
+{
+  "source_id": "src-45ef563e0d5a",
+  "snapshot_sha256": "d22929aab644abbab36bd07b011bdea5e9ec307dc674379d7b3b96142f966f38",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-45ef563e0d5a-c01",
+      "assertion": "Swaruu describes post-Tiamat Egypt as a Federation base where multiple races guided Lyrian natives.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "galactic-federation",
+        "tiamat",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ef563e0d5a-c02",
+      "assertion": "She says pyramids powered lights in underground facilities and the city above.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ef563e0d5a-c03",
+      "assertion": "Dhor says the Prime Directive exempted interstellar Egypt but governs contact with non-interstellar Earth.",
+      "speaker": "Dhor Káal'el",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ef563e0d5a-c04",
+      "assertion": "Dhor links Egypt’s interstellar decline to Reptilian power gains under Akhenaton and Nefertiti.",
+      "speaker": "Dhor Káal'el",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0024",
+        "p0026",
+        "p0030"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ef563e0d5a-c05",
+      "assertion": "Swaruu says Egyptian gods exaggerated stellar beings, with Horus representing a ship.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ef563e0d5a-c06",
+      "assertion": "Swaruu portrays post-flood Egypt as peaceful, equitable, slave-free, and advanced in healing.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "ancient-egypt",
+      "name": "Ancient Egypt",
+      "kind": "historical civilization",
+      "aliases": [
+        "Egypt",
+        "Egyptian civilization"
+      ]
+    }
+  ],
+  "review_flags": [
+    "translated-originally-Spanish"
+  ],
+  "coverage_gaps": [
+    "Egyptian chronology",
+    "pyramids as infrastructure",
+    "historical deification"
+  ]
+}

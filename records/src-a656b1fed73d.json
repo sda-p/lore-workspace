@@ -1,0 +1,171 @@
+{
+  "source_id": "src-a656b1fed73d",
+  "snapshot_sha256": "495ac35c422231e4694e3db0f3dd52ba93b78a8e0f0988819b970a6e766db296",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a656b1fed73d-c01",
+      "assertion": "Earth’s war is informational; divergent perceptions fracture shared timelines.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0005",
+        "p0009",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a656b1fed73d-c02",
+      "assertion": "Swaruu lists outcomes—control, debt reset, prosperity—plus separate alien intervention.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0024",
+        "p0029",
+        "p0034",
+        "p0038"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a656b1fed73d-c03",
+      "assertion": "She says Federation intervention requires mass suicide or lethal pandemic; nuclear war is improbable.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0044",
+        "p0046",
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a656b1fed73d-c04",
+      "assertion": "Broken shared timelines split into personal variants through perception agreements.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0127",
+        "p0129",
+        "p0132",
+        "p0133",
+        "p0141",
+        "p0145"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a656b1fed73d-c05",
+      "assertion": "Swaruu urges continuous mass meditation to shift collective reality.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0078",
+        "p0080",
+        "p0085",
+        "p0087",
+        "p0090",
+        "p0091"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a656b1fed73d-c06",
+      "assertion": "Review information critically and own beliefs, says Swaruu.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0151",
+        "p0157",
+        "p0158",
+        "p0159",
+        "p0160"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a656b1fed73d-c07",
+      "assertion": "Swaruu says personal focus can resist dominant collective frequency if sustained.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0174",
+        "p0175",
+        "p0176",
+        "p0187",
+        "p0188",
+        "p0190",
+        "p0191"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a656b1fed73d-c08",
+      "assertion": "Swaruu says thought shapes reality more than external action.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0205",
+        "p0206",
+        "p0207",
+        "p0210",
+        "p0211"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes"
+  ],
+  "coverage_gaps": [
+    "specific health-control mechanisms and later timeline developments"
+  ]
+}

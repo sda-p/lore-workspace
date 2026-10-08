@@ -1,0 +1,117 @@
+{
+  "source_id": "src-68f35a90f3f7",
+  "snapshot_sha256": "a5d53a55522f7a31d1b4d6168642510d86ded6b04789adbac8b1fc3da583d5d9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-68f35a90f3f7-c01",
+      "assertion": "Swaruu describes gravity as an etheric flow that forms matter.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68f35a90f3f7-c02",
+      "assertion": "Tractor beams use counter-rotating mercury turbines to generate controlled gravity for moving objects.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68f35a90f3f7-c03",
+      "assertion": "Holographic lenses and nano-electromagnets shape beams that can project or manifest solid objects.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68f35a90f3f7-c04",
+      "assertion": "She says tractor beams create crop circles by restructuring stalk frequencies, leaving weak, harmless radiation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68f35a90f3f7-c05",
+      "assertion": "Ships map gravitational fields with magnetic sensors and superconducting quantum-interference sensors.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68f35a90f3f7-c06",
+      "assertion": "Ships match their harmonics to a destination for quantum or warp jumps through ether.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "full-map-calculation",
+    "tractor-beam-limitations",
+    "frequency-math"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "src-32e031c42dc5",
+  "snapshot_sha256": "ce48c64fa8fdf98507843d0e43197b24d4c8b481e036676d7d437349b5c3efe0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-32e031c42dc5-c01",
+      "assertion": "Dhor says superluminal travel is instantaneous, while perceived onboard SIT varies by crew consciousness.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0010"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32e031c42dc5-c02",
+      "assertion": "Unmapped destinations and changing temporal frequencies can strand ships without accurate stellar maps.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0020",
+        "p0034",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32e031c42dc5-c03",
+      "assertion": "Ships can pass through solid obstacles by shifting frequency.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32e031c42dc5-c04",
+      "assertion": "Ship AI can detect starseeds and amplify its owner’s consciousness for mental flight control.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0068",
+        "p0070"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32e031c42dc5-c05",
+      "assertion": "Dhor describes ether jumps as combat maneuvers that reposition a ship behind an enemy.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32e031c42dc5-c06",
+      "assertion": "Dhor says ships use suns as portals and their toroids shield against solar radiation.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0089",
+        "p0090",
+        "p0097",
+        "p0098",
+        "p0100"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "ship-maintenance",
+    "crew-comfort",
+    "water-and-food",
+    "high-density-limits"
+  ]
+}

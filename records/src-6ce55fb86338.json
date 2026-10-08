@@ -1,0 +1,113 @@
+{
+  "source_id": "src-6ce55fb86338",
+  "snapshot_sha256": "d6b501419d8689d84de181ab0531802979b2da8690254e94879606581a0e1feb",
+  "language": "en",
+  "proposed_topics": [
+    {
+      "id": "global-deluge",
+      "name": "Global deluge",
+      "kind": "historical event",
+      "aliases": [
+        "universal deluge"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unproven-historical-speculation",
+    "internal-date-tension"
+  ],
+  "coverage_gaps": [
+    "alternative-flood-mechanisms"
+  ],
+  "claims": [
+    {
+      "id": "src-6ce55fb86338-c01",
+      "assertion": "Mari calls this a revisable theory without proof, based on circumstantial evidence.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "global-deluge",
+      "topics": [
+        "global-deluge",
+        "tartaria"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ce55fb86338-c02",
+      "assertion": "Her account relays Federation data: oceanic Tiamat between Mars and Jupiter was destroyed in war 12,500 years ago.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ce55fb86338-c03",
+      "assertion": "She says Tiamat’s water fell on planets as rain; the asteroid belt is mostly icy debris, with solid planetary remnants.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0026"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "black-holes"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ce55fb86338-c04",
+      "assertion": "She suspects Tartarian buildings were buried by global mudflows around 1800–1850, possibly exploited as a social reset.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0024",
+        "p0028"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria",
+        "global-deluge"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ce55fb86338-c05",
+      "assertion": "Temmer days last 4.6 Earth days, she says, complicating dates; Tiamat’s destruction may be far more recent.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0027"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "tiamat"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ]
+}

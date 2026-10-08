@@ -218,6 +218,70 @@ Source: [Emotions - Their Power and Meaning](https://swaruu.org/transcripts/emot
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-2dc889901b55-c05
+
+Mari Swa describes fear-fed egregors as collective manifestations that reinforce distress.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Thoughts on the Astral. Part 2 (English)](https://swaruu.org/transcripts/thoughts-on-the-astral-part-2-english) (2024-09-16; en); passages p0018, p0019. [Structured record](../../records/src-2dc889901b55.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-2dc889901b55-c06
+
+Mari Swa says individual habits and fears can manifest personal astral parasites.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Thoughts on the Astral. Part 2 (English)](https://swaruu.org/transcripts/thoughts-on-the-astral-part-2-english) (2024-09-16; en); passages p0020, p0021. [Structured record](../../records/src-2dc889901b55.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-72e66bf3c62a-c01
+
+Athena says collective dark thoughts can manifest as egregors; fear and attention feed them.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [High Frequency and Bad Events - Athena and Yazhi Swaruu](https://swaruu.org/transcripts/high-frequency-and-bad-events-athena-and-yazhi-swaruu) (2024-06-06; en); passages p0006, p0008, p0010. [Structured record](../../records/src-72e66bf3c62a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-72e66bf3c62a-c02
+
+She says positivity without awareness can leave societies vulnerable; understanding danger matters alongside kindness.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [High Frequency and Bad Events - Athena and Yazhi Swaruu](https://swaruu.org/transcripts/high-frequency-and-bad-events-athena-and-yazhi-swaruu) (2024-06-06; en); passages p0018, p0021, p0023. [Structured record](../../records/src-72e66bf3c62a.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-af94d1557c05-c03
+
+Mari says collective religious beliefs can manifest distinct existential realms inhabited by souls and entities.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [On Souls and Entities, Life and Death from the point of view of a Spirit](https://swaruu.org/transcripts/on-souls-and-entities-life-and-death-from-the-point-of-view-of-a-spirit) (2024-05-16; en); passages p0007, p0009, p0010. [Structured record](../../records/src-af94d1557c05.json).
+
+### src-f8cf4e785330-c01
+
+Yazhi defines tulpas as strong ideas and reality as shared agreements of ideas.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu (2021)](https://swaruu.org/transcripts/tulpas-everything-is-a-tulpa-metaphysical-chat-with-yazhi-swaruu-2021) (2024-10-11; en); passages p0003, p0004, p0005. [Structured record](../../records/src-f8cf4e785330.json).
+
+### src-f8cf4e785330-c05
+
+Yazhi says harmful tulpas feed on suffering and high-vibration people reject their ideas.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu (2021)](https://swaruu.org/transcripts/tulpas-everything-is-a-tulpa-metaphysical-chat-with-yazhi-swaruu-2021) (2024-10-11; en); passages p0027, p0034, p0036, p0038. [Structured record](../../records/src-f8cf4e785330.json).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c03](postmortem-realities.md#src-331beeab2088-c03) — Postmortem realities
@@ -232,11 +296,15 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-8eced7b30a4d-c02](consciousness-metaphysics.md#src-8eced7b30a4d-c02) — Consciousness and metaphysics
 - [src-04f196994778-c01](archons-and-demons.md#src-04f196994778-c01) — Archons and demons
 - [src-04f196994778-c05](archons-and-demons.md#src-04f196994778-c05) — Archons and demons
+- [src-9c1661abc463-c02](consciousness-metaphysics.md#src-9c1661abc463-c02) — Consciousness and metaphysics
 
 ## Review flags
 
+- These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
+- These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
 - conspiracy-claims
 - conspiracy\_claims
+- metaphysical-claims\_attributed
 - metaphysical-model
 - paranormal-claims-unverified
 - personal\_metaphysics

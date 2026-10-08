@@ -380,6 +380,82 @@ Source: [Audio and Music Conspiracy Detected (English)](https://swaruu.org/trans
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-41aeba88905d-c02
+
+Mari Swaruu says waste heat becomes electricity for the ship grid.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Garbage Dump Mistake gone Horribly Wrong (English)](https://swaruu.org/transcripts/garbage-dump-mistake-gone-horribly-wrong-english) (2024-09-26; en); passages p0004, p0005. [Structured record](../../records/src-41aeba88905d.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-682e0b02c3c5-c05
+
+Anéeka says clean energy reactors couple material and etheric poles through magnets.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Questions and Answers - Swaruu of Erra and Aneeka of Temmer](https://swaruu.org/transcripts/questions-and-answers-swaruu-of-erra-and-aneeka-of-temmer) (2025-04-29; en); passages p0020, p0021. [Structured record](../../records/src-682e0b02c3c5.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-fea991df8ac7-c01
+
+Athena describes pyramids as atmospheric depolarization reactors and portals, less efficient than ship-based zero-point systems.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (6) - Revealing Ancient History - Questions (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-6-revealing-ancient-history-questions-athena-swaruu) (2025-03-23; en); passages p0096, p0098. [Structured record](../../records/src-fea991df8ac7.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
+### src-fea991df8ac7-c02
+
+Athena says aquifers improve ground conductivity and ancient building materials retain energy frequencies.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (6) - Revealing Ancient History - Questions (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-6-revealing-ancient-history-questions-athena-swaruu) (2025-03-23; en); passages p0009, p0013. [Structured record](../../records/src-fea991df8ac7.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
+### src-fea991df8ac7-c03
+
+Athena says Serapeum boxes were capacitor containers within an ancient electricity network.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (6) - Revealing Ancient History - Questions (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-6-revealing-ancient-history-questions-athena-swaruu) (2025-03-23; en); passages p0028, p0029, p0033. [Structured record](../../records/src-fea991df8ac7.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
+### src-36012d587a34-c03
+
+Yazhi describes two zero-point reactors powering counter-rotating electromagnetic plasma turbines.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 6A - Taygetan Pleiadian Special Fighter Crafts - Yazhi and Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-6a-taygetan-pleiadian-special-fighter-crafts-yazhi-and-athena-swaruu) (2024-07-18; en); passages p0033, p0037. [Structured record](../../records/src-36012d587a34.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-a51af977308e-c02
+
+Mari says Toleka City’s tall buildings collect atmospheric electricity through air-ground charge differences.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News, 30, July 01, 2024,?️, Hurricane in Temmer, Aftermath (English)](https://swaruu.org/transcripts/space-news-30-july-01-2024-hurricane-in-temmer-aftermath-english) (2024-07-01; en); passages p0009, p0010. [Structured record](../../records/src-a51af977308e.json).
+
+### src-d3aa4459ae38-c03
+
+Athena rejects neutron-star mining for energy, citing zero-point power; she says minerals are mined, not stars.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) (2024-11-18; en); passages p0008, p0010. [Structured record](../../records/src-d3aa4459ae38.json).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -413,9 +489,17 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-b781192c3a3d-c03](starship-systems.md#src-b781192c3a3d-c03) — Starship systems
 - [src-28ddf6479cea-c01](gravity-harmonics.md#src-28ddf6479cea-c01) — Gravity harmonics
 - [src-28ddf6479cea-c03](starship-systems.md#src-28ddf6479cea-c03) — Starship systems
+- [src-b9ad02cc39ec-c05](holistic-society.md#src-b9ad02cc39ec-c05) — Holistic society
+- [src-55f8a18447af-c01](starship-systems.md#src-55f8a18447af-c01) — Starship systems
+- [src-f97a14514a47-c02](taygetan-wireless-power-grid.md#src-f97a14514a47-c02) — Taygetan wireless power grid
+- [src-fd371d9f8fcd-c03](starship-systems.md#src-fd371d9f8fcd-c03) — Starship systems
+- [src-7288ab90f589-c04](starship-systems.md#src-7288ab90f589-c04) — Starship systems
+- [src-722b52946af6-c06](spherical-drones.md#src-722b52946af6-c06) — Spherical drones
+- [src-6abed4268d57-c03](natural-portals.md#src-6abed4268d57-c03) — Natural and artificial portals
 
 ## Review flags
 
+- These are attributed dialogue claims; terminology for Hyades varies by convention
 - alternative-weapons-claims
 - conflicting\_primary\_purpose\_claims
 - conspiracy\_claims
@@ -429,13 +513,21 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - extraordinary\_metaphysical\_claims
 - extraordinary\_physics\_claims
 - extraordinary\_technology\_claims
+- federation\_dispute
+- historical and technological interpretations are attributed to Athena
 - historical-claims-unverified
 - internal\_uncertainty
 - lunar-reactor-age-origin-uncertainty
 - medical-claims-unverified
 - metaphysical-claims
+- narrator\_claims
+- nonhuman-technology\_claims\_attributed
 - nuclear\_science\_misinformation
+- portal-technology-claims-unverified
 - prior\_statement\_conflict
+- reported\_plan
+- second-contact-stoppage-attributed-to-yazhi
+- species-description\_attributed
 - starlink-observation-scope-ambiguity
 - technology\_claims
 - transport\_safety\_and\_policy\_claims\_unverified

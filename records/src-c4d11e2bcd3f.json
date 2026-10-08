@@ -1,0 +1,114 @@
+{
+  "source_id": "src-c4d11e2bcd3f",
+  "snapshot_sha256": "8a5e872f0d877a3c89333b0212fc524cf2ec0f208880e74ddbfc090f108c8acf",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c4d11e2bcd3f-c01",
+      "assertion": "Yazhi says weapons called nuclear on Earth use undisclosed energy methods, not the described fission mechanism.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0015"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4d11e2bcd3f-c02",
+      "assertion": "She accepts nuclear heat generation and radioactive decay, but questions bomb chain reactions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4d11e2bcd3f-c03",
+      "assertion": "Yazhi proposes some blasts are zero-point/plasma expansions; she says their images may be staged.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4d11e2bcd3f-c04",
+      "assertion": "Yazhi confirms ET craft neutralize the described weapons but disputes Earth’s nuclear explanation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4d11e2bcd3f-c05",
+      "assertion": "A later passage describes uranium compression triggering a chain reaction, conflicting with her earlier critique.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0032"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4d11e2bcd3f-c06",
+      "assertion": "Yazhi says starseeds always entered Earth, not only after Hiroshima-era tests.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved"
+  ],
+  "coverage_gaps": [
+    "Tiamat weapons and alleged 2008 Toleka strike"
+  ]
+}

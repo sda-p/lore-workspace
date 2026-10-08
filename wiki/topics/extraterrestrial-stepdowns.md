@@ -94,13 +94,127 @@ Source: [On Aliens, Extraterrestrials and Toothbrushes (English)](https://swaruu
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-a0d86f489b86-c05
+
+Mari Swaruu warns contact may disrupt starseed plans.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Remembering Past Lives 2, Implanted Memories, Walk-Ins and Extreme Gaslighting (English)](https://swaruu.org/transcripts/remembering-past-lives-2-implanted-memories-walk-ins-and-extreme-gaslighting-english) (2024-08-10; en); passages p0022. [Structured record](../../records/src-a0d86f489b86.json).
+
+### src-73198a2de79a-c03
+
+Mari Swa says Alenym served as an Earth stepdown before the High Council extracted her to claim the throne.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [What it is like to be the Taygetan Princess Queen and a Youtuber, Part 1, Queen Alenym. (English)](https://swaruu.org/transcripts/what-it-is-like-to-be-the-taygetan-princess-queen-and-a-youtuber-part-1-queen-alenym-english) (2024-07-15; en); passages p0013, p0014. [Structured record](../../records/src-73198a2de79a.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-2b891f3fac7b-c03
+
+Mari Swa says starseeds need not follow a mission; their presence alone influences Earth.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [The Astral Warriors, Part 2. Episode 4. Star Seeds and their Mission (English)](https://swaruu.org/transcripts/the-astral-warriors-part-2-episode-4-star-seeds-and-their-mission-english) (2024-10-10; en); passages p0006. [Structured record](../../records/src-2b891f3fac7b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2b891f3fac7b-c06
+
+Mari Swa says starseeds also resist through activism and helping others.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [The Astral Warriors, Part 2. Episode 4. Star Seeds and their Mission (English)](https://swaruu.org/transcripts/the-astral-warriors-part-2-episode-4-star-seeds-and-their-mission-english) (2024-10-10; en); passages p0014, p0016. [Structured record](../../records/src-2b891f3fac7b.json).
+
+### src-f853da2d0bcd-c03
+
+Mari recalls arriving on Earth as a step-down at age eight around 2016, but photos suggest 2013–14. Date discrepancy within her account.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [I am Mari Swa (English)](https://swaruu.org/transcripts/i-am-mari-swa-english) (2024-07-25; en); passages p0009. [Structured record](../../records/src-f853da2d0bcd.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-5eead64421cb-c02
+
+She says many stepdowns build real lives on Earth while concealing nonhuman origins.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Step Down Anecdotes and Stories Number 1, Unwanted Visitors (English)](https://swaruu.org/transcripts/step-down-anecdotes-and-stories-number-1-unwanted-visitors-english) (2024-07-27; en); passages p0006, p0007. [Structured record](../../records/src-5eead64421cb.json).
+
+Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
+
+### src-5eead64421cb-c04
+
+As a child, Mari’s mother summoned a hidden Suzy ship via makeup-kit communicator, fearing agents; visitors only returned lost keys.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Step Down Anecdotes and Stories Number 1, Unwanted Visitors (English)](https://swaruu.org/transcripts/step-down-anecdotes-and-stories-number-1-unwanted-visitors-english) (2024-07-27; en); passages p0010, p0020, p0021, p0026. [Structured record](../../records/src-5eead64421cb.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-5eead64421cb-c05
+
+Mari says maintaining a human facade and absorbing others’ social energy can exhaust stepdowns, who need solitude.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Step Down Anecdotes and Stories Number 1, Unwanted Visitors (English)](https://swaruu.org/transcripts/step-down-anecdotes-and-stories-number-1-unwanted-visitors-english) (2024-07-27; en); passages p0014. [Structured record](../../records/src-5eead64421cb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-347d74ef65e6-c04
+
+Mari warns that extraction may bring guilt, remorse, and reduced motivation rather than solve problems.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Two most Self-destructive, Star Seed Beliefs (English)](https://swaruu.org/transcripts/the-two-most-self-destructive-star-seed-beliefs-english) (2024-07-06; en); passages p0023, p0024, p0025, p0032, p0033. [Structured record](../../records/src-347d74ef65e6.json).
+
+### src-347d74ef65e6-c05
+
+Mari says extraction should be offered rather than demanded, given family constraints and Federation rules.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Two most Self-destructive, Star Seed Beliefs (English)](https://swaruu.org/transcripts/the-two-most-self-destructive-star-seed-beliefs-english) (2024-07-06; en); passages p0034, p0035, p0036, p0037. [Structured record](../../records/src-347d74ef65e6.json).
+
+### src-6825f8d595d8-c02
+
+Yazhi reports a cracked hip and other injuries after a wheelchair mishap; Andromedans planned frequency-laser treatment.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-past-anecdotes-life-on-the-ship-part-4) (2024-10-07; en); passages p0009, p0010. [Structured record](../../records/src-6825f8d595d8.json).
+
 ## Claims filed under other topics
 
 - [src-e1b4f8c5afc0-c03](alien-species.md#src-e1b4f8c5afc0-c03) — Alien species and distinctions
+- [src-4bcc1973bc1e-c05](postmortem-realities.md#src-4bcc1973bc1e-c05) — Postmortem realities
+- [src-8a20bf02262a-c05](hashmallim.md#src-8a20bf02262a-c05) — Hashmallim
+- [src-3f83b10b1792-c05](nexus-souls.md#src-3f83b10b1792-c05) — Nexus souls
+- [src-5eead64421cb-c01](alfrata.md#src-5eead64421cb-c01) — Alfrata (Phaeton)
+- [src-5eead64421cb-c03](earth-cabal.md#src-5eead64421cb-c03) — Earth Cabal and power structures
 
 ## Review flags
 
+- Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
+- arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - historical-claims-unverified
 - identity-claims-unverified
+- metaphysical-claims\_attributed
+- metaphysical\_claims\_attributed
+- military-claims\_attributed
+- pathogen-claim\_attributed
+- personal-childhood-anecdote
+- political-narrative\_attributed
 - rescue-anecdotes-unverified
 - spiritual-warfare-claims
+- visitors-identified-as-key-returners

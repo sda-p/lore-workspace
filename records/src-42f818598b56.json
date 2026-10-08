@@ -1,0 +1,116 @@
+{
+  "source_id": "src-42f818598b56",
+  "snapshot_sha256": "f6b841f28f11d55728b1899a1f7085dadfedba0d9d161f09482a96099601f8bf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-42f818598b56-c01",
+      "assertion": "Rashell officially represents Taygeta on its High Council and before the Federation.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42f818598b56-c02",
+      "assertion": "She says Taygetans arrived in 1952 after nuclear tests; about forty craft were downed by the 1970s, none Taygetan.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42f818598b56-c03",
+      "assertion": "Microwave radar could blind craft sensors; Taygetan ships had backup propulsion.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0027"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42f818598b56-c04",
+      "assertion": "Two Sand Clock crews traveled from 1952 to 1937 to disrupt Nazi nuclear research, partly succeeding.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0053",
+        "p0058",
+        "p0060",
+        "p0062"
+      ],
+      "primary_topic": "sand-clock",
+      "topics": [
+        "sand-clock"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42f818598b56-c05",
+      "assertion": "Zeta Reticuli Grays are positive gardeners; Orion Maitré are distinct and linked to Reptiles.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0033",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42f818598b56-c06",
+      "assertion": "Rashell says Eisenhower signed a technology-for-abductions treaty, though his Cabal role is unclear.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0042",
+        "p0044"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences."
+  ],
+  "coverage_gaps": [
+    "Maitre-Mars-presence",
+    "Agartha-relations",
+    "Rashell-Antarian-heritage"
+  ]
+}

@@ -358,6 +358,46 @@ Source: [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](h
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-fe44b9d9c0b3-c04
+
+She says sentient holographic computers emit question-frequencies that draw matching answers from an atemporal quantum field, without locating a source computer.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Dimensional Mirrors 4 - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dimensional-mirrors-4-questions-from-the-public-yazhi-swaruu) (2024-05-19; en); passages p0032, p0036, p0037, p0039, p0041. [Structured record](../../records/src-fe44b9d9c0b3.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-c0ea4ddd8632-c05
+
+Swaruu says holographic computers would burn digital computers, and populating DUFES’s site with stellar data violated the Prime Directive.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: low.
+
+Source: [Swaruu of Erra and Shady Events in 2019 - Relevant for Today?](https://swaruu.org/transcripts/swaruu-of-erra-and-shady-events-in-2019-relevant-for-today) (2025-07-23; en); passages p0100, p0101, p0102. [Structured record](../../records/src-c0ea4ddd8632.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-293f7dd241ff-c02
+
+Mari says thought interfaces read intentions through the quantum field, avoiding invasive brainwave sensors.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Full Immersion Communication Technology, Part One, Applications (English)](https://swaruu.org/transcripts/full-immersion-communication-technology-part-one-applications-english) (2024-06-17; en); passages p0007, p0008. [Structured record](../../records/src-293f7dd241ff.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f118e1d3885f-c03
+
+Mari says human-AI takeover theories require a still-unsolved interface between incompatible computer systems.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Space News 21. April 25 2024, Kassia, Etorthans, Greys, Toleka, Asterope, My Youtube (English)](https://swaruu.org/transcripts/space-news-21-april-25-2024-kassia-etorthans-greys-toleka-asterope-my-youtube-english) (2024-04-25; en); passages p0011, p0012. [Structured record](../../records/src-f118e1d3885f.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
 ## Claims filed under other topics
 
 - [src-f22366424c26-c01](moon-matrix.md#src-f22366424c26-c01) — Moon and terrestrial Matrix
@@ -379,9 +419,15 @@ Related topics: [Taygetans](taygetans.md).
 - [src-378a8741723b-c02](starship-systems.md#src-378a8741723b-c02) — Starship systems
 - [src-67a7fcd528f7-c04](moon-matrix.md#src-67a7fcd528f7-c04) — Moon and terrestrial Matrix
 - [src-fd364b9ee561-c05](terrestrial-science.md#src-fd364b9ee561-c05) — Terrestrial science
+- [src-fd371d9f8fcd-c01](starship-systems.md#src-fd371d9f8fcd-c01) — Starship systems
+- [src-03ea45d7d724-c01](total-immersion-simulations.md#src-03ea45d7d724-c01) — Total-immersion simulations
+- [src-293f7dd241ff-c01](total-immersion-simulations.md#src-293f7dd241ff-c01) — Total-immersion simulations
+- [src-f6a0faeb1f8f-c01](maternal-med-pods.md#src-f6a0faeb1f8f-c01) — Maternal medical pods
+- [src-f6a0faeb1f8f-c04](starship-systems.md#src-f6a0faeb1f8f-c04) — Starship systems
 
 ## Review flags
 
+- Alenym-retirement-not-decided
 - ai-clone-claims-attributed
 - blockade-and-biology-attributed
 - contested-space-history-allegation
@@ -393,10 +439,14 @@ Related topics: [Taygetans](taygetans.md).
 - extraordinary\_medical\_claims
 - extraordinary\_species\_claims
 - extraordinary\_technology\_claims
+- factional-threat-interpretation-attributed-to-urmah
 - frequency-gravity-model
 - frequency\_health\_claims\_unverified
+- historical-allegations
 - pilot-account-attributed
 - related\_series\_part
+- technology-described-by-mari
+- technology-description-unverified
 - technology\_and\_mind\_interface
 - translated\_source
 - unverified\_extraterrestrial\_technology\_claims
