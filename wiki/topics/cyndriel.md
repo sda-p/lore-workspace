@@ -148,17 +148,62 @@ Source: [EXTRATERRESTRES - COMO COORDINAN EL TIEMPO - ANÉEKA DE TEMMER](https:/
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-621113b9af49-c01
+
+Cyndriel is a desert at 0.7g with about 80% oxygen; Earth arrivals need acclimation.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-sin-video) (2021-11-21; es); passages p0002, p0003, p0004. [Structured record](../../records/src-621113b9af49.json).
+
+### src-621113b9af49-c02
+
+Anéeka says Aldebaran’s nebula filters its intense radiation; near-perpetual daylight supports adapted red-orange flora.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-sin-video) (2021-11-21; es); passages p0019, p0018, p0036, p0037, p0041. [Structured record](../../records/src-621113b9af49.json).
+
+### src-621113b9af49-c03
+
+Some cactus-like plants float on unexplained antigravity cores and spread spores through lakes.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-sin-video) (2021-11-21; es); passages p0046, p0047. [Structured record](../../records/src-621113b9af49.json).
+
+### src-621113b9af49-c05
+
+Taygeta’s long-standing Cyndriel colony serves as an Alcyone Council wayport, shared mainly with Engans and Solatians.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-sin-video) (2021-11-21; es); passages p0071, p0074. [Structured record](../../records/src-621113b9af49.json).
+
+### src-5e5e29eb902e-c05
+
+Anéeka identifies Cyndriel as Taygeta’s sole colony outside Pleiades, with desert terrain and unusual biology.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Mini Temas - Información Extraterrestre - Tertulia con Gosia](https://swaruu.org/transcripts/mini-temas-informacion-extraterrestre-tertulia-con-gosia) (2022-01-30; es); passages p0043, p0047, p0052, p0053. [Structured record](../../records/src-5e5e29eb902e.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-67f9e11f45a4-c06](amelie.md#src-67f9e11f45a4-c06) — Amelie
 - [src-7ced6b157e35-c05](taygetans.md#src-7ced6b157e35-c05) — Taygetans
 - [src-cff930fb7cbd-c01](taygetans.md#src-cff930fb7cbd-c01) — Taygetans
 - [src-3901bf7c1489-c04](alien-species.md#src-3901bf7c1489-c04) — Alien species and distinctions
+- [src-5e5e29eb902e-c03](stellar-navigation.md#src-5e5e29eb902e-c03) — Stellar navigation
 
 ## Review flags
 
 - Alenym-retirement-not-decided
 - Cyndriel time-difference mechanism remains unknown.
+- Cyndriel’s surface–orbit time discrepancy is unexplained.
+- blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified
 - cyndriel-environment-claim
 - subjective-time-model
 - translation-counterpart:src-0bdff38c9c01-exact-full

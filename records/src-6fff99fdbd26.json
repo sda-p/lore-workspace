@@ -1,0 +1,73 @@
+{
+  "source_id": "src-6fff99fdbd26",
+  "snapshot_sha256": "132a281e946722dbb9aa0e51548114e838b06951202903f2fb0d592f061170a4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6fff99fdbd26-c01",
+      "assertion": "Yazhi described the pyramids as zero-point generators with wireless power and consciousness-enhancing portal functions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "pyramid-network",
+      "topics": [
+        "pyramid-network",
+        "energy-generation",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributed these functions to their electromagnetic design and internal systems."
+    },
+    {
+      "id": "src-6fff99fdbd26-c02",
+      "assertion": "Athena said pyramid builders used a Great Gallery crane and spiral ramp; antigravity partly lightened stones, while liquid rock molded some blocks.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "great-pyramid-of-giza",
+      "topics": [
+        "great-pyramid-of-giza",
+        "atlantean-zero-point-pyramids"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She doubted central cranes lifted the largest blocks."
+    },
+    {
+      "id": "src-6fff99fdbd26-c03",
+      "assertion": "Anéeka said the Sphinx predates the pyramids and its form symbolized Egypt's two kingdoms and the yearly Virgo-to-Leo cycle.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0030",
+        "p0035",
+        "p0036",
+        "p0039",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "great-pyramid-of-giza",
+      "topics": [
+        "great-pyramid-of-giza",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She described it as a building, not a realistic statue."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "granite insulation and electrical collectors",
+    "subterranean Egyptian structures"
+  ]
+}

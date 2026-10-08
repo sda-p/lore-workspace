@@ -1,0 +1,113 @@
+{
+  "source_id": "src-a32bbe4fc74a",
+  "snapshot_sha256": "20f186dfa6f1897cf58e62b8c184bfbdc3b81d29cb72b6152db1f4f8b7ff95ba",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a32bbe4fc74a-c01",
+      "assertion": "Athena speculates some objects identified as Starlink or ISS may be nonhuman craft; she cannot confirm Starlink.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0011",
+        "p0021"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "seti-surveillance"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a32bbe4fc74a-c02",
+      "assertion": "She claims ISS videos are mostly studio reruns; some remote footage is real but delayed and censored.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "secret-space-program"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a32bbe4fc74a-c03",
+      "assertion": "Anéeka describes the Moon as a metal station with interior water tanks and later-added uranium reactors.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0041",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a32bbe4fc74a-c04",
+      "assertion": "Athena says galactic gravity waves gather debris into particle storms that threaten unshielded craft.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0067",
+        "p0068",
+        "p0069",
+        "p0070",
+        "p0071"
+      ],
+      "primary_topic": "galactic-high-energy-arms",
+      "topics": [
+        "galactic-high-energy-arms",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a32bbe4fc74a-c05",
+      "assertion": "She says Van Allen belts prevent biological craft exiting without toroidal immersion; low orbits risk collisions and drag.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0075",
+        "p0076",
+        "p0077",
+        "p0078",
+        "p0079"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "starship-systems",
+        "artificial-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified"
+  ],
+  "coverage_gaps": [
+    "claimed lunar reactor output and inability to move the Moon",
+    "Starlink internet claims",
+    "terrestrial water on Moon versus Mars"
+  ]
+}

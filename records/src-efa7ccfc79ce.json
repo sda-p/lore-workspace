@@ -1,0 +1,69 @@
+{
+  "source_id": "src-efa7ccfc79ce",
+  "snapshot_sha256": "f6149cde1c7cca5f3bc2d175b46a27e7b95fbf57f988a223ec41c76a505f9508",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-efa7ccfc79ce-c01",
+      "assertion": "Swaruu Minerva said ascension may shift carbon-based DNA toward more complex proto-silicon unlike terrestrial silicon.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0017",
+        "p0026"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She framed this as density-dependent."
+    },
+    {
+      "id": "src-efa7ccfc79ce-c02",
+      "assertion": "Swaruu Minerva reported increasingly crystalline DNA across human, Taygetan, and Swaruunian samples, with differing chromosome and strand counts.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She described three samples, not superiority."
+    },
+    {
+      "id": "src-efa7ccfc79ce-c03",
+      "assertion": "Swaruu Minerva said silicon-based organisms can differ and silicon alone does not imply greater consciousness.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguished crystalline from noncrystalline forms."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "element-frequency model",
+    "physical capabilities attributed to crystalline DNA"
+  ]
+}

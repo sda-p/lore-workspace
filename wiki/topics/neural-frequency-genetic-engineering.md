@@ -17,3 +17,33 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 Source: [EL RESET PLANETARIO - EL GEN DE LA ESPIRITUALIDAD - ANEEKA DE TEMMER - CENSURADO EN YOUTUBE](https://swaruu.org/transcripts/el-reset-planetario-el-gen-de-la-espiritualidad-aneeka-de-temmer-censurado-en-youtube) (2021-04-23; es); passages p0020, p0021, p0022, p0031, p0032, p0033, p0034. [Structured record](../../records/src-698708ff8404.json).
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-375ee3e4cf1f-c02
+
+Yazhi claims artificial genetic changes persist in individuals but fade across descendants. She connects them to vaccines.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu y los Asuntos del Pasado Humano - Influencias Perceptuales y de Laboratorio](https://swaruu.org/transcripts/yazhi-swaruu-y-los-asuntos-del-pasado-humano-influencias-perceptuales-y-de-laboratorio) (2021-12-18; es); passages p0005, p0009. [Structured record](../../records/src-375ee3e4cf1f.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-bd6721b51e72-c04
+
+Anéeka claims additional graphene doses accelerate genetic change and sort people by biological compatibility.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Grafeno en las Vacunas - Anéeka de Temmer](https://swaruu.org/transcripts/grafeno-en-las-vacunas-aneeka-de-temmer) (2022-01-10; es); passages p0018, p0020, p0021, p0022. [Structured record](../../records/src-bd6721b51e72.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+## Claims filed under other topics
+
+- [src-bd6721b51e72-c03](vaccine-inoculation-claims.md#src-bd6721b51e72-c03) — Inoculation and genetic alteration claims
+- [src-9021de63c829-c01](vaccine-inoculation-claims.md#src-9021de63c829-c01) — Inoculation and genetic alteration claims
+
+## Review flags
+
+- Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
+- Medical and genetic allegations are attributed claims; the speaker notes reliance on simulations rather than patient samples.

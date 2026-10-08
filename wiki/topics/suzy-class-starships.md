@@ -21,9 +21,15 @@ Related topics: [Starship systems](starship-systems.md).
 ## Claims filed under other topics
 
 - [src-ed934b122dbc-c02](sand-clock.md#src-ed934b122dbc-c02) — Sand Clock
+- [src-d328a6c23916-c03](ship-internal-time.md#src-d328a6c23916-c03) — Ship internal time
+- [src-74cf1c7706e3-c04](ship-internal-time.md#src-74cf1c7706e3-c04) — Ship internal time
+- [src-0f5047c8c5f2-c02](ship-internal-time.md#src-0f5047c8c5f2-c02) — Ship internal time
 
 ## Review flags
 
+- Travel-time figures are speaker-provided examples and depend on vessel and route
 - death-account:medical-cause-and-ether-dissolution
+- navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
+- near-duplicate:src-d328a6c23916
 - timeline-model-variant:personal-vs-collective
 - translation-counterpart:src-06a1e5437c02-close-full

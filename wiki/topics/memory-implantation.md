@@ -41,7 +41,13 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 ## Claims filed under other topics
 
 - [src-53756b5035b9-c03](walk-in-phenomenon.md#src-53756b5035b9-c03) — Walk-in phenomenon
+- [src-ce0d96e82011-c04](moon-matrix.md#src-ce0d96e82011-c04) — Moon and terrestrial Matrix
+- [src-e0a9693e485e-c02](human-clones.md#src-e0a9693e485e-c02) — Human clones and manufactured persons
+- [src-f698e76aaac9-c01](memory-veil.md#src-f698e76aaac9-c01) — Memory Veil
+- [src-f698e76aaac9-c04](consciousness-metaphysics.md#src-f698e76aaac9-c04) — Consciousness and metaphysics
 
 ## Review flags
 
+- Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
+- Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved
 - claims about fabricated histories and public events are attributed lore, not independently substantiated

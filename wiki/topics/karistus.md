@@ -72,17 +72,90 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 
 Related topics: [Lyrians](lyrians.md).
 
+### src-1dc8eadf6766-c03
+
+Anéeka says Jupiter belongs to Karistus, which has poor relations with the Federation.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CONVERSACIÓN CON MUJER EXTRATERRESTRE EL NÚCLEO DEL GRAN LOGOS - ANEEKA DE TEMMER](https://swaruu.org/transcripts/conversacion-con-mujer-extraterrestre-el-nucleo-del-gran-logos-aneeka-de-temmer) (2022-09-15; es); passages p0021. [Structured record](../../records/src-1dc8eadf6766.json).
+
+### src-f94fd5d77808-c01
+
+Swaruu (9) described Karistus as a high-density civilization inhabiting Jupiter, whose higher-frequency aspects act as a portal for positive beings.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Jupiter - Sistema Solar - Informacion de Swaruu de Erra ((Taygeta - Pleyades)](https://swaruu.org/transcripts/jupiter-sistema-solar-informacion-de-swaruu-de-erra-taygeta-pleyades) (2022-01-12; es); passages p0008, p0029, p0030, p0040. [Structured record](../../records/src-f94fd5d77808.json).
+
+Related topics: [Jupiter](jupiter.md), [Natural and artificial portals](natural-portals.md).
+
+### src-4bd203cbfe4d-c01
+
+Karistus tradition treats Lyrians, including humans, as soul-level Karistus hybrids. This is their belief.
+
+Attributed to **Yazhi; Anéeka**; reported; extraction confidence: high.
+
+Source: [Karistus - Enigmatica Raza de Jupiter - Informacion de Yazhi Swaruu y Aneeka de Temmer](https://swaruu.org/transcripts/karistus-enigmatica-raza-de-jupiter-informacion-de-yazhi-swaruu-y-aneeka-de-temmer) (2022-01-17; es); passages p0004, p0010, p0029. [Structured record](../../records/src-4bd203cbfe4d.json).
+
+Related topics: [Lyrians](lyrians.md), [Humanity as a multi-species experiment](humanity-multi-species-experiment.md).
+
+### src-4bd203cbfe4d-c02
+
+Anéeka says Karistus claim Earth as ancestral territory from 200,000 years ago, but reject invasive ownership.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Karistus - Enigmatica Raza de Jupiter - Informacion de Yazhi Swaruu y Aneeka de Temmer](https://swaruu.org/transcripts/karistus-enigmatica-raza-de-jupiter-informacion-de-yazhi-swaruu-y-aneeka-de-temmer) (2022-01-17; es); passages p0016, p0028, p0030. [Structured record](../../records/src-4bd203cbfe4d.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-4bd203cbfe4d-c03
+
+Anéeka says Karistus broke with the Federation over Earth policy but remain allied with Taygetans. They resent Federation permissiveness.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Karistus - Enigmatica Raza de Jupiter - Informacion de Yazhi Swaruu y Aneeka de Temmer](https://swaruu.org/transcripts/karistus-enigmatica-raza-de-jupiter-informacion-de-yazhi-swaruu-y-aneeka-de-temmer) (2022-01-17; es); passages p0037, p0040, p0041. [Structured record](../../records/src-4bd203cbfe4d.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Taygetans](taygetans.md).
+
+### src-4bd203cbfe4d-c04
+
+Anéeka says Karistus fight directly, including with step-downs and starseeds; Taygeta mostly stopped. Only localized skirmishes remain.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Karistus - Enigmatica Raza de Jupiter - Informacion de Yazhi Swaruu y Aneeka de Temmer](https://swaruu.org/transcripts/karistus-enigmatica-raza-de-jupiter-informacion-de-yazhi-swaruu-y-aneeka-de-temmer) (2022-01-17; es); passages p0043, p0045, p0046. [Structured record](../../records/src-4bd203cbfe4d.json).
+
+Related topics: [Starseed guides](starseed-guides.md), [Taygetans](taygetans.md).
+
+### src-4bd203cbfe4d-c05
+
+Anéeka, citing Yazhi, says Karistus exist at any spiritual level, rejecting fixed density categories. She revises earlier sixth-density labels.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Karistus - Enigmatica Raza de Jupiter - Informacion de Yazhi Swaruu y Aneeka de Temmer](https://swaruu.org/transcripts/karistus-enigmatica-raza-de-jupiter-informacion-de-yazhi-swaruu-y-aneeka-de-temmer) (2022-01-17; es); passages p0048. [Structured record](../../records/src-4bd203cbfe4d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Perceptual density](perceptual-density.md).
+
 ## Claims filed under other topics
 
 - [src-9524a72ff653-c05](earth-dna-arks.md#src-9524a72ff653-c05) — Earth DNA Arks
 - [src-c190fb308eb0-c02](galactic-federation.md#src-c190fb308eb0-c02) — Galactic Federation
+- [src-f94fd5d77808-c03](jupiter.md#src-f94fd5d77808-c03) — Jupiter
+- [src-e9adfed45e60-c01](alien-species.md#src-e9adfed45e60-c01) — Alien species and distinctions
 
 ## Review flags
 
 - Compared English translation candidate src-a2a5bfc5daf9 and Spanish version src-f94fd5d77808; bodies closely align with paragraph shifts and added explanatory material in English.
+- Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - ancient-solar-system-density-and-polity-claims
 - ark-status-uncertainty
 - biological-restoration-technology
 - earth-ark-location-claims
 - faction-taxonomy-and-levels-attributed
 - human-agency-model:external-control-and-human-authorship
+- lore-claims-attributed-to-Aneeka
+- source makes unverified claims about extraterrestrial warfare and Federation involvement

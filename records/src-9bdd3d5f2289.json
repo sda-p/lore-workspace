@@ -1,0 +1,73 @@
+{
+  "source_id": "src-9bdd3d5f2289",
+  "snapshot_sha256": "b795d03fd3421bd91ff6443d4fa491c5eefc23c5198fb18ff3aad3606d33affd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9bdd3d5f2289-c01",
+      "assertion": "Anéeka claimed civil nuclear plants sit on ley-line nodes and lower Earth’s energetic frequency through radiation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0017",
+        "p0022",
+        "p0047"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "energy-generation",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9bdd3d5f2289-c02",
+      "assertion": "Anéeka alleged Chernobyl and Fukushima were deliberate explosions intended to damage nodes and expose nearby populations to radiation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0023",
+        "p0032",
+        "p0064"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "energy-generation",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She linked the orders to the UN and Cabal but named no individuals."
+    },
+    {
+      "id": "src-9bdd3d5f2289-c03",
+      "assertion": "Anéeka said Federation and Andromedan ships used anti-radiation frequencies and particle methods to reduce contamination.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0082",
+        "p0085",
+        "p0088"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She said she saw limited results but believed damage would otherwise be worse."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence."
+  ],
+  "coverage_gaps": [
+    "claimed Chernobyl ley-line effects",
+    "nuclear plant energy accounting"
+  ]
+}

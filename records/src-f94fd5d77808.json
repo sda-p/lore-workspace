@@ -1,0 +1,54 @@
+{
+  "source_id": "src-f94fd5d77808",
+  "snapshot_sha256": "397138dcf69d6a879bae7cee9b5ac4951a5522f17685166ff1aef3ce6212a575",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f94fd5d77808-c01",
+      "assertion": "Swaruu (9) described Karistus as a high-density civilization inhabiting Jupiter, whose higher-frequency aspects act as a portal for positive beings.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0008", "p0029", "p0030", "p0040"],
+      "primary_topic": "karistus",
+      "topics": ["karistus", "jupiter", "natural-portals"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f94fd5d77808-c02",
+      "assertion": "Swaruu (9) said Jupiter lacks a solid surface and has progressively denser atmospheric layers supporting diverse flying life.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0018", "p0019", "p0020", "p0022"],
+      "primary_topic": "jupiter",
+      "topics": ["jupiter", "alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f94fd5d77808-c03",
+      "assertion": "Swaruu (9) characterized Jupiter's four main moons as developing worlds whose emerging life and consciousness should be protected from interference.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0060", "p0065", "p0066", "p0069"],
+      "primary_topic": "jupiter",
+      "topics": ["jupiter", "prime-directive", "karistus"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f94fd5d77808-c04",
+      "assertion": "Swaruu (9) said Europa contains a subsurface ocean and primitive Sirian Triton-like life; she denied advanced settlements or bases on the moons.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0070", "p0078"],
+      "primary_topic": "europa",
+      "topics": ["europa", "sirian-civilizations", "jupiter"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Jupiter's energy model", "Karistus activity on Earth"]
+}

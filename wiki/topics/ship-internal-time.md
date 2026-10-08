@@ -148,6 +148,66 @@ Source: [Pleyades - Taygeta - Preguntas del Público para Anéeka de Temmer (Con
 
 Related topics: [Stellar navigation](stellar-navigation.md), [Taygetan ecosystems](taygetan-ecosystems.md).
 
+### src-23345f09145a-c01
+
+Anéeka defines ship internal time as each crew member’s perceived flight duration; shared SIT results from agreement, not a ship setting. Her explanation.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CONTACTO CON RAZAS EXTRATERRESTRES POR TECLADO EN LAS REDES SOCIALES - Anéeka de Temmer](https://swaruu.org/transcripts/contacto-con-razas-extraterrestres-por-teclado-en-las-redes-sociales-aneeka-de-temmer) (2022-08-08; es); passages p0031, p0033. [Structured record](../../records/src-23345f09145a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-23345f09145a-c02
+
+She says supraluminal travel is instantaneous regardless of distance, while crew perception still assigns a variable SIT duration. Her account invokes ether nonlocality.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CONTACTO CON RAZAS EXTRATERRESTRES POR TECLADO EN LAS REDES SOCIALES - Anéeka de Temmer](https://swaruu.org/transcripts/contacto-con-razas-extraterrestres-por-teclado-en-las-redes-sociales-aneeka-de-temmer) (2022-08-08; es); passages p0031, p0033, p0034. [Structured record](../../records/src-23345f09145a.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-d328a6c23916-c03
+
+On a Terra–Temmer route, she gives Toleka’s crew seven hours SIT versus Suzy’s 36 minutes.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Teletransporte – Teleportacion y Naves en HiperEspacio -Athena Swaruu](https://swaruu.org/transcripts/teletransporte-teleportacion-y-naves-en-hiperespacio-athena-swaruu) (2022-04-14; es); passages p0064, p0065, p0070, p0071. [Structured record](../../records/src-d328a6c23916.json).
+
+Related topics: [Toleka-class starships](toleka-class.md), [Suzy-class starships](suzy-class-starships.md).
+
+### src-74cf1c7706e3-c04
+
+For Earth–Temmer, she gives Toleka’s crew seven hours SIT and Suzy’s 36 minutes.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 4 (Parte 2) - Naves Espaciales en Hiper Espacio (Athena Swaruu)](https://swaruu.org/transcripts/navegacion-estelar-4-parte-2-naves-espaciales-en-hiper-espacio-athena-swaruu) (2022-07-24; es); passages p0036, p0042, p0043. [Structured record](../../records/src-74cf1c7706e3.json).
+
+Related topics: [Toleka-class starships](toleka-class.md), [Suzy-class starships](suzy-class-starships.md).
+
+### src-2b1192891e85-c01
+
+Swaruu X (Athena) said large ships use progressive frequency shifts and SIT to adapt their components safely; small craft can jump immediately.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 4 (Parte 1) - Tiempo SIT - Naves Espaciales en Hiper Espacio (Athena Swaruu)](https://swaruu.org/transcripts/navegacion-estelar-4-parte-1-tiempo-sit-naves-espaciales-en-hiper-espacio-athena-swaruu) (2022-07-22; es); passages p0012, p0014, p0018, p0019, p0020, p0021. [Structured record](../../records/src-2b1192891e85.json).
+
+Related topics: [Starship systems](starship-systems.md), [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-0f5047c8c5f2-c02
+
+She says heavy ships need staged shifts as outer parts change frequency before inner mass; fighters jump instantly.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [NAVEGACIÓN ESTELAR IV SALTO AL HIPERESPACIO - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-iv-salto-al-hiperespacio-athena-swaruu) (2022-04-05; es); passages p0013, p0014, p0015, p0016, p0017, p0018, p0019, p0020, p0021, p0022, p0023, p0024. [Structured record](../../records/src-0f5047c8c5f2.json).
+
+Related topics: [Suzy-class starships](suzy-class-starships.md), [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-07494ef21f67-c02](cyndriel.md#src-07494ef21f67-c02) — Cyndriel
@@ -158,15 +218,21 @@ Related topics: [Stellar navigation](stellar-navigation.md), [Taygetan ecosystem
 - [src-fe16588859c1-c03](stellar-navigation.md#src-fe16588859c1-c03) — Stellar navigation
 - [src-48549c0d0a4c-c02](extraterrestrial-stepdowns.md#src-48549c0d0a4c-c02) — Extraterrestrial step-downs
 - [src-ba1c5a843ad1-c05](immersion-pods.md#src-ba1c5a843ad1-c05) — Immersion pods
+- [src-2b1192891e85-c03](natural-portals.md#src-2b1192891e85-c03) — Natural and artificial portals
+- [src-0f5047c8c5f2-c01](frequency-map-navigation.md#src-0f5047c8c5f2-c01) — Frequency-map navigation
+- [src-0f5047c8c5f2-c04](natural-portals.md#src-0f5047c8c5f2-c04) — Natural and artificial portals
 
 ## Review flags
 
 - Figures and ship status are Mari’s account as of August 2024
+- Travel-time figures are speaker-provided examples and depend on vessel and route
 - cyndriel-environment-claim
 - extraordinary-ability-claims
 - historical-event-identified-from-painting
 - immersion-metaphysics-claims
 - medical-and-abduction-claims-excluded
+- navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
+- near-duplicate:src-d328a6c23916
 - personal-ability-claims-attributed
 - pod-failure-outcomes
 - subjective-time-model

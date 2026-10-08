@@ -1,0 +1,84 @@
+{
+  "source_id": "src-cdacb8b863b2",
+  "snapshot_sha256": "1a373f7d8508babd8b3ba127cbea4df2eb1f418eb33d16369aa887ac33a726cb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cdacb8b863b2-c01",
+      "assertion": "Yazhi distinguishes chemtrail graphene from separate, mostly inert borosilicate strands she attributes to plasma-jet ships condensing atmospheric dust.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0009",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdacb8b863b2-c02",
+      "assertion": "She says blue LEDs can disrupt circadian rhythms and speculates that mandated household lighting serves population-control aims; she says infrared light can help normalize rhythms.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdacb8b863b2-c03",
+      "assertion": "She portrays professional football as political theater and mass distraction, claiming bought players or referees can steer match outcomes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0034",
+        "p0036",
+        "p0040",
+        "p0042"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdacb8b863b2-c04",
+      "assertion": "She calls cryptocurrencies a control tool that may enable expiration of digital funds and threaten people’s savings.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "blue light and nanotechnology speculation",
+    "public claims about football events",
+    "broad currency transition proposals"
+  ]
+}

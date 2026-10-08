@@ -204,6 +204,14 @@ Source: [Dimensional Mirrors - People Repeating Themselves - Athena and Yazhi Sw
 
 Related topics: [Temporal skipping](temporal-skipping.md).
 
+### src-4ea4379f95bf-c05
+
+Yazhi says perceptual realms overlap through shared agreements, allowing spirits and other entities to interact with embodied beings.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [No hay Mundo Material - Parte 2 - Mundo de los Espiritus vs de los Vivos - Yazhi Swaruu](https://swaruu.org/transcripts/no-hay-mundo-material-parte-2-mundo-de-los-espiritus-vs-de-los-vivos-yazhi-swaruu) (2021-12-07; es); passages p0065, p0068, p0070, p0071, p0072. [Structured record](../../records/src-4ea4379f95bf.json).
+
 ## Claims filed under other topics
 
 - [src-e1ef5c3d2bef-c01](original-matrix.md#src-e1ef5c3d2bef-c01) — Original Matrix
@@ -215,6 +223,8 @@ Related topics: [Temporal skipping](temporal-skipping.md).
 
 ## Review flags
 
+- Contradictory descriptions may be valid from different perspectives.
+- Yazhi frames these as a limited explanatory viewpoint.
 - metaphysical-model\_attributed
 - mirror-identity-varies
 - phenomenon\_not\_fully\_understood

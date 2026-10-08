@@ -26,8 +26,17 @@ Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [CYNDRIEL - ALDEBARAN \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-no-video) (2021-11-21; en); passages p0064, p0065, p0066, p0067. [Structured record](../../records/src-7ced6b157e35.json).
 
+### src-621113b9af49-c04
+
+Native Amélie are 6D-plus energy beings who communicate telepathically and appear in observer-suited forms.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-sin-video) (2021-11-21; es); passages p0064, p0065, p0066, p0067. [Structured record](../../records/src-621113b9af49.json).
+
 ## Review flags
 
 - Cyndriel time-difference mechanism remains unknown.
+- Cyndriel’s surface–orbit time discrepancy is unexplained.
 - unverified\_biological\_and\_metaphysical\_claims
 - weather\_claims

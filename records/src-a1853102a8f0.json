@@ -1,0 +1,84 @@
+{
+  "source_id": "src-a1853102a8f0",
+  "snapshot_sha256": "24acf8f14bfdcc9d757707910a20355636f0aa374441bbc211f4a19423d785e8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a1853102a8f0-c01",
+      "assertion": "Swaruu (9) describes Uranus as a gas giant with a progressively denser atmosphere and a solid diamond-like surface beneath extreme pressure.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "uranus",
+      "topics": [
+        "uranus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a1853102a8f0-c02",
+      "assertion": "She says Miranda has under-ice animal and plant ecosystems sustained by geothermal vents, but no alien bases.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "uranus",
+      "topics": [
+        "uranus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a1853102a8f0-c03",
+      "assertion": "She says other large Uranian moons host underground alien bases extracting mainly iron, carbon, gold, and alloy materials; the rings contain Tiamat debris.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0022",
+        "p0032",
+        "p0039"
+      ],
+      "primary_topic": "uranus",
+      "topics": [
+        "uranus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a1853102a8f0-c04",
+      "assertion": "She describes lower-6D beings as non-local consciousnesses needing no form or place, but appearing as local entities to interact with lower-density observers.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043",
+        "p0046"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source distinguishes Miranda’s lack of bases from bases on other Uranian moons."
+  ],
+  "coverage_gaps": [
+    "Uranus ring-size discrepancies",
+    "planetary orbital history",
+    "life on moons other than Miranda"
+  ]
+}

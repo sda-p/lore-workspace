@@ -1,0 +1,66 @@
+{
+  "source_id": "src-a29facfa8073",
+  "snapshot_sha256": "55765fa0fd1a02e99010b31e1c116bfc8e3ed3ebeffb3da2adca261895c7b741",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a29facfa8073-c01",
+      "assertion": "Anéeka said outside researchers report active graphene degradation after about three months, but her lab attributed remaining material to integration into tissues.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0013"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": "She said the degree of degradation was unknown and described her account as based on Toleka lab data."
+    },
+    {
+      "id": "src-a29facfa8073-c02",
+      "assertion": "Anéeka alleged repeated doses were intended to saturate cells and accelerate DNA change, rather than simply replace degraded graphene.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a29facfa8073-c03",
+      "assertion": "Anéeka alleged the injections would select for genetic traits, with younger people more likely to undergo transformation and older or physically vulnerable people facing extermination.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Contains severe health and population-control allegations attributed to Anéeka."
+  ],
+  "coverage_gaps": [
+    "supporting evidence for the Toleka laboratory claims"
+  ]
+}

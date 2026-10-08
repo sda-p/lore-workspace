@@ -1,0 +1,110 @@
+{
+  "source_id": "src-5e5e29eb902e",
+  "snapshot_sha256": "1ca7c9a34564db0e08725c7d2ad18c8b111109369a647ca2603e2ffe4aaeb5de",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5e5e29eb902e-c01",
+      "assertion": "Anéeka says Taygetans are type O and Swaruu A+, marking distinct races.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e5e29eb902e-c02",
+      "assertion": "Anéeka says transfusions create etheric ties affecting recipients more, but supports needed donation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "ether-field"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e5e29eb902e-c03",
+      "assertion": "Anéeka describes photon belts as toroidal stellar dynamics, not a new phenomenon.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0024"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "alcyone-council",
+        "cyndriel"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e5e29eb902e-c04",
+      "assertion": "Anéeka says “regressive” is a relative label; no race is regressive absolutely.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Interests may still conflict."
+    },
+    {
+      "id": "src-5e5e29eb902e-c05",
+      "assertion": "Anéeka identifies Cyndriel as Taygeta’s sole colony outside Pleiades, with desert terrain and unusual biology.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0043",
+        "p0047",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified"
+  ],
+  "coverage_gaps": [
+    "animal-organ transplant claims",
+    "medical-pod technology",
+    "weather-control allegations"
+  ]
+}

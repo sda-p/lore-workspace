@@ -78,6 +78,16 @@ Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [EXOBIOLOGÍA - LURKERS - LARVAS ENERGÉTICAS - POD MÉDICO \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/exobiologia-lurkers-larvas-energeticas-pod-medico-sin-video) (2021-01-12; es); passages p0032, p0036. [Structured record](../../records/src-748a1e239668.json).
 
+### src-f806bbf625d9-c05
+
+She distinguishes conscious crystalline silicon from Lurker silicon, which she describes as noncrystalline and mechanically strong.
+
+Attributed to **Swaruu Minerva (11)**; reported; extraction confidence: medium.
+
+Source: [\#ADN \#SILICIO - ADN \#CARBONO - \#ASCENSIÓN - \#MINERVA \#SWARUU](https://swaruu.org/transcripts/adn-silicio-adn-carbono-ascension-minerva-swaruu) (2021-12-07; es); passages p0042, p0044, p0045. [Structured record](../../records/src-f806bbf625d9.json).
+
+Related topics: [Crystalline DNA and proto-silicon biology](crystalline-dna.md).
+
 ## Claims filed under other topics
 
 - [src-e96e8067e205-c03](taygetan-ecosystems.md#src-e96e8067e205-c03) — Taygetan ecosystems
@@ -85,4 +95,5 @@ Source: [EXOBIOLOGÍA - LURKERS - LARVAS ENERGÉTICAS - POD MÉDICO \*\*SIN VIDE
 ## Review flags
 
 - density-morality-qualification
+- internal-count-conflict:swaruwnian-chromosomes
 - species-threat-description

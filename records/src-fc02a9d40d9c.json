@@ -1,0 +1,61 @@
+{
+  "source_id": "src-fc02a9d40d9c",
+  "snapshot_sha256": "0eb4b441e89e6e2229484eae0668e95803897ab090ab953c5d8d22cb27a187ba",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fc02a9d40d9c-c01",
+      "assertion": "Yazhi said a Federation underground base beneath Romania’s Carpathian Sphinx was about 5,000 years old and had been emptied by the Cabal in recent decades.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "bucegi-underground-base",
+      "topics": [
+        "bucegi-underground-base"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She said it contained maglev links and robotic guards."
+    },
+    {
+      "id": "src-fc02a9d40d9c-c02",
+      "assertion": "Yazhi said Tutankhamun’s dagger was made from material not found on Earth, while acknowledging she had no data about other removed objects.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc02a9d40d9c-c03",
+      "assertion": "Yazhi said magnetic spacecraft can collide if massive ships approach too closely, citing a 2016 Sirian–Taygetean collision.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Crimean bases and spacecraft docking operations"
+  ]
+}

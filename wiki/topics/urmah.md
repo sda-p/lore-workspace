@@ -1102,6 +1102,26 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-urmah-sin-video) (2021-02-01; es); passages p0034, p0036. [Structured record](../../records/src-06841218e937.json).
 
+### src-205c04ebdf5e-c04
+
+She describes Urmah as powerful galactic predators who can act as warriors or affectionate companions.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu - Sabiduria de "Niña" Extraterrestre - Charla Metafísica](https://swaruu.org/transcripts/yazhi-swaruu-sabiduria-de-nina-extraterrestre-charla-metafisica) (2022-08-19; es); passages p0045. [Structured record](../../records/src-205c04ebdf5e.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-205c04ebdf5e-c05
+
+Yazhi calls the most effective warrior an observant strategist who anticipates opponents without fear or agenda.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu - Sabiduria de "Niña" Extraterrestre - Charla Metafísica](https://swaruu.org/transcripts/yazhi-swaruu-sabiduria-de-nina-extraterrestre-charla-metafisica) (2022-08-19; es); passages p0051. [Structured record](../../records/src-205c04ebdf5e.json).
+
+Related topics: [Combat doctrine](combat-doctrine.md).
+
 ## Claims filed under other topics
 
 - [src-1461dd27e63f-c08](alien-species.md#src-1461dd27e63f-c08) — Alien species and distinctions
@@ -1173,7 +1193,9 @@ Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-u
 - intercultural-claims
 - intra-source-policy-tension
 - medical\_claims
+- original-language:en
 - personal\_metaphysics
+- perspective-dependent
 - political-claims\_attributed
 - political-narrative\_attributed
 - pyramid-technology-claims

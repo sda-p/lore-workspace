@@ -1,0 +1,108 @@
+{
+  "source_id": "src-87bee905e958",
+  "snapshot_sha256": "3217136269d4c84f19abb1da2a0ec1f51d336fbe2aae1b149ab89574337db550",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-87bee905e958-c01",
+      "assertion": "Anéeka says the Federation controlled every reset since the great flood.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "planetary-matrix-resets",
+      "topics": [
+        "planetary-matrix-resets",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87bee905e958-c02",
+      "assertion": "Anéeka favors holistic, matriarchal government, contingent on human readiness and choice.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87bee905e958-c03",
+      "assertion": "Anéeka says the Alcyone Council represents Pleiades M45 civilizations and carries weight in Federation decisions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87bee905e958-c04",
+      "assertion": "Anéeka says Federation nonintervention reflects a belief that humans must solve problems and learn independently.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87bee905e958-c05",
+      "assertion": "Anéeka attributes depopulation plans to human Cabal leaders seeking control, despite Federation permissiveness.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87bee905e958-c06",
+      "assertion": "Anéeka says the Federation considers Earth its property, while Alcyone allies dispute that claim.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Council split and Bitcoin assessment omitted"
+  ]
+}

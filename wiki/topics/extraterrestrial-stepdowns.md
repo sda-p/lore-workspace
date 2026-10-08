@@ -212,6 +212,16 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-creacion-del-cabal-reptiles-y-manifestaciones-humanas) (2021-10-10; es); passages p0003. [Structured record](../../records/src-74df7085bcef.json).
 
+### src-b1091aecbbaa-c03
+
+The article says step-down insertion places a full identity in the terrestrial Matrix, sometimes leaving a mirror person upon departure.
+
+Attributed to **Article narration**; asserted; extraction confidence: high.
+
+Source: [Infiltradas desde Fuera de la Tierra - Esto es mas Grande que Imagináis - Exponemos Los Hechos](https://swaruu.org/transcripts/infiltradas-desde-fuera-de-la-tierra-esto-es-mas-grande-que-imaginais-exponemos-los-hechos) (2022-06-05; es); passages p0185, p0186. [Structured record](../../records/src-b1091aecbbaa.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
 ## Claims filed under other topics
 
 - [src-e1b4f8c5afc0-c03](alien-species.md#src-e1b4f8c5afc0-c03) — Alien species and distinctions
@@ -220,11 +230,16 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - [src-3f83b10b1792-c05](nexus-souls.md#src-3f83b10b1792-c05) — Nexus souls
 - [src-5eead64421cb-c01](alfrata.md#src-5eead64421cb-c01) — Alfrata (Phaeton)
 - [src-5eead64421cb-c03](earth-cabal.md#src-5eead64421cb-c03) — Earth Cabal and power structures
+- [src-83d0afc07ef6-c01](starseeds.md#src-83d0afc07ef6-c01) — Starseeds
+- [src-6d9f789c718e-c04](consciousness-metaphysics.md#src-6d9f789c718e-c04) — Consciousness and metaphysics
+- [src-9d5476909933-c04](harmonic-shields.md#src-9d5476909933-c04) — Harmonic shields
 
 ## Review flags
 
 - Anéeka says Reptilian exploitation is partial, not a complete account of Earth events.
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
+- Resource motives and fear-feeding are speaker-attributed metaphysical claims
+- aliens-removed-from-quadrant-claim
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - historical-claims-unverified
 - identity-claims-unverified
@@ -234,6 +249,8 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - pathogen-claim\_attributed
 - personal-childhood-anecdote
 - political-narrative\_attributed
+- reported:pilot-encounters
 - rescue-anecdotes-unverified
+- speculation:federation-experiments
 - spiritual-warfare-claims
 - visitors-identified-as-key-returners

@@ -1896,6 +1896,106 @@ Source: [EXTRATERRESTRES Y HUMANOS - LA FEDERACION DE PLANETAS UNIDOS](https://s
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-15e3ff87a1f4-c01
+
+Swaruu (9) describes the Matrix as personal realities formed by each person’s thoughts and feelings, averaging into a collective reality when perceptions align. Her metaphysical model.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL INCONSCIENTE COLECTIVO DICTA TU REALIDAD – LA MATRIX – Swaruu de Erra](https://swaruu.org/transcripts/el-inconsciente-colectivo-dicta-tu-realidad-la-matrix-swaruu-de-erra) (2022-08-11; es); passages p0023, p0024, p0025, p0028. [Structured record](../../records/src-15e3ff87a1f4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-52c31730f7eb-c03
+
+Anéeka describes humanity as following preset collective patterns; she advises broad study and continual revision of one’s personal cosmology. Her account and advice.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [NACIDOS PARA NO PENSAR - CONVERSACIÓN CON UNA MUJER EXTRATERRESTRE - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/nacidos-para-no-pensar-conversacion-con-una-mujer-extraterrestre-aneeka-de-temmer-taygeta) (2022-01-18; es); passages p0020, p0024, p0025, p0026. [Structured record](../../records/src-52c31730f7eb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ce0d96e82011-c04
+
+Athena says Earth’s Matrix supplies an insertion with a local causal history, potentially including memories.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 3 PARTE 2 - Éter - Insertando Objetos en la Matrix - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-3-parte-2-eter-insertando-objetos-en-la-matrix-athena-swaruu) (2022-07-04; es); passages p0061, p0066, p0075, p0077. [Structured record](../../records/src-ce0d96e82011.json).
+
+Related topics: [Memory implantation](memory-implantation.md).
+
+### src-906e32a9d0d6-c02
+
+She says imposed lunar 3D frequencies reduced Source connection and fostered Earthbound regressive egregors.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Luna - Fue Instalada para Estabilizar la Tierra - Athena Swaruu Explica](https://swaruu.org/transcripts/luna-fue-instalada-para-estabilizar-la-tierra-athena-swaruu-explica) (2022-06-13; es); passages p0017, p0019, p0022. [Structured record](../../records/src-906e32a9d0d6.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-906e32a9d0d6-c03
+
+Athena says abrupt frequency elevation risks population harm and may strengthen egregors, rather than destroy them.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Luna - Fue Instalada para Estabilizar la Tierra - Athena Swaruu Explica](https://swaruu.org/transcripts/luna-fue-instalada-para-estabilizar-la-tierra-athena-swaruu-explica) (2022-06-13; es); passages p0037, p0038, p0041, p0043. [Structured record](../../records/src-906e32a9d0d6.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-906e32a9d0d6-c04
+
+Swaruu 9 says Earth alone has a lunar Matrix; other worlds may have 3D through perception or control.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Luna - Fue Instalada para Estabilizar la Tierra - Athena Swaruu Explica](https://swaruu.org/transcripts/luna-fue-instalada-para-estabilizar-la-tierra-athena-swaruu-explica) (2022-06-13; es); passages p0050, p0052. [Structured record](../../records/src-906e32a9d0d6.json).
+
+Related topics: [The Moon as a biosphere ship](moon-biosphere-ship.md).
+
+### src-830158547001-c02
+
+Yazhi says lunar machines formed an etheric barrier restricting Earth’s outside interaction and inhabitants’ perception.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO EXISTEN DENSIDADES COMO TALES - LAS MÁQUINAS DE LA LUNA - Sophia Swaruu](https://swaruu.org/transcripts/no-existen-densidades-como-tales-las-maquinas-de-la-luna-sophia-swaruu) (2022-05-06; es); passages p0013. [Structured record](../../records/src-830158547001.json).
+
+Related topics: [Ether field](ether-field.md).
+
+### src-4e1a2ca272e5-c03
+
+Anéeka said Matrix mind control and shared beliefs chiefly limit human abilities and can affect genetic expression.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [La raza \#Humana esta compuesta de 22 razas \#Extraterrestres - \#Aneeka de Temmer - \#Taygeta](https://swaruu.org/transcripts/la-raza-humana-esta-compuesta-de-22-razas-extraterrestres-aneeka-de-temmer-taygeta) (2021-11-27; es); passages p0059, p0061, p0062. [Structured record](../../records/src-4e1a2ca272e5.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-b6d4df9b3066-c01
+
+Anéeka says the Matrix’s shared perceptual agreements set rules that can limit abilities such as telepathy or faster-than-light travel.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL CONTROL MENTAL LIMITA TUS CAPACIDADES - Aneeka - Yazhi - Athena - Swaruu](https://swaruu.org/transcripts/el-control-mental-limita-tus-capacidades-aneeka-yazhi-athena-swaruu) (2022-07-11; es); passages p0002. [Structured record](../../records/src-b6d4df9b3066.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a32bbe4fc74a-c03
+
+Anéeka describes the Moon as a metal station with interior water tanks and later-added uranium reactors.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LA NASA - MISIONES ARTEMISA - ES INVIABLE QUE EL HOMBRE LLEGUE A LA LUNA CON ESA TECNOLOGIA](https://swaruu.org/transcripts/la-nasa-misiones-artemisa-es-inviable-que-el-hombre-llegue-a-la-luna-con-esa-tecnologia) (2022-08-30; es); passages p0038, p0039, p0041, p0043, p0045. [Structured record](../../records/src-a32bbe4fc74a.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -1998,11 +2098,27 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-f2d7d797c8f4-c05](consciousness-metaphysics.md#src-f2d7d797c8f4-c05) — Consciousness and metaphysics
 - [src-2f14c95980f4-c04](astral-travel.md#src-2f14c95980f4-c04) — Astral Travel
 - [src-4a65be032f34-c01](consciousness-metaphysics.md#src-4a65be032f34-c01) — Consciousness and metaphysics
+- [src-b1091aecbbaa-c03](extraterrestrial-stepdowns.md#src-b1091aecbbaa-c03) — Extraterrestrial step-downs
+- [src-0669cfd94f43-c02](starseeds.md#src-0669cfd94f43-c02) — Starseeds
+- [src-52c31730f7eb-c02](consciousness-metaphysics.md#src-52c31730f7eb-c02) — Consciousness and metaphysics
+- [src-ce0d96e82011-c05](perceptual-density.md#src-ce0d96e82011-c05) — Perceptual density
+- [src-bb19379f0b60-c02](consciousness-metaphysics.md#src-bb19379f0b60-c02) — Consciousness and metaphysics
+- [src-4e1a2ca272e5-c04](consciousness-metaphysics.md#src-4e1a2ca272e5-c04) — Consciousness and metaphysics
+- [src-9bdd3d5f2289-c01](earth-cabal.md#src-9bdd3d5f2289-c01) — Earth Cabal and power structures
+- [src-598faa62de95-c03](secret-space-program.md#src-598faa62de95-c03) — Secret Space Program
+- [src-bfb9700317e0-c03](moon-biosphere-ship.md#src-bfb9700317e0-c03) — The Moon as a biosphere ship
+- [src-e9adfed45e60-c02](galactic-federation.md#src-e9adfed45e60-c02) — Galactic Federation
+- [src-e9adfed45e60-c05](secret-space-program.md#src-e9adfed45e60-c05) — Secret Space Program
+- [src-375ee3e4cf1f-c04](druidic-traditions.md#src-375ee3e4cf1f-c04) — Druidic traditions
+- [src-9021de63c829-c03](astral-entities.md#src-9021de63c829-c03) — Astral entities
 
 ## Review flags
 
 - 3d-to-5d-transition
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
+- COVID-and-vaccine-claims-omitted
+- Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
+- Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
 - Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
@@ -2013,8 +2129,10 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-arguments\_reported
 - Federation-policy\_claims\_attributed
+- High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- Transcript combines several speakers and dates; claims preserve speaker attribution
 - afterlife\_model
 - agency\_and\_noninterference
 - agenda21-assertion
@@ -2109,8 +2227,11 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - nonstandard-biology-claims
 - nonstandard-physics-claims
 - nonstandard-planetary-model
+- personal-responsibility-model-retains-victim-perspective
 - personal\_accusations
+- perspective-conflict:time-jump-effects
 - perspective-dependent-claims
+- perspective-dependent-responsibility
 - perspective-variation
 - planetary-reset-cycle-attributed
 - positronic-wave-source-disputed-with-alcyone-claims
@@ -2120,9 +2241,11 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - religion-personal-benefit-versus-social-harm
 - reset-sequence-and-dating-unclear
 - same-language-counterpart:src-cb51273860c3-wording-diff-agresivos
+- satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
 - sensitive\_claims
 - simulation-and-AI-claims
 - soul-model-metaphysical
+- source makes unverified claims about extraterrestrial warfare and Federation involvement
 - speaker-attribution-inferred-from-transcript
 - speaker-label-ambiguity
 - speaker: interviewer prompts excluded as claims
@@ -2150,3 +2273,4 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - unverified\_medical\_claims
 - unverified\_paranormal\_claims
 - unverified\_technology\_claims
+- victim-blaming-and-anti-therapy-claims-omitted

@@ -1,0 +1,111 @@
+{
+  "source_id": "src-e10b7b1c1712",
+  "snapshot_sha256": "bd40084be606a75e13e196692f08f19bd2ccd2987544858b019f0698c58542c7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e10b7b1c1712-c01",
+      "assertion": "Yazhi says pyramid mathematics and stellar navigation point to multiple advanced extraterrestrial builders.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "great-pyramid-of-giza",
+      "topics": [
+        "great-pyramid-of-giza",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e10b7b1c1712-c02",
+      "assertion": "Yazhi describes pyramids as zero-point wireless-power generators and consciousness portals.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "pyramid-network",
+      "topics": [
+        "pyramid-network",
+        "energy-generation",
+        "artificial-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e10b7b1c1712-c03",
+      "assertion": "Athena says pulley cranes and a spiral perimeter ramp raised stones, partly lightened by antigravity.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "great-pyramid-of-giza",
+      "topics": [
+        "great-pyramid-of-giza",
+        "gravity-harmonics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e10b7b1c1712-c04",
+      "assertion": "Anéeka says the Sphinx predates the pyramids and represents Egypt’s year from Virgo to Leo.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0036",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "great-pyramid-of-giza"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e10b7b1c1712-c05",
+      "assertion": "Anéeka says twin Sphinxes represented Upper and Lower Egypt; most Egyptian buildings are underground.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0041",
+        "p0043"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "great-pyramid-of-giza"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified"
+  ],
+  "coverage_gaps": [
+    "pyramid casing and materials",
+    "pyramid collector components",
+    "Sphinx and Urmah relationship"
+  ]
+}

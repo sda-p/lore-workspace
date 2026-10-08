@@ -1,0 +1,225 @@
+{
+  "batch_id": "continuous-016",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-b1091aecbbaa",
+    "src-8636b4bb3446",
+    "src-621113b9af49",
+    "src-e0aac48a5c49",
+    "src-59c853fbd4b4",
+    "src-64966405e66f",
+    "src-7d45f5f944a1",
+    "src-fd0bbccdb853",
+    "src-a18d1af875eb",
+    "src-113e831d374d",
+    "src-33cfa6ed8fcd",
+    "src-99ccae21b4fb",
+    "src-8372138cf73b",
+    "src-1eb9dc311794",
+    "src-4e1a2ca272e5",
+    "src-bdd4b433825f",
+    "src-f94fd5d77808",
+    "src-d26552c9fbda",
+    "src-6d8ed766cc58",
+    "src-2a993dac1a51",
+    "src-ce78d7905978",
+    "src-b537b1865940",
+    "src-aec6c1a86364",
+    "src-660558e7aa14",
+    "src-4bbe9951863f",
+    "src-ea07e710cf87",
+    "src-65e909f41f9a",
+    "src-72f8c6904500",
+    "src-12823666aeee",
+    "src-b6f425d6f3ea",
+    "src-226904c4f73e",
+    "src-b6d92d26782e",
+    "src-d8771f2c1186",
+    "src-29eb9565748a",
+    "src-a32bbe4fc74a",
+    "src-15e3ff87a1f4",
+    "src-8e0dc9c725c3",
+    "src-bc6ca9130ba5",
+    "src-0f5047c8c5f2",
+    "src-9d6224eacf32",
+    "src-4bd203cbfe4d",
+    "src-b0eb8093b751",
+    "src-a8d6c63dc563",
+    "src-23345f09145a",
+    "src-9bdd3d5f2289",
+    "src-2496c5717d1f",
+    "src-a49e51e7bd80",
+    "src-0dcb4b37d8c4",
+    "src-e10b7b1c1712",
+    "src-e9adfed45e60",
+    "src-598faa62de95",
+    "src-ca8f3655acdd",
+    "src-b524630b8007",
+    "src-b00727c7921a",
+    "src-1d25f0981aa7",
+    "src-5b52df948628",
+    "src-52c31730f7eb",
+    "src-2ebd8e231c94",
+    "src-d09bb19b5eaf",
+    "src-bfb9700317e0",
+    "src-9d5476909933",
+    "src-e0c2e2fb61b4",
+    "src-b0c5455056ea",
+    "src-75d6af7d0b46",
+    "src-9cde082f48c4",
+    "src-0f643414e014",
+    "src-bd6721b51e72",
+    "src-9a37f5242cc3",
+    "src-f4178a54647e",
+    "src-a3598fbda73f",
+    "src-eb63ff9a2c19",
+    "src-0988c92dc407",
+    "src-83d0afc07ef6",
+    "src-8fd97fb04d46",
+    "src-6be48f6d0431",
+    "src-ec6c591d861f",
+    "src-a29facfa8073",
+    "src-56f6493ab6a3",
+    "src-9021de63c829",
+    "src-cb85dc7702bb"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-621113b9af49",
+      "claim_id": "src-621113b9af49-c02",
+      "problem": "The claim attributes radiation filtering to the nebula, but the cited set omitted the direct passage.",
+      "action": "Added the passage explicitly stating the nebula filters Aldebaran radiation.",
+      "paragraph_ids": [
+        "p0019"
+      ]
+    },
+    {
+      "source_id": "src-ec6c591d861f",
+      "claim_id": "src-ec6c591d861f-c03",
+      "problem": "The report attributed the nonintervention rationale directly to Yazhi, while the paragraph explicitly attributes the explanation to Alex Collier and says Yazhi endorses it.",
+      "action": "Made Yazhi’s citation of Alex Collier explicit while retaining her endorsement.",
+      "paragraph_ids": [
+        "p0009"
+      ]
+    },
+    {
+      "source_id": "src-b1091aecbbaa",
+      "claim_id": "src-b1091aecbbaa-c01",
+      "problem": "Combined drone specifications from Swaruu X (Athena) and flight-plan/Prime Directive rules from Anéeka under Anéeka-only attribution.",
+      "action": "Separated speaker attribution in the claim while retaining both supported clauses.",
+      "paragraph_ids": [
+        "p0109",
+        "p0110",
+        "p0112",
+        "p0114"
+      ]
+    },
+    {
+      "source_id": "src-33cfa6ed8fcd",
+      "claim_id": "src-33cfa6ed8fcd-c02",
+      "problem": "The record inferred that high Federation bureaucracy constrains local officials; cited paragraphs instead emphasize loss of jurisdiction/accountability, remote identities, delays, and coordination problems.",
+      "action": "Removed the unsupported local-official constraint and stated the described accountability/coordination problem.",
+      "paragraph_ids": [
+        "p0061",
+        "p0062"
+      ]
+    },
+    {
+      "source_id": "src-33cfa6ed8fcd",
+      "claim_id": "src-33cfa6ed8fcd-c03",
+      "problem": "The network and Earth AI assimilation are described directly, but the proposed influence on decisions is explicitly framed as possible.",
+      "action": "Marked the combined claim speculative and medium confidence.",
+      "paragraph_ids": [
+        "p0062",
+        "p0075",
+        "p0086"
+      ]
+    },
+    {
+      "source_id": "src-2ebd8e231c94",
+      "claim_id": "src-2ebd8e231c94-c04",
+      "problem": "The original wording asserted U.S. seizure as an accomplished fact; the cited passage instead describes an attributed desire to reverse-engineer/confiscate portals.",
+      "action": "Rephrased as a stated U.S. aim and retained the uncertainty about current operation.",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0044"
+      ]
+    },
+    {
+      "source_id": "src-b00727c7921a",
+      "claim_id": "src-b00727c7921a-c05",
+      "problem": "The original phrasing generalized compatibility as the reason for all souls entering, omitting service-oriented exceptions.",
+      "action": "Added the source’s service-motive and later incompatibility qualification.",
+      "paragraph_ids": [
+        "p0037",
+        "p0039"
+      ]
+    },
+    {
+      "source_id": "src-8e0dc9c725c3",
+      "claim_id": "src-8e0dc9c725c3-c02",
+      "problem": "The claim that known civilizations appeared uninfluenced was not directly supported by its citations.",
+      "action": "Removed that inference; retained Dhor’s explicit distinction and his caveat about lack of corroboration.",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0036"
+      ]
+    },
+    {
+      "source_id": "src-b6d92d26782e",
+      "claim_id": "src-b6d92d26782e-c01",
+      "problem": "Claim said rest restores subtler perception; cited passages only directly say coffee suppresses it and food, exercise, and rest bring more energy.",
+      "action": "Narrowed the outcome to the source’s explicit energy statement.",
+      "paragraph_ids": [
+        "p0073",
+        "p0075",
+        "p0077"
+      ]
+    },
+    {
+      "source_id": "src-a49e51e7bd80",
+      "claim_id": "src-a49e51e7bd80-c03",
+      "problem": "The claim says the network may influence decisions, which the speaker frames as a possibility, while the record marked it asserted/high confidence.",
+      "action": "Changed modality to speculative and confidence to medium.",
+      "paragraph_ids": [
+        "p0045",
+        "p0047"
+      ]
+    },
+    {
+      "source_id": "src-75d6af7d0b46",
+      "claim_id": "src-75d6af7d0b46-c03",
+      "problem": "The claim includes who can see the beings unaided, but the cited passage set omitted the direct speaker-specific statement.",
+      "action": "Added the passage stating Yazhi can see them and Athena cannot.",
+      "paragraph_ids": [
+        "p0025"
+      ]
+    },
+    {
+      "source_id": "src-113e831d374d",
+      "claim_id": "src-113e831d374d-c01",
+      "problem": "The record proposed druidic-traditions metadata that conflicts with the current canonical topic entry.",
+      "action": "Updated the record topic object to match the current canonical metadata without changing the claim topic ID.",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ]
+    },
+    {
+      "source_id": "src-56f6493ab6a3",
+      "claim_id": "src-56f6493ab6a3-c01",
+      "problem": "The record proposed antarctica metadata that conflicts with the current canonical topic entry.",
+      "action": "Updated the record topic object to match the current canonical metadata without changing the claim topic ID.",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ]
+    }
+  ],
+  "unresolved": []
+}

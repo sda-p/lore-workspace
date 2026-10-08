@@ -576,6 +576,102 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [EL TIEMPO - SALTOS TEMPORALES \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/el-tiempo-saltos-temporales-sin-video) (2021-06-27; es); passages p0006, p0007, p0009. [Structured record](../../records/src-0d554c77905f.json).
 
+### src-fd0bbccdb853-c03
+
+She says hyperspace capability also enables time travel and matter or situation manipulation; High Council ethics restrict use because it can alter perception and lived experience. She describes these as shared social rules.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar III - Vuelo Interestelar - Hiper Espacio - Viajes en el Tiempo - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-iii-vuelo-interestelar-hiper-espacio-viajes-en-el-tiempo-athena-swaruu) (2022-04-03; es); passages p0025, p0071, p0073, p0089, p0093, p0095, p0102, p0104. [Structured record](../../records/src-fd0bbccdb853.json).
+
+Related topics: [Tractor beams](tractor-beams.md), [Holistic society](holistic-society.md).
+
+### src-99ccae21b4fb-c02
+
+She says sparse event maps can misdate missions; she recounts Romans building Hadrian’s Wall while Renaissance art and music appeared concurrently in France.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Historia Humana Miente - Parte 2 - Viajar en Tiempo no Ayuda - Athena Swaruu (X)](https://swaruu.org/transcripts/historia-humana-miente-parte-2-viajar-en-tiempo-no-ayuda-athena-swaruu-x) (2022-09-17; es); passages p0025, p0027, p0028, p0030, p0032, p0050, p0051, p0052. [Structured record](../../records/src-99ccae21b4fb.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-9faade64b5f5-c01
+
+Athena says temporal travel reveals multiple possible futures, which she averages to infer a likely outcome rather than identify one fixed future. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Viaje al Futuro - Salto HiperEspacio - Viajes en el Tiempo - Athena Swaruu](https://swaruu.org/transcripts/viaje-al-futuro-salto-hiperespacio-viajes-en-el-tiempo-athena-swaruu) (2022-04-10; es); passages p0003. [Structured record](../../records/src-9faade64b5f5.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-d0de3dcb86df-c04
+
+Athena recounts one jump where Roman construction in Britain coincided with Renaissance-era Paris.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Viajes en el tiempo - No son como nos cuentan - Primera Parte - Athena Swaruu](https://swaruu.org/transcripts/viajes-en-el-tiempo-no-son-como-nos-cuentan-primera-parte-athena-swaruu) (2022-03-08; es); passages p0033, p0041, p0045. [Structured record](../../records/src-d0de3dcb86df.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-74cf1c7706e3-c05
+
+Athena says repeated jumps have no lifetime limit for a body.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 4 (Parte 2) - Naves Espaciales en Hiper Espacio (Athena Swaruu)](https://swaruu.org/transcripts/navegacion-estelar-4-parte-2-naves-espaciales-en-hiper-espacio-athena-swaruu) (2022-07-24; es); passages p0008, p0009. [Structured record](../../records/src-74cf1c7706e3.json).
+
+### src-830158547001-c03
+
+Yazhi says each soul has a timeline; shared timelines reflect agreements between souls.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO EXISTEN DENSIDADES COMO TALES - LAS MÁQUINAS DE LA LUNA - Sophia Swaruu](https://swaruu.org/transcripts/no-existen-densidades-como-tales-las-maquinas-de-la-luna-sophia-swaruu) (2022-05-06; es); passages p0020. [Structured record](../../records/src-830158547001.json).
+
+### src-830158547001-c04
+
+Swaruu 9 says time jumps change only the traveler’s timeline; Yazhi says changes can affect souls in a higher collective mind. Contrasting attributed models.
+
+Attributed to **Swaruu 9 and Yazhi**; reported; extraction confidence: high.
+
+Source: [NO EXISTEN DENSIDADES COMO TALES - LAS MÁQUINAS DE LA LUNA - Sophia Swaruu](https://swaruu.org/transcripts/no-existen-densidades-como-tales-las-maquinas-de-la-luna-sophia-swaruu) (2022-05-06; es); passages p0018, p0027. [Structured record](../../records/src-830158547001.json).
+
+### src-830158547001-c05
+
+Yazhi says shared information can alter collective perception and its timeline; she calls her explanation preliminary.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [NO EXISTEN DENSIDADES COMO TALES - LAS MÁQUINAS DE LA LUNA - Sophia Swaruu](https://swaruu.org/transcripts/no-existen-densidades-como-tales-las-maquinas-de-la-luna-sophia-swaruu) (2022-05-06; es); passages p0028, p0029, p0031. [Structured record](../../records/src-830158547001.json).
+
+### src-9d5476909933-c02
+
+She says each being is its timeline, while collective timelines are approximate perception agreements.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [NO HAY LIBRE ALBEDRÍO - EN LA TIERRA - ANEEKA DE TEMMER - \#TAYGETA](https://swaruu.org/transcripts/no-hay-libre-albedrio-en-la-tierra-aneeka-de-temmer-taygeta) (2022-02-21; es); passages p0026, p0029. [Structured record](../../records/src-9d5476909933.json).
+
+### src-daa6375b23e6-c03
+
+Yazhi says expanded awareness treats past and future as ideas; fear concerns imagined futures.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Memorias de Vidas Pasadas - Contemplaciones con Athena, Yazhi, y Gosia](https://swaruu.org/transcripts/memorias-de-vidas-pasadas-contemplaciones-con-athena-yazhi-y-gosia) (2022-08-12; es); passages p0015. [Structured record](../../records/src-daa6375b23e6.json).
+
+### src-daa6375b23e6-c04
+
+Yazhi says changing one’s interpretation of the past can shift present mindset and future; multiple pasts converge on the present.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [Memorias de Vidas Pasadas - Contemplaciones con Athena, Yazhi, y Gosia](https://swaruu.org/transcripts/memorias-de-vidas-pasadas-contemplaciones-con-athena-yazhi-y-gosia) (2022-08-12; es); passages p0018, p0021, p0025. [Structured record](../../records/src-daa6375b23e6.json).
+
 ## Claims filed under other topics
 
 - [src-c72b629726c7-c01](stellar-navigation.md#src-c72b629726c7-c01) — Stellar navigation
@@ -609,12 +705,21 @@ Source: [EL TIEMPO - SALTOS TEMPORALES \*\*SIN VIDEO\*\*](https://swaruu.org/tra
 - [src-a16662523ccb-c01](consciousness-metaphysics.md#src-a16662523ccb-c01) — Consciousness and metaphysics
 - [src-ed934b122dbc-c02](sand-clock.md#src-ed934b122dbc-c02) — Sand Clock
 - [src-ed934b122dbc-c03](timeline-branching.md#src-ed934b122dbc-c03) — Timeline branching
+- [src-99ccae21b4fb-c01](frequency-map-navigation.md#src-99ccae21b4fb-c01) — Frequency-map navigation
+- [src-051532dd5b50-c01](timeline-branching.md#src-051532dd5b50-c01) — Timeline branching
+- [src-52d2d3f49000-c04](frequency-map-navigation.md#src-52d2d3f49000-c04) — Frequency-map navigation
+- [src-d0de3dcb86df-c02](frequency-map-navigation.md#src-d0de3dcb86df-c02) — Frequency-map navigation
+- [src-9f9a5d3a7e35-c04](consciousness-metaphysics.md#src-9f9a5d3a7e35-c04) — Consciousness and metaphysics
+- [src-8372138cf73b-c03](sand-clock.md#src-8372138cf73b-c03) — Sand Clock
 
 ## Review flags
 
+- Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence.
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-dd0d7340a655 closely translates the complete Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
+- Historical chronology and the reported overlap are source claims; exact dating remains uncertain
+- Tartaria chronology and destruction are presented as disputed source claims
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - Timeline travel described as branching/lateral; source does not quantify coordinates.
 - Van Allen belts both set a baseline and can be transcended; preserve distinction.
@@ -627,22 +732,32 @@ Source: [EL TIEMPO - SALTOS TEMPORALES \*\*SIN VIDEO\*\*](https://swaruu.org/tra
 - extraordinary-ability-claims
 - flight-19-explanation-uncertain
 - forecast-limitations
+- historical-chronology-claims-unverified
 - integration-vs-personal-identity
 - internal-date-tension
 - long conversation contains disputed health claims not included in core extraction
+- lore-claims-attributed-to-Yazhi
 - memory-rewriting-is-personal-only
 - mental-health-claims-excluded
 - mirror-identity-varies
+- near-duplicate-of-src-051532dd5b50
+- near-duplicate:src-d328a6c23916
+- perception-model-uses-and-rejects-literal-timeline-terms
 - personal-ability-claims-attributed
 - personal\_metaphysics
+- perspective-conflict:time-jump-effects
 - portal-time-travel-risk
 - psychological memory-rewriting discussion could be confused with clinical guidance
 - quantum-computing-claims
+- reported-shared-memory
+- reported:pilot-encounters
 - same-language-near-duplicate-src-6a5223076196
 - self-described-species-transition
 - sentient-ai-ethics
 - speaker-shift-in-source
+- speaker-switch:Athena-to-Yazhi
 - speaker\_attribution
+- speculation:federation-experiments
 - subjective-time-model
 - temporal-branching-does-not-alter-observers' timelines
 - temporal-duplicate-theory

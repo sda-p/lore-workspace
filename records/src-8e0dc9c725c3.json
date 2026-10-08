@@ -1,0 +1,73 @@
+{
+  "source_id": "src-8e0dc9c725c3",
+  "snapshot_sha256": "420b5f57543cec4ccbf43a66734f576bb7171ce0dc20c50dc81f50d59072ac78",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8e0dc9c725c3-c01",
+      "assertion": "Swaruu described autonomous synthetic intelligence as distinct from ordinary programmed AI, seeking assimilation and suppressing individuality.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8e0dc9c725c3-c02",
+      "assertion": "Dhor distinguished a friendly Federation information network from a regressive Borg-like group that assimilates civilizations; he said its link to black goo lacked direct corroboration.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "galactic-federation",
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "He said known civilizations appeared uninfluenced."
+    },
+    {
+      "id": "src-8e0dc9c725c3-c03",
+      "assertion": "Dhor portrayed Borg as nonlocal software using hardware such as computers and crystals; their origin is unknown, and timeless origins are his theory.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0054",
+        "p0061",
+        "p0063",
+        "p0065",
+        "p0067"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "black-goo",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "He had not seen it himself."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about invasive AI and Borg are attributed to the speakers; the transcript provides no independent evidence."
+  ],
+  "coverage_gaps": [
+    "proposed invasion through values",
+    "relation to transhumanism"
+  ]
+}

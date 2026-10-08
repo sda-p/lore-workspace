@@ -1,0 +1,95 @@
+{
+  "source_id": "src-e0a9693e485e",
+  "snapshot_sha256": "cbbc5bf8940749b2a3b643904f2e3a6f2d96371d02c2ac6e35f4d06a0f717957",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e0a9693e485e-c01",
+      "assertion": "Yazhi said Cabal and egregors depend on human participation and shared thought patterns.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0045"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0a9693e485e-c02",
+      "assertion": "Yazhi claimed clones or non-clones under mind control and regressive hybrids reinforce the Matrix; starseeds oppose them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0020",
+        "p0021",
+        "p0048"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "memory-implantation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0a9693e485e-c03",
+      "assertion": "Athena said holistic society should emerge from people’s consciousness; local projects can model it but need wider coordination.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0054",
+        "p0055",
+        "p0063",
+        "p0065"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said local efforts alone have limited reach."
+    },
+    {
+      "id": "src-e0a9693e485e-c04",
+      "assertion": "Athena said isolated communities face resource and security limits; removing money can increase vulnerability.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0057",
+        "p0058",
+        "p0059",
+        "p0060"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She still encouraged local efforts."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence."
+  ],
+  "coverage_gaps": [
+    "Hitler and historical control networks",
+    "technical details of proposed holographic governance"
+  ]
+}

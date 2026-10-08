@@ -1,0 +1,32 @@
+{
+  "source_id": "src-4255098ec77d",
+  "snapshot_sha256": "b1bb9d7088b005a3f4afd293f718bb4a8d2453e7b57e4c326c7bc546f638ced8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4255098ec77d-c01",
+      "assertion": "Swaruu X (Athena) reported seeing film crews, staged damage, and pyrotechnic fires in Kyiv, which she interpreted as evidence of a media-fabricated war narrative.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0010", "p0011", "p0014", "p0015", "p0016"],
+      "primary_topic": "engineered-social-unrest",
+      "topics": ["engineered-social-unrest", "earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She said their view was incomplete and did not establish the full situation."
+    },
+    {
+      "id": "src-4255098ec77d-c02",
+      "assertion": "Athena said civilian suffering and displacement were real but denied combat occurred at the scale shown in media; she allowed brief local clashes.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0013", "p0017", "p0018", "p0019", "p0033", "p0036"],
+      "primary_topic": "engineered-social-unrest",
+      "topics": ["engineered-social-unrest", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said they could not determine the actual scale of fighting."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["Claims about the 2022 war and alleged media staging are attributed to Swaruu X (Athena); the transcript provides no independent evidence."],
+  "coverage_gaps": ["claimed Russian cooperation", "reports of civilian attacks"]
+}

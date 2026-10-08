@@ -330,6 +330,14 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Estrellas y Pleyades - "su edad" - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/estrellas-y-pleyades-su-edad) (2021-07-19; es); passages p0034, p0036. [Structured record](../../records/src-f6ab3c7365f3.json).
 
+### src-621113b9af49-c06
+
+Taygetans grow imported crops underground under controlled conditions to avoid disrupting Cyndriel’s native ecosystem.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-sin-video) (2021-11-21; es); passages p0082, p0083. [Structured record](../../records/src-621113b9af49.json).
+
 ## Claims filed under other topics
 
 - [src-8ca54257f6a4-c03](cyndriel.md#src-8ca54257f6a4-c03) — Cyndriel
@@ -358,6 +366,7 @@ Source: [Estrellas y Pleyades - "su edad" - \*\*SIN VIDEO\*\*](https://swaruu.or
 ## Review flags
 
 - Anéeka explicitly distinguishes “gravity holes” from black holes.
+- Cyndriel’s surface–orbit time discrepancy is unexplained.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Senetre-diagnosed-weapon-route-suspected
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated

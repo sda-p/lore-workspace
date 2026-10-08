@@ -1,0 +1,65 @@
+{
+  "source_id": "src-fd3cad24685f",
+  "snapshot_sha256": "dbde28db75b059328e7d50a553c58a7a69b24356c66b684d754b7a203154c22b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fd3cad24685f-c01",
+      "assertion": "Yazhi endorsed “I do not consent” as clear, direct wording, saying the universe responds to intent and that “no” can help protect people’s rights.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd3cad24685f-c02",
+      "assertion": "Gosia said such videos address the Cabal rather than the universe; Yazhi agreed that the message is directed to people who watch them.",
+      "speaker": "Gosia; Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Gosia said affirmation wording depends on context."
+    },
+    {
+      "id": "src-fd3cad24685f-c03",
+      "assertion": "Yazhi used “tulpas” and “egregors” as neutral terms for personal or collective manifestations, whose positive or negative valence depends on perspective.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "application of affirmative-phrase theory"
+  ]
+}

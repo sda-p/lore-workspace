@@ -332,6 +332,62 @@ Source: [Jesús (Parte 2) - Manipulación de las Masas - Swaruu de Erra (Comunic
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-c51704b659a3-c01
+
+Swaruu 9 interprets Ishtar as bearing symbols of eternal life and temporal control.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [Isthar simbologia – Swaruu de Erra - Taygeta](https://swaruu.org/transcripts/isthar-simbologia-swaruu-de-erra-taygeta) (2022-01-25; es); passages p0002. [Structured record](../../records/src-c51704b659a3.json).
+
+### src-c51704b659a3-c02
+
+She reads Ishtar’s wings as flight and achievement, while flanking owls signify wormhole portals.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [Isthar simbologia – Swaruu de Erra - Taygeta](https://swaruu.org/transcripts/isthar-simbologia-swaruu-de-erra-taygeta) (2022-01-25; es); passages p0003, p0004. [Structured record](../../records/src-c51704b659a3.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-c51704b659a3-c03
+
+Swaruu says Ishtar’s nine head-serpents represent Pleiades stars and wisdom; serpents signify ships or DNA, not Reptilians.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [Isthar simbologia – Swaruu de Erra - Taygeta](https://swaruu.org/transcripts/isthar-simbologia-swaruu-de-erra-taygeta) (2022-01-25; es); passages p0008, p0012, p0014. [Structured record](../../records/src-c51704b659a3.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-c51704b659a3-c05
+
+Swaruu interprets Osiris as “all-seeing” and says the eye sees through a ship.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [Isthar simbologia – Swaruu de Erra - Taygeta](https://swaruu.org/transcripts/isthar-simbologia-swaruu-de-erra-taygeta) (2022-01-25; es); passages p0010. [Structured record](../../records/src-c51704b659a3.json).
+
+### src-e10b7b1c1712-c04
+
+Anéeka says the Sphinx predates the pyramids and represents Egypt’s year from Virgo to Leo.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LOS GRANDES MISTERIOS DE LAS PIRÁMIDES EGIPCIAS Y LA GRAN ESFINGE DE GUIZA](https://swaruu.org/transcripts/los-grandes-misterios-de-las-piramides-egipcias-y-la-gran-esfinge-de-guiza) (2022-09-03; es); passages p0034, p0035, p0036, p0038, p0040. [Structured record](../../records/src-e10b7b1c1712.json).
+
+Related topics: [Great Pyramid of Giza](great-pyramid-of-giza.md).
+
+### src-e10b7b1c1712-c05
+
+Anéeka says twin Sphinxes represented Upper and Lower Egypt; most Egyptian buildings are underground.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LOS GRANDES MISTERIOS DE LAS PIRÁMIDES EGIPCIAS Y LA GRAN ESFINGE DE GUIZA](https://swaruu.org/transcripts/los-grandes-misterios-de-las-piramides-egipcias-y-la-gran-esfinge-de-guiza) (2022-09-03; es); passages p0041, p0043. [Structured record](../../records/src-e10b7b1c1712.json).
+
+Related topics: [Great Pyramid of Giza](great-pyramid-of-giza.md).
+
 ## Claims filed under other topics
 
 - [src-8889af167782-c03](natural-portals.md#src-8889af167782-c03) — Natural and artificial portals
@@ -352,6 +408,8 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-35ef7583ec87-c06](flavian-jesus-claim.md#src-35ef7583ec87-c06) — Flavian Jesus narrative
 - [src-71496b122bfb-c01](arsinoe-magdalene.md#src-71496b122bfb-c01) — Arsinoe–Mary Magdalene
 - [src-e62c02d313c5-c03](stellar-navigation.md#src-e62c02d313c5-c03) — Stellar navigation
+- [src-6fff99fdbd26-c03](great-pyramid-of-giza.md#src-6fff99fdbd26-c03) — Great Pyramid of Giza
+- [src-9c3e0642a4e2-c01](ritual-symbolism-in-media.md#src-9c3e0642a4e2-c01) — Ritual symbolism in toys and media
 
 ## Review flags
 
@@ -361,6 +419,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - alternative-history-claims-attributed
 - astronomical-claims-unverified
 - astronomical-symbolism-claims
+- claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified
 - conspiracy\_claims
 - definition\_varies
 - disputed-scriptural-history
@@ -374,11 +433,14 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - metaphysical-model
 - pluto-classification-esoteric-claim
 - postmortem-perception-and-reincarnation-model
+- pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified
 - related\_series\_part
 - religious-history-reinterpretation
 - secret-society-name-uncertain
 - source distinguishes historical nonexistence in this timeline from a belief-generated egregore
 - speaker-attribution-inferred-from-robert-transcript
 - speaker-perspective-model
+- symbolic-interpretation-attributed-to-Swaruu9
 - symbolic\_interpretations
 - translation-counterpart:src-476c3db82f6f-partial-overlap; English adds religious attachment and egregor discussion
+- two-sphinx-vs-two-kingdom-symbolism

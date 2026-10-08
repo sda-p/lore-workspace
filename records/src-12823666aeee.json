@@ -1,0 +1,54 @@
+{
+  "source_id": "src-12823666aeee",
+  "snapshot_sha256": "501c8143aa6524ea09029f0bd30cc18f556d574bb0e1a03d456e5d5c3d5c1349",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-12823666aeee-c01",
+      "assertion": "Yazhi rejected inevitable planetary ascension, describing ascension instead as individual growth in perception and consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0009", "p0010", "p0012", "p0014"],
+      "primary_topic": "individual-ascension",
+      "topics": ["individual-ascension", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-12823666aeee-c02",
+      "assertion": "Yazhi said people sharing a vision could form agreements that support a more positive society, while duality and conflict remain.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0010", "p0014"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "individual-ascension"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-12823666aeee-c03",
+      "assertion": "Yazhi advocated confronting unwanted personal and collective traits as shadow work, arguing integration and awareness can support change.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0027", "p0030", "p0036", "p0049"],
+      "primary_topic": "shadow-work",
+      "topics": ["shadow-work", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-12823666aeee-c04",
+      "assertion": "Yazhi urged people to act proactively, saying small actions accumulate and individuals should choose what they can do.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0053", "p0054", "p0056", "p0061", "p0066"],
+      "primary_topic": "individual-ascension",
+      "topics": ["individual-ascension", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said she saw people as central to Earth's problems and solutions."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["death and postmortem outcomes", "Earth's collective frequency"]
+}

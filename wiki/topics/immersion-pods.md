@@ -378,18 +378,44 @@ Source: [Pods de Inmersiones 1 - Tecnología Extraterrestre Avanzada de Multi Us
 
 Related topics: [Muon-triggered gravity communications](muon-gravity-communications.md).
 
+### src-2496c5717d1f-c03
+
+Swaruu 9 separately describes computer-controlled zero-point frequency containers that capture a soul’s attention, but says it escapes by redirecting attention. This differs from Athena’s earlier rejection of literal soul traps.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Existen Trampas para las Almas y Maquinas de Borrado de Memorias? - Athena Swaruu](https://swaruu.org/transcripts/existen-trampas-para-las-almas-y-maquinas-de-borrado-de-memorias-athena-swaruu) (2022-08-08; es); passages p0038, p0039, p0040, p0041, p0042. [Structured record](../../records/src-2496c5717d1f.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-f698e76aaac9-c03
+
+Athena names an advanced immersion pod as a way to capture soul-attention. She does not frame this as literal capture of Source.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [LA TRAMPA DE LAS ALMAS – ES VERDAD? - Athena Swaruu - Sophia Swaruu - Swaruu de Erra](https://swaruu.org/transcripts/la-trampa-de-las-almas-es-verdad-athena-swaruu-sophia-swaruu-swaruu-de-erra) (2022-08-22; es); passages p0022, p0023. [Structured record](../../records/src-f698e76aaac9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c02](urmah.md#src-5e6c8ea2cb2c-c02) — Urmah
 - [src-48549c0d0a4c-c02](extraterrestrial-stepdowns.md#src-48549c0d0a4c-c02) — Extraterrestrial step-downs
 - [src-cddf1937a380-c03](sentient-starship-ai.md#src-cddf1937a380-c03) — Sentient starship AI
 - [src-a6ebb6326b6a-c03](muon-gravity-communications.md#src-a6ebb6326b6a-c03) — Muon-triggered gravity communications
+- [src-2496c5717d1f-c02](reincarnation-cycles.md#src-2496c5717d1f-c02) — Reincarnation and karmic cycles
+- [src-83d0afc07ef6-c01](starseeds.md#src-83d0afc07ef6-c01) — Starseeds
+- [src-dff574e82d59-c02](starseed-guides.md#src-dff574e82d59-c02) — Starseed guides
 
 ## Review flags
 
 - AI-sentience-claims
+- Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
+- aliens-removed-from-quadrant-claim
 - attribution\_scope
+- claims-attributed-to-Athena
 - immersion-metaphysics-claims
 - metaphysical-claims-unverified
 - metaphysical\_claims\_attributed
@@ -397,6 +423,8 @@ Related topics: [Muon-triggered gravity communications](muon-gravity-communicati
 - online-AI-control-conspiracy-claims
 - personal\_metaphysics
 - pod-failure-outcomes
+- source-disputes-current-liberation-narrative
+- speaker-model-divergence-Athena-vs-Swaruu9
 - translated-from-Spanish-original-not-available
 - unverified\_extraterrestrial\_claims
 - unverified\_technology\_claims

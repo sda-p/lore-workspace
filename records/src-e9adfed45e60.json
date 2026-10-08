@@ -1,0 +1,116 @@
+{
+  "source_id": "src-e9adfed45e60",
+  "snapshot_sha256": "5b6c8c2ea5844e6b4c7864bd6a9ee4f413411d72c8aee51bd97a37a9e81abdb2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e9adfed45e60-c01",
+      "assertion": "Anéeka reports Alfratean and Antarian monitoring of alleged regressive ships, plus Karistus patrols against Reptilians and Maitre.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "karistus",
+        "maitre"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e9adfed45e60-c02",
+      "assertion": "Anéeka says the Federation monitors Earth but will not rescue humanity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She calls this Matrix maintenance."
+    },
+    {
+      "id": "src-e9adfed45e60-c03",
+      "assertion": "Anéeka describes layered human and nonhuman control, possibly coordinated with higher Federation levels.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020",
+        "p0022",
+        "p0028"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation",
+        "maitre"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Extent unknown; she exempts local Viera representatives."
+    },
+    {
+      "id": "src-e9adfed45e60-c04",
+      "assertion": "Anéeka says space law prevents Taygetan military intervention on Earth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "They could be deemed aggressors."
+    },
+    {
+      "id": "src-e9adfed45e60-c05",
+      "assertion": "Anéeka reports more lunar traffic and Secret Space Program activity near Mars.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0034",
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "secret-space-program",
+      "topics": [
+        "secret-space-program",
+        "moon-matrix",
+        "mars",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Lunar traffic may be unrelated."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source makes unverified claims about extraterrestrial warfare and Federation involvement"
+  ],
+  "coverage_gaps": [
+    "humanity-survival-advice",
+    "vaccination-and-health-claims"
+  ]
+}

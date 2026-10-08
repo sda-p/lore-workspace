@@ -184,6 +184,24 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (English)](https://swaruu.org/transcripts/taygeta-space-news-35-august-12-2024-good-bye-starship-toleka-english) (2024-08-12; en); passages p0012, p0016. [Structured record](../../records/src-15a5d7380aeb.json).
 
+### src-b6f425d6f3ea-c04
+
+A Toleka-scale ship may take five years and thousands of workers to build; modular internals are assembled before powered nanotech forms the casing.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [NAVES EXTRATERRESTRES MOTORES DE PLASMA-JET -CANCELADORES DE GRABEDAD Aneeka de Temmer \#Exopolitica](https://swaruu.org/transcripts/naves-extraterrestres-motores-de-plasma-jet-canceladores-de-grabedad-aneeka-de-temmer-exopolitica) (2021-11-23; es); passages p0082, p0083, p0086, p0087. [Structured record](../../records/src-b6f425d6f3ea.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
+### src-53d3d8f6b1c3-c03
+
+Toleka and Urmah escort Avyon01 entered yellow alert; Toleka temporarily moved to high orbit.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Ataque a una Nave Centauri - Armas - Aneeka de Temmer Explica el Incidente](https://swaruu.org/transcripts/ataque-a-una-nave-centauri-armas-aneeka-de-temmer-explica-el-incidente) (2022-03-03; es); passages p0008, p0015. [Structured record](../../records/src-53d3d8f6b1c3.json).
+
 ## Claims filed under other topics
 
 - [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation
@@ -194,6 +212,9 @@ Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (Engl
 - [src-cddf1937a380-c02](sentient-starship-ai.md#src-cddf1937a380-c02) — Sentient starship AI
 - [src-cddf1937a380-c03](sentient-starship-ai.md#src-cddf1937a380-c03) — Sentient starship AI
 - [src-940f9935241e-c04](planetary-dna-arks.md#src-940f9935241e-c04) — Planetary DNA Arks
+- [src-9d6224eacf32-c01](taygetans.md#src-9d6224eacf32-c01) — Taygetans
+- [src-d328a6c23916-c03](ship-internal-time.md#src-d328a6c23916-c03) — Ship internal time
+- [src-74cf1c7706e3-c04](ship-internal-time.md#src-74cf1c7706e3-c04) — Ship internal time
 
 ## Review flags
 
@@ -201,10 +222,14 @@ Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (Engl
 - Alenym-retirement-not-decided
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
+- The alleged strike and factional attribution are unverified within the source
+- Travel-time figures are speaker-provided examples and depend on vessel and route
 - cataclysm-history-attributed
+- conspiratorial-claims
 - fleet-status\_as-reported
 - identity-uncertainty
 - narrator\_claims
+- near-duplicate:src-d328a6c23916
 - online-AI-control-conspiracy-claims
 - serious\_allegations\_attributed
 - succession-report\_attributed

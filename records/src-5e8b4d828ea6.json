@@ -1,0 +1,94 @@
+{
+  "source_id": "src-5e8b4d828ea6",
+  "snapshot_sha256": "46401139ea7df5e0ef7640bab9b1cf194f85aac9f4638da22614711048e3bfe7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5e8b4d828ea6-c01",
+      "assertion": "Yazhi says Taygetans visited Earth 12,500+ years; 1919 and 1952 government missions sought to guide humanity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyrians"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Both failed."
+    },
+    {
+      "id": "src-5e8b4d828ea6-c02",
+      "assertion": "Yazhi says the 2008–16 First Contact project assessed humanity’s readiness as a culture, not individuals.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "A 2008 fleet sought planetary liberation; she says most people were uninterested."
+    },
+    {
+      "id": "src-5e8b4d828ea6-c03",
+      "assertion": "Yazhi says one ship stayed under Alenym, sharing spiritual ideas and guiding Taygetan starseeds.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0022",
+        "p0028"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starseed-guides",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Nonintervention limits direct aid."
+    },
+    {
+      "id": "src-5e8b4d828ea6-c04",
+      "assertion": "Yazhi describes starseed incarnation as a widespread way to influence cultures under cosmic nonintervention laws.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "starseed-guides",
+      "topics": [
+        "starseed-guides",
+        "prime-directive",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Some remember their purpose."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified"
+  ],
+  "coverage_gaps": [
+    "1970s civilian contact project",
+    "Taygetan starship specifications",
+    "claims about disclosure and Earth governments"
+  ]
+}

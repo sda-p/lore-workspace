@@ -1,0 +1,64 @@
+{
+  "source_id": "src-9a37f5242cc3",
+  "snapshot_sha256": "054f71b8c930dc9ff2a14101cb939d045f9ab66787e1d196505bc603c8f5d63a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9a37f5242cc3-c01",
+      "assertion": "Swaruu said social conditioning can turn people against contactees, while authorities may target those sharing sensitive information.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "extraterrestrial-syndrome",
+      "topics": [
+        "extraterrestrial-syndrome",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "She said effects depend on circumstances and resilience."
+    },
+    {
+      "id": "src-9a37f5242cc3-c02",
+      "assertion": "Swaruu 9 said her sensors detect no Nibiru, including across planes, and argued it would not affect Earth if it were in another dimension.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0030"
+      ],
+      "primary_topic": "solar-system-objects",
+      "topics": [
+        "solar-system-objects"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She acknowledged sources that argue Nibiru should exist."
+    },
+    {
+      "id": "src-9a37f5242cc3-c03",
+      "assertion": "Swaruu 9 attributed the apparent missing solar-system mass to a gravitational balance point formed by three smaller bodies, not a large planet.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "solar-system-objects",
+      "topics": [
+        "solar-system-objects"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "contactee benefits and further planetary count claims"
+  ]
+}

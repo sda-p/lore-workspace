@@ -1,0 +1,194 @@
+{
+  "batch_id": "continuous-016",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-876a8c6154df",
+    "src-a5ce4900a24a",
+    "src-8917d0622133",
+    "src-869fdf1c4001",
+    "src-4ff159251d90",
+    "src-53d3d8f6b1c3",
+    "src-d0de3dcb86df",
+    "src-6d9f789c718e",
+    "src-bb099276c98e",
+    "src-5b78336f9481",
+    "src-3ce31d2810ab",
+    "src-2b276450a3d2",
+    "src-769b9ad6be07",
+    "src-f806bbf625d9",
+    "src-fb8fca342865",
+    "src-85df30bab80f",
+    "src-9f9a5d3a7e35",
+    "src-dff574e82d59",
+    "src-9fb50ae5b7f5",
+    "src-c51704b659a3",
+    "src-cb2bbf14ee59",
+    "src-4ea4379f95bf",
+    "src-0a57940b9e27",
+    "src-a6c6ae12245f",
+    "src-9be5d7b8001c",
+    "src-5e8b4d828ea6",
+    "src-5b4daa64f189",
+    "src-5e5e29eb902e",
+    "src-947a557da420",
+    "src-efa7ccfc79ce",
+    "src-98f45fed7656",
+    "src-ed015e2bb945",
+    "src-d1468a88293b",
+    "src-d328a6c23916",
+    "src-9c3e0642a4e2",
+    "src-9faade64b5f5",
+    "src-e0a9693e485e",
+    "src-4255098ec77d",
+    "src-63eb2c3859f8",
+    "src-f47ad5f1276b",
+    "src-77187dee8432",
+    "src-8418c91c8a5b",
+    "src-906e32a9d0d6",
+    "src-79f31e8f23bd",
+    "src-9d3980dffe57",
+    "src-66eb347ad466",
+    "src-bb19379f0b60",
+    "src-8d5449505ff0",
+    "src-830158547001",
+    "src-051532dd5b50",
+    "src-ce0d96e82011",
+    "src-7ff15150434a",
+    "src-b6d4df9b3066",
+    "src-49942a75e76b",
+    "src-1301f08e45a8",
+    "src-2b1192891e85",
+    "src-e60fdddd8457",
+    "src-52d2d3f49000",
+    "src-74cf1c7706e3",
+    "src-205c04ebdf5e",
+    "src-075f03199db3",
+    "src-e41d4b9ab4a8",
+    "src-0669cfd94f43",
+    "src-daa6375b23e6",
+    "src-1dc8eadf6766",
+    "src-ced4e51128ed",
+    "src-f698e76aaac9",
+    "src-6fff99fdbd26",
+    "src-ffaa96e65b19",
+    "src-88e6a66d5551",
+    "src-fc02a9d40d9c",
+    "src-375ee3e4cf1f",
+    "src-87bee905e958",
+    "src-5c2b002327be",
+    "src-189e95ca86a0",
+    "src-2c578d18d896",
+    "src-806fe873dcfa",
+    "src-80bdf93897ea",
+    "src-fd3cad24685f",
+    "src-634b8cbc83b6"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-53d3d8f6b1c3",
+      "claim_id": "src-53d3d8f6b1c3-c05",
+      "problem": "The projectile-blocking assertion cited a paragraph about an active directed-energy defense system rather than the toroidal shield effect.",
+      "action": "Replaced p0118 with p0119 and p0123, which describe the speed-dependent shield barrier and apply it to spacecraft; validated the record.",
+      "paragraph_ids": [
+        "p0119",
+        "p0123"
+      ]
+    },
+    {
+      "source_id": "src-f806bbf625d9",
+      "claim_id": "src-f806bbf625d9-c02",
+      "problem": "“Later 48 chromosomes” obscured that the source describes the 48 chromosomes as a combined crystalline mass after first giving 24/24 strands/chromosomes.",
+      "action": "Clarified the relationship while retaining the source’s figures and citations; validated.",
+      "paragraph_ids": [
+        "p0025",
+        "p0029"
+      ]
+    },
+    {
+      "source_id": "src-fb8fca342865",
+      "claim_id": "src-fb8fca342865-c05",
+      "problem": "The qualifier that Anéeka had not personally seen the groups is unsupported anywhere in this source.",
+      "action": "Removed the unsupported firsthand-knowledge qualifier and revalidated.",
+      "paragraph_ids": [
+        "p0054",
+        "p0055",
+        "p0058",
+        "p0060"
+      ]
+    },
+    {
+      "source_id": "src-051532dd5b50",
+      "claim_id": "record",
+      "problem": "Extractor modified the record after release; current record hash differs from the immutable initial-release marker.",
+      "action": "Logged post-release write as a process correction; independently reread all cited/context passages, revalidated current record and 80-word budget, and retained current record hash d0058904bb7c10929a038315ab6941435206a3354a47e914138dffe5bdcfb417. Marker left unchanged.",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-d328a6c23916",
+      "claim_id": "src-d328a6c23916-c03",
+      "problem": "The answer gives 36 minutes but does not name Suzy; the preceding question identifies the craft as Suzy.",
+      "action": "Added p0070 so the 36-minute attribution is contextualized; revalidated.",
+      "paragraph_ids": [
+        "p0070",
+        "p0071"
+      ]
+    },
+    {
+      "source_id": "src-52d2d3f49000",
+      "claim_id": "src-52d2d3f49000-c02",
+      "problem": "“Recent purge” was not the source’s framing and omitted its specific destruction date range.",
+      "action": "Replaced with the stated 1700–early 20th century range and mid-19th-century peak; retained allegation attribution and validated.",
+      "paragraph_ids": [
+        "p0023",
+        "p0026",
+        "p0030",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-74cf1c7706e3",
+      "claim_id": "src-74cf1c7706e3-c01",
+      "problem": "The claim specifies that molecules stay intact in answer to an interviewer question, but omitted that question; the Suzy attribution in c04 also depends on the prior question.",
+      "action": "Added the context paragraphs p0005 and p0042; revalidated.",
+      "paragraph_ids": [
+        "p0005",
+        "p0042"
+      ]
+    },
+    {
+      "source_id": "src-1dc8eadf6766",
+      "claim_id": "src-1dc8eadf6766-c01",
+      "problem": "The physical-versus-higher-plane guardianship answer was attributed without its preceding question.",
+      "action": "Added p0007 to preserve the question’s scope; revalidated.",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ]
+    },
+    {
+      "source_id": "src-634b8cbc83b6",
+      "claim_id": "src-634b8cbc83b6-c02",
+      "problem": "Claim reversed the direction of the media-access comparison: cited passages say Western outlets are accessible in Russia, not that Russian outlets remain accessible there.",
+      "action": "Corrected assertion to preserve speaker attribution and match the cited text: Western governments allegedly censor Russian media, while people in Russia could access Western outlets.",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ]
+    }
+  ],
+  "unresolved": []
+}

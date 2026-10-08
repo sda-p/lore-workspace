@@ -134,13 +134,48 @@ Attributed to **Swaruu X**; asserted; extraction confidence: medium.
 
 Source: [Divulgación "Ovni" de Pentágono - Mentiras del Gobierno - Origen de la Nave](https://swaruu.org/transcripts/divulgacion-ovni-de-pentagono-mentiras-del-gobierno-origen-de-la-nave) (2021-08-14; es); passages p0041, p0042, p0043. [Structured record](../../records/src-4077e2cdca7d.json).
 
+### src-b1091aecbbaa-c01
+
+Athena says 110-centimeter interstellar drones need no mothership; Anéeka says Federation traffic control requires flight plans and unsanctioned displays violate the Prime Directive.
+
+Attributed to **Anéeka; Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Infiltradas desde Fuera de la Tierra - Esto es mas Grande que Imagináis - Exponemos Los Hechos](https://swaruu.org/transcripts/infiltradas-desde-fuera-de-la-tierra-esto-es-mas-grande-que-imaginais-exponemos-los-hechos) (2022-06-05; es); passages p0109, p0110, p0112, p0114. [Structured record](../../records/src-b1091aecbbaa.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-769b9ad6be07-c05
+
+Athena accepts satellite internet but suspects Starlink claims may mask other space operations.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: medium.
+
+Source: [Satélites Starlink - Realmente Están Allí? Athena Swaruu informa lo que sabe](https://swaruu.org/transcripts/satelites-starlink-realmente-estan-alli-athena-swaruu-informa-lo-que-sabe) (2022-03-07; es); passages p0064, p0065, p0067. [Structured record](../../records/src-769b9ad6be07.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-a32bbe4fc74a-c01
+
+Athena speculates some objects identified as Starlink or ISS may be nonhuman craft; she cannot confirm Starlink.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: medium.
+
+Source: [LA NASA - MISIONES ARTEMISA - ES INVIABLE QUE EL HOMBRE LLEGUE A LA LUNA CON ESA TECNOLOGIA](https://swaruu.org/transcripts/la-nasa-misiones-artemisa-es-inviable-que-el-hombre-llegue-a-la-luna-con-esa-tecnologia) (2022-08-30; es); passages p0006, p0009, p0011, p0021. [Structured record](../../records/src-a32bbe4fc74a.json).
+
+Related topics: [SETI surveillance operation](seti-surveillance.md).
+
 ## Claims filed under other topics
 
 - [src-270ba8d9da62-c03](frequency-map-navigation.md#src-270ba8d9da62-c03) — Frequency-map navigation
+- [src-769b9ad6be07-c01](stellar-navigation.md#src-769b9ad6be07-c01) — Stellar navigation
+- [src-769b9ad6be07-c03](spherical-drones.md#src-769b9ad6be07-c03) — Spherical drones
+- [src-598faa62de95-c02](galactic-federation.md#src-598faa62de95-c02) — Galactic Federation
 
 ## Review flags
 
 - 5g-covid-causality-distinction
+- Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
+- Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - claims-attributed-to-source-narrators
 - conspiracy\_claims
@@ -150,6 +185,7 @@ Source: [Divulgación "Ovni" de Pentágono - Mentiras del Gobierno - Origen de l
 - policy-claims-unverified
 - post-eclipse-causal-attribution
 - rescue-anecdotes-unverified
+- satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
 - starlink-observation-scope-ambiguity
 - translation-counterpart:src-af195906d27f-close-full
 - unverified-paranormal-claims

@@ -432,6 +432,16 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Glandula Pineal, Armas Nucleares y Federacion, y mas Temas - Informacion Extraterrestre](https://swaruu.org/transcripts/glandula-pineal-armas-nucleares-y-federacion-y-mas-temas-informacion-extraterrestre) (2021-10-03; es); passages p0049, p0052. [Structured record](../../records/src-eb8d5c381779.json).
 
+### src-87bee905e958-c03
+
+Anéeka says the Alcyone Council represents Pleiades M45 civilizations and carries weight in Federation decisions.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federacion Galactica los Amos del Mundo - Preguntas y Respuestas - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-los-amos-del-mundo-preguntas-y-respuestas-aneeka-de-temmer) (2021-12-17; es); passages p0018. [Structured record](../../records/src-87bee905e958.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c08](galactic-federation.md#src-a5811312e55c-c08) — Galactic Federation
@@ -455,6 +465,10 @@ Source: [Glandula Pineal, Armas Nucleares y Federacion, y mas Temas - Informacio
 - [src-eb16750d6a08-c01](holistic-society.md#src-eb16750d6a08-c01) — Holistic society
 - [src-6e854bde7448-c05](galactic-federation.md#src-6e854bde7448-c05) — Galactic Federation
 - [src-7e10fbdcd1c5-c02](atlantis-lemuria.md#src-7e10fbdcd1c5-c02) — Atlantis and Lemuria
+- [src-1dc8eadf6766-c01](higher-federation-councils.md#src-1dc8eadf6766-c01) — Higher Federation councils
+- [src-6d8ed766cc58-c01](higher-federation-councils.md#src-6d8ed766cc58-c01) — Higher Federation councils
+- [src-5e5e29eb902e-c03](stellar-navigation.md#src-5e5e29eb902e-c03) — Stellar navigation
+- [src-87bee905e958-c06](galactic-federation.md#src-87bee905e958-c06) — Galactic Federation
 
 ## Review flags
 
@@ -476,6 +490,7 @@ Source: [Glandula Pineal, Armas Nucleares y Federacion, y mas Temas - Informacio
 - Yazhi-interview-report
 - attack-theory\_speculative
 - black-knight-loss-details-provisional
+- blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified
 - conspiracy\_claims
 - dated\_claims
 - diet\_claim\_omitted
@@ -492,6 +507,7 @@ Source: [Glandula Pineal, Armas Nucleares y Federacion, y mas Temas - Informacio
 - historical\_and\_nuclear\_claims\_unverified
 - intra-source-policy-tension
 - liberation-framing-disputed
+- lore-claims-attributed-to-Aneeka
 - medical-misinformation-claims
 - mythic-identifications-attributed-to-mari
 - political-narrative\_attributed

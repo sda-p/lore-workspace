@@ -86,6 +86,52 @@ Source: [Escudos de Energía - Ingeniería y Navegación de Naves Espaciales-Yaz
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-e0aac48a5c49-c02
+
+She describes Toleka’s layered harmonic shields as containing hangar air and allowing slow craft through while blocking fast projectiles via velocity and tuned-frequency effects.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Incidente en el espacio con una nave extraterrestre alfrateana - Aneeka de Temmer](https://swaruu.org/transcripts/incidente-en-el-espacio-con-una-nave-extraterrestre-alfrateana-aneeka-de-temmer) (2022-01-07; es); passages p0153, p0157, p0163. [Structured record](../../records/src-e0aac48a5c49.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-e0aac48a5c49-c03
+
+Anéeka says Taygetan shields absorb kinetic and energy impacts, strengthening when struck; maximum protection requires plasma engines running and cannot be sustained continuously.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Incidente en el espacio con una nave extraterrestre alfrateana - Aneeka de Temmer](https://swaruu.org/transcripts/incidente-en-el-espacio-con-una-nave-extraterrestre-alfrateana-aneeka-de-temmer) (2022-01-07; es); passages p0068, p0072, p0074. [Structured record](../../records/src-e0aac48a5c49.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-53d3d8f6b1c3-c04
+
+Anéeka describes Taygetan harmonic shields as absorbing kinetic and energy impacts, growing stronger from absorbed energy.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Ataque a una Nave Centauri - Armas - Aneeka de Temmer Explica el Incidente](https://swaruu.org/transcripts/ataque-a-una-nave-centauri-armas-aneeka-de-temmer-explica-el-incidente) (2022-03-03; es); passages p0050. [Structured record](../../records/src-53d3d8f6b1c3.json).
+
+### src-53d3d8f6b1c3-c05
+
+She says layered shields let slow craft pass and retain air while blocking fast projectiles.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Ataque a una Nave Centauri - Armas - Aneeka de Temmer Explica el Incidente](https://swaruu.org/transcripts/ataque-a-una-nave-centauri-armas-aneeka-de-temmer-explica-el-incidente) (2022-03-03; es); passages p0119, p0123, p0124, p0125, p0127, p0128. [Structured record](../../records/src-53d3d8f6b1c3.json).
+
+### src-9d5476909933-c04
+
+She says Dhor faced radar pursuit, aircraft interception and an energy weapon; a karmic shield returned the energy. Anéeka recounts Dhor’s experiences.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [NO HAY LIBRE ALBEDRÍO - EN LA TIERRA - ANEEKA DE TEMMER - \#TAYGETA](https://swaruu.org/transcripts/no-hay-libre-albedrio-en-la-tierra-aneeka-de-temmer-taygeta) (2022-02-21; es); passages p0015, p0017. [Structured record](../../records/src-9d5476909933.json).
+
+Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
+
 ## Claims filed under other topics
 
 - [src-8a20bf02262a-c04](hashmallim.md#src-8a20bf02262a-c04) — Hashmallim
@@ -95,9 +141,11 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-c533f1f1e9a7-c04](starship-systems.md#src-c533f1f1e9a7-c04) — Starship systems
 - [src-e0b94245b234-c05](consciousness-metaphysics.md#src-e0b94245b234-c05) — Consciousness and metaphysics
 - [src-cad14862cc58-c02](moon-matrix.md#src-cad14862cc58-c02) — Moon and terrestrial Matrix
+- [src-53d3d8f6b1c3-c02](starship-systems.md#src-53d3d8f6b1c3-c02) — Starship systems
 
 ## Review flags
 
+- The alleged strike and factional attribution are unverified within the source
 - astral-perception-and-protection-claims
 - frequency-navigation-model
 - high-content-overlap-with-src-9b7bf8d19d78
@@ -105,5 +153,7 @@ Related topics: [Starship systems](starship-systems.md).
 - military-claims\_attributed
 - nanotechnology-claim-in-vaccine-context
 - polymorphic-alloy-claims
+- reported:pilot-encounters
 - shield-mechanics-claims
 - source-speaker-shift-dhor-to-yazhi
+- speculation:federation-experiments

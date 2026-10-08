@@ -1,0 +1,94 @@
+{
+  "source_id": "src-ffaa96e65b19",
+  "snapshot_sha256": "5399ff7efd7773770e5a7fd52948d390b75193b2a4042fc2806692d4d634abe4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ffaa96e65b19-c01",
+      "assertion": "Swaruu 9 says DK is an ancient healing or guiding energy state, shared by all, not one Christ.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0042"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "djedi"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffaa96e65b19-c02",
+      "assertion": "She defines D’Jedi as a solitary warrior DK who may alter matter or time by thought.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0018",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "djedi",
+      "topics": [
+        "djedi",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffaa96e65b19-c03",
+      "assertion": "Any consciousness can attain it beyond density; D’Jedi may guide and transform worlds.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0024",
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "djedi",
+      "topics": [
+        "djedi",
+        "starseed-guides",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffaa96e65b19-c04",
+      "assertion": "She rejects a literal Second Coming, describing a mass awakening, and questions Earth’s Kundalini model.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0028",
+        "p0035",
+        "p0037",
+        "p0039",
+        "p0042"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "djedi"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "spiritual titles and abilities are attributed to Swaruu 9 and are not independently verified"
+  ],
+  "coverage_gaps": [
+    "political confidentiality around one individual",
+    "religious framing of the title",
+    "Kundalini skepticism"
+  ]
+}

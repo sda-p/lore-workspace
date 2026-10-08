@@ -58,11 +58,32 @@ Source: [Pirámides - Cómo se Construyeron y Para qué Son? - Conocimiento Extr
 
 Related topics: [Natural and artificial portals](natural-portals.md).
 
+### src-6fff99fdbd26-c01
+
+Yazhi described the pyramids as zero-point generators with wireless power and consciousness-enhancing portal functions. She attributed these functions to their electromagnetic design and internal systems.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Hablemos mas sobre las Pirámides - Información Extraterrestre - Taygeta (Pléyades)](https://swaruu.org/transcripts/hablemos-mas-sobre-las-piramides-informacion-extraterrestre-taygeta-pleyades) (2022-08-23; es); passages p0010, p0011, p0015, p0016. [Structured record](../../records/src-6fff99fdbd26.json).
+
+Related topics: [Energy generation technology](energy-generation.md), [Natural and artificial portals](natural-portals.md).
+
+### src-e10b7b1c1712-c02
+
+Yazhi describes pyramids as zero-point wireless-power generators and consciousness portals.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [LOS GRANDES MISTERIOS DE LAS PIRÁMIDES EGIPCIAS Y LA GRAN ESFINGE DE GUIZA](https://swaruu.org/transcripts/los-grandes-misterios-de-las-piramides-egipcias-y-la-gran-esfinge-de-guiza) (2022-09-03; es); passages p0015, p0016, p0017. [Structured record](../../records/src-e10b7b1c1712.json).
+
+Related topics: [Energy generation technology](energy-generation.md), [Artificial portals](artificial-portals.md).
+
 ## Review flags
 
 - ancient-history-reinterpretation
 - conflicting-pyramid-dates
 - giza-base-account
+- pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified
 - pyramid-portal-claims
 - pyramid-technology-claims
 - species-taxonomy-ambiguous

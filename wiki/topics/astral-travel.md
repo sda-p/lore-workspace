@@ -28,6 +28,21 @@ Source: [EL VELO DEL OLVIDO Y LOS VIAJES ASTRALES ATHENA SWARUU SOPHIA SWARUU](h
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-9be5d7b8001c-c04
+
+Yazhi advised facing sleep-paralysis experiences without fear, and cautioned against spirit invocation, Ouija boards, and substances.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Como Cambiar mi Punto de Atención y ser un Ser Energético- Matías y Gosia hablando con Yazhi Swaruu](https://swaruu.org/transcripts/como-cambiar-mi-punto-de-atencion-y-ser-un-ser-energetico-matias-y-gosia-hablando-con-yazhi-swaruu) (2021-11-16; es); passages p0064, p0065, p0067. [Structured record](../../records/src-9be5d7b8001c.json).
+
+Related topics: [Witchcraft and Voodoo](witchcraft-and-voodoo.md).
+
+## Claims filed under other topics
+
+- [src-9be5d7b8001c-c02](consciousness-metaphysics.md#src-9be5d7b8001c-c02) — Consciousness and metaphysics
+- [src-9be5d7b8001c-c03](consciousness-metaphysics.md#src-9be5d7b8001c-c03) — Consciousness and metaphysics
+
 ## Review flags
 
 - astral-perception-agenda-claim

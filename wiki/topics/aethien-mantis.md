@@ -23,7 +23,10 @@ Related topics: [Alien species and distinctions](alien-species.md), [Stellar nav
 - [src-59c43e8ab96d-c02](mars.md#src-59c43e8ab96d-c02) — Mars
 - [src-59c43e8ab96d-c04](mars.md#src-59c43e8ab96d-c04) — Mars
 - [src-c57cf7f12530-c02](mars.md#src-c57cf7f12530-c02) — Mars
+- [src-dff574e82d59-c04](mars.md#src-dff574e82d59-c04) — Mars
 
 ## Review flags
 
+- claims-attributed-to-Athena
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
+- source-disputes-current-liberation-narrative

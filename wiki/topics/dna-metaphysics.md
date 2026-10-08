@@ -386,6 +386,76 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [Bandas Van Allen, Resonancia Schumann, Memorias - Athena Swaruu - Contacto Extraterrestre](https://swaruu.org/transcripts/bandas-van-allen-resonancia-schumann-memorias-athena-swaruu-contacto-extraterrestre) (2021-10-25; es); passages p0042. [Structured record](../../records/src-2bf76cf1cd2e.json).
 
+### src-5b78336f9481-c01
+
+Anéeka describes DNA as material memory of souls; shared experiences and perception agreements form species.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [22 Razas Extraterrestres Formando el Ser Humano? - Aneeka de Temmer Responde](https://swaruu.org/transcripts/22-razas-extraterrestres-formando-el-ser-humano-aneeka-de-temmer-responde) (2021-12-12; es); passages p0006, p0007. [Structured record](../../records/src-5b78336f9481.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-5b78336f9481-c02
+
+She says 22 identifiable lineages do not mean humans were assembled from 22 donors; each lineage contains others.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [22 Razas Extraterrestres Formando el Ser Humano? - Aneeka de Temmer Responde](https://swaruu.org/transcripts/22-razas-extraterrestres-formando-el-ser-humano-aneeka-de-temmer-responde) (2021-12-12; es); passages p0011, p0034, p0045. [Structured record](../../records/src-5b78336f9481.json).
+
+Related topics: [Human clones and manufactured persons](human-clones.md).
+
+### src-5b78336f9481-c03
+
+Anéeka accepts repeated human genetic alteration but rejects creation from scratch using 22 species.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [22 Razas Extraterrestres Formando el Ser Humano? - Aneeka de Temmer Responde](https://swaruu.org/transcripts/22-razas-extraterrestres-formando-el-ser-humano-aneeka-de-temmer-responde) (2021-12-12; es); passages p0024, p0038, p0046. [Structured record](../../records/src-5b78336f9481.json).
+
+Related topics: [Human clones and manufactured persons](human-clones.md).
+
+### src-5b78336f9481-c05
+
+She says attention and expanded consciousness can activate latent genetic memories, independent of body location.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [22 Razas Extraterrestres Formando el Ser Humano? - Aneeka de Temmer Responde](https://swaruu.org/transcripts/22-razas-extraterrestres-formando-el-ser-humano-aneeka-de-temmer-responde) (2021-12-12; es); passages p0048, p0049, p0051, p0053. [Structured record](../../records/src-5b78336f9481.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4e1a2ca272e5-c01
+
+Anéeka said DNA reflects soul memory and shared experience forms species; 22 human lineages are identifiable, but each contains others.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [La raza \#Humana esta compuesta de 22 razas \#Extraterrestres - \#Aneeka de Temmer - \#Taygeta](https://swaruu.org/transcripts/la-raza-humana-esta-compuesta-de-22-razas-extraterrestres-aneeka-de-temmer-taygeta) (2021-11-27; es); passages p0004, p0005, p0008, p0015, p0024. [Structured record](../../records/src-4e1a2ca272e5.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-efa7ccfc79ce-c01
+
+Swaruu Minerva said ascension may shift carbon-based DNA toward more complex proto-silicon unlike terrestrial silicon. She framed this as density-dependent.
+
+Attributed to **Swaruu Minerva (11)**; asserted; extraction confidence: high.
+
+Source: [Transmutación al Cuerpo de Silicio - Verdad? Minerva Swaruu - Punto de Vista Extraterrestre](https://swaruu.org/transcripts/transmutacion-al-cuerpo-de-silicio-verdad-minerva-swaruu-punto-de-vista-extraterrestre) (2022-01-24; es); passages p0006, p0009, p0017, p0026. [Structured record](../../records/src-efa7ccfc79ce.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-efa7ccfc79ce-c02
+
+Swaruu Minerva reported increasingly crystalline DNA across human, Taygetan, and Swaruunian samples, with differing chromosome and strand counts. She described three samples, not superiority.
+
+Attributed to **Swaruu Minerva (11)**; reported; extraction confidence: high.
+
+Source: [Transmutación al Cuerpo de Silicio - Verdad? Minerva Swaruu - Punto de Vista Extraterrestre](https://swaruu.org/transcripts/transmutacion-al-cuerpo-de-silicio-verdad-minerva-swaruu-punto-de-vista-extraterrestre) (2022-01-24; es); passages p0027, p0028, p0032, p0033. [Structured record](../../records/src-efa7ccfc79ce.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-31e1b41b8c15-c01](consciousness-metaphysics.md#src-31e1b41b8c15-c01) — Consciousness and metaphysics
@@ -408,11 +478,21 @@ Source: [Bandas Van Allen, Resonancia Schumann, Memorias - Athena Swaruu - Conta
 - [src-2237b5ddb772-c01](starseeds.md#src-2237b5ddb772-c01) — Starseeds
 - [src-82159a8850fc-c01](starseeds.md#src-82159a8850fc-c01) — Starseeds
 - [src-82159a8850fc-c02](starseeds.md#src-82159a8850fc-c02) — Starseeds
+- [src-3ce31d2810ab-c03](alien-species.md#src-3ce31d2810ab-c03) — Alien species and distinctions
+- [src-f806bbf625d9-c01](crystalline-dna.md#src-f806bbf625d9-c01) — Crystalline DNA and proto-silicon biology
+- [src-4e1a2ca272e5-c02](humanity-multi-species-experiment.md#src-4e1a2ca272e5-c02) — Humanity as a multi-species experiment
+- [src-4e1a2ca272e5-c03](moon-matrix.md#src-4e1a2ca272e5-c03) — Moon and terrestrial Matrix
+- [src-4e1a2ca272e5-c04](consciousness-metaphysics.md#src-4e1a2ca272e5-c04) — Consciousness and metaphysics
+- [src-d8771f2c1186-c03](black-goo.md#src-d8771f2c1186-c03) — Black goo
+- [src-efa7ccfc79ce-c03](alien-species.md#src-efa7ccfc79ce-c03) — Alien species and distinctions
+- [src-ced4e51128ed-c01](consciousness-metaphysics.md#src-ced4e51128ed-c01) — Consciousness and metaphysics
 
 ## Review flags
 
 - Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
 - Compared English candidate src-4ae3eab52e34; closely aligned translation with differences in segmentation and some explanatory detail.
+- Genetic and chromosome claims are attributed fictional-world assertions
+- Resource-seeking distinction is level-dependent in Anéeka’s account
 - The cloning and genetic-control statements are Swaruu’s claims.
 - Van Allen belts both set a baseline and can be transcended; preserve distinction.
 - artificial-intelligence-attributed
@@ -429,6 +509,7 @@ Source: [Bandas Van Allen, Resonancia Schumann, Memorias - Athena Swaruu - Conta
 - genetic-metaphysics-attributed
 - historical-uncertainty
 - human-gravity-design-claim
+- internal-count-conflict:swaruwnian-chromosomes
 - medical\_claims\_unverified
 - metaphysical-claims-attributed
 - metaphysical-genetics-unverified

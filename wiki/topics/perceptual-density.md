@@ -574,6 +574,178 @@ Source: [Teleportacion - Poderes Mentales - Como lo Hago? Yazhi Swaruu Comparte 
 
 Related topics: [Teleportation](teleportation.md).
 
+### src-b6d92d26782e-c01
+
+Yazhi says coffee keeps people in 3D sensory survival and suppresses subtler perception; she says replacing it with food, exercise, and rest brings more physical and nonphysical energy. Her metaphysical account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [QUE ES LO QUE TE ENGORDA – COMO EVITARLO – Yazhi Swawuu](https://swaruu.org/transcripts/que-es-lo-que-te-engorda-como-evitarlo-yazhi-swawuu) (2022-09-11; es); passages p0073, p0075, p0077. [Structured record](../../records/src-b6d92d26782e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-15e3ff87a1f4-c02
+
+She says dreams are a lighter realm where thought manifests quickly; slower manifestation in 3D creates the impression of linear time and cause and effect. Her metaphysical account.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL INCONSCIENTE COLECTIVO DICTA TU REALIDAD – LA MATRIX – Swaruu de Erra](https://swaruu.org/transcripts/el-inconsciente-colectivo-dicta-tu-realidad-la-matrix-swaruu-de-erra) (2022-08-11; es); passages p0032, p0033. [Structured record](../../records/src-15e3ff87a1f4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-23345f09145a-c03
+
+Anéeka says ships emulate or amplify consciousness-frequency but cannot handle every frequency; reaching seventh density is possible only with difficulty and depends on the craft. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CONTACTO CON RAZAS EXTRATERRESTRES POR TECLADO EN LAS REDES SOCIALES - Anéeka de Temmer](https://swaruu.org/transcripts/contacto-con-razas-extraterrestres-por-teclado-en-las-redes-sociales-aneeka-de-temmer) (2022-08-08; es); passages p0036, p0038. [Structured record](../../records/src-23345f09145a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-2496c5717d1f-c01
+
+Athena says Earth’s memory veil is natural: higher-frequency memories fail to match the lower-frequency physical realm, much like forgotten dreams. Her model.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Existen Trampas para las Almas y Maquinas de Borrado de Memorias? - Athena Swaruu](https://swaruu.org/transcripts/existen-trampas-para-las-almas-y-maquinas-de-borrado-de-memorias-athena-swaruu) (2022-08-08; es); passages p0029, p0030, p0031, p0034, p0035. [Structured record](../../records/src-2496c5717d1f.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-051532dd5b50-c02
+
+She compares 3D reality to sequential rooms and 5D to interconnected floors; higher-density complexity makes those minds hard for 3D people to understand. Her explanatory metaphor.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Pensar 5D - Porque Somos Distintas y Porque no Creemos en Lineas Temporales? - Athena Swaruu](https://swaruu.org/transcripts/pensar-5d-porque-somos-distintas-y-porque-no-creemos-en-lineas-temporales-athena-swaruu) (2022-06-22; es); passages p0006, p0007, p0008, p0009. [Structured record](../../records/src-051532dd5b50.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9faade64b5f5-c02
+
+She compares 3D perception to sequential rooms and 5D to interconnected floors, with higher-density thought difficult for 3D minds to grasp. Her explanatory metaphor.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Viaje al Futuro - Salto HiperEspacio - Viajes en el Tiempo - Athena Swaruu](https://swaruu.org/transcripts/viaje-al-futuro-salto-hiperespacio-viajes-en-el-tiempo-athena-swaruu) (2022-04-10; es); passages p0007, p0009, p0010, p0011. [Structured record](../../records/src-9faade64b5f5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ce0d96e82011-c05
+
+She says 5D encompasses 3D, while 3D cannot represent 5D complexity and may show distorted mirrors.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 3 PARTE 2 - Éter - Insertando Objetos en la Matrix - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-3-parte-2-eter-insertando-objetos-en-la-matrix-athena-swaruu) (2022-07-04; es); passages p0062, p0064, p0081, p0082. [Structured record](../../records/src-ce0d96e82011.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-79f31e8f23bd-c01
+
+Yazhi says lower-density souls use duality and suffering as contrast for learning and experiencing opposites.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA RAZÓN POR LA QUE EL UNIVERSO EXISTE TAL COMO ES – Sophia Swaruu](https://swaruu.org/transcripts/la-razon-por-la-que-el-universo-existe-tal-como-es-sophia-swaruu) (2022-05-21; es); passages p0006, p0007, p0008, p0029. [Structured record](../../records/src-79f31e8f23bd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-205c04ebdf5e-c01
+
+Yazhi says higher awareness includes lower densities, allowing simultaneous attention across levels.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu - Sabiduria de "Niña" Extraterrestre - Charla Metafísica](https://swaruu.org/transcripts/yazhi-swaruu-sabiduria-de-nina-extraterrestre-charla-metafisica) (2022-08-19; es); passages p0027, p0028, p0033, p0036. [Structured record](../../records/src-205c04ebdf5e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8d5449505ff0-c03
+
+Yazhi says Earth is already ascended; human collective perception determines whether inhabitants experience its ascent.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA FAMOSA ASCENSIÓN PLANETARIA- EL INCONSCIENTE COLECTIVO - Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/la-famosa-ascension-planetaria-el-inconsciente-colectivo-sophia-swaruu-yazhi) (2022-05-03; es); passages p0020, p0025, p0028. [Structured record](../../records/src-8d5449505ff0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-830158547001-c01
+
+Yazhi defines density as a soul’s perceptual and comprehension range, not a discrete place.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO EXISTEN DENSIDADES COMO TALES - LAS MÁQUINAS DE LA LUNA - Sophia Swaruu](https://swaruu.org/transcripts/no-existen-densidades-como-tales-las-maquinas-de-la-luna-sophia-swaruu) (2022-05-06; es); passages p0005. [Structured record](../../records/src-830158547001.json).
+
+### src-9f9a5d3a7e35-c01
+
+Yazhi says material reality and temporal or dimensional categories are perception agreements, not independent containers.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRE ME EXPLICA EL PORQUE NO HAY MUERTE - SOPHIA SWARUU](https://swaruu.org/transcripts/extraterrestre-me-explica-el-porque-no-hay-muerte-sophia-swaruu) (2021-12-13; es); passages p0007, p0008. [Structured record](../../records/src-9f9a5d3a7e35.json).
+
+### src-9f9a5d3a7e35-c02
+
+She says expanded understanding increases perceived complexity and can change a being’s experienced density.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRE ME EXPLICA EL PORQUE NO HAY MUERTE - SOPHIA SWARUU](https://swaruu.org/transcripts/extraterrestre-me-explica-el-porque-no-hay-muerte-sophia-swaruu) (2021-12-13; es); passages p0009, p0012. [Structured record](../../records/src-9f9a5d3a7e35.json).
+
+### src-ced4e51128ed-c03
+
+Yazhi said unconscious beliefs and identity shape perception, and described imagination as the basis of reality.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Derrumbar el Inconsciente - Romper los Acuerdos - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/derrumbar-el-inconsciente-romper-los-acuerdos-yazhi-swaruu-sophia) (2022-08-27; es); passages p0013, p0024, p0026. [Structured record](../../records/src-ced4e51128ed.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-75d6af7d0b46-c01
+
+Athena called 3D and 5D human-made, reductive labels; she said her views differ from Taygeta’s.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [NO HAY DENSIDADES 3D 5D COMO LES DICEN – ATHENA SWARUU](https://swaruu.org/transcripts/no-hay-densidades-3d-5d-como-les-dicen-athena-swaruu) (2022-02-23; es); passages p0002, p0003, p0015, p0016. [Structured record](../../records/src-75d6af7d0b46.json).
+
+### src-75d6af7d0b46-c02
+
+Athena said individuals perceive their own reality through frequency and shared perception agreements, rather than living in fixed densities. She said consciousness and mind shape a perceived reality.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [NO HAY DENSIDADES 3D 5D COMO LES DICEN – ATHENA SWARUU](https://swaruu.org/transcripts/no-hay-densidades-3d-5d-como-les-dicen-athena-swaruu) (2022-02-23; es); passages p0013, p0014, p0016. [Structured record](../../records/src-75d6af7d0b46.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-aec6c1a86364-c04
+
+She says people perceive only within their vibrational agreements, which unconsciously shape reality.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [COMO ROMPER ACUERDOS - Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/como-romper-acuerdos-sophia-swaruu-yazhi) (2022-04-26; es); passages p0040, p0044, p0045. [Structured record](../../records/src-aec6c1a86364.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4bbe9951863f-c05
+
+She links higher density with integrating knowledge and changing emotional interpretations.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [¿Qué son las emociones? – CAMBIA TU LA REALIDAD – Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/que-son-las-emociones-cambia-tu-la-realidad-sophia-swaruu-yazhi) (2022-07-03; es); passages p0035, p0036, p0038, p0040. [Structured record](../../records/src-4bbe9951863f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bd13d89221e8-c04](consciousness-metaphysics.md#src-bd13d89221e8-c04) — Consciousness and metaphysics
@@ -664,6 +836,19 @@ Related topics: [Teleportation](teleportation.md).
 - [src-9c291a69384d-c01](teleportation.md#src-9c291a69384d-c01) — Teleportation
 - [src-ce8bc803191b-c02](human-biosuit-model.md#src-ce8bc803191b-c02) — Humanity as a shared biological suit
 - [src-6d32076d9fb4-c01](galactic-federation.md#src-6d32076d9fb4-c01) — Galactic Federation
+- [src-1eb9dc311794-c01](postmortem-realities.md#src-1eb9dc311794-c01) — Postmortem realities
+- [src-1eb9dc311794-c03](consciousness-metaphysics.md#src-1eb9dc311794-c03) — Consciousness and metaphysics
+- [src-b6d92d26782e-c02](interdimensional-parasites.md#src-b6d92d26782e-c02) — Interdimensional parasites
+- [src-79f31e8f23bd-c02](consciousness-metaphysics.md#src-79f31e8f23bd-c02) — Consciousness and metaphysics
+- [src-79f31e8f23bd-c03](consciousness-metaphysics.md#src-79f31e8f23bd-c03) — Consciousness and metaphysics
+- [src-2b276450a3d2-c04](consciousness-metaphysics.md#src-2b276450a3d2-c04) — Consciousness and metaphysics
+- [src-205c04ebdf5e-c03](consciousness-metaphysics.md#src-205c04ebdf5e-c03) — Consciousness and metaphysics
+- [src-075f03199db3-c04](consciousness-metaphysics.md#src-075f03199db3-c04) — Consciousness and metaphysics
+- [src-075f03199db3-c05](consciousness-metaphysics.md#src-075f03199db3-c05) — Consciousness and metaphysics
+- [src-8d5449505ff0-c01](consciousness-metaphysics.md#src-8d5449505ff0-c01) — Consciousness and metaphysics
+- [src-9be5d7b8001c-c01](consciousness-metaphysics.md#src-9be5d7b8001c-c01) — Consciousness and metaphysics
+- [src-5b4daa64f189-c01](consciousness-metaphysics.md#src-5b4daa64f189-c01) — Consciousness and metaphysics
+- [src-4bd203cbfe4d-c05](karistus.md#src-4bd203cbfe4d-c05) — Karistus
 
 ## Review flags
 
@@ -673,19 +858,25 @@ Related topics: [Teleportation](teleportation.md).
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - These are Mari’s metaphysical positions, not externally verified cosmology
+- Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts
+- Yazhi presents several perspective-dependent formulations of identity and integration
 - ancient-solar-system-density-and-polity-claims
 - ascension-model-attributed
 - astral-perception-and-protection-claims
 - astral-warfare-claims-unverified
 - attributed-seti-military-purpose-claim
 - biology-claim
+- claims about time, memory, history, and social control are attributed to Yazhi, not independently verified
+- claims about unconscious work, wall-crossing, and perception are attributed to Yazhi and are not independently verified
 - contested-claim
 - cosmology-claims-attributed
 - density-dimension-explanation-framed-as-perspective-dependent
 - distinct-speaker-models-attributed
 - dyatlov-claim-reversed-in-later-anéeka-account
+- emotional and metaphysical claims are attributed to Yazhi, not independently verified
 - entertainment-disclaimer
 - ether-field-model
 - extraordinary-ability-claims
@@ -695,15 +886,24 @@ Related topics: [Teleportation](teleportation.md).
 - historical-event-identified-from-painting
 - historical-uncertainty
 - human-civilization-containment-claim
+- lore-claims-attributed-to-Yazhi
 - matrix-collapse-and-human-choice
 - matrix-reset-and-density-doctrine-attributed
 - metaphysical-entity-origin-claims
 - metaphysical-model
+- near-duplicate-of-src-051532dd5b50
 - numerical influence comparisons are illustrative, not fixed ratios
+- nutrition-medical-claims-omitted
 - objective-versus-personal-reality-framing
+- original-language:en
+- perception-model-uses-and-rejects-literal-timeline-terms
 - personal-ability-claims-attributed
 - personal\_metaphysics
+- perspective-conflict:time-jump-effects
+- perspective-dependent
+- perspective-dependent-Federation-governance
 - perspective-dependent-claims
+- planetary ascension is framed as perspective-dependent perception
 - planetary-reset-cycle-attributed
 - psychological memory-rewriting discussion could be confused with clinical guidance
 - quantum-mechanics-reinterpretation
@@ -712,6 +912,7 @@ Related topics: [Teleportation](teleportation.md).
 - related-starseed-material-overlap
 - self-described-species-transition
 - soul-and-density-doctrine-attributed
+- speaker-model-divergence-Athena-vs-Swaruu9
 - speaker-perspective-and-contradictions-attributed
 - starseed-identity-and-mission-attributed
 - starspot-portal-model-spans-two-speakers
@@ -724,3 +925,4 @@ Related topics: [Teleportation](teleportation.md).
 - unverified\_paranormal\_claims
 - unverified\_physics\_claims
 - venus-habitable-world-model
+- victim-blaming-and-anti-therapy-claims-omitted

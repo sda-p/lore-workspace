@@ -1,0 +1,81 @@
+{
+  "source_id": "src-ce97d34c532b",
+  "snapshot_sha256": "7407753a6b9bda0d191a8ce08b7803c045f39d0b9d6a4f18a8d2236627489902",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ce97d34c532b-c01",
+      "assertion": "Yazhi says stored individual DNA could guide medical pods in repairing traumatic damage, while recurring metabolic conditions are harder to correct.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce97d34c532b-c02",
+      "assertion": "She alleges DNA databases are centralized under Cabal control to identify nonhumans and enable population control using individual frequency data.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce97d34c532b-c03",
+      "assertion": "She says human DNA is largely Lyrian but differs, including brain and nervous-system development she attributes to perceptual manipulation on Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033"
+      ],
+      "primary_topic": "lyrians",
+      "topics": [
+        "lyrians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce97d34c532b-c04",
+      "assertion": "She says DNA shifts over time with consciousness and experience; small changes may require database updates beyond current human detection.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "DNA collection and nonhuman-identification claims are presented as Yazhi’s assertions."
+  ],
+  "coverage_gaps": [
+    "synthetic telepathy use",
+    "frequency signals through immersion pods",
+    "Taygetan and Engan comparisons"
+  ]
+}

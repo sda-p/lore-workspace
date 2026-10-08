@@ -104,6 +104,26 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
 
 Source: [MECÁNICA CUÁNTICA - LA TEORÍA DE LA RELATIVIDAD DE EINSTEIN - Swaruu - Yazhi](https://swaruu.org/transcripts/mecanica-cuantica-la-teoria-de-la-relatividad-de-einstein-swaruu-yazhi) (2021-04-08; es); passages p0021, p0022. [Structured record](../../records/src-2ede2b39ce16.json).
 
+### src-0dcb4b37d8c4-c01
+
+Athena describes suns as outlets of large energy toroids and black holes as inlets; some low-energy gravity wells can function in both directions. Her cosmology; feasibility depends on energy and frequency.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL SOL DE QUE ESTA COMPUESTO Y COMO INTERACTUÁ CON SU ENTORNO - Athena Swaruu](https://swaruu.org/transcripts/el-sol-de-que-esta-compuesto-y-como-interactua-con-su-entorno-athena-swaruu) (2022-02-18; es); passages p0005, p0007, p0025, p0028, p0029, p0030, p0032. [Structured record](../../records/src-0dcb4b37d8c4.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-a6c6ae12245f-c03
+
+Swaruu X (Athena) described stars and black holes as toroidal-flow nodes that can serve as portal exits or entrances depending on energy and frequency.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Extraterrestres Navegando los Portales - Sol y Agujeros de Gusano - Athena Swaruu](https://swaruu.org/transcripts/extraterrestres-navegando-los-portales-sol-y-agujeros-de-gusano-athena-swaruu) (2022-02-23; es); passages p0039, p0042, p0043, p0045. [Structured record](../../records/src-a6c6ae12245f.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Solar portal transit](solar-portal-transit.md).
+
 ## Claims filed under other topics
 
 - [src-424a779240f3-c01](natural-portals.md#src-424a779240f3-c01) — Natural and artificial portals
@@ -133,5 +153,6 @@ Source: [MECÁNICA CUÁNTICA - LA TEORÍA DE LA RELATIVIDAD DE EINSTEIN - Swaruu
 - metaphysical-claims
 - portal-time-travel-risk
 - solar-and-black-hole-portal-model
+- solar-physics-and-5g-claims-omitted
 - unproven-historical-speculation
 - unverified\_cosmology\_and\_technology

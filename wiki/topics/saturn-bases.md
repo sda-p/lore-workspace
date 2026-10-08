@@ -28,6 +28,22 @@ Source: [Galactic Federation, Current Situation, Taygetean Exo-Politics and Dipl
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-a18d1af875eb-c02
+
+She says Saturn’s moons host colonies and relay stations for many species; the region passed from Sauroid to Federation-aligned control.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: medium.
+
+Source: [Saturno - Sistema Solar - Informacion de Swaruu de Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/saturno-sistema-solar-informacion-de-swaruu-de-erra-taygeta-pleiades) (2022-07-31; es); passages p0026, p0036, p0050, p0052. [Structured record](../../records/src-a18d1af875eb.json).
+
+### src-a18d1af875eb-c04
+
+Swaruu 9 says a destroyed 5-km Sauroid cube once served as a Saturn-region base; Saturn itself is not inherently evil.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: medium.
+
+Source: [Saturno - Sistema Solar - Informacion de Swaruu de Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/saturno-sistema-solar-informacion-de-swaruu-de-erra-taygeta-pleiades) (2022-07-31; es); passages p0054, p0059, p0061. [Structured record](../../records/src-a18d1af875eb.json).
+
 ## Claims filed under other topics
 
 - [src-fe82d1a07961-c02](galactic-federation.md#src-fe82d1a07961-c02) — Galactic Federation
@@ -41,6 +57,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 ## Review flags
 
 - Federation-involvement-in-Earth-politics-varies-across-source-claims
+- Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012.
 - broad-exopolitical-allegations
 - competing-cabal-scenarios
 - dated-political-predictions

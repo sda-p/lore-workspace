@@ -191,6 +191,7 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - [src-de22732f48f1-c02](antarctica.md#src-de22732f48f1-c02) — Antarctica
 - [src-74e20b846c5e-c02](galactic-federation.md#src-74e20b846c5e-c02) — Galactic Federation
 - [src-c57cf7f12530-c02](mars.md#src-c57cf7f12530-c02) — Mars
+- [src-83d0afc07ef6-c03](mars.md#src-83d0afc07ef6-c03) — Mars
 
 ## Review flags
 
@@ -199,6 +200,7 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
 - Federation alternately described as Earth controller and nonultimate authority.
 - aircraft-identity-ambiguity
+- aliens-removed-from-quadrant-claim
 - antarctic-base-conspiracy-claims
 - ark-locations-and-status
 - biology-claim

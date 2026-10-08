@@ -45,3 +45,17 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 Source: [LA DEFINICIÓN DEL SER - LOS BUCLES DE ALMAS \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-definicion-del-ser-los-bucles-de-almas-sin-video) (2021-06-14; es); passages p0018, p0019, p0020. [Structured record](../../records/src-f6350a328e94.json).
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f698e76aaac9-c02
+
+Athena says reincarnation traps are not literal; self-beliefs and attachments sustain the experience, which awareness can end.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [LA TRAMPA DE LAS ALMAS – ES VERDAD? - Athena Swaruu - Sophia Swaruu - Swaruu de Erra](https://swaruu.org/transcripts/la-trampa-de-las-almas-es-verdad-athena-swaruu-sophia-swaruu-swaruu-de-erra) (2022-08-22; es); passages p0007, p0008, p0018, p0019, p0021. [Structured record](../../records/src-f698e76aaac9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+## Review flags
+
+- Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved

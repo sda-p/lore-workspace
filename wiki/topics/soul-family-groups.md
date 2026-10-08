@@ -18,6 +18,14 @@ Source: [EL ASTRAL – TU FAMILIA ESTELAR - EL VELO DEL OLVIDO Anéeka de Temmer
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-b00727c7921a-c05
+
+Yazhi says some souls enter because compatible with or drawn to the Earth experience, while others arrive with service aims and later become incompatible.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Ascensión Planetaria - Charla con Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/ascension-planetaria-charla-con-yazhi-swaruu-sophia) (2022-08-04; es); passages p0037, p0039. [Structured record](../../records/src-b00727c7921a.json).
+
 ## Claims filed under other topics
 
 - [src-2c208260f578-c01](consciousness-metaphysics.md#src-2c208260f578-c01) — Consciousness and metaphysics
@@ -31,4 +39,5 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - astral-memory-frequency-claim
 - collective-self-perspective-attributed
 - incarnation-afterlife-metaphysics
+- lore-claims-attributed-to-Yazhi
 - postmortem-reincarnation-model

@@ -1,0 +1,66 @@
+{
+  "source_id": "src-0988c92dc407",
+  "snapshot_sha256": "ea6680e49216b19fbc1786b6764b44fa286bcefa4990fd0515043c2edfebda55",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0988c92dc407-c01",
+      "assertion": "Athena said authentic spacecraft encounters should produce lasting shock and emotional change; she argued that contact stories lacking these reactions may be invented with an agenda.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0009",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "extraterrestrial-syndrome",
+      "topics": [
+        "extraterrestrial-syndrome"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "She presented this as a sign, not proof."
+    },
+    {
+      "id": "src-0988c92dc407-c02",
+      "assertion": "Athena said official and widely accepted mystery sources are more controlled, with agencies supplying information they want the public to receive.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "She claimed media coverage is broadly manipulated."
+    },
+    {
+      "id": "src-0988c92dc407-c03",
+      "assertion": "Athena said a collective unconscious extends beyond Earth, linking humans across worlds and explaining why extraterrestrials may seem human.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0024",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific examples of prior contactees"
+  ]
+}

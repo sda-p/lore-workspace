@@ -128,6 +128,16 @@ Source: [PORTALES ESPACIO TEMPORALES – VIAJE A TRAVÉS DEL ESPACIO TIEMPO - An
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-ce0d96e82011-c03
+
+A tractor beam alters the Matrix; inserting matter requires harmonics sustaining it in its new field.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 3 PARTE 2 - Éter - Insertando Objetos en la Matrix - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-3-parte-2-eter-insertando-objetos-en-la-matrix-athena-swaruu) (2022-07-04; es); passages p0056, p0058, p0060. [Structured record](../../records/src-ce0d96e82011.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-cb6267c7760f-c04](starship-systems.md#src-cb6267c7760f-c04) — Starship systems
@@ -137,6 +147,7 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-756f10136c06-c05](natural-portals.md#src-756f10136c06-c05) — Natural and artificial portals
 - [src-e15992dcfa52-c03](crop-circles.md#src-e15992dcfa52-c03) — Crop circles
 - [src-a02207051534-c05](nazca-spaceport.md#src-a02207051534-c05) — Nazca spaceport
+- [src-fd0bbccdb853-c03](temporal-skipping.md#src-fd0bbccdb853-c03) — Temporal skipping
 
 ## Review flags
 

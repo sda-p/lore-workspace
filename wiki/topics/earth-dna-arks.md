@@ -84,9 +84,24 @@ Source: [Arca de la Alianza - Tecnología Extraterrestre - Información de Yazhi
 
 Related topics: [Karistus](karistus.md), [Taygetans](taygetans.md).
 
+### src-ec6c591d861f-c01
+
+Yazhi says three arks are held at the Pentagon, Vostok, and her ship; they preserve biology and can serve as weapons.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Un Arca siendo el motivo de la guerra en Ucrania? Charla breve con Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/un-arca-siendo-el-motivo-de-la-guerra-en-ucrania-charla-breve-con-yazhi-swaruu-sophia) (2022-03-16; es); passages p0004. [Structured record](../../records/src-ec6c591d861f.json).
+
+Related topics: [Deep underground military bases](deep-underground-military-bases.md).
+
+## Claims filed under other topics
+
+- [src-ec6c591d861f-c02](ukraine.md#src-ec6c591d861f-c02) — Ukraine
+
 ## Review flags
 
 - ark-locations-and-status
 - ark-status-uncertainty
 - biological-restoration-technology
 - earth-ark-location-claims
+- ukraine-war-conspiracy-claims-attributed

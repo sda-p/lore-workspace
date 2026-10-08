@@ -27,3 +27,27 @@ Attributed to **Yazhi**; reported; extraction confidence: high.
 Source: [SIMBOLOGÍA OCULTA EN JUGUETES - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/simbologia-oculta-en-juguetes) (2021-03-29; es); passages p0013, p0015, p0016, p0017, p0018. [Structured record](../../records/src-82157eb532ca.json).
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-9c3e0642a4e2-c01
+
+Athena says Earth’s Cabal adopted ancient Egyptian symbols such as Toro Apis for modern logos.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [TORO APIS – SIMBOLISMO - PLEYADES – TAURO – EL OJO MORADO DE LOS FAMOSOS](https://swaruu.org/transcripts/toro-apis-simbolismo-pleyades-tauro-el-ojo-morado-de-los-famosos) (2022-02-10; es); passages p0002, p0003, p0006. [Structured record](../../records/src-9c3e0642a4e2.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Astrotheology](astrotheology.md).
+
+### src-9c3e0642a4e2-c02
+
+She says Cabal symbols mark presence or ownership, but public decoding distracts from deeper issues. They communicate sparingly.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [TORO APIS – SIMBOLISMO - PLEYADES – TAURO – EL OJO MORADO DE LOS FAMOSOS](https://swaruu.org/transcripts/toro-apis-simbolismo-pleyades-tauro-el-ojo-morado-de-los-famosos) (2022-02-10; es); passages p0013, p0014, p0029, p0031, p0032. [Structured record](../../records/src-9c3e0642a4e2.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+## Review flags
+
+- claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified

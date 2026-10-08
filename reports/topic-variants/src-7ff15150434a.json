@@ -1,0 +1,22 @@
+[
+  {
+    "proposed": {
+      "id": "matrix-energy-insertion",
+      "name": "Matrix energy insertion",
+      "kind": "technology",
+      "aliases": [
+        "inserting objects into the Matrix",
+        "gravity-coded insertion beam"
+      ]
+    },
+    "canonical": {
+      "id": "matrix-energy-insertion",
+      "name": "Matrix energy insertion",
+      "kind": "technology",
+      "aliases": [
+        "inserting matter into the Matrix",
+        "frequency-engine insertion"
+      ]
+    }
+  }
+]

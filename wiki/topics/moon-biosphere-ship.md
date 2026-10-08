@@ -116,15 +116,49 @@ Source: [LA LUNA - ESTACIÓN ESPACIAL ARTIFICIAL Y LA MATRIX 3D – SWARUU - TAY
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Holographic computers](holographic-computers.md).
 
+### src-906e32a9d0d6-c01
+
+Athena says the Moon bioship’s mass helped rebalance Earth’s orbit after Tiamat’s destruction.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Luna - Fue Instalada para Estabilizar la Tierra - Athena Swaruu Explica](https://swaruu.org/transcripts/luna-fue-instalada-para-estabilizar-la-tierra-athena-swaruu-explica) (2022-06-13; es); passages p0005, p0008, p0012. [Structured record](../../records/src-906e32a9d0d6.json).
+
+Related topics: [Tiamat](tiamat.md).
+
+### src-906e32a9d0d6-c05
+
+She describes the lunar hologram as thousands of surface projectors whose failures cause visual anomalies.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Luna - Fue Instalada para Estabilizar la Tierra - Athena Swaruu Explica](https://swaruu.org/transcripts/luna-fue-instalada-para-estabilizar-la-tierra-athena-swaruu-explica) (2022-06-13; es); passages p0055, p0057. [Structured record](../../records/src-906e32a9d0d6.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-bfb9700317e0-c03
+
+Athena said the Moon was placed to stabilize Earth, rejecting imprisonment of regressive races as its primary purpose. She called the electromagnetic barrier a consequence.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [El Diluvio Universial Tiamat Cronologia Terrestre de los 12.500 años – Athena Swaruu](https://swaruu.org/transcripts/el-diluvio-universial-tiamat-cronologia-terrestre-de-los-12-500-anos-athena-swaruu) (2022-05-12; es); passages p0027, p0028, p0030. [Structured record](../../records/src-bfb9700317e0.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
 ## Claims filed under other topics
 
 - [src-357c482522d2-c03](moon-matrix.md#src-357c482522d2-c03) — Moon and terrestrial Matrix
 - [src-1a7b60ba8ea9-c05](moon-matrix.md#src-1a7b60ba8ea9-c05) — Moon and terrestrial Matrix
 - [src-543fe68707e6-c02](andromedans.md#src-543fe68707e6-c02) — Andromedans
+- [src-b0eb8093b751-c03](tiamat.md#src-b0eb8093b751-c03) — Tiamat
+- [src-906e32a9d0d6-c04](moon-matrix.md#src-906e32a9d0d6-c04) — Moon and terrestrial Matrix
 
 ## Review flags
 
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- Transcript combines several speakers and dates; claims preserve speaker attribution
+- alternative-cosmology-and-chronology-claims
 - ancient-history-claim
 - conspiracy\_claims
 - contested-history

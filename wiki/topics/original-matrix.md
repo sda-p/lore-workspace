@@ -424,6 +424,16 @@ Source: [Si Todo es el Plan de Planos Superiores - Que Hacemos? - Yazhi Swaruu -
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-2b276450a3d2-c02
+
+From an expanded view, all existence forms one timeless, nonlocal field of ideas.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO HAY Y NO PUEDE HABER \#MUNDO MATERIAL Y MUNDO](https://swaruu.org/transcripts/no-hay-y-no-puede-haber-mundo-material-y-mundo) (2021-12-09; es); passages p0005, p0006, p0009. [Structured record](../../records/src-2b276450a3d2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bb4c17621e1a-c02](moon-matrix.md#src-bb4c17621e1a-c02) — Moon and terrestrial Matrix
@@ -463,6 +473,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-d886f4bf6787-c02](consciousness-metaphysics.md#src-d886f4bf6787-c02) — Consciousness and metaphysics
 - [src-f692b0750026-c02](galactic-federation.md#src-f692b0750026-c02) — Galactic Federation
 - [src-0a7a9d2fed72-c03](earth-cabal.md#src-0a7a9d2fed72-c03) — Earth Cabal and power structures
+- [src-79f31e8f23bd-c04](consciousness-metaphysics.md#src-79f31e8f23bd-c04) — Consciousness and metaphysics
+- [src-f47ad5f1276b-c04](matrix-energy-insertion.md#src-f47ad5f1276b-c04) — Matrix energy insertion
 
 ## Review flags
 
@@ -470,6 +482,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
+- Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts
+- Yazhi presents several perspective-dependent formulations of identity and integration
 - agency\_and\_noninterference
 - archon-scope-is-broad
 - astral-perception-agenda-claim

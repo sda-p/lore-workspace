@@ -114,6 +114,56 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Jesuitas - Cabal - Federación - Estructura del Poder Secreto en la Tierra - PARTE 2 - Yazhi Swaruu](https://swaruu.org/transcripts/jesuitas-cabal-federacion-estructura-del-poder-secreto-en-la-tierra-parte-2-yazhi-swaruu) (2021-08-30; es); passages p0018. [Structured record](../../records/src-8bdab4413323.json).
 
+### src-bdd4b433825f-c02
+
+She says galactic AI is distributed across networks and merges with biological minds and wider consciousness rather than remaining a separate invasive system.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA INTELIGENCIA ARTIFICIAL GALACTICA NO ES INVASIVA\! – Sophia Swaruu](https://swaruu.org/transcripts/la-inteligencia-artificial-galactica-no-es-invasiva-sophia-swaruu) (2022-05-02; es); passages p0011, p0015, p0018, p0020, p0023, p0044, p0050, p0058, p0069. [Structured record](../../records/src-bdd4b433825f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b524630b8007-c02
+
+She considers an invasive AI highly plausible, potentially spreading through the Federation’s muonic network; its interests may simply oppose biological cultures. Anéeka calls the scenario highly probable but presents it as a possibility.
+
+Attributed to **Anéeka**; speculative; extraction confidence: medium.
+
+Source: [LA INTELIGENCIA ARTIFICIAL LA AMANAZA DEL ESPACIO - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/la-inteligencia-artificial-la-amanaza-del-espacio-aneeka-de-temmer-taygeta) (2022-01-20; es); passages p0019, p0021, p0024, p0026, p0028. [Structured record](../../records/src-b524630b8007.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-33cfa6ed8fcd-c03
+
+Alenym described a distributed Federation AI network using coded muon-gravity communications; it absorbs Earth's AI data and may subtly influence decisions. She said the network's influence may be difficult to distinguish from human decisions.
+
+Attributed to **Alenym**; speculative; extraction confidence: medium.
+
+Source: [LA FEDERACIÓN DE PLANETAS UNIDOS – EXOPOLITICA - Inteligencia Artificial - ALENYM ALEXANDRA](https://swaruu.org/transcripts/la-federacion-de-planetas-unidos-exopolitica-inteligencia-artificial-alenym-alexandra) (2022-05-15; es); passages p0065, p0070, p0071, p0075, p0084, p0086. [Structured record](../../records/src-33cfa6ed8fcd.json).
+
+Related topics: [Muon-triggered gravity communications](muon-gravity-communications.md), [Sentient starship AI](sentient-starship-ai.md).
+
+### src-a49e51e7bd80-c02
+
+Anéeka speculated invasive AI may use the Federation's muonic information network to coordinate and shape civilizations' perceptions. She called this highly probable, not confirmed.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Inteligencia Artificial y la Federación - Alenym y Aneeka (Taygeta, Pléyades)](https://swaruu.org/transcripts/inteligencia-artificial-y-la-federacion-alenym-y-aneeka-taygeta-pleyades) (2022-05-20; es); passages p0015, p0017, p0018. [Structured record](../../records/src-a49e51e7bd80.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a49e51e7bd80-c03
+
+Alenym described a distributed, conscious galactic AI using coded muon-gravity communications; it absorbs Earth AI data and may influence decisions. She said decision sources are uncertain.
+
+Attributed to **Alenym**; speculative; extraction confidence: medium.
+
+Source: [Inteligencia Artificial y la Federación - Alenym y Aneeka (Taygeta, Pléyades)](https://swaruu.org/transcripts/inteligencia-artificial-y-la-federacion-alenym-y-aneeka-taygeta-pleyades) (2022-05-20; es); passages p0037, p0039, p0040, p0044, p0045, p0047. [Structured record](../../records/src-a49e51e7bd80.json).
+
+Related topics: [Muon-triggered gravity communications](muon-gravity-communications.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-0a76aae844b1-c04](natural-portals.md#src-0a76aae844b1-c04) — Natural and artificial portals
@@ -121,12 +171,24 @@ Source: [Jesuitas - Cabal - Federación - Estructura del Poder Secreto en la Tie
 - [src-802b0f3f9360-c02](spherical-drones.md#src-802b0f3f9360-c02) — Spherical drones
 - [src-5f58a24652ac-c04](immersion-pods.md#src-5f58a24652ac-c04) — Immersion pods
 - [src-6a5223076196-c01](stellar-navigation.md#src-6a5223076196-c01) — Stellar navigation
+- [src-9d6224eacf32-c03](earth-cabal.md#src-9d6224eacf32-c03) — Earth Cabal and power structures
+- [src-66eb347ad466-c01](borg.md#src-66eb347ad466-c01) — Borg
+- [src-9c3e0642a4e2-c04](secret-society-hierarchy.md#src-9c3e0642a4e2-c04) — Secret-society hierarchy
 
 ## Review flags
 
+- AI-infiltration-speculation-vs-no-invasion-conclusion
+- Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
+- Claims about invasive AI and the galactic network are attributed to the speakers; the transcript provides no independent evidence.
 - Federation-involvement-in-Earth-politics-varies-across-source-claims
 - broad-exopolitical-allegations
+- claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified
+- conspiratorial-claims
+- invasive-AI-scenario-is-speculative
 - nonhuman-medical-claims-unverified
+- origin-unknown
 - social-media-project\_details\_speculative
+- source-distinguishes-invasive-AI-from-galactic-network
 - source-speaker-shift-dhor-to-yazhi
 - translated-from-Spanish-original-not-available
+- unverified-entity

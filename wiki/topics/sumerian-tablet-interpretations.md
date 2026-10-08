@@ -24,6 +24,22 @@ Source: [SIMBOLOGIA OCULTA - TIAHUANACO - SUMERIA - EGIPTO - \*\*SIN VIDEO\*\*](
 
 Related topics: [Ancient Egypt](ancient-egypt.md).
 
+### src-2ebd8e231c94-c01
+
+Swaruu 9 alleges the 2003 Iraq invasion chiefly targeted Sumerian records, artifacts and nonhuman technology.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [OCULTADA ALTA TECNOLOGÍA SUMERIA DE PORTALES - IRAQ - Swaruu de Erra](https://swaruu.org/transcripts/ocultada-alta-tecnologia-sumeria-de-portales-iraq-swaruu-de-erra) (2022-07-31; es); passages p0010, p0013. [Structured record](../../records/src-2ebd8e231c94.json).
+
+Related topics: [Artificial portals](artificial-portals.md).
+
 ## Claims filed under other topics
 
 - [src-6e66e9328bac-c01](natural-portals.md#src-6e66e9328bac-c01) — Natural and artificial portals
+
+## Review flags
+
+- lore-claims-attributed
+- portal-count-unverified
+- witness-account

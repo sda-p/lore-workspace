@@ -646,6 +646,62 @@ Attributed to **Anéeka**; speculative; extraction confidence: high.
 
 Source: [Pruebas de PCR, Nanotecnologia y Q Anon - Peligros de Pruebas PCR - Advertencia a la Humanidad - Aneeka y Yazhi](https://swaruu.org/transcripts/pruebas-de-pcr-nanotecnologia-y-q-anon-peligros-de-pruebas-pcr-advertencia-a-la-humanidad-aneeka-y-y) (2021-02-13; es); passages p0005. [Structured record](../../records/src-b0eb7ba14903.json).
 
+### src-6d9f789c718e-c01
+
+Yazhi says fully interstellar species have little need for Earth minerals, which can be mined or replicated elsewhere.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Extraterrestres y Recursos Terrestres - Perspectiva Directamente de los Extraterrestres](https://swaruu.org/transcripts/extraterrestres-y-recursos-terrestres-perspectiva-directamente-de-los-extraterrestres) (2022-02-13; es); passages p0011, p0042, p0043. [Structured record](../../records/src-6d9f789c718e.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-3ce31d2810ab-c01
+
+Anéeka says advanced offworld species chiefly seek consciousness, lived experience, or influence over reality, not minerals.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LOS EXTRATERRESTRES QUE DESEAN LA TIERRA -Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/los-extraterrestres-que-desean-la-tierra-aneeka-de-temmer-taygeta) (2021-12-29; es); passages p0006, p0007, p0008, p0011, p0015, p0023. [Structured record](../../records/src-3ce31d2810ab.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7d45f5f944a1-c05
+
+She says money could disappear if scarcity thinking shifts toward inner fulfillment, while warning transitions can repeat old hierarchies.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [SOCIEDAD HOLÍSTICA - PRIMERA PARTE - SOPHIA SWARUU - YAZHI](https://swaruu.org/transcripts/sociedad-holistica-primera-parte-sophia-swaruu-yazhi) (2022-03-19; es); passages p0058, p0062, p0063, p0064. [Structured record](../../records/src-7d45f5f944a1.json).
+
+### src-a18d1af875eb-c03
+
+Saturn’s rings are mined for essential metals, especially gold, and support passing-ship resupply.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Saturno - Sistema Solar - Informacion de Swaruu de Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/saturno-sistema-solar-informacion-de-swaruu-de-erra-taygeta-pleiades) (2022-07-31; es); passages p0037, p0038. [Structured record](../../records/src-a18d1af875eb.json).
+
+### src-85df30bab80f-c03
+
+Yazhi links scarcity and materialism to money, arguing money could be removed if people stop relying on material acquisition for fulfillment.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad "Holográfica" - Holística - Preparación Espiritual y Ética es la Clave - Yazhi Swaruu](https://swaruu.org/transcripts/sociedad-holografica-holistica-preparacion-espiritual-y-etica-es-la-clave-yazhi-swaruu) (2022-03-20; es); passages p0020, p0023, p0027, p0062, p0063. [Structured record](../../records/src-85df30bab80f.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-8fd97fb04d46-c02
+
+Athena predicts supply shortages could be blamed on protesters rather than governments.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Observaciones](https://swaruu.org/transcripts/camioneros-en-canada-posible-agenda-athena-swaruu-comparte-sus-observaciones) (2022-02-04; es); passages p0004, p0007. [Structured record](../../records/src-8fd97fb04d46.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -706,16 +762,28 @@ Source: [Pruebas de PCR, Nanotecnologia y Q Anon - Peligros de Pruebas PCR - Adv
 - [src-f2d7d797c8f4-c02](earth-cabal.md#src-f2d7d797c8f4-c02) — Earth Cabal and power structures
 - [src-f2d7d797c8f4-c03](reptilian-invaders.md#src-f2d7d797c8f4-c03) — Reptilian invaders
 - [src-484a3e354961-c03](galactic-federation.md#src-484a3e354961-c03) — Galactic Federation
+- [src-6d9f789c718e-c02](consciousness-metaphysics.md#src-6d9f789c718e-c02) — Consciousness and metaphysics
+- [src-e0a9693e485e-c04](holistic-society.md#src-e0a9693e485e-c04) — Holistic society
+- [src-226904c4f73e-c03](holistic-society.md#src-226904c4f73e-c03) — Holistic society
+- [src-d8771f2c1186-c01](terrestrial-science.md#src-d8771f2c1186-c01) — Terrestrial science
+- [src-9cde082f48c4-c03](ukraine.md#src-9cde082f48c4-c03) — Ukraine
 
 ## Review flags
 
+- Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Federation alternately described as Earth controller and nonultimate authority.
 - Federation-infiltration\_theory
 - Federation-sanctions\_reported
+- Geopolitical analysis includes explicitly labeled speculation and predictions.
 - Internet-blackout prediction is explicitly uncertain.
 - Meteor-intervention and Earth-consciousness claims are source-attributed.
 - PCR and vaccine medical claims omitted.
+- Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012.
+- Resource motives and fear-feeding are speaker-attributed metaphysical claims
+- Resource-seeking distinction is level-dependent in Anéeka’s account
+- The alleged CIA organization is explicitly called speculation and unsupported by precise evidence in the interview.
+- Yazhi proposes nonhuman tutoring, then says people should not wait for outside help.
 - approximate-age-estimate
 - attack-theory\_speculative
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)

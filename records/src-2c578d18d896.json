@@ -1,0 +1,64 @@
+{
+  "source_id": "src-2c578d18d896",
+  "snapshot_sha256": "6dbc9839624b63cc6a2dcb80ed34621b67f20a963f689f35fbb6a70b07e5d0b0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2c578d18d896-c01",
+      "assertion": "Gosia’s article alleged that sexualized model photos associated with the Taygetan contact were injected or altered to discredit it.",
+      "speaker": "Gosia, relaying Taygetan claims",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "It cited earlier accusations around Billy Meier as a precedent."
+    },
+    {
+      "id": "src-2c578d18d896-c02",
+      "assertion": "The article argued that a group sharing information for years would be unlikely to undermine itself by posting porn-model images.",
+      "speaker": "Gosia, relaying Taygetan claims",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c578d18d896-c03",
+      "assertion": "Gosia urged readers to assess the contact’s information and consider omitted context before accepting image-based accusations.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said some contacts found the experience meaningful while others kept it private."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific images and disputed contact history"
+  ]
+}

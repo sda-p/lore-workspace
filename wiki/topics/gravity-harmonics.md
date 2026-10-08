@@ -230,6 +230,44 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [MÚSICA EN EL UNIVERSO - GRAVEDAD, ETER, Y CONCIENCIA \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/musica-en-el-universo-gravedad-eter-y-conciencia-sin-video) (2020-11-13; es); passages p0038, p0039. [Structured record](../../records/src-2ad850d76eda.json).
 
+### src-77187dee8432-c06
+
+She describes matter particles as toroidal standing waves whose energy recycles through matched harmonics.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Energía Libre - Matemática Taygeteana Extraterrestre - Base 12](https://swaruu.org/transcripts/energia-libre-matematica-taygeteana-extraterrestre-base-12) (2022-05-01; es); passages p0141, p0142, p0143, p0146. [Structured record](../../records/src-77187dee8432.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-8d5449505ff0-c04
+
+She says higher-frequency surroundings can raise Earth by dominant-frequency influence, while regressive entities tend toward self-destruction.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA FAMOSA ASCENSIÓN PLANETARIA- EL INCONSCIENTE COLECTIVO - Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/la-famosa-ascension-planetaria-el-inconsciente-colectivo-sophia-swaruu-yazhi) (2022-05-03; es); passages p0016, p0017, p0018. [Structured record](../../records/src-8d5449505ff0.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-b00727c7921a-c03
+
+She says surrounding higher-frequency collectives may raise Earth’s perceived frequency through dominant-frequency equalization.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [Ascensión Planetaria - Charla con Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/ascension-planetaria-charla-con-yazhi-swaruu-sophia) (2022-08-04; es); passages p0017. [Structured record](../../records/src-b00727c7921a.json).
+
+### src-5b52df948628-c03
+
+Anéeka described Taygetan physics as gravity from a quantum field generating mass, linking Earth's mass to attention from consciousness or ether.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [RESPUESTAS AL TERRAPLANISMO – ANEEKA DE TEMMER \#latierraplana](https://swaruu.org/transcripts/respuestas-al-terraplanismo-aneeka-de-temmer-latierraplana) (2021-11-13; es); passages p0021, p0025. [Structured record](../../records/src-5b52df948628.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-30d632b02db6-c04](frequency-map-navigation.md#src-30d632b02db6-c04) — Frequency-map navigation
@@ -254,25 +292,41 @@ Source: [MÚSICA EN EL UNIVERSO - GRAVEDAD, ETER, Y CONCIENCIA \*\*SIN VIDEO\*\*
 - [src-220efa38c406-c03](energy-generation.md#src-220efa38c406-c03) — Energy generation technology
 - [src-9143cd103af6-c03](elementals.md#src-9143cd103af6-c03) — Elementals
 - [src-7de827628fae-c04](elementals.md#src-7de827628fae-c04) — Elementals
+- [src-ce0d96e82011-c02](ether-field.md#src-ce0d96e82011-c02) — Ether field
+- [src-77187dee8432-c03](energy-generation.md#src-77187dee8432-c03) — Energy generation technology
+- [src-2b1192891e85-c02](starship-systems.md#src-2b1192891e85-c02) — Starship systems
+- [src-1301f08e45a8-c03](crystal-core-zero-point-reactors.md#src-1301f08e45a8-c03) — Crystal-core zero-point reactors
+- [src-1301f08e45a8-c04](crystal-core-zero-point-reactors.md#src-1301f08e45a8-c04) — Crystal-core zero-point reactors
+- [src-0f5047c8c5f2-c03](starship-systems.md#src-0f5047c8c5f2-c03) — Starship systems
+- [src-e10b7b1c1712-c03](great-pyramid-of-giza.md#src-e10b7b1c1712-c03) — Great Pyramid of Giza
+- [src-88e6a66d5551-c01](taygetan-base-12-mathematics.md#src-88e6a66d5551-c01) — Taygetan Base-12 Mathematics
+- [src-88e6a66d5551-c03](atomic-wave-structure.md#src-88e6a66d5551-c03) — Taygetan atomic wave structure
 
 ## Review flags
 
 - Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
+- The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
 - ancient-texts-as-racial-symbolism-attributed
 - attributed-seti-military-purpose-claim
+- base-12, zero-point-reactor, and matter-wave claims are attributed to Athena and are not independently verified
 - classified-details
+- crystal data storage and stellar reactor mechanisms are attributed claims from Yazhi, not independently verified
 - distinct-speaker-models-attributed
 - earthly-cern-portal-claim-not-included
 - gravity-propulsion-attributed
+- lore-claims-attributed-to-Yazhi
 - mental-health-and-protection-advice-excluded
 - metaphysical-model\_attributed
+- navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
 - nonhuman-technology\_claims\_attributed
 - nonstandard-physics-claims
 - paranormal-entity-claims-attributed
+- planetary ascension is framed as perspective-dependent perception
 - portal-energy-estimates-attributed
 - portal-location-and-destination-vary
 - portal-mechanics-overlap-src-6abed4268d57
+- pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified
 - reactor-mechanism-attributed
 - source-mixed-origin-en-reactor-and-spanish-engine-sections
 - source-speaker-shift-dhor-to-yazhi

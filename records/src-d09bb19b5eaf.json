@@ -1,0 +1,64 @@
+{
+  "source_id": "src-d09bb19b5eaf",
+  "snapshot_sha256": "a28f2ae0af50cb477c98e5491762d258cf97ca1ad14e169d959f46ba35cf225b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d09bb19b5eaf-c01",
+      "assertion": "Athena speculated that the Cabal sought Russia’s defeat by Ukraine to weaken Russia’s global image and restore Western power.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "ukraine"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "She framed war-economy benefits as collateral and cited economic motives."
+    },
+    {
+      "id": "src-d09bb19b5eaf-c02",
+      "assertion": "Athena said the war was controlled theater serving geopolitical agendas, while civilian suffering and deaths remained real.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d09bb19b5eaf-c03",
+      "assertion": "Athena forecast that Russia might be declared defeated within days or weeks, but called this an educated opinion rather than a precise prediction.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0027"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "She said it could change daily and allowed for prolonged war or false-flag escalation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "media narratives and China’s role"
+  ]
+}

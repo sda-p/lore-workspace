@@ -4400,6 +4400,308 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE -ANEEKA DE TEMMER](https://swaruu.org/transcripts/extraterrestres-reclaman-la-tierra-exopolitica-mujer-extraterrestre-aneeka-de-temmer) (2021-07-29; es); passages p0009, p0011, p0013, p0015, p0017. [Structured record](../../records/src-c190fb308eb0.json).
 
+### src-bdd4b433825f-c04
+
+She concludes the Federation is not invaded, though she earlier allows possible AI infiltration; its diverse values may look hostile from human expectations.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [LA INTELIGENCIA ARTIFICIAL GALACTICA NO ES INVASIVA\! – Sophia Swaruu](https://swaruu.org/transcripts/la-inteligencia-artificial-galactica-no-es-invasiva-sophia-swaruu) (2022-05-02; es); passages p0035, p0043, p0060, p0061, p0062. [Structured record](../../records/src-bdd4b433825f.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-bc6ca9130ba5-c03
+
+She says human contact with the Federation depends on the Federation and prenatal agreements; people may request contact, but cannot compel a response. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CANALIZACIONES QUE PELIGROS PUEDE TENER LO QUE NO TE CUENTAN - Aneeka - Swaruu](https://swaruu.org/transcripts/canalizaciones-que-peligros-puede-tener-lo-que-no-te-cuentan-aneeka-swaruu) (2022-08-04; es); passages p0108, p0109, p0117, p0118, p0123. [Structured record](../../records/src-bc6ca9130ba5.json).
+
+Related topics: [Telepathic channeling](telepathic-channeling.md).
+
+### src-52c31730f7eb-c01
+
+Anéeka says no new positive fleet is arriving to transform the solar system; such beings have already been present, and positivity depends on perspective. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [NACIDOS PARA NO PENSAR - CONVERSACIÓN CON UNA MUJER EXTRATERRESTRE - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/nacidos-para-no-pensar-conversacion-con-una-mujer-extraterrestre-aneeka-de-temmer-taygeta) (2022-01-18; es); passages p0009, p0010, p0012. [Structured record](../../records/src-52c31730f7eb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-83d0afc07ef6-c02
+
+She says the Federation removed negative extraterrestrials from the wider solar system long ago, leaving their forces concentrated on Earth. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Liberación de Mundos, Planetas, Tierra - Que dice del tema Athena Swaruu?](https://swaruu.org/transcripts/liberacion-de-mundos-planetas-tierra-que-dice-del-tema-athena-swaruu) (2021-12-15; es); passages p0006. [Structured record](../../records/src-83d0afc07ef6.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-ec6c591d861f-c03
+
+Yazhi cites Alex Collier’s view that the Federation and Andromedans will not intervene because it could worsen Earth’s problems; humanity must resolve them to avoid repeating mistakes. Her account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Un Arca siendo el motivo de la guerra en Ucrania? Charla breve con Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/un-arca-siendo-el-motivo-de-la-guerra-en-ucrania-charla-breve-con-yazhi-swaruu-sophia) (2022-03-16; es); passages p0009. [Structured record](../../records/src-ec6c591d861f.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-53d3d8f6b1c3-c06
+
+Athena attributes the strike to factional conflict but says its exact motive and perpetrator remain unknown.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: medium.
+
+Source: [Ataque a una Nave Centauri - Armas - Aneeka de Temmer Explica el Incidente](https://swaruu.org/transcripts/ataque-a-una-nave-centauri-armas-aneeka-de-temmer-explica-el-incidente) (2022-03-03; es); passages p0139, p0140, p0142, p0144. [Structured record](../../records/src-53d3d8f6b1c3.json).
+
+### src-63eb2c3859f8-c04
+
+She attributes Earth policy failures to some controlling factions, not entire species or the Federation.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [FEDERACIÓN DE LA LUZ – ASISTENCIA PLANETARIA - Sophia Swaruu](https://swaruu.org/transcripts/federacion-de-la-luz-asistencia-planetaria-sophia-swaruu) (2022-06-13; es); passages p0016, p0017, p0028. [Structured record](../../records/src-63eb2c3859f8.json).
+
+### src-8418c91c8a5b-c05
+
+In her view, Federation infiltration is unlikely; apparent failures reflect diverse member values and human expectations.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [Inteligencia Artificial - Galáctica - Fundida con el campo de la Conciencia - Yazhi Swaruu](https://swaruu.org/transcripts/inteligencia-artificial-galactica-fundida-con-el-campo-de-la-conciencia-yazhi-swaruu) (2022-05-25; es); passages p0039, p0045, p0046. [Structured record](../../records/src-8418c91c8a5b.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-bb19379f0b60-c03
+
+Athena argues external rescue can reproduce self-generated problems, comparing self-resolution to learning to fish.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ASISTENCIA PLANETARIA - LA CULPA Y LA RESPONSABILIDAD - Athena Swaruu](https://swaruu.org/transcripts/asistencia-planetaria-la-culpa-y-la-responsabilidad-athena-swaruu) (2022-06-10; es); passages p0009, p0010. [Structured record](../../records/src-bb19379f0b60.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-075f03199db3-c02
+
+She says “regressive” is perspective-dependent; perceived destruction reflects unresolved conflicts among Federation members.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO HAY NINGÚN DESPERTAR SOLO HAS ADQUIRIDO MÁS CONCIENCIA - SOPHIA SWARUU -YAZHI](https://swaruu.org/transcripts/no-hay-ningun-despertar-solo-has-adquirido-mas-conciencia-sophia-swaruu-yazhi) (2022-08-24; es); passages p0011, p0012. [Structured record](../../records/src-075f03199db3.json).
+
+Related topics: [Planetary Matrix resets](planetary-matrix-resets.md).
+
+### src-075f03199db3-c03
+
+Yazhi says the Federation reflects humanity because its members include human consciousness across levels.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO HAY NINGÚN DESPERTAR SOLO HAS ADQUIRIDO MÁS CONCIENCIA - SOPHIA SWARUU -YAZHI](https://swaruu.org/transcripts/no-hay-ningun-despertar-solo-has-adquirido-mas-conciencia-sophia-swaruu-yazhi) (2022-08-24; es); passages p0014, p0015. [Structured record](../../records/src-075f03199db3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-fb8fca342865-c02
+
+She says Reptiles, Maitre, Orange and Malakak are outside the Federation; Malakak are Tall Whites.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL HOMO CAPENSIS TIENEN TRATADOS CON LOS REPTILES - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/el-homo-capensis-tienen-tratados-con-los-reptiles-aneeka-de-temmer-taygeta) (2022-02-04; es); passages p0014, p0015. [Structured record](../../records/src-fb8fca342865.json).
+
+### src-fb8fca342865-c04
+
+She says the Federation contains these groups on Earth but will not intervene.
+
+Attributed to **Anéeka**; asserted; extraction confidence: medium.
+
+Source: [EL HOMO CAPENSIS TIENEN TRATADOS CON LOS REPTILES - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/el-homo-capensis-tienen-tratados-con-los-reptiles-aneeka-de-temmer-taygeta) (2022-02-04; es); passages p0049. [Structured record](../../records/src-fb8fca342865.json).
+
+### src-9d5476909933-c03
+
+Anéeka suspects Federation members conduct many kinds of human experiments, though she says the scope needs definition.
+
+Attributed to **Anéeka**; speculative; extraction confidence: medium.
+
+Source: [NO HAY LIBRE ALBEDRÍO - EN LA TIERRA - ANEEKA DE TEMMER - \#TAYGETA](https://swaruu.org/transcripts/no-hay-libre-albedrio-en-la-tierra-aneeka-de-temmer-taygeta) (2022-02-21; es); passages p0019, p0021. [Structured record](../../records/src-9d5476909933.json).
+
+### src-1dc8eadf6766-c02
+
+She places its core on Alcyone and identifies Viera as the local Federation capital, with another in Saturn.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CONVERSACIÓN CON MUJER EXTRATERRESTRE EL NÚCLEO DEL GRAN LOGOS - ANEEKA DE TEMMER](https://swaruu.org/transcripts/conversacion-con-mujer-extraterrestre-el-nucleo-del-gran-logos-aneeka-de-temmer) (2022-09-15; es); passages p0006. [Structured record](../../records/src-1dc8eadf6766.json).
+
+### src-dff574e82d59-c01
+
+Athena says a Federation alliance discussed helping Earth decades ago, but intervention remains indirect and insufficient.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [\#DESPERTAR GLOBAL Y A LA LIBERACIÓN DE NUESTRO SISTEMA \#SOLAR - \#ATHENA \#SWARUU \#exopolitica](https://swaruu.org/transcripts/despertar-global-y-a-la-liberacion-de-nuestro-sistema-solar-athena-swaruu-exopolitica) (2021-12-15; es); passages p0003, p0004. [Structured record](../../records/src-dff574e82d59.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-dff574e82d59-c03
+
+Athena says the Federation removed negative extraterrestrial forces from the Solar System, while remaining threats are concentrated on Earth.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [\#DESPERTAR GLOBAL Y A LA LIBERACIÓN DE NUESTRO SISTEMA \#SOLAR - \#ATHENA \#SWARUU \#exopolitica](https://swaruu.org/transcripts/despertar-global-y-a-la-liberacion-de-nuestro-sistema-solar-athena-swaruu-exopolitica) (2021-12-15; es); passages p0005. [Structured record](../../records/src-dff574e82d59.json).
+
+### src-59c853fbd4b4-c04
+
+Federation rules require text-only contact; Anéeka preferred vetted-group video calls, while direct landings remained dangerous. 2020 account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ENTREVISTA A UNA MUJER EXTRATERRESTRE - SOMOS REALES - Aneeka de Temmer \#Taygeta](https://swaruu.org/transcripts/entrevista-a-una-mujer-extraterrestre-somos-reales-aneeka-de-temmer-taygeta) (2022-06-21; es); passages p0087, p0089, p0090, p0091. [Structured record](../../records/src-59c853fbd4b4.json).
+
+### src-33cfa6ed8fcd-c01
+
+Alenym said military liberation can become invasion, harming the liberator's relations and failing to change the local mindset that enabled oppression. She argued force could reproduce the original problem.
+
+Attributed to **Alenym**; asserted; extraction confidence: high.
+
+Source: [LA FEDERACIÓN DE PLANETAS UNIDOS – EXOPOLITICA - Inteligencia Artificial - ALENYM ALEXANDRA](https://swaruu.org/transcripts/la-federacion-de-planetas-unidos-exopolitica-inteligencia-artificial-alenym-alexandra) (2022-05-15; es); passages p0013, p0016, p0017, p0032. [Structured record](../../records/src-33cfa6ed8fcd.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-9bdd3d5f2289-c03
+
+Anéeka said Federation and Andromedan ships used anti-radiation frequencies and particle methods to reduce contamination. She said she saw limited results but believed damage would otherwise be worse.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [TERRAFORMAR LA TIERRA - CENTRALES NUCLEARES - Líneas ley - Aneeka de Temmer](https://swaruu.org/transcripts/terraformar-la-tierra-centrales-nucleares-lineas-ley-aneeka-de-temmer) (2022-01-15; es); passages p0082, p0085, p0088. [Structured record](../../records/src-9bdd3d5f2289.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-598faa62de95-c01
+
+Anéeka said local Viera authorities opposed events on Earth but lacked authority to intervene; she suspected higher Federation levels might coordinate with deeper groups. She said the extent of coordination was uncertain.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Exopolitica - Temas "Espaciales" para el programa de JeanClaude con Gosia - Aneeka de Temmer](https://swaruu.org/transcripts/exopolitica-temas-espaciales-para-el-programa-de-jeanclaude-con-gosia-aneeka-de-temmer) (2021-11-23; es); passages p0023, p0024, p0027, p0029, p0030, p0033. [Structured record](../../records/src-598faa62de95.json).
+
+Related topics: [Higher Federation councils](higher-federation-councils.md), [Secret-society hierarchy](secret-society-hierarchy.md).
+
+### src-598faa62de95-c02
+
+Anéeka said Federation ships monitor Earth and sometimes attack regressive craft, but do not liberate humanity. She framed this as preserving the Matrix.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Exopolitica - Temas "Espaciales" para el programa de JeanClaude con Gosia - Aneeka de Temmer](https://swaruu.org/transcripts/exopolitica-temas-espaciales-para-el-programa-de-jeanclaude-con-gosia-aneeka-de-temmer) (2021-11-23; es); passages p0004, p0008, p0009, p0010, p0011, p0012. [Structured record](../../records/src-598faa62de95.json).
+
+Related topics: [Nonhuman surveillance drones](nonhuman-surveillance-drones.md).
+
+### src-9fb50ae5b7f5-c04
+
+Anéeka says Federation rules prevent high-orbit Earth photos, while SSP sources do not publish imagery because the program is secret.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Minitemas con Gosia - Información Extraterrestre - Yazhi, Aneeka, Athena (Pléyades y mas allá)](https://swaruu.org/transcripts/minitemas-con-gosia-informacion-extraterrestre-yazhi-aneeka-athena-pleyades-y-mas-alla) (2022-01-05; es); passages p0065, p0066, p0068, p0070, p0071. [Structured record](../../records/src-9fb50ae5b7f5.json).
+
+Related topics: [Secret Space Program](secret-space-program.md).
+
+### src-ed015e2bb945-c03
+
+Anéeka says Federation ships reduce radiation through anti-radiation frequencies and oppositely charged particles, though she thinks more could be done.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Que paso en Chernobyl? Que son Plantas Nucleares? Aneeka y Athena Swaruu](https://swaruu.org/transcripts/que-paso-en-chernobyl-que-son-plantas-nucleares-aneeka-y-athena-swaruu) (2022-04-06; es); passages p0060, p0063. [Structured record](../../records/src-ed015e2bb945.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-ed015e2bb945-c04
+
+Anéeka says the Federation disables nuclear missiles and silos, while Earth’s Cabal has also built smaller nuclear weapons.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Que paso en Chernobyl? Que son Plantas Nucleares? Aneeka y Athena Swaruu](https://swaruu.org/transcripts/que-paso-en-chernobyl-que-son-plantas-nucleares-aneeka-y-athena-swaruu) (2022-04-06; es); passages p0064, p0065, p0067. [Structured record](../../records/src-ed015e2bb945.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-a8d6c63dc563-c01
+
+Alenym says military liberation worsens war, fails to change inhabitants’ mindset, and can be seen as invasion.
+
+Attributed to **Alenym**; reported; extraction confidence: high.
+
+Source: [Exopolítica con Alenym de Temmer - Liberación de la Tierra NO funciona como te lo Dicen](https://swaruu.org/transcripts/exopolitica-con-alenym-de-temmer-liberacion-de-la-tierra-no-funciona-como-te-lo-dicen) (2022-04-23; es); passages p0007, p0013, p0014, p0016. [Structured record](../../records/src-a8d6c63dc563.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-a8d6c63dc563-c02
+
+She says liberators face ostracism and damaged relations with other councils.
+
+Attributed to **Alenym**; reported; extraction confidence: high.
+
+Source: [Exopolítica con Alenym de Temmer - Liberación de la Tierra NO funciona como te lo Dicen](https://swaruu.org/transcripts/exopolitica-con-alenym-de-temmer-liberacion-de-la-tierra-no-funciona-como-te-lo-dicen) (2022-04-23; es); passages p0011, p0014, p0019, p0023. [Structured record](../../records/src-a8d6c63dc563.json).
+
+Related topics: [Higher Federation councils](higher-federation-councils.md).
+
+### src-a8d6c63dc563-c04
+
+She says Earth must resolve its problems; mentors offer limited guidance, while the Federation will not intervene.
+
+Attributed to **Alenym**; reported; extraction confidence: high.
+
+Source: [Exopolítica con Alenym de Temmer - Liberación de la Tierra NO funciona como te lo Dicen](https://swaruu.org/transcripts/exopolitica-con-alenym-de-temmer-liberacion-de-la-tierra-no-funciona-como-te-lo-dicen) (2022-04-23; es); passages p0043, p0046, p0047. [Structured record](../../records/src-a8d6c63dc563.json).
+
+Related topics: [Starseed guides](starseed-guides.md).
+
+### src-e9adfed45e60-c02
+
+Anéeka says the Federation monitors Earth but will not rescue humanity. She calls this Matrix maintenance.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [NOTICIAS ESPACIALES - Programa Espacial Secreto](https://swaruu.org/transcripts/noticias-espaciales-programa-espacial-secreto) (2021-11-24; es); passages p0006, p0007, p0008, p0009. [Structured record](../../records/src-e9adfed45e60.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-e9adfed45e60-c04
+
+Anéeka says space law prevents Taygetan military intervention on Earth. They could be deemed aggressors.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [NOTICIAS ESPACIALES - Programa Espacial Secreto](https://swaruu.org/transcripts/noticias-espaciales-programa-espacial-secreto) (2021-11-24; es); passages p0022, p0023, p0025, p0027. [Structured record](../../records/src-e9adfed45e60.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-87bee905e958-c04
+
+Anéeka says Federation nonintervention reflects a belief that humans must solve problems and learn independently.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federacion Galactica los Amos del Mundo - Preguntas y Respuestas - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-los-amos-del-mundo-preguntas-y-respuestas-aneeka-de-temmer) (2021-12-17; es); passages p0014, p0022. [Structured record](../../records/src-87bee905e958.json).
+
+### src-87bee905e958-c06
+
+Anéeka says the Federation considers Earth its property, while Alcyone allies dispute that claim.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federacion Galactica los Amos del Mundo - Preguntas y Respuestas - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-los-amos-del-mundo-preguntas-y-respuestas-aneeka-de-temmer) (2021-12-17; es); passages p0028. [Structured record](../../records/src-87bee905e958.json).
+
+Related topics: [Alcyone Council](alcyone-council.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c02](urmah.md#src-a5811312e55c-c02) — Urmah
@@ -4691,19 +4993,55 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - [src-9ac9cc0d3fef-c02](starseeds.md#src-9ac9cc0d3fef-c02) — Starseeds
 - [src-9ac9cc0d3fef-c03](humanity-multi-species-experiment.md#src-9ac9cc0d3fef-c03) — Humanity as a multi-species experiment
 - [src-6d32076d9fb4-c03](human-biosuit-model.md#src-6d32076d9fb4-c03) — Humanity as a shared biological suit
+- [src-d26552c9fbda-c02](taygetans.md#src-d26552c9fbda-c02) — Taygetans
+- [src-d26552c9fbda-c03](taygetan-first-contact-project.md#src-d26552c9fbda-c03) — Taygetan First Contact Project
+- [src-876a8c6154df-c01](antarctica.md#src-876a8c6154df-c01) — Antarctica
+- [src-876a8c6154df-c02](antarctica.md#src-876a8c6154df-c02) — Antarctica
+- [src-869fdf1c4001-c01](vlash-vlad-vrill-clans.md#src-869fdf1c4001-c01) — Vlash, Vlad and Vrill clans
+- [src-83d0afc07ef6-c03](mars.md#src-83d0afc07ef6-c03) — Mars
+- [src-4ff159251d90-c01](taygetan-first-contact-project.md#src-4ff159251d90-c01) — Taygetan First Contact Project
+- [src-56f6493ab6a3-c01](antarctica.md#src-56f6493ab6a3-c01) — Antarctica
+- [src-56f6493ab6a3-c02](antarctica.md#src-56f6493ab6a3-c02) — Antarctica
+- [src-63eb2c3859f8-c01](higher-federation-councils.md#src-63eb2c3859f8-c01) — Higher Federation councils
+- [src-63eb2c3859f8-c03](higher-federation-councils.md#src-63eb2c3859f8-c03) — Higher Federation councils
+- [src-dff574e82d59-c04](mars.md#src-dff574e82d59-c04) — Mars
+- [src-33cfa6ed8fcd-c02](higher-federation-councils.md#src-33cfa6ed8fcd-c02) — Higher Federation councils
+- [src-226904c4f73e-c01](consciousness-metaphysics.md#src-226904c4f73e-c01) — Consciousness and metaphysics
+- [src-8e0dc9c725c3-c02](borg.md#src-8e0dc9c725c3-c02) — Borg
+- [src-a49e51e7bd80-c02](muonic-galactic-ai-network.md#src-a49e51e7bd80-c02) — Muonic galactic AI network
+- [src-a49e51e7bd80-c03](muonic-galactic-ai-network.md#src-a49e51e7bd80-c03) — Muonic galactic AI network
+- [src-598faa62de95-c03](secret-space-program.md#src-598faa62de95-c03) — Secret Space Program
+- [src-5e5e29eb902e-c04](alien-species.md#src-5e5e29eb902e-c04) — Alien species and distinctions
+- [src-4bd203cbfe4d-c02](karistus.md#src-4bd203cbfe4d-c02) — Karistus
+- [src-4bd203cbfe4d-c03](karistus.md#src-4bd203cbfe4d-c03) — Karistus
+- [src-a8d6c63dc563-c03](alien-species.md#src-a8d6c63dc563-c03) — Alien species and distinctions
+- [src-a8d6c63dc563-c05](higher-federation-councils.md#src-a8d6c63dc563-c05) — Higher Federation councils
+- [src-e9adfed45e60-c03](earth-cabal.md#src-e9adfed45e60-c03) — Earth Cabal and power structures
+- [src-e9adfed45e60-c05](secret-space-program.md#src-e9adfed45e60-c05) — Secret Space Program
+- [src-375ee3e4cf1f-c01](humanity-multi-species-experiment.md#src-375ee3e4cf1f-c01) — Humanity as a multi-species experiment
+- [src-87bee905e958-c01](planetary-matrix-resets.md#src-87bee905e958-c01) — Planetary Matrix resets
+- [src-87bee905e958-c03](alcyone-council.md#src-87bee905e958-c03) — Alcyone Council
+- [src-87bee905e958-c05](earth-cabal.md#src-87bee905e958-c05) — Earth Cabal and power structures
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - 3d-vs-higher-density-wishes
+- AI-infiltration-speculation-vs-no-invasion-conclusion
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
 - Anéeka says Andromedans dominate councils but denies formal rulership.
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
+- COVID-and-vaccine-claims-omitted
+- Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
+- Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
+- Claims about invasive AI and Borg are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about invasive AI and the galactic network are attributed to the speakers; the transcript provides no independent evidence.
 - Claims describe Mari’s spiritual model of the Federation and reincarnation
 - Claims-about-PCR-swab-nanotechnology-conflict-with-later-human-origin-possibility
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
+- Contact directives are described from Anéeka’s 2020 perspective.
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
@@ -4716,24 +5054,31 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - Federation-sanctions\_reported
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
+- High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - Higher-level free-will explanation is challenged by Gosia
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
+- Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - Maitre\_relationship\_with\_Reptilians
 - Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified.
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Proposed intervention remains conditional and internally qualified
+- QAnon-and-COVID-claims-omitted
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
+- The alleged strike and factional attribution are unverified within the source
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - Weapon and defense capabilities are source-attributed technical claims
+- Yazhi distinguishes speculative infiltration by weapons AI from a galaxy-level shared consciousness
+- Yazhi’s account of higher-council governance and intervention is internally framed as perspective-dependent
 - abduction-motive-varies
 - agenda21-assertion
+- aliens-removed-from-quadrant-claim
 - alternate-history\_claims\_attributed
 - ancient-history-claim
 - ancient-site-claims-attributed
@@ -4748,11 +5093,13 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - attributed-frequency-interference-claims
 - attribution: extraordinary intelligence claims remain source-specific
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
+- biden-and-putin-allegations-omitted
 - biological-claims-unverified
 - biological-restoration-technology
 - black-hole-ether-model
 - black-knight-loss-details-provisional
 - blockade-and-biology-attributed
+- blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified
 - broad-exopolitical-allegations
 - cataclysm-history-attributed
 - causal-attribution-tension
@@ -4762,6 +5109,7 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - claims about fabricated histories and public events are attributed lore, not independently substantiated
 - claims are presented as attributed lore and quotations within a lesson
 - claims-about-suppressed-contact-evidence
+- claims-attributed-to-Athena
 - competing-human-and-federation-perspectives-attributed
 - competing\_attributions
 - conditional\_forecast
@@ -4771,6 +5119,7 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - conflicting\_primary\_purpose\_claims
 - conspiracy-allegations
 - conspiracy-claims
+- conspiracy-claims-attributed
 - conspiracy\_claims
 - conspiracy\_claims\_unverified
 - contact-readiness-generalization
@@ -4786,6 +5135,8 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - coverage: full metaphysical questions
 - coverage: labor and media
 - coverage: quoted Jung and Tsarion passages
+- covid-and-vaccine-claims-omitted
+- current-war-conspiracy-claims-attributed
 - dangerous-health-advice
 - date-discrepancy
 - dated-pandemic-scenario-predictions
@@ -4807,6 +5158,7 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - earthquake-causation-unverified
 - eclipse-portal-claims-unverified
 - emotion-and-integration-doctrine-attributed
+- exopolitical and refugee claims are attributed to Alenym and not independently verified
 - exopolitical-faction-claims
 - extraordinary-contact-claims
 - extraordinary\_ai\_claims
@@ -4859,6 +5211,7 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - fleet-status\_as-reported
 - forecast-in-retrospect
 - frequency\_health\_claims\_unverified
+- gender-and-sexuality-conspiracy-claims-omitted
 - genocide-and-elite-conspiracy-allegations
 - giza-base-account
 - giza-underground-base-claim
@@ -4895,6 +5248,7 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - liberation-framing-disputed
 - logo\_identity\_claim\_unverified
 - long conversation contains disputed health claims not included in core extraction
+- lore-claims-attributed-to-Aneeka
 - lunar-reactor-age-origin-uncertainty
 - maitre\_claims\_conflicting\_and\_uncertain
 - mass-explanation-variation
@@ -4917,6 +5271,7 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - name-variant-review
 - named\_government\_and\_secret\_base\_claims
 - narrator\_claims
+- near-duplicate-of-src-876a8c6154df
 - no-parallel-source-in-batch
 - nonhuman-human-boundary-claims
 - nonstandard-planetary-model
@@ -4928,7 +5283,9 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - personal\_accusations
 - personal\_metaphysics
 - personal\_social\_theory
+- perspective-dependent-Federation-governance
 - perspective-dependent-claims
+- perspective-dependent-responsibility
 - planetary-control-and-liberation-claims
 - pluto-classification-esoteric-claim
 - political-allegation
@@ -4948,6 +5305,7 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - religious-control-claims
 - reported arrival date conflicts with article chronology
 - reported-claims\_by\_Ari
+- reported:pilot-encounters
 - reported\_plan
 - reptilian-species-versus-reptile-egregor
 - rescue-count-uncertain
@@ -4968,6 +5326,9 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - solar-system-history-attributed
 - source frames vaccine-related mass death as a hypothetical soul-level exit while explicitly opposing genocide; avoid treating it as endorsed policy
 - source includes conflicting publication and event dates; claims retain stated dates
+- source makes unverified claims about extraterrestrial warfare and Federation involvement
+- source-disputes-current-liberation-narrative
+- source-says-speaker-has-not-seen-regressive-groups
 - speaker-attribution-inferred-from-transcript
 - speaker-attribution-swaruu-x-athena
 - speaker-speculation
@@ -4977,10 +5338,12 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - species status is contested within Mari’s account; preserve her stated rationale
 - species-emotional-ranges-attributed
 - species-trait-generalizations-attributed
+- speculation:federation-experiments
 - spiritual-warfare-claims
 - starlink-observation-scope-ambiguity
 - succession-report\_attributed
 - technology\_claims
+- terrestrial-censorship-claim
 - time\_travel\_lore
 - timeline-branching-claims
 - translated-from-spanish
@@ -4989,6 +5352,7 @@ Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE
 - translation-counterpart: src-d0398aec7731; close full translation; similar-title source src-ba29b281f533 is a distinct later essay
 - translation-counterpart:src-50afee47b8a2-close-full
 - triton-placement-attributed-to-andromedans
+- ukraine-war-conspiracy-claims-attributed
 - uncertain-origin
 - uncertainty-shift: 5G moves from possible explanation to formal position
 - unsupported\_planetary\_claims

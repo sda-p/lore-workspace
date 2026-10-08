@@ -746,6 +746,132 @@ Attributed to **Yázhi**; asserted; extraction confidence: high.
 
 Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte Final - Yazhi con Dale Harder](https://swaruu.org/transcripts/tecnologia-extraterrestre-cristales-y-reactores-punto-zero-parte-final-yazhi-con-dale-harder) (2021-04-07; es); passages p0064, p0065, p0069. [Structured record](../../records/src-3f3c87a05939.json).
 
+### src-77187dee8432-c01
+
+Swaruu 9 says Taygetan base-12 mathematics models aether dynamics and informs reactor design.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Energía Libre - Matemática Taygeteana Extraterrestre - Base 12](https://swaruu.org/transcripts/energia-libre-matematica-taygeteana-extraterrestre-base-12) (2022-05-01; es); passages p0006, p0008, p0022. [Structured record](../../records/src-77187dee8432.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-77187dee8432-c02
+
+She defines zero-point output as a usable spark from imbalance between two system polarities.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Energía Libre - Matemática Taygeteana Extraterrestre - Base 12](https://swaruu.org/transcripts/energia-libre-matematica-taygeteana-extraterrestre-base-12) (2022-05-01; es); passages p0012, p0018. [Structured record](../../records/src-77187dee8432.json).
+
+Related topics: [Ether field](ether-field.md).
+
+### src-77187dee8432-c03
+
+Yazhi says a self-scanning resonant circuit needs a superconducting tuner and toroidal geometry.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Energía Libre - Matemática Taygeteana Extraterrestre - Base 12](https://swaruu.org/transcripts/energia-libre-matematica-taygeteana-extraterrestre-base-12) (2022-05-01; es); passages p0101, p0103, p0106, p0113. [Structured record](../../records/src-77187dee8432.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-77187dee8432-c04
+
+She says reactor designs require cooling and durable materials to manage heat from sustained output.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Energía Libre - Matemática Taygeteana Extraterrestre - Base 12](https://swaruu.org/transcripts/energia-libre-matematica-taygeteana-extraterrestre-base-12) (2022-05-01; es); passages p0108, p0110, p0112. [Structured record](../../records/src-77187dee8432.json).
+
+### src-77187dee8432-c05
+
+Athena says paired base-12 frequency groups create opposite polarities and usable energy discharge.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Energía Libre - Matemática Taygeteana Extraterrestre - Base 12](https://swaruu.org/transcripts/energia-libre-matematica-taygeteana-extraterrestre-base-12) (2022-05-01; es); passages p0123, p0124, p0125, p0147, p0148. [Structured record](../../records/src-77187dee8432.json).
+
+Related topics: [Taygetan mathematics](taygetan-mathematics.md).
+
+### src-f806bbf625d9-c04
+
+Minerva says advanced science reads matter as energy-frequency variants and can form materials from energy.
+
+Attributed to **Swaruu Minerva (11)**; reported; extraction confidence: high.
+
+Source: [\#ADN \#SILICIO - ADN \#CARBONO - \#ASCENSIÓN - \#MINERVA \#SWARUU](https://swaruu.org/transcripts/adn-silicio-adn-carbono-ascension-minerva-swaruu) (2021-12-07; es); passages p0017, p0019, p0021, p0022. [Structured record](../../records/src-f806bbf625d9.json).
+
+Related topics: [Ether field](ether-field.md).
+
+### src-189e95ca86a0-c01
+
+Athena said national electricity grids are interconnected, so a country’s official imports do not reveal the exact origin of what it consumes.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Electricidad - Si no de Centrales Nucleares, de Donde Viene? Athena Swaruu Aclara Ultimo Video](https://swaruu.org/transcripts/electricidad-si-no-de-centrales-nucleares-de-donde-viene-athena-swaruu-aclara-ultimo-video) (2022-04-08; es); passages p0005, p0008, p0009. [Structured record](../../records/src-189e95ca86a0.json).
+
+### src-189e95ca86a0-c02
+
+Athena inferred that underground Tesla-like facilities supply a large share of human grid electricity, alongside conventional sources. She called it a strong deduction but said they had not seen the facilities directly.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: medium.
+
+Source: [Electricidad - Si no de Centrales Nucleares, de Donde Viene? Athena Swaruu Aclara Ultimo Video](https://swaruu.org/transcripts/electricidad-si-no-de-centrales-nucleares-de-donde-viene-athena-swaruu-aclara-ultimo-video) (2022-04-08; es); passages p0006, p0007, p0011, p0012, p0014, p0015. [Structured record](../../records/src-189e95ca86a0.json).
+
+### src-189e95ca86a0-c03
+
+Athena said nuclear plants can produce power but may consume more grid electricity overall when partly shut down, which she linked to geoengineering.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Electricidad - Si no de Centrales Nucleares, de Donde Viene? Athena Swaruu Aclara Ultimo Video](https://swaruu.org/transcripts/electricidad-si-no-de-centrales-nucleares-de-donde-viene-athena-swaruu-aclara-ultimo-video) (2022-04-08; es); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-189e95ca86a0.json).
+
+### src-ed015e2bb945-c02
+
+She says civilian nuclear plants regulate frequencies over ley nodes, while military reactors generate limited power for ships.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Que paso en Chernobyl? Que son Plantas Nucleares? Aneeka y Athena Swaruu](https://swaruu.org/transcripts/que-paso-en-chernobyl-que-son-plantas-nucleares-aneeka-y-athena-swaruu) (2022-04-06; es); passages p0013, p0032. [Structured record](../../records/src-ed015e2bb945.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-1301f08e45a8-c02
+
+Yazhi describes a captive sun as reactor core; induction and heat conversion supply motor electricity. Excess heat is the main problem.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [TECNOLOGÍA DE CUARZO EN LAS NAVES EXTRATERRESTRES – Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/tecnologia-de-cuarzo-en-las-naves-extraterrestres-sophia-swaruu-yazhi) (2022-05-24; es); passages p0054, p0057, p0064, p0065, p0069, p0078. [Structured record](../../records/src-1301f08e45a8.json).
+
+Related topics: [Crystal-core zero-point reactors](crystal-core-zero-point-reactors.md), [Starship systems](starship-systems.md).
+
+### src-a3598fbda73f-c01
+
+Athena describes power plants as returning some electricity to an interconnected multinational grid, whose national sources are difficult to trace.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https://swaruu.org/transcripts/la-energia-de-las-centrales-nucleares-lineas-lei-athena-swaruu) (2022-04-22; es); passages p0003, p0004, p0011. [Structured record](../../records/src-a3598fbda73f.json).
+
+### src-a3598fbda73f-c03
+
+Athena claims nuclear plants sometimes consume more grid power than they produce, which she links to geoengineering.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https://swaruu.org/transcripts/la-energia-de-las-centrales-nucleares-lineas-lei-athena-swaruu) (2022-04-22; es); passages p0019, p0020, p0022. [Structured record](../../records/src-a3598fbda73f.json).
+
+### src-a3598fbda73f-c04
+
+Athena says deeper ley lines are stronger and their energy runs through the crust, reflecting at the surface.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https://swaruu.org/transcripts/la-energia-de-las-centrales-nucleares-lineas-lei-athena-swaruu) (2022-04-22; es); passages p0030, p0031, p0033. [Structured record](../../records/src-a3598fbda73f.json).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -821,15 +947,36 @@ Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte F
 - [src-10e30f8707ef-c04](taygetan-ecosystems.md#src-10e30f8707ef-c04) — Taygetan ecosystems
 - [src-6ee50082e97e-c02](starship-systems.md#src-6ee50082e97e-c02) — Starship systems
 - [src-220efa38c406-c04](crystal-core-zero-point-reactors.md#src-220efa38c406-c04) — Crystal-core zero-point reactors
+- [src-52d2d3f49000-c03](tartaria.md#src-52d2d3f49000-c03) — Tartaria
+- [src-77187dee8432-c06](gravity-harmonics.md#src-77187dee8432-c06) — Gravity harmonics
+- [src-3ce31d2810ab-c04](stellar-navigation.md#src-3ce31d2810ab-c04) — Stellar navigation
+- [src-769b9ad6be07-c04](spherical-drones.md#src-769b9ad6be07-c04) — Spherical drones
+- [src-8372138cf73b-c01](tartaria.md#src-8372138cf73b-c01) — Tartaria
+- [src-9bdd3d5f2289-c01](earth-cabal.md#src-9bdd3d5f2289-c01) — Earth Cabal and power structures
+- [src-9bdd3d5f2289-c02](earth-cabal.md#src-9bdd3d5f2289-c02) — Earth Cabal and power structures
+- [src-9bdd3d5f2289-c03](galactic-federation.md#src-9bdd3d5f2289-c03) — Galactic Federation
+- [src-6fff99fdbd26-c01](pyramid-network.md#src-6fff99fdbd26-c01) — Pyramid energy and portal network
+- [src-9fb50ae5b7f5-c02](starship-systems.md#src-9fb50ae5b7f5-c02) — Starship systems
+- [src-a32bbe4fc74a-c03](moon-matrix.md#src-a32bbe4fc74a-c03) — Moon and terrestrial Matrix
+- [src-e10b7b1c1712-c02](pyramid-network.md#src-e10b7b1c1712-c02) — Pyramid energy and portal network
+- [src-a3598fbda73f-c02](deep-underground-military-bases.md#src-a3598fbda73f-c02) — Deep underground military bases
+- [src-80bdf93897ea-c03](deep-underground-military-bases.md#src-80bdf93897ea-c03) — Deep underground military bases
 
 ## Review flags
 
+- Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
+- Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence.
 - Compared English candidate src-622099cec238; article substantially matches but has paragraph segmentation/translation differences.
 - Core technology described as extraterrestrial; source offers no engineering measurements.
 - EMP-intervention-field-unknown
+- High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - ISS-and-station-fabrication-allegation
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
+- Resource-seeking distinction is level-dependent in Anéeka’s account
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
+- Tartaria chronology and destruction are presented as disputed source claims
+- The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
+- The underground-generation explanation is explicitly an inference, not an observed facility.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - aircraft-identity-ambiguity
 - alternative-weapons-claims
@@ -847,6 +994,7 @@ Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte F
 - contested-claim
 - contested-claims
 - contested\_archaeology
+- crystal data storage and stellar reactor mechanisms are attributed claims from Yazhi, not independently verified
 - directed-energy-attack-claims
 - earth\_science\_claims\_unverified
 - entertainment-disclaimer
@@ -866,6 +1014,7 @@ Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte F
 - giza-underground-base-claim
 - historical and technological interpretations are attributed to Athena
 - historical-claims-unverified
+- internal-count-conflict:swaruwnian-chromosomes
 - internal\_uncertainty
 - laboratory-virus-report-uncertain
 - lunar-reactor-age-origin-uncertainty
@@ -882,6 +1031,7 @@ Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte F
 - polymorphic-alloy-claims
 - portal-technology-claims-unverified
 - prior\_statement\_conflict
+- pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified
 - pyramid-age-and-function-unverified
 - pyramid-portal-claims
 - pyramid-technology-claims
@@ -889,6 +1039,7 @@ Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte F
 - reactor-mechanism-attributed
 - reported\_plan
 - same-language-near-duplicate-src-7872bc2f2c04
+- satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
 - second-contact-stoppage-attributed-to-yazhi
 - segmentation-diff
 - shield-mechanics-claims

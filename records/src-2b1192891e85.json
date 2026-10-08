@@ -1,0 +1,73 @@
+{
+  "source_id": "src-2b1192891e85",
+  "snapshot_sha256": "a0631d12aa10a841e77ed59f7aed448ae2312909773f71210d73f94fd98c9b2a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2b1192891e85-c01",
+      "assertion": "Swaruu X (Athena) said large ships use progressive frequency shifts and SIT to adapt their components safely; small craft can jump immediately.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "starship-systems",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2b1192891e85-c02",
+      "assertion": "Athena described a ship's plasma engines as frequency modulators that create a toroidal field around the craft for hyperspace travel.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said navigation sets target frequency."
+    },
+    {
+      "id": "src-2b1192891e85-c03",
+      "assertion": "Athena said portals impose a frequency on entrants without transporting the whole structure, while ships must shift their entire mass.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "starship-systems",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "visual hyperdrive effect",
+    "interplanetary plasma-jet travel"
+  ]
+}

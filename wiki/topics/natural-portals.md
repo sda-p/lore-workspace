@@ -976,6 +976,112 @@ Source: [SIMBOLOGIA OCULTA - TIAHUANACO - SUMERIA - EGIPTO - \*\*SIN VIDEO\*\*](
 
 Related topics: [Ancient Egypt](ancient-egypt.md), [Sumerian tablet interpretations](sumerian-tablet-interpretations.md).
 
+### src-0dcb4b37d8c4-c02
+
+She says stars connect through an etheric energy network that ships can navigate as wormhole-like routes, using frequency rather than distance maps. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL SOL DE QUE ESTA COMPUESTO Y COMO INTERACTUÁ CON SU ENTORNO - Athena Swaruu](https://swaruu.org/transcripts/el-sol-de-que-esta-compuesto-y-como-interactua-con-su-entorno-athena-swaruu) (2022-02-18; es); passages p0010, p0052, p0053, p0055, p0056. [Structured record](../../records/src-0dcb4b37d8c4.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-d328a6c23916-c01
+
+Athena says portals and hyperspace alter frequency compatibility; passengers and craft remain structurally intact.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Teletransporte – Teleportacion y Naves en HiperEspacio -Athena Swaruu](https://swaruu.org/transcripts/teletransporte-teleportacion-y-naves-en-hiperespacio-athena-swaruu) (2022-04-14; es); passages p0015, p0028, p0029, p0032. [Structured record](../../records/src-d328a6c23916.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-74cf1c7706e3-c01
+
+Athena says portals and hyperspace change frequency compatibility without separating molecules.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 4 (Parte 2) - Naves Espaciales en Hiper Espacio (Athena Swaruu)](https://swaruu.org/transcripts/navegacion-estelar-4-parte-2-naves-espaciales-en-hiper-espacio-athena-swaruu) (2022-07-24; es); passages p0005, p0006, p0011, p0012, p0013. [Structured record](../../records/src-74cf1c7706e3.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-74cf1c7706e3-c02
+
+She says low-energy portals show a watery effect; higher-energy versions reveal the other side directly.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 4 (Parte 2) - Naves Espaciales en Hiper Espacio (Athena Swaruu)](https://swaruu.org/transcripts/navegacion-estelar-4-parte-2-naves-espaciales-en-hiper-espacio-athena-swaruu) (2022-07-24; es); passages p0007. [Structured record](../../records/src-74cf1c7706e3.json).
+
+### src-cb85dc7702bb-c02
+
+She proposes lucid-dream practice as a route to treating astral and physical reality as one controllable mental field.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [Porqué y como pasar paredes a voluntad - Yazhi - Sophia Swaruu \#semillasestelares](https://swaruu.org/transcripts/porque-y-como-pasar-paredes-a-voluntad-yazhi-sophia-swaruu-semillasestelares) (2021-11-14; es); passages p0005, p0006, p0007, p0008. [Structured record](../../records/src-cb85dc7702bb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a18d1af875eb-c05
+
+She says natural portals occur on every celestial body; artificial portals can strand users if exit control is lost.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Saturno - Sistema Solar - Informacion de Swaruu de Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/saturno-sistema-solar-informacion-de-swaruu-de-erra-taygeta-pleiades) (2022-07-31; es); passages p0100, p0101, p0103, p0106. [Structured record](../../records/src-a18d1af875eb.json).
+
+### src-a6c6ae12245f-c01
+
+Swaruu X (Athena) described natural portals as branching energy routes; ships tune engine frequency to steer toward exits.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Extraterrestres Navegando los Portales - Sol y Agujeros de Gusano - Athena Swaruu](https://swaruu.org/transcripts/extraterrestres-navegando-los-portales-sol-y-agujeros-de-gusano-athena-swaruu) (2022-02-23; es); passages p0010, p0011, p0012, p0015. [Structured record](../../records/src-a6c6ae12245f.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md), [Starship systems](starship-systems.md).
+
+### src-947a557da420-c01
+
+Swaruu X (Athena) described natural portals as interconnected routes with dominant flows and multiple destinations; ships can tune engine frequency to select an exit.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Naves Extraterrestres salen del sol - Athena Swaruu - Taygeta](https://swaruu.org/transcripts/naves-extraterrestres-salen-del-sol-athena-swaruu-taygeta) (2022-01-30; es); passages p0028, p0029, p0030, p0033. [Structured record](../../records/src-947a557da420.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md), [Starship systems](starship-systems.md).
+
+### src-947a557da420-c02
+
+Swaruu X (Athena) said natural portals can aid stealth and transit for very large ships; vessels use portal currents to save their own energy rather than draw power from the Sun.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Naves Extraterrestres salen del sol - Athena Swaruu - Taygeta](https://swaruu.org/transcripts/naves-extraterrestres-salen-del-sol-athena-swaruu-taygeta) (2022-01-30; es); passages p0035, p0036, p0037, p0038. [Structured record](../../records/src-947a557da420.json).
+
+Related topics: [Starship systems](starship-systems.md), [Stellar navigation](stellar-navigation.md).
+
+### src-2b1192891e85-c03
+
+Athena said portals impose a frequency on entrants without transporting the whole structure, while ships must shift their entire mass.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 4 (Parte 1) - Tiempo SIT - Naves Espaciales en Hiper Espacio (Athena Swaruu)](https://swaruu.org/transcripts/navegacion-estelar-4-parte-1-tiempo-sit-naves-espaciales-en-hiper-espacio-athena-swaruu) (2022-07-22; es); passages p0026, p0027. [Structured record](../../records/src-2b1192891e85.json).
+
+Related topics: [Starship systems](starship-systems.md), [Ship internal time](ship-internal-time.md).
+
+### src-0f5047c8c5f2-c04
+
+Athena says portals shift entrants only; ships must shift their whole mass, explaining their apparent SIT.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [NAVEGACIÓN ESTELAR IV SALTO AL HIPERESPACIO - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-iv-salto-al-hiperespacio-athena-swaruu) (2022-04-05; es); passages p0029, p0030, p0031, p0032. [Structured record](../../records/src-0f5047c8c5f2.json).
+
+Related topics: [Starship systems](starship-systems.md), [Ship internal time](ship-internal-time.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -1028,6 +1134,16 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Sumerian tablet interpretati
 - [src-df0b18054ec1-c03](solar-portal-transit.md#src-df0b18054ec1-c03) — Solar portal transit
 - [src-ee1516c33ac1-c02](venus.md#src-ee1516c33ac1-c02) — Venus
 - [src-7e10fbdcd1c5-c03](operation-venus-haven.md#src-7e10fbdcd1c5-c03) — Operation Venus Haven
+- [src-0dcb4b37d8c4-c01](black-holes.md#src-0dcb4b37d8c4-c01) — Black holes
+- [src-0dcb4b37d8c4-c03](consciousness-metaphysics.md#src-0dcb4b37d8c4-c03) — Consciousness and metaphysics
+- [src-c51704b659a3-c02](astrotheology.md#src-c51704b659a3-c02) — Astrotheology
+- [src-f94fd5d77808-c01](karistus.md#src-f94fd5d77808-c01) — Karistus
+- [src-a6c6ae12245f-c02](artificial-portals.md#src-a6c6ae12245f-c02) — Artificial portals
+- [src-a6c6ae12245f-c03](black-holes.md#src-a6c6ae12245f-c03) — Black holes
+- [src-a6c6ae12245f-c04](stellar-navigation.md#src-a6c6ae12245f-c04) — Stellar navigation
+- [src-947a557da420-c03](artificial-portals.md#src-947a557da420-c03) — Artificial portals
+- [src-6fff99fdbd26-c01](pyramid-network.md#src-6fff99fdbd26-c01) — Pyramid energy and portal network
+- [src-0f5047c8c5f2-c01](frequency-map-navigation.md#src-0f5047c8c5f2-c01) — Frequency-map navigation
 
 ## Review flags
 
@@ -1036,9 +1152,11 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Sumerian tablet interpretati
 - Eye of Horus interpretation is attributed to Swaruu 9.
 - Leader-contact claim is attributed to Asket in this transcript.
 - No English counterpart found in the cached sources.
+- Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012.
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
+- Travel-time figures are speaker-provided examples and depend on vessel and route
 - ancient-history-reinterpretation
 - ancient-symbol-interpretations-attributed
 - ancient-texts-as-racial-symbolism-attributed
@@ -1068,8 +1186,11 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Sumerian tablet interpretati
 - giza-base-account
 - giza-underground-base-claim
 - internal\_uncertainty
+- lore-claims-attributed-to-Yazhi
 - medical-misinformation-allegation
 - metaphysical-claims
+- navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
+- near-duplicate:src-d328a6c23916
 - paranormal-claims-unverified
 - particle-vs-carrier-speed-distinction
 - portal-energy-estimates-attributed
@@ -1088,11 +1209,13 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Sumerian tablet interpretati
 - same-language-counterpart:src-cb51273860c3-wording-diff-agresivos
 - secondhand-fleet-reports
 - solar-and-black-hole-portal-model
+- solar-physics-and-5g-claims-omitted
 - speaker-accounts-of-monolith-origin-differ
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker\_attribution
 - species-taxonomy-ambiguous
 - starspot-portal-model-spans-two-speakers
+- symbolic-interpretation-attributed-to-Swaruu9
 - symbolic\_interpretations
 - temporal-duplicate-theory
 - third\_party\_allegations
@@ -1100,6 +1223,7 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Sumerian tablet interpretati
 - translated\_source
 - translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control
 - translation-counterpart:src-af195906d27f-close-full
+- two-sphinx-vs-two-kingdom-symbolism
 - unverified-eclipse-portal-theory
 - unverified-historical-claims
 - unverified\_ancient\_technology\_claims

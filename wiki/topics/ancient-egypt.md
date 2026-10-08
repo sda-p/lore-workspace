@@ -280,6 +280,14 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
 
 Source: [Significado del Ojo de Horus - Swaruu de Erra - Portales Espacio Temporales](https://swaruu.org/transcripts/significado-del-ojo-de-horus-swaruu-de-erra-portales-espacio-temporales) (2021-03-30; es); passages p0008, p0009. [Structured record](../../records/src-b68856d8a0e1.json).
 
+### src-fc02a9d40d9c-c02
+
+Yazhi said Tutankhamun’s dagger was made from material not found on Earth, while acknowledging she had no data about other removed objects.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [CONVERSACIONES EXTRATERRESTRES ARQUEOLOGÍA - Monte Bucegi - Sophia Swaruu](https://swaruu.org/transcripts/conversaciones-extraterrestres-arqueologia-monte-bucegi-sophia-swaruu) (2022-07-27; es); passages p0032, p0033, p0034. [Structured record](../../records/src-fc02a9d40d9c.json).
+
 ## Claims filed under other topics
 
 - [src-45ef563e0d5a-c03](prime-directive.md#src-45ef563e0d5a-c03) — Prime Directive
@@ -306,6 +314,7 @@ Source: [Significado del Ojo de Horus - Swaruu de Erra - Portales Espacio Tempor
 - [src-71496b122bfb-c01](arsinoe-magdalene.md#src-71496b122bfb-c01) — Arsinoe–Mary Magdalene
 - [src-6e66e9328bac-c01](natural-portals.md#src-6e66e9328bac-c01) — Natural and artificial portals
 - [src-6e66e9328bac-c02](sumerian-tablet-interpretations.md#src-6e66e9328bac-c02) — Sumerian tablet interpretations
+- [src-113e831d374d-c03](druidic-traditions.md#src-113e831d374d-c03) — Druidic traditions
 
 ## Review flags
 
@@ -326,6 +335,7 @@ Source: [Significado del Ojo de Horus - Swaruu de Erra - Portales Espacio Tempor
 - giza-underground-base-claim
 - highly-contested-history-claims-attributed
 - historical and technological interpretations are attributed to Athena
+- historical-chronology-and-claims-unverified
 - historical-claim
 - historical-date-ambiguity
 - identity-and-chronology-disputed

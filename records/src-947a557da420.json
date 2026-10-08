@@ -1,0 +1,71 @@
+{
+  "source_id": "src-947a557da420",
+  "snapshot_sha256": "35efc9842c97423a00275ef909e33987884818e91f3dd1e93386f8ce6304dfb3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-947a557da420-c01",
+      "assertion": "Swaruu X (Athena) described natural portals as interconnected routes with dominant flows and multiple destinations; ships can tune engine frequency to select an exit.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0033"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-947a557da420-c02",
+      "assertion": "Swaruu X (Athena) said natural portals can aid stealth and transit for very large ships; vessels use portal currents to save their own energy rather than draw power from the Sun.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-947a557da420-c03",
+      "assertion": "Swaruu X (Athena) said advanced civilizations such as Taygeta can create precise artificial wormholes for direct travel, while natural portals remain useful in some situations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Earth's constellational maps",
+    "solar-exit visuals"
+  ]
+}

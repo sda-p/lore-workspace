@@ -3416,6 +3416,96 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/mujer-extraterrestre-me-habla-de-exopolitica-para-adultos-aneeka-de-temmer) (2021-08-29; es); passages p0030. [Structured record](../../records/src-ef24a86c3200.json).
 
+### src-3ce31d2810ab-c03
+
+Anéeka uses hybrid broadly for starseeds, engineered gene combinations, and natural crossbreeds.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LOS EXTRATERRESTRES QUE DESEAN LA TIERRA -Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/los-extraterrestres-que-desean-la-tierra-aneeka-de-temmer-taygeta) (2021-12-29; es); passages p0052, p0053. [Structured record](../../records/src-3ce31d2810ab.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-fb8fca342865-c01
+
+Anéeka describes a regressive Homo Capensis lineage allied by treaty with Reptiles and Maitre Greys.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [EL HOMO CAPENSIS TIENEN TRATADOS CON LOS REPTILES - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/el-homo-capensis-tienen-tratados-con-los-reptiles-aneeka-de-temmer-taygeta) (2022-02-04; es); passages p0003, p0012. [Structured record](../../records/src-fb8fca342865.json).
+
+Related topics: [Maitre](maitre.md).
+
+### src-fb8fca342865-c05
+
+Anéeka identifies Paracas elongated-skull beings as extraterrestrial Asterope Elohi, called Homo Capensis on Earth.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [EL HOMO CAPENSIS TIENEN TRATADOS CON LOS REPTILES - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/el-homo-capensis-tienen-tratados-con-los-reptiles-aneeka-de-temmer-taygeta) (2022-02-04; es); passages p0054, p0055, p0058, p0060. [Structured record](../../records/src-fb8fca342865.json).
+
+Related topics: [Intraterrestrial civilizations](intraterrestrial-civilizations.md).
+
+### src-efa7ccfc79ce-c03
+
+Swaruu Minerva said silicon-based organisms can differ and silicon alone does not imply greater consciousness. She distinguished crystalline from noncrystalline forms.
+
+Attributed to **Swaruu Minerva (11)**; asserted; extraction confidence: high.
+
+Source: [Transmutación al Cuerpo de Silicio - Verdad? Minerva Swaruu - Punto de Vista Extraterrestre](https://swaruu.org/transcripts/transmutacion-al-cuerpo-de-silicio-verdad-minerva-swaruu-punto-de-vista-extraterrestre) (2022-01-24; es); passages p0038, p0039, p0041. [Structured record](../../records/src-efa7ccfc79ce.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-4bbe9951863f-c04
+
+Yazhi says all souls have emotions, though species differ in range; Taygetans react strongly to crises.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [¿Qué son las emociones? – CAMBIA TU LA REALIDAD – Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/que-son-las-emociones-cambia-tu-la-realidad-sophia-swaruu-yazhi) (2022-07-03; es); passages p0029, p0032, p0033. [Structured record](../../records/src-4bbe9951863f.json).
+
+Related topics: [Taygetans](taygetans.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-65e909f41f9a-c03
+
+Yázhi says Lyra-based nonhuman cortices are undivided, unlike human brains. She links this to different perception.
+
+Attributed to **Yázhi**; reported; extraction confidence: high.
+
+Source: [LA MENTE HUMANA Y EL CEREBRO COMO FUNCIONA SEGÚN LOS EXTRATERRESTRES - Swaruunianas - Taygeteanas](https://swaruu.org/transcripts/la-mente-humana-y-el-cerebro-como-funciona-segun-los-extraterrestres-swaruunianas-taygeteanas) (2022-01-12; es); passages p0007, p0008, p0009. [Structured record](../../records/src-65e909f41f9a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5e5e29eb902e-c04
+
+Anéeka says “regressive” is a relative label; no race is regressive absolutely. Interests may still conflict.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Mini Temas - Información Extraterrestre - Tertulia con Gosia](https://swaruu.org/transcripts/mini-temas-informacion-extraterrestre-tertulia-con-gosia) (2022-01-30; es); passages p0028, p0029, p0030. [Structured record](../../records/src-5e5e29eb902e.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a8d6c63dc563-c03
+
+Alenym says one or two evacuees assimilate, but larger groups can form enclaves and impose values.
+
+Attributed to **Alenym**; reported; extraction confidence: high.
+
+Source: [Exopolítica con Alenym de Temmer - Liberación de la Tierra NO funciona como te lo Dicen](https://swaruu.org/transcripts/exopolitica-con-alenym-de-temmer-liberacion-de-la-tierra-no-funciona-como-te-lo-dicen) (2022-04-23; es); passages p0030, p0031, p0033, p0034. [Structured record](../../records/src-a8d6c63dc563.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-e9adfed45e60-c01
+
+Anéeka reports Alfratean and Antarian monitoring of alleged regressive ships, plus Karistus patrols against Reptilians and Maitre.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [NOTICIAS ESPACIALES - Programa Espacial Secreto](https://swaruu.org/transcripts/noticias-espaciales-programa-espacial-secreto) (2021-11-24; es); passages p0003. [Structured record](../../records/src-e9adfed45e60.json).
+
+Related topics: [Karistus](karistus.md), [Maitre](maitre.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -3645,6 +3735,15 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - [src-1e6c72c7fff5-c01](galactic-federation.md#src-1e6c72c7fff5-c01) — Galactic Federation
 - [src-cf34095b8042-c02](galactic-federation.md#src-cf34095b8042-c02) — Galactic Federation
 - [src-7e10fbdcd1c5-c04](mars.md#src-7e10fbdcd1c5-c04) — Mars
+- [src-6d9f789c718e-c01](economics.md#src-6d9f789c718e-c01) — Economics and resources
+- [src-5b78336f9481-c01](dna-metaphysics.md#src-5b78336f9481-c01) — DNA and metaphysical patterns
+- [src-205c04ebdf5e-c04](urmah.md#src-205c04ebdf5e-c04) — Urmah
+- [src-4e1a2ca272e5-c01](dna-metaphysics.md#src-4e1a2ca272e5-c01) — DNA and metaphysical patterns
+- [src-f94fd5d77808-c02](jupiter.md#src-f94fd5d77808-c02) — Jupiter
+- [src-efa7ccfc79ce-c02](dna-metaphysics.md#src-efa7ccfc79ce-c02) — DNA and metaphysical patterns
+- [src-85df30bab80f-c04](holistic-society.md#src-85df30bab80f-c04) — Holistic society
+- [src-65e909f41f9a-c04](consciousness-metaphysics.md#src-65e909f41f9a-c04) — Consciousness and metaphysics
+- [src-5e5e29eb902e-c01](taygetans.md#src-5e5e29eb902e-c01) — Taygetans
 
 ## Review flags
 
@@ -3660,6 +3759,7 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation-as-controller claim conflicts with mentor framing within transcript
+- Genetic and chromosome claims are attributed fictional-world assertions
 - Higher-level free-will explanation is challenged by Gosia
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Maitre\_relationship\_with\_Reptilians
@@ -3667,6 +3767,8 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Proposed intervention remains conditional and internally qualified
+- Resource motives and fear-feeding are speaker-attributed metaphysical claims
+- Resource-seeking distinction is level-dependent in Anéeka’s account
 - Species summaries are broad and based on accounts attributed to orbital sources
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The cloning and genetic-control statements are Swaruu’s claims.
@@ -3689,9 +3791,11 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - biological-claims-unverified
 - biology-claim
 - blockade-and-biology-attributed
+- blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified
 - causal-attribution-tension
 - claim: extraordinary abduction and biology account
 - claimed\_observation
+- claims about memory, brain structure, consciousness, and Van Allen belts are attributed lore, not independently verified facts
 - claims are presented as attributed lore and quotations within a lesson
 - claims reflect Space Academy’s attributed lore
 - claims-about-suppressed-contact-evidence
@@ -3730,7 +3834,9 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - earth-consciousness\_claim\_omitted
 - egregor-vs-species-levels
 - emotion-and-integration-doctrine-attributed
+- emotional and metaphysical claims are attributed to Yazhi, not independently verified
 - entertainment-disclaimer
+- exopolitical and refugee claims are attributed to Alenym and not independently verified
 - exopolitical-faction-claims
 - extraordinary-contact-claims
 - extraordinary\_ai\_claims
@@ -3827,12 +3933,14 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - nonstandard-planetary-model
 - occult\_claims
 - ontological-scope-varies
+- original-language:en
 - paleontology\_claims\_unverified
 - pandemic-claims-excluded
 - pandemic-control-claims
 - personal-reflection-not-taygetan-report
 - personal\_advice
 - personal\_metaphysics
+- perspective-dependent
 - planetary-lore-unverified
 - political-allegation
 - politically\_contested
@@ -3860,6 +3968,8 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - solar-system-history-attributed
 - soul-and-density-doctrine-attributed
 - soul-model-metaphysical
+- source makes unverified claims about extraterrestrial warfare and Federation involvement
+- source-says-speaker-has-not-seen-regressive-groups
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker-unidentified
 - speaker: interviewer prompts excluded as claims

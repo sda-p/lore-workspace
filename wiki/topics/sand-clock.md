@@ -86,16 +86,31 @@ Source: [Swaruu y Yazhi - Quienes Son? Historia que Nunca Fue Contada - Contacto
 
 Related topics: [Temporal skipping](temporal-skipping.md), [Suzy-class starships](suzy-class-starships.md).
 
+### src-8372138cf73b-c03
+
+Athena said Sand Clock navigation uses frequency maps of matter and mass-gravity patterns rather than calendar dates, complicating historical chronology. She said the date requires comparison with other references.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [TARTARIA UNA CIVILIZACIÓN BORRADA DE LA HISTORIA - Athena Swaruu](https://swaruu.org/transcripts/tartaria-una-civilizacion-borrada-de-la-historia-athena-swaruu) (2022-06-02; es); passages p0107, p0108, p0109, p0110, p0115. [Structured record](../../records/src-8372138cf73b.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Temporal skipping](temporal-skipping.md).
+
 ## Claims filed under other topics
 
 - [src-4f2bc7f73ac1-c01](frequency-map-navigation.md#src-4f2bc7f73ac1-c01) — Frequency-map navigation
 - [src-4f2bc7f73ac1-c02](frequency-map-navigation.md#src-4f2bc7f73ac1-c02) — Frequency-map navigation
 - [src-e15992dcfa52-c02](crop-circles.md#src-e15992dcfa52-c02) — Crop circles
 - [src-9b690db81851-c01](temporal-skipping.md#src-9b690db81851-c01) — Temporal skipping
+- [src-d0de3dcb86df-c01](frequency-map-navigation.md#src-d0de3dcb86df-c01) — Frequency-map navigation
+- [src-d0de3dcb86df-c03](frequency-map-navigation.md#src-d0de3dcb86df-c03) — Frequency-map navigation
+- [src-d0de3dcb86df-c05](frequency-map-navigation.md#src-d0de3dcb86df-c05) — Frequency-map navigation
 
 ## Review flags
 
+- Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
+- Historical chronology and the reported overlap are source claims; exact dating remains uncertain
 - contested\_historical\_claims
 - cross-timeline-travel-restriction
 - death-account:medical-cause-and-ether-dissolution

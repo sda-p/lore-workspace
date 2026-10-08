@@ -38,10 +38,43 @@ Source: [Tecnologia Extraterrestre: Reactores Punto Cero a Base de Nucleo de Cri
 
 Related topics: [Energy generation technology](energy-generation.md), [Starship systems](starship-systems.md).
 
+### src-1301f08e45a8-c03
+
+She says AI controls quartz sparks in a 12-layer gravity toroid, while motors tune ship frequency.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [TECNOLOGÍA DE CUARZO EN LAS NAVES EXTRATERRESTRES – Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/tecnologia-de-cuarzo-en-las-naves-extraterrestres-sophia-swaruu-yazhi) (2022-05-24; es); passages p0010, p0011, p0025, p0057, p0075. [Structured record](../../records/src-1301f08e45a8.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md), [Starship systems](starship-systems.md).
+
+### src-1301f08e45a8-c04
+
+Yazhi says harmonics or gravity-control failure can shut the reactor, dropping crystals harmlessly or dispersing them. The latter is rare.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [TECNOLOGÍA DE CUARZO EN LAS NAVES EXTRATERRESTRES – Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/tecnologia-de-cuarzo-en-las-naves-extraterrestres-sophia-swaruu-yazhi) (2022-05-24; es); passages p0093, p0095, p0097, p0099, p0101. [Structured record](../../records/src-1301f08e45a8.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-88e6a66d5551-c02
+
+She says Tesla’s popular 3-6-9 scheme omits 10-12; balanced opposite frequencies produce a spark in a zero-point reactor. She says the nine-number diagram is unbalanced.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [3,6,9,12 A TESLA LE FALTABAN NÚMEROS EN SU REACTOR PUNTO CERO -Athena Swaruu](https://swaruu.org/transcripts/3-6-9-12-a-tesla-le-faltaban-numeros-en-su-reactor-punto-cero-athena-swaruu) (2022-06-18; es); passages p0008, p0033, p0034, p0035, p0041, p0043. [Structured record](../../records/src-88e6a66d5551.json).
+
+Related topics: [Taygetan Base-12 Mathematics](taygetan-base-12-mathematics.md).
+
 ## Claims filed under other topics
 
 - [src-220efa38c406-c03](energy-generation.md#src-220efa38c406-c03) — Energy generation technology
+- [src-1301f08e45a8-c02](energy-generation.md#src-1301f08e45a8-c02) — Energy generation technology
 
 ## Review flags
 
+- base-12, zero-point-reactor, and matter-wave claims are attributed to Athena and are not independently verified
+- crystal data storage and stellar reactor mechanisms are attributed claims from Yazhi, not independently verified
 - reactor-mechanism-attributed

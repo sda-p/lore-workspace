@@ -6,6 +6,12 @@ Aliases: base 12, Taygetan mathematics
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Taygetan mathematics](taygetan-mathematics.md)
+
 ## Collected claims
 
 ### src-0df30c50e267-c02
@@ -18,7 +24,22 @@ Source: [Ordenadores Cuánticos, Matemática Base 12 y Mas - Conocimiento Extrat
 
 Related topics: [Taygetans](taygetans.md), [Energy generation technology](energy-generation.md).
 
+### src-88e6a66d5551-c01
+
+Athena divides base-12 toroidal dynamics into expansion group 1,2,4,5,7,8,10,11 and contraction group 3,6,9,12. She says the groups carry opposite, equivalent charges.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [3,6,9,12 A TESLA LE FALTABAN NÚMEROS EN SU REACTOR PUNTO CERO -Athena Swaruu](https://swaruu.org/transcripts/3-6-9-12-a-tesla-le-faltaban-numeros-en-su-reactor-punto-cero-athena-swaruu) (2022-06-18; es); passages p0030, p0031. [Structured record](../../records/src-88e6a66d5551.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+## Claims filed under other topics
+
+- [src-88e6a66d5551-c02](crystal-core-zero-point-reactors.md#src-88e6a66d5551-c02) — Crystal-core zero-point reactors
+
 ## Review flags
 
+- base-12, zero-point-reactor, and matter-wave claims are attributed to Athena and are not independently verified
 - ether-field-model
 - quantum-mechanics-reinterpretation

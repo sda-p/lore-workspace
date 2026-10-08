@@ -1,0 +1,65 @@
+{
+  "source_id": "src-0f643414e014",
+  "snapshot_sha256": "840d4389f8e1137f8850010a89d99244152289aa49964684aba068b9312752a0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0f643414e014-c01",
+      "assertion": "Athena said CIC considered Ummo real and longstanding, but believed agencies later infiltrated and redirected the contact.",
+      "speaker": "Swaruu X (Athena, relaying CIC)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She framed this as CIC’s assessment, not proof."
+    },
+    {
+      "id": "src-0f643414e014-c02",
+      "assertion": "Athena alleged the Cabal and CIA shape public media and movements, including infiltrating genuine protests and redirecting their message.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "engineered-social-unrest"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "She said movements may begin spontaneously before infiltration."
+    },
+    {
+      "id": "src-0f643414e014-c03",
+      "assertion": "Athena said she could not prove her group was independent of the CIA and acknowledged that Earth media could also manipulate their views.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "media narrative about CIA and Ummo"
+  ]
+}

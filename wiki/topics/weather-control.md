@@ -100,6 +100,16 @@ Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
 
 Source: [Inteligencia Artificial, Goo Negro, Chemtrails y mas: Articulo de Swaruu (Taygeta, Pleyades)](https://swaruu.org/transcripts/inteligencia-artificial-goo-negro-chemtrails-y-mas-articulo-de-swaruu-taygeta-pleyades) (2018-10-09; es); passages p0062, p0063, p0064. [Structured record](../../records/src-7872bc2f2c04.json).
 
+### src-5b52df948628-c02
+
+Anéeka claimed the Cabal manipulates weather by altering natural Earth dynamics and controls most terrestrial climate.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [RESPUESTAS AL TERRAPLANISMO – ANEEKA DE TEMMER \#latierraplana](https://swaruu.org/transcripts/respuestas-al-terraplanismo-aneeka-de-temmer-latierraplana) (2021-11-13; es); passages p0030, p0031. [Structured record](../../records/src-5b52df948628.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-5faa731bafee-c01](terrestrial-science.md#src-5faa731bafee-c01) — Terrestrial science

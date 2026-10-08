@@ -44,7 +44,14 @@ Source: [Ancho de banda 5G y Coronavirus - CENSORADO EN YOUTUBE \*\*SIN VIDEO\*\
 
 Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md), [Earth Cabal and power structures](earth-cabal.md).
 
+## Claims filed under other topics
+
+- [src-eb63ff9a2c19-c01](vaccine-inoculation-claims.md#src-eb63ff9a2c19-c01) — Inoculation and genetic alteration claims
+- [src-eb63ff9a2c19-c02](vaccine-inoculation-claims.md#src-eb63ff9a2c19-c02) — Inoculation and genetic alteration claims
+
 ## Review flags
 
 - attributed-covid-and-5g-conspiracy-claims
 - attributed-vaccine-claims
+- potentially-harmful-device-experiment-claims
+- unverified-biomedical-claims

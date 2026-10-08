@@ -26,6 +26,20 @@ Source: [SISTEMA SOLAR - PLANETA MERCURIO - EL SOL 13 - SWARUU DE ERRA](https://
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-1dc8eadf6766-c04
+
+She says a large Federation underground base near Mercury’s north pole was inhabited while still under construction.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [CONVERSACIÓN CON MUJER EXTRATERRESTRE EL NÚCLEO DEL GRAN LOGOS - ANEEKA DE TEMMER](https://swaruu.org/transcripts/conversacion-con-mujer-extraterrestre-el-nucleo-del-gran-logos-aneeka-de-temmer) (2022-09-15; es); passages p0058. [Structured record](../../records/src-1dc8eadf6766.json).
+
+Related topics: [Intraterrestrial civilizations](intraterrestrial-civilizations.md).
+
 ## Claims filed under other topics
 
 - [src-ee1516c33ac1-c01](sol-13.md#src-ee1516c33ac1-c01) — Sol 13 system
+
+## Review flags
+
+- lore-claims-attributed-to-Aneeka

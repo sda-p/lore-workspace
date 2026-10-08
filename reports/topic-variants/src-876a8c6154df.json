@@ -1,0 +1,21 @@
+[
+  {
+    "proposed": {
+      "id": "antarctica",
+      "name": "Antarctica bases and ancient sites",
+      "kind": "location",
+      "aliases": [
+        "Antarctic bases"
+      ]
+    },
+    "canonical": {
+      "id": "antarctica",
+      "name": "Antarctica",
+      "kind": "location",
+      "aliases": [
+        "Antarctic bases",
+        "Antarctic interior"
+      ]
+    }
+  }
+]

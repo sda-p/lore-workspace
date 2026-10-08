@@ -94,6 +94,16 @@ Source: [More on Genetics, Swaruuneans, and Other Things, Reaction Video (Englis
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-bb099276c98e-c04
+
+She distinguishes Yazhi as a warrior, Athena as grounded, and herself as more etheric.
+
+Attributed to **Swaruu Minerva (11)**; asserted; extraction confidence: high.
+
+Source: [Espiritualidad con Minerva Swaruu - Bienvenida Abordo - Joven Extraterrestre Comparte su Sabiduria](https://swaruu.org/transcripts/espiritualidad-con-minerva-swaruu-bienvenida-abordo-joven-extraterrestre-comparte-su-sabiduria) (2022-02-04; es); passages p0078, p0079. [Structured record](../../records/src-bb099276c98e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-c3f4e5261a9c-c03](consciousness-metaphysics.md#src-c3f4e5261a9c-c03) — Consciousness and metaphysics
@@ -102,11 +112,13 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-722b52946af6-c05](lyrian-cellular-body.md#src-722b52946af6-c05) — Lyrian cellular-body model
 - [src-a37db4584b4c-c01](immersion-pods.md#src-a37db4584b4c-c01) — Immersion pods
 - [src-a37db4584b4c-c02](alien-species.md#src-a37db4584b4c-c02) — Alien species and distinctions
+- [src-bb099276c98e-c01](consciousness-metaphysics.md#src-bb099276c98e-c01) — Consciousness and metaphysics
 
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
+- Minerva’s claims about souls, vaccine effects, and astral conflict are metaphysical testimony; omitted health claims
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - metaphysical-genetics-unverified
 - reincarnation-cosmology

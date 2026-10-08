@@ -57,10 +57,12 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-a67fb92e8975-c04](starship-systems.md#src-a67fb92e8975-c04) — Starship systems
 - [src-940f9935241e-c04](planetary-dna-arks.md#src-940f9935241e-c04) — Planetary DNA Arks
 - [src-9c291a69384d-c02](perceptual-density.md#src-9c291a69384d-c02) — Perceptual density
+- [src-f806bbf625d9-c03](crystalline-dna.md#src-f806bbf625d9-c03) — Crystalline DNA and proto-silicon biology
 
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - cataclysm-history-attributed
+- internal-count-conflict:swaruwnian-chromosomes
 - translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control

@@ -594,6 +594,11 @@ Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://s
 - [src-bfae5ca72b24-c03](galactic-federation.md#src-bfae5ca72b24-c03) — Galactic Federation
 - [src-96c91cbdd54c-c04](galactic-federation.md#src-96c91cbdd54c-c04) — Galactic Federation
 - [src-3c4f875317e3-c03](galactic-federation.md#src-3c4f875317e3-c03) — Galactic Federation
+- [src-b1091aecbbaa-c01](nonhuman-surveillance-drones.md#src-b1091aecbbaa-c01) — Nonhuman surveillance drones
+- [src-ec6c591d861f-c03](galactic-federation.md#src-ec6c591d861f-c03) — Galactic Federation
+- [src-f94fd5d77808-c03](jupiter.md#src-f94fd5d77808-c03) — Jupiter
+- [src-5e8b4d828ea6-c03](taygetans.md#src-5e8b4d828ea6-c03) — Taygetans
+- [src-5e8b4d828ea6-c04](starseed-guides.md#src-5e8b4d828ea6-c04) — Starseed guides
 
 ## Review flags
 
@@ -603,6 +608,7 @@ Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://s
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Leader-contact claim is attributed to Asket in this transcript.
 - Yazhi-interview-report
+- account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
 - agency\_and\_noninterference
 - broad-exopolitical-allegations
 - causal-attribution-tension
@@ -639,6 +645,7 @@ Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://s
 - time\_travel\_risks
 - translated-from-Spanish-original-not-available
 - translated-originally-Spanish
+- ukraine-war-conspiracy-claims-attributed
 - unverified-encounter
 - unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims

@@ -118,6 +118,26 @@ Source: [Swaruu y Yazhi - Quienes Son? Historia que Nunca Fue Contada - Contacto
 
 Related topics: [Taygetan parthenogenesis](taygetan-parthenogenesis.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-ce0d96e82011-c02
+
+She describes the aether as a nonlocal field whose flows underlie gravity.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 3 PARTE 2 - Éter - Insertando Objetos en la Matrix - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-3-parte-2-eter-insertando-objetos-en-la-matrix-athena-swaruu) (2022-07-04; es); passages p0013, p0015, p0017. [Structured record](../../records/src-ce0d96e82011.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-f47ad5f1276b-c01
+
+Athena describes Ether as a universal high-frequency potential-energy field with fluid-like flow; she identifies gravity with its flow and denies separate material and spiritual realms.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL ÉTER - LA FUENTE ORIGINAL – ATHENA SWARUU](https://swaruu.org/transcripts/el-eter-la-fuente-original-athena-swaruu) (2022-05-10; es); passages p0002, p0003, p0009, p0014, p0015, p0018. [Structured record](../../records/src-f47ad5f1276b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-8808e760d7a4-c03](stellar-navigation.md#src-8808e760d7a4-c03) — Stellar navigation
@@ -134,13 +154,23 @@ Related topics: [Taygetan parthenogenesis](taygetan-parthenogenesis.md), [Consci
 - [src-0df30c50e267-c01](holographic-computers.md#src-0df30c50e267-c01) — Holographic computers
 - [src-2f14c95980f4-c02](memory-veil.md#src-2f14c95980f4-c02) — Memory Veil
 - [src-ed934b122dbc-c05](consciousness-metaphysics.md#src-ed934b122dbc-c05) — Consciousness and metaphysics
+- [src-77187dee8432-c02](energy-generation.md#src-77187dee8432-c02) — Energy generation technology
+- [src-f806bbf625d9-c04](energy-generation.md#src-f806bbf625d9-c04) — Energy generation technology
+- [src-830158547001-c02](moon-matrix.md#src-830158547001-c02) — Moon and terrestrial Matrix
+- [src-65e909f41f9a-c01](memory-veil.md#src-65e909f41f9a-c01) — Memory Veil
+- [src-5b4daa64f189-c04](memory-veil.md#src-5b4daa64f189-c04) — Memory Veil
+- [src-5e5e29eb902e-c02](consciousness-metaphysics.md#src-5e5e29eb902e-c02) — Consciousness and metaphysics
 
 ## Review flags
 
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
 - Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
+- The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
 - Time model rejects fixed linear time; do not reconcile with other accounts.
 - astral-perception-agenda-claim
+- blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified
+- claims about memory, brain structure, consciousness, and Van Allen belts are attributed lore, not independently verified facts
+- claims about time, memory, history, and social control are attributed to Yazhi, not independently verified
 - communication-tech-claims-attributed
 - consciousness-gravity-model
 - death-account:medical-cause-and-ether-dissolution
@@ -148,9 +178,11 @@ Related topics: [Taygetan parthenogenesis](taygetan-parthenogenesis.md), [Consci
 - ether-field-model
 - forecast-limitations
 - frequency-navigation-model
+- internal-count-conflict:swaruwnian-chromosomes
 - nonphysical-memory-mechanism-claims
 - nonstandard-physics-claims
 - particle-vs-carrier-speed-distinction
+- perspective-conflict:time-jump-effects
 - polymorphic-alloy-claims
 - possible-overlap-with-src-cd1fcaa78711
 - quantum-computing-claims

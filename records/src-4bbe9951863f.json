@@ -1,0 +1,110 @@
+{
+  "source_id": "src-4bbe9951863f",
+  "snapshot_sha256": "8d012edf65b94e504a1aaeb6e553953a014fdc18eb77b7bfc3c88c20b32e6ab4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4bbe9951863f-c01",
+      "assertion": "Yazhi says positive emotions signal integration with Source; negative ones feel like separation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Intensity varies by personal values."
+    },
+    {
+      "id": "src-4bbe9951863f-c02",
+      "assertion": "She calls positive emotion a compass, but says context matters; use logic to understand feelings, not dismiss them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0046"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bbe9951863f-c03",
+      "assertion": "Yazhi advises accepting, not suppressing, sadness; understanding its cause can dissolve it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0044",
+        "p0045",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bbe9951863f-c04",
+      "assertion": "Yazhi says all souls have emotions, though species differ in range; Taygetans react strongly to crises.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bbe9951863f-c05",
+      "assertion": "She links higher density with integrating knowledge and changing emotional interpretations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "emotional and metaphysical claims are attributed to Yazhi, not independently verified"
+  ],
+  "coverage_gaps": [
+    "emotion and Federation policy",
+    "Andromedan and Arcturian comparisons",
+    "happiness and life purpose"
+  ]
+}

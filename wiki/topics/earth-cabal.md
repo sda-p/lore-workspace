@@ -3160,6 +3160,292 @@ Source: [LOS AMOS DEL MUNDO - \#SATANISTAS - SOPHIA SWARUU - X -P2 -\#EXOPOLITIC
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-2a993dac1a51-c01
+
+Athena says local wars can begin over genuine disputes, though Cabal agents may manipulate both sides or install leaders favorable to it. Athena’s account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Porque se producen las Guerras - Porque hay Guerras? - Athena Swaruu](https://swaruu.org/transcripts/porque-se-producen-las-guerras-porque-hay-guerras-athena-swaruu) (2022-03-11; es); passages p0004, p0005, p0006, p0007, p0008. [Structured record](../../records/src-2a993dac1a51.json).
+
+### src-2a993dac1a51-c02
+
+She claims wars between Cabal-controlled powers are preplanned, with real combat and suffering arranged to control populations and extract human life energy. Her account distinguishes real suffering from fabricated motives and outcomes.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Porque se producen las Guerras - Porque hay Guerras? - Athena Swaruu](https://swaruu.org/transcripts/porque-se-producen-las-guerras-porque-hay-guerras-athena-swaruu) (2022-03-11; es); passages p0012, p0016, p0020, p0028, p0029, p0030, p0031, p0046. [Structured record](../../records/src-2a993dac1a51.json).
+
+### src-660558e7aa14-c02
+
+She says protests may mix genuine dissent and controlled opposition, with organizers potentially redirecting peaceful events toward violence. Her political account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sodio y Sal - Zombificación de la Sociedad - Magia Negra - Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/sodio-y-sal-zombificacion-de-la-sociedad-magia-negra-sophia-swaruu-yazhi) (2022-04-14; es); passages p0052, p0054. [Structured record](../../records/src-660558e7aa14.json).
+
+### src-9d6224eacf32-c02
+
+She claims Cabal groups reuse ancient symbols as sigils, but says such visible marks distract from deeper power networks. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Toro Apis, Red Bull, y Simbología Illuminati - Roban Símbolos que NO son suyos](https://swaruu.org/transcripts/toro-apis-red-bull-y-simbologia-illuminati-roban-simbolos-que-no-son-suyos) (2022-05-05; es); passages p0028, p0029, p0036, p0037, p0038, p0041. [Structured record](../../records/src-9d6224eacf32.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-9d6224eacf32-c03
+
+Athena says hidden Cabal tiers use gold and private technology; lower ranks rely on untraceable analog phone networks instead of muonic systems. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Toro Apis, Red Bull, y Simbología Illuminati - Roban Símbolos que NO son suyos](https://swaruu.org/transcripts/toro-apis-red-bull-y-simbologia-illuminati-roban-simbolos-que-no-son-suyos) (2022-05-05; es); passages p0042, p0043, p0050, p0052. [Structured record](../../records/src-9d6224eacf32.json).
+
+Related topics: [Muonic galactic AI network](muonic-galactic-ai-network.md).
+
+### src-f4178a54647e-c01
+
+Athena portrays the controllers’ depopulation strategy as cumulative, combining economic pressure, conflict, and multiple campaigns rather than relying on one method. Her conspiracy narrative; specific health claims are omitted.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vacunación para todo el Mundo? - Mienten - Minerva y Athena Swaruu](https://swaruu.org/transcripts/vacunacion-para-todo-el-mundo-mienten-minerva-y-athena-swaruu) (2022-04-27; es); passages p0025, p0033, p0035, p0036, p0041. [Structured record](../../records/src-f4178a54647e.json).
+
+Related topics: [Engineered social unrest](engineered-social-unrest.md).
+
+### src-3ce31d2810ab-c02
+
+She distinguishes Earthbound Cabal-linked and subterranean groups seeking resources from fully interstellar societies.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LOS EXTRATERRESTRES QUE DESEAN LA TIERRA -Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/los-extraterrestres-que-desean-la-tierra-aneeka-de-temmer-taygeta) (2021-12-29; es); passages p0028, p0059, p0061, p0065. [Structured record](../../records/src-3ce31d2810ab.json).
+
+Related topics: [Intraterrestrial civilizations](intraterrestrial-civilizations.md).
+
+### src-6be48f6d0431-c01
+
+Gosia and Robert allege that hostile controllers use fabricated images, edited records and clones to discredit Taygetan contact.
+
+Attributed to **Gosia and Robert**; reported; extraction confidence: medium.
+
+Source: [Informacion importante para los seguidores de la divulgacion Taygeteana - La Matrix se tambalea](https://swaruu.org/transcripts/informacion-importante-para-los-seguidores-de-la-divulgacion-taygeteana-la-matrix-se-tambalea) (2022-04-24; es); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-6be48f6d0431.json).
+
+Related topics: [Human clones and manufactured persons](human-clones.md).
+
+### src-cb2bbf14ee59-c02
+
+She says anti-consent videos address the human Cabal directly, rather than manifesting outcomes through the universe.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO CONSIENTO - SON el \#Universo – \#Yazhi – Sophia \#Swaruu - \#SemillasEstelares](https://swaruu.org/transcripts/no-consiento-son-el-universo-yazhi-sophia-swaruu-semillasestelares) (2021-11-15; es); passages p0008, p0009. [Structured record](../../records/src-cb2bbf14ee59.json).
+
+### src-9bdd3d5f2289-c01
+
+Anéeka claimed civil nuclear plants sit on ley-line nodes and lower Earth’s energetic frequency through radiation.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TERRAFORMAR LA TIERRA - CENTRALES NUCLEARES - Líneas ley - Aneeka de Temmer](https://swaruu.org/transcripts/terraformar-la-tierra-centrales-nucleares-lineas-ley-aneeka-de-temmer) (2022-01-15; es); passages p0006, p0017, p0022, p0047. [Structured record](../../records/src-9bdd3d5f2289.json).
+
+Related topics: [Energy generation technology](energy-generation.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-9bdd3d5f2289-c02
+
+Anéeka alleged Chernobyl and Fukushima were deliberate explosions intended to damage nodes and expose nearby populations to radiation. She linked the orders to the UN and Cabal but named no individuals.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TERRAFORMAR LA TIERRA - CENTRALES NUCLEARES - Líneas ley - Aneeka de Temmer](https://swaruu.org/transcripts/terraformar-la-tierra-centrales-nucleares-lineas-ley-aneeka-de-temmer) (2022-01-15; es); passages p0003, p0023, p0032, p0064. [Structured record](../../records/src-9bdd3d5f2289.json).
+
+Related topics: [Energy generation technology](energy-generation.md), [Terrestrial science](terrestrial-science.md).
+
+### src-d09bb19b5eaf-c01
+
+Athena speculated that the Cabal sought Russia’s defeat by Ukraine to weaken Russia’s global image and restore Western power. She framed war-economy benefits as collateral and cited economic motives.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: medium.
+
+Source: [Lo que Veo En Este Punto - Reflexiones y Conclusiones de Athena Swaruu](https://swaruu.org/transcripts/lo-que-veo-en-este-punto-reflexiones-y-conclusiones-de-athena-swaruu) (2022-04-09; es); passages p0014, p0016, p0017, p0020. [Structured record](../../records/src-d09bb19b5eaf.json).
+
+Related topics: [Ukraine](ukraine.md).
+
+### src-0f643414e014-c01
+
+Athena said CIC considered Ummo real and longstanding, but believed agencies later infiltrated and redirected the contact. She framed this as CIC’s assessment, not proof.
+
+Attributed to **Swaruu X (Athena, relaying CIC)**; reported; extraction confidence: medium.
+
+Source: [Los Extraterrestres Ummitas y La CIA - Athena Swaruu \#Taygeta](https://swaruu.org/transcripts/los-extraterrestres-ummitas-y-la-cia-athena-swaruu-taygeta) (2022-04-08; es); passages p0009, p0010, p0011. [Structured record](../../records/src-0f643414e014.json).
+
+### src-0f643414e014-c02
+
+Athena alleged the Cabal and CIA shape public media and movements, including infiltrating genuine protests and redirecting their message. She said movements may begin spontaneously before infiltration.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Los Extraterrestres Ummitas y La CIA - Athena Swaruu \#Taygeta](https://swaruu.org/transcripts/los-extraterrestres-ummitas-y-la-cia-athena-swaruu-taygeta) (2022-04-08; es); passages p0007, p0008, p0015, p0016. [Structured record](../../records/src-0f643414e014.json).
+
+Related topics: [Engineered social unrest](engineered-social-unrest.md).
+
+### src-0f643414e014-c03
+
+Athena said she could not prove her group was independent of the CIA and acknowledged that Earth media could also manipulate their views.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Los Extraterrestres Ummitas y La CIA - Athena Swaruu \#Taygeta](https://swaruu.org/transcripts/los-extraterrestres-ummitas-y-la-cia-athena-swaruu-taygeta) (2022-04-08; es); passages p0020, p0024, p0025. [Structured record](../../records/src-0f643414e014.json).
+
+### src-0988c92dc407-c02
+
+Athena said official and widely accepted mystery sources are more controlled, with agencies supplying information they want the public to receive. She claimed media coverage is broadly manipulated.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Contacto Extraterrestre Controlado por la CIA - Sophia Swaruu](https://swaruu.org/transcripts/contacto-extraterrestre-controlado-por-la-cia-sophia-swaruu) (2022-04-11; es); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-0988c92dc407.json).
+
+### src-fd3cad24685f-c02
+
+Gosia said such videos address the Cabal rather than the universe; Yazhi agreed that the message is directed to people who watch them. Gosia said affirmation wording depends on context.
+
+Attributed to **Gosia; Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [No Consiento - Es Adecuada esta Expresión? - Yazhi Swaruu y Comentarios Personales](https://swaruu.org/transcripts/no-consiento-es-adecuada-esta-expresion-yazhi-swaruu-y-comentarios-personales) (2021-11-14; es); passages p0005, p0006, p0007, p0008, p0009. [Structured record](../../records/src-fd3cad24685f.json).
+
+### src-8636b4bb3446-c03
+
+Yazhi describes controllers preparing a preconditioned population for a highly controlled society after current social structures are destroyed.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mujer Extraterrestre Explica como funciona “la Política” Fuera de la Tierra -Sociedad Holística](https://swaruu.org/transcripts/mujer-extraterrestre-explica-como-funciona-la-politica-fuera-de-la-tierra-sociedad-holistica) (2022-03-26; es); passages p0019, p0020, p0021, p0025. [Structured record](../../records/src-8636b4bb3446.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-8636b4bb3446-c04
+
+She says the Cabal is a mass-thought egregore, sustained by collective attention and unable to persist if humanity changes its mindset.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mujer Extraterrestre Explica como funciona “la Política” Fuera de la Tierra -Sociedad Holística](https://swaruu.org/transcripts/mujer-extraterrestre-explica-como-funciona-la-politica-fuera-de-la-tierra-sociedad-holistica) (2022-03-26; es); passages p0068, p0069, p0087, p0091. [Structured record](../../records/src-8636b4bb3446.json).
+
+Related topics: [Tulpas](tulpas.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-98f45fed7656-c03
+
+Yazhi describes controllers preparing a preconditioned population for a highly controlled society after current social structures are destroyed.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad "Holográfica" - Holística - Sociedades Transicionales son Posibles - Yazhi Swaruu](https://swaruu.org/transcripts/sociedad-holografica-holistica-sociedades-transicionales-son-posibles-yazhi-swaruu) (2022-03-26; es); passages p0019, p0020, p0021, p0025. [Structured record](../../records/src-98f45fed7656.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-98f45fed7656-c04
+
+She says the Cabal is a mass-thought egregore, sustained by collective attention and unable to persist if humanity changes its mindset.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad "Holográfica" - Holística - Sociedades Transicionales son Posibles - Yazhi Swaruu](https://swaruu.org/transcripts/sociedad-holografica-holistica-sociedades-transicionales-son-posibles-yazhi-swaruu) (2022-03-26; es); passages p0068, p0069, p0087, p0091. [Structured record](../../records/src-98f45fed7656.json).
+
+Related topics: [Tulpas](tulpas.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ce78d7905978-c01
+
+Athena says local wars may begin from clan disputes, but Cabal agents may later steer conflicts and install controlled leaders.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Que son las Guerras? Toda la Humanidad Deberia Saberlo - Athena Swaruu](https://swaruu.org/transcripts/que-son-las-guerras-toda-la-humanidad-deberia-saberlo-athena-swaruu) (2022-03-13; es); passages p0006, p0007, p0009, p0010. [Structured record](../../records/src-ce78d7905978.json).
+
+### src-9c3e0642a4e2-c03
+
+Athena says phones and internet connect people but are used to distract, monitor, and filter ideas.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [TORO APIS – SIMBOLISMO - PLEYADES – TAURO – EL OJO MORADO DE LOS FAMOSOS](https://swaruu.org/transcripts/toro-apis-simbolismo-pleyades-tauro-el-ojo-morado-de-los-famosos) (2022-02-10; es); passages p0018, p0020, p0022, p0023. [Structured record](../../records/src-9c3e0642a4e2.json).
+
+Related topics: [Scalar Internet](scalar-internet.md).
+
+### src-e9adfed45e60-c03
+
+Anéeka describes layered human and nonhuman control, possibly coordinated with higher Federation levels. Extent unknown; she exempts local Viera representatives.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [NOTICIAS ESPACIALES - Programa Espacial Secreto](https://swaruu.org/transcripts/noticias-espaciales-programa-espacial-secreto) (2021-11-24; es); passages p0017, p0019, p0020, p0022, p0028. [Structured record](../../records/src-e9adfed45e60.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Maitre](maitre.md).
+
+### src-87bee905e958-c05
+
+Anéeka attributes depopulation plans to human Cabal leaders seeking control, despite Federation permissiveness.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federacion Galactica los Amos del Mundo - Preguntas y Respuestas - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-los-amos-del-mundo-preguntas-y-respuestas-aneeka-de-temmer) (2021-12-17; es); passages p0029, p0030. [Structured record](../../records/src-87bee905e958.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-5c2b002327be-c02
+
+Yazhi claims Cabal factions control both Russia and Western sides while contending internally.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [QUE ESTA PASANDO ENTRE UCRANIA Y RUSIA - SOPHIA SWARUU - YAZHI](https://swaruu.org/transcripts/que-esta-pasando-entre-ucrania-y-rusia-sophia-swaruu-yazhi) (2022-03-29; es); passages p0008, p0009, p0011. [Structured record](../../records/src-5c2b002327be.json).
+
+Related topics: [Ukraine](ukraine.md).
+
+### src-5c2b002327be-c03
+
+Yazhi says controlled mass media magnifies conflicts and shapes public perceptions through repeated narratives.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [QUE ESTA PASANDO ENTRE UCRANIA Y RUSIA - SOPHIA SWARUU - YAZHI](https://swaruu.org/transcripts/que-esta-pasando-entre-ucrania-y-rusia-sophia-swaruu-yazhi) (2022-03-29; es); passages p0013, p0021, p0027. [Structured record](../../records/src-5c2b002327be.json).
+
+Related topics: [Ukraine](ukraine.md).
+
+### src-5c2b002327be-c04
+
+Yazhi says the Cabal fears public awareness and wants to reset humanity.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [QUE ESTA PASANDO ENTRE UCRANIA Y RUSIA - SOPHIA SWARUU - YAZHI](https://swaruu.org/transcripts/que-esta-pasando-entre-ucrania-y-rusia-sophia-swaruu-yazhi) (2022-03-29; es); passages p0022. [Structured record](../../records/src-5c2b002327be.json).
+
+Related topics: [Planetary Matrix resets](planetary-matrix-resets.md).
+
+### src-8fd97fb04d46-c01
+
+Athena alleges the CIA organized Canada's trucker convoy and links it to an Illuminati card. She says this remains speculation without precise evidence.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Observaciones](https://swaruu.org/transcripts/camioneros-en-canada-posible-agenda-athena-swaruu-comparte-sus-observaciones) (2022-02-04; es); passages p0003, p0011, p0013. [Structured record](../../records/src-8fd97fb04d46.json).
+
+### src-8fd97fb04d46-c03
+
+Athena says permitted protest can redirect resistance and precede renewed government restrictions.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Observaciones](https://swaruu.org/transcripts/camioneros-en-canada-posible-agenda-athena-swaruu-comparte-sus-observaciones) (2022-02-04; es); passages p0006, p0008. [Structured record](../../records/src-8fd97fb04d46.json).
+
+### src-8fd97fb04d46-c04
+
+Athena allows that the convoy could be spontaneous, which she says she hopes is true.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Observaciones](https://swaruu.org/transcripts/camioneros-en-canada-posible-agenda-athena-swaruu-comparte-sus-observaciones) (2022-02-04; es); passages p0018, p0019. [Structured record](../../records/src-8fd97fb04d46.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -3367,13 +3653,68 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-82157eb532ca-c01](ritual-symbolism-in-media.md#src-82157eb532ca-c01) — Ritual symbolism in toys and media
 - [src-82157eb532ca-c02](ritual-symbolism-in-media.md#src-82157eb532ca-c02) — Ritual symbolism in toys and media
 - [src-2431d292ceb2-c02](terrestrial-science.md#src-2431d292ceb2-c02) — Terrestrial science
+- [src-876a8c6154df-c01](antarctica.md#src-876a8c6154df-c01) — Antarctica
+- [src-e0c2e2fb61b4-c01](engineered-social-unrest.md#src-e0c2e2fb61b4-c01) — Engineered social unrest
+- [src-e0c2e2fb61b4-c02](engineered-social-unrest.md#src-e0c2e2fb61b4-c02) — Engineered social unrest
+- [src-869fdf1c4001-c01](vlash-vlad-vrill-clans.md#src-869fdf1c4001-c01) — Vlash, Vlad and Vrill clans
+- [src-83d0afc07ef6-c02](galactic-federation.md#src-83d0afc07ef6-c02) — Galactic Federation
+- [src-56f6493ab6a3-c01](antarctica.md#src-56f6493ab6a3-c01) — Antarctica
+- [src-6d9f789c718e-c03](egregors.md#src-6d9f789c718e-c03) — Egregors
+- [src-769b9ad6be07-c05](nonhuman-surveillance-drones.md#src-769b9ad6be07-c05) — Nonhuman surveillance drones
+- [src-205c04ebdf5e-c02](consciousness-metaphysics.md#src-205c04ebdf5e-c02) — Consciousness and metaphysics
+- [src-bb19379f0b60-c01](consciousness-metaphysics.md#src-bb19379f0b60-c01) — Consciousness and metaphysics
+- [src-dff574e82d59-c01](galactic-federation.md#src-dff574e82d59-c01) — Galactic Federation
+- [src-e0a9693e485e-c01](egregors.md#src-e0a9693e485e-c01) — Egregors
+- [src-e0a9693e485e-c02](human-clones.md#src-e0a9693e485e-c02) — Human clones and manufactured persons
+- [src-d1468a88293b-c01](engineered-social-unrest.md#src-d1468a88293b-c01) — Engineered social unrest
+- [src-d1468a88293b-c02](engineered-social-unrest.md#src-d1468a88293b-c02) — Engineered social unrest
+- [src-d1468a88293b-c03](engineered-social-unrest.md#src-d1468a88293b-c03) — Engineered social unrest
+- [src-49942a75e76b-c01](antarctica.md#src-49942a75e76b-c01) — Antarctica
+- [src-4255098ec77d-c01](engineered-social-unrest.md#src-4255098ec77d-c01) — Engineered social unrest
+- [src-4255098ec77d-c02](engineered-social-unrest.md#src-4255098ec77d-c02) — Engineered social unrest
+- [src-5b52df948628-c02](weather-control.md#src-5b52df948628-c02) — Weather control systems
+- [src-d09bb19b5eaf-c02](ukraine.md#src-d09bb19b5eaf-c02) — Ukraine
+- [src-9a37f5242cc3-c01](extraterrestrial-syndrome.md#src-9a37f5242cc3-c01) — Extraterrestrial syndrome
+- [src-2c578d18d896-c01](taygetans.md#src-2c578d18d896-c01) — Taygetans
+- [src-ed015e2bb945-c01](ley-line-energy-nodes.md#src-ed015e2bb945-c01) — Ley-line energy nodes
+- [src-ed015e2bb945-c04](galactic-federation.md#src-ed015e2bb945-c04) — Galactic Federation
+- [src-0a57940b9e27-c03](pulsa-denura.md#src-0a57940b9e27-c03) — Pulsa Denura
+- [src-ce78d7905978-c02](engineered-social-unrest.md#src-ce78d7905978-c02) — Engineered social unrest
+- [src-5b4daa64f189-c02](engineered-social-unrest.md#src-5b4daa64f189-c02) — Engineered social unrest
+- [src-4bd203cbfe4d-c02](karistus.md#src-4bd203cbfe4d-c02) — Karistus
+- [src-9c3e0642a4e2-c01](ritual-symbolism-in-media.md#src-9c3e0642a4e2-c01) — Ritual symbolism in toys and media
+- [src-9c3e0642a4e2-c02](ritual-symbolism-in-media.md#src-9c3e0642a4e2-c02) — Ritual symbolism in toys and media
+- [src-9c3e0642a4e2-c04](secret-society-hierarchy.md#src-9c3e0642a4e2-c04) — Secret-society hierarchy
+- [src-ca8f3655acdd-c01](engineered-social-unrest.md#src-ca8f3655acdd-c01) — Engineered social unrest
+- [src-ca8f3655acdd-c02](engineered-social-unrest.md#src-ca8f3655acdd-c02) — Engineered social unrest
+- [src-ca8f3655acdd-c04](engineered-social-unrest.md#src-ca8f3655acdd-c04) — Engineered social unrest
+- [src-ca8f3655acdd-c05](engineered-social-unrest.md#src-ca8f3655acdd-c05) — Engineered social unrest
+- [src-375ee3e4cf1f-c04](druidic-traditions.md#src-375ee3e4cf1f-c04) — Druidic traditions
+- [src-5c2b002327be-c01](ukraine.md#src-5c2b002327be-c01) — Ukraine
+- [src-9cde082f48c4-c01](ukraine.md#src-9cde082f48c4-c01) — Ukraine
+- [src-9cde082f48c4-c02](ukraine.md#src-9cde082f48c4-c02) — Ukraine
+- [src-9cde082f48c4-c03](ukraine.md#src-9cde082f48c4-c03) — Ukraine
+- [src-9cde082f48c4-c04](ukraine.md#src-9cde082f48c4-c04) — Ukraine
+- [src-80bdf93897ea-c01](ukraine.md#src-80bdf93897ea-c01) — Ukraine
+- [src-80bdf93897ea-c04](ukraine.md#src-80bdf93897ea-c04) — Ukraine
+- [src-8fd97fb04d46-c02](economics.md#src-8fd97fb04d46-c02) — Economics and resources
+- [src-634b8cbc83b6-c01](ukraine.md#src-634b8cbc83b6-c01) — Ukraine
+- [src-634b8cbc83b6-c02](ukraine.md#src-634b8cbc83b6-c02) — Ukraine
+- [src-634b8cbc83b6-c03](ukraine.md#src-634b8cbc83b6-c03) — Ukraine
+- [src-634b8cbc83b6-c04](ukraine.md#src-634b8cbc83b6-c04) — Ukraine
 
 ## Review flags
 
 - 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
 - 5g-covid-causality-distinction
 - AI\_capability\_claims\_unverified
+- Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
+- Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
 - Australian-traffic-purpose-unknown
+- COVID-and-vaccine-claims-omitted
+- Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about the 2022 war and alleged false flags are attributed to Swaruu X (Athena); her account is not independently evidenced in the transcript.
+- Claims about the 2022 war and alleged media staging are attributed to Swaruu X (Athena); the transcript provides no independent evidence.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
@@ -3382,22 +3723,30 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Federation alternately described as Earth controller and nonultimate authority.
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation-involvement-in-Earth-politics-varies-across-source-claims
+- Geopolitical analysis includes explicitly labeled speculation and predictions.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
+- High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - Higher-level free-will explanation is challenged by Gosia
 - Internet-blackout prediction is explicitly uncertain.
+- Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - Leader-contact claim is attributed to Asket in this transcript.
 - Maitre\_relationship\_with\_Reptilians
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - PCR and vaccine medical claims omitted.
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Proposed intervention remains conditional and internally qualified
+- QAnon-and-COVID-claims-omitted
 - Related Spanish and English articles cover overlapping material but have different scopes; translation equivalence is unconfirmed.
+- Resource motives and fear-feeding are speaker-attributed metaphysical claims
+- Resource-seeking distinction is level-dependent in Anéeka’s account
+- The alleged CIA organization is explicitly called speculation and unsupported by precise evidence in the interview.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - Time-bound 2021 prediction; no outcome asserted.
 - agenda21-assertion
 - agenda\_term\_varies
 - aircraft-identity-ambiguity
+- aliens-removed-from-quadrant-claim
 - alleged-pandemic-cabal-plot
 - alternate-interpretation-of-ancient-texts-attributed
 - alternative-history-claims-attributed
@@ -3418,18 +3767,22 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - author-signature-attribution
 - authority-and-individual-reality-tension
+- biden-and-putin-allegations-omitted
 - biomedical-claims-not-independently-supported
 - black-knight-loss-details-provisional
 - broad-exopolitical-allegations
 - care-access-claims
 - chronology\_conflict
 - civil-disobedience-rhetoric
+- claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified
 - claims about current events and power structures are Mari’s interpretations
 - claims about fabricated histories and public events are attributed lore, not independently substantiated
+- claims about time, memory, history, and social control are attributed to Yazhi, not independently verified
 - claims are attributed teachings from Space Academy, not independently verified
 - claims are presented as attributed lore and quotations within a lesson
 - claims reflect Space Academy’s attributed lore
 - claims-about-suppressed-contact-evidence
+- claims-attributed-to-Athena
 - climate-claims
 - clone-personhood-variation
 - competing-cabal-scenarios
@@ -3443,8 +3796,13 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - conflicting\_war\_reports
 - conspiracy-allegations
 - conspiracy-claims
+- conspiracy-claims-attributed
+- conspiracy-narrative-attributed
 - conspiracy\_claims
 - conspiracy\_claims\_unverified
+- conspiratorial-claims
+- conspiratorial-war-history-claims
+- contemporary-war-conspiracy-claims
 - contested-chromosome-and-ability-claims
 - contested-claims
 - contested-genetic-surveillance-claim
@@ -3461,6 +3819,8 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - coverage: labor and media
 - coverage: psychic-function claims
 - coverage: reincarnation detail
+- covid-and-vaccine-claims-omitted
+- current-war-conspiracy-claims-attributed
 - dangerous-health-advice
 - dated-2020-election-claim
 - dated-non-deterministic-prediction
@@ -3475,6 +3835,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - disaster-causation-unverified
 - disclosure-agenda-speculative
 - disclosure\_claims\_unverified
+- disputed-contact-authenticity-narrative
 - disputed\_specimen
 - earth-consciousness\_claim\_omitted
 - earth-control-claim-attributed
@@ -3547,6 +3908,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - intercultural-claims
 - internal-contradiction:virus-presence
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
+- internal-tension:population-change
 - internal\_qualification
 - internal\_revision
 - internal\_scope\_tension
@@ -3560,11 +3922,13 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - long conversation contains disputed health claims not included in core extraction
 - lunar-reactor-age-origin-uncertainty
 - media-control-allegation
+- medical-and-vaccine-misinformation-omitted
 - medical-causation-claims
 - medical-claims-unverified
 - medical-conspiracy-claims
 - medical-lore
 - medical-misinformation-claims
+- medical-misinformation-omitted
 - medical-misinformation: pandemic, testing, and vaccine claims
 - medical-misinformation: virus, vaccine, and nanopowder claims
 - medical\_claims\_omitted
@@ -3583,9 +3947,12 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - nanotechnology-claim-in-vaccine-context
 - nanotechnology-claims
 - nanotechnology-claims-based-on-simulation
+- near-duplicate-of-src-876a8c6154df
 - nonstandard-genetics-claims
 - nuclear\_science\_misinformation
 - occult\_claims
+- original-language:en
+- p0027 says most inhabitants must die; p0051–53 clarify social change need not mean killing or genocide
 - pandemic-and-vaccine-conspiracy-claims
 - pandemic-conspiracy-claims
 - pandemic-conspiracy-forecast
@@ -3597,6 +3964,8 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - personal\_accusations
 - personal\_cosmology
 - personal\_metaphysics
+- perspective-dependent
+- perspective-dependent-responsibility
 - planetary-control-and-liberation-claims
 - pluto-classification-esoteric-claim
 - policy-claims-unverified
@@ -3613,10 +3982,12 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - reincarnation-cosmology
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
+- religious-conspiracy-claims-omitted
 - religious-control-claims
 - reported-comparison-not-speaker-endorsement
 - rescue-count-uncertain
 - review: claims on sexual orientation and depopulation
+- same-language transcript counterpart: src-8636b4bb3446; all 92 paragraph texts match except title
 - same-language-near-duplicate-src-7872bc2f2c04
 - scenario-not-prediction
 - science\_claims\_unverified\_in\_source
@@ -3628,8 +3999,12 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - soulless-people-claim
 - source distinguishes historical nonexistence in this timeline from a belief-generated egregore
 - source frames vaccine-related mass death as a hypothetical soul-level exit while explicitly opposing genocide; avoid treating it as endorsed policy
+- source makes disputed wartime claims based on an asserted brief observation; not independently verified
+- source makes unverified claims about extraterrestrial warfare and Federation involvement
+- source-disputes-current-liberation-narrative
 - speaker-header-diff
 - speaker-label-ambiguity
+- speaker-perspective-distinct-from-Gosia
 - speaker-perspective-model
 - speaker-speculation
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
@@ -3638,6 +4013,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - symbolic-conspiracy-claims
 - targeting\_claims
 - temporal-duplicate-theory
+- tension:planned-outcomes-vs-human-agency
 - terrestrial-history-claims-unverified
 - terrestrial-science-claims
 - time-bound-prediction

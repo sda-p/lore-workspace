@@ -1,0 +1,67 @@
+{
+  "source_id": "src-75d6af7d0b46",
+  "snapshot_sha256": "abc5829546a5d4a24a8bccbddfde43a858b938e71dc557f4113b04c6350b5fd3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-75d6af7d0b46-c01",
+      "assertion": "Athena called 3D and 5D human-made, reductive labels; she said her views differ from Taygeta’s.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-75d6af7d0b46-c02",
+      "assertion": "Athena said individuals perceive their own reality through frequency and shared perception agreements, rather than living in fixed densities.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said consciousness and mind shape a perceived reality."
+    },
+    {
+      "id": "src-75d6af7d0b46-c03",
+      "assertion": "Athena said unseen beings may remain outside ordinary perception yet have physical effects; she cited stones thrown and gravity sensors detecting them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She said Yazhi could see them unaided, while she could not."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "astral and physical perspectives"
+  ]
+}

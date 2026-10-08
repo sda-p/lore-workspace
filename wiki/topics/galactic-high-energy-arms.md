@@ -18,6 +18,20 @@ Source: [INMINENTE EVENTO SOLAR ASCENSIÓN PLANETARIA ANEEKA DE TEMMER](https://
 
 Related topics: [Betelgeuse](betelgeuse.md).
 
+### src-a32bbe4fc74a-c04
+
+Athena says galactic gravity waves gather debris into particle storms that threaten unshielded craft.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [LA NASA - MISIONES ARTEMISA - ES INVIABLE QUE EL HOMBRE LLEGUE A LA LUNA CON ESA TECNOLOGIA](https://swaruu.org/transcripts/la-nasa-misiones-artemisa-es-inviable-que-el-hombre-llegue-a-la-luna-con-esa-tecnologia) (2022-08-30; es); passages p0067, p0068, p0069, p0070, p0071. [Structured record](../../records/src-a32bbe4fc74a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-8253dcdfe3e7-c02](van-allen-belts.md#src-8253dcdfe3e7-c02) — Van Allen belts
+
+## Review flags
+
+- satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified

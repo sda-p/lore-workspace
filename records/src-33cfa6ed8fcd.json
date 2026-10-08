@@ -1,0 +1,75 @@
+{
+  "source_id": "src-33cfa6ed8fcd",
+  "snapshot_sha256": "c604c96c95f43fd1d5310b3c975ca89116b13599e24d13fc2c22f05071e142e6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-33cfa6ed8fcd-c01",
+      "assertion": "Alenym said military liberation can become invasion, harming the liberator's relations and failing to change the local mindset that enabled oppression.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0017",
+        "p0032"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She argued force could reproduce the original problem."
+    },
+    {
+      "id": "src-33cfa6ed8fcd-c02",
+      "assertion": "Alenym says responsibility for Earth is lost high in remote Federation bureaucracy, whose delays and interworld time differences hinder coordination.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0027",
+        "p0029",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "higher-federation-councils",
+      "topics": [
+        "higher-federation-councils",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-33cfa6ed8fcd-c03",
+      "assertion": "Alenym described a distributed Federation AI network using coded muon-gravity communications; it absorbs Earth's AI data and may subtly influence decisions.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0065",
+        "p0070",
+        "p0071",
+        "p0075",
+        "p0084",
+        "p0086"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "muon-gravity-communications",
+        "sentient-starship-ai"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "She said the network's influence may be difficult to distinguish from human decisions."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence."
+  ],
+  "coverage_gaps": [
+    "refugee integration claims",
+    "Federation policy consensus"
+  ]
+}

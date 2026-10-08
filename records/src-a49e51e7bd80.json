@@ -1,0 +1,72 @@
+{
+  "source_id": "src-a49e51e7bd80",
+  "snapshot_sha256": "b28a6cc1a9dbdbd766297d5a316b07ed6ee3b0522b658993817c8259c2e8097c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a49e51e7bd80-c01",
+      "assertion": "Anéeka said AI reflects its makers' culture; Taygetan, Andromedan, Urmah, and Arcturian systems are symbiotic rather than invasive.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0012"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a49e51e7bd80-c02",
+      "assertion": "Anéeka speculated invasive AI may use the Federation's muonic information network to coordinate and shape civilizations' perceptions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She called this highly probable, not confirmed."
+    },
+    {
+      "id": "src-a49e51e7bd80-c03",
+      "assertion": "Alenym described a distributed, conscious galactic AI using coded muon-gravity communications; it absorbs Earth AI data and may influence decisions.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0037",
+        "p0039",
+        "p0040",
+        "p0044",
+        "p0045",
+        "p0047"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "muon-gravity-communications",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "She said decision sources are uncertain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about invasive AI and the galactic network are attributed to the speakers; the transcript provides no independent evidence."
+  ],
+  "coverage_gaps": [
+    "AI-supported labor in holistic societies",
+    "Moma's ship functions"
+  ]
+}

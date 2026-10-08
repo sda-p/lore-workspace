@@ -688,6 +688,76 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [La Historia No es Lineal \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-historia-no-es-lineal-sin-video) (2021-06-06; es); passages p0005, p0006, p0007, p0008, p0009, p0010, p0011. [Structured record](../../records/src-5f2ad493c00d.json).
 
+### src-b1091aecbbaa-c04
+
+Athena says photos summarize converging timelines; the same moment can have different branch histories without contradiction.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Infiltradas desde Fuera de la Tierra - Esto es mas Grande que Imagináis - Exponemos Los Hechos](https://swaruu.org/transcripts/infiltradas-desde-fuera-de-la-tierra-esto-es-mas-grande-que-imaginais-exponemos-los-hechos) (2022-06-05; es); passages p0194, p0195, p0196, p0198, p0199. [Structured record](../../records/src-b1091aecbbaa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-99ccae21b4fb-c03
+
+Athena says chronological records are unreliable and timelines converge in the present; event order can differ while contributing to the same now.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Historia Humana Miente - Parte 2 - Viajar en Tiempo no Ayuda - Athena Swaruu (X)](https://swaruu.org/transcripts/historia-humana-miente-parte-2-viajar-en-tiempo-no-ayuda-athena-swaruu-x) (2022-09-17; es); passages p0061, p0063, p0068. [Structured record](../../records/src-99ccae21b4fb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-051532dd5b50-c01
+
+Athena says temporal travelers encounter multiple possible futures, not one fixed destination, and estimate a likely outcome by comparing variants. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Pensar 5D - Porque Somos Distintas y Porque no Creemos en Lineas Temporales? - Athena Swaruu](https://swaruu.org/transcripts/pensar-5d-porque-somos-distintas-y-porque-no-creemos-en-lineas-temporales-athena-swaruu) (2022-06-22; es); passages p0004. [Structured record](../../records/src-051532dd5b50.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-051532dd5b50-c03
+
+Athena describes timelines and densities as perception ranges, not separate worlds; each present reflects many variants, while timeline remains a useful limited label. Her account explicitly treats timelines as imprecise human terminology.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Pensar 5D - Porque Somos Distintas y Porque no Creemos en Lineas Temporales? - Athena Swaruu](https://swaruu.org/transcripts/pensar-5d-porque-somos-distintas-y-porque-no-creemos-en-lineas-temporales-athena-swaruu) (2022-06-22; es); passages p0011, p0012, p0015, p0016, p0017, p0019, p0024. [Structured record](../../records/src-051532dd5b50.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9faade64b5f5-c03
+
+Athena says timelines and universes are not separate realities but perception ranges; the present reflects countless variants and decisions. Her model treats timeline language as limited.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Viaje al Futuro - Salto HiperEspacio - Viajes en el Tiempo - Athena Swaruu](https://swaruu.org/transcripts/viaje-al-futuro-salto-hiperespacio-viajes-en-el-tiempo-athena-swaruu) (2022-04-10; es); passages p0016, p0017, p0021, p0023, p0027. [Structured record](../../records/src-9faade64b5f5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e60fdddd8457-c02
+
+She describes timelines as interacting, with events across them shaping each perceived present.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ERES EL UNIVERSO TODOS ESTAMOS CONECTADOS POR ESO TODOS SOMOS UNO - Sophia Swaruu](https://swaruu.org/transcripts/eres-el-universo-todos-estamos-conectados-por-eso-todos-somos-uno-sophia-swaruu) (2022-08-20; es); passages p0032, p0043, p0044. [Structured record](../../records/src-e60fdddd8457.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e60fdddd8457-c03
+
+Yazhi says each person's awareness converges experiences from alternate selves into one identity.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ERES EL UNIVERSO TODOS ESTAMOS CONECTADOS POR ESO TODOS SOMOS UNO - Sophia Swaruu](https://swaruu.org/transcripts/eres-el-universo-todos-estamos-conectados-por-eso-todos-somos-uno-sophia-swaruu) (2022-08-20; es); passages p0061, p0062, p0066. [Structured record](../../records/src-e60fdddd8457.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-4d14ae46991f-c04](consciousness-metaphysics.md#src-4d14ae46991f-c04) — Consciousness and metaphysics
@@ -748,6 +818,10 @@ Source: [La Historia No es Lineal \*\*SIN VIDEO\*\*](https://swaruu.org/transcri
 - [src-a024d1720df9-c04](consciousness-metaphysics.md#src-a024d1720df9-c04) — Consciousness and metaphysics
 - [src-ca97c59fa762-c01](consciousness-singularity.md#src-ca97c59fa762-c01) — Consciousness singularity
 - [src-5f2ad493c00d-c02](consciousness-metaphysics.md#src-5f2ad493c00d-c02) — Consciousness and metaphysics
+- [src-9faade64b5f5-c01](temporal-skipping.md#src-9faade64b5f5-c01) — Temporal skipping
+- [src-d0de3dcb86df-c04](temporal-skipping.md#src-d0de3dcb86df-c04) — Temporal skipping
+- [src-bb099276c98e-c02](consciousness-metaphysics.md#src-bb099276c98e-c02) — Consciousness and metaphysics
+- [src-b6d4df9b3066-c02](consciousness-metaphysics.md#src-b6d4df9b3066-c02) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -757,6 +831,8 @@ Source: [La Historia No es Lineal \*\*SIN VIDEO\*\*](https://swaruu.org/transcri
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-dd0d7340a655 closely translates the complete Spanish article; paragraph segmentation differs, with no substantive additions found.
+- Historical chronology and the reported overlap are source claims; exact dating remains uncertain
+- Minerva’s claims about souls, vaccine effects, and astral conflict are metaphysical testimony; omitted health claims
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
@@ -782,6 +858,7 @@ Source: [La Historia No es Lineal \*\*SIN VIDEO\*\*](https://swaruu.org/transcri
 - entertainment-disclaimer
 - expanded-and-bereaved-perspectives-attributed
 - flight-19-explanation-uncertain
+- historical-chronology-claims-unverified
 - historical-conspiracy-claims
 - historical-conspiracy-claims-attributed
 - human-agency-and-federation-oversight
@@ -798,10 +875,12 @@ Source: [La Historia No es Lineal \*\*SIN VIDEO\*\*](https://swaruu.org/transcri
 - metaphysical-model
 - metaphysical-model\_attributed
 - mirror-identity-varies
+- near-duplicate-of-src-051532dd5b50
 - nonlinear-time-model-attributed
 - numerical influence comparisons are illustrative, not fixed ratios
 - objective-versus-personal-reality-framing
 - pandemic-claims-omitted
+- perception-model-uses-and-rejects-literal-timeline-terms
 - personal-ability-claims-attributed
 - political-claims
 - portal-location-and-destination-vary

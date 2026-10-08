@@ -98,18 +98,45 @@ Source: [Marte&Tierra - Que hay en Marte? - Información Extraterrestre - Swaruu
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md), [Reptilians](reptilians.md), [Maitre](maitre.md), [Aethien Mantis](aethien-mantis.md).
 
+### src-83d0afc07ef6-c03
+
+Athena describes three Mars sectors as human-reptilian SSP, Mantis, and Maitré; a treaty with Mantis and reptilians prevents Maitré’s removal under Federation law. She calls the situation a legal problem.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Liberación de Mundos, Planetas, Tierra - Que dice del tema Athena Swaruu?](https://swaruu.org/transcripts/liberacion-de-mundos-planetas-tierra-que-dice-del-tema-athena-swaruu) (2021-12-15; es); passages p0011, p0013. [Structured record](../../records/src-83d0afc07ef6.json).
+
+Related topics: [Maitre](maitre.md), [Reptilians](reptilians.md), [Galactic Federation](galactic-federation.md).
+
+### src-dff574e82d59-c04
+
+She says Mars has human-Reptilian, Mantis and Maitre sectors; Maitre treaties prevent legal expulsion under Federation law.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [\#DESPERTAR GLOBAL Y A LA LIBERACIÓN DE NUESTRO SISTEMA \#SOLAR - \#ATHENA \#SWARUU \#exopolitica](https://swaruu.org/transcripts/despertar-global-y-a-la-liberacion-de-nuestro-sistema-solar-athena-swaruu-exopolitica) (2021-12-15; es); passages p0010, p0012, p0014. [Structured record](../../records/src-dff574e82d59.json).
+
+Related topics: [Maitre](maitre.md), [Aethien Mantis](aethien-mantis.md), [Secret Space Program](secret-space-program.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-74c032374fff-c02](earth-cabal.md#src-74c032374fff-c02) — Earth Cabal and power structures
 - [src-59c43e8ab96d-c03](maitre.md#src-59c43e8ab96d-c03) — Maitre
 - [src-76864ac53fe6-c02](ohalum-council.md#src-76864ac53fe6-c02) — Ohalum Council
 - [src-c57cf7f12530-c03](maitre.md#src-c57cf7f12530-c03) — Maitre
+- [src-598faa62de95-c03](secret-space-program.md#src-598faa62de95-c03) — Secret Space Program
+- [src-e9adfed45e60-c05](secret-space-program.md#src-e9adfed45e60-c05) — Secret Space Program
 
 ## Review flags
 
+- Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
+- aliens-removed-from-quadrant-claim
 - ancient-solar-system-density-and-polity-claims
+- claims-attributed-to-Athena
 - contested\_extraterrestrial\_history
 - planetary-control-and-liberation-claims
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
+- source makes unverified claims about extraterrestrial warfare and Federation involvement
+- source-disputes-current-liberation-narrative
 - unsupported\_planetary\_claims
 - venus-physical-description-differs-from-earth-science

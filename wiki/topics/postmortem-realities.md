@@ -1330,6 +1330,82 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [El Alma - consciencia - mente - Yazhi Swaruu](https://swaruu.org/transcripts/el-alma-consciencia-mente-yazhi-swaruu) (2021-05-25; es); passages p0005, p0006. [Structured record](../../records/src-5573254c0ef6.json).
 
+### src-64966405e66f-c01
+
+Minerva says souls do not travel after death; each experiences a world reflecting who they are.
+
+Attributed to **Swaruu Minerva (11)**; asserted; extraction confidence: high.
+
+Source: [Donde va el \#alma ? - SUS ALMAS NO VAN A NINGÚN LADO SIMPLEMENTE SON - \#Minerva \#Swaruu XI](https://swaruu.org/transcripts/donde-va-el-alma-sus-almas-no-van-a-ningun-lado-simplemente-son-minerva-swaruu-xi) (2021-12-05; es); passages p0073, p0074. [Structured record](../../records/src-64966405e66f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1eb9dc311794-c01
+
+Yazhi says consciousness does not travel to a separate afterlife plane; it experiences realities its attention imagines, with “higher” planes being expanded states, not locations. Her metaphysical account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Que pasa en la Muerte? Porque no hay Mundo Material? Yazhi Swaruu habla de "Planos Superiores"](https://swaruu.org/transcripts/que-pasa-en-la-muerte-porque-no-hay-mundo-material-yazhi-swaruu-habla-de-planos-superiores) (2021-11-30; es); passages p0004, p0005, p0006, p0007, p0008. [Structured record](../../records/src-1eb9dc311794.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-1eb9dc311794-c02
+
+She describes death as ego integrating into a unified etheric field; memories and attachments may sustain identity and create shared mirror worlds from compatible beliefs.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Que pasa en la Muerte? Porque no hay Mundo Material? Yazhi Swaruu habla de "Planos Superiores"](https://swaruu.org/transcripts/que-pasa-en-la-muerte-porque-no-hay-mundo-material-yazhi-swaruu-habla-de-planos-superiores) (2021-11-30; es); passages p0019, p0021, p0025, p0048, p0060, p0062, p0067, p0068. [Structured record](../../records/src-1eb9dc311794.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-29eb9565748a-c02
+
+She says death ends an incarnation’s sequence of ideas, while attachments can sustain perceived spirit worlds overlapping the living world. Her metaphysical model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [\#EXTRATERRESTRE ME EXPLICA QUE HAY DESPUES DE LA \#VIDA - SOPHIA SWARUU](https://swaruu.org/transcripts/extraterrestre-me-explica-que-hay-despues-de-la-vida-sophia-swaruu) (2021-12-11; es); passages p0019, p0023, p0026, p0028, p0030. [Structured record](../../records/src-29eb9565748a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-29eb9565748a-c03
+
+Yazhi says perception limits can hide or reveal entities; people may interact across realms according to self-imposed boundaries and attachments. Her metaphysical model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [\#EXTRATERRESTRE ME EXPLICA QUE HAY DESPUES DE LA \#VIDA - SOPHIA SWARUU](https://swaruu.org/transcripts/extraterrestre-me-explica-que-hay-despues-de-la-vida-sophia-swaruu) (2021-12-11; es); passages p0031, p0032, p0033, p0034, p0036. [Structured record](../../records/src-29eb9565748a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2b276450a3d2-c05
+
+She says postmortem environments reflect a person’s carried ideas, attachments, values, and ethics.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [NO HAY Y NO PUEDE HABER \#MUNDO MATERIAL Y MUNDO](https://swaruu.org/transcripts/no-hay-y-no-puede-haber-mundo-material-y-mundo) (2021-12-09; es); passages p0020, p0022, p0023, p0024. [Structured record](../../records/src-2b276450a3d2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9f9a5d3a7e35-c03
+
+Yazhi describes deceased beings attached to material life as overlapping the living and astral perceptions.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [EXTRATERRESTRE ME EXPLICA EL PORQUE NO HAY MUERTE - SOPHIA SWARUU](https://swaruu.org/transcripts/extraterrestre-me-explica-el-porque-no-hay-muerte-sophia-swaruu) (2021-12-13; es); passages p0014. [Structured record](../../records/src-9f9a5d3a7e35.json).
+
+### src-4ea4379f95bf-c04
+
+After death, attachments shape one’s world: some realms mirror material life, others are peaceful.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [No hay Mundo Material - Parte 2 - Mundo de los Espiritus vs de los Vivos - Yazhi Swaruu](https://swaruu.org/transcripts/no-hay-mundo-material-parte-2-mundo-de-los-espiritus-vs-de-los-vivos-yazhi-swaruu) (2021-12-07; es); passages p0026, p0030, p0031. [Structured record](../../records/src-4ea4379f95bf.json).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c01](consciousness-metaphysics.md#src-331beeab2088-c01) — Consciousness and metaphysics
@@ -1372,11 +1448,14 @@ Source: [El Alma - consciencia - mente - Yazhi Swaruu](https://swaruu.org/transc
 ## Review flags
 
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- Contradictory descriptions may be valid from different perspectives.
 - English source src-efce96683138 closely translates the full Spanish article; no substantive additions found.
 - Federation-arguments\_reported
 - Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - Vaccine causation and medical claims omitted.
+- Yazhi frames these as a limited explanatory viewpoint.
+- Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts
 - Yazhi notes possible linguistic ambiguity in her terminology.
 - afterlife-claims-are-source-model
 - afterlife-model-attributed
@@ -1396,6 +1475,7 @@ Source: [El Alma - consciencia - mente - Yazhi Swaruu](https://swaruu.org/transc
 - human-agency-and-federation-oversight
 - immersion-metaphysics-claims
 - incarnation-afterlife-metaphysics
+- lore-claims-attributed-to-Yazhi
 - metaphysical-claims\_attributed
 - metaphysical-model
 - metaphysical-model\_attributed

@@ -292,6 +292,36 @@ Source: [LA FEDERACIÓN GALÁCTICA DE AMOR Y LUZ – ANEEKA DE TEMMER - SEMILLAS
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-d26552c9fbda-c04
+
+She describes starseeds as souls incarnating, sometimes via avatar technology; Taygetan ships mainly guide them under nonintervention rules. Some remember their origin; others do not.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Nave de Taygeta - Porque Esta Aquí? Actualización - Conoce Algunos Miembros de la Tripulación](https://swaruu.org/transcripts/nave-de-taygeta-porque-esta-aqui-actualizacion-conoce-algunos-miembros-de-la-tripulacion) (2022-02-10; es); passages p0024, p0026, p0028. [Structured record](../../records/src-d26552c9fbda.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-0669cfd94f43-c02
+
+She says starseeds can feel pulled by the dominant collective reality despite awareness, and many lack resources to leave its social system. She describes this as a common, not universal, experience.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Responsabilidad, Humanos, Semillas Estelares - Conversación con Athena Swaruu](https://swaruu.org/transcripts/responsabilidad-humanos-semillas-estelares-conversacion-con-athena-swaruu) (2022-07-27; es); passages p0016, p0018, p0020, p0022, p0023. [Structured record](../../records/src-0669cfd94f43.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-83d0afc07ef6-c01
+
+Athena says star races discussed helping Earth decades ago, mainly through starseeds incarnating via immersion pods, step-downs, and walk-ins rather than direct intervention. She describes this as an inside-out effort.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Liberación de Mundos, Planetas, Tierra - Que dice del tema Athena Swaruu?](https://swaruu.org/transcripts/liberacion-de-mundos-planetas-tierra-que-dice-del-tema-athena-swaruu) (2021-12-15; es); passages p0004, p0005. [Structured record](../../records/src-83d0afc07ef6.json).
+
+Related topics: [Immersion pods](immersion-pods.md), [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
+
 ## Claims filed under other topics
 
 - [src-10009bbe55a5-c01](lyran-expansion.md#src-10009bbe55a5-c01) — Lyran expansion
@@ -306,11 +336,15 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-22febda7e5c0-c04](higher-federation-councils.md#src-22febda7e5c0-c04) — Higher Federation councils
 - [src-a01b8e851bc2-c01](aura-spectrometry.md#src-a01b8e851bc2-c01) — Aura spectrometry
 - [src-f692b0750026-c04](galactic-federation.md#src-f692b0750026-c04) — Galactic Federation
+- [src-0669cfd94f43-c01](consciousness-metaphysics.md#src-0669cfd94f43-c01) — Consciousness and metaphysics
+- [src-63eb2c3859f8-c02](higher-federation-councils.md#src-63eb2c3859f8-c02) — Higher Federation councils
 
 ## Review flags
 
 - Source also contains unextracted real-world political and health claims.
+- Yazhi’s account of higher-council governance and intervention is internally framed as perspective-dependent
 - agenda21-assertion
+- aliens-removed-from-quadrant-claim
 - collective-self-perspective-attributed
 - contested-chromosome-and-ability-claims
 - contested-genetic-surveillance-claim
@@ -334,6 +368,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - medical-causation-claims
 - nonstandard-genetics-claims
 - pandemic-claims-excluded
+- personal-responsibility-model-retains-victim-perspective
 - reincarnation-and-catholic-control-claim
 - related-starseed-material-overlap
 - starseed-identity-and-mission-attributed

@@ -46,6 +46,39 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [EL ÉTER EL TODO LA FUENTE LA LLAMADA ASCENSIÓN PLANETARIA – ANÉEKA DE TEMMER](https://swaruu.org/transcripts/el-eter-el-todo-la-fuente-la-llamada-ascension-planetaria-aneeka-de-temmer) (2021-04-14; es); passages p0023. [Structured record](../../records/src-a9734f1c49e3.json).
 
+### src-b00727c7921a-c04
+
+Yazhi says Earth is already ascended; human perception determines whether people experience it as ascending.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ascensión Planetaria - Charla con Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/ascension-planetaria-charla-con-yazhi-swaruu-sophia) (2022-08-04; es); passages p0021, p0028. [Structured record](../../records/src-b00727c7921a.json).
+
+### src-12823666aeee-c01
+
+Yazhi rejected inevitable planetary ascension, describing ascension instead as individual growth in perception and consciousness.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE LES VENDEN POR \#ASCENSIÓN PLANETARIA - La Quinta Densidad - \#5D – SOPHIA SWARUU - \#NUEVAERA](https://swaruu.org/transcripts/lo-que-les-venden-por-ascension-planetaria-la-quinta-densidad-5d-sophia-swaruu-nuevaera) (2021-11-19; es); passages p0009, p0010, p0012, p0014. [Structured record](../../records/src-12823666aeee.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-12823666aeee-c04
+
+Yazhi urged people to act proactively, saying small actions accumulate and individuals should choose what they can do. She said she saw people as central to Earth's problems and solutions.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE LES VENDEN POR \#ASCENSIÓN PLANETARIA - La Quinta Densidad - \#5D – SOPHIA SWARUU - \#NUEVAERA](https://swaruu.org/transcripts/lo-que-les-venden-por-ascension-planetaria-la-quinta-densidad-5d-sophia-swaruu-nuevaera) (2021-11-19; es); passages p0053, p0054, p0056, p0061, p0066. [Structured record](../../records/src-12823666aeee.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+## Claims filed under other topics
+
+- [src-12823666aeee-c02](holistic-society.md#src-12823666aeee-c02) — Holistic society
+
 ## Review flags
 
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
+- lore-claims-attributed-to-Yazhi

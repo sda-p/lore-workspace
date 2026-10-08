@@ -56,6 +56,26 @@ Source: [SUBMARINOS NAVES ESPACIALES - PROGRAMA ESPACIAL SECRETO - DONALD TRUMP]
 
 Related topics: [Secret Space Program](secret-space-program.md).
 
+### src-a3598fbda73f-c02
+
+Athena infers that underground Tesla-like facilities, including DUMBs, supply part of the grid. She calls this a strong deduction and says they have not seen the plants.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https://swaruu.org/transcripts/la-energia-de-las-centrales-nucleares-lineas-lei-athena-swaruu) (2022-04-22; es); passages p0005, p0008, p0009. [Structured record](../../records/src-a3598fbda73f.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-80bdf93897ea-c03
+
+Athena says Ukraine contains extensive DUMBs linked globally and lies on ley lines that form an energy node.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Conflicto en Ucrania - Porque ? Comentarios de Athena Swaruu (X)](https://swaruu.org/transcripts/conflicto-en-ucrania-porque-comentarios-de-athena-swaruu-x) (2022-02-27; es); passages p0008, p0009. [Structured record](../../records/src-80bdf93897ea.json).
+
+Related topics: [Ukraine](ukraine.md), [Energy generation technology](energy-generation.md).
+
 ## Claims filed under other topics
 
 - [src-3556f3ec008f-c01](sphinx-underground-bases.md#src-3556f3ec008f-c01) — Sphinx Underground Bases
@@ -66,9 +86,13 @@ Related topics: [Secret Space Program](secret-space-program.md).
 - [src-9524a72ff653-c02](earth-dna-arks.md#src-9524a72ff653-c02) — Earth DNA Arks
 - [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
 - [src-de22732f48f1-c02](antarctica.md#src-de22732f48f1-c02) — Antarctica
+- [src-ec6c591d861f-c01](earth-dna-arks.md#src-ec6c591d861f-c01) — Earth DNA Arks
+- [src-ec6c591d861f-c02](ukraine.md#src-ec6c591d861f-c02) — Ukraine
+- [src-9fb50ae5b7f5-c03](subterranean-ocean-networks.md#src-9fb50ae5b7f5-c03) — Subterranean ocean networks
 
 ## Review flags
 
+- The underground-generation explanation is explicitly an inference, not an observed facility.
 - ancient-site-claims-attributed
 - antarctic-base-conspiracy-claims
 - ark-status-uncertainty
@@ -82,4 +106,5 @@ Related topics: [Secret Space Program](secret-space-program.md).
 - secret-space-program-claims
 - security-claims-attributed
 - translated-originally-Spanish
+- ukraine-war-conspiracy-claims-attributed
 - wartime-conspiracy-claims

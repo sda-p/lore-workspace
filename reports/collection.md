@@ -1,17 +1,17 @@
 # Continuous collection progress
 
-Updated: 2026-10-08T17:55:08+00:00
+Updated: 2026-10-08T22:31:22+00:00
 
 - Inventoried URLs: 2207
-- Independently reviewed source records: 1390
-- Source-specific claims: 6584
-- Original source words in reviewed records: 3,486,554
+- Independently reviewed source records: 1550
+- Source-specific claims: 7190
+- Original source words in reviewed records: 3,862,123
 - Original source words prepared for processing: 5,274,594
-- Reviewed record languages: {'en': 908, 'es': 482}
-- Released records awaiting completed independent review/integration: 160
+- Reviewed record languages: {'en': 908, 'es': 642}
+- Released records awaiting completed independent review/integration: 88
 - Exact duplicate URLs skipped: 0
 - Unassigned URLs: 0
-- Assigned records still needing work: 817
+- Assigned records still needing work: 657
 
 Source-record counts include retained language/revision variants and are not counts of independent corroborating accounts. Each record is a compact core extraction, not exhaustive coverage. English-first selection uses title heuristics plus coordinator review of ambiguous titles. Later cohorts process Spanish and remaining records; extracts are written in English, with original source language retained.
 
@@ -31,15 +31,17 @@ Source-record counts include retained language/revision variants and are not cou
 | continuous-013 | 160 | 160 | 160 | reviewed | 24 |
 | continuous-014 | 160 | 160 | 160 | reviewed | 12 |
 | continuous-015 | 160 | 160 | 160 | reviewed | 10 |
-| continuous-016 | 160 | 91 | 0 | running | 0 |
-| continuous-017 | 160 | 43 | 0 | running | 0 |
-| continuous-018 | 160 | 26 | 0 | running | 0 |
+| continuous-016 | 160 | 160 | 160 | reviewed | 22 |
+| continuous-017 | 160 | 55 | 0 | running | 0 |
+| continuous-018 | 160 | 33 | 0 | running | 0 |
 | continuous-019 | 160 | 0 | 0 | running | 0 |
 | continuous-020 | 160 | 0 | 0 | running | 0 |
 | continuous-021 | 17 | 0 | 0 | running | 0 |
 
 ## Resume
 
-Select a new cohort with `continuous.py select --batch <id> --size 40`, prepare its selection with `lore.py prepare --selection config/selections/<id>.json --batch <id>`, then run `continuous.py ready --batch <id>`. Assign four extraction shards and two independent review shards. Integrate completed reviews, build the wiki, and checkpoint. Completed ledger jobs are retained across cohorts.
+Resume existing queues from `work/ledger.json` and `work/handoffs.json`. Run `continuous.py shard-progress --batch <cohort> --worker <n>` for each extraction owner. Restore matching snapshots with `lore.py prepare --restore-only --selection config/selections/<cohort>.json --batch <cohort> --cache ../source-cache` before extraction or semantic review. Do not rerun `ready` for an already assigned cohort. Reuse partial review checkpoints only after checking assignments, release markers, source hashes, and record hashes. Integrate only after both complete independent review reports are present, then build the wiki and checkpoint.
+
+Select a new cohort only when unassigned URLs remain: run `continuous.py select --batch <id> --size 40`, prepare its selection with `lore.py prepare --selection config/selections/<id>.json --batch <id>`, then run `continuous.py ready --batch <id>`. Assign four extraction shards and two independent review shards. Completed ledger jobs are retained across cohorts.
 
 Review reports and integration errors are retained under `reports/batches/`. Failed downloads and records remain retryable; suspected translations are never skipped solely because their titles resemble another article.

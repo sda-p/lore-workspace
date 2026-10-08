@@ -1,0 +1,79 @@
+{
+  "source_id": "src-598faa62de95",
+  "snapshot_sha256": "79f308cc2b1d45a231d5e3efad00467d7993cf6558b81905d0aecd711814c448",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-598faa62de95-c01",
+      "assertion": "Anéeka said local Viera authorities opposed events on Earth but lacked authority to intervene; she suspected higher Federation levels might coordinate with deeper groups.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0027",
+        "p0029",
+        "p0030",
+        "p0033"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "higher-federation-councils",
+        "secret-society-hierarchy"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She said the extent of coordination was uncertain."
+    },
+    {
+      "id": "src-598faa62de95-c02",
+      "assertion": "Anéeka said Federation ships monitor Earth and sometimes attack regressive craft, but do not liberate humanity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She framed this as preserving the Matrix."
+    },
+    {
+      "id": "src-598faa62de95-c03",
+      "assertion": "Anéeka said Federation-authorized lunar traffic could support equipment or operations; she placed more SSP activity around Mars.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0037",
+        "p0039",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "secret-space-program",
+      "topics": [
+        "secret-space-program",
+        "galactic-federation",
+        "moon-matrix",
+        "mars"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She doubted lunar traffic was SSP."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript."
+  ],
+  "coverage_gaps": [
+    "Cabal-Reptilian layers",
+    "specific military engagements"
+  ]
+}

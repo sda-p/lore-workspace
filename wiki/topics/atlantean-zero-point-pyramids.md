@@ -22,3 +22,4 @@ Related topics: [Atlantis and Lemuria](atlantis-lemuria.md), [Energy generation 
 
 - [src-3247a8725177-c02](natural-portals.md#src-3247a8725177-c02) — Natural and artificial portals
 - [src-3247a8725177-c03](galactic-federation.md#src-3247a8725177-c03) — Galactic Federation
+- [src-6fff99fdbd26-c02](great-pyramid-of-giza.md#src-6fff99fdbd26-c02) — Great Pyramid of Giza

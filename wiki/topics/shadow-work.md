@@ -50,6 +50,16 @@ Source: [Ascension - De que se Trata Realmente? Yázhi Swaruu - Comunicación Ex
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-12823666aeee-c03
+
+Yazhi advocated confronting unwanted personal and collective traits as shadow work, arguing integration and awareness can support change.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE LES VENDEN POR \#ASCENSIÓN PLANETARIA - La Quinta Densidad - \#5D – SOPHIA SWARUU - \#NUEVAERA](https://swaruu.org/transcripts/lo-que-les-venden-por-ascension-planetaria-la-quinta-densidad-5d-sophia-swaruu-nuevaera) (2021-11-19; es); passages p0027, p0030, p0036, p0049. [Structured record](../../records/src-12823666aeee.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Review flags
 
 - spiritual-psychology-attributed

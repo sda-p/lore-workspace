@@ -60,6 +60,7 @@ Source: [EL CONSEJO DE ANDRÓMEDA Y LA FEDERACIÓN DE PLANETAS UNIDOS YAZHI SWAR
 - [src-ae20e2d2296b-c02](neptune.md#src-ae20e2d2296b-c02) — Neptune and Triton
 - [src-40614df19d52-c04](astrotheology.md#src-40614df19d52-c04) — Astrotheology
 - [src-29ae7cdf0163-c01](galactic-federation.md#src-29ae7cdf0163-c01) — Galactic Federation
+- [src-6d8ed766cc58-c01](higher-federation-councils.md#src-6d8ed766cc58-c01) — Higher Federation councils
 
 ## Review flags
 

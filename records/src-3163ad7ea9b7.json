@@ -1,0 +1,54 @@
+{
+  "source_id": "src-3163ad7ea9b7",
+  "snapshot_sha256": "72c2df3912275a4d53feb5c6032f05a8620250c7d0d31036df6e790ff30b7a16",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3163ad7ea9b7-c01",
+      "assertion": "Yazhi describes pre-incarnation contracts as self-chosen conditions for a desired physical experience and spiritual development.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0014"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3163ad7ea9b7-c02",
+      "assertion": "Yazhi says Earth’s limitations make her fairly sure everyone has prenatal contracts; she says the spiritual side’s contracts cannot be known.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0006", "p0016", "p0017"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3163ad7ea9b7-c03",
+      "assertion": "Yazhi says hardship can aid less-developed souls, while sufficiently spiritually developed souls can progress without suffering.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0015"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "At a given level of development."
+    },
+    {
+      "id": "src-3163ad7ea9b7-c04",
+      "assertion": "Gosia views a missed personal contract as carrying no karma or punishment; she says consequences are self-imposed.",
+      "speaker": "Gosia",
+      "paragraph_ids": ["p0013", "p0019"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is Gosia’s stated view."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["individual mission details", "soul gardeners and memory repair"]
+}

@@ -1,0 +1,43 @@
+{
+  "source_id": "src-88e6a66d5551",
+  "snapshot_sha256": "9bb8ea84d9e2a95f59cba17de91cc98bb0c3685091ec293d228a0f8e8fbfd866",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-88e6a66d5551-c01",
+      "assertion": "Athena divides base-12 toroidal dynamics into expansion group 1,2,4,5,7,8,10,11 and contraction group 3,6,9,12.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0030", "p0031"],
+      "primary_topic": "taygetan-base-12-mathematics",
+      "topics": ["taygetan-base-12-mathematics", "gravity-harmonics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the groups carry opposite, equivalent charges."
+    },
+    {
+      "id": "src-88e6a66d5551-c02",
+      "assertion": "She says Tesla’s popular 3-6-9 scheme omits 10-12; balanced opposite frequencies produce a spark in a zero-point reactor.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0008", "p0033", "p0034", "p0035", "p0041", "p0043"],
+      "primary_topic": "crystal-core-zero-point-reactors",
+      "topics": ["crystal-core-zero-point-reactors", "taygetan-base-12-mathematics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the nine-number diagram is unbalanced."
+    },
+    {
+      "id": "src-88e6a66d5551-c03",
+      "assertion": "Athena describes matter-energy nodes as standing toroidal waves formed when gravity harmonics recycle spherical emissions; an electron is a small toroid.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0012", "p0013", "p0017", "p0023", "p0024", "p0025", "p0027", "p0028"],
+      "primary_topic": "atomic-wave-structure",
+      "topics": ["atomic-wave-structure", "gravity-harmonics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She treats matter and energy as equivalent."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["base-12, zero-point-reactor, and matter-wave claims are attributed to Athena and are not independently verified"],
+  "coverage_gaps": ["energy-wave diagrams", "dimensional propagation claims"]
+}

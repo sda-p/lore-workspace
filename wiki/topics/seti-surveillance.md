@@ -18,6 +18,11 @@ Source: [LAS PLEYADES – SISTEMA ESTELAR JOVEN - PROYECTO SETI - ANÉEKA DE TEM
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+## Claims filed under other topics
+
+- [src-a32bbe4fc74a-c01](nonhuman-surveillance-drones.md#src-a32bbe4fc74a-c01) — Nonhuman surveillance drones
+
 ## Review flags
 
 - attributed-seti-military-purpose-claim
+- satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified

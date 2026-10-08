@@ -56,9 +56,34 @@ Source: [Las Guerras de Orion - Invasion Reptil - Atlantida y Lemuria - Parte 3 
 
 Related topics: [Atlantis and Lemuria](atlantis-lemuria.md), [Holographic computers](holographic-computers.md), [Tractor beams](tractor-beams.md).
 
+### src-e41d4b9ab4a8-c01
+
+Dhor Káal’el describes Nazca figures as star maps and approach vectors for interstellar ships.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Líneas de Nazca - Que Son? Explicado por un Piloto Extraterrestre - Taygeta (Pleyades)](https://swaruu.org/transcripts/lineas-de-nazca-que-son-explicado-por-un-piloto-extraterrestre-taygeta-pleyades) (2022-09-02; es); passages p0005, p0008, p0009. [Structured record](../../records/src-e41d4b9ab4a8.json).
+
+### src-e41d4b9ab4a8-c02
+
+He says the lines encode distances, timing, geometry and frequency-based routes for an ancient spaceport.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Líneas de Nazca - Que Son? Explicado por un Piloto Extraterrestre - Taygeta (Pleyades)](https://swaruu.org/transcripts/lineas-de-nazca-que-son-explicado-por-un-piloto-extraterrestre-taygeta-pleyades) (2022-09-02; es); passages p0016. [Structured record](../../records/src-e41d4b9ab4a8.json).
+
+### src-e41d4b9ab4a8-c03
+
+He says broad lines served as ship parking areas and approach guides, not runways.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Líneas de Nazca - Que Son? Explicado por un Piloto Extraterrestre - Taygeta (Pleyades)](https://swaruu.org/transcripts/lineas-de-nazca-que-son-explicado-por-un-piloto-extraterrestre-taygeta-pleyades) (2022-09-02; es); passages p0021, p0046. [Structured record](../../records/src-e41d4b9ab4a8.json).
+
 ## Review flags
 
 - alternate-history\_claims\_attributed
+- attribution:reported-from-records
 - speaker-speculation
 - translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
 - unverified-reset-claims

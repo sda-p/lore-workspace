@@ -81,10 +81,10 @@
     {
       "id": "druidic-traditions",
       "name": "Druidic traditions",
-      "kind": "institution",
+      "kind": "historical culture",
       "aliases": [
-        "Druids",
-        "Druidism"
+        "druids",
+        "Celtic druids"
       ]
     },
     {

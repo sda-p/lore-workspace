@@ -1,0 +1,109 @@
+{
+  "source_id": "src-4bd203cbfe4d",
+  "snapshot_sha256": "e658ee98b65deff6f75d6cce63a1c94414e8f9617bce966388935969b590e035",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4bd203cbfe4d-c01",
+      "assertion": "Karistus tradition treats Lyrians, including humans, as soul-level Karistus hybrids.",
+      "speaker": "Yazhi; Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0010",
+        "p0029"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus",
+        "lyrians",
+        "humanity-multi-species-experiment"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is their belief."
+    },
+    {
+      "id": "src-4bd203cbfe4d-c02",
+      "assertion": "Anéeka says Karistus claim Earth as ancestral territory from 200,000 years ago, but reject invasive ownership.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus",
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bd203cbfe4d-c03",
+      "assertion": "Anéeka says Karistus broke with the Federation over Earth policy but remain allied with Taygetans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0037",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus",
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "They resent Federation permissiveness."
+    },
+    {
+      "id": "src-4bd203cbfe4d-c04",
+      "assertion": "Anéeka says Karistus fight directly, including with step-downs and starseeds; Taygeta mostly stopped.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0043",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus",
+        "starseed-guides",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Only localized skirmishes remain."
+    },
+    {
+      "id": "src-4bd203cbfe4d-c05",
+      "assertion": "Anéeka, citing Yazhi, says Karistus exist at any spiritual level, rejecting fixed density categories.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0048"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus",
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She revises earlier sixth-density labels."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts"
+  ],
+  "coverage_gaps": [
+    "Jupiter meeting allegations",
+    "Karistus physical description",
+    "Karistus colony and planetary shielding"
+  ]
+}

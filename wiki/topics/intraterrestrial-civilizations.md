@@ -104,6 +104,14 @@ Source: [Es Tierra hueca? - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/es
 
 Related topics: [Subterranean ocean networks](subterranean-ocean-networks.md).
 
+### src-e41d4b9ab4a8-c04
+
+He describes buried multi-level cities beneath Nazca as abandoned facilities of multiple nonhuman races. He cites records and remote investigation; he says he has not visited.
+
+Attributed to **Dhor Káal’el**; reported; extraction confidence: medium.
+
+Source: [Líneas de Nazca - Que Son? Explicado por un Piloto Extraterrestre - Taygeta (Pleyades)](https://swaruu.org/transcripts/lineas-de-nazca-que-son-explicado-por-un-piloto-extraterrestre-taygeta-pleyades) (2022-09-02; es); passages p0032, p0048, p0060, p0062. [Structured record](../../records/src-e41d4b9ab4a8.json).
+
 ## Claims filed under other topics
 
 - [src-0a2dec346e2d-c01](bigfoot-sasquatch.md#src-0a2dec346e2d-c01) — Bigfoot, Sasquatch and Yeti
@@ -112,15 +120,29 @@ Related topics: [Subterranean ocean networks](subterranean-ocean-networks.md).
 - [src-5ffe56780faa-c02](galactic-federation.md#src-5ffe56780faa-c02) — Galactic Federation
 - [src-ae20e2d2296b-c01](neptune.md#src-ae20e2d2296b-c01) — Neptune and Triton
 - [src-63ddcc45d115-c02](galactic-federation.md#src-63ddcc45d115-c02) — Galactic Federation
+- [src-52d2d3f49000-c01](subterranean-ocean-networks.md#src-52d2d3f49000-c01) — Subterranean ocean networks
+- [src-52d2d3f49000-c05](tartaria.md#src-52d2d3f49000-c05) — Tartaria
+- [src-3ce31d2810ab-c02](earth-cabal.md#src-3ce31d2810ab-c02) — Earth Cabal and power structures
+- [src-fb8fca342865-c05](alien-species.md#src-fb8fca342865-c05) — Alien species and distinctions
+- [src-1dc8eadf6766-c04](mercury.md#src-1dc8eadf6766-c04) — Mercury
+- [src-8372138cf73b-c01](tartaria.md#src-8372138cf73b-c01) — Tartaria
+- [src-8372138cf73b-c02](tartaria.md#src-8372138cf73b-c02) — Tartaria
+- [src-5b52df948628-c01](subterranean-ocean-networks.md#src-5b52df948628-c01) — Subterranean ocean networks
 
 ## Review flags
 
 - 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
+- Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
+- Resource-seeking distinction is level-dependent in Anéeka’s account
+- Tartaria chronology and destruction are presented as disputed source claims
+- attribution:reported-from-records
 - climate-claims
 - entertainment-disclaimer
 - federation-role-speaker-contrast
 - historical and technological interpretations are attributed to Athena
+- lore-claims-attributed-to-Aneeka
+- source-says-speaker-has-not-seen-regressive-groups
 - translated-originally-Spanish
 - triton-placement-attributed-to-andromedans
 - wartime-conspiracy-claims

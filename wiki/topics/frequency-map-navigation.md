@@ -428,6 +428,106 @@ Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-fd0bbccdb853-c01
+
+Athena says hyperspace navigation uses frequency maps and precise engines to emulate a destination bubble, rematerializing there instead of crossing intervening space. Her account distinguishes this from ordinary travel.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar III - Vuelo Interestelar - Hiper Espacio - Viajes en el Tiempo - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-iii-vuelo-interestelar-hiper-espacio-viajes-en-el-tiempo-athena-swaruu) (2022-04-03; es); passages p0008, p0012, p0015, p0017, p0018. [Structured record](../../records/src-fd0bbccdb853.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-fd0bbccdb853-c02
+
+Ship computers extrapolate uncharted regions from surrounding energy patterns and can predict near-term movement; map coverage and engine precision limit destinations.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar III - Vuelo Interestelar - Hiper Espacio - Viajes en el Tiempo - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-iii-vuelo-interestelar-hiper-espacio-viajes-en-el-tiempo-athena-swaruu) (2022-04-03; es); passages p0033, p0034, p0035, p0057, p0058, p0062. [Structured record](../../records/src-fd0bbccdb853.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-99ccae21b4fb-c01
+
+Athena says time jumps target frequency and mass-gravity map positions rather than calendar dates, so a visit has no reliable date without another reference.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Historia Humana Miente - Parte 2 - Viajar en Tiempo no Ayuda - Athena Swaruu (X)](https://swaruu.org/transcripts/historia-humana-miente-parte-2-viajar-en-tiempo-no-ayuda-athena-swaruu-x) (2022-09-17; es); passages p0008, p0009, p0010, p0014. [Structured record](../../records/src-99ccae21b4fb.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-52d2d3f49000-c04
+
+She says temporal navigation uses frequency maps; dates are calculated and can be wrong.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Tartaria - Historia Terrestre No Encaja como piensan los Humanos - Athena Swaruu (PARTE 1)](https://swaruu.org/transcripts/tartaria-historia-terrestre-no-encaja-como-piensan-los-humanos-athena-swaruu-parte-1) (2022-09-14; es); passages p0062, p0065, p0068. [Structured record](../../records/src-52d2d3f49000.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-d0de3dcb86df-c01
+
+Athena says Sand Clock ships navigate time through energy-frequency maps, not calendar dates.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Viajes en el tiempo - No son como nos cuentan - Primera Parte - Athena Swaruu](https://swaruu.org/transcripts/viajes-en-el-tiempo-no-son-como-nos-cuentan-primera-parte-athena-swaruu) (2022-03-08; es); passages p0005, p0006, p0007. [Structured record](../../records/src-d0de3dcb86df.json).
+
+Related topics: [Sand Clock](sand-clock.md).
+
+### src-d0de3dcb86df-c02
+
+A target date must be inferred from matching mass-gravity patterns or external historical markers.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Viajes en el tiempo - No son como nos cuentan - Primera Parte - Athena Swaruu](https://swaruu.org/transcripts/viajes-en-el-tiempo-no-son-como-nos-cuentan-primera-parte-athena-swaruu) (2022-03-08; es); passages p0008, p0009, p0014. [Structured record](../../records/src-d0de3dcb86df.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-d0de3dcb86df-c03
+
+She says sparse or misdated markers make historical jumps error-prone, even when crews revisit known events.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Viajes en el tiempo - No son como nos cuentan - Primera Parte - Athena Swaruu](https://swaruu.org/transcripts/viajes-en-el-tiempo-no-son-como-nos-cuentan-primera-parte-athena-swaruu) (2022-03-08; es); passages p0025, p0026, p0032, p0056. [Structured record](../../records/src-d0de3dcb86df.json).
+
+Related topics: [Sand Clock](sand-clock.md).
+
+### src-d0de3dcb86df-c05
+
+She says ship crews must build detailed frequency maps by comparing multiple trips and locations.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Viajes en el tiempo - No son como nos cuentan - Primera Parte - Athena Swaruu](https://swaruu.org/transcripts/viajes-en-el-tiempo-no-son-como-nos-cuentan-primera-parte-athena-swaruu) (2022-03-08; es); passages p0014, p0022, p0079, p0080. [Structured record](../../records/src-d0de3dcb86df.json).
+
+Related topics: [Sand Clock](sand-clock.md).
+
+### src-8d5449505ff0-c02
+
+She links perceived time to collective consciousness; stellar navigation can use local frequency patterns.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA FAMOSA ASCENSIÓN PLANETARIA- EL INCONSCIENTE COLECTIVO - Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/la-famosa-ascension-planetaria-el-inconsciente-colectivo-sophia-swaruu-yazhi) (2022-05-03; es); passages p0006, p0012. [Structured record](../../records/src-8d5449505ff0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0f5047c8c5f2-c01
+
+Athena says ships use staged hyperspace frequency-map routes for safety and detours, while portals jump directly.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [NAVEGACIÓN ESTELAR IV SALTO AL HIPERESPACIO - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-iv-salto-al-hiperespacio-athena-swaruu) (2022-04-05; es); passages p0005, p0006, p0007, p0011, p0012. [Structured record](../../records/src-0f5047c8c5f2.json).
+
+Related topics: [Ship internal time](ship-internal-time.md), [Natural and artificial portals](natural-portals.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c01](stellar-navigation.md#src-426ea469937a-c01) — Stellar navigation
@@ -451,13 +551,20 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - [src-ca24d8041f8f-c01](moon-matrix.md#src-ca24d8041f8f-c01) — Moon and terrestrial Matrix
 - [src-e1b812564c1f-c02](starship-systems.md#src-e1b812564c1f-c02) — Starship systems
 - [src-df0b18054ec1-c04](stellar-navigation.md#src-df0b18054ec1-c04) — Stellar navigation
+- [src-99ccae21b4fb-c02](temporal-skipping.md#src-99ccae21b4fb-c02) — Temporal skipping
+- [src-23345f09145a-c02](ship-internal-time.md#src-23345f09145a-c02) — Ship internal time
+- [src-8372138cf73b-c03](sand-clock.md#src-8372138cf73b-c03) — Sand Clock
+- [src-2b1192891e85-c01](ship-internal-time.md#src-2b1192891e85-c01) — Ship internal time
 
 ## Review flags
 
+- Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
+- Historical chronology and the reported overlap are source claims; exact dating remains uncertain
 - No-locality is presented as an empirically used navigation principle and a metaphysical model.
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
+- Tartaria chronology and destruction are presented as disputed source claims
 - ancient-symbol-interpretations-attributed
 - author-personal-philosophical-analysis
 - conspiracy\_claims
@@ -466,8 +573,11 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - entertainment-disclaimer
 - ethical\_use\_limits
 - frequency-mechanics-attributed
+- historical-chronology-claims-unverified
 - long conversation contains disputed health claims not included in core extraction
+- navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
 - nonhuman-technology\_claims\_attributed
+- planetary ascension is framed as perspective-dependent perception
 - portal-mechanics-overlap-src-6abed4268d57
 - post-eclipse-causal-attribution
 - psychological memory-rewriting discussion could be confused with clinical guidance

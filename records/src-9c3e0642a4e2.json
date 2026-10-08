@@ -1,0 +1,111 @@
+{
+  "source_id": "src-9c3e0642a4e2",
+  "snapshot_sha256": "eef98693723654d1a046adbca84bf40a2da55d8eb99077cb74dd9290c53c633f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9c3e0642a4e2-c01",
+      "assertion": "Athena says Earth’s Cabal adopted ancient Egyptian symbols such as Toro Apis for modern logos.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0006"
+      ],
+      "primary_topic": "ritual-symbolism-in-media",
+      "topics": [
+        "ritual-symbolism-in-media",
+        "earth-cabal",
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c3e0642a4e2-c02",
+      "assertion": "She says Cabal symbols mark presence or ownership, but public decoding distracts from deeper issues.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0029",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "ritual-symbolism-in-media",
+      "topics": [
+        "ritual-symbolism-in-media",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "They communicate sparingly."
+    },
+    {
+      "id": "src-9c3e0642a4e2-c03",
+      "assertion": "Athena says phones and internet connect people but are used to distract, monitor, and filter ideas.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "scalar-internet"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c3e0642a4e2-c04",
+      "assertion": "She says hidden Cabal tiers use separate resources and technology; lower tiers use hard-to-trace analog phones.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0024",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "secret-society-hierarchy",
+      "topics": [
+        "secret-society-hierarchy",
+        "earth-cabal",
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c3e0642a4e2-c05",
+      "assertion": "Athena describes humanity’s idea-matrix as an egregor that attacks ideas from outside.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0038"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She links it to attention and thought."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified"
+  ],
+  "coverage_gaps": [
+    "religious origins claims",
+    "human genetic alteration claims",
+    "occult practices and magical effects"
+  ]
+}

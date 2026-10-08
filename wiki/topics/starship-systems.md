@@ -3162,6 +3162,100 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-urmah-sin-video) (2021-02-01; es); passages p0028. [Structured record](../../records/src-06841218e937.json).
 
+### src-e0aac48a5c49-c01
+
+Anéeka says Taygetan craft combine holographic interfaces with physical joysticks and pedals; telepathic controls can materialize to fit each pilot, while Alfrateans may need manual or autopilot.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Incidente en el espacio con una nave extraterrestre alfrateana - Aneeka de Temmer](https://swaruu.org/transcripts/incidente-en-el-espacio-con-una-nave-extraterrestre-alfrateana-aneeka-de-temmer) (2022-01-07; es); passages p0050, p0052, p0060, p0062. [Structured record](../../records/src-e0aac48a5c49.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-ea07e710cf87-c01
+
+Dhor Káal’el says pilots can start systems and request controls mentally or manually; the ship AI handles destination calculations.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRE EXPLICA EL PROCEDIMIENTO DE VUELO DE SU NAVE -Dhor Káal'el](https://swaruu.org/transcripts/extraterrestre-explica-el-procedimiento-de-vuelo-de-su-nave-dhor-kaal-el) (2022-05-18; es); passages p0015, p0018, p0032. [Structured record](../../records/src-ea07e710cf87.json).
+
+Related topics: [Sentient starship AI](sentient-starship-ai.md).
+
+### src-b6f425d6f3ea-c02
+
+She says plasma-jet engines form high-energy toroids for density shifts; gravitic manipulators have limited power and mainly serve for maneuvering.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [NAVES EXTRATERRESTRES MOTORES DE PLASMA-JET -CANCELADORES DE GRABEDAD Aneeka de Temmer \#Exopolitica](https://swaruu.org/transcripts/naves-extraterrestres-motores-de-plasma-jet-canceladores-de-grabedad-aneeka-de-temmer-exopolitica) (2021-11-23; es); passages p0029, p0031, p0034, p0035, p0037. [Structured record](../../records/src-b6f425d6f3ea.json).
+
+Related topics: [Gravitic generators](gravitic-generators.md).
+
+### src-53d3d8f6b1c3-c01
+
+Anéeka reports a directed-energy strike disabled the Alfratean Valery near Toleka.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Ataque a una Nave Centauri - Armas - Aneeka de Temmer Explica el Incidente](https://swaruu.org/transcripts/ataque-a-una-nave-centauri-armas-aneeka-de-temmer-explica-el-incidente) (2022-03-03; es); passages p0005, p0006, p0007. [Structured record](../../records/src-53d3d8f6b1c3.json).
+
+### src-53d3d8f6b1c3-c02
+
+She says multiple ground emitters combined differently tuned beams to penetrate Valery’s shields.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Ataque a una Nave Centauri - Armas - Aneeka de Temmer Explica el Incidente](https://swaruu.org/transcripts/ataque-a-una-nave-centauri-armas-aneeka-de-temmer-explica-el-incidente) (2022-03-03; es); passages p0011. [Structured record](../../records/src-53d3d8f6b1c3.json).
+
+Related topics: [Harmonic shields](harmonic-shields.md).
+
+### src-59c853fbd4b4-c01
+
+Anéeka says her ship orbited at 505 km and 7.9 km/s; its designed equatorial route gradually overflew most of Earth. 2020 account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ENTREVISTA A UNA MUJER EXTRATERRESTRE - SOMOS REALES - Aneeka de Temmer \#Taygeta](https://swaruu.org/transcripts/entrevista-a-una-mujer-extraterrestre-somos-reales-aneeka-de-temmer-taygeta) (2022-06-21; es); passages p0009, p0012, p0016. [Structured record](../../records/src-59c853fbd4b4.json).
+
+### src-2b1192891e85-c02
+
+Athena described a ship's plasma engines as frequency modulators that create a toroidal field around the craft for hyperspace travel. She said navigation sets target frequency.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 4 (Parte 1) - Tiempo SIT - Naves Espaciales en Hiper Espacio (Athena Swaruu)](https://swaruu.org/transcripts/navegacion-estelar-4-parte-1-tiempo-sit-naves-espaciales-en-hiper-espacio-athena-swaruu) (2022-07-22; es); passages p0022, p0023, p0024, p0025. [Structured record](../../records/src-2b1192891e85.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md), [Gravity harmonics](gravity-harmonics.md).
+
+### src-fc02a9d40d9c-c03
+
+Yazhi said magnetic spacecraft can collide if massive ships approach too closely, citing a 2016 Sirian–Taygetean collision.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [CONVERSACIONES EXTRATERRESTRES ARQUEOLOGÍA - Monte Bucegi - Sophia Swaruu](https://swaruu.org/transcripts/conversaciones-extraterrestres-arqueologia-monte-bucegi-sophia-swaruu) (2022-07-27; es); passages p0058, p0059. [Structured record](../../records/src-fc02a9d40d9c.json).
+
+### src-9fb50ae5b7f5-c02
+
+Anéeka says spacecraft accumulate heat because they cannot radiate it like cars; advanced ships use energy shields and convert heat into electricity.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Minitemas con Gosia - Información Extraterrestre - Yazhi, Aneeka, Athena (Pléyades y mas allá)](https://swaruu.org/transcripts/minitemas-con-gosia-informacion-extraterrestre-yazhi-aneeka-athena-pleyades-y-mas-alla) (2022-01-05; es); passages p0043, p0048, p0049, p0054, p0060. [Structured record](../../records/src-9fb50ae5b7f5.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-0f5047c8c5f2-c03
+
+Hyperdrive plasma makes a recycled toroidal cocoon; its visible tunnel and light streaks are not outside space.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [NAVEGACIÓN ESTELAR IV SALTO AL HIPERESPACIO - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-iv-salto-al-hiperespacio-athena-swaruu) (2022-04-05; es); passages p0025, p0026, p0027, p0028, p0035, p0036, p0037, p0040, p0043. [Structured record](../../records/src-0f5047c8c5f2.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -3385,6 +3479,37 @@ Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-u
 - [src-220efa38c406-c04](crystal-core-zero-point-reactors.md#src-220efa38c406-c04) — Crystal-core zero-point reactors
 - [src-ee1516c33ac1-c04](natural-portals.md#src-ee1516c33ac1-c04) — Natural and artificial portals
 - [src-e62c02d313c5-c03](stellar-navigation.md#src-e62c02d313c5-c03) — Stellar navigation
+- [src-e0aac48a5c49-c02](harmonic-shields.md#src-e0aac48a5c49-c02) — Harmonic shields
+- [src-e0aac48a5c49-c03](harmonic-shields.md#src-e0aac48a5c49-c03) — Harmonic shields
+- [src-fd0bbccdb853-c01](frequency-map-navigation.md#src-fd0bbccdb853-c01) — Frequency-map navigation
+- [src-d26552c9fbda-c01](taygetans.md#src-d26552c9fbda-c01) — Taygetans
+- [src-ea07e710cf87-c02](supraluminal-hyperdrive.md#src-ea07e710cf87-c02) — Supraluminal frequency hyperdrive
+- [src-ea07e710cf87-c03](supraluminal-hyperdrive.md#src-ea07e710cf87-c03) — Supraluminal frequency hyperdrive
+- [src-b6f425d6f3ea-c01](suzy-fighter-craft.md#src-b6f425d6f3ea-c01) — Suzy fighter craft
+- [src-b6f425d6f3ea-c03](nanotechnology.md#src-b6f425d6f3ea-c03) — Nanotechnology and implants
+- [src-23345f09145a-c03](perceptual-density.md#src-23345f09145a-c03) — Perceptual density
+- [src-ce0d96e82011-c01](stellar-navigation.md#src-ce0d96e82011-c01) — Stellar navigation
+- [src-ce0d96e82011-c03](tractor-beams.md#src-ce0d96e82011-c03) — Tractor beams
+- [src-d328a6c23916-c02](stellar-navigation.md#src-d328a6c23916-c02) — Stellar navigation
+- [src-d328a6c23916-c04](stellar-navigation.md#src-d328a6c23916-c04) — Stellar navigation
+- [src-74cf1c7706e3-c03](stellar-navigation.md#src-74cf1c7706e3-c03) — Stellar navigation
+- [src-a6c6ae12245f-c01](natural-portals.md#src-a6c6ae12245f-c01) — Natural and artificial portals
+- [src-a6c6ae12245f-c02](artificial-portals.md#src-a6c6ae12245f-c02) — Artificial portals
+- [src-947a557da420-c01](natural-portals.md#src-947a557da420-c01) — Natural and artificial portals
+- [src-947a557da420-c02](natural-portals.md#src-947a557da420-c02) — Natural and artificial portals
+- [src-2b1192891e85-c01](ship-internal-time.md#src-2b1192891e85-c01) — Ship internal time
+- [src-2b1192891e85-c03](natural-portals.md#src-2b1192891e85-c03) — Natural and artificial portals
+- [src-7ff15150434a-c01](stellar-navigation.md#src-7ff15150434a-c01) — Stellar navigation
+- [src-7ff15150434a-c02](stellar-navigation.md#src-7ff15150434a-c02) — Stellar navigation
+- [src-7ff15150434a-c03](matrix-energy-insertion.md#src-7ff15150434a-c03) — Matrix energy insertion
+- [src-b6d4df9b3066-c03](gravitic-generators.md#src-b6d4df9b3066-c03) — Gravitic generators
+- [src-f47ad5f1276b-c03](matrix-energy-insertion.md#src-f47ad5f1276b-c03) — Matrix energy insertion
+- [src-a32bbe4fc74a-c04](galactic-high-energy-arms.md#src-a32bbe4fc74a-c04) — Galactic high-energy arms
+- [src-a32bbe4fc74a-c05](van-allen-belts.md#src-a32bbe4fc74a-c05) — Van Allen belts
+- [src-1301f08e45a8-c02](energy-generation.md#src-1301f08e45a8-c02) — Energy generation technology
+- [src-1301f08e45a8-c03](crystal-core-zero-point-reactors.md#src-1301f08e45a8-c03) — Crystal-core zero-point reactors
+- [src-0f5047c8c5f2-c02](ship-internal-time.md#src-0f5047c8c5f2-c02) — Ship internal time
+- [src-0f5047c8c5f2-c04](natural-portals.md#src-0f5047c8c5f2-c04) — Natural and artificial portals
 
 ## Review flags
 
@@ -3398,6 +3523,7 @@ Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-u
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- Contact directives are described from Anéeka’s 2020 perspective.
 - Core technology described as extraterrestrial; source offers no engineering measurements.
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
@@ -3409,6 +3535,8 @@ Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-u
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - Senetre-diagnosed-weapon-route-suspected
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
+- The alleged strike and factional attribution are unverified within the source
+- Travel-time figures are speaker-provided examples and depend on vessel and route
 - Weapon and defense capabilities are source-attributed technical claims
 - Yazhi-interview-report
 - aircraft-identity-ambiguity
@@ -3446,6 +3574,7 @@ Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-u
 - coverage: ship-class specifications
 - coverage: technical descriptions are speaker claims
 - crime\_and\_abundance\_claims
+- crystal data storage and stellar reactor mechanisms are attributed claims from Yazhi, not independently verified
 - design\_discussion
 - dialogue-perspectives-distinguished
 - directed-energy-attack-claims
@@ -3501,6 +3630,8 @@ Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-u
 - named\_government\_and\_secret\_base\_claims
 - nanotechnology-claim-in-vaccine-context
 - narrator\_claims
+- navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
+- near-duplicate:src-d328a6c23916
 - nonhuman-technology\_claims\_attributed
 - nonstandard-physics-claims
 - nonstandard-planetary-model
@@ -3528,6 +3659,7 @@ Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-u
 - related-frequency-navigation-source
 - same-language-near-duplicate-src-6a5223076196
 - same-language-near-duplicate-src-735f991fe169
+- satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
 - second-contact-stoppage-attributed-to-yazhi
 - secret-aircraft-identification-uncertain
 - secret-space-program-claims

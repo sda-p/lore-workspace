@@ -202,6 +202,26 @@ Source: [La Conciencia consciencia - Naves Extraterrestres - Navegacion Estelar 
 
 Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 
+### src-b1091aecbbaa-c02
+
+She says medical pods produce clones held in transparent stasis; dormant clones have minimal links to originals and raise ethical concerns.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Infiltradas desde Fuera de la Tierra - Esto es mas Grande que Imagináis - Exponemos Los Hechos](https://swaruu.org/transcripts/infiltradas-desde-fuera-de-la-tierra-esto-es-mas-grande-que-imaginais-exponemos-los-hechos) (2022-06-05; es); passages p0162, p0168, p0170, p0172, p0176. [Structured record](../../records/src-b1091aecbbaa.json).
+
+Related topics: [Medical regeneration pods](medical-pods.md).
+
+### src-e0a9693e485e-c02
+
+Yazhi claimed clones or non-clones under mind control and regressive hybrids reinforce the Matrix; starseeds oppose them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sociedad Holística - Respuestas de Athena y Yazhi - Resumiendo Puntos Clave - Directo con Gosia](https://swaruu.org/transcripts/sociedad-holistica-respuestas-de-athena-y-yazhi-resumiendo-puntos-clave-directo-con-gosia) (2022-03-28; es); passages p0014, p0016, p0020, p0021, p0048. [Structured record](../../records/src-e0a9693e485e.json).
+
+Related topics: [Memory implantation](memory-implantation.md), [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-73356320550c-c01](consciousness-metaphysics.md#src-73356320550c-c01) — Consciousness and metaphysics
@@ -210,10 +230,15 @@ Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 - [src-1efac2564f96-c02](red-queen-ai.md#src-1efac2564f96-c02) — Red Queen AI
 - [src-55aa4da20352-c02](alien-species.md#src-55aa4da20352-c02) — Alien species and distinctions
 - [src-ed934b122dbc-c01](taygetan-parthenogenesis.md#src-ed934b122dbc-c01) — Taygetan parthenogenesis
+- [src-5b78336f9481-c02](dna-metaphysics.md#src-5b78336f9481-c02) — DNA and metaphysical patterns
+- [src-5b78336f9481-c03](dna-metaphysics.md#src-5b78336f9481-c03) — DNA and metaphysical patterns
+- [src-6be48f6d0431-c01](earth-cabal.md#src-6be48f6d0431-c01) — Earth Cabal and power structures
 
 ## Review flags
 
+- Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
 - Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
+- Genetic and chromosome claims are attributed fictional-world assertions
 - Leader-contact claim is attributed to Asket in this transcript.
 - The cloning and genetic-control statements are Swaruu’s claims.
 - abduction-mutilation-claims
@@ -223,6 +248,7 @@ Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 - clone-technology-attributed
 - cryonics-outcomes-speculative
 - death-account:medical-cause-and-ether-dissolution
+- disputed-contact-authenticity-narrative
 - species-labels-uncertain
 - timeline-model-variant:personal-vs-collective
 - translation-counterpart:src-06a1e5437c02-close-full

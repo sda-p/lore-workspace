@@ -64,11 +64,46 @@ Source: [INMINENTE EVENTO SOLAR ASCENSIÓN PLANETARIA ANEEKA DE TEMMER](https://
 
 Related topics: [Galactic high-energy arms](galactic-high-energy-arms.md).
 
+### src-769b9ad6be07-c02
+
+She describes a satellite corridor below Van Allen belts but above atmospheric drag, with a clear access route needed.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Satélites Starlink - Realmente Están Allí? Athena Swaruu informa lo que sabe](https://swaruu.org/transcripts/satelites-starlink-realmente-estan-alli-athena-swaruu-informa-lo-que-sabe) (2022-03-07; es); passages p0046, p0047, p0048, p0049. [Structured record](../../records/src-769b9ad6be07.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-65e909f41f9a-c05
+
+Athena says Van Allen belts shape Earth’s baseline frequency, but people can transcend them. She says they do not block awakening.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [LA MENTE HUMANA Y EL CEREBRO COMO FUNCIONA SEGÚN LOS EXTRATERRESTRES - Swaruunianas - Taygeteanas](https://swaruu.org/transcripts/la-mente-humana-y-el-cerebro-como-funciona-segun-los-extraterrestres-swaruunianas-taygeteanas) (2022-01-12; es); passages p0066, p0068, p0069, p0071, p0078. [Structured record](../../records/src-65e909f41f9a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a32bbe4fc74a-c05
+
+She says Van Allen belts prevent biological craft exiting without toroidal immersion; low orbits risk collisions and drag.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [LA NASA - MISIONES ARTEMISA - ES INVIABLE QUE EL HOMBRE LLEGUE A LA LUNA CON ESA TECNOLOGIA](https://swaruu.org/transcripts/la-nasa-misiones-artemisa-es-inviable-que-el-hombre-llegue-a-la-luna-con-esa-tecnologia) (2022-08-30; es); passages p0075, p0076, p0077, p0078, p0079. [Structured record](../../records/src-a32bbe4fc74a.json).
+
+Related topics: [Starship systems](starship-systems.md), [Artificial portals](artificial-portals.md).
+
 ## Claims filed under other topics
 
 - [src-af62f6070aa7-c02](consciousness-metaphysics.md#src-af62f6070aa7-c02) — Consciousness and metaphysics
+- [src-b0eb8093b751-c03](tiamat.md#src-b0eb8093b751-c03) — Tiamat
 
 ## Review flags
 
+- Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
 - Van Allen belts both set a baseline and can be transcended; preserve distinction.
+- alternative-cosmology-and-chronology-claims
+- claims about memory, brain structure, consciousness, and Van Allen belts are attributed lore, not independently verified facts
+- satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified

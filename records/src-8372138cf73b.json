@@ -1,0 +1,73 @@
+{
+  "source_id": "src-8372138cf73b",
+  "snapshot_sha256": "e9bfb70ab8749a513b0bb01376f32afa3148619fdb24cdf55ff7e64dde64a48d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8372138cf73b-c01",
+      "assertion": "Athena speculated Soviet underground 'nuclear tests' were energy blasts targeting Tartarian refuges, based on overlap with underground-base sites.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0033",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria",
+        "intraterrestrial-civilizations",
+        "energy-generation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She cited Barchenko."
+    },
+    {
+      "id": "src-8372138cf73b-c02",
+      "assertion": "Athena said Tartarian survivors may have retreated underground after an invasion, though she described her supporting evidence as still developing.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0041",
+        "p0076",
+        "p0106"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria",
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She said new data came from her own investigations and remained incomplete."
+    },
+    {
+      "id": "src-8372138cf73b-c03",
+      "assertion": "Athena said Sand Clock navigation uses frequency maps of matter and mass-gravity patterns rather than calendar dates, complicating historical chronology.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0107",
+        "p0108",
+        "p0109",
+        "p0110",
+        "p0115"
+      ],
+      "primary_topic": "sand-clock",
+      "topics": [
+        "sand-clock",
+        "frequency-map-navigation",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said the date requires comparison with other references."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence."
+  ],
+  "coverage_gaps": [
+    "claimed Tartarian physical characteristics",
+    "energy-weapon theory"
+  ]
+}

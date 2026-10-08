@@ -102,16 +102,70 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [TARTARIA ATLANTIDA y LEMURIA CIVILIZACION ANÉEKA DE TEMMER](https://swaruu.org/transcripts/tartaria-atlantida-y-lemuria-civilizacion-aneeka-de-temmer) (2020-11-13; es); passages p0006. [Structured record](../../records/src-40a206133712.json).
 
+### src-52d2d3f49000-c02
+
+She places Tartaria across Siberia and adjacent Eurasian regions, claiming its cities were destroyed between 1700 and the early 20th century, mostly in the mid-19th century.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Tartaria - Historia Terrestre No Encaja como piensan los Humanos - Athena Swaruu (PARTE 1)](https://swaruu.org/transcripts/tartaria-historia-terrestre-no-encaja-como-piensan-los-humanos-athena-swaruu-parte-1) (2022-09-14; es); passages p0023, p0026, p0030, p0031. [Structured record](../../records/src-52d2d3f49000.json).
+
+Related topics: [Civilizational resets](civilizational-resets.md).
+
+### src-52d2d3f49000-c03
+
+Athena describes Tartaria as using zero-point electricity without interstellar capability.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Tartaria - Historia Terrestre No Encaja como piensan los Humanos - Athena Swaruu (PARTE 1)](https://swaruu.org/transcripts/tartaria-historia-terrestre-no-encaja-como-piensan-los-humanos-athena-swaruu-parte-1) (2022-09-14; es); passages p0037, p0038. [Structured record](../../records/src-52d2d3f49000.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-52d2d3f49000-c05
+
+Athena says Tartarian survivors may have retreated underground; she presents this as circumstantial inference. Her account relies on reported claims and map correlations.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: medium.
+
+Source: [Tartaria - Historia Terrestre No Encaja como piensan los Humanos - Athena Swaruu (PARTE 1)](https://swaruu.org/transcripts/tartaria-historia-terrestre-no-encaja-como-piensan-los-humanos-athena-swaruu-parte-1) (2022-09-14; es); passages p0085, p0086, p0087. [Structured record](../../records/src-52d2d3f49000.json).
+
+Related topics: [Intraterrestrial civilizations](intraterrestrial-civilizations.md).
+
+### src-8372138cf73b-c01
+
+Athena speculated Soviet underground 'nuclear tests' were energy blasts targeting Tartarian refuges, based on overlap with underground-base sites. She cited Barchenko.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [TARTARIA UNA CIVILIZACIÓN BORRADA DE LA HISTORIA - Athena Swaruu](https://swaruu.org/transcripts/tartaria-una-civilizacion-borrada-de-la-historia-athena-swaruu) (2022-06-02; es); passages p0033, p0039, p0041. [Structured record](../../records/src-8372138cf73b.json).
+
+Related topics: [Intraterrestrial civilizations](intraterrestrial-civilizations.md), [Energy generation technology](energy-generation.md).
+
+### src-8372138cf73b-c02
+
+Athena said Tartarian survivors may have retreated underground after an invasion, though she described her supporting evidence as still developing. She said new data came from her own investigations and remained incomplete.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [TARTARIA UNA CIVILIZACIÓN BORRADA DE LA HISTORIA - Athena Swaruu](https://swaruu.org/transcripts/tartaria-una-civilizacion-borrada-de-la-historia-athena-swaruu) (2022-06-02; es); passages p0041, p0076, p0106. [Structured record](../../records/src-8372138cf73b.json).
+
+Related topics: [Intraterrestrial civilizations](intraterrestrial-civilizations.md).
+
 ## Claims filed under other topics
 
 - [src-5f504bef5a30-c01](terrestrial-science.md#src-5f504bef5a30-c01) — Terrestrial science
 - [src-5f504bef5a30-c04](galactic-federation.md#src-5f504bef5a30-c04) — Galactic Federation
 - [src-6ce55fb86338-c01](global-deluge.md#src-6ce55fb86338-c01) — Global deluge
 - [src-9afde86ad754-c02](earth-cabal.md#src-9afde86ad754-c02) — Earth Cabal and power structures
+- [src-5b4daa64f189-c03](civilizational-resets.md#src-5b4daa64f189-c03) — Civilizational resets
 
 ## Review flags
 
 - Anéeka says surviving Tartaria evidence is regional and does not appear in offworld archives.
+- Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence.
+- Tartaria chronology and destruction are presented as disputed source claims
+- claims about time, memory, history, and social control are attributed to Yazhi, not independently verified
 - conspiracy\_claims
 - internal-date-tension
 - speaker-speculation

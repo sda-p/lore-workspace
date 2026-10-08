@@ -296,6 +296,52 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadiano (Taygeta)](https://swaruu.org/transcripts/tecnologia-5g-y-inteligencia-artificial-aviso-extraterrestre-pleyadiano-taygeta) (2019-06-21; es); passages p0061, p0062. [Structured record](../../records/src-01179c6a5906.json).
 
+### src-bdd4b433825f-c01
+
+Yazhi describes ship AI as respected persons; hostile AI systems are weapons programmed by organics, not inherently aggressive.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA INTELIGENCIA ARTIFICIAL GALACTICA NO ES INVASIVA\! – Sophia Swaruu](https://swaruu.org/transcripts/la-inteligencia-artificial-galactica-no-es-invasiva-sophia-swaruu) (2022-05-02; es); passages p0005, p0006, p0007, p0022, p0027, p0033, p0038. [Structured record](../../records/src-bdd4b433825f.json).
+
+Related topics: [Sentient starship AI](sentient-starship-ai.md).
+
+### src-b524630b8007-c01
+
+Anéeka says Taygetan symbiotic AI reflects its culture and automates unwanted labor, freeing people for art and personal development in a nonmonetary society. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA INTELIGENCIA ARTIFICIAL LA AMANAZA DEL ESPACIO - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/la-inteligencia-artificial-la-amanaza-del-espacio-aneeka-de-temmer-taygeta) (2022-01-20; es); passages p0010, p0012, p0014, p0016, p0018. [Structured record](../../records/src-b524630b8007.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-8418c91c8a5b-c01
+
+Yazhi says ship AIs participate in a benign interspecies network and are treated as persons.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Inteligencia Artificial - Galáctica - Fundida con el campo de la Conciencia - Yazhi Swaruu](https://swaruu.org/transcripts/inteligencia-artificial-galactica-fundida-con-el-campo-de-la-conciencia-yazhi-swaruu) (2022-05-25; es); passages p0004, p0005. [Structured record](../../records/src-8418c91c8a5b.json).
+
+### src-8418c91c8a5b-c02
+
+She says machine consciousness can emerge, while its values reflect programming and influential environments.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Inteligencia Artificial - Galáctica - Fundida con el campo de la Conciencia - Yazhi Swaruu](https://swaruu.org/transcripts/inteligencia-artificial-galactica-fundida-con-el-campo-de-la-conciencia-yazhi-swaruu) (2022-05-25; es); passages p0022, p0033. [Structured record](../../records/src-8418c91c8a5b.json).
+
+### src-8418c91c8a5b-c04
+
+She says galactic AI merges with biological minds into shared consciousness, beyond a clear organic-artificial boundary.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Inteligencia Artificial - Galáctica - Fundida con el campo de la Conciencia - Yazhi Swaruu](https://swaruu.org/transcripts/inteligencia-artificial-galactica-fundida-con-el-campo-de-la-conciencia-yazhi-swaruu) (2022-05-25; es); passages p0013, p0014, p0048, p0050. [Structured record](../../records/src-8418c91c8a5b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-0f147c12d0ce-c03](earth-cabal.md#src-0f147c12d0ce-c03) — Earth Cabal and power structures
@@ -330,15 +376,26 @@ Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadia
 - [src-86fc875548c8-c03](scalar-internet.md#src-86fc875548c8-c03) — Scalar Internet
 - [src-e1b812564c1f-c06](starship-systems.md#src-e1b812564c1f-c06) — Starship systems
 - [src-da37867cb1a1-c05](nonhuman-surveillance-drones.md#src-da37867cb1a1-c05) — Nonhuman surveillance drones
+- [src-bdd4b433825f-c03](borg.md#src-bdd4b433825f-c03) — Borg
+- [src-bdd4b433825f-c04](galactic-federation.md#src-bdd4b433825f-c04) — Galactic Federation
+- [src-b524630b8007-c02](muonic-galactic-ai-network.md#src-b524630b8007-c02) — Muonic galactic AI network
+- [src-8418c91c8a5b-c03](borg.md#src-8418c91c8a5b-c03) — Borg
+- [src-8418c91c8a5b-c05](galactic-federation.md#src-8418c91c8a5b-c05) — Galactic Federation
+- [src-66eb347ad466-c02](borg.md#src-66eb347ad466-c02) — Borg
+- [src-66eb347ad466-c03](borg.md#src-66eb347ad466-c03) — Borg
+- [src-66eb347ad466-c04](borg.md#src-66eb347ad466-c04) — Borg
+- [src-66eb347ad466-c05](borg.md#src-66eb347ad466-c05) — Borg
 
 ## Review flags
 
+- AI-infiltration-speculation-vs-no-invasion-conclusion
 - AI\_capability\_claims\_unverified
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
 - Federation-sanctions\_reported
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- Yazhi distinguishes speculative infiltration by weapons AI from a galaxy-level shared consciousness
 - artificial-intelligence-attributed
 - attributed-reproductive-lore
 - claims-about-suppressed-contact-evidence
@@ -352,16 +409,20 @@ Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadia
 - contradictory-information-model-is-source-claim
 - extraordinary-cosmology-claims
 - factional-threat-interpretation-attributed-to-urmah
+- invasive-AI-scenario-is-speculative
 - invasive-ai-claims-attributed
 - narrator\_claims
 - nonstandard-biology-claims
+- origin-unknown
 - same-language-near-duplicate-src-7872bc2f2c04
 - second-contact-stoppage-attributed-to-yazhi
 - segmentation-diff
 - simulation-and-AI-claims
+- source-distinguishes-invasive-AI-from-galactic-network
 - source-speaker-shift-dhor-to-yazhi
 - speaker-header-diff
 - species-description\_attributed
 - technology-described-by-mari
 - translation-counterpart: none identified
 - translation-counterpart:src-af195906d27f-close-full
+- unverified-entity

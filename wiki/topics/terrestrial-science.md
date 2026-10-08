@@ -2292,6 +2292,26 @@ Source: [La ciencia Humana - Swaruu de Erra](https://swaruu.org/transcripts/la-c
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-d8771f2c1186-c01
+
+Swaruu (9) described petroleum as a self-renewing mineral produced through water-carbon transmutation inside Earth, rather than fossil remains.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [SUBE EL PRECIO DEL COMBUSTIBLE LO QUE TIENES QUE SABER - EL PETROLEO ES INAGOTABLE - Swaruu de Erra](https://swaruu.org/transcripts/sube-el-precio-del-combustible-lo-que-tienes-que-saber-el-petroleo-es-inagotable-swaruu-de-erra) (2022-07-15; es); passages p0007, p0008, p0019. [Structured record](../../records/src-d8771f2c1186.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-a32bbe4fc74a-c02
+
+She claims ISS videos are mostly studio reruns; some remote footage is real but delayed and censored.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [LA NASA - MISIONES ARTEMISA - ES INVIABLE QUE EL HOMBRE LLEGUE A LA LUNA CON ESA TECNOLOGIA](https://swaruu.org/transcripts/la-nasa-misiones-artemisa-es-inviable-que-el-hombre-llegue-a-la-luna-con-esa-tecnologia) (2022-08-30; es); passages p0023, p0024. [Structured record](../../records/src-a32bbe4fc74a.json).
+
+Related topics: [Secret Space Program](secret-space-program.md).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -2417,11 +2437,20 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-ef805e314080-c02](c-17-globemaster.md#src-ef805e314080-c02) — C-17 Globemaster
 - [src-ef805e314080-c03](c-17-globemaster.md#src-ef805e314080-c03) — C-17 Globemaster
 - [src-ef805e314080-c04](c-17-globemaster.md#src-ef805e314080-c04) — C-17 Globemaster
+- [src-49942a75e76b-c03](consciousness-metaphysics.md#src-49942a75e76b-c03) — Consciousness and metaphysics
+- [src-d8771f2c1186-c02](black-goo.md#src-d8771f2c1186-c02) — Black goo
+- [src-ced4e51128ed-c02](consciousness-metaphysics.md#src-ced4e51128ed-c02) — Consciousness and metaphysics
+- [src-9bdd3d5f2289-c02](earth-cabal.md#src-9bdd3d5f2289-c02) — Earth Cabal and power structures
+- [src-5b52df948628-c01](subterranean-ocean-networks.md#src-5b52df948628-c01) — Subterranean ocean networks
+- [src-ed015e2bb945-c02](energy-generation.md#src-ed015e2bb945-c02) — Energy generation technology
+- [src-ed015e2bb945-c03](galactic-federation.md#src-ed015e2bb945-c03) — Galactic Federation
 
 ## Review flags
 
 - 5g-covid-causality-distinction
+- Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
+- High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - ISS-and-station-fabrication-allegation
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
 - Nibiru\_claim\_conflicts\_with\_other\_sources
@@ -2528,6 +2557,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - radiation-causation-allegations
 - related\_series\_part
 - same-language-near-duplicate-src-7872bc2f2c04
+- satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
 - science\_claims\_unverified\_in\_source
 - secret-aircraft-identification-uncertain
 - segmentation-diff

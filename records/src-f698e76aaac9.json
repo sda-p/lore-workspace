@@ -1,0 +1,93 @@
+{
+  "source_id": "src-f698e76aaac9",
+  "snapshot_sha256": "dab84190370758753b0b1a50011f9a1ce86f1e2405114b9f13ff36149fb52d78",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f698e76aaac9-c01",
+      "assertion": "Athena and Yazhi say earthly forgetting is natural frequency mismatch, like lost dreams; memory-erasure machines are temporary and not used at scale.",
+      "speaker": "Swaruu X (Athena); Yazhi",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "memory-implantation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f698e76aaac9-c02",
+      "assertion": "Athena says reincarnation traps are not literal; self-beliefs and attachments sustain the experience, which awareness can end.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0018",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f698e76aaac9-c03",
+      "assertion": "Athena names an advanced immersion pod as a way to capture soul-attention.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She does not frame this as literal capture of Source."
+    },
+    {
+      "id": "src-f698e76aaac9-c04",
+      "assertion": "Swaruu 9 says frequency containers hold soul-signals until attention shifts; limited results led to artificial souls.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0041",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "memory-implantation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved"
+  ],
+  "coverage_gaps": [
+    "machine-induced memory alteration details",
+    "prenatal agreements and memory translation"
+  ]
+}

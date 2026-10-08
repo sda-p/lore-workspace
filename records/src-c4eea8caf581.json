@@ -1,0 +1,85 @@
+{
+  "source_id": "src-c4eea8caf581",
+  "snapshot_sha256": "69597951aa9689985cf584e419cccb4f5746a0ae973003c215791626d2267371",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c4eea8caf581-c01",
+      "assertion": "Yazhi posits an inverse counterpart universe with reversed energy and gravity flows, where stars correspond to black holes and vice versa.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0013"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4eea8caf581-c02",
+      "assertion": "She says Swarupapriyananda inverted a ship’s frequencies to enter that realm, gathered readings, fled, and died as the vessel was destroyed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0023",
+        "p0025",
+        "p0030"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4eea8caf581-c03",
+      "assertion": "She describes time as observer-relative and non-linear, with events from multiple timelines converging to shape each person’s present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0056",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4eea8caf581-c04",
+      "assertion": "She says worrying about feared outcomes can align someone with them and advises examining thoughts and fears instead of denying them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0043",
+        "p0068"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript presents the reverse-universe account as Yazhi’s cosmological claim and acknowledges she lacks a complete technical explanation."
+  ],
+  "coverage_gaps": [
+    "negative time dilation details",
+    "gamma inversion",
+    "past/future identity cycles",
+    "illness causation claims"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "src-ca8f3655acdd",
+  "snapshot_sha256": "c940d9aa35451e328e334e1dab99937b029a4cb90894cf9e5247cef28ca68441",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ca8f3655acdd-c01",
+      "assertion": "Athena says Hashmallim saw film crews and staged damage near Kyiv, which she calls much war coverage fabricated.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca8f3655acdd-c02",
+      "assertion": "She says suffering and refugees were real, but combat was limited and below media scale.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0014",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0031",
+        "p0034",
+        "p0037"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Brief local clashes remained possible."
+    },
+    {
+      "id": "src-ca8f3655acdd-c03",
+      "assertion": "Alenym reports possible border clashes near evacuated areas; Hashmallim saw no war inland.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca8f3655acdd-c04",
+      "assertion": "Athena admits incomplete information; casualties and prisoner claims remained uncertain.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0027",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca8f3655acdd-c05",
+      "assertion": "She says war narratives amplify fear, division, hatred, and a war economy.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0023",
+        "p0029"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source makes disputed wartime claims based on an asserted brief observation; not independently verified"
+  ],
+  "coverage_gaps": [
+    "alleged bioweapon facilities",
+    "aircraft activity",
+    "specific claims about casualty totals"
+  ]
+}

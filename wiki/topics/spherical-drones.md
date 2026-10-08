@@ -38,6 +38,26 @@ Source: [Chatting with Yazhi Swaruu - September 2024](https://swaruu.org/transcr
 
 Related topics: [Energy generation technology](energy-generation.md).
 
+### src-769b9ad6be07-c03
+
+She speculates observed light trains may be nonhuman craft; common Taygetan spheres are 110 cm across.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: medium.
+
+Source: [Satélites Starlink - Realmente Están Allí? Athena Swaruu informa lo que sabe](https://swaruu.org/transcripts/satelites-starlink-realmente-estan-alli-athena-swaruu-informa-lo-que-sabe) (2022-03-07; es); passages p0032, p0044, p0062. [Structured record](../../records/src-769b9ad6be07.json).
+
+Related topics: [Nonhuman surveillance drones](nonhuman-surveillance-drones.md).
+
+### src-769b9ad6be07-c04
+
+She says these surveillance drones use small zero-point reactors, plasma engines, and gravity cancellation, enabling interstellar travel.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Satélites Starlink - Realmente Están Allí? Athena Swaruu informa lo que sabe](https://swaruu.org/transcripts/satelites-starlink-realmente-estan-alli-athena-swaruu-informa-lo-que-sabe) (2022-03-07; es); passages p0061. [Structured record](../../records/src-769b9ad6be07.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
 ## Claims filed under other topics
 
 - [src-d871754e2d44-c04](starship-systems.md#src-d871754e2d44-c04) — Starship systems
@@ -46,5 +66,6 @@ Related topics: [Energy generation technology](energy-generation.md).
 
 ## Review flags
 
+- Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
 - second-contact-stoppage-attributed-to-yazhi
 - technology-description-unverified

@@ -1,0 +1,43 @@
+{
+  "source_id": "src-ced4e51128ed",
+  "snapshot_sha256": "f7d27dc21640570724c81296372207f8e85a5ea6505ed14fbdb0cbba98be41ca",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ced4e51128ed-c01",
+      "assertion": "Yazhi said recalling past-life memories can clarify unconscious patterns, but releasing attachments and accepting experience may also reduce their influence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0006", "p0026", "p0027", "p0031", "p0042", "p0044"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "dna-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said remembering every past life was not necessary."
+    },
+    {
+      "id": "src-ced4e51128ed-c02",
+      "assertion": "Yazhi attributed perceived solidity to electromagnetic repulsion and said neutrality toward positive and negative states could remove the wall in her model.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0011", "p0012", "p0013"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "terrestrial-science"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She linked this to unconscious attachments and mental state."
+    },
+    {
+      "id": "src-ced4e51128ed-c03",
+      "assertion": "Yazhi said unconscious beliefs and identity shape perception, and described imagination as the basis of reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0013", "p0024", "p0026"],
+      "primary_topic": "perceptual-density",
+      "topics": ["perceptual-density", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Yazhi's own upbringing outside a Matrix", "happiness and spiritual work"]
+}

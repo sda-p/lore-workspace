@@ -140,6 +140,56 @@ Source: [EL RESET PLANETARIO - EL GEN DE LA ESPIRITUALIDAD - ANEEKA DE TEMMER - 
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-b537b1865940-c02
+
+She says past-life memories may differ between partners, and some apparent memories can map shared future experiences rather than past ones. She says broad memory differences are uncommon.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Almas Gemelas - Metafisica Avanzada - Athena Swaruu](https://swaruu.org/transcripts/almas-gemelas-metafisica-avanzada-athena-swaruu) (2022-07-22; es); passages p0044, p0045, p0049, p0054, p0056. [Structured record](../../records/src-b537b1865940.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b537b1865940-c03
+
+Athena attributes perceived repeating-life loops to attachments; releasing them dissolves loops and lets people form their future. Her account links loops to forgotten past-life causes.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Almas Gemelas - Metafisica Avanzada - Athena Swaruu](https://swaruu.org/transcripts/almas-gemelas-metafisica-avanzada-athena-swaruu) (2022-07-22; es); passages p0059, p0061, p0062, p0064, p0066, p0067. [Structured record](../../records/src-b537b1865940.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2496c5717d1f-c02
+
+Athena says postmortem rebirth traps arise from soul-self attachments rather than literal machines, though advanced immersion pods can capture attention. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Existen Trampas para las Almas y Maquinas de Borrado de Memorias? - Athena Swaruu](https://swaruu.org/transcripts/existen-trampas-para-las-almas-y-maquinas-de-borrado-de-memorias-athena-swaruu) (2022-08-08; es); passages p0018, p0019, p0021, p0023. [Structured record](../../records/src-2496c5717d1f.json).
+
+Related topics: [Immersion pods](immersion-pods.md).
+
+### src-8d5449505ff0-c05
+
+Yazhi says souls enter Earth experiences through prior choice and compatibility, making determinism an intended experience.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA FAMOSA ASCENSIÓN PLANETARIA- EL INCONSCIENTE COLECTIVO - Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/la-famosa-ascension-planetaria-el-inconsciente-colectivo-sophia-swaruu-yazhi) (2022-05-03; es); passages p0032, p0033, p0039. [Structured record](../../records/src-8d5449505ff0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-375ee3e4cf1f-c05
+
+Yazhi says trauma crosses reincarnations and hardships can expand consciousness. At some levels.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu y los Asuntos del Pasado Humano - Influencias Perceptuales y de Laboratorio](https://swaruu.org/transcripts/yazhi-swaruu-y-los-asuntos-del-pasado-humano-influencias-perceptuales-y-de-laboratorio) (2021-12-18; es); passages p0018, p0020, p0035. [Structured record](../../records/src-375ee3e4cf1f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-de139e50d05b-c02](postmortem-realities.md#src-de139e50d05b-c02) — Postmortem realities
@@ -156,9 +206,14 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-ed934b122dbc-c05](consciousness-metaphysics.md#src-ed934b122dbc-c05) — Consciousness and metaphysics
 - [src-ca97c59fa762-c04](consciousness-metaphysics.md#src-ca97c59fa762-c04) — Consciousness and metaphysics
 - [src-417359a5f6a0-c01](frequency-astrology.md#src-417359a5f6a0-c01) — Frequency-based astrology
+- [src-b537b1865940-c01](consciousness-metaphysics.md#src-b537b1865940-c01) — Consciousness and metaphysics
+- [src-2496c5717d1f-c01](perceptual-density.md#src-2496c5717d1f-c01) — Perceptual density
+- [src-2496c5717d1f-c03](immersion-pods.md#src-2496c5717d1f-c03) — Immersion pods
+- [src-9021de63c829-c04](astral-entities.md#src-9021de63c829-c04) — Astral entities
 
 ## Review flags
 
+- Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
 - DNA-consciousness-causality-claim
 - afterlife-claims-are-source-model
 - anti-vaccine-conspiracy-claims
@@ -176,10 +231,12 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - pandemic-and-political-claims-excluded
 - pandemic-claims-excluded
 - perspective-dependent-claims
+- planetary ascension is framed as perspective-dependent perception
 - postmortem-reincarnation-model
 - reincarnation-and-catholic-control-claim
 - reincarnation-cosmology-attributed
 - same-language-counterpart:src-cb51273860c3-wording-diff-agresivos
+- speaker-model-divergence-Athena-vs-Swaruu9
 - starseed-identity-and-mission-attributed
 - timeline-model-variant:personal-vs-collective
 - translation-counterpart:src-06a1e5437c02-close-full

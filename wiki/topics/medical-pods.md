@@ -91,6 +91,7 @@ Related topics: [Interdimensional parasites](interdimensional-parasites.md).
 - [src-543fe68707e6-c04](andromedans.md#src-543fe68707e6-c04) — Andromedans
 - [src-28c3fd0534dc-c02](perceptual-density.md#src-28c3fd0534dc-c02) — Perceptual density
 - [src-01886647014f-c02](compressed-sound-cutting.md#src-01886647014f-c02) — Compressed-sound cutting
+- [src-b1091aecbbaa-c02](human-clones.md#src-b1091aecbbaa-c02) — Human clones and manufactured persons
 
 ## Review flags
 

@@ -1,0 +1,99 @@
+{
+  "source_id": "src-5b4daa64f189",
+  "snapshot_sha256": "681d86348c8281d9199637756c81d838be651c67ea41c3df6a4c606707eecf1c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5b4daa64f189-c01",
+      "assertion": "Yazhi says outsiders can perceive Roman and Renaissance eras together because they lack Earth’s shared reality agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0032",
+        "p0035",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She calls external time plastic."
+    },
+    {
+      "id": "src-5b4daa64f189-c02",
+      "assertion": "Yazhi says controllers impose shared rules then fracture beliefs to divide and exploit groups.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Fear can make conflict harmful."
+    },
+    {
+      "id": "src-5b4daa64f189-c03",
+      "assertion": "Yazhi says humans repeat errors because past-life memories are absent and history is falsified; resets prevent learning.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "civilizational-resets",
+      "topics": [
+        "civilizational-resets",
+        "memory-veil",
+        "tartaria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b4daa64f189-c04",
+      "assertion": "Yazhi describes past-life forgetting as etheric-physical frequency mismatch, like dreams not recalled.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "ether-field"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She rejects a memory-erasing machine."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "claims about time, memory, history, and social control are attributed to Yazhi, not independently verified"
+  ],
+  "coverage_gaps": [
+    "collective-reality richness",
+    "religious and historical examples",
+    "specific Roman-Renaissance travel account"
+  ]
+}

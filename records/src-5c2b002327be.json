@@ -1,0 +1,99 @@
+{
+  "source_id": "src-5c2b002327be",
+  "snapshot_sha256": "025aad238f651f8540be31dd7c4acf8c220556b86b9890a2bf6edef2a4b90caf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5c2b002327be-c01",
+      "assertion": "Yazhi characterizes Ukraine's war as controlled conflict serving elite geopolitical aims, arms testing, and war-economy interests.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0011",
+        "p0012",
+        "p0016"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her account."
+    },
+    {
+      "id": "src-5c2b002327be-c02",
+      "assertion": "Yazhi claims Cabal factions control both Russia and Western sides while contending internally.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "ukraine"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c2b002327be-c03",
+      "assertion": "Yazhi says controlled mass media magnifies conflicts and shapes public perceptions through repeated narratives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0021",
+        "p0027"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "ukraine"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c2b002327be-c04",
+      "assertion": "Yazhi says the Cabal fears public awareness and wants to reset humanity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "planetary-matrix-resets"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c2b002327be-c05",
+      "assertion": "Yazhi urges people to think independently, saying humans tend to prefer being guided.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "claims about the Bolshevik revolution and specific alleged media fabrications omitted"
+  ]
+}

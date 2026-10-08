@@ -66,11 +66,63 @@ Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-2ebd8e231c94-c02
+
+She says Baghdad Museum stores reportedly held three Elohi portals, two operable; the count was unverified.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [OCULTADA ALTA TECNOLOGÍA SUMERIA DE PORTALES - IRAQ - Swaruu de Erra](https://swaruu.org/transcripts/ocultada-alta-tecnologia-sumeria-de-portales-iraq-swaruu-de-erra) (2022-07-31; es); passages p0014, p0015. [Structured record](../../records/src-2ebd8e231c94.json).
+
+### src-2ebd8e231c94-c03
+
+She relays witnesses’ account that military convoys removed metal-ring portals from the museum. Witness account; not independently verified.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [OCULTADA ALTA TECNOLOGÍA SUMERIA DE PORTALES - IRAQ - Swaruu de Erra](https://swaruu.org/transcripts/ocultada-alta-tecnologia-sumeria-de-portales-iraq-swaruu-de-erra) (2022-07-31; es); passages p0015, p0016. [Structured record](../../records/src-2ebd8e231c94.json).
+
+### src-2ebd8e231c94-c04
+
+Swaruu 9 did not know whether the Elohi portals still worked; she said the U.S. wanted to reverse-engineer them and keep them from the public.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [OCULTADA ALTA TECNOLOGÍA SUMERIA DE PORTALES - IRAQ - Swaruu de Erra](https://swaruu.org/transcripts/ocultada-alta-tecnologia-sumeria-de-portales-iraq-swaruu-de-erra) (2022-07-31; es); passages p0023, p0044. [Structured record](../../records/src-2ebd8e231c94.json).
+
+### src-a6c6ae12245f-c02
+
+Swaruu X (Athena) said advanced civilizations build precise wormholes, while natural portals aid stealth and heavy-ship transit.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Extraterrestres Navegando los Portales - Sol y Agujeros de Gusano - Athena Swaruu](https://swaruu.org/transcripts/extraterrestres-navegando-los-portales-sol-y-agujeros-de-gusano-athena-swaruu) (2022-02-23; es); passages p0016, p0017, p0018. [Structured record](../../records/src-a6c6ae12245f.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Starship systems](starship-systems.md).
+
+### src-947a557da420-c03
+
+Swaruu X (Athena) said advanced civilizations such as Taygeta can create precise artificial wormholes for direct travel, while natural portals remain useful in some situations.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Naves Extraterrestres salen del sol - Athena Swaruu - Taygeta](https://swaruu.org/transcripts/naves-extraterrestres-salen-del-sol-athena-swaruu-taygeta) (2022-01-30; es); passages p0034, p0035. [Structured record](../../records/src-947a557da420.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-a67fb92e8975-c04](starship-systems.md#src-a67fb92e8975-c04) — Starship systems
+- [src-2ebd8e231c94-c01](sumerian-tablet-interpretations.md#src-2ebd8e231c94-c01) — Sumerian tablet interpretations
+- [src-a32bbe4fc74a-c05](van-allen-belts.md#src-a32bbe4fc74a-c05) — Van Allen belts
+- [src-e10b7b1c1712-c02](pyramid-network.md#src-e10b7b1c1712-c02) — Pyramid energy and portal network
 
 ## Review flags
 
 - Eye of Horus interpretation is attributed to Swaruu 9.
+- lore-claims-attributed
+- portal-count-unverified
+- pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified
+- satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
 - translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control
+- witness-account

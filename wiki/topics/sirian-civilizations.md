@@ -48,6 +48,10 @@ Source: [RAZAS EXTRATERRESTRES en 5D (5) - SIRIANOS (Mensaje Pleyadiano-TAYGETA)
 
 Related topics: [Taygetans](taygetans.md), [Starship systems](starship-systems.md).
 
+## Claims filed under other topics
+
+- [src-f94fd5d77808-c04](europa.md#src-f94fd5d77808-c04) — Europa
+
 ## Review flags
 
 - sirian-group-includes-distinct-species

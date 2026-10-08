@@ -1,0 +1,71 @@
+{
+  "source_id": "src-d1468a88293b",
+  "snapshot_sha256": "b301846d53758475c639657ce168d7569f3472826982b2bba44e3b9134ce11c1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d1468a88293b-c01",
+      "assertion": "Swaruu X (Athena) said the Cabal controlled both sides and considered a NATO-Russia war a possible false-flag escalation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0033",
+        "p0035",
+        "p0038"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She could not predict whether it would occur."
+    },
+    {
+      "id": "src-d1468a88293b-c02",
+      "assertion": "She alleged Ukrainian forces or infiltrators staged atrocities to blame Russia and win Western support.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0021",
+        "p0023",
+        "p0046",
+        "p0050"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She could not confirm US or NATO involvement."
+    },
+    {
+      "id": "src-d1468a88293b-c03",
+      "assertion": "She reported NATO deployments around Poland and large numbers of aircraft from both sides.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She could not see inside Ukraine."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about the 2022 war and alleged false flags are attributed to Swaruu X (Athena); her account is not independently evidenced in the transcript."
+  ],
+  "coverage_gaps": [
+    "refugee narratives",
+    "alleged NATO and Russian positions"
+  ]
+}

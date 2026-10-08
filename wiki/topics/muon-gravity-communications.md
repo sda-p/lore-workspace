@@ -88,12 +88,26 @@ Source: [Pods de Inmersiones 1 - Tecnología Extraterrestre Avanzada de Multi Us
 
 Related topics: [Immersion pods](immersion-pods.md).
 
+### src-b6d4df9b3066-c04
+
+Anéeka says muon-gravitational signals can traverse any distance but affect only brains concordant with the signal.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL CONTROL MENTAL LIMITA TUS CAPACIDADES - Aneeka - Yazhi - Athena - Swaruu](https://swaruu.org/transcripts/el-control-mental-limita-tus-capacidades-aneeka-yazhi-athena-swaruu) (2022-07-11; es); passages p0091, p0092, p0093. [Structured record](../../records/src-b6d4df9b3066.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-a6ebb6326b6a-c02](immersion-pods.md#src-a6ebb6326b6a-c02) — Immersion pods
+- [src-33cfa6ed8fcd-c03](muonic-galactic-ai-network.md#src-33cfa6ed8fcd-c03) — Muonic galactic AI network
+- [src-a49e51e7bd80-c03](muonic-galactic-ai-network.md#src-a49e51e7bd80-c03) — Muonic galactic AI network
 
 ## Review flags
 
+- Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
+- Claims about invasive AI and the galactic network are attributed to the speakers; the transcript provides no independent evidence.
 - communication-tech-claims-attributed
 - particle-vs-carrier-speed-distinction
 - possible-overlap-with-src-cd1fcaa78711

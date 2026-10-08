@@ -1,0 +1,51 @@
+{
+  "source_id": "src-bc05542885cf",
+  "snapshot_sha256": "e7bf0e51c82dc7485e4e03404ebf3e8386f3a6c5b510cd8030f55ce574645cfd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bc05542885cf-c01",
+      "assertion": "Yazhi first proposed that electromagnetic brain-frequency manipulation could induce animal movements; a later update says the videos were likely fabricated, with no sensor evidence of animal-directed control, though she reports suspected control of human groups.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0009",
+        "p0036"
+      ],
+      "primary_topic": "gwen-towers",
+      "topics": [
+        "gwen-towers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her later update qualifies the earlier explanation."
+    },
+    {
+      "id": "src-bc05542885cf-c02",
+      "assertion": "She says birds may be especially susceptible because of magnetic navigation sensors, and that awareness can resist imposed signals, though sufficiently strong signals may overwhelm it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0016",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "gwen-towers",
+      "topics": [
+        "gwen-towers"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Later update materially revises the earlier animal-control explanation; retain chronology and qualification."
+  ],
+  "coverage_gaps": [
+    "other examples of alleged crowd control",
+    "channeling discussion"
+  ]
+}

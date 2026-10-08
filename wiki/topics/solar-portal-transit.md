@@ -99,6 +99,8 @@ Source: [No Localidad - No Hay Espacio - Todo esta AQUI - Yazhi Swaruu (Contacto
 ## Claims filed under other topics
 
 - [src-df0b18054ec1-c02](ancient-egypt.md#src-df0b18054ec1-c02) — Ancient Egypt
+- [src-a6c6ae12245f-c03](black-holes.md#src-a6c6ae12245f-c03) — Black holes
+- [src-a6c6ae12245f-c04](stellar-navigation.md#src-a6c6ae12245f-c04) — Stellar navigation
 
 ## Review flags
 

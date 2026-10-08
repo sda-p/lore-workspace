@@ -1498,6 +1498,204 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/mujer-extraterrestre-me-habla-de-exopolitica-para-adultos-aneeka-de-temmer) (2021-08-29; es); passages p0022. [Structured record](../../records/src-ef24a86c3200.json).
 
+### src-4ff159251d90-c02
+
+She urges listeners to compare official and alternative sources, form independent judgments, and follow their own conscience without yielding to fear or authority. Her advice.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tertulia Aniversario - 4 Años de Contacto - 31 Preguntas, una Sorpresa, y Mensaje de Aneeka](https://swaruu.org/transcripts/tertulia-aniversario-4-anos-de-contacto-31-preguntas-una-sorpresa-y-mensaje-de-aneeka) (2021-12-24; es); passages p0010, p0011, p0013. [Structured record](../../records/src-4ff159251d90.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-59c853fbd4b4-c02
+
+She describes Taygeta’s flagship as dual-command, with Alenym civil and Eridania Yelena military.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ENTREVISTA A UNA MUJER EXTRATERRESTRE - SOMOS REALES - Aneeka de Temmer \#Taygeta](https://swaruu.org/transcripts/entrevista-a-una-mujer-extraterrestre-somos-reales-aneeka-de-temmer-taygeta) (2022-06-21; es); passages p0072. [Structured record](../../records/src-59c853fbd4b4.json).
+
+### src-7d45f5f944a1-c01
+
+Yazhi defines holistic society as an emergent reflection of people’s ethical, moral, and spiritual development, not an imposed model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [SOCIEDAD HOLÍSTICA - PRIMERA PARTE - SOPHIA SWARUU - YAZHI](https://swaruu.org/transcripts/sociedad-holistica-primera-parte-sophia-swaruu-yazhi) (2022-03-19; es); passages p0005, p0030, p0031, p0045. [Structured record](../../records/src-7d45f5f944a1.json).
+
+### src-7d45f5f944a1-c02
+
+She says governance mirrors collective mentality; disengagement lets self-interested elites recreate tyranny.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [SOCIEDAD HOLÍSTICA - PRIMERA PARTE - SOPHIA SWARUU - YAZHI](https://swaruu.org/transcripts/sociedad-holistica-primera-parte-sophia-swaruu-yazhi) (2022-03-19; es); passages p0007, p0009, p0013, p0042. [Structured record](../../records/src-7d45f5f944a1.json).
+
+### src-7d45f5f944a1-c03
+
+She says service to others must include self-care; imposed altruism can exploit sincere people.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [SOCIEDAD HOLÍSTICA - PRIMERA PARTE - SOPHIA SWARUU - YAZHI](https://swaruu.org/transcripts/sociedad-holistica-primera-parte-sophia-swaruu-yazhi) (2022-03-19; es); passages p0036, p0037, p0038, p0039. [Structured record](../../records/src-7d45f5f944a1.json).
+
+### src-7d45f5f944a1-c04
+
+Yazhi says holistic development needs unrestricted information, diverse perspectives, and independent judgment rather than truth monopolies.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [SOCIEDAD HOLÍSTICA - PRIMERA PARTE - SOPHIA SWARUU - YAZHI](https://swaruu.org/transcripts/sociedad-holistica-primera-parte-sophia-swaruu-yazhi) (2022-03-19; es); passages p0046, p0047, p0050, p0053. [Structured record](../../records/src-7d45f5f944a1.json).
+
+### src-e0a9693e485e-c03
+
+Athena said holistic society should emerge from people’s consciousness; local projects can model it but need wider coordination. She said local efforts alone have limited reach.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Sociedad Holística - Respuestas de Athena y Yazhi - Resumiendo Puntos Clave - Directo con Gosia](https://swaruu.org/transcripts/sociedad-holistica-respuestas-de-athena-y-yazhi-resumiendo-puntos-clave-directo-con-gosia) (2022-03-28; es); passages p0051, p0052, p0054, p0055, p0063, p0065. [Structured record](../../records/src-e0a9693e485e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e0a9693e485e-c04
+
+Athena said isolated communities face resource and security limits; removing money can increase vulnerability. She still encouraged local efforts.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Sociedad Holística - Respuestas de Athena y Yazhi - Resumiendo Puntos Clave - Directo con Gosia](https://swaruu.org/transcripts/sociedad-holistica-respuestas-de-athena-y-yazhi-resumiendo-puntos-clave-directo-con-gosia) (2022-03-28; es); passages p0057, p0058, p0059, p0060. [Structured record](../../records/src-e0a9693e485e.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-12823666aeee-c02
+
+Yazhi said people sharing a vision could form agreements that support a more positive society, while duality and conflict remain.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE LES VENDEN POR \#ASCENSIÓN PLANETARIA - La Quinta Densidad - \#5D – SOPHIA SWARUU - \#NUEVAERA](https://swaruu.org/transcripts/lo-que-les-venden-por-ascension-planetaria-la-quinta-densidad-5d-sophia-swaruu-nuevaera) (2021-11-19; es); passages p0010, p0014. [Structured record](../../records/src-12823666aeee.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
+### src-226904c4f73e-c02
+
+Yazhi said a numerical majority is unnecessary for change; aligned people can form communities and focus on shared aims to reshape collective beliefs.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UN GRAN PODER CONLLEVA UNA GRAN RESPONSABILIDAD - Sophia Swaruu](https://swaruu.org/transcripts/un-gran-poder-conlleva-una-gran-responsabilidad-sophia-swaruu) (2022-03-04; es); passages p0017, p0022, p0024, p0026. [Structured record](../../records/src-226904c4f73e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-226904c4f73e-c03
+
+Yazhi described a holographic society as locally adaptable and grounded in mutual aid, with members supporting one another while balancing personal needs.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UN GRAN PODER CONLLEVA UNA GRAN RESPONSABILIDAD - Sophia Swaruu](https://swaruu.org/transcripts/un-gran-poder-conlleva-una-gran-responsabilidad-sophia-swaruu) (2022-03-04; es); passages p0032, p0034, p0035, p0045, p0046. [Structured record](../../records/src-226904c4f73e.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-8636b4bb3446-c01
+
+Yazhi says holistic society rests on a population’s overall mindset; ethics and spirituality vary by group and resist fixed definitions.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mujer Extraterrestre Explica como funciona “la Política” Fuera de la Tierra -Sociedad Holística](https://swaruu.org/transcripts/mujer-extraterrestre-explica-como-funciona-la-politica-fuera-de-la-tierra-sociedad-holistica) (2022-03-26; es); passages p0003, p0005, p0006, p0009. [Structured record](../../records/src-8636b4bb3446.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8636b4bb3446-c02
+
+She says gradual transition systems can improve life without genocide, while genuine holistic society requires consciousness evolution and cannot be imposed.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mujer Extraterrestre Explica como funciona “la Política” Fuera de la Tierra -Sociedad Holística](https://swaruu.org/transcripts/mujer-extraterrestre-explica-como-funciona-la-politica-fuera-de-la-tierra-sociedad-holistica) (2022-03-26; es); passages p0028, p0029, p0031, p0034, p0050, p0051, p0062. [Structured record](../../records/src-8636b4bb3446.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-98f45fed7656-c01
+
+Yazhi says holistic society rests on a population’s overall mindset; ethics and spirituality vary by group and resist fixed definitions.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad "Holográfica" - Holística - Sociedades Transicionales son Posibles - Yazhi Swaruu](https://swaruu.org/transcripts/sociedad-holografica-holistica-sociedades-transicionales-son-posibles-yazhi-swaruu) (2022-03-26; es); passages p0003, p0005, p0006, p0009. [Structured record](../../records/src-98f45fed7656.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-98f45fed7656-c02
+
+She says gradual transition systems can improve life without genocide, while genuine holistic society requires consciousness evolution and cannot be imposed.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad "Holográfica" - Holística - Sociedades Transicionales son Posibles - Yazhi Swaruu](https://swaruu.org/transcripts/sociedad-holografica-holistica-sociedades-transicionales-son-posibles-yazhi-swaruu) (2022-03-26; es); passages p0028, p0029, p0031, p0034, p0050, p0051, p0062. [Structured record](../../records/src-98f45fed7656.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7ff15150434a-c04
+
+In Taygeta, High Council rules restrict insertion technology; artisanal work predominates because overreliance risks ethical manipulation and social stagnation.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar 3 - Insertando Objetos en la Matrix - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-3-insertando-objetos-en-la-matrix-athena-swaruu) (2022-06-27; es); passages p0091, p0093, p0097, p0099, p0105, p0106. [Structured record](../../records/src-7ff15150434a.json).
+
+Related topics: [Taygetans](taygetans.md), [Matrix energy insertion](matrix-energy-insertion.md).
+
+### src-85df30bab80f-c01
+
+Yazhi says holistic society emerges from a population’s shared consciousness; imposing it turns it into an oppressive system.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad "Holográfica" - Holística - Preparación Espiritual y Ética es la Clave - Yazhi Swaruu](https://swaruu.org/transcripts/sociedad-holografica-holistica-preparacion-espiritual-y-etica-es-la-clave-yazhi-swaruu) (2022-03-20; es); passages p0007, p0008, p0009, p0031, p0041, p0045. [Structured record](../../records/src-85df30bab80f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-85df30bab80f-c02
+
+She says transitional political models can prepare a population but remain temporary patches, reflecting local consciousness and remaining prone to regression.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad "Holográfica" - Holística - Preparación Espiritual y Ética es la Clave - Yazhi Swaruu](https://swaruu.org/transcripts/sociedad-holografica-holistica-preparacion-espiritual-y-etica-es-la-clave-yazhi-swaruu) (2022-03-20; es); passages p0056, p0070, p0071, p0072. [Structured record](../../records/src-85df30bab80f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-85df30bab80f-c04
+
+Yazhi proposes nonhuman mentors from holistic societies as outside help to redirect Earth’s self-reinforcing social cycle, possibly covertly.
+
+Attributed to **Yazhi Swaruu**; speculative; extraction confidence: high.
+
+Source: [Sociedad "Holográfica" - Holística - Preparación Espiritual y Ética es la Clave - Yazhi Swaruu](https://swaruu.org/transcripts/sociedad-holografica-holistica-preparacion-espiritual-y-etica-es-la-clave-yazhi-swaruu) (2022-03-20; es); passages p0060, p0061, p0068. [Structured record](../../records/src-85df30bab80f.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-0a57940b9e27-c04
+
+Yazhi says Earth’s transition follows frequency compatibility and a holographic society requires gradual consciousness change; she calls mass killing unnecessary.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Zombificación de la humanidad y el Pulsa Denura - Zombies - Sophia Swaruu](https://swaruu.org/transcripts/zombificacion-de-la-humanidad-y-el-pulsa-denura-zombies-sophia-swaruu) (2022-02-27; es); passages p0056, p0071, p0072, p0074, p0076. [Structured record](../../records/src-0a57940b9e27.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-87bee905e958-c02
+
+Anéeka favors holistic, matriarchal government, contingent on human readiness and choice.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federacion Galactica los Amos del Mundo - Preguntas y Respuestas - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-los-amos-del-mundo-preguntas-y-respuestas-aneeka-de-temmer) (2021-12-17; es); passages p0005. [Structured record](../../records/src-87bee905e958.json).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -1566,20 +1764,31 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - [src-eb16750d6a08-c03](holographic-computers.md#src-eb16750d6a08-c03) — Holographic computers
 - [src-6e854bde7448-c04](alcyone-council.md#src-6e854bde7448-c04) — Alcyone Council
 - [src-78ab0bda1cd0-c04](consciousness-metaphysics.md#src-78ab0bda1cd0-c04) — Consciousness and metaphysics
+- [src-fd0bbccdb853-c03](temporal-skipping.md#src-fd0bbccdb853-c03) — Temporal skipping
+- [src-b524630b8007-c01](artificial-intelligence.md#src-b524630b8007-c01) — Artificial intelligence
+- [src-33cfa6ed8fcd-c01](galactic-federation.md#src-33cfa6ed8fcd-c01) — Galactic Federation
+- [src-8636b4bb3446-c03](earth-cabal.md#src-8636b4bb3446-c03) — Earth Cabal and power structures
+- [src-98f45fed7656-c03](earth-cabal.md#src-98f45fed7656-c03) — Earth Cabal and power structures
+- [src-85df30bab80f-c03](economics.md#src-85df30bab80f-c03) — Economics and resources
+- [src-9fb50ae5b7f5-c01](taygetans.md#src-9fb50ae5b7f5-c01) — Taygetans
 
 ## Review flags
 
 - 3d-vs-higher-density-wishes
 - Australian-traffic-purpose-unknown
+- Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
+- Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
+- Contact directives are described from Anéeka’s 2020 perspective.
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-arguments\_reported
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Senetre-diagnosed-weapon-route-suspected
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
+- Yazhi proposes nonhuman tutoring, then says people should not wait for outside help.
 - agenda\_term\_varies
 - approximate-age-estimate
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
@@ -1618,7 +1827,9 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - holographic-governance-description-attributed
 - ideological-commentary
 - incomplete-investigation
+- internal-tension:population-change
 - intervention\_tension
+- invasive-AI-scenario-is-speculative
 - manifestation\_mechanics
 - matrix\_scope
 - medical-and-abduction-claims-excluded
@@ -1629,6 +1840,7 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
 - objective-versus-personal-reality-framing
+- p0027 says most inhabitants must die; p0051–53 clarify social change need not mean killing or genocide
 - personal\_advice
 - personal\_metaphysics
 - personal\_philosophy
@@ -1643,6 +1855,7 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - related\_series\_part
 - reported\_plan
 - royal-selection-and-symbolism-attributed
+- same-language transcript counterpart: src-8636b4bb3446; all 92 paragraph texts match except title
 - same-language-near-duplicate-src-735f991fe169
 - scenario-outcomes-and-intervention-threshold
 - self-reported-traits
@@ -1653,6 +1866,7 @@ Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEK
 - taygetan-society-claims-attributed
 - technology-described-by-mari
 - technology\_claims
+- terrestrial-censorship-claim
 - translated-originally-Spanish
 - translated\_source
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025

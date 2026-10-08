@@ -184,6 +184,14 @@ Source: [Marte&Tierra - Que hay en Marte? - Información Extraterrestre - Swaruu
 
 Related topics: [Alpha Draconians](alpha-draconians.md), [Mars](mars.md).
 
+### src-fb8fca342865-c03
+
+Anéeka says Maitre directs the operation, with Reptiles as allies, to exploit humans.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL HOMO CAPENSIS TIENEN TRATADOS CON LOS REPTILES - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/el-homo-capensis-tienen-tratados-con-los-reptiles-aneeka-de-temmer-taygeta) (2022-02-04; es); passages p0033, p0035, p0037. [Structured record](../../records/src-fb8fca342865.json).
+
 ## Claims filed under other topics
 
 - [src-72696c075fca-c04](galactic-federation.md#src-72696c075fca-c04) — Galactic Federation
@@ -196,6 +204,11 @@ Related topics: [Alpha Draconians](alpha-draconians.md), [Mars](mars.md).
 - [src-f692b0750026-c05](galactic-federation.md#src-f692b0750026-c05) — Galactic Federation
 - [src-7e10fbdcd1c5-c04](mars.md#src-7e10fbdcd1c5-c04) — Mars
 - [src-c57cf7f12530-c02](mars.md#src-c57cf7f12530-c02) — Mars
+- [src-83d0afc07ef6-c03](mars.md#src-83d0afc07ef6-c03) — Mars
+- [src-fb8fca342865-c01](alien-species.md#src-fb8fca342865-c01) — Alien species and distinctions
+- [src-dff574e82d59-c04](mars.md#src-dff574e82d59-c04) — Mars
+- [src-e9adfed45e60-c01](alien-species.md#src-e9adfed45e60-c01) — Alien species and distinctions
+- [src-e9adfed45e60-c03](earth-cabal.md#src-e9adfed45e60-c03) — Earth Cabal and power structures
 
 ## Review flags
 
@@ -203,7 +216,9 @@ Related topics: [Alpha Draconians](alpha-draconians.md), [Mars](mars.md).
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Species summaries are broad and based on accounts attributed to orbital sources
 - abduction-mutilation-claims
+- aliens-removed-from-quadrant-claim
 - antarctic-base-conspiracy-claims
+- claims-attributed-to-Athena
 - faction-taxonomy-and-levels-attributed
 - federation-level-claims-attributed
 - hidden-inner-earth-entrance-claim
@@ -213,6 +228,9 @@ Related topics: [Alpha Draconians](alpha-draconians.md), [Mars](mars.md).
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - reported arrival date conflicts with article chronology
 - source includes conflicting publication and event dates; claims retain stated dates
+- source makes unverified claims about extraterrestrial warfare and Federation involvement
+- source-disputes-current-liberation-narrative
+- source-says-speaker-has-not-seen-regressive-groups
 - species-labels-uncertain
 - uncertain-human-versus-nonhuman-mutilation-cause
 - venus-physical-description-differs-from-earth-science

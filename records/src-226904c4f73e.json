@@ -1,0 +1,43 @@
+{
+  "source_id": "src-226904c4f73e",
+  "snapshot_sha256": "40a9ac1bc9117f914cbd238d2b40e161b8552c2b3efeeb23e46db2fcd0e25a9e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-226904c4f73e-c01",
+      "assertion": "Yazhi said Earth's collective choices shape its reality; people should act rather than wait for outside rescuers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0007", "p0009", "p0010", "p0029"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-226904c4f73e-c02",
+      "assertion": "Yazhi said a numerical majority is unnecessary for change; aligned people can form communities and focus on shared aims to reshape collective beliefs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0017", "p0022", "p0024", "p0026"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-226904c4f73e-c03",
+      "assertion": "Yazhi described a holographic society as locally adaptable and grounded in mutual aid, with members supporting one another while balancing personal needs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0032", "p0034", "p0035", "p0045", "p0046"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "economics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["political systems proposal", "individual action examples"]
+}

@@ -1,0 +1,109 @@
+{
+  "source_id": "src-0f5047c8c5f2",
+  "snapshot_sha256": "6bf00cdf03690e3304cebf277ae4f7959ba571148f76915b57dbd4087b2fe122",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0f5047c8c5f2-c01",
+      "assertion": "Athena says ships use staged hyperspace frequency-map routes for safety and detours, while portals jump directly.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "ship-internal-time",
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f5047c8c5f2-c02",
+      "assertion": "She says heavy ships need staged shifts as outer parts change frequency before inner mass; fighters jump instantly.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "suzy-class-starships",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f5047c8c5f2-c03",
+      "assertion": "Hyperdrive plasma makes a recycled toroidal cocoon; its visible tunnel and light streaks are not outside space.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0040",
+        "p0043"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "gravity-harmonics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f5047c8c5f2-c04",
+      "assertion": "Athena says portals shift entrants only; ships must shift their whole mass, explaining their apparent SIT.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "starship-systems",
+        "ship-internal-time"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified"
+  ],
+  "coverage_gaps": [
+    "ship-specific mass and engine examples",
+    "crew sensory experience",
+    "animal response"
+  ]
+}

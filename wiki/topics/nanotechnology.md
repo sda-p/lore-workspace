@@ -94,6 +94,16 @@ Source: [Vacunas y Nanotecnología - Respuestas de Aneeka a las preguntas de dr 
 
 Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
 
+### src-b6f425d6f3ea-c03
+
+She describes morphic hulls as computer-shaped nanotechnology spheres that magnetically join into solid, heat-resistant composite materials.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [NAVES EXTRATERRESTRES MOTORES DE PLASMA-JET -CANCELADORES DE GRABEDAD Aneeka de Temmer \#Exopolitica](https://swaruu.org/transcripts/naves-extraterrestres-motores-de-plasma-jet-canceladores-de-grabedad-aneeka-de-temmer-exopolitica) (2021-11-23; es); passages p0045, p0047, p0083, p0089. [Structured record](../../records/src-b6f425d6f3ea.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-d7432fcef312-c02](black-goo.md#src-d7432fcef312-c02) — Black goo
@@ -107,6 +117,7 @@ Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-
 - [src-8ed812c6e261-c04](vaccine-inoculation-claims.md#src-8ed812c6e261-c04) — Inoculation and genetic alteration claims
 - [src-8ed812c6e261-c05](vaccine-inoculation-claims.md#src-8ed812c6e261-c05) — Inoculation and genetic alteration claims
 - [src-ca31fe5ca6c3-c04](galactic-federation.md#src-ca31fe5ca6c3-c04) — Galactic Federation
+- [src-b6f425d6f3ea-c04](toleka-class.md#src-b6f425d6f3ea-c04) — Toleka-class starships
 
 ## Review flags
 

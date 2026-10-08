@@ -38,7 +38,33 @@ Source: [Reseteo Planetario - Respuestas de Yázhi Swaruu (Comunicación Extrate
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-075f03199db3-c01
+
+Yazhi says civilizational resets occur when collective conflict becomes unresolvable; sufficient positive development could avert them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO HAY NINGÚN DESPERTAR SOLO HAS ADQUIRIDO MÁS CONCIENCIA - SOPHIA SWARUU -YAZHI](https://swaruu.org/transcripts/no-hay-ningun-despertar-solo-has-adquirido-mas-conciencia-sophia-swaruu-yazhi) (2022-08-24; es); passages p0005, p0012. [Structured record](../../records/src-075f03199db3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-87bee905e958-c01
+
+Anéeka says the Federation controlled every reset since the great flood.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federacion Galactica los Amos del Mundo - Preguntas y Respuestas - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-los-amos-del-mundo-preguntas-y-respuestas-aneeka-de-temmer) (2021-12-17; es); passages p0003. [Structured record](../../records/src-87bee905e958.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+## Claims filed under other topics
+
+- [src-075f03199db3-c02](galactic-federation.md#src-075f03199db3-c02) — Galactic Federation
+- [src-5c2b002327be-c04](earth-cabal.md#src-5c2b002327be-c04) — Earth Cabal and power structures
+
 ## Review flags
 
 - matrix-reset-and-density-doctrine-attributed
+- perspective-dependent-Federation-governance
 - planetary-reset-cycle-attributed

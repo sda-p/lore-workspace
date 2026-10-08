@@ -494,6 +494,16 @@ Attributed to **Yázhi**; asserted; extraction confidence: high.
 
 Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte Final - Yazhi con Dale Harder](https://swaruu.org/transcripts/tecnologia-extraterrestre-cristales-y-reactores-punto-zero-parte-final-yazhi-con-dale-harder) (2021-04-07; es); passages p0026, p0040, p0042. [Structured record](../../records/src-3f3c87a05939.json).
 
+### src-1301f08e45a8-c01
+
+Yazhi says quartz data can be encoded on mapped grids as temporary RAM or persistent oscillation.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [TECNOLOGÍA DE CUARZO EN LAS NAVES EXTRATERRESTRES – Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/tecnologia-de-cuarzo-en-las-naves-extraterrestres-sophia-swaruu-yazhi) (2022-05-24; es); passages p0023, p0026, p0027. [Structured record](../../records/src-1301f08e45a8.json).
+
+Related topics: [Frequency-holding sample containers](frequency-holding-containers.md).
+
 ## Claims filed under other topics
 
 - [src-f22366424c26-c01](moon-matrix.md#src-f22366424c26-c01) — Moon and terrestrial Matrix
@@ -538,6 +548,9 @@ Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte F
 - [src-cddf1937a380-c02](sentient-starship-ai.md#src-cddf1937a380-c02) — Sentient starship AI
 - [src-220efa38c406-c01](crystal-core-zero-point-reactors.md#src-220efa38c406-c01) — Crystal-core zero-point reactors
 - [src-a6ebb6326b6a-c01](immersion-pods.md#src-a6ebb6326b6a-c01) — Immersion pods
+- [src-e0aac48a5c49-c01](starship-systems.md#src-e0aac48a5c49-c01) — Starship systems
+- [src-fd0bbccdb853-c02](frequency-map-navigation.md#src-fd0bbccdb853-c02) — Frequency-map navigation
+- [src-906e32a9d0d6-c05](moon-biosphere-ship.md#src-906e32a9d0d6-c05) — The Moon as a biosphere ship
 
 ## Review flags
 
@@ -546,11 +559,13 @@ Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte F
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - Core technology described as extraterrestrial; source offers no engineering measurements.
 - EMP-intervention-field-unknown
+- Transcript combines several speakers and dates; claims preserve speaker attribution
 - ai-clone-claims-attributed
 - biomedical-claims-not-independently-supported
 - blockade-and-biology-attributed
 - computer-throughput-claim-attributed
 - contested-space-history-allegation
+- crystal data storage and stellar reactor mechanisms are attributed claims from Yazhi, not independently verified
 - ether-field-model
 - ether\_and\_manifestation\_model
 - ether\_model

@@ -503,6 +503,7 @@ Related topics: [Taygetans](taygetans.md), [Alcyone Council](alcyone-council.md)
 - [src-a02207051534-c05](nazca-spaceport.md#src-a02207051534-c05) — Nazca spaceport
 - [src-940f9935241e-c03](intra-terrestrial-agartha.md#src-940f9935241e-c03) — Agartha resistance network
 - [src-7e10fbdcd1c5-c01](tiamat.md#src-7e10fbdcd1c5-c01) — Tiamat
+- [src-b0c5455056ea-c03](ishtar-genetic-project.md#src-b0c5455056ea-c03) — Ishtar genetic project
 
 ## Review flags
 
@@ -528,6 +529,7 @@ Related topics: [Taygetans](taygetans.md), [Alcyone Council](alcyone-council.md)
 - hidden-inner-earth-entrance-claim
 - highly-contested-history-claims-attributed
 - historical-conspiracy-claims
+- lore-claims-attributed-to-Yazhi
 - matrix-collapse-and-human-choice
 - no-parallel-source-in-batch
 - pyramid-portal-claims

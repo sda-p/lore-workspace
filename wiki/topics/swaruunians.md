@@ -48,10 +48,24 @@ Source: [Video Aclaratorio - Swaruu de Erra - Athena Swaruu - Yazhi Swaruu](http
 
 Related topics: [Timeline branching](timeline-branching.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-64966405e66f-c04
+
+She says Swaruu personas share one being but use temporary identities to interact; they can leave physical awareness for lighter realities and return.
+
+Attributed to **Swaruu Minerva (11)**; asserted; extraction confidence: high.
+
+Source: [Donde va el \#alma ? - SUS ALMAS NO VAN A NINGÚN LADO SIMPLEMENTE SON - \#Minerva \#Swaruu XI](https://swaruu.org/transcripts/donde-va-el-alma-sus-almas-no-van-a-ningun-lado-simplemente-son-minerva-swaruu-xi) (2021-12-05; es); passages p0117, p0131, p0132, p0162, p0164. [Structured record](../../records/src-64966405e66f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-74fefae75775-c03](consciousness-metaphysics.md#src-74fefae75775-c03) — Consciousness and metaphysics
+- [src-5b78336f9481-c04](taygetans.md#src-5b78336f9481-c04) — Taygetans
+- [src-f806bbf625d9-c02](crystalline-dna.md#src-f806bbf625d9-c02) — Crystalline DNA and proto-silicon biology
 
 ## Review flags
 
+- Genetic and chromosome claims are attributed fictional-world assertions
+- internal-count-conflict:swaruwnian-chromosomes
 - species status is contested within Mari’s account; preserve her stated rationale

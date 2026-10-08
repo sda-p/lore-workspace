@@ -116,6 +116,16 @@ Attributed to **Swaruu X**; asserted; extraction confidence: high.
 
 Source: [Divulgación "Ovni" de Pentágono - Mentiras del Gobierno - Origen de la Nave](https://swaruu.org/transcripts/divulgacion-ovni-de-pentagono-mentiras-del-gobierno-origen-de-la-nave) (2021-08-14; es); passages p0040. [Structured record](../../records/src-4077e2cdca7d.json).
 
+### src-b6f425d6f3ea-c01
+
+Anéeka says Suzy fighters are female-designed and rounded, while Scimitar A interceptors are light and B assault variants carry troops or vehicles.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [NAVES EXTRATERRESTRES MOTORES DE PLASMA-JET -CANCELADORES DE GRABEDAD Aneeka de Temmer \#Exopolitica](https://swaruu.org/transcripts/naves-extraterrestres-motores-de-plasma-jet-canceladores-de-grabedad-aneeka-de-temmer-exopolitica) (2021-11-23; es); passages p0009, p0011, p0017, p0018. [Structured record](../../records/src-b6f425d6f3ea.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation

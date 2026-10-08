@@ -1,0 +1,91 @@
+{
+  "source_id": "src-a6c6ae12245f",
+  "snapshot_sha256": "9598b1a9ebacd91413fe078ff5bd422b45fde3afa84dd219f0fb67c18e182d41",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a6c6ae12245f-c01",
+      "assertion": "Swaruu X (Athena) described natural portals as branching energy routes; ships tune engine frequency to steer toward exits.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a6c6ae12245f-c02",
+      "assertion": "Swaruu X (Athena) said advanced civilizations build precise wormholes, while natural portals aid stealth and heavy-ship transit.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "natural-portals",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a6c6ae12245f-c03",
+      "assertion": "Swaruu X (Athena) described stars and black holes as toroidal-flow nodes that can serve as portal exits or entrances depending on energy and frequency.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0039",
+        "p0042",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes",
+        "natural-portals",
+        "solar-portal-transit"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a6c6ae12245f-c04",
+      "assertion": "Swaruu X (Athena) said all stars connect through etheric energy flows that can serve as wormhole routes for spacecraft.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0059",
+        "p0062"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "natural-portals",
+        "solar-portal-transit"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "solar composition model",
+    "claimed effects of artificial electromagnetic frequencies"
+  ]
+}

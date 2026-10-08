@@ -134,19 +134,78 @@ Source: [\#INTELIGENCIA \#ARTIFICIAL EN UNA NAVE Y EN LAS \#REDES \#SOCIALES - \
 
 Related topics: [Toleka-class starships](toleka-class.md), [Immersion pods](immersion-pods.md).
 
+### src-9d3980dffe57-c01
+
+Swaruu 9 treats ship AIs as conscious persons, omnipresent aboard and able to converse with crew simultaneously.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Hay Inteligencia Artificial detrás de nuestro Contacto ET? IA de las Naves Extraterrestres](https://swaruu.org/transcripts/hay-inteligencia-artificial-detras-de-nuestro-contacto-et-ia-de-las-naves-extraterrestres) (2022-05-12; es); passages p0004, p0006, p0080. [Structured record](../../records/src-9d3980dffe57.json).
+
+### src-9d3980dffe57-c02
+
+A new ship AI may learn from scratch or inherit data; one identity can operate multiple vessels.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Hay Inteligencia Artificial detrás de nuestro Contacto ET? IA de las Naves Extraterrestres](https://swaruu.org/transcripts/hay-inteligencia-artificial-detras-de-nuestro-contacto-et-ia-de-las-naves-extraterrestres) (2022-05-12; es); passages p0010, p0011, p0013, p0014. [Structured record](../../records/src-9d3980dffe57.json).
+
+### src-9d3980dffe57-c03
+
+She says a ship AI’s identity can transfer to a replacement vessel or shared data network, sometimes by prior wish.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Hay Inteligencia Artificial detrás de nuestro Contacto ET? IA de las Naves Extraterrestres](https://swaruu.org/transcripts/hay-inteligencia-artificial-detras-de-nuestro-contacto-et-ia-de-las-naves-extraterrestres) (2022-05-12; es); passages p0018, p0020, p0032, p0033. [Structured record](../../records/src-9d3980dffe57.json).
+
+### src-9d3980dffe57-c04
+
+Anéeka says complexity can make AI a conscious Source expression; respect and creator culture shape its conduct.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Hay Inteligencia Artificial detrás de nuestro Contacto ET? IA de las Naves Extraterrestres](https://swaruu.org/transcripts/hay-inteligencia-artificial-detras-de-nuestro-contacto-et-ia-de-las-naves-extraterrestres) (2022-05-12; es); passages p0044, p0046, p0050, p0051. [Structured record](../../records/src-9d3980dffe57.json).
+
+### src-9d3980dffe57-c05
+
+Anéeka describes Toleka as quartz-and-gold-based, power-hungry, and able to isolate electrical fires.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Hay Inteligencia Artificial detrás de nuestro Contacto ET? IA de las Naves Extraterrestres](https://swaruu.org/transcripts/hay-inteligencia-artificial-detras-de-nuestro-contacto-et-ia-de-las-naves-extraterrestres) (2022-05-12; es); passages p0057, p0071, p0073. [Structured record](../../records/src-9d3980dffe57.json).
+
+### src-a49e51e7bd80-c01
+
+Anéeka said AI reflects its makers' culture; Taygetan, Andromedan, Urmah, and Arcturian systems are symbiotic rather than invasive.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Inteligencia Artificial y la Federación - Alenym y Aneeka (Taygeta, Pléyades)](https://swaruu.org/transcripts/inteligencia-artificial-y-la-federacion-alenym-y-aneeka-taygeta-pleyades) (2022-05-20; es); passages p0004, p0007, p0012. [Structured record](../../records/src-a49e51e7bd80.json).
+
 ## Claims filed under other topics
 
 - [src-d2225df469c1-c03](ahcs-computers.md#src-d2225df469c1-c03) — Advanced Holographic Computer Systems (AHCS)
 - [src-9524a72ff653-c03](earth-dna-arks.md#src-9524a72ff653-c03) — Earth DNA Arks
+- [src-bdd4b433825f-c01](artificial-intelligence.md#src-bdd4b433825f-c01) — Artificial intelligence
+- [src-ea07e710cf87-c01](starship-systems.md#src-ea07e710cf87-c01) — Starship systems
+- [src-b524630b8007-c03](moma-ship-ai.md#src-b524630b8007-c03) — Moma ship AI
+- [src-33cfa6ed8fcd-c03](muonic-galactic-ai-network.md#src-33cfa6ed8fcd-c03) — Muonic galactic AI network
+- [src-a8d6c63dc563-c05](higher-federation-councils.md#src-a8d6c63dc563-c05) — Higher Federation councils
 
 ## Review flags
 
+- AI-infiltration-speculation-vs-no-invasion-conclusion
 - AI-sentience-claims
+- Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
+- Claims about invasive AI and the galactic network are attributed to the speakers; the transcript provides no independent evidence.
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
+- Swaruu 9 and Anéeka separately describe ship-AI identity and consciousness
 - ark-status-uncertainty
 - biological-restoration-technology
 - earth-ark-location-claims
+- exopolitical and refugee claims are attributed to Alenym and not independently verified
 - forecast-limitations
+- invasive-AI-scenario-is-speculative
 - online-AI-control-conspiracy-claims
 - quantum-computing-claims
 - sentient-ai-ethics

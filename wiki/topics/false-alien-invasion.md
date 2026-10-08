@@ -250,12 +250,14 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md), [Galactic Fe
 - [src-55eec113b537-c03](galactic-federation.md#src-55eec113b537-c03) — Galactic Federation
 - [src-7935e066946e-c02](galactic-federation.md#src-7935e066946e-c02) — Galactic Federation
 - [src-6d9b90ab765b-c02](consciousness-metaphysics.md#src-6d9b90ab765b-c02) — Consciousness and metaphysics
+- [src-a8d6c63dc563-c01](galactic-federation.md#src-a8d6c63dc563-c01) — Galactic Federation
 
 ## Review flags
 
 - conspiracy\_claims
 - disclosure-agenda-speculative
 - disputed\_specimen
+- exopolitical and refugee claims are attributed to Alenym and not independently verified
 - federation-role:uncertain-human-propaganda-vs-permissive-oversight
 - pentagon-disclosure-motive-speculation
 - secret-aircraft-identification-uncertain

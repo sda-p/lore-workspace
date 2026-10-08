@@ -1,0 +1,69 @@
+{
+  "source_id": "src-bfb9700317e0",
+  "snapshot_sha256": "f8ba681e71475e8b7cdcb8270da56fec8032394e65116213ae83e1c473a61f0f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bfb9700317e0-c01",
+      "assertion": "Athena said precession reflects interacting stars, including influential Sirius, rather than a specific pair; exact cycles cannot be tracked.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "solar-consciousness",
+      "topics": [
+        "solar-consciousness"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She explained this through etheric energy and gravity."
+    },
+    {
+      "id": "src-bfb9700317e0-c02",
+      "assertion": "She placed Giza and Atlantis before Tiamat’s destruction, followed by planetary disruption, floods, and an axial shift about 12,000 years ago.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She cautioned that time is not constant."
+    },
+    {
+      "id": "src-bfb9700317e0-c03",
+      "assertion": "Athena said the Moon was placed to stabilize Earth, rejecting imprisonment of regressive races as its primary purpose.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She called the electromagnetic barrier a consequence."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "precession dating debate and pre-Tiamat year length"
+  ]
+}

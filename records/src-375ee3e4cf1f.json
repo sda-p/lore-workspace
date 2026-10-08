@@ -1,0 +1,16 @@
+{
+  "source_id": "src-375ee3e4cf1f",
+  "snapshot_sha256": "7567cfd8cb152f4c3ef88abce6c2f00a806f1cb832b5f7ba374d26aea8113dee",
+  "language": "es",
+  "claims": [
+    {"id":"src-375ee3e4cf1f-c01","assertion":"Yazhi dates ancient Egypt's perceptual-reality project with a Federation collective to 12,500 years ago.","speaker":"Yazhi","paragraph_ids":["p0002","p0003"],"primary_topic":"humanity-multi-species-experiment","topics":["humanity-multi-species-experiment","galactic-federation"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-375ee3e4cf1f-c02","assertion":"Yazhi claims artificial genetic changes persist in individuals but fade across descendants.","speaker":"Yazhi","paragraph_ids":["p0005","p0009"],"primary_topic":"neural-frequency-genetic-engineering","topics":["neural-frequency-genetic-engineering","vaccine-inoculation-claims"],"modality":"asserted","confidence":"high","qualifiers":"She connects them to vaccines."},
+    {"id":"src-375ee3e4cf1f-c03","assertion":"Yazhi says an ancient system aimed to heal flood and Tiamat-related trauma.","speaker":"Yazhi","paragraph_ids":["p0024"],"primary_topic":"tiamat","topics":["tiamat","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-375ee3e4cf1f-c04","assertion":"Yazhi says Druids and bards were to restore humanity, but Rome destroyed them.","speaker":"Yazhi","paragraph_ids":["p0029"],"primary_topic":"druidic-traditions","topics":["druidic-traditions","earth-cabal","moon-matrix"],"modality":"asserted","confidence":"high","qualifiers":"Atonists used Rome."},
+    {"id":"src-375ee3e4cf1f-c05","assertion":"Yazhi says trauma crosses reincarnations and hardships can expand consciousness.","speaker":"Yazhi","paragraph_ids":["p0018","p0020","p0035"],"primary_topic":"reincarnation-cycles","topics":["reincarnation-cycles","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"At some levels."},
+    {"id":"src-375ee3e4cf1f-c06","assertion":"Yazhi describes higher planes as unified consciousness without races or bodies.","speaker":"Yazhi","paragraph_ids":["p0031"],"primary_topic":"consciousness-metaphysics","topics":["consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":""}
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["interview discussion of reincarnation, souls, and Yazhi's personal motivation omitted"]
+}

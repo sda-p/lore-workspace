@@ -58,6 +58,10 @@ Source: [\#BRUJERÍA BLANCA – \#VUDÚ – SEMILLAS ESTELARES – YAZHI -SOPHIA
 
 Related topics: [Archons and demons](archons-and-demons.md).
 
+## Claims filed under other topics
+
+- [src-9be5d7b8001c-c04](astral-travel.md#src-9be5d7b8001c-c04) — Astral Travel
+
 ## Review flags
 
 - altered-state-and-poison-risk

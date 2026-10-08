@@ -146,6 +146,14 @@ Source: [MENSAJE EXTRATRRESTRE PARA LOS ESCEPTICOS - SWARUU DE ERRA - PLEYADES](
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-49942a75e76b-c02
+
+Yazhi said Taygetan has no fixed linear written form; transliteration varies phonetically, and Navajo helped standardize it for human use.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Minitemas con Gosia - Información Extraterrestre - Divulgacion Taygeteana](https://swaruu.org/transcripts/minitemas-con-gosia-informacion-extraterrestre-divulgacion-taygeteana) (2022-06-18; es); passages p0055, p0058, p0060, p0061. [Structured record](../../records/src-49942a75e76b.json).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c03](urmah.md#src-5e6c8ea2cb2c-c03) — Urmah
@@ -154,6 +162,7 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 
 ## Review flags
 
+- Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
 - historical-claims-unverified
 - language-claims-unverified
 - medical-claims-unverified

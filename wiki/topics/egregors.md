@@ -438,6 +438,46 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-creacion-del-cabal-reptiles-y-manifestaciones-humanas) (2021-10-10; es); passages p0019, p0021. [Structured record](../../records/src-74df7085bcef.json).
 
+### src-6d9f789c718e-c03
+
+Anéeka says some entities feed on concentrated fear-driven attention, while Earthbound factions may seek material control.
+
+Attributed to **Anéeka**; speculative; extraction confidence: medium.
+
+Source: [Extraterrestres y Recursos Terrestres - Perspectiva Directamente de los Extraterrestres](https://swaruu.org/transcripts/extraterrestres-y-recursos-terrestres-perspectiva-directamente-de-los-extraterrestres) (2022-02-13; es); passages p0008, p0024, p0037. [Structured record](../../records/src-6d9f789c718e.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-e0a9693e485e-c01
+
+Yazhi said Cabal and egregors depend on human participation and shared thought patterns.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sociedad Holística - Respuestas de Athena y Yazhi - Resumiendo Puntos Clave - Directo con Gosia](https://swaruu.org/transcripts/sociedad-holistica-respuestas-de-athena-y-yazhi-resumiendo-puntos-clave-directo-con-gosia) (2022-03-28; es); passages p0041, p0042, p0045. [Structured record](../../records/src-e0a9693e485e.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ce78d7905978-c04
+
+Athena describes fear as concentrated creative attention called Lush; human-made egregore entities feed on suffering and dissolve if people withdraw attention.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Que son las Guerras? Toda la Humanidad Deberia Saberlo - Athena Swaruu](https://swaruu.org/transcripts/que-son-las-guerras-toda-la-humanidad-deberia-saberlo-athena-swaruu) (2022-03-13; es); passages p0053, p0054, p0055, p0056, p0058, p0061. [Structured record](../../records/src-ce78d7905978.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9c3e0642a4e2-c05
+
+Athena describes humanity’s idea-matrix as an egregor that attacks ideas from outside. She links it to attention and thought.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [TORO APIS – SIMBOLISMO - PLEYADES – TAURO – EL OJO MORADO DE LOS FAMOSOS](https://swaruu.org/transcripts/toro-apis-simbolismo-pleyades-tauro-el-ojo-morado-de-los-famosos) (2022-02-10; es); passages p0038. [Structured record](../../records/src-9c3e0642a4e2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c03](postmortem-realities.md#src-331beeab2088-c03) — Postmortem realities
@@ -460,19 +500,29 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - [src-a554af026ae2-c03](tulpas.md#src-a554af026ae2-c03) — Tulpas
 - [src-7e3952095f4b-c01](tulpas.md#src-7e3952095f4b-c01) — Tulpas
 - [src-2997017bfd28-c04](postmortem-realities.md#src-2997017bfd28-c04) — Postmortem realities
+- [src-9d6224eacf32-c02](earth-cabal.md#src-9d6224eacf32-c02) — Earth Cabal and power structures
+- [src-906e32a9d0d6-c02](moon-matrix.md#src-906e32a9d0d6-c02) — Moon and terrestrial Matrix
+- [src-906e32a9d0d6-c03](moon-matrix.md#src-906e32a9d0d6-c03) — Moon and terrestrial Matrix
+- [src-8d5449505ff0-c04](gravity-harmonics.md#src-8d5449505ff0-c04) — Gravity harmonics
+- [src-fd3cad24685f-c03](tulpas.md#src-fd3cad24685f-c03) — Tulpas
 
 ## Review flags
 
 - Anéeka says Reptilian exploitation is partial, not a complete account of Earth events.
+- Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
+- Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Source also contains unextracted real-world political and health claims.
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
+- Transcript combines several speakers and dates; claims preserve speaker attribution
 - anti-vaccine-conspiracy-claims
 - attributed-virus-and-vaccine-claims
+- claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified
 - collective-egregor-metaphysics
 - conspiracy-allegations
 - conspiracy-claims
 - conspiracy\_claims
+- conspiratorial-claims
 - contextual-contradictions
 - egregor-versus-species-distinction
 - exopolitical-faction-claims
@@ -491,9 +541,11 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - paranormal-claims-unverified
 - paranormal-entity-claims-attributed
 - personal\_metaphysics
+- planetary ascension is framed as perspective-dependent perception
 - reptilian-soul-claims
 - reptilian-species-versus-reptile-egregor
 - soulless-people-claim
+- tension:planned-outcomes-vs-human-agency
 - translated-originally-Spanish
 - unverified-current-events
 - unverified\_frequency\_claims

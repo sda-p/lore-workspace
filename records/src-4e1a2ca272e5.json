@@ -1,0 +1,88 @@
+{
+  "source_id": "src-4e1a2ca272e5",
+  "snapshot_sha256": "a303aab2827222e59315c5345f9dc9e044320d1907d0c3f36ec90242ca62342b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4e1a2ca272e5-c01",
+      "assertion": "Anéeka said DNA reflects soul memory and shared experience forms species; 22 human lineages are identifiable, but each contains others.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0008",
+        "p0015",
+        "p0024"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4e1a2ca272e5-c02",
+      "assertion": "Anéeka rejected laboratory creation from 22 races, while saying humans had been artificially altered over time.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "humanity-multi-species-experiment",
+      "topics": [
+        "humanity-multi-species-experiment",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4e1a2ca272e5-c03",
+      "assertion": "Anéeka said Matrix mind control and shared beliefs chiefly limit human abilities and can affect genetic expression.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0059",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4e1a2ca272e5-c04",
+      "assertion": "Anéeka linked latent DNA-memory activation to consciousness, attention, and exposure to realities beyond Earth’s Matrix.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "dna-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific genetic interventions",
+    "comparative chromosome claims"
+  ]
+}

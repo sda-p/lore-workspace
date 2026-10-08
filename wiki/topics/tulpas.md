@@ -192,6 +192,36 @@ Source: [LOS \#VAMPIROS SON REALES - \#UPIROLOGÍA - SOPHIA \#SWARUU - \#ANÉEKA
 
 Related topics: [Vampires](vampires.md).
 
+### src-72f8c6904500-c01
+
+Yazhi accepts that tulpas and egregores are thought-forms, saying ideas given sufficient energy and attention can become real. Her metaphysical account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UFOLOGÍA Y CONTACTISMO ESTA MANIPULADO POR LA CIA - Sophia Swaruu](https://swaruu.org/transcripts/ufologia-y-contactismo-esta-manipulado-por-la-cia-sophia-swaruu) (2022-04-19; es); passages p0018, p0019, p0032, p0036, p0044. [Structured record](../../records/src-72f8c6904500.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-fd3cad24685f-c03
+
+Yazhi used “tulpas” and “egregors” as neutral terms for personal or collective manifestations, whose positive or negative valence depends on perspective.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [No Consiento - Es Adecuada esta Expresión? - Yazhi Swaruu y Comentarios Personales](https://swaruu.org/transcripts/no-consiento-es-adecuada-esta-expresion-yazhi-swaruu-y-comentarios-personales) (2021-11-14; es); passages p0010, p0011. [Structured record](../../records/src-fd3cad24685f.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-6d8ed766cc58-c02
+
+She says negative alien alliances exist, but Earth’s versions are humanized and distorted by its collective unconscious, producing race-specific egregores.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Movimientos OVNI y la CIA - Infiltración - Athena y Yazhi Swaruu - Información Extraterrestre](https://swaruu.org/transcripts/movimientos-ovni-y-la-cia-infiltracion-athena-y-yazhi-swaruu-informacion-extraterrestre) (2022-04-18; es); passages p0006, p0007, p0008, p0009. [Structured record](../../records/src-6d8ed766cc58.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-78a2f4005f35-c05](original-matrix.md#src-78a2f4005f35-c05) — Original Matrix
@@ -200,9 +230,13 @@ Related topics: [Vampires](vampires.md).
 - [src-7e3952095f4b-c02](kingu.md#src-7e3952095f4b-c02) — Kingu
 - [src-791b660d5229-c02](egregors.md#src-791b660d5229-c02) — Egregors
 - [src-7de827628fae-c01](egregors.md#src-7de827628fae-c01) — Egregors
+- [src-72f8c6904500-c02](consciousness-metaphysics.md#src-72f8c6904500-c02) — Consciousness and metaphysics
+- [src-8636b4bb3446-c04](earth-cabal.md#src-8636b4bb3446-c04) — Earth Cabal and power structures
+- [src-98f45fed7656-c04](earth-cabal.md#src-98f45fed7656-c04) — Earth Cabal and power structures
 
 ## Review flags
 
+- CIA-control-allegation-omitted
 - Source also contains unextracted real-world political and health claims.
 - archon-scope-is-broad
 - conspiracy-allegations
@@ -212,8 +246,11 @@ Related topics: [Vampires](vampires.md).
 - exopolitical-faction-claims
 - federation-infiltration-allegations
 - federation-role-contradiction
+- medical-claims-omitted
 - mental-health-and-protection-advice-excluded
 - metaphysical-collective-reality-model
 - metaphysical-entity-origin-claims
+- p0027 says most inhabitants must die; p0051–53 clarify social change need not mean killing or genocide
 - paranormal-entity-claims-attributed
+- same-language transcript counterpart: src-8636b4bb3446; all 92 paragraph texts match except title
 - source distinguishes historical nonexistence in this timeline from a belief-generated egregore

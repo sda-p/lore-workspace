@@ -1,0 +1,90 @@
+{
+  "source_id": "src-9be5d7b8001c",
+  "snapshot_sha256": "21807121bcc59fa1bc717d8c82221d272bd639f3d3a2cf5c9f20ea80e8ad21a3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9be5d7b8001c-c01",
+      "assertion": "Yazhi said people can shift attention among body, soul, and etheric being, but bodily identity and beliefs about possibility constrain this experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0014",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9be5d7b8001c-c02",
+      "assertion": "Yazhi described imagination, intention, and focused practice as means to shape experience and act on spiritual planes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0023",
+        "p0061",
+        "p0063"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "astral-travel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9be5d7b8001c-c03",
+      "assertion": "Yazhi said meditation and visualization can loosen mental limits; she framed resistance to crossing a closed door as belief.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0052",
+        "p0053",
+        "p0057"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "astral-travel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9be5d7b8001c-c04",
+      "assertion": "Yazhi advised facing sleep-paralysis experiences without fear, and cautioned against spirit invocation, Ouija boards, and substances.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0064",
+        "p0065",
+        "p0067"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "witchcraft-and-voodoo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific visualization exercise",
+    "other paranormal practices"
+  ]
+}

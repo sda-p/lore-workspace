@@ -1,0 +1,105 @@
+{
+  "source_id": "src-65e909f41f9a",
+  "snapshot_sha256": "796863e9fcb6cccec2f68320072ffa877d67d033311956f84393659f66eff94b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-65e909f41f9a-c01",
+      "assertion": "Yázhi says memory is etheric; brains translate compatible frequencies into recall.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "ether-field"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Forgetting resembles unretained dreams."
+    },
+    {
+      "id": "src-65e909f41f9a-c02",
+      "assertion": "Anéeka says memory veils can be selective and non-linear.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "She suggests between-life control and cites frequency mismatch."
+    },
+    {
+      "id": "src-65e909f41f9a-c03",
+      "assertion": "Yázhi says Lyra-based nonhuman cortices are undivided, unlike human brains.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She links this to different perception."
+    },
+    {
+      "id": "src-65e909f41f9a-c04",
+      "assertion": "Anéeka says dualistic thought manifests as divided human brains.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says ideas precede physical form."
+    },
+    {
+      "id": "src-65e909f41f9a-c05",
+      "assertion": "Athena says Van Allen belts shape Earth’s baseline frequency, but people can transcend them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0066",
+        "p0068",
+        "p0069",
+        "p0071",
+        "p0078"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says they do not block awakening."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "claims about memory, brain structure, consciousness, and Van Allen belts are attributed lore, not independently verified facts"
+  ],
+  "coverage_gaps": [
+    "Taygetan adaptation claims",
+    "human collective perception and egregors"
+  ]
+}

@@ -54,9 +54,14 @@ Attributed to **Anéeka**; speculative; extraction confidence: high.
 
 Source: [Desconexion de Redes Sociales - Solo texto](https://swaruu.org/transcripts/desconexion-de-redes-sociales-solo-texto) (2021-10-07; es); passages p0013, p0021. [Structured record](../../records/src-482490d8772a.json).
 
+## Claims filed under other topics
+
+- [src-9c3e0642a4e2-c03](earth-cabal.md#src-9c3e0642a4e2-c03) — Earth Cabal and power structures
+
 ## Review flags
 
 - Internet-blackout prediction is explicitly uncertain.
 - PCR and vaccine medical claims omitted.
 - Time-bound 2021 prediction; no outcome asserted.
+- claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified
 - contradictory-information-model-is-source-claim

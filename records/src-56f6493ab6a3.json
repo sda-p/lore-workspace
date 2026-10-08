@@ -43,10 +43,11 @@
   "proposed_topics": [
     {
       "id": "antarctica",
-      "name": "Antarctica bases and ancient sites",
+      "name": "Antarctica",
       "kind": "location",
       "aliases": [
-        "Antarctic bases"
+        "Antarctic bases",
+        "Antarctic interior"
       ]
     }
   ],

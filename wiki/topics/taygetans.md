@@ -2800,6 +2800,120 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRESTRE - SOPHIA SWARUU](https://swaruu.org/transcripts/eres-mente-consciencia-pura-conversacion-con-una-extraterrestre-sophia-swaruu) (2021-09-24; es); passages p0003, p0005, p0007, p0009, p0011, p0016. [Structured record](../../records/src-b366c302a081.json).
 
+### src-d26552c9fbda-c01
+
+Yazhi describes the Taygetan flagship as a 1,734-meter cruiser whose propulsion allows a non-disk hull.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Nave de Taygeta - Porque Esta Aquí? Actualización - Conoce Algunos Miembros de la Tripulación](https://swaruu.org/transcripts/nave-de-taygeta-porque-esta-aqui-actualizacion-conoce-algunos-miembros-de-la-tripulacion) (2022-02-10; es); passages p0006. [Structured record](../../records/src-d26552c9fbda.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d26552c9fbda-c02
+
+She says Taygetan missions shifted from failed 1919/1952 government efforts to civilian spiritual outreach after governments sought military technology.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Nave de Taygeta - Porque Esta Aquí? Actualización - Conoce Algunos Miembros de la Tripulación](https://swaruu.org/transcripts/nave-de-taygeta-porque-esta-aqui-actualizacion-conoce-algunos-miembros-de-la-tripulacion) (2022-02-10; es); passages p0010, p0012, p0013, p0014, p0020. [Structured record](../../records/src-d26552c9fbda.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-9d6224eacf32-c01
+
+Athena says Taygetan fighters carry two black bulls and a silver sun, a Pleiadian-Taurus emblem; Toleka bears a large crowned figure. Her account of Taygetan insignia.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Toro Apis, Red Bull, y Simbología Illuminati - Roban Símbolos que NO son suyos](https://swaruu.org/transcripts/toro-apis-red-bull-y-simbologia-illuminati-roban-simbolos-que-no-son-suyos) (2022-05-05; es); passages p0010, p0014, p0016, p0018, p0024, p0027. [Structured record](../../records/src-9d6224eacf32.json).
+
+Related topics: [Toleka-class starships](toleka-class.md).
+
+### src-5b78336f9481-c04
+
+She says Taygetans have 24 chromosomes and 12 DNA strands; Swaruunians have 24 of each.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [22 Razas Extraterrestres Formando el Ser Humano? - Aneeka de Temmer Responde](https://swaruu.org/transcripts/22-razas-extraterrestres-formando-el-ser-humano-aneeka-de-temmer-responde) (2021-12-12; es); passages p0027, p0028. [Structured record](../../records/src-5b78336f9481.json).
+
+Related topics: [Swaruunians](swaruunians.md).
+
+### src-6be48f6d0431-c02
+
+They argue that wider contact contexts are omitted and say some private participants experienced harmonious contact.
+
+Attributed to **Gosia and Robert**; reported; extraction confidence: medium.
+
+Source: [Informacion importante para los seguidores de la divulgacion Taygeteana - La Matrix se tambalea](https://swaruu.org/transcripts/informacion-importante-para-los-seguidores-de-la-divulgacion-taygeteana-la-matrix-se-tambalea) (2022-04-24; es); passages p0005, p0009. [Structured record](../../records/src-6be48f6d0431.json).
+
+### src-2c578d18d896-c01
+
+Gosia’s article alleged that sexualized model photos associated with the Taygetan contact were injected or altered to discredit it. It cited earlier accusations around Billy Meier as a precedent.
+
+Attributed to **Gosia, relaying Taygetan claims**; reported; extraction confidence: medium.
+
+Source: [Divulgación Taygeteana y Viejos Trucos de Desacreditación de lo que va Contra de la Matrix](https://swaruu.org/transcripts/divulgacion-taygeteana-y-viejos-trucos-de-desacreditacion-de-lo-que-va-contra-de-la-matrix) (2022-04-24; es); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-2c578d18d896.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-2c578d18d896-c02
+
+The article argued that a group sharing information for years would be unlikely to undermine itself by posting porn-model images.
+
+Attributed to **Gosia, relaying Taygetan claims**; reported; extraction confidence: medium.
+
+Source: [Divulgación Taygeteana y Viejos Trucos de Desacreditación de lo que va Contra de la Matrix](https://swaruu.org/transcripts/divulgacion-taygeteana-y-viejos-trucos-de-desacreditacion-de-lo-que-va-contra-de-la-matrix) (2022-04-24; es); passages p0006, p0007. [Structured record](../../records/src-2c578d18d896.json).
+
+### src-2c578d18d896-c03
+
+Gosia urged readers to assess the contact’s information and consider omitted context before accepting image-based accusations. She said some contacts found the experience meaningful while others kept it private.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Divulgación Taygeteana y Viejos Trucos de Desacreditación de lo que va Contra de la Matrix](https://swaruu.org/transcripts/divulgacion-taygeteana-y-viejos-trucos-de-desacreditacion-de-lo-que-va-contra-de-la-matrix) (2022-04-24; es); passages p0008, p0009, p0010. [Structured record](../../records/src-2c578d18d896.json).
+
+### src-9fb50ae5b7f5-c01
+
+Yazhi says Taygetan toys are usually self-made with computer assistance; favors replace profit-driven mass production, which is uncommon.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Minitemas con Gosia - Información Extraterrestre - Yazhi, Aneeka, Athena (Pléyades y mas allá)](https://swaruu.org/transcripts/minitemas-con-gosia-informacion-extraterrestre-yazhi-aneeka-athena-pleyades-y-mas-alla) (2022-01-05; es); passages p0006, p0008, p0010, p0012, p0014. [Structured record](../../records/src-9fb50ae5b7f5.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-5e8b4d828ea6-c01
+
+Yazhi says Taygetans visited Earth 12,500+ years; 1919 and 1952 government missions sought to guide humanity. Both failed.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Los Extraterrestres. Porque estan aqui ? - Taygeteanas - Swaruunianas - Sophia Swaruu](https://swaruu.org/transcripts/los-extraterrestres-porque-estan-aqui-taygeteanas-swaruunianas-sophia-swaruu) (2022-02-12; es); passages p0009, p0010, p0011, p0013. [Structured record](../../records/src-5e8b4d828ea6.json).
+
+Related topics: [Lyrians](lyrians.md).
+
+### src-5e8b4d828ea6-c03
+
+Yazhi says one ship stayed under Alenym, sharing spiritual ideas and guiding Taygetan starseeds. Nonintervention limits direct aid.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Los Extraterrestres. Porque estan aqui ? - Taygeteanas - Swaruunianas - Sophia Swaruu](https://swaruu.org/transcripts/los-extraterrestres-porque-estan-aqui-taygeteanas-swaruunianas-sophia-swaruu) (2022-02-12; es); passages p0019, p0020, p0022, p0028. [Structured record](../../records/src-5e8b4d828ea6.json).
+
+Related topics: [Starseed guides](starseed-guides.md), [Prime Directive](prime-directive.md).
+
+### src-5e5e29eb902e-c01
+
+Anéeka says Taygetans are type O and Swaruu A+, marking distinct races.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Mini Temas - Información Extraterrestre - Tertulia con Gosia](https://swaruu.org/transcripts/mini-temas-informacion-extraterrestre-tertulia-con-gosia) (2022-01-30; es); passages p0005, p0006. [Structured record](../../records/src-5e5e29eb902e.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -3076,6 +3190,16 @@ Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRES
 - [src-7e10fbdcd1c5-c02](atlantis-lemuria.md#src-7e10fbdcd1c5-c02) — Atlantis and Lemuria
 - [src-ed3c8805562b-c01](galactic-federation.md#src-ed3c8805562b-c01) — Galactic Federation
 - [src-417359a5f6a0-c02](frequency-astrology.md#src-417359a5f6a0-c02) — Frequency-based astrology
+- [src-d26552c9fbda-c04](starseeds.md#src-d26552c9fbda-c04) — Starseeds
+- [src-a5ce4900a24a-c02](crimea-taygetan-base.md#src-a5ce4900a24a-c02) — Taygetan base beneath Crimea
+- [src-f806bbf625d9-c02](crystalline-dna.md#src-f806bbf625d9-c02) — Crystalline DNA and proto-silicon biology
+- [src-7ff15150434a-c04](holistic-society.md#src-7ff15150434a-c04) — Holistic society
+- [src-4bbe9951863f-c04](alien-species.md#src-4bbe9951863f-c04) — Alien species and distinctions
+- [src-5e8b4d828ea6-c02](taygetan-first-contact-project.md#src-5e8b4d828ea6-c02) — Taygetan First Contact Project
+- [src-5e5e29eb902e-c05](cyndriel.md#src-5e5e29eb902e-c05) — Cyndriel
+- [src-4bd203cbfe4d-c03](karistus.md#src-4bd203cbfe4d-c03) — Karistus
+- [src-4bd203cbfe4d-c04](karistus.md#src-4bd203cbfe4d-c04) — Karistus
+- [src-e9adfed45e60-c04](galactic-federation.md#src-e9adfed45e60-c04) — Galactic Federation
 
 ## Review flags
 
@@ -3095,8 +3219,10 @@ Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRES
 - Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
+- Genetic and chromosome claims are attributed fictional-world assertions
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - Maitre\_relationship\_with\_Reptilians
 - Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified.
 - Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
@@ -3109,6 +3235,7 @@ Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRES
 - The cloning and genetic-control statements are Swaruu’s claims.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
 - abduction-motive-varies
+- account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
 - afterlife-claims-are-source-model
 - afterlife\_model
 - agenda21-assertion
@@ -3127,6 +3254,7 @@ Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRES
 - biological-restoration-technology
 - biology-claim
 - blockade-and-biology-attributed
+- blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified
 - cataclysm-history-attributed
 - causal-attribution-tension
 - claims-about-suppressed-contact-evidence
@@ -3136,6 +3264,7 @@ Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRES
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
 - conspiracy\_claims
+- conspiratorial-claims
 - contact-identity-reported
 - contact-readiness-generalization
 - contested-claim
@@ -3155,6 +3284,7 @@ Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRES
 - coverage: reincarnation detail
 - crop\_circle\_interpretation
 - culturally\_variable\_nde\_claim
+- current-war-and-vaccine-claims-omitted
 - cyndriel-environment-claim
 - death-account:medical-cause-and-ether-dissolution
 - definition\_varies
@@ -3163,11 +3293,13 @@ Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRES
 - dietary\_advice
 - directive-rules-not-in-transcript
 - disclosure\_claims\_unverified
+- disputed-contact-authenticity-narrative
 - earth-ark-location-claims
 - earth-population-claims
 - earth-reset-control-claim
 - earthly-cern-portal-claim-not-included
 - emotion-and-integration-doctrine-attributed
+- emotional and metaphysical claims are attributed to Yazhi, not independently verified
 - ether-field-model
 - extraordinary-ability-claims
 - extraordinary-cosmology-claims
@@ -3223,6 +3355,7 @@ Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRES
 - incomplete-investigation
 - intelligence-report-unverified
 - intercultural-claims
+- internal-count-conflict:swaruwnian-chromosomes
 - intra-source-policy-tension
 - karma-interpretation-disagreement
 - liberation-framing-disputed
@@ -3282,6 +3415,7 @@ Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRES
 - solar-system-history-attributed
 - soul-and-density-doctrine-attributed
 - source includes conflicting publication and event dates; claims retain stated dates
+- source makes unverified claims about extraterrestrial warfare and Federation involvement
 - source-speaker-shift-dhor-to-yazhi
 - speaker-attribution-swaruu-x-athena
 - speaker-shift-cic-to-mari

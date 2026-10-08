@@ -2355,5 +2355,159 @@
       "Bucegi DUMB",
       "Bucegi base"
     ]
+  },
+  {
+    "id": "merlin-and-arthur",
+    "name": "Merlin and King Arthur",
+    "kind": "historical tradition",
+    "aliases": [
+      "Merlin",
+      "King Arthur"
+    ]
+  },
+  {
+    "id": "celtic-bards",
+    "name": "Celtic Bards",
+    "kind": "cultural institution",
+    "aliases": [
+      "Bards"
+    ]
+  },
+  {
+    "id": "crystalline-dna",
+    "name": "Crystalline DNA and proto-silicon biology",
+    "kind": "biology",
+    "aliases": [
+      "crystalline DNA",
+      "proto-silicon DNA"
+    ]
+  },
+  {
+    "id": "moma-ship-ai",
+    "name": "Moma ship AI",
+    "kind": "artificial intelligence",
+    "aliases": [
+      "Moma",
+      "Mother"
+    ]
+  },
+  {
+    "id": "agro-threat-focus",
+    "name": "Agro threat focus",
+    "kind": "perception mechanic",
+    "aliases": [
+      "Agro"
+    ]
+  },
+  {
+    "id": "crimea-taygetan-base",
+    "name": "Taygetan base beneath Crimea",
+    "kind": "location",
+    "aliases": [
+      "Crimea base"
+    ]
+  },
+  {
+    "id": "haitian-zombification",
+    "name": "Haitian zombification",
+    "kind": "phenomenon",
+    "aliases": [
+      "zombificación haitiana",
+      "Haitian zombies"
+    ]
+  },
+  {
+    "id": "pulsa-denura",
+    "name": "Pulsa Denura",
+    "kind": "ritual",
+    "aliases": [
+      "Pulsa Denura ritual"
+    ]
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "kind": "civilization-state",
+    "aliases": [
+      "PRC"
+    ]
+  },
+  {
+    "id": "lush-feeding-entities",
+    "name": "Fear-fed egregore entities",
+    "kind": "metaphysical entity",
+    "aliases": [
+      "Lush-feeding entities"
+    ]
+  },
+  {
+    "id": "ley-line-energy-nodes",
+    "name": "Ley-line energy nodes",
+    "kind": "planetary energy system",
+    "aliases": [
+      "ley-line nodes",
+      "Earth energy nodes"
+    ]
+  },
+  {
+    "id": "lyran-unified-brain",
+    "name": "Lyra-based unified brain",
+    "kind": "species biology",
+    "aliases": [
+      "cerebro unificado de Lyra",
+      "unified nonhuman brain"
+    ]
+  },
+  {
+    "id": "taygetan-mathematics",
+    "name": "Taygetan mathematics",
+    "kind": "technology and mathematics",
+    "aliases": [
+      "base-12 Taygetan math",
+      "matemática taygeteana"
+    ]
+  },
+  {
+    "id": "matrix-energy-insertion",
+    "name": "Matrix energy insertion",
+    "kind": "technology",
+    "aliases": [
+      "inserting matter into the Matrix",
+      "frequency-engine insertion"
+    ]
+  },
+  {
+    "id": "supraluminal-hyperdrive",
+    "name": "Supraluminal frequency hyperdrive",
+    "kind": "technology",
+    "aliases": [
+      "Hyperdrive",
+      "Ether jumps"
+    ]
+  },
+  {
+    "id": "telepathic-channeling",
+    "name": "Telepathic channeling",
+    "kind": "communication method",
+    "aliases": [
+      "channeling",
+      "channelled telepathy"
+    ]
+  },
+  {
+    "id": "combat-doctrine",
+    "name": "Combat doctrine",
+    "kind": "practice",
+    "aliases": [
+      "warrior philosophy"
+    ]
+  },
+  {
+    "id": "ishtar-genetic-project",
+    "name": "Ishtar genetic project",
+    "kind": "historical project",
+    "aliases": [
+      "Ishtar healer plan"
+    ]
   }
 ]

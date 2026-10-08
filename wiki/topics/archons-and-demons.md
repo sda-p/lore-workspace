@@ -326,6 +326,16 @@ Source: [ARCONTES - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swa
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-0a57940b9e27-c02
+
+She distinguishes these living humans from corpses animated by unincarnated lower-astral entities.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Zombificación de la humanidad y el Pulsa Denura - Zombies - Sophia Swaruu](https://swaruu.org/transcripts/zombificacion-de-la-humanidad-y-el-pulsa-denura-zombies-sophia-swaruu) (2022-02-27; es); passages p0007. [Structured record](../../records/src-0a57940b9e27.json).
+
+Related topics: [Haitian zombification](haitian-zombification.md).
+
 ## Claims filed under other topics
 
 - [src-bc84d0e92778-c03](consciousness-metaphysics.md#src-bc84d0e92778-c03) — Consciousness and metaphysics
@@ -382,6 +392,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - family-dynamics-generalization
 - historical-allegations
 - historical-doctrine-origin-claim
+- internal-tension:population-change
 - lunar-artificial-structure-claims-attributed
 - metaphysical-claims\_attributed
 - metaphysical-model

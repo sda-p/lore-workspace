@@ -1,0 +1,73 @@
+{
+  "source_id": "src-7518b246ebb6",
+  "snapshot_sha256": "ee3d5059e52f7796d90e5eea4b3ae5824d97a14a01f84c60d120b127a52fadd4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7518b246ebb6-c01",
+      "assertion": "Yazhi argues gravity creates matter and mass does not contain extractable energy, so nuclear chain-reaction detonations as described are impossible; conventional chemical blasts remain possible.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0040",
+        "p0043",
+        "p0045",
+        "p0066",
+        "p0067"
+      ],
+      "primary_topic": "atomic-wave-structure",
+      "topics": [
+        "atomic-wave-structure"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7518b246ebb6-c02",
+      "assertion": "She suggests energy weapons may be misrepresented as nuclear; she says zero-point reactors can power ion-beam weapons.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0049",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "galactic-high-energy-arms",
+      "topics": [
+        "galactic-high-energy-arms"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7518b246ebb6-c03",
+      "assertion": "She describes nuclear plants as radioactive and dangerous, but alleges they provide little grid electricity and mainly generate environmental frequencies; she says observers monitor them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi distinguishes alleged energy weapons from radioactive materials and nuclear plants."
+  ],
+  "coverage_gaps": [
+    "specific Hiroshima and Nagasaki account",
+    "Das Glocke claims",
+    "weapons history"
+  ]
+}

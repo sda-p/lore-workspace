@@ -416,6 +416,26 @@ Source: [EL EGO Y EL AMOR - MENSAJE EXTRATERRESTRE - NIBIRU - STAR TREK - SWARUU
 
 Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 
+### src-d8771f2c1186-c02
+
+Swaruu (9) described black goo as petroleum crystallized under tectonic pressure, with heavy metals, magnetic properties, and antimatter particles.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [SUBE EL PRECIO DEL COMBUSTIBLE LO QUE TIENES QUE SABER - EL PETROLEO ES INAGOTABLE - Swaruu de Erra](https://swaruu.org/transcripts/sube-el-precio-del-combustible-lo-que-tienes-que-saber-el-petroleo-es-inagotable-swaruu-de-erra) (2022-07-15; es); passages p0020, p0022, p0023, p0025, p0028. [Structured record](../../records/src-d8771f2c1186.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-d8771f2c1186-c03
+
+She said planetary black goo carries planetary frequencies and DNA patterns, linking planetary consciousness to species and new life. She characterized black goo as semi-etheric and potentially portal-like.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [SUBE EL PRECIO DEL COMBUSTIBLE LO QUE TIENES QUE SABER - EL PETROLEO ES INAGOTABLE - Swaruu de Erra](https://swaruu.org/transcripts/sube-el-precio-del-combustible-lo-que-tienes-que-saber-el-petroleo-es-inagotable-swaruu-de-erra) (2022-07-15; es); passages p0031, p0035, p0036, p0038, p0039, p0040. [Structured record](../../records/src-d8771f2c1186.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-6bb3f5207f8d-c01](terrestrial-science.md#src-6bb3f5207f8d-c01) — Terrestrial science
@@ -428,9 +448,13 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - [src-ce2d9650cd21-c01](artificial-intelligence.md#src-ce2d9650cd21-c01) — Artificial intelligence
 - [src-ce2d9650cd21-c02](artificial-intelligence.md#src-ce2d9650cd21-c02) — Artificial intelligence
 - [src-da37867cb1a1-c02](natural-portals.md#src-da37867cb1a1-c02) — Natural and artificial portals
+- [src-66eb347ad466-c02](borg.md#src-66eb347ad466-c02) — Borg
+- [src-8e0dc9c725c3-c02](borg.md#src-8e0dc9c725c3-c02) — Borg
+- [src-8e0dc9c725c3-c03](borg.md#src-8e0dc9c725c3-c03) — Borg
 
 ## Review flags
 
+- Claims about invasive AI and Borg are attributed to the speakers; the transcript provides no independent evidence.
 - Related Spanish and English articles cover overlapping material but have different scopes; translation equivalence is unconfirmed.
 - attributed-medical-conspiracy-claims
 - claim: extraordinary abduction and biology account
@@ -445,15 +469,18 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - invasive-ai-claims-attributed
 - medical\_claims\_unverified
 - nonstandard-biology-claims
+- origin-unknown
 - reproductive\_claims\_unverified
 - same-language-near-duplicate-src-7872bc2f2c04
 - segmentation-diff
 - simulation-and-AI-claims
+- source-distinguishes-invasive-AI-from-galactic-network
 - speaker-header-diff
 - speaker-label-ambiguity
 - translated\_source
 - translation-counterpart:src-af195906d27f-close-full
 - unsafe\_experiment\_questions\_omitted
+- unverified-entity
 - unverified\_claims
 - unverified\_extraterrestrial\_threat\_claims
 - unverified\_laboratory\_report

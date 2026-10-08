@@ -170,6 +170,110 @@ Source: [Vacunas y Nanotecnología - Respuestas de Aneeka a las preguntas de dr 
 
 Related topics: [Genetic weapons](genetic-weapons.md).
 
+### src-eb63ff9a2c19-c01
+
+Anéeka reports that tested EMPs disabled the alleged nanotechnology only during exposure, with function returning within seconds.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [Nanotecnologia y Pulsos EMP en personas vacunadas - Aneeka responde preguntas de Dr Alex](https://swaruu.org/transcripts/nanotecnologia-y-pulsos-emp-en-personas-vacunadas-aneeka-responde-preguntas-de-dr-alex) (2021-12-27; es); passages p0008, p0009. [Structured record](../../records/src-eb63ff9a2c19.json).
+
+Related topics: [5G electromagnetic weapons](5g-electromagnetic-weapons.md).
+
+### src-eb63ff9a2c19-c02
+
+She says counter-frequency stopped its claimed 5G communication while applied, then transmission resumed.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [Nanotecnologia y Pulsos EMP en personas vacunadas - Aneeka responde preguntas de Dr Alex](https://swaruu.org/transcripts/nanotecnologia-y-pulsos-emp-en-personas-vacunadas-aneeka-responde-preguntas-de-dr-alex) (2021-12-27; es); passages p0011, p0012. [Structured record](../../records/src-eb63ff9a2c19.json).
+
+Related topics: [5G electromagnetic weapons](5g-electromagnetic-weapons.md).
+
+### src-eb63ff9a2c19-c03
+
+Anéeka claims nanographene emits a fixed inoculation ID and can transmit location and biomedical data. Presented as laboratory findings; unverified in this source.
+
+Attributed to **Anéeka**; reported; extraction confidence: low.
+
+Source: [Nanotecnologia y Pulsos EMP en personas vacunadas - Aneeka responde preguntas de Dr Alex](https://swaruu.org/transcripts/nanotecnologia-y-pulsos-emp-en-personas-vacunadas-aneeka-responde-preguntas-de-dr-alex) (2021-12-27; es); passages p0017, p0021, p0025, p0026. [Structured record](../../records/src-eb63ff9a2c19.json).
+
+### src-eb63ff9a2c19-c04
+
+She claims the system could support remote behavioral influence, including perceived voice transmission and thought guidance.
+
+Attributed to **Anéeka**; speculative; extraction confidence: low.
+
+Source: [Nanotecnologia y Pulsos EMP en personas vacunadas - Aneeka responde preguntas de Dr Alex](https://swaruu.org/transcripts/nanotecnologia-y-pulsos-emp-en-personas-vacunadas-aneeka-responde-preguntas-de-dr-alex) (2021-12-27; es); passages p0026, p0027, p0028. [Structured record](../../records/src-eb63ff9a2c19.json).
+
+### src-a29facfa8073-c01
+
+Anéeka said outside researchers report active graphene degradation after about three months, but her lab attributed remaining material to integration into tissues. She said the degree of degradation was unknown and described her account as based on Toleka lab data.
+
+Attributed to **Anéeka**; reported; extraction confidence: low.
+
+Source: [Grafeno No Se Degrada - Se Asimila - Aneeka de Temmer](https://swaruu.org/transcripts/grafeno-no-se-degrada-se-asimila-aneeka-de-temmer) (2022-01-14; es); passages p0005, p0006, p0007, p0013. [Structured record](../../records/src-a29facfa8073.json).
+
+### src-a29facfa8073-c02
+
+Anéeka alleged repeated doses were intended to saturate cells and accelerate DNA change, rather than simply replace degraded graphene.
+
+Attributed to **Anéeka**; asserted; extraction confidence: low.
+
+Source: [Grafeno No Se Degrada - Se Asimila - Aneeka de Temmer](https://swaruu.org/transcripts/grafeno-no-se-degrada-se-asimila-aneeka-de-temmer) (2022-01-14; es); passages p0007, p0008. [Structured record](../../records/src-a29facfa8073.json).
+
+### src-a29facfa8073-c03
+
+Anéeka alleged the injections would select for genetic traits, with younger people more likely to undergo transformation and older or physically vulnerable people facing extermination.
+
+Attributed to **Anéeka**; asserted; extraction confidence: low.
+
+Source: [Grafeno No Se Degrada - Se Asimila - Aneeka de Temmer](https://swaruu.org/transcripts/grafeno-no-se-degrada-se-asimila-aneeka-de-temmer) (2022-01-14; es); passages p0009, p0010, p0011, p0012. [Structured record](../../records/src-a29facfa8073.json).
+
+### src-bd6721b51e72-c01
+
+Anéeka says she lacks patient samples and relies on computer models, limiting her ability to answer detailed clinical questions.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Grafeno en las Vacunas - Anéeka de Temmer](https://swaruu.org/transcripts/grafeno-en-las-vacunas-aneeka-de-temmer) (2022-01-10; es); passages p0002, p0003. [Structured record](../../records/src-bd6721b51e72.json).
+
+### src-bd6721b51e72-c02
+
+Anéeka attributes varied symptoms to vaccines exacerbating each person's preexisting vulnerabilities.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Grafeno en las Vacunas - Anéeka de Temmer](https://swaruu.org/transcripts/grafeno-en-las-vacunas-aneeka-de-temmer) (2022-01-10; es); passages p0006, p0008. [Structured record](../../records/src-bd6721b51e72.json).
+
+### src-bd6721b51e72-c03
+
+Anéeka claims injected graphene integrates into tissues rather than fully degrading, while acknowledging partial elimination. She contrasts her laboratory model with terrestrial sources.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Grafeno en las Vacunas - Anéeka de Temmer](https://swaruu.org/transcripts/grafeno-en-las-vacunas-aneeka-de-temmer) (2022-01-10; es); passages p0017, p0018, p0019, p0032. [Structured record](../../records/src-bd6721b51e72.json).
+
+Related topics: [Neural frequency and genetic engineering](neural-frequency-genetic-engineering.md).
+
+### src-bd6721b51e72-c05
+
+Anéeka says graphene tolerance varies by individual biology and has no single threshold.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Grafeno en las Vacunas - Anéeka de Temmer](https://swaruu.org/transcripts/grafeno-en-las-vacunas-aneeka-de-temmer) (2022-01-10; es); passages p0033, p0034. [Structured record](../../records/src-bd6721b51e72.json).
+
+### src-9021de63c829-c01
+
+Yazhi claims vaccines alter bodily frequencies and that graphene changes DNA physically.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vacunas y los Peligros del Lado Astral - Solo texto](https://swaruu.org/transcripts/vacunas-y-los-peligros-del-lado-astral-solo-texto) (2022-06-16; es); passages p0003. [Structured record](../../records/src-9021de63c829.json).
+
+Related topics: [Neural frequency and genetic engineering](neural-frequency-genetic-engineering.md).
+
 ## Claims filed under other topics
 
 - [src-f4085f32044d-c02](taygetans.md#src-f4085f32044d-c02) — Taygetans
@@ -189,11 +293,18 @@ Related topics: [Genetic weapons](genetic-weapons.md).
 - [src-e7f3b531d57a-c02](medical-pods.md#src-e7f3b531d57a-c02) — Medical regeneration pods
 - [src-da49b1ecdb2a-c02](nanotechnology.md#src-da49b1ecdb2a-c02) — Nanotechnology and implants
 - [src-da49b1ecdb2a-c03](genetic-weapons.md#src-da49b1ecdb2a-c03) — Genetic weapons
+- [src-375ee3e4cf1f-c02](neural-frequency-genetic-engineering.md#src-375ee3e4cf1f-c02) — Neural frequency and genetic engineering
+- [src-bd6721b51e72-c04](neural-frequency-genetic-engineering.md#src-bd6721b51e72-c04) — Neural frequency and genetic engineering
+- [src-80bdf93897ea-c04](ukraine.md#src-80bdf93897ea-c04) — Ukraine
+- [src-9021de63c829-c02](astral-entities.md#src-9021de63c829-c02) — Astral entities
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - Alenym-attack-culprit-unknown
+- Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
+- Contains severe health and population-control allegations attributed to Anéeka.
+- Medical and genetic allegations are attributed claims; the speaker notes reliance on simulations rather than patient samples.
 - anti-vaccine-conspiracy-claims
 - attributed-covid-and-5g-conspiracy-claims
 - attributed-medical-conspiracy-claims
@@ -220,8 +331,10 @@ Related topics: [Genetic weapons](genetic-weapons.md).
 - nonhuman-lab-report
 - pandemic-conspiracy-claims
 - population-control-allegations
+- potentially-harmful-device-experiment-claims
 - translation-counterpart-unconfirmed
 - translation-counterpart:src-50afee47b8a2-close-full
+- unverified-biomedical-claims
 - unverified-nonhuman-intervention-narrative
 - unverified\_extraterrestrial\_claims
 - virus-model:exosome-equivalence

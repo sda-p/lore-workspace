@@ -1,0 +1,110 @@
+{
+  "source_id": "src-a8d6c63dc563",
+  "snapshot_sha256": "254dae5a329f80cd345f016eea997246591999572ca07a0769534655b0724947",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a8d6c63dc563-c01",
+      "assertion": "Alenym says military liberation worsens war, fails to change inhabitants’ mindset, and can be seen as invasion.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0007",
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "false-alien-invasion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a8d6c63dc563-c02",
+      "assertion": "She says liberators face ostracism and damaged relations with other councils.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0019",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "higher-federation-councils"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a8d6c63dc563-c03",
+      "assertion": "Alenym says one or two evacuees assimilate, but larger groups can form enclaves and impose values.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a8d6c63dc563-c04",
+      "assertion": "She says Earth must resolve its problems; mentors offer limited guidance, while the Federation will not intervene.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0043",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starseed-guides"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a8d6c63dc563-c05",
+      "assertion": "Alenym speculates remote upper Federation governance may be AI, obscured by remote presence and slowed by bureaucracy.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "higher-federation-councils",
+      "topics": [
+        "higher-federation-councils",
+        "galactic-federation",
+        "sentient-starship-ai"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "exopolitical and refugee claims are attributed to Alenym and not independently verified"
+  ],
+  "coverage_gaps": [
+    "personal moral motivation",
+    "death and reincarnation claims",
+    "majority consensus on Earth’s future"
+  ]
+}

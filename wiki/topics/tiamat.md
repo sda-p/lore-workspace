@@ -342,6 +342,42 @@ Source: [Atlantida y Lemuria - Invasion de Venus - Preguntas y Respuestas - \*\*
 
 Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 
+### src-b0eb8093b751-c03
+
+Athena places Giza and Atlantis before Tiamat’s destruction, followed by flooding and Moon placement to stabilize Earth; she calls the Van Allen belt a byproduct, not a prison. Her alternative chronology; she explicitly rejects the prison-purpose claim.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Nebulosas, Precesión de los equinoccios, y Mas - Una Mujer Extraterrestre Explica (Athena Swaruu)](https://swaruu.org/transcripts/nebulosas-precesion-de-los-equinoccios-y-mas-una-mujer-extraterrestre-explica-athena-swaruu) (2022-05-09; es); passages p0033, p0035, p0036, p0037, p0040, p0041, p0042, p0043, p0044, p0045, p0047. [Structured record](../../records/src-b0eb8093b751.json).
+
+Related topics: [The Moon as a biosphere ship](moon-biosphere-ship.md), [Van Allen belts](van-allen-belts.md).
+
+### src-a18d1af875eb-c01
+
+Tiamat’s destruction shifted solar-system orbits; Saturn captured debris that formed its rings.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Saturno - Sistema Solar - Informacion de Swaruu de Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/saturno-sistema-solar-informacion-de-swaruu-de-erra-taygeta-pleiades) (2022-07-31; es); passages p0007, p0010, p0014, p0015. [Structured record](../../records/src-a18d1af875eb.json).
+
+### src-bfb9700317e0-c02
+
+She placed Giza and Atlantis before Tiamat’s destruction, followed by planetary disruption, floods, and an axial shift about 12,000 years ago. She cautioned that time is not constant.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [El Diluvio Universial Tiamat Cronologia Terrestre de los 12.500 años – Athena Swaruu](https://swaruu.org/transcripts/el-diluvio-universial-tiamat-cronologia-terrestre-de-los-12-500-anos-athena-swaruu) (2022-05-12; es); passages p0017, p0018, p0019, p0020, p0021, p0022, p0023, p0024. [Structured record](../../records/src-bfb9700317e0.json).
+
+### src-375ee3e4cf1f-c03
+
+Yazhi says an ancient system aimed to heal flood and Tiamat-related trauma.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu y los Asuntos del Pasado Humano - Influencias Perceptuales y de Laboratorio](https://swaruu.org/transcripts/yazhi-swaruu-y-los-asuntos-del-pasado-humano-influencias-perceptuales-y-de-laboratorio) (2021-12-18; es); passages p0024. [Structured record](../../records/src-375ee3e4cf1f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c02](black-goo.md#src-d47faace954b-c02) — Black goo
@@ -366,6 +402,8 @@ Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 - [src-fba00f670b62-c04](reptilians.md#src-fba00f670b62-c04) — Reptilians
 - [src-940f9935241e-c02](global-deluge.md#src-940f9935241e-c02) — Global deluge
 - [src-c57cf7f12530-c01](mars.md#src-c57cf7f12530-c01) — Mars
+- [src-906e32a9d0d6-c01](moon-biosphere-ship.md#src-906e32a9d0d6-c01) — The Moon as a biosphere ship
+- [src-b0c5455056ea-c01](ishtar-genetic-project.md#src-b0c5455056ea-c01) — Ishtar genetic project
 
 ## Review flags
 
@@ -374,7 +412,10 @@ Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 - Different trauma explanations are attributed separately to Swaruu and Yazhi.
 - Nibiru\_claim\_conflicts\_with\_other\_sources
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
+- Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012.
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- Transcript combines several speakers and dates; claims preserve speaker attribution
+- alternative-cosmology-and-chronology-claims
 - approximate\_dates
 - attributed-medical-conspiracy-claims
 - cataclysm-history-attributed
@@ -390,6 +431,7 @@ Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 - historical-claims-unverified
 - historical-conspiracy-claims
 - internal-date-tension
+- lore-claims-attributed-to-Yazhi
 - lunar-reactor-age-origin-uncertainty
 - metaphysical-claims
 - miranda-no-bases-versus-other-moon-bases

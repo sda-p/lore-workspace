@@ -1406,6 +1406,144 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#GALAXIA - Sophia \#Swaruu](https://swaruu.org/transcripts/principio-de-no-localidad-la-navegacion-de-naves-estelares-por-la-galaxia-sophia-swaruu) (2021-10-19; es); passages p0008, p0009, p0010. [Structured record](../../records/src-ae3ec238fe23.json).
 
+### src-b0eb8093b751-c01
+
+Athena says nebulae gather gas and particles around gravitational balance nodes between Pleiades stars; their colors reflect composition, and some gases emit light. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Nebulosas, Precesión de los equinoccios, y Mas - Una Mujer Extraterrestre Explica (Athena Swaruu)](https://swaruu.org/transcripts/nebulosas-precesion-de-los-equinoccios-y-mas-una-mujer-extraterrestre-explica-athena-swaruu) (2022-05-09; es); passages p0005, p0006, p0010, p0011, p0012. [Structured record](../../records/src-b0eb8093b751.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b0eb8093b751-c02
+
+She models precession as a system-wide gravity-energy interaction, with Sirius prominent but not sole; cycle lengths depend on collective time perception. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Nebulosas, Precesión de los equinoccios, y Mas - Una Mujer Extraterrestre Explica (Athena Swaruu)](https://swaruu.org/transcripts/nebulosas-precesion-de-los-equinoccios-y-mas-una-mujer-extraterrestre-explica-athena-swaruu) (2022-05-09; es); passages p0021, p0022, p0024, p0025, p0026, p0029, p0030. [Structured record](../../records/src-b0eb8093b751.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ce0d96e82011-c01
+
+Athena says starship navigation computers map energy patterns rather than places.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 3 PARTE 2 - Éter - Insertando Objetos en la Matrix - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-3-parte-2-eter-insertando-objetos-en-la-matrix-athena-swaruu) (2022-07-04; es); passages p0019, p0031, p0032. [Structured record](../../records/src-ce0d96e82011.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d328a6c23916-c02
+
+She says large ships need progressive frequency shifts because mass limits engine-driven changes.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Teletransporte – Teleportacion y Naves en HiperEspacio -Athena Swaruu](https://swaruu.org/transcripts/teletransporte-teleportacion-y-naves-en-hiperespacio-athena-swaruu) (2022-04-14; es); passages p0043, p0045, p0048, p0061, p0062. [Structured record](../../records/src-d328a6c23916.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d328a6c23916-c04
+
+Athena says small craft can shift instantly, while stronger mass-to-power ratios permit larger frequency steps.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Teletransporte – Teleportacion y Naves en HiperEspacio -Athena Swaruu](https://swaruu.org/transcripts/teletransporte-teleportacion-y-naves-en-hiperespacio-athena-swaruu) (2022-04-14; es); passages p0041, p0042, p0067, p0068. [Structured record](../../records/src-d328a6c23916.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-3ce31d2810ab-c04
+
+She measures advanced civilization by interstellar capability and ability to produce matter from energy.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LOS EXTRATERRESTRES QUE DESEAN LA TIERRA -Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/los-extraterrestres-que-desean-la-tierra-aneeka-de-temmer-taygeta) (2021-12-29; es); passages p0062, p0063, p0064, p0070. [Structured record](../../records/src-3ce31d2810ab.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-74cf1c7706e3-c03
+
+Small craft shift instantly, while massive ships make gradual frequency steps limited by engine power and mass.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 4 (Parte 2) - Naves Espaciales en Hiper Espacio (Athena Swaruu)](https://swaruu.org/transcripts/navegacion-estelar-4-parte-2-naves-espaciales-en-hiper-espacio-athena-swaruu) (2022-07-24; es); passages p0016, p0018, p0020, p0021, p0033, p0034. [Structured record](../../records/src-74cf1c7706e3.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-769b9ad6be07-c01
+
+Athena says Toleka detected no Starlink-like objects in low orbit, but cannot verify their absence elsewhere.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Satélites Starlink - Realmente Están Allí? Athena Swaruu informa lo que sabe](https://swaruu.org/transcripts/satelites-starlink-realmente-estan-alli-athena-swaruu-informa-lo-que-sabe) (2022-03-07; es); passages p0014, p0017, p0029, p0030. [Structured record](../../records/src-769b9ad6be07.json).
+
+Related topics: [Nonhuman surveillance drones](nonhuman-surveillance-drones.md).
+
+### src-c51704b659a3-c04
+
+She says Ishtar’s hand-held objects are ship controls governing life.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [Isthar simbologia – Swaruu de Erra - Taygeta](https://swaruu.org/transcripts/isthar-simbologia-swaruu-de-erra-taygeta) (2022-01-25; es); passages p0012. [Structured record](../../records/src-c51704b659a3.json).
+
+### src-a6c6ae12245f-c04
+
+Swaruu X (Athena) said all stars connect through etheric energy flows that can serve as wormhole routes for spacecraft.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Extraterrestres Navegando los Portales - Sol y Agujeros de Gusano - Athena Swaruu](https://swaruu.org/transcripts/extraterrestres-navegando-los-portales-sol-y-agujeros-de-gusano-athena-swaruu) (2022-02-23; es); passages p0035, p0059, p0062. [Structured record](../../records/src-a6c6ae12245f.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Solar portal transit](solar-portal-transit.md).
+
+### src-7ff15150434a-c01
+
+Athena says hyperdrive ships rematerialize by copying destination frequencies from quantum memory maps; range depends on map and engine precision.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar 3 - Insertando Objetos en la Matrix - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-3-insertando-objetos-en-la-matrix-athena-swaruu) (2022-06-27; es); passages p0027, p0028, p0042, p0044, p0045. [Structured record](../../records/src-7ff15150434a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-7ff15150434a-c02
+
+Only the destination bubble needs emulation; richer local map data improves arrival precision and timing.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar 3 - Insertando Objetos en la Matrix - Athena Swaruu](https://swaruu.org/transcripts/navegacion-estelar-3-insertando-objetos-en-la-matrix-athena-swaruu) (2022-06-27; es); passages p0030, p0031, p0033. [Structured record](../../records/src-7ff15150434a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-f47ad5f1276b-c02
+
+She says consciousness generates perceived time and distance; starship computers map energetic frequencies rather than physical locations.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL ÉTER - LA FUENTE ORIGINAL – ATHENA SWARUU](https://swaruu.org/transcripts/el-eter-la-fuente-original-athena-swaruu) (2022-05-10; es); passages p0021, p0022, p0024, p0030, p0033, p0034. [Structured record](../../records/src-f47ad5f1276b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5e5e29eb902e-c03
+
+Anéeka describes photon belts as toroidal stellar dynamics, not a new phenomenon.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Mini Temas - Información Extraterrestre - Tertulia con Gosia](https://swaruu.org/transcripts/mini-temas-informacion-extraterrestre-tertulia-con-gosia) (2022-01-30; es); passages p0018, p0019, p0020, p0024. [Structured record](../../records/src-5e5e29eb902e.json).
+
+Related topics: [Alcyone Council](alcyone-council.md), [Cyndriel](cyndriel.md).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -1506,11 +1644,25 @@ Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#
 - [src-d3e73f956099-c04](ship-internal-time.md#src-d3e73f956099-c04) — Ship internal time
 - [src-ae3ec238fe23-c02](artificial-portals.md#src-ae3ec238fe23-c02) — Artificial portals
 - [src-ae3ec238fe23-c03](frequency-map-navigation.md#src-ae3ec238fe23-c03) — Frequency-map navigation
+- [src-0dcb4b37d8c4-c02](natural-portals.md#src-0dcb4b37d8c4-c02) — Natural and artificial portals
+- [src-77187dee8432-c01](energy-generation.md#src-77187dee8432-c01) — Energy generation technology
+- [src-d328a6c23916-c01](natural-portals.md#src-d328a6c23916-c01) — Natural and artificial portals
+- [src-74cf1c7706e3-c01](natural-portals.md#src-74cf1c7706e3-c01) — Natural and artificial portals
+- [src-769b9ad6be07-c02](van-allen-belts.md#src-769b9ad6be07-c02) — Van Allen belts
+- [src-c51704b659a3-c03](astrotheology.md#src-c51704b659a3-c03) — Astrotheology
+- [src-a6c6ae12245f-c01](natural-portals.md#src-a6c6ae12245f-c01) — Natural and artificial portals
+- [src-947a557da420-c01](natural-portals.md#src-947a557da420-c01) — Natural and artificial portals
+- [src-947a557da420-c02](natural-portals.md#src-947a557da420-c02) — Natural and artificial portals
+- [src-947a557da420-c03](artificial-portals.md#src-947a557da420-c03) — Artificial portals
+- [src-2b1192891e85-c02](starship-systems.md#src-2b1192891e85-c02) — Starship systems
+- [src-b6d4df9b3066-c04](muon-gravity-communications.md#src-b6d4df9b3066-c04) — Muon-triggered gravity communications
+- [src-e10b7b1c1712-c01](great-pyramid-of-giza.md#src-e10b7b1c1712-c01) — Great Pyramid of Giza
 
 ## Review flags
 
 - Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age
 - Anéeka explicitly distinguishes “gravity holes” from black holes.
+- Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Federation-policy\_claims\_attributed
@@ -1519,12 +1671,17 @@ Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#
 - No English counterpart found in the cached sources.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
+- Resource-seeking distinction is level-dependent in Anéeka’s account
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
+- The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- Travel-time figures are speaker-provided examples and depend on vessel and route
+- alternative-cosmology-and-chronology-claims
 - ancient-symbol-interpretations-attributed
 - attribution\_scope
+- blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified
 - cern-portal-claim
 - comparative\_technology\_claims
 - computer-throughput-claim-attributed
@@ -1565,6 +1722,7 @@ Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#
 - multiple\_futures\_claim
 - name-variant-review
 - narrator\_claims
+- near-duplicate:src-d328a6c23916
 - nonstandard-physics-claims
 - nonstandard\_astrophysics\_claims
 - pandemic-claims-omitted
@@ -1574,18 +1732,21 @@ Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#
 - phenomenon\_not\_fully\_understood
 - portal-location-and-destination-vary
 - procedure-description
+- pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified
 - reincarnation-and-catholic-control-claim
 - related-frequency-navigation-source
 - related\_series\_part
 - royal-selection-and-symbolism-attributed
 - same-language-near-duplicate-src-6a5223076196
 - secret\_ship\_capability\_claims
+- solar-physics-and-5g-claims-omitted
 - source distinguishes historical nonexistence in this timeline from a belief-generated egregore
 - space\_suit\_claims\_unverified
 - speaker-speculation
 - species\_specific\_reproduction
 - starlink-observation-scope-ambiguity
 - starspot-portal-model-spans-two-speakers
+- symbolic-interpretation-attributed-to-Swaruu9
 - symbolic\_interpretations
 - taygetan-society-claims-attributed
 - technology\_and\_mind\_interface
@@ -1600,6 +1761,7 @@ Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#
 - translation-counterpart:src-ce6ea4ce1c3c-close
 - translation-equivalence-unverified
 - translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
+- two-sphinx-vs-two-kingdom-symbolism
 - unmapped\_regions\_and\_return\_risk
 - unverified-reset-claims
 - unverified\_ancient\_technology\_claims

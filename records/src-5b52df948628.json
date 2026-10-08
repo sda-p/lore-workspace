@@ -1,0 +1,43 @@
+{
+  "source_id": "src-5b52df948628",
+  "snapshot_sha256": "c8fa7825b65f9ec5b8f42494a8304af86800e064f3048117161c349ff13b6571",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5b52df948628-c01",
+      "assertion": "Anéeka said Earth has an iron core but is partly hollow, with deep internal seas and habitable layers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0014", "p0016", "p0017"],
+      "primary_topic": "subterranean-ocean-networks",
+      "topics": ["subterranean-ocean-networks", "intraterrestrial-civilizations", "terrestrial-science"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b52df948628-c02",
+      "assertion": "Anéeka claimed the Cabal manipulates weather by altering natural Earth dynamics and controls most terrestrial climate.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0030", "p0031"],
+      "primary_topic": "weather-control",
+      "topics": ["weather-control", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b52df948628-c03",
+      "assertion": "Anéeka described Taygetan physics as gravity from a quantum field generating mass, linking Earth's mass to attention from consciousness or ether.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0021", "p0025"],
+      "primary_topic": "gravity-harmonics",
+      "topics": ["gravity-harmonics", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Polaris motion", "Earth imagery claims", "aurora explanation"]
+}
