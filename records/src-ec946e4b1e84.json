@@ -1,0 +1,100 @@
+{
+  "source_id": "src-ec946e4b1e84",
+  "snapshot_sha256": "d9d271c164920c27f4ca5cd3e90eb58bf8c6d08f7660049593dc8bce7f1bbe3c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ec946e4b1e84-c01",
+      "assertion": "Mari says Etorthan-led audits targeted more than 900 major ships orbiting Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ec946e4b1e84-c02",
+      "assertion": "Mari says Federation claims of stopping human smuggling lacked visible proof beyond an official notice.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ec946e4b1e84-c03",
+      "assertion": "Mari says Taygetan leaders refused Etorthan inspections and shut down muon communications after pressure.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ec946e4b1e84-c04",
+      "assertion": "Mari says the Federation restricts Taygetan travel, surface contacts, extractions and decision-making.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ec946e4b1e84-c05",
+      "assertion": "Mari says Federation budget cuts left Taygetans reliant on her channel and donations to remain near Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

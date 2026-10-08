@@ -1,0 +1,126 @@
+{
+  "source_id": "src-07e69a604c97",
+  "snapshot_sha256": "c7286efe53618f348fee7d24694ec0f2737dd73ef4ef6477ddda8bce8a507732",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-07e69a604c97-c01",
+      "assertion": "Mari describes Andromedan councils as voluntary, expert-guided, and consensus-based without voting.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07e69a604c97-c02",
+      "assertion": "She says council authority scales upward when local bodies cannot resolve an issue.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07e69a604c97-c03",
+      "assertion": "She says some societies combine councils with monarchs whose decisions require council approval.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07e69a604c97-c04",
+      "assertion": "She says Taygetan queens may override High Council decisions, subject to review.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07e69a604c97-c05",
+      "assertion": "She says high ethics and service to others are necessary for holistic society stability.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0030",
+        "p0031",
+        "p0034",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07e69a604c97-c06",
+      "assertion": "She alleges Earth’s Cabal sought to colonize Taygeta and install a puppet queen.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "council-governance",
+    "monarchy",
+    "holistic-society-conditions"
+  ]
+}

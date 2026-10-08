@@ -1,0 +1,100 @@
+{
+  "source_id": "src-b77d9fd5db08",
+  "snapshot_sha256": "5de5ea513b850f816a2f7cada6b8e92176c158ab715d59026938d7f07f373528",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b77d9fd5db08-c01",
+      "assertion": "Mari says music’s frequencies shape matter and can alter mood, attention, and perceived vibration.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b77d9fd5db08-c02",
+      "assertion": "She alleges Cabal-controlled industries promote disharmonic popular music and lyrics to shape attitudes and behavior.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b77d9fd5db08-c03",
+      "assertion": "Mari claims 432-Hz tuning is more spiritually and emotionally stimulating than 440 Hz.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b77d9fd5db08-c04",
+      "assertion": "She says high-quality speakers bathe bodies in uplifting sound that repels lower-astral entities; headphones transmit only to ears.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "egregors"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b77d9fd5db08-c05",
+      "assertion": "Mari says advanced societies use sound frequencies for healing, favoring classical music and quality speakers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0024"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy_claims",
+    "unverified_frequency_claims"
+  ],
+  "coverage_gaps": [
+    "sound-mechanisms"
+  ]
+}

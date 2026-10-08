@@ -1,0 +1,104 @@
+{
+  "source_id": "src-47a2e5f62aeb",
+  "snapshot_sha256": "e66316ca1aa9adb11192eec6a76c8b6162671a68c2443c58987ad5ad954ccf20",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-47a2e5f62aeb-c01",
+      "assertion": "Mari says disc-shaped craft are common among emerging interstellar cultures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0005",
+        "p0017"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-47a2e5f62aeb-c02",
+      "assertion": "She says atmospheric plasma glow is an engine side effect, not the ship itself.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-47a2e5f62aeb-c03",
+      "assertion": "She describes disc engines as layered rotating spheres producing toroidal electromagnetic flow.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-47a2e5f62aeb-c04",
+      "assertion": "She says ships can jump by matching destination frequency and use gravity modulation for flight.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-47a2e5f62aeb-c05",
+      "assertion": "She says radar pulses can disable some disc craft, while multi-engine ships resist this.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "disc-craft",
+    "propulsion",
+    "defenses"
+  ]
+}

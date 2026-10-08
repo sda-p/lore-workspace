@@ -1,0 +1,108 @@
+{
+  "source_id": "src-a50592852c6e",
+  "snapshot_sha256": "8bcd5d22dfa319eb41aa4eb3e754b5861188a1cf59ab8ab6a4a42b8fbe331b8a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a50592852c6e-c01",
+      "assertion": "Mari describes dreams as astral experiences when bodily perception filters weaken.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a50592852c6e-c02",
+      "assertion": "She says dream content reflects attention, emotion, and waking circumstances.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0017",
+        "p0018",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a50592852c6e-c03",
+      "assertion": "She says dreaming retains some bodily filtering, unlike death.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a50592852c6e-c04",
+      "assertion": "She doubts the silver cord account, saying she has not observed one.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a50592852c6e-c05",
+      "assertion": "She says dream control and astral travel can improve with practice and self-work.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0026",
+        "p0027",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "dream-model",
+    "astral-travel"
+  ]
+}

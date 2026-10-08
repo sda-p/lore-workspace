@@ -1,0 +1,97 @@
+{
+  "source_id": "src-cd752213df10",
+  "snapshot_sha256": "49cc61ea89f8e3082b44aceefa9877fad2db59be6e82626e40c3ac08b255814f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cd752213df10-c01",
+      "assertion": "Arishah says Urmah communication is constrained by Federation rules; human computer links are forbidden and typing is difficult.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cd752213df10-c02",
+      "assertion": "Arishah says Sumerian cuneiform adapts Urmah claw-based writing onto clay.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cd752213df10-c03",
+      "assertion": "Arishah distrusts Etorthan claims of reform, citing repeated reversals and incompatible emotionless logic.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cd752213df10-c04",
+      "assertion": "Arishah reports Urmah monitor starseeds from orbit using technology, drones, and telepathy, with limited direct help.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cd752213df10-c05",
+      "assertion": "Arishah calls house cats Avyonian family and identifies them as Urmah souls on Earth.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "interview questions on pandemic predictions"
+  ]
+}

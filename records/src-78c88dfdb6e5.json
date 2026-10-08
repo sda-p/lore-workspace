@@ -1,0 +1,103 @@
+{
+  "source_id": "src-78c88dfdb6e5",
+  "snapshot_sha256": "1268e38ea060637e3f9946e2a6875118efaaac49f4edba0fe16bdefa6e116602",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-78c88dfdb6e5-c01",
+      "assertion": "Yazhi says people often have different astral and biological avatars; shared realms depend on focus.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78c88dfdb6e5-c02",
+      "assertion": "She says astral thoughts manifest rapidly as tangible forms, though outcomes vary by individual.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "dimensional-mirroring"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78c88dfdb6e5-c03",
+      "assertion": "Yazhi says she surveys Earth’s astral foundations and directs high-frequency souls to troubled areas.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78c88dfdb6e5-c04",
+      "assertion": "She says one starseed can carry the power of legions, though few confront astral negativity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78c88dfdb6e5-c05",
+      "assertion": "Yazhi says meditation manifests astral scenarios; she advises imagining repairs rather than demons.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0039",
+        "p0041",
+        "p0043",
+        "p0057"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "astral groups",
+    "regional conflict examples"
+  ]
+}

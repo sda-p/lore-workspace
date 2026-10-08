@@ -1,0 +1,48 @@
+{
+  "source_id": "src-1c425730a068",
+  "snapshot_sha256": "960f1a09af6b367c7dfee8bd43a102b4f1d2679cacb87e9e55982a89a73cd3db",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1c425730a068-c01",
+      "assertion": "Gosia argues that official disclosure could channel public interest into a controller-shaped ET narrative or staged invasion scenario.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c425730a068-c02",
+      "assertion": "Gosia says Galactic Federation-level actors are portrayed by her sources as gatekeepers maintaining Earth’s closed Matrix.",
+      "speaker": "Gosia, relaying Taygetan accounts",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

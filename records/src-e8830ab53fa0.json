@@ -1,0 +1,99 @@
+{
+  "source_id": "src-e8830ab53fa0",
+  "snapshot_sha256": "db7ff72b1050b1db23695946570f114a6caaaefdeb3ee02a47fde8504ad830bc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e8830ab53fa0-c01",
+      "assertion": "Gosia describes four awareness levels, from acceptance of official narratives to independent research across sources.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e8830ab53fa0-c02",
+      "assertion": "Gosia alleges control mechanisms extend into alternative spiritual and extraterrestrial communities.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e8830ab53fa0-c03",
+      "assertion": "Gosia says Space Academy believes agencies infiltrated New Age movements to steer public perception.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e8830ab53fa0-c04",
+      "assertion": "Gosia describes controlled opposition as groups appearing dissenting while guided by the same power structure.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e8830ab53fa0-c05",
+      "assertion": "Athena says extensive perception-control efforts imply humans hold underlying creative power.",
+      "speaker": "Gosia quoting Athena Swaruu",
+      "paragraph_ids": [
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "claims are attributed teachings from Space Academy, not independently verified"
+  ],
+  "coverage_gaps": [
+    "community workshop examples"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "source_id": "src-36e353120a01",
+  "snapshot_sha256": "3ae005526ae4c86161e04039fbaa10ce358835053babac63ea261cee5b6e8052",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-36e353120a01-c01",
+      "assertion": "Mari portrays Earth as one controlled culture divided into regions for population management.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36e353120a01-c02",
+      "assertion": "Mari says the Galactic Federation’s collective unconscious helps manifest Earth’s conflicts and conditions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36e353120a01-c03",
+      "assertion": "Mari says Taygetans and Earth starseeds share a collective unconscious across both societies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36e353120a01-c04",
+      "assertion": "Mari argues attention to distant news strengthens negative patterns and advises focusing on directly reachable help.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36e353120a01-c05",
+      "assertion": "Mari says surface conflicts are real but their stated causes are controlled narratives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "claims about current events and power structures are Mari’s interpretations"
+  ],
+  "coverage_gaps": [
+    "specific news examples and astral-warrior discussion"
+  ]
+}

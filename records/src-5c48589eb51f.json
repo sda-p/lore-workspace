@@ -1,0 +1,99 @@
+{
+  "source_id": "src-5c48589eb51f",
+  "snapshot_sha256": "2a68694c05637778dc8349b7215179a67c4b97a60a1e3886a6fccd3a89c966ba",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5c48589eb51f-c01",
+      "assertion": "Mari says people manifest what they are through focused identity, not merely shifting wants.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c48589eb51f-c02",
+      "assertion": "Mari says fear concentrates attention, fills missing facts with catastrophizing and triggers bodily responses.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c48589eb51f-c03",
+      "assertion": "Mari says concentrated fear can form an egregor, more easily through shared group focus.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c48589eb51f-c04",
+      "assertion": "Mari says fear can manifest rapidly, while beliefs may make desired outcomes seem to require hard work.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c48589eb51f-c05",
+      "assertion": "Mari says focused, proactive alignment can manifest desired outcomes as readily as feared ones.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0016",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

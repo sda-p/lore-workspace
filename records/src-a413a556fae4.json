@@ -1,0 +1,82 @@
+{
+  "source_id": "src-a413a556fae4",
+  "snapshot_sha256": "8e9a3d729bc522cf65963dc5a2624902b03c3e96e01b6853de47a159cbbe9ad2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a413a556fae4-c01",
+      "assertion": "Mari says the body reflects a person’s concepts and attachments, with DNA expressing spirit-side memory.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a413a556fae4-c02",
+      "assertion": "Mari says souls retain awareness beyond bodily death and return to a broader identity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a413a556fae4-c03",
+      "assertion": "Mari says passed loved ones remain part of shared Source consciousness and can be reunited.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a413a556fae4-c04",
+      "assertion": "Mari says bodies are part of the self and should be respected and cared for.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

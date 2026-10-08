@@ -1,0 +1,95 @@
+{
+  "source_id": "src-6800b2688515",
+  "snapshot_sha256": "beb34020b375977fbe73b83b808e39dc233cc83e4b362ad9619f1167307e7e38",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6800b2688515-c01",
+      "assertion": "Za’el says destiny is continually written in the present and rejects strictly pre-birth agreements.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6800b2688515-c02",
+      "assertion": "He says life missions reflect personal intentions that may change during an incarnation.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0009",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6800b2688515-c03",
+      "assertion": "Za’el argues Earth residents have a right to know their world and choose whether to continue its experience.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6800b2688515-c04",
+      "assertion": "He says helpers should support people through trauma rather than intensify their suffering.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6800b2688515-c05",
+      "assertion": "Za’el says offering help may create a shared positive timeline, though helpers cannot know they changed another’s.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_metaphysical_claims"
+  ],
+  "coverage_gaps": [
+    "timeline_and_help_model"
+  ]
+}

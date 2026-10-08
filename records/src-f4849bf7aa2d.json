@@ -1,0 +1,135 @@
+{
+  "source_id": "src-f4849bf7aa2d",
+  "snapshot_sha256": "b46277874066c128a8844bcae66e16e0b98b5f741fe1cbd1f726e184894e6aed",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f4849bf7aa2d-c01",
+      "assertion": "Athena Swaruu says Mark 7 development paused over hull-damage risk.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f4849bf7aa2d-c02",
+      "assertion": "Athena Swaruu says electromagnetic flow generators control Suzy attitude.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f4849bf7aa2d-c03",
+      "assertion": "Athena Swaruu says AI can fly a Suzy; manual mastery takes years.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f4849bf7aa2d-c04",
+      "assertion": "Athena Swaruu lists plasma cannons, AI missiles, and sonic weapons.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Further systems are classified."
+    },
+    {
+      "id": "src-f4849bf7aa2d-c05",
+      "assertion": "Athena Swaruu says Mk1–4 use skids; Mk5–6 use wheels.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0048"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f4849bf7aa2d-c06",
+      "assertion": "Athena Swaruu says Muon encrypts Suzy communications.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0066"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f4849bf7aa2d-c07",
+      "assertion": "Athena Swaruu says Suzy AI corrects a blackout course.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0068"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "suzy-fighter-craft",
+      "name": "Suzy fighter craft",
+      "kind": "technology",
+      "aliases": [
+        "Suzy",
+        "Super Suzy"
+      ]
+    }
+  ],
+  "review_flags": [
+    "classified-details"
+  ],
+  "coverage_gaps": [
+    "weapons",
+    "pilot-training"
+  ]
+}

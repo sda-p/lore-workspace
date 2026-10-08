@@ -1,0 +1,124 @@
+{
+  "source_id": "src-112bba350567",
+  "snapshot_sha256": "ad51fddc58294ff972fc474685c1db94f0b8b738e7334a8db2590c2128232487",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-112bba350567-c01",
+      "assertion": "Mari says First Contact ran roughly 2008–2016/17 to assess readiness for extraterrestrial disclosure.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-112bba350567-c02",
+      "assertion": "She says Alfratans, Antarians, and 35,000 Taygetans participated, the latter largest group.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-112bba350567-c03",
+      "assertion": "Participants typed under Prime Directive rules; Federation systems monitored and censored traffic.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-112bba350567-c04",
+      "assertion": "Taygetan volunteers were mostly young women contacting people through open online chats.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-112bba350567-c05",
+      "assertion": "She says dating-oriented chats produced disbelief, sexual advances, and harmful relationships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-112bba350567-c06",
+      "assertion": "Mari calls the project flawed and its conclusion that humanity was unready for contact unreliable.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "historical-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "first-contact-project",
+    "contact-methods"
+  ]
+}

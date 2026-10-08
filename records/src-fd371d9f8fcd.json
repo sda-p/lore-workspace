@@ -1,0 +1,119 @@
+{
+  "source_id": "src-fd371d9f8fcd",
+  "snapshot_sha256": "0bed061642d582ef6116229c2f04880d40d5895f1a1b71dc2873e8e4f4536b46",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fd371d9f8fcd-c01",
+      "assertion": "Engine-generated electromagnetic holograms guide nanometal powder into self-healing hulls.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd371d9f8fcd-c02",
+      "assertion": "Transparent windows are continuous alloy; layered shields protect hulls up to 90cm thick.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd371d9f8fcd-c03",
+      "assertion": "Taygetan ships use electric electromagnetic systems, with magnetic levitation eliminating bearing friction.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd371d9f8fcd-c04",
+      "assertion": "Ship AI diagnoses faults and components self-repair, though crews prefer manual critical repairs.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd371d9f8fcd-c05",
+      "assertion": "Toleka-class ships take up to five years and thousands of workers; hull powder forms in vacuum without molds.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0069",
+        "p0070",
+        "p0072"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd371d9f8fcd-c06",
+      "assertion": "Anéeka says modern Taygetan ships can shift density and escape capture autonomously.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0061",
+        "p0062",
+        "p0064"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "material composition",
+    "export details"
+  ]
+}

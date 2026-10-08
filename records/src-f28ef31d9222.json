@@ -1,0 +1,109 @@
+{
+  "source_id": "src-f28ef31d9222",
+  "snapshot_sha256": "ce42770dc2063f14e9f407ce4c3e741d7e4cacc9b275f278fa371fb865874918",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f28ef31d9222-c01",
+      "assertion": "Yazhi says more than 100 vampire types exist, including corpse-animated forms.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f28ef31d9222-c02",
+      "assertion": "She describes some vampires as lower-astral entities animating decaying bodies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0009",
+        "p0016",
+        "p0045"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "alien-species",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f28ef31d9222-c03",
+      "assertion": "Yazhi says black-eyed beings are a distinct, often intelligent vampire variant.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0010",
+        "p0018",
+        "p0020",
+        "p0030"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f28ef31d9222-c04",
+      "assertion": "She says fear and attention nourish vampire-like egregors.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0031",
+        "p0033",
+        "p0045"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f28ef31d9222-c05",
+      "assertion": "Anéeka says vampires persist only as long as their host corpse remains usable.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0061",
+        "p0003",
+        "p0063",
+        "p0069"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "regional_variants"
+  ]
+}

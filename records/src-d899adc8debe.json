@@ -1,0 +1,104 @@
+{
+  "source_id": "src-d899adc8debe",
+  "snapshot_sha256": "1d69820a0d7a848bd20c1a267451a3851bcb75e9e4b94ce36570081f6baa7668",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d899adc8debe-c01",
+      "assertion": "Mari says Etorthans reportedly met Earth Cabal and technology figures about genetics and medical technology.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d899adc8debe-c02",
+      "assertion": "She reports preliminary tests found captured mosquitoes lacked expected wild-growth traces.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d899adc8debe-c03",
+      "assertion": "She speculates mosquitoes may be engineered to inject substances, but says testing is incomplete.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d899adc8debe-c04",
+      "assertion": "She says Toleka remains under repair while Saska 1 supplies and services ships.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d899adc8debe-c05",
+      "assertion": "She says Saska 2 delivered two Super Suzy Mark 6 fighters without pilots.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "biological-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "etorthan-meetings",
+    "mosquito-investigation",
+    "fighter-replacement"
+  ]
+}

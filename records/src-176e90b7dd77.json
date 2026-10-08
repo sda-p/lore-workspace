@@ -1,0 +1,103 @@
+{
+  "source_id": "src-176e90b7dd77",
+  "snapshot_sha256": "92115c05ea724c3bfb4660503a7dd57afdba282c507f6b05d67c6b86dd28ca51",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-176e90b7dd77-c01",
+      "assertion": "Yazhi says archons attach through frequency compatibility and allegedly influence thoughts and habits.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-176e90b7dd77-c02",
+      "assertion": "She describes dry pods or sensory-isolation chambers as temporarily raising a person’s frequency.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-176e90b7dd77-c03",
+      "assertion": "Yazhi says effects may fade unless the person sustains changed habits and awareness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0018",
+        "p0019",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-176e90b7dd77-c04",
+      "assertion": "She rejects a literal solid dome, describing Van Allen bands or mental containment as possible meanings.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-176e90b7dd77-c05",
+      "assertion": "Yazhi says time-loss may follow abduction-related displacement or altered consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims",
+    "unverified_technology_claims"
+  ],
+  "coverage_gaps": [
+    "remaining_questions"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "source_id": "src-50afee47b8a2",
+  "snapshot_sha256": "9ddfbf09de207382e595e445e61d70bbfbc650a409457e135501d96a4d4f7ad3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-50afee47b8a2-c01",
+      "assertion": "Anéeka says political and military leaders communicate with Federation races by holographic or conventional videoconference, with advanced AI controlling evidence.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50afee47b8a2-c02",
+      "assertion": "Anéeka says Federation races control events on Earth and that she lacks knowledge of their internal decisions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

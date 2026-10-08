@@ -1,0 +1,89 @@
+{
+  "source_id": "src-3878f3fc71b4",
+  "snapshot_sha256": "75e744d7e2c587544319edd91e657b99bfdb14f48387e4c48fd25411940a5c23",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3878f3fc71b4-c01",
+      "assertion": "Yazhi says she cannot know an individual’s contracts; pod settings reveal only some, while spirit-side contracts remain inaccessible.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3878f3fc71b4-c02",
+      "assertion": "She says prenatal contracts set desired physical experiences and that Earth’s limitations make such contracts universal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3878f3fc71b4-c03",
+      "assertion": "Yazhi says suffering may be needed for less-developed souls to progress, while highly developed souls can progress without it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3878f3fc71b4-c04",
+      "assertion": "Gosia says contract consequences are self-imposed, with no required return or punishment for nonfulfillment.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3878f3fc71b4-c05",
+      "assertion": "Yazhi agrees Gardeners may put starseeds back on track toward a mission.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Part of the physical game."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "incarnation-mechanics"
+  ]
+}

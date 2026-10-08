@@ -1,0 +1,101 @@
+{
+  "source_id": "src-8eced7b30a4d",
+  "snapshot_sha256": "54de1b3ec928ac63479818fd94634d4eff383f5ef566017870359a333d41cd1a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8eced7b30a4d-c01",
+      "assertion": "Mari defines ghosts as departed people’s astral bodies; not all are evil.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8eced7b30a4d-c02",
+      "assertion": "She says sustained, emotionally charged thoughts can manifest materially, including through one individual’s strong intention.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8eced7b30a4d-c03",
+      "assertion": "Mari says shared clock-based time synchronizes earthly perception, making material manifestation seem slower than astral manifestation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8eced7b30a4d-c04",
+      "assertion": "She says deceased souls retain attachments that form astral bodies; sufficient will may let them move objects or appear.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8eced7b30a4d-c05",
+      "assertion": "Low-vibration souls may linger in the lower astral, but Mari says every real soul returns to Source.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0024"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-model"
+  ],
+  "coverage_gaps": [
+    "empirical-verification"
+  ]
+}

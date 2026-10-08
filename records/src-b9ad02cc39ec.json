@@ -1,0 +1,124 @@
+{
+  "source_id": "src-b9ad02cc39ec",
+  "snapshot_sha256": "48014abcaf6222db578faaabf387bedfef8fe00cb89cedba5c8e32abe3283a48",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b9ad02cc39ec-c01",
+      "assertion": "Alenym says Anéeka and Swaruu differ in species and density.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b9ad02cc39ec-c02",
+      "assertion": "Swaruu says intelligence work exhausted Anéeka.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0043"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b9ad02cc39ec-c03",
+      "assertion": "Dhor Káal’él cites reluctance to hurt contacts.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b9ad02cc39ec-c04",
+      "assertion": "Anéeka says her group numbered 34 aboard a ship in deep space.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0079"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b9ad02cc39ec-c05",
+      "assertion": "Anéeka proposed a five-year holistic society with global government and wireless Zero Point energy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0094"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This was a proposal."
+    },
+    {
+      "id": "src-b9ad02cc39ec-c06",
+      "assertion": "The Federation rejected the plan; they refused to leave.",
+      "speaker": "Source narration",
+      "paragraph_ids": [
+        "p0100"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Notice was reportedly withheld from them."
+    },
+    {
+      "id": "src-b9ad02cc39ec-c07",
+      "assertion": "Yazhi says action against Anéeka implicates Alcyone and means war.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0104"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Yazhi’s interpretation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "reported_plan",
+    "federation_dispute"
+  ],
+  "coverage_gaps": [
+    "contact_management",
+    "mission_details"
+  ]
+}

@@ -48,6 +48,16 @@ Source: [Human History Lies - Part 2 - Travelling Back in Time is Not as You Thi
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-8a803747f028-c03
+
+Mari says starships can match destination frequencies to jump through astral space.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. Part 02 (English)](https://swaruu.org/transcripts/the-astral-part-02-english) (2023-08-10; en); passages p0013, p0014. [Structured record](../../records/src-8a803747f028.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c01](stellar-navigation.md#src-426ea469937a-c01) — Stellar navigation

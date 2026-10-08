@@ -1,0 +1,110 @@
+{
+  "source_id": "src-c747f32ab65f",
+  "snapshot_sha256": "82b8e1a183c4f89b50c24136322d11037a1ac09c4578a3cfbf2dca1d6724bbcb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c747f32ab65f-c01",
+      "assertion": "Athena says higher-density beings influence people through shared frequencies and may work through them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0008",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Athena attributes the initial account to Yazhi."
+    },
+    {
+      "id": "src-c747f32ab65f-c02",
+      "assertion": "Athena associates water, air, fire and earth with mermaids, fairies, dragons and elves.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c747f32ab65f-c03",
+      "assertion": "Athena says elementals occupy a boundary between material and lower-astral realms and may affect objects or people.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c747f32ab65f-c04",
+      "assertion": "Athena says elementals may whisper thoughts and respond to music or disturbance in their locality.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0027",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c747f32ab65f-c05",
+      "assertion": "Athena says empathic people may absorb others’ moods and recommends self-analysis and emotional control.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0045",
+        "p0047",
+        "p0048",
+        "p0051",
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

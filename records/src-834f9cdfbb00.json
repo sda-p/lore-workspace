@@ -1,0 +1,104 @@
+{
+  "source_id": "src-834f9cdfbb00",
+  "snapshot_sha256": "42960d91cd37fd6bc8756d74b19866f93220ec1b7387a62f6afc6fb143eb0765",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-834f9cdfbb00-c01",
+      "assertion": "Mari says the Federation monitors and shapes Earth events to match souls’ desired experiences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-834f9cdfbb00-c02",
+      "assertion": "She says the Federation determines which groups and politicians gain power.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-834f9cdfbb00-c03",
+      "assertion": "Mari describes politics and elections as theater masking hidden control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0019"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-834f9cdfbb00-c04",
+      "assertion": "She says secret societies link Earth politics to nonhuman Federation actors.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-834f9cdfbb00-c05",
+      "assertion": "Mari says the Federation permits hardship as part of Earth’s learning experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "named_political_groups"
+  ]
+}

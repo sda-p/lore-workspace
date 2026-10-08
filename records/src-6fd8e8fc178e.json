@@ -1,0 +1,111 @@
+{
+  "source_id": "src-6fd8e8fc178e",
+  "snapshot_sha256": "0e0bd7d38b3a9c0b2f93ce062f0c4bf741770da91f72d898cfafdeaad2e6311f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6fd8e8fc178e-c01",
+      "assertion": "Athena claims transfusions can substantially alter recipients’ genetics and soul-frequency receptivity.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6fd8e8fc178e-c02",
+      "assertion": "She says donor-derived influence may persist physically even if soul frequency restores DNA partly.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6fd8e8fc178e-c03",
+      "assertion": "Athena reports transplant-associated organ failure and a recipient’s marriage to a donor’s former girlfriend.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6fd8e8fc178e-c04",
+      "assertion": "She says multiple souls may inhabit one body, but she knows of no such case from transfusion.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6fd8e8fc178e-c05",
+      "assertion": "Swaruu (9) describes blood and organ donation as lasting energetic entanglement, except when lifesaving.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "transfusion-effects",
+    "transplant-memory"
+  ]
+}

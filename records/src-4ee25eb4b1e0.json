@@ -1,0 +1,93 @@
+{
+  "source_id": "src-4ee25eb4b1e0",
+  "snapshot_sha256": "3cb43f7b3d2574dec87b90bfc8fc97153850cf6ca9291e313a80f5d2c6a44c95",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4ee25eb4b1e0-c01",
+      "assertion": "Mari Swa says King Ruhr invited her aboard Avyon One for an Urmah healing rite.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ee25eb4b1e0-c02",
+      "assertion": "Mari Swa says Urmah required her physical presence for the healing, not remote technology.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ee25eb4b1e0-c03",
+      "assertion": "General Korakas is identified as Ruhr’s defence minister and head of armed forces.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She learned this days later."
+    },
+    {
+      "id": "src-4ee25eb4b1e0-c04",
+      "assertion": "Mari Swa describes an Urmah rite with chanting, drums, golden sceptres, and group purring.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0028",
+        "p0031",
+        "p0036"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ee25eb4b1e0-c05",
+      "assertion": "Mari Swa says the cats’ purring produced a calming vibration and emotional release.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her interpretation of the experience."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "ritual_effect_claimed"
+  ],
+  "coverage_gaps": [
+    "healing_sequence",
+    "urmah-hierarchy"
+  ]
+}

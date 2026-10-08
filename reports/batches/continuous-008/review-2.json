@@ -1,0 +1,399 @@
+{
+  "batch_id": "continuous-008",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-31e1b41b8c15",
+    "src-1c448d07c8c4",
+    "src-4c18957bd2f2",
+    "src-76df8f4b52c9",
+    "src-65c110e0589e",
+    "src-075c8d444cc5",
+    "src-f188068e31d4",
+    "src-b539e2dbbcd5",
+    "src-af0d62c105e6",
+    "src-b2c9eeee9163",
+    "src-21c294611bb8",
+    "src-f54c2949c1ea",
+    "src-1a4b23eed94f",
+    "src-c13dc3cbe31f",
+    "src-c0c392776fd0",
+    "src-d77a17203f16",
+    "src-3c59fb85976c",
+    "src-15ba6ed0a80c",
+    "src-3011984ad45e",
+    "src-fa3030bd8cd8",
+    "src-803000c4d2e1",
+    "src-da5b68843247",
+    "src-0cf58b16e1d2",
+    "src-4ef944b1a1f6",
+    "src-2ccd6a89a072",
+    "src-daf200b4565a",
+    "src-03f8a28bbf76",
+    "src-c35bd2ccba2f",
+    "src-9c51fb72fef9",
+    "src-378a8741723b",
+    "src-b0ec1f9ee122",
+    "src-176e90b7dd77",
+    "src-bdc3fb96c867",
+    "src-15eb15d3c9a4",
+    "src-bc84d0e92778",
+    "src-2303525e8367",
+    "src-c3a62baab84f",
+    "src-c3e350aa4e42",
+    "src-99597b7d630f",
+    "src-caf9efbd11f1",
+    "src-88ba599fa614",
+    "src-1c8474164b21",
+    "src-03c48df94d86",
+    "src-76c063bf59f1",
+    "src-60e435f5d51b",
+    "src-8db2b748b164",
+    "src-415d7d5b87e4",
+    "src-f1b43956c901",
+    "src-c972fa5ca890",
+    "src-a4878d75f400",
+    "src-ab22dfeea61d",
+    "src-9de10964a09d",
+    "src-5bc178cc541f",
+    "src-38a5f4111ccd",
+    "src-194038ff3d24",
+    "src-e1ef5c3d2bef",
+    "src-f5b8fb188253",
+    "src-4e6f4564b13b",
+    "src-2765adc51ff2",
+    "src-025e108e3c83",
+    "src-ac1ba0859491",
+    "src-6800b2688515",
+    "src-3182af03be61",
+    "src-5c48589eb51f",
+    "src-19427824fcd1",
+    "src-a413a556fae4",
+    "src-3c70c40f1bbb",
+    "src-3012390b7529",
+    "src-d38969723252",
+    "src-407a6821f2be",
+    "src-3e583159a50e",
+    "src-ffbe2c126c1a",
+    "src-6fd8e8fc178e",
+    "src-89c62899ecb7",
+    "src-a3f086f2cc35",
+    "src-112bba350567",
+    "src-45ad229d6c12",
+    "src-5c81b07f9d93",
+    "src-25f8dc2b982f",
+    "src-8a1afb652263"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-76df8f4b52c9",
+      "claim_id": "src-76df8f4b52c9-c06",
+      "problem": "Claim about women’s reproductive cycles was unsupported; all cited passages concern nuclear reactors and contain no such claim.",
+      "action": "Removed unsupported claim after checking the complete snapshot.",
+      "paragraph_ids": [
+        "p0049",
+        "p0050",
+        "p0052",
+        "p0053"
+      ]
+    },
+    {
+      "source_id": "src-b2c9eeee9163",
+      "claim_id": "src-b2c9eeee9163-c04",
+      "problem": "Assertion/qualifier added a factual verdict about cited tumor statements, outside source attribution.",
+      "action": "Rephrased as an attributed account of emotional/physical changes and tumor switching; removed verdict qualifier.",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0036"
+      ]
+    },
+    {
+      "source_id": "src-03f8a28bbf76",
+      "claim_id": "src-03f8a28bbf76-c03",
+      "problem": "Mixed-speaker claim attributed Athena’s possible false-invasion disclosure scenario to Yazhi.",
+      "action": "Separated the Yazhi and Athena assertions while keeping the assigned combined speaker label.",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-b0ec1f9ee122",
+      "claim_id": "src-b0ec1f9ee122-c04",
+      "problem": "“Support” could imply external help not present in the cited source.",
+      "action": "Rephrased the paraphrase to source-supported self-care and determination.",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ]
+    },
+    {
+      "source_id": "src-b2c9eeee9163",
+      "claim_id": "src-b2c9eeee9163-c02",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0022",
+        "p0023"
+      ]
+    },
+    {
+      "source_id": "src-d77a17203f16",
+      "claim_id": "src-d77a17203f16-c01",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "source_id": "src-d77a17203f16",
+      "claim_id": "src-d77a17203f16-c02",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0010"
+      ]
+    },
+    {
+      "source_id": "src-d77a17203f16",
+      "claim_id": "src-d77a17203f16-c03",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0014"
+      ]
+    },
+    {
+      "source_id": "src-d77a17203f16",
+      "claim_id": "src-d77a17203f16-c06",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0022",
+        "p0041",
+        "p0043"
+      ]
+    },
+    {
+      "source_id": "src-15ba6ed0a80c",
+      "claim_id": "src-15ba6ed0a80c-c01",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ]
+    },
+    {
+      "source_id": "src-15ba6ed0a80c",
+      "claim_id": "src-15ba6ed0a80c-c03",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016"
+      ]
+    },
+    {
+      "source_id": "src-15ba6ed0a80c",
+      "claim_id": "src-15ba6ed0a80c-c05",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0052",
+        "p0054",
+        "p0055",
+        "p0058",
+        "p0059"
+      ]
+    },
+    {
+      "source_id": "src-da5b68843247",
+      "claim_id": "src-da5b68843247-c01",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0006",
+        "p0019",
+        "p0025"
+      ]
+    },
+    {
+      "source_id": "src-da5b68843247",
+      "claim_id": "src-da5b68843247-c04",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0041"
+      ]
+    },
+    {
+      "source_id": "src-0cf58b16e1d2",
+      "claim_id": "src-0cf58b16e1d2-c02",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0017",
+        "p0018"
+      ]
+    },
+    {
+      "source_id": "src-03f8a28bbf76",
+      "claim_id": "src-03f8a28bbf76-c02",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-03f8a28bbf76",
+      "claim_id": "src-03f8a28bbf76-c03",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-03f8a28bbf76",
+      "claim_id": "src-03f8a28bbf76-c05",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0035"
+      ]
+    },
+    {
+      "source_id": "src-c35bd2ccba2f",
+      "claim_id": "src-c35bd2ccba2f-c01",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ]
+    },
+    {
+      "source_id": "src-c35bd2ccba2f",
+      "claim_id": "src-c35bd2ccba2f-c02",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ]
+    },
+    {
+      "source_id": "src-c35bd2ccba2f",
+      "claim_id": "src-c35bd2ccba2f-c05",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ]
+    },
+    {
+      "source_id": "src-176e90b7dd77",
+      "claim_id": "src-176e90b7dd77-c01",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ]
+    },
+    {
+      "source_id": "src-176e90b7dd77",
+      "claim_id": "src-176e90b7dd77-c05",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039"
+      ]
+    },
+    {
+      "source_id": "src-bdc3fb96c867",
+      "claim_id": "src-bdc3fb96c867-c02",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0006"
+      ]
+    },
+    {
+      "source_id": "src-bdc3fb96c867",
+      "claim_id": "src-bdc3fb96c867-c04",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ]
+    },
+    {
+      "source_id": "src-bdc3fb96c867",
+      "claim_id": "src-bdc3fb96c867-c05",
+      "problem": "Reviewer-added truth-status or political-evaluation qualifier exceeded source-fidelity scope.",
+      "action": "Removed evaluator qualifier; source attribution, modality, and any source-stated uncertainty remain.",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0020",
+        "p0021"
+      ]
+    },
+    {
+      "source_id": "src-d38969723252",
+      "claim_id": "src-d38969723252-c05",
+      "problem": "Paraphrase flattened source-reported linguistic ancestry into a direct fact.",
+      "action": "Restored source-reported modality with “is said to have evolved.”",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ]
+    },
+    {
+      "source_id": "src-6fd8e8fc178e",
+      "claim_id": "src-6fd8e8fc178e-c03",
+      "problem": "“Memories” were not supported by cited transplant examples.",
+      "action": "Rephrased to cite reported organ failure and recipient’s marriage to the donor’s former girlfriend.",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0017",
+        "p0019",
+        "p0020"
+      ]
+    }
+  ],
+  "unresolved": []
+}

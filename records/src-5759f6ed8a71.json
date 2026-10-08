@@ -1,0 +1,107 @@
+{
+  "source_id": "src-5759f6ed8a71",
+  "snapshot_sha256": "015d479c2cb8bde4988bc1d3eda4e599064b39fd4c9b83395157fcd0648fd534",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5759f6ed8a71-c01",
+      "assertion": "Mari says Saska 1 docks with Toleka through aligned hangars and a telescopic passage.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5759f6ed8a71-c02",
+      "assertion": "She says gravity engines and clamps maneuver and secure the two large ships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "gravity-harmonics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5759f6ed8a71-c03",
+      "assertion": "A Scimitar fighter became wedged while being towed through a narrow secondary hangar door.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5759f6ed8a71-c04",
+      "assertion": "The trapped fighter’s landing gear and ship pressure damaged Toleka’s hangar during failed extraction.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5759f6ed8a71-c05",
+      "assertion": "Saska 1 carries workshops, repair equipment, service vehicles, and spare materials for deep-space repairs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "repair_completion"
+  ]
+}

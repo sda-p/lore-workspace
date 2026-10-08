@@ -1,0 +1,94 @@
+{
+  "source_id": "src-6c5c3b665064",
+  "snapshot_sha256": "4b2bfea7c6c11c5a80c4451edc518527fa93650fa8def7311d6858fc654c11d5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6c5c3b665064-c01",
+      "assertion": "Mari Swaruu says humans with similar genetics exist across many planets.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0012"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c5c3b665064-c02",
+      "assertion": "Mari Swaruu says humanity’s Earth origin story is promoted to preserve the planet’s Matrix.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0010"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c5c3b665064-c03",
+      "assertion": "Mari Swaruu names Antarians, Centauri, Engan, Taygetans, and Maya as human civilizations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c5c3b665064-c04",
+      "assertion": "Mari Swaruu claims six planetary resets erased advanced civilizations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Her data, without proof."
+    },
+    {
+      "id": "src-6c5c3b665064-c05",
+      "assertion": "Mari Swaruu says surviving ancient cosmologies were imposed for social control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "cosmology-claims_attributed"
+  ],
+  "coverage_gaps": [
+    "civilization-count",
+    "reset-history"
+  ]
+}

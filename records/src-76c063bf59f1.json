@@ -1,0 +1,100 @@
+{
+  "source_id": "src-76c063bf59f1",
+  "snapshot_sha256": "6ba25d857b1e96bb1ed49ceaba5aab012ada493675fccebe6af911a296901d40",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-76c063bf59f1-c01",
+      "assertion": "Mari says the body filters perception while memory and identity exist in an etheric field.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76c063bf59f1-c02",
+      "assertion": "She describes cellular DNA as a receiver tuned to a particular soul.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76c063bf59f1-c03",
+      "assertion": "Mari says brain damage can impair memory access while the person remains present.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76c063bf59f1-c04",
+      "assertion": "She says ego identity persists after death and souls may choose reincarnation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0017",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76c063bf59f1-c05",
+      "assertion": "Mari says spirit-world experiences vary with personal frequency and advises against summoning unknown entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_metaphysical_claims",
+    "medical_claims"
+  ],
+  "coverage_gaps": [
+    "memory_mechanism",
+    "afterlife_details"
+  ]
+}

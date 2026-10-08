@@ -1,0 +1,67 @@
+{
+  "source_id": "src-a3f086f2cc35",
+  "snapshot_sha256": "dd8bf4385f73f7ba196372a5efb79ad9c7e8e1f49012b2316b373b8a90c3d16b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a3f086f2cc35-c01",
+      "assertion": "Mari says Za’el and Arien recovered a hacked YouTube channel after Google restored it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a3f086f2cc35-c02",
+      "assertion": "She says her own channel uses heightened security and planned to host backup videos.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a3f086f2cc35-c03",
+      "assertion": "Za’el and Arien say they planned to resume broadcasts after the channel takeover.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "cyberattack-attribution-uncertain"
+  ],
+  "coverage_gaps": [
+    "channel-security",
+    "broadcast-continuity"
+  ]
+}

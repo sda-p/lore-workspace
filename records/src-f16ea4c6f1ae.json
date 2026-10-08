@@ -1,0 +1,101 @@
+{
+  "source_id": "src-f16ea4c6f1ae",
+  "snapshot_sha256": "07b25d23fe62b9cb77e0ef462abc3ed05bef155c331e8747b2f1fe46f95e3ee3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f16ea4c6f1ae-c01",
+      "assertion": "Mari says Saska 1 serves as a deep-space repair station with engineers and spare parts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f16ea4c6f1ae-c02",
+      "assertion": "She says Toleka had mechanical issues in its twelve engines.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f16ea4c6f1ae-c03",
+      "assertion": "Mari says Vigilant Eagle is escorting Toleka and has no planned departure.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f16ea4c6f1ae-c04",
+      "assertion": "She says Etorthan representatives remained in Viera after the main detachment left.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f16ea4c6f1ae-c05",
+      "assertion": "Mari reports a proposed Orion-Federation treaty and claims Maitre were expelled.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Treaty and expulsion claims remain uncertain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims",
+    "faction_tension"
+  ],
+  "coverage_gaps": [
+    "later_quadrant_events"
+  ]
+}

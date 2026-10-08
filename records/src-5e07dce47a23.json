@@ -1,0 +1,103 @@
+{
+  "source_id": "src-5e07dce47a23",
+  "snapshot_sha256": "d0e6bbf5ab0ed2df92ba1ce14031798934a2a653a0a4da41eb40f75132e7ab52",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5e07dce47a23-c01",
+      "assertion": "Athena Swaruu says Urmah used Avyon-one’s tractor beam to destroy a Pfizer facility.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0012"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Unverified account."
+    },
+    {
+      "id": "src-5e07dce47a23-c02",
+      "assertion": "She says the Urmah claimed the facility stored vaccines linked to a planned pandemic phase.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0030"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Allegation attributed to Urmah."
+    },
+    {
+      "id": "src-5e07dce47a23-c03",
+      "assertion": "Athena says the Federation objected that the attack violated the Prime Directive.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0014"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e07dce47a23-c04",
+      "assertion": "She identifies Avyon-one as the Urmah flagship, slightly larger than Toleka.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e07dce47a23-c05",
+      "assertion": "Athena says the Urmah represent a feline council based in Lyra.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims",
+    "medical_claims"
+  ],
+  "coverage_gaps": [
+    "attack_aftermath"
+  ]
+}

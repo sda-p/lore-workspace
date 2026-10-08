@@ -1,0 +1,94 @@
+{
+  "source_id": "src-ee2bcb823310",
+  "snapshot_sha256": "b6ce889cdb10d67f92ba144792419cc3f18d08fe6da8003769dbbd6e1b85710a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ee2bcb823310-c01",
+      "assertion": "Mari Swa says the Alcyone Council treaty aims at mutual protection and interstellar barter.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ee2bcb823310-c02",
+      "assertion": "Mari Swa says the treaty seeks to reduce dependence on Federation-regulated trade.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ee2bcb823310-c03",
+      "assertion": "Mari Swa says the Council suspects high Federation levels were infiltrated by Orion forces.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-wars"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ee2bcb823310-c04",
+      "assertion": "Mari Swa says Antarians joined the treaty, while Sirians declined.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ee2bcb823310-c05",
+      "assertion": "Mari Swa says 14 Taygetan ships were under construction, including new Aldebaran and Hyades classes.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Cyndriel was nearing completion."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Federation-infiltration_theory"
+  ],
+  "coverage_gaps": [
+    "treaty-terms",
+    "ship-building-program"
+  ]
+}

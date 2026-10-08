@@ -1,0 +1,110 @@
+{
+  "source_id": "src-2dc01b1ead9f",
+  "snapshot_sha256": "81c516c3f24a3fc6a62f3e69684432249190755bba655cb33f2234ebe45ddc33",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2dc01b1ead9f-c01",
+      "assertion": "Swaruu says the body and astral template express a more expanded self; incarnation obscures that awareness.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dc01b1ead9f-c02",
+      "assertion": "Swaruu says actions in Earth’s duality provoke opposites, while military liberation could reproduce conflict.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dc01b1ead9f-c03",
+      "assertion": "Swaruu says individual inner change matters even when helpful actions also produce counter-reactions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0026",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dc01b1ead9f-c04",
+      "assertion": "Yazhi says people collectively choose Earth’s experience and may leave when they tire of it.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0051",
+        "p0058",
+        "p0059",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dc01b1ead9f-c05",
+      "assertion": "Yazhi says souls seek expansion through contrast and higher realms may manifest ships for lower beings to relate to them.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0085",
+        "p0086",
+        "p0088",
+        "p0093",
+        "p0104",
+        "p0106",
+        "p0109"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

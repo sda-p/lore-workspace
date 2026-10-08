@@ -1,0 +1,109 @@
+{
+  "source_id": "src-faff88963391",
+  "snapshot_sha256": "59699ecae6784a8152f6afbac260c4e8e927cc00664a7ecaa11dd1fcff389228",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-faff88963391-c01",
+      "assertion": "Athena says highly conscious Taygetan women can mentally control ovulation and menstruation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-faff88963391-c02",
+      "assertion": "Athena says Earth may host both young souls learning duality and advanced souls developing mastery.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-faff88963391-c03",
+      "assertion": "Yazhi describes Taygetan politics and social structures as more female-led.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Speaker generalizes about gender roles."
+    },
+    {
+      "id": "src-faff88963391-c04",
+      "assertion": "She says Taygetan social roles emphasize complementary strengths and interests.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0032"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Speaker generalizes about gender roles."
+    },
+    {
+      "id": "src-faff88963391-c05",
+      "assertion": "Athena says Taygetan science includes metaphysical phenomena that Earth science cannot verify.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0033",
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_biological_claims",
+    "gender_role_generalization"
+  ],
+  "coverage_gaps": [
+    "other_minitopics"
+  ]
+}

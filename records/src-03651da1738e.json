@@ -1,0 +1,135 @@
+{
+  "source_id": "src-03651da1738e",
+  "snapshot_sha256": "1c3297a9a2118fceb14d25c29a852f71fb8d01e25856862dafbdd81de2438d49",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-03651da1738e-c01",
+      "assertion": "Mari says Orion Grays are about four feet tall and cooperate with Reptilian and other regressive factions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "orion-grays",
+      "topics": [
+        "orion-grays",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03651da1738e-c02",
+      "assertion": "Mari says Orion Grays use underground bases and portals, while Zeta Gardeners operate from Federation-sanctioned motherships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "orion-grays",
+      "topics": [
+        "orion-grays",
+        "zeta-reticuli-gardeners",
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03651da1738e-c03",
+      "assertion": "Mari says Zeta Gardeners are described as benign, while Orion Grays lack a comparable ethical constraint.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0010",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "orion-grays"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03651da1738e-c04",
+      "assertion": "Mari describes Etorthans as tall Orion-region Federation members who terraform worlds and heal biology.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03651da1738e-c05",
+      "assertion": "Mari says Etorthans reproduce artificially, communicate telepathically, and influence Earth decisions from Viera.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "orion-grays",
+      "name": "Orion Grays",
+      "kind": "species",
+      "aliases": [
+        "Orion Greys"
+      ]
+    },
+    {
+      "id": "zeta-reticuli-gardeners",
+      "name": "Zeta Reticuli Gardeners",
+      "kind": "species",
+      "aliases": [
+        "Gardeners"
+      ]
+    },
+    {
+      "id": "etorthans",
+      "name": "Etorthans",
+      "kind": "species",
+      "aliases": [
+        "large-nosed Grays"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

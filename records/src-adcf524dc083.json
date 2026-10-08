@@ -1,0 +1,99 @@
+{
+  "source_id": "src-adcf524dc083",
+  "snapshot_sha256": "7d78f5e953cc995903634bede0d6929952a5f10b22437e40e825d7e448cbbeef",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-adcf524dc083-c01",
+      "assertion": "Mari reports Etorthan delegates met secret Earth power figures in an Antarctic Federation base in late January 2024.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-adcf524dc083-c02",
+      "assertion": "Mari says Etorthans left an unspecified number of diplomats aboard the Andromedan ship Viera and scheduled annual December visits.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-adcf524dc083-c03",
+      "assertion": "Mari alleges Etorthan presence coincides with major Earth events and interprets their continued stationing as close oversight.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-adcf524dc083-c04",
+      "assertion": "Mari distinguishes denser Federation levels using metal ships from higher astral levels that move through mastered perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-adcf524dc083-c05",
+      "assertion": "Mari says permitting Earth suffering is unethical from incarnated perspectives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "reported arrival date conflicts with article chronology"
+  ],
+  "coverage_gaps": [
+    "reported Texas and Japan events"
+  ]
+}

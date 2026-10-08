@@ -1,0 +1,95 @@
+{
+  "source_id": "src-261f583f3783",
+  "snapshot_sha256": "2a24a87cc520b29f651b364224b8ba374a11f68401304af01d9f1f5c5151ce6c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-261f583f3783-c01",
+      "assertion": "Gosia says thousands of young Taygetan Pleiadians were near Earth aboard ships and communicated with humans online.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-261f583f3783-c02",
+      "assertion": "She says her first written contact with Swaruu of Erra began in December 2017; she describes Swaruu as Taygetan aboard Toleka.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-261f583f3783-c03",
+      "assertion": "Gosia says the group began publicly sharing their conversations around May 2018.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-261f583f3783-c04",
+      "assertion": "She recounts Yazhi arriving aboard Toleka from another timeline around March 2020, aged about seven or eight.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0057",
+        "p0058"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-261f583f3783-c05",
+      "assertion": "Gosia says current Swaruu-associated figures originated in separate timelines and are not biologically mother and daughters.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0072",
+        "p0073"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "contact-history",
+    "crew-details"
+  ]
+}

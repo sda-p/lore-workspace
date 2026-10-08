@@ -1,0 +1,106 @@
+{
+  "source_id": "src-af7fe8f320b2",
+  "snapshot_sha256": "fcef20999d2fd6c26a8a45bda5d8c4516fe9c22c1a0d684dd82ebd18b923e54b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-af7fe8f320b2-c01",
+      "assertion": "Yazhi says Gosia’s neural wiring was not set to decode Caroline’s memories.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-af7fe8f320b2-c02",
+      "assertion": "She says memory access depends on neural configuration and may vary among immersed people.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af7fe8f320b2-c03",
+      "assertion": "Yazhi says immersion may merge identities, with one consciousness’s memories overlaying another’s.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0046",
+        "p0050"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af7fe8f320b2-c04",
+      "assertion": "She distinguishes avatars linked to a real person from empty Matrix backdrops that die on disconnection.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0063",
+        "p0064",
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She notes an exception for backdrop persons that form a soul variant."
+    },
+    {
+      "id": "src-af7fe8f320b2-c05",
+      "assertion": "Yazhi says disconnecting an immersion pod need not end the human body’s life.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0084",
+        "p0087",
+        "p0088",
+        "p0089"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_technology_claims",
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "later_chat_sections"
+  ]
+}

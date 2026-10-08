@@ -1,0 +1,92 @@
+{
+  "source_id": "src-e1ef5c3d2bef",
+  "snapshot_sha256": "8068071a19be08c22cd206bef5decfb232add69502607860951205ab701ca928",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e1ef5c3d2bef-c01",
+      "assertion": "Mari describes each existential Matrix as an energy-mass field shaped by interconnected events and objects.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "dimensional-mirroring"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1ef5c3d2bef-c02",
+      "assertion": "Mari says a foreign object or person entering Earth’s Matrix causes the field to create a history that normalizes its presence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0025"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "dimensional-mirroring"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1ef5c3d2bef-c03",
+      "assertion": "Mari says brief foreign presence disturbs a Matrix field, while prolonged presence is absorbed into it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "dimensional-mirroring"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1ef5c3d2bef-c04",
+      "assertion": "Mari says moving an object or person between Matrix systems requires extra energy, repetition and consistency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "dimensional-mirroring"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "dimensional-mirroring",
+      "name": "Dimensional mirroring",
+      "kind": "cosmology",
+      "aliases": [
+        "mirroring effect"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "source_id": "src-6bba1ebb3317",
+  "snapshot_sha256": "2696566dddfbccd1c2b1b1b86167705651f8df041eb18bf456961ad59367d83d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6bba1ebb3317-c01",
+      "assertion": "Za’el says truth emerges for those willing to seek it; patient inquiry can bring discomfort and growth.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bba1ebb3317-c02",
+      "assertion": "He says assessing reality requires logic, self-knowledge, and recognizing personal fears and biases.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bba1ebb3317-c03",
+      "assertion": "Za’el treats intuition and telepathy as useful aids, but neither as infallible evidence.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0014",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bba1ebb3317-c04",
+      "assertion": "He says telepathy may be blocked by others and distorted by the receiver’s trauma or expectations.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bba1ebb3317-c05",
+      "assertion": "Za’el says intuition can also reflect prior experience, trauma, and insecurity; self-knowledge helps distinguish these influences.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "metaphysical-practice"
+  ]
+}

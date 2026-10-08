@@ -1,0 +1,96 @@
+{
+  "source_id": "src-e96e8067e205",
+  "snapshot_sha256": "8575f909f10e64a84ba3c62fbbc91359e62e8dad1f3ed8c2c5ea8554b07fb73b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e96e8067e205-c01",
+      "assertion": "Anéeka describes lurkers as highly carnivorous, intelligent insectoids with segmented tails, claws, acidic blood, and varied sizes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0017",
+        "p0018",
+        "p0022"
+      ],
+      "primary_topic": "lurkers",
+      "topics": [
+        "lurkers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e96e8067e205-c02",
+      "assertion": "Anéeka says lurkers reproduce using hosts, devastate local fauna, then can enter prolonged dormancy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "lurkers",
+      "topics": [
+        "lurkers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e96e8067e205-c03",
+      "assertion": "Anéeka says strict controls prevent introducing alien predators because Erra and Temmer ecosystems are vulnerable.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "lurkers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e96e8067e205-c04",
+      "assertion": "Anéeka says medical pods treat energetic larvae and support healing; interruption is safe in many cases, but not during limb regeneration.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0048",
+        "p0052"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods",
+        "interdimensional-parasites"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "lurkers",
+      "name": "Lurkers",
+      "kind": "species",
+      "aliases": [
+        "insectoid lurkers"
+      ]
+    },
+    {
+      "id": "interdimensional-parasites",
+      "name": "Interdimensional parasites",
+      "kind": "species",
+      "aliases": [
+        "energetic larvae"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

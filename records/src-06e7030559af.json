@@ -1,0 +1,112 @@
+{
+  "source_id": "src-06e7030559af",
+  "snapshot_sha256": "9ffa6f7a342a8f2be73bc9eed88f2ac4a8a6cba864fc760ac96d624fb9473083",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-06e7030559af-c01",
+      "assertion": "Athena claims the Maui fires were deliberately started to displace residents.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06e7030559af-c02",
+      "assertion": "She says drones with flamethrowers were reported in Maui and Spain.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06e7030559af-c03",
+      "assertion": "She says 15-minute cities may be promoted as a response to climate change.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06e7030559af-c04",
+      "assertion": "She alleges police or military enforcement could restrict movement between cities.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06e7030559af-c05",
+      "assertion": "She alleges farm closures and new crises could increase dependence on large cities.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "disaster-causation-unverified",
+    "policy-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "maui-fire-account",
+    "urban-planning-claims",
+    "agriculture-claims"
+  ]
+}

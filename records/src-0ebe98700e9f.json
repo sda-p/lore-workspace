@@ -1,0 +1,93 @@
+{
+  "source_id": "src-0ebe98700e9f",
+  "snapshot_sha256": "9461513a6816fcceda4bd4ac4fb9ca56502fc868b7077a2029b9e5e588a3eff0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0ebe98700e9f-c01",
+      "assertion": "Za’el says negative company may lower someone’s frequency and worsen experienced reality, while stressing each case differs.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0ebe98700e9f-c02",
+      "assertion": "Arien says pre-incarnation circumstances may trigger learning; changing attitude can reduce their emotional impact.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0ebe98700e9f-c03",
+      "assertion": "She says inner ideas shape external reflections, and distressing interactions can reveal personal shadows.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0ebe98700e9f-c04",
+      "assertion": "Arien says an external problem may persist after inner work but cease affecting the person in the same way.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0ebe98700e9f-c05",
+      "assertion": "She says others’ attempts to change you may reflect their own inner conflicts; persistent situations can remain for others’ learning.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "frequency-mechanisms"
+  ]
+}

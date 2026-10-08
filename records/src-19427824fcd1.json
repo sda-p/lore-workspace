@@ -1,0 +1,89 @@
+{
+  "source_id": "src-19427824fcd1",
+  "snapshot_sha256": "ce1745fd53b4a7b605b9a4278fb93e3e48e3e26ece165b8702513a7cad62e05f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-19427824fcd1-c01",
+      "assertion": "Arien says Earth compatibility can arise through thought, family, trauma and attachments without physical proximity.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19427824fcd1-c02",
+      "assertion": "Arien says Earthly customs and ideas can influence off-world beings through shared cultural and telepathic fields.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19427824fcd1-c03",
+      "assertion": "Arien says Earth’s limited conditions can expand creativity and personal fulfillment.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19427824fcd1-c04",
+      "assertion": "Arien says difficult experiences may teach emotional control, though the 3D Matrix can also cause harm.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0020",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

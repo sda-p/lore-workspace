@@ -1,0 +1,101 @@
+{
+  "source_id": "src-861b9bdec2b4",
+  "snapshot_sha256": "52415dc4796f39e89794ff7f357ea0d5e381bf38501d910e9cf1e96824e742bc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-861b9bdec2b4-c01",
+      "assertion": "Mari says the Federation controls this quadrant and ultimately controls Earth’s orbit; she sees no current regressive invasion.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016",
+        "p0019"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-861b9bdec2b4-c02",
+      "assertion": "Earth is in busy Federation space and appears on others’ navigation maps.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-861b9bdec2b4-c03",
+      "assertion": "She says Alpha Dracos and Etorthan Tall Grays, called regressive on Earth, are friendly locally.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-861b9bdec2b4-c04",
+      "assertion": "Mari reports 900–1,000 kilometer-scale ships and thousands smaller in Earth orbit, with Viera as hub.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-861b9bdec2b4-c05",
+      "assertion": "She says radiation belts are measurable; as a barrier, they apply only to Earthbound perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Soul crossing is uncertain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "federation_control_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "race_council_hierarchy"
+  ]
+}

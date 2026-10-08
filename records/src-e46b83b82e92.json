@@ -1,0 +1,111 @@
+{
+  "source_id": "src-e46b83b82e92",
+  "snapshot_sha256": "2a2e5f0b7247ef337426ea4820d73d829fe059cf7290e69ca73d2728092df47a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e46b83b82e92-c01",
+      "assertion": "Anéeka says discs distribute gravity-canceling electromagnetism well for small craft; larger ships use function-based shapes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e46b83b82e92-c02",
+      "assertion": "Swaruu 9 says 11-meter Class II shuttles remain in service; Toleka has 20.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e46b83b82e92-c03",
+      "assertion": "Athena says discs are cumbersome, cramped, and limited compared with larger plasma-jet ships.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e46b83b82e92-c04",
+      "assertion": "She says disc engines lack plasma-jet protection and their gravity sensors can be disrupted by radar.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0031",
+        "p0037",
+        "p0048"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e46b83b82e92-c05",
+      "assertion": "Athena says discs are widely used by Zeta Grays and others, so sightings rarely identify their owners.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0060"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "disc-shaped-shuttles",
+      "name": "Disc-shaped shuttle craft",
+      "kind": "technology",
+      "aliases": [
+        "flying discs",
+        "saucers"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Billy_Meier_photo_authenticity_uncertain"
+  ],
+  "coverage_gaps": [
+    "other_craft_shapes"
+  ]
+}

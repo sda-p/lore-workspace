@@ -1,0 +1,100 @@
+{
+  "source_id": "src-62ae0182b6c0",
+  "snapshot_sha256": "f5b70e2d29fb25494fb487fe80f4fae8a66ded2e19fb1a18ce1bf431e59ce28f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-62ae0182b6c0-c01",
+      "assertion": "Mari says alter egos can help people change habitual responses rooted in unconscious triggers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62ae0182b6c0-c02",
+      "assertion": "She says triggers often arise from repeated family interactions that undermine self-esteem.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62ae0182b6c0-c03",
+      "assertion": "Mari recommends inventing a unique ideal persona rather than adopting an existing hero or celebrity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62ae0182b6c0-c04",
+      "assertion": "She says practicing this persona can help someone act beyond limitations tied to their usual identity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62ae0182b6c0-c05",
+      "assertion": "Mari says leaving one’s hometown may help but is not necessary; writing and visualization can clarify the persona.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "psychological_methods"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "source_id": "src-43132e2e23d8",
+  "snapshot_sha256": "180d3db4fd8473a9970e70a034edfc1c03266bece2b3c2728877b19970c0970b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-43132e2e23d8-c01",
+      "assertion": "Mari distinguishes Alpha Draconians from smaller humanoid Dracos.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0008"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43132e2e23d8-c02",
+      "assertion": "She says Alpha Draconians share genetics but divide into opposing positive and regressive cultures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43132e2e23d8-c03",
+      "assertion": "She describes Alpha Draconians as roughly 15 meters tall with fire-spitting ability.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43132e2e23d8-c04",
+      "assertion": "She says their fire uses two substances and diminishes with dehydration.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43132e2e23d8-c05",
+      "assertion": "She says positive Alpha Draconians cooperate with Urmah and Federation forces.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0023"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "species-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "alpha-draconian-physiology",
+    "faction-distinctions",
+    "alliances"
+  ]
+}

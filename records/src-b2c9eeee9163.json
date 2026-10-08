@@ -36,7 +36,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified psychological claim."
+      "qualifiers": ""
     },
     {
       "id": "src-b2c9eeee9163-c03",
@@ -57,7 +57,7 @@
     },
     {
       "id": "src-b2c9eeee9163-c04",
-      "assertion": "She says the method can alter emotional and physical problems, citing unsupported claims about tumors.",
+      "assertion": "Swaruu says the method may affect emotional and physical problems, citing her account of tumors appearing and disappearing between personalities.",
       "speaker": "Swaruu (9)",
       "paragraph_ids": [
         "p0034",
@@ -70,7 +70,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Dangerous medical misinformation."
+      "qualifiers": ""
     },
     {
       "id": "src-b2c9eeee9163-c05",

@@ -1,0 +1,105 @@
+{
+  "source_id": "src-07494ef21f67",
+  "snapshot_sha256": "7741631020647785d5ad3bb973217b432612f49905cdbaef80a458cae7c0a168",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-07494ef21f67-c01",
+      "assertion": "Anéeka says interstellar groups coordinate mainly by telepathy because clocks desynchronize.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07494ef21f67-c02",
+      "assertion": "She says Cyndriel’s bright Aldebaran sky prevents reliable solar timekeeping.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07494ef21f67-c03",
+      "assertion": "Anéeka describes time loops as groups repeating familiar patterns by agreement, not time itself looping.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-07494ef21f67-c04",
+      "assertion": "Athena says stellar positions provide only approximate interplanetary time comparisons.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0027"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07494ef21f67-c05",
+      "assertion": "Athena reports Earth time passing about five times faster than a day on Temmer.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0048",
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "temporal-skipping"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "As measured by the speaker’s group."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_temporal_claims"
+  ],
+  "coverage_gaps": [
+    "later_time_theory"
+  ]
+}

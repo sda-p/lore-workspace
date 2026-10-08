@@ -1,0 +1,110 @@
+{
+  "source_id": "src-7f473709c914",
+  "snapshot_sha256": "d86d447a17463c07b9c15e0b5574c4ebedfb8eda81a5f538781afe04beca9d06",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7f473709c914-c01",
+      "assertion": "Yazhi describes the brain as a filter limiting perception of a broader mind.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f473709c914-c02",
+      "assertion": "Yazhi says individual people are aspects of one collective mind.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f473709c914-c03",
+      "assertion": "Yazhi describes herself as a nonphysical mind expressed through multiple identities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0049"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f473709c914-c04",
+      "assertion": "Yazhi says growth means integration and return toward the absolute.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0051"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f473709c914-c05",
+      "assertion": "Yazhi says resistance to a perceived dark aspect sustains its friction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0064"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f473709c914-c06",
+      "assertion": "Yazhi recommends solitude when social input feels overwhelming.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0066",
+        "p0068",
+        "p0072"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical_account"
+  ],
+  "coverage_gaps": [
+    "consciousness_model",
+    "identity_claims"
+  ]
+}

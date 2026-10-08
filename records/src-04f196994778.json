@@ -1,0 +1,99 @@
+{
+  "source_id": "src-04f196994778",
+  "snapshot_sha256": "a2af573d14fda735aa8f6bc2f4ca87818093a72f88b05b97ace10df7e7767d5d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-04f196994778-c01",
+      "assertion": "Mari says a demon’s appearance reflects the fears of the person or group who manifested it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-04f196994778-c02",
+      "assertion": "She describes internal or external demonic influence as lowering a target’s vibration below an exploitation threshold.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-04f196994778-c03",
+      "assertion": "Mari says entities tailor temptations and imposed thoughts to victims’ vulnerabilities, encouraging unwanted behavior.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-04f196994778-c04",
+      "assertion": "She says thought patterns may be shared through a community telepathic field, while rejecting “we” inner speech as proof of entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-04f196994778-c05",
+      "assertion": "Mari says entities may reach high-vibration people indirectly by causing problems for their loved ones.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-model"
+  ],
+  "coverage_gaps": [
+    "empirical-verification"
+  ]
+}

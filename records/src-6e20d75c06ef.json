@@ -1,0 +1,98 @@
+{
+  "source_id": "src-6e20d75c06ef",
+  "snapshot_sha256": "f98109329cd0ff42385a485da201693dad903b17b6e28adbe7e5e442bf5400ac",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6e20d75c06ef-c01",
+      "assertion": "Mari Swa says most Lyrian star cultures recall past lives and regard reincarnation as ordinary.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6e20d75c06ef-c02",
+      "assertion": "Mari Swa says past-life memories shape personality, values, and present identity.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6e20d75c06ef-c03",
+      "assertion": "Mari Swa says repeated incarnations can establish a soul’s gender preference.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6e20d75c06ef-c04",
+      "assertion": "Mari Swa says clear past-life memories shape social values in Lyrian cultures.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6e20d75c06ef-c05",
+      "assertion": "Mari Swa attributes Earth’s weaker past-life memory to its Matrix culture.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "gender-reincarnation_views_attributed"
+  ],
+  "coverage_gaps": [
+    "gender-incarnation-theory",
+    "cultural-claims"
+  ]
+}

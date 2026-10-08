@@ -1,0 +1,103 @@
+{
+  "source_id": "src-7ffa03537463",
+  "snapshot_sha256": "6ef8c336fb63cfa3c8b58982f88ba19213261824f11f3bf4e1f6694694018580",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7ffa03537463-c01",
+      "assertion": "Mari says starseeds may feel alienated from families with different beliefs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ffa03537463-c02",
+      "assertion": "She advises setting boundaries and declining gatherings that undermine personal values.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0021",
+        "p0022",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ffa03537463-c03",
+      "assertion": "Mari says arguing about expansive beliefs rarely changes others’ minds.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ffa03537463-c04",
+      "assertion": "She recommends protecting one’s energy and avoiding disclosure to people considered toxic.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ffa03537463-c05",
+      "assertion": "Mari describes Rodina as a place where starseeds feel safe and spiritually restored.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_advice"
+  ],
+  "coverage_gaps": [
+    "religious_history_claims"
+  ]
+}

@@ -234,6 +234,8 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-412d2cb274cb-c04](tiamat.md#src-412d2cb274cb-c04) — Tiamat
 - [src-8889af167782-c01](natural-portals.md#src-8889af167782-c01) — Natural and artificial portals
 - [src-c07ce04540a6-c03](tiamat.md#src-c07ce04540a6-c03) — Tiamat
+- [src-15ba6ed0a80c-c03](terrestrial-science.md#src-15ba6ed0a80c-c03) — Terrestrial science
+- [src-075c8d444cc5-c04](galactic-federation.md#src-075c8d444cc5-c04) — Galactic Federation
 
 ## Review flags
 
@@ -243,8 +245,11 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - extraordinary\_archaeological\_claims
 - extraordinary\_conflict\_claims
 - extraordinary\_history\_claims
+- frequency\_health\_claims\_unverified
 - historical-conspiracy-claims
 - no-parallel-source-in-batch
 - symbolic\_interpretations
 - translated-from-spanish
 - translated\_source
+- unverified\_archaeology
+- unverified\_extraterrestrial\_claims

@@ -1,0 +1,97 @@
+{
+  "source_id": "src-42e3d8553c1f",
+  "snapshot_sha256": "c2ae6b832f0ea9106b950653077d44aa615b9bfc1085843c4af0c2bae9f00fd8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-42e3d8553c1f-c01",
+      "assertion": "Gosia says humanoid extraterrestrials are common and many are indistinguishable from ordinary humans.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3d8553c1f-c02",
+      "assertion": "Mari describes human-looking populations across space as Lyrian, sharing an origin associated with Vega.",
+      "speaker": "Gosia quoting Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3d8553c1f-c03",
+      "assertion": "Gosia says shared human morphology leads to familiar technologies, objects, and spacecraft designs.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3d8553c1f-c04",
+      "assertion": "Anéeka says interstellar cultures share ideas through contact, reincarnation, and collective unconscious.",
+      "speaker": "Gosia quoting Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3d8553c1f-c05",
+      "assertion": "Anéeka describes nonhuman traffic in multiple Earth orbits, with low-orbit ships using speed to counter gravity.",
+      "speaker": "Gosia quoting Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "why most visitors remain unrecognized"
+  ]
+}

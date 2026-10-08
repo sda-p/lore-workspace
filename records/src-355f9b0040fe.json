@@ -1,0 +1,106 @@
+{
+  "source_id": "src-355f9b0040fe",
+  "snapshot_sha256": "baa2daaa06652dc5a939cdd265ddaf38389123a9bdb5c6d9953604ddf432304c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-355f9b0040fe-c01",
+      "assertion": "Mari alleges news media mix manipulation with selected truths to shape public beliefs.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0011",
+        "p0012",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-355f9b0040fe-c02",
+      "assertion": "She says social conformity and survival priorities discourage independent inquiry.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-355f9b0040fe-c03",
+      "assertion": "She says paranormal topics attract attention because they evoke survival fears.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-355f9b0040fe-c04",
+      "assertion": "She advises limiting news exposure except when it offers practical local information.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-355f9b0040fe-c05",
+      "assertion": "She says consumed media shapes thought patterns and perceived reality.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "media-control-allegation"
+  ],
+  "coverage_gaps": [
+    "media-control",
+    "information-effects"
+  ]
+}

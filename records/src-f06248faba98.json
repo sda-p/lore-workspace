@@ -1,0 +1,95 @@
+{
+  "source_id": "src-f06248faba98",
+  "snapshot_sha256": "33bc9cef03e42b75ba7a2fe890d1e8f4000019800c9eafd6d8029f93cad74edf",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f06248faba98-c01",
+      "assertion": "Mari Swa says Urmah healers returned her unconscious body to Sadicleya after the rite.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f06248faba98-c02",
+      "assertion": "In Mari Swa’s account, a blue lion identified her soul as Urmah in a Lyrian body.",
+      "speaker": "Blue lion (as recalled by Mari Swa)",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f06248faba98-c03",
+      "assertion": "The lion attributed Mari Swa’s ailments to attachment to other timeline versions of herself.",
+      "speaker": "Blue lion (as recalled by Mari Swa)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f06248faba98-c04",
+      "assertion": "The lion said he had cut her attachments to harmful events across timelines.",
+      "speaker": "Blue lion (as recalled by Mari Swa)",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f06248faba98-c05",
+      "assertion": "The lion told Mari Swa she would return to the Urmah after completing her mission.",
+      "speaker": "Blue lion (as recalled by Mari Swa)",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "vision-narrative_attributed"
+  ],
+  "coverage_gaps": [
+    "healing-experience",
+    "timeline-claim"
+  ]
+}

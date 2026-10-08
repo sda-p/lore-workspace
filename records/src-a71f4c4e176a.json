@@ -1,0 +1,103 @@
+{
+  "source_id": "src-a71f4c4e176a",
+  "snapshot_sha256": "3c6c9649ae77867328d751ba8070e80e9df1bdc54e6bc13f7888110eb4e4a348",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a71f4c4e176a-c01",
+      "assertion": "Mari says light beings may appear as ordinary people to communicate with lower-awareness observers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-a71f4c4e176a-c02",
+      "assertion": "She says such beings may manifest through different bodies or forms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0021"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a71f4c4e176a-c03",
+      "assertion": "Mari attributes teleportation and rule-bending abilities to some light beings.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a71f4c4e176a-c04",
+      "assertion": "She says light beings can appear as animals, plants, rocks, or humanoids.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0018"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a71f4c4e176a-c05",
+      "assertion": "Mari says perceived realms depend on awareness and shared perception agreements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "other_manifestation_examples"
+  ]
+}

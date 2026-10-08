@@ -1,0 +1,97 @@
+{
+  "source_id": "src-6f4237eb135e",
+  "snapshot_sha256": "4ffa758bae2f1d56ad5be5a1273607fe2593034d0a515ebe321616c80839c8c0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6f4237eb135e-c01",
+      "assertion": "Mari says Urmah spirituality centers on oneness and treats all matter as conscious.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6f4237eb135e-c02",
+      "assertion": "Mari reports Ari’s view that a strong ego can support care and protection when others are understood as part of oneself.",
+      "speaker": "Mari Swaruu reporting Arishah",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6f4237eb135e-c03",
+      "assertion": "Mari says Urmah ethics extend to enemies, whom they regard as aspects of themselves to be integrated.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6f4237eb135e-c04",
+      "assertion": "Mari says Urmah blend spiritual and physical life, accepting force after other options are exhausted.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6f4237eb135e-c05",
+      "assertion": "Mari says Urmah eat cultivated muscle but may hunt when needed, apologizing to the animal spirit.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "cultivated-meat",
+      "topics": [
+        "cultivated-meat",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "ancestral guides"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "source_id": "src-bbe40d2cc2f2",
+  "snapshot_sha256": "0c78d251567d57d6dc87f1006947a33c997fda06804590fa7de9325585329d6c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bbe40d2cc2f2-c01",
+      "assertion": "Mari argues sudden Cabal removal could cause chaos because she says Earth society is unready for self-rule.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bbe40d2cc2f2-c02",
+      "assertion": "Mari proposes a transition government or mentorship by emotionally empathic interstellar societies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bbe40d2cc2f2-c03",
+      "assertion": "Mari identifies the Urmah as a possible human mentor race, citing empathy, emotion, and ethical standards.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bbe40d2cc2f2-c04",
+      "assertion": "Mari says ordinary secret-society members may be compartmentalized and unaware of upper-level activity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bbe40d2cc2f2-c05",
+      "assertion": "Mari says starseeds may lead a transition, while sudden removal could cause avoidable suffering.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "historical allegations and transition plans"
+  ]
+}

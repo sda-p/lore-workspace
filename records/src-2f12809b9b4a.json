@@ -1,0 +1,128 @@
+{
+  "source_id": "src-2f12809b9b4a",
+  "snapshot_sha256": "c074b2ee5296852d25259b27cb939f7670295c72c9e3f085d46172ad66df8268",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2f12809b9b4a-c01",
+      "assertion": "Mari divides starseeds into wanderers and souls attached to particular stellar races.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f12809b9b4a-c02",
+      "assertion": "She says frequency mismatch makes starseeds feel alienated from Earth and seek their own space.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f12809b9b4a-c03",
+      "assertion": "Mari says low-frequency groups drain starseeds, who recharge in solitude or with like-minded people.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f12809b9b4a-c04",
+      "assertion": "She likens this energy flow to heat moving from higher-energy objects to lower-energy surroundings.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f12809b9b4a-c05",
+      "assertion": "Mari calls prolonged frequency mismatch “ET sickness” and links it to stress-related illness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her health claim."
+    },
+    {
+      "id": "src-2f12809b9b4a-c06",
+      "assertion": "She recommends personal boundaries and less people-pleasing to protect one’s energy.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "extraterrestrial-syndrome",
+      "name": "Extraterrestrial syndrome",
+      "kind": "condition",
+      "aliases": [
+        "ET sickness"
+      ]
+    }
+  ],
+  "review_flags": [
+    "extraordinary_health_claims",
+    "related_series_part"
+  ],
+  "coverage_gaps": [
+    "frequency-mismatch-effects"
+  ]
+}

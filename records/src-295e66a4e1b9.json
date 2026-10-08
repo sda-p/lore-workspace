@@ -1,0 +1,121 @@
+{
+  "source_id": "src-295e66a4e1b9",
+  "snapshot_sha256": "8b373d8c0d1310a7a3bd202006dec96fc94dbf2d9b7765d458cbdf325c1a2bfe",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-295e66a4e1b9-c01",
+      "assertion": "Yazhi says astral and physical worlds mutually generate one another through individual and shared perception agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0011",
+        "p0015",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-295e66a4e1b9-c02",
+      "assertion": "Yazhi says immersion pods can program shared frequencies so astral soldiers meet in common realms.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-295e66a4e1b9-c03",
+      "assertion": "Yazhi says waking bodies and astral activity may desynchronize, with a projected soldier fading later.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0029",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-295e66a4e1b9-c04",
+      "assertion": "Yazhi says animals have astral experiences and communicate telepathically through emotions and concepts.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0040",
+        "p0053",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-295e66a4e1b9-c05",
+      "assertion": "Yazhi says astral factions fight over human energy and creative attention, with effects reflected in Earth conflicts.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0088",
+        "p0089",
+        "p0091",
+        "p0093",
+        "p0096",
+        "p0133",
+        "p0134",
+        "p0136",
+        "p0099"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "astral-military-units",
+      "name": "Astral military units",
+      "kind": "organization",
+      "aliases": [
+        "astral soldiers",
+        "astral special forces"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

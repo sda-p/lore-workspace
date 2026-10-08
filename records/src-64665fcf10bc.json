@@ -1,0 +1,103 @@
+{
+  "source_id": "src-64665fcf10bc",
+  "snapshot_sha256": "5b0ee75cb5da57180102be9d0bbb6e0bae33a2ceea62e8b12a7755b1a0071efb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-64665fcf10bc-c01",
+      "assertion": "Yazhi says she can alter density to avoid detection and can time-jump when consciously using the ability.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This meditation was not intentional time travel."
+    },
+    {
+      "id": "src-64665fcf10bc-c02",
+      "assertion": "Dhor says Maria Island lies opposite Giza and channels energy through ley lines to pyramid networks.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0057",
+        "p0058",
+        "p0060"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64665fcf10bc-c03",
+      "assertion": "Athena describes Yazhi as a higher-density being using a girl’s body as an avatar.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0062",
+        "p0063",
+        "p0064"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64665fcf10bc-c04",
+      "assertion": "Alenym says information reaches Yazhi as lived, emotionally draining downloads.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0071",
+        "p0072",
+        "p0073",
+        "p0075"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64665fcf10bc-c05",
+      "assertion": "Gosia reports Yazhi says she carries memories across Swaruu incarnations without an afterlife interval.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0083",
+        "p0088",
+        "p0090"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu",
+        "nexus-souls"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "early-life-details",
+    "crew-reactions"
+  ]
+}

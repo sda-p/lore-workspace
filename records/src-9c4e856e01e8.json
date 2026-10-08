@@ -1,0 +1,88 @@
+{
+  "source_id": "src-9c4e856e01e8",
+  "snapshot_sha256": "ced2d7cdf90797f08a148729e394935166d91db448448d66e4c6da2e727e51e3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9c4e856e01e8-c01",
+      "assertion": "Mari says the mummies may be fakes despite Grey-like traits and an egg.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0021",
+        "p0026"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She cannot identify their species and allows the researcher may have stronger evidence."
+    },
+    {
+      "id": "src-9c4e856e01e8-c02",
+      "assertion": "She says carbon-based species can share much DNA, citing over 95% overlap between Earth cats and Urmah.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c4e856e01e8-c03",
+      "assertion": "Mari’s files characterize the Starchild skull as an adult nonhuman with distinct structure and DNA unknown to human science.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c4e856e01e8-c04",
+      "assertion": "She suspects authorities may promote extraterrestrial disclosure to prepare a false-alien-invasion narrative, while urging public evidence from both sides.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "disputed_specimen",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "forensic-detail"
+  ]
+}

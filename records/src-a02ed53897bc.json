@@ -1,0 +1,101 @@
+{
+  "source_id": "src-a02ed53897bc",
+  "snapshot_sha256": "a48f126e237d6f8f3044b05fa3daf3117191abe47c8517985612f693cf4b5cf8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a02ed53897bc-c01",
+      "assertion": "Yazhi denies a positive-side agenda: guides aim to expand human minds and ease suffering, leaving outcomes to humans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0055",
+        "p0059"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a02ed53897bc-c02",
+      "assertion": "She says hardship may teach less-aware souls, while the need for suffering declines as awareness rises.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a02ed53897bc-c03",
+      "assertion": "Yazhi says evil becomes self-destructive; a Procyon Gunabul predator starves after exhausting its prey.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a02ed53897bc-c04",
+      "assertion": "She says every ensouled human is a starseed; soul frequency shapes nonlinear afterlife and future incarnations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0043"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a02ed53897bc-c05",
+      "assertion": "Yazhi says humans would collapse before the Cabal enslaves them, while the Cabal needs ensouled people to manifest its desired reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "agenda_term_varies"
+  ],
+  "coverage_gaps": [
+    "astral-detail"
+  ]
+}

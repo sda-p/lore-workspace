@@ -1,0 +1,96 @@
+{
+  "source_id": "src-45bf0b5b3192",
+  "snapshot_sha256": "32533281e5dd0248ceb419966e78a7a9b546562d4ff58e9997bac5ce6922907b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-45bf0b5b3192-c01",
+      "assertion": "Mari says UFO phenomena include craft, interdimensional beings, energy effects, and misidentifications.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She estimates over 95% of cases are hoaxes or misidentified."
+    },
+    {
+      "id": "src-45bf0b5b3192-c02",
+      "assertion": "She attributes increased postwar sightings to World War II and expanding global communications.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45bf0b5b3192-c03",
+      "assertion": "Mari says official agencies and Project Blue Book steered public interpretation of UFO reports.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45bf0b5b3192-c04",
+      "assertion": "She alleges some accepted research groups are infiltrated to guide public perception and discredit her group.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45bf0b5b3192-c05",
+      "assertion": "Mari says materialist standards constrain ufologists, while acknowledging that some researchers act in good faith.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0017",
+        "p0022"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy_claims",
+    "ufo_researcher_critique"
+  ],
+  "coverage_gaps": [
+    "group_identification"
+  ]
+}

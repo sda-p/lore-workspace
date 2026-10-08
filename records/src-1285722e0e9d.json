@@ -1,0 +1,108 @@
+{
+  "source_id": "src-1285722e0e9d",
+  "snapshot_sha256": "61a9f8c6b70666a0b8f9f3d2949d446813f67e29b970a5384e7bf2f30413bb09",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1285722e0e9d-c01",
+      "assertion": "Yazhi says shifting attention can change which timeline people experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-1285722e0e9d-c02",
+      "assertion": "She says timelines can influence one another through unconscious information.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0010",
+        "p0023"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1285722e0e9d-c03",
+      "assertion": "Yazhi says attention determines which timeline has greater influence on a person.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1285722e0e9d-c04",
+      "assertion": "She compares integrating timelines with learning from prior experiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0022",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1285722e0e9d-c05",
+      "assertion": "Yazhi says timelines remain even when a person shifts attention to another.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "other_timeline_examples"
+  ]
+}

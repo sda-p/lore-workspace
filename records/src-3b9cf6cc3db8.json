@@ -1,0 +1,100 @@
+{
+  "source_id": "src-3b9cf6cc3db8",
+  "snapshot_sha256": "1df41a81abb494a073033952f165c75f460ce05b74f427de1db0e898894adce1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3b9cf6cc3db8-c01",
+      "assertion": "Mari says no tangible barrier separates astral and material realms; perception and collective beliefs distinguish them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b9cf6cc3db8-c02",
+      "assertion": "She describes entities as using vibration differences to exploit people, seeking to lower individuals’ or regions’ frequency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b9cf6cc3db8-c03",
+      "assertion": "Mari offers several demon origins: attached narcissistic dead people, low-vibration creatures, or—under another theory—Nephilim souls or fallen angels.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "postmortem-realities"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b9cf6cc3db8-c04",
+      "assertion": "She says dark entities may organize hierarchically and feed on the fear and attention that sustain their egregor manifestations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b9cf6cc3db8-c05",
+      "assertion": "Mari says entities target high-vibration people through vulnerabilities, including unresolved trauma, to reduce their frequency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-model"
+  ],
+  "coverage_gaps": [
+    "empirical-verification"
+  ]
+}

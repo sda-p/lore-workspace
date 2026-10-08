@@ -1,0 +1,126 @@
+{
+  "source_id": "src-41d2f89260a5",
+  "snapshot_sha256": "a44fd075ff47f308f0062380e8b23d5c57e8c44cb888aa54e44f6733f9a213a6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-41d2f89260a5-c01",
+      "assertion": "Anéeka describes Viera as an agile arrow-shaped biosphere ship.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d2f89260a5-c02",
+      "assertion": "Anéeka says Viera has plasma and gravity engines, hyperspace, and Zero Point reactors.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Reactor count unspecified."
+    },
+    {
+      "id": "src-41d2f89260a5-c03",
+      "assertion": "Anéeka says programmable nanometal forms Viera’s hull.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d2f89260a5-c04",
+      "assertion": "Anéeka says Andromedans rely on allied fighters.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d2f89260a5-c05",
+      "assertion": "Anéeka describes Viera’s upper biosphere as terrestrial, lower as marine.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0062"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She had not visited the marine level."
+    },
+    {
+      "id": "src-41d2f89260a5-c06",
+      "assertion": "Anéeka places regional Federation headquarters on Viera, system base on Saturn.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0079"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "viera"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d2f89260a5-c07",
+      "assertion": "Anéeka says Viera’s marine ecosystem supports land life and supplies seaweed.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0062",
+        "p0068"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She had not visited the marine level."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "ship-specifications_attributed"
+  ],
+  "coverage_gaps": [
+    "interior_layout",
+    "ecosystem_species"
+  ]
+}

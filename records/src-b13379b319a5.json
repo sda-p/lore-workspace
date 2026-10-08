@@ -1,0 +1,87 @@
+{
+  "source_id": "src-b13379b319a5",
+  "snapshot_sha256": "a3684d22cb6f294050d2069546ab086602d83e92985a40620005a3e5c5e0825c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b13379b319a5-c01",
+      "assertion": "Athena says she and Yazhi are Swaruunian, not Taygetan; the Federation recognizes the name.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b13379b319a5-c02",
+      "assertion": "Athena describes perceived reality as one energy continuum, with each individual’s awareness shaping a private density and shared perception agreements.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0029",
+        "p0031",
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b13379b319a5-c03",
+      "assertion": "She says physical and astral distinctions depend on viewpoint; all existence may be understood as astral.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0023",
+        "p0025",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b13379b319a5-c04",
+      "assertion": "Athena says gravity-imaging sensors can detect elementals as massive beings beyond ordinary human perception.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0060",
+        "p0062",
+        "p0064",
+        "p0067"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "density-model-details",
+    "other-perceptual-beings"
+  ]
+}

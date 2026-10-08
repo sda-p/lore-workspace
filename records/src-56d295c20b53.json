@@ -1,0 +1,101 @@
+{
+  "source_id": "src-56d295c20b53",
+  "snapshot_sha256": "7e63903905aab99a04b0db31d9607832b4dac3e8eaf163d8258c70ebb805e98f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-56d295c20b53-c01",
+      "assertion": "Mari says aircraft contrails form when atmospheric moisture condenses under pressure.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-56d295c20b53-c02",
+      "assertion": "She claims some aerial trails contain chemicals used to influence weather and human experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-56d295c20b53-c03",
+      "assertion": "Mari claims most large-scale spraying is done by stealth nonhuman craft.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0030"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-56d295c20b53-c04",
+      "assertion": "She says commercial airliners are mostly not responsible for large-scale spraying, which she attributes mainly to nonhuman craft.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-56d295c20b53-c05",
+      "assertion": "Mari argues that blaming air travel supports efforts to restrict public mobility.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0032"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "specific_substances"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_id": "src-437981222071",
+  "snapshot_sha256": "c75da156ae9a3737c9067c405d50ddcf99a9f29ca79f98c50d6cd815ed17d470",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-437981222071-c01",
+      "assertion": "Mari Swa says Sadicleya is a 50-crew, multipurpose Toleka 2-class cruiser.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-437981222071-c02",
+      "assertion": "Alfratan hosts urged unity and warned against independent theories about Federation policy.",
+      "speaker": "Gori’el",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-437981222071-c03",
+      "assertion": "Gori’el says hosts argued Earth should stay isolated until humans developed suitable ethics.",
+      "speaker": "Gori’el",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-437981222071-c04",
+      "assertion": "Gori’el says hosts interrupted his question about Earth’s separation and ignored his follow-up.",
+      "speaker": "Gori’el",
+      "paragraph_ids": [
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-437981222071-c05",
+      "assertion": "Mari Swa says Alenym abdicated before pod treatment, making her Taygeta’s full queen.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The Council disclosed this later."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "succession-report_attributed"
+  ],
+  "coverage_gaps": [
+    "conference-controversy",
+    "hurricane-mirror"
+  ]
+}

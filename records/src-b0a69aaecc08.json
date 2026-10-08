@@ -1,0 +1,114 @@
+{
+  "source_id": "src-b0a69aaecc08",
+  "snapshot_sha256": "e46df4a4d62525f5db732245c0f113306e8897b7a68136887bde55f9c73b4746",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b0a69aaecc08-c01",
+      "assertion": "Mari Swa says Toleka-class ships can reach Taygeta in about seven hours.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "toleka-class"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0a69aaecc08-c02",
+      "assertion": "Mari Swa says Federation headquarters cancelled support for Second Contact and threatened sanctions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0a69aaecc08-c03",
+      "assertion": "Mari Swa says Earth-orbit communications pass through Federation servers and AI filters.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0a69aaecc08-c04",
+      "assertion": "Mari Swa says the Federation removed Taygetan funding and internet support after Alenym refused its terms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0a69aaecc08-c05",
+      "assertion": "Mari Swa says Alenym’s evidence led the Alcyone Council to rupture relations with the Federation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Diplomatic ties continued."
+    },
+    {
+      "id": "src-b0a69aaecc08-c06",
+      "assertion": "Mari Swa says Antarians and Urmah publicly supported Taygetans in the dispute.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Federation-sanctions_reported"
+  ],
+  "coverage_gaps": [
+    "communications-routing",
+    "diplomatic-relations"
+  ]
+}

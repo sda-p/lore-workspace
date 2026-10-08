@@ -1,0 +1,99 @@
+{
+  "source_id": "src-91851d621bc3",
+  "snapshot_sha256": "468cb1b0d1e6efd63e5870f4a6c4bf89e0d13155f62e5bd5839dceb48b1d2aab",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-91851d621bc3-c01",
+      "assertion": "Athena Swaruu says classical Egypt inherited infrastructure from an earlier civilization.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-91851d621bc3-c02",
+      "assertion": "Athena Swaruu describes pre-flood Giza as a multiracial Federation starport city.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-91851d621bc3-c03",
+      "assertion": "Athena Swaruu says three underground levels beneath Giza retain advanced technology and spacecraft.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says some craft may remain functional."
+    },
+    {
+      "id": "src-91851d621bc3-c04",
+      "assertion": "Athena Swaruu says multiple buried entrances connected the plateau to the underground base.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0028"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-91851d621bc3-c05",
+      "assertion": "Athena Swaruu says later Egyptians used the earlier site and knew the base as a divine abode.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0033"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "alternate-history_claims_attributed"
+  ],
+  "coverage_gaps": [
+    "subterranean-technology",
+    "later-civilization"
+  ]
+}

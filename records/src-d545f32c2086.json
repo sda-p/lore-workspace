@@ -1,0 +1,101 @@
+{
+  "source_id": "src-d545f32c2086",
+  "snapshot_sha256": "808a8d7497d338f83f74a74bcb59c3c7984e6028452c794903315628cd4e271e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d545f32c2086-c01",
+      "assertion": "Mari says the Federation views Earth as a school where souls learn through experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0008",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Official rationale as presented."
+    },
+    {
+      "id": "src-d545f32c2086-c02",
+      "assertion": "She says direct problem-solving could hinder people’s self-reliance and growth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0014",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d545f32c2086-c03",
+      "assertion": "Mari says the Federation claims to mentor humanity from a distance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Claimed rationale."
+    },
+    {
+      "id": "src-d545f32c2086-c04",
+      "assertion": "She describes personal experience as producing stronger learning than observation alone.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d545f32c2086-c05",
+      "assertion": "Mari says mutual cooperation remains central to holistic society despite self-reliance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0028"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "limits_of_intervention"
+  ]
+}

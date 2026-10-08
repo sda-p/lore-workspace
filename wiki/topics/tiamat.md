@@ -176,12 +176,61 @@ Source: [Nebulae, Precession of the Equinoxes, and More - Extraterrestrial Woman
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+### src-cb796b9370e8-c03
+
+Yazhi says the asteroid belt is debris from Tiamat; she describes the Kuiper Belt as incoming deep-space debris.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Mini Topics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-mini-topics-with-gosia-cosmic-agency) (2023-02-15; en); passages p0023, p0024, p0025, p0026. [Structured record](../../records/src-cb796b9370e8.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-d38969723252-c04
+
+She speculates Alpha Dracos brought animal-like dragons to Earth before Tiamat.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [Alpha Dracos, Dragons, and Taygetan Language - MiniTopics with Gosia](https://swaruu.org/transcripts/alpha-dracos-dragons-and-taygetan-language-minitopics-with-gosia) (2023-04-22; en); passages p0021, p0023. [Structured record](../../records/src-d38969723252.json).
+
+### src-67a7fcd528f7-c02
+
+She says watery Tiamat orbited between Mars and Jupiter; its destruction left the asteroid belt and caused Earth’s flood.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon. Part 1 (English)](https://swaruu.org/transcripts/the-moon-part-1-english) (2023-07-03; en); passages p0014, p0017, p0018. [Structured record](../../records/src-67a7fcd528f7.json).
+
+### src-8a1afb652263-c03
+
+Athena says pole shifts require catastrophic events or strong external influence; she links the last to Tiamat’s waters reaching Earth.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Why is Magnetic Field Weakening? Should we Worry? (Athena Swaruu)](https://swaruu.org/transcripts/why-is-magnetic-field-weakening-should-we-worry-athena-swaruu) (2023-03-18; en); passages p0007. [Structured record](../../records/src-8a1afb652263.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-4667fff63537-c02
+
+Swaruu 9 says Ceres, once Tiamat’s moon, hosts Federation cities for ship repair and trade.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Neptune, Ceres, and other planets - Solar System - Swaruu of Erra](https://swaruu.org/transcripts/neptune-ceres-and-other-planets-solar-system-swaruu-of-erra) (2023-01-27; en); passages p0023, p0024, p0025, p0027, p0037, p0046, p0048, p0058, p0060, p0062. [Structured record](../../records/src-4667fff63537.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c02](black-goo.md#src-d47faace954b-c02) — Black goo
 - [src-4edf6c848c69-c05](orion-wars.md#src-4edf6c848c69-c05) — Orion Wars
 - [src-869bb2b811fe-c01](atlantis-lemuria.md#src-869bb2b811fe-c01) — Atlantis and Lemuria
 - [src-d7d90a56bb44-c03](alien-species.md#src-d7d90a56bb44-c03) — Alien species and distinctions
+- [src-c0c392776fd0-c01](moon-matrix.md#src-c0c392776fd0-c01) — Moon and terrestrial Matrix
+- [src-4667fff63537-c01](alien-species.md#src-4667fff63537-c01) — Alien species and distinctions
+- [src-691d121eef5a-c01](moon-matrix.md#src-691d121eef5a-c01) — Moon and terrestrial Matrix
 
 ## Review flags
 
@@ -189,12 +238,18 @@ Related topics: [Terrestrial science](terrestrial-science.md).
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - approximate\_dates
+- earth\_science\_claims\_unverified
 - extraordinary\_astronomical\_claims
 - extraordinary\_history\_claims
+- extraordinary\_metaphysical\_claims
+- historical-claims-unverified
 - historical-conspiracy-claims
+- lunar-reactor-age-origin-uncertainty
 - metaphysical-claims
 - no-parallel-source-in-batch
 - planet\_count\_internal\_inconsistency
+- related\_series\_part
 - speaker-label-ambiguity
 - translated-from-spanish
 - translated\_source
+- translation-equivalence-review

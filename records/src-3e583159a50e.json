@@ -1,0 +1,117 @@
+{
+  "source_id": "src-3e583159a50e",
+  "snapshot_sha256": "267a5d64e41c8c07d4dc64a41b86793f8aa54f8914240d7b325f445af39e6c85",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3e583159a50e-c01",
+      "assertion": "Yazhi speculates genome may describe a race-level DNA set, while DNA may refer to individuals.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e583159a50e-c02",
+      "assertion": "She says stored DNA could guide medical-pod repair, especially for trauma damage.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e583159a50e-c03",
+      "assertion": "She alleges DNA data could enable frequency-based control or soul-signal placement.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e583159a50e-c04",
+      "assertion": "She alleges Earth DNA collection feeds a Cabal-controlled database used to identify nonhuman incarnates.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0038"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e583159a50e-c05",
+      "assertion": "She says individual DNA changes with age and consciousness, while some data updates may be needed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e583159a50e-c06",
+      "assertion": "She describes humans as altered Lyrians and calls Swaruunians a Taygetan variant.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-claims-unverified",
+    "population-control-allegations"
+  ],
+  "coverage_gaps": [
+    "dna-technology",
+    "genetic-classification"
+  ]
+}

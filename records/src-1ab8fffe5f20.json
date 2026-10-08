@@ -1,0 +1,106 @@
+{
+  "source_id": "src-1ab8fffe5f20",
+  "snapshot_sha256": "855bc36654534c645d90a81b82531c5707e4ba1765bd1115e7c873a96af84d06",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1ab8fffe5f20-c01",
+      "assertion": "Mari Swa says Taygetans use Earth supplies because Federation rules restrict imported technology.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ab8fffe5f20-c02",
+      "assertion": "Mari Swa says Taygetans lack the surface-operation funding allowance given to Alfratans.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ab8fffe5f20-c03",
+      "assertion": "Mari Swa identifies Hashmallim as Taygetan special forces; four operatives handled a supply run.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ab8fffe5f20-c04",
+      "assertion": "Mari Swa says the team changed extraction sites after finding UFO watchers at its landing zone.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0021"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ab8fffe5f20-c05",
+      "assertion": "Mari Swa says operatives use human radio terms near Earth to conceal their language.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "hashmallim",
+      "name": "Hashmallim",
+      "kind": "faction",
+      "aliases": [
+        "Taygeta Special Forces"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unverified-encounter"
+  ],
+  "coverage_gaps": [
+    "earth-supply-operations",
+    "extraction"
+  ]
+}

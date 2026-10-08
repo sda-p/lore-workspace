@@ -5,7 +5,7 @@
   "claims": [
     {
       "id": "src-73847cacada2-c01",
-      "assertion": "Mari identifies herself as a nonhuman Swaruunian, a Taygetan genetic variant based on Erra.",
+      "assertion": "Mari identifies as a nonhuman Swaruunian, a Taygetan variant based on Erra.",
       "speaker": "Mari Swaruu",
       "paragraph_ids": [
         "p0003",
@@ -21,7 +21,7 @@
     },
     {
       "id": "src-73847cacada2-c02",
-      "assertion": "She says her expedition group monitors Earth and she lived there five years as a human-looking Step Down.",
+      "assertion": "She says she lived five years on Earth as a Step Down from a ship group monitoring humanity.",
       "speaker": "Mari Swaruu",
       "paragraph_ids": [
         "p0007",
@@ -38,7 +38,7 @@
     },
     {
       "id": "src-73847cacada2-c03",
-      "assertion": "Mari claims hundreds of thousands of humanlike civilizations inhabit other planets.",
+      "assertion": "Mari claims at least 400,000 humanlike civilizations inhabit other worlds.",
       "speaker": "Mari Swaruu",
       "paragraph_ids": [
         "p0005",
@@ -50,11 +50,11 @@
       ],
       "modality": "reported",
       "confidence": "high",
-      "qualifiers": "She estimates at least 400,000."
+      "qualifiers": "Her estimate."
     },
     {
       "id": "src-73847cacada2-c04",
-      "assertion": "She says the Prime Directive limits sharing technology above Earth’s level and prevents public evidence.",
+      "assertion": "She says the Prime Directive bars sharing above-Earth technology and public proof.",
       "speaker": "Mari Swaruu",
       "paragraph_ids": [
         "p0021",
@@ -71,12 +71,12 @@
     },
     {
       "id": "src-73847cacada2-c05",
-      "assertion": "Mari says her channel draws on terrestrial research, Taygetan sources, and Federation information.",
+      "assertion": "Mari says her channel shares her perspective and off-world information she considers useful for viewers.",
       "speaker": "Mari Swaruu",
       "paragraph_ids": [
-        "p0015",
         "p0019",
-        "p0020"
+        "p0020",
+        "p0026"
       ],
       "primary_topic": "holistic-society",
       "topics": [
@@ -89,29 +89,10 @@
     },
     {
       "id": "src-73847cacada2-c06",
-      "assertion": "She says she publishes mostly daily in English and Spanish without human channel staff.",
+      "assertion": "She invites viewers to treat her claims as science fiction.",
       "speaker": "Mari Swaruu",
       "paragraph_ids": [
-        "p0014",
-        "p0015",
-        "p0017",
-        "p0018"
-      ],
-      "primary_topic": "holistic-society",
-      "topics": [
-        "holistic-society"
-      ],
-      "modality": "reported",
-      "confidence": "high",
-      "qualifiers": ""
-    },
-    {
-      "id": "src-73847cacada2-c07",
-      "assertion": "Mari invites viewers to treat her claims as science fiction and says she does not seek to impose them.",
-      "speaker": "Mari Swaruu",
-      "paragraph_ids": [
-        "p0025",
-        "p0026"
+        "p0025"
       ],
       "primary_topic": "holistic-society",
       "topics": [

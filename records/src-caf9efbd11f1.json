@@ -1,0 +1,111 @@
+{
+  "source_id": "src-caf9efbd11f1",
+  "snapshot_sha256": "120c27754dc7f560da91852376b04e7a2a017c21ed70a502c73da9174cb4990c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-caf9efbd11f1-c01",
+      "assertion": "Mari says human and extraterrestrial identities form a gradient rather than a fixed boundary.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-caf9efbd11f1-c02",
+      "assertion": "Mari defines starseeds as souls with prior off-world lives who choose Earth incarnations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-caf9efbd11f1-c03",
+      "assertion": "Mari calls people born elsewhere who visit Earth Step Downs; some adopt human identities by choice.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-caf9efbd11f1-c04",
+      "assertion": "Mari says human-like species are common and vary in appearance and internal anatomy.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "lyran-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-caf9efbd11f1-c05",
+      "assertion": "Mari says some off-world visitors orbit Earth and quietly support friends and starseeds below.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

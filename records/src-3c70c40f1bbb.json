@@ -1,0 +1,95 @@
+{
+  "source_id": "src-3c70c40f1bbb",
+  "snapshot_sha256": "10909e401238c6f8560ad3d62637214544072ac55e2baf084226af5d0bbfa107",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3c70c40f1bbb-c01",
+      "assertion": "Mari says the Galactic Federation is a physical organization distinct from higher-plane light beings.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c70c40f1bbb-c02",
+      "assertion": "Mari says there is no space war or invading race near Earth, and no evidence of either.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c70c40f1bbb-c03",
+      "assertion": "Mari says Federation representatives bear direct responsibility for guiding Earth, despite claiming limited ability to help.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c70c40f1bbb-c04",
+      "assertion": "Mari says human power structures depend on population attention and obedience to retain control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c70c40f1bbb-c05",
+      "assertion": "Mari calls Federation nonintervention amid restrictions on positive manifestation criminal negligence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_id": "src-f95f21ca391d",
+  "snapshot_sha256": "5918e2ac19e14d66662a5c8d47f1e47e351a1fcdd40625bdcf81d08d4afa9dd8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f95f21ca391d-c01",
+      "assertion": "Anéeka describes a crewless, damaged two-kilometer ship in high Earth orbit.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Its Lemurian origin is only presumed."
+    },
+    {
+      "id": "src-f95f21ca391d-c02",
+      "assertion": "Anéeka says the ship is over 12,000 years old and returned on impulse with failing engines.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f95f21ca391d-c03",
+      "assertion": "Anéeka says the ship nearly followed a surface-impact trajectory before Federation intervention.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f95f21ca391d-c04",
+      "assertion": "Anéeka says investigation was delayed because the wreck’s interior is dangerous.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0019"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Blood and structural debris were reported."
+    },
+    {
+      "id": "src-f95f21ca391d-c05",
+      "assertion": "Anéeka says an unknown space-adapted animal might survive aboard the wreck.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "wreck-origin_uncertain"
+  ],
+  "coverage_gaps": [
+    "origin",
+    "crew-history"
+  ]
+}

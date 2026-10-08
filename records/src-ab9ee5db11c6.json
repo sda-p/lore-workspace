@@ -1,0 +1,94 @@
+{
+  "source_id": "src-ab9ee5db11c6",
+  "snapshot_sha256": "ecc7e38736bfb0c38da49b1339bb7406b19217eda869d25ac37fbbd2e27caca1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ab9ee5db11c6-c01",
+      "assertion": "Mari says souls choose Earth willingly, viewing its hardship as a challenge they believe they can face.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab9ee5db11c6-c02",
+      "assertion": "She says empathy and sensitivity reflect a strong Source connection and let starseeds channel energy into Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab9ee5db11c6-c03",
+      "assertion": "Mari says memory erasure is superficial, with past-life knowledge remaining beneath conscious recall.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab9ee5db11c6-c04",
+      "assertion": "She describes spirit guides as expanded versions of oneself that include the incarnated viewpoint.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab9ee5db11c6-c05",
+      "assertion": "Mari says crystals or amulets may help when a person gives them meaning.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_metaphysical_claims"
+  ],
+  "coverage_gaps": [
+    "motivational_topics"
+  ]
+}

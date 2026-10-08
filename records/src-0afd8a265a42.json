@@ -1,0 +1,124 @@
+{
+  "source_id": "src-0afd8a265a42",
+  "snapshot_sha256": "9d1f0da250b2d15addda4678c852a8fe73637944e6612d4a0c60b6cb232c18be",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0afd8a265a42-c01",
+      "assertion": "Ari describes an interstellar federation of canine cultures called Spatium Lupi, led by wolves.",
+      "speaker": "Ari",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "spatium-lupi",
+      "topics": [
+        "spatium-lupi"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari translated Ari’s answer."
+    },
+    {
+      "id": "src-0afd8a265a42-c02",
+      "assertion": "Ari says the Lupi are wolves rather than Earth-origin dogs, with jackal- and hyena-like peoples.",
+      "speaker": "Ari",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "spatium-lupi",
+      "topics": [
+        "spatium-lupi"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0afd8a265a42-c03",
+      "assertion": "Ari places Lupi bases near Enif and says they cooperate with Proceonian Lyrians.",
+      "speaker": "Ari",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "spatium-lupi",
+      "topics": [
+        "spatium-lupi"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0afd8a265a42-c04",
+      "assertion": "Ari describes Lupi society as holistic, royally led, and allied with the Urmah.",
+      "speaker": "Ari",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "spatium-lupi",
+      "topics": [
+        "spatium-lupi",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0afd8a265a42-c05",
+      "assertion": "Ari says Lupi and Urmah fought Orion Reptilian expansion in shared regions.",
+      "speaker": "Ari",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "spatium-lupi",
+      "topics": [
+        "spatium-lupi",
+        "urmah",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0afd8a265a42-c06",
+      "assertion": "Ari says Lupi opposed the Federation’s Earth memory veil and guided souls after death.",
+      "speaker": "Ari",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "spatium-lupi",
+      "topics": [
+        "spatium-lupi",
+        "postmortem-realities",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "spatium-lupi",
+      "name": "Spatium Lupi",
+      "kind": "faction",
+      "aliases": [
+        "Lupi",
+        "Denando De Sixte Terrae"
+      ]
+    }
+  ],
+  "review_flags": [
+    "reported-claims_by_Ari"
+  ],
+  "coverage_gaps": [
+    "species-cultures",
+    "afterlife-politics"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "proposed": {
+      "id": "dimensional-mirroring",
+      "name": "Dimensional mirroring",
+      "kind": "cosmology",
+      "aliases": [
+        "mirroring effect"
+      ]
+    },
+    "canonical": {
+      "id": "dimensional-mirroring",
+      "name": "Dimensional mirroring",
+      "kind": "cosmology",
+      "aliases": [
+        "mirroring effect"
+      ]
+    },
+    "note": "This earlier normalization report lost the original proposal through a mutable reference. The preserved values reflect canonical metadata only; substantive claims were unchanged. Future reports retain an independent copy of the original proposal."
+  }
+]

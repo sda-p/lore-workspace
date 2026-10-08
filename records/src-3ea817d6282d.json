@@ -1,0 +1,102 @@
+{
+  "source_id": "src-3ea817d6282d",
+  "snapshot_sha256": "e5bb75c250a49bcd0473f65e974b32c8bb7f65dc6890643720371f32dd1ea4bb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3ea817d6282d-c01",
+      "assertion": "Mari says smart devices and connected cars gather personal data used to track trends and steer policies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ea817d6282d-c02",
+      "assertion": "She claims Cabal aircraft use aura-reading spectrometers to identify starseeds, though not all FLIR craft do.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ea817d6282d-c03",
+      "assertion": "Mari says cell towers can transmit directed-energy or frequency attacks against targeted people.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ea817d6282d-c04",
+      "assertion": "She says Federation races assign drones to monitor and protect starseeds under Prime Directive interference limits.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ea817d6282d-c05",
+      "assertion": "Mari describes these drones as spherical anti-gravity craft that may glow or reflect sunlight, not direct proof of extraterrestrials.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy_claims",
+    "unverified_technology_claims"
+  ],
+  "coverage_gaps": [
+    "surveillance-methods"
+  ]
+}

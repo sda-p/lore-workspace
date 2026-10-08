@@ -8,71 +8,93 @@ Language counterparts are retained separately when they contain editorial change
 | --- | ---: | ---: |
 | [Aethien Mantis](topics/aethien-mantis.md) | 1 | 0 |
 | [Alcyone Council](topics/alcyone-council.md) | 9 | 3 |
-| [Alien species and distinctions](topics/alien-species.md) | 194 | 72 |
+| [Alien species and distinctions](topics/alien-species.md) | 249 | 106 |
 | [Amelie](topics/amelie.md) | 1 | 0 |
-| [Andromeda Council](topics/andromeda-council.md) | 0 | 1 |
-| [Astrotheology](topics/astrotheology.md) | 6 | 3 |
-| [Atlantis and Lemuria](topics/atlantis-lemuria.md) | 25 | 8 |
+| [Andromeda Council](topics/andromeda-council.md) | 2 | 2 |
+| [Archons and demons](topics/archons-and-demons.md) | 6 | 5 |
+| [Artificial intelligence](topics/artificial-intelligence.md) | 4 | 1 |
+| [Astrotheology](topics/astrotheology.md) | 13 | 4 |
+| [Atlantis and Lemuria](topics/atlantis-lemuria.md) | 25 | 10 |
 | [Black goo](topics/black-goo.md) | 27 | 5 |
 | [Black holes](topics/black-holes.md) | 6 | 5 |
 | [Borg](topics/borg.md) | 5 | 1 |
-| [Consciousness and metaphysics](topics/consciousness-metaphysics.md) | 502 | 114 |
+| [Consciousness and metaphysics](topics/consciousness-metaphysics.md) | 831 | 172 |
 | [Consciousness singularity](topics/consciousness-singularity.md) | 2 | 0 |
 | [Cultivated meat](topics/cultivated-meat.md) | 0 | 1 |
 | [Cyndriel](topics/cyndriel.md) | 2 | 1 |
-| [Earth Cabal and power structures](topics/earth-cabal.md) | 135 | 37 |
-| [Economics and resources](topics/economics.md) | 27 | 16 |
-| [Egregors](topics/egregors.md) | 1 | 0 |
+| [Dimensional mirroring](topics/dimensional-mirroring.md) | 4 | 4 |
+| [Disc-shaped shuttle craft](topics/disc-shaped-shuttles.md) | 5 | 0 |
+| [DNA and metaphysical patterns](topics/dna-metaphysics.md) | 3 | 3 |
+| [Earth Cabal and power structures](topics/earth-cabal.md) | 184 | 51 |
+| [Economics and resources](topics/economics.md) | 40 | 23 |
+| [Egregors](topics/egregors.md) | 2 | 3 |
 | [Elementals](topics/elementals.md) | 1 | 0 |
-| [Energy generation technology](topics/energy-generation.md) | 29 | 12 |
-| [Extraterrestrial step-downs](topics/extraterrestrial-stepdowns.md) | 0 | 1 |
-| [False alien invasion scenarios](topics/false-alien-invasion.md) | 2 | 0 |
-| [Frequency-map navigation](topics/frequency-map-navigation.md) | 4 | 3 |
-| [Galactic Federation](topics/galactic-federation.md) | 153 | 53 |
+| [Energy generation technology](topics/energy-generation.md) | 37 | 28 |
+| [Etheric load heaters](topics/etheric-load-heaters.md) | 1 | 0 |
+| [Etorthans](topics/etorthans.md) | 2 | 0 |
+| [Extraterrestrial step-downs](topics/extraterrestrial-stepdowns.md) | 4 | 1 |
+| [False alien invasion scenarios](topics/false-alien-invasion.md) | 5 | 1 |
+| [Frequency-based astrology](topics/frequency-astrology.md) | 2 | 1 |
+| [Frequency-map navigation](topics/frequency-map-navigation.md) | 5 | 3 |
+| [Galactic Federation](topics/galactic-federation.md) | 204 | 95 |
+| [Goblins](topics/goblins.md) | 1 | 0 |
 | [Gravity harmonics](topics/gravity-harmonics.md) | 2 | 0 |
 | [Harmonic shields](topics/harmonic-shields.md) | 1 | 0 |
-| [Holistic society](topics/holistic-society.md) | 73 | 17 |
-| [Holographic computers](topics/holographic-computers.md) | 36 | 16 |
+| [Holistic society](topics/holistic-society.md) | 96 | 18 |
+| [Holographic computers](topics/holographic-computers.md) | 40 | 18 |
 | [Human clones and manufactured persons](topics/human-clones.md) | 1 | 0 |
-| [Intraterrestrial civilizations](topics/intraterrestrial-civilizations.md) | 1 | 0 |
-| [Kingu](topics/kingu.md) | 1 | 0 |
-| [Lyran expansion](topics/lyran-expansion.md) | 10 | 4 |
+| [Immersion pods](topics/immersion-pods.md) | 2 | 0 |
+| [Intraterrestrial civilizations](topics/intraterrestrial-civilizations.md) | 2 | 0 |
+| [Intraterrestrial Vulcans](topics/intraterrestrial-vulcans.md) | 1 | 0 |
+| [Kingu](topics/kingu.md) | 1 | 1 |
+| [Lyran expansion](topics/lyran-expansion.md) | 10 | 6 |
 | [Maitre](topics/maitre.md) | 1 | 0 |
 | [Mars](topics/mars.md) | 1 | 0 |
+| [Maternal medical pods](topics/maternal-med-pods.md) | 1 | 0 |
 | [Monoliths](topics/monoliths.md) | 5 | 1 |
-| [Moon and terrestrial Matrix](topics/moon-matrix.md) | 78 | 21 |
+| [The Moon as a biosphere ship](topics/moon-biosphere-ship.md) | 3 | 0 |
+| [Moon and terrestrial Matrix](topics/moon-matrix.md) | 118 | 33 |
 | [Muonic galactic AI network](topics/muonic-galactic-ai-network.md) | 3 | 0 |
-| [Natural and artificial portals](topics/natural-portals.md) | 23 | 9 |
-| [Nonhuman surveillance drones](topics/nonhuman-surveillance-drones.md) | 1 | 0 |
+| [Natural and artificial portals](topics/natural-portals.md) | 30 | 18 |
+| [Nexus souls](topics/nexus-souls.md) | 3 | 0 |
+| [Nonhuman surveillance drones](topics/nonhuman-surveillance-drones.md) | 2 | 0 |
+| [O’ha’lu](topics/o-halu.md) | 2 | 0 |
 | [Operation Venus Haven](topics/operation-venus-haven.md) | 1 | 1 |
-| [Original Matrix](topics/original-matrix.md) | 5 | 12 |
-| [Orion Wars](topics/orion-wars.md) | 4 | 4 |
-| [Perceptual density](topics/perceptual-density.md) | 3 | 0 |
+| [Original Matrix](topics/original-matrix.md) | 14 | 14 |
+| [Orion Grays](topics/orion-grays.md) | 2 | 1 |
+| [Orion Wars](topics/orion-wars.md) | 5 | 4 |
+| [Perceptual density](topics/perceptual-density.md) | 5 | 0 |
 | [Pineal interface](topics/pineal-interface.md) | 2 | 0 |
-| [Postmortem realities](topics/postmortem-realities.md) | 4 | 0 |
-| [Prime Directive](topics/prime-directive.md) | 21 | 12 |
+| [Postmortem realities](topics/postmortem-realities.md) | 13 | 1 |
+| [Prime Directive](topics/prime-directive.md) | 40 | 17 |
 | [Sand Clock](topics/sand-clock.md) | 1 | 2 |
 | [Sentient starship AI](topics/sentient-starship-ai.md) | 5 | 0 |
 | [Ship internal time](topics/ship-internal-time.md) | 1 | 0 |
-| [Soulmates](topics/soulmates.md) | 4 | 0 |
+| [Soulmates](topics/soulmates.md) | 5 | 0 |
 | [Spherical drones](topics/spherical-drones.md) | 0 | 1 |
 | [Starlette](topics/starlette.md) | 0 | 2 |
-| [Starship systems](topics/starship-systems.md) | 168 | 52 |
-| [Stellar navigation](topics/stellar-navigation.md) | 91 | 32 |
+| [Starship systems](topics/starship-systems.md) | 203 | 86 |
+| [Stellar navigation](topics/stellar-navigation.md) | 97 | 36 |
 | [Subterranean ocean networks](topics/subterranean-ocean-networks.md) | 1 | 0 |
 | [Sunspot portals](topics/sunspot-portals.md) | 0 | 1 |
 | [Tartaria](topics/tartaria.md) | 4 | 0 |
 | [Taygetan ecosystems](topics/taygetan-ecosystems.md) | 5 | 0 |
-| [Taygetan language](topics/taygetan-language.md) | 1 | 0 |
-| [Taygetans](topics/taygetans.md) | 110 | 34 |
-| [Temporal skipping](topics/temporal-skipping.md) | 4 | 0 |
-| [Terrestrial science](topics/terrestrial-science.md) | 142 | 45 |
-| [Tiamat](topics/tiamat.md) | 19 | 4 |
-| [Tractor beams](topics/tractor-beams.md) | 0 | 1 |
+| [Taygetan flight suits and boots](topics/taygetan-flight-suits.md) | 5 | 0 |
+| [Taygetan language](topics/taygetan-language.md) | 4 | 0 |
+| [Taygetan wireless power grid](topics/taygetan-wireless-power-grid.md) | 1 | 0 |
+| [Taygetans](topics/taygetans.md) | 131 | 48 |
+| [Temporal skipping](topics/temporal-skipping.md) | 6 | 0 |
+| [Terrestrial science](topics/terrestrial-science.md) | 187 | 68 |
+| [Tiamat](topics/tiamat.md) | 24 | 7 |
+| [Tractor beams](topics/tractor-beams.md) | 1 | 1 |
 | [Unicorn symbolism](topics/unicorn-symbolism.md) | 9 | 0 |
-| [Urmah](topics/urmah.md) | 22 | 1 |
+| [Urmah](topics/urmah.md) | 24 | 4 |
+| [Inoculation and genetic alteration claims](topics/vaccine-inoculation-claims.md) | 3 | 0 |
 | [Venus](topics/venus.md) | 3 | 1 |
+| [Viera](topics/viera.md) | 1 | 0 |
 | [Vlash, Vlad and Vrill clans](topics/vlash-vlad-vrill-clans.md) | 0 | 1 |
+| [Weather control systems](topics/weather-control.md) | 1 | 0 |
+| [Zeta Reticuli Gardeners](topics/zeta-reticuli-gardeners.md) | 1 | 1 |
 
 ## Sources in this batch
 
@@ -453,6 +475,166 @@ Language counterparts are retained separately when they contain editorial change
 | [The portals we all make, prelude (English)](https://swaruu.org/transcripts/the-portals-we-all-make-prelude-english) | en | 2023-01-15 | 4 |
 | [The portals you make, part 2, the Paranormal. (English)](https://swaruu.org/transcripts/the-portals-you-make-part-2-the-paranormal-english) | en | 2023-01-17 | 5 |
 | [Immersion Pods - Entertainment and Entry to Earth](https://swaruu.org/transcripts/immersion-pods-entertainment-and-entry-to-earth) | en | 2023-01-19 | 6 |
+| [Paranormal Portals, the portals we all make part 3 (English)](https://swaruu.org/transcripts/paranormal-portals-the-portals-we-all-make-part-3-english) | en | 2023-01-20 | 6 |
+| [Earth - Why is it Important for the Extraterrestrials? Athena and Yazhi Swaruu](https://swaruu.org/transcripts/earth-why-is-it-important-for-the-extraterrestrials-athena-and-yazhi-swaruu) | en | 2023-01-22 | 5 |
+| [Reality, Egregores, Manifestation and the Paranormal. (English)](https://swaruu.org/transcripts/reality-egregores-manifestation-and-the-paranormal-english) | en | 2023-01-24 | 5 |
+| [Why Minecraft, Pool Area and Main Garden (English)](https://swaruu.org/transcripts/why-minecraft-pool-area-and-main-garden-english) | en | 2023-01-27 | 5 |
+| [Electric Cars and Why they are Bad - Cabal´s Agendas - Yazhi Swaruu](https://swaruu.org/transcripts/electric-cars-and-why-they-are-bad-cabal-s-agendas-yazhi-swaruu) | en | 2023-01-27 | 5 |
+| [Neptune, Ceres, and other planets - Solar System - Swaruu of Erra](https://swaruu.org/transcripts/neptune-ceres-and-other-planets-solar-system-swaruu-of-erra) | en | 2023-01-27 | 5 |
+| [The problem with science on Earth. (English)](https://swaruu.org/transcripts/the-problem-with-science-on-earth-english) | en | 2023-01-30 | 5 |
+| [Pluto and why it was degraded to Planetoid - Swaruu of Erra](https://swaruu.org/transcripts/pluto-and-why-it-was-degraded-to-planetoid-swaruu-of-erra) | en | 2023-01-30 | 5 |
+| [The problem with UFO researchers. (English)](https://swaruu.org/transcripts/the-problem-with-ufo-researchers-english) | en | 2023-02-02 | 5 |
+| [The Sun and its portals. (English)](https://swaruu.org/transcripts/the-sun-and-its-portals-english) | en | 2023-02-06 | 5 |
+| [Astrology - Pluto entering Aquarius - Extraterrestrial Perspective](https://swaruu.org/transcripts/astrology-pluto-entering-aquarius-extraterrestrial-perspective) | en | 2023-02-07 | 5 |
+| [Escape the matrix 3, your body and death. (English)](https://swaruu.org/transcripts/escape-the-matrix-3-your-body-and-death-english) | en | 2023-02-10 | 4 |
+| [Nucleus of the Earth - Hollow Earth - Extraterrestrial Communication](https://swaruu.org/transcripts/nucleus-of-the-earth-hollow-earth-extraterrestrial-communication) | en | 2023-02-11 | 5 |
+| [Who is Sophi (Sophia Swaruu)](https://swaruu.org/transcripts/who-is-sophi-sophia-swaruu) | en | 2023-02-13 | 5 |
+| [About all the UFO rumbling in the media (English)](https://swaruu.org/transcripts/about-all-the-ufo-rumbling-in-the-media-english) | en | 2023-02-15 | 5 |
+| [Extraterrestrial Information - Mini Topics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-mini-topics-with-gosia-cosmic-agency) | en | 2023-02-15 | 5 |
+| [Orion Mothership entering Earth? NOTHING is happening - Yazhi Swaruu](https://swaruu.org/transcripts/orion-mothership-entering-earth-nothing-is-happening-yazhi-swaruu) | en | 2023-02-16 | 4 |
+| [Flying Objects - UFOs -Shot Down - Yazhi and Athena Swaruu´s Opinion](https://swaruu.org/transcripts/flying-objects-ufos-shot-down-yazhi-and-athena-swaruu-s-opinion) | en | 2023-02-17 | 5 |
+| [Taygetean Technology: Part 1 - Suits and Boots (English)](https://swaruu.org/transcripts/taygetean-technology-part-1-suits-and-boots-english) | en | 2023-02-18 | 5 |
+| [Antarctica, my present report. (English)](https://swaruu.org/transcripts/antarctica-my-present-report-english) | en | 2023-02-20 | 6 |
+| [Earthquake in Turkey - short conversation with Yazhi Swaruu](https://swaruu.org/transcripts/earthquake-in-turkey-short-conversation-with-yazhi-swaruu) | en | 2023-02-22 | 5 |
+| [Taygetan Technology 02, industrial replicators, clothes and makeup. (English)](https://swaruu.org/transcripts/taygetan-technology-02-industrial-replicators-clothes-and-makeup-english) | en | 2023-02-24 | 5 |
+| [Interstellar Life 1 - Toleka - Taygeta Starship (Pleiades)](https://swaruu.org/transcripts/interstellar-life-1-toleka-taygeta-starship-pleiades) | en | 2023-02-28 | 6 |
+| [Presentation (Za'el) ENGLISH](https://swaruu.org/transcripts/presentation-za-el-english) | en | 2023-03-01 | 4 |
+| [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/transcripts/za-el-and-arien-new-friends-in-star-ship-toleka) | en | 2023-03-01 | 4 |
+| [Taygetan Star Ship private rooms and Toilets](https://swaruu.org/transcripts/taygetan-star-ship-private-rooms-and-toilets) | en | 2023-03-02 | 5 |
+| [Stupidity and the Ego, a spiritual perspective. (English)](https://swaruu.org/transcripts/stupidity-and-the-ego-a-spiritual-perspective-english) | en | 2023-03-04 | 5 |
+| [Psychics - Can They Tell me what I Should Do? - Athena Swaruu responds](https://swaruu.org/transcripts/psychics-can-they-tell-me-what-i-should-do-athena-swaruu-responds) | en | 2023-03-04 | 7 |
+| [What is Time and How It Works - Part 1: Your Context Data (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-1-your-context-data-english) | en | 2023-03-05 | 4 |
+| [War in Ukraine - Analysis - Taygetan Intelligence Conclusions](https://swaruu.org/transcripts/war-in-ukraine-analysis-taygetan-intelligence-conclusions) | en | 2023-03-07 | 6 |
+| [What is Time and How It Works - Part 2: Time in dreams and souls (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-2-time-in-dreams-and-souls-english) | en | 2023-03-08 | 5 |
+| [Death and the Ego (English)](https://swaruu.org/transcripts/death-and-the-ego-english) | en | 2023-03-10 | 5 |
+| [Anunnaki - Who are they exactly? Extraterrestrial Perspective](https://swaruu.org/transcripts/anunnaki-who-are-they-exactly-extraterrestrial-perspective) | en | 2023-03-10 | 5 |
+| [Ukraine - CIC Report 2 - Direct Experience and Conclusions](https://swaruu.org/transcripts/ukraine-cic-report-2-direct-experience-and-conclusions) | en | 2023-03-12 | 5 |
+| [Thoughts on Karma and Dharma (English)](https://swaruu.org/transcripts/thoughts-on-karma-and-dharma-english) | en | 2023-03-13 | 5 |
+| [What is Time and How It Works - Part 3: Can you escape from destiny? (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-3-can-you-escape-from-destiny-english) | en | 2023-03-14 | 5 |
+| [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-minitopics-with-gosia-cosmic-agency) | en | 2023-03-14 | 7 |
+| [How the Galactic Federation sees what happens on Earth, part 1 (English)](https://swaruu.org/transcripts/how-the-galactic-federation-sees-what-happens-on-earth-part-1-english) | en | 2023-03-16 | 5 |
+| [How the United Federation of Planets views Earth, Part 2, Prime Directive. (English)](https://swaruu.org/transcripts/how-the-united-federation-of-planets-views-earth-part-2-prime-directive-english) | en | 2023-03-18 | 5 |
+| [Why is Magnetic Field Weakening? Should we Worry? (Athena Swaruu)](https://swaruu.org/transcripts/why-is-magnetic-field-weakening-should-we-worry-athena-swaruu) | en | 2023-03-18 | 4 |
+| [Arien of Erra - Memories, Inner Knowing and self responsibility](https://swaruu.org/transcripts/arien-of-erra-memories-inner-knowing-and-self-responsibility) | en | 2023-03-19 | 5 |
+| [Prime Directive (Core) for easy reference (English)](https://swaruu.org/transcripts/prime-directive-core-for-easy-reference-english) | en | 2023-03-20 | 5 |
+| [Galactic Federation, UFoP, internal structure, Part 3, (English)](https://swaruu.org/transcripts/galactic-federation-ufop-internal-structure-part-3-english) | en | 2023-03-22 | 6 |
+| [DNA - Record of Who We Are - Extraterrestrial Perspective - Yazhi Swaruu](https://swaruu.org/transcripts/dna-record-of-who-we-are-extraterrestrial-perspective-yazhi-swaruu) | en | 2023-03-23 | 6 |
+| ["Soul" Agreements, Omission of Action, and Changing someone else's Timeline](https://swaruu.org/transcripts/soul-agreements-omission-of-action-and-changing-someone-else-s-timeline) | en | 2023-03-23 | 5 |
+| [How the Galactic Federation views Earth, part 4, Restrictions](https://swaruu.org/transcripts/how-the-galactic-federation-views-earth-part-4-restrictions) | en | 2023-03-24 | 5 |
+| [DNA - Registry of Who We Are - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dna-registry-of-who-we-are-questions-from-the-public-yazhi-swaruu) | en | 2023-03-26 | 6 |
+| [Electric Vehicles on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-on-earth-english) | en | 2023-03-26 | 5 |
+| [Fears, and Attitude towards Life](https://swaruu.org/transcripts/fears-and-attitude-towards-life) | en | 2023-03-27 | 5 |
+| [Light beings, Positive twist Part two, Galactic Federation Part 6. (English)](https://swaruu.org/transcripts/light-beings-positive-twist-part-two-galactic-federation-part-6-english) | en | 2023-03-30 | 5 |
+| [Human Genome and DNA Storage - Yazhi Swaruu](https://swaruu.org/transcripts/human-genome-and-dna-storage-yazhi-swaruu) | en | 2023-04-01 | 6 |
+| [Electric vehicles in Taygeta, and on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-in-taygeta-and-on-earth-english) | en | 2023-04-01 | 5 |
+| [Light and Darkness within you / Traumas and Limits](https://swaruu.org/transcripts/light-and-darkness-within-you-traumas-and-limits) | en | 2023-04-02 | 5 |
+| [Why no one can escape the Matrix. (English)](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-english) | en | 2023-04-03 | 4 |
+| [Hybrids - Humans with ETS - Is It Done? Yazhi Swaruu](https://swaruu.org/transcripts/hybrids-humans-with-ets-is-it-done-yazhi-swaruu) | en | 2023-04-04 | 6 |
+| [Conclusions 01, Galactic Federation. (English)](https://swaruu.org/transcripts/conclusions-01-galactic-federation-english) | en | 2023-04-05 | 5 |
+| [Why no one can escape the Matrix. Part 2](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-part-2) | en | 2023-04-07 | 5 |
+| [Hybridizations and DNA Changes - Migrations to New Planets - Athena Swaruu](https://swaruu.org/transcripts/hybridizations-and-dna-changes-migrations-to-new-planets-athena-swaruu) | en | 2023-04-08 | 5 |
+| [Why was project first contact a failure?](https://swaruu.org/transcripts/why-was-project-first-contact-a-failure) | en | 2023-04-09 | 6 |
+| [A Perspective on the Basic Formation of a Physical Matrix. (English)](https://swaruu.org/transcripts/a-perspective-on-the-basic-formation-of-a-physical-matrix-english) | en | 2023-04-11 | 5 |
+| [Blood Transfusions - Influence on the Receiver - Extraterrestrial Women Respond](https://swaruu.org/transcripts/blood-transfusions-influence-on-the-receiver-extraterrestrial-women-respond) | en | 2023-04-11 | 5 |
+| [Where do we go when we die](https://swaruu.org/transcripts/where-do-we-go-when-we-die) | en | 2023-04-12 | 5 |
+| [Formation of a Matrix (English)](https://swaruu.org/transcripts/formation-of-a-matrix-english) | en | 2023-04-14 | 5 |
+| [The False People and you. (English)](https://swaruu.org/transcripts/the-false-people-and-you-english) | en | 2023-04-15 | 5 |
+| [Interstellar Life 2 - Flying Discs - Extraterrestrial Information](https://swaruu.org/transcripts/interstellar-life-2-flying-discs-extraterrestrial-information) | en | 2023-04-15 | 5 |
+| [You are not your body therefore you are immortal. Memory is not in the body. (English)](https://swaruu.org/transcripts/you-are-not-your-body-therefore-you-are-immortal-memory-is-not-in-the-body-english) | en | 2023-04-17 | 5 |
+| [Aneeka of Temmer - Puma Punku, Machu Picchu and more - Extraterrestrial Bases](https://swaruu.org/transcripts/aneeka-of-temmer-puma-punku-machu-picchu-and-more-extraterrestrial-bases) | en | 2023-04-18 | 5 |
+| [Artificial intelligence on Earth. (English)](https://swaruu.org/transcripts/artificial-intelligence-on-earth-english) | en | 2023-04-19 | 5 |
+| [How to become the best version of yourself - Enhance your light](https://swaruu.org/transcripts/how-to-become-the-best-version-of-yourself-enhance-your-light) | en | 2023-04-20 | 4 |
+| [The Astral side, the Physical world and their Matrix. What makes, and what defines them. (English)](https://swaruu.org/transcripts/the-astral-side-the-physical-world-and-their-matrix-what-makes-and-what-defines-them-english) | en | 2023-04-21 | 5 |
+| [Alpha Dracos, Dragons, and Taygetan Language - MiniTopics with Gosia](https://swaruu.org/transcripts/alpha-dracos-dragons-and-taygetan-language-minitopics-with-gosia) | en | 2023-04-22 | 7 |
+| [Time, Part 1, What is Time. (English)](https://swaruu.org/transcripts/time-part-1-what-is-time-english) | en | 2023-04-23 | 4 |
+| [What is a Soul. (English)](https://swaruu.org/transcripts/what-is-a-soul-english) | en | 2023-04-25 | 5 |
+| [Matters of the Body - Peculiarities - Extraterrestrial Women Respond](https://swaruu.org/transcripts/matters-of-the-body-peculiarities-extraterrestrial-women-respond) | en | 2023-04-27 | 5 |
+| [Advanced Souls, and their hive mind (English)](https://swaruu.org/transcripts/advanced-souls-and-their-hive-mind-english) | en | 2023-04-27 | 5 |
+| [The 3D Matrix and its Impact on Souls](https://swaruu.org/transcripts/the-3d-matrix-and-its-impact-on-souls) | en | 2023-04-28 | 4 |
+| [Motivational video for Starseeds and the awakened ones. (English)](https://swaruu.org/transcripts/motivational-video-for-starseeds-and-the-awakened-ones-english) | en | 2023-04-29 | 5 |
+| [Everything is mind, everything is consciousness. ( English )](https://swaruu.org/transcripts/everything-is-mind-everything-is-consciousness-english) | en | 2023-05-01 | 6 |
+| [How do Souls Fragment and Behave in the Afterlife? - Yazhi Swaruu](https://swaruu.org/transcripts/how-do-souls-fragment-and-behave-in-the-afterlife-yazhi-swaruu) | en | 2023-05-01 | 5 |
+| [Time and how it Works, Part 2, Timelines (English)](https://swaruu.org/transcripts/time-and-how-it-works-part-2-timelines-english) | en | 2023-05-03 | 5 |
+| [Metaphysical Chat about Expansion of Souls - with Yazhi Swaruu](https://swaruu.org/transcripts/metaphysical-chat-about-expansion-of-souls-with-yazhi-swaruu) | en | 2023-05-04 | 6 |
+| [Soul Fragmentation - Metaphysical Contemplations - Live with Gosia](https://swaruu.org/transcripts/soul-fragmentation-metaphysical-contemplations-live-with-gosia) | en | 2023-05-06 | 4 |
+| [How to Change your Past, with Swaruu of Erra](https://swaruu.org/transcripts/how-to-change-your-past-with-swaruu-of-erra) | en | 2023-05-07 | 5 |
+| [Does the impossible exist?](https://swaruu.org/transcripts/does-the-impossible-exist) | en | 2023-05-08 | 5 |
+| [Is it really necessary to change your past? (English)](https://swaruu.org/transcripts/is-it-really-necessary-to-change-your-past-english) | en | 2023-05-09 | 5 |
+| [Alter Egos, and how they can help us cope with our daily life. (English)](https://swaruu.org/transcripts/alter-egos-and-how-they-can-help-us-cope-with-our-daily-life-english) | en | 2023-05-11 | 5 |
+| [The invention of money and its uses in different societies. (English)](https://swaruu.org/transcripts/the-invention-of-money-and-its-uses-in-different-societies-english) | en | 2023-05-13 | 5 |
+| [Pleiades are NOT too Young to Support Organic Life - Extraterrestrial Contact](https://swaruu.org/transcripts/pleiades-are-not-too-young-to-support-organic-life-extraterrestrial-contact) | en | 2023-05-13 | 5 |
+| [Money and the Galactic Federation. (English)](https://swaruu.org/transcripts/money-and-the-galactic-federation-english) | en | 2023-05-15 | 5 |
+| [What is an Extra-terrestrial to you? (English)](https://swaruu.org/transcripts/what-is-an-extra-terrestrial-to-you-english) | en | 2023-05-17 | 5 |
+| [The Shadow People are an extra-terrestrial race. (English)](https://swaruu.org/transcripts/the-shadow-people-are-an-extra-terrestrial-race-english) | en | 2023-05-19 | 6 |
+| [Dinosaurs - Existed? What does the Taygetan Pleiadian team state?](https://swaruu.org/transcripts/dinosaurs-existed-what-does-the-taygetan-pleiadian-team-state) | en | 2023-05-19 | 5 |
+| [Za'el and Swaruu Official channel updates ( English)](https://swaruu.org/transcripts/za-el-and-swaruu-official-channel-updates-english) | en | 2023-05-20 | 3 |
+| [What does it mean to be living in 5D? (English)](https://swaruu.org/transcripts/what-does-it-mean-to-be-living-in-5d-english) | en | 2023-05-22 | 5 |
+| [The strange phenomena of Dimensional Mirroring (English)](https://swaruu.org/transcripts/the-strange-phenomena-of-dimensional-mirroring-english) | en | 2023-05-24 | 5 |
+| [Starseeds - What Influence do they Have? Taygetan Pleiadian Study](https://swaruu.org/transcripts/starseeds-what-influence-do-they-have-taygetan-pleiadian-study) | en | 2023-05-25 | 5 |
+| [The Power of Words and the Congruence of your Expressions](https://swaruu.org/transcripts/the-power-of-words-and-the-congruence-of-your-expressions) | en | 2023-05-25 | 5 |
+| [Time, timelines, Star-ships and your Mind. (English)](https://swaruu.org/transcripts/time-timelines-star-ships-and-your-mind-english) | en | 2023-05-26 | 5 |
+| [Star seeds, light workers, and woken people’s problems, part 1 (English)](https://swaruu.org/transcripts/star-seeds-light-workers-and-woken-people-s-problems-part-1-english) | en | 2023-05-28 | 5 |
+| [Shadow People - Complimentary Chat with Yazhi about Mari Swaruu´s Video](https://swaruu.org/transcripts/shadow-people-complimentary-chat-with-yazhi-about-mari-swaruu-s-video) | en | 2023-05-28 | 5 |
+| [Starseeds, problems, part 2, Frequency Incompatibility. (English)](https://swaruu.org/transcripts/starseeds-problems-part-2-frequency-incompatibility-english) | en | 2023-05-30 | 6 |
+| [Astral Parasites Removal Machines - Questions from Interviewers - Yazhi Swaruu](https://swaruu.org/transcripts/astral-parasites-removal-machines-questions-from-interviewers-yazhi-swaruu) | en | 2023-05-31 | 5 |
+| [What is a Human Being to you?](https://swaruu.org/transcripts/what-is-a-human-being-to-you) | en | 2023-05-31 | 5 |
+| [Time Travel and why Timelines don't really exist. (English)](https://swaruu.org/transcripts/time-travel-and-why-timelines-don-t-really-exist-english) | en | 2023-06-01 | 5 |
+| [Starseed's problems, part 3, Places and Buildings / Astral Entities, Alcohol and More](https://swaruu.org/transcripts/starseed-s-problems-part-3-places-and-buildings-astral-entities-alcohol-and-more) | en | 2023-06-03 | 6 |
+| [UFO Disclosures this year? Questions for the Interview with AJ Roberts](https://swaruu.org/transcripts/ufo-disclosures-this-year-questions-for-the-interview-with-aj-roberts) | en | 2023-06-05 | 5 |
+| [The Basic Mathematics behind the Dimensional Mirroring Phenomena](https://swaruu.org/transcripts/the-basic-mathematics-behind-the-dimensional-mirroring-phenomena) | en | 2023-06-05 | 4 |
+| [Starseeds and their Problems, part 4, Money Issues. (English)](https://swaruu.org/transcripts/starseeds-and-their-problems-part-4-money-issues-english) | en | 2023-06-07 | 5 |
+| [Message from Gosia to all the Starseeds - Disclosures, Social Changes - Is that your Purpose?](https://swaruu.org/transcripts/message-from-gosia-to-all-the-starseeds-disclosures-social-changes-is-that-your-purpose) | en | 2023-06-07 | 5 |
+| [Motivational video Number 2, for Starseeds and the Awakened Ones. (English)](https://swaruu.org/transcripts/motivational-video-number-2-for-starseeds-and-the-awakened-ones-english) | en | 2023-06-09 | 5 |
+| [Who is Za'el of Erra? - A little more about me](https://swaruu.org/transcripts/who-is-za-el-of-erra-a-little-more-about-me) | en | 2023-06-09 | 5 |
+| [Starseeds - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/starseeds-conversation-with-sophia-swaruu-yazhi) | en | 2023-06-11 | 5 |
+| [Is there an ultimate Truth? (English)](https://swaruu.org/transcripts/is-there-an-ultimate-truth-english) | en | 2023-06-11 | 6 |
+| [Telepathic Fields (English)](https://swaruu.org/transcripts/telepathic-fields-english) | en | 2023-06-13 | 6 |
+| [Frequencies, Consciousness States, Vibration - Chat with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/frequencies-consciousness-states-vibration-chat-with-sophia-swaruu-yazhi) | en | 2023-06-15 | 5 |
+| [Telepathic Fields & your Egregors and Fears. (English)](https://swaruu.org/transcripts/telepathic-fields-your-egregors-and-fears-english) | en | 2023-06-15 | 5 |
+| [Astral Entity Attachments and Infestations, Part 1 (English).](https://swaruu.org/transcripts/astral-entity-attachments-and-infestations-part-1-english) | en | 2023-06-17 | 5 |
+| [3D Mentality and Tendency to Think Small](https://swaruu.org/transcripts/3d-mentality-and-tendency-to-think-small) | en | 2023-06-17 | 6 |
+| [National Press Club Event - Disclosure Project - Steven Greer - OUR OPINION](https://swaruu.org/transcripts/national-press-club-event-disclosure-project-steven-greer-our-opinion) | en | 2023-06-18 | 5 |
+| [Attachments and Infestations, Part 2, Astral Parasites and how to get rid of them. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-2-astral-parasites-and-how-to-get-rid-of-them-english) | en | 2023-06-19 | 5 |
+| [New Channel Presentation (English)](https://swaruu.org/transcripts/new-channel-presentation-english) | en | 2023-06-21 | 6 |
+| [Cosmic Agency - MiniTopics - Crystal Skulls, Elon Musk, and more](https://swaruu.org/transcripts/cosmic-agency-minitopics-crystal-skulls-elon-musk-and-more) | en | 2023-06-23 | 5 |
+| [UFO Disclosure nowadays, Part 1 (English)](https://swaruu.org/transcripts/ufo-disclosure-nowadays-part-1-english) | en | 2023-06-23 | 4 |
+| [Disclosure nowadays, Part 2, going in deeper. (English)](https://swaruu.org/transcripts/disclosure-nowadays-part-2-going-in-deeper-english) | en | 2023-06-25 | 5 |
+| [Telepathy, including directly with you all. (English)](https://swaruu.org/transcripts/telepathy-including-directly-with-you-all-english) | en | 2023-06-27 | 6 |
+| [UFO Disclosure Project - Questions - Conversation with Athena Swaruu](https://swaruu.org/transcripts/ufo-disclosure-project-questions-conversation-with-athena-swaruu) | en | 2023-06-28 | 4 |
+| [Attachments and Infestations, Part 3, Demons and Acorns. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-3-demons-and-acorns-english) | en | 2023-06-29 | 5 |
+| [Attachments and Infestations, Part 4, Lower astral, Ideas and Programming. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-4-lower-astral-ideas-and-programming-english) | en | 2023-07-01 | 5 |
+| [Thousands of Meanings - Does everything happen for a reason?](https://swaruu.org/transcripts/thousands-of-meanings-does-everything-happen-for-a-reason) | en | 2023-07-02 | 5 |
+| [The Moon. Part 1 (English)](https://swaruu.org/transcripts/the-moon-part-1-english) | en | 2023-07-03 | 5 |
+| [Extra-terrestrial Disclosure, a Warning (English)](https://swaruu.org/transcripts/extra-terrestrial-disclosure-a-warning-english) | en | 2023-07-05 | 5 |
+| [Interstellar Life 3 - Scimitars - FIGHTER CRAFT - Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-3-scimitars-fighter-craft-athena-swaruu) | en | 2023-07-06 | 6 |
+| [The Moon, Part 2. Internal structure (English)](https://swaruu.org/transcripts/the-moon-part-2-internal-structure-english) | en | 2023-07-07 | 5 |
+| [False Alien Invasion, Another Warning, mostly for Star Seeds. With Nai'Shara. (English)](https://swaruu.org/transcripts/false-alien-invasion-another-warning-mostly-for-star-seeds-with-nai-shara-english) | en | 2023-07-09 | 4 |
+| [Athena Swaruu responds public´s questions for Lorena Martin´s interview with Robert](https://swaruu.org/transcripts/athena-swaruu-responds-public-s-questions-for-lorena-martin-s-interview-with-robert) | en | 2023-07-11 | 6 |
+| [The Moon part 3, how it influences Earth and its 3D Matrix. (English)](https://swaruu.org/transcripts/the-moon-part-3-how-it-influences-earth-and-its-3d-matrix-english) | en | 2023-07-11 | 5 |
+| [Soul Contracts - What are Mine? Casual chat between Yazhi, Matias, and Gosia](https://swaruu.org/transcripts/soul-contracts-what-are-mine-casual-chat-between-yazhi-matias-and-gosia) | en | 2023-07-13 | 5 |
+| [The Moon, part 4, how it influences Earth’s Matrix, shady things and conclusions. (English)](https://swaruu.org/transcripts/the-moon-part-4-how-it-influences-earth-s-matrix-shady-things-and-conclusions-english) | en | 2023-07-13 | 5 |
+| [Extractions and their problems. Part 1 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-1-english) | en | 2023-07-15 | 6 |
+| [Is the Experience on Earth Positive?](https://swaruu.org/transcripts/is-the-experience-on-earth-positive) | en | 2023-07-16 | 4 |
+| [Moon - Influence on Women, Van Allen Bands, Hologram, and more - Yazhi Swaruu](https://swaruu.org/transcripts/moon-influence-on-women-van-allen-bands-hologram-and-more-yazhi-swaruu) | en | 2023-07-17 | 6 |
+| [Beware of Replicated Food (English)](https://swaruu.org/transcripts/beware-of-replicated-food-english) | en | 2023-07-17 | 5 |
+| [Extractions and their problems. Part 2 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-2-english) | en | 2023-07-19 | 5 |
+| [Extractions and their problems. Part 3 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-3-english) | en | 2023-07-21 | 5 |
+| [Fears, desires, thoughts and Manifestation (English)](https://swaruu.org/transcripts/fears-desires-thoughts-and-manifestation-english) | en | 2023-07-23 | 5 |
+| [Lunar Reactors on the Moon - Examining the Subject with Athena Swaruu](https://swaruu.org/transcripts/lunar-reactors-on-the-moon-examining-the-subject-with-athena-swaruu) | en | 2023-07-24 | 5 |
+| [Extractions and their problems, Part 4, Kassia speaks directly to those who remember. (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-4-kassia-speaks-directly-to-those-who-remember-english) | en | 2023-07-25 | 4 |
+| [Intuition, Logic and Heart - The Search for "Truth"](https://swaruu.org/transcripts/intuition-logic-and-heart-the-search-for-truth) | en | 2023-07-26 | 5 |
+| [Grey Aliens. Part 1, Little Gardeners and Maitre. (English)](https://swaruu.org/transcripts/grey-aliens-part-1-little-gardeners-and-maitre-english) | en | 2023-07-27 | 6 |
+| [Star seeds and their problems. Part 5. Remembering having lived in higher realms (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-5-remembering-having-lived-in-higher-realms-english) | en | 2023-07-29 | 5 |
+| [Pfizer Factory Tornado - What Really Happened? Athena Swaruu Informs](https://swaruu.org/transcripts/pfizer-factory-tornado-what-really-happened-athena-swaruu-informs) | en | 2023-07-31 | 5 |
+| [Grey Aliens. Part 2, Orions, and Etorthans. (English)](https://swaruu.org/transcripts/grey-aliens-part-2-orions-and-etorthans-english) | en | 2023-07-31 | 5 |
+| [Star seeds and their problems. Part 6, Metaphysical and Astral Attacks. (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-6-metaphysical-and-astral-attacks-english) | en | 2023-08-02 | 6 |
+| [Star Seeds, Part 7, Astral Projection, Astral Abductions, Night Soul Missions, Part 1 (English)](https://swaruu.org/transcripts/star-seeds-part-7-astral-projection-astral-abductions-night-soul-missions-part-1-english) | en | 2023-08-04 | 5 |
+| [Star Seeds. Part 8, Astral Projection, Astral Abductions and Night Soul Missions, Part 2. (English)](https://swaruu.org/transcripts/star-seeds-part-8-astral-projection-astral-abductions-and-night-soul-missions-part-2-english) | en | 2023-08-06 | 5 |
+| [Dark Matter and AntiMatter - Extraterrestrial Information - Yazhi Swaruu](https://swaruu.org/transcripts/dark-matter-and-antimatter-extraterrestrial-information-yazhi-swaruu) | en | 2023-08-07 | 6 |
+| [The Astral. (English)](https://swaruu.org/transcripts/the-astral-english) | en | 2023-08-08 | 5 |
+| [Your inner Child - How to Heal and Connect with him/her](https://swaruu.org/transcripts/your-inner-child-how-to-heal-and-connect-with-him-her) | en | 2023-08-09 | 5 |
+| [The Astral. Part 02 (English)](https://swaruu.org/transcripts/the-astral-part-02-english) | en | 2023-08-10 | 5 |
+| [The Astral. Part 3. Important recapitulation of base concepts that describe everything. (English)](https://swaruu.org/transcripts/the-astral-part-3-important-recapitulation-of-base-concepts-that-describe-everything-english) | en | 2023-08-12 | 5 |
 | [Galactic Federation and Extraterrestrial Councils - Aneeka of Temmer responds questions](https://swaruu.org/transcripts/galactic-federation-and-extraterrestrial-councils-aneeka-of-temmer-responds-questions) | en | 2024-05-30 | 7 |
 | [Taygetan Quantum Holographic Computer Technology (English)](https://swaruu.org/transcripts/taygetan-quantum-holographic-computer-technology-english) | en | 2024-06-15 | 7 |
 | [Galactic Federation and Money - Athena Swaruu´s Additional Comments](https://swaruu.org/transcripts/galactic-federation-and-money-athena-swaruu-s-additional-comments) | en | 2024-11-15 | 5 |

@@ -1,0 +1,102 @@
+{
+  "source_id": "src-96581cc2ca29",
+  "snapshot_sha256": "b4e56d7796dc095138a48f52e73ef262a0deb35149e8816d4ccbaeb91f1ca72a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-96581cc2ca29-c01",
+      "assertion": "Swaruu says fighter inertial dampers remain 98% active; higher acceleration can incapacitate pilots despite G-suits.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-96581cc2ca29-c02",
+      "assertion": "Swaruu says Suzy-class craft synchronize information and consciousness among themselves, while remaining separate from Toleka.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0067",
+        "p0068"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-96581cc2ca29-c03",
+      "assertion": "She says Suzy Block 3 corrected Block 1/2 rear-sensor glare from engine flash and improved performance.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0069",
+        "p0070",
+        "p0076",
+        "p0077"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "disc-shaped-shuttles"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-96581cc2ca29-c04",
+      "assertion": "Yazhi says polymorphic metal dust is programmable, used for ship parts, nonreplicable, and smelted in zero gravity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0092",
+        "p0093",
+        "p0095"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-96581cc2ca29-c05",
+      "assertion": "Yazhi says Suzy was programmed to aid another timeline’s Swaruu and transfer its stored information.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0103",
+        "p0105",
+        "p0109"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "flight-mission-details",
+    "individual-ship-history"
+  ]
+}

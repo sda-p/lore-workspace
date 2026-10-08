@@ -1,0 +1,97 @@
+{
+  "source_id": "src-507e3e5d35c8",
+  "snapshot_sha256": "5e2180cc938ea04712112e59f2a9afa38af29158a23c363403f3e15b0a16b2ab",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-507e3e5d35c8-c01",
+      "assertion": "Za’el says events can have many possible meanings, and exceptions make “everything happens for a reason” nonabsolute.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0008",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-507e3e5d35c8-c02",
+      "assertion": "Za’el says a person’s present identity and perception continually shape their path.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-507e3e5d35c8-c03",
+      "assertion": "She says hardship can redirect life paths and enrich the soul through new experiences.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-507e3e5d35c8-c04",
+      "assertion": "Za’el says positive and negative events can open multiple paths; their meaning depends on perspective.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-507e3e5d35c8-c05",
+      "assertion": "She says meanings assigned to present events can shape desired realities through attention and persistence.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0016",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "multiple_timelines"
+  ]
+}

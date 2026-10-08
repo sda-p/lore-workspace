@@ -1,0 +1,100 @@
+{
+  "source_id": "src-407a6821f2be",
+  "snapshot_sha256": "4ae14a8e0648074f3b30eac8ab238f633445cb8245a781207103941cf7e0702d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-407a6821f2be-c01",
+      "assertion": "Za’el says repeated self-critical speech can reinforce low self-esteem and self-sabotage.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-407a6821f2be-c02",
+      "assertion": "He claims words can shape perceived reality by recording ideas in the unconscious.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-407a6821f2be-c03",
+      "assertion": "He says speech toward others can encourage or undermine them, depending partly on receptivity.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-407a6821f2be-c04",
+      "assertion": "He recommends objective, proportionate, compassionate language toward oneself and others.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0016",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-407a6821f2be-c05",
+      "assertion": "He says individuals retain control over their own destiny despite others’ words.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "speech-and-consciousness"
+  ]
+}

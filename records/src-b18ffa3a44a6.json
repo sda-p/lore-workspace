@@ -1,0 +1,110 @@
+{
+  "source_id": "src-b18ffa3a44a6",
+  "snapshot_sha256": "92c164f4224ac88df713c1314d8c53fb6cfd1d9787bc7e3e626d64339b265ed4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b18ffa3a44a6-c01",
+      "assertion": "Mari Swaruu says Alcyone was the first ship of its class; Asterope is a batch-two variant.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b18ffa3a44a6-c02",
+      "assertion": "Mari Swaruu says nine Alcyone-class ships existed.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b18ffa3a44a6-c03",
+      "assertion": "Mari Swaruu says Toleka coordinated and commanded the Taygetan fleet near Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b18ffa3a44a6-c04",
+      "assertion": "Mari Swaruu says Alcyone arrived fully operational with Earth-compatible communications equipment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her computers were obsolete."
+    },
+    {
+      "id": "src-b18ffa3a44a6-c05",
+      "assertion": "Mari Swaruu says two downed Alfratan pilots were held by a human government.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The Alfratan High Command confirmed their capture."
+    },
+    {
+      "id": "src-b18ffa3a44a6-c06",
+      "assertion": "Mari Swaruu says the crew relied on Earth donations for food and other supplies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "fleet-status_as-reported"
+  ],
+  "coverage_gaps": [
+    "ship-composition",
+    "pilot-captivity"
+  ]
+}

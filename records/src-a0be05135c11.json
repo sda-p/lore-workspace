@@ -1,0 +1,113 @@
+{
+  "source_id": "src-a0be05135c11",
+  "snapshot_sha256": "e241f2c6c42678bb3a5e3a9f576f02dd903627f0d6ed9ccdfb4df27fabbab61b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a0be05135c11-c01",
+      "assertion": "Mari Swa says human Lyrians exist across many worlds and share common species traits.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0be05135c11-c02",
+      "assertion": "Mari Swa describes human Lyrians as timeless expressions of Source.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0be05135c11-c03",
+      "assertion": "Mari Swa says high vibration can move beings beyond the material realm.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0be05135c11-c04",
+      "assertion": "Mari Swa says space-dwelling Pleiadians can experience hardship like Earth humans.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0be05135c11-c05",
+      "assertion": "Mari Swa says starseeds carry ideas between cultures through incarnation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0be05135c11-c06",
+      "assertion": "Mari Swa links cats’ galactic spread to affinity with the Urmah.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "species-cosmology_attributed"
+  ],
+  "coverage_gaps": [
+    "cross-cultural-unity",
+    "realm-transitions"
+  ]
+}

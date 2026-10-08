@@ -1,0 +1,106 @@
+{
+  "source_id": "src-84aa212c93d4",
+  "snapshot_sha256": "9a48789106e54306d68522428564c4d63d4a0eec9029b0b8f7db33f6acfffb4a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-84aa212c93d4-c01",
+      "assertion": "Mari distinguishes a mind-created personal Matrix from the literal numerical universe.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0009"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84aa212c93d4-c02",
+      "assertion": "She says each being interprets a shared environment through its own learned values.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84aa212c93d4-c03",
+      "assertion": "She argues beings carry their personal Matrix wherever they go and cannot escape themselves.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84aa212c93d4-c04",
+      "assertion": "She says Federation restrictions contain Earth’s culture and also constrain advanced souls incarnated there.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84aa212c93d4-c05",
+      "assertion": "She says people can improve their personal Matrix by evolving and integrating the Ego.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "personal-matrix",
+    "federation-restrictions"
+  ]
+}

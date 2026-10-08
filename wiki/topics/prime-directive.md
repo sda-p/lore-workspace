@@ -196,6 +196,194 @@ Source: [Taygetan Pleiadians Communicating Online - Why and How is it Done?](htt
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-304dba3fd59c-c05
+
+Athena says Federation nonintervention rules are imprecise and inconsistently applied to Earth.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu responds public´s questions for Lorena Martin´s interview with Robert](https://swaruu.org/transcripts/athena-swaruu-responds-public-s-questions-for-lorena-martin-s-interview-with-robert) (2023-07-11; en); passages p0044, p0045, p0048, p0050. [Structured record](../../records/src-304dba3fd59c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-c35bd2ccba2f-c03
+
+Mari says starseeds perform covert missions through astral projection under Federation nonintervention rules.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star Seeds. Part 8, Astral Projection, Astral Abductions and Night Soul Missions, Part 2. (English)](https://swaruu.org/transcripts/star-seeds-part-8-astral-projection-astral-abductions-and-night-soul-missions-part-2-english) (2023-08-06; en); passages p0010, p0011, p0012. [Structured record](../../records/src-c35bd2ccba2f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-949028f4310f-c01
+
+Mari says the Prime Directive bars contact, interference, and technology transfers to pre-interstellar cultures. Her translated excerpt.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the United Federation of Planets views Earth, Part 2, Prime Directive. (English)](https://swaruu.org/transcripts/how-the-united-federation-of-planets-views-earth-part-2-prime-directive-english) (2023-03-18; en); passages p0013, p0016, p0018, p0019. [Structured record](../../records/src-949028f4310f.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-949028f4310f-c02
+
+She says the rules include biological safeguards and exceptions for correcting prior violations.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the United Federation of Planets views Earth, Part 2, Prime Directive. (English)](https://swaruu.org/transcripts/how-the-united-federation-of-planets-views-earth-part-2-prime-directive-english) (2023-03-18; en); passages p0006, p0007, p0017. [Structured record](../../records/src-949028f4310f.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-5e07dce47a23-c03
+
+Athena says the Federation objected that the attack violated the Prime Directive.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Pfizer Factory Tornado - What Really Happened? Athena Swaruu Informs](https://swaruu.org/transcripts/pfizer-factory-tornado-what-really-happened-athena-swaruu-informs) (2023-07-31; en); passages p0006, p0014. [Structured record](../../records/src-5e07dce47a23.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Urmah](urmah.md).
+
+### src-a4878d75f400-c01
+
+Mari’s Prime Directive applies to cultures without interstellar capability.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Prime Directive (Core) for easy reference (English)](https://swaruu.org/transcripts/prime-directive-core-for-easy-reference-english) (2023-03-20; en); passages p0004. [Structured record](../../records/src-a4878d75f400.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a4878d75f400-c02
+
+It bars interference with cultural development or transfers of superior technology.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Prime Directive (Core) for easy reference (English)](https://swaruu.org/transcripts/prime-directive-core-for-easy-reference-english) (2023-03-20; en); passages p0006, p0007, p0008. [Structured record](../../records/src-a4878d75f400.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a4878d75f400-c03
+
+The directive bars proof of Federation existence being given to less-developed cultures.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Prime Directive (Core) for easy reference (English)](https://swaruu.org/transcripts/prime-directive-core-for-easy-reference-english) (2023-03-20; en); passages p0009, p0010. [Structured record](../../records/src-a4878d75f400.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a4878d75f400-c04
+
+Mari says exceptions allow correcting prior violations or accidental contamination.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Prime Directive (Core) for easy reference (English)](https://swaruu.org/transcripts/prime-directive-core-for-easy-reference-english) (2023-03-20; en); passages p0006. [Structured record](../../records/src-a4878d75f400.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a4878d75f400-c05
+
+The cited text allows contact when a culture faces an outside threat.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Prime Directive (Core) for easy reference (English)](https://swaruu.org/transcripts/prime-directive-core-for-easy-reference-english) (2023-03-20; en); passages p0008. [Structured record](../../records/src-a4878d75f400.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-4841bb6f5d40-c01
+
+Mari says the Prime Directive bars direct ship images, so she can show only approved areas.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Why Minecraft, Pool Area and Main Garden (English)](https://swaruu.org/transcripts/why-minecraft-pool-area-and-main-garden-english) (2023-01-27; en); passages p0003, p0004, p0016. [Structured record](../../records/src-4841bb6f5d40.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-99597b7d630f-c01
+
+Mari defines extraction as prearranged, informed removal; abduction takes subjects against their will.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 1 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-1-english) (2023-07-15; en); passages p0003, p0004. [Structured record](../../records/src-99597b7d630f.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-99597b7d630f-c04
+
+Federation rules require mutual consent, prior contact, no dependents left behind, and no nonnative life introduced.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 1 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-1-english) (2023-07-15; en); passages p0017, p0018, p0019, p0020, p0022, p0023, p0024, p0025. [Structured record](../../records/src-99597b7d630f.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-112bba350567-c03
+
+Participants typed under Prime Directive rules; Federation systems monitored and censored traffic.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why was project first contact a failure?](https://swaruu.org/transcripts/why-was-project-first-contact-a-failure) (2023-04-09; en); passages p0002, p0006, p0007. [Structured record](../../records/src-112bba350567.json).
+
+### src-3c59fb85976c-c02
+
+She says Federation rules restrict ship crews from speaking or using video with Earth contacts.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the Galactic Federation views Earth, part 4, Restrictions](https://swaruu.org/transcripts/how-the-galactic-federation-views-earth-part-4-restrictions) (2023-03-24; en); passages p0011, p0013, p0017. [Structured record](../../records/src-3c59fb85976c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-3c59fb85976c-c03
+
+Mari says crew members on Earth are treated as human and limited to human-level communication technology.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the Galactic Federation views Earth, part 4, Restrictions](https://swaruu.org/transcripts/how-the-galactic-federation-views-earth-part-4-restrictions) (2023-03-24; en); passages p0016, p0018. [Structured record](../../records/src-3c59fb85976c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-3c59fb85976c-c05
+
+Mari argues the Federation applies its Prime Directive unevenly to preserve Earth’s existing status quo.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the Galactic Federation views Earth, part 4, Restrictions](https://swaruu.org/transcripts/how-the-galactic-federation-views-earth-part-4-restrictions) (2023-03-24; en); passages p0025, p0026, p0027, p0028. [Structured record](../../records/src-3c59fb85976c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-73847cacada2-c04
+
+She says the Prime Directive bars sharing above-Earth technology and public proof.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [New Channel Presentation (English)](https://swaruu.org/transcripts/new-channel-presentation-english) (2023-06-21; en); passages p0021, p0022. [Structured record](../../records/src-73847cacada2.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0d12ea1793f5-c02
+
+Mari says the Federation invokes the Prime Directive selectively while monitoring Earth.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Money and the Galactic Federation. (English)](https://swaruu.org/transcripts/money-and-the-galactic-federation-english) (2023-05-15; en); passages p0004, p0009, p0012, p0013. [Structured record](../../records/src-0d12ea1793f5.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c04](galactic-federation.md#src-a5811312e55c-c04) — Galactic Federation
@@ -210,10 +398,16 @@ Related topics: [Taygetans](taygetans.md).
 - [src-6bb3f5207f8d-c02](galactic-federation.md#src-6bb3f5207f8d-c02) — Galactic Federation
 - [src-c9a55dfb135f-c02](galactic-federation.md#src-c9a55dfb135f-c02) — Galactic Federation
 - [src-c9a55dfb135f-c05](alcyone-council.md#src-c9a55dfb135f-c05) — Alcyone Council
+- [src-949028f4310f-c04](galactic-federation.md#src-949028f4310f-c04) — Galactic Federation
+- [src-99597b7d630f-c03](galactic-federation.md#src-99597b7d630f-c03) — Galactic Federation
+- [src-0f147c12d0ce-c01](artificial-intelligence.md#src-0f147c12d0ce-c01) — Artificial intelligence
+- [src-3c59fb85976c-c04](alien-species.md#src-3c59fb85976c-c04) — Alien species and distinctions
+- [src-1afd7588a669-c04](galactic-federation.md#src-1afd7588a669-c04) — Galactic Federation
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
+- AI\_capability\_claims\_unverified
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - agency\_and\_noninterference
 - cognitive-dissonance-concept
@@ -223,12 +417,21 @@ Related topics: [Taygetans](taygetans.md).
 - contested\_intelligence\_claims
 - coverage: quoted Jung and Tsarion passages
 - directive-rules-not-in-transcript
+- extraordinary\_exopolitical\_claims
 - faction\_claims
+- historical-claims-unverified
+- internal\_tension
 - matrix\_layers
+- medical\_claims
 - metaphysical-claims
 - metaphysical\_worldview
 - personal\_accusations
+- personal\_metaphysics
 - planetary-lore-unverified
+- self\_description
 - time\_travel\_risks
+- unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims
 - unverified\_medical\_claims
+- unverified\_military\_claims
+- unverified\_paranormal\_claims

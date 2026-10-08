@@ -1,0 +1,102 @@
+{
+  "source_id": "src-d9efe19e10ad",
+  "snapshot_sha256": "c4469d891f7b94df9968707db50dd24e9bef7f0b4a156f4cf86fa5987ba6dff1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d9efe19e10ad-c01",
+      "assertion": "Mari describes holistic societies as largely governmentless, relying on advanced personal ethics.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her speculative societal model."
+    },
+    {
+      "id": "src-d9efe19e10ad-c02",
+      "assertion": "She says members are educated to lead and contribute through personally chosen work.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0008"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d9efe19e10ad-c03",
+      "assertion": "Mari links holistic society with abundance and reduced concern over resource scarcity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d9efe19e10ad-c04",
+      "assertion": "She says Earth’s scarcity and survival pressures enable unethical people to gain political power.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d9efe19e10ad-c05",
+      "assertion": "Mari portrays secret societies as influencing governments from behind the scenes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Conspiracy claim."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "later_control_methods"
+  ]
+}

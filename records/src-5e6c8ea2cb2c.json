@@ -1,0 +1,106 @@
+{
+  "source_id": "src-5e6c8ea2cb2c",
+  "snapshot_sha256": "2ca22c907ece7b0ba00779369506793aad4269f9767837e22def0a9bc465251f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5e6c8ea2cb2c-c01",
+      "assertion": "Athena says Earth is the only Federation world officially reported to have Earth-like wars and conflict.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e6c8ea2cb2c-c02",
+      "assertion": "She says Urmah operate immersion bodies on Earth and formerly conducted rescue operations there.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "immersion-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Stopped after a member was killed."
+    },
+    {
+      "id": "src-5e6c8ea2cb2c-c03",
+      "assertion": "Athena says the Urmah control hundreds of thousands of systems and speak Avyonic.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetan-language"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She lacks an exact system count."
+    },
+    {
+      "id": "src-5e6c8ea2cb2c-c04",
+      "assertion": "She says Taygetans and Urmah cooperate under a treaty and share some starseed incarnations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0055",
+        "p0056"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e6c8ea2cb2c-c05",
+      "assertion": "Athena says direct intervention by the Urmah could trigger war with the Federation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0186",
+        "p0187",
+        "p0194",
+        "p0195"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "remaining_live_questions"
+  ]
+}

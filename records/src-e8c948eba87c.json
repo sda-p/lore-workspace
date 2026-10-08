@@ -1,0 +1,113 @@
+{
+  "source_id": "src-e8c948eba87c",
+  "snapshot_sha256": "dbad65d8b68888a12f54a8ab4d78c7a2806d472183460f1eb8f57c89f2f4eb76",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e8c948eba87c-c01",
+      "assertion": "Swaruu claims Lusitania’s sinking was engineered to justify US entry into World War I.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e8c948eba87c-c02",
+      "assertion": "She alleges Titanic and Olympic were secretly swapped before the voyage.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e8c948eba87c-c03",
+      "assertion": "She claims Titanic was deliberately sunk to remove Federal Reserve opponents.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0038"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e8c948eba87c-c04",
+      "assertion": "She says Californian was positioned to rescue only some survivors.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e8c948eba87c-c05",
+      "assertion": "Anéeka claims the wreck carried radioactive material from Russia to New York.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0034",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "historical-claims-unverified",
+    "translation-not-applicable"
+  ],
+  "coverage_gaps": [
+    "titanic-account",
+    "lending-politics",
+    "wreck-cargo"
+  ]
+}

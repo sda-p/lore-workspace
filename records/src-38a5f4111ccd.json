@@ -1,0 +1,81 @@
+{
+  "source_id": "src-38a5f4111ccd",
+  "snapshot_sha256": "8b44652fc4f77231d056400409ddec5aa18c33ea6e0addf034c9ad3e08b95114",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-38a5f4111ccd-c01",
+      "assertion": "Mari says time arises from conscious thought rhythm, with each soul experiencing it uniquely.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-38a5f4111ccd-c02",
+      "assertion": "Mari says clocks and planetary day-night cycles synchronize time perception within Earth’s Matrix.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-38a5f4111ccd-c03",
+      "assertion": "Mari says time-unit duration depends on its reference context and observer perspective.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-38a5f4111ccd-c04",
+      "assertion": "Mari says stellar societies blend spirituality with science and use spirituality as a guide.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

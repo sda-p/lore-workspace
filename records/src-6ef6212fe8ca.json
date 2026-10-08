@@ -1,0 +1,108 @@
+{
+  "source_id": "src-6ef6212fe8ca",
+  "snapshot_sha256": "f17068577b2facb6dacb78acc8c0d9592ac08aea3bf15ae24ec8b2d9241b7f0f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6ef6212fe8ca-c01",
+      "assertion": "Mari says each decision creates an alternate timeline; time travel cannot alter the traveler’s original past.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ef6212fe8ca-c02",
+      "assertion": "Her model avoids paradoxes because changes create alternate versions while preserving the original timeline.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ef6212fe8ca-c03",
+      "assertion": "She says past experiences shape present identity and recommends learning from them instead of erasing them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ef6212fe8ca-c04",
+      "assertion": "Mari recounts becoming lost after a solo ship trip at thirteen, separating her from her mother.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ef6212fe8ca-c05",
+      "assertion": "She considers imagined past-rewriting variably useful because the unconscious still recognizes it as imagination.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "timeline-branching",
+      "name": "Timeline branching",
+      "kind": "mechanism",
+      "aliases": [
+        "alternate timelines"
+      ]
+    }
+  ],
+  "review_flags": [
+    "contradictory_past_change_model"
+  ],
+  "coverage_gaps": [
+    "timeline_effects"
+  ]
+}

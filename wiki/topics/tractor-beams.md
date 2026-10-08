@@ -8,7 +8,15 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
-Primary assertions are filed under the linked topics below.
+### src-5e07dce47a23-c01
+
+Athena Swaruu says Urmah used Avyon-one’s tractor beam to destroy a Pfizer facility. Unverified account.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Pfizer Factory Tornado - What Really Happened? Athena Swaruu Informs](https://swaruu.org/transcripts/pfizer-factory-tornado-what-really-happened-athena-swaruu-informs) (2023-07-31; en); passages p0005, p0008, p0012. [Structured record](../../records/src-5e07dce47a23.json).
+
+Related topics: [Urmah](urmah.md).
 
 ## Claims filed under other topics
 
@@ -16,4 +24,6 @@ Primary assertions are filed under the linked topics below.
 
 ## Review flags
 
+- medical\_claims
 - metaphysical-claims
+- unverified\_extraterrestrial\_claims

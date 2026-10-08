@@ -571,5 +571,217 @@
     "aliases": [
       "immersion"
     ]
+  },
+  {
+    "id": "o-halu",
+    "name": "O’ha’lu",
+    "kind": "location",
+    "aliases": [
+      "Oha’lu"
+    ]
+  },
+  {
+    "id": "solar-portal-transit",
+    "name": "Solar portal transit",
+    "kind": "technology",
+    "aliases": [
+      "sunspot portals",
+      "solar portals"
+    ]
+  },
+  {
+    "id": "frequency-astrology",
+    "name": "Frequency-based astrology",
+    "kind": "cosmology",
+    "aliases": [
+      "astrological frequency maps"
+    ]
+  },
+  {
+    "id": "sophia-swaruu",
+    "name": "Sophia Swaruu",
+    "kind": "character",
+    "aliases": [
+      "Yazhi",
+      "Sophia Meritaten Tasherit Swaruu"
+    ]
+  },
+  {
+    "id": "weather-control",
+    "name": "Weather control systems",
+    "kind": "technology",
+    "aliases": [
+      "HAARP"
+    ]
+  },
+  {
+    "id": "taygetan-flight-suits",
+    "name": "Taygetan flight suits and boots",
+    "kind": "technology",
+    "aliases": [
+      "Taygetean suits",
+      "flight boots"
+    ]
+  },
+  {
+    "id": "toleka-class",
+    "name": "Toleka-class starships",
+    "kind": "technology",
+    "aliases": [
+      "Toleka cruiser",
+      "S.S. Toleka"
+    ]
+  },
+  {
+    "id": "etheric-load-heaters",
+    "name": "Etheric load heaters",
+    "kind": "technology",
+    "aliases": [
+      "etheric bombs"
+    ]
+  },
+  {
+    "id": "goblins",
+    "name": "Goblins",
+    "kind": "species",
+    "aliases": []
+  },
+  {
+    "id": "dna-metaphysics",
+    "name": "DNA and metaphysical patterns",
+    "kind": "cosmology",
+    "aliases": [
+      "DNA"
+    ]
+  },
+  {
+    "id": "taygetan-wireless-power-grid",
+    "name": "Taygetan wireless power grid",
+    "kind": "technology",
+    "aliases": [
+      "wireless electricity towers",
+      "planetary wireless grid"
+    ]
+  },
+  {
+    "id": "disc-shaped-shuttles",
+    "name": "Disc-shaped shuttle craft",
+    "kind": "technology",
+    "aliases": [
+      "flying discs",
+      "saucers"
+    ]
+  },
+  {
+    "id": "artificial-intelligence",
+    "name": "Artificial intelligence",
+    "kind": "technology",
+    "aliases": [
+      "AI"
+    ]
+  },
+  {
+    "id": "lyrian-cellular-body",
+    "name": "Lyrian cellular-body model",
+    "kind": "biology",
+    "aliases": [
+      "Lyrian body"
+    ]
+  },
+  {
+    "id": "nexus-souls",
+    "name": "Nexus souls",
+    "kind": "cosmology",
+    "aliases": [
+      "advanced souls"
+    ]
+  },
+  {
+    "id": "nexus-beings",
+    "name": "Nexus beings",
+    "kind": "species",
+    "aliases": []
+  },
+  {
+    "id": "timeline-branching",
+    "name": "Timeline branching",
+    "kind": "mechanism",
+    "aliases": [
+      "alternate timelines"
+    ]
+  },
+  {
+    "id": "shadow-people",
+    "name": "Shadow People",
+    "kind": "species",
+    "aliases": [
+      "shadow people",
+      "shadow figures"
+    ]
+  },
+  {
+    "id": "dimensional-mirroring",
+    "name": "Dimensional mirroring",
+    "kind": "cosmology",
+    "aliases": [
+      "mirroring effect"
+    ]
+  },
+  {
+    "id": "extraterrestrial-syndrome",
+    "name": "Extraterrestrial syndrome",
+    "kind": "condition",
+    "aliases": [
+      "ET sickness"
+    ]
+  },
+  {
+    "id": "archons-and-demons",
+    "name": "Archons and demons",
+    "kind": "astral-entity",
+    "aliases": [
+      "lower astral entities"
+    ]
+  },
+  {
+    "id": "moon-biosphere-ship",
+    "name": "The Moon as a biosphere ship",
+    "kind": "location-technology",
+    "aliases": [
+      "lunar biosphere ship",
+      "Moon ship"
+    ]
+  },
+  {
+    "id": "viera",
+    "name": "Viera",
+    "kind": "location",
+    "aliases": [
+      "Andromedan biosphere ship Viera"
+    ]
+  },
+  {
+    "id": "orion-grays",
+    "name": "Orion Grays",
+    "kind": "species",
+    "aliases": [
+      "Orion Greys"
+    ]
+  },
+  {
+    "id": "zeta-reticuli-gardeners",
+    "name": "Zeta Reticuli Gardeners",
+    "kind": "species",
+    "aliases": [
+      "Gardeners"
+    ]
+  },
+  {
+    "id": "etorthans",
+    "name": "Etorthans",
+    "kind": "species",
+    "aliases": [
+      "large-nosed Grays"
+    ]
   }
 ]

@@ -1,0 +1,98 @@
+{
+  "source_id": "src-76f0d99f4008",
+  "snapshot_sha256": "a5ad366cdabb52715ccdd74e7057b2065e5d1206ab932a4b114448a808c19cd0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-76f0d99f4008-c01",
+      "assertion": "Mari says physical manifestation usually follows causal steps, but some people can rapidly manifest through frequency alignment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76f0d99f4008-c02",
+      "assertion": "She claims some incarnates retain past-life and interlife memories, acting as guides; bodies are vessels for souls.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76f0d99f4008-c03",
+      "assertion": "Mari says guilt and karma beliefs perpetuate reincarnation; self-forgiveness and releasing ego can end the cycle.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76f0d99f4008-c04",
+      "assertion": "She says many named deities arose as soul-created egregors, while souls themselves are fragments of Source.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76f0d99f4008-c05",
+      "assertion": "Mari says people manifest their own reality, with limiting beliefs obstructing what they can create.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "manifestation-mechanics"
+  ]
+}

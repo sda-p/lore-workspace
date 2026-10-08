@@ -1,0 +1,104 @@
+{
+  "source_id": "src-87b856f413b6",
+  "snapshot_sha256": "5fd78bc0df61417408fd9bb219d3d16386fb01df1b8db0d91e36c6051bc7f041",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-87b856f413b6-c01",
+      "assertion": "Mari describes Earth power as layered: public institutions, secret societies, occult influences, then a deepest tier linked to nonhuman authorities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87b856f413b6-c02",
+      "assertion": "Mari alleges the deepest society tier receives orders from the Galactic Federation, sometimes via human-looking delegates.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87b856f413b6-c03",
+      "assertion": "Mari says soft cultural resets use perception management and generational forgetting; catastrophic resets are another possible method.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87b856f413b6-c04",
+      "assertion": "Mari alleges controllers alter historical narratives by erasing or reinterpreting physical records and archives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-87b856f413b6-c05",
+      "assertion": "Mari says internet devices intensify continuous influence over public values, while social acceptance aids conformity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific alleged historical examples"
+  ]
+}

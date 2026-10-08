@@ -1,0 +1,109 @@
+{
+  "source_id": "src-f407febf3ee0",
+  "snapshot_sha256": "e8d354656136204c59039dc0982c0eafa79d3b6d46ce667f557357b14ad84be4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f407febf3ee0-c01",
+      "assertion": "Mari says postmortem experience reflects each soul’s vibration and interpretation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0015"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f407febf3ee0-c02",
+      "assertion": "She presents Mahasamadhi as release from ego and reincarnation cycles.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f407febf3ee0-c03",
+      "assertion": "She says ethical choices, forgiveness, and love shape later experience and incarnation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f407febf3ee0-c04",
+      "assertion": "She says hardship may promote spiritual growth and life experience can shape a later incarnation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f407febf3ee0-c05",
+      "assertion": "She advises living fully now while preparing for possible future incarnation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "afterlife-model",
+    "incarnation-cycle"
+  ]
+}

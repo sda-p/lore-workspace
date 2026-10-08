@@ -708,6 +708,390 @@ Source: [Magnetosphere and Van Allen Bands - Short Chat with Swaruu of Erra](htt
 
 Related topics: [Natural and artificial portals](natural-portals.md), [Starship systems](starship-systems.md).
 
+### src-76df8f4b52c9-c01
+
+Athena says the Moon shows one face because its rotation is synchronized with Earth.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Lunar Reactors on the Moon - Examining the Subject with Athena Swaruu](https://swaruu.org/transcripts/lunar-reactors-on-the-moon-examining-the-subject-with-athena-swaruu) (2023-07-24; en); passages p0004, p0008, p0010. [Structured record](../../records/src-76df8f4b52c9.json).
+
+### src-76df8f4b52c9-c03
+
+Athena says consciousness manifests reality; lunar computers may have manipulated events. She says the account remains unclear.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Lunar Reactors on the Moon - Examining the Subject with Athena Swaruu](https://swaruu.org/transcripts/lunar-reactors-on-the-moon-examining-the-subject-with-athena-swaruu) (2023-07-24; en); passages p0019, p0020, p0021, p0023. [Structured record](../../records/src-76df8f4b52c9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-76df8f4b52c9-c04
+
+She speculates lunar reactors power holograms and Van Allen bands; date and purpose are unknown.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: medium.
+
+Source: [Lunar Reactors on the Moon - Examining the Subject with Athena Swaruu](https://swaruu.org/transcripts/lunar-reactors-on-the-moon-examining-the-subject-with-athena-swaruu) (2023-07-24; en); passages p0030, p0031, p0037, p0096, p0097. [Structured record](../../records/src-76df8f4b52c9.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-76df8f4b52c9-c05
+
+Athena says portals bypass Van Allen bands, separate from the lunar hologram.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Lunar Reactors on the Moon - Examining the Subject with Athena Swaruu](https://swaruu.org/transcripts/lunar-reactors-on-the-moon-examining-the-subject-with-athena-swaruu) (2023-07-24; en); passages p0062, p0064, p0070, p0074. [Structured record](../../records/src-76df8f4b52c9.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-f5ca0eb522cb-c01
+
+Anéeka and Yazhi call the Moon an artificial ship named Creiddylad. Unverified claim.
+
+Attributed to **Anéeka; Yazhi**; asserted; extraction confidence: high.
+
+Source: [Moon - Influence on Women, Van Allen Bands, Hologram, and more - Yazhi Swaruu](https://swaruu.org/transcripts/moon-influence-on-women-van-allen-bands-hologram-and-more-yazhi-swaruu) (2023-07-17; en); passages p0006, p0010, p0021. [Structured record](../../records/src-f5ca0eb522cb.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-f5ca0eb522cb-c02
+
+Yazhi says Federation factions control its orbit; its hologram faces Earth.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Moon - Influence on Women, Van Allen Bands, Hologram, and more - Yazhi Swaruu](https://swaruu.org/transcripts/moon-influence-on-women-van-allen-bands-hologram-and-more-yazhi-swaruu) (2023-07-17; en); passages p0014, p0015, p0026, p0027. [Structured record](../../records/src-f5ca0eb522cb.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-f5ca0eb522cb-c03
+
+She says lunar reactors power a composite hologram and alter Earth’s magnetosphere. Unverified scientific claim.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Moon - Influence on Women, Van Allen Bands, Hologram, and more - Yazhi Swaruu](https://swaruu.org/transcripts/moon-influence-on-women-van-allen-bands-hologram-and-more-yazhi-swaruu) (2023-07-17; en); passages p0030, p0032, p0034, p0037. [Structured record](../../records/src-f5ca0eb522cb.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-f5ca0eb522cb-c04
+
+Yazhi says portals or density-shifting ships can cross the radiation bands. Unverified scientific claim.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Moon - Influence on Women, Van Allen Bands, Hologram, and more - Yazhi Swaruu](https://swaruu.org/transcripts/moon-influence-on-women-van-allen-bands-hologram-and-more-yazhi-swaruu) (2023-07-17; en); passages p0038, p0042, p0045. [Structured record](../../records/src-f5ca0eb522cb.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-f5ca0eb522cb-c05
+
+She attributes women’s cycles to lunar frequencies and says sunlight benefits cells. Unsupported biological claims.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Moon - Influence on Women, Van Allen Bands, Hologram, and more - Yazhi Swaruu](https://swaruu.org/transcripts/moon-influence-on-women-van-allen-bands-hologram-and-more-yazhi-swaruu) (2023-07-17; en); passages p0049, p0050, p0052, p0056. [Structured record](../../records/src-f5ca0eb522cb.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-f5ca0eb522cb-c06
+
+Yazhi says lunar reactors are failing and eventual Moon removal may be feasible or necessary.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [Moon - Influence on Women, Van Allen Bands, Hologram, and more - Yazhi Swaruu](https://swaruu.org/transcripts/moon-influence-on-women-van-allen-bands-hologram-and-more-yazhi-swaruu) (2023-07-17; en); passages p0058, p0059. [Structured record](../../records/src-f5ca0eb522cb.json).
+
+### src-176e90b7dd77-c04
+
+She rejects a literal solid dome, describing Van Allen bands or mental containment as possible meanings.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Astral Parasites Removal Machines - Questions from Interviewers - Yazhi Swaruu](https://swaruu.org/transcripts/astral-parasites-removal-machines-questions-from-interviewers-yazhi-swaruu) (2023-05-31; en); passages p0033, p0034, p0035. [Structured record](../../records/src-176e90b7dd77.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-daf200b4565a-c01
+
+Mari says extraterrestrial knowledge can expand consciousness and challenge Earth’s Matrix by revealing humans live among the stars.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Disclosure nowadays, Part 2, going in deeper. (English)](https://swaruu.org/transcripts/disclosure-nowadays-part-2-going-in-deeper-english) (2023-06-25; en); passages p0005, p0008, p0009, p0010. [Structured record](../../records/src-daf200b4565a.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-f551c06c99aa-c02
+
+She says time depends on observers; day-night cycles and clocks coordinate Earth’s shared perception.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time and how it Works, Part 2, Timelines (English)](https://swaruu.org/transcripts/time-and-how-it-works-part-2-timelines-english) (2023-05-03; en); passages p0012, p0018, p0019. [Structured record](../../records/src-f551c06c99aa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4f0faaaf08ce-c02
+
+She doubts Earth’s Matrix will fall in her lifetime, if ever.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [Message from Gosia to all the Starseeds - Disclosures, Social Changes - Is that your Purpose?](https://swaruu.org/transcripts/message-from-gosia-to-all-the-starseeds-disclosures-social-changes-is-that-your-purpose) (2023-06-07; en); passages p0002, p0007. [Structured record](../../records/src-4f0faaaf08ce.json).
+
+### src-84aa212c93d4-c01
+
+Mari distinguishes a mind-created personal Matrix from the literal numerical universe.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why no one can escape the Matrix. Part 2](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-part-2) (2023-04-07; en); passages p0002, p0003, p0004, p0005, p0009. [Structured record](../../records/src-84aa212c93d4.json).
+
+### src-84aa212c93d4-c03
+
+She argues beings carry their personal Matrix wherever they go and cannot escape themselves.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why no one can escape the Matrix. Part 2](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-part-2) (2023-04-07; en); passages p0002, p0010, p0011. [Structured record](../../records/src-84aa212c93d4.json).
+
+### src-ce9bbcc0863c-c02
+
+She says bodily senses restrict perception to a limited material-world frame.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Perspective on the Basic Formation of a Physical Matrix. (English)](https://swaruu.org/transcripts/a-perspective-on-the-basic-formation-of-a-physical-matrix-english) (2023-04-11; en); passages p0002, p0009, p0010. [Structured record](../../records/src-ce9bbcc0863c.json).
+
+### src-ce9bbcc0863c-c05
+
+She says questioning imposed truths is an initial way to leave a social Matrix.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Perspective on the Basic Formation of a Physical Matrix. (English)](https://swaruu.org/transcripts/a-perspective-on-the-basic-formation-of-a-physical-matrix-english) (2023-04-11; en); passages p0002, p0018, p0019, p0020, p0021. [Structured record](../../records/src-ce9bbcc0863c.json).
+
+### src-c0c392776fd0-c01
+
+Mari says the Federation placed a damaged biosphere ship in Earth orbit as the Moon after Tiamat.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon part 3, how it influences Earth and its 3D Matrix. (English)](https://swaruu.org/transcripts/the-moon-part-3-how-it-influences-earth-and-its-3d-matrix-english) (2023-07-11; en); passages p0005, p0006, p0008. [Structured record](../../records/src-c0c392776fd0.json).
+
+Related topics: [Tiamat](tiamat.md), [Galactic Federation](galactic-federation.md).
+
+### src-c0c392776fd0-c02
+
+She says lunar reactors power beams that alter the magnetosphere; four of twelve remain active.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon part 3, how it influences Earth and its 3D Matrix. (English)](https://swaruu.org/transcripts/the-moon-part-3-how-it-influences-earth-and-its-3d-matrix-english) (2023-07-11; en); passages p0012, p0013, p0016. [Structured record](../../records/src-c0c392776fd0.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-c0c392776fd0-c03
+
+Mari says lunar frequencies lower Earth’s vibration, letting varied souls coexist in one realm.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon part 3, how it influences Earth and its 3D Matrix. (English)](https://swaruu.org/transcripts/the-moon-part-3-how-it-influences-earth-and-its-3d-matrix-english) (2023-07-11; en); passages p0015, p0019, p0020. [Structured record](../../records/src-c0c392776fd0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-67a7fcd528f7-c01
+
+Mari says the Moon is a damaged Andromedan biosphere ship, wrecked in the Tiamat Wars about 12,500 years ago.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon. Part 1 (English)](https://swaruu.org/transcripts/the-moon-part-1-english) (2023-07-03; en); passages p0011, p0012, p0021. [Structured record](../../records/src-67a7fcd528f7.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-67a7fcd528f7-c03
+
+Mari says the Federation towed the damaged Moon ship into Earth orbit to stabilize the planet.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon. Part 1 (English)](https://swaruu.org/transcripts/the-moon-part-1-english) (2023-07-03; en); passages p0019, p0022. [Structured record](../../records/src-67a7fcd528f7.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-67a7fcd528f7-c04
+
+Mari describes its metal surface as covered by synchronized projectors creating a cratered hologram.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon. Part 1 (English)](https://swaruu.org/transcripts/the-moon-part-1-english) (2023-07-03; en); passages p0022, p0023, p0024. [Structured record](../../records/src-67a7fcd528f7.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-67a7fcd528f7-c05
+
+She says lunar frequencies alter Earth’s magnetosphere and help maintain its 3D Matrix.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon. Part 1 (English)](https://swaruu.org/transcripts/the-moon-part-1-english) (2023-07-03; en); passages p0025, p0026. [Structured record](../../records/src-67a7fcd528f7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6d89e231f729-c05
+
+Yazhi says the artificial Moon’s frequencies disrupt Earth astrology and weaken connection to Source.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Astrology - Pluto entering Aquarius - Extraterrestrial Perspective](https://swaruu.org/transcripts/astrology-pluto-entering-aquarius-extraterrestrial-perspective) (2023-02-07; en); passages p0086, p0087, p0091, p0095, p0097, p0099, p0111. [Structured record](../../records/src-6d89e231f729.json).
+
+Related topics: [Frequency-based astrology](frequency-astrology.md), [Original Matrix](original-matrix.md).
+
+### src-ecee618ac78e-c01
+
+Mari says the Matrix is each soul’s reflection, so leaving a place cannot remove its psychological pain.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why no one can escape the Matrix. (English)](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-english) (2023-04-03; en); passages p0013, p0015, p0016, p0017, p0021, p0022, p0025. [Structured record](../../records/src-ecee618ac78e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ecee618ac78e-c03
+
+Mari says extraction moves people between Matrix levels rather than to a hardship-free realm.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why no one can escape the Matrix. (English)](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-english) (2023-04-03; en); passages p0018, p0019. [Structured record](../../records/src-ecee618ac78e.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-691d121eef5a-c01
+
+Mari says the Moon is a damaged biosphere ship used to stabilize Earth, allegedly after Tiamat-war nuclear damage.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [The Moon, part 4, how it influences Earth’s Matrix, shady things and conclusions. (English)](https://swaruu.org/transcripts/the-moon-part-4-how-it-influences-earth-s-matrix-shady-things-and-conclusions-english) (2023-07-13; en); passages p0005, p0006, p0007, p0008, p0012. [Structured record](../../records/src-691d121eef5a.json).
+
+Related topics: [Tiamat](tiamat.md).
+
+### src-691d121eef5a-c02
+
+Mari notes lunar reactors are described as ancient despite modern designs, and speculates about Cabal installation.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [The Moon, part 4, how it influences Earth’s Matrix, shady things and conclusions. (English)](https://swaruu.org/transcripts/the-moon-part-4-how-it-influences-earth-s-matrix-shady-things-and-conclusions-english) (2023-07-13; en); passages p0012, p0013, p0014, p0015, p0016. [Structured record](../../records/src-691d121eef5a.json).
+
+Related topics: [Energy generation technology](energy-generation.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-691d121eef5a-c03
+
+Mari says the Moon is a no-fly zone requiring special permission, while Federation military traffic continues.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon, part 4, how it influences Earth’s Matrix, shady things and conclusions. (English)](https://swaruu.org/transcripts/the-moon-part-4-how-it-influences-earth-s-matrix-shady-things-and-conclusions-english) (2023-07-13; en); passages p0017, p0018, p0022, p0023, p0024. [Structured record](../../records/src-691d121eef5a.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-691d121eef5a-c05
+
+Mari says lunar low-frequency waves generate Van Allen belts and reduce Earth’s overall frequency.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Moon, part 4, how it influences Earth’s Matrix, shady things and conclusions. (English)](https://swaruu.org/transcripts/the-moon-part-4-how-it-influences-earth-s-matrix-shady-things-and-conclusions-english) (2023-07-13; en); passages p0026, p0027, p0028, p0029. [Structured record](../../records/src-691d121eef5a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-38a5f4111ccd-c02
+
+Mari says clocks and planetary day-night cycles synchronize time perception within Earth’s Matrix.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Time, Part 1, What is Time. (English)](https://swaruu.org/transcripts/time-part-1-what-is-time-english) (2023-04-23; en); passages p0022, p0023, p0024, p0025. [Structured record](../../records/src-38a5f4111ccd.json).
+
+### src-025e108e3c83-c04
+
+Za’el says suffering is not necessary and states opposition to Earth’s artificial 3D Matrix as a personal view.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Is the Experience on Earth Positive?](https://swaruu.org/transcripts/is-the-experience-on-earth-positive) (2023-07-16; en); passages p0012, p0013, p0018. [Structured record](../../records/src-025e108e3c83.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-ac1ba0859491-c01
+
+Mari relays the Federation claim: the Moon entered Earth orbit 12,500 years ago to stabilize Earth after Tiamat’s destruction.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon, Part 2. Internal structure (English)](https://swaruu.org/transcripts/the-moon-part-2-internal-structure-english) (2023-07-07; en); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-ac1ba0859491.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-ac1ba0859491-c05
+
+Mari reports 8 or 12 nuclear reactors power Earthward transmissions; count and status are uncertain.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon, Part 2. Internal structure (English)](https://swaruu.org/transcripts/the-moon-part-2-internal-structure-english) (2023-07-07; en); passages p0023, p0024. [Structured record](../../records/src-ac1ba0859491.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-19427824fcd1-c01
+
+Arien says Earth compatibility can arise through thought, family, trauma and attachments without physical proximity.
+
+Attributed to **Arien**; asserted; extraction confidence: high.
+
+Source: [The 3D Matrix and its Impact on Souls](https://swaruu.org/transcripts/the-3d-matrix-and-its-impact-on-souls) (2023-04-28; en); passages p0004, p0005, p0006, p0007, p0008. [Structured record](../../records/src-19427824fcd1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-19427824fcd1-c04
+
+Arien says difficult experiences may teach emotional control, though the 3D Matrix can also cause harm.
+
+Attributed to **Arien**; asserted; extraction confidence: high.
+
+Source: [The 3D Matrix and its Impact on Souls](https://swaruu.org/transcripts/the-3d-matrix-and-its-impact-on-souls) (2023-04-28; en); passages p0020, p0023, p0024, p0025, p0026. [Structured record](../../records/src-19427824fcd1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c06b74035df0-c03
+
+Yazhi says Earth’s accepted extraterrestrial narratives reflect collective beliefs rather than external space dynamics.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Orion Mothership entering Earth? NOTHING is happening - Yazhi Swaruu](https://swaruu.org/transcripts/orion-mothership-entering-earth-nothing-is-happening-yazhi-swaruu) (2023-02-16; en); passages p0009, p0010, p0011, p0012, p0013, p0015, p0016. [Structured record](../../records/src-c06b74035df0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c06b74035df0-c04
+
+Yazhi says many alleged alien factions and motives are human-manifested ideas that become real within Earth’s Matrix.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Orion Mothership entering Earth? NOTHING is happening - Yazhi Swaruu](https://swaruu.org/transcripts/orion-mothership-entering-earth-nothing-is-happening-yazhi-swaruu) (2023-02-16; en); passages p0014, p0015. [Structured record](../../records/src-c06b74035df0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -731,6 +1115,18 @@ Related topics: [Natural and artificial portals](natural-portals.md), [Starship 
 - [src-9dba344806dc-c03](consciousness-metaphysics.md#src-9dba344806dc-c03) — Consciousness and metaphysics
 - [src-aeb1859f925a-c01](consciousness-metaphysics.md#src-aeb1859f925a-c01) — Consciousness and metaphysics
 - [src-aeb1859f925a-c03](consciousness-metaphysics.md#src-aeb1859f925a-c03) — Consciousness and metaphysics
+- [src-76df8f4b52c9-c02](galactic-federation.md#src-76df8f4b52c9-c02) — Galactic Federation
+- [src-c0c392776fd0-c05](consciousness-metaphysics.md#src-c0c392776fd0-c05) — Consciousness and metaphysics
+- [src-3c59fb85976c-c04](alien-species.md#src-3c59fb85976c-c04) — Alien species and distinctions
+- [src-3c59fb85976c-c05](prime-directive.md#src-3c59fb85976c-c05) — Prime Directive
+- [src-4c18957bd2f2-c01](alien-species.md#src-4c18957bd2f2-c01) — Alien species and distinctions
+- [src-1afd7588a669-c02](consciousness-metaphysics.md#src-1afd7588a669-c02) — Consciousness and metaphysics
+- [src-0d12ea1793f5-c01](galactic-federation.md#src-0d12ea1793f5-c01) — Galactic Federation
+- [src-ecee618ac78e-c04](consciousness-metaphysics.md#src-ecee618ac78e-c04) — Consciousness and metaphysics
+- [src-691d121eef5a-c04](viera.md#src-691d121eef5a-c04) — Viera
+- [src-ac1ba0859491-c02](moon-biosphere-ship.md#src-ac1ba0859491-c02) — The Moon as a biosphere ship
+- [src-ac1ba0859491-c03](moon-biosphere-ship.md#src-ac1ba0859491-c03) — The Moon as a biosphere ship
+- [src-ac1ba0859491-c04](moon-biosphere-ship.md#src-ac1ba0859491-c04) — The Moon as a biosphere ship
 
 ## Review flags
 
@@ -757,14 +1153,19 @@ Related topics: [Natural and artificial portals](natural-portals.md), [Starship 
 - coverage: primary-secondary taxonomy
 - coverage: psychic-function claims
 - culturally\_variable\_nde\_claim
+- disclosure\_claims\_unverified
 - earth-population-claims
 - ether\_model
 - ethical\_perspective\_conflict
+- extraordinary\_astronomical\_claims
 - extraordinary\_cosmology\_claims
 - extraordinary\_exopolitical\_claims
 - extraordinary\_extraction\_claims
+- extraordinary\_metaphysical\_claims
 - historical-claims-unverified
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
+- internal\_uncertainty
+- lunar-reactor-age-origin-uncertainty
 - manifestation\_mechanics
 - matrix\_layers
 - matrix\_scope
@@ -774,6 +1175,7 @@ Related topics: [Natural and artificial portals](natural-portals.md), [Starship 
 - moon-conspiracy-claims
 - personal\_accusations
 - reincarnation-model-metaphysical
+- related\_series\_part
 - sensitive\_claims
 - soul-model-metaphysical
 - speaker-label-ambiguity
@@ -783,7 +1185,13 @@ Related topics: [Natural and artificial portals](natural-portals.md), [Starship 
 - suffering\_causality
 - technology\_and\_mind\_interface
 - terminology: “positronic” is a human-language approximation (p0002)
+- time\_and\_dimension\_claims\_unverified
 - uncertainty-shift: 5G moves from possible explanation to formal position
+- unverified\_biological\_claims
 - unverified\_geopolitical\_claims
+- unverified\_lunar\_claims
+- unverified\_lunar\_technology
 - unverified\_medical\_allegations
 - unverified\_medical\_claims
+- unverified\_paranormal\_claims
+- unverified\_technology\_claims

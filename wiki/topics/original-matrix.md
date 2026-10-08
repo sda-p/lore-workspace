@@ -58,6 +58,94 @@ Source: [Escape from the Matrix 01 (English)](https://swaruu.org/transcripts/esc
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-60e435f5d51b-c01
+
+Mari defines a Matrix as shared ideas and rules shaping a culture’s reality.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral side, the Physical world and their Matrix. What makes, and what defines them. (English)](https://swaruu.org/transcripts/the-astral-side-the-physical-world-and-their-matrix-what-makes-and-what-defines-them-english) (2023-04-21; en); passages p0003, p0005. [Structured record](../../records/src-60e435f5d51b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-60e435f5d51b-c02
+
+She says distinct subcultures can form separate sub-Matrices.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral side, the Physical world and their Matrix. What makes, and what defines them. (English)](https://swaruu.org/transcripts/the-astral-side-the-physical-world-and-their-matrix-what-makes-and-what-defines-them-english) (2023-04-21; en); passages p0005. [Structured record](../../records/src-60e435f5d51b.json).
+
+### src-60e435f5d51b-c03
+
+Mari describes a Federation-linked super-Matrix spanning multiple spacefaring cultures.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral side, the Physical world and their Matrix. What makes, and what defines them. (English)](https://swaruu.org/transcripts/the-astral-side-the-physical-world-and-their-matrix-what-makes-and-what-defines-them-english) (2023-04-21; en); passages p0006. [Structured record](../../records/src-60e435f5d51b.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-e1ef5c3d2bef-c01
+
+Mari describes each existential Matrix as an energy-mass field shaped by interconnected events and objects.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Basic Mathematics behind the Dimensional Mirroring Phenomena](https://swaruu.org/transcripts/the-basic-mathematics-behind-the-dimensional-mirroring-phenomena) (2023-06-05; en); passages p0013, p0014, p0015, p0017. [Structured record](../../records/src-e1ef5c3d2bef.json).
+
+Related topics: [Dimensional mirroring](dimensional-mirroring.md).
+
+### src-e1ef5c3d2bef-c02
+
+Mari says a foreign object or person entering Earth’s Matrix causes the field to create a history that normalizes its presence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Basic Mathematics behind the Dimensional Mirroring Phenomena](https://swaruu.org/transcripts/the-basic-mathematics-behind-the-dimensional-mirroring-phenomena) (2023-06-05; en); passages p0018, p0020, p0021, p0022, p0025. [Structured record](../../records/src-e1ef5c3d2bef.json).
+
+Related topics: [Dimensional mirroring](dimensional-mirroring.md).
+
+### src-e1ef5c3d2bef-c03
+
+Mari says brief foreign presence disturbs a Matrix field, while prolonged presence is absorbed into it.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Basic Mathematics behind the Dimensional Mirroring Phenomena](https://swaruu.org/transcripts/the-basic-mathematics-behind-the-dimensional-mirroring-phenomena) (2023-06-05; en); passages p0019. [Structured record](../../records/src-e1ef5c3d2bef.json).
+
+Related topics: [Dimensional mirroring](dimensional-mirroring.md).
+
+### src-e1ef5c3d2bef-c04
+
+Mari says moving an object or person between Matrix systems requires extra energy, repetition and consistency.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Basic Mathematics behind the Dimensional Mirroring Phenomena](https://swaruu.org/transcripts/the-basic-mathematics-behind-the-dimensional-mirroring-phenomena) (2023-06-05; en); passages p0023. [Structured record](../../records/src-e1ef5c3d2bef.json).
+
+Related topics: [Dimensional mirroring](dimensional-mirroring.md).
+
+### src-c147ae1148dd-c03
+
+Mari says rulers form a controlled Matrix through congruent lies imposed by institutions and schools.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Formation of a Matrix (English)](https://swaruu.org/transcripts/formation-of-a-matrix-english) (2023-04-14; en); passages p0010, p0011, p0012, p0014. [Structured record](../../records/src-c147ae1148dd.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-c147ae1148dd-c04
+
+Mari says perceived awakening may prompt ridicule or resets that erase cultural memory and impose new beliefs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Formation of a Matrix (English)](https://swaruu.org/transcripts/formation-of-a-matrix-english) (2023-04-14; en); passages p0016, p0017, p0018, p0019, p0024, p0025. [Structured record](../../records/src-c147ae1148dd.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-bb4c17621e1a-c02](moon-matrix.md#src-bb4c17621e1a-c02) — Moon and terrestrial Matrix
@@ -72,6 +160,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-e5d97bfc06c7-c01](consciousness-metaphysics.md#src-e5d97bfc06c7-c01) — Consciousness and metaphysics
 - [src-d8abcaa43fd8-c03](gravity-harmonics.md#src-d8abcaa43fd8-c03) — Gravity harmonics
 - [src-d8abcaa43fd8-c05](consciousness-metaphysics.md#src-d8abcaa43fd8-c05) — Consciousness and metaphysics
+- [src-6d89e231f729-c05](moon-matrix.md#src-6d89e231f729-c05) — Moon and terrestrial Matrix
+- [src-b539e2dbbcd5-c01](consciousness-metaphysics.md#src-b539e2dbbcd5-c01) — Consciousness and metaphysics
 
 ## Review flags
 

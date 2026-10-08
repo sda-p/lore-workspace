@@ -1,0 +1,99 @@
+{
+  "source_id": "src-9c51fb72fef9",
+  "snapshot_sha256": "549629f8b79ceee3af62c5feb14aad0984a92b0a65c04853b0c028201fb5699d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9c51fb72fef9-c01",
+      "assertion": "Mari defines starseeds as people recently incarnated elsewhere, though she also calls every soul a starseed.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c51fb72fef9-c02",
+      "assertion": "She says memories of other lives or afterlife realms can create longing to leave Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-9c51fb72fef9-c03",
+      "assertion": "Mari says starseeds may seek extraction but another planet would still have material-world problems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c51fb72fef9-c04",
+      "assertion": "She says Earth experiences are interpreted through each soul’s attention and identity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c51fb72fef9-c05",
+      "assertion": "Mari advises cultivating inner character rather than focusing only on material possessions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "further_extraction_constraints"
+  ]
+}

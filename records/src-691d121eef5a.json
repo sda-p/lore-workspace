@@ -1,0 +1,121 @@
+{
+  "source_id": "src-691d121eef5a",
+  "snapshot_sha256": "7fdb70a18b5d44adc051641b1773c34ed891a26f2a83db41bd66a9dddfde85d1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-691d121eef5a-c01",
+      "assertion": "Mari says the Moon is a damaged biosphere ship used to stabilize Earth, allegedly after Tiamat-war nuclear damage.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0012"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-691d121eef5a-c02",
+      "assertion": "Mari notes lunar reactors are described as ancient despite modern designs, and speculates about Cabal installation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "energy-generation",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-691d121eef5a-c03",
+      "assertion": "Mari says the Moon is a no-fly zone requiring special permission, while Federation military traffic continues.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-691d121eef5a-c04",
+      "assertion": "Mari says the Earth Matrix control center is the multiracial Andromedan ship Viera, not the Moon.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "moon-matrix",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-691d121eef5a-c05",
+      "assertion": "Mari says lunar low-frequency waves generate Van Allen belts and reduce Earth’s overall frequency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "viera",
+      "name": "Viera",
+      "kind": "location",
+      "aliases": [
+        "Andromedan biosphere ship Viera"
+      ]
+    }
+  ],
+  "review_flags": [
+    "lunar-reactor-age-origin-uncertainty"
+  ],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

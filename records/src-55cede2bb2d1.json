@@ -1,0 +1,109 @@
+{
+  "source_id": "src-55cede2bb2d1",
+  "snapshot_sha256": "5f424522b053898f9ce86fb42725fafd46d5e851064fd67ca6af959c33aa64fb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-55cede2bb2d1-c01",
+      "assertion": "Mari describes lower-astral entities as feeding on fear and suffering.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-55cede2bb2d1-c02",
+      "assertion": "She says starseeds may face monitoring by people close to them.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-55cede2bb2d1-c03",
+      "assertion": "She says entities cannot enter homes without direct consent.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-55cede2bb2d1-c04",
+      "assertion": "She warns that accepting cohabitation agreements may expose residents to manipulation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-55cede2bb2d1-c05",
+      "assertion": "She recommends privacy and says individuals retain power to resist entities.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0020",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "paranormal-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "monitoring-entities",
+    "consent-boundaries"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_id": "src-729c2f64ccf5",
+  "snapshot_sha256": "c8a3e3e75fe5d4e6c1ed8c4f9217bc53e5e53f6820acaf63c74650c671ba9420",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-729c2f64ccf5-c01",
+      "assertion": "Mari says prolonged Earth exposure has blended Toleka’s Taygetan culture with human influences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-729c2f64ccf5-c02",
+      "assertion": "She identifies ship surgeon Senetre as half-Taygetan, half-Solatian; Solatians inhabit planets orbiting Pleione.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-729c2f64ccf5-c03",
+      "assertion": "The new fighter pilots had no Earth experience or human languages, leaving their Taygetan culture unmodified by humans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-729c2f64ccf5-c04",
+      "assertion": "Mari says ghosts are commonly accepted in Taygeta, whose lower astral she describes as peaceful.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-729c2f64ccf5-c05",
+      "assertion": "She says Taygetans tailor clothing individually and lack mass production and money, which newcomers found shocking.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "cultural-differences"
+  ]
+}

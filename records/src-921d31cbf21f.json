@@ -1,0 +1,151 @@
+{
+  "source_id": "src-921d31cbf21f",
+  "snapshot_sha256": "78d43d35527bc422829c43ef5e5cbb2502e0493ae3a8d8c60bfdfc0b6093cbe2",
+  "language": "en",
+  "proposed_topics": [
+    {
+      "id": "hashmallim",
+      "name": "Hashmallim",
+      "kind": "faction",
+      "aliases": [
+        "Taygeta Special Forces"
+      ]
+    }
+  ],
+  "review_flags": [
+    "attribution_scope"
+  ],
+  "coverage_gaps": [
+    "medical_details",
+    "timeline_lore",
+    "political_context"
+  ],
+  "claims": [
+    {
+      "id": "src-921d31cbf21f-c01",
+      "assertion": "Rashell reports an eye stroke and heart failure.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-921d31cbf21f-c02",
+      "assertion": "Rashell blames criticism-related stress for Swaruu’s illness.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-921d31cbf21f-c03",
+      "assertion": "Rashell says pod treatment requires lifestyle change.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0044"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-921d31cbf21f-c04",
+      "assertion": "Swaruu calls density labels human concepts within a frequency gradient.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0173"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-921d31cbf21f-c05",
+      "assertion": "Rashell says Swaruu remembers timeline jumps; she perceives one linearly.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0187"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-921d31cbf21f-c06",
+      "assertion": "Khila calls Hashmallim Taygeta’s elite force; two units arrived with four fighters.",
+      "speaker": "Khila",
+      "paragraph_ids": [
+        "p0241",
+        "p0242"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-921d31cbf21f-c07",
+      "assertion": "Khila says Swaruu programmed her immersion and was unreachable aboard ship.",
+      "speaker": "Khila",
+      "paragraph_ids": [
+        "p0247",
+        "p0249"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-921d31cbf21f-c08",
+      "assertion": "Khila calls Swaruu an oracle with unmatched knowledge in their group.",
+      "speaker": "Khila",
+      "paragraph_ids": [
+        "p0259"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-1098d5d992f8",
+  "snapshot_sha256": "d39eec83aa56dc909242b839bdc3086cd0550e9d395bebd86795a6a5d6bf684e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1098d5d992f8-c01",
+      "assertion": "Gosia says the universe contains intelligent species of many forms, some involved with Earth for millennia.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1098d5d992f8-c02",
+      "assertion": "Swaruu describes life as common throughout the universe rather than exceptional.",
+      "speaker": "Gosia quoting Swaruu of Erra",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1098d5d992f8-c03",
+      "assertion": "Gosia alleges Earth controllers conceal extraterrestrial presence and frame it as fiction or fantasy.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0009",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1098d5d992f8-c04",
+      "assertion": "Gosia says Earth’s isolation narrative portrays humans as indigenous to one planet.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1098d5d992f8-c05",
+      "assertion": "Gosia identifies human-like extraterrestrials as among the most common forms.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "claims reflect Space Academy’s attributed lore"
+  ],
+  "coverage_gaps": [
+    "evidence examples deferred to second class"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source_id": "src-785c8500af2e",
+  "snapshot_sha256": "a332cc58e969277a999e045c4637b0144fb8afac3a888bfb26b562094582e5ac",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-785c8500af2e-c01",
+      "assertion": "Arien says Earth labels extraterrestrials mainly by location relative to terrestrial society.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0002",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-785c8500af2e-c02",
+      "assertion": "She says Step Downs and starseeds on Earth are treated as human under Federation rules.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-785c8500af2e-c03",
+      "assertion": "She argues morphology and location alone do not define identity; ethics and values matter.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-785c8500af2e-c04",
+      "assertion": "She says Earth and stellar populations both include positive and negative influences.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-785c8500af2e-c05",
+      "assertion": "She says Federation rules are inconsistently applied without regard to personal circumstances.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0002",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "human-identity",
+    "federation-status"
+  ]
+}

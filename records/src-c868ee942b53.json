@@ -1,0 +1,102 @@
+{
+  "source_id": "src-c868ee942b53",
+  "snapshot_sha256": "90dec56fb781c5e3e1960a09ce04a91214dbc3227df8f420c48a0c38365a5301",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c868ee942b53-c01",
+      "assertion": "Athena says constellation observations from both hemispheres rule out a flat Earth.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c868ee942b53-c02",
+      "assertion": "She says Earth’s mass and measured gravity constrain its possible size and shape.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0016",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c868ee942b53-c03",
+      "assertion": "Athena says atmospheric refraction can make distant objects visible beyond the horizon.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c868ee942b53-c04",
+      "assertion": "She says temperature layers can create mirror effects that distort distant views.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c868ee942b53-c05",
+      "assertion": "Athena and Yazhi claim flat-Earth narratives divert attention from extraterrestrial topics.",
+      "speaker": "Swaruu X (Athena); Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "other_flat_earth_arguments"
+  ]
+}

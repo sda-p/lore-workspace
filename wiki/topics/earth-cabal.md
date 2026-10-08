@@ -1172,6 +1172,458 @@ Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
 
 Source: [Canadian Truck Convoy - Warning from Athena Swaruu - Is there an Agenda?](https://swaruu.org/transcripts/canadian-truck-convoy-warning-from-athena-swaruu-is-there-an-agenda) (2022-02-04; en); passages p0009, p0013, p0014, p0015, p0017, p0019. [Structured record](../../records/src-01c3c72a675d.json).
 
+### src-d77a17203f16-c02
+
+She says the West seeks to weaken Russia through a proxy war.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [War in Ukraine - Analysis - Taygetan Intelligence Conclusions](https://swaruu.org/transcripts/war-in-ukraine-analysis-taygetan-intelligence-conclusions) (2023-03-07; en); passages p0005, p0007, p0010. [Structured record](../../records/src-d77a17203f16.json).
+
+### src-d77a17203f16-c05
+
+Athena says Putin faces internal opposition and remains untrusted.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [War in Ukraine - Analysis - Taygetan Intelligence Conclusions](https://swaruu.org/transcripts/war-in-ukraine-analysis-taygetan-intelligence-conclusions) (2023-03-07; en); passages p0026, p0027, p0030. [Structured record](../../records/src-d77a17203f16.json).
+
+### src-03f8a28bbf76-c03
+
+Yazhi calls Trump controlled opposition; Athena says disclosure could be manipulated to mimic contact as a false invasion.
+
+Attributed to **Yazhi; Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [UFO Disclosures this year? Questions for the Interview with AJ Roberts](https://swaruu.org/transcripts/ufo-disclosures-this-year-questions-for-the-interview-with-aj-roberts) (2023-06-05; en); passages p0018, p0021, p0022. [Structured record](../../records/src-03f8a28bbf76.json).
+
+### src-c5c91a2194a4-c01
+
+Gosia says disclosure efforts could expose some government secrecy but miss deeper extraterrestrial control. Unverified political framing.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [National Press Club Event - Disclosure Project - Steven Greer - OUR OPINION](https://swaruu.org/transcripts/national-press-club-event-disclosure-project-steven-greer-our-opinion) (2023-06-18; en); passages p0004, p0007, p0008. [Structured record](../../records/src-c5c91a2194a4.json).
+
+### src-c5c91a2194a4-c02
+
+She worries disclosures may be controlled to promote a false-invasion narrative.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [National Press Club Event - Disclosure Project - Steven Greer - OUR OPINION](https://swaruu.org/transcripts/national-press-club-event-disclosure-project-steven-greer-our-opinion) (2023-06-18; en); passages p0013, p0014, p0015. [Structured record](../../records/src-c5c91a2194a4.json).
+
+### src-c5c91a2194a4-c03
+
+Athena calls Greer’s project a likely psyop and alleges he is controlled opposition. Unverified allegations about a public figure.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [National Press Club Event - Disclosure Project - Steven Greer - OUR OPINION](https://swaruu.org/transcripts/national-press-club-event-disclosure-project-steven-greer-our-opinion) (2023-06-18; en); passages p0017, p0019, p0020, p0021. [Structured record](../../records/src-c5c91a2194a4.json).
+
+### src-c35bd2ccba2f-c02
+
+She alleges secret military units conduct operations in the lower astral.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star Seeds. Part 8, Astral Projection, Astral Abductions and Night Soul Missions, Part 2. (English)](https://swaruu.org/transcripts/star-seeds-part-8-astral-projection-astral-abductions-and-night-soul-missions-part-2-english) (2023-08-06; en); passages p0007, p0008, p0009. [Structured record](../../records/src-c35bd2ccba2f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0cf58b16e1d2-c02
+
+She alleges institutions stigmatize paid spiritual and extraterrestrial services to monopolize these fields.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Starseeds and their Problems, part 4, Money Issues. (English)](https://swaruu.org/transcripts/starseeds-and-their-problems-part-4-money-issues-english) (2023-06-07; en); passages p0013, p0015, p0017, p0018. [Structured record](../../records/src-0cf58b16e1d2.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-c972fa5ca890-c05
+
+Mari says a February Ohio derailment could have been artificially caused, but she is unsure.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [About all the UFO rumbling in the media (English)](https://swaruu.org/transcripts/about-all-the-ufo-rumbling-in-the-media-english) (2023-02-15; en); passages p0007, p0008. [Structured record](../../records/src-c972fa5ca890.json).
+
+### src-af0d62c105e6-c02
+
+Mari alleges controllers shaped religion and science to guide public perception.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The problem with science on Earth. (English)](https://swaruu.org/transcripts/the-problem-with-science-on-earth-english) (2023-01-30; en); passages p0016, p0017, p0022, p0023, p0024. [Structured record](../../records/src-af0d62c105e6.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-2ccd6a89a072-c02
+
+She says individuals can offer alternatives but cannot impose views or defeat the Cabal without becoming it.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Starseeds - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/starseeds-conversation-with-sophia-swaruu-yazhi) (2023-06-11; en); passages p0015, p0017. [Structured record](../../records/src-2ccd6a89a072.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2ccd6a89a072-c05
+
+She says military operations may be psyops or factional, and she needs facts before judging them.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Starseeds - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/starseeds-conversation-with-sophia-swaruu-yazhi) (2023-06-11; en); passages p0046, p0047, p0048, p0049. [Structured record](../../records/src-2ccd6a89a072.json).
+
+### src-b2709e04b582-c04
+
+She alleges companies replicate food on Earth, especially in China, sometimes inside its final package.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Beware of Replicated Food (English)](https://swaruu.org/transcripts/beware-of-replicated-food-english) (2023-07-17; en); passages p0010, p0017, p0018. [Structured record](../../records/src-b2709e04b582.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d83f04b7ade0-c01
+
+Mari alleges EVs are promoted to limit private vehicle ownership through high costs, not ecological motives.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Electric Vehicles on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-on-earth-english) (2023-03-26; en); passages p0003, p0005, p0007. [Structured record](../../records/src-d83f04b7ade0.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-d83f04b7ade0-c04
+
+She alleges connected EVs can be disabled remotely or stranded by shutting down the power grid.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Electric Vehicles on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-on-earth-english) (2023-03-26; en); passages p0024, p0025, p0026, p0027. [Structured record](../../records/src-d83f04b7ade0.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-0f147c12d0ce-c03
+
+Mari alleges controllers promote AI and transhumanism to increase dependence and control over people.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Artificial intelligence on Earth. (English)](https://swaruu.org/transcripts/artificial-intelligence-on-earth-english) (2023-04-19; en); passages p0013, p0014. [Structured record](../../records/src-0f147c12d0ce.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-4f0faaaf08ce-c03
+
+She describes starseeds as helping prevent more oppressive human conditions through their presence and actions.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [Message from Gosia to all the Starseeds - Disclosures, Social Changes - Is that your Purpose?](https://swaruu.org/transcripts/message-from-gosia-to-all-the-starseeds-disclosures-social-changes-is-that-your-purpose) (2023-06-07; en); passages p0002, p0008, p0009, p0010. [Structured record](../../records/src-4f0faaaf08ce.json).
+
+### src-3e583159a50e-c04
+
+She alleges Earth DNA collection feeds a Cabal-controlled database used to identify nonhuman incarnates.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Human Genome and DNA Storage - Yazhi Swaruu](https://swaruu.org/transcripts/human-genome-and-dna-storage-yazhi-swaruu) (2023-04-01; en); passages p0018, p0019, p0038. [Structured record](../../records/src-3e583159a50e.json).
+
+### src-ce9bbcc0863c-c03
+
+She claims social hierarchies teach obedience and authority as sources of truth.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Perspective on the Basic Formation of a Physical Matrix. (English)](https://swaruu.org/transcripts/a-perspective-on-the-basic-formation-of-a-physical-matrix-english) (2023-04-11; en); passages p0002, p0011, p0012. [Structured record](../../records/src-ce9bbcc0863c.json).
+
+### src-ce9bbcc0863c-c04
+
+She alleges powerful groups shape recorded truth and history to serve their interests.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Perspective on the Basic Formation of a Physical Matrix. (English)](https://swaruu.org/transcripts/a-perspective-on-the-basic-formation-of-a-physical-matrix-english) (2023-04-11; en); passages p0002, p0013, p0014, p0015, p0016, p0017. [Structured record](../../records/src-ce9bbcc0863c.json).
+
+### src-ad1046aa0fab-c05
+
+Mari says political powers draw strength from public attention and fear, which they try to direct.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reality, Egregores, Manifestation and the Paranormal. (English)](https://swaruu.org/transcripts/reality-egregores-manifestation-and-the-paranormal-english) (2023-01-24; en); passages p0039, p0040, p0041. [Structured record](../../records/src-ad1046aa0fab.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-803000c4d2e1-c04
+
+She says opposing groups during a global illness crisis both entered fear and survival modes. This summarizes her account of their reactions.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is there an ultimate Truth? (English)](https://swaruu.org/transcripts/is-there-an-ultimate-truth-english) (2023-06-11; en); passages p0013, p0016. [Structured record](../../records/src-803000c4d2e1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-557d7c7208eb-c04
+
+She says activist starseeds may face technological attacks, including synthetic telepathy from cell towers.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 6, Metaphysical and Astral Attacks. (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-6-metaphysical-and-astral-attacks-english) (2023-08-02; en); passages p0020. [Structured record](../../records/src-557d7c7208eb.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-c650263bc0eb-c01
+
+Mari says official disclosure may be manipulated to shape public beliefs.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extra-terrestrial Disclosure, a Warning (English)](https://swaruu.org/transcripts/extra-terrestrial-disclosure-a-warning-english) (2023-07-05; en); passages p0008, p0009, p0017. [Structured record](../../records/src-c650263bc0eb.json).
+
+### src-c650263bc0eb-c02
+
+She speculates a false alien invasion may be developing but says it may never occur.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Extra-terrestrial Disclosure, a Warning (English)](https://swaruu.org/transcripts/extra-terrestrial-disclosure-a-warning-english) (2023-07-05; en); passages p0011, p0012, p0013, p0016. [Structured record](../../records/src-c650263bc0eb.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-c650263bc0eb-c03
+
+Mari says hostile-invasion or benevolent-Federation narratives could both justify restrictions and rights removal.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Extra-terrestrial Disclosure, a Warning (English)](https://swaruu.org/transcripts/extra-terrestrial-disclosure-a-warning-english) (2023-07-05; en); passages p0019, p0020, p0021. [Structured record](../../records/src-c650263bc0eb.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0700efa54ddc-c05
+
+Mari links solar maxima with Cabal rituals and historical events, treating some causal links as her belief.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Sun and its portals. (English)](https://swaruu.org/transcripts/the-sun-and-its-portals-english) (2023-02-06; en); passages p0022, p0024, p0025, p0027, p0031. [Structured record](../../records/src-0700efa54ddc.json).
+
+Related topics: [Astrotheology](astrotheology.md).
+
+### src-45bf0b5b3192-c03
+
+Mari says official agencies and Project Blue Book steered public interpretation of UFO reports.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The problem with UFO researchers. (English)](https://swaruu.org/transcripts/the-problem-with-ufo-researchers-english) (2023-02-02; en); passages p0009, p0010. [Structured record](../../records/src-45bf0b5b3192.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-45bf0b5b3192-c04
+
+She alleges some accepted research groups are infiltrated to guide public perception and discredit her group.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The problem with UFO researchers. (English)](https://swaruu.org/transcripts/the-problem-with-ufo-researchers-english) (2023-02-02; en); passages p0011. [Structured record](../../records/src-45bf0b5b3192.json).
+
+### src-19b9c2bb57a1-c01
+
+Yazhi claims CIC identified Turkey’s earthquake as engineered from its shockwave signature.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Earthquake in Turkey - short conversation with Yazhi Swaruu](https://swaruu.org/transcripts/earthquake-in-turkey-short-conversation-with-yazhi-swaruu) (2023-02-22; en); passages p0004. [Structured record](../../records/src-19b9c2bb57a1.json).
+
+### src-19b9c2bb57a1-c02
+
+She says she lacks complete data but calls it punishment for Turkey’s failure to align with the Cabal.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Earthquake in Turkey - short conversation with Yazhi Swaruu](https://swaruu.org/transcripts/earthquake-in-turkey-short-conversation-with-yazhi-swaruu) (2023-02-22; en); passages p0006. [Structured record](../../records/src-19b9c2bb57a1.json).
+
+### src-19b9c2bb57a1-c03
+
+Yazhi attributes the quake to directed energy shifting tectonic plates; she says its cloud image is not proof.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Earthquake in Turkey - short conversation with Yazhi Swaruu](https://swaruu.org/transcripts/earthquake-in-turkey-short-conversation-with-yazhi-swaruu) (2023-02-22; en); passages p0008, p0010. [Structured record](../../records/src-19b9c2bb57a1.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-19b9c2bb57a1-c04
+
+She says nonhuman Cabal controllers treat civilian infrastructure and people as resources or ritual sacrifices.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Earthquake in Turkey - short conversation with Yazhi Swaruu](https://swaruu.org/transcripts/earthquake-in-turkey-short-conversation-with-yazhi-swaruu) (2023-02-22; en); passages p0014, p0016, p0020. [Structured record](../../records/src-19b9c2bb57a1.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-19b9c2bb57a1-c05
+
+Yazhi frames such disasters as coercive warnings to national controllers and other countries.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Earthquake in Turkey - short conversation with Yazhi Swaruu](https://swaruu.org/transcripts/earthquake-in-turkey-short-conversation-with-yazhi-swaruu) (2023-02-22; en); passages p0022, p0024. [Structured record](../../records/src-19b9c2bb57a1.json).
+
+### src-f54c2949c1ea-c01
+
+Athena alleges Greer’s apparent opposition is negative priming that supports a planned false-invasion narrative.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [UFO Disclosure Project - Questions - Conversation with Athena Swaruu](https://swaruu.org/transcripts/ufo-disclosure-project-questions-conversation-with-athena-swaruu) (2023-06-28; en); passages p0005, p0006, p0007, p0008, p0010, p0016. [Structured record](../../records/src-f54c2949c1ea.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-f54c2949c1ea-c02
+
+Athena says public extraterrestrial disclosures can test reactions while preserving official deniability.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [UFO Disclosure Project - Questions - Conversation with Athena Swaruu](https://swaruu.org/transcripts/ufo-disclosure-project-questions-conversation-with-athena-swaruu) (2023-06-28; en); passages p0020, p0022, p0024. [Structured record](../../records/src-f54c2949c1ea.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-f54c2949c1ea-c03
+
+Athena says layered control obscures real witnesses; no single witness reveals the whole account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [UFO Disclosure Project - Questions - Conversation with Athena Swaruu](https://swaruu.org/transcripts/ufo-disclosure-project-questions-conversation-with-athena-swaruu) (2023-06-28; en); passages p0024, p0027, p0028, p0034, p0035. [Structured record](../../records/src-f54c2949c1ea.json).
+
+### src-98431ca1f2e1-c01
+
+Mari says future outcomes are difficult to predict and describes a false-invasion scenario as a possibility.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [False Alien Invasion, Another Warning, mostly for Star Seeds. With Nai'Shara. (English)](https://swaruu.org/transcripts/false-alien-invasion-another-warning-mostly-for-star-seeds-with-nai-shara-english) (2023-07-09; en); passages p0004, p0005, p0006, p0007. [Structured record](../../records/src-98431ca1f2e1.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-98431ca1f2e1-c02
+
+Mari warns that disclosure could lead governments to restrict extraterrestrial discussion and censor dissent.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [False Alien Invasion, Another Warning, mostly for Star Seeds. With Nai'Shara. (English)](https://swaruu.org/transcripts/false-alien-invasion-another-warning-mostly-for-star-seeds-with-nai-shara-english) (2023-07-09; en); passages p0019, p0020, p0021, p0024, p0025. [Structured record](../../records/src-98431ca1f2e1.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-98431ca1f2e1-c03
+
+Mari says starseeds could face persecution if governments cast them as threats during disclosure or invasion.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [False Alien Invasion, Another Warning, mostly for Star Seeds. With Nai'Shara. (English)](https://swaruu.org/transcripts/false-alien-invasion-another-warning-mostly-for-star-seeds-with-nai-shara-english) (2023-07-09; en); passages p0022, p0023, p0025, p0026, p0027. [Structured record](../../records/src-98431ca1f2e1.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-c3e350aa4e42-c01
+
+Mari says officials control disclosure narratives while large research groups may serve as controlled opposition.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [UFO Disclosure nowadays, Part 1 (English)](https://swaruu.org/transcripts/ufo-disclosure-nowadays-part-1-english) (2023-06-23; en); passages p0014, p0015, p0016, p0017, p0018, p0019, p0020, p0021, p0025. [Structured record](../../records/src-c3e350aa4e42.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-c3e350aa4e42-c04
+
+Mari says disclosure is occurring through multiple people, with governments adding a controlled version to retain influence.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [UFO Disclosure nowadays, Part 1 (English)](https://swaruu.org/transcripts/ufo-disclosure-nowadays-part-1-english) (2023-06-23; en); passages p0026, p0029, p0030. [Structured record](../../records/src-c3e350aa4e42.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-88ba599fa614-c01
+
+Yazhi says no nonhuman craft were shot down and describes the reports as a possible false-invasion agenda.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Flying Objects - UFOs -Shot Down - Yazhi and Athena Swaruu´s Opinion](https://swaruu.org/transcripts/flying-objects-ufos-shot-down-yazhi-and-athena-swaruu-s-opinion) (2023-02-17; en); passages p0004, p0005, p0007, p0008, p0010, p0011, p0012. [Structured record](../../records/src-88ba599fa614.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-88ba599fa614-c04
+
+Athena says UFO reports distracted from Ohio train derailments that she calls a deliberate false flag.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Flying Objects - UFOs -Shot Down - Yazhi and Athena Swaruu´s Opinion](https://swaruu.org/transcripts/flying-objects-ufos-shot-down-yazhi-and-athena-swaruu-s-opinion) (2023-02-17; en); passages p0035, p0036, p0037, p0038, p0040. [Structured record](../../records/src-88ba599fa614.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-88ba599fa614-c05
+
+Athena says agencies may seed controlled dissent to misdirect public attention.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Flying Objects - UFOs -Shot Down - Yazhi and Athena Swaruu´s Opinion](https://swaruu.org/transcripts/flying-objects-ufos-shot-down-yazhi-and-athena-swaruu-s-opinion) (2023-02-17; en); passages p0039, p0042, p0043. [Structured record](../../records/src-88ba599fa614.json).
+
+### src-c147ae1148dd-c01
+
+Mari says rulers shape accepted history and truth to serve their interests.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Formation of a Matrix (English)](https://swaruu.org/transcripts/formation-of-a-matrix-english) (2023-04-14; en); passages p0003, p0004, p0006. [Structured record](../../records/src-c147ae1148dd.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-c147ae1148dd-c02
+
+Mari says secret societies preserve knowledge withheld from the public, while higher powers may manipulate their beliefs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Formation of a Matrix (English)](https://swaruu.org/transcripts/formation-of-a-matrix-english) (2023-04-14; en); passages p0007, p0008, p0009. [Structured record](../../records/src-c147ae1148dd.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-3182af03be61-c05
+
+Mari says Earth electric vehicles can enable remote control and reduce human autonomy. This is Mari’s opinion and allegation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Electric vehicles in Taygeta, and on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-in-taygeta-and-on-earth-english) (2023-04-01; en); passages p0005, p0006, p0023, p0024, p0025. [Structured record](../../records/src-3182af03be61.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-3c70c40f1bbb-c04
+
+Mari says human power structures depend on population attention and obedience to retain control.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conclusions 01, Galactic Federation. (English)](https://swaruu.org/transcripts/conclusions-01-galactic-federation-english) (2023-04-05; en); passages p0016, p0017. [Structured record](../../records/src-3c70c40f1bbb.json).
+
+Related topics: [Economics and resources](economics.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -1211,9 +1663,24 @@ Source: [Canadian Truck Convoy - Warning from Athena Swaruu - Is there an Agenda
 - [src-c5e6117394fd-c04](atlantis-lemuria.md#src-c5e6117394fd-c04) — Atlantis and Lemuria
 - [src-073f7818f594-c03](moon-matrix.md#src-073f7818f594-c03) — Moon and terrestrial Matrix
 - [src-073f7818f594-c04](stellar-navigation.md#src-073f7818f594-c04) — Stellar navigation
+- [src-03f8a28bbf76-c05](economics.md#src-03f8a28bbf76-c05) — Economics and resources
+- [src-daf200b4565a-c03](galactic-federation.md#src-daf200b4565a-c03) — Galactic Federation
+- [src-c650263bc0eb-c05](galactic-federation.md#src-c650263bc0eb-c05) — Galactic Federation
+- [src-bc1f28760d1d-c05](economics.md#src-bc1f28760d1d-c05) — Economics and resources
+- [src-6d89e231f729-c04](consciousness-metaphysics.md#src-6d89e231f729-c04) — Consciousness and metaphysics
+- [src-f54c2949c1ea-c04](consciousness-metaphysics.md#src-f54c2949c1ea-c04) — Consciousness and metaphysics
+- [src-98431ca1f2e1-c04](consciousness-metaphysics.md#src-98431ca1f2e1-c04) — Consciousness and metaphysics
+- [src-691d121eef5a-c02](moon-matrix.md#src-691d121eef5a-c02) — Moon and terrestrial Matrix
+- [src-c3e350aa4e42-c02](alien-species.md#src-c3e350aa4e42-c02) — Alien species and distinctions
+- [src-caf9efbd11f1-c03](alien-species.md#src-caf9efbd11f1-c03) — Alien species and distinctions
+- [src-88ba599fa614-c02](galactic-federation.md#src-88ba599fa614-c02) — Galactic Federation
+- [src-88ba599fa614-c03](terrestrial-science.md#src-88ba599fa614-c03) — Terrestrial science
+- [src-c147ae1148dd-c03](original-matrix.md#src-c147ae1148dd-c03) — Original Matrix
+- [src-c147ae1148dd-c04](original-matrix.md#src-c147ae1148dd-c04) — Original Matrix
 
 ## Review flags
 
+- AI\_capability\_claims\_unverified
 - Higher-level free-will explanation is challenged by Gosia
 - Maitre\_relationship\_with\_Reptilians
 - Proposed intervention remains conditional and internally qualified
@@ -1223,11 +1690,13 @@ Source: [Canadian Truck Convoy - Warning from Athena Swaruu - Is there an Agenda
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - chronology\_conflict
 - competing\_attributions
+- conditional\_forecast
 - conflict\_claims\_unverified
 - conflicting\_intelligence\_accounts
 - conflicting\_war\_reports
 - conspiracy-claims
 - conspiracy\_claims
+- conspiracy\_claims\_unverified
 - contested-space-history-allegation
 - contested\_extraterrestrial\_history
 - contested\_historical\_claims
@@ -1242,19 +1711,26 @@ Source: [Canadian Truck Convoy - Warning from Athena Swaruu - Is there an Agenda
 - dated\_claims
 - dated\_prediction
 - diet\_claim\_omitted
+- disclosure\_claims\_unverified
 - earth-consciousness\_claim\_omitted
 - earth-population-claims
 - egregor-vs-species-levels
 - ethical\_perspective\_conflict
+- extraordinary\_astronomical\_claims
 - extraordinary\_claims
 - extraordinary\_conflict\_claims
 - extraordinary\_cosmology\_claims
+- extraordinary\_economic\_claims
 - extraordinary\_exopolitical\_claims
 - extraordinary\_history\_claims
 - extraordinary\_materials\_claims
+- extraordinary\_metaphysical\_claims
+- extraordinary\_paranormal\_claims
 - extraordinary\_public\_health\_claims
 - extraordinary\_scientific\_claims
 - factional\_viewpoint\_conflict
+- false-invasion-not-prediction
+- food\_and\_health\_claims\_unverified
 - forecast\_predictions\_not\_confirmed
 - genetic-surveillance-allegations
 - geopolitical-allegation
@@ -1265,9 +1741,12 @@ Source: [Canadian Truck Convoy - Warning from Athena Swaruu - Is there an Agenda
 - historical\_and\_nuclear\_claims\_unverified
 - institutional\_conspiracy\_claims
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
+- internal\_qualification
 - internal\_revision
 - internal\_scope\_tension
 - internal\_tension
+- lunar-reactor-age-origin-uncertainty
+- medical-claims-unverified
 - medical-conspiracy-claims
 - medical-misinformation-claims
 - medical-misinformation: pandemic, testing, and vaccine claims
@@ -1285,8 +1764,12 @@ Source: [Canadian Truck Convoy - Warning from Athena Swaruu - Is there an Agenda
 - personal\_metaphysics
 - political-allegation
 - political\_conspiracy\_claims
+- population-control-allegations
+- prior\_statement\_conflict
 - protest\_operation\_allegations
+- related\_series\_part
 - review: claims on sexual orientation and depopulation
+- scenario-not-prediction
 - science\_claims\_unverified\_in\_source
 - second\_hand\_claims
 - speaker-label-ambiguity
@@ -1294,9 +1777,12 @@ Source: [Canadian Truck Convoy - Warning from Athena Swaruu - Is there an Agenda
 - speaker-unidentified
 - speaker\_identity\_unclear\_p0002\_p0019
 - symbolic-conspiracy-claims
+- targeting\_claims
 - time-bound-prediction
 - time\_travel\_lore
 - translated\_source
+- transport\_safety\_and\_policy\_claims\_unverified
+- ufo\_researcher\_critique
 - uncertainty-shift: 5G moves from possible explanation to formal position
 - unsupported\_planetary\_claims
 - unverified-cabinet-claims
@@ -1304,14 +1790,21 @@ Source: [Canadian Truck Convoy - Warning from Athena Swaruu - Is there an Agenda
 - unverified\_aerospace\_claims
 - unverified\_agency\_claims
 - unverified\_disinformation\_claims
+- unverified\_extraordinary\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims
 - unverified\_historical\_claims
 - unverified\_medical\_advice
 - unverified\_medical\_allegations
 - unverified\_medical\_claims
+- unverified\_metaphysical\_claims
+- unverified\_military\_claims
 - unverified\_mind\_control\_claims
+- unverified\_paranormal\_claims
 - unverified\_political\_claims
+- unverified\_public\_figure\_claims
+- unverified\_social\_claims
+- unverified\_wartime\_claims
 - vaccine-harm-allegations
 - virus-account-internal-tension
 - warrior\_symbolism

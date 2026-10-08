@@ -1,0 +1,91 @@
+{
+  "source_id": "src-01100c03c15c",
+  "snapshot_sha256": "42b70936d8a7f772dc909e1b3693ee669964fc45cd274af29d7d3df3cd55fd61",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-01100c03c15c-c01",
+      "assertion": "Za’el says destiny may appear fixed while choices still shape lived futures.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal philosophy."
+    },
+    {
+      "id": "src-01100c03c15c-c02",
+      "assertion": "He says recurring hardships may reflect ideas or unconscious patterns.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01100c03c15c-c03",
+      "assertion": "Za’el says people cannot know another soul’s intended life plan with certainty.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01100c03c15c-c04",
+      "assertion": "He favors helping others while avoiding intrusive intervention.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01100c03c15c-c05",
+      "assertion": "Za’el presents his account as personal and open to revision.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "destiny_examples"
+  ]
+}

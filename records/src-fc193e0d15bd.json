@@ -1,0 +1,99 @@
+{
+  "source_id": "src-fc193e0d15bd",
+  "snapshot_sha256": "3c8e599ca6cd276414f11a20ed5fc78b31bf454da973c5c9d7647dc93c95dbaa",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fc193e0d15bd-c01",
+      "assertion": "Mari Swa says local Federation conferences were held twice monthly aboard Viera.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0028"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc193e0d15bd-c02",
+      "assertion": "Alfratan hosts separated conference attendees by genetic or star-family origin.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari suspects this limited coordination."
+    },
+    {
+      "id": "src-fc193e0d15bd-c03",
+      "assertion": "Alfratan representatives said Earth’s hardship promotes souls’ growth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc193e0d15bd-c04",
+      "assertion": "They argued Earth should remain isolated to contain its harmful social effects.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc193e0d15bd-c05",
+      "assertion": "They said direct contact could collapse Earth’s Matrix into a holistic society.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Federation-arguments_reported"
+  ],
+  "coverage_gaps": [
+    "conference-procedure",
+    "isolation-policy"
+  ]
+}

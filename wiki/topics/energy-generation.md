@@ -264,6 +264,76 @@ Source: [Extraterrestrials and Earth´s Resources - Direct Extraterrestrial Pers
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-cb796b9370e8-c05
+
+Yazhi says her engine fluid is toxic and only resembles what humans call Red Mercury.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Mini Topics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-mini-topics-with-gosia-cosmic-agency) (2023-02-15; en); passages p0122, p0123, p0124. [Structured record](../../records/src-cb796b9370e8.json).
+
+### src-d83f04b7ade0-c03
+
+Mari says EVs require costly charging infrastructure and consume power while parked.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Electric Vehicles on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-on-earth-english) (2023-03-26; en); passages p0015, p0016. [Structured record](../../records/src-d83f04b7ade0.json).
+
+### src-fead5e292474-c05
+
+Yazhi says nonhuman reactors use controlled antimatter releases but require refueling.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Dark Matter and AntiMatter - Extraterrestrial Information - Yazhi Swaruu](https://swaruu.org/transcripts/dark-matter-and-antimatter-extraterrestrial-information-yazhi-swaruu) (2023-08-07; en); passages p0032. [Structured record](../../records/src-fead5e292474.json).
+
+### src-fead5e292474-c06
+
+She says antimatter is stored in vacuum under artificial gravity; dark matter cannot remain dark once manipulated.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Dark Matter and AntiMatter - Extraterrestrial Information - Yazhi Swaruu](https://swaruu.org/transcripts/dark-matter-and-antimatter-extraterrestrial-information-yazhi-swaruu) (2023-08-07; en); passages p0040, p0112. [Structured record](../../records/src-fead5e292474.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-25f8dc2b982f-c01
+
+Yazhi predicts lithium scarcity will raise battery and electric-device production costs.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Electric Cars and Why they are Bad - Cabal´s Agendas - Yazhi Swaruu](https://swaruu.org/transcripts/electric-cars-and-why-they-are-bad-cabal-s-agendas-yazhi-swaruu) (2023-01-27; en); passages p0006, p0007. [Structured record](../../records/src-25f8dc2b982f.json).
+
+### src-25f8dc2b982f-c02
+
+She claims lithium mining can involve severe exploitation, including underpaid, enslaved, or child labor.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Electric Cars and Why they are Bad - Cabal´s Agendas - Yazhi Swaruu](https://swaruu.org/transcripts/electric-cars-and-why-they-are-bad-cabal-s-agendas-yazhi-swaruu) (2023-01-27; en); passages p0006. [Structured record](../../records/src-25f8dc2b982f.json).
+
+### src-25f8dc2b982f-c05
+
+Yazhi says advanced non-terrestrial societies mostly use electric technology; she objects to terrestrial vehicles’ planned obsolescence and disposal impacts.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Electric Cars and Why they are Bad - Cabal´s Agendas - Yazhi Swaruu](https://swaruu.org/transcripts/electric-cars-and-why-they-are-bad-cabal-s-agendas-yazhi-swaruu) (2023-01-27; en); passages p0010, p0011. [Structured record](../../records/src-25f8dc2b982f.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-5920cfbc7dc1-c05
+
+Mari says toilets and unrecyclable garbage are vaporized, with released heat converted to electricity for ship systems.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygetan Star Ship private rooms and Toilets](https://swaruu.org/transcripts/taygetan-star-ship-private-rooms-and-toilets) (2023-03-02; en); passages p0016, p0017, p0018, p0020. [Structured record](../../records/src-5920cfbc7dc1.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -278,6 +348,22 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - [src-c9a55dfb135f-c01](starship-systems.md#src-c9a55dfb135f-c01) — Starship systems
 - [src-eb37fe3914b0-c03](taygetan-ecosystems.md#src-eb37fe3914b0-c03) — Taygetan ecosystems
 - [src-9dba344806dc-c01](moon-matrix.md#src-9dba344806dc-c01) — Moon and terrestrial Matrix
+- [src-76df8f4b52c9-c04](moon-matrix.md#src-76df8f4b52c9-c04) — Moon and terrestrial Matrix
+- [src-f5ca0eb522cb-c03](moon-matrix.md#src-f5ca0eb522cb-c03) — Moon and terrestrial Matrix
+- [src-d83f04b7ade0-c04](earth-cabal.md#src-d83f04b7ade0-c04) — Earth Cabal and power structures
+- [src-c0c392776fd0-c02](moon-matrix.md#src-c0c392776fd0-c02) — Moon and terrestrial Matrix
+- [src-bc1f28760d1d-c02](economics.md#src-bc1f28760d1d-c02) — Economics and resources
+- [src-4c18957bd2f2-c03](etheric-load-heaters.md#src-4c18957bd2f2-c03) — Etheric load heaters
+- [src-691d121eef5a-c02](moon-matrix.md#src-691d121eef5a-c02) — Moon and terrestrial Matrix
+- [src-194038ff3d24-c01](taygetan-flight-suits.md#src-194038ff3d24-c01) — Taygetan flight suits and boots
+- [src-194038ff3d24-c02](taygetan-flight-suits.md#src-194038ff3d24-c02) — Taygetan flight suits and boots
+- [src-194038ff3d24-c03](taygetan-flight-suits.md#src-194038ff3d24-c03) — Taygetan flight suits and boots
+- [src-194038ff3d24-c04](taygetan-flight-suits.md#src-194038ff3d24-c04) — Taygetan flight suits and boots
+- [src-194038ff3d24-c05](taygetan-flight-suits.md#src-194038ff3d24-c05) — Taygetan flight suits and boots
+- [src-ac1ba0859491-c02](moon-biosphere-ship.md#src-ac1ba0859491-c02) — The Moon as a biosphere ship
+- [src-ac1ba0859491-c03](moon-biosphere-ship.md#src-ac1ba0859491-c03) — The Moon as a biosphere ship
+- [src-ac1ba0859491-c04](moon-biosphere-ship.md#src-ac1ba0859491-c04) — The Moon as a biosphere ship
+- [src-3182af03be61-c02](taygetan-wireless-power-grid.md#src-3182af03be61-c02) — Taygetan wireless power grid
 
 ## Review flags
 
@@ -285,14 +371,26 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - conflicting\_primary\_purpose\_claims
 - conspiracy\_claims
 - contested\_archaeology
+- earth\_science\_claims\_unverified
+- extraordinary\_astronomical\_claims
 - extraordinary\_civilization\_claims
+- extraordinary\_economic\_claims
 - extraordinary\_exopolitical\_claims
 - extraordinary\_history\_claims
+- extraordinary\_metaphysical\_claims
+- extraordinary\_physics\_claims
 - extraordinary\_technology\_claims
+- internal\_uncertainty
+- lunar-reactor-age-origin-uncertainty
 - metaphysical-claims
 - nuclear\_science\_misinformation
+- prior\_statement\_conflict
 - starlink-observation-scope-ambiguity
+- transport\_safety\_and\_policy\_claims\_unverified
 - unverified\_ancient\_technology\_claims
+- unverified\_biological\_claims
 - unverified\_energy\_claims
 - unverified\_geophysical\_claims
+- unverified\_lunar\_claims
+- unverified\_lunar\_technology
 - unverified\_technical\_claims

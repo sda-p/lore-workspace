@@ -1,0 +1,99 @@
+{
+  "source_id": "src-f551c06c99aa",
+  "snapshot_sha256": "a0cf35e67c60af6e5d9b035adbc377b67823472389c951e5f56165ff930993a4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f551c06c99aa-c01",
+      "assertion": "Mari says Earth models time linearly, while advanced civilizations picture it as an expanding sphere.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f551c06c99aa-c02",
+      "assertion": "She says time depends on observers; day-night cycles and clocks coordinate Earth’s shared perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f551c06c99aa-c03",
+      "assertion": "Mari defines timelines as event sequences whose possible futures depend on past and present conditions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f551c06c99aa-c04",
+      "assertion": "She says timelines are mind-generated and thought changes can match people to desired outcomes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f551c06c99aa-c05",
+      "assertion": "Mari says advanced models use three spatial and three time dimensions, unlike Earth’s four-dimensional model.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "time_and_dimension_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "base_12_zero_point_model"
+  ]
+}

@@ -17,7 +17,7 @@
       ],
       "modality": "reported",
       "confidence": "medium",
-      "qualifiers": "Unverified wartime intelligence."
+      "qualifiers": ""
     },
     {
       "id": "src-d77a17203f16-c02",
@@ -34,7 +34,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified geopolitical claim."
+      "qualifiers": ""
     },
     {
       "id": "src-d77a17203f16-c03",
@@ -51,7 +51,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified wartime account."
+      "qualifiers": ""
     },
     {
       "id": "src-d77a17203f16-c04",
@@ -101,7 +101,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Report is expressly pro-Putin."
+      "qualifiers": ""
     }
   ],
   "proposed_topics": [],

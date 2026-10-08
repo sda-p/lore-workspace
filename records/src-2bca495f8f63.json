@@ -1,0 +1,116 @@
+{
+  "source_id": "src-2bca495f8f63",
+  "snapshot_sha256": "cdcd39f57f0f563ec2d5a22ffc0183a48b81595df22c2b2ba39ddf7783df44ab",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2bca495f8f63-c01",
+      "assertion": "Anéeka says a ship tractor beam can open a portal to a room on Earth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0012"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bca495f8f63-c02",
+      "assertion": "Anéeka says a tractor beam portal requires several gigawatts and produces detectable magnetic effects.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0014",
+        "p0020"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bca495f8f63-c03",
+      "assertion": "Anéeka says fully bridged portals consume twice the energy of membrane portals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032",
+        "p0036"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bca495f8f63-c04",
+      "assertion": "Anéeka says hyperspace-capable interstellar ships can technically travel across timelines.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0078",
+        "p0079"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Ethical permission is restricted."
+    },
+    {
+      "id": "src-2bca495f8f63-c05",
+      "assertion": "Anéeka says some natural portals evade monitoring, but unknown ones can be dangerous.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0081",
+        "p0082"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bca495f8f63-c06",
+      "assertion": "Anéeka says the Sun is a portal and identifies sunspots as its openings.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0092",
+        "p0093"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker_attribution"
+  ],
+  "coverage_gaps": [
+    "natural_portal_sites",
+    "astral_travel"
+  ]
+}

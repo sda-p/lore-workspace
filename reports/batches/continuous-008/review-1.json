@@ -1,0 +1,149 @@
+{
+  "batch_id": "continuous-008",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-d98ff6da8694",
+    "src-6d89e231f729",
+    "src-fead5e292474",
+    "src-1afd7588a669",
+    "src-304dba3fd59c",
+    "src-ad1046aa0fab",
+    "src-6490421f0db7",
+    "src-1c58821fb603",
+    "src-4667fff63537",
+    "src-05f9464ebebc",
+    "src-a474dfd5dd80",
+    "src-f5ca0eb522cb",
+    "src-605c7c509cae",
+    "src-98431ca1f2e1",
+    "src-0d12ea1793f5",
+    "src-ecee618ac78e",
+    "src-da9a37ad94e4",
+    "src-50c08119afee",
+    "src-cb796b9370e8",
+    "src-b7c10546883d",
+    "src-c5c91a2194a4",
+    "src-088d6cb688a5",
+    "src-539b886e392e",
+    "src-2125b87df068",
+    "src-4841bb6f5d40",
+    "src-73847cacada2",
+    "src-949028f4310f",
+    "src-32665478a6c1",
+    "src-001cf59b4543",
+    "src-8bbf9e6a6e78",
+    "src-557d7c7208eb",
+    "src-ab9ee5db11c6",
+    "src-d694d326d416",
+    "src-4781604621b1",
+    "src-2ae03f0dfe57",
+    "src-861b9bdec2b4",
+    "src-691d121eef5a",
+    "src-b2709e04b582",
+    "src-e2b6999b0e7f",
+    "src-03651da1738e",
+    "src-c650263bc0eb",
+    "src-331beeab2088",
+    "src-9bdcda4720c8",
+    "src-01100c03c15c",
+    "src-5e07dce47a23",
+    "src-67a7fcd528f7",
+    "src-62ae0182b6c0",
+    "src-d83f04b7ade0",
+    "src-507e3e5d35c8",
+    "src-bc1f28760d1d",
+    "src-2f12809b9b4a",
+    "src-0700efa54ddc",
+    "src-c4de2f56abc6",
+    "src-0f147c12d0ce",
+    "src-e46b83b82e92",
+    "src-788871b703a3",
+    "src-f551c06c99aa",
+    "src-bbd42e5699d0",
+    "src-c147ae1148dd",
+    "src-8a803747f028",
+    "src-45bf0b5b3192",
+    "src-6ef6212fe8ca",
+    "src-6bba1ebb3317",
+    "src-2f9edb3af632",
+    "src-cd1cd400e21c",
+    "src-c06b74035df0",
+    "src-3e47a84b5581",
+    "src-4f0faaaf08ce",
+    "src-84aa212c93d4",
+    "src-d41b8d084530",
+    "src-785c8500af2e",
+    "src-ce9bbcc0863c",
+    "src-103854c694ff",
+    "src-5920cfbc7dc1",
+    "src-61a8bd9e1e53",
+    "src-3878f3fc71b4",
+    "src-1be42e9ca084",
+    "src-291f1a9b28f5",
+    "src-afa1873e4741",
+    "src-19b9c2bb57a1"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-d98ff6da8694",
+      "claim_id": "src-d98ff6da8694-c01",
+      "problem": "The cited DNA discussion begins in a separate Spanish-origin section attributed to Yazhi, not Swaruu (9).",
+      "action": "Corrected speaker attribution to Yazhi.",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ]
+    },
+    {
+      "source_id": "src-0d12ea1793f5",
+      "claim_id": "src-0d12ea1793f5-c05",
+      "problem": "The source says other races operate under a nearly free framework, but does not specify that they use their own resources or are outside all human money systems.",
+      "action": "Recast to the directly stated scope of the Federation grant system.",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-73847cacada2",
+      "claim_id": "src-73847cacada2-c05",
+      "problem": "The source describes the channel and its content but does not explicitly say the information is shared without imposing it.",
+      "action": "Removed the unsupported non-imposition qualifier.",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0026"
+      ]
+    },
+    {
+      "source_id": "src-949028f4310f",
+      "claim_id": "src-949028f4310f-c05",
+      "problem": "The claim adds a contained soul-experience rationale not stated in its cited passages.",
+      "action": "Narrowed to Mari’s explicit rationale about human shadow and manifestation.",
+      "paragraph_ids": [
+        "p0032"
+      ]
+    },
+    {
+      "source_id": "src-861b9bdec2b4",
+      "claim_id": "src-861b9bdec2b4-c03",
+      "problem": "The claim misspelled the species name.",
+      "action": "Corrected the name to Etorthan.",
+      "paragraph_ids": [
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-3878f3fc71b4",
+      "claim_id": "src-3878f3fc71b4-c05",
+      "problem": "The source says Gardeners may put some starseeds back on track; it does not specify restoring DNA memory.",
+      "action": "Narrowed to putting starseeds back on track toward a mission.",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ]
+    }
+  ],
+  "unresolved": []
+}

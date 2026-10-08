@@ -1,0 +1,116 @@
+{
+  "source_id": "src-9b1732b6fb53",
+  "snapshot_sha256": "2ed1bc1844e7e9c91c767f251c09aef09a3d1227ab85e2fc90c4106227ec3804",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9b1732b6fb53-c01",
+      "assertion": "Anéeka says the local Federation is supposedly overseen by an inaccessible Saturn council, with further councils above it.",
+      "speaker": "Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b1732b6fb53-c02",
+      "assertion": "Anéeka describes the Sphere Alliance as an officially independent group that also forms part of the Federation.",
+      "speaker": "Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0021",
+        "p0029"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b1732b6fb53-c03",
+      "assertion": "Anéeka reports Yazhi’s view that Earth’s problems can only be solved from within by humans.",
+      "speaker": "Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0035"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b1732b6fb53-c04",
+      "assertion": "Anéeka says Saturn’s rings and moons host mostly underground bases; rings provide mining resources.",
+      "speaker": "Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0037",
+        "p0040",
+        "p0043"
+      ],
+      "primary_topic": "saturn-bases",
+      "topics": [
+        "saturn-bases",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b1732b6fb53-c05",
+      "assertion": "Anéeka describes Saturn as hosting floating animal ecosystems, including large jellyfish-like beings, without advanced civilization.",
+      "speaker": "Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0042",
+        "p0045",
+        "p0047",
+        "p0049",
+        "p0051"
+      ],
+      "primary_topic": "saturn-fauna",
+      "topics": [
+        "saturn-fauna"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "saturn-bases",
+      "name": "Saturnian orbital bases",
+      "kind": "location",
+      "aliases": [
+        "Saturn bases",
+        "ring bases"
+      ]
+    },
+    {
+      "id": "saturn-fauna",
+      "name": "Saturnian atmospheric fauna",
+      "kind": "species",
+      "aliases": [
+        "floating Saturnian fauna"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "council anonymity and species list"
+  ]
+}

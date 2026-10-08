@@ -1,0 +1,106 @@
+{
+  "source_id": "src-9f11dae98ad6",
+  "snapshot_sha256": "eaa93f82e4250c3cdb9c9985dac40a326dc86a6a7214f79707efcbf49785994d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9f11dae98ad6-c01",
+      "assertion": "Mari describes an interstellar model with three spatial and three temporal axes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0009"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal model."
+    },
+    {
+      "id": "src-9f11dae98ad6-c02",
+      "assertion": "She says the six coordinates locate both a place and a moment in time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9f11dae98ad6-c03",
+      "assertion": "Mari says time jumps can open alternate timelines rather than revisit identical past moments.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9f11dae98ad6-c04",
+      "assertion": "She says navigation computers can miscalculate temporal coordinates and strand travelers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9f11dae98ad6-c05",
+      "assertion": "Mari says a traveler’s awareness contributes to timeline branching.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_physics_claims"
+  ],
+  "coverage_gaps": [
+    "mathematical_details"
+  ]
+}

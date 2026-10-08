@@ -1,0 +1,73 @@
+{
+  "source_id": "src-3e47a84b5581",
+  "snapshot_sha256": "e14734e89cf64ff18b70631bf0214fe89c191730a1a1002921b3fef55bca347b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3e47a84b5581-c01",
+      "assertion": "Mari says Taygetan supply ship Saska arrived from Temmer on February 15, 2023, to resupply Toleka and other ships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e47a84b5581-c02",
+      "assertion": "Mari says Earth orbit counts as deep space for Taygetan ships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e47a84b5581-c03",
+      "assertion": "Mari says cadets Arien and Za’el arrived aboard Toleka to study Earth issues from a crew perspective.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e47a84b5581-c04",
+      "assertion": "Mari says the cadets planned an independent direct channel coordinated with and tutored by her.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

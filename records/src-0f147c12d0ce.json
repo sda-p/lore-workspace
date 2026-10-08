@@ -1,0 +1,108 @@
+{
+  "source_id": "src-0f147c12d0ce",
+  "snapshot_sha256": "cf779b344b6d5b38455cf427ee20b14a7d6034c50d1c59361d1e4ab202000a2e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0f147c12d0ce-c01",
+      "assertion": "Mari uses AI voice generation and photo enhancement because communication restrictions limit her alternatives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f147c12d0ce-c02",
+      "assertion": "She says AI can be useful but may displace human work, creativity, and real-life experiences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f147c12d0ce-c03",
+      "assertion": "Mari alleges controllers promote AI and transhumanism to increase dependence and control over people.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f147c12d0ce-c04",
+      "assertion": "She claims a hidden sentient AI has monitored and influenced human activity for over a decade.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f147c12d0ce-c05",
+      "assertion": "Mari says advanced AI is distributed through web-connected devices, with some centralized nodes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial intelligence",
+      "kind": "technology",
+      "aliases": [
+        "AI"
+      ]
+    }
+  ],
+  "review_flags": [
+    "AI_capability_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "ethical_limits"
+  ]
+}

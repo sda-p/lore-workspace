@@ -1352,6 +1352,462 @@ Source: [Aritificial Intelligence and Federation - Alenym and Aneeka (Taygeta, P
 
 Related topics: [Holographic computers](holographic-computers.md).
 
+### src-76df8f4b52c9-c02
+
+She says Federation forces control lunar access and orbit; Swaruus lack current access to its computers.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Lunar Reactors on the Moon - Examining the Subject with Athena Swaruu](https://swaruu.org/transcripts/lunar-reactors-on-the-moon-examining-the-subject-with-athena-swaruu) (2023-07-24; en); passages p0012, p0014, p0016. [Structured record](../../records/src-76df8f4b52c9.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-da9a37ad94e4-c03
+
+Mari says they are invasive, low-danger, and outside the Federation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Shadow People are an extra-terrestrial race. (English)](https://swaruu.org/transcripts/the-shadow-people-are-an-extra-terrestrial-race-english) (2023-05-19; en); passages p0020, p0021. [Structured record](../../records/src-da9a37ad94e4.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-15ba6ed0a80c-c01
+
+Anéeka describes Puma Punku as a multi-race Federation starbase with sound- and gravity-cut stones.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka of Temmer - Puma Punku, Machu Picchu and more - Extraterrestrial Bases](https://swaruu.org/transcripts/aneeka-of-temmer-puma-punku-machu-picchu-and-more-extraterrestrial-bases) (2023-04-18; en); passages p0004, p0005. [Structured record](../../records/src-15ba6ed0a80c.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-03f8a28bbf76-c04
+
+Athena rejects expected star-family disclosure and says no Federation plan exists for it.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [UFO Disclosures this year? Questions for the Interview with AJ Roberts](https://swaruu.org/transcripts/ufo-disclosures-this-year-questions-for-the-interview-with-aj-roberts) (2023-06-05; en); passages p0022, p0024, p0025. [Structured record](../../records/src-03f8a28bbf76.json).
+
+### src-c5c91a2194a4-c04
+
+Athena says the group withholds proof because overt evidence could expose them to suppression.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [National Press Club Event - Disclosure Project - Steven Greer - OUR OPINION](https://swaruu.org/transcripts/national-press-club-event-disclosure-project-steven-greer-our-opinion) (2023-06-18; en); passages p0022, p0023. [Structured record](../../records/src-c5c91a2194a4.json).
+
+### src-949028f4310f-c03
+
+Mari says a First Contact project used human technology only and provided no direct proof.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the United Federation of Planets views Earth, Part 2, Prime Directive. (English)](https://swaruu.org/transcripts/how-the-united-federation-of-planets-views-earth-part-2-prime-directive-english) (2023-03-18; en); passages p0022, p0023. [Structured record](../../records/src-949028f4310f.json).
+
+### src-949028f4310f-c04
+
+She argues the Federation restricts contact while also intervening in Earth affairs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [How the United Federation of Planets views Earth, Part 2, Prime Directive. (English)](https://swaruu.org/transcripts/how-the-united-federation-of-planets-views-earth-part-2-prime-directive-english) (2023-03-18; en); passages p0026, p0028, p0029, p0030. [Structured record](../../records/src-949028f4310f.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-949028f4310f-c05
+
+Mari says the Federation may act permissively because of humanity’s shadow and its capacity to manifest negative outcomes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [How the United Federation of Planets views Earth, Part 2, Prime Directive. (English)](https://swaruu.org/transcripts/how-the-united-federation-of-planets-views-earth-part-2-prime-directive-english) (2023-03-18; en); passages p0032. [Structured record](../../records/src-949028f4310f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-bdc3fb96c867-c02
+
+She identifies the Viera as an Andromedan Federation headquarters behind the Moon.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Antarctica, my present report. (English)](https://swaruu.org/transcripts/antarctica-my-present-report-english) (2023-02-20; en); passages p0006. [Structured record](../../records/src-bdc3fb96c867.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-bdc3fb96c867-c05
+
+Mari says underground Federation bases connect to global sites by high-speed magnetic trains.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Antarctica, my present report. (English)](https://swaruu.org/transcripts/antarctica-my-present-report-english) (2023-02-20; en); passages p0015, p0016, p0020, p0021. [Structured record](../../records/src-bdc3fb96c867.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-415d7d5b87e4-c01
+
+Mari says extraction may interrupt a person’s Earth learning experience. Personal metaphysics.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 2 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-2-english) (2023-07-19; en); passages p0008, p0009, p0012. [Structured record](../../records/src-415d7d5b87e4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-415d7d5b87e4-c02
+
+She says extraction decisions require a long cooling-off period.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 2 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-2-english) (2023-07-19; en); passages p0010. [Structured record](../../records/src-415d7d5b87e4.json).
+
+### src-415d7d5b87e4-c03
+
+Mari says extracts must assess crew resources, Federation rules, and the person’s needs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 2 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-2-english) (2023-07-19; en); passages p0015, p0016. [Structured record](../../records/src-415d7d5b87e4.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-415d7d5b87e4-c04
+
+She says extracted people cannot return to Earth.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 2 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-2-english) (2023-07-19; en); passages p0017, p0018. [Structured record](../../records/src-415d7d5b87e4.json).
+
+### src-075c8d444cc5-c04
+
+Athena says Incas arose after a flood in a region later used as a Federation base, from northern nomads and Pacific lowland migrants.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Cosmic Agency - MiniTopics - Crystal Skulls, Elon Musk, and more](https://swaruu.org/transcripts/cosmic-agency-minitopics-crystal-skulls-elon-musk-and-more) (2023-06-23; en); passages p0079, p0081, p0082. [Structured record](../../records/src-075c8d444cc5.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
+### src-f188068e31d4-c05
+
+She calls herself, Mari, and Ékatá nexus beings, rated 1/10 danger by Federation for altering realities.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Metaphysical Chat about Expansion of Souls - with Yazhi Swaruu](https://swaruu.org/transcripts/metaphysical-chat-about-expansion-of-souls-with-yazhi-swaruu) (2023-05-04; en); passages p0057. [Structured record](../../records/src-f188068e31d4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-daf200b4565a-c03
+
+Mari says governments may control disclosure narratives, validating official information while marginalizing independent researchers.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Disclosure nowadays, Part 2, going in deeper. (English)](https://swaruu.org/transcripts/disclosure-nowadays-part-2-going-in-deeper-english) (2023-06-25; en); passages p0015, p0016, p0017, p0019, p0020, p0021, p0022. [Structured record](../../records/src-daf200b4565a.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-daf200b4565a-c04
+
+Mari says official disclosure may frame extraterrestrials through existing religious narratives.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Disclosure nowadays, Part 2, going in deeper. (English)](https://swaruu.org/transcripts/disclosure-nowadays-part-2-going-in-deeper-english) (2023-06-25; en); passages p0018. [Structured record](../../records/src-daf200b4565a.json).
+
+### src-861b9bdec2b4-c01
+
+Mari says the Federation controls this quadrant and ultimately controls Earth’s orbit; she sees no current regressive invasion.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the Galactic Federation sees what happens on Earth, part 1 (English)](https://swaruu.org/transcripts/how-the-galactic-federation-sees-what-happens-on-earth-part-1-english) (2023-03-16; en); passages p0013, p0014, p0016, p0019. [Structured record](../../records/src-861b9bdec2b4.json).
+
+### src-861b9bdec2b4-c02
+
+Earth is in busy Federation space and appears on others’ navigation maps.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the Galactic Federation sees what happens on Earth, part 1 (English)](https://swaruu.org/transcripts/how-the-galactic-federation-sees-what-happens-on-earth-part-1-english) (2023-03-16; en); passages p0017, p0018. [Structured record](../../records/src-861b9bdec2b4.json).
+
+### src-861b9bdec2b4-c04
+
+Mari reports 900–1,000 kilometer-scale ships and thousands smaller in Earth orbit, with Viera as hub.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the Galactic Federation sees what happens on Earth, part 1 (English)](https://swaruu.org/transcripts/how-the-galactic-federation-sees-what-happens-on-earth-part-1-english) (2023-03-16; en); passages p0027, p0028, p0029, p0030. [Structured record](../../records/src-861b9bdec2b4.json).
+
+### src-99597b7d630f-c03
+
+She says Viera and Antarctic control approve flight plans, including abductions.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 1 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-1-english) (2023-07-15; en); passages p0009, p0010, p0011. [Structured record](../../records/src-99597b7d630f.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-ab22dfeea61d-c01
+
+Mari distinguishes a nonphysical Federation of expanded selves from the physical interstellar Federation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Light beings, Positive twist Part two, Galactic Federation Part 6. (English)](https://swaruu.org/transcripts/light-beings-positive-twist-part-two-galactic-federation-part-6-english) (2023-03-30; en); passages p0004, p0006, p0010. [Structured record](../../records/src-ab22dfeea61d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-112bba350567-c01
+
+Mari says First Contact ran roughly 2008–2016/17 to assess readiness for extraterrestrial disclosure.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Why was project first contact a failure?](https://swaruu.org/transcripts/why-was-project-first-contact-a-failure) (2023-04-09; en); passages p0002, p0003. [Structured record](../../records/src-112bba350567.json).
+
+### src-112bba350567-c06
+
+Mari calls the project flawed and its conclusion that humanity was unready for contact unreliable.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why was project first contact a failure?](https://swaruu.org/transcripts/why-was-project-first-contact-a-failure) (2023-04-09; en); passages p0002, p0021, p0022, p0023, p0025, p0026. [Structured record](../../records/src-112bba350567.json).
+
+### src-45ad229d6c12-c01
+
+Mari says Federation councils seek consensus through expert guidance, ethics, and logic rather than votes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation, UFoP, internal structure, Part 3, (English)](https://swaruu.org/transcripts/galactic-federation-ufop-internal-structure-part-3-english) (2023-03-22; en); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-45ad229d6c12.json).
+
+### src-45ad229d6c12-c02
+
+She describes tiered councils that escalate problems from local to planetary and higher levels.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation, UFoP, internal structure, Part 3, (English)](https://swaruu.org/transcripts/galactic-federation-ufop-internal-structure-part-3-english) (2023-03-22; en); passages p0002, p0006, p0007, p0008. [Structured record](../../records/src-45ad229d6c12.json).
+
+### src-45ad229d6c12-c03
+
+She places Earth’s smallest council underground in Antarctica, involving alien and human representatives.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Galactic Federation, UFoP, internal structure, Part 3, (English)](https://swaruu.org/transcripts/galactic-federation-ufop-internal-structure-part-3-english) (2023-03-22; en); passages p0002, p0009, p0010. [Structured record](../../records/src-45ad229d6c12.json).
+
+### src-45ad229d6c12-c05
+
+She locates a poorly documented Solar System High Council near Saturn and its moons.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Galactic Federation, UFoP, internal structure, Part 3, (English)](https://swaruu.org/transcripts/galactic-federation-ufop-internal-structure-part-3-english) (2023-03-22; en); passages p0002, p0017, p0018, p0022. [Structured record](../../records/src-45ad229d6c12.json).
+
+### src-45ad229d6c12-c06
+
+Mari says Federation reach is vast but its structure has serious shortcomings.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation, UFoP, internal structure, Part 3, (English)](https://swaruu.org/transcripts/galactic-federation-ufop-internal-structure-part-3-english) (2023-03-22; en); passages p0002, p0023, p0024, p0025, p0026. [Structured record](../../records/src-45ad229d6c12.json).
+
+### src-84aa212c93d4-c04
+
+She says Federation restrictions contain Earth’s culture and also constrain advanced souls incarnated there.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why no one can escape the Matrix. Part 2](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-part-2) (2023-04-07; en); passages p0002, p0012, p0013, p0016, p0017. [Structured record](../../records/src-84aa212c93d4.json).
+
+### src-785c8500af2e-c05
+
+She says Federation rules are inconsistently applied without regard to personal circumstances.
+
+Attributed to **Arien**; asserted; extraction confidence: high.
+
+Source: [What is a Human Being to you?](https://swaruu.org/transcripts/what-is-a-human-being-to-you) (2023-05-31; en); passages p0002, p0008, p0009. [Structured record](../../records/src-785c8500af2e.json).
+
+### src-605c7c509cae-c01
+
+Mari says Federation extractions are generally irreversible because returnees may lose identities and family ties.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 3 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-3-english) (2023-07-21; en); passages p0006, p0007. [Structured record](../../records/src-605c7c509cae.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-605c7c509cae-c04
+
+She says people in despair are not usually the best extraction candidates, though distress may justify exceptions.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 3 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-3-english) (2023-07-21; en); passages p0023. [Structured record](../../records/src-605c7c509cae.json).
+
+### src-3c59fb85976c-c01
+
+Mari says Earth-bound communications from space are routed through Federation hub Viera and the Internet.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the Galactic Federation views Earth, part 4, Restrictions](https://swaruu.org/transcripts/how-the-galactic-federation-views-earth-part-4-restrictions) (2023-03-24; en); passages p0008, p0009. [Structured record](../../records/src-3c59fb85976c.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-73847cacada2-c02
+
+She says she lived five years on Earth as a Step Down from a ship group monitoring humanity.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [New Channel Presentation (English)](https://swaruu.org/transcripts/new-channel-presentation-english) (2023-06-21; en); passages p0007, p0008. [Structured record](../../records/src-73847cacada2.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-d694d326d416-c03
+
+Athena says Federation races reportedly create adapted human variants for other planets. She lacks specific data.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [Hybridizations and DNA Changes - Migrations to New Planets - Athena Swaruu](https://swaruu.org/transcripts/hybridizations-and-dna-changes-migrations-to-new-planets-athena-swaruu) (2023-04-08; en); passages p0020, p0022, p0023. [Structured record](../../records/src-d694d326d416.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-c650263bc0eb-c05
+
+Mari claims Earth has been under Federation control for at least 12,500 years, concluding no new invasion will occur. She adds that Earth may already be invaded, depending on viewpoint.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extra-terrestrial Disclosure, a Warning (English)](https://swaruu.org/transcripts/extra-terrestrial-disclosure-a-warning-english) (2023-07-05; en); passages p0025. [Structured record](../../records/src-c650263bc0eb.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-291f1a9b28f5-c04
+
+Athena says her sources blame NATO forces for much Ukrainian destruction and civilian deaths.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ukraine - CIC Report 2 - Direct Experience and Conclusions](https://swaruu.org/transcripts/ukraine-cic-report-2-direct-experience-and-conclusions) (2023-03-12; en); passages p0004, p0005, p0011. [Structured record](../../records/src-291f1a9b28f5.json).
+
+### src-291f1a9b28f5-c05
+
+She characterizes the conflict as an internal Ukrainian war later used by NATO against Russia, which she says is not the aggressor.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ukraine - CIC Report 2 - Direct Experience and Conclusions](https://swaruu.org/transcripts/ukraine-cic-report-2-direct-experience-and-conclusions) (2023-03-12; en); passages p0005, p0014, p0024. [Structured record](../../records/src-291f1a9b28f5.json).
+
+### src-1afd7588a669-c03
+
+Athena says the Federation headquarters is an Andromedan biosphere ship orbiting Saturn in this timeline.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Earth - Why is it Important for the Extraterrestrials? Athena and Yazhi Swaruu](https://swaruu.org/transcripts/earth-why-is-it-important-for-the-extraterrestrials-athena-and-yazhi-swaruu) (2023-01-22; en); passages p0022, p0023, p0024, p0025, p0026. [Structured record](../../records/src-1afd7588a669.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-1afd7588a669-c04
+
+Athena says the Federation monitors Earth within vague limits and does not directly remove its problems.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Earth - Why is it Important for the Extraterrestrials? Athena and Yazhi Swaruu](https://swaruu.org/transcripts/earth-why-is-it-important-for-the-extraterrestrials-athena-and-yazhi-swaruu) (2023-01-22; en); passages p0027, p0028, p0029, p0030, p0032. [Structured record](../../records/src-1afd7588a669.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-4667fff63537-c03
+
+Swaruu 9 says Haumea hosts Federation gold mining; Eris’s emerging life is protected under strict landing protocols.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Neptune, Ceres, and other planets - Solar System - Swaruu of Erra](https://swaruu.org/transcripts/neptune-ceres-and-other-planets-solar-system-swaruu-of-erra) (2023-01-27; en); passages p0069, p0070. [Structured record](../../records/src-4667fff63537.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-0d12ea1793f5-c01
+
+Mari says the Federation treats Earth as an isolated school and playground for incarnates and visiting stellar races.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Money and the Galactic Federation. (English)](https://swaruu.org/transcripts/money-and-the-galactic-federation-english) (2023-05-15; en); passages p0003, p0005, p0006, p0008, p0009. [Structured record](../../records/src-0d12ea1793f5.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-88ba599fa614-c02
+
+Yazhi says the “Federation of Light” is a human narrative that could serve as controlled opposition.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Flying Objects - UFOs -Shot Down - Yazhi and Athena Swaruu´s Opinion](https://swaruu.org/transcripts/flying-objects-ufos-shot-down-yazhi-and-athena-swaruu-s-opinion) (2023-02-17; en); passages p0015, p0016, p0017, p0018, p0019, p0021. [Structured record](../../records/src-88ba599fa614.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-c147ae1148dd-c05
+
+Mari believes the Galactic Federation can reset a planet, while allowing natural cataclysms also occur.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
+
+Source: [Formation of a Matrix (English)](https://swaruu.org/transcripts/formation-of-a-matrix-english) (2023-04-14; en); passages p0027. [Structured record](../../records/src-c147ae1148dd.json).
+
+### src-3c70c40f1bbb-c01
+
+Mari says the Galactic Federation is a physical organization distinct from higher-plane light beings.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conclusions 01, Galactic Federation. (English)](https://swaruu.org/transcripts/conclusions-01-galactic-federation-english) (2023-04-05; en); passages p0004, p0011, p0012. [Structured record](../../records/src-3c70c40f1bbb.json).
+
+### src-3c70c40f1bbb-c02
+
+Mari says there is no space war or invading race near Earth, and no evidence of either.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conclusions 01, Galactic Federation. (English)](https://swaruu.org/transcripts/conclusions-01-galactic-federation-english) (2023-04-05; en); passages p0013. [Structured record](../../records/src-3c70c40f1bbb.json).
+
+### src-3c70c40f1bbb-c03
+
+Mari says Federation representatives bear direct responsibility for guiding Earth, despite claiming limited ability to help.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conclusions 01, Galactic Federation. (English)](https://swaruu.org/transcripts/conclusions-01-galactic-federation-english) (2023-04-05; en); passages p0008, p0009, p0010. [Structured record](../../records/src-3c70c40f1bbb.json).
+
+### src-3c70c40f1bbb-c05
+
+Mari calls Federation nonintervention amid restrictions on positive manifestation criminal negligence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conclusions 01, Galactic Federation. (English)](https://swaruu.org/transcripts/conclusions-01-galactic-federation-english) (2023-04-05; en); passages p0018, p0019, p0020. [Structured record](../../records/src-3c70c40f1bbb.json).
+
+### src-c06b74035df0-c01
+
+Yazhi says Viera traffic control reported no unusual arrivals, while Orion ships routinely pass near Earth. Gosia asks; Yazhi reports the Viera traffic-control response.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Orion Mothership entering Earth? NOTHING is happening - Yazhi Swaruu](https://swaruu.org/transcripts/orion-mothership-entering-earth-nothing-is-happening-yazhi-swaruu) (2023-02-16; en); passages p0003, p0004, p0005, p0007. [Structured record](../../records/src-c06b74035df0.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c02](urmah.md#src-a5811312e55c-c02) — Urmah
@@ -1407,6 +1863,48 @@ Related topics: [Holographic computers](holographic-computers.md).
 - [src-ee623e3e520c-c02](stellar-navigation.md#src-ee623e3e520c-c02) — Stellar navigation
 - [src-c9a55dfb135f-c05](alcyone-council.md#src-c9a55dfb135f-c05) — Alcyone Council
 - [src-165493b296b5-c04](muonic-galactic-ai-network.md#src-165493b296b5-c04) — Muonic galactic AI network
+- [src-304dba3fd59c-c05](prime-directive.md#src-304dba3fd59c-c05) — Prime Directive
+- [src-f5ca0eb522cb-c02](moon-matrix.md#src-f5ca0eb522cb-c02) — Moon and terrestrial Matrix
+- [src-949028f4310f-c01](prime-directive.md#src-949028f4310f-c01) — Prime Directive
+- [src-949028f4310f-c02](prime-directive.md#src-949028f4310f-c02) — Prime Directive
+- [src-bdc3fb96c867-c06](alien-species.md#src-bdc3fb96c867-c06) — Alien species and distinctions
+- [src-60e435f5d51b-c03](original-matrix.md#src-60e435f5d51b-c03) — Original Matrix
+- [src-415d7d5b87e4-c05](consciousness-metaphysics.md#src-415d7d5b87e4-c05) — Consciousness and metaphysics
+- [src-5e07dce47a23-c03](prime-directive.md#src-5e07dce47a23-c03) — Prime Directive
+- [src-a4878d75f400-c01](prime-directive.md#src-a4878d75f400-c01) — Prime Directive
+- [src-a4878d75f400-c02](prime-directive.md#src-a4878d75f400-c02) — Prime Directive
+- [src-a4878d75f400-c03](prime-directive.md#src-a4878d75f400-c03) — Prime Directive
+- [src-a4878d75f400-c04](prime-directive.md#src-a4878d75f400-c04) — Prime Directive
+- [src-a4878d75f400-c05](prime-directive.md#src-a4878d75f400-c05) — Prime Directive
+- [src-af0d62c105e6-c03](terrestrial-science.md#src-af0d62c105e6-c03) — Terrestrial science
+- [src-861b9bdec2b4-c03](alien-species.md#src-861b9bdec2b4-c03) — Alien species and distinctions
+- [src-99597b7d630f-c01](prime-directive.md#src-99597b7d630f-c01) — Prime Directive
+- [src-99597b7d630f-c04](prime-directive.md#src-99597b7d630f-c04) — Prime Directive
+- [src-5bc178cc541f-c03](alien-species.md#src-5bc178cc541f-c03) — Alien species and distinctions
+- [src-c0c392776fd0-c01](moon-matrix.md#src-c0c392776fd0-c01) — Moon and terrestrial Matrix
+- [src-3c59fb85976c-c02](prime-directive.md#src-3c59fb85976c-c02) — Prime Directive
+- [src-3c59fb85976c-c03](prime-directive.md#src-3c59fb85976c-c03) — Prime Directive
+- [src-3c59fb85976c-c05](prime-directive.md#src-3c59fb85976c-c05) — Prime Directive
+- [src-73847cacada2-c04](prime-directive.md#src-73847cacada2-c04) — Prime Directive
+- [src-73847cacada2-c05](holistic-society.md#src-73847cacada2-c05) — Holistic society
+- [src-c650263bc0eb-c03](earth-cabal.md#src-c650263bc0eb-c03) — Earth Cabal and power structures
+- [src-67a7fcd528f7-c03](moon-matrix.md#src-67a7fcd528f7-c03) — Moon and terrestrial Matrix
+- [src-1afd7588a669-c05](consciousness-metaphysics.md#src-1afd7588a669-c05) — Consciousness and metaphysics
+- [src-4667fff63537-c02](tiamat.md#src-4667fff63537-c02) — Tiamat
+- [src-f54c2949c1ea-c01](earth-cabal.md#src-f54c2949c1ea-c01) — Earth Cabal and power structures
+- [src-98431ca1f2e1-c01](earth-cabal.md#src-98431ca1f2e1-c01) — Earth Cabal and power structures
+- [src-0d12ea1793f5-c02](prime-directive.md#src-0d12ea1793f5-c02) — Prime Directive
+- [src-0d12ea1793f5-c03](economics.md#src-0d12ea1793f5-c03) — Economics and resources
+- [src-0d12ea1793f5-c04](economics.md#src-0d12ea1793f5-c04) — Economics and resources
+- [src-691d121eef5a-c03](moon-matrix.md#src-691d121eef5a-c03) — Moon and terrestrial Matrix
+- [src-691d121eef5a-c04](viera.md#src-691d121eef5a-c04) — Viera
+- [src-caf9efbd11f1-c05](alien-species.md#src-caf9efbd11f1-c05) — Alien species and distinctions
+- [src-03651da1738e-c04](etorthans.md#src-03651da1738e-c04) — Etorthans
+- [src-03651da1738e-c05](etorthans.md#src-03651da1738e-c05) — Etorthans
+- [src-025e108e3c83-c04](moon-matrix.md#src-025e108e3c83-c04) — Moon and terrestrial Matrix
+- [src-ac1ba0859491-c01](moon-matrix.md#src-ac1ba0859491-c01) — Moon and terrestrial Matrix
+- [src-ac1ba0859491-c05](moon-matrix.md#src-ac1ba0859491-c05) — Moon and terrestrial Matrix
+- [src-c06b74035df0-c02](alien-species.md#src-c06b74035df0-c02) — Alien species and distinctions
 
 ## Review flags
 
@@ -1423,10 +1921,13 @@ Related topics: [Holographic computers](holographic-computers.md).
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - blockade-and-biology-attributed
 - cern-portal-claim
+- claimed\_observation
 - competing\_attributions
+- conditional\_forecast
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
 - conspiracy\_claims
+- conspiracy\_claims\_unverified
 - contact\_censorship\_claims\_unverified
 - contested\_extraterrestrial\_history
 - contested\_historical\_claims
@@ -1443,32 +1944,43 @@ Related topics: [Holographic computers](holographic-computers.md).
 - density-model-metaphorical
 - diet\_claim\_omitted
 - directive-rules-not-in-transcript
+- disclosure\_claims\_unverified
 - earth-consciousness\_claim\_omitted
 - earth-population-claims
 - extraordinary\_ai\_claims
 - extraordinary\_astronomical\_claims
+- extraordinary\_biological\_claims
 - extraordinary\_civilization\_claims
 - extraordinary\_claims
 - extraordinary\_conflict\_claims
 - extraordinary\_exopolitical\_claims
 - extraordinary\_extraction\_claims
+- extraordinary\_metaphysical\_claims
 - faction\_claims
 - factional-perspective-difference
 - factional\_viewpoint\_conflict
+- false-invasion-not-prediction
+- federation\_control\_claims\_unverified
+- frequency\_health\_claims\_unverified
 - health-claims-unverified
 - health-conspiracy-claims
 - historical-claims-uncorroborated
+- historical-claims-unverified
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - internal\_revision
 - internal\_tension
+- internal\_uncertainty
 - intervention\_tension
 - logo\_identity\_claim\_unverified
+- lunar-reactor-age-origin-uncertainty
+- maitre\_claims\_conflicting\_and\_uncertain
 - medical-misinformation-claims
 - medical-misinformation: pandemic, testing, and vaccine claims
 - medical-misinformation: virus, vaccine, and nanopowder claims
+- medical\_claims
 - medical\_claims\_omitted
 - medical\_claims\_unverified
 - metaphysical-claims
@@ -1480,9 +1992,16 @@ Related topics: [Holographic computers](holographic-computers.md).
 - personal\_accusations
 - personal\_metaphysics
 - personal\_social\_theory
+- political-allegation
+- political-structure-unverified
 - political\_claims
+- politically\_contested
+- related\_series\_part
+- saturn-council-uncertainty
+- scenario-not-prediction
 - second\_hand\_claims
 - self-reported-traits
+- self\_description
 - speaker-attribution-swaruu-x-athena
 - speaker-split: Gosia reflection; Anéeka statement at p0050-p0054
 - speaker: interviewer prompts excluded as claims
@@ -1496,10 +2015,20 @@ Related topics: [Holographic computers](holographic-computers.md).
 - unverified-cabinet-claims
 - unverified-technology-claims
 - unverified\_agency\_claims
+- unverified\_antarctica\_claims
+- unverified\_archaeology
+- unverified\_biological\_claims
 - unverified\_cosmology\_and\_technology
 - unverified\_disinformation\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_extraterrestrial\_threat\_claims
 - unverified\_geopolitical\_claims
+- unverified\_lunar\_claims
+- unverified\_lunar\_technology
 - unverified\_medical\_claims
+- unverified\_metaphysical\_claims
 - unverified\_mind\_control\_claims
+- unverified\_paranormal\_claims
+- unverified\_political\_claims
+- unverified\_public\_figure\_claims
+- unverified\_source\_claims

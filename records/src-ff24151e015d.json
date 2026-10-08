@@ -1,0 +1,106 @@
+{
+  "source_id": "src-ff24151e015d",
+  "snapshot_sha256": "db871c6f0513e95d2aeba9b562e1e68b1e2d486241f35d6986e184e45a5953d4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ff24151e015d-c01",
+      "assertion": "Mari calls alcohol a drug that can impair judgment and damage relationships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed health claims."
+    },
+    {
+      "id": "src-ff24151e015d-c02",
+      "assertion": "She says alcohol first disrupts higher cognitive and spiritual functions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal model."
+    },
+    {
+      "id": "src-ff24151e015d-c03",
+      "assertion": "Mari claims heavy drinking may increase vulnerability to lower-astral entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified paranormal claim."
+    },
+    {
+      "id": "src-ff24151e015d-c04",
+      "assertion": "She warns that alcohol and other drugs can reduce personal control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0021",
+        "p0028",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed substance-use claims."
+    },
+    {
+      "id": "src-ff24151e015d-c05",
+      "assertion": "Mari recommends avoiding alcohol and choosing other activities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_health_claims",
+    "unverified_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "specific_neurological_effects"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "src-8273e7acbf53",
+  "snapshot_sha256": "a32a5ed22a40064e21df57865f1dc08e9a106afb421edd1d31a6eed58f9b2d30",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8273e7acbf53-c01",
+      "assertion": "Swaruu says her Suzy-class ship had apartment-like interior and she used seawater filtration.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8273e7acbf53-c02",
+      "assertion": "Anéeka says a ship lost artificial gravity in sections despite quadruple redundancy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0044",
+        "p0045",
+        "p0048"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8273e7acbf53-c03",
+      "assertion": "She says Urmah surgery used a medical hologram, while a pod could not remove embedded metal.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050",
+        "p0051",
+        "p0053",
+        "p0054",
+        "p0055"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8273e7acbf53-c04",
+      "assertion": "Aneeka says four crew repaired a hull crack using layered metal-seeding paste during EVA.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0071",
+        "p0073",
+        "p0078",
+        "p0087",
+        "p0094",
+        "p0095",
+        "p0096"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8273e7acbf53-c05",
+      "assertion": "She describes Toleka interior as modular, replaceable with prefabricated sections.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0098",
+        "p0099",
+        "p0100",
+        "p0101"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "ship-maintenance",
+    "medical-technology",
+    "emergency-survival"
+  ]
+}

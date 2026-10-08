@@ -1,0 +1,104 @@
+{
+  "source_id": "src-05bc76d7a723",
+  "snapshot_sha256": "20e604f6593260892910f2b255e1a76d6bee43e002dae2f77b2320f48b27193c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-05bc76d7a723-c01",
+      "assertion": "Mari argues ascension is a state of being rather than travel to a new place.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05bc76d7a723-c02",
+      "assertion": "She warns that promised ascension can encourage passive waiting and distract from personal change.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010",
+        "p0012",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05bc76d7a723-c03",
+      "assertion": "She says a collective shift depends on enough people changing awareness and behavior.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05bc76d7a723-c04",
+      "assertion": "She interprets “New Earth” as metaphysical divergence, not physical planetary splitting.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05bc76d7a723-c05",
+      "assertion": "She says each person inhabits a distinct existential realm that can be shared by agreement.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "ascension-model",
+    "new-earth"
+  ]
+}

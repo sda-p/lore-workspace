@@ -1,0 +1,104 @@
+{
+  "source_id": "src-3c54f1ef569a",
+  "snapshot_sha256": "c9bbe7c763d857d47fd7ebf070ce2ccc7260cd92a7eb42259643c33e8ea839f7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3c54f1ef569a-c01",
+      "assertion": "Anéeka says Homo Capensis or Elohi came from Asterope, are distant Lyrian relatives, and had protective elongated skulls without greater intelligence.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0024",
+        "p0029",
+        "p0056"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c54f1ef569a-c02",
+      "assertion": "She says post-Tiamat Federation and M45 arrivals aided pre-dynastic Egypt, with a Giza Federation spaceport by 12,500 BCE.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c54f1ef569a-c03",
+      "assertion": "Swaruu says Akhenaten and Nefertiti imposed solar monotheism, provoking revolt and expulsion under Ramses II.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0012",
+        "p0016"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c54f1ef569a-c04",
+      "assertion": "Anéeka says Homo Capensis groups hide in underground bases and have treaties with Reptilians.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c54f1ef569a-c05",
+      "assertion": "Yazhi says Hayu Marca was a ley-line portal used by Elohi, probably built by them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0046",
+        "p0048"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "post-Egyptian migrations",
+    "human genetic claims"
+  ]
+}

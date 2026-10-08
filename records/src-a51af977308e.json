@@ -1,0 +1,98 @@
+{
+  "source_id": "src-a51af977308e",
+  "snapshot_sha256": "9c2dd4914be947447600875c01ed13d95b40f55bb1b1001de9c3d9abbc609098",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a51af977308e-c01",
+      "assertion": "Mari says full immersion reconstructs a remote environment at molecular detail and renders the user there holographically.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a51af977308e-c02",
+      "assertion": "Mari says Toleka City’s tall buildings collect atmospheric electricity through air-ground charge differences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a51af977308e-c03",
+      "assertion": "Mari says forest-integrated streets and obstructed hangars impeded travel and rescue during the hurricane.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0016",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a51af977308e-c04",
+      "assertion": "Mari describes an interplanetary city starport and a 25-kilometer orbital station for interstellar ships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a51af977308e-c05",
+      "assertion": "Mari reports no evidence the hurricane was artificial and describes it as a natural severe weather event.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0033"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "storm casualties and reconstruction orders"
+  ]
+}

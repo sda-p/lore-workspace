@@ -1,0 +1,134 @@
+{
+  "source_id": "src-d38969723252",
+  "snapshot_sha256": "919c09111c5c849a6eb35968e7789213ac5b4bbf65bc20bfca0d2647a049b7a4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d38969723252-c01",
+      "assertion": "Yazhi links worldwide dragon imagery to Alpha Draco ships and contact.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0009",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d38969723252-c02",
+      "assertion": "She says Alpha Dracos sometimes cooperated with humans, sometimes enslaved them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d38969723252-c03",
+      "assertion": "She distinguishes present positive Alpha Dracos from other groups.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d38969723252-c04",
+      "assertion": "She speculates Alpha Dracos brought animal-like dragons to Earth before Tiamat.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d38969723252-c05",
+      "assertion": "Yazhi says Taygetan is said to have evolved from ancient Solatian, itself in a Lyrian language branch.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d38969723252-c06",
+      "assertion": "She describes Taygetan speech as contextual, non-linear, and telepathically conveyed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d38969723252-c07",
+      "assertion": "She says Taygetan writing marks fixed word meanings and runs vertically, then rightward.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "historical-claims-unverified",
+    "translation-equivalence-review"
+  ],
+  "coverage_gaps": [
+    "alpha-draco-contact",
+    "dragon-traditions",
+    "taygetan-linguistics"
+  ]
+}

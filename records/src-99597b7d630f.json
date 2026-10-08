@@ -1,0 +1,121 @@
+{
+  "source_id": "src-99597b7d630f",
+  "snapshot_sha256": "cfd620428ae5bc7b506abb20519162d2aa2cfd10e3fc6f7dffeaf960f1aacf1d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-99597b7d630f-c01",
+      "assertion": "Mari defines extraction as prearranged, informed removal; abduction takes subjects against their will.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-99597b7d630f-c02",
+      "assertion": "She says ships coordinate extraction times and locations, then land to receive people or vehicles.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-99597b7d630f-c03",
+      "assertion": "She says Viera and Antarctic control approve flight plans, including abductions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-99597b7d630f-c04",
+      "assertion": "Federation rules require mutual consent, prior contact, no dependents left behind, and no nonnative life introduced.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-99597b7d630f-c05",
+      "assertion": "Mari says extraction usually concerns fully incarnated starseeds; immersion-pod users can return technologically.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-99597b7d630f-c06",
+      "assertion": "Mari says shipboard life can become claustrophobic, so crews and newcomers must be selected carefully.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "abduction_variants"
+  ]
+}

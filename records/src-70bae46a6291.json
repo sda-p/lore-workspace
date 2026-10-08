@@ -1,0 +1,117 @@
+{
+  "source_id": "src-70bae46a6291",
+  "snapshot_sha256": "aa76e4bab46006fee75f2a283db5ebc24a81dd977b9be1e86c72614789197bf6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-70bae46a6291-c01",
+      "assertion": "Anéeka says the Federation warned her to stop disclosures as Prime Directive violations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70bae46a6291-c02",
+      "assertion": "She says timeline changes had divided the crew into two groups.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70bae46a6291-c03",
+      "assertion": "Athena says Taygeta communication uses muons, but time differences hinder scheduling.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0196",
+        "p0198"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70bae46a6291-c04",
+      "assertion": "Anéeka says resupply arrives bimonthly; a Temmer visit lasts about two local weeks.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0229",
+        "p0231",
+        "p0233",
+        "p0235"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70bae46a6291-c05",
+      "assertion": "Yazhi says Raguel stepped down as Hashmallim leader during Anéeka’s decline.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0252",
+        "p0253",
+        "p0254"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70bae46a6291-c06",
+      "assertion": "Yazhi says Anéeka was unconscious in a dry medical pod pending stabilization.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0256",
+        "p0259",
+        "p0260"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "health-details",
+    "crew-politics"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_id": "src-c35bd2ccba2f",
+  "snapshot_sha256": "fbd445d5bca5f6d4094e0ae6214e06fe538ba47dbb6ed0cc2773ae18cd9a902d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c35bd2ccba2f-c01",
+      "assertion": "Mari describes astral planes as containing disincarnate people, entities, animals, and egregors.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c35bd2ccba2f-c02",
+      "assertion": "She alleges secret military units conduct operations in the lower astral.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c35bd2ccba2f-c03",
+      "assertion": "Mari says starseeds perform covert missions through astral projection under Federation nonintervention rules.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c35bd2ccba2f-c04",
+      "assertion": "She says some starseeds may not remember astral missions and may mistake them for dreams.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c35bd2ccba2f-c05",
+      "assertion": "Mari says immersion pods can tune a person’s mind to astral realms or another body.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims",
+    "unverified_military_claims"
+  ],
+  "coverage_gaps": [
+    "reported_fatigue_symptoms"
+  ]
+}

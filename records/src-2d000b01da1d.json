@@ -1,0 +1,110 @@
+{
+  "source_id": "src-2d000b01da1d",
+  "snapshot_sha256": "0f23f7ccff681b780f8744fa1719c2e7d2c3df51e24f50e9c29d7e248867a988",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2d000b01da1d-c01",
+      "assertion": "Mari says religions shape collective beliefs and can reinforce an Earth Matrix.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0013"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d000b01da1d-c02",
+      "assertion": "She says belief systems persist after death and shape lower-astral experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d000b01da1d-c03",
+      "assertion": "She says religious commands may affect entities who believe in those systems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d000b01da1d-c04",
+      "assertion": "She says such rites may fail against entities without matching beliefs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d000b01da1d-c05",
+      "assertion": "She describes the lower astral as a less linear realm where manifestation occurs faster.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "religion-and-matrix",
+    "lower-astral"
+  ]
+}

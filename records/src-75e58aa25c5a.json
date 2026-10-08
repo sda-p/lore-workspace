@@ -1,0 +1,107 @@
+{
+  "source_id": "src-75e58aa25c5a",
+  "snapshot_sha256": "07cbe23a1debd837f0cf49d940955f239276bb6b78ec3de9f3b758e0a201e645",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-75e58aa25c5a-c01",
+      "assertion": "Arishah says Urmah remain near Earth because they suspect Federation mismanagement and protect their starseeds.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0003",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-75e58aa25c5a-c02",
+      "assertion": "He says Ruhr rules remotely while the Urmah High Council manages home affairs.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0003",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-75e58aa25c5a-c03",
+      "assertion": "He describes Urmah-Federation relations as tense, with Urmah resisting directives.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0003",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-75e58aa25c5a-c04",
+      "assertion": "He says Urmah favor diplomacy but use decisive force when treaties or worlds are threatened.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0003",
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-75e58aa25c5a-c05",
+      "assertion": "He suspects false invasion plans may be a last-resort Cabal strategy, but says details are uncertain.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0003",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "urmah-federation-relations",
+    "royal-command",
+    "false-invasion"
+  ]
+}

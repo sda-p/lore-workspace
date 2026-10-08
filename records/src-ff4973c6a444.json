@@ -1,0 +1,130 @@
+{
+  "source_id": "src-ff4973c6a444",
+  "snapshot_sha256": "31b570c9ee0c6f1e7d0fee511ca58f4358a6b1cd9a26061dc2bdd28e46b2cb5f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ff4973c6a444-c01",
+      "assertion": "Mari reports 900 cadets training for Project Second Contact.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff4973c6a444-c02",
+      "assertion": "Mari reports Alenym stable in a wet pod and expected to recover.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff4973c6a444-c03",
+      "assertion": "Mari says Gori’el’s team represented Taygeta at Federation meetings about Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff4973c6a444-c04",
+      "assertion": "Mari reports a cyclone damaged Toleka homes, transit, shipyards, and spaceport.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff4973c6a444-c05",
+      "assertion": "Mari describes Temmer as tropical, stable, mostly ocean-covered, with 0.8 Earth gravity and rare severe cyclones.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff4973c6a444-c06",
+      "assertion": "Mari says climate-altering technology is reserved for emergencies and failed against this fast-forming cyclone.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff4973c6a444-c07",
+      "assertion": "Mari’s allegory implies aircraft disperse harmful substances over Earth; meaning is unclear.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "p0024–p0026 use an oblique coded allegory; interpretation is uncertain"
+  ],
+  "coverage_gaps": [
+    "storm aftermath details",
+    "alleged aerial substances"
+  ]
+}

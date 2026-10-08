@@ -1,0 +1,78 @@
+{
+  "source_id": "src-f5b8fb188253",
+  "snapshot_sha256": "e5dca533b58299043d7aeddd9ff3d055dda7fa94b758dc7a22388eba3ef35080",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f5b8fb188253-c01",
+      "assertion": "Za’el says improving oneself begins by locating, understanding and accepting personal shadows, then judging what can be changed.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5b8fb188253-c02",
+      "assertion": "Za’el recommends objectivity and self-understanding to learn from mistakes without excusing them, then release remorse.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5b8fb188253-c03",
+      "assertion": "Za’el says self-work enables better help for others, but only people willing to cooperate can be helped.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5b8fb188253-c04",
+      "assertion": "Za’el advises discernment and self-protection when revealing oneself, while keeping dignity and respect.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

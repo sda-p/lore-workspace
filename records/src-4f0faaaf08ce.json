@@ -1,0 +1,97 @@
+{
+  "source_id": "src-4f0faaaf08ce",
+  "snapshot_sha256": "f080a30bac2592657f2c28e09e3bd87d69884ea00fca9d303128ac1fbaf43324",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4f0faaaf08ce-c01",
+      "assertion": "Gosia says starseeds may serve many purposes beyond witnessing disclosure or Matrix collapse.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f0faaaf08ce-c02",
+      "assertion": "She doubts Earth’s Matrix will fall in her lifetime, if ever.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0007"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f0faaaf08ce-c03",
+      "assertion": "She describes starseeds as helping prevent more oppressive human conditions through their presence and actions.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f0faaaf08ce-c04",
+      "assertion": "She links Earth’s conflict to an extension of ancient Orion wars.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0011"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f0faaaf08ce-c05",
+      "assertion": "She says starseeds are not responsible for saving humanity.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "starseed-purpose",
+    "earth-matrix",
+    "orion-conflict"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "src-3182af03be61",
+  "snapshot_sha256": "d11f7885c8b169fb0774f86d694dff5129e35d0aeb87231b83622515c54f2919",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3182af03be61-c01",
+      "assertion": "Mari says Taygetan electric vehicles are free and produced by enthusiasts in a society without money.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3182af03be61-c02",
+      "assertion": "Mari says a global wireless grid supplies Taygetan vehicles, with onboard Zero Point reactors as backup.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "taygetan-wireless-power-grid",
+      "topics": [
+        "taygetan-wireless-power-grid",
+        "taygetans",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3182af03be61-c03",
+      "assertion": "Mari says Taygetan road vehicles serve short trips; air travel and magnetic trains link towns.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0021"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3182af03be61-c04",
+      "assertion": "Mari says magnetic bearings reduce vehicle wear and tires use self-healing materials.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3182af03be61-c05",
+      "assertion": "Mari says Earth electric vehicles can enable remote control and reduce human autonomy.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is Mari’s opinion and allegation."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-wireless-power-grid",
+      "name": "Taygetan wireless power grid",
+      "kind": "technology",
+      "aliases": [
+        "wireless electricity towers",
+        "planetary wireless grid"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

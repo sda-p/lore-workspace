@@ -1206,6 +1206,380 @@ Attributed to **Swaruu (9)**; reported; extraction confidence: high.
 
 Source: [Magnetosphere and Van Allen Bands - Short Chat with Swaruu of Erra](https://swaruu.org/transcripts/magnetosphere-and-van-allen-bands-short-chat-with-swaruu-of-erra) (2022-06-15; en); passages p0013, p0014. [Structured record](../../records/src-9dba344806dc.json).
 
+### src-d98ff6da8694-c03
+
+She says DNA readings require reference data and reveal salient memories. Unverified technology claim.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [DNA - Record of Who We Are - Extraterrestrial Perspective - Yazhi Swaruu](https://swaruu.org/transcripts/dna-record-of-who-we-are-extraterrestrial-perspective-yazhi-swaruu) (2023-03-23; en); passages p0068, p0070, p0072, p0094, p0096. [Structured record](../../records/src-d98ff6da8694.json).
+
+### src-d98ff6da8694-c04
+
+She says DNA can indicate frequency compatibility, not ancestry.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [DNA - Record of Who We Are - Extraterrestrial Perspective - Yazhi Swaruu](https://swaruu.org/transcripts/dna-record-of-who-we-are-extraterrestrial-perspective-yazhi-swaruu) (2023-03-23; en); passages p0142, p0144, p0148, p0150. [Structured record](../../records/src-d98ff6da8694.json).
+
+### src-d77a17203f16-c01
+
+Athena says the report draws on observation and anonymous sources.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [War in Ukraine - Analysis - Taygetan Intelligence Conclusions](https://swaruu.org/transcripts/war-in-ukraine-analysis-taygetan-intelligence-conclusions) (2023-03-07; en); passages p0003, p0004. [Structured record](../../records/src-d77a17203f16.json).
+
+### src-d77a17203f16-c03
+
+She says 2022 ceasefire talks failed amid Western support for Ukraine.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [War in Ukraine - Analysis - Taygetan Intelligence Conclusions](https://swaruu.org/transcripts/war-in-ukraine-analysis-taygetan-intelligence-conclusions) (2023-03-07; en); passages p0006, p0007, p0014. [Structured record](../../records/src-d77a17203f16.json).
+
+### src-d77a17203f16-c04
+
+She cites Ukrainian population-loss estimates of 30–45%. Source gives differing estimates.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [War in Ukraine - Analysis - Taygetan Intelligence Conclusions](https://swaruu.org/transcripts/war-in-ukraine-analysis-taygetan-intelligence-conclusions) (2023-03-07; en); passages p0012, p0017. [Structured record](../../records/src-d77a17203f16.json).
+
+### src-d77a17203f16-c06
+
+She sees no winner, but says Russia has military supremacy and strength limits escalation.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [War in Ukraine - Analysis - Taygetan Intelligence Conclusions](https://swaruu.org/transcripts/war-in-ukraine-analysis-taygetan-intelligence-conclusions) (2023-03-07; en); passages p0022, p0041, p0043. [Structured record](../../records/src-d77a17203f16.json).
+
+### src-15ba6ed0a80c-c03
+
+Anéeka dates the extraterrestrial structure to 12,000 years and links Machu Picchu to Atlantis.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Aneeka of Temmer - Puma Punku, Machu Picchu and more - Extraterrestrial Bases](https://swaruu.org/transcripts/aneeka-of-temmer-puma-punku-machu-picchu-and-more-extraterrestrial-bases) (2023-04-18; en); passages p0012, p0014, p0016. [Structured record](../../records/src-15ba6ed0a80c.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
+### src-03f8a28bbf76-c01
+
+Yazhi says Earth is roughly spherical and rejects flat-Earth models as deliberate confusion.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UFO Disclosures this year? Questions for the Interview with AJ Roberts](https://swaruu.org/transcripts/ufo-disclosures-this-year-questions-for-the-interview-with-aj-roberts) (2023-06-05; en); passages p0005, p0007, p0009. [Structured record](../../records/src-03f8a28bbf76.json).
+
+### src-da5b68843247-c04
+
+He says starseeds cluster in Sedona, parts of Latin America, South Asia, and Buenos Aires.
+
+Attributed to **Sav’el**; asserted; extraction confidence: high.
+
+Source: [Starseeds - What Influence do they Have? Taygetan Pleiadian Study](https://swaruu.org/transcripts/starseeds-what-influence-do-they-have-taygetan-pleiadian-study) (2023-05-25; en); passages p0037, p0038, p0039, p0041. [Structured record](../../records/src-da5b68843247.json).
+
+### src-088d6cb688a5-c04
+
+She says interferometers can measure frequency fields, but interpretation gives measurements meaning.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Frequencies, Consciousness States, Vibration - Chat with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/frequencies-consciousness-states-vibration-chat-with-sophia-swaruu-yazhi) (2023-06-15; en); passages p0045, p0047, p0049. [Structured record](../../records/src-088d6cb688a5.json).
+
+### src-32665478a6c1-c03
+
+Mari says memory exists in the ether and reaches the body through neurons and DNA. Unverified biological claim.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star seeds, light workers, and woken people’s problems, part 1 (English)](https://swaruu.org/transcripts/star-seeds-light-workers-and-woken-people-s-problems-part-1-english) (2023-05-28; en); passages p0013. [Structured record](../../records/src-32665478a6c1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-bdc3fb96c867-c01
+
+Mari reports observing 25–50 spacecraft daily entering Antarctica along organized routes. Claimed orbital observation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Antarctica, my present report. (English)](https://swaruu.org/transcripts/antarctica-my-present-report-english) (2023-02-20; en); passages p0004, p0005. [Structured record](../../records/src-bdc3fb96c867.json).
+
+### src-bdc3fb96c867-c03
+
+Mari reports military aircraft and cooperating warships from multiple nations near Antarctica.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Antarctica, my present report. (English)](https://swaruu.org/transcripts/antarctica-my-present-report-english) (2023-02-20; en); passages p0007, p0008, p0009, p0010. [Structured record](../../records/src-bdc3fb96c867.json).
+
+### src-bdc3fb96c867-c04
+
+She says inland Antarctica has a wall, vegetation, and an inner-Earth entrance.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Antarctica, my present report. (English)](https://swaruu.org/transcripts/antarctica-my-present-report-english) (2023-02-20; en); passages p0012, p0013. [Structured record](../../records/src-bdc3fb96c867.json).
+
+### src-cb796b9370e8-c02
+
+Yazhi says Earth cannot hold a large natural moon; Phobos and Deimos are hollow artificial rocks.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Mini Topics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-mini-topics-with-gosia-cosmic-agency) (2023-02-15; en); passages p0016, p0017, p0019. [Structured record](../../records/src-cb796b9370e8.json).
+
+### src-075c8d444cc5-c01
+
+Yazhi endorses frequency-related health effects but cannot corroborate claimed MHz thresholds.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Cosmic Agency - MiniTopics - Crystal Skulls, Elon Musk, and more](https://swaruu.org/transcripts/cosmic-agency-minitopics-crystal-skulls-elon-musk-and-more) (2023-06-23; en); passages p0003, p0004. [Structured record](../../records/src-075c8d444cc5.json).
+
+### src-075c8d444cc5-c02
+
+Yazhi says 432 Hz harmonizes body and thoughts; she claims 440 Hz tuning blocked those benefits.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Cosmic Agency - MiniTopics - Crystal Skulls, Elon Musk, and more](https://swaruu.org/transcripts/cosmic-agency-minitopics-crystal-skulls-elon-musk-and-more) (2023-06-23; en); passages p0006, p0007, p0008. [Structured record](../../records/src-075c8d444cc5.json).
+
+### src-af0d62c105e6-c01
+
+Mari says dogma discourages questioning and can make dissent socially risky.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The problem with science on Earth. (English)](https://swaruu.org/transcripts/the-problem-with-science-on-earth-english) (2023-01-30; en); passages p0003, p0004, p0011, p0012. [Structured record](../../records/src-af0d62c105e6.json).
+
+### src-af0d62c105e6-c03
+
+Mari alleges public science is dogmatic while controllers possess more advanced science with off-world cooperation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The problem with science on Earth. (English)](https://swaruu.org/transcripts/the-problem-with-science-on-earth-english) (2023-01-30; en); passages p0034, p0035, p0036. [Structured record](../../records/src-af0d62c105e6.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-af0d62c105e6-c04
+
+Mari says internet information overload obscures truth and pushes people toward official sources.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The problem with science on Earth. (English)](https://swaruu.org/transcripts/the-problem-with-science-on-earth-english) (2023-01-30; en); passages p0037, p0038, p0039. [Structured record](../../records/src-af0d62c105e6.json).
+
+### src-af0d62c105e6-c05
+
+Mari advocates open-minded inquiry and replacing ideas when better information appears.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The problem with science on Earth. (English)](https://swaruu.org/transcripts/the-problem-with-science-on-earth-english) (2023-01-30; en); passages p0013, p0048, p0049. [Structured record](../../records/src-af0d62c105e6.json).
+
+### src-2125b87df068-c01
+
+Swaruu 9 says some dinosaur-like species existed, but famous large taxa were inventions.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Dinosaurs - Existed? What does the Taygetan Pleiadian team state?](https://swaruu.org/transcripts/dinosaurs-existed-what-does-the-taygetan-pleiadian-team-state) (2023-05-19; en); passages p0003, p0004. [Structured record](../../records/src-2125b87df068.json).
+
+### src-2125b87df068-c02
+
+She says dinosaur skeletons are incomplete or assembled from plaster and other animals’ bones.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Dinosaurs - Existed? What does the Taygetan Pleiadian team state?](https://swaruu.org/transcripts/dinosaurs-existed-what-does-the-taygetan-pleiadian-team-state) (2023-05-19; en); passages p0006, p0007, p0008. [Structured record](../../records/src-2125b87df068.json).
+
+### src-2125b87df068-c04
+
+She says famous giant dinosaurs were implausible at Earth gravity and may be 19th-century fabrications.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Dinosaurs - Existed? What does the Taygetan Pleiadian team state?](https://swaruu.org/transcripts/dinosaurs-existed-what-does-the-taygetan-pleiadian-team-state) (2023-05-19; en); passages p0021, p0022, p0029. [Structured record](../../records/src-2125b87df068.json).
+
+### src-2125b87df068-c05
+
+Yazhi says available methods cannot reliably date periods such as the Jurassic.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Dinosaurs - Existed? What does the Taygetan Pleiadian team state?](https://swaruu.org/transcripts/dinosaurs-existed-what-does-the-taygetan-pleiadian-team-state) (2023-05-19; en); passages p0025, p0026, p0027, p0028. [Structured record](../../records/src-2125b87df068.json).
+
+### src-d83f04b7ade0-c02
+
+She says costly battery replacements leave EVs abandoned and can contaminate soil.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Electric Vehicles on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-on-earth-english) (2023-03-26; en); passages p0008. [Structured record](../../records/src-d83f04b7ade0.json).
+
+### src-d83f04b7ade0-c05
+
+Mari says EV battery fires are difficult to extinguish and may reignite weeks or months later.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Electric Vehicles on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-on-earth-english) (2023-03-26; en); passages p0018, p0019, p0020. [Structured record](../../records/src-d83f04b7ade0.json).
+
+### src-103854c694ff-c05
+
+She attributes the classification dispute to differences between human and Federation definitions.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Pluto and why it was degraded to Planetoid - Swaruu of Erra](https://swaruu.org/transcripts/pluto-and-why-it-was-degraded-to-planetoid-swaruu-of-erra) (2023-01-30; en); passages p0004, p0005, p0007. [Structured record](../../records/src-103854c694ff.json).
+
+### src-a3f086f2cc35-c01
+
+Mari says Za’el and Arien recovered a hacked YouTube channel after Google restored it.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Za'el and Swaruu Official channel updates ( English)](https://swaruu.org/transcripts/za-el-and-swaruu-official-channel-updates-english) (2023-05-20; en); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-a3f086f2cc35.json).
+
+### src-a3f086f2cc35-c02
+
+She says her own channel uses heightened security and planned to host backup videos.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Za'el and Swaruu Official channel updates ( English)](https://swaruu.org/transcripts/za-el-and-swaruu-official-channel-updates-english) (2023-05-20; en); passages p0002, p0006, p0007. [Structured record](../../records/src-a3f086f2cc35.json).
+
+### src-a3f086f2cc35-c03
+
+Za’el and Arien say they planned to resume broadcasts after the channel takeover.
+
+Attributed to **Za´el**; reported; extraction confidence: high.
+
+Source: [Za'el and Swaruu Official channel updates ( English)](https://swaruu.org/transcripts/za-el-and-swaruu-official-channel-updates-english) (2023-05-20; en); passages p0013, p0014, p0015. [Structured record](../../records/src-a3f086f2cc35.json).
+
+### src-fead5e292474-c04
+
+She describes antimatter as normal matter with reversed charge values that annihilates on contact.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Dark Matter and AntiMatter - Extraterrestrial Information - Yazhi Swaruu](https://swaruu.org/transcripts/dark-matter-and-antimatter-extraterrestrial-information-yazhi-swaruu) (2023-08-07; en); passages p0029, p0030, p0031, p0033. [Structured record](../../records/src-fead5e292474.json).
+
+### src-d694d326d416-c05
+
+Athena says Earth’s atmosphere and gravity challenge Lyrian bodies, while Temmer needs no adaptation.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [Hybridizations and DNA Changes - Migrations to New Planets - Athena Swaruu](https://swaruu.org/transcripts/hybridizations-and-dna-changes-migrations-to-new-planets-athena-swaruu) (2023-04-08; en); passages p0041, p0042, p0049. [Structured record](../../records/src-d694d326d416.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-2f12809b9b4a-c04
+
+She likens this energy flow to heat moving from higher-energy objects to lower-energy surroundings.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseeds, problems, part 2, Frequency Incompatibility. (English)](https://swaruu.org/transcripts/starseeds-problems-part-2-frequency-incompatibility-english) (2023-05-30; en); passages p0019, p0020. [Structured record](../../records/src-2f12809b9b4a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-45bf0b5b3192-c02
+
+She attributes increased postwar sightings to World War II and expanding global communications.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The problem with UFO researchers. (English)](https://swaruu.org/transcripts/the-problem-with-ufo-researchers-english) (2023-02-02; en); passages p0006. [Structured record](../../records/src-45bf0b5b3192.json).
+
+### src-45bf0b5b3192-c05
+
+Mari says materialist standards constrain ufologists, while acknowledging that some researchers act in good faith.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The problem with UFO researchers. (English)](https://swaruu.org/transcripts/the-problem-with-ufo-researchers-english) (2023-02-02; en); passages p0013, p0015, p0017, p0022. [Structured record](../../records/src-45bf0b5b3192.json).
+
+### src-5c81b07f9d93-c01
+
+Anéeka says Earth has an iron core alongside extensive cavities and inner seas.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Nucleus of the Earth - Hollow Earth - Extraterrestrial Communication](https://swaruu.org/transcripts/nucleus-of-the-earth-hollow-earth-extraterrestrial-communication) (2023-02-11; en); passages p0005, p0007. [Structured record](../../records/src-5c81b07f9d93.json).
+
+### src-5c81b07f9d93-c04
+
+Yazhi describes cavities shifting with plates, circulating magma, and polar hollows without a pole-to-pole passage.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Nucleus of the Earth - Hollow Earth - Extraterrestrial Communication](https://swaruu.org/transcripts/nucleus-of-the-earth-hollow-earth-extraterrestrial-communication) (2023-02-11; en); passages p0026, p0028, p0030, p0031. [Structured record](../../records/src-5c81b07f9d93.json).
+
+### src-5c81b07f9d93-c05
+
+Yazhi rejects stopped-core reports; Toleka sensors indicate ordinary planetary processes and variations.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Nucleus of the Earth - Hollow Earth - Extraterrestrial Communication](https://swaruu.org/transcripts/nucleus-of-the-earth-hollow-earth-extraterrestrial-communication) (2023-02-11; en); passages p0037, p0040. [Structured record](../../records/src-5c81b07f9d93.json).
+
+### src-25f8dc2b982f-c04
+
+She says connected electric vehicles could be remotely disabled by governments to restrict movement.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Electric Cars and Why they are Bad - Cabal´s Agendas - Yazhi Swaruu](https://swaruu.org/transcripts/electric-cars-and-why-they-are-bad-cabal-s-agendas-yazhi-swaruu) (2023-01-27; en); passages p0009, p0011. [Structured record](../../records/src-25f8dc2b982f.json).
+
+### src-8a1afb652263-c01
+
+Athena says Earth’s magnetic field fluctuates naturally through cycles and interactions with nearby planets and suns.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Why is Magnetic Field Weakening? Should we Worry? (Athena Swaruu)](https://swaruu.org/transcripts/why-is-magnetic-field-weakening-should-we-worry-athena-swaruu) (2023-03-18; en); passages p0006, p0013. [Structured record](../../records/src-8a1afb652263.json).
+
+### src-8a1afb652263-c02
+
+She says fluctuations are frequent, disputes a 12,000-year cycle, and says she does not know its basis.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Why is Magnetic Field Weakening? Should we Worry? (Athena Swaruu)](https://swaruu.org/transcripts/why-is-magnetic-field-weakening-should-we-worry-athena-swaruu) (2023-03-18; en); passages p0013. [Structured record](../../records/src-8a1afb652263.json).
+
+### src-8a1afb652263-c04
+
+She says magnetic fluctuations pose no danger, though they may slightly increase cosmic radiation and solar-wind particles.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Why is Magnetic Field Weakening? Should we Worry? (Athena Swaruu)](https://swaruu.org/transcripts/why-is-magnetic-field-weakening-should-we-worry-athena-swaruu) (2023-03-18; en); passages p0010, p0015. [Structured record](../../records/src-8a1afb652263.json).
+
+### src-88ba599fa614-c03
+
+Athena says published object images are manipulated and one could depict an aircraft sensor pod.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Flying Objects - UFOs -Shot Down - Yazhi and Athena Swaruu´s Opinion](https://swaruu.org/transcripts/flying-objects-ufos-shot-down-yazhi-and-athena-swaruu-s-opinion) (2023-02-17; en); passages p0025, p0027, p0029, p0031, p0032, p0033, p0034. [Structured record](../../records/src-88ba599fa614.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-cd1cd400e21c-c04
+
+Yazhi says time assumptions undermine Earth age estimates; she attributes M45 life to migration. Speaker shifts to Yazhi in the 2023 section.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Pleiades are NOT too Young to Support Organic Life - Extraterrestrial Contact](https://swaruu.org/transcripts/pleiades-are-not-too-young-to-support-organic-life-extraterrestrial-contact) (2023-05-13; en); passages p0015, p0016, p0022. [Structured record](../../records/src-cd1cd400e21c.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -1253,26 +1627,55 @@ Source: [Magnetosphere and Van Allen Bands - Short Chat with Swaruu of Erra](htt
 - [src-58967db24dfa-c03](moon-matrix.md#src-58967db24dfa-c03) — Moon and terrestrial Matrix
 - [src-073f7818f594-c01](moon-matrix.md#src-073f7818f594-c01) — Moon and terrestrial Matrix
 - [src-9dba344806dc-c02](moon-matrix.md#src-9dba344806dc-c02) — Moon and terrestrial Matrix
+- [src-d98ff6da8694-c01](consciousness-metaphysics.md#src-d98ff6da8694-c01) — Consciousness and metaphysics
+- [src-d98ff6da8694-c06](consciousness-metaphysics.md#src-d98ff6da8694-c06) — Consciousness and metaphysics
+- [src-f5ca0eb522cb-c05](moon-matrix.md#src-f5ca0eb522cb-c05) — Moon and terrestrial Matrix
+- [src-15ba6ed0a80c-c04](alien-species.md#src-15ba6ed0a80c-c04) — Alien species and distinctions
+- [src-8bbf9e6a6e78-c03](consciousness-metaphysics.md#src-8bbf9e6a6e78-c03) — Consciousness and metaphysics
+- [src-cb796b9370e8-c01](weather-control.md#src-cb796b9370e8-c01) — Weather control systems
+- [src-cb796b9370e8-c03](tiamat.md#src-cb796b9370e8-c03) — Tiamat
+- [src-af0d62c105e6-c02](earth-cabal.md#src-af0d62c105e6-c02) — Earth Cabal and power structures
+- [src-2125b87df068-c03](alien-species.md#src-2125b87df068-c03) — Alien species and distinctions
+- [src-861b9bdec2b4-c05](consciousness-metaphysics.md#src-861b9bdec2b4-c05) — Consciousness and metaphysics
+- [src-fead5e292474-c01](consciousness-metaphysics.md#src-fead5e292474-c01) — Consciousness and metaphysics
+- [src-fead5e292474-c02](consciousness-metaphysics.md#src-fead5e292474-c02) — Consciousness and metaphysics
+- [src-50c08119afee-c01](consciousness-metaphysics.md#src-50c08119afee-c01) — Consciousness and metaphysics
+- [src-d694d326d416-c04](alien-species.md#src-d694d326d416-c04) — Alien species and distinctions
+- [src-2f12809b9b4a-c05](holistic-society.md#src-2f12809b9b4a-c05) — Holistic society
+- [src-45bf0b5b3192-c03](earth-cabal.md#src-45bf0b5b3192-c03) — Earth Cabal and power structures
+- [src-25f8dc2b982f-c03](economics.md#src-25f8dc2b982f-c03) — Economics and resources
+- [src-25f8dc2b982f-c05](energy-generation.md#src-25f8dc2b982f-c05) — Energy generation technology
+- [src-8a1afb652263-c03](tiamat.md#src-8a1afb652263-c03) — Tiamat
+- [src-19b9c2bb57a1-c03](earth-cabal.md#src-19b9c2bb57a1-c03) — Earth Cabal and power structures
+- [src-88ba599fa614-c04](earth-cabal.md#src-88ba599fa614-c04) — Earth Cabal and power structures
+- [src-c147ae1148dd-c01](earth-cabal.md#src-c147ae1148dd-c01) — Earth Cabal and power structures
+- [src-c147ae1148dd-c02](earth-cabal.md#src-c147ae1148dd-c02) — Earth Cabal and power structures
 
 ## Review flags
 
 - Nibiru\_claim\_conflicts\_with\_other\_sources
 - alternative-weapons-claims
+- astronomical-claims-unverified
 - biological-claims-unverified
 - chronology\_conflict
+- claimed\_observation
 - competing\_attributions
 - conflicting\_war\_reports
 - conspiracy-claims
 - conspiracy\_claims
+- conspiracy\_claims\_unverified
 - contested-current-events-allegation
 - contested-space-history-allegation
 - contested\_archaeology
 - contested\_extraterrestrial\_history
 - contested\_historical\_claims
+- cyberattack-attribution-uncertain
 - dangerous-health-advice
 - dangerous\_medical\_misinformation
 - diet\_claim\_omitted
 - dietary\_advice
+- earth\_science\_claims\_unverified
+- extraordinary\_biological\_claims
 - extraordinary\_conflict\_claims
 - extraordinary\_cosmology\_claims
 - extraordinary\_genetics\_claims
@@ -1282,9 +1685,14 @@ Source: [Magnetosphere and Van Allen Bands - Short Chat with Swaruu of Erra](htt
 - extraordinary\_material\_claims
 - extraordinary\_materials\_claims
 - extraordinary\_medical\_claims
+- extraordinary\_physics\_claims
 - extraordinary\_public\_health\_claims
 - extraordinary\_scientific\_claims
 - extraordinary\_technology\_claims
+- extraordinary\_telepathy\_claims
+- false-invasion-not-prediction
+- federation\_control\_claims\_unverified
+- frequency\_health\_claims\_unverified
 - genetic-surveillance-allegations
 - geopolitical-allegation
 - health-claims-unverified
@@ -1294,6 +1702,7 @@ Source: [Magnetosphere and Van Allen Bands - Short Chat with Swaruu of Erra](htt
 - historical\_and\_nuclear\_claims\_unverified
 - institutional\_conspiracy\_claims
 - inter-speaker-distinction
+- internal\_qualification
 - internal\_revision
 - internal\_scope\_tension
 - medical-claims-unverified
@@ -1305,32 +1714,47 @@ Source: [Magnetosphere and Van Allen Bands - Short Chat with Swaruu of Erra](htt
 - nonstandard\_astrophysics\_claims
 - nuclear\_science\_misinformation
 - occult\_claims
+- paleontology\_claims\_unverified
 - personal\_cosmology
 - personal\_metaphysics
 - planet\_count\_internal\_inconsistency
 - radiation-causation-allegations
+- related\_series\_part
 - science\_claims\_unverified\_in\_source
 - space\_suit\_claims\_unverified
 - time-bound-prediction
 - time\_travel\_lore
 - translated\_source
+- transport\_safety\_and\_policy\_claims\_unverified
+- ufo\_researcher\_critique
 - unsupported\_planetary\_claims
 - unverified-technology-claims
 - unverified\_aerospace\_claims
 - unverified\_ancient\_technology\_claims
+- unverified\_antarctica\_claims
+- unverified\_archaeology
 - unverified\_biological\_and\_metaphysical\_claims
+- unverified\_biological\_claims
 - unverified\_claims
+- unverified\_cloning\_claims
+- unverified\_demographics
 - unverified\_energy\_claims
+- unverified\_extraordinary\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_geophysical\_claims
 - unverified\_geopolitical\_claims
 - unverified\_historical\_claims
 - unverified\_laboratory\_report
+- unverified\_lunar\_claims
+- unverified\_measurement\_claims
 - unverified\_medical\_advice
 - unverified\_medical\_claims
+- unverified\_metaphysical\_biology
 - unverified\_metaphysical\_claims
 - unverified\_mind\_control\_claims
 - unverified\_political\_claims
+- unverified\_science\_claims
+- unverified\_wartime\_claims
 - vaccine-harm-allegations
 - war\_scale\_uncertainty
 - weather\_claims

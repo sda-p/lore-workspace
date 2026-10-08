@@ -1,0 +1,99 @@
+{
+  "source_id": "src-73198a2de79a",
+  "snapshot_sha256": "1cb4dcb95ec902abe7236e5700b48308f0d5471524fbbe004a22bc95bf1c493f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-73198a2de79a-c01",
+      "assertion": "Mari Swa says Taygeta’s High Council installed Alenym amid an attempted Cabal-backed takeover.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73198a2de79a-c02",
+      "assertion": "Mari Swa says Alenym’s restoration reversed Cabal propaganda and mind control in Taygeta.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73198a2de79a-c03",
+      "assertion": "Mari Swa says Alenym served as an Earth stepdown before the High Council extracted her to claim the throne.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73198a2de79a-c04",
+      "assertion": "Mari Swa says Alenym persuaded the Alcyone Council to oppose Federation policy on Earth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73198a2de79a-c05",
+      "assertion": "Mari Swa says Alenym signed alliance and cooperation treaties with the Urmah Federation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-narrative_attributed"
+  ],
+  "coverage_gaps": [
+    "cabal-history",
+    "succession"
+  ]
+}

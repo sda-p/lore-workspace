@@ -1,0 +1,95 @@
+{
+  "source_id": "src-a1e8f5a09186",
+  "snapshot_sha256": "8b9139302d1ac9225cb8ddfd18aa744c12fb09577fa483fdeb5d34df5e57498c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a1e8f5a09186-c01",
+      "assertion": "Mari Swa says several Federation member races increasingly oppose its Earth policy.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a1e8f5a09186-c02",
+      "assertion": "Mari Swa says the Urmah reject Federation rules that conflict with their ethics.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a1e8f5a09186-c03",
+      "assertion": "Mari Swa says Federation conferences defended Earth’s isolation as controlled theatre for souls.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a1e8f5a09186-c04",
+      "assertion": "Mari Swa says a damaged, crewless 2-kilometer ship was placed in high Earth orbit.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Its origin remains uncertain."
+    },
+    {
+      "id": "src-a1e8f5a09186-c05",
+      "assertion": "Mari Swa says the wreck has two welded tube-like hulls and visible battle damage.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Its crew loss and Earth manufacture are speculative."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Federation-policy_claims_attributed"
+  ],
+  "coverage_gaps": [
+    "conference-details",
+    "wreck-history"
+  ]
+}

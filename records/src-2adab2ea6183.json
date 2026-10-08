@@ -1,0 +1,96 @@
+{
+  "source_id": "src-2adab2ea6183",
+  "snapshot_sha256": "84519bbd7d8a23d6d76e754c93136dd8128e70b0ea885fec00d558a7c8f5ff00",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2adab2ea6183-c01",
+      "assertion": "Athena alleges congressional UFO disclosures are staged and advance gradually while officials gauge public response.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2adab2ea6183-c02",
+      "assertion": "Athena says disclosure may divert attention and standardize which extraterrestrial accounts receive legitimacy.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0014"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2adab2ea6183-c03",
+      "assertion": "Athena says Earth decision-making occurs outside public institutions and media.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2adab2ea6183-c04",
+      "assertion": "Athena describes the deep Cabal as pursuing a false-invasion scare to provoke obedience and fear.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2adab2ea6183-c05",
+      "assertion": "Yazhi says small wording shifts normalize abduction claims and shape public narratives about extraterrestrials.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "conversation about world-government claims"
+  ]
+}

@@ -34,11 +34,11 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified metaphysical claim."
+      "qualifiers": ""
     },
     {
       "id": "src-03f8a28bbf76-c03",
-      "assertion": "Yazhi calls Trump controlled opposition and says disclosure could be manipulated as false invasion.",
+      "assertion": "Yazhi calls Trump controlled opposition; Athena says disclosure could be manipulated to mimic contact as a false invasion.",
       "speaker": "Yazhi; Swaruu X (Athena)",
       "paragraph_ids": [
         "p0018",
@@ -51,7 +51,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified political claims."
+      "qualifiers": ""
     },
     {
       "id": "src-03f8a28bbf76-c04",
@@ -87,7 +87,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified political claims."
+      "qualifiers": ""
     }
   ],
   "proposed_topics": [],

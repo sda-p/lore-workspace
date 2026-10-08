@@ -1,0 +1,99 @@
+{
+  "source_id": "src-cf0ae0f8a31e",
+  "snapshot_sha256": "c8ccfcc033080f4f63f0793edf0bcd01afb9fabaa5ba683e49c9f2c02ea9b3bc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cf0ae0f8a31e-c01",
+      "assertion": "Mari says the Alcyone Council’s treaty extends Taygetan-Urmah cooperation: aggression against one member invokes all members.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0023",
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf0ae0f8a31e-c02",
+      "assertion": "She says smaller preindustrial M45 civilizations were excluded from the council and are protected from interference.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf0ae0f8a31e-c03",
+      "assertion": "Mari reports intelligence suggesting Federation headquarters orbit Saturn and seek to dominate Taygeta before expanding across Pleiades.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf0ae0f8a31e-c04",
+      "assertion": "She says Queen Mari strengthened defenses and announced Aldebaran-class dreadnoughts to reinforce and replace aging Alcyones.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf0ae0f8a31e-c05",
+      "assertion": "Mari describes the Urmah as able to resist both Orion forces and the Federation while defending allies.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0032"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "signatory roster",
+    "treaty implementation"
+  ]
+}

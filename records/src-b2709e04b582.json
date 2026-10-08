@@ -1,0 +1,97 @@
+{
+  "source_id": "src-b2709e04b582",
+  "snapshot_sha256": "c108585e709b62e7f4b162d8f088e3af032a31adcd6005c78ad64212255a7698",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b2709e04b582-c01",
+      "assertion": "Mari describes replicators as scanning originals and printing copies from a limited molecular inventory.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2709e04b582-c02",
+      "assertion": "She says replication substitutes unavailable materials, leaving food copies without nutrients and potentially toxic.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2709e04b582-c03",
+      "assertion": "Mari says nutrient molecules such as vitamins can print as unusable mirror-image versions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2709e04b582-c04",
+      "assertion": "She alleges companies replicate food on Earth, especially in China, sometimes inside its final package.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2709e04b582-c05",
+      "assertion": "Mari says replicated food is unlabeled and cannot be identified without laboratory testing.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "food_and_health_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "replicator_material_variation"
+  ]
+}

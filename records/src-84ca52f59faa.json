@@ -1,0 +1,109 @@
+{
+  "source_id": "src-84ca52f59faa",
+  "snapshot_sha256": "0990dc9303ceb4346904730a6a6c9fcd6b002e89bc4687e6159159d24bae3ec1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-84ca52f59faa-c01",
+      "assertion": "Mari says guardian angels may intervene in danger, citing several reported rescues.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The final pilot anecdote's origin is expressly described as unclear."
+    },
+    {
+      "id": "src-84ca52f59faa-c02",
+      "assertion": "She identifies a person’s higher self as their own guardian angel.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84ca52f59faa-c03",
+      "assertion": "She says life plans allow multiple timelines and can be changed during incarnation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84ca52f59faa-c04",
+      "assertion": "She says family souls and stellar relatives may also guide or monitor incarnates.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-84ca52f59faa-c05",
+      "assertion": "Mari says stellar families use drones to assist their starseeds.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0028"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "rescue-anecdotes-unverified"
+  ],
+  "coverage_gaps": [
+    "guardian-agents",
+    "life-plans",
+    "starseed-support"
+  ]
+}

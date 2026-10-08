@@ -1,0 +1,104 @@
+{
+  "source_id": "src-612967b691f8",
+  "snapshot_sha256": "411ab9c5f4de25a1a2cb9f73f2fc25ca6a38988ba3fbb3f37c8cd9d60ecc09d7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-612967b691f8-c01",
+      "assertion": "Mari says shared perceptions form collective realms; planetary magnetospheres modulate inhabitants’ frequency and perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0015"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-612967b691f8-c02",
+      "assertion": "She says deep space lacks planetary modulation, mixing physical and astral realms into a chaotic field.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0023"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-612967b691f8-c03",
+      "assertion": "According to Mari, travelers manifest individual fears and thoughts more directly; a ship crew shares a self-created Matrix.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-612967b691f8-c04",
+      "assertion": "Mari describes deep space as neutral potential etheric energy, with outcomes shaped by travelers’ consciousness and compatibility.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-612967b691f8-c05",
+      "assertion": "She says self-knowledge and a stable personal frame can modulate manifestations, while fear spirals can produce worsening nightmares.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-model"
+  ],
+  "coverage_gaps": [
+    "empirical-verification"
+  ]
+}

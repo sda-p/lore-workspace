@@ -1,0 +1,80 @@
+{
+  "source_id": "src-073aba37af59",
+  "snapshot_sha256": "d490d05a5c278485849b0b67b7343cfdbc08b53c2787ad8f82f0465f7cee1751",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-073aba37af59-c01",
+      "assertion": "Yazhi distinguishes fear-generated reptilian Tulpas from the physical Kingu species, saying both may be influenced by such entities.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "kingu"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-073aba37af59-c02",
+      "assertion": "Yazhi says focused collective fear can give a Tulpa physical form, sentience, and a need to feed on fear.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-073aba37af59-c03",
+      "assertion": "Yazhi describes all embodied beings as materialized ideas created by souls.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "tulpas",
+      "name": "Tulpas",
+      "kind": "cosmology",
+      "aliases": [
+        "thought-formed entities"
+      ]
+    },
+    {
+      "id": "interdimensional-parasites",
+      "name": "Interdimensional parasites",
+      "kind": "species",
+      "aliases": [
+        "energetic larvae"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

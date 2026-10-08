@@ -1,0 +1,99 @@
+{
+  "source_id": "src-5a5582a387e3",
+  "snapshot_sha256": "c8e2351ae7b3cea285182e77a89c89a32068936dc06b9411bcca83550c738a66",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5a5582a387e3-c01",
+      "assertion": "Mari says Taygetan collective unconscious is a telepathic field of shared perceptions, unlike Jung’s inherited-brain model.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5582a387e3-c02",
+      "assertion": "She says cultures form reality bubbles through shared values and frequencies, including species-wide Lyrian collectives across distance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5582a387e3-c03",
+      "assertion": "People mismatched to a group may leave, adapt to it, or remain distinct and reshape its collective.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5582a387e3-c04",
+      "assertion": "Mari says strong starseeds can act as nexuses, transmitting higher-frequency ideas that shift a community or planet.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5582a387e3-c05",
+      "assertion": "She says collective telepathy shapes shared reality, including egregors, while group fields also influence individuals.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0023",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "collective-field-mechanics"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "source_id": "src-486d293f3a87",
+  "snapshot_sha256": "50d09494d0d2c5cda2415f43c2bd53b7b54f202ef521abd37d78c51f7755e9b9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-486d293f3a87-c01",
+      "assertion": "Yazhi says crew members built custom bicycles from replicated parts, including polymorphic titanium frames.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0016",
+        "p0020",
+        "p0022",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-486d293f3a87-c02",
+      "assertion": "Swaruu (9) says a Scotland time-jump trip was simulated in total immersion, using ship data and programmed events.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0051",
+        "p0053",
+        "p0055",
+        "p0063",
+        "p0067"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-486d293f3a87-c03",
+      "assertion": "Swaruu (9) says participants remained awake in a simulated hangar, suspended while gravity manipulation enabled apparent movement.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0072",
+        "p0073",
+        "p0075",
+        "p0076",
+        "p0078",
+        "p0080"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-486d293f3a87-c04",
+      "assertion": "Dhor Káal’el says Chiqui Swaruu aided a wounded, unnamed being astrally; positive Greys physically extracted it.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0097",
+        "p0101",
+        "p0103",
+        "p0111",
+        "p0113",
+        "p0115",
+        "p0117",
+        "p0119"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-486d293f3a87-c05",
+      "assertion": "Athena says five Toleka kittens survived after a lost kitten was found behind ship panels.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0132",
+        "p0136",
+        "p0138",
+        "p0148"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "total-immersion-simulations",
+      "name": "Total-immersion simulations",
+      "kind": "technology",
+      "aliases": [
+        "full immersion simulation"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

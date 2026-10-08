@@ -1,0 +1,116 @@
+{
+  "source_id": "src-cae1127d2078",
+  "snapshot_sha256": "b996a49b6cc92f20c8c7f1db0d4ed0215ef4191b5d3558ad11fc6b219894d1e8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cae1127d2078-c01",
+      "assertion": "Mari Swa says Alenym remained near Earth partly because of political threats to her rule.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cae1127d2078-c02",
+      "assertion": "Mari Swa says Alenym allied with the Alcyone Council and Urmah against Federation policy.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cae1127d2078-c03",
+      "assertion": "Mari Swa says suspicion of foul play remained despite a suspected bird-related infection.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cae1127d2078-c04",
+      "assertion": "Mari Swa says she became acting queen during Alenym’s recovery, with advisers supporting her.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cae1127d2078-c05",
+      "assertion": "Mari Swa says Taygeta and the Maya agreed to exchange surplus citrus for grains and cotton.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cae1127d2078-c06",
+      "assertion": "Mari Swa describes interstellar barter as a basis of holistic societies without money.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "attack-theory_speculative"
+  ],
+  "coverage_gaps": [
+    "succession",
+    "bioweapon-theory"
+  ]
+}

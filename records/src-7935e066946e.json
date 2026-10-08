@@ -1,0 +1,65 @@
+{
+  "source_id": "src-7935e066946e",
+  "snapshot_sha256": "8d4a061c08f13157791ed4d76a5db27456ada2cf887990055b14dc0bc5365170",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7935e066946e-c01",
+      "assertion": "Gosia presents a staged benevolent Federation encounter as a possible false-invasion scenario that could trade aid for imposed rules.",
+      "speaker": "Gosia, relaying Aneeka of Temmer and Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7935e066946e-c02",
+      "assertion": "Aneeka says the real Federation may treat an Earth-only staged encounter as part of humanity’s learning; Ari suspects Federation involvement but says the plan’s origin is unclear.",
+      "speaker": "Aneeka of Temmer and Ari, as quoted by Gosia",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "false-alien-invasion"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7935e066946e-c03",
+      "assertion": "Ari describes a false invasion as a last resort after other agendas; Gosia reports no near-term face-to-face contact plans from Mari.",
+      "speaker": "Ari and Mari, as quoted by Gosia",
+      "paragraph_ids": [
+        "p0042",
+        "p0045"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

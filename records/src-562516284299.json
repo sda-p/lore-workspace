@@ -1,0 +1,99 @@
+{
+  "source_id": "src-562516284299",
+  "snapshot_sha256": "058a8bd192a55ed5b3ae60ef77bc24f21005d8aa9fc5a0801a0da6881064c95c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-562516284299-c01",
+      "assertion": "Mari reports Asterope as an Alcyone-class dreadnought that approached Earth from interplanetary space under Viera traffic control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562516284299-c02",
+      "assertion": "Mari says Asterope’s primary mission is fleet defense.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562516284299-c03",
+      "assertion": "Mari describes a Taygetan social-media mission that trains crew to pose as starseeds without identifying themselves.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562516284299-c04",
+      "assertion": "Mari reports nearly 3,000 applicants were waitlisted for recruitment across Asterope and Alcyone.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562516284299-c05",
+      "assertion": "Mari says Asterope carried 475 crew, many attending a welcome event aboard Toleka.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "missing Centauri pilots and ceremony details"
+  ]
+}

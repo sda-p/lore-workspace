@@ -1,0 +1,117 @@
+{
+  "source_id": "src-194038ff3d24",
+  "snapshot_sha256": "c96696fde29e72cfa85a56908c0669159292f883dec7caa8f10acd37cd6da8bb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-194038ff3d24-c01",
+      "assertion": "Mari says Taygetan one-piece suits serve as flight uniforms and can function as spacesuits; colored linings mark crew roles.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits",
+        "taygetans",
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-194038ff3d24-c02",
+      "assertion": "Mari says suits regulate temperature and harden into protective exoskeletons, but full protection requires a helmet.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits",
+        "taygetans",
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-194038ff3d24-c03",
+      "assertion": "Mari says a utility belt powers suits with a portable Zero Point unit and provides communications and wrist holograms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits",
+        "taygetans",
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-194038ff3d24-c04",
+      "assertion": "Mari says polymorphic suit material adapts to body shape and can self-repair.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits",
+        "taygetans",
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-194038ff3d24-c05",
+      "assertion": "Mari says gravity-canceling boots enable flight but high-altitude use requires an oxygen- and temperature-protective suit.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits",
+        "taygetans",
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-flight-suits",
+      "name": "Taygetan flight suits and boots",
+      "kind": "technology",
+      "aliases": [
+        "Taygetean suits",
+        "flight boots"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

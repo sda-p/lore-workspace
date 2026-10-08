@@ -1,0 +1,96 @@
+{
+  "source_id": "src-3aa29ffdb9c1",
+  "snapshot_sha256": "9f6de6be15a96a30c10795d8c68cad2b04d21e658a025a907bd3746460faeca6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3aa29ffdb9c1-c01",
+      "assertion": "Gosia frames consciousness as identity beyond the body and quotes Mari describing the soul as a fractal of Source.",
+      "speaker": "Gosia quoting Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3aa29ffdb9c1-c02",
+      "assertion": "Mari describes a soul as concepts, ideas, and attachments held within larger consciousness.",
+      "speaker": "Gosia quoting Mari Swa",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3aa29ffdb9c1-c03",
+      "assertion": "Mari says perceptions carried across lives shape later preferences and identity.",
+      "speaker": "Gosia quoting Mari Swa",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3aa29ffdb9c1-c04",
+      "assertion": "Mari describes the body, brain, and DNA as filters or translators for consciousness.",
+      "speaker": "Gosia quoting Mari Swa",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3aa29ffdb9c1-c05",
+      "assertion": "Mari says memory and psychic abilities reside in an etheric field rather than the brain.",
+      "speaker": "Gosia quoting Mari Swa",
+      "paragraph_ids": [
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "examples and workshop discussion"
+  ]
+}

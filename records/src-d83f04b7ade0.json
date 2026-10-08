@@ -1,0 +1,99 @@
+{
+  "source_id": "src-d83f04b7ade0",
+  "snapshot_sha256": "3cb42dd259d2178d233847669be1505b88dc6c9ddaf84421273eb4f1080907d4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d83f04b7ade0-c01",
+      "assertion": "Mari alleges EVs are promoted to limit private vehicle ownership through high costs, not ecological motives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d83f04b7ade0-c02",
+      "assertion": "She says costly battery replacements leave EVs abandoned and can contaminate soil.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d83f04b7ade0-c03",
+      "assertion": "Mari says EVs require costly charging infrastructure and consume power while parked.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d83f04b7ade0-c04",
+      "assertion": "She alleges connected EVs can be disabled remotely or stranded by shutting down the power grid.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d83f04b7ade0-c05",
+      "assertion": "Mari says EV battery fires are difficult to extinguish and may reignite weeks or months later.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "transport_safety_and_policy_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "battery_swap_system"
+  ]
+}

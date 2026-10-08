@@ -4150,6 +4150,2704 @@ Source: [Escape from the Matrix 01 (English)](https://swaruu.org/transcripts/esc
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-d98ff6da8694-c01
+
+Yazhi calls DNA a frequency record of identity and past lives. Metaphysical model.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [DNA - Record of Who We Are - Extraterrestrial Perspective - Yazhi Swaruu](https://swaruu.org/transcripts/dna-record-of-who-we-are-extraterrestrial-perspective-yazhi-swaruu) (2023-03-23; en); passages p0014, p0015, p0016. [Structured record](../../records/src-d98ff6da8694.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-d98ff6da8694-c02
+
+She says DNA changes with experience and links cells to the etheric field. Metaphysical model.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [DNA - Record of Who We Are - Extraterrestrial Perspective - Yazhi Swaruu](https://swaruu.org/transcripts/dna-record-of-who-we-are-extraterrestrial-perspective-yazhi-swaruu) (2023-03-23; en); passages p0017, p0038, p0040. [Structured record](../../records/src-d98ff6da8694.json).
+
+### src-d98ff6da8694-c05
+
+Yazhi says hosts’ DNA may be shifted to fit a Walk-in. Unverified claim.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [DNA - Record of Who We Are - Extraterrestrial Perspective - Yazhi Swaruu](https://swaruu.org/transcripts/dna-record-of-who-we-are-extraterrestrial-perspective-yazhi-swaruu) (2023-03-23; en); passages p0176, p0177, p0179, p0181. [Structured record](../../records/src-d98ff6da8694.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d98ff6da8694-c06
+
+She says unconsented DNA changes can disrupt identity; personal plans vary.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [DNA - Record of Who We Are - Extraterrestrial Perspective - Yazhi Swaruu](https://swaruu.org/transcripts/dna-record-of-who-we-are-extraterrestrial-perspective-yazhi-swaruu) (2023-03-23; en); passages p0029, p0033, p0034, p0106, p0108. [Structured record](../../records/src-d98ff6da8694.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-304dba3fd59c-c01
+
+Athena says physical laws vary with agreements of perception and existential level.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu responds public´s questions for Lorena Martin´s interview with Robert](https://swaruu.org/transcripts/athena-swaruu-responds-public-s-questions-for-lorena-martin-s-interview-with-robert) (2023-07-11; en); passages p0004, p0005, p0009, p0010. [Structured record](../../records/src-304dba3fd59c.json).
+
+### src-304dba3fd59c-c02
+
+She describes karma or cause-and-effect as a consequence, not a universal regulatory agency.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu responds public´s questions for Lorena Martin´s interview with Robert](https://swaruu.org/transcripts/athena-swaruu-responds-public-s-questions-for-lorena-martin-s-interview-with-robert) (2023-07-11; en); passages p0020, p0021. [Structured record](../../records/src-304dba3fd59c.json).
+
+### src-304dba3fd59c-c03
+
+Athena frames depression as disrupted life purpose and recommends addressing personal needs and environment.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu responds public´s questions for Lorena Martin´s interview with Robert](https://swaruu.org/transcripts/athena-swaruu-responds-public-s-questions-for-lorena-martin-s-interview-with-robert) (2023-07-11; en); passages p0024, p0025, p0026, p0031, p0032. [Structured record](../../records/src-304dba3fd59c.json).
+
+### src-304dba3fd59c-c04
+
+She says starseed life plans are flexible ranges of possibilities rather than fixed missions.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu responds public´s questions for Lorena Martin´s interview with Robert](https://swaruu.org/transcripts/athena-swaruu-responds-public-s-questions-for-lorena-martin-s-interview-with-robert) (2023-07-11; en); passages p0035, p0036. [Structured record](../../records/src-304dba3fd59c.json).
+
+### src-304dba3fd59c-c06
+
+She describes “Christic grid” as shared spiritual awakening, with no required number of starseeds.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu responds public´s questions for Lorena Martin´s interview with Robert](https://swaruu.org/transcripts/athena-swaruu-responds-public-s-questions-for-lorena-martin-s-interview-with-robert) (2023-07-11; en); passages p0056, p0057, p0058, p0059. [Structured record](../../records/src-304dba3fd59c.json).
+
+### src-6490421f0db7-c02
+
+She says lower-astral entities match frequencies and feed on fear.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Paranormal Portals, the portals we all make part 3 (English)](https://swaruu.org/transcripts/paranormal-portals-the-portals-we-all-make-part-3-english) (2023-01-20; en); passages p0014, p0015, p0016, p0019. [Structured record](../../records/src-6490421f0db7.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-6490421f0db7-c05
+
+Mari says stress lowers place frequencies; positive places form high-frequency bubbles.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Paranormal Portals, the portals we all make part 3 (English)](https://swaruu.org/transcripts/paranormal-portals-the-portals-we-all-make-part-3-english) (2023-01-20; en); passages p0035, p0037, p0038, p0040, p0041. [Structured record](../../records/src-6490421f0db7.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-6490421f0db7-c06
+
+She says personal resilience and attention can affect one’s experience of harmful events.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Paranormal Portals, the portals we all make part 3 (English)](https://swaruu.org/transcripts/paranormal-portals-the-portals-we-all-make-part-3-english) (2023-01-20; en); passages p0042, p0043, p0044, p0045. [Structured record](../../records/src-6490421f0db7.json).
+
+### src-b2c9eeee9163-c01
+
+Swaruu (9) describes imagination as a way to access alternate versions of one’s past.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [How to Change your Past, with Swaruu of Erra](https://swaruu.org/transcripts/how-to-change-your-past-with-swaruu-of-erra) (2023-05-07; en); passages p0014, p0015, p0017. [Structured record](../../records/src-b2c9eeee9163.json).
+
+### src-b2c9eeee9163-c02
+
+She claims vividly imagining a desired past can make its memories feel real and change present identity.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [How to Change your Past, with Swaruu of Erra](https://swaruu.org/transcripts/how-to-change-your-past-with-swaruu-of-erra) (2023-05-07; en); passages p0018, p0021, p0022, p0023. [Structured record](../../records/src-b2c9eeee9163.json).
+
+### src-b2c9eeee9163-c03
+
+Swaruu advises incorporating accepted memories rather than fighting or denying them.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [How to Change your Past, with Swaruu of Erra](https://swaruu.org/transcripts/how-to-change-your-past-with-swaruu-of-erra) (2023-05-07; en); passages p0029, p0030, p0031. [Structured record](../../records/src-b2c9eeee9163.json).
+
+### src-b2c9eeee9163-c04
+
+Swaruu says the method may affect emotional and physical problems, citing her account of tumors appearing and disappearing between personalities.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [How to Change your Past, with Swaruu of Erra](https://swaruu.org/transcripts/how-to-change-your-past-with-swaruu-of-erra) (2023-05-07; en); passages p0034, p0035, p0036. [Structured record](../../records/src-b2c9eeee9163.json).
+
+### src-b2c9eeee9163-c05
+
+Swaruu frames timelines as parallel versions that can be accessed through visualization. Personal metaphysics.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [How to Change your Past, with Swaruu of Erra](https://swaruu.org/transcripts/how-to-change-your-past-with-swaruu-of-erra) (2023-05-07; en); passages p0010, p0011, p0027, p0028. [Structured record](../../records/src-b2c9eeee9163.json).
+
+### src-a474dfd5dd80-c01
+
+Mari Swaruu describes timelines as frequency-coded sequences shaped by observers and perception agreements.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Time, timelines, Star-ships and your Mind. (English)](https://swaruu.org/transcripts/time-timelines-star-ships-and-your-mind-english) (2023-05-26; en); passages p0008, p0014, p0016, p0017. [Structured record](../../records/src-a474dfd5dd80.json).
+
+### src-a474dfd5dd80-c02
+
+She says thoughts and interpretations shape personal timelines and shared realities.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Time, timelines, Star-ships and your Mind. (English)](https://swaruu.org/transcripts/time-timelines-star-ships-and-your-mind-english) (2023-05-26; en); passages p0018, p0019, p0025, p0026. [Structured record](../../records/src-a474dfd5dd80.json).
+
+### src-a474dfd5dd80-c05
+
+Mari says conscious beings may theoretically shift timelines through sustained focus and frequency.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Time, timelines, Star-ships and your Mind. (English)](https://swaruu.org/transcripts/time-timelines-star-ships-and-your-mind-english) (2023-05-26; en); passages p0038, p0039. [Structured record](../../records/src-a474dfd5dd80.json).
+
+### src-c13dc3cbe31f-c01
+
+Mari Swaruu says bodily perception and memory limits form an ego identity and fear of death.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Death and the Ego (English)](https://swaruu.org/transcripts/death-and-the-ego-english) (2023-03-10; en); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-c13dc3cbe31f.json).
+
+### src-c13dc3cbe31f-c02
+
+She says unresolved psychological pain may persist after death and motivate reincarnation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Death and the Ego (English)](https://swaruu.org/transcripts/death-and-the-ego-english) (2023-03-10; en); passages p0009, p0010, p0011. [Structured record](../../records/src-c13dc3cbe31f.json).
+
+### src-c13dc3cbe31f-c03
+
+Mari says afterlife outcomes vary with each individual’s perception and outlook.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Death and the Ego (English)](https://swaruu.org/transcripts/death-and-the-ego-english) (2023-03-10; en); passages p0012, p0013, p0016, p0017. [Structured record](../../records/src-c13dc3cbe31f.json).
+
+### src-c13dc3cbe31f-c04
+
+She describes ghosts as possible self-focused manifestations or temporal echoes, not necessarily lost souls.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
+
+Source: [Death and the Ego (English)](https://swaruu.org/transcripts/death-and-the-ego-english) (2023-03-10; en); passages p0018, p0019, p0020, p0021, p0022. [Structured record](../../records/src-c13dc3cbe31f.json).
+
+### src-c13dc3cbe31f-c05
+
+Mari says identity is built through experience and interprets heaven or hell as states one manifests.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Death and the Ego (English)](https://swaruu.org/transcripts/death-and-the-ego-english) (2023-03-10; en); passages p0023, p0024, p0025. [Structured record](../../records/src-c13dc3cbe31f.json).
+
+### src-fa3030bd8cd8-c01
+
+Mari Swaruu says psychological triggers can make anyone act against self-interest.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stupidity and the Ego, a spiritual perspective. (English)](https://swaruu.org/transcripts/stupidity-and-the-ego-a-spiritual-perspective-english) (2023-03-04; en); passages p0003, p0004, p0005. [Structured record](../../records/src-fa3030bd8cd8.json).
+
+### src-fa3030bd8cd8-c02
+
+She defines stupidity as harmful action without apparent benefit and distinguishes it from bullying. Using a cited definition.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Stupidity and the Ego, a spiritual perspective. (English)](https://swaruu.org/transcripts/stupidity-and-the-ego-a-spiritual-perspective-english) (2023-03-04; en); passages p0008, p0009. [Structured record](../../records/src-fa3030bd8cd8.json).
+
+### src-fa3030bd8cd8-c03
+
+Mari links such behavior to ego, overconfidence, and defending identity-linked beliefs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stupidity and the Ego, a spiritual perspective. (English)](https://swaruu.org/transcripts/stupidity-and-the-ego-a-spiritual-perspective-english) (2023-03-04; en); passages p0015, p0017, p0018, p0019, p0022. [Structured record](../../records/src-fa3030bd8cd8.json).
+
+### src-fa3030bd8cd8-c05
+
+Mari recommends humility, meditation, and willingness to revise ideas.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stupidity and the Ego, a spiritual perspective. (English)](https://swaruu.org/transcripts/stupidity-and-the-ego-a-spiritual-perspective-english) (2023-03-04; en); passages p0024, p0025, p0026, p0027. [Structured record](../../records/src-fa3030bd8cd8.json).
+
+### src-03f8a28bbf76-c02
+
+She says individual NPC status cannot be known for sure, despite proposing behavioral indicators.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UFO Disclosures this year? Questions for the Interview with AJ Roberts](https://swaruu.org/transcripts/ufo-disclosures-this-year-questions-for-the-interview-with-aj-roberts) (2023-06-05; en); passages p0014, p0015. [Structured record](../../records/src-03f8a28bbf76.json).
+
+### src-b7c10546883d-c01
+
+Za’el says people experience both constructive and destructive emotions.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Light and Darkness within you / Traumas and Limits](https://swaruu.org/transcripts/light-and-darkness-within-you-traumas-and-limits) (2023-04-02; en); passages p0003, p0005, p0006. [Structured record](../../records/src-b7c10546883d.json).
+
+### src-b7c10546883d-c02
+
+He distinguishes learning from trauma by whether fear overrides reasoned decisions.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Light and Darkness within you / Traumas and Limits](https://swaruu.org/transcripts/light-and-darkness-within-you-traumas-and-limits) (2023-04-02; en); passages p0008, p0009, p0010, p0012. [Structured record](../../records/src-b7c10546883d.json).
+
+### src-b7c10546883d-c03
+
+Za’el recommends boundaries and self-protection when facing abusive behavior.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Light and Darkness within you / Traumas and Limits](https://swaruu.org/transcripts/light-and-darkness-within-you-traumas-and-limits) (2023-04-02; en); passages p0014, p0015. [Structured record](../../records/src-b7c10546883d.json).
+
+### src-b7c10546883d-c04
+
+He says integrating flaws and darker emotions can support self-acceptance and resilience.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Light and Darkness within you / Traumas and Limits](https://swaruu.org/transcripts/light-and-darkness-within-you-traumas-and-limits) (2023-04-02; en); passages p0017, p0018, p0021, p0022. [Structured record](../../records/src-b7c10546883d.json).
+
+### src-b7c10546883d-c05
+
+Za’el says relationships may need to change if others reject a person’s authentic self.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Light and Darkness within you / Traumas and Limits](https://swaruu.org/transcripts/light-and-darkness-within-you-traumas-and-limits) (2023-04-02; en); passages p0019, p0020. [Structured record](../../records/src-b7c10546883d.json).
+
+### src-c5c91a2194a4-c05
+
+Gosia says disclosure could still prompt public questioning, while acknowledging this is only their perspective.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [National Press Club Event - Disclosure Project - Steven Greer - OUR OPINION](https://swaruu.org/transcripts/national-press-club-event-disclosure-project-steven-greer-our-opinion) (2023-06-18; en); passages p0028, p0029, p0030. [Structured record](../../records/src-c5c91a2194a4.json).
+
+### src-c35bd2ccba2f-c01
+
+Mari describes astral planes as containing disincarnate people, entities, animals, and egregors.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star Seeds. Part 8, Astral Projection, Astral Abductions and Night Soul Missions, Part 2. (English)](https://swaruu.org/transcripts/star-seeds-part-8-astral-projection-astral-abductions-and-night-soul-missions-part-2-english) (2023-08-06; en); passages p0004, p0005. [Structured record](../../records/src-c35bd2ccba2f.json).
+
+### src-c35bd2ccba2f-c04
+
+She says some starseeds may not remember astral missions and may mistake them for dreams.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star Seeds. Part 8, Astral Projection, Astral Abductions and Night Soul Missions, Part 2. (English)](https://swaruu.org/transcripts/star-seeds-part-8-astral-projection-astral-abductions-and-night-soul-missions-part-2-english) (2023-08-06; en); passages p0013, p0014, p0016. [Structured record](../../records/src-c35bd2ccba2f.json).
+
+### src-da5b68843247-c01
+
+Sav’el says individual and regional consciousness contributes to Earth’s collective frequency.
+
+Attributed to **Sav’el**; asserted; extraction confidence: high.
+
+Source: [Starseeds - What Influence do they Have? Taygetan Pleiadian Study](https://swaruu.org/transcripts/starseeds-what-influence-do-they-have-taygetan-pleiadian-study) (2023-05-25; en); passages p0006, p0019, p0025. [Structured record](../../records/src-da5b68843247.json).
+
+### src-da5b68843247-c02
+
+He says starseeds can exert much larger influence than average humans on local fields.
+
+Attributed to **Sav’el**; asserted; extraction confidence: high.
+
+Source: [Starseeds - What Influence do they Have? Taygetan Pleiadian Study](https://swaruu.org/transcripts/starseeds-what-influence-do-they-have-taygetan-pleiadian-study) (2023-05-25; en); passages p0026, p0028, p0034. [Structured record](../../records/src-da5b68843247.json).
+
+### src-da5b68843247-c03
+
+Sav’el estimates 5,000 awakened starseeds per million, but says this count is not definitive. Tentative estimate.
+
+Attributed to **Sav’el**; reported; extraction confidence: medium.
+
+Source: [Starseeds - What Influence do they Have? Taygetan Pleiadian Study](https://swaruu.org/transcripts/starseeds-what-influence-do-they-have-taygetan-pleiadian-study) (2023-05-25; en); passages p0036, p0037. [Structured record](../../records/src-da5b68843247.json).
+
+### src-da5b68843247-c05
+
+Sav’el says a starseed’s influence can rise through connection, but collective pressure may also lower it.
+
+Attributed to **Sav’el**; asserted; extraction confidence: high.
+
+Source: [Starseeds - What Influence do they Have? Taygetan Pleiadian Study](https://swaruu.org/transcripts/starseeds-what-influence-do-they-have-taygetan-pleiadian-study) (2023-05-25; en); passages p0043, p0044, p0045, p0048, p0049. [Structured record](../../records/src-da5b68843247.json).
+
+### src-088d6cb688a5-c01
+
+Yazhi says regional frequencies reflect the consciousness of inhabitants, with high- and low-frequency bubbles.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Frequencies, Consciousness States, Vibration - Chat with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/frequencies-consciousness-states-vibration-chat-with-sophia-swaruu-yazhi) (2023-06-15; en); passages p0005, p0011, p0013. [Structured record](../../records/src-088d6cb688a5.json).
+
+### src-088d6cb688a5-c02
+
+She says consciousness can alter places and influence nearby people and objects.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Frequencies, Consciousness States, Vibration - Chat with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/frequencies-consciousness-states-vibration-chat-with-sophia-swaruu-yazhi) (2023-06-15; en); passages p0014, p0016, p0017, p0023, p0025. [Structured record](../../records/src-088d6cb688a5.json).
+
+### src-088d6cb688a5-c03
+
+Yazhi distinguishes subatomic vibration from larger-scale frequency and says harmonics generate both.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Frequencies, Consciousness States, Vibration - Chat with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/frequencies-consciousness-states-vibration-chat-with-sophia-swaruu-yazhi) (2023-06-15; en); passages p0033, p0034, p0036, p0039. [Structured record](../../records/src-088d6cb688a5.json).
+
+### src-088d6cb688a5-c05
+
+Yazhi says consciousness and measurable frequency cannot be separately 3D and 5D.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Frequencies, Consciousness States, Vibration - Chat with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/frequencies-consciousness-states-vibration-chat-with-sophia-swaruu-yazhi) (2023-06-15; en); passages p0050, p0051. [Structured record](../../records/src-088d6cb688a5.json).
+
+### src-539b886e392e-c01
+
+Mari Swaruu describes astral parasites as energy-feeding entities that attach to a person’s aura. Unverified paranormal claim.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Astral Entity Attachments and Infestations, Part 1 (English).](https://swaruu.org/transcripts/astral-entity-attachments-and-infestations-part-1-english) (2023-06-17; en); passages p0014, p0015, p0018. [Structured record](../../records/src-539b886e392e.json).
+
+### src-539b886e392e-c02
+
+She distinguishes parasites, complex entities, and disincarnate people as types of astral beings.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Astral Entity Attachments and Infestations, Part 1 (English).](https://swaruu.org/transcripts/astral-entity-attachments-and-infestations-part-1-english) (2023-06-17; en); passages p0015, p0016, p0017. [Structured record](../../records/src-539b886e392e.json).
+
+### src-539b886e392e-c03
+
+Mari says entities exploit frequency compatibility and may manipulate habits or thoughts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Astral Entity Attachments and Infestations, Part 1 (English).](https://swaruu.org/transcripts/astral-entity-attachments-and-infestations-part-1-english) (2023-06-17; en); passages p0013, p0019, p0020. [Structured record](../../records/src-539b886e392e.json).
+
+### src-539b886e392e-c04
+
+She links attachment persistence to continued behaviors the entity allegedly seeks.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Astral Entity Attachments and Infestations, Part 1 (English).](https://swaruu.org/transcripts/astral-entity-attachments-and-infestations-part-1-english) (2023-06-17; en); passages p0021, p0022, p0023. [Structured record](../../records/src-539b886e392e.json).
+
+### src-539b886e392e-c05
+
+Mari says parasites may promote instant gratification and self-destructive cycles.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Astral Entity Attachments and Infestations, Part 1 (English).](https://swaruu.org/transcripts/astral-entity-attachments-and-infestations-part-1-english) (2023-06-17; en); passages p0022, p0023. [Structured record](../../records/src-539b886e392e.json).
+
+### src-9c51fb72fef9-c02
+
+She says memories of other lives or afterlife realms can create longing to leave Earth. Personal metaphysics.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 5. Remembering having lived in higher realms (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-5-remembering-having-lived-in-higher-realms-english) (2023-07-29; en); passages p0005, p0006, p0009. [Structured record](../../records/src-9c51fb72fef9.json).
+
+### src-9c51fb72fef9-c03
+
+Mari says starseeds may seek extraction but another planet would still have material-world problems.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 5. Remembering having lived in higher realms (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-5-remembering-having-lived-in-higher-realms-english) (2023-07-29; en); passages p0010, p0012, p0013. [Structured record](../../records/src-9c51fb72fef9.json).
+
+### src-9c51fb72fef9-c04
+
+She says Earth experiences are interpreted through each soul’s attention and identity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 5. Remembering having lived in higher realms (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-5-remembering-having-lived-in-higher-realms-english) (2023-07-29; en); passages p0014, p0016, p0017, p0020. [Structured record](../../records/src-9c51fb72fef9.json).
+
+### src-9c51fb72fef9-c05
+
+Mari advises cultivating inner character rather than focusing only on material possessions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 5. Remembering having lived in higher realms (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-5-remembering-having-lived-in-higher-realms-english) (2023-07-29; en); passages p0019, p0020. [Structured record](../../records/src-9c51fb72fef9.json).
+
+### src-b0ec1f9ee122-c01
+
+Za’el says post-death experience follows a person’s attention and beliefs.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Where do we go when we die](https://swaruu.org/transcripts/where-do-we-go-when-we-die) (2023-04-12; en); passages p0007, p0008, p0010. [Structured record](../../records/src-b0ec1f9ee122.json).
+
+### src-b0ec1f9ee122-c02
+
+He says afterlife realms may differ by person or form through shared perception agreements.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Where do we go when we die](https://swaruu.org/transcripts/where-do-we-go-when-we-die) (2023-04-12; en); passages p0012, p0013. [Structured record](../../records/src-b0ec1f9ee122.json).
+
+### src-b0ec1f9ee122-c03
+
+Za’el describes consciousness as redirecting toward compatible thoughts, sometimes directly into another life.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Where do we go when we die](https://swaruu.org/transcripts/where-do-we-go-when-we-die) (2023-04-12; en); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-b0ec1f9ee122.json).
+
+### src-b0ec1f9ee122-c04
+
+Za’el argues suicide may leave distress unresolved and urges self-care and determination. Personal metaphysical claim.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Where do we go when we die](https://swaruu.org/transcripts/where-do-we-go-when-we-die) (2023-04-12; en); passages p0020, p0021, p0022, p0023. [Structured record](../../records/src-b0ec1f9ee122.json).
+
+### src-b0ec1f9ee122-c05
+
+Za’el frames Source as the consciousness animating all perceived states.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Where do we go when we die](https://swaruu.org/transcripts/where-do-we-go-when-we-die) (2023-04-12; en); passages p0014, p0015. [Structured record](../../records/src-b0ec1f9ee122.json).
+
+### src-176e90b7dd77-c01
+
+Yazhi says archons attach through frequency compatibility and allegedly influence thoughts and habits.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Astral Parasites Removal Machines - Questions from Interviewers - Yazhi Swaruu](https://swaruu.org/transcripts/astral-parasites-removal-machines-questions-from-interviewers-yazhi-swaruu) (2023-05-31; en); passages p0005, p0006, p0007. [Structured record](../../records/src-176e90b7dd77.json).
+
+### src-176e90b7dd77-c03
+
+Yazhi says effects may fade unless the person sustains changed habits and awareness.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Astral Parasites Removal Machines - Questions from Interviewers - Yazhi Swaruu](https://swaruu.org/transcripts/astral-parasites-removal-machines-questions-from-interviewers-yazhi-swaruu) (2023-05-31; en); passages p0013, p0018, p0019, p0023. [Structured record](../../records/src-176e90b7dd77.json).
+
+### src-176e90b7dd77-c05
+
+Yazhi says time-loss may follow abduction-related displacement or altered consciousness.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Astral Parasites Removal Machines - Questions from Interviewers - Yazhi Swaruu](https://swaruu.org/transcripts/astral-parasites-removal-machines-questions-from-interviewers-yazhi-swaruu) (2023-05-31; en); passages p0037, p0038, p0039. [Structured record](../../records/src-176e90b7dd77.json).
+
+### src-32665478a6c1-c01
+
+Mari says many starseeds incarnate on Earth for intense experiences and possible growth. Personal metaphysics.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star seeds, light workers, and woken people’s problems, part 1 (English)](https://swaruu.org/transcripts/star-seeds-light-workers-and-woken-people-s-problems-part-1-english) (2023-05-28; en); passages p0005, p0006, p0007. [Structured record](../../records/src-32665478a6c1.json).
+
+### src-32665478a6c1-c02
+
+She attributes limited past-life memory to frequency incompatibility rather than technological erasure.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star seeds, light workers, and woken people’s problems, part 1 (English)](https://swaruu.org/transcripts/star-seeds-light-workers-and-woken-people-s-problems-part-1-english) (2023-05-28; en); passages p0009, p0010, p0011, p0012. [Structured record](../../records/src-32665478a6c1.json).
+
+### src-32665478a6c1-c04
+
+She says starseeds may feel alienated and struggle to adapt to family and culture.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star seeds, light workers, and woken people’s problems, part 1 (English)](https://swaruu.org/transcripts/star-seeds-light-workers-and-woken-people-s-problems-part-1-english) (2023-05-28; en); passages p0014, p0015, p0017, p0020. [Structured record](../../records/src-32665478a6c1.json).
+
+### src-32665478a6c1-c05
+
+Mari says missions are individual and may involve simply existing or finding like-minded people.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star seeds, light workers, and woken people’s problems, part 1 (English)](https://swaruu.org/transcripts/star-seeds-light-workers-and-woken-people-s-problems-part-1-english) (2023-05-28; en); passages p0022, p0023, p0024, p0025. [Structured record](../../records/src-32665478a6c1.json).
+
+### src-15eb15d3c9a4-c01
+
+Mari says karma is often treated as fixed punishment but can mean consequences of actions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Thoughts on Karma and Dharma (English)](https://swaruu.org/transcripts/thoughts-on-karma-and-dharma-english) (2023-03-13; en); passages p0003, p0005, p0006. [Structured record](../../records/src-15eb15d3c9a4.json).
+
+### src-15eb15d3c9a4-c02
+
+She describes living in karma as obeying imposed rules through fear and guilt.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Thoughts on Karma and Dharma (English)](https://swaruu.org/transcripts/thoughts-on-karma-and-dharma-english) (2023-03-13; en); passages p0007, p0012, p0014, p0021. [Structured record](../../records/src-15eb15d3c9a4.json).
+
+### src-15eb15d3c9a4-c03
+
+Mari defines dharma as living by one’s identity and taking responsibility for it.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Thoughts on Karma and Dharma (English)](https://swaruu.org/transcripts/thoughts-on-karma-and-dharma-english) (2023-03-13; en); passages p0021, p0022. [Structured record](../../records/src-15eb15d3c9a4.json).
+
+### src-15eb15d3c9a4-c05
+
+Mari recommends personal growth and self-responsibility as a way to improve one’s world.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Thoughts on Karma and Dharma (English)](https://swaruu.org/transcripts/thoughts-on-karma-and-dharma-english) (2023-03-13; en); passages p0022, p0023. [Structured record](../../records/src-15eb15d3c9a4.json).
+
+### src-001cf59b4543-c01
+
+Yazhi distinguishes measurable realm averages from consciousness-based meanings of 3D and 5D.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Shadow People - Complimentary Chat with Yazhi about Mari Swaruu´s Video](https://swaruu.org/transcripts/shadow-people-complimentary-chat-with-yazhi-about-mari-swaruu-s-video) (2023-05-28; en); passages p0004, p0005, p0007, p0008. [Structured record](../../records/src-001cf59b4543.json).
+
+### src-8bbf9e6a6e78-c03
+
+Yazhi says changes usually last only a few generations unless consciousness stabilizes them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Hybrids - Humans with ETS - Is It Done? Yazhi Swaruu](https://swaruu.org/transcripts/hybrids-humans-with-ets-is-it-done-yazhi-swaruu) (2023-04-04; en); passages p0010, p0011, p0012. [Structured record](../../records/src-8bbf9e6a6e78.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-331beeab2088-c01
+
+Mari says astral experience varies with each soul’s attention and perception agreements. Personal metaphysics.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. Part 3. Important recapitulation of base concepts that describe everything. (English)](https://swaruu.org/transcripts/the-astral-part-3-important-recapitulation-of-base-concepts-that-describe-everything-english) (2023-08-12; en); passages p0014, p0015. [Structured record](../../records/src-331beeab2088.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-331beeab2088-c05
+
+Mari says bodily perception filters what incarnate people experience.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. Part 3. Important recapitulation of base concepts that describe everything. (English)](https://swaruu.org/transcripts/the-astral-part-3-important-recapitulation-of-base-concepts-that-describe-everything-english) (2023-08-12; en); passages p0011. [Structured record](../../records/src-331beeab2088.json).
+
+### src-9bdcda4720c8-c01
+
+Arien says fear can arise when negative influences meet emotional instability. Personal metaphysics.
+
+Attributed to **Arien of Erra**; asserted; extraction confidence: high.
+
+Source: [Fears, and Attitude towards Life](https://swaruu.org/transcripts/fears-and-attitude-towards-life) (2023-03-27; en); passages p0004, p0005. [Structured record](../../records/src-9bdcda4720c8.json).
+
+### src-9bdcda4720c8-c03
+
+Arien advises distinguishing fear from logical warnings before acting.
+
+Attributed to **Arien of Erra**; asserted; extraction confidence: high.
+
+Source: [Fears, and Attitude towards Life](https://swaruu.org/transcripts/fears-and-attitude-towards-life) (2023-03-27; en); passages p0015, p0016. [Structured record](../../records/src-9bdcda4720c8.json).
+
+### src-9bdcda4720c8-c04
+
+She says attention to feared outcomes can manifest those realities. Personal metaphysics.
+
+Attributed to **Arien of Erra**; asserted; extraction confidence: high.
+
+Source: [Fears, and Attitude towards Life](https://swaruu.org/transcripts/fears-and-attitude-towards-life) (2023-03-27; en); passages p0012, p0018. [Structured record](../../records/src-9bdcda4720c8.json).
+
+### src-9bdcda4720c8-c05
+
+Arien says personal motivation and responsibility guide decisions.
+
+Attributed to **Arien of Erra**; asserted; extraction confidence: high.
+
+Source: [Fears, and Attitude towards Life](https://swaruu.org/transcripts/fears-and-attitude-towards-life) (2023-03-27; en); passages p0017, p0021. [Structured record](../../records/src-9bdcda4720c8.json).
+
+### src-01100c03c15c-c01
+
+Za’el says destiny may appear fixed while choices still shape lived futures. Personal philosophy.
+
+Attributed to **Za´el of Erra**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 3: Can you escape from destiny? (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-3-can-you-escape-from-destiny-english) (2023-03-14; en); passages p0012, p0013, p0014. [Structured record](../../records/src-01100c03c15c.json).
+
+### src-01100c03c15c-c02
+
+He says recurring hardships may reflect ideas or unconscious patterns.
+
+Attributed to **Za´el of Erra**; speculative; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 3: Can you escape from destiny? (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-3-can-you-escape-from-destiny-english) (2023-03-14; en); passages p0015. [Structured record](../../records/src-01100c03c15c.json).
+
+### src-01100c03c15c-c03
+
+Za’el says people cannot know another soul’s intended life plan with certainty.
+
+Attributed to **Za´el of Erra**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 3: Can you escape from destiny? (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-3-can-you-escape-from-destiny-english) (2023-03-14; en); passages p0017. [Structured record](../../records/src-01100c03c15c.json).
+
+### src-01100c03c15c-c05
+
+Za’el presents his account as personal and open to revision.
+
+Attributed to **Za´el of Erra**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 3: Can you escape from destiny? (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-3-can-you-escape-from-destiny-english) (2023-03-14; en); passages p0021. [Structured record](../../records/src-01100c03c15c.json).
+
+### src-8db2b748b164-c01
+
+Arien says perceived past lives are simultaneous moments rather than a linear past. Personal metaphysics.
+
+Attributed to **Arien of Erra**; asserted; extraction confidence: high.
+
+Source: [Arien of Erra - Memories, Inner Knowing and self responsibility](https://swaruu.org/transcripts/arien-of-erra-memories-inner-knowing-and-self-responsibility) (2023-03-19; en); passages p0006, p0007. [Structured record](../../records/src-8db2b748b164.json).
+
+### src-8db2b748b164-c02
+
+She says memories or talents may reflect access to parallel moments.
+
+Attributed to **Arien of Erra**; speculative; extraction confidence: high.
+
+Source: [Arien of Erra - Memories, Inner Knowing and self responsibility](https://swaruu.org/transcripts/arien-of-erra-memories-inner-knowing-and-self-responsibility) (2023-03-19; en); passages p0008, p0009, p0010. [Structured record](../../records/src-8db2b748b164.json).
+
+### src-8db2b748b164-c03
+
+Arien warns against treating inner impressions as certainty or imposing them on others.
+
+Attributed to **Arien of Erra**; asserted; extraction confidence: high.
+
+Source: [Arien of Erra - Memories, Inner Knowing and self responsibility](https://swaruu.org/transcripts/arien-of-erra-memories-inner-knowing-and-self-responsibility) (2023-03-19; en); passages p0011. [Structured record](../../records/src-8db2b748b164.json).
+
+### src-8db2b748b164-c04
+
+She says memory retrieval is personal and may take years.
+
+Attributed to **Arien of Erra**; asserted; extraction confidence: high.
+
+Source: [Arien of Erra - Memories, Inner Knowing and self responsibility](https://swaruu.org/transcripts/arien-of-erra-memories-inner-knowing-and-self-responsibility) (2023-03-19; en); passages p0015, p0016. [Structured record](../../records/src-8db2b748b164.json).
+
+### src-8db2b748b164-c05
+
+Arien says people must interpret their own memories through inner work.
+
+Attributed to **Arien of Erra**; asserted; extraction confidence: high.
+
+Source: [Arien of Erra - Memories, Inner Knowing and self responsibility](https://swaruu.org/transcripts/arien-of-erra-memories-inner-knowing-and-self-responsibility) (2023-03-19; en); passages p0013, p0014, p0020. [Structured record](../../records/src-8db2b748b164.json).
+
+### src-415d7d5b87e4-c05
+
+Mari says forced extraction may lead to a harder repeated Earth incarnation. Unverified metaphysical claim.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 2 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-2-english) (2023-07-19; en); passages p0011, p0013. [Structured record](../../records/src-415d7d5b87e4.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-f1b43956c901-c01
+
+Za’el says dream-time can seem greatly expanded or compressed. Personal metaphysics.
+
+Attributed to **Za´el of Erra**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 2: Time in dreams and souls (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-2-time-in-dreams-and-souls-english) (2023-03-08; en); passages p0003, p0004. [Structured record](../../records/src-f1b43956c901.json).
+
+### src-f1b43956c901-c02
+
+He says present attention shapes perceived futures, as in dreams.
+
+Attributed to **Za´el of Erra**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 2: Time in dreams and souls (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-2-time-in-dreams-and-souls-english) (2023-03-08; en); passages p0007, p0009, p0010. [Structured record](../../records/src-f1b43956c901.json).
+
+### src-f1b43956c901-c03
+
+Za’el describes souls as points of attention embodied in characters.
+
+Attributed to **Za´el of Erra**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 2: Time in dreams and souls (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-2-time-in-dreams-and-souls-english) (2023-03-08; en); passages p0011, p0014. [Structured record](../../records/src-f1b43956c901.json).
+
+### src-f1b43956c901-c04
+
+He says incarnations may overlap rather than occur sequentially.
+
+Attributed to **Za´el of Erra**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 2: Time in dreams and souls (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-2-time-in-dreams-and-souls-english) (2023-03-08; en); passages p0015, p0016. [Structured record](../../records/src-f1b43956c901.json).
+
+### src-f1b43956c901-c05
+
+Za’el says past events may be modified through present choices.
+
+Attributed to **Za´el of Erra**; speculative; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 2: Time in dreams and souls (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-2-time-in-dreams-and-souls-english) (2023-03-08; en); passages p0007, p0008. [Structured record](../../records/src-f1b43956c901.json).
+
+### src-31e1b41b8c15-c01
+
+Yazhi says dormant DNA holds inaccessible memories, including past lives; consciousness may reveal some.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [DNA - Registry of Who We Are - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dna-registry-of-who-we-are-questions-from-the-public-yazhi-swaruu) (2023-03-26; en); passages p0008, p0010, p0012. [Structured record](../../records/src-31e1b41b8c15.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-31e1b41b8c15-c02
+
+She says DNA complexity reflects katra, not race, and does not limit people.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [DNA - Registry of Who We Are - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dna-registry-of-who-we-are-questions-from-the-public-yazhi-swaruu) (2023-03-26; en); passages p0013, p0015, p0016. [Structured record](../../records/src-31e1b41b8c15.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-31e1b41b8c15-c03
+
+She describes DNA as katra’s physical manifestation and reflection, not cause, of abilities.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [DNA - Registry of Who We Are - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dna-registry-of-who-we-are-questions-from-the-public-yazhi-swaruu) (2023-03-26; en); passages p0019, p0021, p0023, p0024. [Structured record](../../records/src-31e1b41b8c15.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-f188068e31d4-c01
+
+Yazhi says souls split to experience multiple lives; a higher self benefits.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Metaphysical Chat about Expansion of Souls - with Yazhi Swaruu](https://swaruu.org/transcripts/metaphysical-chat-about-expansion-of-souls-with-yazhi-swaruu) (2023-05-04; en); passages p0003, p0004, p0005, p0006, p0008, p0010. [Structured record](../../records/src-f188068e31d4.json).
+
+### src-f188068e31d4-c02
+
+She says imagination and knowledge support expansion.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Metaphysical Chat about Expansion of Souls - with Yazhi Swaruu](https://swaruu.org/transcripts/metaphysical-chat-about-expansion-of-souls-with-yazhi-swaruu) (2023-05-04; en); passages p0018, p0019. [Structured record](../../records/src-f188068e31d4.json).
+
+### src-f188068e31d4-c03
+
+She says past-life recall is unnecessary; experience still shapes the present self.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Metaphysical Chat about Expansion of Souls - with Yazhi Swaruu](https://swaruu.org/transcripts/metaphysical-chat-about-expansion-of-souls-with-yazhi-swaruu) (2023-05-04; en); passages p0020, p0021. [Structured record](../../records/src-f188068e31d4.json).
+
+### src-4ef944b1a1f6-c01
+
+Mari says Earth is not a prison; souls willingly incarnate there for rapid consciousness growth.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video Number 2, for Starseeds and the Awakened Ones. (English)](https://swaruu.org/transcripts/motivational-video-number-2-for-starseeds-and-the-awakened-ones-english) (2023-06-09; en); passages p0005, p0006. [Structured record](../../records/src-4ef944b1a1f6.json).
+
+### src-4ef944b1a1f6-c02
+
+Mari describes Earth as a difficult school for experienced souls, where contrast accelerates expansion.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video Number 2, for Starseeds and the Awakened Ones. (English)](https://swaruu.org/transcripts/motivational-video-number-2-for-starseeds-and-the-awakened-ones-english) (2023-06-09; en); passages p0007, p0008, p0013, p0014. [Structured record](../../records/src-4ef944b1a1f6.json).
+
+### src-4ef944b1a1f6-c03
+
+Mari says hardship is self-chosen from the soul’s higher perspective, while acknowledging cruelty and exploitation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video Number 2, for Starseeds and the Awakened Ones. (English)](https://swaruu.org/transcripts/motivational-video-number-2-for-starseeds-and-the-awakened-ones-english) (2023-06-09; en); passages p0019, p0020, p0021. [Structured record](../../records/src-4ef944b1a1f6.json).
+
+### src-4ef944b1a1f6-c04
+
+Mari says starseeds should improve themselves and loved ones, influencing reality through ethics and high frequency.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video Number 2, for Starseeds and the Awakened Ones. (English)](https://swaruu.org/transcripts/motivational-video-number-2-for-starseeds-and-the-awakened-ones-english) (2023-06-09; en); passages p0016, p0023, p0024, p0025, p0026. [Structured record](../../records/src-4ef944b1a1f6.json).
+
+### src-2ccd6a89a072-c01
+
+Yazhi says Earth’s material world is a mental game whose obstacles are created by souls experiencing it.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Starseeds - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/starseeds-conversation-with-sophia-swaruu-yazhi) (2023-06-11; en); passages p0003, p0004. [Structured record](../../records/src-2ccd6a89a072.json).
+
+### src-2ccd6a89a072-c03
+
+She says starseed waves respond to increased difficulty and seek challenges for personal expansion.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Starseeds - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/starseeds-conversation-with-sophia-swaruu-yazhi) (2023-06-11; en); passages p0019, p0020, p0022, p0023. [Structured record](../../records/src-2ccd6a89a072.json).
+
+### src-2ccd6a89a072-c04
+
+She says souls choose whether to perceive changes as positive or negative; she describes a perceived split in realities.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Starseeds - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/starseeds-conversation-with-sophia-swaruu-yazhi) (2023-06-11; en); passages p0024, p0032. [Structured record](../../records/src-2ccd6a89a072.json).
+
+### src-861b9bdec2b4-c05
+
+She says radiation belts are measurable; as a barrier, they apply only to Earthbound perception. Soul crossing is uncertain.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [How the Galactic Federation sees what happens on Earth, part 1 (English)](https://swaruu.org/transcripts/how-the-galactic-federation-sees-what-happens-on-earth-part-1-english) (2023-03-16; en); passages p0021, p0023, p0024, p0025. [Structured record](../../records/src-861b9bdec2b4.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-c3a62baab84f-c01
+
+Mari says density is individual awareness, not place or a measurable frequency.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What does it mean to be living in 5D? (English)](https://swaruu.org/transcripts/what-does-it-mean-to-be-living-in-5d-english) (2023-05-22; en); passages p0003, p0005, p0009, p0012. [Structured record](../../records/src-c3a62baab84f.json).
+
+### src-c3a62baab84f-c02
+
+She rejects fixed 3D/4D/5D realms, treating them as ideas and group agreements.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What does it mean to be living in 5D? (English)](https://swaruu.org/transcripts/what-does-it-mean-to-be-living-in-5d-english) (2023-05-22; en); passages p0006, p0008, p0011. [Structured record](../../records/src-c3a62baab84f.json).
+
+### src-c3a62baab84f-c03
+
+She says 5D means awareness, gratitude, and seeing others as reflections of oneself.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What does it mean to be living in 5D? (English)](https://swaruu.org/transcripts/what-does-it-mean-to-be-living-in-5d-english) (2023-05-22; en); passages p0010, p0012. [Structured record](../../records/src-c3a62baab84f.json).
+
+### src-c3a62baab84f-c04
+
+Mari says fear-driven overthinking can sustain survival-focused materiality and hinder spiritual growth; real danger still needs caution.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What does it mean to be living in 5D? (English)](https://swaruu.org/transcripts/what-does-it-mean-to-be-living-in-5d-english) (2023-05-22; en); passages p0013, p0014. [Structured record](../../records/src-c3a62baab84f.json).
+
+### src-c3a62baab84f-c05
+
+She says higher awareness brings empathy and understanding, but no person is absolutely more evolved.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What does it mean to be living in 5D? (English)](https://swaruu.org/transcripts/what-does-it-mean-to-be-living-in-5d-english) (2023-05-22; en); passages p0015, p0016, p0019, p0020, p0021. [Structured record](../../records/src-c3a62baab84f.json).
+
+### src-62ae0182b6c0-c01
+
+Mari says alter egos can help people change habitual responses rooted in unconscious triggers.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Alter Egos, and how they can help us cope with our daily life. (English)](https://swaruu.org/transcripts/alter-egos-and-how-they-can-help-us-cope-with-our-daily-life-english) (2023-05-11; en); passages p0010, p0011, p0015, p0016, p0017. [Structured record](../../records/src-62ae0182b6c0.json).
+
+### src-62ae0182b6c0-c02
+
+She says triggers often arise from repeated family interactions that undermine self-esteem.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Alter Egos, and how they can help us cope with our daily life. (English)](https://swaruu.org/transcripts/alter-egos-and-how-they-can-help-us-cope-with-our-daily-life-english) (2023-05-11; en); passages p0011, p0012, p0013, p0014. [Structured record](../../records/src-62ae0182b6c0.json).
+
+### src-62ae0182b6c0-c03
+
+Mari recommends inventing a unique ideal persona rather than adopting an existing hero or celebrity.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Alter Egos, and how they can help us cope with our daily life. (English)](https://swaruu.org/transcripts/alter-egos-and-how-they-can-help-us-cope-with-our-daily-life-english) (2023-05-11; en); passages p0018, p0019, p0020, p0021. [Structured record](../../records/src-62ae0182b6c0.json).
+
+### src-62ae0182b6c0-c04
+
+She says practicing this persona can help someone act beyond limitations tied to their usual identity.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Alter Egos, and how they can help us cope with our daily life. (English)](https://swaruu.org/transcripts/alter-egos-and-how-they-can-help-us-cope-with-our-daily-life-english) (2023-05-11; en); passages p0022, p0025, p0026. [Structured record](../../records/src-62ae0182b6c0.json).
+
+### src-62ae0182b6c0-c05
+
+Mari says leaving one’s hometown may help but is not necessary; writing and visualization can clarify the persona.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Alter Egos, and how they can help us cope with our daily life. (English)](https://swaruu.org/transcripts/alter-egos-and-how-they-can-help-us-cope-with-our-daily-life-english) (2023-05-11; en); passages p0024, p0025. [Structured record](../../records/src-62ae0182b6c0.json).
+
+### src-507e3e5d35c8-c01
+
+Za’el says events can have many possible meanings, and exceptions make “everything happens for a reason” nonabsolute.
+
+Attributed to **Za´el**; reported; extraction confidence: high.
+
+Source: [Thousands of Meanings - Does everything happen for a reason?](https://swaruu.org/transcripts/thousands-of-meanings-does-everything-happen-for-a-reason) (2023-07-02; en); passages p0003, p0004, p0008, p0013. [Structured record](../../records/src-507e3e5d35c8.json).
+
+### src-507e3e5d35c8-c02
+
+Za’el says a person’s present identity and perception continually shape their path.
+
+Attributed to **Za´el**; reported; extraction confidence: high.
+
+Source: [Thousands of Meanings - Does everything happen for a reason?](https://swaruu.org/transcripts/thousands-of-meanings-does-everything-happen-for-a-reason) (2023-07-02; en); passages p0012, p0013. [Structured record](../../records/src-507e3e5d35c8.json).
+
+### src-507e3e5d35c8-c03
+
+She says hardship can redirect life paths and enrich the soul through new experiences.
+
+Attributed to **Za´el**; reported; extraction confidence: high.
+
+Source: [Thousands of Meanings - Does everything happen for a reason?](https://swaruu.org/transcripts/thousands-of-meanings-does-everything-happen-for-a-reason) (2023-07-02; en); passages p0010, p0011. [Structured record](../../records/src-507e3e5d35c8.json).
+
+### src-507e3e5d35c8-c04
+
+Za’el says positive and negative events can open multiple paths; their meaning depends on perspective.
+
+Attributed to **Za´el**; reported; extraction confidence: high.
+
+Source: [Thousands of Meanings - Does everything happen for a reason?](https://swaruu.org/transcripts/thousands-of-meanings-does-everything-happen-for-a-reason) (2023-07-02; en); passages p0014, p0015, p0018. [Structured record](../../records/src-507e3e5d35c8.json).
+
+### src-507e3e5d35c8-c05
+
+She says meanings assigned to present events can shape desired realities through attention and persistence.
+
+Attributed to **Za´el**; reported; extraction confidence: high.
+
+Source: [Thousands of Meanings - Does everything happen for a reason?](https://swaruu.org/transcripts/thousands-of-meanings-does-everything-happen-for-a-reason) (2023-07-02; en); passages p0016, p0024, p0025, p0026. [Structured record](../../records/src-507e3e5d35c8.json).
+
+### src-9de10964a09d-c01
+
+Mari says “false people” may be an intermittent, perspective-dependent concept, not a fixed trait.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The False People and you. (English)](https://swaruu.org/transcripts/the-false-people-and-you-english) (2023-04-15; en); passages p0006. [Structured record](../../records/src-9de10964a09d.json).
+
+### src-9de10964a09d-c02
+
+The theory describes some perceived people as projections of consciousness without independent souls. Mari presents this as a theory, not a fixed conclusion.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The False People and you. (English)](https://swaruu.org/transcripts/the-false-people-and-you-english) (2023-04-15; en); passages p0007, p0008, p0009, p0011. [Structured record](../../records/src-9de10964a09d.json).
+
+### src-9de10964a09d-c03
+
+Mari says the concept can help people conserve attention for significant relationships and close friends.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The False People and you. (English)](https://swaruu.org/transcripts/the-false-people-and-you-english) (2023-04-15; en); passages p0015, p0017, p0018, p0026. [Structured record](../../records/src-9de10964a09d.json).
+
+### src-9de10964a09d-c04
+
+Mari says questioning whether one is a “false person” means one has a soul.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The False People and you. (English)](https://swaruu.org/transcripts/the-false-people-and-you-english) (2023-04-15; en); passages p0019. [Structured record](../../records/src-9de10964a09d.json).
+
+### src-9de10964a09d-c05
+
+She advises treating everyone respectfully while defending oneself and withholding needless attention from irrelevant people.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The False People and you. (English)](https://swaruu.org/transcripts/the-false-people-and-you-english) (2023-04-15; en); passages p0021, p0022. [Structured record](../../records/src-9de10964a09d.json).
+
+### src-ab22dfeea61d-c02
+
+She says higher beings exist beyond space-time, communicate telepathically, and do not hold councils.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Light beings, Positive twist Part two, Galactic Federation Part 6. (English)](https://swaruu.org/transcripts/light-beings-positive-twist-part-two-galactic-federation-part-6-english) (2023-03-30; en); passages p0007, p0008. [Structured record](../../records/src-ab22dfeea61d.json).
+
+### src-ab22dfeea61d-c03
+
+Mari says light beings guide lower realms by implanting ideas or appearing in familiar forms.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Light beings, Positive twist Part two, Galactic Federation Part 6. (English)](https://swaruu.org/transcripts/light-beings-positive-twist-part-two-galactic-federation-part-6-english) (2023-03-30; en); passages p0008, p0009. [Structured record](../../records/src-ab22dfeea61d.json).
+
+### src-ab22dfeea61d-c04
+
+She says light beings may incarnate as humans or inhabit multiple places while remaining nonmaterial.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Light beings, Positive twist Part two, Galactic Federation Part 6. (English)](https://swaruu.org/transcripts/light-beings-positive-twist-part-two-galactic-federation-part-6-english) (2023-03-30; en); passages p0018, p0019. [Structured record](../../records/src-ab22dfeea61d.json).
+
+### src-ab22dfeea61d-c05
+
+Mari says events seen negatively on Earth may appear as growth opportunities from expanded perspectives.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Light beings, Positive twist Part two, Galactic Federation Part 6. (English)](https://swaruu.org/transcripts/light-beings-positive-twist-part-two-galactic-federation-part-6-english) (2023-03-30; en); passages p0011, p0012, p0013, p0014. [Structured record](../../records/src-ab22dfeea61d.json).
+
+### src-788871b703a3-c01
+
+Mari defines personal and collective timelines as sequences of experienced events, not independent objects.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time Travel and why Timelines don't really exist. (English)](https://swaruu.org/transcripts/time-travel-and-why-timelines-don-t-really-exist-english) (2023-06-01; en); passages p0008, p0009, p0011. [Structured record](../../records/src-788871b703a3.json).
+
+### src-788871b703a3-c02
+
+She says time depends on a soul’s attention and perception rather than existing separately from it.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time Travel and why Timelines don't really exist. (English)](https://swaruu.org/transcripts/time-travel-and-why-timelines-don-t-really-exist-english) (2023-06-01; en); passages p0007, p0008. [Structured record](../../records/src-788871b703a3.json).
+
+### src-788871b703a3-c05
+
+Mari says timelines and parallel universes are concepts within Source unity, not external structures.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time Travel and why Timelines don't really exist. (English)](https://swaruu.org/transcripts/time-travel-and-why-timelines-don-t-really-exist-english) (2023-06-01; en); passages p0012, p0013. [Structured record](../../records/src-788871b703a3.json).
+
+### src-f551c06c99aa-c01
+
+Mari says Earth models time linearly, while advanced civilizations picture it as an expanding sphere.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time and how it Works, Part 2, Timelines (English)](https://swaruu.org/transcripts/time-and-how-it-works-part-2-timelines-english) (2023-05-03; en); passages p0007, p0013, p0014. [Structured record](../../records/src-f551c06c99aa.json).
+
+### src-f551c06c99aa-c03
+
+Mari defines timelines as event sequences whose possible futures depend on past and present conditions.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time and how it Works, Part 2, Timelines (English)](https://swaruu.org/transcripts/time-and-how-it-works-part-2-timelines-english) (2023-05-03; en); passages p0021. [Structured record](../../records/src-f551c06c99aa.json).
+
+### src-f551c06c99aa-c04
+
+She says timelines are mind-generated and thought changes can match people to desired outcomes.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time and how it Works, Part 2, Timelines (English)](https://swaruu.org/transcripts/time-and-how-it-works-part-2-timelines-english) (2023-05-03; en); passages p0022, p0023, p0024, p0025. [Structured record](../../records/src-f551c06c99aa.json).
+
+### src-f551c06c99aa-c05
+
+Mari says advanced models use three spatial and three time dimensions, unlike Earth’s four-dimensional model.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time and how it Works, Part 2, Timelines (English)](https://swaruu.org/transcripts/time-and-how-it-works-part-2-timelines-english) (2023-05-03; en); passages p0014, p0015, p0016. [Structured record](../../records/src-f551c06c99aa.json).
+
+### src-4f0faaaf08ce-c01
+
+Gosia says starseeds may serve many purposes beyond witnessing disclosure or Matrix collapse.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Message from Gosia to all the Starseeds - Disclosures, Social Changes - Is that your Purpose?](https://swaruu.org/transcripts/message-from-gosia-to-all-the-starseeds-disclosures-social-changes-is-that-your-purpose) (2023-06-07; en); passages p0002, p0004, p0005. [Structured record](../../records/src-4f0faaaf08ce.json).
+
+### src-4f0faaaf08ce-c05
+
+She says starseeds are not responsible for saving humanity.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Message from Gosia to all the Starseeds - Disclosures, Social Changes - Is that your Purpose?](https://swaruu.org/transcripts/message-from-gosia-to-all-the-starseeds-disclosures-social-changes-is-that-your-purpose) (2023-06-07; en); passages p0002, p0016. [Structured record](../../records/src-4f0faaaf08ce.json).
+
+### src-407a6821f2be-c01
+
+Za’el says repeated self-critical speech can reinforce low self-esteem and self-sabotage.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [The Power of Words and the Congruence of your Expressions](https://swaruu.org/transcripts/the-power-of-words-and-the-congruence-of-your-expressions) (2023-05-25; en); passages p0002, p0004, p0005, p0006. [Structured record](../../records/src-407a6821f2be.json).
+
+### src-407a6821f2be-c02
+
+He claims words can shape perceived reality by recording ideas in the unconscious.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [The Power of Words and the Congruence of your Expressions](https://swaruu.org/transcripts/the-power-of-words-and-the-congruence-of-your-expressions) (2023-05-25; en); passages p0002, p0009, p0010. [Structured record](../../records/src-407a6821f2be.json).
+
+### src-407a6821f2be-c03
+
+He says speech toward others can encourage or undermine them, depending partly on receptivity.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [The Power of Words and the Congruence of your Expressions](https://swaruu.org/transcripts/the-power-of-words-and-the-congruence-of-your-expressions) (2023-05-25; en); passages p0002, p0007, p0011. [Structured record](../../records/src-407a6821f2be.json).
+
+### src-407a6821f2be-c04
+
+He recommends objective, proportionate, compassionate language toward oneself and others.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [The Power of Words and the Congruence of your Expressions](https://swaruu.org/transcripts/the-power-of-words-and-the-congruence-of-your-expressions) (2023-05-25; en); passages p0002, p0012, p0013, p0015, p0016, p0020. [Structured record](../../records/src-407a6821f2be.json).
+
+### src-407a6821f2be-c05
+
+He says individuals retain control over their own destiny despite others’ words.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [The Power of Words and the Congruence of your Expressions](https://swaruu.org/transcripts/the-power-of-words-and-the-congruence-of-your-expressions) (2023-05-25; en); passages p0002, p0021. [Structured record](../../records/src-407a6821f2be.json).
+
+### src-84aa212c93d4-c02
+
+She says each being interprets a shared environment through its own learned values.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why no one can escape the Matrix. Part 2](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-part-2) (2023-04-07; en); passages p0002, p0006, p0007, p0008. [Structured record](../../records/src-84aa212c93d4.json).
+
+### src-84aa212c93d4-c05
+
+She says people can improve their personal Matrix by evolving and integrating the Ego.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why no one can escape the Matrix. Part 2](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-part-2) (2023-04-07; en); passages p0002, p0018, p0019, p0020, p0021, p0022. [Structured record](../../records/src-84aa212c93d4.json).
+
+### src-d41b8d084530-c01
+
+Za’el says unresolved trauma may stem from childhood, earlier life events, or past lives.
+
+Attributed to **Za´el**; speculative; extraction confidence: high.
+
+Source: [Your inner Child - How to Heal and Connect with him/her](https://swaruu.org/transcripts/your-inner-child-how-to-heal-and-connect-with-him-her) (2023-08-09; en); passages p0002, p0005, p0006. [Structured record](../../records/src-d41b8d084530.json).
+
+### src-d41b8d084530-c02
+
+He describes an inner child as consciousness or essence associated with a wounded, frozen experience.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Your inner Child - How to Heal and Connect with him/her](https://swaruu.org/transcripts/your-inner-child-how-to-heal-and-connect-with-him-her) (2023-08-09; en); passages p0002, p0010, p0015, p0016. [Structured record](../../records/src-d41b8d084530.json).
+
+### src-d41b8d084530-c03
+
+He says trauma patterns can shape unconscious responses and later manifestations.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Your inner Child - How to Heal and Connect with him/her](https://swaruu.org/transcripts/your-inner-child-how-to-heal-and-connect-with-him-her) (2023-08-09; en); passages p0002, p0007, p0017, p0018. [Structured record](../../records/src-d41b8d084530.json).
+
+### src-d41b8d084530-c04
+
+He recommends persistent questioning and shadow work to identify buried sources of distress.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Your inner Child - How to Heal and Connect with him/her](https://swaruu.org/transcripts/your-inner-child-how-to-heal-and-connect-with-him-her) (2023-08-09; en); passages p0002, p0018, p0019, p0020, p0021. [Structured record](../../records/src-d41b8d084530.json).
+
+### src-d41b8d084530-c05
+
+He advises accepting responsibility without converting past mistakes into guilt.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [Your inner Child - How to Heal and Connect with him/her](https://swaruu.org/transcripts/your-inner-child-how-to-heal-and-connect-with-him-her) (2023-08-09; en); passages p0002, p0023, p0024, p0025. [Structured record](../../records/src-d41b8d084530.json).
+
+### src-3e583159a50e-c01
+
+Yazhi speculates genome may describe a race-level DNA set, while DNA may refer to individuals.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Human Genome and DNA Storage - Yazhi Swaruu](https://swaruu.org/transcripts/human-genome-and-dna-storage-yazhi-swaruu) (2023-04-01; en); passages p0010, p0012. [Structured record](../../records/src-3e583159a50e.json).
+
+### src-3e583159a50e-c05
+
+She says individual DNA changes with age and consciousness, while some data updates may be needed.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Human Genome and DNA Storage - Yazhi Swaruu](https://swaruu.org/transcripts/human-genome-and-dna-storage-yazhi-swaruu) (2023-04-01; en); passages p0021, p0025, p0026, p0027. [Structured record](../../records/src-3e583159a50e.json).
+
+### src-ffbe2c126c1a-c01
+
+Alternate selves inform a person but provide no prescription.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Psychics - Can They Tell me what I Should Do? - Athena Swaruu responds](https://swaruu.org/transcripts/psychics-can-they-tell-me-what-i-should-do-athena-swaruu-responds) (2023-03-04; en); passages p0008, p0009, p0010. [Structured record](../../records/src-ffbe2c126c1a.json).
+
+### src-ffbe2c126c1a-c02
+
+Psychics mainly see their own timelines and filter others’ futures.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Psychics - Can They Tell me what I Should Do? - Athena Swaruu responds](https://swaruu.org/transcripts/psychics-can-they-tell-me-what-i-should-do-athena-swaruu-responds) (2023-03-04; en); passages p0012. [Structured record](../../records/src-ffbe2c126c1a.json).
+
+### src-ffbe2c126c1a-c03
+
+Seers connect to compatible-frequency entities; some are charlatans.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Psychics - Can They Tell me what I Should Do? - Athena Swaruu responds](https://swaruu.org/transcripts/psychics-can-they-tell-me-what-i-should-do-athena-swaruu-responds) (2023-03-04; en); passages p0018. [Structured record](../../records/src-ffbe2c126c1a.json).
+
+### src-ffbe2c126c1a-c04
+
+Athena speculates a prophetic visitor may have been the person’s own self.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: medium.
+
+Source: [Psychics - Can They Tell me what I Should Do? - Athena Swaruu responds](https://swaruu.org/transcripts/psychics-can-they-tell-me-what-i-should-do-athena-swaruu-responds) (2023-03-04; en); passages p0019, p0020. [Structured record](../../records/src-ffbe2c126c1a.json).
+
+### src-ffbe2c126c1a-c05
+
+Athena describes cross-timeline and body-linked unconscious levels.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Psychics - Can They Tell me what I Should Do? - Athena Swaruu responds](https://swaruu.org/transcripts/psychics-can-they-tell-me-what-i-should-do-athena-swaruu-responds) (2023-03-04; en); passages p0021, p0022, p0023, p0024. [Structured record](../../records/src-ffbe2c126c1a.json).
+
+### src-ffbe2c126c1a-c06
+
+She defines channeling as telepathic information flow vulnerable to misinterpretation.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Psychics - Can They Tell me what I Should Do? - Athena Swaruu responds](https://swaruu.org/transcripts/psychics-can-they-tell-me-what-i-should-do-athena-swaruu-responds) (2023-03-04; en); passages p0026, p0027, p0028, p0029. [Structured record](../../records/src-ffbe2c126c1a.json).
+
+### src-ffbe2c126c1a-c07
+
+Swaruu says predictions reflect the seer’s timeline and may be wrong.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Psychics - Can They Tell me what I Should Do? - Athena Swaruu responds](https://swaruu.org/transcripts/psychics-can-they-tell-me-what-i-should-do-athena-swaruu-responds) (2023-03-04; en); passages p0031, p0032. [Structured record](../../records/src-ffbe2c126c1a.json).
+
+### src-785c8500af2e-c03
+
+She argues morphology and location alone do not define identity; ethics and values matter.
+
+Attributed to **Arien**; asserted; extraction confidence: high.
+
+Source: [What is a Human Being to you?](https://swaruu.org/transcripts/what-is-a-human-being-to-you) (2023-05-31; en); passages p0002, p0010, p0011, p0012, p0013, p0015. [Structured record](../../records/src-785c8500af2e.json).
+
+### src-ce9bbcc0863c-c01
+
+Mari says physical reality forms through perception agreements that shape potential energy into matter.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Perspective on the Basic Formation of a Physical Matrix. (English)](https://swaruu.org/transcripts/a-perspective-on-the-basic-formation-of-a-physical-matrix-english) (2023-04-11; en); passages p0002, p0003, p0004, p0005, p0006, p0007, p0008. [Structured record](../../records/src-ce9bbcc0863c.json).
+
+### src-6fd8e8fc178e-c02
+
+She says donor-derived influence may persist physically even if soul frequency restores DNA partly.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Blood Transfusions - Influence on the Receiver - Extraterrestrial Women Respond](https://swaruu.org/transcripts/blood-transfusions-influence-on-the-receiver-extraterrestrial-women-respond) (2023-04-11; en); passages p0007, p0008, p0010. [Structured record](../../records/src-6fd8e8fc178e.json).
+
+### src-6fd8e8fc178e-c03
+
+Athena reports transplant-associated organ failure and a recipient’s marriage to a donor’s former girlfriend.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Blood Transfusions - Influence on the Receiver - Extraterrestrial Women Respond](https://swaruu.org/transcripts/blood-transfusions-influence-on-the-receiver-extraterrestrial-women-respond) (2023-04-11; en); passages p0011, p0015, p0017, p0019, p0020. [Structured record](../../records/src-6fd8e8fc178e.json).
+
+### src-6fd8e8fc178e-c04
+
+She says multiple souls may inhabit one body, but she knows of no such case from transfusion.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Blood Transfusions - Influence on the Receiver - Extraterrestrial Women Respond](https://swaruu.org/transcripts/blood-transfusions-influence-on-the-receiver-extraterrestrial-women-respond) (2023-04-11; en); passages p0021, p0022, p0023, p0024. [Structured record](../../records/src-6fd8e8fc178e.json).
+
+### src-6fd8e8fc178e-c05
+
+Swaruu (9) describes blood and organ donation as lasting energetic entanglement, except when lifesaving.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Blood Transfusions - Influence on the Receiver - Extraterrestrial Women Respond](https://swaruu.org/transcripts/blood-transfusions-influence-on-the-receiver-extraterrestrial-women-respond) (2023-04-11; en); passages p0026, p0027, p0029, p0030, p0031, p0033, p0034. [Structured record](../../records/src-6fd8e8fc178e.json).
+
+### src-89c62899ecb7-c01
+
+Za’el models experienced time as a contextual idea assembled into a life-picture.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 1: Your Context Data (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-1-your-context-data-english) (2023-03-05; en); passages p0002, p0004, p0005, p0006, p0007, p0008, p0009. [Structured record](../../records/src-89c62899ecb7.json).
+
+### src-89c62899ecb7-c02
+
+He says perceived sequence is a chosen rule that makes experience coherent.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 1: Your Context Data (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-1-your-context-data-english) (2023-03-05; en); passages p0002, p0009, p0010. [Structured record](../../records/src-89c62899ecb7.json).
+
+### src-fead5e292474-c01
+
+Yazhi treats terrestrial dark matter as a label for unmeasured effects of other perceptual densities.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Dark Matter and AntiMatter - Extraterrestrial Information - Yazhi Swaruu](https://swaruu.org/transcripts/dark-matter-and-antimatter-extraterrestrial-information-yazhi-swaruu) (2023-08-07; en); passages p0022, p0025, p0096. [Structured record](../../records/src-fead5e292474.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-fead5e292474-c02
+
+She says gravity is a variable etheric flow and causes mass concentrations.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Dark Matter and AntiMatter - Extraterrestrial Information - Yazhi Swaruu](https://swaruu.org/transcripts/dark-matter-and-antimatter-extraterrestrial-information-yazhi-swaruu) (2023-08-07; en); passages p0010, p0011, p0012. [Structured record](../../records/src-fead5e292474.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-fead5e292474-c03
+
+Yazhi says matter arises from gravity and creative consciousness.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Dark Matter and AntiMatter - Extraterrestrial Information - Yazhi Swaruu](https://swaruu.org/transcripts/dark-matter-and-antimatter-extraterrestrial-information-yazhi-swaruu) (2023-08-07; en); passages p0014, p0016. [Structured record](../../records/src-fead5e292474.json).
+
+### src-ad1046aa0fab-c01
+
+Mari says focused individual or collective belief can manifest entities and shape perceived reality.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reality, Egregores, Manifestation and the Paranormal. (English)](https://swaruu.org/transcripts/reality-egregores-manifestation-and-the-paranormal-english) (2023-01-24; en); passages p0013, p0015, p0023, p0033. [Structured record](../../records/src-ad1046aa0fab.json).
+
+### src-ad1046aa0fab-c02
+
+She describes reality as shared perception agreements while individuals may experience parallel viewpoints.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reality, Egregores, Manifestation and the Paranormal. (English)](https://swaruu.org/transcripts/reality-egregores-manifestation-and-the-paranormal-english) (2023-01-24; en); passages p0017, p0018, p0020, p0021. [Structured record](../../records/src-ad1046aa0fab.json).
+
+### src-ad1046aa0fab-c03
+
+Mari says egregores may follow collective expectations and need not possess sentient thought.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reality, Egregores, Manifestation and the Paranormal. (English)](https://swaruu.org/transcripts/reality-egregores-manifestation-and-the-paranormal-english) (2023-01-24; en); passages p0033, p0034, p0036. [Structured record](../../records/src-ad1046aa0fab.json).
+
+### src-ad1046aa0fab-c04
+
+She says some lower-astral entities exist independently of human manifestation and feed on attention or suffering.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reality, Egregores, Manifestation and the Paranormal. (English)](https://swaruu.org/transcripts/reality-egregores-manifestation-and-the-paranormal-english) (2023-01-24; en); passages p0037, p0038. [Structured record](../../records/src-ad1046aa0fab.json).
+
+### src-1c58821fb603-c02
+
+Mari says Sophia was born aboard a starship in hyperspace, outside planetary social agreements.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Who is Sophi (Sophia Swaruu)](https://swaruu.org/transcripts/who-is-sophi-sophia-swaruu) (2023-02-13; en); passages p0006, p0011. [Structured record](../../records/src-1c58821fb603.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-1c58821fb603-c03
+
+She says Sophia recalls at least twelve past incarnations and can access their experiences.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Who is Sophi (Sophia Swaruu)](https://swaruu.org/transcripts/who-is-sophi-sophia-swaruu) (2023-02-13; en); passages p0014, p0015, p0017. [Structured record](../../records/src-1c58821fb603.json).
+
+### src-1c58821fb603-c04
+
+Mari attributes Sophia’s claimed control of bodily functions and passage through walls to this memory.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Who is Sophi (Sophia Swaruu)](https://swaruu.org/transcripts/who-is-sophi-sophia-swaruu) (2023-02-13; en); passages p0017, p0019. [Structured record](../../records/src-1c58821fb603.json).
+
+### src-05f9464ebebc-c01
+
+Mari says churches and temples can act as portals and feeding grounds for lower-astral entities.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseed's problems, part 3, Places and Buildings / Astral Entities, Alcohol and More](https://swaruu.org/transcripts/starseed-s-problems-part-3-places-and-buildings-astral-entities-alcohol-and-more) (2023-06-03; en); passages p0013, p0014, p0005. [Structured record](../../records/src-05f9464ebebc.json).
+
+### src-05f9464ebebc-c02
+
+She attributes low-frequency conditions to sites associated with suffering, death, or control.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseed's problems, part 3, Places and Buildings / Astral Entities, Alcohol and More](https://swaruu.org/transcripts/starseed-s-problems-part-3-places-and-buildings-astral-entities-alcohol-and-more) (2023-06-03; en); passages p0016, p0023, p0024. [Structured record](../../records/src-05f9464ebebc.json).
+
+### src-05f9464ebebc-c03
+
+Mari warns compatible low-frequency visitors may attract entities, with children especially vulnerable.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseed's problems, part 3, Places and Buildings / Astral Entities, Alcohol and More](https://swaruu.org/transcripts/starseed-s-problems-part-3-places-and-buildings-astral-entities-alcohol-and-more) (2023-06-03; en); passages p0021, p0022. [Structured record](../../records/src-05f9464ebebc.json).
+
+### src-05f9464ebebc-c04
+
+She says alcohol lowers willpower and makes people more compatible with lower-astral entities.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseed's problems, part 3, Places and Buildings / Astral Entities, Alcohol and More](https://swaruu.org/transcripts/starseed-s-problems-part-3-places-and-buildings-astral-entities-alcohol-and-more) (2023-06-03; en); passages p0026, p0027. [Structured record](../../records/src-05f9464ebebc.json).
+
+### src-05f9464ebebc-c05
+
+Mari recommends maintaining a strong aura and says crystals may help in low-frequency places.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseed's problems, part 3, Places and Buildings / Astral Entities, Alcohol and More](https://swaruu.org/transcripts/starseed-s-problems-part-3-places-and-buildings-astral-entities-alcohol-and-more) (2023-06-03; en); passages p0028, p0029. [Structured record](../../records/src-05f9464ebebc.json).
+
+### src-605c7c509cae-c02
+
+She says extraction can intensify empathy and regret over loved ones left on Earth.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 3 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-3-english) (2023-07-21; en); passages p0008, p0009, p0010, p0011, p0012. [Structured record](../../records/src-605c7c509cae.json).
+
+### src-605c7c509cae-c03
+
+Mari says prioritizing a stellar identity can devalue one’s human life and motivate escape-seeking.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 3 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-3-english) (2023-07-21; en); passages p0020, p0021, p0022. [Structured record](../../records/src-605c7c509cae.json).
+
+### src-605c7c509cae-c05
+
+Mari advises repairing or releasing relationships on Earth instead of treating extraction as escape.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 3 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-3-english) (2023-07-21; en); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-605c7c509cae.json).
+
+### src-1a4b23eed94f-c03
+
+Swaruu says consciousness leaves at clinical death while some living cells retain a residual signal.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: high.
+
+Source: [Matters of the Body - Peculiarities - Extraterrestrial Women Respond](https://swaruu.org/transcripts/matters-of-the-body-peculiarities-extraterrestrial-women-respond) (2023-04-27; en); passages p0044, p0047, p0050. [Structured record](../../records/src-1a4b23eed94f.json).
+
+### src-c0c392776fd0-c04
+
+She describes Earth as a difficult soul-school where challenge accelerates learning.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon part 3, how it influences Earth and its 3D Matrix. (English)](https://swaruu.org/transcripts/the-moon-part-3-how-it-influences-earth-and-its-3d-matrix-english) (2023-07-11; en); passages p0023, p0024. [Structured record](../../records/src-c0c392776fd0.json).
+
+### src-c0c392776fd0-c05
+
+Mari disputes that Van Allen shields trap souls, citing frequency and attachments instead. She explicitly disagrees with the proposed barrier explanation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Moon part 3, how it influences Earth and its 3D Matrix. (English)](https://swaruu.org/transcripts/the-moon-part-3-how-it-influences-earth-and-its-3d-matrix-english) (2023-07-11; en); passages p0026, p0027. [Structured record](../../records/src-c0c392776fd0.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-50c08119afee-c01
+
+Mari says Earth’s electromagnetic environment hinders telepathy but does not make it impossible.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathy, including directly with you all. (English)](https://swaruu.org/transcripts/telepathy-including-directly-with-you-all-english) (2023-06-27; en); passages p0013, p0014. [Structured record](../../records/src-50c08119afee.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-50c08119afee-c02
+
+She says telepathy is strongest between people who know each other well and share similar frequencies.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathy, including directly with you all. (English)](https://swaruu.org/transcripts/telepathy-including-directly-with-you-all-english) (2023-06-27; en); passages p0015, p0016. [Structured record](../../records/src-50c08119afee.json).
+
+### src-50c08119afee-c04
+
+She says clear intention can act as a mental firewall that limits thought transmission.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathy, including directly with you all. (English)](https://swaruu.org/transcripts/telepathy-including-directly-with-you-all-english) (2023-06-27; en); passages p0019. [Structured record](../../records/src-50c08119afee.json).
+
+### src-50c08119afee-c05
+
+Mari says her group sends telepathic messages to Earth but cannot identify most recipients.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathy, including directly with you all. (English)](https://swaruu.org/transcripts/telepathy-including-directly-with-you-all-english) (2023-06-27; en); passages p0020, p0021, p0023, p0027. [Structured record](../../records/src-50c08119afee.json).
+
+### src-50c08119afee-c06
+
+She warns that some alleged channeling claims are hoaxes and they cannot identify most receivers.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathy, including directly with you all. (English)](https://swaruu.org/transcripts/telepathy-including-directly-with-you-all-english) (2023-06-27; en); passages p0028, p0030, p0031. [Structured record](../../records/src-50c08119afee.json).
+
+### src-3011984ad45e-c01
+
+Mari says thoughts are frequencies transmitted into shared etheric fields, not generated by brains.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathic Fields (English)](https://swaruu.org/transcripts/telepathic-fields-english) (2023-06-13; en); passages p0011, p0012, p0013. [Structured record](../../records/src-3011984ad45e.json).
+
+### src-3011984ad45e-c02
+
+She says collective thoughts reinforce shared patterns and people tune into them by frequency.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathic Fields (English)](https://swaruu.org/transcripts/telepathic-fields-english) (2023-06-13; en); passages p0014, p0017, p0022. [Structured record](../../records/src-3011984ad45e.json).
+
+### src-3011984ad45e-c03
+
+Mari describes the brain as translating etheric thoughts, with DNA acting as a cellular receiver.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathic Fields (English)](https://swaruu.org/transcripts/telepathic-fields-english) (2023-06-13; en); passages p0011. [Structured record](../../records/src-3011984ad45e.json).
+
+### src-3011984ad45e-c04
+
+She says moods may reflect nearby thought fields, while emotions do not necessarily reveal truth.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathic Fields (English)](https://swaruu.org/transcripts/telepathic-fields-english) (2023-06-13; en); passages p0016, p0019. [Structured record](../../records/src-3011984ad45e.json).
+
+### src-3011984ad45e-c05
+
+Mari says starseeds’ strong frequencies can influence the wider field and affect many people.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathic Fields (English)](https://swaruu.org/transcripts/telepathic-fields-english) (2023-06-13; en); passages p0028, p0029. [Structured record](../../records/src-3011984ad45e.json).
+
+### src-3011984ad45e-c06
+
+She advises observing unwanted thoughts without judgment while taking responsibility for self-generated thoughts.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Telepathic Fields (English)](https://swaruu.org/transcripts/telepathic-fields-english) (2023-06-13; en); passages p0026, p0027, p0028. [Structured record](../../records/src-3011984ad45e.json).
+
+### src-803000c4d2e1-c01
+
+Mari says truth, good, and evil are viewpoint-relative, not absolute.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is there an ultimate Truth? (English)](https://swaruu.org/transcripts/is-there-an-ultimate-truth-english) (2023-06-11; en); passages p0007, p0008, p0018. [Structured record](../../records/src-803000c4d2e1.json).
+
+### src-803000c4d2e1-c02
+
+She defines timelines as personal or collective agreements about event sequences.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is there an ultimate Truth? (English)](https://swaruu.org/transcripts/is-there-an-ultimate-truth-english) (2023-06-11; en); passages p0010, p0011. [Structured record](../../records/src-803000c4d2e1.json).
+
+### src-803000c4d2e1-c03
+
+Mari says expanded awareness can integrate contradictory timelines without adopting both accounts.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is there an ultimate Truth? (English)](https://swaruu.org/transcripts/is-there-an-ultimate-truth-english) (2023-06-11; en); passages p0012, p0015. [Structured record](../../records/src-803000c4d2e1.json).
+
+### src-803000c4d2e1-c05
+
+Mari advises examining beliefs, understanding opposing views, and replacing ideas when better ones arise.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is there an ultimate Truth? (English)](https://swaruu.org/transcripts/is-there-an-ultimate-truth-english) (2023-06-11; en); passages p0020, p0021, p0022. [Structured record](../../records/src-803000c4d2e1.json).
+
+### src-803000c4d2e1-c06
+
+She says broader awareness can bring greater understanding and peace alongside social isolation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is there an ultimate Truth? (English)](https://swaruu.org/transcripts/is-there-an-ultimate-truth-english) (2023-06-11; en); passages p0025, p0027. [Structured record](../../records/src-803000c4d2e1.json).
+
+### src-557d7c7208eb-c01
+
+Mari says Earth’s dominant frequency pressures starseeds to conform, making life confusing and stressful.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 6, Metaphysical and Astral Attacks. (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-6-metaphysical-and-astral-attacks-english) (2023-08-02; en); passages p0002, p0003, p0004. [Structured record](../../records/src-557d7c7208eb.json).
+
+### src-557d7c7208eb-c02
+
+She says lower-astral entities feed on fear and try to lower starseeds’ frequency.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 6, Metaphysical and Astral Attacks. (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-6-metaphysical-and-astral-attacks-english) (2023-08-02; en); passages p0007, p0009. [Structured record](../../records/src-557d7c7208eb.json).
+
+### src-557d7c7208eb-c03
+
+Mari says higher vibration can shield starseeds, while entities may exploit family or friends as emotional triggers.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 6, Metaphysical and Astral Attacks. (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-6-metaphysical-and-astral-attacks-english) (2023-08-02; en); passages p0008, p0011, p0012, p0013. [Structured record](../../records/src-557d7c7208eb.json).
+
+### src-557d7c7208eb-c05
+
+Mari advises resolving conflicts or creating distance and maintaining firm personal ethics.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 6, Metaphysical and Astral Attacks. (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-6-metaphysical-and-astral-attacks-english) (2023-08-02; en); passages p0018, p0015, p0023. [Structured record](../../records/src-557d7c7208eb.json).
+
+### src-557d7c7208eb-c06
+
+She says studying feared triggers can reduce fear and encourages courage.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Star seeds and their problems. Part 6, Metaphysical and Astral Attacks. (English)](https://swaruu.org/transcripts/star-seeds-and-their-problems-part-6-metaphysical-and-astral-attacks-english) (2023-08-02; en); passages p0023. [Structured record](../../records/src-557d7c7208eb.json).
+
+### src-ab9ee5db11c6-c01
+
+Mari says souls choose Earth willingly, viewing its hardship as a challenge they believe they can face.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video for Starseeds and the awakened ones. (English)](https://swaruu.org/transcripts/motivational-video-for-starseeds-and-the-awakened-ones-english) (2023-04-29; en); passages p0012, p0016. [Structured record](../../records/src-ab9ee5db11c6.json).
+
+### src-ab9ee5db11c6-c02
+
+She says empathy and sensitivity reflect a strong Source connection and let starseeds channel energy into Earth.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video for Starseeds and the awakened ones. (English)](https://swaruu.org/transcripts/motivational-video-for-starseeds-and-the-awakened-ones-english) (2023-04-29; en); passages p0013, p0014, p0015. [Structured record](../../records/src-ab9ee5db11c6.json).
+
+### src-ab9ee5db11c6-c03
+
+Mari says memory erasure is superficial, with past-life knowledge remaining beneath conscious recall.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video for Starseeds and the awakened ones. (English)](https://swaruu.org/transcripts/motivational-video-for-starseeds-and-the-awakened-ones-english) (2023-04-29; en); passages p0009, p0010, p0011. [Structured record](../../records/src-ab9ee5db11c6.json).
+
+### src-ab9ee5db11c6-c04
+
+She describes spirit guides as expanded versions of oneself that include the incarnated viewpoint.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video for Starseeds and the awakened ones. (English)](https://swaruu.org/transcripts/motivational-video-for-starseeds-and-the-awakened-ones-english) (2023-04-29; en); passages p0019. [Structured record](../../records/src-ab9ee5db11c6.json).
+
+### src-ab9ee5db11c6-c05
+
+Mari says crystals or amulets may help when a person gives them meaning.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video for Starseeds and the awakened ones. (English)](https://swaruu.org/transcripts/motivational-video-for-starseeds-and-the-awakened-ones-english) (2023-04-29; en); passages p0026. [Structured record](../../records/src-ab9ee5db11c6.json).
+
+### src-1c8474164b21-c01
+
+Mari’s model treats consciousness as primary, with space, time, and matter as its manifestations.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Everything is mind, everything is consciousness. ( English )](https://swaruu.org/transcripts/everything-is-mind-everything-is-consciousness-english) (2023-05-01; en); passages p0010, p0011, p0012. [Structured record](../../records/src-1c8474164b21.json).
+
+### src-1c8474164b21-c02
+
+She says quiet consciousness creates ether, while thought-frequency harmonics form persistent structures.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Everything is mind, everything is consciousness. ( English )](https://swaruu.org/transcripts/everything-is-mind-everything-is-consciousness-english) (2023-05-01; en); passages p0013, p0014, p0015, p0016. [Structured record](../../records/src-1c8474164b21.json).
+
+### src-1c8474164b21-c03
+
+Mari says the collective unconscious slows manifestation, while congruent individuals can influence it.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Everything is mind, everything is consciousness. ( English )](https://swaruu.org/transcripts/everything-is-mind-everything-is-consciousness-english) (2023-05-01; en); passages p0017, p0018, p0019. [Structured record](../../records/src-1c8474164b21.json).
+
+### src-1c8474164b21-c04
+
+She says objects hold simple consciousness and crystals can retain frequencies.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Everything is mind, everything is consciousness. ( English )](https://swaruu.org/transcripts/everything-is-mind-everything-is-consciousness-english) (2023-05-01; en); passages p0021, p0022, p0023. [Structured record](../../records/src-1c8474164b21.json).
+
+### src-1c8474164b21-c05
+
+Mari says deep identity and choices shape manifestation more than immediate wishes alone.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Everything is mind, everything is consciousness. ( English )](https://swaruu.org/transcripts/everything-is-mind-everything-is-consciousness-english) (2023-05-01; en); passages p0020, p0026, p0027. [Structured record](../../records/src-1c8474164b21.json).
+
+### src-1c8474164b21-c06
+
+She advises attention to thoughts, consumed information, and close associations.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Everything is mind, everything is consciousness. ( English )](https://swaruu.org/transcripts/everything-is-mind-everything-is-consciousness-english) (2023-05-01; en); passages p0028. [Structured record](../../records/src-1c8474164b21.json).
+
+### src-76c063bf59f1-c01
+
+Mari says the body filters perception while memory and identity exist in an etheric field.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [You are not your body therefore you are immortal. Memory is not in the body. (English)](https://swaruu.org/transcripts/you-are-not-your-body-therefore-you-are-immortal-memory-is-not-in-the-body-english) (2023-04-17; en); passages p0009, p0010, p0011, p0015. [Structured record](../../records/src-76c063bf59f1.json).
+
+### src-76c063bf59f1-c02
+
+She describes cellular DNA as a receiver tuned to a particular soul.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [You are not your body therefore you are immortal. Memory is not in the body. (English)](https://swaruu.org/transcripts/you-are-not-your-body-therefore-you-are-immortal-memory-is-not-in-the-body-english) (2023-04-17; en); passages p0011. [Structured record](../../records/src-76c063bf59f1.json).
+
+### src-76c063bf59f1-c03
+
+Mari says brain damage can impair memory access while the person remains present.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [You are not your body therefore you are immortal. Memory is not in the body. (English)](https://swaruu.org/transcripts/you-are-not-your-body-therefore-you-are-immortal-memory-is-not-in-the-body-english) (2023-04-17; en); passages p0013, p0014, p0016. [Structured record](../../records/src-76c063bf59f1.json).
+
+### src-76c063bf59f1-c04
+
+She says ego identity persists after death and souls may choose reincarnation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [You are not your body therefore you are immortal. Memory is not in the body. (English)](https://swaruu.org/transcripts/you-are-not-your-body-therefore-you-are-immortal-memory-is-not-in-the-body-english) (2023-04-17; en); passages p0004, p0017, p0021. [Structured record](../../records/src-76c063bf59f1.json).
+
+### src-76c063bf59f1-c05
+
+Mari says spirit-world experiences vary with personal frequency and advises against summoning unknown entities.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [You are not your body therefore you are immortal. Memory is not in the body. (English)](https://swaruu.org/transcripts/you-are-not-your-body-therefore-you-are-immortal-memory-is-not-in-the-body-english) (2023-04-17; en); passages p0023, p0026, p0027. [Structured record](../../records/src-76c063bf59f1.json).
+
+### src-2f12809b9b4a-c01
+
+Mari divides starseeds into wanderers and souls attached to particular stellar races.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseeds, problems, part 2, Frequency Incompatibility. (English)](https://swaruu.org/transcripts/starseeds-problems-part-2-frequency-incompatibility-english) (2023-05-30; en); passages p0004. [Structured record](../../records/src-2f12809b9b4a.json).
+
+### src-2f12809b9b4a-c02
+
+She says frequency mismatch makes starseeds feel alienated from Earth and seek their own space.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseeds, problems, part 2, Frequency Incompatibility. (English)](https://swaruu.org/transcripts/starseeds-problems-part-2-frequency-incompatibility-english) (2023-05-30; en); passages p0005, p0008, p0009, p0010. [Structured record](../../records/src-2f12809b9b4a.json).
+
+### src-2f12809b9b4a-c03
+
+Mari says low-frequency groups drain starseeds, who recharge in solitude or with like-minded people.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseeds, problems, part 2, Frequency Incompatibility. (English)](https://swaruu.org/transcripts/starseeds-problems-part-2-frequency-incompatibility-english) (2023-05-30; en); passages p0013, p0014, p0015, p0016, p0021. [Structured record](../../records/src-2f12809b9b4a.json).
+
+### src-2f12809b9b4a-c06
+
+She recommends personal boundaries and less people-pleasing to protect one’s energy.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseeds, problems, part 2, Frequency Incompatibility. (English)](https://swaruu.org/transcripts/starseeds-problems-part-2-frequency-incompatibility-english) (2023-05-30; en); passages p0022, p0023, p0027. [Structured record](../../records/src-2f12809b9b4a.json).
+
+### src-c4de2f56abc6-c01
+
+Za’el says common sense and possibility depend on each person’s consciousness and viewpoint.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [3D Mentality and Tendency to Think Small](https://swaruu.org/transcripts/3d-mentality-and-tendency-to-think-small) (2023-06-17; en); passages p0007, p0013. [Structured record](../../records/src-c4de2f56abc6.json).
+
+### src-c4de2f56abc6-c02
+
+He says shared reality rules evolve and can shift through discussion and mutual respect.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [3D Mentality and Tendency to Think Small](https://swaruu.org/transcripts/3d-mentality-and-tendency-to-think-small) (2023-06-17; en); passages p0011, p0012. [Structured record](../../records/src-c4de2f56abc6.json).
+
+### src-c4de2f56abc6-c03
+
+Za’el says repeated discouragement can embed failure expectations and create a disappointment loop.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [3D Mentality and Tendency to Think Small](https://swaruu.org/transcripts/3d-mentality-and-tendency-to-think-small) (2023-06-17; en); passages p0015, p0016. [Structured record](../../records/src-c4de2f56abc6.json).
+
+### src-c4de2f56abc6-c05
+
+Za’el says changing shared reality is difficult but individuals can influence it through persistence.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [3D Mentality and Tendency to Think Small](https://swaruu.org/transcripts/3d-mentality-and-tendency-to-think-small) (2023-06-17; en); passages p0021, p0022, p0023. [Structured record](../../records/src-c4de2f56abc6.json).
+
+### src-2765adc51ff2-c01
+
+Za’el says imagined outcomes may exist, but each character faces the current reality’s rules.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Does the impossible exist?](https://swaruu.org/transcripts/does-the-impossible-exist) (2023-05-08; en); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-2765adc51ff2.json).
+
+### src-2765adc51ff2-c02
+
+He says large-scale manifestation must account for shared agreements and other people’s wishes.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Does the impossible exist?](https://swaruu.org/transcripts/does-the-impossible-exist) (2023-05-08; en); passages p0007, p0008. [Structured record](../../records/src-2765adc51ff2.json).
+
+### src-6800b2688515-c01
+
+Za’el says destiny is continually written in the present and rejects strictly pre-birth agreements.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: ["Soul" Agreements, Omission of Action, and Changing someone else's Timeline](https://swaruu.org/transcripts/soul-agreements-omission-of-action-and-changing-someone-else-s-timeline) (2023-03-23; en); passages p0005, p0006. [Structured record](../../records/src-6800b2688515.json).
+
+### src-6800b2688515-c02
+
+He says life missions reflect personal intentions that may change during an incarnation.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: ["Soul" Agreements, Omission of Action, and Changing someone else's Timeline](https://swaruu.org/transcripts/soul-agreements-omission-of-action-and-changing-someone-else-s-timeline) (2023-03-23; en); passages p0009, p0015, p0016. [Structured record](../../records/src-6800b2688515.json).
+
+### src-6800b2688515-c03
+
+Za’el argues Earth residents have a right to know their world and choose whether to continue its experience.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: ["Soul" Agreements, Omission of Action, and Changing someone else's Timeline](https://swaruu.org/transcripts/soul-agreements-omission-of-action-and-changing-someone-else-s-timeline) (2023-03-23; en); passages p0017, p0018. [Structured record](../../records/src-6800b2688515.json).
+
+### src-6800b2688515-c05
+
+Za’el says offering help may create a shared positive timeline, though helpers cannot know they changed another’s.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: ["Soul" Agreements, Omission of Action, and Changing someone else's Timeline](https://swaruu.org/transcripts/soul-agreements-omission-of-action-and-changing-someone-else-s-timeline) (2023-03-23; en); passages p0023. [Structured record](../../records/src-6800b2688515.json).
+
+### src-6ef6212fe8ca-c01
+
+Mari says each decision creates an alternate timeline; time travel cannot alter the traveler’s original past.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is it really necessary to change your past? (English)](https://swaruu.org/transcripts/is-it-really-necessary-to-change-your-past-english) (2023-05-09; en); passages p0008, p0009, p0011. [Structured record](../../records/src-6ef6212fe8ca.json).
+
+### src-6ef6212fe8ca-c02
+
+Her model avoids paradoxes because changes create alternate versions while preserving the original timeline.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is it really necessary to change your past? (English)](https://swaruu.org/transcripts/is-it-really-necessary-to-change-your-past-english) (2023-05-09; en); passages p0012, p0013. [Structured record](../../records/src-6ef6212fe8ca.json).
+
+### src-6ef6212fe8ca-c03
+
+She says past experiences shape present identity and recommends learning from them instead of erasing them.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is it really necessary to change your past? (English)](https://swaruu.org/transcripts/is-it-really-necessary-to-change-your-past-english) (2023-05-09; en); passages p0003, p0004, p0007, p0013. [Structured record](../../records/src-6ef6212fe8ca.json).
+
+### src-6ef6212fe8ca-c05
+
+She considers imagined past-rewriting variably useful because the unconscious still recognizes it as imagination.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is it really necessary to change your past? (English)](https://swaruu.org/transcripts/is-it-really-necessary-to-change-your-past-english) (2023-05-09; en); passages p0018, p0019, p0020. [Structured record](../../records/src-6ef6212fe8ca.json).
+
+### src-6bba1ebb3317-c02
+
+He says assessing reality requires logic, self-knowledge, and recognizing personal fears and biases.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Intuition, Logic and Heart - The Search for "Truth"](https://swaruu.org/transcripts/intuition-logic-and-heart-the-search-for-truth) (2023-07-26; en); passages p0012, p0013. [Structured record](../../records/src-6bba1ebb3317.json).
+
+### src-6bba1ebb3317-c03
+
+Za’el treats intuition and telepathy as useful aids, but neither as infallible evidence.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Intuition, Logic and Heart - The Search for "Truth"](https://swaruu.org/transcripts/intuition-logic-and-heart-the-search-for-truth) (2023-07-26; en); passages p0014, p0017, p0018. [Structured record](../../records/src-6bba1ebb3317.json).
+
+### src-6bba1ebb3317-c04
+
+He says telepathy may be blocked by others and distorted by the receiver’s trauma or expectations.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Intuition, Logic and Heart - The Search for "Truth"](https://swaruu.org/transcripts/intuition-logic-and-heart-the-search-for-truth) (2023-07-26; en); passages p0015, p0017. [Structured record](../../records/src-6bba1ebb3317.json).
+
+### src-6bba1ebb3317-c05
+
+Za’el says intuition can also reflect prior experience, trauma, and insecurity; self-knowledge helps distinguish these influences.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Intuition, Logic and Heart - The Search for "Truth"](https://swaruu.org/transcripts/intuition-logic-and-heart-the-search-for-truth) (2023-07-26; en); passages p0018, p0019. [Structured record](../../records/src-6bba1ebb3317.json).
+
+### src-61a8bd9e1e53-c01
+
+Mari uses “soul,” “adma,” and “katra” as equivalents without religious connotations.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What is a Soul. (English)](https://swaruu.org/transcripts/what-is-a-soul-english) (2023-04-25; en); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-61a8bd9e1e53.json).
+
+### src-61a8bd9e1e53-c02
+
+She describes Source as universal consciousness encompassing all existence, timelines, and universes beyond time and space.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What is a Soul. (English)](https://swaruu.org/transcripts/what-is-a-soul-english) (2023-04-25; en); passages p0007, p0008, p0010. [Structured record](../../records/src-61a8bd9e1e53.json).
+
+### src-61a8bd9e1e53-c03
+
+Mari defines a soul as Source itself, not a spatially smaller fragment, while people appear as many souls.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What is a Soul. (English)](https://swaruu.org/transcripts/what-is-a-soul-english) (2023-04-25; en); passages p0016, p0017, p0018. [Structured record](../../records/src-61a8bd9e1e53.json).
+
+### src-61a8bd9e1e53-c04
+
+She says awareness and thought generate time, while individual identities are points of attention within Source.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What is a Soul. (English)](https://swaruu.org/transcripts/what-is-a-soul-english) (2023-04-25; en); passages p0020, p0023, p0024. [Structured record](../../records/src-61a8bd9e1e53.json).
+
+### src-61a8bd9e1e53-c05
+
+Mari says souls comprise Source’s ideas and attachments; not every visible body necessarily has a soul.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [What is a Soul. (English)](https://swaruu.org/transcripts/what-is-a-soul-english) (2023-04-25; en); passages p0021. [Structured record](../../records/src-61a8bd9e1e53.json).
+
+### src-3878f3fc71b4-c01
+
+Yazhi says she cannot know an individual’s contracts; pod settings reveal only some, while spirit-side contracts remain inaccessible.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Soul Contracts - What are Mine? Casual chat between Yazhi, Matias, and Gosia](https://swaruu.org/transcripts/soul-contracts-what-are-mine-casual-chat-between-yazhi-matias-and-gosia) (2023-07-13; en); passages p0007. [Structured record](../../records/src-3878f3fc71b4.json).
+
+### src-3878f3fc71b4-c02
+
+She says prenatal contracts set desired physical experiences and that Earth’s limitations make such contracts universal.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Soul Contracts - What are Mine? Casual chat between Yazhi, Matias, and Gosia](https://swaruu.org/transcripts/soul-contracts-what-are-mine-casual-chat-between-yazhi-matias-and-gosia) (2023-07-13; en); passages p0015, p0018. [Structured record](../../records/src-3878f3fc71b4.json).
+
+### src-3878f3fc71b4-c03
+
+Yazhi says suffering may be needed for less-developed souls to progress, while highly developed souls can progress without it.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Soul Contracts - What are Mine? Casual chat between Yazhi, Matias, and Gosia](https://swaruu.org/transcripts/soul-contracts-what-are-mine-casual-chat-between-yazhi-matias-and-gosia) (2023-07-13; en); passages p0016. [Structured record](../../records/src-3878f3fc71b4.json).
+
+### src-3878f3fc71b4-c05
+
+Yazhi agrees Gardeners may put starseeds back on track toward a mission. Part of the physical game.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Soul Contracts - What are Mine? Casual chat between Yazhi, Matias, and Gosia](https://swaruu.org/transcripts/soul-contracts-what-are-mine-casual-chat-between-yazhi-matias-and-gosia) (2023-07-13; en); passages p0032, p0033. [Structured record](../../records/src-3878f3fc71b4.json).
+
+### src-6d89e231f729-c03
+
+Yazhi says consciousness change precedes crystalline DNA change; DNA reflects the person’s frequency.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Astrology - Pluto entering Aquarius - Extraterrestrial Perspective](https://swaruu.org/transcripts/astrology-pluto-entering-aquarius-extraterrestrial-perspective) (2023-02-07; en); passages p0030, p0031, p0032, p0033, p0036. [Structured record](../../records/src-6d89e231f729.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-6d89e231f729-c04
+
+Yazhi says Cabal mind control can induce guilt-based reincarnation choices, though souls also return willingly.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Astrology - Pluto entering Aquarius - Extraterrestrial Perspective](https://swaruu.org/transcripts/astrology-pluto-entering-aquarius-extraterrestrial-perspective) (2023-02-07; en); passages p0061, p0062, p0063. [Structured record](../../records/src-6d89e231f729.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-4c18957bd2f2-c05
+
+Yazhi says soul fragmentation lets multiple people share one past-life identity.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-minitopics-with-gosia-cosmic-agency) (2023-03-14; en); passages p0047, p0048, p0049, p0050, p0052. [Structured record](../../records/src-4c18957bd2f2.json).
+
+### src-1afd7588a669-c01
+
+Athena says Earth matters chiefly for its population and souls, with many stellar species sharing human experience there.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Earth - Why is it Important for the Extraterrestrials? Athena and Yazhi Swaruu](https://swaruu.org/transcripts/earth-why-is-it-important-for-the-extraterrestrials-athena-and-yazhi-swaruu) (2023-01-22; en); passages p0005, p0006, p0012, p0014. [Structured record](../../records/src-1afd7588a669.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-1afd7588a669-c02
+
+Athena says souls learn about Earth through libraries and other souls, but may receive misleading Matrix narratives.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Earth - Why is it Important for the Extraterrestrials? Athena and Yazhi Swaruu](https://swaruu.org/transcripts/earth-why-is-it-important-for-the-extraterrestrials-athena-and-yazhi-swaruu) (2023-01-22; en); passages p0015, p0016, p0018, p0019, p0020, p0021. [Structured record](../../records/src-1afd7588a669.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-1afd7588a669-c05
+
+Yazhi says souls enter Earth voluntarily and ET groups can guide them but cannot impose a Matrix overthrow.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Earth - Why is it Important for the Extraterrestrials? Athena and Yazhi Swaruu](https://swaruu.org/transcripts/earth-why-is-it-important-for-the-extraterrestrials-athena-and-yazhi-swaruu) (2023-01-22; en); passages p0043, p0044, p0046, p0068, p0071, p0073, p0074. [Structured record](../../records/src-1afd7588a669.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-b539e2dbbcd5-c01
+
+Yazhi defines a soul as a boundary of ideas and experiences, with forgetting sustaining individual identity.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [How do Souls Fragment and Behave in the Afterlife? - Yazhi Swaruu](https://swaruu.org/transcripts/how-do-souls-fragment-and-behave-in-the-afterlife-yazhi-swaruu) (2023-05-01; en); passages p0003, p0006, p0007, p0008, p0009, p0014. [Structured record](../../records/src-b539e2dbbcd5.json).
+
+Related topics: [Original Matrix](original-matrix.md).
+
+### src-b539e2dbbcd5-c02
+
+Yazhi says memories of earlier lives shape current identity and frequency, rather than zodiac signs determining personality.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [How do Souls Fragment and Behave in the Afterlife? - Yazhi Swaruu](https://swaruu.org/transcripts/how-do-souls-fragment-and-behave-in-the-afterlife-yazhi-swaruu) (2023-05-01; en); passages p0012, p0014, p0015. [Structured record](../../records/src-b539e2dbbcd5.json).
+
+### src-b539e2dbbcd5-c03
+
+Yazhi says identical twins begin as one katra and fragment as distinct experiences develop.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [How do Souls Fragment and Behave in the Afterlife? - Yazhi Swaruu](https://swaruu.org/transcripts/how-do-souls-fragment-and-behave-in-the-afterlife-yazhi-swaruu) (2023-05-01; en); passages p0018, p0019, p0020, p0021, p0022, p0023, p0024. [Structured record](../../records/src-b539e2dbbcd5.json).
+
+### src-b539e2dbbcd5-c04
+
+Yazhi says afterlife katras share experiences and may merge through empathy outside linear time.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [How do Souls Fragment and Behave in the Afterlife? - Yazhi Swaruu](https://swaruu.org/transcripts/how-do-souls-fragment-and-behave-in-the-afterlife-yazhi-swaruu) (2023-05-01; en); passages p0025, p0026, p0027, p0028, p0036, p0037, p0042, p0043, p0044, p0045, p0047, p0048. [Structured record](../../records/src-b539e2dbbcd5.json).
+
+### src-b539e2dbbcd5-c05
+
+Yazhi says conflicting desired paths can create multiple soul fragments from a nexus identity.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [How do Souls Fragment and Behave in the Afterlife? - Yazhi Swaruu](https://swaruu.org/transcripts/how-do-souls-fragment-and-behave-in-the-afterlife-yazhi-swaruu) (2023-05-01; en); passages p0038, p0039, p0040, p0041, p0042, p0043, p0044. [Structured record](../../records/src-b539e2dbbcd5.json).
+
+### src-21c294611bb8-c01
+
+Mari describes the lower astral as a hidden, co-located layer perceived according to consciousness and frequency.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Attachments and Infestations, Part 3, Demons and Acorns. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-3-demons-and-acorns-english) (2023-06-29; en); passages p0006, p0007, p0008, p0009, p0010. [Structured record](../../records/src-21c294611bb8.json).
+
+### src-21c294611bb8-c02
+
+Mari says demons depend on people’s fear and attention to manifest and persist.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Attachments and Infestations, Part 3, Demons and Acorns. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-3-demons-and-acorns-english) (2023-06-29; en); passages p0015, p0016, p0017, p0018, p0019. [Structured record](../../records/src-21c294611bb8.json).
+
+### src-21c294611bb8-c05
+
+Mari says high-frequency people resist manipulation, though entities may use indirect misfortune.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Attachments and Infestations, Part 3, Demons and Acorns. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-3-demons-and-acorns-english) (2023-06-29; en); passages p0012, p0013, p0014, p0029. [Structured record](../../records/src-21c294611bb8.json).
+
+### src-f54c2949c1ea-c04
+
+Athena says awareness and independent evidence-linking help people identify Cabal agendas.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [UFO Disclosure Project - Questions - Conversation with Athena Swaruu](https://swaruu.org/transcripts/ufo-disclosure-project-questions-conversation-with-athena-swaruu) (2023-06-28; en); passages p0030, p0031, p0032, p0037, p0038. [Structured record](../../records/src-f54c2949c1ea.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-98431ca1f2e1-c04
+
+Mari says individual starseeds can influence collective timelines and that awareness could reduce the scenario’s likelihood.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [False Alien Invasion, Another Warning, mostly for Star Seeds. With Nai'Shara. (English)](https://swaruu.org/transcripts/false-alien-invasion-another-warning-mostly-for-star-seeds-with-nai-shara-english) (2023-07-09; en); passages p0028, p0029, p0031, p0032, p0033. [Structured record](../../records/src-98431ca1f2e1.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-ecee618ac78e-c02
+
+Mari says death expands awareness and dissolves ego identity, while preserving positive experience.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why no one can escape the Matrix. (English)](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-english) (2023-04-03; en); passages p0013, p0014, p0016. [Structured record](../../records/src-ecee618ac78e.json).
+
+### src-ecee618ac78e-c04
+
+Mari says self-development and expanding awareness are the means to change one’s Matrix experience.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why no one can escape the Matrix. (English)](https://swaruu.org/transcripts/why-no-one-can-escape-the-matrix-english) (2023-04-03; en); passages p0023, p0024, p0026, p0027, p0028, p0029. [Structured record](../../records/src-ecee618ac78e.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-bc84d0e92778-c03
+
+Mari says meditation and control of thought can stop attachments by ending the patterns that feed them.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Attachments and Infestations, Part 2, Astral Parasites and how to get rid of them. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-2-astral-parasites-and-how-to-get-rid-of-them-english) (2023-06-19; en); passages p0013, p0014, p0021, p0022. [Structured record](../../records/src-bc84d0e92778.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-bc84d0e92778-c04
+
+Mari says lower-astral parasites are often egregors formed from personal or collective unconscious patterns.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Attachments and Infestations, Part 2, Astral Parasites and how to get rid of them. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-2-astral-parasites-and-how-to-get-rid-of-them-english) (2023-06-19; en); passages p0015, p0016, p0017, p0018, p0019. [Structured record](../../records/src-bc84d0e92778.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-bc84d0e92778-c05
+
+Mari says destructive repetitive thoughts may signal an attachment or telepathic influence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [Attachments and Infestations, Part 2, Astral Parasites and how to get rid of them. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-2-astral-parasites-and-how-to-get-rid-of-them-english) (2023-06-19; en); passages p0018, p0019, p0020, p0023. [Structured record](../../records/src-bc84d0e92778.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-2ae03f0dfe57-c01
+
+Mari says group telepathy synchronizes members’ thoughts, values and emotions into a collective unconscious.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Telepathic Fields & your Egregors and Fears. (English)](https://swaruu.org/transcripts/telepathic-fields-your-egregors-and-fears-english) (2023-06-15; en); passages p0003, p0004, p0006, p0007. [Structured record](../../records/src-2ae03f0dfe57.json).
+
+### src-2ae03f0dfe57-c02
+
+Mari says fear narrows critical thought and concentrates group attention on feared outcomes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Telepathic Fields & your Egregors and Fears. (English)](https://swaruu.org/transcripts/telepathic-fields-your-egregors-and-fears-english) (2023-06-15; en); passages p0008, p0009, p0010, p0011, p0014. [Structured record](../../records/src-2ae03f0dfe57.json).
+
+### src-2ae03f0dfe57-c03
+
+Mari says collective fear may manifest egregors that feed on attention and dissolve when fear ends.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Telepathic Fields & your Egregors and Fears. (English)](https://swaruu.org/transcripts/telepathic-fields-your-egregors-and-fears-english) (2023-06-15; en); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-2ae03f0dfe57.json).
+
+### src-2ae03f0dfe57-c04
+
+Mari says shared thoughts can form parallel outcomes, with collective values homogenizing groups.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Telepathic Fields & your Egregors and Fears. (English)](https://swaruu.org/transcripts/telepathic-fields-your-egregors-and-fears-english) (2023-06-15; en); passages p0012, p0013, p0015, p0016, p0020. [Structured record](../../records/src-2ae03f0dfe57.json).
+
+### src-2ae03f0dfe57-c05
+
+Mari recommends recording and replaying recurrent negative thoughts to help reframe them.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Telepathic Fields & your Egregors and Fears. (English)](https://swaruu.org/transcripts/telepathic-fields-your-egregors-and-fears-english) (2023-06-15; en); passages p0024, p0025, p0026, p0027. [Structured record](../../records/src-2ae03f0dfe57.json).
+
+### src-2303525e8367-c01
+
+Mari says astral and material worlds are one frequency continuum, with the body sensing only a narrow range.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. (English)](https://swaruu.org/transcripts/the-astral-english) (2023-08-08; en); passages p0006, p0007, p0008, p0009, p0010, p0012. [Structured record](../../records/src-2303525e8367.json).
+
+### src-2303525e8367-c02
+
+Mari says bodies filter a soul’s awareness into a limited learning experience and materialize its memory as DNA.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. (English)](https://swaruu.org/transcripts/the-astral-english) (2023-08-08; en); passages p0011, p0012, p0013. [Structured record](../../records/src-2303525e8367.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-2303525e8367-c04
+
+Mari says souls perceive realms matching their vibration and can move between positive and lower astral states.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. (English)](https://swaruu.org/transcripts/the-astral-english) (2023-08-08; en); passages p0015, p0016, p0017, p0020. [Structured record](../../records/src-2303525e8367.json).
+
+### src-2303525e8367-c05
+
+Mari says awareness survives bodily death while the body does not.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. (English)](https://swaruu.org/transcripts/the-astral-english) (2023-08-08; en); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-2303525e8367.json).
+
+### src-c3e350aa4e42-c03
+
+Mari says no single witness reveals the whole picture; audiences must compare sources and draw conclusions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [UFO Disclosure nowadays, Part 1 (English)](https://swaruu.org/transcripts/ufo-disclosure-nowadays-part-1-english) (2023-06-23; en); passages p0005, p0027, p0028, p0030. [Structured record](../../records/src-c3e350aa4e42.json).
+
+### src-caf9efbd11f1-c02
+
+Mari defines starseeds as souls with prior off-world lives who choose Earth incarnations.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [What is an Extra-terrestrial to you? (English)](https://swaruu.org/transcripts/what-is-an-extra-terrestrial-to-you-english) (2023-05-17; en); passages p0011, p0012, p0015, p0017, p0018. [Structured record](../../records/src-caf9efbd11f1.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-e2b6999b0e7f-c01
+
+Mari says lower astral realms share physical space but differ in frequency and perception.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Attachments and Infestations, Part 4, Lower astral, Ideas and Programming. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-4-lower-astral-ideas-and-programming-english) (2023-07-01; en); passages p0003, p0004, p0005, p0006, p0007, p0008. [Structured record](../../records/src-e2b6999b0e7f.json).
+
+### src-e2b6999b0e7f-c02
+
+Mari says media programs collective awareness toward frightening imagery that entities use to manifest through people.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Attachments and Infestations, Part 4, Lower astral, Ideas and Programming. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-4-lower-astral-ideas-and-programming-english) (2023-07-01; en); passages p0009, p0010, p0011, p0012, p0013, p0014. [Structured record](../../records/src-e2b6999b0e7f.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-e2b6999b0e7f-c03
+
+Mari says souls willingly experience Earth and can break archon influence by recognizing how fear shapes perception.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Attachments and Infestations, Part 4, Lower astral, Ideas and Programming. (English)](https://swaruu.org/transcripts/attachments-and-infestations-part-4-lower-astral-ideas-and-programming-english) (2023-07-01; en); passages p0015, p0016, p0017, p0018, p0019. [Structured record](../../records/src-e2b6999b0e7f.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-03c48df94d86-c04
+
+Mari says souls under an advanced soul may be its past incarnations, with reincarnation non-linear.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Advanced Souls, and their hive mind (English)](https://swaruu.org/transcripts/advanced-souls-and-their-hive-mind-english) (2023-04-27; en); passages p0022, p0023, p0024, p0025. [Structured record](../../records/src-03c48df94d86.json).
+
+### src-03c48df94d86-c05
+
+Mari says members of a strongly connected group can share emotional states telepathically.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Advanced Souls, and their hive mind (English)](https://swaruu.org/transcripts/advanced-souls-and-their-hive-mind-english) (2023-04-27; en); passages p0028, p0029, p0030, p0031. [Structured record](../../records/src-03c48df94d86.json).
+
+### src-38a5f4111ccd-c01
+
+Mari says time arises from conscious thought rhythm, with each soul experiencing it uniquely.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Time, Part 1, What is Time. (English)](https://swaruu.org/transcripts/time-part-1-what-is-time-english) (2023-04-23; en); passages p0018, p0019, p0021. [Structured record](../../records/src-38a5f4111ccd.json).
+
+### src-38a5f4111ccd-c03
+
+Mari says time-unit duration depends on its reference context and observer perspective.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Time, Part 1, What is Time. (English)](https://swaruu.org/transcripts/time-part-1-what-is-time-english) (2023-04-23; en); passages p0027, p0028, p0029, p0030, p0032. [Structured record](../../records/src-38a5f4111ccd.json).
+
+### src-38a5f4111ccd-c04
+
+Mari says stellar societies blend spirituality with science and use spirituality as a guide.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time, Part 1, What is Time. (English)](https://swaruu.org/transcripts/time-part-1-what-is-time-english) (2023-04-23; en); passages p0017. [Structured record](../../records/src-38a5f4111ccd.json).
+
+### src-f5b8fb188253-c01
+
+Za’el says improving oneself begins by locating, understanding and accepting personal shadows, then judging what can be changed.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [How to become the best version of yourself - Enhance your light](https://swaruu.org/transcripts/how-to-become-the-best-version-of-yourself-enhance-your-light) (2023-04-20; en); passages p0007, p0008, p0009, p0012. [Structured record](../../records/src-f5b8fb188253.json).
+
+### src-f5b8fb188253-c02
+
+Za’el recommends objectivity and self-understanding to learn from mistakes without excusing them, then release remorse.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [How to become the best version of yourself - Enhance your light](https://swaruu.org/transcripts/how-to-become-the-best-version-of-yourself-enhance-your-light) (2023-04-20; en); passages p0010. [Structured record](../../records/src-f5b8fb188253.json).
+
+### src-f5b8fb188253-c03
+
+Za’el says self-work enables better help for others, but only people willing to cooperate can be helped.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [How to become the best version of yourself - Enhance your light](https://swaruu.org/transcripts/how-to-become-the-best-version-of-yourself-enhance-your-light) (2023-04-20; en); passages p0016. [Structured record](../../records/src-f5b8fb188253.json).
+
+### src-f5b8fb188253-c04
+
+Za’el advises discernment and self-protection when revealing oneself, while keeping dignity and respect.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [How to become the best version of yourself - Enhance your light](https://swaruu.org/transcripts/how-to-become-the-best-version-of-yourself-enhance-your-light) (2023-04-20; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-f5b8fb188253.json).
+
+### src-4e6f4564b13b-c01
+
+Cassia says an Earth incarnation produces a distinct personality from an off-world life of the same soul. Mari says she prepared Cassia’s message for publication.
+
+Attributed to **Cassia of Erra**; asserted; extraction confidence: high.
+
+Source: [Extractions and their problems, Part 4, Kassia speaks directly to those who remember. (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-4-kassia-speaks-directly-to-those-who-remember-english) (2023-07-25; en); passages p0003, p0004, p0005. [Structured record](../../records/src-4e6f4564b13b.json).
+
+### src-4e6f4564b13b-c02
+
+Cassia says identical beings usually become separate points of attention rather than one consciousness inhabiting both.
+
+Attributed to **Cassia of Erra**; asserted; extraction confidence: high.
+
+Source: [Extractions and their problems, Part 4, Kassia speaks directly to those who remember. (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-4-kassia-speaks-directly-to-those-who-remember-english) (2023-07-25; en); passages p0006. [Structured record](../../records/src-4e6f4564b13b.json).
+
+### src-4e6f4564b13b-c03
+
+Cassia warns Earth memories may be fragmentary and distorted by current context, imagination and the brain’s interpretation. The cited warning includes Nai’s comment.
+
+Attributed to **Cassia of Erra**; asserted; extraction confidence: high.
+
+Source: [Extractions and their problems, Part 4, Kassia speaks directly to those who remember. (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-4-kassia-speaks-directly-to-those-who-remember-english) (2023-07-25; en); passages p0014, p0015, p0016, p0017. [Structured record](../../records/src-4e6f4564b13b.json).
+
+### src-4e6f4564b13b-c04
+
+Cassia says past-life memories should inspire the current self, not justify replacing it or taking another being’s place.
+
+Attributed to **Cassia of Erra**; asserted; extraction confidence: high.
+
+Source: [Extractions and their problems, Part 4, Kassia speaks directly to those who remember. (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-4-kassia-speaks-directly-to-those-who-remember-english) (2023-07-25; en); passages p0021, p0022, p0023, p0024, p0025, p0031. [Structured record](../../records/src-4e6f4564b13b.json).
+
+### src-bbd42e5699d0-c01
+
+Athena says identical twins may begin from one soul’s root but develop as distinct souls through different experiences.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Soul Fragmentation - Metaphysical Contemplations - Live with Gosia](https://swaruu.org/transcripts/soul-fragmentation-metaphysical-contemplations-live-with-gosia) (2023-05-06; en); passages p0006, p0007, p0008, p0010. [Structured record](../../records/src-bbd42e5699d0.json).
+
+### src-bbd42e5699d0-c02
+
+Athena says “old soul” can describe accumulated experience, learning and wisdom rather than incarnation count.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Soul Fragmentation - Metaphysical Contemplations - Live with Gosia](https://swaruu.org/transcripts/soul-fragmentation-metaphysical-contemplations-live-with-gosia) (2023-05-06; en); passages p0020, p0021, p0022. [Structured record](../../records/src-bbd42e5699d0.json).
+
+### src-bbd42e5699d0-c03
+
+Yazhi says Earth’s dense energy makes connection to Source and access to memory more difficult. Speaker shifts to Yazhi in this section.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Soul Fragmentation - Metaphysical Contemplations - Live with Gosia](https://swaruu.org/transcripts/soul-fragmentation-metaphysical-contemplations-live-with-gosia) (2023-05-06; en); passages p0026, p0027, p0028, p0029. [Structured record](../../records/src-bbd42e5699d0.json).
+
+### src-8a803747f028-c01
+
+Mari says astral planes cannot be fully known and resist absolute classifications.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. Part 02 (English)](https://swaruu.org/transcripts/the-astral-part-02-english) (2023-08-10; en); passages p0003, p0004. [Structured record](../../records/src-8a803747f028.json).
+
+### src-8a803747f028-c02
+
+Mari says biological bodies filter consciousness into a narrow, individually variable frequency range.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. Part 02 (English)](https://swaruu.org/transcripts/the-astral-part-02-english) (2023-08-10; en); passages p0005, p0007, p0008, p0009, p0010. [Structured record](../../records/src-8a803747f028.json).
+
+### src-8a803747f028-c04
+
+Mari says astral thought manifests rapidly, so imagined protection can repel entities there.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. Part 02 (English)](https://swaruu.org/transcripts/the-astral-part-02-english) (2023-08-10; en); passages p0020, p0021, p0022. [Structured record](../../records/src-8a803747f028.json).
+
+### src-8a803747f028-c05
+
+Mari says astral beings have bodies suited to their frequency ranges, from dense lower-astral entities to higher-plane light beings.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Astral. Part 02 (English)](https://swaruu.org/transcripts/the-astral-part-02-english) (2023-08-10; en); passages p0016, p0017, p0018. [Structured record](../../records/src-8a803747f028.json).
+
+### src-025e108e3c83-c01
+
+Za’el says people can be victims of Earth conditions yet remain able to act on their circumstances.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Is the Experience on Earth Positive?](https://swaruu.org/transcripts/is-the-experience-on-earth-positive) (2023-07-16; en); passages p0007, p0008, p0009, p0010. [Structured record](../../records/src-025e108e3c83.json).
+
+### src-025e108e3c83-c02
+
+Za’el says meanings and perspectives can help improve present experience, without claiming one view explains the whole.
+
+Attributed to **Za’el of Erra**; reported; extraction confidence: high.
+
+Source: [Is the Experience on Earth Positive?](https://swaruu.org/transcripts/is-the-experience-on-earth-positive) (2023-07-16; en); passages p0003, p0004, p0005, p0011. [Structured record](../../records/src-025e108e3c83.json).
+
+### src-025e108e3c83-c03
+
+Za’el says Earth may build strength but can also compound trauma and prolong suffering through continued frequency compatibility.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Is the Experience on Earth Positive?](https://swaruu.org/transcripts/is-the-experience-on-earth-positive) (2023-07-16; en); passages p0016, p0017. [Structured record](../../records/src-025e108e3c83.json).
+
+### src-2f9edb3af632-c01
+
+Mari describes an astral body as a nonphysical manifestation of soul consciousness, distinct from the soul.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star Seeds, Part 7, Astral Projection, Astral Abductions, Night Soul Missions, Part 1 (English)](https://swaruu.org/transcripts/star-seeds-part-7-astral-projection-astral-abductions-night-soul-missions-part-1-english) (2023-08-04; en); passages p0007, p0008, p0009. [Structured record](../../records/src-2f9edb3af632.json).
+
+### src-2f9edb3af632-c02
+
+Mari says astral projection may occur naturally, by practice, or through artificial induction.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star Seeds, Part 7, Astral Projection, Astral Abductions, Night Soul Missions, Part 1 (English)](https://swaruu.org/transcripts/star-seeds-part-7-astral-projection-astral-abductions-night-soul-missions-part-1-english) (2023-08-04; en); passages p0005, p0006, p0007. [Structured record](../../records/src-2f9edb3af632.json).
+
+### src-2f9edb3af632-c05
+
+Mari says astral events affect the material world because the realms lack a separating barrier.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star Seeds, Part 7, Astral Projection, Astral Abductions, Night Soul Missions, Part 1 (English)](https://swaruu.org/transcripts/star-seeds-part-7-astral-projection-astral-abductions-night-soul-missions-part-1-english) (2023-08-04; en); passages p0021, p0022. [Structured record](../../records/src-2f9edb3af632.json).
+
+### src-5c48589eb51f-c01
+
+Mari says people manifest what they are through focused identity, not merely shifting wants.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Fears, desires, thoughts and Manifestation (English)](https://swaruu.org/transcripts/fears-desires-thoughts-and-manifestation-english) (2023-07-23; en); passages p0004, p0005, p0006. [Structured record](../../records/src-5c48589eb51f.json).
+
+### src-5c48589eb51f-c02
+
+Mari says fear concentrates attention, fills missing facts with catastrophizing and triggers bodily responses.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Fears, desires, thoughts and Manifestation (English)](https://swaruu.org/transcripts/fears-desires-thoughts-and-manifestation-english) (2023-07-23; en); passages p0007, p0008, p0009, p0010. [Structured record](../../records/src-5c48589eb51f.json).
+
+### src-5c48589eb51f-c04
+
+Mari says fear can manifest rapidly, while beliefs may make desired outcomes seem to require hard work.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Fears, desires, thoughts and Manifestation (English)](https://swaruu.org/transcripts/fears-desires-thoughts-and-manifestation-english) (2023-07-23; en); passages p0014, p0015, p0018, p0019. [Structured record](../../records/src-5c48589eb51f.json).
+
+### src-5c48589eb51f-c05
+
+Mari says focused, proactive alignment can manifest desired outcomes as readily as feared ones.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Fears, desires, thoughts and Manifestation (English)](https://swaruu.org/transcripts/fears-desires-thoughts-and-manifestation-english) (2023-07-23; en); passages p0006, p0016, p0020, p0021. [Structured record](../../records/src-5c48589eb51f.json).
+
+### src-19427824fcd1-c02
+
+Arien says Earthly customs and ideas can influence off-world beings through shared cultural and telepathic fields.
+
+Attributed to **Arien**; asserted; extraction confidence: high.
+
+Source: [The 3D Matrix and its Impact on Souls](https://swaruu.org/transcripts/the-3d-matrix-and-its-impact-on-souls) (2023-04-28; en); passages p0009, p0010, p0017, p0018, p0019. [Structured record](../../records/src-19427824fcd1.json).
+
+### src-19427824fcd1-c03
+
+Arien says Earth’s limited conditions can expand creativity and personal fulfillment.
+
+Attributed to **Arien**; asserted; extraction confidence: high.
+
+Source: [The 3D Matrix and its Impact on Souls](https://swaruu.org/transcripts/the-3d-matrix-and-its-impact-on-souls) (2023-04-28; en); passages p0012, p0013, p0014, p0015. [Structured record](../../records/src-19427824fcd1.json).
+
+### src-a413a556fae4-c01
+
+Mari says the body reflects a person’s concepts and attachments, with DNA expressing spirit-side memory.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escape the matrix 3, your body and death. (English)](https://swaruu.org/transcripts/escape-the-matrix-3-your-body-and-death-english) (2023-02-10; en); passages p0003, p0005, p0006, p0007. [Structured record](../../records/src-a413a556fae4.json).
+
+### src-a413a556fae4-c04
+
+Mari says bodies are part of the self and should be respected and cared for.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escape the matrix 3, your body and death. (English)](https://swaruu.org/transcripts/escape-the-matrix-3-your-body-and-death-english) (2023-02-10; en); passages p0022, p0023, p0024. [Structured record](../../records/src-a413a556fae4.json).
+
+### src-3012390b7529-c04
+
+Za’el says viewers may treat his words as science fiction or entertainment.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [Presentation (Za'el) ENGLISH](https://swaruu.org/transcripts/presentation-za-el-english) (2023-03-01; en); passages p0003. [Structured record](../../records/src-3012390b7529.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c05](alien-species.md#src-a5811312e55c-c05) — Alien species and distinctions
@@ -4266,6 +6964,64 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - [src-d8abcaa43fd8-c04](original-matrix.md#src-d8abcaa43fd8-c04) — Original Matrix
 - [src-21a9a4dacb59-c02](stellar-navigation.md#src-21a9a4dacb59-c02) — Stellar navigation
 - [src-aeb1859f925a-c04](original-matrix.md#src-aeb1859f925a-c04) — Original Matrix
+- [src-76df8f4b52c9-c03](moon-matrix.md#src-76df8f4b52c9-c03) — Moon and terrestrial Matrix
+- [src-6490421f0db7-c03](natural-portals.md#src-6490421f0db7-c03) — Natural and artificial portals
+- [src-6490421f0db7-c04](natural-portals.md#src-6490421f0db7-c04) — Natural and artificial portals
+- [src-da9a37ad94e4-c04](alien-species.md#src-da9a37ad94e4-c04) — Alien species and distinctions
+- [src-c35bd2ccba2f-c02](earth-cabal.md#src-c35bd2ccba2f-c02) — Earth Cabal and power structures
+- [src-c35bd2ccba2f-c03](prime-directive.md#src-c35bd2ccba2f-c03) — Prime Directive
+- [src-c35bd2ccba2f-c05](starship-systems.md#src-c35bd2ccba2f-c05) — Starship systems
+- [src-949028f4310f-c05](galactic-federation.md#src-949028f4310f-c05) — Galactic Federation
+- [src-9c51fb72fef9-c01](alien-species.md#src-9c51fb72fef9-c01) — Alien species and distinctions
+- [src-176e90b7dd77-c02](starship-systems.md#src-176e90b7dd77-c02) — Starship systems
+- [src-176e90b7dd77-c04](moon-matrix.md#src-176e90b7dd77-c04) — Moon and terrestrial Matrix
+- [src-32665478a6c1-c03](terrestrial-science.md#src-32665478a6c1-c03) — Terrestrial science
+- [src-001cf59b4543-c03](alien-species.md#src-001cf59b4543-c03) — Alien species and distinctions
+- [src-331beeab2088-c02](postmortem-realities.md#src-331beeab2088-c02) — Postmortem realities
+- [src-331beeab2088-c04](postmortem-realities.md#src-331beeab2088-c04) — Postmortem realities
+- [src-60e435f5d51b-c01](original-matrix.md#src-60e435f5d51b-c01) — Original Matrix
+- [src-9bdcda4720c8-c02](alien-species.md#src-9bdcda4720c8-c02) — Alien species and distinctions
+- [src-415d7d5b87e4-c01](galactic-federation.md#src-415d7d5b87e4-c01) — Galactic Federation
+- [src-f188068e31d4-c05](galactic-federation.md#src-f188068e31d4-c05) — Galactic Federation
+- [src-f188068e31d4-c06](alien-species.md#src-f188068e31d4-c06) — Alien species and distinctions
+- [src-4ef944b1a1f6-c05](taygetans.md#src-4ef944b1a1f6-c05) — Taygetans
+- [src-2ccd6a89a072-c02](earth-cabal.md#src-2ccd6a89a072-c02) — Earth Cabal and power structures
+- [src-4781604621b1-c01](dimensional-mirroring.md#src-4781604621b1-c01) — Dimensional mirroring
+- [src-4781604621b1-c04](dimensional-mirroring.md#src-4781604621b1-c04) — Dimensional mirroring
+- [src-4781604621b1-c05](dimensional-mirroring.md#src-4781604621b1-c05) — Dimensional mirroring
+- [src-ab22dfeea61d-c01](galactic-federation.md#src-ab22dfeea61d-c01) — Galactic Federation
+- [src-f551c06c99aa-c02](moon-matrix.md#src-f551c06c99aa-c02) — Moon and terrestrial Matrix
+- [src-fead5e292474-c06](energy-generation.md#src-fead5e292474-c06) — Energy generation technology
+- [src-ad1046aa0fab-c05](earth-cabal.md#src-ad1046aa0fab-c05) — Earth Cabal and power structures
+- [src-05f9464ebebc-c06](starship-systems.md#src-05f9464ebebc-c06) — Starship systems
+- [src-605c7c509cae-c01](galactic-federation.md#src-605c7c509cae-c01) — Galactic Federation
+- [src-1a4b23eed94f-c02](alien-species.md#src-1a4b23eed94f-c02) — Alien species and distinctions
+- [src-c0c392776fd0-c03](moon-matrix.md#src-c0c392776fd0-c03) — Moon and terrestrial Matrix
+- [src-50c08119afee-c03](alien-species.md#src-50c08119afee-c03) — Alien species and distinctions
+- [src-803000c4d2e1-c04](earth-cabal.md#src-803000c4d2e1-c04) — Earth Cabal and power structures
+- [src-67a7fcd528f7-c05](moon-matrix.md#src-67a7fcd528f7-c05) — Moon and terrestrial Matrix
+- [src-2f12809b9b4a-c04](terrestrial-science.md#src-2f12809b9b4a-c04) — Terrestrial science
+- [src-0700efa54ddc-c01](astrotheology.md#src-0700efa54ddc-c01) — Astrotheology
+- [src-0700efa54ddc-c04](astrotheology.md#src-0700efa54ddc-c04) — Astrotheology
+- [src-45bf0b5b3192-c01](alien-species.md#src-45bf0b5b3192-c01) — Alien species and distinctions
+- [src-6d89e231f729-c01](frequency-astrology.md#src-6d89e231f729-c01) — Frequency-based astrology
+- [src-21c294611bb8-c03](archons-and-demons.md#src-21c294611bb8-c03) — Archons and demons
+- [src-ecee618ac78e-c01](moon-matrix.md#src-ecee618ac78e-c01) — Moon and terrestrial Matrix
+- [src-bc84d0e92778-c01](archons-and-demons.md#src-bc84d0e92778-c01) — Archons and demons
+- [src-691d121eef5a-c05](moon-matrix.md#src-691d121eef5a-c05) — Moon and terrestrial Matrix
+- [src-2303525e8367-c03](natural-portals.md#src-2303525e8367-c03) — Natural and artificial portals
+- [src-e2b6999b0e7f-c04](archons-and-demons.md#src-e2b6999b0e7f-c04) — Archons and demons
+- [src-03c48df94d86-c01](nexus-souls.md#src-03c48df94d86-c01) — Nexus souls
+- [src-03c48df94d86-c02](nexus-souls.md#src-03c48df94d86-c02) — Nexus souls
+- [src-03c48df94d86-c03](nexus-souls.md#src-03c48df94d86-c03) — Nexus souls
+- [src-bbd42e5699d0-c04](soulmates.md#src-bbd42e5699d0-c04) — Soulmates
+- [src-5c48589eb51f-c03](egregors.md#src-5c48589eb51f-c03) — Egregors
+- [src-19427824fcd1-c01](moon-matrix.md#src-19427824fcd1-c01) — Moon and terrestrial Matrix
+- [src-19427824fcd1-c04](moon-matrix.md#src-19427824fcd1-c04) — Moon and terrestrial Matrix
+- [src-a413a556fae4-c02](postmortem-realities.md#src-a413a556fae4-c02) — Postmortem realities
+- [src-a413a556fae4-c03](postmortem-realities.md#src-a413a556fae4-c03) — Postmortem realities
+- [src-c06b74035df0-c03](moon-matrix.md#src-c06b74035df0-c03) — Moon and terrestrial Matrix
+- [src-c06b74035df0-c04](moon-matrix.md#src-c06b74035df0-c04) — Moon and terrestrial Matrix
 
 ## Review flags
 
@@ -4297,6 +7053,7 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - contested\_archaeology
 - contested\_historical\_claims
 - contested\_intelligence\_claims
+- contradictory\_past\_change\_model
 - coverage: Atonism details
 - coverage: Matrix scripts
 - coverage: clone mechanics
@@ -4332,6 +7089,8 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - ethical\_perspective\_conflict
 - explicit\_viewpoint\_qualification
 - extraordinary\_ai\_claims
+- extraordinary\_astronomical\_claims
+- extraordinary\_biological\_claims
 - extraordinary\_claims
 - extraordinary\_cosmology\_claims
 - extraordinary\_exopolitical\_claims
@@ -4343,11 +7102,16 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - extraordinary\_medical\_claims
 - extraordinary\_metaphysical\_claims
 - extraordinary\_paranormal\_claims
+- extraordinary\_personal\_ability\_claims
+- extraordinary\_physics\_claims
 - extraordinary\_species\_claims
 - extraordinary\_technology\_claims
+- extraordinary\_telepathy\_claims
 - faction\_claims
 - factional\_viewpoint\_conflict
+- false\_people\_is\_speculative\_concept
 - fauna\_and\_ecology\_claims
+- federation\_control\_claims\_unverified
 - forecast\_predictions\_not\_confirmed
 - frequency-gravity-model
 - frequency\_map\_model
@@ -4359,16 +7123,21 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - historical\_account\_unverified
 - hyperspace\_model
 - institutional\_conspiracy\_claims
+- internal\_qualification
 - internal\_revision
 - internal\_tension
+- internal\_uncertainty
 - intervention\_tension
 - jumper\_vs\_origin\_line
+- lunar-reactor-age-origin-uncertainty
 - manifestation\_mechanics
 - matrix\_layers
 - matrix\_scope
+- medical-claims-unverified
 - medical-conspiracy-claims
 - medical-misinformation-allegation
 - medical-misinformation-claims
+- medical\_claims
 - medical\_claims\_omitted
 - medical\_claims\_unverified
 - medical\_misinformation\_present
@@ -4386,14 +7155,21 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - personal\_accusations
 - personal\_cosmology
 - personal\_metaphysics
+- personal\_philosophy
 - personal\_social\_theory
+- phenomenon\_not\_fully\_understood
+- political-allegation
 - political\_claims
 - political\_structure\_claims
+- population-control-allegations
 - postmortem-identity-ambiguity
+- psychic-claims-unverified
 - reincarnation-model-metaphysical
+- related\_series\_part
 - religious\_symbolism
 - reproductive\_claims\_unverified
 - review: claims on sexual orientation and depopulation
+- scenario-not-prediction
 - science\_claims\_unverified\_in\_source
 - secret\_ship\_capability\_claims
 - sensitive\_claims
@@ -4409,32 +7185,48 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - speaker\_qualifies\_script\_claims
 - spiritual\_afterlife\_claims\_unverified
 - suffering\_causality
+- targeting\_claims
 - technology\_and\_mind\_interface
 - terminology-tension: densities called concepts and frequency ranges
 - terminology: “positronic” is a human-language approximation (p0002)
+- third\_party\_allegations
 - time-bound-prediction
+- time\_and\_dimension\_claims\_unverified
 - time\_travel\_lore
 - time\_travel\_risks
 - timeline\_model
 - translated\_source
+- ufo\_researcher\_critique
 - unmapped\_regions\_and\_return\_risk
 - unverified-cabinet-claims
 - unverified-technology-claims
+- unverified\_addiction\_claims
 - unverified\_agency\_claims
 - unverified\_ancient\_technology\_claims
 - unverified\_biological\_and\_metaphysical\_claims
 - unverified\_biological\_claims
+- unverified\_cloning\_claims
+- unverified\_demographics
 - unverified\_disinformation\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_extraterrestrial\_technology\_claims
 - unverified\_extraterrestrial\_threat\_claims
 - unverified\_historical\_claims
+- unverified\_lunar\_technology
+- unverified\_measurement\_claims
 - unverified\_medical\_allegations
 - unverified\_medical\_claims
+- unverified\_metaphysical\_biology
 - unverified\_metaphysical\_claims
+- unverified\_military\_claims
 - unverified\_mind\_control\_claims
 - unverified\_paranormal\_claims
+- unverified\_political\_claims
+- unverified\_psychological\_claims
+- unverified\_public\_figure\_claims
+- unverified\_science\_claims
 - unverified\_technical\_claims
+- unverified\_technology\_claims
 - unverified\_time\_travel\_claims
 - viral-model-claims-attributed
 - virus-account-internal-tension

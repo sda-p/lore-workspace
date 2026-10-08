@@ -1,0 +1,105 @@
+{
+  "source_id": "src-28ddf6479cea",
+  "snapshot_sha256": "2fb9f6e161f36013917190b585d08f26113df6c62517fa670925193af55a3a7f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-28ddf6479cea-c01",
+      "assertion": "Yazhi says counterrotating superconducting fluid in toroids can mimic gravity; enriched mercury is a feasible starting medium.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0012",
+        "p0016"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28ddf6479cea-c02",
+      "assertion": "She says useful gravity control requires local gravity-frequency data, interferometers, advanced materials, and base-12 mathematics.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28ddf6479cea-c03",
+      "assertion": "Yazhi says Taygetan plasma-jet engines use pressurized enriched mercury in counterrotating superconducting turbines; Toleka units have nine layers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0032",
+        "p0034",
+        "p0042"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28ddf6479cea-c04",
+      "assertion": "She distinguishes crystal-based Taygetan reactors from mercury-based plasma turbines and withholds formulas under Federation rules.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28ddf6479cea-c05",
+      "assertion": "Yazhi says medical pods could cure most diseases but require prior changes to society’s power and financial structures.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0046",
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "technology_claims"
+  ],
+  "coverage_gaps": [
+    "engineering-specifications"
+  ]
+}

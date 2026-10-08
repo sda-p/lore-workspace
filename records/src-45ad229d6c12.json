@@ -1,0 +1,126 @@
+{
+  "source_id": "src-45ad229d6c12",
+  "snapshot_sha256": "50683af79c3f3cf3f0cd3cc0fc0f875294e586bbccd91ca2a01dc00164bd6cc7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-45ad229d6c12-c01",
+      "assertion": "Mari says Federation councils seek consensus through expert guidance, ethics, and logic rather than votes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ad229d6c12-c02",
+      "assertion": "She describes tiered councils that escalate problems from local to planetary and higher levels.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ad229d6c12-c03",
+      "assertion": "She places Earth’s smallest council underground in Antarctica, involving alien and human representatives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ad229d6c12-c04",
+      "assertion": "She says Viera hosts a local Earth council led by Andromedans and Arcturians, with limited authority.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "andromeda-council",
+      "topics": [
+        "andromeda-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ad229d6c12-c05",
+      "assertion": "She locates a poorly documented Solar System High Council near Saturn and its moons.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0017",
+        "p0018",
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45ad229d6c12-c06",
+      "assertion": "Mari says Federation reach is vast but its structure has serious shortcomings.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-structure-unverified",
+    "saturn-council-uncertainty"
+  ],
+  "coverage_gaps": [
+    "federation-councils",
+    "earth-council",
+    "saturn-council"
+  ]
+}

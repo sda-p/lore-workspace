@@ -1,0 +1,103 @@
+{
+  "source_id": "src-c147ae1148dd",
+  "snapshot_sha256": "cf0e31892c13576602f91527459a3e79a289160e4e029375eb7e49b0a59862b0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c147ae1148dd-c01",
+      "assertion": "Mari says rulers shape accepted history and truth to serve their interests.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c147ae1148dd-c02",
+      "assertion": "Mari says secret societies preserve knowledge withheld from the public, while higher powers may manipulate their beliefs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c147ae1148dd-c03",
+      "assertion": "Mari says rulers form a controlled Matrix through congruent lies imposed by institutions and schools.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c147ae1148dd-c04",
+      "assertion": "Mari says perceived awakening may prompt ridicule or resets that erase cultural memory and impose new beliefs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c147ae1148dd-c05",
+      "assertion": "Mari believes the Galactic Federation can reset a planet, while allowing natural cataclysms also occur.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

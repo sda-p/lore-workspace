@@ -1,0 +1,47 @@
+{
+  "source_id": "src-a37db4584b4c",
+  "snapshot_sha256": "8070c4df56379ebb93aa89ff2fe363962f3a5d48ce26c6983eb3a596056da656",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a37db4584b4c-c01",
+      "assertion": "Yazhi says an immersion pod can build an adult body in three months, but cannot mature the mind.",
+      "speaker": "Yazhi Swaruu, relaying Senetre",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "sophia-swaruu"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a37db4584b4c-c02",
+      "assertion": "Yazhi says she and the Taygetans are different species, so Taygetan behavior should not be expected of her.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0062"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans",
+        "sophia-swaruu"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

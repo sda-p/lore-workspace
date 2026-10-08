@@ -198,16 +198,41 @@ Source: [Yazhi Swaruu - Wisdom of the Extraterrestrial "Child" - Metaphysical Ch
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-5e07dce47a23-c04
+
+She identifies Avyon-one as the Urmah flagship, slightly larger than Toleka.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Pfizer Factory Tornado - What Really Happened? Athena Swaruu Informs](https://swaruu.org/transcripts/pfizer-factory-tornado-what-really-happened-athena-swaruu-informs) (2023-07-31; en); passages p0021, p0022. [Structured record](../../records/src-5e07dce47a23.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-5e07dce47a23-c05
+
+Athena says the Urmah represent a feline council based in Lyra.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Pfizer Factory Tornado - What Really Happened? Athena Swaruu Informs](https://swaruu.org/transcripts/pfizer-factory-tornado-what-really-happened-athena-swaruu-informs) (2023-07-31; en); passages p0025, p0026, p0028. [Structured record](../../records/src-5e07dce47a23.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-1461dd27e63f-c08](alien-species.md#src-1461dd27e63f-c08) — Alien species and distinctions
+- [src-5e07dce47a23-c01](tractor-beams.md#src-5e07dce47a23-c01) — Tractor beams
+- [src-5e07dce47a23-c02](vaccine-inoculation-claims.md#src-5e07dce47a23-c02) — Inoculation and genetic alteration claims
+- [src-5e07dce47a23-c03](prime-directive.md#src-5e07dce47a23-c03) — Prime Directive
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - Federation-as-controller claim conflicts with mentor framing within transcript
+- medical\_claims
 - personal\_metaphysics
 - self-reported-traits
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- unverified\_extraterrestrial\_claims
 - warrior\_symbolism

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-ab22dfeea61d",
+  "snapshot_sha256": "d0878e8aa6885b7d8a48d3bd72c914c04e4b69302c2b8bb8bb656310b173f0a5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ab22dfeea61d-c01",
+      "assertion": "Mari distinguishes a nonphysical Federation of expanded selves from the physical interstellar Federation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab22dfeea61d-c02",
+      "assertion": "She says higher beings exist beyond space-time, communicate telepathically, and do not hold councils.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab22dfeea61d-c03",
+      "assertion": "Mari says light beings guide lower realms by implanting ideas or appearing in familiar forms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab22dfeea61d-c04",
+      "assertion": "She says light beings may incarnate as humans or inhabit multiple places while remaining nonmaterial.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab22dfeea61d-c05",
+      "assertion": "Mari says events seen negatively on Earth may appear as growth opportunities from expanded perspectives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "source_of_higher_federation"
+  ]
+}

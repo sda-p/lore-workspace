@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Coordinate successive source-selection, extraction, and reviewed cohorts."""
 import argparse
+import copy
 from collections import Counter
 from pathlib import Path
 import re
@@ -93,7 +94,7 @@ def integrate(batch,cache):
             variants=[]
             for topic in record['proposed_topics']:
                 if topic['id'] in topics and topic!=topics[topic['id']]:
-                    variants.append({'proposed':topic,'canonical':topics[topic['id']]})
+                    variants.append({'proposed':copy.deepcopy(topic),'canonical':copy.deepcopy(topics[topic['id']])})
                     topic.update(topics[topic['id']])
             if variants:
                 lore.write(ROOT/f'reports/topic-variants/{sid}.json',variants)
@@ -144,9 +145,9 @@ def wait_ready(batch,reviewer,excluded):
     todo=[sid for sid in assigned if sid not in excluded]
     end=time.monotonic()+45
     while True:
-        ready=[sid for sid in todo if (ROOT/f'work/completed/{sid}.json').exists()]
+        ready=[sid for sid in todo if (ROOT/f'work/completed/{sid}.json').exists() and (ROOT/f'records/{sid}.json').exists()]
         if ready or not todo or time.monotonic()>=end:
-            print(__import__('json').dumps({'ready_source_ids':ready,'waiting_count':len(todo)-len(ready),'all_done':not todo})); return
+            print(__import__('json').dumps({'ready_source_ids':ready,'waiting_count':len(todo)-len(ready),'all_done':not todo,'observed_at':lore.now(),'record_directory':str(ROOT/'records'),'completion_directory':str(ROOT/'work/completed')})); return
         time.sleep(1)
 
 parser=argparse.ArgumentParser(); sub=parser.add_subparsers(dest='command',required=True)

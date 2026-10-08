@@ -1,0 +1,108 @@
+{
+  "source_id": "src-bc1f28760d1d",
+  "snapshot_sha256": "562e1a1f14f91404d447739567bff496fa42ce775139502eac9b2921d8aebe9a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bc1f28760d1d-c01",
+      "assertion": "Mari says stellar civilizations use limited money or barter for exchanges, while abundant internal societies lack economies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc1f28760d1d-c02",
+      "assertion": "She says original art and natural gold retain trade value, while replicated gold is mainly industrial.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc1f28760d1d-c03",
+      "assertion": "Mari distinguishes natural, replicated, and monoatomic gold for trade, industry, and medicine.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc1f28760d1d-c04",
+      "assertion": "She says abundant societies provide resources freely, limiting internal exchange to occasional barter.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc1f28760d1d-c05",
+      "assertion": "Mari says Earth’s scarcity-centered economy concentrates wealth and makes money a major control mechanism.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "prior_statement_conflict",
+    "extraordinary_economic_claims"
+  ],
+  "coverage_gaps": [
+    "historical_money_origins"
+  ]
+}

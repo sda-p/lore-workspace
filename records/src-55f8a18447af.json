@@ -1,0 +1,120 @@
+{
+  "source_id": "src-55f8a18447af",
+  "snapshot_sha256": "eecbd391372b5b94746438ada15252613d6b1418913a97f3824da81109456026",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-55f8a18447af-c01",
+      "assertion": "Mari Swa says starship coolant converts waste heat into electricity because space cannot readily dissipate it.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-55f8a18447af-c02",
+      "assertion": "Mari Swa says Alcyone’s engine mounts and cooling tubes failed after a long hyperspace journey.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-55f8a18447af-c03",
+      "assertion": "Mari Swa describes Moghyay as wingless, four-limbed, fruit-eating birds native to Temmer.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "moghyay",
+      "topics": [
+        "moghyay",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-55f8a18447af-c04",
+      "assertion": "Mari Swa says Moghyay destroy crops and can become aggressive toward cats.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "moghyay",
+      "topics": [
+        "moghyay"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-55f8a18447af-c05",
+      "assertion": "Mari Swa says the Toleka and Asterope-class ships carry replicated human computers for Second Contact.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-55f8a18447af-c06",
+      "assertion": "Mari Swa says Asterope and Alcyone are similar in size, with Alcyone slightly longer.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "moghyay",
+      "name": "Moghyay",
+      "kind": "species",
+      "aliases": [
+        "Moghyay birds"
+      ]
+    }
+  ],
+  "review_flags": [
+    "species-description_attributed"
+  ],
+  "coverage_gaps": [
+    "ship-repair",
+    "Taygetan-ecology"
+  ]
+}

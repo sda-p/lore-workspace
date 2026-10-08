@@ -1,0 +1,110 @@
+{
+  "source_id": "src-50e2b0a4c4db",
+  "snapshot_sha256": "68be49fa25928e0fbff35ee2a9327e59b4e94d35fb037383c8d60f36f82f20b1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-50e2b0a4c4db-c01",
+      "assertion": "Mari calls attraction a mirror effect: circumstances reflect a person’s values and state.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0008",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50e2b0a4c4db-c02",
+      "assertion": "She says major life changes require focused goals, practical steps, and overcoming inner barriers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50e2b0a4c4db-c03",
+      "assertion": "She describes quantum jumps as rapid changes often following a perceived personal low point.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50e2b0a4c4db-c04",
+      "assertion": "She says removing harmful relationships can raise personal frequency and support change.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50e2b0a4c4db-c05",
+      "assertion": "She says suffering is not required for a quantum jump.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "life-change-model",
+    "quantum-jump"
+  ]
+}

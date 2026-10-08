@@ -1,0 +1,103 @@
+{
+  "source_id": "src-1aaa84ea5a0d",
+  "snapshot_sha256": "435451b86b585c6d9406d4003d5c7d3f96d69042e7c8c983081d3b1befc9171d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1aaa84ea5a0d-c01",
+      "assertion": "Mari distinguishes soft resets through perception control from hard resets through cataclysm.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1aaa84ea5a0d-c02",
+      "assertion": "Mari says soft resets exploit generational forgetting and deletion or reinterpretation of historical evidence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1aaa84ea5a0d-c03",
+      "assertion": "Mari says controllers weaponize social movements and gradual changes to guide society.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1aaa84ea5a0d-c04",
+      "assertion": "Mari alleges controllers use social movements and media narratives to guide cultural change.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1aaa84ea5a0d-c05",
+      "assertion": "Mari estimates a soft societal reset takes about 150 years and says the prior one occurred mid-19th century.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific alleged social agendas"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "source_id": "src-d32a737d43d2",
+  "snapshot_sha256": "3ab4dbdcb5da91b8fbf00b8e5e85159f8e7e0ea288871c2560c762d2511c2b6e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d32a737d43d2-c01",
+      "assertion": "Mari says an Etorthan delegation was sent to audit activity near Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d32a737d43d2-c02",
+      "assertion": "She says Saska 1 brought supplies and two replacement fighter craft to Toleka.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d32a737d43d2-c03",
+      "assertion": "She reports Viera sent a cancellation notice before the Etorthans arrived as scheduled.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d32a737d43d2-c04",
+      "assertion": "She says only invited delegates could attend Etorthan meetings.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d32a737d43d2-c05",
+      "assertion": "Alenym declined attendance because she believed Etorthans used covert telepathic control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d32a737d43d2-c06",
+      "assertion": "Mari speculates a Japanese earthquake may have been an offering, while admitting uncertainty.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "earthquake-causation-unverified"
+  ],
+  "coverage_gaps": [
+    "etorthan-audit",
+    "ship-resupply",
+    "meeting-security"
+  ]
+}

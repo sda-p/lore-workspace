@@ -1,0 +1,103 @@
+{
+  "source_id": "src-ebb0792f073e",
+  "snapshot_sha256": "14b03ff2b59ed6f6ccb3dd1e5c02d2119784bd0792cbdb9822eb3cbecb2da1cf",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ebb0792f073e-c01",
+      "assertion": "Mari defines starseeds as souls with many off-world lives who choose brief Earth incarnations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0019"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ebb0792f073e-c02",
+      "assertion": "She says souls reincarnate into bodies matching their frequency and vibration.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0012"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ebb0792f073e-c03",
+      "assertion": "She says starseeds and wanderers differ in attachment to particular stellar races.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ebb0792f073e-c04",
+      "assertion": "She says Earth brings different consciousness levels into one shared realm.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ebb0792f073e-c05",
+      "assertion": "She says only individuals can determine their own starseed identity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "starseed-definition",
+    "wanderer-definition",
+    "earth-density"
+  ]
+}

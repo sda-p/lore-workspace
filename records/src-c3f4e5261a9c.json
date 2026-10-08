@@ -1,0 +1,99 @@
+{
+  "source_id": "src-c3f4e5261a9c",
+  "snapshot_sha256": "6acd92442cbf7c448e3273eac82282e822fccb268291bb575f5808a71e4823db",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c3f4e5261a9c-c01",
+      "assertion": "Yazhi says memory wipes permit identity change; some timeline variants forget, while others retain prior identities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0010"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3f4e5261a9c-c02",
+      "assertion": "She says physical identity is mental and can coexist with etheric awareness; she can pass through walls by becoming them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0026",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3f4e5261a9c-c03",
+      "assertion": "Yazhi says teleportation and telekinesis require dissolving the perceived separation between self and object; only two Swaruus achieved telekinesis.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "sophia-swaruu"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3f4e5261a9c-c04",
+      "assertion": "Yazhi says some Taygetans remember past lives as Urmah cats, explaining their affinity for cats.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0062",
+        "p0066",
+        "p0068"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "nexus-souls"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3f4e5261a9c-c05",
+      "assertion": "She says Avyon One escorts them, linking the escort to those remembered Urmah identities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0068"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "incarnation variants",
+    "astral abilities"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_id": "src-5f504bef5a30",
+  "snapshot_sha256": "1f12fa941c5d541450e03a40ed3efed64acf161d85e122bbd848149064c356b3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5f504bef5a30-c01",
+      "assertion": "Mari argues official histories are shaped by victors and political interests.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "tartaria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5f504bef5a30-c02",
+      "assertion": "She says accounts of Tartaria and Siberian ruins are omitted from accepted history.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified historical claim."
+    },
+    {
+      "id": "src-5f504bef5a30-c03",
+      "assertion": "Mari says many historical events occurred closer together than accepted accounts indicate.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5f504bef5a30-c04",
+      "assertion": "She says Federation archives also contain inconsistencies and omit Tartaria.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0022",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "tartaria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified claim."
+    },
+    {
+      "id": "src-5f504bef5a30-c05",
+      "assertion": "Mari presents her conclusions as a perspective rather than ultimate truth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0029"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_historical_claims",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "dating_methods"
+  ]
+}

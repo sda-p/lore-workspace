@@ -618,6 +618,196 @@ Source: [Starseeds - What should we DO and how should we BE now? Conversation wi
 
 Related topics: [Economics and resources](economics.md).
 
+### src-fa3030bd8cd8-c04
+
+She says helping others requires personal stability and boundaries to avoid exploitation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stupidity and the Ego, a spiritual perspective. (English)](https://swaruu.org/transcripts/stupidity-and-the-ego-a-spiritual-perspective-english) (2023-03-04; en); passages p0010, p0011, p0012, p0013. [Structured record](../../records/src-fa3030bd8cd8.json).
+
+### src-15eb15d3c9a4-c04
+
+She says service to others requires self-care and cooperative communities.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Thoughts on Karma and Dharma (English)](https://swaruu.org/transcripts/thoughts-on-karma-and-dharma-english) (2023-03-13; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-15eb15d3c9a4.json).
+
+### src-01100c03c15c-c04
+
+He favors helping others while avoiding intrusive intervention.
+
+Attributed to **Za´el of Erra**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 3: Can you escape from destiny? (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-3-can-you-escape-from-destiny-english) (2023-03-14; en); passages p0018. [Structured record](../../records/src-01100c03c15c.json).
+
+### src-73847cacada2-c05
+
+Mari says her channel shares her perspective and off-world information she considers useful for viewers.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [New Channel Presentation (English)](https://swaruu.org/transcripts/new-channel-presentation-english) (2023-06-21; en); passages p0019, p0020, p0026. [Structured record](../../records/src-73847cacada2.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-73847cacada2-c06
+
+She invites viewers to treat her claims as science fiction.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [New Channel Presentation (English)](https://swaruu.org/transcripts/new-channel-presentation-english) (2023-06-21; en); passages p0025. [Structured record](../../records/src-73847cacada2.json).
+
+### src-c650263bc0eb-c04
+
+She urges viewers to investigate independently rather than rely on official disclosure.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extra-terrestrial Disclosure, a Warning (English)](https://swaruu.org/transcripts/extra-terrestrial-disclosure-a-warning-english) (2023-07-05; en); passages p0014, p0022, p0024. [Structured record](../../records/src-c650263bc0eb.json).
+
+### src-bc1f28760d1d-c04
+
+She says abundant societies provide resources freely, limiting internal exchange to occasional barter.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The invention of money and its uses in different societies. (English)](https://swaruu.org/transcripts/the-invention-of-money-and-its-uses-in-different-societies-english) (2023-05-13; en); passages p0023, p0024. [Structured record](../../records/src-bc1f28760d1d.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-2f12809b9b4a-c05
+
+Mari calls prolonged frequency mismatch “ET sickness” and links it to stress-related illness. This is her health claim.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseeds, problems, part 2, Frequency Incompatibility. (English)](https://swaruu.org/transcripts/starseeds-problems-part-2-frequency-incompatibility-english) (2023-05-30; en); passages p0024, p0025, p0026. [Structured record](../../records/src-2f12809b9b4a.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-c4de2f56abc6-c04
+
+He says childhood social pressure pushes Earth’s population toward resignation and limited goals.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [3D Mentality and Tendency to Think Small](https://swaruu.org/transcripts/3d-mentality-and-tendency-to-think-small) (2023-06-17; en); passages p0017, p0018, p0019. [Structured record](../../records/src-c4de2f56abc6.json).
+
+### src-c4de2f56abc6-c06
+
+He advises treating conclusions as temporary, preparing for failure, and testing different paths.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [3D Mentality and Tendency to Think Small](https://swaruu.org/transcripts/3d-mentality-and-tendency-to-think-small) (2023-06-17; en); passages p0021, p0022, p0023, p0027. [Structured record](../../records/src-c4de2f56abc6.json).
+
+### src-2765adc51ff2-c03
+
+Za’el says achieving goals requires action and persistence, not wishing alone.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Does the impossible exist?](https://swaruu.org/transcripts/does-the-impossible-exist) (2023-05-08; en); passages p0011, p0012, p0013. [Structured record](../../records/src-2765adc51ff2.json).
+
+### src-2765adc51ff2-c04
+
+Arien compares difficult goals to puzzles solved by changing approaches after repeated failure.
+
+Attributed to **Arien**; reported; extraction confidence: high.
+
+Source: [Does the impossible exist?](https://swaruu.org/transcripts/does-the-impossible-exist) (2023-05-08; en); passages p0016. [Structured record](../../records/src-2765adc51ff2.json).
+
+### src-2765adc51ff2-c05
+
+Za’el advises distinguishing prudent caution from fear and accepting some unavoidable risks.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Does the impossible exist?](https://swaruu.org/transcripts/does-the-impossible-exist) (2023-05-08; en); passages p0020, p0021. [Structured record](../../records/src-2765adc51ff2.json).
+
+### src-6800b2688515-c04
+
+He says helpers should support people through trauma rather than intensify their suffering.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: ["Soul" Agreements, Omission of Action, and Changing someone else's Timeline](https://swaruu.org/transcripts/soul-agreements-omission-of-action-and-changing-someone-else-s-timeline) (2023-03-23; en); passages p0020, p0021, p0022. [Structured record](../../records/src-6800b2688515.json).
+
+### src-6bba1ebb3317-c01
+
+Za’el says truth emerges for those willing to seek it; patient inquiry can bring discomfort and growth.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Intuition, Logic and Heart - The Search for "Truth"](https://swaruu.org/transcripts/intuition-logic-and-heart-the-search-for-truth) (2023-07-26; en); passages p0009, p0010. [Structured record](../../records/src-6bba1ebb3317.json).
+
+### src-1be42e9ca084-c04
+
+He enjoys some Earth art and entertainment but says he does not want to live there again.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Who is Za'el of Erra? - A little more about me](https://swaruu.org/transcripts/who-is-za-el-of-erra-a-little-more-about-me) (2023-06-09; en); passages p0007. [Structured record](../../records/src-1be42e9ca084.json).
+
+### src-1be42e9ca084-c05
+
+Za’el says he pursues honorable conduct partly as protection in the Earth context.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Who is Za'el of Erra? - A little more about me](https://swaruu.org/transcripts/who-is-za-el-of-erra-a-little-more-about-me) (2023-06-09; en); passages p0014, p0015. [Structured record](../../records/src-1be42e9ca084.json).
+
+### src-291f1a9b28f5-c01
+
+Athena says her team visited Ukraine by air and on foot to compare local perceptions with their sources.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ukraine - CIC Report 2 - Direct Experience and Conclusions](https://swaruu.org/transcripts/ukraine-cic-report-2-direct-experience-and-conclusions) (2023-03-12; en); passages p0003, p0004. [Structured record](../../records/src-291f1a9b28f5.json).
+
+### src-291f1a9b28f5-c02
+
+She says views differ by region: eastern residents she encountered favored Russia, while western migrants had greater exposure to Western narratives.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ukraine - CIC Report 2 - Direct Experience and Conclusions](https://swaruu.org/transcripts/ukraine-cic-report-2-direct-experience-and-conclusions) (2023-03-12; en); passages p0008, p0016. [Structured record](../../records/src-291f1a9b28f5.json).
+
+### src-291f1a9b28f5-c03
+
+Athena says her team perceived Kyiv residents as strongly pro-Russian.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ukraine - CIC Report 2 - Direct Experience and Conclusions](https://swaruu.org/transcripts/ukraine-cic-report-2-direct-experience-and-conclusions) (2023-03-12; en); passages p0017, p0018. [Structured record](../../records/src-291f1a9b28f5.json).
+
+### src-3182af03be61-c01
+
+Mari says Taygetan electric vehicles are free and produced by enthusiasts in a society without money.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Electric vehicles in Taygeta, and on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-in-taygeta-and-on-earth-english) (2023-04-01; en); passages p0009, p0010, p0011. [Structured record](../../records/src-3182af03be61.json).
+
+### src-3012390b7529-c01
+
+Za’el presents his channel as an independent, parallel project sharing information directly with the public.
+
+Attributed to **Za’el**; asserted; extraction confidence: high.
+
+Source: [Presentation (Za'el) ENGLISH](https://swaruu.org/transcripts/presentation-za-el-english) (2023-03-01; en); passages p0004, p0005, p0006. [Structured record](../../records/src-3012390b7529.json).
+
+### src-3e47a84b5581-c04
+
+Mari says the cadets planned an independent direct channel coordinated with and tutored by her.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/transcripts/za-el-and-arien-new-friends-in-star-ship-toleka) (2023-03-01; en); passages p0004. [Structured record](../../records/src-3e47a84b5581.json).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -637,19 +827,26 @@ Related topics: [Economics and resources](economics.md).
 - [src-63a2efae9b5b-c02](consciousness-metaphysics.md#src-63a2efae9b5b-c02) — Consciousness and metaphysics
 - [src-0f4f8d997259-c02](starship-systems.md#src-0f4f8d997259-c02) — Starship systems
 - [src-01c3c72a675d-c03](earth-cabal.md#src-01c3c72a675d-c03) — Earth Cabal and power structures
+- [src-bc1f28760d1d-c01](economics.md#src-bc1f28760d1d-c01) — Economics and resources
 
 ## Review flags
 
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
+- conditional\_forecast
 - conflicting\_primary\_purpose\_claims
+- conspiracy\_claims
 - coverage: climate and architecture
 - coverage: interspecies compatibility
 - crime\_and\_abundance\_claims
 - dialogue-perspectives-distinguished
 - earth-consciousness\_claim\_omitted
 - ethical\_use\_limits
+- extraordinary\_economic\_claims
+- extraordinary\_exopolitical\_claims
+- extraordinary\_health\_claims
 - extraordinary\_history\_claims
 - extraordinary\_medical\_claims
+- extraordinary\_metaphysical\_claims
 - intervention\_tension
 - manifestation\_mechanics
 - matrix\_scope
@@ -657,11 +854,17 @@ Related topics: [Economics and resources](economics.md).
 - metaphysical-claims
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
+- personal\_metaphysics
+- personal\_philosophy
 - personal\_social\_theory
 - political-allegation
 - political\_claims
 - political\_structure\_claims
+- politically\_contested
+- prior\_statement\_conflict
+- related\_series\_part
 - self-reported-traits
+- self\_description
 - speaker: interviewer questions excluded as claims
 - species\_specific\_reproduction
 - technology\_claims
@@ -669,4 +872,5 @@ Related topics: [Economics and resources](economics.md).
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - unverified\_biological\_claims
+- unverified\_source\_claims
 - unverified\_technical\_claims

@@ -982,6 +982,190 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Swaruu Official, (English)](https://swaruu.org/transcripts/swaruu-official-english) (2022-12-12; en); passages p0009, p0010. [Structured record](../../records/src-78f6779f9011.json).
 
+### src-f188068e31d4-c04
+
+Yazhi says Swaruu outgrew Taygeta and, since Athena, are born in deep space.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Metaphysical Chat about Expansion of Souls - with Yazhi Swaruu](https://swaruu.org/transcripts/metaphysical-chat-about-expansion-of-souls-with-yazhi-swaruu) (2023-05-04; en); passages p0032, p0033, p0034. [Structured record](../../records/src-f188068e31d4.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-4ef944b1a1f6-c05
+
+Mari says stellar families guide starseeds but do not interfere because Earth is their test.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Motivational video Number 2, for Starseeds and the Awakened Ones. (English)](https://swaruu.org/transcripts/motivational-video-number-2-for-starseeds-and-the-awakened-ones-english) (2023-06-09; en); passages p0033. [Structured record](../../records/src-4ef944b1a1f6.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-daf200b4565a-c05
+
+Mari warns that people impersonate her group online, which she says is not openly using social media.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Disclosure nowadays, Part 2, going in deeper. (English)](https://swaruu.org/transcripts/disclosure-nowadays-part-2-going-in-deeper-english) (2023-06-25; en); passages p0028, p0029. [Structured record](../../records/src-daf200b4565a.json).
+
+### src-99597b7d630f-c05
+
+Mari says extraction usually concerns fully incarnated starseeds; immersion-pod users can return technologically.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 1 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-1-english) (2023-07-15; en); passages p0014, p0015. [Structured record](../../records/src-99597b7d630f.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-112bba350567-c02
+
+She says Alfratans, Antarians, and 35,000 Taygetans participated, the latter largest group.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Why was project first contact a failure?](https://swaruu.org/transcripts/why-was-project-first-contact-a-failure) (2023-04-09; en); passages p0002, p0004. [Structured record](../../records/src-112bba350567.json).
+
+### src-112bba350567-c04
+
+Taygetan volunteers were mostly young women contacting people through open online chats.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Why was project first contact a failure?](https://swaruu.org/transcripts/why-was-project-first-contact-a-failure) (2023-04-09; en); passages p0002, p0008, p0009, p0010, p0013. [Structured record](../../records/src-112bba350567.json).
+
+### src-1c58821fb603-c01
+
+Mari identifies Sophia Meritaten Tasherit as the 12th linear Swaruu incarnation; she chose the name Yazhi.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Who is Sophi (Sophia Swaruu)](https://swaruu.org/transcripts/who-is-sophi-sophia-swaruu) (2023-02-13; en); passages p0003, p0004. [Structured record](../../records/src-1c58821fb603.json).
+
+### src-1c58821fb603-c05
+
+Mari emphasizes that Sophia remains a child who plays, makes mistakes, and needs rest.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Who is Sophi (Sophia Swaruu)](https://swaruu.org/transcripts/who-is-sophi-sophia-swaruu) (2023-02-13; en); passages p0023, p0025, p0032, p0034. [Structured record](../../records/src-1c58821fb603.json).
+
+### src-73847cacada2-c01
+
+Mari identifies as a nonhuman Swaruunian, a Taygetan variant based on Erra.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [New Channel Presentation (English)](https://swaruu.org/transcripts/new-channel-presentation-english) (2023-06-21; en); passages p0003, p0004. [Structured record](../../records/src-73847cacada2.json).
+
+### src-6ef6212fe8ca-c04
+
+Mari recounts becoming lost after a solo ship trip at thirteen, separating her from her mother.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Is it really necessary to change your past? (English)](https://swaruu.org/transcripts/is-it-really-necessary-to-change-your-past-english) (2023-05-09; en); passages p0014, p0016. [Structured record](../../records/src-6ef6212fe8ca.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-1be42e9ca084-c01
+
+Za’el identifies Erra as a colder, forested, inhabited planet in Taygeta’s Pleiades system.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Who is Za'el of Erra? - A little more about me](https://swaruu.org/transcripts/who-is-za-el-of-erra-a-little-more-about-me) (2023-06-09; en); passages p0004. [Structured record](../../records/src-1be42e9ca084.json).
+
+### src-1be42e9ca084-c02
+
+He identifies as Taygetan and says he regards some Toleka crew members as family.
+
+Attributed to **Za’el**; reported; extraction confidence: high.
+
+Source: [Who is Za'el of Erra? - A little more about me](https://swaruu.org/transcripts/who-is-za-el-of-erra-a-little-more-about-me) (2023-06-09; en); passages p0006. [Structured record](../../records/src-1be42e9ca084.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-afa1873e4741-c03
+
+Yazhi’s Taygetan account names Taygetans and Elohi among prominent Anunnaki groups, especially in antiquity.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Anunnaki - Who are they exactly? Extraterrestrial Perspective](https://swaruu.org/transcripts/anunnaki-who-are-they-exactly-extraterrestrial-perspective) (2023-03-10; en); passages p0005. [Structured record](../../records/src-afa1873e4741.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-afa1873e4741-c04
+
+Athena says Taygetans and Swaruus count as Anunnaki under a broader “heaven-descended knowledge-bringers” definition.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Anunnaki - Who are they exactly? Extraterrestrial Perspective](https://swaruu.org/transcripts/anunnaki-who-are-they-exactly-extraterrestrial-perspective) (2023-03-10; en); passages p0010, p0011. [Structured record](../../records/src-afa1873e4741.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-4c18957bd2f2-c04
+
+Yazhi says Taygeta was settled by interstellar migrants during the Great Expansion.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-minitopics-with-gosia-cosmic-agency) (2023-03-14; en); passages p0032, p0033, p0039, p0041, p0043, p0045. [Structured record](../../records/src-4c18957bd2f2.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-3182af03be61-c03
+
+Mari says Taygetan road vehicles serve short trips; air travel and magnetic trains link towns.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Electric vehicles in Taygeta, and on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-in-taygeta-and-on-earth-english) (2023-04-01; en); passages p0012, p0021. [Structured record](../../records/src-3182af03be61.json).
+
+### src-3182af03be61-c04
+
+Mari says magnetic bearings reduce vehicle wear and tires use self-healing materials.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Electric vehicles in Taygeta, and on Earth. (English)](https://swaruu.org/transcripts/electric-vehicles-in-taygeta-and-on-earth-english) (2023-04-01; en); passages p0018, p0019, p0020. [Structured record](../../records/src-3182af03be61.json).
+
+### src-cd1cd400e21c-c02
+
+Anéeka says Taygeta and Sadicleya appear as a yellow sun and white dwarf from her perspective.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pleiades are NOT too Young to Support Organic Life - Extraterrestrial Contact](https://swaruu.org/transcripts/pleiades-are-not-too-young-to-support-organic-life-extraterrestrial-contact) (2023-05-13; en); passages p0006. [Structured record](../../records/src-cd1cd400e21c.json).
+
+### src-cd1cd400e21c-c03
+
+Swaruu says her group recognizes nine Pleiades stars and no separate cluster behind them. Speaker shifts from Anéeka to Swaruu (9).
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Pleiades are NOT too Young to Support Organic Life - Extraterrestrial Contact](https://swaruu.org/transcripts/pleiades-are-not-too-young-to-support-organic-life-extraterrestrial-contact) (2023-05-13; en); passages p0010, p0011. [Structured record](../../records/src-cd1cd400e21c.json).
+
+### src-3e47a84b5581-c01
+
+Mari says Taygetan supply ship Saska arrived from Temmer on February 15, 2023, to resupply Toleka and other ships.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/transcripts/za-el-and-arien-new-friends-in-star-ship-toleka) (2023-03-01; en); passages p0002. [Structured record](../../records/src-3e47a84b5581.json).
+
+### src-3e47a84b5581-c03
+
+Mari says cadets Arien and Za’el arrived aboard Toleka to study Earth issues from a crew perspective.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/transcripts/za-el-and-arien-new-friends-in-star-ship-toleka) (2023-03-01; en); passages p0003. [Structured record](../../records/src-3e47a84b5581.json).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -1018,6 +1202,20 @@ Source: [Swaruu Official, (English)](https://swaruu.org/transcripts/swaruu-offic
 - [src-eb37fe3914b0-c02](taygetan-ecosystems.md#src-eb37fe3914b0-c02) — Taygetan ecosystems
 - [src-eb37fe3914b0-c04](taygetan-ecosystems.md#src-eb37fe3914b0-c04) — Taygetan ecosystems
 - [src-eb37fe3914b0-c05](taygetan-ecosystems.md#src-eb37fe3914b0-c05) — Taygetan ecosystems
+- [src-c972fa5ca890-c01](nonhuman-surveillance-drones.md#src-c972fa5ca890-c01) — Nonhuman surveillance drones
+- [src-73847cacada2-c02](galactic-federation.md#src-73847cacada2-c02) — Galactic Federation
+- [src-d694d326d416-c01](alien-species.md#src-d694d326d416-c01) — Alien species and distinctions
+- [src-d694d326d416-c05](terrestrial-science.md#src-d694d326d416-c05) — Terrestrial science
+- [src-4c18957bd2f2-c02](holographic-computers.md#src-4c18957bd2f2-c02) — Holographic computers
+- [src-0d12ea1793f5-c04](economics.md#src-0d12ea1793f5-c04) — Economics and resources
+- [src-194038ff3d24-c01](taygetan-flight-suits.md#src-194038ff3d24-c01) — Taygetan flight suits and boots
+- [src-194038ff3d24-c02](taygetan-flight-suits.md#src-194038ff3d24-c02) — Taygetan flight suits and boots
+- [src-194038ff3d24-c03](taygetan-flight-suits.md#src-194038ff3d24-c03) — Taygetan flight suits and boots
+- [src-194038ff3d24-c04](taygetan-flight-suits.md#src-194038ff3d24-c04) — Taygetan flight suits and boots
+- [src-194038ff3d24-c05](taygetan-flight-suits.md#src-194038ff3d24-c05) — Taygetan flight suits and boots
+- [src-3182af03be61-c02](taygetan-wireless-power-grid.md#src-3182af03be61-c02) — Taygetan wireless power grid
+- [src-cd1cd400e21c-c04](terrestrial-science.md#src-cd1cd400e21c-c04) — Terrestrial science
+- [src-3e47a84b5581-c02](starship-systems.md#src-3e47a84b5581-c02) — Starship systems
 
 ## Review flags
 
@@ -1027,7 +1225,9 @@ Source: [Swaruu Official, (English)](https://swaruu.org/transcripts/swaruu-offic
 - blockade-and-biology-attributed
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
+- conspiracy\_claims
 - contested\_intelligence\_claims
+- contradictory\_past\_change\_model
 - coverage: climate and architecture
 - coverage: full metaphysical questions
 - coverage: interspecies compatibility
@@ -1035,17 +1235,23 @@ Source: [Swaruu Official, (English)](https://swaruu.org/transcripts/swaruu-offic
 - coverage: reincarnation detail
 - crop\_circle\_interpretation
 - culturally\_variable\_nde\_claim
+- definition\_varies
 - dietary\_advice
 - directive-rules-not-in-transcript
+- disclosure\_claims\_unverified
 - earth-population-claims
+- extraordinary\_biological\_claims
 - extraordinary\_civilization\_claims
 - extraordinary\_claims
+- extraordinary\_exopolitical\_claims
 - extraordinary\_health\_claims
 - extraordinary\_history\_claims
 - extraordinary\_medical\_claims
 - extraordinary\_metaphysical\_claims
 - extraordinary\_paranormal\_claims
+- extraordinary\_personal\_ability\_claims
 - historical-claims-uncorroborated
+- historical-claims-unverified
 - historical-conspiracy-claims
 - historical\_account\_unverified
 - identity-claims-unverified
@@ -1059,6 +1265,7 @@ Source: [Swaruu Official, (English)](https://swaruu.org/transcripts/swaruu-offic
 - pilot-account-attributed
 - review: claims on sexual orientation and depopulation
 - self-reported-traits
+- self\_description
 - speaker-attribution-swaruu-x-athena
 - speaker-split: Gosia reflection; Anéeka statement at p0050-p0054
 - species\_specific\_reproduction

@@ -1,0 +1,82 @@
+{
+  "source_id": "src-0578a3b0bcf0",
+  "snapshot_sha256": "f43e743541c33ff4b31e0af517a02c5926faf99f8e39a9bc85f6948ca70db3f9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0578a3b0bcf0-c01",
+      "assertion": "Swaruu says she leads a 7,600-person crew and a 13-ship fleet.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0578a3b0bcf0-c02",
+      "assertion": "She says the Federation’s Earth Council invited her to work aboard Viera, but online contact workloads impede it.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0029"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0578a3b0bcf0-c03",
+      "assertion": "Swaruu describes Taygetan men as highly respectful and women as the sexual initiators, unlike human men.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0036",
+        "p0044"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0578a3b0bcf0-c04",
+      "assertion": "Alenym says Swaruu should be escorted around unfamiliar people because she struggles to read intentions and set boundaries.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0054",
+        "p0056",
+        "p0058",
+        "p0060"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "fleet governance",
+    "contact protocol details"
+  ]
+}

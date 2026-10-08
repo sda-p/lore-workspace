@@ -1,0 +1,112 @@
+{
+  "source_id": "src-01313e3b257d",
+  "snapshot_sha256": "e3faf9e1d09220a1ee93557a5470884e074edd5ba4218777f9ad7d1bc20cbe75",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-01313e3b257d-c01",
+      "assertion": "Mari says manifestation requires clear priorities and practical action toward goals.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01313e3b257d-c02",
+      "assertion": "She says personal circumstances reflect one’s present identity and values.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01313e3b257d-c03",
+      "assertion": "She attributes persistent habits to subconscious programming and recommends safeguards.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01313e3b257d-c04",
+      "assertion": "She advises reducing toxic relationships and strengthening supportive connections.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01313e3b257d-c05",
+      "assertion": "She says changing one’s mentality and environment, including removing toxic people, can improve life circumstances.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0029",
+        "p0030",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "manifestation-model",
+    "behavior-change"
+  ]
+}

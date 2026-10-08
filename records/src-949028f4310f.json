@@ -1,0 +1,103 @@
+{
+  "source_id": "src-949028f4310f",
+  "snapshot_sha256": "6c0d86ed6f26a2b5fc6531db799042ff282a87dccbbad97bd5b08d45fbe032b4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-949028f4310f-c01",
+      "assertion": "Mari says the Prime Directive bars contact, interference, and technology transfers to pre-interstellar cultures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her translated excerpt."
+    },
+    {
+      "id": "src-949028f4310f-c02",
+      "assertion": "She says the rules include biological safeguards and exceptions for correcting prior violations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0017"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-949028f4310f-c03",
+      "assertion": "Mari says a First Contact project used human technology only and provided no direct proof.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-949028f4310f-c04",
+      "assertion": "She argues the Federation restricts contact while also intervening in Earth affairs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-949028f4310f-c05",
+      "assertion": "Mari says the Federation may act permissively because of humanity’s shadow and its capacity to manifest negative outcomes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0032"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims",
+    "internal_tension"
+  ],
+  "coverage_gaps": [
+    "later_contact_restrictions"
+  ]
+}

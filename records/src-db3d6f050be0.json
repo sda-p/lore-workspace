@@ -1,0 +1,103 @@
+{
+  "source_id": "src-db3d6f050be0",
+  "snapshot_sha256": "c73eeed127e045761ee47b81bd07d4dc471e523969e04987b44e1c7a438de69d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-db3d6f050be0-c01",
+      "assertion": "Mari says consciousness continues after death and a soul may keep evolving.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal belief."
+    },
+    {
+      "id": "src-db3d6f050be0-c02",
+      "assertion": "She recommends impartial observation when researching paranormal events.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db3d6f050be0-c03",
+      "assertion": "Mari says paranormal research may reveal recurring patterns without definitive proof.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db3d6f050be0-c04",
+      "assertion": "She describes paranormal events as occurring across realms with different rules.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db3d6f050be0-c05",
+      "assertion": "Mari says she experiences paranormal events nearly every day.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal report."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "examples_of_events"
+  ]
+}

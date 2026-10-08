@@ -1,0 +1,112 @@
+{
+  "source_id": "src-4a80271a1b8e",
+  "snapshot_sha256": "4ea15b6dbd7c63f687749e15915f5a793c550d5152ced3f7e5739695f8f310a7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4a80271a1b8e-c01",
+      "assertion": "Mari Swa says souls co-manifest worlds through shared perception agreements.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4a80271a1b8e-c02",
+      "assertion": "Mari Swa says clocks synchronize people’s perception of time and the material world.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4a80271a1b8e-c03",
+      "assertion": "Mari Swa says matter is energy held in standing waves shaped by consciousness.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4a80271a1b8e-c04",
+      "assertion": "Mari Swa says astral bodies reflect a soul’s self-image and attachments.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4a80271a1b8e-c05",
+      "assertion": "Mari Swa says each soul manifests its own astral realm and perception range.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4a80271a1b8e-c06",
+      "assertion": "Mari Swa says near-death experiences can open perception of astral realms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-model_attributed"
+  ],
+  "coverage_gaps": [
+    "realm-laws",
+    "perception-synchronization"
+  ]
+}

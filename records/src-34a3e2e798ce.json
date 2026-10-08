@@ -1,0 +1,105 @@
+{
+  "source_id": "src-34a3e2e798ce",
+  "snapshot_sha256": "2b5abb82a30aae8d7bd9f77b9bf6e01864207d9d1e33ae482a33465a5971f698",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-34a3e2e798ce-c01",
+      "assertion": "Mari says death ends bodily processes but preserves consciousness and identity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34a3e2e798ce-c02",
+      "assertion": "She says astral time is nonlinear, so recurring ghost sightings need not trap a soul.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34a3e2e798ce-c03",
+      "assertion": "She describes lower-astral entities as forming groups that exploit living beings for energy.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34a3e2e798ce-c04",
+      "assertion": "She says recently deceased loved ones may guide or protect living family members.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34a3e2e798ce-c05",
+      "assertion": "She says places associated with suffering can attract lower-astral activity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "afterlife-model",
+    "ghost-activity"
+  ]
+}

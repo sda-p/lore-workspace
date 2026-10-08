@@ -1,0 +1,98 @@
+{
+  "source_id": "src-e34286c88397",
+  "snapshot_sha256": "f62c4806fc68428c19c104cef6d9505f02f08ed47c5a4d1052359a51fe622039",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e34286c88397-c01",
+      "assertion": "Gosia describes Earth authority as layered from public governments through deep state and secret societies.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e34286c88397-c02",
+      "assertion": "Yazhi says deeper secret societies include nonhuman members and maintain agreements with offworld species.",
+      "speaker": "Gosia quoting Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e34286c88397-c03",
+      "assertion": "Yazhi describes Vatican, City of London, and Washington as control centers for spirituality, economy, and military power.",
+      "speaker": "Gosia quoting Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e34286c88397-c04",
+      "assertion": "Gosia says compartmentalization prevents groups from seeing the full control structure.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0042"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e34286c88397-c05",
+      "assertion": "Aneeka describes the Galactic Federation as managing Earth affairs and overseeing lower power layers.",
+      "speaker": "Gosia quoting Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0047",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "claims are presented as attributed lore and quotations within a lesson"
+  ],
+  "coverage_gaps": [
+    "specific secret-society names and disputed allegations"
+  ]
+}

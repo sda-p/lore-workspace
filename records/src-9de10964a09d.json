@@ -1,0 +1,96 @@
+{
+  "source_id": "src-9de10964a09d",
+  "snapshot_sha256": "6e6f4564a9385a51f6eea8f1fbb23618ee3ab39bb3de8b51bbecefa4826593ab",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9de10964a09d-c01",
+      "assertion": "Mari says “false people” may be an intermittent, perspective-dependent concept, not a fixed trait.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9de10964a09d-c02",
+      "assertion": "The theory describes some perceived people as projections of consciousness without independent souls.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari presents this as a theory, not a fixed conclusion."
+    },
+    {
+      "id": "src-9de10964a09d-c03",
+      "assertion": "Mari says the concept can help people conserve attention for significant relationships and close friends.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9de10964a09d-c04",
+      "assertion": "Mari says questioning whether one is a “false person” means one has a soul.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9de10964a09d-c05",
+      "assertion": "She advises treating everyone respectfully while defending oneself and withholding needless attention from irrelevant people.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "false_people_is_speculative_concept"
+  ],
+  "coverage_gaps": [
+    "collective_matrix_projection"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-331beeab2088",
+  "snapshot_sha256": "0494b91ea41e2f81fb9ce8d273b02730008b11eea83d8800d48b4b66aff0b837",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-331beeab2088-c01",
+      "assertion": "Mari says astral experience varies with each soul’s attention and perception agreements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-331beeab2088-c02",
+      "assertion": "She says shared astral experiences require compatible agreements between souls.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-331beeab2088-c03",
+      "assertion": "Mari describes lower astral realms as resembling the material world and inhabited by attached entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-331beeab2088-c04",
+      "assertion": "She attributes positive or frightening realms to the inhabitants’ thoughts and attention.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-331beeab2088-c05",
+      "assertion": "Mari says bodily perception filters what incarnate people experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "ghosts_and_apparitions"
+  ]
+}

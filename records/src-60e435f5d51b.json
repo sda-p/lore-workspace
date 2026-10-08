@@ -1,0 +1,96 @@
+{
+  "source_id": "src-60e435f5d51b",
+  "snapshot_sha256": "763df59f32dd136c3359a4c11cdf8fd872313f0d06a3de548b635660dd111e9b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-60e435f5d51b-c01",
+      "assertion": "Mari defines a Matrix as shared ideas and rules shaping a culture’s reality.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-60e435f5d51b-c02",
+      "assertion": "She says distinct subcultures can form separate sub-Matrices.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-60e435f5d51b-c03",
+      "assertion": "Mari describes a Federation-linked super-Matrix spanning multiple spacefaring cultures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-60e435f5d51b-c04",
+      "assertion": "She says living souls’ collective fears manifest lower astral realms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-60e435f5d51b-c05",
+      "assertion": "Mari says fearful attention can sustain lower-astral entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "collective_unconscious"
+  ]
+}

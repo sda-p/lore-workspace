@@ -1,0 +1,115 @@
+{
+  "source_id": "src-557d7c7208eb",
+  "snapshot_sha256": "f6101172cd062a511e5b1816c0a033a95b563ed351dde2a5859851698444ff75",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-557d7c7208eb-c01",
+      "assertion": "Mari says Earth’s dominant frequency pressures starseeds to conform, making life confusing and stressful.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-557d7c7208eb-c02",
+      "assertion": "She says lower-astral entities feed on fear and try to lower starseeds’ frequency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-557d7c7208eb-c03",
+      "assertion": "Mari says higher vibration can shield starseeds, while entities may exploit family or friends as emotional triggers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-557d7c7208eb-c04",
+      "assertion": "She says activist starseeds may face technological attacks, including synthetic telepathy from cell towers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-557d7c7208eb-c05",
+      "assertion": "Mari advises resolving conflicts or creating distance and maintaining firm personal ethics.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0015",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-557d7c7208eb-c06",
+      "assertion": "She says studying feared triggers can reduce fear and encourages courage.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_paranormal_claims",
+    "targeting_claims"
+  ],
+  "coverage_gaps": [
+    "entity_types",
+    "attack_details"
+  ]
+}

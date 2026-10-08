@@ -1,0 +1,94 @@
+{
+  "source_id": "src-25f8dc2b982f",
+  "snapshot_sha256": "c12d0fb15bf0301bcc47894865a6254177ab75e97aad84d25d1f82d1485cf336",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-25f8dc2b982f-c01",
+      "assertion": "Yazhi predicts lithium scarcity will raise battery and electric-device production costs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25f8dc2b982f-c02",
+      "assertion": "She claims lithium mining can involve severe exploitation, including underpaid, enslaved, or child labor.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25f8dc2b982f-c03",
+      "assertion": "Yazhi predicts policy and cost pressures will leave private electric cars mainly to wealthy owners and corporations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25f8dc2b982f-c04",
+      "assertion": "She says connected electric vehicles could be remotely disabled by governments to restrict movement.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25f8dc2b982f-c05",
+      "assertion": "Yazhi says advanced non-terrestrial societies mostly use electric technology; she objects to terrestrial vehicles’ planned obsolescence and disposal impacts.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "environmental-claims",
+    "transport-technology"
+  ]
+}

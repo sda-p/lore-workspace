@@ -222,6 +222,70 @@ Source: [Crop Circles - Main Purpose - Short Chat with Swaruu of Erra](https://s
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-6490421f0db7-c01
+
+Mari says sensors detected a portal along a 50-meter street segment. The account describes the crew’s interpretation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Paranormal Portals, the portals we all make part 3 (English)](https://swaruu.org/transcripts/paranormal-portals-the-portals-we-all-make-part-3-english) (2023-01-20; en); passages p0011, p0012, p0013. [Structured record](../../records/src-6490421f0db7.json).
+
+### src-6490421f0db7-c03
+
+Mari attributes accidents to entities exploiting the portal. Unverified paranormal explanation.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
+
+Source: [Paranormal Portals, the portals we all make part 3 (English)](https://swaruu.org/transcripts/paranormal-portals-the-portals-we-all-make-part-3-english) (2023-01-20; en); passages p0022, p0023. [Structured record](../../records/src-6490421f0db7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6490421f0db7-c04
+
+She says neighbors blamed a hostile family for the portal field. Unverified account based on reports.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Paranormal Portals, the portals we all make part 3 (English)](https://swaruu.org/transcripts/paranormal-portals-the-portals-we-all-make-part-3-english) (2023-01-20; en); passages p0028, p0029, p0030, p0033. [Structured record](../../records/src-6490421f0db7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-15ba6ed0a80c-c02
+
+She says its Solar Gate encodes instructions and timing for a solar portal.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka of Temmer - Puma Punku, Machu Picchu and more - Extraterrestrial Bases](https://swaruu.org/transcripts/aneeka-of-temmer-puma-punku-machu-picchu-and-more-extraterrestrial-bases) (2023-04-18; en); passages p0006, p0009, p0010, p0038. [Structured record](../../records/src-15ba6ed0a80c.json).
+
+### src-cb796b9370e8-c04
+
+Yazhi says Ouija rituals open portals that persist at an energetic location after buildings are removed.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Mini Topics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-mini-topics-with-gosia-cosmic-agency) (2023-02-15; en); passages p0059, p0061, p0068, p0070, p0071. [Structured record](../../records/src-cb796b9370e8.json).
+
+### src-0700efa54ddc-c03
+
+Mari says mapped sunspots and coronal holes provide ship portals; black holes are entry-only and dangerous.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Sun and its portals. (English)](https://swaruu.org/transcripts/the-sun-and-its-portals-english) (2023-02-06; en); passages p0017, p0018. [Structured record](../../records/src-0700efa54ddc.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-2303525e8367-c03
+
+Mari says nearby astral laws can be altered by experienced beings, making uninvited portals risky.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Astral. (English)](https://swaruu.org/transcripts/the-astral-english) (2023-08-08; en); passages p0013, p0014. [Structured record](../../records/src-2303525e8367.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -233,22 +297,41 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - [src-5898037c825f-c01](stellar-navigation.md#src-5898037c825f-c01) — Stellar navigation
 - [src-e5d97bfc06c7-c04](consciousness-metaphysics.md#src-e5d97bfc06c7-c04) — Consciousness and metaphysics
 - [src-9dba344806dc-c04](moon-matrix.md#src-9dba344806dc-c04) — Moon and terrestrial Matrix
+- [src-76df8f4b52c9-c05](moon-matrix.md#src-76df8f4b52c9-c05) — Moon and terrestrial Matrix
+- [src-6490421f0db7-c02](consciousness-metaphysics.md#src-6490421f0db7-c02) — Consciousness and metaphysics
+- [src-6490421f0db7-c05](consciousness-metaphysics.md#src-6490421f0db7-c05) — Consciousness and metaphysics
+- [src-f5ca0eb522cb-c04](moon-matrix.md#src-f5ca0eb522cb-c04) — Moon and terrestrial Matrix
+- [src-15ba6ed0a80c-c05](stellar-navigation.md#src-15ba6ed0a80c-c05) — Stellar navigation
+- [src-21c294611bb8-c04](archons-and-demons.md#src-21c294611bb8-c04) — Archons and demons
+- [src-ecee618ac78e-c03](moon-matrix.md#src-ecee618ac78e-c03) — Moon and terrestrial Matrix
+- [src-e2b6999b0e7f-c05](archons-and-demons.md#src-e2b6999b0e7f-c05) — Archons and demons
+- [src-03651da1738e-c02](orion-grays.md#src-03651da1738e-c02) — Orion Grays
 
 ## Review flags
 
+- conspiracy\_claims
 - contested\_archaeology
+- earth\_science\_claims\_unverified
 - ethical\_use\_limits
 - extraordinary\_archaeological\_claims
 - extraordinary\_astronomical\_claims
 - extraordinary\_claims
 - extraordinary\_cosmology\_claims
 - extraordinary\_history\_claims
+- internal\_uncertainty
 - medical-misinformation-allegation
 - metaphysical-claims
+- related\_series\_part
 - symbolic\_interpretations
+- third\_party\_allegations
 - translated\_source
 - unverified\_ancient\_technology\_claims
+- unverified\_archaeology
+- unverified\_biological\_claims
 - unverified\_cosmology\_and\_technology
 - unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims
+- unverified\_lunar\_claims
+- unverified\_lunar\_technology
+- unverified\_paranormal\_claims
 - unverified\_technical\_claims

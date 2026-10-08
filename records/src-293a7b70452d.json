@@ -1,0 +1,96 @@
+{
+  "source_id": "src-293a7b70452d",
+  "snapshot_sha256": "b142377886b932bcfd1b437018cd353db30d781baee16f68a5a4a7225cc01c0d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-293a7b70452d-c01",
+      "assertion": "Mari Swa says Alenym secluded herself aboard Toleka because of threats.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-293a7b70452d-c02",
+      "assertion": "Mari Swa says Taygetan succession requires merit, not royal descent.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-293a7b70452d-c03",
+      "assertion": "Mari Swa says Alenym required an Earth-experienced successor because Taygeta’s problems begin there.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-293a7b70452d-c04",
+      "assertion": "Mari Swa says Nai’Shara and Athena declined succession; Yazhi was considered too young.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-293a7b70452d-c05",
+      "assertion": "Mari Swa says Alenym nominated her successor, and an attack accelerated her appointment as queen.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari says she was 16."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "succession-rules_attributed"
+  ],
+  "coverage_gaps": [
+    "candidate-qualifications",
+    "queen-responsibilities"
+  ]
+}

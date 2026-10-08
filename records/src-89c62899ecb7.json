@@ -1,0 +1,85 @@
+{
+  "source_id": "src-89c62899ecb7",
+  "snapshot_sha256": "3a1a19cf2c57bb94b3972cf1ea72ed32fe014f48104c836fcd3cdd0fb846c54c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-89c62899ecb7-c01",
+      "assertion": "Za’el models experienced time as a contextual idea assembled into a life-picture.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89c62899ecb7-c02",
+      "assertion": "He says perceived sequence is a chosen rule that makes experience coherent.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89c62899ecb7-c03",
+      "assertion": "He says alternate contextual data can encode different times, places, and circumstances.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89c62899ecb7-c04",
+      "assertion": "He suggests this model explains why time jumps may become disorienting.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0013"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "time-model",
+    "context-data"
+  ]
+}

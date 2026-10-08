@@ -1,0 +1,85 @@
+{
+  "source_id": "src-f853da2d0bcd",
+  "snapshot_sha256": "eadaa05168bc3b57af9261f321ca756bc8e1f711c8fa5a5496e2544789dcb4b9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f853da2d0bcd-c01",
+      "assertion": "Mari says she was born aboard a Taygetan ship in 2008; interstellar law assigns ship-born children to that nation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f853da2d0bcd-c02",
+      "assertion": "She says her mother Athena Julia is a cross-timeline counterpart distinct from Athena Elizabeth; Mari lost contact after becoming lost at 13.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "sophia-swaruu"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f853da2d0bcd-c03",
+      "assertion": "Mari recalls arriving on Earth as a step-down at age eight around 2016, but photos suggest 2013–14.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Date discrepancy within her account."
+    },
+    {
+      "id": "src-f853da2d0bcd-c04",
+      "assertion": "She identifies as Queen Mari Swa, rejecting Minerva, Swaruu, and numbered lineage labels as her present identity.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "arrival-date discrepancy: remembered estimate differs from photo-based estimate"
+  ],
+  "coverage_gaps": [
+    "mother’s current location",
+    "timeline history"
+  ]
+}

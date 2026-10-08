@@ -1,0 +1,102 @@
+{
+  "source_id": "src-3d4d92e12f44",
+  "snapshot_sha256": "e68406191eceb729f15e9b90db527c2dc8f75c1aac96609469f8a0e9606385ec",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3d4d92e12f44-c01",
+      "assertion": "Mari describes the Matrix as layered from lower astral through material reality to broader Galactic and higher-astral realms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3d4d92e12f44-c02",
+      "assertion": "She claims some bodies are soulless shells that lower-astral entities can use as organic portals.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0012"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3d4d92e12f44-c03",
+      "assertion": "Mari says lower-astral entities feed on human creative attention and use monitors or possessed agents to disrupt starseeds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "egregors"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3d4d92e12f44-c04",
+      "assertion": "She says high-frequency starseeds raise Earth’s vibration, making their activities threatening to the Matrix.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3d4d92e12f44-c05",
+      "assertion": "Mari says alcohol lowers inhibition and makes people more compatible with lower-astral spirits.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "egregors"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy_claims",
+    "soulless-people-claim"
+  ],
+  "coverage_gaps": [
+    "monitoring-types"
+  ]
+}

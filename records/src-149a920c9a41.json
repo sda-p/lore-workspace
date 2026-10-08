@@ -1,0 +1,99 @@
+{
+  "source_id": "src-149a920c9a41",
+  "snapshot_sha256": "93e00a795c2f945dc99f130f92632af372add6795669e9704df2ff31c0827f0e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-149a920c9a41-c01",
+      "assertion": "Mari says outcasts from holistic societies may flee in starships, forming rogue colonies under leaders seeking power.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-149a920c9a41-c02",
+      "assertion": "She says pirates build remote bases by tunneling into planets or asteroids; hollowed asteroids can become camouflaged ships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-149a920c9a41-c03",
+      "assertion": "Mari says pirates raid vulnerable societies and may traffic people; reported groups include Reptiles, insectoids, and Lyrians.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-149a920c9a41-c04",
+      "assertion": "She says space encounters depend on crew vibration, so high-frequency crews may pass pirates unseen.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-149a920c9a41-c05",
+      "assertion": "Mari cautions against judging species by lineage, emphasizing individual actions and observer interests.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "pirate-factions",
+    "pirate-resources"
+  ]
+}

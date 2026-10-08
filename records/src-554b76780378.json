@@ -1,0 +1,99 @@
+{
+  "source_id": "src-554b76780378",
+  "snapshot_sha256": "4f2afd8b26b0152c754155d41dc9220669cb4bca94122946499a578ff888cb1e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-554b76780378-c01",
+      "assertion": "Mari reports unusually high Orion Grey activity near Earth and says they may be Earth’s second-most numerous visiting race.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "orion-grays",
+      "topics": [
+        "orion-grays",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-554b76780378-c02",
+      "assertion": "She says Orion craft used Zeta Gardener identification frequencies while real Gardeners’ activity declined.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "orion-grays"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-554b76780378-c03",
+      "assertion": "Mari speculates that disguised Orion craft could conduct abductions under Zeta permits, with possible Federation tolerance.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-grays"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-554b76780378-c04",
+      "assertion": "She says nearly 500 Taygetan personnel were delayed because their Toleka-class ship failed trials; an Alcyone alternative was considered.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-554b76780378-c05",
+      "assertion": "Mari says about 30 crew were adapting to Sadicleya, a Toleka-class heavy cruiser with altered spaces.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "ship adaptation",
+    "queen’s governance"
+  ]
+}

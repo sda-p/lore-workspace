@@ -1,0 +1,102 @@
+{
+  "source_id": "src-a4e838c75ab3",
+  "snapshot_sha256": "a8ee15f8f902c788f2e7abb1c4bd1f83b2944e8602ed7f44d7341e6b30c5812e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a4e838c75ab3-c01",
+      "assertion": "Athena says synthetic telepathy uses microwaves tuned to mental-frequency ranges.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4e838c75ab3-c02",
+      "assertion": "She says transmitted content can appear as thoughts, feelings, or inner voices.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0018"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4e838c75ab3-c03",
+      "assertion": "Athena says compatibility varies, though some frequencies are shared across populations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4e838c75ab3-c04",
+      "assertion": "She says starship computers exchange mental messages with pilots through an interface.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0036",
+        "p0038",
+        "p0040",
+        "p0044"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "pineal-interface"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4e838c75ab3-c05",
+      "assertion": "Athena says transmissions are directional and Federation rules prohibit using them on Earth.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0056",
+        "p0058",
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_technology_claims"
+  ],
+  "coverage_gaps": [
+    "specific_platforms"
+  ]
+}

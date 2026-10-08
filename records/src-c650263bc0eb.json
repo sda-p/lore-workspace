@@ -1,0 +1,103 @@
+{
+  "source_id": "src-c650263bc0eb",
+  "snapshot_sha256": "1a5934e79d5c015d23e9ffd81d3c3fb66d4dc3131437e4ac850e28c739fe81c8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c650263bc0eb-c01",
+      "assertion": "Mari says official disclosure may be manipulated to shape public beliefs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c650263bc0eb-c02",
+      "assertion": "She speculates a false alien invasion may be developing but says it may never occur.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c650263bc0eb-c03",
+      "assertion": "Mari says hostile-invasion or benevolent-Federation narratives could both justify restrictions and rights removal.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c650263bc0eb-c04",
+      "assertion": "She urges viewers to investigate independently rather than rely on official disclosure.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c650263bc0eb-c05",
+      "assertion": "Mari claims Earth has been under Federation control for at least 12,500 years, concluding no new invasion will occur.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She adds that Earth may already be invaded, depending on viewpoint."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_exopolitical_claims",
+    "conspiracy_claims",
+    "conditional_forecast"
+  ],
+  "coverage_gaps": [
+    "disclosure_predictions"
+  ]
+}

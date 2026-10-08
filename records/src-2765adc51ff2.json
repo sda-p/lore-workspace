@@ -1,0 +1,94 @@
+{
+  "source_id": "src-2765adc51ff2",
+  "snapshot_sha256": "b439fe07c659be12c6a822d58c7fbbff58e391b7847618fd39d350432781ec70",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2765adc51ff2-c01",
+      "assertion": "Za’el says imagined outcomes may exist, but each character faces the current reality’s rules.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2765adc51ff2-c02",
+      "assertion": "He says large-scale manifestation must account for shared agreements and other people’s wishes.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2765adc51ff2-c03",
+      "assertion": "Za’el says achieving goals requires action and persistence, not wishing alone.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2765adc51ff2-c04",
+      "assertion": "Arien compares difficult goals to puzzles solved by changing approaches after repeated failure.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2765adc51ff2-c05",
+      "assertion": "Za’el advises distinguishing prudent caution from fear and accepting some unavoidable risks.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "manifestation_limits"
+  ]
+}

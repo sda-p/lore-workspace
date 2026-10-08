@@ -106,6 +106,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-53f4f0661b68-c01](alien-species.md#src-53f4f0661b68-c01) — Alien species and distinctions
 - [src-d7d90a56bb44-c02](tiamat.md#src-d7d90a56bb44-c02) — Tiamat
 - [src-78f6779f9011-c01](taygetans.md#src-78f6779f9011-c01) — Taygetans
+- [src-4c18957bd2f2-c04](taygetans.md#src-4c18957bd2f2-c04) — Taygetans
+- [src-caf9efbd11f1-c04](alien-species.md#src-caf9efbd11f1-c04) — Alien species and distinctions
 
 ## Review flags
 

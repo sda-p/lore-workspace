@@ -46,6 +46,14 @@ Source: [First Ancient Battle - The rebellion in the Garden of Eden - Orion Wars
 
 Related topics: [Atlantis and Lemuria](atlantis-lemuria.md), [Alien species and distinctions](alien-species.md).
 
+### src-4f0faaaf08ce-c04
+
+She links Earth’s conflict to an extension of ancient Orion wars.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Message from Gosia to all the Starseeds - Disclosures, Social Changes - Is that your Purpose?](https://swaruu.org/transcripts/message-from-gosia-to-all-the-starseeds-disclosures-social-changes-is-that-your-purpose) (2023-06-07; en); passages p0002, p0011. [Structured record](../../records/src-4f0faaaf08ce.json).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c01](lyran-expansion.md#src-03f88504384a-c01) — Lyran expansion

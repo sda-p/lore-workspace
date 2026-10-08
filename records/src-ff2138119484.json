@@ -1,0 +1,105 @@
+{
+  "source_id": "src-ff2138119484",
+  "snapshot_sha256": "47f46987829264570adf968548b9106fc15054b68fdbadb6fab5ae03539fea21",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ff2138119484-c01",
+      "assertion": "MK-6 Suzys have newer electronics and materials, with engines nearing twice earlier models’ output.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff2138119484-c02",
+      "assertion": "Fighters obey pilots but are hardwired against harming builders; one rogue MK-1 was destroyed in a Suzy dogfight.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff2138119484-c03",
+      "assertion": "Jump travel relocates by frequency; plasma flight above half light-speed is theoretical after a MK-1 exploded.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "temporal-skipping"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff2138119484-c04",
+      "assertion": "Suzys can hide, project false locations, or mimic aircraft; Federation protocols favor human forms over Earth.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0052",
+        "p0054"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff2138119484-c05",
+      "assertion": "Suzys can submerge under shields, but salt water may damage their surfaces.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "model-by-model specifications",
+    "fleet deployment",
+    "lifting limits"
+  ]
+}

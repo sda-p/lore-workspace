@@ -1,0 +1,106 @@
+{
+  "source_id": "src-42ef2a1bb92f",
+  "snapshot_sha256": "3c16be7c4151e1411f5257cb989e2681a2686d8d9ad35e14655d006a34629c3c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-42ef2a1bb92f-c01",
+      "assertion": "Mari says Federation accounts disagree whether humanlike Lyrians originated in Lyra or Triangulum.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42ef2a1bb92f-c02",
+      "assertion": "Her account says Orion invaders displaced Lyrians in an event called the Great Expansion.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Official history as presented; speaker questions its accuracy."
+    },
+    {
+      "id": "src-42ef2a1bb92f-c03",
+      "assertion": "Mari describes Temmer as a low-gravity ocean planet with cooperative ecosystems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42ef2a1bb92f-c04",
+      "assertion": "She says Erra is a forested world with few predators and severe seasonal winters.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0024",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42ef2a1bb92f-c05",
+      "assertion": "Mari describes Dakote as a frozen military outpost with sensors and underground installations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0030"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conflicting_origin_accounts",
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "additional_planetary_details"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-5c81b07f9d93",
+  "snapshot_sha256": "9a6e47801a03faa4749d83ded23ab9828cacbfd79e23d86aa39a69d537c0fda3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5c81b07f9d93-c01",
+      "assertion": "Anéeka says Earth has an iron core alongside extensive cavities and inner seas.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c81b07f9d93-c02",
+      "assertion": "Yazhi says hidden Vulcans inhabit Antarctica, though little is known of their society.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "intraterrestrial-vulcans",
+      "topics": [
+        "intraterrestrial-vulcans",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c81b07f9d93-c03",
+      "assertion": "Yazhi reports subsurface animal, humanoid, and reptilian populations; some cavern-being reports are unconfirmed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c81b07f9d93-c04",
+      "assertion": "Yazhi describes cavities shifting with plates, circulating magma, and polar hollows without a pole-to-pole passage.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c81b07f9d93-c05",
+      "assertion": "Yazhi rejects stopped-core reports; Toleka sensors indicate ordinary planetary processes and variations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0040"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "geography",
+    "geophysics"
+  ]
+}

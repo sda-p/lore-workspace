@@ -1,0 +1,96 @@
+{
+  "source_id": "src-19b9c2bb57a1",
+  "snapshot_sha256": "8a21ace454815f16cd21c20d3f810a1b6baa00f761a01dc0b8023554b5f91ccb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-19b9c2bb57a1-c01",
+      "assertion": "Yazhi claims CIC identified Turkey’s earthquake as engineered from its shockwave signature.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19b9c2bb57a1-c02",
+      "assertion": "She says she lacks complete data but calls it punishment for Turkey’s failure to align with the Cabal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19b9c2bb57a1-c03",
+      "assertion": "Yazhi attributes the quake to directed energy shifting tectonic plates; she says its cloud image is not proof.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19b9c2bb57a1-c04",
+      "assertion": "She says nonhuman Cabal controllers treat civilian infrastructure and people as resources or ritual sacrifices.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "false-alien-invasion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19b9c2bb57a1-c05",
+      "assertion": "Yazhi frames such disasters as coercive warnings to national controllers and other countries.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraordinary_claims",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "mechanism-detail"
+  ]
+}

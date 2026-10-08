@@ -1,0 +1,98 @@
+{
+  "source_id": "src-35078f14e5b1",
+  "snapshot_sha256": "3d711c2d477f93b6492ddf770cf6c8983565dea4ab774bd4dff2e26cd90be8a9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-35078f14e5b1-c01",
+      "assertion": "Arishah says Urmah reject unverified Earth history and would rely on observable, corroborated conditions.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35078f14e5b1-c02",
+      "assertion": "Arishah says direct Urmah intervention could appear hostile and is constrained by Federation politics and inhabitants’ consent.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35078f14e5b1-c03",
+      "assertion": "Arishah suspects Federation opacity hides other Earth intentions, citing compartmentalized information and evasive answers.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35078f14e5b1-c04",
+      "assertion": "Arishah describes Urmah-Federation ties as limited and diplomatic; he says Urmah act independently.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0017",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35078f14e5b1-c05",
+      "assertion": "Mari cautions that offworld access does not provide complete knowledge of Earth’s situation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "future intervention conditions"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_id": "src-c972fa5ca890",
+  "snapshot_sha256": "500e4f615145a4164c1a9c04faf998ed3aa530230e2d94037784298989ce12bc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c972fa5ca890-c01",
+      "assertion": "Mari says Taygetans and Andromedans detected no unusual alien craft activity near Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "taygetans",
+        "andromeda-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Unverified account."
+    },
+    {
+      "id": "src-c972fa5ca890-c02",
+      "assertion": "She attributes UFO news to human government manipulation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0012"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c972fa5ca890-c03",
+      "assertion": "Mari proposes the reports could test reactions to a staged invasion narrative.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0010"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c972fa5ca890-c04",
+      "assertion": "She says the reports may divert attention from Earth events.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c972fa5ca890-c05",
+      "assertion": "Mari says a February Ohio derailment could have been artificially caused, but she is unsure.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "UFO_evidence"
+  ]
+}

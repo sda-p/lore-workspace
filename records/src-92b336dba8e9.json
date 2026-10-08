@@ -1,0 +1,103 @@
+{
+  "source_id": "src-92b336dba8e9",
+  "snapshot_sha256": "975e97c3c92db0d7face0e2dbcb76e9c3481bd8c8ba87abbf8cb2b0fb5212342",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-92b336dba8e9-c01",
+      "assertion": "Athena says light language may be telepathically charged speech rather than meaningless sounds.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-92b336dba8e9-c02",
+      "assertion": "She says its sounds may preserve memories of nonhuman languages or past lives.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-92b336dba8e9-c03",
+      "assertion": "She says light-language sounds may evoke memories and emotions in listeners.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-92b336dba8e9-c04",
+      "assertion": "She warns that unfamiliar linear speech may be negative spells and advises discernment.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-92b336dba8e9-c05",
+      "assertion": "Athena says light language is unnecessary for fully telepathic societies.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "language-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "light-language",
+    "telepathic-memory"
+  ]
+}

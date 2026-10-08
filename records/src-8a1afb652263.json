@@ -1,0 +1,75 @@
+{
+  "source_id": "src-8a1afb652263",
+  "snapshot_sha256": "f6ead2f88d304899f8e06b92f6542158f3d374196f19a6675c7af90d139e980a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8a1afb652263-c01",
+      "assertion": "Athena says Earth’s magnetic field fluctuates naturally through cycles and interactions with nearby planets and suns.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a1afb652263-c02",
+      "assertion": "She says fluctuations are frequent, disputes a 12,000-year cycle, and says she does not know its basis.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a1afb652263-c03",
+      "assertion": "Athena says pole shifts require catastrophic events or strong external influence; she links the last to Tiamat’s waters reaching Earth.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a1afb652263-c04",
+      "assertion": "She says magnetic fluctuations pose no danger, though they may slightly increase cosmic radiation and solar-wind particles.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0015"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "geophysical-mechanism"
+  ]
+}

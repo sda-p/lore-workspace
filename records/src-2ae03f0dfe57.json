@@ -1,0 +1,104 @@
+{
+  "source_id": "src-2ae03f0dfe57",
+  "snapshot_sha256": "53b61b2196bd6cf16ad120a2989906c3d45e50c70df4ac4480970ba03a98cc7c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2ae03f0dfe57-c01",
+      "assertion": "Mari says group telepathy synchronizes members’ thoughts, values and emotions into a collective unconscious.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ae03f0dfe57-c02",
+      "assertion": "Mari says fear narrows critical thought and concentrates group attention on feared outcomes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ae03f0dfe57-c03",
+      "assertion": "Mari says collective fear may manifest egregors that feed on attention and dissolve when fear ends.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ae03f0dfe57-c04",
+      "assertion": "Mari says shared thoughts can form parallel outcomes, with collective values homogenizing groups.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0016",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ae03f0dfe57-c05",
+      "assertion": "Mari recommends recording and replaying recurrent negative thoughts to help reframe them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source_id": "src-857383d23bc1",
+  "snapshot_sha256": "f64a5fd4e37cf17d8e3b96735ca6c218253e96fadb3e913a6bcc5bdbd22dc22a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-857383d23bc1-c01",
+      "assertion": "Mari describes moghyays as cat-sized, four-legged, wingless fruit-eating climbers native to Temmer islands.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-857383d23bc1-c02",
+      "assertion": "She says moghyays are warm-blooded and locally treated as birds, though they can devastate island crops.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-857383d23bc1-c03",
+      "assertion": "Mari says muon communication uses codified gravity pulses for instant interstellar contact without distance-related delay.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-857383d23bc1-c04",
+      "assertion": "Full-immersion remote presence synchronizes ship and planetary holograms, simulating sensory presence while bodies remain at endpoints.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0031"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-857383d23bc1-c05",
+      "assertion": "Mari remotely represented Queen Alenym to sign an agricultural agreement with three-planet Molusc Maya.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Moghyay population management",
+    "treaty terms"
+  ]
+}

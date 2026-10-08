@@ -1,0 +1,102 @@
+{
+  "source_id": "src-be2e5cb2654b",
+  "snapshot_sha256": "491d4a69d8aceb9ffc838e78abc2956623ca54a066098be14149de25059c521b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-be2e5cb2654b-c01",
+      "assertion": "Mari says Taygetans on the Toleka use Earth server time for coordination, while home life follows individual rhythms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-be2e5cb2654b-c02",
+      "assertion": "Mari writes English videos first; CIC translates them into Spanish, then she reviews them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0021"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-be2e5cb2654b-c03",
+      "assertion": "Mari describes the Toleka as a city-like ship with libraries, gym, pool, kitchens, museum, and 21 cats.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0025"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-be2e5cb2654b-c04",
+      "assertion": "Mari studies space history, exopolitics, species protocol, spacecraft repair, medicine, biology, and cooking.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-be2e5cb2654b-c05",
+      "assertion": "Mari says the Toleka orbits Earth in at most three hours and simulates night with shutters, dim lights, and soft sounds.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "daily_routine_details"
+  ]
+}

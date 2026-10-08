@@ -18,7 +18,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified measurement claim."
+      "qualifiers": ""
     },
     {
       "id": "src-da5b68843247-c02",
@@ -69,7 +69,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified demographic claim."
+      "qualifiers": ""
     },
     {
       "id": "src-da5b68843247-c05",

@@ -1,0 +1,112 @@
+{
+  "source_id": "src-2dc889901b55",
+  "snapshot_sha256": "d70ff157b1fbfc57db6cbd624156ea944b82a7d79c363fa2dfdc0ca0748d9f7c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2dc889901b55-c01",
+      "assertion": "Mari Swa says bodily senses perceive only a small part of existence, with the astral much larger.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She questions how the estimate was measured."
+    },
+    {
+      "id": "src-2dc889901b55-c02",
+      "assertion": "Mari Swa says species and individuals have different astral perception ranges.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dc889901b55-c03",
+      "assertion": "Mari Swa says Earth’s lower astral mirrors collective fears and beliefs.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dc889901b55-c04",
+      "assertion": "Mari Swa says shared human telepathy distributes a collective field of ideas and emotions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dc889901b55-c05",
+      "assertion": "Mari Swa describes fear-fed egregors as collective manifestations that reinforce distress.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dc889901b55-c06",
+      "assertion": "Mari Swa says individual habits and fears can manifest personal astral parasites.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims_attributed"
+  ],
+  "coverage_gaps": [
+    "perception-range",
+    "collective-unconscious"
+  ]
+}

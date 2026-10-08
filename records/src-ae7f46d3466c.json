@@ -1,0 +1,96 @@
+{
+  "source_id": "src-ae7f46d3466c",
+  "snapshot_sha256": "c49eb38e9b5b22301e58de81dc722e3949a21c73786ea0fe2bee4cafc02a26de",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ae7f46d3466c-c01",
+      "assertion": "Mari describes the Urmah as large semi-bipedal cats with feline bodies, long spines, short muscular legs, and tails.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae7f46d3466c-c02",
+      "assertion": "She says the Urmah protect smaller feline species represented on their extra-large Federation High Council.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae7f46d3466c-c03",
+      "assertion": "According to Mari, Urmah influence in ancient Egypt predates pharaonic Egypt and included a Federation base beneath Giza.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae7f46d3466c-c04",
+      "assertion": "She speculates classic Egyptian feline deities reflect Urmah heritage, beyond symbolic animal associations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0022"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "astrotheology"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae7f46d3466c-c05",
+      "assertion": "Mari believes the Cabal downplays the Urmah because they oppose its and the Federation’s agendas for Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0023"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary-contact-claims"
+  ],
+  "coverage_gaps": [
+    "independent-corroboration"
+  ]
+}

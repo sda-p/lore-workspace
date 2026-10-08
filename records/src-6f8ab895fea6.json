@@ -1,0 +1,111 @@
+{
+  "source_id": "src-6f8ab895fea6",
+  "snapshot_sha256": "cb2e9611b5ef2d98e079241e6119605ccf29d6d980247ab85f360945388f0c8c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6f8ab895fea6-c01",
+      "assertion": "Mari says crystalline 12-strand DNA is common among Taygetans and Lyrians, not evidence of a separate species.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6f8ab895fea6-c02",
+      "assertion": "Mari says she dissolved the Swaruunian classification and reunited the group with Taygetans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "swaruunians",
+      "topics": [
+        "swaruunians",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6f8ab895fea6-c03",
+      "assertion": "Mari reports Swaruu of Erra had obtained separate legal recognition from the local Federation council.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "swaruunians",
+      "topics": [
+        "swaruunians",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6f8ab895fea6-c04",
+      "assertion": "Mari says local Federation officials denied involvement in Alenym’s attempted assassination, while Saturn-level authorities remained unreachable.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6f8ab895fea6-c05",
+      "assertion": "Mari reports the dispute caused diplomatic rupture with Taygetans, Urmah, and the Alcyone Council.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "swaruunians",
+      "name": "Swaruunians",
+      "kind": "civilization",
+      "aliases": [
+        "Swaruunian race"
+      ]
+    }
+  ],
+  "review_flags": [
+    "species status is contested within Mari’s account; preserve her stated rationale"
+  ],
+  "coverage_gaps": [
+    "conference proposal and ship transfer"
+  ]
+}

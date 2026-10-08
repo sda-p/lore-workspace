@@ -1,0 +1,97 @@
+{
+  "source_id": "src-a4878d75f400",
+  "snapshot_sha256": "e33e5f2eda3c4aaef67b4006a92c8520da434b716a5da9e5d8882d2a648f74db",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a4878d75f400-c01",
+      "assertion": "Mari’s Prime Directive applies to cultures without interstellar capability.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4878d75f400-c02",
+      "assertion": "It bars interference with cultural development or transfers of superior technology.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4878d75f400-c03",
+      "assertion": "The directive bars proof of Federation existence being given to less-developed cultures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4878d75f400-c04",
+      "assertion": "Mari says exceptions allow correcting prior violations or accidental contamination.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4878d75f400-c05",
+      "assertion": "The cited text allows contact when a culture faces an outside threat.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "source_document_context"
+  ]
+}

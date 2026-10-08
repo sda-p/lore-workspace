@@ -1,0 +1,95 @@
+{
+  "source_id": "src-788871b703a3",
+  "snapshot_sha256": "08ab408006324cc9fccaa365d12b0734fad1e5be532159415e06f4af94c022c4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-788871b703a3-c01",
+      "assertion": "Mari defines personal and collective timelines as sequences of experienced events, not independent objects.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-788871b703a3-c02",
+      "assertion": "She says time depends on a soul’s attention and perception rather than existing separately from it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-788871b703a3-c03",
+      "assertion": "Mari describes starship time travel as matching a destination’s frequency inside an electromagnetic toroid.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-788871b703a3-c04",
+      "assertion": "She says space travel and time travel share frequency-based navigation without distance or temporal spans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-788871b703a3-c05",
+      "assertion": "Mari says timelines and parallel universes are concepts within Source unity, not external structures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "paradox_mechanics"
+  ]
+}

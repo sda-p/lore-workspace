@@ -1,0 +1,127 @@
+{
+  "source_id": "src-3c7459286bbe",
+  "snapshot_sha256": "a8764963fb4f7f67ba66b9d78196d5971b58ae347ba7bd68dabb8c23fb9725bd",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3c7459286bbe-c01",
+      "assertion": "Yazhi says Taygetan speech depends on telepathy and loses meaning without it.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0069",
+        "p0070",
+        "p0071"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c7459286bbe-c02",
+      "assertion": "She says Taygetan reproduction differs genetically, especially in nervous-system structure.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c7459286bbe-c03",
+      "assertion": "She describes Roswell craft as downed by microwave weapons disrupting sensors and gravity control.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c7459286bbe-c04",
+      "assertion": "She says advanced ships can suppress invasive synthetic telepathy with counter-frequencies.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0090",
+        "p0091",
+        "p0093",
+        "p0102",
+        "p0103"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c7459286bbe-c05",
+      "assertion": "Yazhi says advanced replicators can form matter from ether, while some remain incomplete.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0130",
+        "p0131",
+        "p0132",
+        "p0134",
+        "p0136",
+        "p0137"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c7459286bbe-c06",
+      "assertion": "Athena says freshwater scarcity is artificially worsened by corporate control and allocation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0108",
+        "p0109",
+        "p0110",
+        "p0111",
+        "p0115",
+        "p0116"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-claims-unverified",
+    "historical-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "language-technology",
+    "ship-defense",
+    "resource-control"
+  ]
+}

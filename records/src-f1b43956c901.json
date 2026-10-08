@@ -1,0 +1,95 @@
+{
+  "source_id": "src-f1b43956c901",
+  "snapshot_sha256": "efe6b7ee8d15b2c3cca13927572b2e6dd0445920ac43999c7ac4b9116dd8eb62",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f1b43956c901-c01",
+      "assertion": "Za’el says dream-time can seem greatly expanded or compressed.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-f1b43956c901-c02",
+      "assertion": "He says present attention shapes perceived futures, as in dreams.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f1b43956c901-c03",
+      "assertion": "Za’el describes souls as points of attention embodied in characters.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f1b43956c901-c04",
+      "assertion": "He says incarnations may overlap rather than occur sequentially.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f1b43956c901-c05",
+      "assertion": "Za’el says past events may be modified through present choices.",
+      "speaker": "Za´el of Erra",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "dream_examples"
+  ]
+}

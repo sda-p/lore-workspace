@@ -1,0 +1,108 @@
+{
+  "source_id": "src-9d8a8bc7d382",
+  "snapshot_sha256": "286aaf3c26e208998f84a9cd520425c65cbca9f538a32c1fad4fe7583d5cca33",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9d8a8bc7d382-c01",
+      "assertion": "Mari reports ship doctor Ana diagnosed her with type 1 diabetes after onboard blood tests.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d8a8bc7d382-c02",
+      "assertion": "Mari says a dry medical pod projects a holographic healthy organ image to stimulate regeneration during induced sleep.",
+      "speaker": "Mari Swa reporting Senetre",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "medical-pods",
+      "topics": [
+        "medical-pods",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d8a8bc7d382-c03",
+      "assertion": "Mari says a follow-up pod procedure used intravenously delivered compatible stem cells.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "medical-pods",
+      "topics": [
+        "medical-pods",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d8a8bc7d382-c04",
+      "assertion": "Mari says wet-pod recovery may take three months and could accelerate her development from age 16 to 21.",
+      "speaker": "Mari Swa reporting Senetre",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "medical-pods",
+      "topics": [
+        "medical-pods",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d8a8bc7d382-c05",
+      "assertion": "Mari says crew stress and emotional burdens were considered contributors to her health problems.",
+      "speaker": "Mari Swa reporting Nai’Shara and Senetre",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "medical-pods",
+      "name": "Medical regeneration pods",
+      "kind": "technology",
+      "aliases": [
+        "dry medical pod",
+        "wet medical pod"
+      ]
+    }
+  ],
+  "review_flags": [
+    "medical account is attributed narrative, not medical guidance"
+  ],
+  "coverage_gaps": [
+    "treatment outcome not established in this source"
+  ]
+}

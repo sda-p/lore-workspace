@@ -1,0 +1,106 @@
+{
+  "source_id": "src-afb0e2b3295c",
+  "snapshot_sha256": "5a3a7b9c0f1adede16b64f57fbd963243e105b03e1b20f1420c4e2960cdadc5d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-afb0e2b3295c-c01",
+      "assertion": "Mari says direct technology disclosure could be discredited or appropriated by powerful groups.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-afb0e2b3295c-c02",
+      "assertion": "She says many off-world devices require specialized materials unavailable on Earth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-afb0e2b3295c-c03",
+      "assertion": "She says useful technical instruction is restricted by platform rules and Federation directives.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-afb0e2b3295c-c04",
+      "assertion": "She alleges advanced technologies already exist on Earth but are withheld from the public.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-afb0e2b3295c-c05",
+      "assertion": "She says her channel presents technology indirectly as science fiction.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "technology-transfer",
+    "materials-limitations",
+    "disclosure-limits"
+  ]
+}

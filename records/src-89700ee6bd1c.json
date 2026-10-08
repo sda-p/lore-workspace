@@ -1,0 +1,109 @@
+{
+  "source_id": "src-89700ee6bd1c",
+  "snapshot_sha256": "1f3ed16edd41efe551cc5ce9f52f676d45b42d6541342bb35a853aec17573970",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-89700ee6bd1c-c01",
+      "assertion": "Mari says Earth appears flat to ordinary surface observers but is spherical in space.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006",
+        "p0027",
+        "p0035"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89700ee6bd1c-c02",
+      "assertion": "She says Antarctic flights are limited by emergency-route, weather, navigation, and military factors.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89700ee6bd1c-c03",
+      "assertion": "She argues flat-globe claims are disinformation that creates confusion and social division.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89700ee6bd1c-c04",
+      "assertion": "She describes gravity as consciousness flow manifesting stellar objects in spherical forms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89700ee6bd1c-c05",
+      "assertion": "She distinguishes off-world beings, interdimensional beings, and beings described as both.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "terrestrial-history-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "planetary-shape",
+    "antarctica",
+    "extraterrestrial-categories"
+  ]
+}

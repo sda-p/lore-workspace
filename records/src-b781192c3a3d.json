@@ -1,0 +1,102 @@
+{
+  "source_id": "src-b781192c3a3d",
+  "snapshot_sha256": "58a5a4395c09eb7a954d02c63f252b12ffaa7a84980f7b5bf74107c9685c94e0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b781192c3a3d-c01",
+      "assertion": "Athena describes a reactor core of 12 nested quartz toroids, with AI-managed gravity and electromagnetic fields controlling output.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b781192c3a3d-c02",
+      "assertion": "She says Toleka-class cruisers carry four reactors near 10 meters wide; Suzy II reactors are 3–3.5 meters.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b781192c3a3d-c03",
+      "assertion": "Athena describes propellant-free plasma turbines generating thrust electrically; newer polymorphic-metal versions have no moving parts.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b781192c3a3d-c04",
+      "assertion": "She says FTL navigation matches a ship’s frequency to destination and time coordinates held in AI maps.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0048",
+        "p0050",
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b781192c3a3d-c05",
+      "assertion": "Anéeka says gravity cancelers are limited and interference-prone, mainly for maneuvers; plasma jets resist countermeasures.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0065",
+        "p0067",
+        "p0072"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "reactor-internals",
+    "engine-variants"
+  ]
+}

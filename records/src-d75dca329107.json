@@ -1,0 +1,112 @@
+{
+  "source_id": "src-d75dca329107",
+  "snapshot_sha256": "4f8d5c34ec58e188d0322bd74104cf25d3d688b6dbe397a979d3f3e9a174da1c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d75dca329107-c01",
+      "assertion": "Mari Swaruu says her civilization’s data indicates humans require animal products, especially ruminant meat.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d75dca329107-c02",
+      "assertion": "Mari Swaruu says Taygetans developed enzymes for plant foods but are generally fragile and often ill.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d75dca329107-c03",
+      "assertion": "Mari Swaruu says not everyone can sustain a vegetarian diet because metabolisms differ.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0029"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d75dca329107-c04",
+      "assertion": "Mari Swaruu says Urmah grow meat tissue in laboratories, though they still hunt when needed.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "cultivated-meat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d75dca329107-c05",
+      "assertion": "Mari Swaruu says cultivated meat technology is absent in Taygeta.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030"
+      ],
+      "primary_topic": "cultivated-meat",
+      "topics": [
+        "cultivated-meat",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d75dca329107-c06",
+      "assertion": "Mari Swaruu argues that eating either plants or animals entails suffering.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "dietary-claims_attributed"
+  ],
+  "coverage_gaps": [
+    "dietary_claims",
+    "food-production"
+  ]
+}

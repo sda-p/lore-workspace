@@ -1,0 +1,115 @@
+{
+  "source_id": "src-0700efa54ddc",
+  "snapshot_sha256": "c16fe4017a5a226bea2f50651ff105f05ba87020ed819e2f5f0fda7ff1036b8b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0700efa54ddc-c01",
+      "assertion": "Mari portrays the Sun as a sentient consciousness node linking stars through the ether.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0700efa54ddc-c02",
+      "assertion": "She says flares are high-frequency, while sunspots and coronal holes mark low-frequency regions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These regions do not necessarily open lower-astral portals."
+    },
+    {
+      "id": "src-0700efa54ddc-c03",
+      "assertion": "Mari says mapped sunspots and coronal holes provide ship portals; black holes are entry-only and dangerous.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0700efa54ddc-c04",
+      "assertion": "She says low solar-frequency periods may lower Earth’s frequency and increase lower-astral influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0700efa54ddc-c05",
+      "assertion": "Mari links solar maxima with Cabal rituals and historical events, treating some causal links as her belief.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0027",
+        "p0031"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "solar-portal-transit",
+      "name": "Solar portal transit",
+      "kind": "technology",
+      "aliases": [
+        "sunspot portals",
+        "solar portals"
+      ]
+    }
+  ],
+  "review_flags": [
+    "extraordinary_astronomical_claims",
+    "conspiracy_claims",
+    "related_series_part"
+  ],
+  "coverage_gaps": [
+    "event_causation_details"
+  ]
+}

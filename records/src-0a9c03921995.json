@@ -1,0 +1,99 @@
+{
+  "source_id": "src-0a9c03921995",
+  "snapshot_sha256": "058703c8322648d9ae17f3db236190870488c6a410efd32912cd8e4f8ab24108",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0a9c03921995-c01",
+      "assertion": "Mari alleges controlled media content is used to shape public perception and reinforce the terrestrial Matrix.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a9c03921995-c02",
+      "assertion": "Mari attributes cruel ritual-heavy entertainment to influence from lower-astral entities through media systems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a9c03921995-c03",
+      "assertion": "Mari says such media may normalize harmful themes and provide entities a route into viewers’ lives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a9c03921995-c04",
+      "assertion": "Mari distinguishes ritual-focused satanic films from mostly harmless ghost stories, while warning the latter may lead toward the former.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a9c03921995-c05",
+      "assertion": "Mari says awareness and rejection can act as a protective barrier, though she warns it may fail against overwhelming influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "recommended viewing guidance"
+  ]
+}

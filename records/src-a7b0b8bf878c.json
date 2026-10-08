@@ -1,0 +1,112 @@
+{
+  "source_id": "src-a7b0b8bf878c",
+  "snapshot_sha256": "44663c63fbb77bbf63ba25acd53dd580d1622af1ca8d1e799225a36b58da70c2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a7b0b8bf878c-c01",
+      "assertion": "Mari says First Contact was a Federation-wide effort judged unsuccessful because Earth audiences were unprepared.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a7b0b8bf878c-c02",
+      "assertion": "Mari describes Second Contact as a separate, Taygetan-only operation authorized locally under Federation rules.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0016"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a7b0b8bf878c-c03",
+      "assertion": "Mari says the project will seed interstellar social and political ideas online through 300–400 trained operatives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0021"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a7b0b8bf878c-c04",
+      "assertion": "Mari says operatives must use human-made computers and conceal extraterrestrial identity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a7b0b8bf878c-c05",
+      "assertion": "Mari assigns Alcyone and Asterope operative roles, with Toleka coordinating and controlling the project.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "project-second-contact",
+      "name": "Project Second Contact",
+      "kind": "institution",
+      "aliases": [
+        "Second Contact Project"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "participant training status and launch date"
+  ]
+}

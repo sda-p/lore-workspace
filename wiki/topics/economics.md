@@ -246,6 +246,126 @@ Source: [Aneeka of Temmer - Why did she Arrive to Earth? Her Work and Our Gratit
 
 Related topics: [Energy generation technology](energy-generation.md).
 
+### src-03f8a28bbf76-c05
+
+Athena calls quantum-finance promises and government transitions possible control mechanisms.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [UFO Disclosures this year? Questions for the Interview with AJ Roberts](https://swaruu.org/transcripts/ufo-disclosures-this-year-questions-for-the-interview-with-aj-roberts) (2023-06-05; en); passages p0030, p0031, p0032, p0035. [Structured record](../../records/src-03f8a28bbf76.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-0cf58b16e1d2-c01
+
+Mari Swaruu says starseeds may struggle with conventional jobs and seek income from meaningful work.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Starseeds and their Problems, part 4, Money Issues. (English)](https://swaruu.org/transcripts/starseeds-and-their-problems-part-4-money-issues-english) (2023-06-07; en); passages p0004, p0006, p0009, p0011. [Structured record](../../records/src-0cf58b16e1d2.json).
+
+### src-0cf58b16e1d2-c03
+
+Mari says money is necessary on Earth but is a tool whose effects depend on its use.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Starseeds and their Problems, part 4, Money Issues. (English)](https://swaruu.org/transcripts/starseeds-and-their-problems-part-4-money-issues-english) (2023-06-07; en); passages p0021, p0023, p0024. [Structured record](../../records/src-0cf58b16e1d2.json).
+
+### src-0cf58b16e1d2-c04
+
+She says starseeds may associate money with exploitation and resist earning it.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Starseeds and their Problems, part 4, Money Issues. (English)](https://swaruu.org/transcripts/starseeds-and-their-problems-part-4-money-issues-english) (2023-06-07; en); passages p0021, p0022. [Structured record](../../records/src-0cf58b16e1d2.json).
+
+### src-0cf58b16e1d2-c05
+
+Mari recommends accepting compensation for valuable work while treating free service as a choice.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Starseeds and their Problems, part 4, Money Issues. (English)](https://swaruu.org/transcripts/starseeds-and-their-problems-part-4-money-issues-english) (2023-06-07; en); passages p0019, p0020, p0025, p0026. [Structured record](../../records/src-0cf58b16e1d2.json).
+
+### src-bc1f28760d1d-c01
+
+Mari says stellar civilizations use limited money or barter for exchanges, while abundant internal societies lack economies.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The invention of money and its uses in different societies. (English)](https://swaruu.org/transcripts/the-invention-of-money-and-its-uses-in-different-societies-english) (2023-05-13; en); passages p0012, p0021, p0022, p0023. [Structured record](../../records/src-bc1f28760d1d.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-bc1f28760d1d-c02
+
+She says original art and natural gold retain trade value, while replicated gold is mainly industrial.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The invention of money and its uses in different societies. (English)](https://swaruu.org/transcripts/the-invention-of-money-and-its-uses-in-different-societies-english) (2023-05-13; en); passages p0014, p0015, p0016, p0018, p0019. [Structured record](../../records/src-bc1f28760d1d.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-bc1f28760d1d-c03
+
+Mari distinguishes natural, replicated, and monoatomic gold for trade, industry, and medicine.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The invention of money and its uses in different societies. (English)](https://swaruu.org/transcripts/the-invention-of-money-and-its-uses-in-different-societies-english) (2023-05-13; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-bc1f28760d1d.json).
+
+### src-bc1f28760d1d-c05
+
+Mari says Earth’s scarcity-centered economy concentrates wealth and makes money a major control mechanism.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The invention of money and its uses in different societies. (English)](https://swaruu.org/transcripts/the-invention-of-money-and-its-uses-in-different-societies-english) (2023-05-13; en); passages p0025, p0027, p0028, p0029. [Structured record](../../records/src-bc1f28760d1d.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-25f8dc2b982f-c03
+
+Yazhi predicts policy and cost pressures will leave private electric cars mainly to wealthy owners and corporations.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Electric Cars and Why they are Bad - Cabal´s Agendas - Yazhi Swaruu](https://swaruu.org/transcripts/electric-cars-and-why-they-are-bad-cabal-s-agendas-yazhi-swaruu) (2023-01-27; en); passages p0007, p0008. [Structured record](../../records/src-25f8dc2b982f.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-0d12ea1793f5-c03
+
+Mari claims the Federation controls Earth’s money supply and assigns its regional amounts.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Money and the Galactic Federation. (English)](https://swaruu.org/transcripts/money-and-the-galactic-federation-english) (2023-05-15; en); passages p0014, p0015, p0016. [Structured record](../../records/src-0d12ea1793f5.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0d12ea1793f5-c04
+
+Mari says Federation grants regulate visiting races’ Earth operations; Taygetans get little and Swaruunians none.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Money and the Galactic Federation. (English)](https://swaruu.org/transcripts/money-and-the-galactic-federation-english) (2023-05-15; en); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-0d12ea1793f5.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Taygetans](taygetans.md).
+
+### src-0d12ea1793f5-c05
+
+Mari says the Federation permits many other races to operate on Earth almost freely, outside its grant system.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Money and the Galactic Federation. (English)](https://swaruu.org/transcripts/money-and-the-galactic-federation-english) (2023-05-15; en); passages p0023, p0024. [Structured record](../../records/src-0d12ea1793f5.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -264,6 +384,13 @@ Related topics: [Energy generation technology](energy-generation.md).
 - [src-165493b296b5-c02](taygetans.md#src-165493b296b5-c02) — Taygetans
 - [src-28bf88ffca23-c02](earth-cabal.md#src-28bf88ffca23-c02) — Earth Cabal and power structures
 - [src-01c3c72a675d-c02](earth-cabal.md#src-01c3c72a675d-c02) — Earth Cabal and power structures
+- [src-0cf58b16e1d2-c02](earth-cabal.md#src-0cf58b16e1d2-c02) — Earth Cabal and power structures
+- [src-415d7d5b87e4-c03](galactic-federation.md#src-415d7d5b87e4-c03) — Galactic Federation
+- [src-d83f04b7ade0-c01](earth-cabal.md#src-d83f04b7ade0-c01) — Earth Cabal and power structures
+- [src-bc1f28760d1d-c04](holistic-society.md#src-bc1f28760d1d-c04) — Holistic society
+- [src-4667fff63537-c03](galactic-federation.md#src-4667fff63537-c03) — Galactic Federation
+- [src-3182af03be61-c05](earth-cabal.md#src-3182af03be61-c05) — Earth Cabal and power structures
+- [src-3c70c40f1bbb-c04](earth-cabal.md#src-3c70c40f1bbb-c04) — Earth Cabal and power structures
 
 ## Review flags
 
@@ -278,6 +405,7 @@ Related topics: [Energy generation technology](energy-generation.md).
 - ethical\_perspective\_conflict
 - extraordinary\_astronomical\_claims
 - extraordinary\_civilization\_claims
+- extraordinary\_economic\_claims
 - extraordinary\_exopolitical\_claims
 - forecast\_predictions\_not\_confirmed
 - geopolitical-allegation
@@ -290,16 +418,23 @@ Related topics: [Energy generation technology](energy-generation.md).
 - metaphysical-claims
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
+- personal\_metaphysics
 - personal\_social\_theory
 - political-allegation
 - political\_claims
 - political\_structure\_claims
+- prior\_statement\_conflict
 - speaker-attribution-swaruu-x-athena
 - symbolic-conspiracy-claims
 - time-bound-prediction
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- transport\_safety\_and\_policy\_claims\_unverified
+- unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims
 - unverified\_medical\_allegations
 - unverified\_medical\_claims
+- unverified\_metaphysical\_claims
+- unverified\_political\_claims
+- unverified\_social\_claims
 - zero-point-mechanics

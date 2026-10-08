@@ -1,0 +1,101 @@
+{
+  "source_id": "src-3c670e516163",
+  "snapshot_sha256": "cd08079f7a627ccfa3705260279ffb11fdaf3daeb8f2b74690e253abaac9d15e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3c670e516163-c01",
+      "assertion": "Mari says spirit guides operate outside linear time and follow a soul’s chosen life plan.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c670e516163-c02",
+      "assertion": "Mari says a soul may guide its incarnated self and help it remain within planned life variations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c670e516163-c03",
+      "assertion": "Mari describes spirit families as including guides and loved ones across incarnate and astral states.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c670e516163-c04",
+      "assertion": "Mari alleges lower-astral entities target high-vibration people and may gather information through others.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c670e516163-c05",
+      "assertion": "Mari says guides may influence through people or animals, and advises limiting personal disclosures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "guide interventions and life-plan limits"
+  ]
+}

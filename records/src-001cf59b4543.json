@@ -1,0 +1,103 @@
+{
+  "source_id": "src-001cf59b4543",
+  "snapshot_sha256": "33abd85ee8ab978f4aee43dcaace4ad0ec6919772cf7ca8b8d3ce0145f7fa588",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-001cf59b4543-c01",
+      "assertion": "Yazhi distinguishes measurable realm averages from consciousness-based meanings of 3D and 5D.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-001cf59b4543-c02",
+      "assertion": "She says shadow beings are mostly astral and may be detectable in suitable light or by cameras.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-001cf59b4543-c03",
+      "assertion": "Yazhi says their mixed physical and astral existence limits harm from vehicles and allows passage through walls.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-001cf59b4543-c04",
+      "assertion": "She describes them as parasitic, seeking resources and sometimes using human attention or energy.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0028",
+        "p0046",
+        "p0052",
+        "p0054"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-001cf59b4543-c05",
+      "assertion": "Yazhi says they may communicate or coexist with humans, with behavior varying by individual.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "exact_resource_needs"
+  ]
+}

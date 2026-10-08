@@ -1,0 +1,108 @@
+{
+  "source_id": "src-6d38ac5d0290",
+  "snapshot_sha256": "67e86716e00f94cd0851d08188461943ef67935bdb2217ea7a54be4c353355b8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6d38ac5d0290-c01",
+      "assertion": "Mari defines a walk-in as a soul entering an adult body, often replacing its willing original occupant.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d38ac5d0290-c02",
+      "assertion": "She says advanced immersion pods can alter soul-frequency signals to place souls in incompatible bodies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d38ac5d0290-c03",
+      "assertion": "She alleges regressive groups use forced body-swaps to control targets or stage crimes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0016"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d38ac5d0290-c04",
+      "assertion": "She distinguishes natural walk-ins as consensual exchanges from forced possession.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d38ac5d0290-c05",
+      "assertion": "She says incoming souls may inherit memories but experience gaps or lapses.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "walk-in-types",
+    "immersion-technology"
+  ]
+}

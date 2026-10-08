@@ -1,0 +1,117 @@
+{
+  "source_id": "src-41aeba88905d",
+  "snapshot_sha256": "a05cc06a316726254eabb3ab81576c12c821a61850dd3dac57ce83ed40a57d85",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-41aeba88905d-c01",
+      "assertion": "Mari Swaruu says ship waste is sorted, reusable material recovered, and residue molecularly disintegrated.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41aeba88905d-c02",
+      "assertion": "Mari Swaruu says waste heat becomes electricity for the ship grid.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41aeba88905d-c03",
+      "assertion": "Mari Swaruu recounts a joking order to dump four tons of garbage, taken literally.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41aeba88905d-c04",
+      "assertion": "Orbital debris struck Toleka’s shields and followed the ship for days.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41aeba88905d-c05",
+      "assertion": "Mari Swaruu says Federation rules bar ships above 3,000 tons from near-planet hyperspace jumps.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41aeba88905d-c06",
+      "assertion": "Mari Swaruu says Taygetan telepathy conveys extra meaning but still permits misunderstanding and falsification.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "narrator_claims"
+  ],
+  "coverage_gaps": [
+    "incident_details",
+    "communication_protocol"
+  ]
+}

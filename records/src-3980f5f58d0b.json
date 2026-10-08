@@ -1,0 +1,94 @@
+{
+  "source_id": "src-3980f5f58d0b",
+  "snapshot_sha256": "26532cc90083224b7698e3c07a0a909a0d5894c6498760bdbb6b45764a96e129",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3980f5f58d0b-c01",
+      "assertion": "Gosia says she kept her English channel unmonetized for five years before enabling ads in late 2022.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3980f5f58d0b-c02",
+      "assertion": "Gosia says she sent half her channel revenue to Athena and Yazhi monthly for two years, without conditions.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3980f5f58d0b-c03",
+      "assertion": "Gosia says transcripts and videos remained free, with no paid courses or merchandise.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0036",
+        "p0038",
+        "p0042"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3980f5f58d0b-c04",
+      "assertion": "Gosia says Space Academy used non-monetized English, Spanish, and French channels to share information.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3980f5f58d0b-c05",
+      "assertion": "Athena told Gosia that the crew depended on Earth-only supplies and needed channel monetization.",
+      "speaker": "Gosia quoting Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "first-person claims reflect Gosia’s account in a dispute"
+  ],
+  "coverage_gaps": [
+    "additional claims about reputation and friendship"
+  ]
+}

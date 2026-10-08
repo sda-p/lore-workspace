@@ -1,0 +1,82 @@
+{
+  "source_id": "src-4e6f4564b13b",
+  "snapshot_sha256": "c8f9d7c059757775ee5a4150bda33a0064399a76b1ba8170208e3114cbd94aed",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4e6f4564b13b-c01",
+      "assertion": "Cassia says an Earth incarnation produces a distinct personality from an off-world life of the same soul.",
+      "speaker": "Cassia of Erra",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari says she prepared Cassia’s message for publication."
+    },
+    {
+      "id": "src-4e6f4564b13b-c02",
+      "assertion": "Cassia says identical beings usually become separate points of attention rather than one consciousness inhabiting both.",
+      "speaker": "Cassia of Erra",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4e6f4564b13b-c03",
+      "assertion": "Cassia warns Earth memories may be fragmentary and distorted by current context, imagination and the brain’s interpretation.",
+      "speaker": "Cassia of Erra",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The cited warning includes Nai’s comment."
+    },
+    {
+      "id": "src-4e6f4564b13b-c04",
+      "assertion": "Cassia says past-life memories should inspire the current self, not justify replacing it or taking another being’s place.",
+      "speaker": "Cassia of Erra",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

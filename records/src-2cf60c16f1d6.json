@@ -1,0 +1,107 @@
+{
+  "source_id": "src-2cf60c16f1d6",
+  "snapshot_sha256": "08de860aa4e445a0ce46bc330bb26863fc0d41fc5929e71553ae7b6545c033be",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2cf60c16f1d6-c01",
+      "assertion": "Mari says experienced time reflects consciousness and personal interpretation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2cf60c16f1d6-c02",
+      "assertion": "She says shared reality depends on similar perception agreements, including timekeeping.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2cf60c16f1d6-c03",
+      "assertion": "She says planetary systems can develop different collective time perceptions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2cf60c16f1d6-c04",
+      "assertion": "She says death removes bodily time filters, leaving astral experience frequency-dependent.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2cf60c16f1d6-c05",
+      "assertion": "Mari says starship time jumps can make jumpers’ accounts difficult for those who did not jump to understand.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "time-perception",
+    "astral-time",
+    "time-jumps"
+  ]
+}

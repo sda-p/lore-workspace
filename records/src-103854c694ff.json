@@ -1,0 +1,102 @@
+{
+  "source_id": "src-103854c694ff",
+  "snapshot_sha256": "0dc5d52f60cab9f77c8b17f1d47eb1b65f2a87094112f642000470353c09c970",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-103854c694ff-c01",
+      "assertion": "Swaruu says Pluto remains a planet on Federation and interstellar charts.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-103854c694ff-c02",
+      "assertion": "She alleges Pluto’s terrestrial demotion serves Cabal astrological aims.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-103854c694ff-c03",
+      "assertion": "She describes Pluto as a Federation base and assigns it transformative symbolism.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-103854c694ff-c04",
+      "assertion": "She says Federation records identify Shiva as an Andromedan person.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "andromeda-council",
+      "topics": [
+        "andromeda-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-103854c694ff-c05",
+      "assertion": "She attributes the classification dispute to differences between human and Federation definitions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "astronomical-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "pluto-classification",
+    "astrological-claims"
+  ]
+}

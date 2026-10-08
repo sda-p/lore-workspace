@@ -1,0 +1,101 @@
+{
+  "source_id": "src-4936c3c90ef9",
+  "snapshot_sha256": "233eb67320f45c8a56c4c63b951acb59303d61d636e87f21183a42159723427c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4936c3c90ef9-c01",
+      "assertion": "Mari alleges major religions were designed to govern behavior through fear and obedience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4936c3c90ef9-c02",
+      "assertion": "Mari claims historical narratives and prominent figures were altered or fabricated to serve rulers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4936c3c90ef9-c03",
+      "assertion": "Mari says forgetting past lives helps controllers replace social memory and impose new realities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4936c3c90ef9-c04",
+      "assertion": "Mari distinguishes Source as inclusive Oneness from religions as control systems; she says belief varies by consciousness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4936c3c90ef9-c05",
+      "assertion": "Mari says shared religious belief can manifest group-specific egregors that do not affect people with other beliefs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "claimed biblical chronology"
+  ]
+}

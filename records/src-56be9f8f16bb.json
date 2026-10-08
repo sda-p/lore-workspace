@@ -1,0 +1,94 @@
+{
+  "source_id": "src-56be9f8f16bb",
+  "snapshot_sha256": "64c14e4681cd69e0d63d78eaebbca00de86221e5d99dc32769792d20326ad309",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-56be9f8f16bb-c01",
+      "assertion": "Mari says Federation isolation policies differ: humans are kept unaware, while Reptilians are told they cannot travel interstellar.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-56be9f8f16bb-c02",
+      "assertion": "Mari says Reptilian society has seven social levels, clans, regions, and sub-overlords.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-56be9f8f16bb-c03",
+      "assertion": "Mari reports underground portals let Reptilians bypass a Federation blockade; she says magnetic anomalies reveal activation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-56be9f8f16bb-c04",
+      "assertion": "Mari says Reptilians include both destructive and protective civilizations, including positive Alpha Draconians.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-56be9f8f16bb-c05",
+      "assertion": "Mari says positive Reptilians may avoid open contact because human observers would fear their appearance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "portal tactics and contact accounts"
+  ]
+}

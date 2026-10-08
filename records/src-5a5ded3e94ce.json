@@ -1,0 +1,99 @@
+{
+  "source_id": "src-5a5ded3e94ce",
+  "snapshot_sha256": "7179b20488c3773024f9b847e7e2c65ec4112f4273a6350fa1bdd21ea7b2ccea",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5a5ded3e94ce-c01",
+      "assertion": "Yazhi says Taygetan posts would reach audiences across social platforms worldwide.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0032",
+        "p0036"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5ded3e94ce-c02",
+      "assertion": "Yazhi says participants would not identify themselves as extraterrestrials.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0026"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5ded3e94ce-c03",
+      "assertion": "Yazhi says the project aimed to influence social values, not prompt extraterrestrial contact.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0038"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5ded3e94ce-c04",
+      "assertion": "Yazhi says high-technology disclosures would violate the Prime Directive.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5ded3e94ce-c05",
+      "assertion": "Yazhi says Muonic interconnection would distribute Taygetan reporting across the Federation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "social-media-project_details_speculative"
+  ],
+  "coverage_gaps": [
+    "training",
+    "participant-count"
+  ]
+}

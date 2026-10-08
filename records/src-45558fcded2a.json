@@ -1,0 +1,86 @@
+{
+  "source_id": "src-45558fcded2a",
+  "snapshot_sha256": "c54045e6e796b072d27d576b8cc8f2f3da3038824a6ea11463af4968371b63e8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-45558fcded2a-c01",
+      "assertion": "Mari says Earth lies within Federation-controlled space and is monitored by its local headquarters aboard Viera.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "viera"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45558fcded2a-c02",
+      "assertion": "She reports quadrant-level Federation delegates were expected at Viera in late 2023 or early 2024 to audit Earth operations and stationed races.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0032"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "viera",
+        "etorthans"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45558fcded2a-c03",
+      "assertion": "Mari links earlier visits by higher Federation representatives with major Earth events, while acknowledging some dates may coincide by chance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0033"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45558fcded2a-c04",
+      "assertion": "She describes Etorthans as Orion logical beings without familiar emotions and distrusts their role in Federation affairs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "orion-grays"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-contact-claims",
+    "forecast-in-retrospect"
+  ],
+  "coverage_gaps": [
+    "independent-corroboration"
+  ]
+}

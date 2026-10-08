@@ -1,0 +1,102 @@
+{
+  "source_id": "src-9dff6eea43d2",
+  "snapshot_sha256": "1654b04213cc26b6baf3bf8ec3b152cee4a84b048b5ebd90e7be1b5ac1dc145d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9dff6eea43d2-c01",
+      "assertion": "Mari says “reptiloids” covers thousands of species, from harmless small lizards to Alpha Draconians.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9dff6eea43d2-c02",
+      "assertion": "Mari describes three Kingu subspecies as green workers, red military and white ruling class.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9dff6eea43d2-c03",
+      "assertion": "Mari says Kingu live in underground caverns and treat the surface as a resource farm.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9dff6eea43d2-c04",
+      "assertion": "Mari says Kingu are biological beings that cannot physically shapeshift, but can alter human perception with devices.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9dff6eea43d2-c05",
+      "assertion": "Mari says reptiloids can project into human organic portals only when frequency and genetic markers align.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-554a031b6c3c",
+  "snapshot_sha256": "1f663aeb0993ffe720b5fad6ecff69474702c152128f32f27e4db5fe31ffbe13",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-554a031b6c3c-c01",
+      "assertion": "Za’el says realities are perspectives and societies hold distinct cultural and ethical systems.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-554a031b6c3c-c02",
+      "assertion": "He says starseeds may expect peaceful social behavior, while online platforms train young people in conflict and cruelty.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-554a031b6c3c-c03",
+      "assertion": "Za’el attributes attacks on innocent people to trauma and fear, which can produce cruelty.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-554a031b6c3c-c04",
+      "assertion": "He says prolonged mistreatment can lead starseeds to self-rejection, depression, and isolation.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-554a031b6c3c-c05",
+      "assertion": "Za’el says humans collectively manifest a hostile world despite the Federation’s presence; starseeds can offer a brighter alternative.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-social-commentary"
+  ],
+  "coverage_gaps": [
+    "independent-perspectives"
+  ]
+}

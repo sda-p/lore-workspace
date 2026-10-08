@@ -1,0 +1,113 @@
+{
+  "source_id": "src-8e904c5be0ba",
+  "snapshot_sha256": "9ce5eaafb2553d8bbd1b877388c4d0f4642aba4c2af514618672011a9860bc68",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8e904c5be0ba-c01",
+      "assertion": "Taygetan and Swaruunian signatories say Federation policy contradicts its stated protection of human choice.",
+      "speaker": "Taygetan and Swaruunian signatories",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8e904c5be0ba-c02",
+      "assertion": "They allege Federation-linked groups manipulate Earth events and human perception.",
+      "speaker": "Taygetan and Swaruunian signatories",
+      "paragraph_ids": [
+        "p0005",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8e904c5be0ba-c03",
+      "assertion": "They say Taygetans are barred from direct voice contact with Earth residents.",
+      "speaker": "Taygetan and Swaruunian signatories",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8e904c5be0ba-c04",
+      "assertion": "They propose an empathic confederation to assist Earth where the Federation has failed.",
+      "speaker": "Taygetan and Swaruunian signatories",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8e904c5be0ba-c05",
+      "assertion": "They demand transparency and claim the Federation uses coercion against members.",
+      "speaker": "Taygetan and Swaruunian signatories",
+      "paragraph_ids": [
+        "p0023",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "federation-critique",
+    "contact-restrictions",
+    "confederation-proposal"
+  ]
+}

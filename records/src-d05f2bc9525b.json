@@ -1,0 +1,111 @@
+{
+  "source_id": "src-d05f2bc9525b",
+  "snapshot_sha256": "fc0b69c32b624acfea6f6596f6e0c1a83c58fb88fa4799304bffd98a0d09434b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d05f2bc9525b-c01",
+      "assertion": "Mari names Avyon as the Urmah homeworld orbiting Vega, but gives conflicting ordinal positions for Avyon and Lyra.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0021"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "urmah-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d05f2bc9525b-c02",
+      "assertion": "Mari describes Urmah as large semi-bipedal cats organized into lion, tiger, panther, leopard, and cheetah lineages.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "urmah-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d05f2bc9525b-c03",
+      "assertion": "Mari says Urmah society combines monarchy and high council, with lions prominent in rule and tigers in military roles.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "urmah-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d05f2bc9525b-c04",
+      "assertion": "Mari characterizes Urmah as emotional, empathic, militarized, and self-appointed guardians of other races.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0018"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "urmah-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d05f2bc9525b-c05",
+      "assertion": "Mari says the Urmah Federation spans many worlds and negotiates special autonomy with the Galactic Federation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "urmah-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "urmah-federation",
+      "name": "Urmah Federation",
+      "kind": "faction",
+      "aliases": [
+        "Urmah Federation"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "family and cultural details"
+  ]
+}

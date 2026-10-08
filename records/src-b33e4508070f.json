@@ -1,0 +1,105 @@
+{
+  "source_id": "src-b33e4508070f",
+  "snapshot_sha256": "851fcf279471129128b8f2b5be302b0356761e484e5dc7d3e1824e152d386e14",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b33e4508070f-c01",
+      "assertion": "Za’el says whoever controls a game’s rules can determine its outcome.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b33e4508070f-c02",
+      "assertion": "He says he does not advise abandoning ethics to oppose abuse.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b33e4508070f-c03",
+      "assertion": "He warns that rule-makers can exploit ethical limits to control others.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0008",
+        "p0011",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b33e4508070f-c04",
+      "assertion": "He says good does not always win, and advises defending oneself while keeping values.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b33e4508070f-c05",
+      "assertion": "He suggests mind control may extend beyond Earth.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "rulemaker-advantage",
+    "ethics-and-resistance"
+  ]
+}

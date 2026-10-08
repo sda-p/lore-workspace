@@ -1,0 +1,104 @@
+{
+  "source_id": "src-b6b461d0197b",
+  "snapshot_sha256": "fbfd65c3f515f50b7725052190e1f425584268511a9a597bcbf9299e525f5e0f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b6b461d0197b-c01",
+      "assertion": "Arishah says Urmah reject compulsory service-to-others doctrine as a route to abuse.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6b461d0197b-c02",
+      "assertion": "He says Urmah teach young to pursue personal development and help others from strength.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0006",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6b461d0197b-c03",
+      "assertion": "He says positive and regressive Alpha Draconian cultures are genetically similar but ethically opposed.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6b461d0197b-c04",
+      "assertion": "He says Urmah and positive Alpha Draconians jointly restrain regressive expansions.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6b461d0197b-c05",
+      "assertion": "He says Etorthan mind influence exploits personal doubts and weak ethical frames.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "urmah-society",
+    "alpha-draconian-relations",
+    "telepathic-influence"
+  ]
+}

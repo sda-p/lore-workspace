@@ -1,0 +1,95 @@
+{
+  "source_id": "src-5920cfbc7dc1",
+  "snapshot_sha256": "e10e30004254db3223a801aff590e1c4645b3b5527235f381c8c067382f66f27",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5920cfbc7dc1-c01",
+      "assertion": "Mari says each Taygetan ship crew member has private quarters, with size varying by rank.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5920cfbc7dc1-c02",
+      "assertion": "She says ship AI can remotely operate cabin doors, a feature normally deactivatable except for emergencies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5920cfbc7dc1-c03",
+      "assertion": "Mari describes hull-material windows whose transparency and polarization occupants can adjust.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5920cfbc7dc1-c04",
+      "assertion": "She says toilets use sensor-directed ultrasonic bubbles for cleaning and little water, without requiring toilet paper.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5920cfbc7dc1-c05",
+      "assertion": "Mari says toilets and unrecyclable garbage are vaporized, with released heat converted to electricity for ship systems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "interior-layout",
+    "water-recycling"
+  ]
+}

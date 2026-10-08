@@ -1,0 +1,89 @@
+{
+  "source_id": "src-1be42e9ca084",
+  "snapshot_sha256": "6ef190ab7cbb7c2cb3d840145c2b497d1cbc736efacec572bcf87e6b77882fc8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1be42e9ca084-c01",
+      "assertion": "Za’el identifies Erra as a colder, forested, inhabited planet in Taygeta’s Pleiades system.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1be42e9ca084-c02",
+      "assertion": "He identifies as Taygetan and says he regards some Toleka crew members as family.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1be42e9ca084-c03",
+      "assertion": "Za’el says people there generally recall one or two past lives; his own memories are incomplete.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1be42e9ca084-c04",
+      "assertion": "He enjoys some Earth art and entertainment but says he does not want to live there again.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1be42e9ca084-c05",
+      "assertion": "Za’el says he pursues honorable conduct partly as protection in the Earth context.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "personal-profile"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "src-3012390b7529",
+  "snapshot_sha256": "a726db564f9bf5795d314bbb0a824815ada7ab1dce4cd7ee2fa714fc2002f8f8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3012390b7529-c01",
+      "assertion": "Za’el presents his channel as an independent, parallel project sharing information directly with the public.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3012390b7529-c02",
+      "assertion": "Za’el says off-world people may come to Earth to help loved ones, promote change, observe, or live there.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3012390b7529-c03",
+      "assertion": "Za’el says he previously lived in southern Spain.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3012390b7529-c04",
+      "assertion": "Za’el says viewers may treat his words as science fiction or entertainment.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

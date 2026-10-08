@@ -1,0 +1,103 @@
+{
+  "source_id": "src-5bbffd34dc29",
+  "snapshot_sha256": "7b37fb1f67205cc60a4aaea65b5afb38dc64814e67761d3faa33a7cdb10597f0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5bbffd34dc29-c01",
+      "assertion": "Mari says time is a consciousness-dependent perception rather than a universal constant.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5bbffd34dc29-c02",
+      "assertion": "She says reincarnation can occur across Earth’s perceived past or overlapping lifetimes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5bbffd34dc29-c03",
+      "assertion": "She says planetary time differentials cause synchronization problems for travel and communication.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5bbffd34dc29-c04",
+      "assertion": "She describes interstellar cultures as perceiving time in three dimensions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5bbffd34dc29-c05",
+      "assertion": "She says an observer cannot precisely locate the present moment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "time-perception",
+    "time-slip",
+    "reincarnation"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "source_id": "src-e2b6999b0e7f",
+  "snapshot_sha256": "c04a9edf5b4d483d328834c1d2256bab14d818892dc5c80fcbc5c403dbc395c9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e2b6999b0e7f-c01",
+      "assertion": "Mari says lower astral realms share physical space but differ in frequency and perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e2b6999b0e7f-c02",
+      "assertion": "Mari says media programs collective awareness toward frightening imagery that entities use to manifest through people.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e2b6999b0e7f-c03",
+      "assertion": "Mari says souls willingly experience Earth and can break archon influence by recognizing how fear shapes perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e2b6999b0e7f-c04",
+      "assertion": "Mari says demons and archons manifest from human fear and change appearance with group perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e2b6999b0e7f-c05",
+      "assertion": "Mari warns that living organic portals can be used by demons and archons to affect others.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "archons-and-demons",
+      "name": "Archons and demons",
+      "kind": "astral-entity",
+      "aliases": [
+        "lower astral entities"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

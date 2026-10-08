@@ -1,0 +1,112 @@
+{
+  "source_id": "src-d221262cd71f",
+  "snapshot_sha256": "5f485ea0f74019f3b8d9474b7681f4582e81efae4f59626960c3124709efcdce",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d221262cd71f-c01",
+      "assertion": "Gosia says starseeds and awakened humans see themselves as protecting Earth from regressive forces.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d221262cd71f-c02",
+      "assertion": "She describes Urmah and allied races as guarding Earth from space and astral threats.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d221262cd71f-c03",
+      "assertion": "She urges starseeds to cooperate despite personal disagreements.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d221262cd71f-c04",
+      "assertion": "She says human and stellar allies intend to resist exploitation of Earth’s inhabitants.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d221262cd71f-c05",
+      "assertion": "She presents Earth’s future as shaped by positive souls living on and around the planet.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "spiritual-warfare-claims"
+  ],
+  "coverage_gaps": [
+    "planetary-defense",
+    "starseed-cooperation"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "source_id": "src-831bdc2709f5",
+  "snapshot_sha256": "a60968bf1b40955614de500ffdd424ec27aec1de0f918714088cef09846858ca",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-831bdc2709f5-c01",
+      "assertion": "Mari says consciousness is the basis of reality and frames material particles as patterns within it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-831bdc2709f5-c02",
+      "assertion": "Mari describes awareness as personal levels rather than a single awakening state.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-831bdc2709f5-c03",
+      "assertion": "Mari says higher awareness can interpret lower perspectives, while understanding higher levels requires more context.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-831bdc2709f5-c04",
+      "assertion": "Mari argues people cannot be forced to develop and should be offered ideas rather than imposed them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-831bdc2709f5-c05",
+      "assertion": "Mari describes all beings as Source experiencing itself through differences in awareness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0017"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "advice about sharing beliefs"
+  ]
+}

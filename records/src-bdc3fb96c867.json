@@ -1,0 +1,118 @@
+{
+  "source_id": "src-bdc3fb96c867",
+  "snapshot_sha256": "6af7fca888a448749addc4648f430d5ada5af8231abc9da408b1f36bfeac3a4f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bdc3fb96c867-c01",
+      "assertion": "Mari reports observing 25–50 spacecraft daily entering Antarctica along organized routes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Claimed orbital observation."
+    },
+    {
+      "id": "src-bdc3fb96c867-c02",
+      "assertion": "She identifies the Viera as an Andromedan Federation headquarters behind the Moon.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdc3fb96c867-c03",
+      "assertion": "Mari reports military aircraft and cooperating warships from multiple nations near Antarctica.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdc3fb96c867-c04",
+      "assertion": "She says inland Antarctica has a wall, vegetation, and an inner-Earth entrance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdc3fb96c867-c05",
+      "assertion": "Mari says underground Federation bases connect to global sites by high-speed magnetic trains.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdc3fb96c867-c06",
+      "assertion": "She distinguishes present races and says no official Pleiadian or Urmah detachments operate there.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_antarctica_claims",
+    "claimed_observation"
+  ],
+  "coverage_gaps": [
+    "north_pole_comparison"
+  ]
+}

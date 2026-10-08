@@ -1,0 +1,50 @@
+{
+  "source_id": "src-d24ef904f63a",
+  "snapshot_sha256": "1253805789a3a6fa277dc68163f1908996c079fce7d1fc184188388da2099bc6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d24ef904f63a-c01",
+      "assertion": "Anéeka interprets a 2021 social-platform outage as a simulation for a possible later shutdown of major social networks, not the whole internet.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "artificial-intelligence"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d24ef904f63a-c02",
+      "assertion": "Anéeka predicts such an outage could be used to justify identity checks for internet access, while emphasizing the scenario is uncertain.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "artificial-intelligence"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

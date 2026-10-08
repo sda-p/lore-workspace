@@ -1,0 +1,104 @@
+{
+  "source_id": "src-76452a2bc1f6",
+  "snapshot_sha256": "870486c6c20d6945d198908b79ac7a07f3a2046ed9e0d5bed01d1d2f5e3d8b9f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-76452a2bc1f6-c01",
+      "assertion": "Mari exempts supervised therapeutic use but warns recreational psychedelics can cause lasting physical or psychological harm.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76452a2bc1f6-c02",
+      "assertion": "Mari says psychedelics alter cellular chemistry and neural frequency, disrupting the body’s perceptual filter.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76452a2bc1f6-c03",
+      "assertion": "Mari says uneven neural effects can produce a chaotic mixture of hallucination and perceived realms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76452a2bc1f6-c04",
+      "assertion": "Mari says fear-shaped lower-astral entities may exploit people who perceive those realms under psychedelics.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76452a2bc1f6-c05",
+      "assertion": "Mari says natural meditation or astral practice better matches a person’s stable vibration than drugs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0034",
+        "p0037"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

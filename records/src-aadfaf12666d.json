@@ -1,0 +1,99 @@
+{
+  "source_id": "src-aadfaf12666d",
+  "snapshot_sha256": "8e1eefe6b9f31f304e07cf6620740c3e8c3b0b0aa9d3c8da1d247190eeee8267",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-aadfaf12666d-c01",
+      "assertion": "Mari says similar frequencies are compatible; lower vibration corresponds to lower astral realms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aadfaf12666d-c02",
+      "assertion": "She describes bodies as equalizers mixing souls’ frequencies; after death, vibration separates them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aadfaf12666d-c03",
+      "assertion": "Mari says lower astral entities seek souls’ creative attention and approach sleepers more easily at night.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aadfaf12666d-c04",
+      "assertion": "Mari says fear concentrates attention; entities may adapt to victims, while succubi and incubi exploit sexual energy.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0028"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aadfaf12666d-c05",
+      "assertion": "Mari says sleep paralysis is normally bodily but may involve entities or abducting aliens; visits are often nuisances.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "entity-catalog"
+  ]
+}

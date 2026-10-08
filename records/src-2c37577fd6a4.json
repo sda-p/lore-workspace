@@ -1,0 +1,107 @@
+{
+  "source_id": "src-2c37577fd6a4",
+  "snapshot_sha256": "c6a30da7f2f1b09c82db5f69c33ebfbd23a08c32ba8ab2c4fd9c3ace8597130a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2c37577fd6a4-c01",
+      "assertion": "Mari says Etorthans will be audited in Earth orbit aboard the Andromedan ship Viera.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "andromeda-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c37577fd6a4-c02",
+      "assertion": "Federation accounts portray Etorthans as Orion Grays who terraform worlds and assist other species.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Official Federation account as relayed by Mari."
+    },
+    {
+      "id": "src-2c37577fd6a4-c03",
+      "assertion": "Urmah accounts accuse Etorthans of treaty violations and attacks on Urmah settlements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Allegations attributed to the Urmah."
+    },
+    {
+      "id": "src-2c37577fd6a4-c04",
+      "assertion": "Mari says Urmah and Etorthans reject each other’s authority despite both Federation membership.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c37577fd6a4-c05",
+      "assertion": "Mari reports the Urmah cite the Battle of Rigel 7 as a decisive victory over Orion forces.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Urmah account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conflicting_faction_accounts",
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "audit_outcome"
+  ]
+}

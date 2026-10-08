@@ -1,0 +1,106 @@
+{
+  "source_id": "src-e3285caca47d",
+  "snapshot_sha256": "51495fd633cc8aedc2b88f3ddad52892d95b6112f6bca5091d4e8bae90686561",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e3285caca47d-c01",
+      "assertion": "Mari says profound spiritual awakening may indicate a walk-in, though rapid change by the same soul is another possibility.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e3285caca47d-c02",
+      "assertion": "Mari says entering and departing souls share a higher self and compatible vibration; on Earth they may seem distinct.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e3285caca47d-c03",
+      "assertion": "Mari describes the entering soul as a more evolved version returning to resolve issues or serve a mission.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e3285caca47d-c04",
+      "assertion": "Mari says walk-ins may follow severe life crises; she presents this as a possible interpretation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e3285caca47d-c05",
+      "assertion": "Mari distinguishes consensual walk-ins from hostile possession; details remain poorly understood.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0026"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "walk-in-phenomenon",
+      "name": "Walk-in phenomenon",
+      "kind": "cosmology",
+      "aliases": [
+        "walk-ins",
+        "walk-in souls"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": []
+}

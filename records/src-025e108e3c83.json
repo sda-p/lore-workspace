@@ -1,0 +1,82 @@
+{
+  "source_id": "src-025e108e3c83",
+  "snapshot_sha256": "efe966fd0788c599d3284849c958fbad6bfa9b7d1884eef3b9b3c1d50ba9aab5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-025e108e3c83-c01",
+      "assertion": "Za’el says people can be victims of Earth conditions yet remain able to act on their circumstances.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-025e108e3c83-c02",
+      "assertion": "Za’el says meanings and perspectives can help improve present experience, without claiming one view explains the whole.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-025e108e3c83-c03",
+      "assertion": "Za’el says Earth may build strength but can also compound trauma and prolong suffering through continued frequency compatibility.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-025e108e3c83-c04",
+      "assertion": "Za’el says suffering is not necessary and states opposition to Earth’s artificial 3D Matrix as a personal view.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0018"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

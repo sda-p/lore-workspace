@@ -1,0 +1,102 @@
+{
+  "source_id": "src-bddaa45917d5",
+  "snapshot_sha256": "106d3e45c421687e5717b1a7249499cecf9ecb0a58d3289bc87b06b38dda0932",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bddaa45917d5-c01",
+      "assertion": "Mari describes three Earth-control layers: public institutions, Deep State networks, and nonhuman Federation authority.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bddaa45917d5-c02",
+      "assertion": "Mari alleges New Age movements can redirect awakening populations into managed belief systems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0012",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bddaa45917d5-c03",
+      "assertion": "Mari says Federation conferences restrict questions and isolate attendees from other races.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bddaa45917d5-c04",
+      "assertion": "Mari alleges atrocity imagery is used to frighten offworld attendees and justify Earth’s isolation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bddaa45917d5-c05",
+      "assertion": "Mari cautions against generalizing whole species, saying most Alfratans and Andromedans are positive.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Federation and New Age claims are Mari’s allegations and interpretations"
+  ],
+  "coverage_gaps": [
+    "individual Gori’el report details"
+  ]
+}

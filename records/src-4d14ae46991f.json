@@ -1,0 +1,83 @@
+{
+  "source_id": "src-4d14ae46991f",
+  "snapshot_sha256": "799fa1c22db7d56cd1f59775ed531b3950e57c759b7f0ad0d3e4483dac6d7356",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4d14ae46991f-c01",
+      "assertion": "Mari says Toleka intelligence crew combines internet monitoring, drone and broadcast reports, and information shared by the Federation and other races.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d14ae46991f-c02",
+      "assertion": "She says onboard computers model likely Earth outcomes, then Taygetan ship councils discuss the data at least twice weekly.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d14ae46991f-c03",
+      "assertion": "Mari argues Earth’s rulers depend on public compliance and can be blocked by sufficiently unified popular refusal.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d14ae46991f-c04",
+      "assertion": "She describes like-minded awakened people as linked by a collective unconscious that helps shift Earth toward a positive timeline.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy-claims",
+    "political-claims"
+  ],
+  "coverage_gaps": [
+    "independent-corroboration"
+  ]
+}

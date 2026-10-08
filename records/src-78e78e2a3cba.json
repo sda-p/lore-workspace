@@ -1,0 +1,95 @@
+{
+  "source_id": "src-78e78e2a3cba",
+  "snapshot_sha256": "f16e638869fcffdc8007cf9d99b2820fa407ed347bad8140231dd2b802358cc3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-78e78e2a3cba-c01",
+      "assertion": "Mari distinguishes harmful “aliens” from extraterrestrials born beyond Earth, who may be human-looking or not.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is Mari’s own terminology."
+    },
+    {
+      "id": "src-78e78e2a3cba-c02",
+      "assertion": "Mari says public persuasion faces Matrix dogma and institutions that control extraterrestrial narratives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78e78e2a3cba-c03",
+      "assertion": "Mari describes starseeds as souls with extensive off-world existence and says institutions seek to control them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78e78e2a3cba-c04",
+      "assertion": "Mari says off-world human-like societies use ordinary technologies such as toothbrushes and wheeled landing gear.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78e78e2a3cba-c05",
+      "assertion": "Mari says human and extraterrestrial identities have no clear boundary and calls them kin.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

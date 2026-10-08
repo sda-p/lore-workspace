@@ -1,0 +1,104 @@
+{
+  "source_id": "src-1ba260f045af",
+  "snapshot_sha256": "528d2df4ea24c7cc95ef7203f2bc205195d0b7e861b9022c775cedd7a5de6542",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1ba260f045af-c01",
+      "assertion": "Mari says Taygetan funding stopped after new Federation requirements she rejected.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ba260f045af-c02",
+      "assertion": "She says her CIC team translates and supports frequent channel production.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ba260f045af-c03",
+      "assertion": "She says Prime Directive rules require her to communicate through writing.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ba260f045af-c04",
+      "assertion": "Mari says Alenym named her successor and she now studies with the queen.",
+      "speaker": "Taygetan team",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ba260f045af-c05",
+      "assertion": "The crew says channel support helps provide resources for Toleka and mission crews.",
+      "speaker": "Taygetan team",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0022",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "crew-finances",
+    "succession",
+    "communication-limits"
+  ]
+}

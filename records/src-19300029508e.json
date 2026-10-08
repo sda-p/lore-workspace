@@ -1,0 +1,118 @@
+{
+  "source_id": "src-19300029508e",
+  "snapshot_sha256": "51641352680ef1909aca85154b8f24dcf7e30346df5e9becc803afde8496b70a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-19300029508e-c01",
+      "assertion": "Mari relays the Federation account that Lyrians fled an Orion invasion in the Great Expansion.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19300029508e-c02",
+      "assertion": "Mari says the Federation account describes Alfrata as a former prison world liberated by Federation forces around 1560–1570.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19300029508e-c03",
+      "assertion": "Mari says Federation accounts conflict on dates and Lyrian history, while Urmah accounts deny a Vega-area invasion.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0035"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19300029508e-c04",
+      "assertion": "Mari suspects the Alfrata history is pro-Federation propaganda and parallels a promised Earth liberation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0036",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19300029508e-c05",
+      "assertion": "Mari says the Urmah dispute Federation and Taygetan accounts, offering a conflicting history of Alfrata.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0035",
+        "p0039",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alfrata"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "alfrata",
+      "name": "Alfrata (Phaeton)",
+      "kind": "location",
+      "aliases": [
+        "Phaeton",
+        "planet Alfrata"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

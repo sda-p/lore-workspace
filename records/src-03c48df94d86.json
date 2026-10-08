@@ -1,0 +1,116 @@
+{
+  "source_id": "src-03c48df94d86",
+  "snapshot_sha256": "e2aa51deb0572484235c6306db475f8574d9d49eee3478920bd4675a5338d036",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-03c48df94d86-c01",
+      "assertion": "Mari says advanced souls can be nexus points formed from the combined awareness of less-expanded souls.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0012"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03c48df94d86-c02",
+      "assertion": "Mari says advanced souls can influence groups with similar frequencies, sometimes like a subtle hive mind.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03c48df94d86-c03",
+      "assertion": "Mari says high-frequency souls can lift the surrounding region, sometimes simply by living there.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03c48df94d86-c04",
+      "assertion": "Mari says souls under an advanced soul may be its past incarnations, with reincarnation non-linear.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03c48df94d86-c05",
+      "assertion": "Mari says members of a strongly connected group can share emotional states telepathically.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "nexus-souls",
+      "name": "Nexus souls",
+      "kind": "cosmology",
+      "aliases": [
+        "advanced souls"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

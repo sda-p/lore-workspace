@@ -1,0 +1,98 @@
+{
+  "source_id": "src-cd1cd400e21c",
+  "snapshot_sha256": "6f18433a257d2006b3e6dc909d5d8295fe9b6e5bb081251863ffe4967873ca84",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cd1cd400e21c-c01",
+      "assertion": "Anéeka says Earth observers see only Pleiades frequencies within their range.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cd1cd400e21c-c02",
+      "assertion": "Anéeka says Taygeta and Sadicleya appear as a yellow sun and white dwarf from her perspective.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cd1cd400e21c-c03",
+      "assertion": "Swaruu says her group recognizes nine Pleiades stars and no separate cluster behind them.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Speaker shifts from Anéeka to Swaruu (9)."
+    },
+    {
+      "id": "src-cd1cd400e21c-c04",
+      "assertion": "Yazhi says time assumptions undermine Earth age estimates; she attributes M45 life to migration.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0022"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Speaker shifts to Yazhi in the 2023 section."
+    },
+    {
+      "id": "src-cd1cd400e21c-c05",
+      "assertion": "Yazhi says perception, not distance alone, determines what observers can see in the Pleiades.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

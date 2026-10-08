@@ -1,0 +1,102 @@
+{
+  "source_id": "src-0a76aae844b1",
+  "snapshot_sha256": "ff862860628d685fea7d5a1b6353dd72731817b205fdd69bb5dc2d38172ece66",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0a76aae844b1-c01",
+      "assertion": "Mari says navigation maps encode gravity, mass, and energy snapshots of locations and moments.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0008",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a76aae844b1-c02",
+      "assertion": "Ships reach destinations by changing their own gravity-energy matrix, not by entering calendar dates.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a76aae844b1-c03",
+      "assertion": "She says faster-than-light and time travel share this mechanism, so FTL-capable races also time-travel.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "temporal-skipping"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a76aae844b1-c04",
+      "assertion": "Portals shift only entrants and may be one-way; coded muon pulses transmit position-time data.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a76aae844b1-c05",
+      "assertion": "Mari says imperfect maps and observation create alternate timelines on each jump, preventing fixed paradoxes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "time-navigation-details"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "source_id": "src-8aee5e8d5c92",
+  "snapshot_sha256": "9895bce098f835ce027fc654db49ddebf1b0e29f76c97dcefa302c8374955294",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8aee5e8d5c92-c01",
+      "assertion": "Gosia says starship navigation and personal manifestation share frequency matching: align with a desired destination.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8aee5e8d5c92-c02",
+      "assertion": "She says Taygetans treat engineering, physics, and spirituality as interconnected, making technical study part of spiritual growth.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8aee5e8d5c92-c03",
+      "assertion": "Gosia frames technical lessons as a galactic academy seeding human science for future specialists and civilization.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8aee5e8d5c92-c04",
+      "assertion": "She says exposure to technical possibilities can shift collective perception toward an interstellar reality, even before people can apply them.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "technical-education-rationale"
+  ]
+}

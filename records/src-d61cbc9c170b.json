@@ -1,0 +1,111 @@
+{
+  "source_id": "src-d61cbc9c170b",
+  "snapshot_sha256": "9be99a3d70092ee8a299d83d016b075606230aa49861ae3f33dc0635c98a24dd",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d61cbc9c170b-c01",
+      "assertion": "Swaruu (9) describes Akashic access as mentally receiving information from Source.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d61cbc9c170b-c02",
+      "assertion": "Swaruu says the records’ library appearance is a personal manifestation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d61cbc9c170b-c03",
+      "assertion": "Swaruu says access can include any timeline, shaped by the question’s frequency.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d61cbc9c170b-c04",
+      "assertion": "Swaruu says record interpretations vary with each person’s frequency and perception agreements.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d61cbc9c170b-c05",
+      "assertion": "Swaruu says clearing the mind improves reliability by reducing observer distortion.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d61cbc9c170b-c06",
+      "assertion": "Swaruu says practiced channeling can occur while doing mechanical tasks.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims_attributed"
+  ],
+  "coverage_gaps": [
+    "meditation-method",
+    "interpretive-limits"
+  ]
+}

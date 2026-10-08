@@ -1,0 +1,100 @@
+{
+  "source_id": "src-0c480ba1b78c",
+  "snapshot_sha256": "5ac64f8120c28466ad642aded88d8f7de0a88c5c2a045eb419bd5e2595954f58",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0c480ba1b78c-c01",
+      "assertion": "Mari reports Etorthan Tall Grays arrived as higher-level Federation auditors overseeing several nearby systems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c480ba1b78c-c02",
+      "assertion": "Mari reports Urmah distrust of Etorthans and questions their non-empathic oversight role.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c480ba1b78c-c03",
+      "assertion": "Mari warns that rumors of imminent catastrophe may be planted disinformation, while advising vigilance for false flags.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c480ba1b78c-c04",
+      "assertion": "Mari says she does not expect hostilities; she frames possible tensions as diplomatic friction over ship access.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c480ba1b78c-c05",
+      "assertion": "Mari alleges repeated internet outages affected Taygetans and once the Urmah at the Viera stations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "reported Earth-event rumors and audit allegations"
+  ]
+}

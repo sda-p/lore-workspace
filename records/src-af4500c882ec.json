@@ -1,0 +1,105 @@
+{
+  "source_id": "src-af4500c882ec",
+  "snapshot_sha256": "5ba83f08372ddde03ea9b09b64c676dba587ebc22b1648ea1d987aaf7caca861",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-af4500c882ec-c01",
+      "assertion": "Mari says perceived history depends on memory, past consequences, and shared belief.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal metaphysics."
+    },
+    {
+      "id": "src-af4500c882ec-c02",
+      "assertion": "She says Earth history can be manipulated by controlling records and public memory.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af4500c882ec-c03",
+      "assertion": "Mari describes Tartaria as a central-Russian region with influence across several continents.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af4500c882ec-c04",
+      "assertion": "She places a proposed global reset in the early nineteenth century.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0020",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account gives vague dates."
+    },
+    {
+      "id": "src-af4500c882ec-c05",
+      "assertion": "Mari says time travel cannot revisit an identical past moment because temporal axes shift.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal model."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_historical_claims",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "specific_archaeological_evidence"
+  ]
+}

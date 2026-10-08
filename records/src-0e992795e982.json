@@ -1,0 +1,117 @@
+{
+  "source_id": "src-0e992795e982",
+  "snapshot_sha256": "921a6c16a98d05fc445e986d490a8c434562cd3a39049368394a98ff3486461a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0e992795e982-c01",
+      "assertion": "Mari says Procyon was first mapped by explorers from the Procyon star system, not Taygeta.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0e992795e982-c02",
+      "assertion": "Early Taygetan settlers assumed Procyon’s ecology resembled Temmer and Erra.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "procyon"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0e992795e982-c03",
+      "assertion": "Mari says the night attack by unknown predators killed 45 Taygetan settlers; three survived.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0021",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "procyon",
+      "topics": [
+        "procyon",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0e992795e982-c04",
+      "assertion": "Mari identifies the predators as Gunahabuls that hunt in groups at night.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "procyon"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0e992795e982-c05",
+      "assertion": "She says Gunahabuls remain a threat in restricted areas and may have been introduced.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "procyon"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Their origin and introducer remain uncertain."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "procyon",
+      "name": "Planet Procyon",
+      "kind": "location",
+      "aliases": [
+        "Procyon"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "settlement_aftermath"
+  ]
+}

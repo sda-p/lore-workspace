@@ -18,7 +18,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified archaeological claim."
+      "qualifiers": ""
     },
     {
       "id": "src-15ba6ed0a80c-c02",
@@ -54,7 +54,7 @@
       ],
       "modality": "reported",
       "confidence": "high",
-      "qualifiers": "Conflicts with official dates; unverified."
+      "qualifiers": ""
     },
     {
       "id": "src-15ba6ed0a80c-c04",
@@ -93,7 +93,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Unverified cosmology."
+      "qualifiers": ""
     }
   ],
   "proposed_topics": [],

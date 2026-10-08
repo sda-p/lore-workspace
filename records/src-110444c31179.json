@@ -1,0 +1,106 @@
+{
+  "source_id": "src-110444c31179",
+  "snapshot_sha256": "5abe5a649f61fb407cf5e7b3365d6e33890d0fd3dacd475d9e7377f21852531d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-110444c31179-c01",
+      "assertion": "Mari says Federation structures vary by density; higher beings are integrated, while material-level branches resemble governments.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-110444c31179-c02",
+      "assertion": "She names Alfratans and Antarians as prominent Lyrian leadership groups overseeing Earth affairs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-110444c31179-c03",
+      "assertion": "Mari says resource-poor breakaway societies may raid vulnerable colonies and slower-traveling ships, becoming space pirates.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-110444c31179-c04",
+      "assertion": "She alleges some Federation officials use or create pirate factions to pressure independent races into joining, seeking political leverage.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-110444c31179-c05",
+      "assertion": "Mari says a Federation-connected actor, not the Federation itself, sabotaged servers that Federation staff repaired; an AI filters ship internet.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "politically_contested",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "pirate-factions",
+    "network-governance"
+  ]
+}

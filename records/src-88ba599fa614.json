@@ -1,0 +1,116 @@
+{
+  "source_id": "src-88ba599fa614",
+  "snapshot_sha256": "ff9aab61e03873add753ec146bcb5ddc696922462b8e3d11e3735efa26b411dc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-88ba599fa614-c01",
+      "assertion": "Yazhi says no nonhuman craft were shot down and describes the reports as a possible false-invasion agenda.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88ba599fa614-c02",
+      "assertion": "Yazhi says the “Federation of Light” is a human narrative that could serve as controlled opposition.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88ba599fa614-c03",
+      "assertion": "Athena says published object images are manipulated and one could depict an aircraft sensor pod.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0029",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88ba599fa614-c04",
+      "assertion": "Athena says UFO reports distracted from Ohio train derailments that she calls a deliberate false flag.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88ba599fa614-c05",
+      "assertion": "Athena says agencies may seed controlled dissent to misdirect public attention.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0039",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "false-invasion-not-prediction"
+  ],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_id": "src-678b016bc66c",
+  "snapshot_sha256": "e8cf9361a217b7ca0a4c83edae4c36d36992e33819d995d96700fe1b968acbdd",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-678b016bc66c-c01",
+      "assertion": "Za’el says Lyrians are highly emotional and that emotions can become a source of strength when managed.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0005",
+        "p0010"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-678b016bc66c-c02",
+      "assertion": "Za’el says some lower-astral egregors feed on negative emotions they provoke.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-678b016bc66c-c03",
+      "assertion": "Za’el describes emotions as responses to perceived meaning and says repression may cause later harm.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-678b016bc66c-c04",
+      "assertion": "Za’el says strong loving determination can increase manifestation power.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-678b016bc66c-c05",
+      "assertion": "Za’el presents fear as an obstacle that can focus thought on danger and divert intended outcomes.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "emotional self-management advice"
+  ]
+}

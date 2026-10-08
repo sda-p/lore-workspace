@@ -1,0 +1,98 @@
+{
+  "source_id": "src-de6bce5d6310",
+  "snapshot_sha256": "981cce2b7158a4475180e5177fcc574e9b1d9abdc27535418157b66ca52e78b0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-de6bce5d6310-c01",
+      "assertion": "Mari reports the Toleka was repaired by Saska 1, which remained docked for further maintenance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de6bce5d6310-c02",
+      "assertion": "Mari describes Vigilant Eagle as a 320-meter armed escort with two zero-point reactors and 25 crew.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de6bce5d6310-c03",
+      "assertion": "Mari says Vigilant Eagle will stay near Toleka and needs human-made communications equipment for Earth orbit.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de6bce5d6310-c04",
+      "assertion": "Mari reports an Etorthan deputy died after illness following a surface visit; the cause was undisclosed.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de6bce5d6310-c05",
+      "assertion": "Mari says Urmah and Taygetan leaders planned to deny Etorthan access to their ships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source includes conflicting publication and event dates; claims retain stated dates"
+  ],
+  "coverage_gaps": [
+    "Etorthan meeting and abduction allegations"
+  ]
+}

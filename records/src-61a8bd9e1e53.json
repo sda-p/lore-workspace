@@ -1,0 +1,96 @@
+{
+  "source_id": "src-61a8bd9e1e53",
+  "snapshot_sha256": "0293efe6b3da9c05286eb192f5151ae151640111a11ed1ab58d87869843b7d6a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-61a8bd9e1e53-c01",
+      "assertion": "Mari uses “soul,” “adma,” and “katra” as equivalents without religious connotations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61a8bd9e1e53-c02",
+      "assertion": "She describes Source as universal consciousness encompassing all existence, timelines, and universes beyond time and space.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61a8bd9e1e53-c03",
+      "assertion": "Mari defines a soul as Source itself, not a spatially smaller fragment, while people appear as many souls.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61a8bd9e1e53-c04",
+      "assertion": "She says awareness and thought generate time, while individual identities are points of attention within Source.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61a8bd9e1e53-c05",
+      "assertion": "Mari says souls comprise Source’s ideas and attachments; not every visible body necessarily has a soul.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "metaphysical-detail"
+  ]
+}

@@ -318,6 +318,46 @@ Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [Alfratan (Centauri) Ship Attacked - Weapons - Aneeka of Temmer explains the Incident](https://swaruu.org/transcripts/alfratan-centauri-ship-attacked-weapons-aneeka-of-temmer-explains-the-incident) (2022-02-25; en); passages p0040, p0043, p0044, p0046. [Structured record](../../records/src-1f3a3984c56e.json).
 
+### src-075c8d444cc5-c03
+
+Yazhi says crystal skulls store records readable by holographic computers. She cites Taygeta records; photos alone do not verify them.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Cosmic Agency - MiniTopics - Crystal Skulls, Elon Musk, and more](https://swaruu.org/transcripts/cosmic-agency-minitopics-crystal-skulls-elon-musk-and-more) (2023-06-23; en); passages p0046, p0048, p0050, p0055, p0057, p0064, p0065. [Structured record](../../records/src-075c8d444cc5.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-1c448d07c8c4-c06
+
+Its consoles project interactive holograms controlled by touch or a mind-computer interface.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 1 - Toleka - Taygeta Starship (Pleiades)](https://swaruu.org/transcripts/interstellar-life-1-toleka-taygeta-starship-pleiades) (2023-02-28; en); passages p0130, p0131. [Structured record](../../records/src-1c448d07c8c4.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-65c110e0589e-c06
+
+One person can pilot a Scimitar, or its onboard AI can fly it.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 3 - Scimitars - FIGHTER CRAFT - Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-3-scimitars-fighter-craft-athena-swaruu) (2023-07-06; en); passages p0084, p0086. [Structured record](../../records/src-65c110e0589e.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-4c18957bd2f2-c02
+
+Yazhi says public AI is controlled to shape perception, unlike non-invasive Taygetan AI.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-minitopics-with-gosia-cosmic-agency) (2023-03-14; en); passages p0014, p0015, p0016, p0018, p0020. [Structured record](../../records/src-4c18957bd2f2.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-f22366424c26-c01](moon-matrix.md#src-f22366424c26-c01) — Moon and terrestrial Matrix
@@ -336,6 +376,8 @@ Source: [Alfratan (Centauri) Ship Attacked - Weapons - Aneeka of Temmer explains
 - [src-165493b296b5-c03](muonic-galactic-ai-network.md#src-165493b296b5-c03) — Muonic galactic AI network
 - [src-165493b296b5-c05](muonic-galactic-ai-network.md#src-165493b296b5-c05) — Muonic galactic AI network
 - [src-073f7818f594-c02](moon-matrix.md#src-073f7818f594-c02) — Moon and terrestrial Matrix
+- [src-378a8741723b-c02](starship-systems.md#src-378a8741723b-c02) — Starship systems
+- [src-67a7fcd528f7-c04](moon-matrix.md#src-67a7fcd528f7-c04) — Moon and terrestrial Matrix
 
 ## Review flags
 
@@ -345,14 +387,18 @@ Source: [Alfratan (Centauri) Ship Attacked - Weapons - Aneeka of Temmer explains
 - ether\_and\_manifestation\_model
 - ether\_model
 - extraordinary\_ai\_claims
+- extraordinary\_astronomical\_claims
 - extraordinary\_biotechnology\_claims
 - extraordinary\_medical\_claims
 - extraordinary\_species\_claims
 - extraordinary\_technology\_claims
 - frequency-gravity-model
+- frequency\_health\_claims\_unverified
 - pilot-account-attributed
+- related\_series\_part
 - technology\_and\_mind\_interface
 - translated\_source
 - unverified\_extraterrestrial\_technology\_claims
 - unverified\_laboratory\_report
 - unverified\_technical\_claims
+- unverified\_technology\_claims

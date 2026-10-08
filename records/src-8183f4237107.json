@@ -1,0 +1,83 @@
+{
+  "source_id": "src-8183f4237107",
+  "snapshot_sha256": "87adad0261773070eef4641c257882a9efa1095cf323356ca6b5abb8e746008c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8183f4237107-c01",
+      "assertion": "Za’el says Earth’s ruling system shapes society through science, history, religion, ethics, and government messaging.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8183f4237107-c02",
+      "assertion": "He argues institutional religion can cultivate victimhood and dependence on promised salvation, while dividing believers.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8183f4237107-c03",
+      "assertion": "Za’el says laws and official norms can be mistaken for ethical guidance, making populations easier to manipulate.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8183f4237107-c04",
+      "assertion": "He portrays advertising and social interaction as systems that reward exaggeration and constructed images over sincerity.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "ideological-commentary"
+  ],
+  "coverage_gaps": [
+    "independent-perspectives"
+  ]
+}

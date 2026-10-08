@@ -1,0 +1,110 @@
+{
+  "source_id": "src-2b891f3fac7b",
+  "snapshot_sha256": "c65867ee56e7ed300584a52e3cb2e53ae15c568d29f089c4aeb35017503c39b3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2b891f3fac7b-c01",
+      "assertion": "Mari Swa says high-vibration starseeds disrupt low-vibration entities by existing.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2b891f3fac7b-c02",
+      "assertion": "Mari Swa says starseeds may manifest beneficial or harmful effects with unusual force.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Self-control is important."
+    },
+    {
+      "id": "src-2b891f3fac7b-c03",
+      "assertion": "Mari Swa says starseeds need not follow a mission; their presence alone influences Earth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2b891f3fac7b-c04",
+      "assertion": "Mari Swa says collective telepathy can cause starseeds to absorb others’ thoughts and emotions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2b891f3fac7b-c05",
+      "assertion": "Mari Swa says some starseeds enter astral realms to confront hostile entities.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0017"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2b891f3fac7b-c06",
+      "assertion": "Mari Swa says starseeds also resist through activism and helping others.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims_attributed"
+  ],
+  "coverage_gaps": [
+    "astral-warrior-activity",
+    "starseed-risks"
+  ]
+}

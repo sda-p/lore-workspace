@@ -1,0 +1,100 @@
+{
+  "source_id": "src-3a84733d9846",
+  "snapshot_sha256": "d7db6bb9ecc995ff1d9ca76990ff32d495969ac7dbf1f75a41843f2ab2c46747",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3a84733d9846-c01",
+      "assertion": "Mari reports CIC analyses and 110 drones supported her account of Maui fires.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3a84733d9846-c02",
+      "assertion": "Mari alleges the fires were deliberately started by flamethrower drones and energy weapons.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3a84733d9846-c03",
+      "assertion": "Mari alleges authorities blocked civilian escape and aid, and ordered relief cargo dumped.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3a84733d9846-c04",
+      "assertion": "Mari says fires selectively destroyed homes and cultural sites, which she interprets as preparation for controlled reconstruction.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3a84733d9846-c05",
+      "assertion": "Mari alleges owners faced low-price buyouts or property confiscation after the fires.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "disaster claims are source allegations; no corroboration in snapshot"
+  ],
+  "coverage_gaps": [
+    "detailed casualty and animal impacts"
+  ]
+}

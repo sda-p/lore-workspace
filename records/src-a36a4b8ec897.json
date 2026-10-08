@@ -1,0 +1,97 @@
+{
+  "source_id": "src-a36a4b8ec897",
+  "snapshot_sha256": "23af3546106b91fcd09fd953306538b6566e342191658c77b79cf76cb6459905",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a36a4b8ec897-c01",
+      "assertion": "Mari says no near-term public face-to-face contact is planned.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0054",
+        "p0055"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a36a4b8ec897-c02",
+      "assertion": "She says the Federation restricts human contact to writing under its rules.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0150",
+        "p0151"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a36a4b8ec897-c03",
+      "assertion": "She says Federation membership requires planetary cultural integration and interplanetary contact.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0071",
+        "p0072"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a36a4b8ec897-c04",
+      "assertion": "She describes Taygetan alliances across M45 and with the Urmah.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0091",
+        "p0092",
+        "p0093"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a36a4b8ec897-c05",
+      "assertion": "She gives Varena-class length as 81 km and Toleka length as 1,734 m.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0075",
+        "p0076"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "contact-policy",
+    "federation-membership",
+    "ship-scale"
+  ]
+}

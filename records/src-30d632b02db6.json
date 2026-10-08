@@ -1,0 +1,105 @@
+{
+  "source_id": "src-30d632b02db6",
+  "snapshot_sha256": "245e0fbf0c4bae9d5f64fe048917b88ea496b0281caf35e9d73b68a0c4e418cf",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-30d632b02db6-c01",
+      "assertion": "Swaruu of Erra and Mari describe gravity as an etheric flow that forms matter; Mari links it to consciousness.",
+      "speaker": "Swaruu of Erra; Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal model."
+    },
+    {
+      "id": "src-30d632b02db6-c02",
+      "assertion": "Swaruu says Erra and Temmer have 0.8 Earth gravity, while Procyon has 1.2 and Dakoté 0.7.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30d632b02db6-c03",
+      "assertion": "Yazhi says magnetism can imitate gravity at sufficiently high frequency but differs from it.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30d632b02db6-c04",
+      "assertion": "Athena says gravity maps use sensors and formulas to predict changing spatial frequency addresses.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0046",
+        "p0047",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30d632b02db6-c05",
+      "assertion": "Athena says time travel without an existing frequency map is inaccurate or unavailable.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0050",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_physics_claims"
+  ],
+  "coverage_gaps": [
+    "later_gravity_discussion"
+  ]
+}

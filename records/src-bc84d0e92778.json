@@ -1,0 +1,115 @@
+{
+  "source_id": "src-bc84d0e92778",
+  "snapshot_sha256": "d46485814214d7ab0a86463806ded87a0f6a89a25fdcf791520546b23c4a3b2f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bc84d0e92778-c01",
+      "assertion": "Mari says astral parasites attach to people whose thoughts and emotions match their vibration.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc84d0e92778-c02",
+      "assertion": "Mari says music, crystals, water and wind can temporarily dislodge or deter attachments.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc84d0e92778-c03",
+      "assertion": "Mari says meditation and control of thought can stop attachments by ending the patterns that feed them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc84d0e92778-c04",
+      "assertion": "Mari says lower-astral parasites are often egregors formed from personal or collective unconscious patterns.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc84d0e92778-c05",
+      "assertion": "Mari says destructive repetitive thoughts may signal an attachment or telepathic influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "archons-and-demons",
+      "name": "Archons and demons",
+      "kind": "astral-entity",
+      "aliases": [
+        "lower astral entities"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

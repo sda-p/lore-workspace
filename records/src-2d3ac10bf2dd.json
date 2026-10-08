@@ -1,0 +1,101 @@
+{
+  "source_id": "src-2d3ac10bf2dd",
+  "snapshot_sha256": "fc35a264110d5dc4e05eb935b8232cf50bbe86e845ca0dce7f74574fe8bd462f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2d3ac10bf2dd-c01",
+      "assertion": "Za’el says some people dream scenes that later resemble waking events.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "temporal-skipping"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Personal account."
+    },
+    {
+      "id": "src-2d3ac10bf2dd-c02",
+      "assertion": "He says attention to a dream may contribute to manifesting its content.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d3ac10bf2dd-c03",
+      "assertion": "Za’el says a dream may show a timeline different from the one experienced after waking.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d3ac10bf2dd-c04",
+      "assertion": "He describes cause and effect as potentially operating across time in multiple directions.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal model."
+    },
+    {
+      "id": "src-2d3ac10bf2dd-c05",
+      "assertion": "Za’el warns that treating premonitions as fixed can create deterministic thinking.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims",
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "dream_interpretations"
+  ]
+}

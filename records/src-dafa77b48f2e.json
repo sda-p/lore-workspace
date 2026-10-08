@@ -1,0 +1,99 @@
+{
+  "source_id": "src-dafa77b48f2e",
+  "snapshot_sha256": "adb5d6d64c1f5ce83a73d92ae13e104acd6217491669ee458a8557b9b48ae1c6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-dafa77b48f2e-c01",
+      "assertion": "Mari identifies Viera as the Federation’s Earth hub and local jurisdiction center.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "andromeda-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dafa77b48f2e-c02",
+      "assertion": "She says starships entering or leaving Earth must file flight plans with Federation control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dafa77b48f2e-c03",
+      "assertion": "Mari lists Andromedans, Arcturians, Centauri, and Antarians among the highest local Federation ranks.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dafa77b48f2e-c04",
+      "assertion": "She says Urmah remain near Earth to protect interests and escort Taygetan Toleka.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0021"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dafa77b48f2e-c05",
+      "assertion": "Mari reports 927 large starships in Earth orbit at publication.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The source’s stated count."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "other_race_detachments"
+  ]
+}

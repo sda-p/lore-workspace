@@ -1,0 +1,105 @@
+{
+  "source_id": "src-d47a3308dd27",
+  "snapshot_sha256": "02040d38ad486fdbc792fccb5639b4d30656eb74179af37c347c6aaf69021499",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d47a3308dd27-c01",
+      "assertion": "Mari describes the Urmah as a large, empathic feline people from Avyon near Vega.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d47a3308dd27-c02",
+      "assertion": "She says the Urmah maintain their own feline federation and act independently of Federation orders.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d47a3308dd27-c03",
+      "assertion": "Arishah says the Urmah favor clear rules and cooperation but reject unexplained orders.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Interview translated by Mari."
+    },
+    {
+      "id": "src-d47a3308dd27-c04",
+      "assertion": "Arishah says the Urmah and Alpha Draconians fought historically but now maintain diplomatic relations.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0002",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d47a3308dd27-c05",
+      "assertion": "Arishah says Urmah use force when cornered, while preferring diplomacy.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0002",
+        "p0026",
+        "p0027",
+        "p0030"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "interview_part_two"
+  ]
+}

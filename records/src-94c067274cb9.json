@@ -1,0 +1,105 @@
+{
+  "source_id": "src-94c067274cb9",
+  "snapshot_sha256": "6a853c64d5d4a9c69126d5de82d63c8d143796273dc44c0597ec105abedaa501",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-94c067274cb9-c01",
+      "assertion": "Yazhi describes humanity as linked by collective consciousness and shared perception agreements.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94c067274cb9-c02",
+      "assertion": "Yazhi says strong telepathy within a group could reveal enough desires to influence its timeline.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94c067274cb9-c03",
+      "assertion": "Yazhi says such influence reframes existing memories and ideas rather than creating them from nothing.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94c067274cb9-c04",
+      "assertion": "Yazhi describes timelines as thought-based stories sustained by attachment and perception.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94c067274cb9-c05",
+      "assertion": "Yazhi says mental firewalls can resist telepathic intrusion; she links their absence to entity influence.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "collective-timeline-influence",
+      "name": "Collective timeline influence",
+      "kind": "phenomenon",
+      "aliases": [
+        "timeline influence"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "practical exercise requested by interviewer"
+  ]
+}

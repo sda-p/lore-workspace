@@ -1,0 +1,93 @@
+{
+  "source_id": "src-31b05fa92657",
+  "snapshot_sha256": "dfd0693c1fb44dc9f2cb29e7c293506fe6088be19a31264a27411826ce123130",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-31b05fa92657-c01",
+      "assertion": "Mari says starships time-travel by matching destination gravity-energy patterns; spiritually, this is vibrational compatibility.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31b05fa92657-c02",
+      "assertion": "Mari describes multiple potential pasts and futures as existing beyond ordinary linear time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31b05fa92657-c03",
+      "assertion": "Mari says starship engines emulate consciousness by imposing compatible vibration on components.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31b05fa92657-c04",
+      "assertion": "Mari says consciousness manifests reality and a body can function as a vehicle without a starship.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31b05fa92657-c05",
+      "assertion": "Mari limits consciousness-based Pleiadian travel claims to some higher-realm beings, who she says are nonlocal.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "spiritual counsel"
+  ]
+}

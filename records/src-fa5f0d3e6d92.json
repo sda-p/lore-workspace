@@ -1,0 +1,100 @@
+{
+  "source_id": "src-fa5f0d3e6d92",
+  "snapshot_sha256": "a4db28079c197d6ac583d118687967b54ac4c0e497044386434324a3e79560dd",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fa5f0d3e6d92-c01",
+      "assertion": "Swaruu 9 says Toleka quarters have removable wall panels, built-in storage, and replicable furniture.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0012"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa5f0d3e6d92-c02",
+      "assertion": "Anéeka reports low orbit produces about five minutes of daily time drift relative to Earth.",
+      "speaker": "Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa5f0d3e6d92-c03",
+      "assertion": "Anéeka says Toleka orbits Earth in 164 minutes, so crew follow individual rest rhythms.",
+      "speaker": "Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa5f0d3e6d92-c04",
+      "assertion": "Anéeka describes magnetic-flux gravity generation set to 0.8g aboard ship.",
+      "speaker": "Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0066",
+        "p0067",
+        "p0070"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa5f0d3e6d92-c05",
+      "assertion": "Anéeka says Toleka has shipwide AI terminals and maglev transport tubes.",
+      "speaker": "Anéeka of Temmer",
+      "paragraph_ids": [
+        "p0084",
+        "p0085",
+        "p0087",
+        "p0089"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "replicator and gravity-system details"
+  ]
+}

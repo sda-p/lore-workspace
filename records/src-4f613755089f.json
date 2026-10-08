@@ -1,0 +1,95 @@
+{
+  "source_id": "src-4f613755089f",
+  "snapshot_sha256": "d3040df5df5450671b9e9d4dc96e93b13ab4e63c8627ed8166e100b9bacf65fa",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4f613755089f-c01",
+      "assertion": "Mari says Swaruu Oficial carries her direct updates; Robert and Gosia share complementary information from other crew members.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f613755089f-c02",
+      "assertion": "Queen Alenym mentors Mari in Taygetan politics and exopolitics; Zaikira teaches engineering.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f613755089f-c03",
+      "assertion": "Mari identifies Anna as Anéeka’s reincarnation but says Anna has a distinct personality.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f613755089f-c04",
+      "assertion": "Her crew depends on Earth food and technology; its supply ship brings no human goods, and Taygetan plant foods poorly suit some.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f613755089f-c05",
+      "assertion": "Mari says the Federation stopped funding Earth operations, so she must monetize her channel to support crew needs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "contact-organization",
+    "crew-supply"
+  ]
+}

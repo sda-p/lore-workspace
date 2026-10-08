@@ -1,0 +1,98 @@
+{
+  "source_id": "src-fd364b9ee561",
+  "snapshot_sha256": "e3964f1593afe01f0dbbdc8c5d1e91a2f599885f8f771e1893beaa73ad49d820",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fd364b9ee561-c01",
+      "assertion": "Mari says two Taygetan couples, aged 20–24, arrived from Temmer’s academy in fighter craft.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd364b9ee561-c02",
+      "assertion": "They join Toleka’s 28-person crew as pilots for protection; Mari denies any plan for aggression.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd364b9ee561-c03",
+      "assertion": "The newcomers had never visited Earth or learned human languages; Taygetan speech combines words with telepathic meaning.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd364b9ee561-c04",
+      "assertion": "Mari says Etorthans planned a Federation audit of Earth-orbit races; she links past audits to later bad events.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "etorthans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd364b9ee561-c05",
+      "assertion": "Aydan expected a human phone to project a holographic interface and found its touch screen primitive.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "new-crew-profiles"
+  ]
+}

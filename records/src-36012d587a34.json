@@ -1,0 +1,97 @@
+{
+  "source_id": "src-36012d587a34",
+  "snapshot_sha256": "a89496e71fcf44d273eed0c565df0ab1b2f9d46e8e0821245dea5745e9534703",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-36012d587a34-c01",
+      "assertion": "Yazhi describes Suzy as a 93-meter fighter with two floors, seven seats, and compact living space.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0016",
+        "p0025"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36012d587a34-c02",
+      "assertion": "Yazhi says Suzy’s cockpit uses transparent polymorphous titanium and repositionable holographic displays.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36012d587a34-c03",
+      "assertion": "Yazhi describes two zero-point reactors powering counter-rotating electromagnetic plasma turbines.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0037"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36012d587a34-c04",
+      "assertion": "Yazhi says magnetic-frequency generators provide artificial gravity and cancel hull forces.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0038"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36012d587a34-c05",
+      "assertion": "Athena says Sand Clock is an elite 12-fighter squadron trained in temporal operations; Suzys use classified, reinforced materials.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0062",
+        "p0064"
+      ],
+      "primary_topic": "sand-clock",
+      "topics": [
+        "sand-clock",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "cargo and living area layout"
+  ]
+}

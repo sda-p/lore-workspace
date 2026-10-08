@@ -1,0 +1,104 @@
+{
+  "source_id": "src-d6ad19833be1",
+  "snapshot_sha256": "39daec965c7a282dd6f3b5ddad6b958714660a8853511a5d9fd5346234878f2a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d6ad19833be1-c01",
+      "assertion": "Gosia says personal beliefs define individual reality; shared agreements create collective reality.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d6ad19833be1-c02",
+      "assertion": "She says authorities shape collective agreements by filtering information through media, science, and institutions.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d6ad19833be1-c03",
+      "assertion": "Gosia says perception is constrained by available knowledge, so wider context can expand experienced reality.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d6ad19833be1-c04",
+      "assertion": "She says controllers use collective beliefs to shape what people manifest, thereby maintaining Earth’s Matrix.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0023",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d6ad19833be1-c05",
+      "assertion": "Gosia cites a 1981 aging experiment as evidence that beliefs can produce biological changes.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "institutional examples",
+    "Matrix definition"
+  ]
+}

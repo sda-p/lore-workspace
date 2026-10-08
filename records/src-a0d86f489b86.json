@@ -1,0 +1,113 @@
+{
+  "source_id": "src-a0d86f489b86",
+  "snapshot_sha256": "93af1e1c8f21cbae59c0b28c2c7fd81797ab81e09b9c251cd056f48cec9612af",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a0d86f489b86-c01",
+      "assertion": "Mari Swaruu says past-life memory is common beyond Earth, rare on Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0d86f489b86-c02",
+      "assertion": "Mari Swaruu links forgetting to frequency gaps and soul choices.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0d86f489b86-c03",
+      "assertion": "Mari Swaruu defines walk-ins as souls replacing another in a body.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Natural or technological causes."
+    },
+    {
+      "id": "src-a0d86f489b86-c04",
+      "assertion": "Mari Swaruu says immersion technology can manipulate walk-ins’ beliefs and plans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0d86f489b86-c05",
+      "assertion": "Mari Swaruu warns contact may disrupt starseed plans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0d86f489b86-c06",
+      "assertion": "Mari Swaruu alleges groups use altered photos and implanted memories to gaslight the immersed.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She implicates regressive forces and some Federation members."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical_claims_attributed"
+  ],
+  "coverage_gaps": [
+    "memory-model",
+    "intervention-risks"
+  ]
+}

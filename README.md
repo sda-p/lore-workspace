@@ -12,7 +12,7 @@ A source-linked research wiki for designing an original conspiracy-themed grand 
 
 The pilot contains 20 transcript records, including two candidate English/Spanish pairs. Collection continues through successive cohorts; the current reviewed totals and remaining inventory are recorded in the progress report. Records capture compact core claims rather than every detail.
 
-Successive cohorts are recorded under `work/cohorts/`, with immutable worker and review assignments under `work/batches/<cohort-id>/`. Four Luna extractors and two independent Luna reviewers process each cohort. Only reviewed records appear in the generated wiki. Exact snapshot duplicates can be skipped; translations and revisions require content comparison. See `scripts/continuous.py` and the progress report for resume commands.
+Successive cohorts are recorded under `work/cohorts/`, with immutable worker and review assignments under `work/batches/<cohort-id>/`. Four Luna extractors and two independent Luna reviewers process each cohort. Only reviewed records appear in the generated wiki. JSON records are drafts until their ledger status is `reviewed`. Exact snapshot duplicates can be skipped; translations and revisions require content comparison. See `scripts/continuous.py` and the progress report for resume commands.
 
 ## Data and workflow
 

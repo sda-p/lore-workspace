@@ -1,0 +1,112 @@
+{
+  "source_id": "src-5bc178cc541f",
+  "snapshot_sha256": "a518a5dcd66cf71f5a4cf16246c2b36fc791be54c5523a161fb7e2650938b325",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5bc178cc541f-c01",
+      "assertion": "Mari says Grays have 165 variants; Orion types are often regressive, Zeta usually benign.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5bc178cc541f-c02",
+      "assertion": "She says most Grays have botanical biology, with reptilian and amphibian variants.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5bc178cc541f-c03",
+      "assertion": "She says Zeta Gardeners preserve DNA, seed planets, and abduct humans for repairs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5bc178cc541f-c04",
+      "assertion": "She describes Gardeners as botanical, spore-reproducing, sexless, and telepathic.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5bc178cc541f-c05",
+      "assertion": "Maitre are reportedly Reptilian Tall Grays engineered by Dracos as slaves before rebelling.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5bc178cc541f-c06",
+      "assertion": "Mari doubts Maitre claims, suggesting Earth/Mars reports may reflect a fear-based egregor.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "maitre_claims_conflicting_and_uncertain"
+  ],
+  "coverage_gaps": [
+    "Maitre_political_claims"
+  ]
+}

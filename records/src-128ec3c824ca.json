@@ -1,0 +1,100 @@
+{
+  "source_id": "src-128ec3c824ca",
+  "snapshot_sha256": "36a36cb2fdb485f0ec50424b7d2bf43477f31b4a214de0a3e807f34c6d8fb02e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-128ec3c824ca-c01",
+      "assertion": "Mari says earlier claims that Taygeta had very few men were false.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-128ec3c824ca-c02",
+      "assertion": "She describes Taygetan society as balanced, with men and women participating in any social role.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-128ec3c824ca-c03",
+      "assertion": "Mari estimates women exceed men by no more than ten percent, mostly because women live longer.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-128ec3c824ca-c04",
+      "assertion": "She says Taygetans view gender roles as complementary without ranking either gender above the other.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-128ec3c824ca-c05",
+      "assertion": "Mari says both genders can manufacture their own items by machine or hand.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0022"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims",
+    "contradicts_prior_public_claims"
+  ],
+  "coverage_gaps": [
+    "origin_of_earlier_claims"
+  ]
+}

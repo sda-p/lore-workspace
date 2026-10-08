@@ -810,6 +810,56 @@ Source: [Crop Circles - Main Purpose - Short Chat with Swaruu of Erra](https://s
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-a474dfd5dd80-c04
+
+She says time travel and hyperspace travel are equivalent, with ethical risks from timeline changes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Time, timelines, Star-ships and your Mind. (English)](https://swaruu.org/transcripts/time-timelines-star-ships-and-your-mind-english) (2023-05-26; en); passages p0033, p0036, p0037. [Structured record](../../records/src-a474dfd5dd80.json).
+
+### src-15ba6ed0a80c-c05
+
+Anéeka says solar portals connect through the Sun and ships travel by frequency jumps, not warped space.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka of Temmer - Puma Punku, Machu Picchu and more - Extraterrestrial Bases](https://swaruu.org/transcripts/aneeka-of-temmer-puma-punku-machu-picchu-and-more-extraterrestrial-bases) (2023-04-18; en); passages p0052, p0054, p0055, p0058, p0059. [Structured record](../../records/src-15ba6ed0a80c.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-4781604621b1-c03
+
+She describes hyperspace as destination-frequency matching inside an energy toroid.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The strange phenomena of Dimensional Mirroring (English)](https://swaruu.org/transcripts/the-strange-phenomena-of-dimensional-mirroring-english) (2023-05-24; en); passages p0018, p0019. [Structured record](../../records/src-4781604621b1.json).
+
+### src-788871b703a3-c03
+
+Mari describes starship time travel as matching a destination’s frequency inside an electromagnetic toroid.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time Travel and why Timelines don't really exist. (English)](https://swaruu.org/transcripts/time-travel-and-why-timelines-don-t-really-exist-english) (2023-06-01; en); passages p0016, p0017, p0018. [Structured record](../../records/src-788871b703a3.json).
+
+### src-788871b703a3-c04
+
+She says space travel and time travel share frequency-based navigation without distance or temporal spans.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Time Travel and why Timelines don't really exist. (English)](https://swaruu.org/transcripts/time-travel-and-why-timelines-don-t-really-exist-english) (2023-06-01; en); passages p0019, p0020, p0022. [Structured record](../../records/src-788871b703a3.json).
+
+### src-4c18957bd2f2-c06
+
+Yazhi says extraterrestrial navigation uses frequency maps, not light-year distances.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-minitopics-with-gosia-cosmic-agency) (2023-03-14; en); passages p0111, p0112, p0114, p0116, p0117, p0120. [Structured record](../../records/src-4c18957bd2f2.json).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -844,6 +894,10 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - [src-c07ce04540a6-c02](terrestrial-science.md#src-c07ce04540a6-c02) — Terrestrial science
 - [src-21a9a4dacb59-c04](natural-portals.md#src-21a9a4dacb59-c04) — Natural and artificial portals
 - [src-78f6779f9011-c03](taygetans.md#src-78f6779f9011-c03) — Taygetans
+- [src-a474dfd5dd80-c03](starship-systems.md#src-a474dfd5dd80-c03) — Starship systems
+- [src-4781604621b1-c02](dimensional-mirroring.md#src-4781604621b1-c02) — Dimensional mirroring
+- [src-0700efa54ddc-c03](natural-portals.md#src-0700efa54ddc-c03) — Natural and artificial portals
+- [src-6d89e231f729-c02](frequency-astrology.md#src-6d89e231f729-c02) — Frequency-based astrology
 
 ## Review flags
 
@@ -852,6 +906,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - cern-portal-claim
 - comparative\_technology\_claims
 - conflicting\_primary\_purpose\_claims
+- conspiracy\_claims
 - contested-space-history-allegation
 - contested\_archaeology
 - coverage: climate and architecture
@@ -863,6 +918,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - ether\_model
 - ethical\_use\_limits
 - extraordinary\_archaeological\_claims
+- extraordinary\_astronomical\_claims
 - extraordinary\_civilization\_claims
 - extraordinary\_claims
 - extraordinary\_cosmology\_claims
@@ -876,7 +932,10 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - multiple\_futures\_claim
 - nonstandard\_astrophysics\_claims
 - past-editing-metaphysical-claim
+- personal\_metaphysics
+- phenomenon\_not\_fully\_understood
 - procedure-description
+- related\_series\_part
 - secret\_ship\_capability\_claims
 - space\_suit\_claims\_unverified
 - species\_specific\_reproduction
@@ -889,6 +948,9 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - translated\_source
 - unmapped\_regions\_and\_return\_risk
 - unverified\_ancient\_technology\_claims
+- unverified\_archaeology
 - unverified\_cosmology\_and\_technology
+- unverified\_extraterrestrial\_claims
 - unverified\_extraterrestrial\_technology\_claims
 - unverified\_technical\_claims
+- unverified\_time\_travel\_claims

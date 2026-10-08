@@ -1,0 +1,108 @@
+{
+  "source_id": "src-cff930fb7cbd",
+  "snapshot_sha256": "90d2a487b7142dd88ababd4d03be9ef8e6cdb7e4c658ce2c0ca25dfef8837c2d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cff930fb7cbd-c01",
+      "assertion": "Mari says Taygetan society spans four planets and the Cyndriel colony.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cff930fb7cbd-c02",
+      "assertion": "She describes Temmer and Erra as habitable worlds with cooperative ecosystems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cff930fb7cbd-c03",
+      "assertion": "Mari says nested councils govern regions and allow residents to volunteer in deliberations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0011"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cff930fb7cbd-c04",
+      "assertion": "She estimates 38 million residents across five worlds and says resources are abundant without money.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cff930fb7cbd-c05",
+      "assertion": "Mari says community work, schooling, and military service are generally voluntary.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0020",
+        "p0022",
+        "p0025"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "daily_life_details"
+  ]
+}

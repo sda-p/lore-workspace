@@ -1,0 +1,111 @@
+{
+  "source_id": "src-4781604621b1",
+  "snapshot_sha256": "b44638cadc474aa43d08e39682d7b495bdf58fd80b42204f411fa4938b3b3d54",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4781604621b1-c01",
+      "assertion": "Mari says events or people may repeat across isolated realms, from mishaps to longer chains.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0013"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4781604621b1-c02",
+      "assertion": "She says time jumps can duplicate crews, with both versions experiencing mirrored events.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4781604621b1-c03",
+      "assertion": "She describes hyperspace as destination-frequency matching inside an energy toroid.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4781604621b1-c04",
+      "assertion": "She proposes repeated frequency patterns or quantum entanglement, but says the effect is poorly understood.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4781604621b1-c05",
+      "assertion": "She says similar-looking people on Earth and in space may share a soul connection.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "dimensional-mirroring",
+      "name": "Dimensional mirroring",
+      "kind": "cosmology",
+      "aliases": [
+        "mirroring effect"
+      ]
+    }
+  ],
+  "review_flags": [
+    "phenomenon_not_fully_understood"
+  ],
+  "coverage_gaps": [
+    "photographic_context"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_id": "src-6473c7769615",
+  "snapshot_sha256": "5030484d33ea2d9d1101319ddaca2e91e255348428a1d93dcdf4a6697cf3a960",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6473c7769615-c01",
+      "assertion": "Mari says Anna is Anéeka’s immediate past life and that Anna’s extraction followed severe family hardship.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0042",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6473c7769615-c02",
+      "assertion": "Mari says Kita and Beth are the same soul, with Beth reincarnating after Kita died.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0045",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6473c7769615-c03",
+      "assertion": "Mari says reincarnations are non-linear and can coexist in the same period.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0048"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6473c7769615-c04",
+      "assertion": "Mari says repeating unresolved patterns can make later lives harder and advises forgiveness to avoid renewed pain.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6473c7769615-c05",
+      "assertion": "Mari says Anna was the last Toleka crew member extracted from Earth; command then stopped further extractions after major problems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0043"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

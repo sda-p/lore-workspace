@@ -1,0 +1,131 @@
+{
+  "source_id": "src-ffbe2c126c1a",
+  "snapshot_sha256": "2543633c34ebf2f042448d2fd4dfdf551cc1bc890860821b40d5f77757714cdd",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ffbe2c126c1a-c01",
+      "assertion": "Alternate selves inform a person but provide no prescription.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffbe2c126c1a-c02",
+      "assertion": "Psychics mainly see their own timelines and filter others’ futures.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffbe2c126c1a-c03",
+      "assertion": "Seers connect to compatible-frequency entities; some are charlatans.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffbe2c126c1a-c04",
+      "assertion": "Athena speculates a prophetic visitor may have been the person’s own self.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffbe2c126c1a-c05",
+      "assertion": "Athena describes cross-timeline and body-linked unconscious levels.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffbe2c126c1a-c06",
+      "assertion": "She defines channeling as telepathic information flow vulnerable to misinterpretation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffbe2c126c1a-c07",
+      "assertion": "Swaruu says predictions reflect the seer’s timeline and may be wrong.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "psychic-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "psychic-perception",
+    "channeling",
+    "timelines"
+  ]
+}

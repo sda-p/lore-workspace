@@ -1,0 +1,125 @@
+{
+  "source_id": "src-8a20bf02262a",
+  "snapshot_sha256": "b5891588b24537b99472c285d9390d801fd9911523382b882d02db7f92942b90",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8a20bf02262a-c01",
+      "assertion": "Anéeka says Hashmallim and Shinonim are Taygetan special-forces units.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a20bf02262a-c02",
+      "assertion": "Anéeka says “Hashmallim” means “those who shine” in Taygetan.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "taygetan-language"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a20bf02262a-c03",
+      "assertion": "Dhor Káal’el describes Hashmallim as elite forces whose members hold an archangel honorary rank.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a20bf02262a-c04",
+      "assertion": "Dhor says Hashmallim use modern military gear and historic force-field shields.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a20bf02262a-c05",
+      "assertion": "Anéeka says direct-operation units use armored suits unavailable to human-bodied stepdowns.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a20bf02262a-c06",
+      "assertion": "Khila says Hashmallim deploy by ship and helicopter-style landing, then receive ship extraction.",
+      "speaker": "Khila",
+      "paragraph_ids": [
+        "p0048",
+        "p0052"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "hashmallim",
+      "name": "Hashmallim",
+      "kind": "faction",
+      "aliases": [
+        "Taygeta Special Forces"
+      ]
+    }
+  ],
+  "review_flags": [
+    "military-claims_attributed"
+  ],
+  "coverage_gaps": [
+    "operations",
+    "rank-system"
+  ]
+}

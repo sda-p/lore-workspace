@@ -1,0 +1,105 @@
+{
+  "source_id": "src-b2a05f16c59d",
+  "snapshot_sha256": "6c3beb8ec24ac5c75b393464899ed1f78dcdbe54fc5c891c8b0c9efac4b49e20",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b2a05f16c59d-c01",
+      "assertion": "Mari warns readers not to fill gaps in historical evidence with their own theories.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a05f16c59d-c02",
+      "assertion": "She claims Earth history contains manipulated chronology and omitted evidence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a05f16c59d-c03",
+      "assertion": "Mari says time-jumping ships use mass and frequency maps rather than calendar dates.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a05f16c59d-c04",
+      "assertion": "She says time travel may lead to alternative timelines and uncertain locations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a05f16c59d-c05",
+      "assertion": "Mari says stellar societies may also live within manipulated historical narratives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_historical_claims",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "case_studies"
+  ]
+}

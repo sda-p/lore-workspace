@@ -1,0 +1,106 @@
+{
+  "source_id": "src-59be34c07758",
+  "snapshot_sha256": "980987d8257b83594d59abc4c245bc5d979889b179d2a73b7ef60f4ef26f7670",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-59be34c07758-c01",
+      "assertion": "Athena reports astral MILAB activity but says concrete evidence is unavailable.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59be34c07758-c02",
+      "assertion": "She says surveillance drones mainly detect material activity, not the full astral spectrum.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59be34c07758-c03",
+      "assertion": "Athena says astral military groups may oppose one another and can influence physical events.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59be34c07758-c04",
+      "assertion": "She says Taygetans Yazhi, Mari, and Alenym conduct astral defense of their ship.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59be34c07758-c05",
+      "assertion": "Yazhi advises practicing imagined astral defenses and commanding unwanted experiences to stop.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0068",
+        "p0070",
+        "p0071",
+        "p0073",
+        "p0075",
+        "p0079"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-paranormal-claims"
+  ],
+  "coverage_gaps": [
+    "astral-military",
+    "detection-limitations"
+  ]
+}

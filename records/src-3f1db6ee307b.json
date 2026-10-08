@@ -1,0 +1,104 @@
+{
+  "source_id": "src-3f1db6ee307b",
+  "snapshot_sha256": "51a6dff4256cc588117dd239bb3d076b2d4b0662a035664721c0bb5160ae90e9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3f1db6ee307b-c01",
+      "assertion": "Mari presents awareness levels as tentative perspectives and says no person is inherently superior.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f1db6ee307b-c02",
+      "assertion": "In her model, levels 1–2 follow social norms and institutions; level 3 turns to spirituality and extraterrestrial groups, often seeking leaders.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0012",
+        "p0017",
+        "p0018",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f1db6ee307b-c03",
+      "assertion": "She alleges organized spiritual and UFO groups may act as intelligence-controlled opposition.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f1db6ee307b-c04",
+      "assertion": "Her level-4 model favors independent research, rejects blind leaders, and adapts communication to others’ awareness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f1db6ee307b-c05",
+      "assertion": "Mari says level-4 people identify as extraterrestrial and see reality as personally shaped rather than absolute.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "level-model-detail"
+  ]
+}

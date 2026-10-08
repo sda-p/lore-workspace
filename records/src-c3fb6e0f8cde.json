@@ -1,0 +1,105 @@
+{
+  "source_id": "src-c3fb6e0f8cde",
+  "snapshot_sha256": "154650ed9583dfe976615b2c4b185e284f5587aea766b0ad5027262add203609",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c3fb6e0f8cde-c01",
+      "assertion": "Mari defines demons as narcissistic lower-astral beings that exploit others.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified paranormal claim."
+    },
+    {
+      "id": "src-c3fb6e0f8cde-c02",
+      "assertion": "She says some demons form from disincarnate people with strong material attachments.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3fb6e0f8cde-c03",
+      "assertion": "Mari says entities can influence people only when their frequencies are compatible.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3fb6e0f8cde-c04",
+      "assertion": "She says sustained fear can make a person vulnerable to lower-astral influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3fb6e0f8cde-c05",
+      "assertion": "Mari says repetitive thoughts may become personality traits that shape perceived realms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "later_entity_taxonomy"
+  ]
+}

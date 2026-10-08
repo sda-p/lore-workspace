@@ -1,0 +1,112 @@
+{
+  "source_id": "src-4bcc1973bc1e",
+  "snapshot_sha256": "d992dc11be61ac40f1587e4b1dabb3bd760e880b62bc5818fd4d636cc77ce449",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4bcc1973bc1e-c01",
+      "assertion": "Mari Swa says 120 Moghyay were captured, returned to Temmer.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0009"
+      ],
+      "primary_topic": "moghyay",
+      "topics": [
+        "moghyay",
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "83 adults, 37 young."
+    },
+    {
+      "id": "src-4bcc1973bc1e-c02",
+      "assertion": "Mari Swa says the birds delivered an engineered pathogen used in an attack on Alenym.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "moghyay",
+      "topics": [
+        "moghyay",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Her allegation."
+    },
+    {
+      "id": "src-4bcc1973bc1e-c03",
+      "assertion": "Mari Swa says disinfecting Toleka’s park with treated water strained recycling systems and depleted water.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bcc1973bc1e-c04",
+      "assertion": "Mari Swa says the Hashmallim and Shinonim used nets and antigravity boots to capture the birds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She identifies the units as male and female special forces."
+    },
+    {
+      "id": "src-4bcc1973bc1e-c05",
+      "assertion": "Mari Swa says some Lyrian visitors enter Earth to forget past lives.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "moghyay",
+      "name": "Moghyay",
+      "kind": "species",
+      "aliases": [
+        "Moghyay birds"
+      ]
+    },
+    {
+      "id": "hashmallim",
+      "name": "Hashmallim",
+      "kind": "faction",
+      "aliases": [
+        "Taygeta Special Forces"
+      ]
+    }
+  ],
+  "review_flags": [
+    "pathogen-claim_attributed"
+  ],
+  "coverage_gaps": [
+    "bird-capture",
+    "disinfection"
+  ]
+}

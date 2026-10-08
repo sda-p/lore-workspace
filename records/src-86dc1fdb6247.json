@@ -1,0 +1,94 @@
+{
+  "source_id": "src-86dc1fdb6247",
+  "snapshot_sha256": "9c8b10e0a18913cab45e17b89bbec9b198f383667fb071ce30a8426fad2afcd8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-86dc1fdb6247-c01",
+      "assertion": "Mari says the Prime Directive limits her to written messages using human-level technology and forbids direct proof.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-86dc1fdb6247-c02",
+      "assertion": "Mari says human-like people live across space and Earth supplies her crew’s food and other needs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-86dc1fdb6247-c03",
+      "assertion": "Mari says her crew buys Earth goods because taking them or replicating money would violate its ethics.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-86dc1fdb6247-c04",
+      "assertion": "Mari reports the Federation ended Taygetan operational funding, which she links to their disobedient communications.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-86dc1fdb6247-c05",
+      "assertion": "Mari says interstellar ideas and human ideas have seeded each other across societies for millennia.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "media production details"
+  ]
+}

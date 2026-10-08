@@ -1,0 +1,98 @@
+{
+  "source_id": "src-378a8741723b",
+  "snapshot_sha256": "3838f87bc16d9791e5882850aac1f2b9d1e680e0a6d2799ad1cdc7a42a1ecb4b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-378a8741723b-c01",
+      "assertion": "Mari says Taygetan replicators produce nonliving inorganic objects but not nutritious food.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-378a8741723b-c02",
+      "assertion": "She says clothing replicators scan garments, let users edit designs, then print replacements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-378a8741723b-c03",
+      "assertion": "Mari describes clothing machines as altering base dust through micro-holograms and gravity control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-378a8741723b-c04",
+      "assertion": "She says advanced replicators can manufacture complex materials and ship spare parts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-378a8741723b-c05",
+      "assertion": "Mari says exact copies require a source object to scan, and products are designed for long service life.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0021"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_technology_claims"
+  ],
+  "coverage_gaps": [
+    "makeup_and_hair_devices"
+  ]
+}

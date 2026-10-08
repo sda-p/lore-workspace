@@ -1,0 +1,111 @@
+{
+  "source_id": "src-8c8d4905d738",
+  "snapshot_sha256": "d73672f63213c32e5051ba90a6cc50bdce62d912360e81ed027a86f29e591500",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8c8d4905d738-c01",
+      "assertion": "Mari Swa says all three popular accounts of the Federation contain some truth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8c8d4905d738-c02",
+      "assertion": "Mari Swa says Federation hierarchy is compartmentalized, with lower bodies awaiting inaccessible higher approval.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8c8d4905d738-c03",
+      "assertion": "Mari Swa considers an Orion-linked takeover of the Federation highly probable.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-wars"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8c8d4905d738-c04",
+      "assertion": "Mari Swa says Federation fleets use member-race ships rather than a single Federation-owned force.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8c8d4905d738-c05",
+      "assertion": "Mari Swa describes Saturn as a hub for hostile Federation forces.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Her assessment."
+    },
+    {
+      "id": "src-8c8d4905d738-c06",
+      "assertion": "Mari Swa says the Urmah sent a task force to understand and confront the local situation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-claims_attributed"
+  ],
+  "coverage_gaps": [
+    "federation-hierarchy",
+    "saturn-claims"
+  ]
+}

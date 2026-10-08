@@ -1,0 +1,106 @@
+{
+  "source_id": "src-d10c5f67b6bd",
+  "snapshot_sha256": "f47b9c4715506bf623f5b8471f20a27fcb1e85022ae46d3df123773179f9fa92",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d10c5f67b6bd-c01",
+      "assertion": "Yazhi says Matrix manifestations—including documents, memories, and matter—arise from personal and collective perceptions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0012",
+        "p0015",
+        "p0026"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d10c5f67b6bd-c02",
+      "assertion": "She says Matrix narratives may fill gaps when observed, using explanations compatible with observers’ understanding.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0040",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d10c5f67b6bd-c03",
+      "assertion": "Yazhi links Mandela-effect memories to collective-unconscious changes and differing frequency-based timelines.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0049",
+        "p0051",
+        "p0052",
+        "p0055"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d10c5f67b6bd-c04",
+      "assertion": "She says human bodies and immersion machines filter awareness to Earth-Matrix frequencies, limiting access to other memories.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0059",
+        "p0061"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d10c5f67b6bd-c05",
+      "assertion": "Yazhi says lower entities perceive people only partly during frequency overlap and use tactics to lower their vibration.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0063",
+        "p0067",
+        "p0069",
+        "p0072",
+        "p0073"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Matrix mechanics",
+    "entity taxonomy"
+  ]
+}

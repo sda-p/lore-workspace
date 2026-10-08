@@ -1,0 +1,98 @@
+{
+  "source_id": "src-c3a62baab84f",
+  "snapshot_sha256": "e0589ddaa72be412a63cfb5670c762156157be74cf8414e27c4a3944d41d96fb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c3a62baab84f-c01",
+      "assertion": "Mari says density is individual awareness, not place or a measurable frequency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3a62baab84f-c02",
+      "assertion": "She rejects fixed 3D/4D/5D realms, treating them as ideas and group agreements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3a62baab84f-c03",
+      "assertion": "She says 5D means awareness, gratitude, and seeing others as reflections of oneself.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3a62baab84f-c04",
+      "assertion": "Mari says fear-driven overthinking can sustain survival-focused materiality and hinder spiritual growth; real danger still needs caution.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3a62baab84f-c05",
+      "assertion": "She says higher awareness brings empathy and understanding, but no person is absolutely more evolved.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "density_transition_examples"
+  ]
+}

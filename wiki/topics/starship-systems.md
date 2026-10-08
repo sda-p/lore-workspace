@@ -1426,6 +1426,298 @@ Source: [Yazhi and child’s play (English)](https://swaruu.org/transcripts/yazh
 
 Related topics: [Holistic society](holistic-society.md).
 
+### src-a474dfd5dd80-c03
+
+Mari says a starship can use a toroidal field and frequency map to reach a destination in space or time.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Time, timelines, Star-ships and your Mind. (English)](https://swaruu.org/transcripts/time-timelines-star-ships-and-your-mind-english) (2023-05-26; en); passages p0030, p0031, p0032, p0034, p0035. [Structured record](../../records/src-a474dfd5dd80.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-c35bd2ccba2f-c05
+
+Mari says immersion pods can tune a person’s mind to astral realms or another body.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Star Seeds. Part 8, Astral Projection, Astral Abductions and Night Soul Missions, Part 2. (English)](https://swaruu.org/transcripts/star-seeds-part-8-astral-projection-astral-abductions-and-night-soul-missions-part-2-english) (2023-08-06; en); passages p0020, p0021. [Structured record](../../records/src-c35bd2ccba2f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-378a8741723b-c01
+
+Mari says Taygetan replicators produce nonliving inorganic objects but not nutritious food.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan Technology 02, industrial replicators, clothes and makeup. (English)](https://swaruu.org/transcripts/taygetan-technology-02-industrial-replicators-clothes-and-makeup-english) (2023-02-24; en); passages p0005, p0006. [Structured record](../../records/src-378a8741723b.json).
+
+### src-378a8741723b-c02
+
+She says clothing replicators scan garments, let users edit designs, then print replacements.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan Technology 02, industrial replicators, clothes and makeup. (English)](https://swaruu.org/transcripts/taygetan-technology-02-industrial-replicators-clothes-and-makeup-english) (2023-02-24; en); passages p0007, p0008, p0009. [Structured record](../../records/src-378a8741723b.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-378a8741723b-c03
+
+Mari describes clothing machines as altering base dust through micro-holograms and gravity control.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan Technology 02, industrial replicators, clothes and makeup. (English)](https://swaruu.org/transcripts/taygetan-technology-02-industrial-replicators-clothes-and-makeup-english) (2023-02-24; en); passages p0010, p0011. [Structured record](../../records/src-378a8741723b.json).
+
+### src-378a8741723b-c04
+
+She says advanced replicators can manufacture complex materials and ship spare parts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan Technology 02, industrial replicators, clothes and makeup. (English)](https://swaruu.org/transcripts/taygetan-technology-02-industrial-replicators-clothes-and-makeup-english) (2023-02-24; en); passages p0012, p0013, p0015, p0016. [Structured record](../../records/src-378a8741723b.json).
+
+### src-378a8741723b-c05
+
+Mari says exact copies require a source object to scan, and products are designed for long service life.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan Technology 02, industrial replicators, clothes and makeup. (English)](https://swaruu.org/transcripts/taygetan-technology-02-industrial-replicators-clothes-and-makeup-english) (2023-02-24; en); passages p0017, p0021. [Structured record](../../records/src-378a8741723b.json).
+
+### src-176e90b7dd77-c02
+
+She describes dry pods or sensory-isolation chambers as temporarily raising a person’s frequency.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Astral Parasites Removal Machines - Questions from Interviewers - Yazhi Swaruu](https://swaruu.org/transcripts/astral-parasites-removal-machines-questions-from-interviewers-yazhi-swaruu) (2023-05-31; en); passages p0009, p0010, p0012. [Structured record](../../records/src-176e90b7dd77.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4841bb6f5d40-c02
+
+Mari describes Toleka as a 1,734-meter steel-and-titanium ship with 180-minute days and simulated day-night cycles.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Why Minecraft, Pool Area and Main Garden (English)](https://swaruu.org/transcripts/why-minecraft-pool-area-and-main-garden-english) (2023-01-27; en); passages p0006, p0010. [Structured record](../../records/src-4841bb6f5d40.json).
+
+### src-4841bb6f5d40-c03
+
+Seven crew members built a walkable Minecraft map of Toleka for recreation; the full map was later classified sensitive.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Why Minecraft, Pool Area and Main Garden (English)](https://swaruu.org/transcripts/why-minecraft-pool-area-and-main-garden-english) (2023-01-27; en); passages p0012, p0013, p0014, p0016. [Structured record](../../records/src-4841bb6f5d40.json).
+
+### src-4841bb6f5d40-c04
+
+Toleka’s living areas include gyms, dance rooms, pools, a park, and windows overlooking space.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Why Minecraft, Pool Area and Main Garden (English)](https://swaruu.org/transcripts/why-minecraft-pool-area-and-main-garden-english) (2023-01-27; en); passages p0018, p0020, p0021, p0023, p0030, p0032. [Structured record](../../records/src-4841bb6f5d40.json).
+
+### src-4841bb6f5d40-c05
+
+Mari says ship lighting and generators simulate sunlight, day cycles, wind, rain, and fog for people and plants.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Why Minecraft, Pool Area and Main Garden (English)](https://swaruu.org/transcripts/why-minecraft-pool-area-and-main-garden-english) (2023-01-27; en); passages p0010, p0021, p0032. [Structured record](../../records/src-4841bb6f5d40.json).
+
+### src-b2709e04b582-c01
+
+Mari describes replicators as scanning originals and printing copies from a limited molecular inventory.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Beware of Replicated Food (English)](https://swaruu.org/transcripts/beware-of-replicated-food-english) (2023-07-17; en); passages p0010, p0012, p0013. [Structured record](../../records/src-b2709e04b582.json).
+
+### src-b2709e04b582-c02
+
+She says replication substitutes unavailable materials, leaving food copies without nutrients and potentially toxic.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Beware of Replicated Food (English)](https://swaruu.org/transcripts/beware-of-replicated-food-english) (2023-07-17; en); passages p0011, p0014, p0015. [Structured record](../../records/src-b2709e04b582.json).
+
+### src-b2709e04b582-c03
+
+Mari says nutrient molecules such as vitamins can print as unusable mirror-image versions.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Beware of Replicated Food (English)](https://swaruu.org/transcripts/beware-of-replicated-food-english) (2023-07-17; en); passages p0016, p0017. [Structured record](../../records/src-b2709e04b582.json).
+
+### src-b2709e04b582-c05
+
+Mari says replicated food is unlabeled and cannot be identified without laboratory testing.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Beware of Replicated Food (English)](https://swaruu.org/transcripts/beware-of-replicated-food-english) (2023-07-17; en); passages p0021. [Structured record](../../records/src-b2709e04b582.json).
+
+### src-99597b7d630f-c02
+
+She says ships coordinate extraction times and locations, then land to receive people or vehicles.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 1 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-1-english) (2023-07-15; en); passages p0006, p0007. [Structured record](../../records/src-99597b7d630f.json).
+
+### src-99597b7d630f-c06
+
+Mari says shipboard life can become claustrophobic, so crews and newcomers must be selected carefully.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extractions and their problems. Part 1 (English)](https://swaruu.org/transcripts/extractions-and-their-problems-part-1-english) (2023-07-15; en); passages p0028, p0029, p0030, p0031. [Structured record](../../records/src-99597b7d630f.json).
+
+### src-1c448d07c8c4-c01
+
+Anéeka describes Toleka-class cruisers as modular multipurpose ships, unlike battlefield-focused Alcyone-class ships.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 1 - Toleka - Taygeta Starship (Pleiades)](https://swaruu.org/transcripts/interstellar-life-1-toleka-taygeta-starship-pleiades) (2023-02-28; en); passages p0009, p0019. [Structured record](../../records/src-1c448d07c8c4.json).
+
+### src-1c448d07c8c4-c02
+
+Toleka is Taygeta’s flagship and queen’s yacht; its hull is 1,734 meters long.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 1 - Toleka - Taygeta Starship (Pleiades)](https://swaruu.org/transcripts/interstellar-life-1-toleka-taygeta-starship-pleiades) (2023-02-28; en); passages p0017, p0207, p0208, p0212. [Structured record](../../records/src-1c448d07c8c4.json).
+
+### src-1c448d07c8c4-c03
+
+Anéeka says the ship was designed for 1,800 crew but now accommodates about 30.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 1 - Toleka - Taygeta Starship (Pleiades)](https://swaruu.org/transcripts/interstellar-life-1-toleka-taygeta-starship-pleiades) (2023-02-28; en); passages p0017, p0210, p0211. [Structured record](../../records/src-1c448d07c8c4.json).
+
+### src-1c448d07c8c4-c04
+
+The ship has a main fighter hangar, a service hangar, and 24 escape craft.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 1 - Toleka - Taygeta Starship (Pleiades)](https://swaruu.org/transcripts/interstellar-life-1-toleka-taygeta-starship-pleiades) (2023-02-28; en); passages p0035, p0037, p0044. [Structured record](../../records/src-1c448d07c8c4.json).
+
+### src-1c448d07c8c4-c05
+
+Toleka’s interior includes gardens, pools, gyms, cabins, and aquaponics.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 1 - Toleka - Taygeta Starship (Pleiades)](https://swaruu.org/transcripts/interstellar-life-1-toleka-taygeta-starship-pleiades) (2023-02-28; en); passages p0030, p0031, p0066, p0227, p0228. [Structured record](../../records/src-1c448d07c8c4.json).
+
+### src-65c110e0589e-c01
+
+Athena describes Hanáre/Scimitar fighters as 50–60-meter craft in interceptor and assault variants.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 3 - Scimitars - FIGHTER CRAFT - Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-3-scimitars-fighter-craft-athena-swaruu) (2023-07-06; en); passages p0009, p0013, p0014. [Structured record](../../records/src-65c110e0589e.json).
+
+### src-65c110e0589e-c02
+
+Scimitar A interceptors prioritize speed; B assault craft carry troops and up to two armored vehicles.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 3 - Scimitars - FIGHTER CRAFT - Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-3-scimitars-fighter-craft-athena-swaruu) (2023-07-06; en); passages p0016, p0018, p0020, p0065. [Structured record](../../records/src-65c110e0589e.json).
+
+### src-65c110e0589e-c03
+
+Athena says Scimitars provide fleet cover, support larger ships, and serve extraction missions.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 3 - Scimitars - FIGHTER CRAFT - Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-3-scimitars-fighter-craft-athena-swaruu) (2023-07-06; en); passages p0014, p0019. [Structured record](../../records/src-65c110e0589e.json).
+
+### src-65c110e0589e-c04
+
+She says toroidal stealth phases Scimitars outside human visible, infrared, and microwave-radar detection.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 3 - Scimitars - FIGHTER CRAFT - Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-3-scimitars-fighter-craft-athena-swaruu) (2023-07-06; en); passages p0032, p0034. [Structured record](../../records/src-65c110e0589e.json).
+
+### src-65c110e0589e-c05
+
+Athena describes Scimitars as aging but reliable, though some engine components are difficult to service.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 3 - Scimitars - FIGHTER CRAFT - Athena Swaruu](https://swaruu.org/transcripts/interstellar-life-3-scimitars-fighter-craft-athena-swaruu) (2023-07-06; en); passages p0043, p0044. [Structured record](../../records/src-65c110e0589e.json).
+
+### src-05f9464ebebc-c06
+
+She says advanced civilizations can detect entities with interferometers and gravity or mass-displacement readings.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Starseed's problems, part 3, Places and Buildings / Astral Entities, Alcohol and More](https://swaruu.org/transcripts/starseed-s-problems-part-3-places-and-buildings-astral-entities-alcohol-and-more) (2023-06-03; en); passages p0031, p0032. [Structured record](../../records/src-05f9464ebebc.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1a4b23eed94f-c05
+
+Swaruu says a Med Pod can grow replacement organs within the body rather than separately for transplant.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: high.
+
+Source: [Matters of the Body - Peculiarities - Extraterrestrial Women Respond](https://swaruu.org/transcripts/matters-of-the-body-peculiarities-extraterrestrial-women-respond) (2023-04-27; en); passages p0031, p0032. [Structured record](../../records/src-1a4b23eed94f.json).
+
+### src-5920cfbc7dc1-c01
+
+Mari says each Taygetan ship crew member has private quarters, with size varying by rank.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygetan Star Ship private rooms and Toilets](https://swaruu.org/transcripts/taygetan-star-ship-private-rooms-and-toilets) (2023-03-02; en); passages p0004. [Structured record](../../records/src-5920cfbc7dc1.json).
+
+### src-5920cfbc7dc1-c02
+
+She says ship AI can remotely operate cabin doors, a feature normally deactivatable except for emergencies.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygetan Star Ship private rooms and Toilets](https://swaruu.org/transcripts/taygetan-star-ship-private-rooms-and-toilets) (2023-03-02; en); passages p0005, p0006. [Structured record](../../records/src-5920cfbc7dc1.json).
+
+### src-5920cfbc7dc1-c03
+
+Mari describes hull-material windows whose transparency and polarization occupants can adjust.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygetan Star Ship private rooms and Toilets](https://swaruu.org/transcripts/taygetan-star-ship-private-rooms-and-toilets) (2023-03-02; en); passages p0008. [Structured record](../../records/src-5920cfbc7dc1.json).
+
+### src-5920cfbc7dc1-c04
+
+She says toilets use sensor-directed ultrasonic bubbles for cleaning and little water, without requiring toilet paper.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygetan Star Ship private rooms and Toilets](https://swaruu.org/transcripts/taygetan-star-ship-private-rooms-and-toilets) (2023-03-02; en); passages p0012, p0013, p0014. [Structured record](../../records/src-5920cfbc7dc1.json).
+
+### src-3e47a84b5581-c02
+
+Mari says Earth orbit counts as deep space for Taygetan ships.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/transcripts/za-el-and-arien-new-friends-in-star-ship-toleka) (2023-03-01; en); passages p0002. [Structured record](../../records/src-3e47a84b5581.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -1480,21 +1772,58 @@ Related topics: [Holistic society](holistic-society.md).
 - [src-a315a2d9fccb-c03](temporal-skipping.md#src-a315a2d9fccb-c03) — Temporal skipping
 - [src-9dba344806dc-c04](moon-matrix.md#src-9dba344806dc-c04) — Moon and terrestrial Matrix
 - [src-21a9a4dacb59-c03](stellar-navigation.md#src-21a9a4dacb59-c03) — Stellar navigation
+- [src-d98ff6da8694-c05](consciousness-metaphysics.md#src-d98ff6da8694-c05) — Consciousness and metaphysics
+- [src-f5ca0eb522cb-c01](moon-matrix.md#src-f5ca0eb522cb-c01) — Moon and terrestrial Matrix
+- [src-15ba6ed0a80c-c01](galactic-federation.md#src-15ba6ed0a80c-c01) — Galactic Federation
+- [src-bdc3fb96c867-c02](galactic-federation.md#src-bdc3fb96c867-c02) — Galactic Federation
+- [src-bdc3fb96c867-c05](galactic-federation.md#src-bdc3fb96c867-c05) — Galactic Federation
+- [src-5e07dce47a23-c04](urmah.md#src-5e07dce47a23-c04) — Urmah
+- [src-31e1b41b8c15-c04](dna-metaphysics.md#src-31e1b41b8c15-c04) — DNA and metaphysical patterns
+- [src-4841bb6f5d40-c01](prime-directive.md#src-4841bb6f5d40-c01) — Prime Directive
+- [src-b2709e04b582-c04](earth-cabal.md#src-b2709e04b582-c04) — Earth Cabal and power structures
+- [src-99597b7d630f-c05](taygetans.md#src-99597b7d630f-c05) — Taygetans
+- [src-e46b83b82e92-c01](disc-shaped-shuttles.md#src-e46b83b82e92-c01) — Disc-shaped shuttle craft
+- [src-e46b83b82e92-c02](disc-shaped-shuttles.md#src-e46b83b82e92-c02) — Disc-shaped shuttle craft
+- [src-e46b83b82e92-c03](disc-shaped-shuttles.md#src-e46b83b82e92-c03) — Disc-shaped shuttle craft
+- [src-e46b83b82e92-c04](disc-shaped-shuttles.md#src-e46b83b82e92-c04) — Disc-shaped shuttle craft
+- [src-1c448d07c8c4-c06](holographic-computers.md#src-1c448d07c8c4-c06) — Holographic computers
+- [src-65c110e0589e-c06](holographic-computers.md#src-65c110e0589e-c06) — Holographic computers
+- [src-1c58821fb603-c02](consciousness-metaphysics.md#src-1c58821fb603-c02) — Consciousness and metaphysics
+- [src-1a4b23eed94f-c04](alien-species.md#src-1a4b23eed94f-c04) — Alien species and distinctions
+- [src-3c59fb85976c-c01](galactic-federation.md#src-3c59fb85976c-c01) — Galactic Federation
+- [src-557d7c7208eb-c04](earth-cabal.md#src-557d7c7208eb-c04) — Earth Cabal and power structures
+- [src-6ef6212fe8ca-c04](taygetans.md#src-6ef6212fe8ca-c04) — Taygetans
+- [src-5920cfbc7dc1-c05](energy-generation.md#src-5920cfbc7dc1-c05) — Energy generation technology
+- [src-1be42e9ca084-c02](taygetans.md#src-1be42e9ca084-c02) — Taygetans
+- [src-194038ff3d24-c01](taygetan-flight-suits.md#src-194038ff3d24-c01) — Taygetan flight suits and boots
+- [src-194038ff3d24-c02](taygetan-flight-suits.md#src-194038ff3d24-c02) — Taygetan flight suits and boots
+- [src-194038ff3d24-c03](taygetan-flight-suits.md#src-194038ff3d24-c03) — Taygetan flight suits and boots
+- [src-194038ff3d24-c04](taygetan-flight-suits.md#src-194038ff3d24-c04) — Taygetan flight suits and boots
+- [src-194038ff3d24-c05](taygetan-flight-suits.md#src-194038ff3d24-c05) — Taygetan flight suits and boots
+- [src-8a803747f028-c03](frequency-map-navigation.md#src-8a803747f028-c03) — Frequency-map navigation
+- [src-ac1ba0859491-c02](moon-biosphere-ship.md#src-ac1ba0859491-c02) — The Moon as a biosphere ship
+- [src-ac1ba0859491-c03](moon-biosphere-ship.md#src-ac1ba0859491-c03) — The Moon as a biosphere ship
+- [src-ac1ba0859491-c04](moon-biosphere-ship.md#src-ac1ba0859491-c04) — The Moon as a biosphere ship
+- [src-2f9edb3af632-c03](immersion-pods.md#src-2f9edb3af632-c03) — Immersion pods
+- [src-2f9edb3af632-c04](immersion-pods.md#src-2f9edb3af632-c04) — Immersion pods
 
 ## Review flags
 
 - 3d-to-5d-transition
+- Billy\_Meier\_photo\_authenticity\_uncertain
 - Maitre\_relationship\_with\_Reptilians
 - Weapon and defense capabilities are source-attributed technical claims
 - alternative-weapons-claims
 - ark\_location\_and\_war\_claims\_unverified
 - blockade-and-biology-attributed
 - cern-portal-claim
+- claimed\_observation
 - comparative\_technology\_claims
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
 - contested\_archaeology
 - contested\_intelligence\_claims
+- contradictory\_past\_change\_model
 - coverage: 5D transition forecast
 - coverage: aircraft technical details
 - coverage: climate and architecture
@@ -1510,12 +1839,17 @@ Related topics: [Holistic society](holistic-society.md).
 - ether\_model
 - ethical\_use\_limits
 - extraordinary\_astronomical\_claims
+- extraordinary\_biological\_claims
 - extraordinary\_biotechnology\_claims
+- extraordinary\_exopolitical\_claims
 - extraordinary\_history\_claims
 - extraordinary\_material\_claims
 - extraordinary\_materials\_claims
 - extraordinary\_medical\_claims
+- extraordinary\_paranormal\_claims
+- extraordinary\_personal\_ability\_claims
 - extraordinary\_technology\_claims
+- food\_and\_health\_claims\_unverified
 - frequency-gravity-model
 - frequency\_map\_model
 - health-claims-unverified
@@ -1526,13 +1860,16 @@ Related topics: [Holistic society](holistic-society.md).
 - hyperspace\_model
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - medical-misinformation-claims
+- medical\_claims
 - medical\_claims\_omitted
+- medical\_claims\_unverified
 - metaphysical-claims
 - meteorite\_claim\_omitted
 - moon-conspiracy-claims
 - named\_government\_and\_secret\_base\_claims
 - nonstandard\_astrophysics\_claims
 - personal\_accusations
+- personal\_metaphysics
 - pilot-account-attributed
 - political\_structure\_claims
 - procedure-description
@@ -1542,6 +1879,7 @@ Related topics: [Holistic society](holistic-society.md).
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker: interviewer prompts excluded as claims
 - species\_specific\_reproduction
+- targeting\_claims
 - technology\_and\_mind\_interface
 - technology\_claims
 - time\_travel\_risks
@@ -1552,13 +1890,23 @@ Related topics: [Holistic society](holistic-society.md).
 - unverified-cabinet-claims
 - unverified\_aerospace\_claims
 - unverified\_ancient\_technology\_claims
+- unverified\_antarctica\_claims
+- unverified\_archaeology
 - unverified\_biological\_and\_metaphysical\_claims
+- unverified\_biological\_claims
+- unverified\_cloning\_claims
 - unverified\_cosmology\_and\_technology
 - unverified\_extraterrestrial\_claims
 - unverified\_extraterrestrial\_technology\_claims
 - unverified\_laboratory\_report
+- unverified\_lunar\_claims
+- unverified\_metaphysical\_biology
+- unverified\_military\_claims
+- unverified\_paranormal\_claims
 - unverified\_political\_claims
 - unverified\_technical\_claims
+- unverified\_technology\_claims
+- unverified\_time\_travel\_claims
 - vaccine-harm-allegations
 - weather\_claims
 - zero-point-mechanics

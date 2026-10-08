@@ -1,0 +1,99 @@
+{
+  "source_id": "src-667e6da8febb",
+  "snapshot_sha256": "58282ec5c3b8032b0dc409bf1d921f40684568fa142356c86e52c7ee45cc6b44",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-667e6da8febb-c01",
+      "assertion": "Mari says Viera detects all craft near Earth and reports no unusual nonhuman traffic.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-667e6da8febb-c02",
+      "assertion": "She estimates orbit holds over 950 kilometer-scale and about 5,000 smaller spacecraft, many monitoring starseeds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-667e6da8febb-c03",
+      "assertion": "Mari says Earth is Federation-controlled, so invasion cannot occur; she speculates increased sightings may prepare a false-invasion narrative.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-667e6da8febb-c04",
+      "assertion": "She says Taygetans adopted Earth-style birthdays, with approximate dates and no alcohol at celebrations.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-667e6da8febb-c05",
+      "assertion": "Mari says Toleka repairs require replacing four of its 12 engines, unprecedented for a ship this large in orbit.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "fleet-composition"
+  ]
+}

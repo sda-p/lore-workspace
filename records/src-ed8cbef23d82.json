@@ -1,0 +1,102 @@
+{
+  "source_id": "src-ed8cbef23d82",
+  "snapshot_sha256": "dcc0f575307cd2ccc940ef768ce51b5fba1053b0b6833189bd9841911fd1cb24",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ed8cbef23d82-c01",
+      "assertion": "Mari says reptilian influence depends on vibrational compatibility, not fixed genetic markers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0019"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed8cbef23d82-c02",
+      "assertion": "Mari describes genes as responsive to consciousness and vibration, framing them as mutable rather than fixed.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed8cbef23d82-c03",
+      "assertion": "Mari says positive and negative Reptilians both exist, and influence depends on compatibility and consent.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed8cbef23d82-c04",
+      "assertion": "Mari alleges negative entities may act through human organic portals or influence people via astral agreements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed8cbef23d82-c05",
+      "assertion": "Mari argues conduct and thought shape susceptibility to dark or benevolent influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific possession scenarios"
+  ]
+}

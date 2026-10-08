@@ -1,0 +1,100 @@
+{
+  "source_id": "src-414c8f76eb66",
+  "snapshot_sha256": "167e34ccbd805deeb0b630562db7997a14835f5ca4c3e3c4e454b772ba5b5004",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-414c8f76eb66-c01",
+      "assertion": "Mari says some regard the astral as all existence; physical bodies are mental manifestations within it.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-414c8f76eb66-c02",
+      "assertion": "She says an astral-focused perspective can preserve memories across incarnations, unlike Earth’s stronger forgetfulness veil.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-414c8f76eb66-c03",
+      "assertion": "Mari says prebirth agreements shape bodies through the unconscious, but astral awareness can change those agreements.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-414c8f76eb66-c04",
+      "assertion": "Mari reports Yazhi says she remains an astral being and manifests a nine-year-old body to interact with others.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-414c8f76eb66-c05",
+      "assertion": "Mari says unresolved problems persist across death and other astral realms, so souls must face them.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "nexus-souls"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "astral realm distinctions",
+    "Yazhi’s body mechanism"
+  ]
+}

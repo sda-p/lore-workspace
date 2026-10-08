@@ -47,3 +47,19 @@ Attributed to **Mari**; reported; extraction confidence: high.
 Source: [How Mari Swaruu got here. (English)](https://swaruu.org/transcripts/how-mari-swaruu-got-here-english) (2023-01-12; en); passages p0030, p0031, p0032, p0034, p0036, p0039, p0040, p0041. [Structured record](../../records/src-a315a2d9fccb.json).
 
 Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-89c62899ecb7-c03
+
+He says alternate contextual data can encode different times, places, and circumstances.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 1: Your Context Data (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-1-your-context-data-english) (2023-03-05; en); passages p0002, p0011, p0012, p0013. [Structured record](../../records/src-89c62899ecb7.json).
+
+### src-89c62899ecb7-c04
+
+He suggests this model explains why time jumps may become disorienting.
+
+Attributed to **Za´el**; speculative; extraction confidence: high.
+
+Source: [What is Time and How It Works - Part 1: Your Context Data (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-1-your-context-data-english) (2023-03-05; en); passages p0002, p0013. [Structured record](../../records/src-89c62899ecb7.json).

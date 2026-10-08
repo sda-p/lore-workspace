@@ -1,0 +1,108 @@
+{
+  "source_id": "src-f97a14514a47",
+  "snapshot_sha256": "ef68f97010dce6edab23f08904458b72383754273bfb0a8cdac75d883adb9984",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f97a14514a47-c01",
+      "assertion": "Mari says remote presence transmits data rather than bodies; synchronized endpoints create realistic two-way presence.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0007"
+      ],
+      "primary_topic": "remote-presence-technology",
+      "topics": [
+        "remote-presence-technology",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f97a14514a47-c02",
+      "assertion": "She says Taygetan vehicles draw power from a wireless airborne grid, giving them unlimited range.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "taygetan-wireless-power-grid",
+      "topics": [
+        "taygetan-wireless-power-grid",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f97a14514a47-c03",
+      "assertion": "Mari says local sunglasses can reveal whether someone is physically present or using remote presence.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "remote-presence-technology",
+      "topics": [
+        "remote-presence-technology",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f97a14514a47-c04",
+      "assertion": "She describes Toleka City’s central traffic as mostly airborne, with quiet electric ground vehicles and nature-inspired towers.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetan-wireless-power-grid"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f97a14514a47-c05",
+      "assertion": "Mari says remote-presence systems can be built into a military vehicle, allowing it to return to a ship while remotely operated.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "remote-presence-technology",
+      "topics": [
+        "remote-presence-technology",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "remote-presence-technology",
+      "name": "Remote-presence technology",
+      "kind": "technology",
+      "aliases": [
+        "remote presence"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "city institutions",
+    "housing and daily life"
+  ]
+}

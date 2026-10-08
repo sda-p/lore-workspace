@@ -1,0 +1,97 @@
+{
+  "source_id": "src-291f1a9b28f5",
+  "snapshot_sha256": "4a10d17927ac48c7e524fa0fb29822af72f7b48aabfa4766e53f868f7c82d95d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-291f1a9b28f5-c01",
+      "assertion": "Athena says her team visited Ukraine by air and on foot to compare local perceptions with their sources.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-291f1a9b28f5-c02",
+      "assertion": "She says views differ by region: eastern residents she encountered favored Russia, while western migrants had greater exposure to Western narratives.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0016"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-291f1a9b28f5-c03",
+      "assertion": "Athena says her team perceived Kyiv residents as strongly pro-Russian.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-291f1a9b28f5-c04",
+      "assertion": "Athena says her sources blame NATO forces for much Ukrainian destruction and civilian deaths.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-291f1a9b28f5-c05",
+      "assertion": "She characterizes the conflict as an internal Ukrainian war later used by NATO against Russia, which she says is not the aggressor.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0014",
+        "p0024"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "politically_contested",
+    "unverified_source_claims"
+  ],
+  "coverage_gaps": [
+    "military-timeline"
+  ]
+}

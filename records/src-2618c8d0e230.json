@@ -1,0 +1,59 @@
+{
+  "source_id": "src-2618c8d0e230",
+  "snapshot_sha256": "09ad01f234bbde9be6e75ab2f49c8f8612f16e406b0810b25a9a6f67a3037dbc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2618c8d0e230-c01",
+      "assertion": "Gosia teaches that manifestation reflects subconscious and unconscious beliefs as well as conscious intent, within this metaphysical model.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2618c8d0e230-c02",
+      "assertion": "Swaruu of Erra compares conscious intent to a small share of a person’s total psyche and says unconscious patterns can contradict it.",
+      "speaker": "Swaruu of Erra",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2618c8d0e230-c03",
+      "assertion": "Gosia says physical manifestation is slower than in less dense spiritual realms and requires sustained focus plus compatible action.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

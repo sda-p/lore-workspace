@@ -1,0 +1,89 @@
+{
+  "source_id": "src-c3e350aa4e42",
+  "snapshot_sha256": "8bf55811735085208f88a3e619f43594d4d1fc564529a70f65067b8130040d43",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c3e350aa4e42-c01",
+      "assertion": "Mari says officials control disclosure narratives while large research groups may serve as controlled opposition.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3e350aa4e42-c02",
+      "assertion": "Mari says highly official extraterrestrial claims are less credible to her than small independent reports.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3e350aa4e42-c03",
+      "assertion": "Mari says no single witness reveals the whole picture; audiences must compare sources and draw conclusions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0027",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3e350aa4e42-c04",
+      "assertion": "Mari says disclosure is occurring through multiple people, with governments adding a controlled version to retain influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

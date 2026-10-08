@@ -1,0 +1,85 @@
+{
+  "source_id": "src-bbd42e5699d0",
+  "snapshot_sha256": "31bebb639ddafb4ea2986516f3b1ecb7de335dd3243d947584474fe375285bb1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bbd42e5699d0-c01",
+      "assertion": "Athena says identical twins may begin from one soul’s root but develop as distinct souls through different experiences.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bbd42e5699d0-c02",
+      "assertion": "Athena says “old soul” can describe accumulated experience, learning and wisdom rather than incarnation count.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bbd42e5699d0-c03",
+      "assertion": "Yazhi says Earth’s dense energy makes connection to Source and access to memory more difficult.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Speaker shifts to Yazhi in this section."
+    },
+    {
+      "id": "src-bbd42e5699d0-c04",
+      "assertion": "Athena says when fragmented souls remember a former partner, compatibility and willingness shape new pairings; the situation can be tense.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "soulmates",
+      "topics": [
+        "soulmates",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Gosia poses questions; these cited passages include Athena’s answers."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}
