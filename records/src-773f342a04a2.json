@@ -1,0 +1,32 @@
+{
+  "source_id": "src-773f342a04a2",
+  "snapshot_sha256": "70a198e2ca9958ec9e13f15010ad89bdbf6e56316c7f625e3ed5fc036ece2b07",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-773f342a04a2-c01",
+      "assertion": "Mari Swaruu says web-connected electric vehicles could be remotely disabled by governments, limiting their owners' mobility.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "economics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents this as a potential control use of connected vehicle systems."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-technology-claim"
+  ],
+  "coverage_gaps": [
+    "environmental-claims-omitted",
+    "electric-vehicle-details-omitted"
+  ]
+}

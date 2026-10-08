@@ -1,0 +1,103 @@
+{
+  "source_id": "src-71496b122bfb",
+  "snapshot_sha256": "703601662ab81f949889937398a0deeb4031d166ad6ad99c0eeea16ce0247272",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-71496b122bfb-c01",
+      "assertion": "Swaruu portrays Cleopatra as pro-Roman and Arsinoe as a resistance leader; both claimed Ishtar identity, producing white and black forms.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0014",
+        "p0033",
+        "p0041",
+        "p0042",
+        "p0094",
+        "p0095"
+      ],
+      "primary_topic": "arsinoe-magdalene",
+      "topics": [
+        "arsinoe-magdalene",
+        "ancient-egypt",
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71496b122bfb-c02",
+      "assertion": "She says Arsinoe escaped to Magdala, advised resistance on guerrilla tactics, and used Azazel to deliver teachings audiences would not accept from a woman.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0044",
+        "p0045",
+        "p0046",
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "arsinoe-magdalene",
+      "topics": [
+        "arsinoe-magdalene",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71496b122bfb-c03",
+      "assertion": "Swaruu identifies Arsinoe with Mary Magdalene, claiming Roman authors recast her as a prostitute to discredit her resistance role.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0074",
+        "p0075",
+        "p0092",
+        "p0093"
+      ],
+      "primary_topic": "arsinoe-magdalene",
+      "topics": [
+        "arsinoe-magdalene",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71496b122bfb-c04",
+      "assertion": "She says Jesus narratives combine astrological and pagan motifs with altered episodes from Titus’s military campaigns.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0081",
+        "p0082"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "arsinoe-magdalene",
+      "name": "Arsinoe–Mary Magdalene",
+      "kind": "person or identity",
+      "aliases": [
+        "Arsinoe IV",
+        "Mary Magdalene"
+      ]
+    }
+  ],
+  "review_flags": [
+    "alternative-history-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "Arsinoe-captivity-details-omitted"
+  ]
+}

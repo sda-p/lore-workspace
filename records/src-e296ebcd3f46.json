@@ -1,0 +1,60 @@
+{
+  "source_id": "src-e296ebcd3f46",
+  "snapshot_sha256": "0cd3810d33ea2238898c44fcdca752f99ccd835fac22b590c67e260e829d270b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e296ebcd3f46-c01",
+      "assertion": "Mari Swaruu says Antarctica contains ancient Federation star bases, used for planetary control since the last Tiamat-related flood around 12,500 years ago.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "antarctica-federation-bases",
+      "topics": [
+        "antarctica-federation-bases",
+        "galactic-federation",
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says many bases are abandoned and some remain active."
+    },
+    {
+      "id": "src-e296ebcd3f46-c02",
+      "assertion": "Mari Swaruu describes Antarctic Federation bases as multispecies underground cities linked to other deep bases by high-speed magnetic trains.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "antarctica-federation-bases",
+      "topics": [
+        "antarctica-federation-bases",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says nonhuman visitors use Antarctica as an entry point before traveling underground."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "antarctica-federation-bases",
+      "name": "Antarctic Federation bases",
+      "kind": "infrastructure",
+      "aliases": [
+        "Antarctic bases",
+        "Antarctica Federation installations"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unverified-polar-infrastructure-account"
+  ],
+  "coverage_gaps": [
+    "visual-observations-omitted",
+    "political-control-claims-omitted"
+  ]
+}

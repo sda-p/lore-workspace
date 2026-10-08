@@ -1,0 +1,105 @@
+{
+  "source_id": "src-6d9f789c718e",
+  "snapshot_sha256": "a8ee4be58b15325e4fbf648ff0e8cec1fe81d82a9cbbb9b0171dd0e63eab23ff",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6d9f789c718e-c01",
+      "assertion": "Yazhi says fully interstellar species have little need for Earth minerals, which can be mined or replicated elsewhere.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d9f789c718e-c02",
+      "assertion": "She says their greater interest is consciousness, lived experience, and influence over reality.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0013",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d9f789c718e-c03",
+      "assertion": "Anéeka says some entities feed on concentrated fear-driven attention, while Earthbound factions may seek material control.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0024",
+        "p0037"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d9f789c718e-c04",
+      "assertion": "Athena describes Earth as a role-playing experience for souls, including diverse human and nonhuman participants.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0061",
+        "p0064"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d9f789c718e-c05",
+      "assertion": "She says Earth experiences may expand souls’ later ability to choose experiences and create worlds.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0058",
+        "p0068"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Resource motives and fear-feeding are speaker-attributed metaphysical claims"
+  ],
+  "coverage_gaps": [
+    "faction identities",
+    "specific resource exceptions"
+  ]
+}

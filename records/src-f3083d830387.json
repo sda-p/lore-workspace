@@ -1,0 +1,12 @@
+{
+  "source_id": "src-f3083d830387",
+  "snapshot_sha256": "444fff3263c721db5640f2d8fe6dc39f9101b306503f5bd149257076478d340f",
+  "language": "es",
+  "claims": [
+    {"id":"src-f3083d830387-c01","assertion":"Swaruu (9) says the Agartha resistance against reptilian invasion accepts some surface inhabitants, with admission decided individually.","speaker":"Swaruu (9)","paragraph_ids":["p0007"],"primary_topic":"intra-terrestrial-agartha","topics":["intra-terrestrial-agartha","agarthians","reptilian-invaders"],"modality":"asserted","confidence":"high","qualifiers":"She says acceptance is selective rather than general."},
+    {"id":"src-f3083d830387-c02","assertion":"Swaruu (9) suspects reptiles lure people into DUMBs for slavery or food, sometimes disguising their ships as positive craft or Agartha vessels.","speaker":"Swaruu (9)","paragraph_ids":["p0004","p0008"],"primary_topic":"reptilian-invaders","topics":["reptilian-invaders","deep-underground-military-bases"],"modality":"speculative","confidence":"high","qualifiers":"She says her evidence is limited and gives no estimate of how many people are targeted."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["limited-evidence-extraction-account"],
+  "coverage_gaps": ["Federation-extractions-omitted", "later-evacuation-discussion-omitted"]
+}

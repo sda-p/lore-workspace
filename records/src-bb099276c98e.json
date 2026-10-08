@@ -1,0 +1,101 @@
+{
+  "source_id": "src-bb099276c98e",
+  "snapshot_sha256": "d945247f74df3e7467f7aef0e14c35e6ade437ecc893f4b81c4b8d5f5dfce11b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bb099276c98e-c01",
+      "assertion": "Minerva says she, Athena, and Yazhi can shift attention beyond physical embodiment while retaining identities for interaction.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "sophia-swaruu"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb099276c98e-c02",
+      "assertion": "She describes souls as overlapping in an atemporal now, with past and future lives potentially coexisting.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0037",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb099276c98e-c03",
+      "assertion": "Minerva says attachments shape identity but are useful; obsession can make them limiting.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0062",
+        "p0065",
+        "p0067"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb099276c98e-c04",
+      "assertion": "She distinguishes Yazhi as a warrior, Athena as grounded, and herself as more etheric.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0078",
+        "p0079"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb099276c98e-c05",
+      "assertion": "Minerva says identity can expand by releasing attachments while retaining them selectively.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0052",
+        "p0053",
+        "p0062"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Minerva’s claims about souls, vaccine effects, and astral conflict are metaphysical testimony; omitted health claims"
+  ],
+  "coverage_gaps": [
+    "postmortem destinations",
+    "specific identity mechanisms"
+  ]
+}

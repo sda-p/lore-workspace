@@ -1,0 +1,49 @@
+{
+  "source_id": "src-756b0758c451",
+  "snapshot_sha256": "8b0fe2762d6e841574bea3d3a6e98b75285eaf1a8fee4752021564aed1224a3d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-756b0758c451-c01",
+      "assertion": "Yazhi says Toleka-class ships can open large hangar panels to space while shields maintain onboard air and 1.2-bar pressure.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0013"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She identifies the shields as the primary source of pressurization."
+    },
+    {
+      "id": "src-756b0758c451-c02",
+      "assertion": "Anéeka says the fleet includes nine Toleka heavy cruisers and nine Sadicleya light cruisers built at one-third their size.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0022"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Anéeka says Rashell ordered a flat top on Ritol so it could carry another large ship."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-labels-preserved"
+  ],
+  "coverage_gaps": [
+    "ship-maintenance-details-omitted",
+    "personal-history-claims-omitted"
+  ]
+}

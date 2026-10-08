@@ -1,0 +1,135 @@
+{
+  "source_id": "src-77187dee8432",
+  "snapshot_sha256": "17c560925897c8a2799ae0df2f8198b7f149c365c733f75bc257177cdf89d596",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-77187dee8432-c01",
+      "assertion": "Swaruu 9 says Taygetan base-12 mathematics models aether dynamics and informs reactor design.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0022"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77187dee8432-c02",
+      "assertion": "She defines zero-point output as a usable spark from imbalance between two system polarities.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0018"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "ether-field"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77187dee8432-c03",
+      "assertion": "Yazhi says a self-scanning resonant circuit needs a superconducting tuner and toroidal geometry.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0101",
+        "p0103",
+        "p0106",
+        "p0113"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "gravity-harmonics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77187dee8432-c04",
+      "assertion": "She says reactor designs require cooling and durable materials to manage heat from sustained output.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0108",
+        "p0110",
+        "p0112"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77187dee8432-c05",
+      "assertion": "Athena says paired base-12 frequency groups create opposite polarities and usable energy discharge.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0123",
+        "p0124",
+        "p0125",
+        "p0147",
+        "p0148"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "taygetan-mathematics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77187dee8432-c06",
+      "assertion": "She describes matter particles as toroidal standing waves whose energy recycles through matched harmonics.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0141",
+        "p0142",
+        "p0143",
+        "p0146"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-mathematics",
+      "name": "Taygetan mathematics",
+      "kind": "technology and mathematics",
+      "aliases": [
+        "base-12 Taygetan math",
+        "matemática taygeteana"
+      ]
+    }
+  ],
+  "review_flags": [
+    "The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions"
+  ],
+  "coverage_gaps": [
+    "full numeral notation",
+    "engineering specifications"
+  ]
+}

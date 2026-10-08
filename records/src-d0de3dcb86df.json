@@ -1,0 +1,107 @@
+{
+  "source_id": "src-d0de3dcb86df",
+  "snapshot_sha256": "beeec7e9dfe3fc340b7d6ada1e4cd408e2f97d19610c63fec9ab4069b4f4ae86",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d0de3dcb86df-c01",
+      "assertion": "Athena says Sand Clock ships navigate time through energy-frequency maps, not calendar dates.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "sand-clock"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d0de3dcb86df-c02",
+      "assertion": "A target date must be inferred from matching mass-gravity patterns or external historical markers.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0014"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d0de3dcb86df-c03",
+      "assertion": "She says sparse or misdated markers make historical jumps error-prone, even when crews revisit known events.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0032",
+        "p0056"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "sand-clock"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d0de3dcb86df-c04",
+      "assertion": "Athena recounts one jump where Roman construction in Britain coincided with Renaissance-era Paris.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0033",
+        "p0041",
+        "p0045"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d0de3dcb86df-c05",
+      "assertion": "She says ship crews must build detailed frequency maps by comparing multiple trips and locations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0022",
+        "p0079",
+        "p0080"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "sand-clock"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Historical chronology and the reported overlap are source claims; exact dating remains uncertain"
+  ],
+  "coverage_gaps": [
+    "specific navigation equipment",
+    "map acquisition procedures"
+  ]
+}

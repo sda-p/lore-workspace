@@ -1,0 +1,12 @@
+{
+  "source_id": "src-b5be7120aaf2",
+  "snapshot_sha256": "aef6d8124a2f344c72640e8600ff9f88e02afc8cc58319613a157e4ccbc4f093",
+  "language": "es",
+  "claims": [
+    {"id":"src-b5be7120aaf2-c01","assertion":"Mari Swaruu models matter as standing waves formed by particle-specific frequency harmonics within consciousness, with gravity described as consciousness-flow.","speaker":"Mari Swaruu","paragraph_ids":["p0010","p0011","p0012"],"primary_topic":"consciousness-metaphysics","topics":["consciousness-metaphysics","gravity-harmonics"],"modality":"asserted","confidence":"high","qualifiers":"She says each particle's harmonic gives it its properties."},
+    {"id":"src-b5be7120aaf2-c02","assertion":"Mari Swaruu says inhabited places form a shared frequency field shaped by the intentions of conscious beings passing through and living there.","speaker":"Mari Swaruu","paragraph_ids":["p0019","p0022","p0023"],"primary_topic":"consciousness-metaphysics","topics":["consciousness-metaphysics","perceptual-density"],"modality":"asserted","confidence":"high","qualifiers":"She says groups with similar perceptions reinforce their shared frequencies."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["metaphysical-frequency-model"],
+  "coverage_gaps": ["personal-development-advice-omitted", "broader-cosmology-omitted"]
+}

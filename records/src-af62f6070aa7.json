@@ -1,0 +1,56 @@
+{
+  "source_id": "src-af62f6070aa7",
+  "snapshot_sha256": "cff4ac99dc98e2fc10a63417901383e5bdef116dbe4f540a480d167b102b2909",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-af62f6070aa7-c01",
+      "assertion": "Swaruu X says the Van Allen belts set Earth’s baseline 3D frequency, but people can transcend it through greater awareness.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0011"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her numerical frequency scale is illustrative."
+    },
+    {
+      "id": "src-af62f6070aa7-c02",
+      "assertion": "She says the brain translates astral experiences into physical memories; recall depends on processing and frequency compatibility, while life-plan and familial patterns are encoded in DNA.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0016",
+        "p0019",
+        "p0021",
+        "p0024",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "van-allen-belts"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says transcending the belts alone does not guarantee recall."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Yazhi-quantum-nexus"
+  ]
+}

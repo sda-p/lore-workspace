@@ -1,0 +1,51 @@
+{
+  "source_id": "src-6e8bf66d80f9",
+  "snapshot_sha256": "0751cf8284231b6dcb85100a2a405ede42d1d19f42270dc5e3e34f833f78eb7f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6e8bf66d80f9-c01",
+      "assertion": "Yazhi says the Federation is neither infiltrated nor inherently hostile but will not rescue Earth; its actions may seem negative from human needs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes the institution as complex and historically unchanged."
+    },
+    {
+      "id": "src-6e8bf66d80f9-c02",
+      "assertion": "Yazhi says high-frequency thinking alone cannot solve Earth’s problems; people must act, and collective thoughts and actions shape perceived reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes Earth from higher planes where thought alone may suffice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "information-overload-guidance",
+    "resistance-strategy"
+  ]
+}

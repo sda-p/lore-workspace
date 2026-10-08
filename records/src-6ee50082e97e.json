@@ -1,0 +1,94 @@
+{
+  "source_id": "src-6ee50082e97e",
+  "snapshot_sha256": "35282e77a87a34a84cddedab61127c9bb2fd1235297fae8d0ef5966b2e25d502",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6ee50082e97e-c01",
+      "assertion": "Anéeka argues orbital vacuum itself has no temperature; temperatures describe exposed surfaces and radiation-driven heat transfer.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0031"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her account of orbital thermal physics."
+    },
+    {
+      "id": "src-6ee50082e97e-c02",
+      "assertion": "She says advanced ships use energy shields and convert accumulated hull heat into electricity, yet still face cooling problems.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ee50082e97e-c03",
+      "assertion": "She estimates active satellites are far fewer than thousands claimed, with the exact number unknown.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ee50082e97e-c04",
+      "assertion": "She claims the ISS and Chinese station are empty CGI, arguing heat accumulation makes habitation impossible.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "spaceflight-science-misinformation-claims",
+    "ISS-and-station-fabrication-allegation"
+  ],
+  "coverage_gaps": [
+    "radiation-shielding-layer-details",
+    "thermal-conversion-efficiency",
+    "debris-count-uncertainty"
+  ]
+}

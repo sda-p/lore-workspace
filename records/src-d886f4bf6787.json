@@ -1,0 +1,50 @@
+{
+  "source_id": "src-d886f4bf6787",
+  "snapshot_sha256": "8626534fe0785625af3f68348183aa583cf79ef8160f92ada032ea5640ddc2a6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d886f4bf6787-c01",
+      "assertion": "Anéeka says two planets orbiting Vega are central to Lyran history and humanlike expansion, though other species cite Triangulum origins.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "alien-species",
+        "triangulum"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d886f4bf6787-c02",
+      "assertion": "Relaying Swaruu accounts, she says humanity has no single evolutionary birthplace but has existed eternally as an expression of the whole.",
+      "speaker": "Anéeka (relaying Swaruu accounts)",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This follows a non-linear, quantum-time model."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "multiple-lyrian-origin-traditions",
+    "nonlinear-human-origin-model"
+  ],
+  "coverage_gaps": [
+    "vega-planet-identities",
+    "triangulum-origin-tradition-details"
+  ]
+}

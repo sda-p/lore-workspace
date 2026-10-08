@@ -1,0 +1,73 @@
+{
+  "source_id": "src-ce8bc803191b",
+  "snapshot_sha256": "5d260c7dd1b9d9ed32397cfab8b9e64af67b9daf61cf0ed99da015bb6d66d090",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ce8bc803191b-c01",
+      "assertion": "Yazhi says foreknowledge yields only a few possible futures because observation changes events; she therefore cannot predict outcomes with certainty.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says timelines are not fixed."
+    },
+    {
+      "id": "src-ce8bc803191b-c02",
+      "assertion": "Yazhi says humanity is a shared human role played by souls from many species, with Federation actors present in both Earth 3D and 5D.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "human-biosuit-model",
+      "topics": [
+        "human-biosuit-model",
+        "galactic-federation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce8bc803191b-c03",
+      "assertion": "Yazhi says people cannot reach the game’s manager from within Earth; she proposes collective withdrawal from its rules as the only route.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames this as her solution."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "human-biosuit-model",
+      "name": "Humanity as a shared biological suit",
+      "kind": "species model",
+      "aliases": [
+        "bio-traje humano",
+        "biological suit"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "political-claims",
+    "Urmah-and-Taygeta-capacity"
+  ]
+}

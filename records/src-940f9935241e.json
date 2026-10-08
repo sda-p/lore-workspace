@@ -1,0 +1,86 @@
+{
+  "source_id": "src-940f9935241e",
+  "snapshot_sha256": "227a412f296b478c3908f6120998b09a12a25ecc3d264677e6817f3bb7b24703",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-940f9935241e-c01",
+      "assertion": "Yazhi says reptilians lured the Federation into attacking Tiamat with a false base; blasts destabilized the water world and broke it into asteroid-belt fragments.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "reptilian-invaders",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-940f9935241e-c02",
+      "assertion": "She says Tiamat’s water later fell on Earth and Venus, causing global floods and destroying surface civilizations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0030",
+        "p0051"
+      ],
+      "primary_topic": "global-deluge",
+      "topics": [
+        "global-deluge",
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her chronology."
+    },
+    {
+      "id": "src-940f9935241e-c03",
+      "assertion": "Yazhi says Lemurian refugees fled into Earth’s interior, giving rise to Agarthians around Mount Shasta.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0053"
+      ],
+      "primary_topic": "intra-terrestrial-agartha",
+      "topics": [
+        "intra-terrestrial-agartha",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-940f9935241e-c04",
+      "assertion": "She says three Taygetan Arks preserved species DNA and offered communications, small portals and weapons; one is aboard Toleka.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0057",
+        "p0058"
+      ],
+      "primary_topic": "planetary-dna-arks",
+      "topics": [
+        "planetary-dna-arks",
+        "taygetans",
+        "toleka-class",
+        "teleportation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "cataclysm-history-attributed"
+  ],
+  "coverage_gaps": [
+    "other-ark-locations-omitted"
+  ]
+}

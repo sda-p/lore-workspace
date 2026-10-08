@@ -1,0 +1,67 @@
+{
+  "source_id": "src-f10960087bcd",
+  "snapshot_sha256": "f074756effd6ac0aea9b4132712e119136f53e4285141eb668f0d8006f7922a6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f10960087bcd-c01",
+      "assertion": "Yazhi says Taygeta began during the Great Expansion with settlers who already had interstellar technology.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033",
+        "p0041"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyran-expansion",
+        "orion-wars"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She disputes an 850,000-year date as unmeasurable."
+    },
+    {
+      "id": "src-f10960087bcd-c02",
+      "assertion": "Yazhi says Taygetans navigate interstellar distances through frequency maps, using star charts as interpretive aids rather than precise navigation calculations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0124",
+        "p0125"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says light-years remain a human-facing approximation."
+    },
+    {
+      "id": "src-f10960087bcd-c03",
+      "assertion": "Yazhi describes an etheric heat pump that draws atmospheric charge through tubes to warm homes and cool them in summer.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "etheric-load-heaters",
+      "topics": [
+        "etheric-load-heaters",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She compares its principle to atmospheric charge collectors called pyramids."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-cosmology-and-energy-claims"
+  ],
+  "coverage_gaps": [
+    "medical-claims-omitted",
+    "species-lore-omitted"
+  ]
+}

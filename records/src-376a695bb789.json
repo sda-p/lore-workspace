@@ -1,0 +1,49 @@
+{
+  "source_id": "src-376a695bb789",
+  "snapshot_sha256": "af1c6be9f25c45deeba0c805f655625dbf773325c295b8396974ae79d84d3b46",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-376a695bb789-c01",
+      "assertion": "Anéeka says Taygetan space uniforms self-repair and harden rapidly against impacts, debris, and bullets.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0057"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She also says the suits can cushion falls."
+    },
+    {
+      "id": "src-376a695bb789-c02",
+      "assertion": "Anéeka says Taygetan suits regulate temperature and use either circulating coolant or magnetic frequencies for cooling.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050",
+        "p0051",
+        "p0057",
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes a transparent helmet with a compact recycled-air pack for breathing."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "fictional-space-suit-technology"
+  ],
+  "coverage_gaps": [
+    "space-survival-claims-omitted",
+    "star-cosmology-omitted"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "src-c57cf7f12530",
+  "snapshot_sha256": "787a51cae798738274aa3b15e77fa53921e02118eba7e6e636b0efe3cbd75d06",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c57cf7f12530-c01",
+      "assertion": "Swaruu says Mars’s Lyrian civilization was devastated in the Tiamat war about 12,500 years ago; its native population was later exterminated by three dominant groups.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0051",
+        "p0062",
+        "p0063",
+        "p0064",
+        "p0065"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says ruins remain across the surface."
+    },
+    {
+      "id": "src-c57cf7f12530-c02",
+      "assertion": "She describes Mars as divided into militarized sectors controlled by Cabal-linked reptilians, Maitré High Greys, and Aethien Mantis.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0044"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "earth-cabal",
+        "reptilians",
+        "maitre",
+        "aethien-mantis"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c57cf7f12530-c03",
+      "assertion": "Swaruu says Maitré were Draconian-engineered Grey hybrids that reproduce by cloning; they use portals and propulsion but lack warp or hyperspace travel.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0040",
+        "p0042",
+        "p0043",
+        "p0054",
+        "p0055",
+        "p0059"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "alpha-draconians",
+        "mars"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes them as an escaped experiment."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Mars-surface-conditions",
+    "Mantis-hive-structure"
+  ]
+}

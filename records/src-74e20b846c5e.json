@@ -1,0 +1,81 @@
+{
+  "source_id": "src-74e20b846c5e",
+  "snapshot_sha256": "6a01bd811e72c50748467c9d4da72cb395c8028c21f91fcf75ad31eebde6452a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-74e20b846c5e-c01",
+      "assertion": "Yazhi describes secret meetings as compartmentalized layers, from Bilderberg to nonhuman and Federation representatives; each level receives need-to-know information.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says exact participants and locations are difficult to establish."
+    },
+    {
+      "id": "src-74e20b846c5e-c02",
+      "assertion": "She says Federation officials speak with Reptilians, High Greys, secret-society leaders, and some elected officials; direct cooperation with regressive groups is unclear.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0035",
+        "p0038"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "reptilians",
+        "high-greys"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says interactions may be permissive rather than direct cooperation."
+    },
+    {
+      "id": "src-74e20b846c5e-c03",
+      "assertion": "Yazhi portrays the Vatican as the Cabal’s central node and says both popes communicate with Federation representatives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0038",
+        "p0040",
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the Vatican comprises multiple levels."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "high-greys",
+      "name": "High Greys",
+      "kind": "species group",
+      "aliases": [
+        "Grises Altos"
+      ]
+    }
+  ],
+  "review_flags": [
+    "federation-role:involvement-vs-permissiveness"
+  ],
+  "coverage_gaps": [
+    "alien-contact-methods",
+    "elite-bloodlines"
+  ]
+}

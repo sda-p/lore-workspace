@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:37:08+00:00",
+  "checkpointed_at": "2026-10-08T17:44:01+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-015",
@@ -56,7 +56,26 @@
       "src-56668c63592b",
       "src-4077e2cdca7d",
       "src-f692b0750026",
-      "src-c190fb308eb0"
+      "src-c190fb308eb0",
+      "src-6d32076d9fb4",
+      "src-8253dcdfe3e7",
+      "src-00bbf49a9a01",
+      "src-df0b18054ec1",
+      "src-6ee50082e97e",
+      "src-ae3ec238fe23",
+      "src-220efa38c406",
+      "src-6e8bf66d80f9",
+      "src-af62f6070aa7",
+      "src-d886f4bf6787",
+      "src-d3e73f956099",
+      "src-a6ebb6326b6a",
+      "src-b366c302a081",
+      "src-9143cd103af6",
+      "src-a024d1720df9",
+      "src-c57cf7f12530",
+      "src-71496b122bfb",
+      "src-940f9935241e",
+      "src-2997017bfd28"
     ],
     "corrections": [
       {
@@ -100,6 +119,15 @@
         "paragraph_ids": [
           "p0023",
           "p0024"
+        ]
+      },
+      {
+        "source_id": "src-940f9935241e",
+        "claim_id": "src-940f9935241e-c03",
+        "problem": "“Inland” did not preserve the source’s specific destination, Tierra interna (Earth’s interior).",
+        "action": "Changed to “into Earth’s interior” and retained the Mount Shasta example; validated.",
+        "paragraph_ids": [
+          "p0053"
         ]
       }
     ],
@@ -156,6 +184,25 @@
     "src-56668c63592b": "3211e40e995d3e64685dd8c42174a961aa7dc5d7b5cbf1a47dfcb64f5d87fc61",
     "src-4077e2cdca7d": "dcbbfb4ebaf45102e03f7192f8230cfce969caced715819fe46240088a831044",
     "src-f692b0750026": "60fd8cb2c07cff2deff9d00ba0758cd574ab9c68ed1ca11d90f46000c201535e",
-    "src-c190fb308eb0": "199d9d7391cf24c5af9b5afc3e4a9d4749cb534aa07a3f43e534e61e701de462"
+    "src-c190fb308eb0": "199d9d7391cf24c5af9b5afc3e4a9d4749cb534aa07a3f43e534e61e701de462",
+    "src-6d32076d9fb4": "4b4f2586eb6f313ef5401efb9d697fe665dd08aff586e91fe139c0b23cd1724f",
+    "src-8253dcdfe3e7": "3c36fdda6d43a6c986eaae30b7270c2210156c0d5039c91b3a226b975e942b4c",
+    "src-00bbf49a9a01": "695f1671fca1c06ba871ab2b0122052808df720ddbc1047890df6baaf5326d02",
+    "src-df0b18054ec1": "1fda80b4de883754358a14920ab3f03e9aec19cc2fb81d7429ae1b4b223ba199",
+    "src-6ee50082e97e": "80ef2814485444625c5508335c1220bf5a9095982cce069b25144aa556fa7ebb",
+    "src-ae3ec238fe23": "317f10212c22e45b4891632efc0e89b23602b5360f28f3c7734e23a88bdf12b2",
+    "src-220efa38c406": "1cd37c7eec0885bc9e0cdf188ea2c5444f6cde8efdb8953848ef17c14f10169d",
+    "src-6e8bf66d80f9": "22cb9ac41a9260474132a3073e6b67f56d73da20b9958ba2615bef9e471c901d",
+    "src-af62f6070aa7": "765f6a51a9d7df76074f1c5a325a911aac2a5292529eb8ee6c48c7a9dd013463",
+    "src-d886f4bf6787": "e67c8be4669c61eb40d2dc04c23b19eb91993213792ab22a35e95819b069ac9a",
+    "src-d3e73f956099": "1d9dec554832133f46d8f729ef98b521f50d1d3f3b05417e0bb8c7c18a708cab",
+    "src-a6ebb6326b6a": "6ec493128f5ac3b49082cacb81f70971e90727c2bd552dfb9496dcdf5186931e",
+    "src-b366c302a081": "2580b300ab610921bcb52d12f1b30f77f6168b0fd03818e41b11ff212d93da62",
+    "src-9143cd103af6": "f83b8d3492a8f2790b3e0663931eac5a9d4ed0c5fa3954d5046865582a0cc8b5",
+    "src-a024d1720df9": "7b160952e3d0d757ce1e0dfd4f042b28490ebe205186aaa0d16442d5f4e0a5c5",
+    "src-c57cf7f12530": "cf4ea64f66b87c33fb5b96c7a5509b02f93b21242652143a96ed7cb708278ae1",
+    "src-71496b122bfb": "de89af97dfb4c3b4f663bb5160923b06c4991ebe613698f0a1215107ecbb44c9",
+    "src-940f9935241e": "6e9cb0fb205b9fbccc9237f13d7e34bf35d47cfbdfe7733bd5ee00a6f960451d",
+    "src-2997017bfd28": "465b73d22aa3400c8ee70f9f40b7d8bd267710c0cad0a9323f9efa3169cc58ca"
   }
 }

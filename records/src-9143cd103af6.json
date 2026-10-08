@@ -1,0 +1,92 @@
+{
+  "source_id": "src-9143cd103af6",
+  "snapshot_sha256": "5ab35fafface9dda6e2ebb84a9713de1a15229ac2bec4f9de4452f77c8582618",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9143cd103af6-c01",
+      "assertion": "Yazhi says starship navigation uses numeric frequency gradients; 3D and 5D are arbitrary bands rather than physical boundaries.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-9143cd103af6-c02",
+      "assertion": "She describes consciousness as scalar and fragmented across levels; people share only part of a common perceptual reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0012",
+        "p0014",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-9143cd103af6-c03",
+      "assertion": "Swaruu X says beings outside an observer’s framework may be unseen; ship gravity sensors render elementals as images and detect their mass.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0083",
+        "p0085",
+        "p0086",
+        "p0087"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-9143cd103af6-c04",
+      "assertion": "Swaruu X says reality is one vast mass; perceived physical and astral boundaries arise from agreements and individual understanding.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0066",
+        "p0067",
+        "p0069",
+        "p0074"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her framework."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "distinct-speaker-models-attributed"
+  ],
+  "coverage_gaps": [
+    "astral-parasite-claims-omitted"
+  ]
+}

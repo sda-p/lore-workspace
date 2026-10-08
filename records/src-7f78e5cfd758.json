@@ -1,0 +1,84 @@
+{
+  "source_id": "src-7f78e5cfd758",
+  "snapshot_sha256": "847d57a6df8fd6cf09162c96b77aaa581ae9eea28cb9ed784a7efc1ec140bb2c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7f78e5cfd758-c01",
+      "assertion": "Anéeka says astral contact with star families is possible, but high-frequency memories translate poorly into waking 3D.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "soul-family-groups",
+      "topics": [
+        "soul-family-groups",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says training can improve recall."
+    },
+    {
+      "id": "src-7f78e5cfd758-c02",
+      "assertion": "She says astral projection is possible; practice reduces frequency-based forgetting and improves memory retention.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f78e5cfd758-c03",
+      "assertion": "She says postmortem reincarnation follows a person’s frequency, shaped by thoughts and knowledge, potentially repeating similar suffering.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f78e5cfd758-c04",
+      "assertion": "She considers parallel astral lives possible, either as variants of one life or as separate experiences.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She makes possibility depend on the definition of parallel life."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "astral-memory-frequency-claim",
+    "postmortem-reincarnation-model"
+  ],
+  "coverage_gaps": [
+    "family-agreement-details",
+    "training-methods",
+    "parallel-life-mechanism"
+  ]
+}

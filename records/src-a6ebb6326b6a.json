@@ -1,0 +1,73 @@
+{
+  "source_id": "src-a6ebb6326b6a",
+  "snapshot_sha256": "65c5ccb93076fbdbb3895b475a3b56d2c642a8173f2a3350632f979d59592c6c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a6ebb6326b6a-c01",
+      "assertion": "Anéeka says immersion uses holographic computing for simulations, training, communication, entertainment, and therapy; consciousness can shift to a virtual or cloned avatar while the original body sleeps.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a6ebb6326b6a-c02",
+      "assertion": "Pods map neural electrochemical activity and transmit its signal by muon-gravity to a frequency-matched brain, suspending and sensory-isolating the original body.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0060",
+        "p0061",
+        "p0062",
+        "p0063",
+        "p0064",
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "muon-gravity-communications"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The avatar may be a prepared or modified body."
+    },
+    {
+      "id": "src-a6ebb6326b6a-c03",
+      "assertion": "Anéeka says the signal can reach any compatible receiver regardless of distance and uses neither radio nor microwaves.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "immersion-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "avatar-generation",
+    "full-sensory-simulation"
+  ]
+}

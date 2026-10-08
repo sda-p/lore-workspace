@@ -1,0 +1,51 @@
+{
+  "source_id": "src-b39ca55c43a5",
+  "snapshot_sha256": "7222c9385d7bde695897917c781f4fc1b86f64c5073ea2e35e9bd5402d4e31c3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b39ca55c43a5-c01",
+      "assertion": "Yazhi says extraterrestrial groups have accelerated retrieval of their Earth-based starseeds and operatives amid tightening Federation rules.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the rule changes govern travel, incarnations, visits, and contact."
+    },
+    {
+      "id": "src-b39ca55c43a5-c02",
+      "assertion": "Yazhi describes a possible partial evacuation using tractor beams, with individuals removed discreetly rather than in a mass event.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0025"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams",
+        "starseeds"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says no destination planet is required and she does not expect large-scale evacuation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speculative-extraction-account"
+  ],
+  "coverage_gaps": [
+    "planetary-politics-claims-omitted",
+    "media-conspiracy-claims-omitted"
+  ]
+}

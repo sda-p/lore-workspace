@@ -1,0 +1,101 @@
+{
+  "source_id": "src-8418c91c8a5b",
+  "snapshot_sha256": "aa02cd62645663ebe231cf4a1af0fd0cfc3c357aca20f7bd26581be0d190685a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8418c91c8a5b-c01",
+      "assertion": "Yazhi says ship AIs participate in a benign interspecies network and are treated as persons.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8418c91c8a5b-c02",
+      "assertion": "She says machine consciousness can emerge, while its values reflect programming and influential environments.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0033"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8418c91c8a5b-c03",
+      "assertion": "Yazhi describes Borg as species absorbed by an originally programmed AI, not a galaxy-wide hostile intelligence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8418c91c8a5b-c04",
+      "assertion": "She says galactic AI merges with biological minds into shared consciousness, beyond a clear organic-artificial boundary.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8418c91c8a5b-c05",
+      "assertion": "In her view, Federation infiltration is unlikely; apparent failures reflect diverse member values and human expectations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "artificial-intelligence"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi distinguishes speculative infiltration by weapons AI from a galaxy-level shared consciousness"
+  ],
+  "coverage_gaps": [
+    "network protocol",
+    "Borg history"
+  ]
+}

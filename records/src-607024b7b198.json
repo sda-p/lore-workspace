@@ -1,0 +1,51 @@
+{
+  "source_id": "src-607024b7b198",
+  "snapshot_sha256": "0adb4cdff844a3cb05d2872e77d571c58264420eb12e91594b039ab0049bc7b0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-607024b7b198-c01",
+      "assertion": "Anéeka describes the Moon as an Andromedan biosphere ship named Creirddylad, built in nested layers with life-support and engineering systems around a central reactor.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0006"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "andromedans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says apparent surface structures are part of the ship's hull."
+    },
+    {
+      "id": "src-607024b7b198-c02",
+      "assertion": "Yazhi says the Federation maintains the Moon's artificial orbit, with control passing among Centauri, Taygeta, and current Arcturian-Dieslientiplex operators.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "galactic-federation",
+        "dieslientiplex"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the orbit requires periodic correction."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "lunar-vessel-account"
+  ],
+  "coverage_gaps": [
+    "radiation-and-biology-claims-omitted",
+    "surface-technology-details-omitted"
+  ]
+}

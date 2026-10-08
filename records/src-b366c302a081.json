@@ -1,0 +1,71 @@
+{
+  "source_id": "src-b366c302a081",
+  "snapshot_sha256": "e469ce3384bc628901df1859be4b2bf9d8530317e9314c0c059e6b3546879a74",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b366c302a081-c01",
+      "assertion": "Yazhi says Taygetans first settled Erra with under 1,000 people; population peaked near 70 million, then fell to 38 million across four planets as souls leave physical life.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0011",
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b366c302a081-c02",
+      "assertion": "Yazhi says expanded planes are not destinations: consciousness imagines a place and experiences it as here, with or without a body.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0029",
+        "p0030",
+        "p0032",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b366c302a081-c03",
+      "assertion": "At death, she says the ego dissolves into ether but persists as an idea that may re-embody according to its direction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0060",
+        "p0064",
+        "p0072"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Yazhi-quantum-nexus",
+    "nonlocality"
+  ]
+}

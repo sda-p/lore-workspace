@@ -1,0 +1,117 @@
+{
+  "source_id": "src-53d3d8f6b1c3",
+  "snapshot_sha256": "235d3685774912dbb5f8f2807abfe682eff7bcce355e46c623e03678a7cb7e8b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-53d3d8f6b1c3-c01",
+      "assertion": "Anéeka reports a directed-energy strike disabled the Alfratean Valery near Toleka.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53d3d8f6b1c3-c02",
+      "assertion": "She says multiple ground emitters combined differently tuned beams to penetrate Valery’s shields.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "harmonic-shields"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53d3d8f6b1c3-c03",
+      "assertion": "Toleka and Urmah escort Avyon01 entered yellow alert; Toleka temporarily moved to high orbit.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0015"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53d3d8f6b1c3-c04",
+      "assertion": "Anéeka describes Taygetan harmonic shields as absorbing kinetic and energy impacts, growing stronger from absorbed energy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53d3d8f6b1c3-c05",
+      "assertion": "She says layered shields let slow craft pass and retain air while blocking fast projectiles.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0119",
+        "p0123",
+        "p0124",
+        "p0125",
+        "p0127",
+        "p0128"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53d3d8f6b1c3-c06",
+      "assertion": "Athena attributes the strike to factional conflict but says its exact motive and perpetrator remain unknown.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0139",
+        "p0140",
+        "p0142",
+        "p0144"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The alleged strike and factional attribution are unverified within the source"
+  ],
+  "coverage_gaps": [
+    "weapon-power-source",
+    "full-damage-assessment"
+  ]
+}

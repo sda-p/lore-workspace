@@ -1,0 +1,12 @@
+{
+  "source_id": "src-8035db074017",
+  "snapshot_sha256": "48caa3a2dfafafcafb5c698a4f93fd667ed16ff08123f3c65f4c2b82e0ff977e",
+  "language": "es",
+  "claims": [
+    {"id":"src-8035db074017-c01","assertion":"Mari Swaruu says Sophia was born aboard a fast-moving starship in hyperspace, away from planets, to limit collective-perception influences.","speaker":"Mari Swaruu","paragraph_ids":["p0010","p0016"],"primary_topic":"sophia-swaruu","topics":["sophia-swaruu","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"Mari says her mother and grandmother minimized planetary exposure during gestation."},
+    {"id":"src-8035db074017-c02","assertion":"Mari Swaruu says Sophia remembers at least twelve past incarnations and can pass through solid walls by treating her body as spirit.","speaker":"Mari Swaruu","paragraph_ids":["p0019","p0025","p0026"],"primary_topic":"sophia-swaruu","topics":["sophia-swaruu","reincarnation-cycles","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"Mari presents these as Sophia's reported abilities and understanding."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["extraordinary-character-abilities"],
+  "coverage_gaps": ["biographical-details-omitted", "personal-data-omitted"]
+}

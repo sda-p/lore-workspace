@@ -1,0 +1,50 @@
+{
+  "source_id": "src-4e74e1caea83",
+  "snapshot_sha256": "d79c821448bdd8c272fedd1237ffa70288abe43eeeba56baeb19d1c466e6a2c0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4e74e1caea83-c01",
+      "assertion": "Yazhi says humans and other humanoid species share Lyrian ancestry, but humans have distinct brain and nervous-system development and lack telepathy and extrasensory perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "primary-secondary-species",
+      "topics": [
+        "primary-secondary-species",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says humans are considered secondary by some, while Andromedans reportedly regard their genetics as superior."
+    },
+    {
+      "id": "src-4e74e1caea83-c02",
+      "assertion": "Yazhi describes the Swaruunian line as a Taygetan offshoot sharing a group genome while each individual retains distinct DNA.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "swaruunians",
+      "topics": [
+        "swaruunians",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the line's shared genome helps define it as a separate race."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "species-genome-taxonomy-account"
+  ],
+  "coverage_gaps": [
+    "dna-control-claims-omitted",
+    "individual-collection-claims-omitted"
+  ]
+}

@@ -6,6 +6,8 @@ The user authorized Luna subagents for this lore-collection project. Extraction 
 
 Original assignment files remain historical. Confirmed transfers of untouched sources are recorded by the coordinator in `work/handoffs.json` after the previous owner relinquishes them. `continuous.py shard-progress --batch <cohort> --worker <n>` applies this ownership overlay; its remaining source IDs are authoritative for extraction. Independent review assignments do not change with extraction handoffs.
 
+The coordinator owns shared partial checkpoints under `work/review-progress/`. Reviewers may run `review_checkpoint.py --check-only` to validate their private notes and obtain measured counts without writing shared files. Only the coordinator runs its mutating checkpoint mode.
+
 Continuous-pass extractors must run `python3 scripts/continuous.py extracted --source <source-id>` after validating each finished record. The required order is: write JSON, reread each exact cited passage and its speaker/qualification context, correct the unreleased record, validate, then run the marker helper. Finish and release one source before reading/drafting the next. A helper must not bundle release before citation readback. This controlled helper creates a completion marker; the worker then releases that record to its assigned independent reviewer. Reviewers may correct completed records in their own shard and write `reports/batches/<cohort>/review-<n>.json`. Extractors must not edit released records while review is in progress. Both roles still leave the shared ledger, configuration, and Git state to the coordinator.
 
 ## Source handling

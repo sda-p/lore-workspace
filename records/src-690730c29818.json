@@ -1,0 +1,12 @@
+{
+  "source_id": "src-690730c29818",
+  "snapshot_sha256": "435ca851ed42db2f7cc94ec158a220c7bd953d5f074465b3bdc810967367ece6",
+  "language": "es",
+  "claims": [
+    {"id":"src-690730c29818-c01","assertion":"Yazhi says Atlantean pyramids formed a wireless zero-point power grid, though some served only as subtle-energy condensers or portals.","speaker":"Yazhi","paragraph_ids":["p0002","p0003","p0004","p0006"],"primary_topic":"energy-generation","topics":["energy-generation","atlantis-lemuria","natural-portals"],"modality":"asserted","confidence":"high","qualifiers":"She distinguishes mercury-based Atlantean and Mesoamerican designs from water-based Federation and Lemurian pyramids."},
+    {"id":"src-690730c29818-c02","assertion":"Yazhi says counter-rotating turbine engines use enriched mercury as a high-temperature superconducting fluid; frequency tuning controls its gravity-canceling vortex.","speaker":"Yazhi","paragraph_ids":["p0012","p0013","p0014","p0026","p0027"],"primary_topic":"nuclear-magnetic-engines","topics":["nuclear-magnetic-engines","gravity-harmonics"],"modality":"asserted","confidence":"high","qualifiers":"She says without frequency control the excess energy is dangerous."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["fictional-ancient-energy-and-propulsion-claims"],
+  "coverage_gaps": ["other-pyramid-functions-omitted", "historical-site-claims-omitted"]
+}

@@ -1,0 +1,31 @@
+{
+  "source_id": "src-828dc82b2ca2",
+  "snapshot_sha256": "2c8f61f0a4a227910c05722815b944ee4da7f0ee60f58ae9751ac69d7421301f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-828dc82b2ca2-c01",
+      "assertion": "Mari Swaruu describes Matrix-generated people as projections of collective belief, comparable to non-player characters in a simulated world.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "matrix-generated-persons",
+      "topics": [
+        "matrix-generated-persons"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says this is a viewpoint-dependent spiritual concept and need not be used to label individuals."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-personhood-claim"
+  ],
+  "coverage_gaps": [
+    "social-advice-omitted",
+    "related-metaphysical-claims-omitted"
+  ]
+}

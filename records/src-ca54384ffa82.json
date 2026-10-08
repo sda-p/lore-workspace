@@ -1,0 +1,12 @@
+{
+  "source_id": "src-ca54384ffa82",
+  "snapshot_sha256": "c9047775895f5ccc556ffe12842db7d1224c17fec63ca735531a06e8fcd36871",
+  "language": "es",
+  "claims": [
+    {"id":"src-ca54384ffa82-c01","assertion":"Mari Swaruu says Suzy-class jumps leave a detectable field disturbance for seconds or minutes; combat pilots can randomize jumps through space and time to evade pursuit.","speaker":"Mari Swaruu","paragraph_ids":["p0017","p0018","p0019","p0020"],"primary_topic":"temporal-skipping","topics":["temporal-skipping","suzy-fighter-craft","frequency-map-navigation"],"modality":"asserted","confidence":"high","qualifiers":"She calls the combined spatial and temporal maneuver Space Skipping."},
+    {"id":"src-ca54384ffa82-c02","assertion":"Mari Swaruu says Athena docked two Suzy craft through ventral hatches and linked their computers so the second ship mirrored the first ship's guidance.","speaker":"Mari Swaruu","paragraph_ids":["p0027","p0029"],"primary_topic":"suzy-fighter-craft","topics":["suzy-fighter-craft","starship-systems"],"modality":"asserted","confidence":"high","qualifiers":"The link let Mari transfer aboard while her ship followed Athena's."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["personal-narrative-of-temporal-travel"],
+  "coverage_gaps": ["combat-details-omitted", "family-timeline-details-omitted"]
+}

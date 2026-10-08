@@ -1,0 +1,92 @@
+{
+  "source_id": "src-d328a6c23916",
+  "snapshot_sha256": "bddde0aaf422733eb4d75c294bff63e44237ad565de32026d31d344f5caaa240",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d328a6c23916-c01",
+      "assertion": "Athena says portals and hyperspace alter frequency compatibility; passengers and craft remain structurally intact.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0028",
+        "p0029",
+        "p0032"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d328a6c23916-c02",
+      "assertion": "She says large ships need progressive frequency shifts because mass limits engine-driven changes.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0043",
+        "p0045",
+        "p0048",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d328a6c23916-c03",
+      "assertion": "On a Terra–Temmer route, she gives Toleka’s crew seven hours SIT versus Suzy’s 36 minutes.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0064",
+        "p0065",
+        "p0071"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "toleka-class",
+        "suzy-class-starships"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d328a6c23916-c04",
+      "assertion": "Athena says small craft can shift instantly, while stronger mass-to-power ratios permit larger frequency steps.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0067",
+        "p0068"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Travel-time figures are speaker-provided examples and depend on vessel and route"
+  ],
+  "coverage_gaps": [
+    "portal energy classes",
+    "engine specifications"
+  ]
+}

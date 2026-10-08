@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Persist partial review notes with record hashes; never approve a cohort."""
+import argparse
 import json
 from pathlib import Path
 import lore
 
 root = lore.ROOT
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--check-only', action='store_true', help='Validate private notes and print measured counts without writing shared checkpoints')
+args = parser.parse_args()
 saved = 0
 for path in sorted((root.parent / 'review-notes').glob('continuous-*-review-*.json')):
     state = json.loads(path.read_text(encoding='utf-8'))
@@ -24,6 +28,9 @@ for path in sorted((root.parent / 'review-notes').glob('continuous-*-review-*.js
         hashes[sid] = lore.sha(json.dumps(record, sort_keys=True, ensure_ascii=False))
     if not ids:
         continue
+    if args.check_only:
+        print(f'{batch} reviewer {reviewer}: {len(ids)} reviewed; {len(state["corrections"])} corrections; {len(state["unresolved"])} unresolved')
+        continue
     lore.write(root / f'work/review-progress/{path.name}', {
         'status': 'partial-not-approval',
         'checkpointed_at': lore.now(),
@@ -32,4 +39,5 @@ for path in sorted((root.parent / 'review-notes').glob('continuous-*-review-*.js
         'record_sha256': hashes,
     })
     saved += 1
-print(f'Checkpointed {saved} partial review shards; no approval or ledger changes.')
+if not args.check_only:
+    print(f'Checkpointed {saved} partial review shards; no approval or ledger changes.')

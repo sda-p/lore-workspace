@@ -1,0 +1,52 @@
+{
+  "source_id": "src-5cc044e9f243",
+  "snapshot_sha256": "8a20b192a6d0eed5cd54019e5e6e428158a548c3a5eef84f360e194636d5f316",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5cc044e9f243-c01",
+      "assertion": "Mari Swaruu says the Federation-sponsored First Contact project ran from about 2008 to 2016, involving Alfratean, Antarian, and Taygetan participants, with Taygetans leading.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She notes some participants date the project’s end to 2017."
+    },
+    {
+      "id": "src-5cc044e9f243-c02",
+      "assertion": "Mari Swaruu says First Contact volunteers used Toleka computer decks to enter human social media, while a Federation server system monitored and censored orbital communications.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "toleka-class",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "They communicated by text under First Directive restrictions."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "project-dates-reported-with-variant"
+  ],
+  "coverage_gaps": [
+    "contact-failure-causes-omitted",
+    "individual-volunteer-experiences-omitted"
+  ]
+}

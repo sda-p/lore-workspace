@@ -1,0 +1,50 @@
+{
+  "source_id": "src-0c79139fd20c",
+  "snapshot_sha256": "312009394a3608e097dcb214cf50eecfcba210b39ca943f1f375bb81a9e84d40",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0c79139fd20c-c01",
+      "assertion": "Mari Swaruu says mapped sunspots and coronal holes can serve as starship portals in a wormhole transit network between stars.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says black holes are theoretically entry-only portals but are not used because transit is dangerous and unpredictable."
+    },
+    {
+      "id": "src-0c79139fd20c-c02",
+      "assertion": "Mari Swaruu says low-frequency solar events, often accompanied by sunspots, lower Earth's average frequency and make lower-astral interaction easier.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes these events from the sun's higher-frequency baseline."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "solar-frequency-metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "political-ritual-claims-omitted",
+    "historical-correlation-list-omitted"
+  ]
+}

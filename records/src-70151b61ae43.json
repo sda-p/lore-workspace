@@ -1,0 +1,106 @@
+{
+  "source_id": "src-70151b61ae43",
+  "snapshot_sha256": "1ed721fb35df5dd31dfb9faf880d629094c7fa64d37c80264c6226f8eafc9914",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-70151b61ae43-c01",
+      "assertion": "Yazhi says paranormal entities inhabit a subtler physical realm and can affect human bodies despite remaining outside ordinary perception.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0024"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70151b61ae43-c02",
+      "assertion": "Yazhi attributes protection chiefly to focused intention and fearlessness; charms and crystals can help focus a person’s power.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0035",
+        "p0043",
+        "p0127"
+      ],
+      "primary_topic": "protective-charms",
+      "topics": [
+        "protective-charms",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes paranormal defense from ordinary physical threats."
+    },
+    {
+      "id": "src-70151b61ae43-c03",
+      "assertion": "Yazhi describes some night-attack entities as energy feeders and as tulpa/egregore manifestations sustained by fear or attention.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0049",
+        "p0091",
+        "p0096",
+        "p0097"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70151b61ae43-c04",
+      "assertion": "Yazhi recommends iron, especially magnetite, as a protective charm and suggests placing iron at room corners.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0147",
+        "p0152",
+        "p0154",
+        "p0156"
+      ],
+      "primary_topic": "protective-charms",
+      "topics": [
+        "protective-charms"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls magnetite the best option."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "astral-entities",
+      "name": "Astral entities",
+      "kind": "species group",
+      "aliases": [
+        "entidades astrales",
+        "low astral entities"
+      ]
+    },
+    {
+      "id": "protective-charms",
+      "name": "Protective charms",
+      "kind": "technology",
+      "aliases": [
+        "amulets",
+        "iron charms"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "witchcraft-mechanisms",
+    "thought-influence",
+    "crystal-intelligence"
+  ]
+}

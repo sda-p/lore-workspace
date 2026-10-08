@@ -1,0 +1,89 @@
+{
+  "source_id": "src-791b660d5229",
+  "snapshot_sha256": "e268f3f16f5b57241c2e297a39e66efafa6b04099ff273a71a8e8b6e559c9ed7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-791b660d5229-c01",
+      "assertion": "Yazhi says the Draconian Empire and Orion Alliance exist beyond Earth, but human accounts distort and humanize them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alpha-draconians",
+      "topics": [
+        "alpha-draconians",
+        "orion-wars"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-791b660d5229-c02",
+      "assertion": "She says collective human fears generate Earth-specific egregors and interpretations; tulpas participate in reality formation, not fantasy.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "tulpas",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-791b660d5229-c03",
+      "assertion": "She links binary exopolitical narratives to divided human thinking; many nonhuman brains have unified cortex and different reality frames.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-791b660d5229-c04",
+      "assertion": "She says Cabal information control shapes UFO researchers’ narratives, contributing to human and nonhuman accounts conflicting.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "exopolitical-faction-claims",
+    "metaphysical-collective-reality-model"
+  ],
+  "coverage_gaps": [
+    "nonhuman-cortical-structure-details",
+    "ufology-community-variation"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "source_id": "src-75a895ec7e8f",
+  "snapshot_sha256": "f70eefb8e3dfa5e27f984ae90966b6fe0e892aa1bcb8ec5a2097244097dcd69d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-75a895ec7e8f-c01",
+      "assertion": "Mari Swaruu describes egregors as entities formed from individual or collective belief; many act programmatically, while some astral entities exist independently.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0035"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She notes the term has varying definitions."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-entity-taxonomy"
+  ],
+  "coverage_gaps": [
+    "political-manifestation-claims-omitted",
+    "paranormal-examples-omitted"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source_id": "src-00bbf49a9a01",
+  "snapshot_sha256": "5608d021436793d0562dd6cb0c620f2d7b55985b262ff2e469f7832f95b22c2c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-00bbf49a9a01-c01",
+      "assertion": "Swaruu 9 describes Operation Venus Heaven as an SSP invasion beginning in 1959; Anéeka says it may have continued through 1972–75 under Vietnam-war cover.",
+      "speaker": "Swaruu (9); Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "operation-venus-haven",
+      "topics": [
+        "operation-venus-haven",
+        "secret-space-program"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Anéeka gives the end date tentatively."
+    },
+    {
+      "id": "src-00bbf49a9a01-c02",
+      "assertion": "Anéeka says Earth’s Cabal controls Venus, where it maintains a transhumanist society and uses jump rooms to visit elite resorts.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "venus",
+      "topics": [
+        "venus",
+        "earth-cabal",
+        "secret-space-program"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-00bbf49a9a01-c03",
+      "assertion": "Yazhi says many Venusian nations were destroyed and Earth humans implanted; their identities may remain human depending on belief and each body-suit’s contents.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042",
+        "p0044",
+        "p0046",
+        "p0048",
+        "p0062"
+      ],
+      "primary_topic": "venus",
+      "topics": [
+        "venus",
+        "human-biosuit-model"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says indigenous Venusian populations also existed."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "human-biosuit-model",
+      "name": "Humanity as a shared biological suit",
+      "kind": "species model",
+      "aliases": [
+        "bio-traje humano",
+        "biological suit"
+      ]
+    }
+  ],
+  "review_flags": [
+    "venus-population:indigenous-and-imported-humans"
+  ],
+  "coverage_gaps": [
+    "regional-map-names",
+    "Eldridge-incident"
+  ]
+}

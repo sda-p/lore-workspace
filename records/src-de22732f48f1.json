@@ -1,0 +1,100 @@
+{
+  "source_id": "src-de22732f48f1",
+  "snapshot_sha256": "4e0a1aff249cba7c23d00709cf6b8336ab4a204d139904e766411472f21beff7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-de22732f48f1-c01",
+      "assertion": "Anéeka alleges Antarctica hosts a guarded inner-Earth entrance, Maitre, Draco and Kingu bases, Cabal DUMBs, and ships under ice.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "antarctica",
+      "topics": [
+        "antarctica",
+        "maitre",
+        "alpha-draconians",
+        "kingu",
+        "deep-underground-military-bases",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says these groups cooperate mainly with the United States."
+    },
+    {
+      "id": "src-de22732f48f1-c02",
+      "assertion": "She describes illuminated surface installations and extensive underground bases; whether these form Reptilian cities is unclear.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "antarctica",
+      "topics": [
+        "antarctica",
+        "deep-underground-military-bases",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de22732f48f1-c03",
+      "assertion": "She says Antarctica preserves ruins of the planetwide pre-flood Atlantis civilization.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "antarctica"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de22732f48f1-c04",
+      "assertion": "She says military no-fly restrictions keep commercial aircraft from approaching, rejecting flat-Earth explanations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "antarctica",
+      "topics": [
+        "antarctica",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "antarctica",
+      "name": "Antarctica",
+      "kind": "location",
+      "aliases": [
+        "Antarctic bases",
+        "Antarctic interior"
+      ]
+    }
+  ],
+  "review_flags": [
+    "antarctic-base-conspiracy-claims",
+    "hidden-inner-earth-entrance-claim"
+  ],
+  "coverage_gaps": [
+    "nazi-dumb-origin-date",
+    "military-guarding-countries",
+    "surface-city-count"
+  ]
+}

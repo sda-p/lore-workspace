@@ -1,0 +1,92 @@
+{
+  "source_id": "src-a024d1720df9",
+  "snapshot_sha256": "d8f6d659d6737a83c7dede4795d1347370edb37e07b79a11a38a7b982d87cedb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a024d1720df9-c01",
+      "assertion": "Yazhi says consciousness orders concepts into perceived time; time has no independent flow.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her framework."
+    },
+    {
+      "id": "src-a024d1720df9-c02",
+      "assertion": "She says collective agreements synchronize time’s appearance, while each person perceives it individually and multidirectionally.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0067",
+        "p0069",
+        "p0070",
+        "p0085"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-a024d1720df9-c03",
+      "assertion": "She says advanced races model three time axes alongside three spatial dimensions; Earth convention uses one time dimension.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0100",
+        "p0101",
+        "p0102",
+        "p0103",
+        "p0106"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-a024d1720df9-c04",
+      "assertion": "Yazhi says she can change apparent age by choice because her body reflects her mind outside collective agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0072",
+        "p0074",
+        "p0076"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-perspective-and-contradictions-attributed",
+    "time-direction-model-varies-with-context"
+  ],
+  "coverage_gaps": [
+    "gravity-flow-explanation-omitted"
+  ]
+}

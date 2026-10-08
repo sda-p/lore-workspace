@@ -1,0 +1,57 @@
+{
+  "source_id": "src-5f2ad493c00d",
+  "snapshot_sha256": "18d784bf589452c036631b9bc7e4bdf19317762ec24d04bb4e4c0fad4e187e49",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5f2ad493c00d-c01",
+      "assertion": "Yazhi describes intersecting timelines where different histories can converge on the same event; a lie remains false rather than automatically being true in another line.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as her model of historical interpretation."
+    },
+    {
+      "id": "src-5f2ad493c00d-c02",
+      "assertion": "Yazhi says time has no fixed direction; consciousness animates perceived event sequences, and each observer experiences only part of the whole.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0020",
+        "p0022",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She treats linear chronology and dimensional labels as explanatory conventions."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "timeline-model:multiple-lines-vs-explanatory-single-sequence"
+  ],
+  "coverage_gaps": [
+    "historical-examples",
+    "telepathy-as-explanation"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "source_id": "src-b6f00e97482c",
+  "snapshot_sha256": "0274ef2e13a8fae5a8a4a5be028be644ae0325682adffd63028b4016003a2c6f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b6f00e97482c-c01",
+      "assertion": "Mari Swaruu says Taygetan interferometer-family sensors can map local frequency harmonics at molecular level and detect subtle energy, including paranormal activity; spherical drones are a common collection method.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the sensors can read locations at molecular scale."
+    },
+    {
+      "id": "src-b6f00e97482c-c02",
+      "assertion": "Mari Swaruu describes spiritual and material realms as occupying the same space, with interaction possible when their frequencies coincide.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the spiritual realm is lower-frequency on average."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "paranormal-technology-and-cosmology-claims"
+  ],
+  "coverage_gaps": [
+    "medical-claims-omitted",
+    "specific-entity-claims-omitted"
+  ]
+}

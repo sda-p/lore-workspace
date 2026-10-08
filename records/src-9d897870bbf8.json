@@ -1,0 +1,51 @@
+{
+  "source_id": "src-9d897870bbf8",
+  "snapshot_sha256": "4ce01a7fa03b9b631232efcf0e289e6b1511d74877da59cb5d5234f3b07500ca",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9d897870bbf8-c01",
+      "assertion": "Mari Swaruu reports that a 110-centimeter spherical Taygetan drone mapped local frequency fluctuations and detected an invisible portal over a 50-meter street segment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "natural-portals",
+        "frequency-map-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The crew identified it as a lower-astral portal."
+    },
+    {
+      "id": "src-9d897870bbf8-c02",
+      "assertion": "Mari Swaruu says the same survey found other portals mainly inside or above government buildings, hospitals, and police stations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "spherical-drones"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She attributes these findings to Taygetan drone scans."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "paranormal-portal-claims"
+  ],
+  "coverage_gaps": [
+    "astral-entity-mechanism-omitted",
+    "specific-location-details-omitted"
+  ]
+}

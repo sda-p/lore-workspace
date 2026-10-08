@@ -1,13 +1,28 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:37:08+00:00",
+  "checkpointed_at": "2026-10-08T17:44:01+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-017",
     "reviewer": 1,
     "reviewed_source_ids": [
+      "src-0c79139fd20c",
       "src-2e44af6cf865",
-      "src-b01e12100c02"
+      "src-509a0d643adf",
+      "src-607024b7b198",
+      "src-690730c29818",
+      "src-756b0758c451",
+      "src-773f342a04a2",
+      "src-8035db074017",
+      "src-828dc82b2ca2",
+      "src-9d897870bbf8",
+      "src-b01e12100c02",
+      "src-b5be7120aaf2",
+      "src-b6f00e97482c",
+      "src-e296ebcd3f46",
+      "src-f10960087bcd",
+      "src-f3083d830387",
+      "src-fc83e68676a4"
     ],
     "corrections": [
       {
@@ -20,12 +35,56 @@
           "p0013",
           "p0019"
         ]
+      },
+      {
+        "source_id": "src-9d897870bbf8",
+        "claim_id": "src-9d897870bbf8-c01",
+        "problem": "Cited detection passage identifies an invisible portal but the lower-astral type appears in the following paragraph.",
+        "action": "Added the paragraph that explicitly classifies the portal.",
+        "paragraph_ids": [
+          "p0012",
+          "p0013"
+        ]
+      },
+      {
+        "source_id": "src-fc83e68676a4",
+        "claim_id": "src-fc83e68676a4-c01",
+        "problem": "“Access Earth” could imply physical entry; source specifically restricts access to communications on Earth for those in orbit.",
+        "action": "Specified communications access and scope.",
+        "paragraph_ids": [
+          "p0009"
+        ]
+      },
+      {
+        "source_id": "src-b6f00e97482c",
+        "claim_id": "src-b6f00e97482c-c01",
+        "problem": "“Sensors read locations at molecular scale” could imply location-resolution precision; source says harmonic mapping at molecular level.",
+        "action": "Clarified what the molecular-level measurement describes.",
+        "paragraph_ids": [
+          "p0005",
+          "p0007"
+        ]
       }
     ],
     "unresolved": []
   },
   "record_sha256": {
+    "src-0c79139fd20c": "88190fe784df85fdd3c6931ebd9724208303432e84ef5d2840bf65c1a765cbb5",
     "src-2e44af6cf865": "317018691e460880daab15402352315c6086439d562ca47ffdb509a6c9d364e6",
-    "src-b01e12100c02": "40d0d7ce7384b42884e7ed68ca668741cb62dd7bea0b3ebf8b3bc02ec8a21c75"
+    "src-509a0d643adf": "f885817a6b9c70e3dca4287c055d9e4e63d73ee3db48520feb553688ac9cec18",
+    "src-607024b7b198": "2e59154b333d3f72cd6e820870d29352c7a440ba3a8aaab7387aa5c18b8c1bba",
+    "src-690730c29818": "6d61176a25886884762eae315e54e43bd884f3725133c9067e398052808230d0",
+    "src-756b0758c451": "2074a84ff11067b02a8741d0d6464231f8b827af6b19e808f9695ace37101101",
+    "src-773f342a04a2": "3778901fc8bee008da155978f129e3f29942b3b5a331f2e1ee41578a34800f30",
+    "src-8035db074017": "68942d2e30ba2f8481c5443dd29dd571aedd2dda82aa7b81ea0024cbe650d925",
+    "src-828dc82b2ca2": "8c28842203b6641e0af83f126df2ffd1f5bce381b7cda6fb7303ecf338f72337",
+    "src-9d897870bbf8": "67aebfd27407e3a29ca15153daec7e911296f2ff3d4cb61b6cee76cefdd0d682",
+    "src-b01e12100c02": "40d0d7ce7384b42884e7ed68ca668741cb62dd7bea0b3ebf8b3bc02ec8a21c75",
+    "src-b5be7120aaf2": "4b3328db28871bb320c97836bf34323b2963775fb281bbf50df1c03e6fbd00d4",
+    "src-b6f00e97482c": "edae7f92d1fa66aa6454c560b9cad9a7626e699ba30e509f36605a9cd6b1b959",
+    "src-e296ebcd3f46": "1e4e47d0d9e3abb550352c6b6205695a1dae9231aa4c4eba04cc32db5990e642",
+    "src-f10960087bcd": "8eb6c6314836e0997d02ea7d76a77ad760b0f110ece58f1b7c59316c0a0cdcf6",
+    "src-f3083d830387": "d5c6dc0e1d4045fc013094c0fb2d8d1b551599e0d4bd2b978b92774dd548bede",
+    "src-fc83e68676a4": "0e8eaa230757eccda7dba88136f4c154641d0ace91a1148dbdf9bf648ca740e1"
   }
 }

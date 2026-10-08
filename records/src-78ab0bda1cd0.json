@@ -1,0 +1,89 @@
+{
+  "source_id": "src-78ab0bda1cd0",
+  "snapshot_sha256": "8d2ff3e2ca4cf23eac0bc5bad5ee157116a9293237f1a418584ee22673374f97",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-78ab0bda1cd0-c01",
+      "assertion": "Yazhi says higher and lower states are labels; every aspect of a collective self deserves equal importance and respect.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her framework."
+    },
+    {
+      "id": "src-78ab0bda1cd0-c02",
+      "assertion": "She says expansion brings freedom but costs a separate sense of self and integrates others’ experiences as one’s own.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0028",
+        "p0069"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "soul-family-groups"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-78ab0bda1cd0-c03",
+      "assertion": "Yazhi says expanded beings may return as starseeds or guides when seeking further experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0054",
+        "p0055",
+        "p0056"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-78ab0bda1cd0-c04",
+      "assertion": "She frames helping others as optional yet ultimately self-directed because all are aspects of one being.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0073",
+        "p0083",
+        "p0085",
+        "p0086",
+        "p0087"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "collective-self-perspective-attributed"
+  ],
+  "coverage_gaps": [
+    "suffering-and-victimhood-claims-omitted"
+  ]
+}

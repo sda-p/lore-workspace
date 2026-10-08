@@ -1,0 +1,63 @@
+{
+  "source_id": "src-ae3ec238fe23",
+  "snapshot_sha256": "a36983048f28b73344e74297c8034996739b1edc80aa23eda19575a2847f762c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ae3ec238fe23-c01",
+      "assertion": "Yazhi says starships cross interstellar distances by shifting their molecular frequency to match the destination, rather than using propulsion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae3ec238fe23-c02",
+      "assertion": "She says portal technology uses the same frequency-shift principle in reverse: the portal machine remains in place while cargo passes through its energy vortex.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae3ec238fe23-c03",
+      "assertion": "Yazhi says interstellar cultures navigate chiefly with frequency maps, reserving distance measures for short-range locations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She gives a star system or cluster as examples."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "nonlocality-metaphysics",
+    "frequency-dissonance"
+  ]
+}

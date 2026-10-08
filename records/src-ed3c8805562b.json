@@ -1,0 +1,70 @@
+{
+  "source_id": "src-ed3c8805562b",
+  "snapshot_sha256": "f3d53e10d69003972e271dae789401533c027e14ba245f51f83fe0c7bf5d8eb6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ed3c8805562b-c01",
+      "assertion": "Anéeka says Taygeta’s fleet arrived in 2008–09 based on Federation invasion accounts, then withdrew in 2017 after Swaruu reframed Earth’s conflict as collective, not conventional.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "One ship remained."
+    },
+    {
+      "id": "src-ed3c8805562b-c02",
+      "assertion": "Taygetan ships also serve as schools; adults choose practical studies, with only childhood survival skills generally compulsory.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0023"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed3c8805562b-c03",
+      "assertion": "First Contact had no formal preparation; face-to-face teams carry defensive gear expecting human hostility, though their aim is simply to announce contact.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "federation-briefing-vs-earth-experience"
+  ],
+  "coverage_gaps": [
+    "language-assignment",
+    "ship-maintenance"
+  ]
+}

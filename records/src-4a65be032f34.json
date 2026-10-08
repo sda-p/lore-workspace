@@ -1,0 +1,108 @@
+{
+  "source_id": "src-4a65be032f34",
+  "snapshot_sha256": "0e669ae96cb5d12d1b0f94d7deae96fae5d97a8f6fb4fd650be0a55e65597724",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4a65be032f34-c01",
+      "assertion": "Yazhi says Earth’s 3D civilization is intentionally contained, and mass awakening could reset its experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4a65be032f34-c02",
+      "assertion": "She confirms humans have one-tenth Lyran lifespans, alongside discussion of longevity, wisdom, and 5D awareness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4a65be032f34-c03",
+      "assertion": "Robert says humans are ETs experiencing human lives; Yazhi links starseeds to reincarnation, challenging Catholic afterlife doctrine.",
+      "speaker": "Robert; Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4a65be032f34-c04",
+      "assertion": "She says high-density travel is interdimensional and nonlocal, while lower-density observers experience planets as distant places.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4a65be032f34-c05",
+      "assertion": "Robert quotes Anéeka that souls share Source and differ by memory; Yazhi calls density limits perceptual.",
+      "speaker": "Robert quoting Anéeka; Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "reincarnation-and-catholic-control-claim",
+    "human-civilization-containment-claim"
+  ],
+  "coverage_gaps": [
+    "medical-pod-restriction",
+    "flat-earth-dispute",
+    "multiverse-rejection"
+  ]
+}

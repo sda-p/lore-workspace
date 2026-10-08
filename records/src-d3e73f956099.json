@@ -1,0 +1,91 @@
+{
+  "source_id": "src-d3e73f956099",
+  "snapshot_sha256": "22801c1ac4c580bc05e482855f6066b77d8fc9630df2dfdf6942ac0f7666f6c0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d3e73f956099-c01",
+      "assertion": "Anéeka says Taygetan orphans live in functional, age-scaled homes under noninvasive supervision; stoves have child-safe training limits.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her description."
+    },
+    {
+      "id": "src-d3e73f956099-c02",
+      "assertion": "She says conscious, technology-assisted Earth immersion has no regulator; entrants bear responsibility and may consult elders.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0063",
+        "p0064",
+        "p0068"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "total-immersion-simulations"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes this from other incarnations."
+    },
+    {
+      "id": "src-d3e73f956099-c03",
+      "assertion": "Anéeka says Taygetan astrology maps individual frequency from the galactic center through local constellations, M45 and Taygeta.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0081",
+        "p0082",
+        "p0083",
+        "p0084",
+        "p0085"
+      ],
+      "primary_topic": "frequency-astrology",
+      "topics": [
+        "frequency-astrology",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-d3e73f956099-c04",
+      "assertion": "She says Taygetan time varies by person, so telepathy and star positions coordinate events while synchronized clocks quickly drift.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0107",
+        "p0108",
+        "p0110",
+        "p0113"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "stellar-navigation",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her description."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-and-abduction-claims-excluded"
+  ],
+  "coverage_gaps": [
+    "Vega-and-Lyrian-origin-details-omitted"
+  ]
+}

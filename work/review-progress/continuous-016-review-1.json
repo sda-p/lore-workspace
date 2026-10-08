@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:37:08+00:00",
+  "checkpointed_at": "2026-10-08T17:44:01+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-016",

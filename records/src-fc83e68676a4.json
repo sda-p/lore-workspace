@@ -1,0 +1,48 @@
+{
+  "source_id": "src-fc83e68676a4",
+  "snapshot_sha256": "fbca16d05d3f49c4254b0419ee766ff71b01cbc55e7de8df6fc1fa8d2bbd224b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fc83e68676a4-c01",
+      "assertion": "Mari Swaruu says communications arriving from space pass through Andromedan biosphere ship Viera, and the Federation requires everyone in Earth orbit to access Earth communications through the Internet, enabling centralized monitoring and censorship.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this centralizes and enables monitoring and censorship of communications."
+    },
+    {
+      "id": "src-fc83e68676a4-c02",
+      "assertion": "Mari Swaruu says Federation rules treat a starship crew member on Earth's surface as human for communications and conduct restrictions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the classification appears to depend more on location than identity."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "first-directive-policy-description"
+  ],
+  "coverage_gaps": [
+    "other-restrictions-omitted",
+    "unverified-species-claims-omitted"
+  ]
+}

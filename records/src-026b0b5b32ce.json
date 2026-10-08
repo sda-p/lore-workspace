@@ -1,0 +1,12 @@
+{
+  "source_id": "src-026b0b5b32ce",
+  "snapshot_sha256": "e609a3a75b1ecafef5ef1218518e77e3bb4b18ec4d017b238f49a4272cd746cf",
+  "language": "es",
+  "claims": [
+    {"id":"src-026b0b5b32ce-c01","assertion":"Yazhi says Viera's traffic-control data showed no unusual nonhuman craft activity during the reported shootdowns.","speaker":"Yazhi","paragraph_ids":["p0005","p0008"],"primary_topic":"viera","topics":["viera","nonhuman-surveillance-drones"],"modality":"asserted","confidence":"high","qualifiers":"She says routine drone traffic continued."},
+    {"id":"src-026b0b5b32ce-c02","assertion":"Yazhi speculates that a staged alien-invasion narrative could unite humanity and justify digital identifiers, but says she does not predict it will happen.","speaker":"Yazhi","paragraph_ids":["p0010","p0011"],"primary_topic":"false-alien-invasion","topics":["false-alien-invasion","engineered-social-unrest"],"modality":"speculative","confidence":"high","qualifiers":"She presents this as one of several possible agendas."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["speculative-false-invasion-scenario"],
+  "coverage_gaps": ["specific-media-event-claims-omitted", "current-political-claims-omitted"]
+}

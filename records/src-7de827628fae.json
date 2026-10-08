@@ -1,0 +1,95 @@
+{
+  "source_id": "src-7de827628fae",
+  "snapshot_sha256": "5ffe40059e9093f924d4f3608474f02e8f93b63aa91d8bb29023b0cf8f659872",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7de827628fae-c01",
+      "assertion": "Yazhi describes hostile entities as tulpa or egregor manifestations of personal or collective fear, sustained by attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "tulpas"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-7de827628fae-c02",
+      "assertion": "She says crystals have their own intelligence and can act as 1D pets, while amplifying a user’s intention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0041",
+        "p0047",
+        "p0049"
+      ],
+      "primary_topic": "sentient-crystals",
+      "topics": [
+        "sentient-crystals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-7de827628fae-c03",
+      "assertion": "She calls some “rods” semi-physical astral insects, affected by wind and visible only through high-speed infrared cameras.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0045",
+        "p0054"
+      ],
+      "primary_topic": "interdimensional-parasites",
+      "topics": [
+        "interdimensional-parasites",
+        "elementals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-7de827628fae-c04",
+      "assertion": "Yazhi says ship gravity sensors detect goblins as mass anomalies and enhance images, while step-downs’ direct perception varies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0055",
+        "p0056",
+        "p0061"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sentient-crystals",
+      "name": "Sentient crystals",
+      "kind": "entity or phenomenon",
+      "aliases": [
+        "crystals as 1D beings",
+        "1D crystal pets"
+      ]
+    }
+  ],
+  "review_flags": [
+    "paranormal-entity-claims-attributed",
+    "mental-health-and-protection-advice-excluded"
+  ],
+  "coverage_gaps": [
+    "protection-rituals-omitted"
+  ]
+}

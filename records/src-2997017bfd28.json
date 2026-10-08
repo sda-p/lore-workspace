@@ -1,0 +1,91 @@
+{
+  "source_id": "src-2997017bfd28",
+  "snapshot_sha256": "ac806faa8ede7439e9e1b128793c1bfaf031cbee1bfa05888088cb93cfd2bedf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2997017bfd28-c01",
+      "assertion": "Yazhi says myriad past timelines converge in the observer’s present, while thoughts and choices shape branching future possibilities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-2997017bfd28-c02",
+      "assertion": "She describes each conscious observer as a singularity and universe-fragment, linked to innumerable parallel selves.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0014",
+        "p0025",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-singularity",
+      "topics": [
+        "consciousness-singularity",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-2997017bfd28-c03",
+      "assertion": "Yazhi says death is transformation, not cosmic cessation, though loss remains real to bereaved observers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042",
+        "p0045",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes expanded and limited viewpoints."
+    },
+    {
+      "id": "src-2997017bfd28-c04",
+      "assertion": "She says beliefs can manifest individualized afterlife worlds, including religious figures and collective shadow realms.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0049",
+        "p0050",
+        "p0051",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her framework."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "expanded-and-bereaved-perspectives-attributed"
+  ],
+  "coverage_gaps": []
+}

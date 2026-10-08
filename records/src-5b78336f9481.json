@@ -1,0 +1,104 @@
+{
+  "source_id": "src-5b78336f9481",
+  "snapshot_sha256": "88c72817275be8be3ed23531caf5ef77b682ff84c63f2b2e10f4dccc73f9c7fc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5b78336f9481-c01",
+      "assertion": "Anéeka describes DNA as material memory of souls; shared experiences and perception agreements form species.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b78336f9481-c02",
+      "assertion": "She says 22 identifiable lineages do not mean humans were assembled from 22 donors; each lineage contains others.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0034",
+        "p0045"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "human-clones"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b78336f9481-c03",
+      "assertion": "Anéeka accepts repeated human genetic alteration but rejects creation from scratch using 22 species.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024",
+        "p0038",
+        "p0046"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "human-clones"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b78336f9481-c04",
+      "assertion": "She says Taygetans have 24 chromosomes and 12 DNA strands; Swaruunians have 24 of each.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "swaruunians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b78336f9481-c05",
+      "assertion": "She says attention and expanded consciousness can activate latent genetic memories, independent of body location.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Genetic and chromosome claims are attributed fictional-world assertions"
+  ],
+  "coverage_gaps": [
+    "named contributing lineages",
+    "specific alteration methods"
+  ]
+}

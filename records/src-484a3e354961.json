@@ -1,0 +1,89 @@
+{
+  "source_id": "src-484a3e354961",
+  "snapshot_sha256": "e610fb785eea532d210e494aa04ea91365a049c8124e1435c35213b620dcc62b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-484a3e354961-c01",
+      "assertion": "Yazhi says Earth has a distinct perception Matrix, so terrestrial science, history and extraterrestrial concepts differ from off-world agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-484a3e354961-c02",
+      "assertion": "She says lower Federation members such as Alfrateans and Antarians enforce Earth’s blockade and concealment rules but will not liberate humans from the Cabal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0046",
+        "p0048",
+        "p0049",
+        "p0051"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-484a3e354961-c03",
+      "assertion": "She says the Federation protects Earth from opportunistic outsiders seeking resources, though this agenda conflicts with human expectations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0056",
+        "p0058",
+        "p0064",
+        "p0066"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-484a3e354961-c04",
+      "assertion": "Yazhi defines evil as opposing interests or self-destructive tendency; Federation moral categories differ from human ones.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0055",
+        "p0068"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "competing-human-and-federation-perspectives-attributed"
+  ],
+  "coverage_gaps": [
+    "information-control-claims-omitted"
+  ]
+}

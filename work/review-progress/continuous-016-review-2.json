@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:37:08+00:00",
+  "checkpointed_at": "2026-10-08T17:44:01+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-016",
@@ -13,7 +13,16 @@
       "src-8917d0622133",
       "src-9faade64b5f5",
       "src-869fdf1c4001",
-      "src-4ff159251d90"
+      "src-4ff159251d90",
+      "src-e60fdddd8457",
+      "src-ce0d96e82011",
+      "src-52d2d3f49000",
+      "src-53d3d8f6b1c3",
+      "src-d0de3dcb86df",
+      "src-63eb2c3859f8",
+      "src-77187dee8432",
+      "src-6d9f789c718e",
+      "src-bb099276c98e"
     ],
     "corrections": [
       {
@@ -35,6 +44,28 @@
           "p0019",
           "p0024"
         ]
+      },
+      {
+        "source_id": "src-52d2d3f49000",
+        "claim_id": "src-52d2d3f49000-c02",
+        "problem": "“Recent purge” was not the source’s framing and omitted its specific destruction date range.",
+        "action": "Replaced with the stated 1700–early 20th century range and mid-19th-century peak; retained allegation attribution and validated.",
+        "paragraph_ids": [
+          "p0023",
+          "p0026",
+          "p0030",
+          "p0031"
+        ]
+      },
+      {
+        "source_id": "src-53d3d8f6b1c3",
+        "claim_id": "src-53d3d8f6b1c3-c05",
+        "problem": "The projectile-blocking assertion cited a paragraph about an active directed-energy defense system rather than the toroidal shield effect.",
+        "action": "Replaced p0118 with p0119 and p0123, which describe the speed-dependent shield barrier and apply it to spacecraft; validated the record.",
+        "paragraph_ids": [
+          "p0119",
+          "p0123"
+        ]
       }
     ],
     "unresolved": []
@@ -47,6 +78,15 @@
     "src-8917d0622133": "c91d4175a31928c0d84a5159405f90a35a85350f97404f9a59b1ac3d69ab2029",
     "src-9faade64b5f5": "0c0e69ceebcd55b74148512e153dcc1878a2d50f1cdc665eb388bb62b15cbe85",
     "src-869fdf1c4001": "97546c57d9d1d1f8de615c1fea7493f7319d2c881ca70130de321a3b998404dc",
-    "src-4ff159251d90": "6c2140e55b2f08a9ba46083b05050b80376816db0ae610e4f52bfb601e550d89"
+    "src-4ff159251d90": "6c2140e55b2f08a9ba46083b05050b80376816db0ae610e4f52bfb601e550d89",
+    "src-e60fdddd8457": "2e889d4e88efa81f3f2c3ba65f11ee0e6a0d6ec74c691fd88fbc5d4959cc44d0",
+    "src-ce0d96e82011": "42c63ffc06f11fa0b2f8b358f277cb019880d4cbc8c083fe8e4a0fc72cf662ee",
+    "src-52d2d3f49000": "37de80955668de6679c16b0112a6d9b03b02c40f41b761b5296b0f95016983ec",
+    "src-53d3d8f6b1c3": "4b927925fdabbeb4e696c1a22a21768a36ae5953becb25cee65715231da8d9c8",
+    "src-d0de3dcb86df": "18b8e22beaec69f085d55c9288d621669874ee2d02519fd072df5b8785c8995e",
+    "src-63eb2c3859f8": "7feced4a3e591588a75771c7c9a487cfc0394d2d21b41d5c73fb57c240d32237",
+    "src-77187dee8432": "f5aef911d7fc3a4c5aef1e76cb9619ada1a776c1812188df2e384c72a4f1b746",
+    "src-6d9f789c718e": "5528279d2a4ef9ea6b45f161ab2d0044faa129517c8090721abc1eabca7858af",
+    "src-bb099276c98e": "a574504b3b9b69239d83b7fcb9c08dc14d11e7f78b1454f3b1d45c515cfb0163"
   }
 }

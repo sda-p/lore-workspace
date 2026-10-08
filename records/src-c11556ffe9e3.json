@@ -1,0 +1,49 @@
+{
+  "source_id": "src-c11556ffe9e3",
+  "snapshot_sha256": "bbbe57c3be78eadae412b3eeb073e757a1437df827be93b0ccb96012b787833c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c11556ffe9e3-c01",
+      "assertion": "Mari Swaruu says the Galactic Federation controls events on Earth and would prevent global nuclear destruction because no one benefits from losing the planet.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes this from permitted regional conflicts."
+    },
+    {
+      "id": "src-c11556ffe9e3-c02",
+      "assertion": "Mari Swaruu says the Federation permits Earth’s population to create its own reality, framing the planet as a school of varied experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says individual experience varies with consciousness and personal manifestation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-metaphysical-account"
+  ],
+  "coverage_gaps": [
+    "current-conflict-claims-omitted",
+    "cabal-conspiracy-claims-omitted"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "src-5ed98072b8ce",
+  "snapshot_sha256": "7277ca738b45b09eb1b7af79d84aceda6597ccaf43a593e57359b05fda260de3",
+  "language": "es",
+  "claims": [
+    {"id":"src-5ed98072b8ce-c01","assertion":"Mari Swaruu says advanced Taygetan replicators create matter from energy, but exact copies of unfamiliar complex objects still require an original to scan.","speaker":"Mari Swaruu","paragraph_ids":["p0015","p0016","p0018","p0024"],"primary_topic":"replicators","topics":["replicators","energy-generation"],"modality":"asserted","confidence":"high","qualifiers":"She distinguishes exact replication from designing a similar-looking object."},
+    {"id":"src-5ed98072b8ce-c02","assertion":"Mari Swaruu says Taygetan starships carry large engineering replicators that make replacement parts for engines and other systems, reducing dry-dock repairs.","speaker":"Mari Swaruu","paragraph_ids":["p0023"],"primary_topic":"replicators","topics":["replicators","starship-systems"],"modality":"asserted","confidence":"high","qualifiers":"She says this gives the ships nearly unlimited range."}
+  ],
+  "proposed_topics": [
+    {"id":"replicators","name":"Replicators","kind":"technology","aliases":["matter replicators","industrial replicators"]}
+  ],
+  "review_flags": ["replicator-technology-account"],
+  "coverage_gaps": ["apparel-replication-process-omitted", "cosmetics-replicators-omitted"]
+}

@@ -1,0 +1,74 @@
+{
+  "source_id": "src-da49b1ecdb2a",
+  "snapshot_sha256": "56d88354223be9e1c775a49b6f0fc3783f13ea6135be71a2c29adfa0d1c62eae",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-da49b1ecdb2a-c01",
+      "assertion": "Anéeka alleges nanotechnology uses synthetic retroviruses to replace DNA sequences regulating reproduction.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "genetic-weapons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her account of the mechanism."
+    },
+    {
+      "id": "src-da49b1ecdb2a-c02",
+      "assertion": "She says graphene serves as polymorphic nanotech whose structure can change; electromagnetic pulses only temporarily interrupt its operation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0055",
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls the effect temporary."
+    },
+    {
+      "id": "src-da49b1ecdb2a-c03",
+      "assertion": "Anéeka claims remotely altered genes could create a new human species with body and mind traits selected by controllers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0046",
+        "p0047",
+        "p0048",
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "genetic-weapons",
+      "topics": [
+        "genetic-weapons",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her allegations, not established findings."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-claims:unverified",
+    "nanotech-mechanism:remote-activation"
+  ],
+  "coverage_gaps": [
+    "differential-diagnosis",
+    "environmental-exposures"
+  ]
+}

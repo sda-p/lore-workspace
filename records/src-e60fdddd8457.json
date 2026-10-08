@@ -1,0 +1,54 @@
+{
+  "source_id": "src-e60fdddd8457",
+  "snapshot_sha256": "a45ac0db2da9daf3f9bf936364163f488043b465b5746499881558b64fa36ae2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e60fdddd8457-c01",
+      "assertion": "Yazhi says restricted awareness makes a fixed reality appear to offer free choice.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0007", "p0011", "p0012"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e60fdddd8457-c02",
+      "assertion": "She describes timelines as interacting, with events across them shaping each perceived present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0032", "p0043", "p0044"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e60fdddd8457-c03",
+      "assertion": "Yazhi says each person's awareness converges experiences from alternate selves into one identity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0061", "p0062", "p0066"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e60fdddd8457-c04",
+      "assertion": "She describes souls as Source fragments that lack total memory and seek expanded awareness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0128", "p0129", "p0130"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["temporal-model-details", "practical-guidance"]
+}
