@@ -1,0 +1,116 @@
+{
+  "source_id": "src-9524a72ff653",
+  "snapshot_sha256": "f7103263f26cb4ca4bf3e89efc263594f55c75d3b791cce29f279c258da79e3c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9524a72ff653-c01",
+      "assertion": "Yazhi says Taygetans built three redundant arks under Federation direction to preserve Earth’s genetic library after Tiamat.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0022",
+        "p0071"
+      ],
+      "primary_topic": "earth-dna-arks",
+      "topics": [
+        "earth-dna-arks",
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9524a72ff653-c02",
+      "assertion": "She places them at Giza, Vostok, and a Taygetan ship; one was destroyed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0066",
+        "p0067",
+        "p0068",
+        "p0183",
+        "p0185"
+      ],
+      "primary_topic": "earth-dna-arks",
+      "topics": [
+        "earth-dna-arks",
+        "deep-underground-military-bases",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She marks some recovery details as uncertain."
+    },
+    {
+      "id": "src-9524a72ff653-c03",
+      "assertion": "Yazhi describes the arks as AI-defended devices that read identity through DNA and frequency.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0163",
+        "p0165"
+      ],
+      "primary_topic": "earth-dna-arks",
+      "topics": [
+        "earth-dna-arks",
+        "sentient-starship-ai"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9524a72ff653-c04",
+      "assertion": "She says ark samples can restore species by imprinting genetic data into cells or lab-grown embryos.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0147",
+        "p0148",
+        "p0149",
+        "p0151"
+      ],
+      "primary_topic": "earth-dna-arks",
+      "topics": [
+        "earth-dna-arks",
+        "planetary-dna-arks"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9524a72ff653-c05",
+      "assertion": "She says Karistus controls the Russian ark and Taygeta the other surviving one.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0181",
+        "p0183"
+      ],
+      "primary_topic": "earth-dna-arks",
+      "topics": [
+        "earth-dna-arks",
+        "karistus",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "earth-ark-location-claims",
+    "ark-status-uncertainty",
+    "biological-restoration-technology"
+  ],
+  "coverage_gaps": [
+    "Ark-of-Gabriel-history",
+    "Ark-defense-weapon-mechanism",
+    "Ethiopian-ark-distinction"
+  ]
+}

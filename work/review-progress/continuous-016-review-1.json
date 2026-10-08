@@ -1,0 +1,42 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-08T17:23:54+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-016",
+    "reviewer": 1,
+    "reviewed_source_ids": [
+      "src-113e831d374d",
+      "src-1eb9dc311794",
+      "src-64966405e66f",
+      "src-99ccae21b4fb",
+      "src-b1091aecbbaa",
+      "src-e0aac48a5c49",
+      "src-fd0bbccdb853"
+    ],
+    "corrections": [
+      {
+        "source_id": "src-b1091aecbbaa",
+        "claim_id": "src-b1091aecbbaa-c01",
+        "problem": "Combined drone specifications from Swaruu X (Athena) and flight-plan/Prime Directive rules from Anéeka under Anéeka-only attribution.",
+        "action": "Separated speaker attribution in the claim while retaining both supported clauses.",
+        "paragraph_ids": [
+          "p0109",
+          "p0110",
+          "p0112",
+          "p0114"
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-113e831d374d": "fef150399b50b7b95729c4fa1c7542956d1796fe7dc09907f5411cd43c3501dc",
+    "src-1eb9dc311794": "c48124cc800ea49e9f3724cf58a64746413c47f9a571f34a6534da88fa0c249f",
+    "src-64966405e66f": "9c4f1c947de62259822337b8acf7797e2bc43ad73aec82aafef20f7fcd7329a2",
+    "src-99ccae21b4fb": "57c056efa871a11b9a340c4fbc5d1f0225ad2806dcb4f61f8a6d0e9699ab10f3",
+    "src-b1091aecbbaa": "991b6d047ed1fe5fb217c74a2095bc39847d49ad0b9229d1eda801b717194ee0",
+    "src-e0aac48a5c49": "21529bcf0a12804cb5b3f75c4bc8749afc7c62a2621bf5333821a5c7f3c1732e",
+    "src-fd0bbccdb853": "13b40307a7fc386ed6d017eb9b5cf5a64742b14c9ba5522b6c9f0e21992a6c11"
+  }
+}

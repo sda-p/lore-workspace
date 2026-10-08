@@ -1,0 +1,109 @@
+{
+  "source_id": "src-7ee742c5e8d8",
+  "snapshot_sha256": "346d7bb810f5123c52e6d852738ebf16d79b210df076e188e553b0608f397620",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7ee742c5e8d8-c01",
+      "assertion": "Yazhi says fear and collective attention can manifest material egregors reflecting their creators.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0028",
+        "p0047"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ee742c5e8d8-c02",
+      "assertion": "She describes Earth’s invasive-reptile threat as a collective fear egregor, not necessarily a species.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0015",
+        "p0025",
+        "p0086"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She discusses Earth 3D perceptions."
+    },
+    {
+      "id": "src-7ee742c5e8d8-c03",
+      "assertion": "Yazhi distinguishes actual reptilian species, including positive Alpha Dracos, from reptile-shaped egregors.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0078",
+        "p0082",
+        "p0088",
+        "p0098"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "alpha-draconians",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ee742c5e8d8-c04",
+      "assertion": "She says positive reptilians have souls, while regressive ones lack souls and feed on others.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0098",
+        "p0103",
+        "p0105"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She defines regression as self-destructive behavior."
+    },
+    {
+      "id": "src-7ee742c5e8d8-c05",
+      "assertion": "Yazhi says egregors may become self-sustaining and sentient through collective attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0107"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "egregor-versus-species-distinction",
+    "reptilian-soul-claims",
+    "contextual-contradictions"
+  ],
+  "coverage_gaps": [
+    "Lyrian-origin-claims",
+    "fear-transcendence",
+    "Jesus-egregor-opinion"
+  ]
+}

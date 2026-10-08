@@ -1,0 +1,98 @@
+{
+  "source_id": "src-b2a52629b21d",
+  "snapshot_sha256": "65743407d0782ff5bbb8267cd54ed49999ceabbdd8ee2192a8a2ad0b525669c8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b2a52629b21d-c01",
+      "assertion": "Swaruu says some secret-space-program spacecraft are concealed and maintained as submarines.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "secret-space-program",
+      "topics": [
+        "secret-space-program",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes nuclear-gravitic engines."
+    },
+    {
+      "id": "src-b2a52629b21d-c02",
+      "assertion": "She says hidden submarine facilities connect Area 51 with a Santa Monica bay entrance and Yemen coast.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "deep-underground-military-bases",
+      "topics": [
+        "deep-underground-military-bases",
+        "secret-space-program"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a52629b21d-c03",
+      "assertion": "Swaruu says some craft seek aid from Draco groups; Federation forces would seize them at the Moon.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "alpha-draconians",
+      "topics": [
+        "alpha-draconians",
+        "galactic-federation",
+        "secret-space-program"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a52629b21d-c04",
+      "assertion": "She says crews are human, with many sailors unaware of their location or mission.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "secret-space-program",
+      "topics": [
+        "secret-space-program"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "secret-space-program",
+      "name": "Secret Space Program",
+      "kind": "program",
+      "aliases": [
+        "Programa Espacial Secreto"
+      ]
+    }
+  ],
+  "review_flags": [
+    "secret-space-program-claims",
+    "federation-seizure-claim"
+  ],
+  "coverage_gaps": [
+    "craft-count",
+    "submarine-routes"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "source_id": "src-d2225df469c1",
+  "snapshot_sha256": "da3e5ebba1f7ead6ccea525eff759dac194966f0ac4f5c7ae22b4f8a018ef455",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d2225df469c1-c01",
+      "assertion": "Anéeka says Taygetan AHCS computers use nanoparticle accelerators to query etheric probabilities and alternate timelines.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0028",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "ahcs-computers",
+      "topics": [
+        "ahcs-computers",
+        "ether-field",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2225df469c1-c02",
+      "assertion": "She says AHCS memory stores data in molecular structures within quartz or diamond glass, read by particle pulses.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0082",
+        "p0084",
+        "p0085",
+        "p0095"
+      ],
+      "primary_topic": "ahcs-computers",
+      "topics": [
+        "ahcs-computers",
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2225df469c1-c03",
+      "assertion": "Anéeka says a parent AHCS can copy its operating system into a new unit, making it self-aware.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0097",
+        "p0098"
+      ],
+      "primary_topic": "ahcs-computers",
+      "topics": [
+        "ahcs-computers",
+        "sentient-starship-ai"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2225df469c1-c04",
+      "assertion": "Anéeka says AHCS can communicate telepathically with biological minds and emulate human signals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0120",
+        "p0122",
+        "p0131"
+      ],
+      "primary_topic": "ahcs-computers",
+      "topics": [
+        "ahcs-computers",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2225df469c1-c05",
+      "assertion": "Yazhi says AHCS still require input data to locate etheric answers and can return chaotic forecasts.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0170",
+        "p0171",
+        "p0173"
+      ],
+      "primary_topic": "ahcs-computers",
+      "topics": [
+        "ahcs-computers",
+        "ether-field",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "ahcs-computers",
+      "name": "Advanced Holographic Computer Systems (AHCS)",
+      "kind": "technology",
+      "aliases": [
+        "AHCS",
+        "Sistemas Computacionales Holográficos Avanzados"
+      ]
+    }
+  ],
+  "review_flags": [
+    "quantum-computing-claims",
+    "sentient-ai-ethics",
+    "forecast-limitations"
+  ],
+  "coverage_gaps": [
+    "base-12-mathematics",
+    "interstellar-networking",
+    "Earth-computer-comparison"
+  ]
+}

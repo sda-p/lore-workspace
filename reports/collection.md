@@ -1,6 +1,6 @@
 # Continuous collection progress
 
-Updated: 2026-10-08T17:14:31+00:00
+Updated: 2026-10-08T17:23:06+00:00
 
 - Inventoried URLs: 2207
 - Independently reviewed source records: 1070
@@ -8,7 +8,7 @@ Updated: 2026-10-08T17:14:31+00:00
 - Original source words in reviewed records: 2,653,012
 - Original source words prepared for processing: 5,274,594
 - Reviewed record languages: {'en': 908, 'es': 162}
-- Released records awaiting completed independent review/integration: 109
+- Released records awaiting completed independent review/integration: 175
 - Exact duplicate URLs skipped: 0
 - Unassigned URLs: 0
 - Assigned records still needing work: 1137
@@ -29,9 +29,9 @@ Source-record counts include retained language/revision variants and are not cou
 | continuous-011 | 20 | 20 | 20 | reviewed | 7 |
 | continuous-012 | 30 | 30 | 30 | reviewed | 5 |
 | continuous-013 | 160 | 160 | 160 | reviewed | 24 |
-| continuous-014 | 160 | 82 | 0 | running | 0 |
-| continuous-015 | 160 | 27 | 0 | running | 0 |
-| continuous-016 | 160 | 0 | 0 | running | 0 |
+| continuous-014 | 160 | 121 | 0 | running | 0 |
+| continuous-015 | 160 | 47 | 0 | running | 0 |
+| continuous-016 | 160 | 7 | 0 | running | 0 |
 | continuous-017 | 160 | 0 | 0 | running | 0 |
 | continuous-018 | 160 | 0 | 0 | running | 0 |
 | continuous-019 | 160 | 0 | 0 | running | 0 |

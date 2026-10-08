@@ -1,0 +1,76 @@
+{
+  "source_id": "src-26f786757cae",
+  "snapshot_sha256": "df5c1632717594dc531a95638bcbb1d82b124ee0ec92e1b41c14dd794e8f1a34",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-26f786757cae-c01",
+      "assertion": "Yazhi says stars and living beings exist across all densities at once; density is the observer’s perception, not a separate location.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0044"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model treats densities as perceptions."
+    },
+    {
+      "id": "src-26f786757cae-c02",
+      "assertion": "She describes dimensions as increasing complexity or data perceived with consciousness; broader perspectives can encompass simpler ones, and knowledge broadens perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0017",
+        "p0018",
+        "p0022"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-26f786757cae-c03",
+      "assertion": "Yazhi links density-frequency with perceived physical dimensions, saying expanded understanding changes what people perceive; becoming 5D is an individual shift, not an awaited event.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0029",
+        "p0031",
+        "p0032",
+        "p0047",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes earlier explanations by perspective."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "density-dimension-explanation-framed-as-perspective-dependent"
+  ],
+  "coverage_gaps": [
+    "unavailable-dimensional-cube-images",
+    "specific-interdimensional-examples"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "source_id": "src-55aa4da20352",
+  "snapshot_sha256": "ef933ddbf05aaed938b7ab7fb7a275b974a3b5f946c91202286f58224d5f7762",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-55aa4da20352-c01",
+      "assertion": "Anéeka attributes many worldwide livestock mutilations to regressive groups including Maitré, tall Greys, Kingu, Orange, and Malakak.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "kingu",
+        "tall-whites"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She also alleges human government agents conduct some cases."
+    },
+    {
+      "id": "src-55aa4da20352-c02",
+      "assertion": "She says mutilations supply tissues and genetic material for food, hybridization, cloning, and biointerface technologies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "human-clones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She includes human and wild animals among targets."
+    },
+    {
+      "id": "src-55aa4da20352-c03",
+      "assertion": "Anéeka says nonhuman groups collect plant genes to adapt organisms to unfamiliar atmospheres and temperatures.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She doubts this final practice occurs on Earth."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "abduction-mutilation-claims",
+    "species-labels-uncertain"
+  ],
+  "coverage_gaps": [
+    "human-selection-criteria",
+    "pcr-genetic-database-claim"
+  ]
+}

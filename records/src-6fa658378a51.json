@@ -1,0 +1,54 @@
+{
+  "source_id": "src-6fa658378a51",
+  "snapshot_sha256": "e8131e8919de9b29d24161baad0ced7afa0d22857a65502370351dfde23636e0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6fa658378a51-c01",
+      "assertion": "Yazhi says authorities shape collective reality by validating agreements and excluding perceptions they reject.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0003", "p0004", "p0005"],
+      "primary_topic": "original-matrix",
+      "topics": ["original-matrix", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-6fa658378a51-c02",
+      "assertion": "She later says each consciousness has an equally valid personal reality; collective reality is negotiated agreements, not an absolute shared perspective.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0010", "p0012", "p0053", "p0056", "p0057"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "timeline-branching"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her later framing."
+    },
+    {
+      "id": "src-6fa658378a51-c03",
+      "assertion": "She says higher-density consciousness manifests ideas faster and perceives flexible, nonlinear event sequences; lower-density material agreements slow manifestation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0013", "p0015", "p0023", "p0026", "p0027", "p0031"],
+      "primary_topic": "perceptual-density",
+      "topics": ["perceptual-density", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-6fa658378a51-c04",
+      "assertion": "She urges integrating alternate viewpoints without fixed attachments; each person may define reality but not impose it on others.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0036", "p0039", "p0062", "p0064", "p0066"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "holistic-society"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her guidance."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["objective-versus-personal-reality-framing"],
+  "coverage_gaps": ["mental-agreements-and-material-manifestation", "collective-authority-model"]
+}

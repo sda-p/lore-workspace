@@ -1,0 +1,106 @@
+{
+  "source_id": "src-113e831d374d",
+  "snapshot_sha256": "5cbf2dc4d4aeecf64bc701b7dda79ad3225cb070ad78f0bda0ec6d876bb14c20",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-113e831d374d-c01",
+      "assertion": "Athena says Merlin was a Druid, possibly Britain’s last, with Gnostic, technical and alchemical knowledge; King Arthur was his adviser and friend.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "merlin-and-arthur",
+      "topics": [
+        "merlin-and-arthur",
+        "druidic-traditions"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-113e831d374d-c02",
+      "assertion": "She portrays Druids as knowledge-keepers skilled in herbal medicine, history and metaphysics who bridged physical and spirit worlds; Bards transmitted records alongside them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "druidic-traditions",
+      "topics": [
+        "druidic-traditions",
+        "celtic-bards"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-113e831d374d-c03",
+      "assertion": "Athena attributes destruction of Druid and Bard writings to a Roman-to-Inquisition campaign to erase alternate histories; she links it to Alexandria’s library burning.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "druidic-traditions",
+      "topics": [
+        "druidic-traditions",
+        "celtic-bards",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "merlin-and-arthur",
+      "name": "Merlin and King Arthur",
+      "kind": "historical tradition",
+      "aliases": [
+        "Merlin",
+        "King Arthur"
+      ]
+    },
+    {
+      "id": "druidic-traditions",
+      "name": "Druidic traditions",
+      "kind": "institution",
+      "aliases": [
+        "Druids",
+        "Druidism"
+      ]
+    },
+    {
+      "id": "celtic-bards",
+      "name": "Celtic Bards",
+      "kind": "cultural institution",
+      "aliases": [
+        "Bards"
+      ]
+    }
+  ],
+  "review_flags": [
+    "historical-chronology-and-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "Navajo-shamanism-claims",
+    "afterlife-and-astral-framework"
+  ]
+}

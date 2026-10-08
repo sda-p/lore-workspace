@@ -1,0 +1,104 @@
+{
+  "source_id": "src-1422880235ff",
+  "snapshot_sha256": "7860e7553d5a3b0fe15444797d22508f61527341dd4a014051c68ab022f66d59",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1422880235ff-c01",
+      "assertion": "Anéeka says natural galactic spiral waves raise system frequency temporarily; the Sun relays them as solar wind.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "sunspot-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1422880235ff-c02",
+      "assertion": "She says mostly gravitational waves carry debris, penetrate scalar shields, and damage ships; toroidal shields draw engine power.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0016"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1422880235ff-c03",
+      "assertion": "Anéeka says a wave can temporarily heighten perception, prompting interest in consciousness, but its effects recede within days.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1422880235ff-c04",
+      "assertion": "She calls stars conscious and wormhole-connected, but denies a special incoming-wave link between Alcyone and Sol-13.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032",
+        "p0038",
+        "p0039",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "sunspot-portals",
+      "topics": [
+        "sunspot-portals",
+        "consciousness-metaphysics",
+        "sol-13"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1422880235ff-c05",
+      "assertion": "Anéeka says more-connected stars function as entry/exit portals used by species lacking hyperdrive.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0049"
+      ],
+      "primary_topic": "sunspot-portals",
+      "topics": [
+        "sunspot-portals",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "federation-response",
+    "lunar-matrix",
+    "solar-activity-exceptions"
+  ]
+}

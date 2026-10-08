@@ -1,0 +1,46 @@
+{
+  "source_id": "src-36c5fde4f2a4",
+  "snapshot_sha256": "fad9791258f7e2ae5ec5638944269a61fda32f7fbd7b997c46a87ec4c7b5b2f9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-36c5fde4f2a4-c01",
+      "assertion": "Anéeka defines being “awake” in this context as rejecting official COVID narratives and viewing governments and media as controlled by a regressive group.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her framing, not independently established lore."
+    },
+    {
+      "id": "src-36c5fde4f2a4-c02",
+      "assertion": "Anéeka advocates civil disobedience as the solution and rejects violence.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "pandemic-conspiracy-claims",
+    "civil-disobedience-rhetoric"
+  ],
+  "coverage_gaps": [
+    "levels-of-awakening"
+  ]
+}

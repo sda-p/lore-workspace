@@ -1,0 +1,72 @@
+{
+  "source_id": "src-74fefae75775",
+  "snapshot_sha256": "d61e941a42f11bc3e76c6692847d6e176528ebe77ae972f50a82c9cdbcf202b6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-74fefae75775-c01",
+      "assertion": "From a wider perspective, Yazhi says the repeated Swaruus are one person across life stages, produced through parthenogenesis and recurring time travel aboard two Suzy-class ships.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "swaruunians",
+      "topics": [
+        "swaruunians",
+        "temporal-skipping",
+        "suzy-fighter-craft"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74fefae75775-c02",
+      "assertion": "Yazhi presents Swaruus 2–9 as both a reincarnation loop from Swaruu 2 and nine timeline variants; Swaruu 9 branches into other lives or becomes Athena/Swaruu 10.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "swaruunians",
+      "topics": [
+        "swaruunians",
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74fefae75775-c03",
+      "assertion": "Yazhi models bodies as receivers translating a person’s consciousness from an etheric field; multiple bodies can share it, while mental firewalls preserve some individuality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "swaruunians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "full-lineage-details",
+    "cross-body-memory-access-details"
+  ]
+}

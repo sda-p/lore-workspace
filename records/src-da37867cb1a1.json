@@ -1,0 +1,108 @@
+{
+  "source_id": "src-da37867cb1a1",
+  "snapshot_sha256": "d45780d64e946eefbb719d51be459d4f1326fbf788c9d3292a7497df736af91d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-da37867cb1a1-c01",
+      "assertion": "Anéeka first suspects an artificial Guanajuato portal, then calls it a media distraction after her ship detects nothing.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-da37867cb1a1-c02",
+      "assertion": "She says magma and black-goo flows form magnetic nodes; frequency matches link sites through toroidal portals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0038",
+        "p0041"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-da37867cb1a1-c03",
+      "assertion": "Natural portals may remain open from nanoseconds to days; artificial portals are localized and controlled.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0049"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-da37867cb1a1-c04",
+      "assertion": "She says nonhuman drones use portals and may come from orbit, distant planets, or parallel dimensions to monitor activity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0046",
+        "p0051",
+        "p0055"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-da37867cb1a1-c05",
+      "assertion": "A 110cm drone carries a holographic quantum computer, muon-based communications, sensors, and a gravity-cancellation motor.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0058"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-counterpart:src-af195906d27f-close-full"
+  ],
+  "coverage_gaps": [
+    "Guanajuato skepticism",
+    "drone population and activity",
+    "Rods and 4D fauna"
+  ]
+}

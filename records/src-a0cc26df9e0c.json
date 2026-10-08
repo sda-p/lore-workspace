@@ -1,0 +1,144 @@
+{
+  "source_id": "src-a0cc26df9e0c",
+  "snapshot_sha256": "290930739db364c13b4ebd752f6f8b02da43bc6254be34d213d8803fd0557617",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a0cc26df9e0c-c01",
+      "assertion": "Swaruu says Enki and Enlil are shifting, multi-species factions, not individuals or single species.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0033",
+        "p0142"
+      ],
+      "primary_topic": "enki-enlil-factions",
+      "topics": [
+        "enki-enlil-factions",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0cc26df9e0c-c02",
+      "assertion": "She distinguishes Pleiadian Elohim groups from reptilian groups often called Anunnaki.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0071",
+        "p0103",
+        "p0104",
+        "p0105"
+      ],
+      "primary_topic": "elohim",
+      "topics": [
+        "elohim",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0cc26df9e0c-c03",
+      "assertion": "Swaruu says Usungal reptilians dominated Atlantis, guided by Draco.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0107"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "usungal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0cc26df9e0c-c04",
+      "assertion": "She says a Triangulum portal linked to the Pleiades about 12,000 years ago.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0146",
+        "p0164"
+      ],
+      "primary_topic": "triangulum",
+      "topics": [
+        "triangulum",
+        "elohim"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0cc26df9e0c-c05",
+      "assertion": "Swaruu describes pyramids as mind-powered portals, amplified by electrical gradients and a planetary grid.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0185",
+        "p0189",
+        "p0190",
+        "p0191",
+        "p0201"
+      ],
+      "primary_topic": "pyramid-network",
+      "topics": [
+        "pyramid-network",
+        "natural-portals",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "enki-enlil-factions",
+      "name": "Enki and Enlil factions",
+      "kind": "factional concepts",
+      "aliases": [
+        "Enki",
+        "Enlil"
+      ]
+    },
+    {
+      "id": "elohim",
+      "name": "Elohim groups",
+      "kind": "species group",
+      "aliases": [
+        "Elohi",
+        "Elohim"
+      ]
+    },
+    {
+      "id": "usungal",
+      "name": "Usungal",
+      "kind": "species",
+      "aliases": [
+        "Usungal reptilians"
+      ]
+    },
+    {
+      "id": "pyramid-network",
+      "name": "Planetary pyramid network",
+      "kind": "technology network",
+      "aliases": [
+        "pyramid energy grid"
+      ]
+    }
+  ],
+  "review_flags": [
+    "ancient-history-reinterpretation",
+    "species-taxonomy-ambiguous",
+    "pyramid-portal-claims"
+  ],
+  "coverage_gaps": [
+    "Egyptian-religious-mappings",
+    "Anunnaki-terminology-variations",
+    "postdiluvian-history"
+  ]
+}

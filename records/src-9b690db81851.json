@@ -1,0 +1,99 @@
+{
+  "source_id": "src-9b690db81851",
+  "snapshot_sha256": "d838e4169d235339b1802bf24a3aea7eb5120fa1d8faf5bf2ed375f2e28bcf62",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9b690db81851-c01",
+      "assertion": "Frequency-using interstellar ships can time-travel via hyperspace; Anéeka reserves it for trained elite Sand Clock teams.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "sand-clock"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b690db81851-c02",
+      "assertion": "Natural portals vary greatly; Anéeka says only large or strong ones are detected and they can appear anywhere, unpredictably.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0051"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b690db81851-c03",
+      "assertion": "Anéeka says all stars are portals, with sunspots as openings; black holes are entrances only.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "sunspot-portals",
+      "topics": [
+        "sunspot-portals",
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b690db81851-c04",
+      "assertion": "Anéeka says telepathy crosses planes and portals; Taygetans claim no distance limit, while Ummites report weakening.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0061"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b690db81851-c05",
+      "assertion": "She says a portal can theoretically connect distant locations without a ship, if destination-frequency coordinates are precise.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "portal-alarms",
+    "organic-portals",
+    "portal-closing"
+  ]
+}

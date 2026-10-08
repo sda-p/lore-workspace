@@ -1,0 +1,82 @@
+{
+  "source_id": "src-d2aab2fa5a4c",
+  "snapshot_sha256": "32819914dfb2276b229318d3788b60a645c6e466acb94a1421d443e5c75a6931",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d2aab2fa5a4c-c01",
+      "assertion": "Anéeka describes two Cabal factions, with a positive faction allied to the Federation opposing a negative one.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2aab2fa5a4c-c02",
+      "assertion": "She says Federation forces cooperate with US, NATO, and Russian militaries in underground battles.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "deep-underground-military-bases",
+      "topics": [
+        "deep-underground-military-bases",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2aab2fa5a4c-c03",
+      "assertion": "Anéeka reports about five million people, mainly children, rescued from DUMBs; higher estimates remain unconfirmed.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "deep-underground-military-bases",
+      "topics": [
+        "deep-underground-military-bases"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says figures up to twenty million were unconfirmed."
+    },
+    {
+      "id": "src-d2aab2fa5a4c-c04",
+      "assertion": "She says the positive faction repurposed negative-led quarantines to protect civilians during subterranean combat.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "deep-underground-military-bases",
+      "topics": [
+        "deep-underground-military-bases",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "factional-war-and-quarantine-conflicting-accounts",
+    "rescue-count-uncertain"
+  ],
+  "coverage_gaps": [
+    "battle-sites",
+    "weapon-details"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_id": "src-f3ee24d30a02",
+  "snapshot_sha256": "a4bb18aa36d50ab6a641037915521276097a82d2b0b620f2a211bf8d37064e79",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f3ee24d30a02-c01",
+      "assertion": "Swaruu interprets Egypt’s Virgo new year and Leo year-end as the zodiac symbolism behind the Sphinx.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3ee24d30a02-c02",
+      "assertion": "She identifies Horus as a solar figure and treats Jesus narratives as solar and zodiacal symbolism.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0031",
+        "p0072",
+        "p0079"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3ee24d30a02-c03",
+      "assertion": "Swaruu links the cross to equinoxes and twelve zodiac signs, with winter solstice myths describing solar death and rebirth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0044",
+        "p0046",
+        "p0052",
+        "p0058"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3ee24d30a02-c04",
+      "assertion": "She says Roman authorities shaped and compiled Gospel narratives under Vespasian and Constantine.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0089",
+        "p0091",
+        "p0101",
+        "p0103"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "religious-history-reinterpretation",
+    "astronomical-symbolism-claims"
+  ],
+  "coverage_gaps": [
+    "masonic-symbolism",
+    "crucifix-timeline",
+    "source-citations"
+  ]
+}

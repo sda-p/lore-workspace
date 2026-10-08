@@ -1,0 +1,35 @@
+{
+  "source_id": "src-5f6db4196608",
+  "snapshot_sha256": "2f0813c606325ebc9adfd5181ae6af2c2b9ea30c9ffd9ecb668250da11b4c0b8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5f6db4196608-c01",
+      "assertion": "Yazhi attributes iron’s protective effect to retaining an organism’s original frequency, which she says hinders astral entities from imposing their frequency or establishing possession.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0028"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "This is her metaphysical model."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "high-content-overlap-with-src-9b7bf8d19d78"
+  ],
+  "coverage_gaps": [
+    "iron-health-claims",
+    "5g-anemia-claims",
+    "vaccine-graphene-claims",
+    "iron-amulet-specifications"
+  ]
+}

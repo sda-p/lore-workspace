@@ -1,0 +1,114 @@
+{
+  "source_id": "src-8ed812c6e261",
+  "snapshot_sha256": "f5a878208eef3692c5617262018415ef004052d835525c1e07a8d0278d5b0f40",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8ed812c6e261-c01",
+      "assertion": "The Toleka laboratory report claims graphene-like particles can activate in living tissue and respond to programmed electromagnetic frequencies.",
+      "speaker": "Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0022",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ed812c6e261-c02",
+      "assertion": "The report alleges nano-graphene reads DNA and carries genetic material for targeted cellular alteration.",
+      "speaker": "Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el",
+      "paragraph_ids": [
+        "p0032",
+        "p0035",
+        "p0037",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "nanotechnology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ed812c6e261-c03",
+      "assertion": "It claims remote signals can regulate these particles, transmit biological data, and alter neural activity.",
+      "speaker": "Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el",
+      "paragraph_ids": [
+        "p0036",
+        "p0047",
+        "p0049"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ed812c6e261-c04",
+      "assertion": "The report alleges nano-graphene can spread from inoculated people and modify exposed individuals.",
+      "speaker": "Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el",
+      "paragraph_ids": [
+        "p0086",
+        "p0088",
+        "p0091"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "nanotechnology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ed812c6e261-c05",
+      "assertion": "It frames the technology as a transhumanist system for remote biological control and reduced personal autonomy.",
+      "speaker": "Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el",
+      "paragraph_ids": [
+        "p0094",
+        "p0095",
+        "p0096",
+        "p0098"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "nanotechnology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-conspiracy-claims",
+    "nonhuman-lab-report",
+    "document-caveat-incomplete-data"
+  ],
+  "coverage_gaps": [
+    "reported-parasite-findings",
+    "immune-effects-claims",
+    "report-authors-caveat"
+  ]
+}

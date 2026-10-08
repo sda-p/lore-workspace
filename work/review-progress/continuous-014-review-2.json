@@ -1,0 +1,213 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-08T17:23:54+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-014",
+    "reviewer": 2,
+    "reviewed_source_ids": [
+      "src-5b3bbfac8b2b",
+      "src-2a59653712d3",
+      "src-828b1cc9dc5c",
+      "src-872b05071e96",
+      "src-336f7353bbdf",
+      "src-42e6137b02bd",
+      "src-773f5d590da3",
+      "src-699924c5628e",
+      "src-43ae6ea7442d",
+      "src-1dacc07067a8",
+      "src-2eb79f41c6bd",
+      "src-01886647014f",
+      "src-b76cc2a83453",
+      "src-2237b5ddb772",
+      "src-e9f782478883",
+      "src-2783d6a4d5f8",
+      "src-3247a8725177",
+      "src-9b8c545032b0",
+      "src-3fc0d6ff4509",
+      "src-22febda7e5c0",
+      "src-33c7243bf8a8",
+      "src-19222374970c",
+      "src-a47091eb591b",
+      "src-47899b07f4e7",
+      "src-dec75aa6f548",
+      "src-9714c4956dbe",
+      "src-1786d1c8b594",
+      "src-36f2904b7eee",
+      "src-1903d86872f9",
+      "src-589ce84319c0",
+      "src-079a413a4643",
+      "src-b3278ce1872a",
+      "src-f680b9148842",
+      "src-99293df55ffb",
+      "src-e1b812564c1f",
+      "src-54359f164bb6",
+      "src-c1491dcb9c07",
+      "src-2c51b741eabb",
+      "src-05d9972a1c9b",
+      "src-fa41802c361c",
+      "src-45f2406866f4",
+      "src-d2aab2fa5a4c",
+      "src-d575fee8efe8",
+      "src-da37867cb1a1",
+      "src-26d9d32c0ca8",
+      "src-55aa4da20352",
+      "src-6fa658378a51",
+      "src-4ce32a647c50",
+      "src-1422880235ff",
+      "src-1f01e4810fc2",
+      "src-532cfc8f03f5",
+      "src-36c5fde4f2a4",
+      "src-06c80561b461",
+      "src-61a0b9a71122",
+      "src-62893f690998",
+      "src-78b7d4a4289d",
+      "src-c7d61405393c"
+    ],
+    "corrections": [
+      {
+        "source_id": "src-2a59653712d3",
+        "claim_id": "src-2a59653712d3-c03",
+        "problem": "Qualifier about Federation rules limiting contact to text was unsupported by its citations, which only covered the planned/canceled program and its smaller continuation.",
+        "action": "Added p0086, where Anéeka explicitly attributes text-only contact rules to Federation directives.",
+        "paragraph_ids": [
+          "p0058",
+          "p0086",
+          "p0090"
+        ]
+      },
+      {
+        "source_id": "src-872b05071e96",
+        "claim_id": "src-872b05071e96-c01",
+        "problem": "The positive-emotion-as-compass paraphrase omitted the speaker’s explicit caution that feeling positive does not by itself make something right.",
+        "action": "Added a concise qualifier preserving the need for perspective and logic.",
+        "paragraph_ids": [
+          "p0010",
+          "p0015",
+          "p0034",
+          "p0035"
+        ]
+      },
+      {
+        "source_id": "src-42e6137b02bd",
+        "claim_id": "src-42e6137b02bd-c03",
+        "problem": "The source attributes writing the official Gospels to Josephus’s scribes under Vespasian, yet separately says Constantine compiled the official documents.",
+        "action": "Added an internal-tension review flag while retaining both attributed statements without reconciling them.",
+        "paragraph_ids": [
+          "p0063",
+          "p0065",
+          "p0067"
+        ]
+      },
+      {
+        "source_id": "src-1dacc07067a8",
+        "claim_id": "src-1dacc07067a8-c02",
+        "problem": "Qualifier that regressive factions cease to be called Federation lacked its supporting paragraph.",
+        "action": "Added p0035, where Anéeka states those factions are no longer called Federation.",
+        "paragraph_ids": [
+          "p0030",
+          "p0031",
+          "p0033",
+          "p0035",
+          "p0037"
+        ]
+      },
+      {
+        "source_id": "src-36f2904b7eee",
+        "claim_id": "src-36f2904b7eee-c02",
+        "problem": "Qualifier that outcome one seemed most likely is sourced in p0015 but was uncited.",
+        "action": "Added p0015 to citation list.",
+        "paragraph_ids": [
+          "p0015"
+        ]
+      },
+      {
+        "source_id": "src-fa41802c361c",
+        "claim_id": "src-fa41802c361c-c04",
+        "problem": "The record said the brain fully translates the soul signal at seven; the transcript says it does not fully interact with that signal until around seven.",
+        "action": "Rephrased to preserve the delayed interaction and qualification.",
+        "paragraph_ids": [
+          "p0024"
+        ]
+      },
+      {
+        "source_id": "src-26d9d32c0ca8",
+        "claim_id": "src-26d9d32c0ca8-c05",
+        "problem": "Season mechanism was overcompressed as axial tilt alone; source also specifies the angle of received radiation.",
+        "action": "Added the radiation-angle qualification.",
+        "paragraph_ids": [
+          "p0015"
+        ]
+      },
+      {
+        "source_id": "src-c7d61405393c",
+        "claim_id": "src-c7d61405393c-c01",
+        "problem": "The claim’s Pharos location was in p0023, omitted from its citation list.",
+        "action": "Added p0023 to support the location of the Roman base.",
+        "paragraph_ids": [
+          "p0023"
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-5b3bbfac8b2b": "0a2cf711e043d4d162985ef36553499f824ff63273cbffb8d28dcbea130d16b5",
+    "src-2a59653712d3": "3fcbf22e3773882c26b222afbca156a828f274d7bbc0719454d3316f7890d28c",
+    "src-828b1cc9dc5c": "73d0c1e9d04a57f404a551e4e45562322be6fd93078e6337800c4835e6755b4c",
+    "src-872b05071e96": "20e7051d06d345b6e8e8daa6290f5b2a7c32e5776f91bc6c81135bdfbd29285d",
+    "src-336f7353bbdf": "a8a7d654505aa56356d7d836e20375d1dcdcc92c5a1ddb34d069b5cb2d479f45",
+    "src-42e6137b02bd": "f177e6e6620a659b7c8a368b4eec70101ba95d4ae8152853e2890ca6faa66020",
+    "src-773f5d590da3": "c37d5c4cb0bf2760fe7ab3f440cbbde42b56f86350e1bbe8b86facd20ff49afd",
+    "src-699924c5628e": "7dd075c3bb4c27aedbaab1cde445b4ec2f90edbd44c2f8e79fd852915c2976f8",
+    "src-43ae6ea7442d": "8e9c7e664bc44b9684de29eef9470a2c750f2bd241b159859742c64dc6523a00",
+    "src-1dacc07067a8": "2955ae721f83a5284d28d2915a7643e4f6389690be28e9d8c9ea97874a4611c4",
+    "src-2eb79f41c6bd": "e5268e8ddea2c39704c9db39c41de330a60ed824177796a3b79c2473f535fb3d",
+    "src-01886647014f": "60c4ec3a1b7fe51493eb6367f7bb01cb3b3e039afd126f0338f41b53c5d81613",
+    "src-b76cc2a83453": "34a99200ee8e9e02cee14cb611768a2ad0bc27e7f986aa7b2ec58b7de66ee273",
+    "src-2237b5ddb772": "54d4ab3ad00fa978d9526c3c4c86673d3061be9753a645214462ec6a22db341c",
+    "src-e9f782478883": "cc768e479e44faf56217f38f76205b1ed8a0d342bd7b99e30df455c656f52146",
+    "src-2783d6a4d5f8": "018c3c3b4a412d89236969f0fc9466d616b95d66e3815d0bc8df5ad8104ad945",
+    "src-3247a8725177": "8eeec659419a6a1ff741083a0577be5e8e8f7fea7fb0fc631e9d1c72d510e32a",
+    "src-9b8c545032b0": "3e5e3e99d76cdb3230ac205db8cb3d71109ccda40cac0d64f0fd5002f4e8a65b",
+    "src-3fc0d6ff4509": "572e10cf1a048948093a94a6e1cf038f02a6dd45eec304083fa110071559c449",
+    "src-22febda7e5c0": "c35bbba904f36d99389f5b37c48f10b448b93aeb102085e90e35d420228262e4",
+    "src-33c7243bf8a8": "b744920d37be515b1831ed68d2dc081507ca424b0beb3c40a101e80aae1ea767",
+    "src-19222374970c": "d737392e15e96735d19d733edfb6df29b311396410b66ff9aadfc35e1850ae2e",
+    "src-a47091eb591b": "3f98f0f849d5e36b3a22703073c5e4fbe211618bf91c46dd1bd30a052902dca0",
+    "src-47899b07f4e7": "14b15ad4ccda9e6363f43d07b33aeea589cc623ea8b760ed6427a85aded5e30b",
+    "src-dec75aa6f548": "3153cd8c6c83624ca2adff1bd3850fd08c36b5cf72371fbe6d6ddaa4c7afc3f0",
+    "src-9714c4956dbe": "2bb6012afeffbb48b80d3e45e8d093d549f75d55718ff5e14ef767d23253e075",
+    "src-1786d1c8b594": "eb8de9609f1512415a3d89abc0e1b76e602b42d45ee86076b795005dc7d0f220",
+    "src-36f2904b7eee": "4bd656a8d8c3cdd47f5c076d188f32c06aca44329e7709519d01cb2b97bfb3e9",
+    "src-1903d86872f9": "a885e9ef246ec325f4881ce1e85483df86f8823184c84f8d47b9078d88d00de7",
+    "src-589ce84319c0": "8867793519fc171e63bb882a0bf4c5b259f592a7b176802d1cd46653a8c5969b",
+    "src-079a413a4643": "586d7d6e084643dca8323f23dce8cf1d3c0cafeb2962cb1d40ba301910fba15b",
+    "src-b3278ce1872a": "b487c76f9ae99f8f182aac22839d30c29e45c992f9b7ae99675baf6d27bdab1e",
+    "src-f680b9148842": "31a50c72f6c29460d38cd4659d91dc245cd7cbc4737adfc9de9678926575e83b",
+    "src-99293df55ffb": "11a82933179ad0982b42662e242464851e611b126d120b1129ff9f307d194b36",
+    "src-e1b812564c1f": "dab866572e6d49ae3cf813dacd32f6d04c9dab01dd04d9b7df768bb349c4a80e",
+    "src-54359f164bb6": "2010030d4b9d66219f2998953b3e1c1665c530f4738fd457666669910fe53efd",
+    "src-c1491dcb9c07": "b54149ee4ac2bd0c09cae883d1908beff8490e10fc1b0bbd74c053ffef2dfd69",
+    "src-2c51b741eabb": "3ada911eb50c0d1ed5ebba46d28436fe56988756b6c534f578dd51a496c6b5ac",
+    "src-05d9972a1c9b": "3da698749ae3ea55267338a6d1ee0e04b96b4e92fae8f98f10aaf5d13a9369b4",
+    "src-fa41802c361c": "ba9383b426ce7e322c33a313579678afc3d64718abb1bd4df2d54cd58b06fd22",
+    "src-45f2406866f4": "bb4e7d47251df16c85750bdfa33f371162101eb873ed77b794e9452169832dcc",
+    "src-d2aab2fa5a4c": "adfef71f52fbd29de05d463288afcad1f613f36fb577508f0d9c0bcd87c979cc",
+    "src-d575fee8efe8": "a431d572aeed0096be70e86c97221f0104f436f8df4d71144fd005fafe4b1a26",
+    "src-da37867cb1a1": "f9d476e37afaaf22fcdf4c3594fc949d270fe74a7ee7ab7ffd301b912dec3c35",
+    "src-26d9d32c0ca8": "514769e183975b81875a5137abcb4c77ea9d03670681d31a13075f637dff50f0",
+    "src-55aa4da20352": "bf8125ed161521a37b20c78a54c5b1be3e707456d6c3898f359f7c4bd646c086",
+    "src-6fa658378a51": "15308718f9e09839e5735ee5ebc779dd43493eeaed891711c1efbdc74c8e75f3",
+    "src-4ce32a647c50": "8a03fd1c0a82dc35146cfc851abe0c39058c1a9d68e3474b540cfc87c7ed5893",
+    "src-1422880235ff": "8de0e4b2c3e7bd9020990f9a30e209ddea4faf0ffd32b90977d15e7e9ad9c844",
+    "src-1f01e4810fc2": "9d4744544d2f443bdd8e3b4bc2c00d687f9fb0f908c5aeaba26238c6b2573fbb",
+    "src-532cfc8f03f5": "f8b58394b3f29cfa66db91ec67fb15cecf61233b25594725d71dc5d01d917764",
+    "src-36c5fde4f2a4": "518befd829af329d1b6fe7c5cc2d49880d8f3ed254c63ff681844daa2dd63041",
+    "src-06c80561b461": "62efef8c09d02fe2d9670e5fed9a51ededbbc63ccc9a1b5e97aa83392bb96c09",
+    "src-61a0b9a71122": "688edfb14f62e956fcf0a634c54c56a3f9f187b83ff83754cd4f2122ec637fbc",
+    "src-62893f690998": "885b28679ee0c7e87cd34974cfc765560c8de7734348abcf2c15763d914436cc",
+    "src-78b7d4a4289d": "14981c223b670b5f9827700a29f65f154a2601921f138d8ddea7f6c032ae91b2",
+    "src-c7d61405393c": "e58a09dbda7ee18e5226444027e5a7a3241570e3c65fad2ebabc8c98c17c5d1f"
+  }
+}

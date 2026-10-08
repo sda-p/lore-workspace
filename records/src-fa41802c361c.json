@@ -1,0 +1,100 @@
+{
+  "source_id": "src-fa41802c361c",
+  "snapshot_sha256": "f5bd176c25ca5e4f2f4c099d3eeeacb39b31fcf0e853415769f7772c8178bdd8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fa41802c361c-c01",
+      "assertion": "Swaruu says the soul’s signal persists in living cells, though it leaves at clinical death.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa41802c361c-c02",
+      "assertion": "She says early cremation emits Lush for astral predators; autopsy suffering depends on attachment.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa41802c361c-c03",
+      "assertion": "Swaruu says blood donation links donor and recipient souls as spiritual kin.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa41802c361c-c04",
+      "assertion": "She says a child’s brain does not fully interact with the soul signal until around age seven; afterlife form follows expectations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa41802c361c-c05",
+      "assertion": "Swaruu describes afterlife imagery as culturally variable, while deceased relatives commonly appear to the dying.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "postmortem-process-claims",
+    "cultural-nde-accounts"
+  ],
+  "coverage_gaps": [
+    "cellular-necrosis-timing",
+    "infant-astral-forms"
+  ]
+}

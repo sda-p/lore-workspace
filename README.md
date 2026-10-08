@@ -16,6 +16,8 @@ The pilot contains 20 transcript records, including two candidate English/Spanis
 
 Successive cohorts are recorded under `work/cohorts/`, with immutable worker and review assignments under `work/batches/<cohort-id>/`. Four Luna extractors and two independent Luna reviewers process each cohort. Only reviewed records appear in the generated wiki. JSON records are drafts until their ledger status is `reviewed`. Exact snapshot duplicates can be skipped; translations and revisions require content comparison. Confirmed identical bodies with different titles are marked separately in the inventory; those metadata variants remain available as source records. Passage-overlap candidates alone do not authorize skipping. See `scripts/continuous.py` and the progress report for resume commands.
 
+Confirmed transfers of unstarted extraction work are preserved separately in `work/handoffs.json`; the original assignments remain historical. `continuous.py shard-progress` applies those transfers and lists the current owner's remaining IDs. Independent review assignments remain stable.
+
 ## Data and workflow
 
 `sources/manifest.json` records URLs, titles, metadata, and content hashes. `work/ledger.json` records processing state. Luna workers write independent `records/<source-id>.json` files. A coordinator validates evidence references, resolves topic identities, and rebuilds cross-linked Markdown pages. Game design inventions belong in `design/`, separate from source claims.
@@ -38,3 +40,5 @@ python3 -m unittest discover -s tests
 If the index cache is missing, `discover` downloads it. `prepare` caches the selected source versions and creates assignments. A changed source hash must be reviewed before old evidence references are reused. Git checkpoints preserve the inventory, extraction records, wiki, and ledger; transcript snapshots can be refetched and compared with the retained hashes.
 
 If the private cache is lost, restore each needed continuous cohort with `python3 scripts/lore.py prepare --selection config/selections/<cohort>.json --batch <cohort> --cache ../source-cache` before resuming workers. This compares refetched bodies against retained hashes and preserves existing ledger states. Do not rerun `ready` for an already assigned or reviewed cohort. A changed live-source hash requires explicit version reconciliation before old passage citations can be reused.
+
+Before a Git checkpoint, `python3 scripts/review_checkpoint.py` copies incremental reviewer notes into `work/review-progress/` with hashes of the reviewed records. These checkpoints are explicitly partial and cannot approve a cohort. On resume, verify assignments, release markers, source hashes, and record hashes before reusing them; changed records require another review. Integration still requires both complete reports under `reports/batches/<cohort>/`.

@@ -1,0 +1,104 @@
+{
+  "source_id": "src-a4e3084ce97a",
+  "snapshot_sha256": "97a2083140c4b5f577ee2831605f0c92d7e82a5d8b27c2227bf8ac4283f219c3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a4e3084ce97a-c01",
+      "assertion": "Swaruu says low lunar frequencies promote mental control.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4e3084ce97a-c02",
+      "assertion": "Anéeka says strong perception control is difficult because humans remain highly connected to Source.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4e3084ce97a-c03",
+      "assertion": "Swaruu clarifies that the Matrix does not directly read minds: individual and shared consciousness constructs perceived reality through agreements.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0017",
+        "p0019",
+        "p0032"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4e3084ce97a-c04",
+      "assertion": "She says digital systems and mass media can seed perceptions, while the Matrix helps human consciousness create non-real people and other artificial perceptions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "matrix-generated-persons",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4e3084ce97a-c05",
+      "assertion": "Swaruu distinguishes lunar perception control from recent invasive mind technology attributed to mobile towers.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0021",
+        "p0029"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conceptual-revision:mind-reading-vs-perception"
+  ],
+  "coverage_gaps": [
+    "original-matrix",
+    "control-mechanisms",
+    "nonhuman-consciousness"
+  ]
+}

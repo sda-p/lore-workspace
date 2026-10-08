@@ -1,0 +1,114 @@
+{
+  "source_id": "src-2c51b741eabb",
+  "snapshot_sha256": "55b693dc2a58eb0db49df207ad9d5d82c242f355e1ef210cc5990dfe768e4d65",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2c51b741eabb-c01",
+      "assertion": "Swaruu says immersion toroids reduce ship mass as it accelerates, allowing plasma jet propulsion to reach one-third light speed.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c51b741eabb-c02",
+      "assertion": "Zero-point reactors keep output stable as speed rises; ionizing reactors gain output as reactor mass increases.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c51b741eabb-c03",
+      "assertion": "Supra-luminal ships use staged frequency-map jumps, recording gravity and ether values to survey unknown regions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c51b741eabb-c04",
+      "assertion": "Swaruu says ether harmonics let computers infer unknown frequencies and interpolate gaps between measured points.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0034",
+        "p0046"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c51b741eabb-c05",
+      "assertion": "Mapped space forms corridors in a partly charted Milky Way and M33; distant or timeline-shifting expeditions may not return.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-counterpart:src-ce6ea4ce1c3c-close",
+    "translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note"
+  ],
+  "coverage_gaps": [
+    "ether ontology",
+    "stellar harmonic theory",
+    "travel-time calculation"
+  ]
+}

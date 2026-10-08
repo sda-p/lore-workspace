@@ -1,0 +1,83 @@
+{
+  "source_id": "src-7df1df339f89",
+  "snapshot_sha256": "cd10adca697cedb570b59342aa011e278147ed623847d34411370f78742f1e0d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7df1df339f89-c01",
+      "assertion": "Swaruu’s exo-gen model treats virus-like particles as cell-emitted genetic alarm signals, not external agents.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0009",
+        "p0024"
+      ],
+      "primary_topic": "exo-gen",
+      "topics": [
+        "exo-gen",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-7df1df339f89-c02",
+      "assertion": "She says receptor compatibility and a recipient’s stress influence whether these signals trigger illness, with responses varying by species or cell type.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "exo-gen",
+      "topics": [
+        "exo-gen",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-7df1df339f89-c03",
+      "assertion": "She compares people, animals, and plants to Earth’s cells, describing Taygetans as signals from Temmer and Erra reaching Earth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "exo-gen",
+      "topics": [
+        "exo-gen",
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her analogy."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "exo-gen",
+      "name": "Exo-gen cellular signaling model",
+      "kind": "biological phenomenon",
+      "aliases": [
+        "exo-gen",
+        "exo-gen signals"
+      ]
+    }
+  ],
+  "review_flags": [
+    "alternative-biology-claim"
+  ],
+  "coverage_gaps": [
+    "testing-claims-excluded",
+    "vaccine-claims-excluded"
+  ]
+}

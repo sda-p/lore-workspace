@@ -1,0 +1,127 @@
+{
+  "source_id": "src-9e56879471e5",
+  "snapshot_sha256": "302366476f12295d578790cef7b7c489069c4837b250677c625e91b367c37287",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9e56879471e5-c01",
+      "assertion": "Swaruu says animals are persons; ship time-jumps may let Taygetan cats exceed 1,000 years.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9e56879471e5-c02",
+      "assertion": "She says animal death may stem from inner exhaustion; euthanasia may fit a pet’s plan.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9e56879471e5-c03",
+      "assertion": "Dhor says animals escape astral traps; souls linger there by choice and attachment.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0044",
+        "p0046",
+        "p0048"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9e56879471e5-c04",
+      "assertion": "Dhor speculates an aura spectrometer could trace an incarnated soul across timelines, despite soul nonlocality.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0054",
+        "p0056"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9e56879471e5-c05",
+      "assertion": "He says received love joins a pet’s soul; it experiences loved ones as present.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0057",
+        "p0058",
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9e56879471e5-c06",
+      "assertion": "He says souls at the Source experience all incarnations at once.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0067",
+        "p0068"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-counterpart:none-identified"
+  ],
+  "coverage_gaps": [
+    "astral reincarnation choices",
+    "soul mirrors",
+    "animal perceptions"
+  ]
+}

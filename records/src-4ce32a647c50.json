@@ -1,0 +1,105 @@
+{
+  "source_id": "src-4ce32a647c50",
+  "snapshot_sha256": "46a75d4bab1daedf266915126bde0913f5ebc4588d4e963f9984f0600d5606fa",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4ce32a647c50-c01",
+      "assertion": "Anéeka presents Taygeta’s official position that the virus was a global media psyop, supported by staged scenes and repurposed images.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ce32a647c50-c02",
+      "assertion": "She says Taygetan reconnaissance found hospitals empty and a cargo plane’s alleged coffin load absent.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018",
+        "p0035"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ce32a647c50-c03",
+      "assertion": "Anéeka speculates that 5G could induce symptoms in localized groups, while describing the wider pandemic narrative as media-driven.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0034"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "nanotechnology"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ce32a647c50-c04",
+      "assertion": "She characterizes 5G as a weapon that may activate nano-technology or induce symptoms, potentially lethally.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0034"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ce32a647c50-c05",
+      "assertion": "Anéeka claims a coronavirus vaccine contains 5G-activatable nanochips that could kill recipients.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0036"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-lore",
+    "translation-counterpart-unconfirmed"
+  ],
+  "coverage_gaps": [
+    "quarantine-politics",
+    "alternate-virus-explanations",
+    "Swaruu-symbolism"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "source_id": "src-27117e8f1038",
+  "snapshot_sha256": "f9fd9e6e3a90c4d9cf860db0a23fa5ed66bbfafc926fb1d8fdf3d106992e80c3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-27117e8f1038-c01",
+      "assertion": "Anéeka reports eight onboard blood samples showed no coronavirus, while acknowledging a virus could still exist.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-27117e8f1038-c02",
+      "assertion": "She portrays China as a Cabal testing ground and the hospital construction story as media theater.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-27117e8f1038-c03",
+      "assertion": "Anéeka describes anti-radiation nanodust aerosols that counter radiation through destructive interference.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-27117e8f1038-c04",
+      "assertion": "She says Taygeta coordinates positive dust deployment with other races to counter metal aerosols used against Federation ships.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-27117e8f1038-c05",
+      "assertion": "Anéeka says chemtrails track Federation craft, which can face combined EMP, plasma, scalar-energy, and microwave attacks.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "nanodust-countermeasure",
+      "name": "Nanodust countermeasure",
+      "kind": "technology",
+      "aliases": [
+        "nano dust"
+      ]
+    }
+  ],
+  "review_flags": [
+    "laboratory-virus-report-uncertain",
+    "directed-energy-attack-claims"
+  ],
+  "coverage_gaps": [
+    "anti-radiation-dust-mechanism",
+    "other-chemtrail-uses"
+  ]
+}

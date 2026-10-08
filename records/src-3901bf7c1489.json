@@ -1,0 +1,61 @@
+{
+  "source_id": "src-3901bf7c1489",
+  "snapshot_sha256": "9f95a42ab58d47104e11d36a945401314890c9109c7da6a71296d6c0a2746aa3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3901bf7c1489-c01",
+      "assertion": "The article describes Naki bide’taa’ii as untamable sixth-density equines with two close forehead horns that can move between densities.",
+      "speaker": "Article text (credited to Anéeka and Yazhi; paragraph-level attribution unspecified)",
+      "paragraph_ids": ["p0002", "p0003", "p0006"],
+      "primary_topic": "naki-bideetaaii",
+      "topics": ["naki-bideetaaii", "alien-species"],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3901bf7c1489-c02",
+      "assertion": "Yazhi says imagined unicorns exist in higher densities as ideas or conscious beings that may choose this form to communicate downward.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0012", "p0013", "p0018"],
+      "primary_topic": "unicorn-symbolism",
+      "topics": ["unicorn-symbolism", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3901bf7c1489-c03",
+      "assertion": "She says higher-density beings may project forms downward by intention, with manifestation becoming faster as density rises.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0014", "p0016", "p0017"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "perceptual-density"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3901bf7c1489-c04",
+      "assertion": "Anéeka reports no records of winged horses; she describes tiny white semi-equine creatures on Cyndriel and Aldebaran as seahorse-like, not quadrupeds.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0023"],
+      "primary_topic": "alien-species",
+      "topics": ["alien-species", "cyndriel"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "naki-bideetaaii",
+      "name": "Naki bide’taa’ii",
+      "kind": "species",
+      "aliases": ["Naki bidee’taa’ii", "Naki bide'taa'ii"]
+    }
+  ],
+  "review_flags": ["translation-counterpart:src-0bdff38c9c01-exact-full"],
+  "coverage_gaps": ["Naki-habitat", "unicorn-form", "Pegasus-symbolism"]
+}

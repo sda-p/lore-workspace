@@ -1,0 +1,43 @@
+{
+  "source_id": "src-05d9972a1c9b",
+  "snapshot_sha256": "fce5b83616b99b7c61fb6f8ed004fced83d5922ec99c0c92a2e465e2a0de92d5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-05d9972a1c9b-c01",
+      "assertion": "Alenym and Anéeka accuse Federation factions of directing Earth's secret-society hierarchy, violating nonintervention and pursuing one government, religion, currency, and transhumanism.",
+      "speaker": "Alenym and Anéeka",
+      "paragraph_ids": ["p0030", "p0035", "p0041", "p0045", "p0053", "p0055", "p0059", "p0060"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Their accusations concern factions, not all members."
+    },
+    {
+      "id": "src-05d9972a1c9b-c02",
+      "assertion": "Alenym says the Alcyone Council is a subordinate Federation member that prioritizes M45 civilizations; in May 2020 it backed her and requested ship data.",
+      "speaker": "Alenym",
+      "paragraph_ids": ["p0031", "p0032"],
+      "primary_topic": "alcyone-council",
+      "topics": ["alcyone-council", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-05d9972a1c9b-c03",
+      "assertion": "Swaruu later says the 5D Federation follows collective human wishes and sends experienced starseed guides; non-emotional overseers may accelerate harmful experiences.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0124", "p0126", "p0128", "p0129", "p0132", "p0134"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "starseeds"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her contrasting account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["federation-control-allegations-versus-collective-consent-model"],
+  "coverage_gaps": ["human-rebellion-claims", "earth-containment-rationale"]
+}

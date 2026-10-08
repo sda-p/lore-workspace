@@ -1,0 +1,87 @@
+{
+  "source_id": "src-de139e50d05b",
+  "snapshot_sha256": "6d0c84fa147940d196bd757f7fd026d9fe35cc56594587fd23f25f3dff7b18cd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-de139e50d05b-c01",
+      "assertion": "Swaruu says postmortem realms reflect individual or collective expectations; the dead may perceive bodies and physicality at compatible frequencies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de139e50d05b-c02",
+      "assertion": "She says some human souls may attach to living people through shared interests, while others stay because they do not know or want to reincarnate.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0036",
+        "p0038",
+        "p0043"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "reincarnation-cycles"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de139e50d05b-c03",
+      "assertion": "She says Taygetan natural death may be voluntary and peaceful during sleep; technology reduces end-of-life suffering, and euthanasia is rare.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-de139e50d05b-c04",
+      "assertion": "She describes Taygetan burial in nature, with bodies wrapped in linen or cotton and organic ties.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0045"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "afterlife-claims-are-source-model"
+  ],
+  "coverage_gaps": [
+    "nde-cultural-variations",
+    "twin-and-lover-soul-bonds",
+    "reincarnation-injury-memory"
+  ]
+}

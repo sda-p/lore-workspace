@@ -1,0 +1,87 @@
+{
+  "source_id": "src-b87a9c4ceb6f",
+  "snapshot_sha256": "ec8076a24dc2613b4877a229f1f9844f818a0a8e19325846d4dcaf155882535a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b87a9c4ceb6f-c01",
+      "assertion": "Anéeka says imported 3D biological samples can lose their original pattern; Taygetan lab cylinders hold a precise frequency so samples can be studied.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "frequency-holding-containers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b87a9c4ceb6f-c02",
+      "assertion": "She says missiles may briefly match a ship’s shield harmonics while it interacts with 3D; scalar shields cycle frequencies to cover multiple densities.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b87a9c4ceb6f-c03",
+      "assertion": "She claims satellites can count people more accurately when crowds stay spaced, as close groups blur the signal.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b87a9c4ceb6f-c04",
+      "assertion": "She describes some nanotechnology as metal fragments that release substances or react magnetically, distinct from articulated micro-robots.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "frequency-holding-containers",
+      "name": "Frequency-holding sample containers",
+      "kind": "technology",
+      "aliases": [
+        "frequency-preserving laboratory container"
+      ]
+    }
+  ],
+  "review_flags": [
+    "nanotechnology-claim-in-vaccine-context"
+  ],
+  "coverage_gaps": [
+    "other-pandemic-claims",
+    "full-laboratory-equipment-description"
+  ]
+}

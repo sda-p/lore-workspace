@@ -1,0 +1,32 @@
+{
+  "source_id": "src-3dd31a924503",
+  "snapshot_sha256": "f45fa79d73347f9d33d9d1a7fc9fa2183e64d9ab76c25c0cae6f6f1a9fe9659e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3dd31a924503-c01",
+      "assertion": "Anéeka alleges Democrats used “The Hammer,” an Obama-commissioned intelligence and counterintelligence computer, to manipulate elections, including the 2020 vote.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as intelligence from her sources."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "dated-2020-election-claim"
+  ],
+  "coverage_gaps": [
+    "election-litigation-timeline",
+    "reinstatement-prediction"
+  ]
+}

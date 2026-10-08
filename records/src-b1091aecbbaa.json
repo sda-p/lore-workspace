@@ -1,0 +1,90 @@
+{
+  "source_id": "src-b1091aecbbaa",
+  "snapshot_sha256": "795905dd5d592cae855e9fb983fcd5a4c87a069003120f704cd90130ff3bef68",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b1091aecbbaa-c01",
+      "assertion": "Athena says 110-centimeter interstellar drones need no mothership; Anéeka says Federation traffic control requires flight plans and unsanctioned displays violate the Prime Directive.",
+      "speaker": "Anéeka; Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0109",
+        "p0110",
+        "p0112",
+        "p0114"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b1091aecbbaa-c02",
+      "assertion": "She says medical pods produce clones held in transparent stasis; dormant clones have minimal links to originals and raise ethical concerns.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0162",
+        "p0168",
+        "p0170",
+        "p0172",
+        "p0176"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "medical-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b1091aecbbaa-c03",
+      "assertion": "The article says step-down insertion places a full identity in the terrestrial Matrix, sometimes leaving a mirror person upon departure.",
+      "speaker": "Article narration",
+      "paragraph_ids": [
+        "p0185",
+        "p0186"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b1091aecbbaa-c04",
+      "assertion": "Athena says photos summarize converging timelines; the same moment can have different branch histories without contradiction.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0194",
+        "p0195",
+        "p0196",
+        "p0198",
+        "p0199"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "named-interpersonal-allegations",
+    "detailed-counterintelligence-narrative",
+    "photo-manipulation-accusations"
+  ]
+}

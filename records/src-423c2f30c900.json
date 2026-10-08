@@ -1,0 +1,49 @@
+{
+  "source_id": "src-423c2f30c900",
+  "snapshot_sha256": "f7fc5e41b65e246b8a55f68e9985c5b615430b79a8d98717de536b19f370f78f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-423c2f30c900-c01",
+      "assertion": "Yazhi portrays social dissenters as threats and urges resistance, including nonviolent defense.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames this as a struggle for species survival."
+    },
+    {
+      "id": "src-423c2f30c900-c02",
+      "assertion": "Yazhi alleges doctors and pharmaceutical interests sustain harmful official measures; she calls for doctors to organize.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She exempts some doctors who already act."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "pandemic-conspiracy-claims",
+    "mobilization-rhetoric"
+  ],
+  "coverage_gaps": [
+    "specific-doctor-network"
+  ]
+}

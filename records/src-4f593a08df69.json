@@ -1,0 +1,61 @@
+{
+  "source_id": "src-4f593a08df69",
+  "snapshot_sha256": "c4b9d11c8550c3797b078f5fc328e86ab6f363f6fc7702125c1566c3e46abe75",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4f593a08df69-c01",
+      "assertion": "Yazhi rejects automatic utopian 5D ascension; she describes individual perceptual growth and says like-minded people could build a better, still dualistic society.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0004", "p0005", "p0011"],
+      "primary_topic": "individual-ascension",
+      "topics": ["individual-ascension", "perceptual-density"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f593a08df69-c02",
+      "assertion": "She says isolated ascenders may experience an inner alternate world, then after death match worlds suited to their awareness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0014", "p0015"],
+      "primary_topic": "individual-ascension",
+      "topics": ["individual-ascension", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f593a08df69-c03",
+      "assertion": "Yazhi argues passive ascension expectations benefit the Cabal; people must act and agree collectively to form a better society.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0013", "p0017", "p0022", "p0032"],
+      "primary_topic": "individual-ascension",
+      "topics": ["individual-ascension", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f593a08df69-c04",
+      "assertion": "Her shadow work faces deeply undesirable traits; awareness integrates rather than represses them, which she links to virtue.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0024", "p0026", "p0027", "p0029", "p0031"],
+      "primary_topic": "shadow-work",
+      "topics": ["shadow-work", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "individual-ascension",
+      "name": "Individual ascension",
+      "kind": "cosmological process",
+      "aliases": ["ascensión individual", "individual ascension"]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": ["new-age-critique", "postmortem-worlds", "dualism" ]
+}

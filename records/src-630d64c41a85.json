@@ -1,0 +1,54 @@
+{
+  "source_id": "src-630d64c41a85",
+  "snapshot_sha256": "208ce791c634ef5fe790ee574afe7b46904d461e33b3feac8192a3998cd0c92e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-630d64c41a85-c01",
+      "assertion": "Swaruu describes stars as wormhole exits paired with black-hole entrances; each toroidal portal system may have multiple frequency-dependent routes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0010", "p0011", "p0042", "p0097", "p0098"],
+      "primary_topic": "natural-portals",
+      "topics": ["natural-portals", "black-holes"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-630d64c41a85-c02",
+      "assertion": "She says Taygetan ships generate custom wormholes, using propulsion only for maneuvers; natural black-hole-to-star transit is lower technology.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0101", "p0102", "p0103"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems", "taygetans", "natural-portals"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her technology comparison."
+    },
+    {
+      "id": "src-630d64c41a85-c03",
+      "assertion": "Inside the ether, Yazhi says ship-frequency changes can shift exit stars; black-hole navigation is harder than solar portals.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0122", "p0124", "p0125", "p0127"],
+      "primary_topic": "natural-portals",
+      "topics": ["natural-portals", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her navigation model."
+    },
+    {
+      "id": "src-630d64c41a85-c04",
+      "assertion": "Anéeka says sunspots open cyclical, predictable ship portals; inactive spots can make nearby transit difficult or stop it.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0005", "p0006"],
+      "primary_topic": "sunspot-portals",
+      "topics": ["sunspot-portals", "natural-portals"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["solar-and-black-hole-portal-model"],
+  "coverage_gaps": ["solar-consciousness", "toroidal-matter-model", "solar-health-claims"]
+}

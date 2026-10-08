@@ -150,8 +150,21 @@ def extracted(sid,cache):
     lore.write(marker,{'source_id':sid,'completed_at':lore.now(),'record_sha256':lore.sha(__import__('json').dumps(record,sort_keys=True,ensure_ascii=False)),**result})
     print(sid,'ready for independent review')
 
+def extraction_assignment(batch,worker):
+    assignments={i:list(lore.read(ROOT/f'work/batches/{batch}/worker-{i}.json')['source_ids']) for i in range(1,5)}
+    path=ROOT/'work/handoffs.json'
+    for transfer in lore.read(path)['transfers'] if path.exists() else []:
+        if transfer['batch_id']!=batch: continue
+        previous,following=transfer['from_worker'],transfer['to_worker']
+        ids=transfer['source_ids']
+        if previous==following or len(ids)!=len(set(ids)) or not set(ids)<=set(assignments[previous]) or set(ids)&set(assignments[following]):
+            raise ValueError('Invalid extraction ownership handoff')
+        assignments[previous]=[sid for sid in assignments[previous] if sid not in ids]
+        assignments[following].extend(ids)
+    return assignments[worker]
+
 def shard_progress(batch,worker):
-    ids=lore.read(ROOT/f'work/batches/{batch}/worker-{worker}.json')['source_ids']
+    ids=extraction_assignment(batch,worker)
     released=[sid for sid in ids if (ROOT/f'work/completed/{sid}.json').exists() and (ROOT/f'records/{sid}.json').exists()]
     records=[lore.read(ROOT/f'records/{sid}.json') for sid in released]
     budgets=[sum(len((c['assertion']+' '+c['qualifiers']).split()) for c in record['claims']) for record in records]

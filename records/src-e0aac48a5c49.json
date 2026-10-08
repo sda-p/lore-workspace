@@ -1,0 +1,69 @@
+{
+  "source_id": "src-e0aac48a5c49",
+  "snapshot_sha256": "88bef2135b93e6137c6d9b70f2da7389890e112fd9c4ab216d613a65a97b2e15",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e0aac48a5c49-c01",
+      "assertion": "Anéeka says Taygetan craft combine holographic interfaces with physical joysticks and pedals; telepathic controls can materialize to fit each pilot, while Alfrateans may need manual or autopilot.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050",
+        "p0052",
+        "p0060",
+        "p0062"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0aac48a5c49-c02",
+      "assertion": "She describes Toleka’s layered harmonic shields as containing hangar air and allowing slow craft through while blocking fast projectiles via velocity and tuned-frequency effects.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0153",
+        "p0157",
+        "p0163"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0aac48a5c49-c03",
+      "assertion": "Anéeka says Taygetan shields absorb kinetic and energy impacts, strengthening when struck; maximum protection requires plasma engines running and cannot be sustained continuously.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0068",
+        "p0072",
+        "p0074"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "shuttle-motor-specifications",
+    "Alfratean-ship-damage-report",
+    "energy-weapon-claims"
+  ]
+}

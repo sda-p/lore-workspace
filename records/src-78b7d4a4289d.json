@@ -1,0 +1,89 @@
+{
+  "source_id": "src-78b7d4a4289d",
+  "snapshot_sha256": "4baaf7b4782d7df7ee671076a608b7704ced29c395a2dcae6bbd6823166bb669",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-78b7d4a4289d-c01",
+      "assertion": "Swaruu describes the higher Federation as nonphysical, guiding 5D through consequence-awareness and perception changes rather than imposed orders.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0043",
+        "p0053",
+        "p0060"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-78b7d4a4289d-c02",
+      "assertion": "She proposes case-by-case intervention, including removing key power-holders and changing perceptions; she says humans may later hold visible perpetrators accountable.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0036",
+        "p0038",
+        "p0056"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Proposed, not described as completed."
+    },
+    {
+      "id": "src-78b7d4a4289d-c03",
+      "assertion": "She blames some controlling Federation factions, including some Andromedans and Arcturians, for mentoring emotional humanity, not entire species or the organization.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "andromedans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78b7d4a4289d-c04",
+      "assertion": "She says higher-Federation membership is self-chosen through consciousness integration, without applications or appointments.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "intervention-position-varies-across-dialogues"
+  ],
+  "coverage_gaps": [
+    "5d-factional-ethics",
+    "human-free-will-model"
+  ]
+}

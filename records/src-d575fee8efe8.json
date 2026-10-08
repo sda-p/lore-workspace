@@ -1,0 +1,61 @@
+{
+  "source_id": "src-d575fee8efe8",
+  "snapshot_sha256": "20df0e06bf13cc1014f096cd6aa12d05bdb2689fef51b7c146e20a8908135230",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d575fee8efe8-c01",
+      "assertion": "Swaruu says regressive reptile and Archon forms are egregors sustained by focused creative attention; fear concentrates it but is not their food itself.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0014", "p0015", "p0016", "p0090", "p0095"],
+      "primary_topic": "egregors",
+      "topics": ["egregors", "reptilians", "archons-and-demons"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-d575fee8efe8-c02",
+      "assertion": "She distinguishes these forms from reptilian species: positive reptilians have souls and include Alpha Dracos.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0103", "p0105", "p0107", "p0119"],
+      "primary_topic": "reptilians",
+      "topics": ["reptilians", "egregors", "alpha-dracos"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Not all reptiles are egregors."
+    },
+    {
+      "id": "src-d575fee8efe8-c03",
+      "assertion": "She says sufficiently strong egregors may become self-aware and self-sustaining, as species manifest.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0123", "p0124"],
+      "primary_topic": "egregors",
+      "topics": ["egregors", "consciousness-metaphysics"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "A possible process."
+    },
+    {
+      "id": "src-d575fee8efe8-c04",
+      "assertion": "She says invasive Kingu are manipulated by Dracos; positive Alpha Dracos oppose earthly reptile egregors; 5D regressive reptiles avoid Federation-secured perimeters.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0118"],
+      "primary_topic": "reptilians",
+      "topics": ["reptilians", "kingu", "alpha-dracos", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "alpha-dracos",
+      "name": "Alpha Dracos",
+      "kind": "species",
+      "aliases": ["Alpha Draconians"]
+    }
+  ],
+  "review_flags": ["reptilian-species-versus-reptile-egregor"],
+  "coverage_gaps": ["frequency-density-framework", "collective-fear-model"]
+}

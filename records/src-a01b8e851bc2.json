@@ -1,0 +1,57 @@
+{
+  "source_id": "src-a01b8e851bc2",
+  "snapshot_sha256": "79a352309361d8dd0b2712ee6385736d2f20dd48f4574667374f47576c8c05d1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a01b8e851bc2-c01",
+      "assertion": "Anéeka says a focused laser spectrometer reads aura colors, layer strength, and structure to track a person’s frequency; combined with implants, it can assess health.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "aura-spectrometry",
+      "topics": [
+        "aura-spectrometry",
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her described monitoring technology."
+    },
+    {
+      "id": "src-a01b8e851bc2-c02",
+      "assertion": "She says species monitor especially conscious starseeds and may guide them with direct information or telepathic downloads, depending on their life plans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "aura-spectrometry",
+      "name": "Aura spectrometry",
+      "kind": "technology",
+      "aliases": [
+        "soul spectrometer",
+        "aura spectrometer"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "aura-spectrum-details",
+    "tracking-frequency-implants"
+  ]
+}

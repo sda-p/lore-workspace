@@ -1,0 +1,85 @@
+{
+  "source_id": "src-62893f690998",
+  "snapshot_sha256": "86b462d3a3d14b14de95eb32921f2dfad901bed9996cba9d922ffd0217439cbf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-62893f690998-c01",
+      "assertion": "Yazhi says soul-frequency compatibility selects a body’s species; when growth breaks compatibility, a soul may enter another species, remain astral, or form a new one.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62893f690998-c02",
+      "assertion": "She says consciousness is reflected in DNA; enough mutation can change an individual’s measurable biology and species classification.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62893f690998-c03",
+      "assertion": "She says Taygetan parthenogenesis yields genetically identical daughters who share consciousness, perceiving separation only partially until age seven or eight.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "taygetan-parthenogenesis",
+      "topics": [
+        "taygetan-parthenogenesis",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62893f690998-c04",
+      "assertion": "She claims temporal mastery lets her alter perceived time and thereby frequency, density, and dimension without a ship.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0056"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "self-described-species-transition"
+  ],
+  "coverage_gaps": [
+    "developmental-memory-timing",
+    "temporal-training-history"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "source_id": "src-99ccae21b4fb",
+  "snapshot_sha256": "50c75fde870e34b57f8705d95a129c3083d6355a63c5d4bdc71b3e6c3e29d6da",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-99ccae21b4fb-c01",
+      "assertion": "Athena says time jumps target frequency and mass-gravity map positions rather than calendar dates, so a visit has no reliable date without another reference.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0014"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-99ccae21b4fb-c02",
+      "assertion": "She says sparse event maps can misdate missions; she recounts Romans building Hadrian’s Wall while Renaissance art and music appeared concurrently in France.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0032",
+        "p0050",
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "frequency-map-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-99ccae21b4fb-c03",
+      "assertion": "Athena says chronological records are unreliable and timelines converge in the present; event order can differ while contributing to the same now.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0061",
+        "p0063",
+        "p0068"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "historical-chronology-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "tartaria-territorial-claims",
+    "calendar-insertion-allegations",
+    "human-history-compression-estimate"
+  ]
+}

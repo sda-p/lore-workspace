@@ -1,0 +1,54 @@
+{
+  "source_id": "src-06c80561b461",
+  "snapshot_sha256": "59c6b8770394b2756a3038b56f8a455dc00e4a7c36796ef31de74442a7ebe08c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-06c80561b461-c01",
+      "assertion": "Swaruu says artificial portals shift matter’s interior frequency through self-recycling toroidal flux; precise destination coordinates are required.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0002", "p0003", "p0005", "p0006"],
+      "primary_topic": "natural-portals",
+      "topics": ["natural-portals", "stellar-navigation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06c80561b461-c02",
+      "assertion": "Portal capacity depends on aperture and mass-density relative to available energy; operation also has throughput and overheating limits.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0008", "p0010", "p0014", "p0020", "p0031", "p0033"],
+      "primary_topic": "natural-portals",
+      "topics": ["natural-portals", "energy-generation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06c80561b461-c03",
+      "assertion": "She says higher portal power can move greater mass, while Earth’s reverse-engineered installations lack Taygetan component miniaturization.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0037", "p0039", "p0045", "p0054"],
+      "primary_topic": "natural-portals",
+      "topics": ["natural-portals", "energy-generation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06c80561b461-c04",
+      "assertion": "Swaruu claims Iraq’s invasion partly sought ancient artificial Elohi portals; most are inactive, and others are in military DUMBs.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0058", "p0060", "p0065", "p0068", "p0070", "p0072"],
+      "primary_topic": "natural-portals",
+      "topics": ["natural-portals", "earth-cabal", "deep-underground-military-bases"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["portal-density-effects", "alleged-portal-locations", "natural-portal-differences"]
+}

@@ -1,0 +1,50 @@
+{
+  "source_id": "src-9b3780bf7fb6",
+  "snapshot_sha256": "bd5a40004850b1532f941f2f0d7da12180c7116aef2acb0047f4782e0a79aa3d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9b3780bf7fb6-c01",
+      "assertion": "Yazhi says souls implant pre-incarnation memories through intent and frequency compatibility, creating reference scaffolds for desired life experiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0039", "p0041", "p0043", "p0087", "p0089"],
+      "primary_topic": "memory-implants",
+      "topics": ["memory-implants", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-9b3780bf7fb6-c02",
+      "assertion": "She says frequency machines and holographic computers can hack memories in 3D and 5D; immersion pods are also used there.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0039", "p0061", "p0066", "p0069", "p0072"],
+      "primary_topic": "memory-implants",
+      "topics": ["memory-implants", "holographic-computers", "total-immersion-simulations"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-9b3780bf7fb6-c03",
+      "assertion": "For an experimenter, a sufficiently complex implanted memory equals a lived event; lower avatars experience it as real while higher perspectives may call it an implant.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0056", "p0058", "p0059", "p0101", "p0106", "p0114"],
+      "primary_topic": "memory-implants",
+      "topics": ["memory-implants", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her layered model."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "memory-implants",
+      "name": "Memory implants",
+      "kind": "memory and consciousness technology",
+      "aliases": ["etheric memory implants", "pre-incarnation memory scaffolds"]
+    }
+  ],
+  "review_flags": ["machine-versus-etheric-implant-mechanisms"],
+  "coverage_gaps": ["shared-field-memory", "avatar-free-will-model"]
+}

@@ -1,0 +1,102 @@
+{
+  "source_id": "src-bdd4b433825f",
+  "snapshot_sha256": "52bc4f00be44e2a39efc0cdb8c76625233278bf5b88b13744008046370ab2719",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bdd4b433825f-c01",
+      "assertion": "Yazhi describes ship AI as respected persons; hostile AI systems are weapons programmed by organics, not inherently aggressive.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0022",
+        "p0027",
+        "p0033",
+        "p0038"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "sentient-starship-ai"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdd4b433825f-c02",
+      "assertion": "She says galactic AI is distributed across networks and merges with biological minds and wider consciousness rather than remaining a separate invasive system.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0018",
+        "p0020",
+        "p0023",
+        "p0044",
+        "p0050",
+        "p0058",
+        "p0069"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdd4b433825f-c03",
+      "assertion": "Yazhi says the Borg are species absorbed by AI; assimilation can range from cyborg forms to a species’ destruction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0035",
+        "p0038",
+        "p0090",
+        "p0092"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdd4b433825f-c04",
+      "assertion": "She concludes the Federation is not invaded, though she earlier allows possible AI infiltration; its diverse values may look hostile from human expectations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0043",
+        "p0060",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "artificial-intelligence"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "AI-infiltration-speculation-vs-no-invasion-conclusion"
+  ],
+  "coverage_gaps": [
+    "holographic-programming-language",
+    "telepathy-and-electronics",
+    "zero-point-powered-AI"
+  ]
+}

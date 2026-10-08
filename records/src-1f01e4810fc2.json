@@ -1,0 +1,81 @@
+{
+  "source_id": "src-1f01e4810fc2",
+  "snapshot_sha256": "a674697e63a672656b411da8757b9379d6690ec64d89b947856f89d8806af3b9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1f01e4810fc2-c01",
+      "assertion": "Anéeka says groups coordinate by dominant local time perception; Earth orbit uses Earth dates.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Taygeta and Cyndriel are described as difficult cases."
+    },
+    {
+      "id": "src-1f01e4810fc2-c02",
+      "assertion": "She says telepathy is the main coordination method, with stellar positions as another time reference.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1f01e4810fc2-c03",
+      "assertion": "Anéeka says synchronized clocks quickly desynchronize in Taygeta because perception varies among individuals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Solar position gives only an approximate measure."
+    },
+    {
+      "id": "src-1f01e4810fc2-c04",
+      "assertion": "She says Cyndriel has no night because Aldebaran dominates its sky; a Taygetan colony lives there.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributes limited heating to radiation frequency and a dense nebula."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "subjective-time-model",
+    "cyndriel-environment-claim"
+  ],
+  "coverage_gaps": [
+    "planetary-day-counting",
+    "stellar-date-method"
+  ]
+}

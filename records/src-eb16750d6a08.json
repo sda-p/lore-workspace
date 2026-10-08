@@ -1,0 +1,67 @@
+{
+  "source_id": "src-eb16750d6a08",
+  "snapshot_sha256": "7cdccf21f797775a8cec185756689cd55af17af240d2c389483ea00964ae3aac",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-eb16750d6a08-c01",
+      "assertion": "Anéeka says Taygetans use a nonintrusive planetary information network linked to Alcyone and Federation networks; citizens can post news without YouTube-like censorship.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Users choose what information to seek."
+    },
+    {
+      "id": "src-eb16750d6a08-c02",
+      "assertion": "She says entertainment is designed to teach and expand collective consciousness by encouraging independent thought and sharing personal philosophy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb16750d6a08-c03",
+      "assertion": "Anéeka says holographic computers are given on request without payment; a council may allocate scarce, indivisible goods, such as an original artwork.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "economics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "computer-capabilities",
+    "network-information-volume",
+    "work-and-service-schedules"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "source_id": "src-dc304babfddc",
+  "snapshot_sha256": "05f74dc20e95a929c78a7b1461080ad5f3756b1254d00c0efeaddee93485b30b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dc304babfddc-c01",
+      "assertion": "Anéeka distinguishes Procyonians from Procyon, human-looking Federation members, from Proceon residents, who are Taygetans of the same race and culture.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "procyon",
+      "topics": [
+        "procyon",
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She treats the similar names as distinct."
+    },
+    {
+      "id": "src-dc304babfddc-c02",
+      "assertion": "She describes Procyon as a binary system with seven planets, two inhabited; its 5D human-looking inhabitants have a holistic-patriarchal polity and positive ties to Alcyone.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "procyon",
+      "topics": [
+        "procyon",
+        "holistic-society",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dc304babfddc-c03",
+      "assertion": "Anéeka says sulfuric atmospheres may host advanced silicon-based, insectoid or mollusk-like beings with exoskeletons; she describes them as mutually respectful but poorly compatible.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the societies do not understand each other well."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "procyon-proceon-name-distinction"
+  ],
+  "coverage_gaps": [
+    "planet-classification-scheme",
+    "procyon-distance-and-orbit-presence"
+  ]
+}

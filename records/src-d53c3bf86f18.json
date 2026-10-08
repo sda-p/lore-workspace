@@ -1,0 +1,53 @@
+{
+  "source_id": "src-d53c3bf86f18",
+  "snapshot_sha256": "2313b1aad3b0098ca3176d62bf350cd27cd3d72bb933f19aad2a7ffef2cb05a6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d53c3bf86f18-c01",
+      "assertion": "Swaruu X defines karma as cause and effect, with consequences interpreted by the person; she rejects external religious punishment and says people bear responsibility for their actions.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0011",
+        "p0015",
+        "p0027",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d53c3bf86f18-c02",
+      "assertion": "She describes “Lion’s Gate” as coded symbolism for summer’s Leo onset, not an August 8 or galactic-new-year portal; she says a real portal opens near the summer solstice.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0040",
+        "p0042",
+        "p0047",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her interpretations of the named event and portal."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "karma-guilt-resentment-mechanism",
+    "cabal-motive-claims"
+  ]
+}

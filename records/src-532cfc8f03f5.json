@@ -1,0 +1,49 @@
+{
+  "source_id": "src-532cfc8f03f5",
+  "snapshot_sha256": "baddfc45dd45e62fe30cb7c810e9724a2109df7579b2d16e1de45f6fca3c7d52",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-532cfc8f03f5-c01",
+      "assertion": "Anéeka says some Earth incarnates are nonhuman operatives who leave by ship after completing missions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as an explanation for some disappearances."
+    },
+    {
+      "id": "src-532cfc8f03f5-c02",
+      "assertion": "Anéeka says not everyone who wants to leave Earth can be physically extracted, citing logistics and moral constraints.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says Earth’s experience can exceed what souls expected."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "incarnation-and-extraction-claims"
+  ],
+  "coverage_gaps": [
+    "selection-process",
+    "ship-plan"
+  ]
+}

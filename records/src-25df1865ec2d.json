@@ -1,0 +1,128 @@
+{
+  "source_id": "src-25df1865ec2d",
+  "snapshot_sha256": "5bb0fecbd513e370be09d015378fee6d3f0b79712eba4bab8e98fe4571408db5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-25df1865ec2d-c01",
+      "assertion": "Swaruu says Giza pyramids were built by a multi-species Federation effort, with Taygetan involvement and Thoth as principal builder.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0034"
+      ],
+      "primary_topic": "pyramid-network",
+      "topics": [
+        "pyramid-network",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25df1865ec2d-c02",
+      "assertion": "She describes antigravity and sound levitation, sonic cutting, and frequency-liquefied stone in pyramid construction.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "pyramid-network",
+      "topics": [
+        "pyramid-network",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25df1865ec2d-c03",
+      "assertion": "Swaruu says pyramid networks regulate planetary frequencies and transmit free electricity using atmospheric-ground charge differences.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0036",
+        "p0063",
+        "p0064",
+        "p0102"
+      ],
+      "primary_topic": "pyramid-network",
+      "topics": [
+        "pyramid-network",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25df1865ec2d-c04",
+      "assertion": "She says pyramid forms amplify consciousness for astral travel and can function as material portals.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0094",
+        "p0095",
+        "p0101",
+        "p0109"
+      ],
+      "primary_topic": "pyramid-network",
+      "topics": [
+        "pyramid-network",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25df1865ec2d-c05",
+      "assertion": "Yazhi describes an abandoned, multilevel Federation base beneath Giza called the Labyrinth, including Urmah members.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0194",
+        "p0201"
+      ],
+      "primary_topic": "giza-labyrinth",
+      "topics": [
+        "giza-labyrinth",
+        "galactic-federation",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "pyramid-network",
+      "name": "Pyramid energy and portal network",
+      "kind": "technology network",
+      "aliases": [
+        "pyramids",
+        "red de pirámides"
+      ]
+    },
+    {
+      "id": "giza-labyrinth",
+      "name": "Giza Labyrinth",
+      "kind": "underground base",
+      "aliases": [
+        "El Laberinto"
+      ]
+    }
+  ],
+  "review_flags": [
+    "pyramid-technology-claims",
+    "giza-base-account",
+    "conflicting-pyramid-dates"
+  ],
+  "coverage_gaps": [
+    "obelisk-symbolism",
+    "Tiamat-and-Van-Allen-history"
+  ]
+}

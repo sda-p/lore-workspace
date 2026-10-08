@@ -1,0 +1,111 @@
+{
+  "source_id": "src-c7d61405393c",
+  "snapshot_sha256": "b3d05b0f4fd48b6167cb174b5b89ab4e3841c2d7be6fa6a35e2d91a2e90516c9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c7d61405393c-c01",
+      "assertion": "Swaruu recounts Cleopatra’s pro-Roman faction opposing Arsinoe’s resistance; Arsinoe’s forces briefly drove Caesar’s Romans from Alexandria’s Pharos.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0023"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "arsinoe-iv"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "Her reconstruction."
+    },
+    {
+      "id": "src-c7d61405393c-c02",
+      "assertion": "She says Arsinoe escaped to Magdala, advised Palestinian and Jewish rebels on guerrilla warfare, and passed teachings through Azazel.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "arsinoe-iv",
+      "topics": [
+        "arsinoe-iv",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "Her reconstruction."
+    },
+    {
+      "id": "src-c7d61405393c-c03",
+      "assertion": "Her narrative says Cleopatra later ordered Arsinoe killed at Ephesus after Roman exile.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "arsinoe-iv",
+      "topics": [
+        "arsinoe-iv",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "Her reconstruction."
+    },
+    {
+      "id": "src-c7d61405393c-c04",
+      "assertion": "Swaruu identifies Mary Magdalene with Arsinoe, alleging Josephus’s scribes discredited the resistance leader as a prostitute and favored Cleopatra.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0057",
+        "p0064",
+        "p0067",
+        "p0068"
+      ],
+      "primary_topic": "mary-magdalene",
+      "topics": [
+        "mary-magdalene",
+        "arsinoe-iv",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "Her reconstruction."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "arsinoe-iv",
+      "name": "Arsinoe IV",
+      "kind": "historical person",
+      "aliases": [
+        "Arsinoë IV",
+        "Arsinoe"
+      ]
+    },
+    {
+      "id": "mary-magdalene",
+      "name": "Mary Magdalene",
+      "kind": "religious figure",
+      "aliases": [
+        "Mary of Magdala"
+      ]
+    }
+  ],
+  "review_flags": [
+    "speculative-ancient-history-reconstruction",
+    "identity-and-chronology-disputed"
+  ],
+  "coverage_gaps": [
+    "jesus-narrative-claims",
+    "arsinoe-exile-route"
+  ]
+}

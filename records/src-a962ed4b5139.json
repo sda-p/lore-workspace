@@ -1,0 +1,68 @@
+{
+  "source_id": "src-a962ed4b5139",
+  "snapshot_sha256": "e8a3a3540b1ab1e062826b9bbd33b7fb9a1145294702a93b172b4ac272bfde6f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a962ed4b5139-c01",
+      "assertion": "Anéeka says Taygetan pets are family members and keeping one creates responsibility; companionship is reciprocal, with animals sometimes choosing families or being adopted when they need homes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a962ed4b5139-c02",
+      "assertion": "On Erra, wolves or foxes may join households; prolific, pack-living Moghyay threaten crops and food stores, so sounds and fencing deter them temporarily.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "moghyay",
+      "topics": [
+        "moghyay",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a962ed4b5139-c03",
+      "assertion": "Aboard Toleka, Anéeka says animal reproduction is controlled with twice-monthly hormone drops for both sexes; cat food uses cultured-tissue protein.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "cultivated-meat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "species-inventory",
+    "abandonment-claims",
+    "ship-park-layout"
+  ]
+}

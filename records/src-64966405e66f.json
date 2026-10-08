@@ -1,0 +1,89 @@
+{
+  "source_id": "src-64966405e66f",
+  "snapshot_sha256": "bda0ea35c44f659cdc149b97bc80fd1e0409d1b979e5d8fb35a9ad42f66af6a9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-64966405e66f-c01",
+      "assertion": "Minerva says souls do not travel after death; each experiences a world reflecting who they are.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0073",
+        "p0074"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64966405e66f-c02",
+      "assertion": "She says souls overlap in an eternal now and are one consciousness from a wider perspective, differentiated by memory and identity attachments.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0087",
+        "p0094",
+        "p0095"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64966405e66f-c03",
+      "assertion": "Minerva says releasing ego expands rather than destroys identity; attachments are useful and can be engaged or released without defining the whole self.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0105",
+        "p0109",
+        "p0110",
+        "p0125",
+        "p0130",
+        "p0136"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64966405e66f-c04",
+      "assertion": "She says Swaruu personas share one being but use temporary identities to interact; they can leave physical awareness for lighter realities and return.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0117",
+        "p0131",
+        "p0132",
+        "p0162",
+        "p0164"
+      ],
+      "primary_topic": "swaruunians",
+      "topics": [
+        "swaruunians",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "vaccine-and-acupuncture-allegations",
+    "human-death-predictions",
+    "attachment-examples"
+  ]
+}

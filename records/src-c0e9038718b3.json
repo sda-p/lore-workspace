@@ -1,0 +1,134 @@
+{
+  "source_id": "src-c0e9038718b3",
+  "snapshot_sha256": "330d3fb5c53efd3cad6d5abeb4312fe7bca9d90d9a15c35ff8ebfd2961229441",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c0e9038718b3-c01",
+      "assertion": "Yazhi says smart suits use AI sensors, zero-point power, and polymorphic materials.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "smart-flight-suits",
+      "topics": [
+        "smart-flight-suits",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c0e9038718b3-c02",
+      "assertion": "She describes nested toroidal shields that disperse impacts and grow stronger as incoming energy feeds them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0018",
+        "p0020",
+        "p0066"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c0e9038718b3-c03",
+      "assertion": "She says ships use counter-rotating plasma turbines powered by zero-point reactors.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0159"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c0e9038718b3-c04",
+      "assertion": "She says shield harmonics must be changed because attackers can disrupt them with an opposing frequency sequence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0098",
+        "p0100",
+        "p0108"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c0e9038718b3-c05",
+      "assertion": "Yazhi says polymorphic turbine alloys can self-heal and reshape through controlled frequency harmonics.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0128",
+        "p0130",
+        "p0137"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c0e9038718b3-c06",
+      "assertion": "Yazhi says ships travel by matching their toroidal frequency to a destination.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0164",
+        "p0166",
+        "p0167"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "ether-field"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "smart-flight-suits",
+      "name": "Smart flight suits",
+      "kind": "technology",
+      "aliases": [
+        "trajes inteligentes",
+        "Taygetan flight suits"
+      ]
+    }
+  ],
+  "review_flags": [
+    "shield-mechanics-claims",
+    "polymorphic-alloy-claims",
+    "frequency-navigation-model"
+  ],
+  "coverage_gaps": [
+    "gravity-weapons",
+    "engine-failure-case"
+  ]
+}

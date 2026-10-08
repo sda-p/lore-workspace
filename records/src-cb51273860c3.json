@@ -1,0 +1,63 @@
+{
+  "source_id": "src-cb51273860c3",
+  "snapshot_sha256": "1dfca8c1959212f2ee927f1eec321d4028668a8bfbcde90ade300a36448366b0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cb51273860c3-c01",
+      "assertion": "Yazhi says regressive entities harvest human and animal suffering and souls, seeking to return the dead to physical lives for further exploitation; she locates most activity in the UK.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0007"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of current events and afterlife."
+    },
+    {
+      "id": "src-cb51273860c3-c02",
+      "assertion": "She says awakened souls can refuse or escape through higher frequency; otherwise they may be trapped in low-astral realms shaped by their worst fears.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says few people are prepared to resist."
+    },
+    {
+      "id": "src-cb51273860c3-c03",
+      "assertion": "Yazhi distinguishes consent at higher planes from the nonconsensual suffering and atrocity experienced by embodied humans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "hospital-and-pandemic-allegations",
+    "current-event-threats"
+  ]
+}
