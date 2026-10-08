@@ -1,0 +1,54 @@
+{
+  "source_id": "src-057efbcdf1b8",
+  "snapshot_sha256": "bb9a02ba1b5fe345c0a83697c45b6e0a6cb1e326fa11d0509cf33f7adfc5426d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-057efbcdf1b8-c01",
+      "assertion": "Swaruu says positive timelines and holographic society require unity; society emerges from members’ consciousness rather than imposed rules.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0002", "p0003", "p0023", "p0025"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "collective-timeline-influence"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-057efbcdf1b8-c02",
+      "assertion": "She says co-present people may perceive different parallel worlds, densities and timelines despite seeing one another’s bodies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0007", "p0009", "p0011"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "perceptual-density"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-057efbcdf1b8-c03",
+      "assertion": "Swaruu says fear concentrates creative attention on feared outcomes, fostering nightmares, tulpas and regressive beings, while positive intentions remain scattered.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0016", "p0017", "p0021"],
+      "primary_topic": "tulpas",
+      "topics": ["tulpas", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-057efbcdf1b8-c04",
+      "assertion": "She says holographic society requires treating collective needs as personal, overcoming separation and survival-focused thinking through cooperation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0022", "p0023"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["positive-timeline-practice", "frequency-dominance", "societal-development"]
+}

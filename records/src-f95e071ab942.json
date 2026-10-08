@@ -1,0 +1,92 @@
+{
+  "source_id": "src-f95e071ab942",
+  "snapshot_sha256": "e7a0f1c22607c10ffd18818cabe99e3486023e250e612fe93315735ccc68850f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f95e071ab942-c01",
+      "assertion": "In her formal report for Taygeta, Anéeka says two stealth combat ships surveyed Earth; one suffered minor hull damage from directed-energy and SAM fire.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f95e071ab942-c02",
+      "assertion": "She says a Taygetan ship followed a cargo plane reportedly carrying coffins to JFK, but its sensors found it empty despite its manifest.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f95e071ab942-c03",
+      "assertion": "She allows that apparent empty-hospital reports could reflect timeline differences, while treating one collective timeline as the best fit to available data.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "taygetans"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f95e071ab942-c04",
+      "assertion": "She says CIC Taygeta operated without trusted intelligence partners but continued assessing its informants.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "taygetan-cic",
+      "topics": [
+        "taygetan-cic",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-cic",
+      "name": "Taygetan CIC",
+      "kind": "intelligence organization",
+      "aliases": [
+        "CIC Taygeta"
+      ]
+    }
+  ],
+  "review_flags": [
+    "pandemic-claims-omitted",
+    "intelligence-report-unverified"
+  ],
+  "coverage_gaps": [
+    "pandemic-narrative-excluded",
+    "other-operation-details"
+  ]
+}

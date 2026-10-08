@@ -1,0 +1,99 @@
+{
+  "source_id": "src-cd1fcaa78711",
+  "snapshot_sha256": "10056c42bef8ec02792c53b113d3937a4f52dd604b8e2c2481a48791781849f7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cd1fcaa78711-c01",
+      "assertion": "Anéeka says muons or neutrinos trigger coded gravity waves in the ether; gravity signals can be detected across the universe without losing strength.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "ether-field"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-cd1fcaa78711-c02",
+      "assertion": "She claims holographic codes carry many mathematical encodings simultaneously, at billions of terabytes per second.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-cd1fcaa78711-c03",
+      "assertion": "She says private links route pulses through frequency-matched nano-portals shared by sender and receiver, forming an undetectable circuit.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0044",
+        "p0046",
+        "p0047",
+        "p0050"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-cd1fcaa78711-c04",
+      "assertion": "She describes particle accelerators and superconducting crystalline-gold cables cooled near absolute zero; the muon generator is the hardest component.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "muon-gravity-communications",
+      "name": "Muon-triggered gravity communications",
+      "kind": "technology",
+      "aliases": [
+        "coded gravity transmission",
+        "muon communications"
+      ]
+    }
+  ],
+  "review_flags": [
+    "particle-vs-carrier-speed-distinction"
+  ],
+  "coverage_gaps": [
+    "broadcast-public-band-details",
+    "transmission-bandwidth-control"
+  ]
+}

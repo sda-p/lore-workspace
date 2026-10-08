@@ -61,16 +61,7 @@
       "qualifiers": "Federation rules limit contact to text."
     }
   ],
-  "proposed_topics": [
-    {
-      "id": "taygetan-first-contact-project",
-      "name": "Taygetan First Contact Project",
-      "kind": "institution",
-      "aliases": [
-        "Primer Contacto"
-      ]
-    }
-  ],
+  "proposed_topics": [],
   "review_flags": [
     "computer-throughput-claim-attributed"
   ],

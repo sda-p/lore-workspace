@@ -1,0 +1,78 @@
+{
+  "source_id": "src-9ac9cc0d3fef",
+  "snapshot_sha256": "dd266ffbefaddeaeeb50a901fcde8b3b1b7dafd74c9e7f096e02004f24ce24bc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9ac9cc0d3fef-c01",
+      "assertion": "Anéeka says Taygeta cannot intervene further without being seen as invasive; she accuses the Federation of controlling Earth and says its response is insufficient.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0010",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says other benevolent races also continue limited efforts."
+    },
+    {
+      "id": "src-9ac9cc0d3fef-c02",
+      "assertion": "Anéeka says extraterrestrial allies mainly guide starseeds and influence society through ideas, while humans must take responsibility for Earth’s problems.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0012",
+        "p0021",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She rejects waiting passively for outside rescue."
+    },
+    {
+      "id": "src-9ac9cc0d3fef-c03",
+      "assertion": "Anéeka describes humanity as a multi-species experiment sharing a common Earth body-suit, which makes humans one race from within.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "humanity-multi-species-experiment",
+      "topics": [
+        "humanity-multi-species-experiment",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "humanity-multi-species-experiment",
+      "name": "Humanity as a multi-species experiment",
+      "kind": "civilization",
+      "aliases": [
+        "humanidad como experimento de varias razas"
+      ]
+    }
+  ],
+  "review_flags": [
+    "federation-intervention:influence-without-rescue"
+  ],
+  "coverage_gaps": [
+    "human-no-consent-campaign"
+  ]
+}

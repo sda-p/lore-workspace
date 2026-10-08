@@ -1,0 +1,44 @@
+{
+  "source_id": "src-417359a5f6a0",
+  "snapshot_sha256": "05f930d6e578b323c8c4d23e2564adcb503234e691d4e4f88f6d797633d3f739",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-417359a5f6a0-c01",
+      "assertion": "Anéeka says Taygetan astrology treats a person’s pre-incarnation frequency and character as selecting their astrological influences; stars do not determine the person’s life.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "frequency-astrology",
+      "topics": [
+        "frequency-astrology",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-417359a5f6a0-c02",
+      "assertion": "She says Taygetan astrological calculations begin at the galactic center, then include local constellations, the Pleiades, and the Taygeta Tau-19 system.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "frequency-astrology",
+      "topics": [
+        "frequency-astrology",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She contrasts this sequence with terrestrial astrology."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

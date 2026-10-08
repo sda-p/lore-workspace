@@ -1,0 +1,47 @@
+{
+  "source_id": "src-12b1bea0a52e",
+  "snapshot_sha256": "c7ecc305ec3d2ccfd9a6c631d4e9ea6c7d1d49066dc296ffbf069b51f3f52583",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-12b1bea0a52e-c01",
+      "assertion": "Anéeka interprets mask-wearing as symbolic silencing and social isolation: it hides faces, limits expression, and may foster misunderstanding.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0045",
+        "p0047"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her interpretation."
+    },
+    {
+      "id": "src-12b1bea0a52e-c02",
+      "assertion": "She describes some nanotechnology as inert metal that may release substances or react magnetically to a specific signal and commands.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0019"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Discussed in a vaccine context."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "vaccine-and-pandemic-claims-excluded"
+  ],
+  "coverage_gaps": [
+    "vaccine-health-claims-excluded",
+    "mask-wearing-medical-claims-excluded"
+  ]
+}

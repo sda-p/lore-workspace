@@ -1,0 +1,74 @@
+{
+  "source_id": "src-2496c5717d1f",
+  "snapshot_sha256": "1c105ed0ccbf66ed019e1698ee9119883be14686a230d82c1b7d029fb99edcce",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2496c5717d1f-c01",
+      "assertion": "Athena says Earth’s memory veil is natural: higher-frequency memories fail to match the lower-frequency physical realm, much like forgotten dreams.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-2496c5717d1f-c02",
+      "assertion": "Athena says postmortem rebirth traps arise from soul-self attachments rather than literal machines, though advanced immersion pods can capture attention.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "immersion-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-2496c5717d1f-c03",
+      "assertion": "Swaruu 9 separately describes computer-controlled zero-point frequency containers that capture a soul’s attention, but says it escapes by redirecting attention.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This differs from Athena’s earlier rejection of literal soul traps."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-model-divergence-Athena-vs-Swaruu9"
+  ],
+  "coverage_gaps": [
+    "memory-erasure-machine-operation",
+    "artificial-souls"
+  ]
+}

@@ -367,6 +367,9 @@ def build():
         if job['status'] != 'reviewed':
             continue
         record = read(ROOT / f'records/{source_id}.json')
+        digest = sha(__import__('json').dumps(record,sort_keys=True,ensure_ascii=False))
+        if record.get('source_id') != source_id or digest != job.get('record_sha256'):
+            raise ValueError(f'Reviewed record changed since approval: {source_id}; re-review before rebuilding the wiki')
         records.append(record)
         for topic in record['proposed_topics']:
             topics.setdefault(topic['id'],topic)

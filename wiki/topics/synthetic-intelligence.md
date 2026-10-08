@@ -21,6 +21,7 @@ Related topics: [Artificial intelligence](artificial-intelligence.md).
 ## Claims filed under other topics
 
 - [src-b36d2a7b7c51-c02](borg.md#src-b36d2a7b7c51-c02) — Borg
+- [src-61a0b9a71122-c03](holistic-society.md#src-61a0b9a71122-c03) — Holistic society
 
 ## Review flags
 

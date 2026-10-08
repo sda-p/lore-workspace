@@ -96,21 +96,54 @@ Source: [BioGenetica Trans-Dimensional: Swaruu Mujer Extraterrestre de Pleyades 
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-da37867cb1a1-c04
+
+She says nonhuman drones use portals and may come from orbit, distant planets, or parallel dimensions to monitor activity.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anomalía Guanajuato, Portales, Drones - Anéeka de Temmer (Contacto Extraterrestre)](https://swaruu.org/transcripts/anomalia-guanajuato-portales-drones-aneeka-de-temmer-contacto-extraterrestre) (2020-09-08; es); passages p0046, p0051, p0055. [Structured record](../../records/src-da37867cb1a1.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-da37867cb1a1-c05
+
+A 110cm drone carries a holographic quantum computer, muon-based communications, sensors, and a gravity-cancellation motor.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anomalía Guanajuato, Portales, Drones - Anéeka de Temmer (Contacto Extraterrestre)](https://swaruu.org/transcripts/anomalia-guanajuato-portales-drones-aneeka-de-temmer-contacto-extraterrestre) (2020-09-08; es); passages p0058. [Structured record](../../records/src-da37867cb1a1.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-632cb43a7536-c01
+
+Anéeka says distancing helps satellites count gathered people.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL VERDADERO SIGNIFICADO DE COVID-19 – Significa una operación Militar - ANEEKA DE TEMMER](https://swaruu.org/transcripts/el-verdadero-significado-de-covid-19-significa-una-operacion-militar-aneeka-de-temmer) (2020-06-11; es); passages p0003, p0005. [Structured record](../../records/src-632cb43a7536.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
 ## Claims filed under other topics
 
 - [src-270ba8d9da62-c03](frequency-map-navigation.md#src-270ba8d9da62-c03) — Frequency-map navigation
 
 ## Review flags
 
+- 5g-covid-causality-distinction
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - claims-attributed-to-source-narrators
 - conspiracy\_claims
 - disaster-causation-unverified
 - entertainment-disclaimer
+- medical-lore
 - policy-claims-unverified
 - post-eclipse-causal-attribution
 - rescue-anecdotes-unverified
 - starlink-observation-scope-ambiguity
+- translation-counterpart:src-af195906d27f-close-full
 - unverified-paranormal-claims
 - unverified\_extraterrestrial\_claims
 - unverified\_technology\_claims

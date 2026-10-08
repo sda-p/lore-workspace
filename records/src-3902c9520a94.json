@@ -1,0 +1,116 @@
+{
+  "source_id": "src-3902c9520a94",
+  "snapshot_sha256": "86fd5b14507c4f5a0014468e254e01ef85b2141b543a80a43333eab54cb2e7a2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3902c9520a94-c01",
+      "assertion": "Anéeka says any race may abduct, but small Grey “gardeners” are the most frequent abductors.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3902c9520a94-c02",
+      "assertion": "She says other races delegate abductions to Gardeners through contracts, tracking, or support agreements with their seeds.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "alien-abduction-practices",
+      "topics": [
+        "alien-abduction-practices",
+        "zeta-reticuli-gardeners"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3902c9520a94-c03",
+      "assertion": "Anéeka says abductions may modify genetics, treat illness, or monitor a person’s biology and life plan.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "alien-abduction-practices",
+      "topics": [
+        "alien-abduction-practices",
+        "zeta-reticuli-gardeners"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3902c9520a94-c04",
+      "assertion": "She says memory induction prevents abduction memories from forming rather than erasing them; recall can still occur.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0079",
+        "p0082"
+      ],
+      "primary_topic": "alien-abduction-practices",
+      "topics": [
+        "alien-abduction-practices",
+        "zeta-reticuli-gardeners"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3902c9520a94-c05",
+      "assertion": "Anéeka describes Gardeners as efficient, unemotional, telepathic beings; some are biologically plant-like.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0084",
+        "p0088",
+        "p0090",
+        "p0098"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "alien-abduction-practices",
+      "name": "Alien abduction practices",
+      "kind": "technology and encounter process",
+      "aliases": [
+        "abductions",
+        "abducción extraterrestre"
+      ]
+    }
+  ],
+  "review_flags": [
+    "abduction-and-medical-claims",
+    "grey-gardener-biological-classification"
+  ],
+  "coverage_gaps": [
+    "Milab-operations",
+    "implant-tracking-functions",
+    "frequency-induction-mechanism"
+  ]
+}

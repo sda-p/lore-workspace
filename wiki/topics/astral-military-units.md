@@ -42,10 +42,13 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
 - [src-de7987eb8690-c02](taygetans.md#src-de7987eb8690-c02) — Taygetans
 - [src-531b0e9f06bf-c03](alfrata.md#src-531b0e9f06bf-c03) — Alfrata (Phaeton)
+- [src-33c7243bf8a8-c04](galactic-federation.md#src-33c7243bf8a8-c04) — Galactic Federation
 
 ## Review flags
 
 - astral-warfare-claims-unverified
 - black-knight-loss-details-provisional
 - eclipse-portal-claims-unverified
+- federation-role-variation
 - field-procedure-account-attributed-to-mari
+- intra-source-policy-tension

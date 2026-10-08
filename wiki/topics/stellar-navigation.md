@@ -1252,6 +1252,86 @@ Source: [NAVEGACION ESTELAR II - PORTALES DIMENSIONALES - SWARUU DE ERRA - VUELO
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-699924c5628e-c01
+
+Swaruu says a ship's computer maps destination frequencies and its high-energy toroid matches the vessel to them, enabling instantaneous superluminal jumps across space and time.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Moviendo por el Éter - Conciencia y Navegación Estelar (Mensaje Extraterrestre - Pleyades) (Parte 6)](https://swaruu.org/transcripts/moviendo-por-el-eter-conciencia-y-navegacion-estelar-mensaje-extraterrestre-pleyades-parte-6) (2019-12-28; es); passages p0003, p0007, p0010, p0015, p0016. [Structured record](../../records/src-699924c5628e.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-26a2d18bbea0-c04
+
+She says Taygetans prefer ships over unreliable natural portals; some large space portals also serve as ship-transit routes.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Portales Naturales Interdimensionales - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/portales-naturales-interdimensionales-swaruu-de-erra-comunicacion-extraterrestre) (2020-03-15; es); passages p0039, p0041, p0074. [Structured record](../../records/src-26a2d18bbea0.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-fe16588859c1-c03
+
+She says ships shift frequency to the destination, appearing there without propulsion while retaining internal time. Her account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PRIMERA CONVERSACIÓN CON YAZHÍ SWARUÚ \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-conversacion-con-yazhi-swaruu-sin-video) (2020-07-06; es); passages p0022, p0023. [Structured record](../../records/src-fe16588859c1.json).
+
+Related topics: [Ship internal time](ship-internal-time.md).
+
+### src-7364ad45d63b-c04
+
+She identifies the crown as Elohi/Pleiadian and says its cross is a portable sextant used with maps to locate the user.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA SOCIEDAD MATRIARCAL - LA SOCIEDAD PATRIARCAL - LA REALEZA TAYGETEANA - LA CORONA REAL](https://swaruu.org/transcripts/la-sociedad-matriarcal-la-sociedad-patriarcal-la-realeza-taygeteana-la-corona-real) (2020-01-09; es); passages p0057, p0058, p0059, p0062, p0063. [Structured record](../../records/src-7364ad45d63b.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-b59378b55fc0-c01
+
+Swaruu says ships navigate time by matching a destination’s frequency; each vessel’s emulation capacity limits its reach.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Viajes en Tiempo: Manipulación Temporal (Cambios del Pasado para Cambiar el Futuro): Swaruu de Erra](https://swaruu.org/transcripts/viajes-en-tiempo-manipulacion-temporal-cambios-del-pasado-para-cambiar-el-futuro-swaruu-de-erra) (2020-01-31; es); passages p0020, p0021, p0023, p0024. [Structured record](../../records/src-b59378b55fc0.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md), [Starship systems](starship-systems.md).
+
+### src-9b8c545032b0-c02
+
+Ship frequency maps encode where and when; engines match a destination frequency.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Viajes en Tiempo, Tiempo y Lineas Temporales - Swaruu (Mensaje Extraterrestre - Pleyades)](https://swaruu.org/transcripts/viajes-en-tiempo-tiempo-y-lineas-temporales-swaruu-mensaje-extraterrestre-pleyades) (2020-01-17; es); passages p0011, p0017, p0040, p0045. [Structured record](../../records/src-9b8c545032b0.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-2c51b741eabb-c05
+
+Mapped space forms corridors in a partly charted Milky Way and M33; distant or timeline-shifting expeditions may not return.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu - Mapeando Espacios Desconocidos (Navegación Estelar 7) Comunicación Extraterrestre](https://swaruu.org/transcripts/swaruu-mapeando-espacios-desconocidos-navegacion-estelar-7-comunicacion-extraterrestre) (2020-01-12; es); passages p0051, p0052, p0053, p0054. [Structured record](../../records/src-2c51b741eabb.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-44f7a105a538-c03
+
+Swaruu says star navigation maps mathematical interactions in Ether rather than fixed positions, using base-12 mathematics.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Energía Punto Cero - Energía Libre - Espiritualidad y Conciencia - Estrella Taygeta](https://swaruu.org/transcripts/energia-punto-cero-energia-libre-espiritualidad-y-conciencia-estrella-taygeta) (2020-02-06; es); passages p0006. [Structured record](../../records/src-44f7a105a538.json).
+
+Related topics: [Ether field](ether-field.md).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -1328,10 +1408,26 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-31d1a6fe5da1-c01](frequency-map-navigation.md#src-31d1a6fe5da1-c01) — Frequency-map navigation
 - [src-bf7085cb30ac-c02](starship-systems.md#src-bf7085cb30ac-c02) — Starship systems
 - [src-bf7085cb30ac-c03](natural-portals.md#src-bf7085cb30ac-c03) — Natural and artificial portals
+- [src-2a59653712d3-c01](starship-systems.md#src-2a59653712d3-c01) — Starship systems
+- [src-47e41f64b1fa-c03](natural-portals.md#src-47e41f64b1fa-c03) — Natural and artificial portals
+- [src-699924c5628e-c02](starship-systems.md#src-699924c5628e-c02) — Starship systems
+- [src-699924c5628e-c03](suzy-fighter-craft.md#src-699924c5628e-c03) — Suzy fighter craft
+- [src-7dfce28f8118-c01](betelgeuse.md#src-7dfce28f8118-c01) — Betelgeuse
+- [src-7dfce28f8118-c03](solar-portal-transit.md#src-7dfce28f8118-c03) — Solar portal transit
+- [src-f95e071ab942-c01](taygetans.md#src-f95e071ab942-c01) — Taygetans
+- [src-f95e071ab942-c02](taygetans.md#src-f95e071ab942-c02) — Taygetans
+- [src-a67fb92e8975-c01](artificial-portals.md#src-a67fb92e8975-c01) — Artificial portals
+- [src-a67fb92e8975-c05](artificial-portals.md#src-a67fb92e8975-c05) — Artificial portals
+- [src-e1b812564c1f-c05](ship-internal-time.md#src-e1b812564c1f-c05) — Ship internal time
+- [src-2c51b741eabb-c04](frequency-map-navigation.md#src-2c51b741eabb-c04) — Frequency-map navigation
+- [src-1422880235ff-c05](sunspot-portals.md#src-1422880235ff-c05) — Sunspot portals
+- [src-06c80561b461-c01](natural-portals.md#src-06c80561b461-c01) — Natural and artificial portals
+- [src-9b690db81851-c05](natural-portals.md#src-9b690db81851-c05) — Natural and artificial portals
 
 ## Review flags
 
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
+- English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Federation-policy\_claims\_attributed
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
@@ -1345,6 +1441,7 @@ Related topics: [Starship systems](starship-systems.md).
 - attribution\_scope
 - cern-portal-claim
 - comparative\_technology\_claims
+- computer-throughput-claim-attributed
 - conflicting\_primary\_purpose\_claims
 - conspiracy\_claims
 - contested-space-history-allegation
@@ -1370,6 +1467,7 @@ Related topics: [Starship systems](starship-systems.md).
 - gravity-propulsion-attributed
 - historical-event-identified-from-painting
 - hyperspace\_model
+- intelligence-report-unverified
 - jumper\_vs\_origin\_line
 - mass-explanation-variation
 - metaphysical-claims
@@ -1379,18 +1477,23 @@ Related topics: [Starship systems](starship-systems.md).
 - narrator\_claims
 - nonstandard-physics-claims
 - nonstandard\_astrophysics\_claims
+- pandemic-claims-omitted
 - past-editing-metaphysical-claim
+- personal-ability-claims-attributed
 - personal\_metaphysics
 - phenomenon\_not\_fully\_understood
+- portal-location-and-destination-vary
 - procedure-description
 - related-frequency-navigation-source
 - related\_series\_part
+- royal-selection-and-symbolism-attributed
 - same-language-near-duplicate-src-6a5223076196
 - secret\_ship\_capability\_claims
 - space\_suit\_claims\_unverified
 - speaker-speculation
 - species\_specific\_reproduction
 - starlink-observation-scope-ambiguity
+- starspot-portal-model-spans-two-speakers
 - symbolic\_interpretations
 - taygetan-society-claims-attributed
 - technology\_and\_mind\_interface
@@ -1399,7 +1502,12 @@ Related topics: [Starship systems](starship-systems.md).
 - timeline\_model
 - title-metadata-diff
 - translated\_source
+- translation-counterpart: none identified
+- translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448
+- translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control
+- translation-counterpart:src-ce6ea4ce1c3c-close
 - translation-equivalence-unverified
+- translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
 - unmapped\_regions\_and\_return\_risk
 - unverified-reset-claims
 - unverified\_ancient\_technology\_claims

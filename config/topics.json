@@ -1618,5 +1618,373 @@
       "social engineering",
       "staged unrest"
     ]
+  },
+  {
+    "id": "secret-space-program",
+    "name": "Secret Space Program",
+    "kind": "program",
+    "aliases": [
+      "Programa Espacial Secreto"
+    ]
+  },
+  {
+    "id": "muonic-gravitational-communications",
+    "name": "Muonic gravitational communications",
+    "kind": "technology",
+    "aliases": [
+      "muon-neutrino bursts",
+      "explosiones de Leptón Muon Neutrino"
+    ]
+  },
+  {
+    "id": "seti-surveillance",
+    "name": "SETI surveillance operation",
+    "kind": "institution",
+    "aliases": [
+      "SETI",
+      "Search for Extraterrestrial Intelligence"
+    ]
+  },
+  {
+    "id": "nanodust-countermeasure",
+    "name": "Nanodust countermeasure",
+    "kind": "technology",
+    "aliases": [
+      "nano dust"
+    ]
+  },
+  {
+    "id": "sand-clock-squadrons",
+    "name": "Sand-Clock temporal squadrons",
+    "kind": "temporal operation",
+    "aliases": [
+      "Sand-Clock missions"
+    ]
+  },
+  {
+    "id": "great-pyramid-of-giza",
+    "name": "Great Pyramid of Giza",
+    "kind": "location",
+    "aliases": [
+      "Great Pyramid"
+    ]
+  },
+  {
+    "id": "arsinoe-iv",
+    "name": "Arsinoe IV",
+    "kind": "historical person",
+    "aliases": [
+      "Arsinoë IV",
+      "Arsinoe"
+    ]
+  },
+  {
+    "id": "mary-magdalene",
+    "name": "Mary Magdalene",
+    "kind": "religious figure",
+    "aliases": [
+      "Mary of Magdala"
+    ]
+  },
+  {
+    "id": "artificial-portals",
+    "name": "Artificial portals",
+    "kind": "technology",
+    "aliases": [
+      "artificial portals",
+      "portales artificiales",
+      "Stargate portals"
+    ]
+  },
+  {
+    "id": "flavian-jesus-claim",
+    "name": "Flavian Jesus narrative",
+    "kind": "historical claim",
+    "aliases": [
+      "Titus as Jesus",
+      "Relato flaviano de Jesús"
+    ]
+  },
+  {
+    "id": "taygetan-cic",
+    "name": "Taygetan CIC",
+    "kind": "intelligence organization",
+    "aliases": [
+      "CIC Taygeta"
+    ]
+  },
+  {
+    "id": "exo-gen",
+    "name": "Exo-gen cellular signaling model",
+    "kind": "biological phenomenon",
+    "aliases": [
+      "exo-gen",
+      "exo-gen signals"
+    ]
+  },
+  {
+    "id": "djedi",
+    "name": "D’Jedi",
+    "kind": "faction or role",
+    "aliases": [
+      "D’Jedi",
+      "Djedi"
+    ]
+  },
+  {
+    "id": "alpha-dracos",
+    "name": "Alpha Dracos",
+    "kind": "species",
+    "aliases": [
+      "Alpha Draconians"
+    ]
+  },
+  {
+    "id": "5g-electromagnetic-weapons",
+    "name": "5G electromagnetic weapons",
+    "kind": "technology",
+    "aliases": [
+      "Gwen towers",
+      "5G weapon claims"
+    ]
+  },
+  {
+    "id": "betelgeuse",
+    "name": "Betelgeuse",
+    "kind": "location",
+    "aliases": [
+      "Alpha Orionis"
+    ]
+  },
+  {
+    "id": "frequency-holding-containers",
+    "name": "Frequency-holding sample containers",
+    "kind": "technology",
+    "aliases": [
+      "frequency-preserving laboratory container"
+    ]
+  },
+  {
+    "id": "higher-federation-councils",
+    "name": "Higher Federation councils",
+    "kind": "institution",
+    "aliases": [
+      "Higher Councils",
+      "Consejos superiores de la Federación",
+      "Federation 6D/7D councils"
+    ]
+  },
+  {
+    "id": "higher-density-councils",
+    "name": "Higher-density councils",
+    "kind": "institution",
+    "aliases": [
+      "councils of 6D and 7D"
+    ]
+  },
+  {
+    "id": "exo-gen-signals",
+    "name": "Exo-gen cellular signals",
+    "kind": "biology",
+    "aliases": [
+      "exo-gen",
+      "secreciones celulares exo-gen"
+    ]
+  },
+  {
+    "id": "starseed-guides",
+    "name": "Starseed guides",
+    "kind": "group",
+    "aliases": [
+      "starseeds",
+      "guides"
+    ]
+  },
+  {
+    "id": "gwen-towers",
+    "name": "Gwen towers",
+    "kind": "technology",
+    "aliases": [
+      "Gwen cellular towers",
+      "torres Gwen"
+    ]
+  },
+  {
+    "id": "planetary-unification",
+    "name": "Planetary Unification",
+    "kind": "institution",
+    "aliases": [
+      "Unificación Planetaria",
+      "planetary government"
+    ]
+  },
+  {
+    "id": "muon-gravity-communications",
+    "name": "Muon-triggered gravity communications",
+    "kind": "technology",
+    "aliases": [
+      "coded gravity transmission",
+      "muon communications"
+    ]
+  },
+  {
+    "id": "gahonam",
+    "name": "Gahonam",
+    "kind": "secret society",
+    "aliases": [
+      "Gahonam society",
+      "Ga-jo-nam"
+    ]
+  },
+  {
+    "id": "ohalum-council",
+    "name": "Ohalum Council",
+    "kind": "institution",
+    "aliases": [
+      "Consejo de Ohalum"
+    ]
+  },
+  {
+    "id": "memory-implantation",
+    "name": "Memory implantation",
+    "kind": "technology",
+    "aliases": [
+      "implantes de memorias",
+      "inserted memories"
+    ]
+  },
+  {
+    "id": "memory-implants",
+    "name": "Memory implants",
+    "kind": "memory and consciousness technology",
+    "aliases": [
+      "etheric memory implants",
+      "pre-incarnation memory scaffolds"
+    ]
+  },
+  {
+    "id": "planetary-matrix-resets",
+    "name": "Planetary Matrix resets",
+    "kind": "historical event",
+    "aliases": [
+      "civilization resets",
+      "Matrix reset"
+    ]
+  },
+  {
+    "id": "naki-bideetaaii",
+    "name": "Naki bide’taa’ii",
+    "kind": "species",
+    "aliases": [
+      "Naki bidee’taa’ii",
+      "Naki bide'taa'ii"
+    ]
+  },
+  {
+    "id": "red-mercury-gravity-turbines",
+    "name": "Red-mercury gravity turbines",
+    "kind": "technology",
+    "aliases": [
+      "enriched mercury turbines",
+      "red mercury"
+    ]
+  },
+  {
+    "id": "individual-ascension",
+    "name": "Individual ascension",
+    "kind": "cosmological process",
+    "aliases": [
+      "ascensión individual",
+      "individual ascension"
+    ]
+  },
+  {
+    "id": "civilizational-resets",
+    "name": "Civilizational resets",
+    "kind": "historical mechanism",
+    "aliases": [
+      "civilization reset",
+      "resets"
+    ]
+  },
+  {
+    "id": "atlantean-zero-point-pyramids",
+    "name": "Atlantean zero-point pyramids",
+    "kind": "technology",
+    "aliases": [
+      "submerged Bermuda pyramids",
+      "pirámides sumergidas de Bermuda"
+    ]
+  },
+  {
+    "id": "taygetan-holographic-language",
+    "name": "Taygetan holographic language",
+    "kind": "language",
+    "aliases": [
+      "lengua holográfica taygeteana",
+      "Taygetan language"
+    ]
+  },
+  {
+    "id": "aggressive-telepathy",
+    "name": "Aggressive telepathy",
+    "kind": "psionic ability",
+    "aliases": [
+      "telepatía agresiva"
+    ]
+  },
+  {
+    "id": "mind-generated-force-fields",
+    "name": "Mind-generated force fields",
+    "kind": "phenomenon",
+    "aliases": [
+      "mental shields",
+      "campos de fuerza mentales"
+    ]
+  },
+  {
+    "id": "grey-gardeners",
+    "name": "Grey gardeners",
+    "kind": "species group",
+    "aliases": [
+      "small greys",
+      "gardeners"
+    ]
+  },
+  {
+    "id": "soul-harvesting",
+    "name": "Soul harvesting",
+    "kind": "cosmological mechanism",
+    "aliases": [
+      "cosecha de almas",
+      "soul harvest"
+    ]
+  },
+  {
+    "id": "scalar-internet",
+    "name": "Scalar Internet",
+    "kind": "technology",
+    "aliases": [
+      "multidimensional Internet",
+      "quantum Internet"
+    ]
+  },
+  {
+    "id": "supersonic-water-jet-cutting",
+    "name": "Supersonic water-jet cutting",
+    "kind": "technology",
+    "aliases": [
+      "water saw",
+      "sierra de agua"
+    ]
+  },
+  {
+    "id": "compressed-sound-cutting",
+    "name": "Compressed-sound cutting",
+    "kind": "technology",
+    "aliases": [
+      "sonic saw",
+      "sierra de sonido"
+    ]
   }
 ]

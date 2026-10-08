@@ -1,0 +1,128 @@
+{
+  "source_id": "src-ca31fe5ca6c3",
+  "snapshot_sha256": "a209e1df97294c6ae939f09444e77966eb47c8a6bf773e46101a4bf73b45c973",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ca31fe5ca6c3-c01",
+      "assertion": "Anéeka says lab samples contained encoded RNA in nonhuman nanographene, made by frequency replication.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca31fe5ca6c3-c02",
+      "assertion": "She says nanographene could enter cells and replace DNA using RNA payloads.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca31fe5ca6c3-c03",
+      "assertion": "She says microwave activation was planned; nanobot replication remained uncertain and limited.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0065",
+        "p0067"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca31fe5ca6c3-c04",
+      "assertion": "She says the nonhuman technology matched Federation level and violated space treaties.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0044",
+        "p0056"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca31fe5ca6c3-c05",
+      "assertion": "Anéeka reports Alcyone and local Federation councils received and repudiated her lab findings.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca31fe5ca6c3-c06",
+      "assertion": "She suspects unidentified Reptilian makers and expects humans to take control themselves.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0058",
+        "p0075"
+      ],
+      "primary_topic": "reptilian-invaders",
+      "topics": [
+        "reptilian-invaders",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says Federation aid may not meet human expectations."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-misinformation-claims",
+    "unverified-nonhuman-intervention-narrative"
+  ],
+  "coverage_gaps": [
+    "exosome-claims",
+    "population-control-mechanism",
+    "historical-precedent"
+  ]
+}

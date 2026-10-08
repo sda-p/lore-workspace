@@ -22,7 +22,9 @@ Related topics: [Galactic Federation](galactic-federation.md).
 
 - [src-d7d90a56bb44-c01](kingu.md#src-d7d90a56bb44-c01) — Kingu
 - [src-8e490481292c-c05](taygetans.md#src-8e490481292c-c05) — Taygetans
+- [src-1c7b74567865-c02](karistus.md#src-1c7b74567865-c02) — Karistus
 
 ## Review flags
 
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
+- faction-taxonomy-and-levels-attributed

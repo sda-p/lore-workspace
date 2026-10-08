@@ -1646,6 +1646,146 @@ Source: [EL SUICIDIO - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://
 
 Related topics: [Postmortem realities](postmortem-realities.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-cfb8d4ba70e4-c03
+
+Swaruu describes artificial 3D Earth as containing human-created crises; the Federation modulates them, bars nuclear destruction, and leaves their resolution to humans. She says the Federation may intervene at limits such as nuclear war or child abuse.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LOS DUEÑOS INVISIBLES DE LA TIERRA - LOS CONTROLADORES DE LA HUMANIDAD - REVELACIÓN CÓSMICA](https://swaruu.org/transcripts/los-duenos-invisibles-de-la-tierra-los-controladores-de-la-humanidad-revelacion-cosmica) (2020-04-23; es); passages p0097, p0103, p0105, p0111, p0167. [Structured record](../../records/src-cfb8d4ba70e4.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-492455da3cda-c01
+
+Yazhi describes artificial 3D Earth as an experiential Matrix where souls seek growth through contrast; she says higher-density beings created it as a controlled, smaller Matrix. Her metaphysical account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Reseteo Planetario - Matrix 3D - Ingeniería Social - la Federación - (Yazhi Swaruu) \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/reseteo-planetario-matrix-3d-ingenieria-social-la-federacion-yazhi-swaruu) (2020-08-15; es); passages p0016, p0020, p0024, p0025. [Structured record](../../records/src-492455da3cda.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-336f7353bbdf-c01
+
+Yazhi says 5D is another Matrix of shared rules and agreements; moving Earth there would shift, not end, suffering. Her metaphysical account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA ASCENSIÓN EL NUEVO AMANECER EL 5D ES OTRA MATRIX - SWARUU YAZHÍ](https://swaruu.org/transcripts/la-ascension-el-nuevo-amanecer-el-5d-es-otra-matrix-swaruu-yazhi) (2020-06-12; es); passages p0007, p0009, p0029, p0031, p0033, p0034. [Structured record](../../records/src-336f7353bbdf.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-9a2bfd903f99-c01
+
+Yazhi describes Earth's 3D Matrix as a soul-experience system that repeatedly collapses when instability breaks its sustaining illusion; she says at least six prior civilizations were destroyed. Her account includes Atlantis and Lemuria among the more recent cycles.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA NUEVA MATRIX - EL RESETEO MUNDIAL DE LA MATRIX - EL FIN DE LA MATRIX - YAZHÍ SWARUU](https://swaruu.org/transcripts/la-nueva-matrix-el-reseteo-mundial-de-la-matrix-el-fin-de-la-matrix-yazhi-swaruu) (2020-07-20; es); passages p0002, p0004, p0014, p0016, p0018. [Structured record](../../records/src-9a2bfd903f99.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
+### src-43ae6ea7442d-c01
+
+Swaruu frames religion as population control that externalizes human agency and lowers perception; she calls it spirituality weaponized against people.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Existió Jesús - RELIGIONES APEGOS Y PSICOLOGÍA HUMANA – SWARUU DE ERRA](https://swaruu.org/transcripts/existio-jesus-religiones-apegos-y-psicologia-humana-swaruu-de-erra) (2020-03-02; es); passages p0003, p0008, p0012. [Structured record](../../records/src-43ae6ea7442d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-33c7243bf8a8-c02
+
+Swaruu frames Earth’s 3D containment as a school for Lyrian-based humans to develop ethics before interstellar society.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica - Su Papel en la Tierra (Comunicación ExtraTerrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/federacion-galactica-su-papel-en-la-tierra-comunicacion-extraterrestre-taygeta-pleyades) (2020-04-23; es); passages p0021, p0023, p0134, p0135. [Structured record](../../records/src-33c7243bf8a8.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md), [Galactic Federation](galactic-federation.md).
+
+### src-c26942770282-c04
+
+She says charged positrons shift frequencies, gradually dissolving Earth’s 3D Matrix under dominant-frequency effects.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Ascension y Energia Positronica: Mensaje Extraterrestre (Swaruu de Erra)](https://swaruu.org/transcripts/ascension-y-energia-positronica-mensaje-extraterrestre-swaruu-de-erra) (2020-02-12; es); passages p0010, p0012, p0024, p0025. [Structured record](../../records/src-c26942770282.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f118c9aeadd2-c01
+
+Anéeka says the Matrix is shared human perception; the Moon imposes low frequencies that limit what people manifest. Her model.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MATRIX – QUIENES SON MATRIX – LOS CREADORES DE MATRIX - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/matrix-quienes-son-matrix-los-creadores-de-matrix-aneeka-de-temmer) (2019-12-13; es); passages p0004, p0005, p0007, p0009. [Structured record](../../records/src-f118c9aeadd2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a4e3084ce97a-c01
+
+Swaruu says low lunar frequencies promote mental control.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MATRIX 2020](https://swaruu.org/transcripts/matrix-2020) (2019-12-21; es); passages p0003. [Structured record](../../records/src-a4e3084ce97a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a4e3084ce97a-c02
+
+Anéeka says strong perception control is difficult because humans remain highly connected to Source.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MATRIX 2020](https://swaruu.org/transcripts/matrix-2020) (2019-12-21; es); passages p0006. [Structured record](../../records/src-a4e3084ce97a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a4e3084ce97a-c03
+
+Swaruu clarifies that the Matrix does not directly read minds: individual and shared consciousness constructs perceived reality through agreements.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MATRIX 2020](https://swaruu.org/transcripts/matrix-2020) (2019-12-21; es); passages p0014, p0015, p0017, p0019, p0032. [Structured record](../../records/src-a4e3084ce97a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a4e3084ce97a-c04
+
+She says digital systems and mass media can seed perceptions, while the Matrix helps human consciousness create non-real people and other artificial perceptions.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MATRIX 2020](https://swaruu.org/transcripts/matrix-2020) (2019-12-21; es); passages p0009, p0011, p0012. [Structured record](../../records/src-a4e3084ce97a.json).
+
+Related topics: [Matrix-generated persons](matrix-generated-persons.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-a4e3084ce97a-c05
+
+Swaruu distinguishes lunar perception control from recent invasive mind technology attributed to mobile towers.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MATRIX 2020](https://swaruu.org/transcripts/matrix-2020) (2019-12-21; es); passages p0021, p0029. [Structured record](../../records/src-a4e3084ce97a.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-7f6281c23ad5-c01
+
+Yazhi says layered Matrix systems impose memories and concepts, constraining souls through perception; regressives exploit fear-based creative attention, called lush.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Realidad artificial - SERES DE DENSIDADES MÁS ALTAS - DENSIDADES EXISTENCIALES - Yazhi Swaruu](https://swaruu.org/transcripts/realidad-artificial-seres-de-densidades-mas-altas-densidades-existenciales-yazhi-swaruu) (2020-07-06; es); passages p0003, p0005, p0007, p0011, p0014. [Structured record](../../records/src-7f6281c23ad5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -1728,6 +1868,22 @@ Related topics: [Postmortem realities](postmortem-realities.md), [Consciousness 
 - [src-2bc9fdeb3e80-c04](sasquatch.md#src-2bc9fdeb3e80-c04) — Sasquatch
 - [src-35a4804aef6f-c03](postmortem-realities.md#src-35a4804aef6f-c03) — Postmortem realities
 - [src-35a4804aef6f-c04](postmortem-realities.md#src-35a4804aef6f-c04) — Postmortem realities
+- [src-492455da3cda-c02](planetary-matrix-resets.md#src-492455da3cda-c02) — Planetary Matrix resets
+- [src-828b1cc9dc5c-c01](planetary-matrix-resets.md#src-828b1cc9dc5c-c01) — Planetary Matrix resets
+- [src-336f7353bbdf-c02](galactic-federation.md#src-336f7353bbdf-c02) — Galactic Federation
+- [src-9a2bfd903f99-c02](consciousness-metaphysics.md#src-9a2bfd903f99-c02) — Consciousness and metaphysics
+- [src-43ae6ea7442d-c03](consciousness-metaphysics.md#src-43ae6ea7442d-c03) — Consciousness and metaphysics
+- [src-236ecb1cbc5f-c02](consciousness-metaphysics.md#src-236ecb1cbc5f-c02) — Consciousness and metaphysics
+- [src-01886647014f-c03](zeta-reticuli-gardeners.md#src-01886647014f-c03) — Zeta Reticuli Gardeners
+- [src-e9f782478883-c01](earth-cabal.md#src-e9f782478883-c01) — Earth Cabal and power structures
+- [src-39133ce4e004-c01](earth-cabal.md#src-39133ce4e004-c01) — Earth Cabal and power structures
+- [src-19222374970c-c04](postmortem-realities.md#src-19222374970c-c04) — Postmortem realities
+- [src-f2482bdbc271-c01](galactic-federation.md#src-f2482bdbc271-c01) — Galactic Federation
+- [src-f2482bdbc271-c02](consciousness-metaphysics.md#src-f2482bdbc271-c02) — Consciousness and metaphysics
+- [src-f118c9aeadd2-c02](egregors.md#src-f118c9aeadd2-c02) — Egregors
+- [src-b0799fe10f02-c02](civilizational-resets.md#src-b0799fe10f02-c02) — Civilizational resets
+- [src-18ebdb1cca3c-c03](galactic-federation.md#src-18ebdb1cca3c-c03) — Galactic Federation
+- [src-9a0338811c9d-c03](postmortem-realities.md#src-9a0338811c9d-c03) — Postmortem realities
 
 ## Review flags
 
@@ -1747,6 +1903,7 @@ Related topics: [Postmortem realities](postmortem-realities.md), [Consciousness 
 - apollo-denial-claims
 - approximate-age-estimate
 - archon\_interference\_qualification
+- ascension-not-a-single-event
 - attributed-frequency-interference-claims
 - attribution: extraordinary intelligence claims remain source-specific
 - blockade-and-biology-attributed
@@ -1754,13 +1911,16 @@ Related topics: [Postmortem realities](postmortem-realities.md), [Consciousness 
 - causal-attribution-tension
 - claim: extraordinary abduction and biology account
 - claims reflect Space Academy’s attributed lore
+- conceptual-revision:mind-reading-vs-perception
 - conceptual-tension: real/unreal distinctions are context-dependent
 - consciousness-claims
 - conspiracy-claims
 - conspiracy\_claims
 - contested-claims
 - contested-history
+- contested-pandemic-control-narrative
 - contested-space-history-allegation
+- contested-vaccine-technology-allegations
 - contested\_intelligence\_claims
 - cosmology-claims\_attributed
 - counterfactual-earth-history
@@ -1777,6 +1937,7 @@ Related topics: [Postmortem realities](postmortem-realities.md), [Consciousness 
 - coverage: psychic-function claims
 - culturally\_variable\_nde\_claim
 - date-discrepancy
+- density-transition-vs-personal-state
 - disclosure\_claims\_unverified
 - dyatlov-claim-reversed-in-later-anéeka-account
 - earth-population-claims
@@ -1791,14 +1952,23 @@ Related topics: [Postmortem realities](postmortem-realities.md), [Consciousness 
 - extraterrestrial-claims
 - extreme-atrocities-claim
 - family-dynamics-generalization
+- federation-control-and-nonintervention-tension
+- federation-intentions-and-collective-choice-tension
+- federation-purpose-vs-collective-choice-tension
+- federation-role-speaker-contrast
+- federation-role-variation
 - gender-reincarnation\_views\_attributed
+- high-content-overlap-with-src-e9f782478883
 - historical-claims-unverified
 - human-origin-model
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - internal\_uncertainty
+- intra-source-policy-tension
 - lunar-artificial-structure-claims-attributed
 - lunar-reactor-age-origin-uncertainty
 - manifestation\_mechanics
+- matrix-collapse-and-human-choice
+- matrix-reset-and-density-doctrine-attributed
 - matrix-scope-differing-views
 - matrix-technology-attributed
 - matrix\_layers
@@ -1806,14 +1976,22 @@ Related topics: [Postmortem realities](postmortem-realities.md), [Consciousness 
 - medical-misinformation: pandemic, testing, and vaccine claims
 - medical-misinformation: virus, vaccine, and nanopowder claims
 - metaphysical-claims
+- metaphysical-claims-attributed
 - metaphysical-model\_attributed
 - moon-conspiracy-claims
 - nonstandard-biology-claims
 - nonstandard-physics-claims
 - nonstandard-planetary-model
 - personal\_accusations
+- perspective-dependent-claims
+- perspective-variation
+- planetary-reset-cycle-attributed
+- positronic-wave-source-disputed-with-alcyone-claims
 - reincarnation-model-metaphysical
 - related\_series\_part
+- religion-personal-benefit-versus-social-harm
+- reset-sequence-and-dating-unclear
+- same-language-counterpart:src-cb51273860c3-wording-diff-agresivos
 - sensitive\_claims
 - simulation-and-AI-claims
 - soul-model-metaphysical
@@ -1833,6 +2011,7 @@ Related topics: [Postmortem realities](postmortem-realities.md), [Consciousness 
 - translation-counterpart-src-0a2dec346e2d-expanded-later-account
 - translation-counterpart-src-77b565b0b608-shared-2018-section
 - treat-all-persons-equally
+- uncertain-human-versus-nonhuman-mutilation-cause
 - uncertainty-shift: 5G moves from possible explanation to formal position
 - unverified-astral-causation
 - unverified\_biological\_claims

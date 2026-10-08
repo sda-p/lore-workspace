@@ -1,0 +1,116 @@
+{
+  "source_id": "src-e3c4c3592419",
+  "snapshot_sha256": "21aef0655b21ad172e4794fea0f5a809f16033dd3e1ed70842d1a890ceb2be00",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e3c4c3592419-c01",
+      "assertion": "Yazhi portrays secret societies as layered power networks with nonhuman elements shaping Earth’s hierarchy.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e3c4c3592419-c02",
+      "assertion": "She says public religions simplify deeper beliefs and channel collective attention toward controllers’ preferred realities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e3c4c3592419-c03",
+      "assertion": "Yazhi says public Masonic ranks end at 33, beneath deeper societies controlling lower tiers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "secret-society-hierarchy",
+      "topics": [
+        "secret-society-hierarchy",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e3c4c3592419-c04",
+      "assertion": "She says deep society members regard bodies as temporary vessels; some communicate with Solar-System Federation representatives based on Saturn.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "secret-society-hierarchy",
+      "topics": [
+        "secret-society-hierarchy",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e3c4c3592419-c05",
+      "assertion": "Yazhi says the Federation treats Earth’s events as collective choices and monitors free will rather than intervening.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "secret-society-hierarchy",
+      "name": "Secret-society hierarchy",
+      "kind": "organization structure",
+      "aliases": [
+        "sociedades secretas",
+        "compartmentalized societies"
+      ]
+    }
+  ],
+  "review_flags": [
+    "secret-society-power-claims",
+    "federation-nonintervention-rationale",
+    "religious-control-claims"
+  ],
+  "coverage_gaps": [
+    "masonic-degree-structure",
+    "pod-access-uncertainty",
+    "Vatican-control-limits"
+  ]
+}

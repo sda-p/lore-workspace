@@ -1,0 +1,75 @@
+{
+  "source_id": "src-e7f3b531d57a",
+  "snapshot_sha256": "28b2998432bfda91bf80ebe0d11c94f6cc3f80e0a9989db0c4d79fd0d9901d42",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e7f3b531d57a-c01",
+      "assertion": "Anéeka alleges inoculations alter cellular DNA and vary by population group in composition and intended effect.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0110",
+        "p0117",
+        "p0119"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributes the design to controllers."
+    },
+    {
+      "id": "src-e7f3b531d57a-c02",
+      "assertion": "Anéeka says ordinary medical pods copy altered cells; restoration needs unaffected DNA and cloning technology.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0059",
+        "p0062"
+      ],
+      "primary_topic": "medical-pods",
+      "topics": [
+        "medical-pods",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls this complex."
+    },
+    {
+      "id": "src-e7f3b531d57a-c03",
+      "assertion": "Anéeka describes viruses as inert exosome signals activating latent conditions in compatible cells; each host generates variants.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0128",
+        "p0129",
+        "p0130",
+        "p0150",
+        "p0155",
+        "p0173",
+        "p0174"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her proposed virus model."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-claims:unverified",
+    "virus-model:exosome-equivalence"
+  ],
+  "coverage_gaps": [
+    "PCR-testing",
+    "transmission-claims",
+    "5G-graphene"
+  ]
+}

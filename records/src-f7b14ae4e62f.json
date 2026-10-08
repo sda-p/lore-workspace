@@ -1,0 +1,37 @@
+{
+  "source_id": "src-f7b14ae4e62f",
+  "snapshot_sha256": "4ba17b6cffd6dccad999c271b2891fd9d960a09cc8ff8541992ad6b9e95f1bf6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f7b14ae4e62f-c01",
+      "assertion": "Anèeka says Taygetans describe matter as atomic structures of nodes and standing waves, with consciousness as their sole “element” in this framing.",
+      "speaker": "Anèeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "atomic-wave-structure",
+      "topics": [
+        "atomic-wave-structure",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says they understand human element classification but do not use it."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "atomic-wave-structure",
+      "name": "Taygetan atomic wave structure",
+      "kind": "cosmological model",
+      "aliases": [
+        "estructura atómica",
+        "nodos y ondas estacionarias"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": []
+}

@@ -47,3 +47,17 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 Source: [LOS MISTERIOSOS CIRCULOS DE LAS COSECHAS – MENSAJES ENTRE EXTRATERRESTRES – Swaruu de Erra](https://swaruu.org/transcripts/los-misteriosos-circulos-de-las-cosechas-mensajes-entre-extraterrestres-swaruu-de-erra) (2018-10-18; es); passages p0014, p0016, p0018. [Structured record](../../records/src-e15992dcfa52.json).
 
 Related topics: [Tractor beams](tractor-beams.md), [Stellar navigation](stellar-navigation.md).
+
+### src-fe16588859c1-c04
+
+She uses temporary markers to check her return point and says some crop circles mark time for spacecraft. Her account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PRIMERA CONVERSACIÓN CON YAZHÍ SWARUÚ \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-conversacion-con-yazhi-swaruu-sin-video) (2020-07-06; es); passages p0039, p0040, p0041, p0043. [Structured record](../../records/src-fe16588859c1.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+## Review flags
+
+- personal-ability-claims-attributed

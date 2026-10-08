@@ -40,6 +40,16 @@ Attributed to **Swaruu**; reported; extraction confidence: high.
 
 Source: [Swaruu de Erra: Trabajo de Sombra (Mensaje Extraterrestre Pleyadiano-Taygeta)](https://swaruu.org/transcripts/swaruu-de-erra-trabajo-de-sombra-mensaje-extraterrestre-pleyadiano-taygeta) (2019-05-14; es); passages p0064, p0070, p0072, p0073. [Structured record](../../records/src-f0c456f9c389.json).
 
+### src-4f593a08df69-c04
+
+Her shadow work faces deeply undesirable traits; awareness integrates rather than represses them, which she links to virtue.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ascension - De que se Trata Realmente? Yázhi Swaruu - Comunicación Extraterrestre](https://swaruu.org/transcripts/ascension-de-que-se-trata-realmente-yazhi-swaruu-comunicacion-extraterrestre) (2020-09-15; es); passages p0024, p0026, p0027, p0029, p0031. [Structured record](../../records/src-4f593a08df69.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Review flags
 
 - spiritual-psychology-attributed

@@ -1104,6 +1104,8 @@ Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
 - [src-d088ff3491c4-c05](alien-species.md#src-d088ff3491c4-c05) — Alien species and distinctions
 - [src-1da40cd3aac1-c03](alien-species.md#src-1da40cd3aac1-c03) — Alien species and distinctions
 - [src-84a31dbc8140-c01](alpha-draconians.md#src-84a31dbc8140-c01) — Alpha Draconians
+- [src-cfb8d4ba70e4-c01](galactic-federation.md#src-cfb8d4ba70e4-c01) — Galactic Federation
+- [src-33c7243bf8a8-c01](galactic-federation.md#src-33c7243bf8a8-c01) — Galactic Federation
 
 ## Review flags
 
@@ -1129,6 +1131,9 @@ Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
 - disputed\_specimen
 - extraordinary-contact-claims
 - family-dynamics-generalization
+- federation-control-and-nonintervention-tension
+- federation-role-speaker-contrast
+- federation-role-variation
 - genetic-weapon-causation-speculative
 - historical-claims-unverified
 - historical-conspiracy-claims
@@ -1136,6 +1141,7 @@ Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
 - identity-of-hidden-faction-unknown
 - incomplete-investigation
 - intercultural-claims
+- intra-source-policy-tension
 - medical\_claims
 - personal\_metaphysics
 - political-claims\_attributed

@@ -1,0 +1,60 @@
+{
+  "source_id": "src-82157eb532ca",
+  "snapshot_sha256": "fa84c8672da6aa6ef0f3188f7197a867a58f81dd989d1cdd8f9478d4b30bf805",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-82157eb532ca-c01",
+      "assertion": "Yazhi interprets toy imagery—trees, butterfly wings, pink hair, owls, and unicorns—as signals of Cabal enslavement, sacrifice, or sexual exploitation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "ritual-symbolism-in-media",
+      "topics": [
+        "ritual-symbolism-in-media",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the imagery is beautiful when viewed in isolation."
+    },
+    {
+      "id": "src-82157eb532ca-c02",
+      "assertion": "Yazhi says teddy bears and unwinnable zombie-game loops encode ritual sacrifice and train players in helplessness; she also describes a game ritual involving a pentagram and butterfly.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "ritual-symbolism-in-media",
+      "topics": [
+        "ritual-symbolism-in-media",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are her interpretations of films and games."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "ritual-symbolism-in-media",
+      "name": "Ritual symbolism in toys and media",
+      "kind": "symbolism",
+      "aliases": [
+        "simbología oculta en juguetes"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": []
+}

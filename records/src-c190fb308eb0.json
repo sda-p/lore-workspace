@@ -1,0 +1,79 @@
+{
+  "source_id": "src-c190fb308eb0",
+  "snapshot_sha256": "11fe283a943c4f0a75ae86fad1d074c655f7c437849f19a427665d96067b5989",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c190fb308eb0-c01",
+      "assertion": "Anéeka says Karistus claim Earth as their former home and regard humanlike spacefarers as Karistus.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus",
+        "lyrians"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She attributes this to Karistus belief."
+    },
+    {
+      "id": "src-c190fb308eb0-c02",
+      "assertion": "She says the Federation limits human solar expansion to protect other technological races, including Karistus.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "karistus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Karistus oppose its permissiveness toward Earth."
+    },
+    {
+      "id": "src-c190fb308eb0-c03",
+      "assertion": "She says the Federation negotiates with humanity’s controllers, not directly with humans or politicians.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0013",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She also says humans ultimately create their governments."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "lyrians",
+      "name": "Lyrians",
+      "kind": "civilization",
+      "aliases": [
+        "raza liriana",
+        "Lyrian race"
+      ]
+    }
+  ],
+  "review_flags": [
+    "human-agency-model:external-control-and-human-authorship"
+  ],
+  "coverage_gaps": [
+    "Karistus-restoration-aims",
+    "secret-space-program-Mars-Venus"
+  ]
+}

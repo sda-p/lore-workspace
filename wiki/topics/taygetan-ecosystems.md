@@ -256,6 +256,26 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) (2018-12-28; es); passages p0014, p0015. [Structured record](../../records/src-24ab9cb7ffa0.json).
 
+### src-61a0b9a71122-c04
+
+Swaruu says Taygeta has 38 million people across four planets, few cities, and mostly isolated self-sufficient homes; work and academies are social hubs.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Es Cultura Extraterrestre Similar a la Humana? (Contacto Extraterrestre Taygeta - Pleyades)](https://swaruu.org/transcripts/es-cultura-extraterrestre-similar-a-la-humana-contacto-extraterrestre-taygeta-pleyades) (2020-05-08; es); passages p0034, p0038, p0040. [Structured record](../../records/src-61a0b9a71122.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-848430840164-c04
+
+Anéeka says Taygeta is binary: nearby white-dwarf Sadicleya illuminates its planets and affects biological cycles; they lack natural moons.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anéeka habla de la lengua Taygeteana - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/aneeka-habla-de-la-lengua-taygeteana-sin-video) (2020-10-01; es); passages p0003. [Structured record](../../records/src-848430840164.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-8ca54257f6a4-c03](cyndriel.md#src-8ca54257f6a4-c03) — Cyndriel
@@ -272,6 +292,7 @@ Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](htt
 - [src-d8bcaf4fc008-c01](uranus.md#src-d8bcaf4fc008-c01) — Uranus and its moons
 - [src-3f4799b0281c-c01](venus.md#src-3f4799b0281c-c01) — Venus
 - [src-3f4799b0281c-c03](venus.md#src-3f4799b0281c-c03) — Venus
+- [src-9b8c545032b0-c05](temporal-skipping.md#src-9b8c545032b0-c05) — Temporal skipping
 
 ## Review flags
 
@@ -286,6 +307,8 @@ Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](htt
 - species-description\_attributed
 - taygetan-society-claims-attributed
 - time-travel-claims
+- translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448
+- translation-counterpart:src-cb985947b0e5-english-adds-p21-p22
 - translation-equivalence-unverified
 - unverified\_extraterrestrial\_claims
 - venus-habitable-world-model

@@ -44,6 +44,18 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [RAZAS EXTRATERRESTRES en 5D (3) - ALPHA DRACONIANOS (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-3-alpha-draconianos-mensaje-pleyadiano) (2019-06-07; es); passages p0006, p0014. [Structured record](../../records/src-84a31dbc8140.json).
 
+### src-b2a52629b21d-c03
+
+Swaruu says some craft seek aid from Draco groups; Federation forces would seize them at the Moon.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [SUBMARINOS NAVES ESPACIALES - PROGRAMA ESPACIAL SECRETO - DONALD TRUMP](https://swaruu.org/transcripts/submarinos-naves-espaciales-programa-espacial-secreto-donald-trump) (2019-12-24; es); passages p0017, p0019, p0021, p0023. [Structured record](../../records/src-b2a52629b21d.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Secret Space Program](secret-space-program.md).
+
 ## Review flags
 
+- federation-seizure-claim
+- secret-space-program-claims
 - uncertain-origin

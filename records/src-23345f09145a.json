@@ -1,0 +1,65 @@
+{
+  "source_id": "src-23345f09145a",
+  "snapshot_sha256": "23489e15b39c261ac6e515da269056c4666117da72112335a8740e963096ae6f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-23345f09145a-c01",
+      "assertion": "Anéeka defines ship internal time as each crew member’s perceived flight duration; shared SIT results from agreement, not a ship setting.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her explanation."
+    },
+    {
+      "id": "src-23345f09145a-c02",
+      "assertion": "She says supraluminal travel is instantaneous regardless of distance, while crew perception still assigns a variable SIT duration.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account invokes ether nonlocality."
+    },
+    {
+      "id": "src-23345f09145a-c03",
+      "assertion": "Anéeka says ships emulate or amplify consciousness-frequency but cannot handle every frequency; reaching seventh density is possible only with difficulty and depends on the craft.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "communication-contact-methods",
+    "vacuum-ether-model"
+  ]
+}

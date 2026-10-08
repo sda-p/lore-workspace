@@ -1,0 +1,66 @@
+{
+  "source_id": "src-a5ce4900a24a",
+  "snapshot_sha256": "d1aaa6e2bed1cb10bdb888837aae1515aba180e9d093ae6a1efefb6964e8f4ee",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a5ce4900a24a-c01",
+      "assertion": "Athena calls threat-driven attention agro: a larger danger can draw a soldier’s focus from a smaller enemy, an effect she compares to mass attention shifting toward concrete crises.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "agro-threat-focus",
+      "topics": [
+        "agro-threat-focus",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her analogy; specific contemporary-war allegations are omitted."
+    },
+    {
+      "id": "src-a5ce4900a24a-c02",
+      "assertion": "Athena claims an ancient Taygetan base remains beneath southern Crimea, linked to sites near Bucegi and Giza; she says the current conflict holds no special interest for Taygeta.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "crimea-taygetan-base",
+      "topics": [
+        "crimea-taygetan-base",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her claim."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "agro-threat-focus",
+      "name": "Agro threat focus",
+      "kind": "perception mechanic",
+      "aliases": [
+        "Agro"
+      ]
+    },
+    {
+      "id": "crimea-taygetan-base",
+      "name": "Taygetan base beneath Crimea",
+      "kind": "location",
+      "aliases": [
+        "Crimea base"
+      ]
+    }
+  ],
+  "review_flags": [
+    "current-war-and-vaccine-claims-omitted"
+  ],
+  "coverage_gaps": [
+    "crisis-distraction-claims",
+    "military-escalation-forecast"
+  ]
+}

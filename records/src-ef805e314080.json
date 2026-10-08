@@ -1,0 +1,106 @@
+{
+  "source_id": "src-ef805e314080",
+  "snapshot_sha256": "e4185422e9dc1379d40b9f5591582db35881d5e8c20b515e8e33baab79ff6692",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ef805e314080-c01",
+      "assertion": "Athena says the C-17 video was staged: a hidden tug towed the aircraft with engines off and added sound.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "c-17-globemaster",
+      "topics": [
+        "c-17-globemaster",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her interpretation of the footage."
+    },
+    {
+      "id": "src-ef805e314080-c02",
+      "assertion": "She argues running C-17 engines would ingest nearby people or blast those behind the aircraft.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0019",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "c-17-globemaster",
+      "topics": [
+        "c-17-globemaster",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ef805e314080-c03",
+      "assertion": "She says C-17 red warning strobes are engine-linked and absent from the footage, indicating engines were off.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "c-17-globemaster",
+      "topics": [
+        "c-17-globemaster",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ef805e314080-c04",
+      "assertion": "She calls the image of roughly 800 passengers staged, citing the ramp timing and orderly arrangement.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "c-17-globemaster",
+      "topics": [
+        "c-17-globemaster",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The staging is her interpretation, not independently established here."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "c-17-globemaster",
+      "name": "C-17 Globemaster",
+      "kind": "aircraft",
+      "aliases": [
+        "C-17",
+        "Globemaster"
+      ]
+    }
+  ],
+  "review_flags": [
+    "aviation-footage-fraud-allegation",
+    "unverified-event-interpretation"
+  ],
+  "coverage_gaps": [
+    "tug-design-details",
+    "cabin-photo-evidence",
+    "alternative-explanations"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "source_id": "src-cc4e6a95114d",
+  "snapshot_sha256": "9e9f21d398e9e5f97e580083d20e24caa66847c9aaca38b9103b1c9d0768941b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cc4e6a95114d-c01",
+      "assertion": "Anéeka says Earth and Venus are this sector’s only officially regressive worlds, though classifications are relative.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0023",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "venus",
+      "topics": [
+        "venus",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cc4e6a95114d-c02",
+      "assertion": "She divides Mars among Earth’s Cabal, Maitre, and Oalu Mantis, making it neither free nor singly controlled.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "earth-cabal",
+        "maitre",
+        "oalu-mantis"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cc4e6a95114d-c03",
+      "assertion": "She describes 5D Venus as a mild tropical waterworld used as a Cabal resort.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "venus",
+      "topics": [
+        "venus",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cc4e6a95114d-c04",
+      "assertion": "She says peaceful Tau Ceti, GJ 667C, and Kepler worlds were seized then freed by Federation intervention.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cc4e6a95114d-c05",
+      "assertion": "She contrasts those invasions with Earth’s complex case, arguing love alone cannot replace defense.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "planetary-control-and-liberation-claims",
+    "venus-physical-description-differs-from-earth-science"
+  ],
+  "coverage_gaps": [
+    "alpha-centauri-planet-list",
+    "venus-orbital-fleet",
+    "cabal-portal-transit"
+  ]
+}

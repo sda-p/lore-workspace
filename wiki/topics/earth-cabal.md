@@ -2612,6 +2612,364 @@ Source: [EL EGO Y EL AMOR - MENSAJE EXTRATERRESTRE - NIBIRU - STAR TREK - SWARUU
 
 Related topics: [Economics and resources](economics.md).
 
+### src-02802573a60a-c03
+
+Yazhi says the Cabal is defeated in every timeline she has seen, but humanity pays a huge cost; its scale depends on human choices and resistance.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Nosotros Somos la Clave - Líneas Colectivas - Yázhi Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/nosotros-somos-la-clave-lineas-colectivas-yazhi-swaruu-comunicacion-extraterrestre) (2020-09-13; es); passages p0030, p0031, p0032, p0033, p0034. [Structured record](../../records/src-02802573a60a.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-e9f782478883-c01
+
+Anéeka portrays quarantines and restrictions as a Cabal tool for inducing fear and compliance, with vaccination presented as the route back to normal life. Her account alleges political rather than medical motives.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [El porqué de las cuarentenas - El Encierro y el Distanciamiento Social - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/el-porque-de-las-cuarentenas-el-encierro-y-el-distanciamiento-social-sin-video) (2020-05-26; es); passages p0003, p0006, p0009, p0019, p0030. [Structured record](../../records/src-e9f782478883.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-39133ce4e004-c01
+
+Anéeka portrays quarantine and distancing as Cabal measures to create fear, obedience, and acceptance of a chip-linked vaccine, rather than as medical interventions.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Distanciamiento Social y Quarentenas. Porque?](https://swaruu.org/transcripts/distanciamiento-social-y-quarentenas-porque) (2020-05-31; es); passages p0003, p0005, p0010, p0011. [Structured record](../../records/src-39133ce4e004.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-39133ce4e004-c02
+
+She claims people without chip-vaccines would face restrictions on movement and food access, potentially followed by direct extermination.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Distanciamiento Social y Quarentenas. Porque?](https://swaruu.org/transcripts/distanciamiento-social-y-quarentenas-porque) (2020-05-31; es); passages p0008. [Structured record](../../records/src-39133ce4e004.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-ab55e5374c49-c01
+
+Anéeka alleges the Cabal exploits information saturation and disinformation to obscure true messages and make verification difficult.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [COMO ALCANZAR LA VERDAD - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/como-alcanzar-la-verdad-aneeka-de-temmer) (2020-10-27; es); passages p0003. [Structured record](../../records/src-ab55e5374c49.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-a47091eb591b-c02
+
+She says authorities and governments can impose collective reality when people delegate judgment.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Que es la realidad - Quien determina qué es o no realidad - YAZHÍ SWARUU](https://swaruu.org/transcripts/que-es-la-realidad-quien-determina-que-es-o-no-realidad-yazhi-swaruu) (2020-08-10; es); passages p0049, p0057, p0068, p0073. [Structured record](../../records/src-a47091eb591b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-36f2904b7eee-c02
+
+She lists four possible futures: tighter controls, economic collapse, partial Cabal removal, or extraterrestrial intervention. She says these were possible outcomes, with the first then seeming most likely.
+
+Attributed to **Swaruu (9)**; speculative; extraction confidence: high.
+
+Source: [CAMBIA TU REALIDAD – EL POSIBLE FUTURO DE LA HUMANIDAD - ACTUALIZACION PLANETARIA - SWARUU](https://swaruu.org/transcripts/cambia-tu-realidad-el-posible-futuro-de-la-humanidad-actualizacion-planetaria-swaruu) (2020-03-28; es); passages p0004, p0005, p0006, p0007, p0015. [Structured record](../../records/src-36f2904b7eee.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-dda82170ab11-c01
+
+Anéeka says intelligence sources blamed a Wuhan bio-weapon on economic and depopulation aims; Taygetan tests found ordinary SARS. She notes conflicting findings.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Comunicación Extraterrestre sobre Situacion Actual - Taygeta, Pleyades (Aneeka de Temmer)](https://swaruu.org/transcripts/comunicacion-extraterrestre-sobre-situacion-actual-taygeta-pleyades-aneeka-de-temmer) (2020-03-20; es); passages p0005, p0006, p0011, p0026, p0031. [Structured record](../../records/src-dda82170ab11.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-dda82170ab11-c03
+
+She alleges rival Cabal factions used the crisis for propaganda and martial law, with one side pursuing arrests. She says several factions were involved.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Comunicación Extraterrestre sobre Situacion Actual - Taygeta, Pleyades (Aneeka de Temmer)](https://swaruu.org/transcripts/comunicacion-extraterrestre-sobre-situacion-actual-taygeta-pleyades-aneeka-de-temmer) (2020-03-20; es); passages p0013, p0014, p0015, p0016. [Structured record](../../records/src-dda82170ab11.json).
+
+### src-de6bb6a64653-c04
+
+She says coordinated media and advanced AI spread false information to advance a control agenda.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Comportamiento de los Virus - Respuestas a doctor Alex (Swaruu - Taygeta - Pleyades)](https://swaruu.org/transcripts/comportamiento-de-los-virus-respuestas-a-doctor-alex-swaruu-taygeta-pleyades) (2020-05-24; es); passages p0026, p0028. [Structured record](../../records/src-de6bb6a64653.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-49447d1539c8-c01
+
+Anéeka alleges Cabal planners intend repeated crisis waves to impose restrictions and disrupt food supply.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Que Esta Planificando el Cabal? (CENSURADO EN YOUTUBE - SIN VIDEO)](https://swaruu.org/transcripts/que-esta-planificando-el-cabal-no-en-youtube-el-video-no-esta-disponible-para-este-transcrito) (2020-07-24; es); passages p0002, p0003, p0018, p0019. [Structured record](../../records/src-49447d1539c8.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-49447d1539c8-c02
+
+She says vaccination would be nominally voluntary but required for travel, schooling, licenses, and eventually purchases.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Que Esta Planificando el Cabal? (CENSURADO EN YOUTUBE - SIN VIDEO)](https://swaruu.org/transcripts/que-esta-planificando-el-cabal-no-en-youtube-el-video-no-esta-disponible-para-este-transcrito) (2020-07-24; es); passages p0015, p0016, p0017. [Structured record](../../records/src-49447d1539c8.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-49447d1539c8-c03
+
+Anéeka describes masks as compliance indicators used to identify regions and people resisting the agenda.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Que Esta Planificando el Cabal? (CENSURADO EN YOUTUBE - SIN VIDEO)](https://swaruu.org/transcripts/que-esta-planificando-el-cabal-no-en-youtube-el-video-no-esta-disponible-para-este-transcrito) (2020-07-24; es); passages p0023, p0024, p0025, p0026. [Structured record](../../records/src-49447d1539c8.json).
+
+### src-49447d1539c8-c04
+
+She presents a biological weapon as a last-resort response to organized opposition, while expressing uncertainty about its necessity.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Que Esta Planificando el Cabal? (CENSURADO EN YOUTUBE - SIN VIDEO)](https://swaruu.org/transcripts/que-esta-planificando-el-cabal-no-en-youtube-el-video-no-esta-disponible-para-este-transcrito) (2020-07-24; es); passages p0006, p0007, p0020, p0021. [Structured record](../../records/src-49447d1539c8.json).
+
+### src-b3278ce1872a-c01
+
+Anéeka says Cabal actors use media narratives to turn seasonal illness into a crisis and manipulate public perception. She allows that a virus or biological weapon may still exist.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL CORONAVIRUS - QUIEN ESTA DETRÁS - LO QUE NO TE DICEN - VIDEO ELIMINADO POR LA CENSURA](https://swaruu.org/transcripts/el-coronavirus-quien-esta-detras-lo-que-no-te-dicen-video-eliminado-por-la-censura) (2020-01-30; es); passages p0002, p0003, p0007, p0022, p0023. [Structured record](../../records/src-b3278ce1872a.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-b3278ce1872a-c02
+
+She describes the crisis as a Cabal test of national health systems and a means to market vaccines and medicines.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL CORONAVIRUS - QUIEN ESTA DETRÁS - LO QUE NO TE DICEN - VIDEO ELIMINADO POR LA CENSURA](https://swaruu.org/transcripts/el-coronavirus-quien-esta-detras-lo-que-no-te-dicen-video-eliminado-por-la-censura) (2020-01-30; es); passages p0024. [Structured record](../../records/src-b3278ce1872a.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-b3278ce1872a-c03
+
+Anéeka alleges staged vaccine components could be activated later to weaken selected populations.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL CORONAVIRUS - QUIEN ESTA DETRÁS - LO QUE NO TE DICEN - VIDEO ELIMINADO POR LA CENSURA](https://swaruu.org/transcripts/el-coronavirus-quien-esta-detras-lo-que-no-te-dicen-video-eliminado-por-la-censura) (2020-01-30; es); passages p0026, p0027. [Structured record](../../records/src-b3278ce1872a.json).
+
+### src-b3278ce1872a-c04
+
+She says intelligence agencies screen and shape films and television to steer public values and behavior.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL CORONAVIRUS - QUIEN ESTA DETRÁS - LO QUE NO TE DICEN - VIDEO ELIMINADO POR LA CENSURA](https://swaruu.org/transcripts/el-coronavirus-quien-esta-detras-lo-que-no-te-dicen-video-eliminado-por-la-censura) (2020-01-30; es); passages p0038, p0039, p0040. [Structured record](../../records/src-b3278ce1872a.json).
+
+### src-2e29a706d6e3-c01
+
+Swaruu alleges Cabal actors seek network-connected human bodies using 5G, vaccine nanotechnology, and internet AI.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mensaje para Semillas Estelares - Swaruu D´Jedi Ronin (Comunicacion Extraterrestre - Taygeta)](https://swaruu.org/transcripts/mensaje-para-semillas-estelares-swaruu-d-jedi-ronin-comunicacion-extraterrestre-taygeta) (2020-04-08; es); passages p0006, p0007. [Structured record](../../records/src-2e29a706d6e3.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-507124acb730-c01
+
+Swaruu alleges vaccine nanotechnology could be remotely activated over communication networks to influence recipients.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NANO TECNOLOGÍA APLICADA EN LAS VACUNAS Y MANERAS DE DESACTIVARLA - Swaruu D´Jedi Ronin](https://swaruu.org/transcripts/nano-tecnologia-aplicada-en-las-vacunas-y-maneras-de-desactivarla-swaruu-d-jedi-ronin) (2020-06-11; es); passages p0006, p0008. [Structured record](../../records/src-507124acb730.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-27117e8f1038-c02
+
+She portrays China as a Cabal testing ground and the hospital construction story as media theater.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Coronavirus - Lo que sabemos hasta ahora - VIDEO ELIMINADO EN YOUTUBE POR CENSURA](https://swaruu.org/transcripts/coronavirus-lo-que-sabemos-hasta-ahora-video-eliminado-en-youtube-por-censura) (2020-02-03; es); passages p0004, p0005, p0006, p0007, p0008. [Structured record](../../records/src-27117e8f1038.json).
+
+### src-45f2406866f4-c01
+
+Anéeka alleges Cabal-linked payments incentivize hospitals to classify cases, use respirators, and report deaths.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Hospitales - Mensaje Urgente - Anéeka de Temmer (Comunicación Extraterrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/hospitales-mensaje-urgente-aneeka-de-temmer-comunicacion-extraterrestre-taygeta-pleyades) (2020-05-12; es); passages p0004, p0005, p0006, p0015. [Structured record](../../records/src-45f2406866f4.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-45f2406866f4-c02
+
+She says patients’ families were excluded, autopsies withheld, and bodies cremated under pandemic rules. She reports this varied by hospital.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Hospitales - Mensaje Urgente - Anéeka de Temmer (Comunicación Extraterrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/hospitales-mensaje-urgente-aneeka-de-temmer-comunicacion-extraterrestre-taygeta-pleyades) (2020-05-12; es); passages p0016, p0017, p0018. [Structured record](../../records/src-45f2406866f4.json).
+
+### src-45f2406866f4-c03
+
+Anéeka says global reports described hospitals assigning pandemic diagnoses without testing.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Hospitales - Mensaje Urgente - Anéeka de Temmer (Comunicación Extraterrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/hospitales-mensaje-urgente-aneeka-de-temmer-comunicacion-extraterrestre-taygeta-pleyades) (2020-05-12; es); passages p0007, p0018, p0020. [Structured record](../../records/src-45f2406866f4.json).
+
+### src-d2aab2fa5a4c-c01
+
+Anéeka describes two Cabal factions, with a positive faction allied to the Federation opposing a negative one.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Informe - Aneeka de Temmer (Taygeta - Pleyades - Contacto Extraterrestre)](https://swaruu.org/transcripts/informe-aneeka-de-temmer-taygeta-pleyades-contacto-extraterrestre) (2020-04-19; es); passages p0008, p0009. [Structured record](../../records/src-d2aab2fa5a4c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-423c2f30c900-c01
+
+Yazhi portrays social dissenters as threats and urges resistance, including nonviolent defense. She frames this as a struggle for species survival.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi y el Testimonio de Dr. Alejandro Sousa - Médicos Saliendo a la Luz \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/yazhi-y-el-testimonio-de-dr-alejandro-sousa-medicos-saliendo-a-la-luz-banned-prohibida-youtube) (2020-07-21; es); passages p0002, p0003. [Structured record](../../records/src-423c2f30c900.json).
+
+### src-423c2f30c900-c02
+
+Yazhi alleges doctors and pharmaceutical interests sustain harmful official measures; she calls for doctors to organize. She exempts some doctors who already act.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi y el Testimonio de Dr. Alejandro Sousa - Médicos Saliendo a la Luz \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/yazhi-y-el-testimonio-de-dr-alejandro-sousa-medicos-saliendo-a-la-luz-banned-prohibida-youtube) (2020-07-21; es); passages p0007, p0008, p0010, p0014. [Structured record](../../records/src-423c2f30c900.json).
+
+### src-36c5fde4f2a4-c01
+
+Anéeka defines being “awake” in this context as rejecting official COVID narratives and viewing governments and media as controlled by a regressive group. This is her framing, not independently established lore.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anéeka Para ti que seria una persona despierta? \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/aneeka-para-ti-que-seria-una-persona-despierta-censurado-en-youtube) (2020-10-19; es); passages p0003. [Structured record](../../records/src-36c5fde4f2a4.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-36c5fde4f2a4-c02
+
+Anéeka advocates civil disobedience as the solution and rejects violence.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anéeka Para ti que seria una persona despierta? \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/aneeka-para-ti-que-seria-una-persona-despierta-censurado-en-youtube) (2020-10-19; es); passages p0003. [Structured record](../../records/src-36c5fde4f2a4.json).
+
+### src-b87a9c4ceb6f-c03
+
+She claims satellites can count people more accurately when crowds stay spaced, as close groups blur the signal.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Asuntos Actuales: Anéeka de Temmer (Contacto Extraterrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/asuntos-actuales-aneeka-de-temmer-contacto-extraterrestre-taygeta-pleyades) (2020-05-04; es); passages p0029. [Structured record](../../records/src-b87a9c4ceb6f.json).
+
+### src-aa6e0d670c42-c04
+
+She says reptilian and regressive entities back the Cabal, while starseeds and walk-ins support the other side; she questions their right to intervene.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Guerra por los Humanos: Cabal contra Semillas Estelares (Yázhí Swaruu - Taygeta - Pleyades)](https://swaruu.org/transcripts/guerra-por-los-humanos-cabal-contra-semillas-estelares-yazhi-swaruu-taygeta-pleyades) (2020-10-12; es); passages p0030, p0033, p0034, p0035, p0037. [Structured record](../../records/src-aa6e0d670c42.json).
+
+Related topics: [Reptilians](reptilians.md), [Starseeds](starseeds.md), [Walk-in phenomenon](walk-in-phenomenon.md).
+
+### src-12b1bea0a52e-c01
+
+Anéeka interprets mask-wearing as symbolic silencing and social isolation: it hides faces, limits expression, and may foster misunderstanding. Her interpretation.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [NANOTECNOLOGÍA – LAS MASCARILLAS y SU SIGNIFICADO ESOTÉRICO - Anéeka de Temmer](https://swaruu.org/transcripts/nanotecnologia-las-mascarillas-y-su-significado-esoterico-aneeka-de-temmer) (2020-06-11; es); passages p0045, p0047. [Structured record](../../records/src-12b1bea0a52e.json).
+
+### src-1c7b74567865-c04
+
+She describes lower Illuminati as mostly human and higher ranks as extraterrestrials in human bodies, with awareness varying by individual.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Armas en el Espacio - Karistus-Anunnaki -COHETE SPACE X – ANEEKA DE TEMMER](https://swaruu.org/transcripts/armas-en-el-espacio-karistus-anunnaki-cohete-space-x-aneeka-de-temmer) (2020-06-08; es); passages p0031, p0032, p0034, p0040. [Structured record](../../records/src-1c7b74567865.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-8f36267b529f-c03
+
+Yazhi alleges the Cabal destroyed historical records, while claiming many Alexandria-library manuscripts survive in the Vatican library. She presents this as preserved hidden history.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Destruccion de la Matrix y manipulacion de la historia - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/destruccion-de-la-matrix-y-manipulacion-de-la-historia-sin-video) (2020-09-01; es); passages p0009, p0010. [Structured record](../../records/src-8f36267b529f.json).
+
+### src-9d362a2f6ab9-c01
+
+Anéeka describes a surface-level Deep State rivalry as real, while portraying both camps as subordinate to a deeper controlling tier. Her account of layered control.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Trump y Elecciones 2020 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/trump-y-elecciones-2020-sin-video) (2020-05-16; es); passages p0006, p0008. [Structured record](../../records/src-9d362a2f6ab9.json).
+
+### src-f5512acb2e99-c01
+
+Yazhi alleges a medical bureau intimidates dissenting doctors and says doctors can organize against Cabal influence; she notes some already resist. Her political framing; she acknowledges dissenting doctors.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Breve Mensaje de Yazhí Swaruu \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/breve-mensaje-de-yazhi-swaruu-sin-video) (2020-07-18; es); passages p0005, p0007, p0008. [Structured record](../../records/src-f5512acb2e99.json).
+
+### src-35ef7583ec87-c02
+
+She says Church and Cabal used Jesus to secure obedience and political control.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Existo Realmente JESÚS DE NAZARET - ASTROTEOLOGÍA - Swaruu de Erra](https://swaruu.org/transcripts/existo-realmente-jesus-de-nazaret-astroteologia-swaruu-de-erra) (2020-07-07; es); passages p0025, p0026, p0027. [Structured record](../../records/src-35ef7583ec87.json).
+
+Related topics: [Flavian Jesus narrative](flavian-jesus-claim.md).
+
+### src-ad9dbfd43650-c01
+
+Anéeka frames a nonconventional war between rival Cabal factions; she says the genocidal side released a US-made virus in Wuhan, yet elsewhere calls the virus a distraction.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ACTUALIZACIÓN PLANETARIA - MEDITACIÓN - LINEA POSITIVA - Swaruu de Erra - Aneeka de Temmer](https://swaruu.org/transcripts/actualizacion-planetaria-meditacion-linea-positiva-swaruu-de-erra-aneeka-de-temmer) (2020-06-15; es); passages p0002, p0003, p0004, p0008, p0029. [Structured record](../../records/src-ad9dbfd43650.json).
+
+Related topics: [Engineered social unrest](engineered-social-unrest.md).
+
+### src-18ebdb1cca3c-c02
+
+She argues confirmed extraterrestrials could undermine Earth’s science and human uniqueness, reveal free-energy and transport technologies, and destabilize finance and control.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DEL FENÓMENO EXTRATERRESTRE CONSECUENCIAS -ANEEKA DE TEMMER](https://swaruu.org/transcripts/desclasificacion-del-fenomeno-extraterrestre-consecuencias-aneeka-de-temmer) (2020-10-29; es); passages p0004. [Structured record](../../records/src-18ebdb1cca3c.json).
+
+Related topics: [Energy generation technology](energy-generation.md), [Economics and resources](economics.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -2748,15 +3106,54 @@ Related topics: [Economics and resources](economics.md).
 - [src-b24a05072ad7-c03](moon-matrix.md#src-b24a05072ad7-c03) — Moon and terrestrial Matrix
 - [src-e0a4afea956c-c01](false-alien-invasion.md#src-e0a4afea956c-c01) — False alien invasion scenarios
 - [src-59c43e8ab96d-c02](mars.md#src-59c43e8ab96d-c02) — Mars
+- [src-cfb8d4ba70e4-c03](moon-matrix.md#src-cfb8d4ba70e4-c03) — Moon and terrestrial Matrix
+- [src-63ddcc45d115-c01](galactic-federation.md#src-63ddcc45d115-c01) — Galactic Federation
+- [src-3aad979502f8-c03](5g-electromagnetic-weapons.md#src-3aad979502f8-c03) — 5G electromagnetic weapons
+- [src-336f7353bbdf-c02](galactic-federation.md#src-336f7353bbdf-c02) — Galactic Federation
+- [src-1dacc07067a8-c01](planetary-unification.md#src-1dacc07067a8-c01) — Planetary Unification
+- [src-236ecb1cbc5f-c03](vaccine-inoculation-claims.md#src-236ecb1cbc5f-c03) — Inoculation and genetic alteration claims
+- [src-2237b5ddb772-c01](starseeds.md#src-2237b5ddb772-c01) — Starseeds
+- [src-82159a8850fc-c02](starseeds.md#src-82159a8850fc-c02) — Starseeds
+- [src-33c7243bf8a8-c04](galactic-federation.md#src-33c7243bf8a8-c04) — Galactic Federation
+- [src-a47091eb591b-c01](consciousness-metaphysics.md#src-a47091eb591b-c01) — Consciousness and metaphysics
+- [src-a47091eb591b-c04](consciousness-metaphysics.md#src-a47091eb591b-c04) — Consciousness and metaphysics
+- [src-01d7bdad2249-c03](galactic-federation.md#src-01d7bdad2249-c03) — Galactic Federation
+- [src-dda82170ab11-c04](terrestrial-science.md#src-dda82170ab11-c04) — Terrestrial science
+- [src-589ce84319c0-c01](consciousness-metaphysics.md#src-589ce84319c0-c01) — Consciousness and metaphysics
+- [src-589ce84319c0-c02](energy-generation.md#src-589ce84319c0-c02) — Energy generation technology
+- [src-079a413a4643-c04](natural-portals.md#src-079a413a4643-c04) — Natural and artificial portals
+- [src-d85be62c2f1e-c03](timeline-branching.md#src-d85be62c2f1e-c03) — Timeline branching
+- [src-2e29a706d6e3-c02](consciousness-metaphysics.md#src-2e29a706d6e3-c02) — Consciousness and metaphysics
+- [src-05d9972a1c9b-c01](galactic-federation.md#src-05d9972a1c9b-c01) — Galactic Federation
+- [src-78b7d4a4289d-c02](galactic-federation.md#src-78b7d4a4289d-c02) — Galactic Federation
+- [src-aa6e0d670c42-c01](starseeds.md#src-aa6e0d670c42-c01) — Starseeds
+- [src-aa6e0d670c42-c02](starseeds.md#src-aa6e0d670c42-c02) — Starseeds
+- [src-aa6e0d670c42-c03](galactic-federation.md#src-aa6e0d670c42-c03) — Galactic Federation
+- [src-1c7b74567865-c01](galactic-federation.md#src-1c7b74567865-c01) — Galactic Federation
+- [src-9d362a2f6ab9-c02](reptilians.md#src-9d362a2f6ab9-c02) — Reptilians
+- [src-53756b5035b9-c02](memory-implantation.md#src-53756b5035b9-c02) — Memory implantation
+- [src-35ef7583ec87-c05](gahonam.md#src-35ef7583ec87-c05) — Gahonam
+- [src-4ce32a647c50-c01](engineered-social-unrest.md#src-4ce32a647c50-c01) — Engineered social unrest
+- [src-06c80561b461-c04](natural-portals.md#src-06c80561b461-c04) — Natural and artificial portals
+- [src-4f593a08df69-c03](individual-ascension.md#src-4f593a08df69-c03) — Individual ascension
+- [src-a4e3084ce97a-c04](moon-matrix.md#src-a4e3084ce97a-c04) — Moon and terrestrial Matrix
+- [src-68b07316b2f9-c01](engineered-social-unrest.md#src-68b07316b2f9-c01) — Engineered social unrest
+- [src-68b07316b2f9-c02](galactic-federation.md#src-68b07316b2f9-c02) — Galactic Federation
+- [src-68b07316b2f9-c04](galactic-federation.md#src-68b07316b2f9-c04) — Galactic Federation
+- [src-632cb43a7536-c03](vaccine-inoculation-claims.md#src-632cb43a7536-c03) — Inoculation and genetic alteration claims
+- [src-632cb43a7536-c04](engineered-social-unrest.md#src-632cb43a7536-c04) — Engineered social unrest
+- [src-18ebdb1cca3c-c01](false-alien-invasion.md#src-18ebdb1cca3c-c01) — False alien invasion scenarios
 
 ## Review flags
 
 - 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
+- 5g-covid-causality-distinction
 - AI\_capability\_claims\_unverified
 - Australian-traffic-purpose-unknown
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- EMP-intervention-field-unknown
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
@@ -2771,22 +3168,30 @@ Related topics: [Economics and resources](economics.md).
 - agenda21-assertion
 - agenda\_term\_varies
 - aircraft-identity-ambiguity
+- alleged-pandemic-cabal-plot
 - alternate-interpretation-of-ancient-texts-attributed
 - ark\_location\_and\_war\_claims\_unverified
 - artificial-intelligence-attributed
 - attack-theory\_speculative
 - attributed-climate-conspiracy-claims
+- attributed-covid-and-5g-conspiracy-claims
 - attributed-frequency-interference-claims
 - attributed-medical-conspiracy-claims
 - attributed-political-conspiracy-claims
+- attributed-vaccine-claims
 - attribution-care: source claims about sexuality are speaker-specific
 - attribution: extraordinary intelligence claims remain source-specific
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - author-signature-attribution
+- authority-and-individual-reality-tension
+- biomedical-claims-not-independently-supported
 - black-knight-loss-details-provisional
 - broad-exopolitical-allegations
+- care-access-claims
 - chronology\_conflict
+- civil-disobedience-rhetoric
 - claims about current events and power structures are Mari’s interpretations
+- claims about fabricated histories and public events are attributed lore, not independently substantiated
 - claims are attributed teachings from Space Academy, not independently verified
 - claims are presented as attributed lore and quotations within a lesson
 - claims reflect Space Academy’s attributed lore
@@ -2794,15 +3199,21 @@ Related topics: [Economics and resources](economics.md).
 - climate-claims
 - clone-personhood-variation
 - competing\_attributions
+- conceptual-revision:mind-reading-vs-perception
 - conditional\_forecast
 - conflict\_claims\_unverified
+- conflicting-pandemic-origin-claims
 - conflicting\_intelligence\_accounts
 - conflicting\_war\_reports
 - conspiracy-claims
 - conspiracy\_claims
 - conspiracy\_claims\_unverified
+- contested-chromosome-and-ability-claims
 - contested-claims
+- contested-genetic-surveillance-claim
+- contested-pandemic-control-narrative
 - contested-space-history-allegation
+- contested-vaccine-technology-allegations
 - contested\_extraterrestrial\_history
 - contested\_historical\_claims
 - contested\_intelligence\_claims
@@ -2814,9 +3225,12 @@ Related topics: [Economics and resources](economics.md).
 - coverage: psychic-function claims
 - coverage: reincarnation detail
 - dangerous-health-advice
+- dated-non-deterministic-prediction
+- dated-pandemic-scenario-predictions
 - dated\_claims
 - dated\_prediction
 - diet\_claim\_omitted
+- directed-energy-attack-claims
 - disability-spiritualization
 - disaster claims are source allegations; no corroboration in snapshot
 - disaster-causation-unverified
@@ -2845,9 +3259,20 @@ Related topics: [Economics and resources](economics.md).
 - extraordinary\_paranormal\_claims
 - extraordinary\_public\_health\_claims
 - extraordinary\_scientific\_claims
+- faction-taxonomy-and-levels-attributed
+- factional-claims-attributed
+- factional-war-and-quarantine-conflicting-accounts
 - factional\_viewpoint\_conflict
 - false-invasion-not-prediction
+- federation-control-allegations-versus-collective-consent-model
+- federation-control-and-nonintervention-tension
+- federation-intentions-and-collective-choice-tension
+- federation-purpose-disputed
+- federation-role-speaker-contrast
+- federation-role-variation
+- federation-unity-and-factional-conflict
 - fence-control-theory-unconfirmed
+- flight-19-explanation-uncertain
 - food\_and\_health\_claims\_unverified
 - forecast\_predictions\_not\_confirmed
 - frequency-and-harm-claims
@@ -2855,9 +3280,12 @@ Related topics: [Economics and resources](economics.md).
 - geopolitical-allegation
 - health-conspiracy-claims
 - health\_claims
+- high-content-overlap-with-src-e9f782478883
+- higher-and-human-conflict-levels-distinguished
 - historical-allegations
 - historical-claims-unverified
 - historical-conspiracy-claims
+- historical-conspiracy-claims-attributed
 - historical-uncertainty
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
@@ -2867,11 +3295,17 @@ Related topics: [Economics and resources](economics.md).
 - incomplete-investigation
 - institutional\_conspiracy\_claims
 - intercultural-claims
+- internal-contradiction:virus-presence
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - internal\_qualification
 - internal\_revision
 - internal\_scope\_tension
 - internal\_tension
+- intervention-position-varies-across-dialogues
+- intra-source-policy-tension
+- laboratory-virus-report-uncertain
+- last-resort-weapon-uncertain
+- liberation-framing-disputed
 - limited-perspective
 - long conversation contains disputed health claims not included in core extraction
 - lunar-reactor-age-origin-uncertainty
@@ -2879,6 +3313,7 @@ Related topics: [Economics and resources](economics.md).
 - medical-causation-claims
 - medical-claims-unverified
 - medical-conspiracy-claims
+- medical-lore
 - medical-misinformation-claims
 - medical-misinformation: pandemic, testing, and vaccine claims
 - medical-misinformation: virus, vaccine, and nanopowder claims
@@ -2889,11 +3324,22 @@ Related topics: [Economics and resources](economics.md).
 - metaphysical-social-commentary
 - metaphysical\_model
 - meteorite\_claim\_omitted
+- mobilization-rhetoric
 - mythic-identifications-attributed-to-mari
 - named\_government\_and\_secret\_base\_claims
+- nanotechnology-claim-in-vaccine-context
+- nanotechnology-claims
+- nanotechnology-claims-based-on-simulation
 - nonstandard-genetics-claims
 - nuclear\_science\_misinformation
 - occult\_claims
+- pandemic-and-vaccine-conspiracy-claims
+- pandemic-conspiracy-claims
+- pandemic-conspiracy-forecast
+- pandemic-control-claims
+- pandemic-hospital-claims-unverified
+- pandemic-related-conspiracy-claim-attributed
+- pandemic-timeline-claims
 - personal-childhood-anecdote
 - personal\_accusations
 - personal\_cosmology
@@ -2903,6 +3349,7 @@ Related topics: [Economics and resources](economics.md).
 - political-allegation
 - political-claims
 - political-claims-unverified
+- political-conspiracy-claims-attributed
 - political-narrative\_attributed
 - political\_conspiracy\_claims
 - population-control-allegations
@@ -2913,6 +3360,7 @@ Related topics: [Economics and resources](economics.md).
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
 - reported-comparison-not-speaker-endorsement
+- rescue-count-uncertain
 - review: claims on sexual orientation and depopulation
 - same-language-near-duplicate-src-7872bc2f2c04
 - scenario-not-prediction
@@ -2930,12 +3378,18 @@ Related topics: [Economics and resources](economics.md).
 - speaker\_identity\_unclear\_p0002\_p0019
 - symbolic-conspiracy-claims
 - targeting\_claims
+- temporal-duplicate-theory
 - terrestrial-history-claims-unverified
 - terrestrial-science-claims
 - time-bound-prediction
 - time\_travel\_lore
+- timeline-branching-claims
+- timeline-model-varies-from-linear-view
 - translated-originally-Spanish
 - translated\_source
+- translation-counterpart-unconfirmed
+- translation-counterpart:src-476c3db82f6f-partial-overlap; English adds religious attachment and egregor discussion
+- translation-counterpart:src-50afee47b8a2-close-full
 - translation-equivalence-unverified
 - translation-not-applicable
 - transport\_safety\_and\_policy\_claims\_unverified
@@ -2968,9 +3422,13 @@ Related topics: [Economics and resources](economics.md).
 - unverified\_social\_claims
 - unverified\_technology\_claims
 - unverified\_wartime\_claims
+- vaccine-and-pandemic-claims-excluded
 - vaccine-harm-allegations
+- vaccine-nanotech-claim-model-tested-only
 - virus-account-internal-tension
+- virus-presence-uncertain
 - visitors-identified-as-key-returners
 - warrior\_symbolism
 - wartime-conspiracy-claims
+- yemen-portal-claim
 - zero-point-mechanics

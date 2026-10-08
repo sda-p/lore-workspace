@@ -1,0 +1,54 @@
+{
+  "source_id": "src-44f7a105a538",
+  "snapshot_sha256": "532642e7c1570141b5ad19ed592259eb5016c1fc44d4da764177e84a2973c229",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-44f7a105a538-c01",
+      "assertion": "Swaruu defines zero-point energy as a usable spark from energetic imbalance between poles; controlled flux can create a miniature reactor sun.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0008", "p0015"],
+      "primary_topic": "energy-generation",
+      "topics": ["energy-generation", "ether-field"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-44f7a105a538-c02",
+      "assertion": "She says Ether is consciousness, gravity its vector flow, and attention forms matter through frequency harmonics and nodes.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0003", "p0004", "p0009", "p0010"],
+      "primary_topic": "ether-field",
+      "topics": ["ether-field", "consciousness-metaphysics", "energy-generation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-44f7a105a538-c03",
+      "assertion": "Swaruu says star navigation maps mathematical interactions in Ether rather than fixed positions, using base-12 mathematics.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0006"],
+      "primary_topic": "stellar-navigation",
+      "topics": ["stellar-navigation", "ether-field"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-44f7a105a538-c04",
+      "assertion": "She says the Source/Ether includes good and evil without duality; perception differentiates them, while integration transcends love-versus-not-love.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0026", "p0030"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "ether-field"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["individual-perception", "toroidal-numerology", "reactor-engineering"]
+}

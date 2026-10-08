@@ -1,0 +1,72 @@
+{
+  "source_id": "src-d5687a897b3a",
+  "snapshot_sha256": "85c6d39a3f57c0f94a5db1f64c70c60b378185f918f1fbaad2e103ee82534ab2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d5687a897b3a-c01",
+      "assertion": "Yazhi says she projects frequency across Earth to raise it, though every starseed contributes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0062"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-d5687a897b3a-c02",
+      "assertion": "She says consciousness carries mind, memories, and experiences beyond material objects; difficult experiences can catalyze positive change.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-d5687a897b3a-c03",
+      "assertion": "She says her ideas influence thousands even when republished without credit, treating the work as collective rather than personal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0050",
+        "p0054",
+        "p0056",
+        "p0058",
+        "p0060"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her view."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "related-starseed-material-overlap"
+  ],
+  "coverage_gaps": [
+    "past-life-memory-model",
+    "imagination-and-future-creation"
+  ]
+}

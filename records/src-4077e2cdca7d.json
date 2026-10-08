@@ -1,0 +1,78 @@
+{
+  "source_id": "src-4077e2cdca7d",
+  "snapshot_sha256": "e444afaaf9ecee250eebd14b725b24095176d5bee924d5e34145b11fb04ffff7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4077e2cdca7d-c01",
+      "assertion": "Swaruu X identifies the Navy encounter videos as human-made Black Raven drones, while warning their RX-111 nomenclature may be imperfect.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "black-raven-uavs",
+      "topics": [
+        "black-raven-uavs"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "She says the available identification is her best estimate."
+    },
+    {
+      "id": "src-4077e2cdca7d-c02",
+      "assertion": "Swaruu X says Taygetan fighters may emulate Navy F-18 IFF and transponder identities for safer atmospheric travel.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0040"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this practice is now rarely used."
+    },
+    {
+      "id": "src-4077e2cdca7d-c03",
+      "assertion": "Swaruu X says most UFO reports are ordinary objects, though nonhuman craft are still reported several times each hour.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "She gives an estimate, not a confirmed count."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "black-raven-uavs",
+      "name": "Black Raven UAVs",
+      "kind": "technology",
+      "aliases": [
+        "Black Raven drone family",
+        "RX-111 A/B"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "F-19-performance-estimates",
+    "false-disclosure-motive"
+  ]
+}

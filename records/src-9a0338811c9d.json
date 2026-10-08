@@ -1,0 +1,50 @@
+{
+  "source_id": "src-9a0338811c9d",
+  "snapshot_sha256": "6d2e65459a715e481d93f01068753e05732d2e9f5a52f64baff798dfbb2c9d8d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9a0338811c9d-c01",
+      "assertion": "Yazhi alleges record numbers of regressive entities entered through portals and took positions, manipulating hospital staff; she calls their harvest human and animal suffering and souls, especially in the UK.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0002"],
+      "primary_topic": "soul-harvesting",
+      "topics": ["soul-harvesting", "natural-portals", "interdimensional-parasites"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9a0338811c9d-c02",
+      "assertion": "She says suffering is consensual only from higher planes; for incarnate humans it is an atrocity, while entities seek to return souls to harsher lives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0004", "p0005", "p0006"],
+      "primary_topic": "soul-harvesting",
+      "topics": ["soul-harvesting", "reincarnation-cycles"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9a0338811c9d-c03",
+      "assertion": "Awakened souls can reject Matrix entities or escape through high frequency; unprepared souls risk nightmare-like low astral states, and she warns against dying now.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0003", "p0006", "p0007"],
+      "primary_topic": "postmortem-realities",
+      "topics": ["postmortem-realities", "moon-matrix", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "soul-harvesting",
+      "name": "Soul harvesting",
+      "kind": "cosmological mechanism",
+      "aliases": ["cosecha de almas", "soul harvest"]
+    }
+  ],
+  "review_flags": ["same-language-counterpart:src-cb51273860c3-wording-diff-agresivos"],
+  "coverage_gaps": ["low-astral-traps", "spiritual-escape", "hospital-staff-allegation"]
+}

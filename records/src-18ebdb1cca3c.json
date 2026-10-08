@@ -1,0 +1,43 @@
+{
+  "source_id": "src-18ebdb1cca3c",
+  "snapshot_sha256": "c132fc2f84e780820dfcc65b8b68e9e3f27104702ff736207fc7f84aa38cf7ae",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-18ebdb1cca3c-c01",
+      "assertion": "Anéeka rejects expected total disclosure; she says authorities would release only agenda-serving material and might stage a false invasion using Blue Beam.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0003"],
+      "primary_topic": "false-alien-invasion",
+      "topics": ["false-alien-invasion", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-18ebdb1cca3c-c02",
+      "assertion": "She argues confirmed extraterrestrials could undermine Earth’s science and human uniqueness, reveal free-energy and transport technologies, and destabilize finance and control.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0004"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal", "energy-generation", "economics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-18ebdb1cca3c-c03",
+      "assertion": "Anéeka says full disclosure would erase experiences souls seek on Earth; she claims the Federation therefore protects and perpetuates the Matrix.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0006"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "moon-matrix", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["disclosure-consequences", "false-invasion-staging", "soul-experience"]
+}

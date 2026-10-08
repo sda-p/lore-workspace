@@ -1,0 +1,31 @@
+{
+  "source_id": "src-f5512acb2e99",
+  "snapshot_sha256": "3d3318df120eed65d396abe50231b62dfbbb0df14730d24543d02da526ef6724",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f5512acb2e99-c01",
+      "assertion": "Yazhi alleges a medical bureau intimidates dissenting doctors and says doctors can organize against Cabal influence; she notes some already resist.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her political framing; she acknowledges dissenting doctors."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "pandemic-related-conspiracy-claim-attributed"
+  ],
+  "coverage_gaps": [
+    "medical-claims-excluded"
+  ]
+}

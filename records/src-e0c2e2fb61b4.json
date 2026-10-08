@@ -1,0 +1,58 @@
+{
+  "source_id": "src-e0c2e2fb61b4",
+  "snapshot_sha256": "0614cd98757a99b38b887cc7c41764003a40fbb584071d8898c081ba58f65d63",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e0c2e2fb61b4-c01",
+      "assertion": "Yazhi alleges the Ukraine war is a limited conflict among Cabal-aligned factions used to test weapons and restart war economies, while media amplify it for wider agendas.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Contemporary-war conspiracy claim attributed to the speaker."
+    },
+    {
+      "id": "src-e0c2e2fb61b4-c02",
+      "assertion": "She says victors rewrite history and mass media repeat those narratives; recurring manipulation makes events appear cyclical and guides public attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0019",
+        "p0020",
+        "p0022",
+        "p0023",
+        "p0031"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "contemporary-war-conspiracy-claims",
+    "COVID-and-vaccine-claims-omitted"
+  ],
+  "coverage_gaps": [
+    "named-conflict-case-details",
+    "specific-perception-control-methods"
+  ]
+}

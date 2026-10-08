@@ -672,6 +672,10 @@ Related topics: [Holistic society](holistic-society.md), [Taygetan ecosystems](t
 - [src-74c032374fff-c05](holistic-society.md#src-74c032374fff-c05) — Holistic society
 - [src-caf216b09494-c02](earth-cabal.md#src-caf216b09494-c02) — Earth Cabal and power structures
 - [src-c92e3d59e2ba-c04](earth-cabal.md#src-c92e3d59e2ba-c04) — Earth Cabal and power structures
+- [src-49447d1539c8-c01](earth-cabal.md#src-49447d1539c8-c01) — Earth Cabal and power structures
+- [src-49447d1539c8-c02](earth-cabal.md#src-49447d1539c8-c02) — Earth Cabal and power structures
+- [src-45f2406866f4-c01](earth-cabal.md#src-45f2406866f4-c01) — Earth Cabal and power structures
+- [src-18ebdb1cca3c-c02](earth-cabal.md#src-18ebdb1cca3c-c02) — Earth Cabal and power structures
 
 ## Review flags
 
@@ -682,6 +686,7 @@ Related topics: [Holistic society](holistic-society.md), [Taygetan ecosystems](t
 - attack-theory\_speculative
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
+- care-access-claims
 - conspiracy-claims
 - contested-claims
 - coverage: climate and architecture
@@ -707,6 +712,7 @@ Related topics: [Holistic society](holistic-society.md), [Taygetan ecosystems](t
 - historical-claims-unverified
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - intervention\_tension
+- last-resort-weapon-uncertain
 - manifestation\_mechanics
 - matrix\_scope
 - medical-claims-unverified
@@ -716,6 +722,8 @@ Related topics: [Holistic society](holistic-society.md), [Taygetan ecosystems](t
 - meteorite\_claim\_omitted
 - miranda-no-bases-versus-other-moon-bases
 - nonhuman-technology\_claims\_attributed
+- pandemic-conspiracy-forecast
+- pandemic-hospital-claims-unverified
 - personal\_metaphysics
 - personal\_social\_theory
 - policy-claims-unverified

@@ -1,0 +1,51 @@
+{
+  "source_id": "src-b6d92d26782e",
+  "snapshot_sha256": "73f4b4d26ed66c2a235c3b6e78717be4c7f131fcde47f603dda31afa80703f18",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b6d92d26782e-c01",
+      "assertion": "Yazhi says coffee keeps people in 3D sensory survival and suppresses subtler perception; she says replacing it with food, exercise, and rest brings more physical and nonphysical energy.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0073",
+        "p0075",
+        "p0077"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    },
+    {
+      "id": "src-b6d92d26782e-c02",
+      "assertion": "She says alcohol interacts with thought frequencies and opens people to possession or interference by lower-astral entities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0092",
+        "p0093",
+        "p0094"
+      ],
+      "primary_topic": "interdimensional-parasites",
+      "topics": [
+        "interdimensional-parasites",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "nutrition-medical-claims-omitted"
+  ],
+  "coverage_gaps": [
+    "dietary-recommendations",
+    "metabolic-claims"
+  ]
+}

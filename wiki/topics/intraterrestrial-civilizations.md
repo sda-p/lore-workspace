@@ -91,6 +91,7 @@ Source: [Space News 44, Galactic Federation and Earth Situation Update (English)
 - [src-87bd832ea105-c03](deep-underground-military-bases.md#src-87bd832ea105-c03) — Deep underground military bases
 - [src-5ffe56780faa-c02](galactic-federation.md#src-5ffe56780faa-c02) — Galactic Federation
 - [src-ae20e2d2296b-c01](neptune.md#src-ae20e2d2296b-c01) — Neptune and Triton
+- [src-63ddcc45d115-c02](galactic-federation.md#src-63ddcc45d115-c02) — Galactic Federation
 
 ## Review flags
 
@@ -98,6 +99,7 @@ Source: [Space News 44, Galactic Federation and Earth Situation Update (English)
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - climate-claims
 - entertainment-disclaimer
+- federation-role-speaker-contrast
 - historical and technological interpretations are attributed to Athena
 - translated-originally-Spanish
 - triton-placement-attributed-to-andromedans

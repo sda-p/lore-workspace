@@ -1,0 +1,86 @@
+{
+  "source_id": "src-bc6ca9130ba5",
+  "snapshot_sha256": "a21e3cdf0780f922f9a1c893c526ff8ba17f1fe2e2406ac53d1c35fe5757d82d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bc6ca9130ba5-c01",
+      "assertion": "Anéeka defines channeling as telepathic information flow between people; it can be conscious, while possession entails loss of control.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0086",
+        "p0087",
+        "p0094",
+        "p0095",
+        "p0101",
+        "p0103"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-bc6ca9130ba5-c02",
+      "assertion": "She says channelers attract entities compatible with their frequency; positive exchanges are symbiotic, while high-frequency states can block hostile attachment.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0088",
+        "p0089",
+        "p0091",
+        "p0110",
+        "p0112"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "interdimensional-parasites"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    },
+    {
+      "id": "src-bc6ca9130ba5-c03",
+      "assertion": "She says human contact with the Federation depends on the Federation and prenatal agreements; people may request contact, but cannot compel a response.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0108",
+        "p0109",
+        "p0117",
+        "p0118",
+        "p0123"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "telepathic-channeling",
+      "name": "Telepathic channeling",
+      "kind": "communication method",
+      "aliases": [
+        "channeling",
+        "channelled telepathy"
+      ]
+    }
+  ],
+  "review_flags": [
+    "gender-and-sexuality-conspiracy-claims-omitted"
+  ],
+  "coverage_gaps": [
+    "channeling-gender-compatibility-claims",
+    "channeling-fatigue"
+  ]
+}

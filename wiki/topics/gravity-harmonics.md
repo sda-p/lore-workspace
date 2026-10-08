@@ -212,6 +212,16 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
 
 Source: [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Naves Extraterrestres](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-circulos-de-las-cosechas-naves-extraterrestres) (2019-08-30; es); passages p0003, p0004. [Structured record](../../records/src-68f35a90f3f7.json).
 
+### src-7dfce28f8118-c02
+
+Anéeka says fast, high-frequency gravitational arms strike visible matter arms, producing waves that temporarily raise Earth's frequency and weaken its Van Allen belts. Frequency later subsides.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EXPLOTARA LA ESTRELLA BETELGEUSE UN PELIGRO PARA LA TIERRA\_ - MANCHAS SOLARES - Aneeka - Swaruu](https://swaruu.org/transcripts/explotara-la-estrella-betelgeuse-un-peligro-para-la-tierra-manchas-solares-aneeka-swaruu) (2020-04-28; es); passages p0013, p0019, p0021. [Structured record](../../records/src-7dfce28f8118.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
 ## Claims filed under other topics
 
 - [src-30d632b02db6-c04](frequency-map-navigation.md#src-30d632b02db6-c04) — Frequency-map navigation
@@ -224,18 +234,32 @@ Source: [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Nav
 - [src-50c3183fae27-c01](frequency-map-navigation.md#src-50c3183fae27-c01) — Frequency-map navigation
 - [src-47516d4ba42c-c03](frequency-map-navigation.md#src-47516d4ba42c-c03) — Frequency-map navigation
 - [src-47516d4ba42c-c05](starship-systems.md#src-47516d4ba42c-c05) — Starship systems
+- [src-00837bcc422f-c02](red-mercury-gravity-turbines.md#src-00837bcc422f-c02) — Red-mercury gravity turbines
+- [src-47e41f64b1fa-c01](natural-portals.md#src-47e41f64b1fa-c01) — Natural and artificial portals
+- [src-47e41f64b1fa-c02](natural-portals.md#src-47e41f64b1fa-c02) — Natural and artificial portals
+- [src-2783d6a4d5f8-c02](muonic-gravitational-communications.md#src-2783d6a4d5f8-c02) — Muonic gravitational communications
+- [src-26a2d18bbea0-c01](natural-portals.md#src-26a2d18bbea0-c01) — Natural and artificial portals
+- [src-26a2d18bbea0-c02](natural-portals.md#src-26a2d18bbea0-c02) — Natural and artificial portals
+- [src-33ef2f39ee97-c01](natural-portals.md#src-33ef2f39ee97-c01) — Natural and artificial portals
+- [src-1f3aa749d3b8-c03](natural-portals.md#src-1f3aa749d3b8-c03) — Natural and artificial portals
 
 ## Review flags
 
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
+- ancient-texts-as-racial-symbolism-attributed
+- attributed-seti-military-purpose-claim
 - classified-details
+- earthly-cern-portal-claim-not-included
 - gravity-propulsion-attributed
 - metaphysical-model\_attributed
 - nonhuman-technology\_claims\_attributed
 - nonstandard-physics-claims
+- portal-energy-estimates-attributed
+- portal-location-and-destination-vary
 - portal-mechanics-overlap-src-6abed4268d57
 - source-mixed-origin-en-reactor-and-spanish-engine-sections
 - source-speaker-shift-dhor-to-yazhi
+- starspot-portal-model-spans-two-speakers
 - suzy-thrust-rating-variant-review
 - technology\_claims
 - translation-counterpart-src-b781192c3a3d-expanded-plasma-engine-details

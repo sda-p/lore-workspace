@@ -1,0 +1,46 @@
+{
+  "source_id": "src-8917d0622133",
+  "snapshot_sha256": "a61962fbc2093553a30da6f2b5f3eb437535b1de3b5a4d1835b293a1a8aa9f7d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8917d0622133-c01",
+      "assertion": "Athena speculates that nonhuman controllers seek a prolonged nonnuclear Russia–West war to weaken both blocs, then let China dominate; she concedes she may be wrong.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0020",
+        "p0024"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "china"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": "Her 2022 geopolitical forecast; she says she could be mistaken."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "china",
+      "name": "China",
+      "kind": "civilization-state",
+      "aliases": [
+        "PRC"
+      ]
+    }
+  ],
+  "review_flags": [
+    "current-war-conspiracy-forecast",
+    "attributed-speculation"
+  ],
+  "coverage_gaps": [
+    "industrial-relocation-argument",
+    "propaganda-claims"
+  ]
+}

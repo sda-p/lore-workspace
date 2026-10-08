@@ -1,0 +1,56 @@
+{
+  "source_id": "src-4dbb2d05dfc2",
+  "snapshot_sha256": "8cf4c83d2c46c05cbaae1285323f7458bfbb8c6e86246d369f5a1216f68bb40a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4dbb2d05dfc2-c01",
+      "assertion": "Swaruu describes D’Jedi as solitary galactic figures who awaken consciousness and free peoples, with military, artistic and mental training to manipulate matter and manifestation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Swaruu says Star Wars adopted “Jedi” from D’Jedi and also asserts that Star Wars Jedi and the Force exist."
+    },
+    {
+      "id": "src-4dbb2d05dfc2-c02",
+      "assertion": "Gosia interprets “D’Jedi Ronin” as an alias signaling Swaruu’s more cosmic, expansive aspect; Swaruu defines ronin as a masterless solitary samurai.",
+      "speaker": "Gosia; Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Gosia frames her interpretation tentatively."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "djedi",
+      "name": "D’Jedi",
+      "kind": "faction or role",
+      "aliases": [
+        "D’Jedi",
+        "Djedi"
+      ]
+    }
+  ],
+  "review_flags": [
+    "franchise-reference-attributed"
+  ],
+  "coverage_gaps": []
+}

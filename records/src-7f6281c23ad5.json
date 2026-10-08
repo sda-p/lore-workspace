@@ -1,0 +1,54 @@
+{
+  "source_id": "src-7f6281c23ad5",
+  "snapshot_sha256": "17324b7a215244742054bbe7668f6338e986813a4fd5787f69bc366b7d256c0d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7f6281c23ad5-c01",
+      "assertion": "Yazhi says layered Matrix systems impose memories and concepts, constraining souls through perception; regressives exploit fear-based creative attention, called lush.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0003", "p0005", "p0007", "p0011", "p0014"],
+      "primary_topic": "moon-matrix",
+      "topics": ["moon-matrix", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f6281c23ad5-c02",
+      "assertion": "She says leaving 3D requires understanding identity and the system and firmly intending not to return, rather than recalling a past identity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0015", "p0016"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "reincarnation-cycles"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f6281c23ad5-c03",
+      "assertion": "Yazhi says Taygetans view Federation interference as unjust and are officially rebels, while validity varies across perceptual levels.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0018", "p0019", "p0020", "p0021", "p0025"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "taygetans"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f6281c23ad5-c04",
+      "assertion": "She says density combines matter frequency with consciousness-perception; learning expands perception, making 5D an individual mentality rather than an external solar event.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0025", "p0027", "p0028", "p0038", "p0039", "p0041"],
+      "primary_topic": "perceptual-density",
+      "topics": ["perceptual-density", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["perspective-dependent-claims"],
+  "coverage_gaps": ["hierarchical-matrix", "density-model", "sun-flare-event"]
+}

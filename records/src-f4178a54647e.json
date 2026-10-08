@@ -1,0 +1,36 @@
+{
+  "source_id": "src-f4178a54647e",
+  "snapshot_sha256": "38d79cc6e412c021ff5ecc5d9f8aa794010d7521b14364c36291bad806fb05d1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f4178a54647e-c01",
+      "assertion": "Athena portrays the controllers’ depopulation strategy as cumulative, combining economic pressure, conflict, and multiple campaigns rather than relying on one method.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0033",
+        "p0035",
+        "p0036",
+        "p0041"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "engineered-social-unrest"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her conspiracy narrative; specific health claims are omitted."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-and-vaccine-misinformation-omitted",
+    "conspiracy-narrative-attributed"
+  ],
+  "coverage_gaps": [
+    "vaccine-logistics-claims",
+    "vaccination-resistance-claims"
+  ]
+}

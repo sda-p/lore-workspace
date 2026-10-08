@@ -1,0 +1,111 @@
+{
+  "source_id": "src-3c4f875317e3",
+  "snapshot_sha256": "1749eb253b3756e856b4357b4bd831ae43f180dab5fff7559107dcdf9a4144a2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3c4f875317e3-c01",
+      "assertion": "Anéeka says some humans are nonhuman visitors using immersion technology or compatible bodies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c4f875317e3-c02",
+      "assertion": "Yázhi says, via Anéeka, variable frequency mismatch with Source creates chosen memory veils.",
+      "speaker": "Yázhi Swaruu (as relayed by Anéeka)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says no technology is required."
+    },
+    {
+      "id": "src-3c4f875317e3-c03",
+      "assertion": "Anéeka says Federation drones monitor Earth under noninterference rules; contact usually serves research.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c4f875317e3-c04",
+      "assertion": "She describes Earth as artificially isolated for difficult experiences, but souls enter and leave voluntarily.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c4f875317e3-c05",
+      "assertion": "She says collective thought sustains Earth’s Matrix and nonhuman incarnations influence culture.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "nonhuman-human-boundary-claims",
+    "federation-noninterference-tension"
+  ],
+  "coverage_gaps": [
+    "cultural-import-examples",
+    "van-allen-containment-claim",
+    "temporary-cultural-adoption"
+  ]
+}

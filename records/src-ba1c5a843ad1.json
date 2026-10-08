@@ -1,0 +1,107 @@
+{
+  "source_id": "src-ba1c5a843ad1",
+  "snapshot_sha256": "07058b7a37a78a54d5bc8ac378a46d5087b20aa0b2573f7ac50837bd0432767a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ba1c5a843ad1-c01",
+      "assertion": "Anéeka says immersion is common among interstellar races and can use multiple avatars or timelines.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0003",
+        "p0044"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba1c5a843ad1-c02",
+      "assertion": "She describes wet pods as circulating nutrient- and gas-bearing fluid; medical pods also use stem cells.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0072",
+        "p0126"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "maternal-med-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba1c5a843ad1-c03",
+      "assertion": "She says immersion memory varies and multiple avatars may be prepared.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028",
+        "p0054",
+        "p0056"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba1c5a843ad1-c04",
+      "assertion": "She says pod failures disrupt the signal; total pod destruction may also kill the stored body.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0048",
+        "p0062",
+        "p0103",
+        "p0104"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba1c5a843ad1-c05",
+      "assertion": "Anéeka says immersion time is subjective and may pass far more slowly than the 3D lifetime.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0067",
+        "p0068",
+        "p0098"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "immersion-metaphysics-claims",
+    "pod-failure-outcomes"
+  ],
+  "coverage_gaps": [
+    "dry-immersion",
+    "vaccine-signal-claim",
+    "telepathy-use"
+  ]
+}

@@ -194,6 +194,16 @@ Attributed to **Yazhi**; reported; extraction confidence: medium.
 
 Source: [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-past-anecdotes-life-on-the-ship-part-4) (2024-10-07; en); passages p0009, p0010. [Structured record](../../records/src-6825f8d595d8.json).
 
+### src-48549c0d0a4c-c02
+
+Swaruu says step-down travelers use a toroidal immersion device or other technology to slow mental processing and synchronize temporal rates enough to communicate across planets. She presents it as technological adjustment.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Aceleración de Tiempo y Interiorizacion de Datos - Swaruu de Erra (Taygeta, Pleyades)](https://swaruu.org/transcripts/aceleracion-de-tiempo-y-interiorizacion-de-datos-swaruu-de-erra-taygeta-pleyades) (2020-01-04; es); passages p0009, p0013, p0014. [Structured record](../../records/src-48549c0d0a4c.json).
+
+Related topics: [Immersion pods](immersion-pods.md), [Ship internal time](ship-internal-time.md).
+
 ## Claims filed under other topics
 
 - [src-e1b4f8c5afc0-c03](alien-species.md#src-e1b4f8c5afc0-c03) — Alien species and distinctions

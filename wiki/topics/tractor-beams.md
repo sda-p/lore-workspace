@@ -98,6 +98,36 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
 
 Source: [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Naves Extraterrestres](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-circulos-de-las-cosechas-naves-extraterrestres) (2019-08-30; es); passages p0021, p0022, p0023. [Structured record](../../records/src-68f35a90f3f7.json).
 
+### src-33ef2f39ee97-c03
+
+Taygetan ships use tractor-beam portals to move people or objects remotely; they prefer ordinary ramps.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [QUE ES EL CERN - STARGATE - STAR TREK - VIAJES A TRAVES DEL TIEMPO - NAVEGACION ESTELAR -SWARUU](https://swaruu.org/transcripts/que-es-el-cern-stargate-star-trek-viajes-a-traves-del-tiempo-navegacion-estelar-swaruu) (2020-01-07; es); passages p0028, p0030, p0047, p0051. [Structured record](../../records/src-33ef2f39ee97.json).
+
+Related topics: [Starship systems](starship-systems.md), [Taygetans](taygetans.md).
+
+### src-1f3aa749d3b8-c01
+
+Anéeka says a tractor beam can open a portal from orbit to a room by measuring its position and matching the room’s frequency. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PORTALES ESPACIO TEMPORALES – VIAJE A TRAVÉS DEL ESPACIO TIEMPO - Anéeka de Temmer](https://swaruu.org/transcripts/portales-espacio-temporales-viaje-a-traves-del-espacio-tiempo-aneeka-de-temmer) (2020-06-27; es); passages p0003, p0011, p0013. [Structured record](../../records/src-1f3aa749d3b8.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-1f3aa749d3b8-c02
+
+She says a complete room-to-room bridge costs twice a membrane portal’s energy, about 150 gigawatts, and can carry conversation. Her estimate.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PORTALES ESPACIO TEMPORALES – VIAJE A TRAVÉS DEL ESPACIO TIEMPO - Anéeka de Temmer](https://swaruu.org/transcripts/portales-espacio-temporales-viaje-a-traves-del-espacio-tiempo-aneeka-de-temmer) (2020-06-27; es); passages p0045, p0049, p0053, p0055. [Structured record](../../records/src-1f3aa749d3b8.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-cb6267c7760f-c04](starship-systems.md#src-cb6267c7760f-c04) — Starship systems
@@ -106,16 +136,20 @@ Source: [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Nav
 - [src-2bca495f8f63-c03](natural-portals.md#src-2bca495f8f63-c03) — Natural and artificial portals
 - [src-756f10136c06-c05](natural-portals.md#src-756f10136c06-c05) — Natural and artificial portals
 - [src-e15992dcfa52-c03](crop-circles.md#src-e15992dcfa52-c03) — Crop circles
+- [src-a02207051534-c05](nazca-spaceport.md#src-a02207051534-c05) — Nazca spaceport
 
 ## Review flags
 
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
+- earthly-cern-portal-claim-not-included
 - extraordinary-ability-claims
 - medical\_claims
 - metaphysical-claims
+- portal-energy-estimates-attributed
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker\_attribution
 - tractor-beam-technology-attributed
 - translated-from-Spanish-original-not-available
+- translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
 - unverified\_extraterrestrial\_claims

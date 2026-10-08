@@ -1,0 +1,107 @@
+{
+  "source_id": "src-a11e19988b9a",
+  "snapshot_sha256": "6499cc4029b6922d9d065f00806c2f6e0b1f47920a4911d1ccd67da4d7c1c413",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a11e19988b9a-c01",
+      "assertion": "Anéeka says Taygetans see better in darkness and infrared/ultraviolet; only Yázhi tracks bullets by slowing time.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a11e19988b9a-c02",
+      "assertion": "She says Taygetans have stronger bones and longer plant-adapted guts; meat may sicken them, excess fiber obstruct them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a11e19988b9a-c03",
+      "assertion": "She says Taygetans heal 3–5 times faster than humans; Yázhi heals about 20 times faster.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a11e19988b9a-c04",
+      "assertion": "She says Taygetans are O+, but Yázhi is A+; she links Earth’s blood diversity partly to Lyran ancestry.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a11e19988b9a-c05",
+      "assertion": "She says Rh− marks neither starseed nor Reptilian identity, though Reptilians are Rh− and affinity may be higher.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speculative-biology-and-blood-group-claims",
+    "rh-negative-identity-caveat"
+  ],
+  "coverage_gaps": [
+    "auditory-range-uncertainty",
+    "screen-radiation-glasses",
+    "immune-system-comparison"
+  ]
+}

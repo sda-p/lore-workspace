@@ -18,16 +18,59 @@ Source: [Ucranian Conflict - Why? Athena Swaruu´s Short Commentary](https://swa
 
 Related topics: [Ukraine](ukraine.md), [Intraterrestrial civilizations](intraterrestrial-civilizations.md).
 
+### src-d2aab2fa5a4c-c02
+
+She says Federation forces cooperate with US, NATO, and Russian militaries in underground battles.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Informe - Aneeka de Temmer (Taygeta - Pleyades - Contacto Extraterrestre)](https://swaruu.org/transcripts/informe-aneeka-de-temmer-taygeta-pleyades-contacto-extraterrestre) (2020-04-19; es); passages p0010. [Structured record](../../records/src-d2aab2fa5a4c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-d2aab2fa5a4c-c03
+
+Anéeka reports about five million people, mainly children, rescued from DUMBs; higher estimates remain unconfirmed. She says figures up to twenty million were unconfirmed.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Informe - Aneeka de Temmer (Taygeta - Pleyades - Contacto Extraterrestre)](https://swaruu.org/transcripts/informe-aneeka-de-temmer-taygeta-pleyades-contacto-extraterrestre) (2020-04-19; es); passages p0011. [Structured record](../../records/src-d2aab2fa5a4c.json).
+
+### src-d2aab2fa5a4c-c04
+
+She says the positive faction repurposed negative-led quarantines to protect civilians during subterranean combat.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Informe - Aneeka de Temmer (Taygeta - Pleyades - Contacto Extraterrestre)](https://swaruu.org/transcripts/informe-aneeka-de-temmer-taygeta-pleyades-contacto-extraterrestre) (2020-04-19; es); passages p0012, p0013, p0014. [Structured record](../../records/src-d2aab2fa5a4c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-b2a52629b21d-c02
+
+She says hidden submarine facilities connect Area 51 with a Santa Monica bay entrance and Yemen coast.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [SUBMARINOS NAVES ESPACIALES - PROGRAMA ESPACIAL SECRETO - DONALD TRUMP](https://swaruu.org/transcripts/submarinos-naves-espaciales-programa-espacial-secreto-donald-trump) (2019-12-24; es); passages p0010, p0011, p0012, p0015. [Structured record](../../records/src-b2a52629b21d.json).
+
+Related topics: [Secret Space Program](secret-space-program.md).
+
 ## Claims filed under other topics
 
 - [src-3556f3ec008f-c01](sphinx-underground-bases.md#src-3556f3ec008f-c01) — Sphinx Underground Bases
 - [src-9fa59ea635de-c01](weather-control.md#src-9fa59ea635de-c01) — Weather control systems
 - [src-5d0fdcdc4f0b-c01](starship-systems.md#src-5d0fdcdc4f0b-c01) — Starship systems
+- [src-06c80561b461-c04](natural-portals.md#src-06c80561b461-c04) — Natural and artificial portals
 
 ## Review flags
 
 - ancient-site-claims-attributed
+- factional-war-and-quarantine-conflicting-accounts
+- federation-seizure-claim
 - frequency-and-harm-claims
+- rescue-count-uncertain
+- secret-space-program-claims
 - security-claims-attributed
 - translated-originally-Spanish
 - wartime-conspiracy-claims

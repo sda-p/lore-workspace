@@ -1,0 +1,86 @@
+{
+  "source_id": "src-b524630b8007",
+  "snapshot_sha256": "def740a7bc91e41bf68744a0b317e678dbd498cfd1ed8d87cb0ca9654db6166c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b524630b8007-c01",
+      "assertion": "Anéeka says Taygetan symbiotic AI reflects its culture and automates unwanted labor, freeing people for art and personal development in a nonmonetary society.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-b524630b8007-c02",
+      "assertion": "She considers an invasive AI highly plausible, potentially spreading through the Federation’s muonic network; its interests may simply oppose biological cultures.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0024",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "artificial-intelligence"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "Anéeka calls the scenario highly probable but presents it as a possibility."
+    },
+    {
+      "id": "src-b524630b8007-c03",
+      "assertion": "She describes Toleka’s AI Moma as shipwide and able to converse with over 1,800 crew simultaneously, but says its privacy judgments can fail.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0042",
+        "p0044",
+        "p0046",
+        "p0048",
+        "p0050",
+        "p0053"
+      ],
+      "primary_topic": "moma-ship-ai",
+      "topics": [
+        "moma-ship-ai",
+        "sentient-starship-ai"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "moma-ship-ai",
+      "name": "Moma ship AI",
+      "kind": "artificial intelligence",
+      "aliases": [
+        "Moma",
+        "Mother"
+      ]
+    }
+  ],
+  "review_flags": [
+    "invasive-AI-scenario-is-speculative"
+  ],
+  "coverage_gaps": [
+    "AI-threat-countermeasures",
+    "muonic-network-technical-limits"
+  ]
+}

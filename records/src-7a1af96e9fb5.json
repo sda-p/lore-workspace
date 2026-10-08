@@ -1,0 +1,109 @@
+{
+  "source_id": "src-7a1af96e9fb5",
+  "snapshot_sha256": "095f40f359ed77feb3dc2f27bc5c5f9736ccca533a4908ee0a89f782f598af5f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7a1af96e9fb5-c01",
+      "assertion": "Yazhi frames this as perception warfare, using deception and planted clues against audiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7a1af96e9fb5-c02",
+      "assertion": "She says Trump–Biden conflict was real on the surface but directed by a hidden Saturnian Cabal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "saturn-bases"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7a1af96e9fb5-c03",
+      "assertion": "She separates Trump’s observable acts from QAnon narratives, which she says lack evidence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0029"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7a1af96e9fb5-c04",
+      "assertion": "She speculates private operations might later be edited or staged publicly for legitimacy.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0026",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7a1af96e9fb5-c05",
+      "assertion": "She considers staged failure a dark-Cabal tactic to demoralize opposition.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0028"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "engineered-social-unrest"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "dated-political-predictions",
+    "competing-cabal-scenarios"
+  ],
+  "coverage_gaps": [
+    "public-broadcast-scenarios",
+    "operation-mockingbird-reference",
+    "media-control-duration"
+  ]
+}

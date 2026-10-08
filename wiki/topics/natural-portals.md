@@ -670,6 +670,238 @@ Source: [NAVEGACION ESTELAR II - PORTALES DIMENSIONALES - SWARUU DE ERRA - VUELO
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-47e41f64b1fa-c01
+
+Swaruu (9) says portals form when changing gravitational-frequency harmonics briefly make two locations equivalent; the opening lasts only while that pattern holds.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Portales Estelares Naturales POR TODO EL PLANETA - Portales Dimensionales – Swaruu de Erra](https://swaruu.org/transcripts/portales-estelares-naturales-por-todo-el-planeta-portales-dimensionales-swaruu-de-erra) (2020-02-08; es); passages p0009, p0010, p0011. [Structured record](../../records/src-47e41f64b1fa.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-47e41f64b1fa-c02
+
+She says natural portals range from tiny, frequent bubbles to larger passages; many recur predictably at energetic nodes, and eclipses can trigger them. She says many, but not all, are predictable.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Portales Estelares Naturales POR TODO EL PLANETA - Portales Dimensionales – Swaruu de Erra](https://swaruu.org/transcripts/portales-estelares-naturales-por-todo-el-planeta-portales-dimensionales-swaruu-de-erra) (2020-02-08; es); passages p0013, p0014, p0016, p0018, p0020. [Structured record](../../records/src-47e41f64b1fa.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-47e41f64b1fa-c03
+
+Swaruu says passage can lead to compatible places or times, with return possible while a portal remains open; spacefarers favor supraluminal flight to avoid portals. Destinations depend on frequency compatibility.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Portales Estelares Naturales POR TODO EL PLANETA - Portales Dimensionales – Swaruu de Erra](https://swaruu.org/transcripts/portales-estelares-naturales-por-todo-el-planeta-portales-dimensionales-swaruu-de-erra) (2020-02-08; es); passages p0030, p0032, p0038, p0040, p0043. [Structured record](../../records/src-47e41f64b1fa.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-3247a8725177-c02
+
+When energy builds, the pyramids discharge it and create portals that can shift a passing object's frequency, relocating it across space or only time.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EL TRIANGULO DE LAS BERMUDAS - YAZHI \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/el-triangulo-de-las-bermudas-yazhi) (2020-09-23; es); passages p0005, p0006, p0007, p0008. [Structured record](../../records/src-3247a8725177.json).
+
+Related topics: [Atlantean zero-point pyramids](atlantean-zero-point-pyramids.md).
+
+### src-1786d1c8b594-c03
+
+Swaruu says pyramids served as interplanetary portals and consciousness amplifiers for astral travel.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Quienes Construyeron las Pirámides de Egipto - Los Secretos de la Gran Pirámide - Swaruu de Erra](https://swaruu.org/transcripts/quienes-construyeron-las-piramides-de-egipto-los-secretos-de-la-gran-piramide-swaruu-de-erra) (2020-02-18; es); passages p0041, p0042, p0043, p0076. [Structured record](../../records/src-1786d1c8b594.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-079a413a4643-c04
+
+She describes an artificial portal in an underwater Yemen base, used by regressives to move human cargo.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TRIÁNGULO DE LAS BERMUDAS - AVIONES Y BARCOS DESAPARECIDOS - ANEEKA DE TEMMER \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/triangulo-de-las-bermudas-aviones-y-barcos-desaparecidos-aneeka-de-temmer-sin-video) (2020-10-24; es); passages p0039, p0040, p0042, p0043. [Structured record](../../records/src-079a413a4643.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-630d64c41a85-c01
+
+Swaruu describes stars as wormhole exits paired with black-hole entrances; each toroidal portal system may have multiple frequency-dependent routes. Her model.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Agujeros Negros, Portales, Sun - Que Son Realmente? - Contacto Extraterrestre (Taygeta, Pleyades)](https://swaruu.org/transcripts/agujeros-negros-portales-sun-que-son-realmente-contacto-extraterrestre-taygeta-pleyades) (2020-10-17; es); passages p0010, p0011, p0042, p0097, p0098. [Structured record](../../records/src-630d64c41a85.json).
+
+Related topics: [Black holes](black-holes.md).
+
+### src-630d64c41a85-c03
+
+Inside the ether, Yazhi says ship-frequency changes can shift exit stars; black-hole navigation is harder than solar portals. Her navigation model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Agujeros Negros, Portales, Sun - Que Son Realmente? - Contacto Extraterrestre (Taygeta, Pleyades)](https://swaruu.org/transcripts/agujeros-negros-portales-sun-que-son-realmente-contacto-extraterrestre-taygeta-pleyades) (2020-10-17; es); passages p0122, p0124, p0125, p0127. [Structured record](../../records/src-630d64c41a85.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-26a2d18bbea0-c01
+
+Swaruu models natural portals as brief local equivalences between changing frequency harmonics, formed by interacting gravitational fluxes.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Portales Naturales Interdimensionales - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/portales-naturales-interdimensionales-swaruu-de-erra-comunicacion-extraterrestre) (2020-03-15; es); passages p0002, p0006, p0012, p0015. [Structured record](../../records/src-26a2d18bbea0.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-26a2d18bbea0-c02
+
+She identifies Bermuda as an energetic Earth node where a portal opens under specific conditions; pyramids concentrate dispersed energy at nodes.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Portales Naturales Interdimensionales - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/portales-naturales-interdimensionales-swaruu-de-erra-comunicacion-extraterrestre) (2020-03-15; es); passages p0017, p0026, p0032, p0043. [Structured record](../../records/src-26a2d18bbea0.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-26a2d18bbea0-c03
+
+She says portals can send travelers to compatible sites or times; return through the same portal is possible only while it remains open.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Portales Naturales Interdimensionales - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/portales-naturales-interdimensionales-swaruu-de-erra-comunicacion-extraterrestre) (2020-03-15; es); passages p0035, p0037, p0047, p0052, p0054. [Structured record](../../records/src-26a2d18bbea0.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-33ef2f39ee97-c01
+
+Swaruu describes portal vortices as toroidal fields that shift entrants to a frequency-matched destination.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [QUE ES EL CERN - STARGATE - STAR TREK - VIAJES A TRAVES DEL TIEMPO - NAVEGACION ESTELAR -SWARUU](https://swaruu.org/transcripts/que-es-el-cern-stargate-star-trek-viajes-a-traves-del-tiempo-navegacion-estelar-swaruu) (2020-01-07; es); passages p0002, p0003, p0006, p0007. [Structured record](../../records/src-33ef2f39ee97.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-33ef2f39ee97-c02
+
+A destination gate is optional; single gates can send to a known address but allow return only while open or via another gate.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [QUE ES EL CERN - STARGATE - STAR TREK - VIAJES A TRAVES DEL TIEMPO - NAVEGACION ESTELAR -SWARUU](https://swaruu.org/transcripts/que-es-el-cern-stargate-star-trek-viajes-a-traves-del-tiempo-navegacion-estelar-swaruu) (2020-01-07; es); passages p0016, p0018, p0020, p0024. [Structured record](../../records/src-33ef2f39ee97.json).
+
+### src-33ef2f39ee97-c04
+
+Passage is rapid, with static and abrupt temperature or smell shifts; observers at the destination may see a watery blur.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [QUE ES EL CERN - STARGATE - STAR TREK - VIAJES A TRAVES DEL TIEMPO - NAVEGACION ESTELAR -SWARUU](https://swaruu.org/transcripts/que-es-el-cern-stargate-star-trek-viajes-a-traves-del-tiempo-navegacion-estelar-swaruu) (2020-01-07; es); passages p0004, p0035, p0043. [Structured record](../../records/src-33ef2f39ee97.json).
+
+### src-1f3aa749d3b8-c03
+
+Portal openings create detectable magnetic nodes; compasses can point toward them, alerting nearby aircraft, ships, or military observers. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PORTALES ESPACIO TEMPORALES – VIAJE A TRAVÉS DEL ESPACIO TIEMPO - Anéeka de Temmer](https://swaruu.org/transcripts/portales-espacio-temporales-viaje-a-traves-del-espacio-tiempo-aneeka-de-temmer) (2020-06-27; es); passages p0015, p0017, p0019, p0025. [Structured record](../../records/src-1f3aa749d3b8.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-da37867cb1a1-c01
+
+Anéeka first suspects an artificial Guanajuato portal, then calls it a media distraction after her ship detects nothing.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anomalía Guanajuato, Portales, Drones - Anéeka de Temmer (Contacto Extraterrestre)](https://swaruu.org/transcripts/anomalia-guanajuato-portales-drones-aneeka-de-temmer-contacto-extraterrestre) (2020-09-08; es); passages p0003, p0006, p0008, p0009, p0011, p0015. [Structured record](../../records/src-da37867cb1a1.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-da37867cb1a1-c02
+
+She says magma and black-goo flows form magnetic nodes; frequency matches link sites through toroidal portals.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anomalía Guanajuato, Portales, Drones - Anéeka de Temmer (Contacto Extraterrestre)](https://swaruu.org/transcripts/anomalia-guanajuato-portales-drones-aneeka-de-temmer-contacto-extraterrestre) (2020-09-08; es); passages p0024, p0025, p0026, p0027, p0038, p0041. [Structured record](../../records/src-da37867cb1a1.json).
+
+Related topics: [Black goo](black-goo.md).
+
+### src-da37867cb1a1-c03
+
+Natural portals may remain open from nanoseconds to days; artificial portals are localized and controlled.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anomalía Guanajuato, Portales, Drones - Anéeka de Temmer (Contacto Extraterrestre)](https://swaruu.org/transcripts/anomalia-guanajuato-portales-drones-aneeka-de-temmer-contacto-extraterrestre) (2020-09-08; es); passages p0018, p0049. [Structured record](../../records/src-da37867cb1a1.json).
+
+### src-06c80561b461-c01
+
+Swaruu says artificial portals shift matter’s interior frequency through self-recycling toroidal flux; precise destination coordinates are required.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Stargate SG-1 como funciona - Portales Estelares - El CERN - Navegación Estelar - Swaruu de Erra](https://swaruu.org/transcripts/stargate-sg-1-como-funciona-portales-estelares-el-cern-navegacion-estelar-swaruu-de-erra) (2020-01-15; es); passages p0002, p0003, p0005, p0006. [Structured record](../../records/src-06c80561b461.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-06c80561b461-c02
+
+Portal capacity depends on aperture and mass-density relative to available energy; operation also has throughput and overheating limits.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Stargate SG-1 como funciona - Portales Estelares - El CERN - Navegación Estelar - Swaruu de Erra](https://swaruu.org/transcripts/stargate-sg-1-como-funciona-portales-estelares-el-cern-navegacion-estelar-swaruu-de-erra) (2020-01-15; es); passages p0008, p0010, p0014, p0020, p0031, p0033. [Structured record](../../records/src-06c80561b461.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-06c80561b461-c03
+
+She says higher portal power can move greater mass, while Earth’s reverse-engineered installations lack Taygetan component miniaturization.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Stargate SG-1 como funciona - Portales Estelares - El CERN - Navegación Estelar - Swaruu de Erra](https://swaruu.org/transcripts/stargate-sg-1-como-funciona-portales-estelares-el-cern-navegacion-estelar-swaruu-de-erra) (2020-01-15; es); passages p0037, p0039, p0045, p0054. [Structured record](../../records/src-06c80561b461.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-06c80561b461-c04
+
+Swaruu claims Iraq’s invasion partly sought ancient artificial Elohi portals; most are inactive, and others are in military DUMBs.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Stargate SG-1 como funciona - Portales Estelares - El CERN - Navegación Estelar - Swaruu de Erra](https://swaruu.org/transcripts/stargate-sg-1-como-funciona-portales-estelares-el-cern-navegacion-estelar-swaruu-de-erra) (2020-01-15; es); passages p0058, p0060, p0065, p0068, p0070, p0072. [Structured record](../../records/src-06c80561b461.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Deep underground military bases](deep-underground-military-bases.md).
+
+### src-9b690db81851-c02
+
+Natural portals vary greatly; Anéeka says only large or strong ones are detected and they can appear anywhere, unpredictably.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [VIAJES EN EL ESPACIO TIEMPO - RESPUESTAS A TUS PREGUNTAS - LO QUE NO TE CUENTAN - Anéeka de Temmer](https://swaruu.org/transcripts/viajes-en-el-espacio-tiempo-respuestas-a-tus-preguntas-lo-que-no-te-cuentan-aneeka-de-temmer) (2020-06-29; es); passages p0019, p0051. [Structured record](../../records/src-9b690db81851.json).
+
+### src-9b690db81851-c05
+
+She says a portal can theoretically connect distant locations without a ship, if destination-frequency coordinates are precise.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [VIAJES EN EL ESPACIO TIEMPO - RESPUESTAS A TUS PREGUNTAS - LO QUE NO TE CUENTAN - Anéeka de Temmer](https://swaruu.org/transcripts/viajes-en-el-espacio-tiempo-respuestas-a-tus-preguntas-lo-que-no-te-cuentan-aneeka-de-temmer) (2020-06-29; es); passages p0004, p0005. [Structured record](../../records/src-9b690db81851.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -698,6 +930,21 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-74c032374fff-c02](earth-cabal.md#src-74c032374fff-c02) — Earth Cabal and power structures
 - [src-59c43e8ab96d-c03](maitre.md#src-59c43e8ab96d-c03) — Maitre
 - [src-8a97e5888a07-c03](van-allen-belts.md#src-8a97e5888a07-c03) — Van Allen belts
+- [src-00837bcc422f-c01](energy-generation.md#src-00837bcc422f-c01) — Energy generation technology
+- [src-7dfce28f8118-c01](betelgeuse.md#src-7dfce28f8118-c01) — Betelgeuse
+- [src-26d9d32c0ca8-c03](solar-portal-transit.md#src-26d9d32c0ca8-c03) — Solar portal transit
+- [src-26d9d32c0ca8-c04](temporal-skipping.md#src-26d9d32c0ca8-c04) — Temporal skipping
+- [src-630d64c41a85-c02](starship-systems.md#src-630d64c41a85-c02) — Starship systems
+- [src-630d64c41a85-c04](sunspot-portals.md#src-630d64c41a85-c04) — Sunspot portals
+- [src-cd1fcaa78711-c03](muon-gravity-communications.md#src-cd1fcaa78711-c03) — Muon-triggered gravity communications
+- [src-26a2d18bbea0-c04](stellar-navigation.md#src-26a2d18bbea0-c04) — Stellar navigation
+- [src-1f3aa749d3b8-c01](tractor-beams.md#src-1f3aa749d3b8-c01) — Tractor beams
+- [src-00e384e559bd-c02](muon-gravity-communications.md#src-00e384e559bd-c02) — Muon-triggered gravity communications
+- [src-a67fb92e8975-c01](artificial-portals.md#src-a67fb92e8975-c01) — Artificial portals
+- [src-a67fb92e8975-c02](artificial-portals.md#src-a67fb92e8975-c02) — Artificial portals
+- [src-da37867cb1a1-c04](nonhuman-surveillance-drones.md#src-da37867cb1a1-c04) — Nonhuman surveillance drones
+- [src-9b690db81851-c04](alien-species.md#src-9b690db81851-c04) — Alien species and distinctions
+- [src-9a0338811c9d-c01](soul-harvesting.md#src-9a0338811c9d-c01) — Soul harvesting
 
 ## Review flags
 
@@ -708,13 +955,17 @@ Related topics: [Starship systems](starship-systems.md).
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
+- ancient-texts-as-racial-symbolism-attributed
+- black-hole-ether-model
 - black-knight-loss-details-provisional
+- communication-tech-claims-attributed
 - conflict-causation-uncertain
 - conspiracy-claims
 - conspiracy\_claims
 - contested-claims
 - contested\_archaeology
 - earth\_science\_claims\_unverified
+- earthly-cern-portal-claim-not-included
 - eclipse-portal-claims-unverified
 - entertainment-disclaimer
 - ethical\_use\_limits
@@ -724,23 +975,37 @@ Related topics: [Starship systems](starship-systems.md).
 - extraordinary\_claims
 - extraordinary\_cosmology\_claims
 - extraordinary\_history\_claims
+- flight-19-explanation-uncertain
+- giza-underground-base-claim
 - internal\_uncertainty
 - medical-misinformation-allegation
 - metaphysical-claims
 - paranormal-claims-unverified
+- particle-vs-carrier-speed-distinction
+- portal-energy-estimates-attributed
+- portal-location-and-destination-vary
 - portal-mechanics-overlap-src-6abed4268d57
 - portal-technology-claims-unverified
+- portal-time-travel-risk
+- possible-overlap-with-src-cd1fcaa78711
 - post-eclipse-causal-attribution
+- pyramid-age-and-function-unverified
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related-frequency-navigation-source
 - related\_series\_part
+- same-language-counterpart:src-cb51273860c3-wording-diff-agresivos
 - secondhand-fleet-reports
+- solar-and-black-hole-portal-model
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker\_attribution
+- starspot-portal-model-spans-two-speakers
 - symbolic\_interpretations
+- temporal-duplicate-theory
 - third\_party\_allegations
 - translated-from-Spanish-original-not-available
 - translated\_source
+- translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control
+- translation-counterpart:src-af195906d27f-close-full
 - unverified-eclipse-portal-theory
 - unverified-historical-claims
 - unverified\_ancient\_technology\_claims
@@ -753,3 +1018,4 @@ Related topics: [Starship systems](starship-systems.md).
 - unverified\_lunar\_technology
 - unverified\_paranormal\_claims
 - unverified\_technical\_claims
+- yemen-portal-claim

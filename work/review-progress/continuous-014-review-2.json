@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:23:54+00:00",
+  "checkpointed_at": "2026-10-08T17:35:56+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-014",
@@ -62,7 +62,30 @@
       "src-61a0b9a71122",
       "src-62893f690998",
       "src-78b7d4a4289d",
-      "src-c7d61405393c"
+      "src-c7d61405393c",
+      "src-86fc875548c8",
+      "src-de139e50d05b",
+      "src-b87a9c4ceb6f",
+      "src-7df1df339f89",
+      "src-3901bf7c1489",
+      "src-ad9dbfd43650",
+      "src-44f7a105a538",
+      "src-26a2d18bbea0",
+      "src-057efbcdf1b8",
+      "src-95bb43e551f3",
+      "src-18ebdb1cca3c",
+      "src-f95e071ab942",
+      "src-aa6e0d670c42",
+      "src-7364ad45d63b",
+      "src-12b1bea0a52e",
+      "src-1174f8536b41",
+      "src-2f3cec7db3bb",
+      "src-1f3aa749d3b8",
+      "src-48549c0d0a4c",
+      "src-9d362a2f6ab9",
+      "src-1b04c8518bf7",
+      "src-7c2490f49bef",
+      "src-f5512acb2e99"
     ],
     "corrections": [
       {
@@ -147,13 +170,24 @@
         "paragraph_ids": [
           "p0023"
         ]
+      },
+      {
+        "source_id": "src-2a59653712d3",
+        "claim_id": "src-2a59653712d3-c03",
+        "problem": "Proposed topic ID had become canonical in config/topics.json after extraction, causing current dictionary validation to reject the duplicate proposal.",
+        "action": "Removed duplicate proposed_topics entry; retained source claim and canonical topic references; revalidated against the current topic dictionary.",
+        "paragraph_ids": [
+          "p0058",
+          "p0086",
+          "p0090"
+        ]
       }
     ],
     "unresolved": []
   },
   "record_sha256": {
     "src-5b3bbfac8b2b": "0a2cf711e043d4d162985ef36553499f824ff63273cbffb8d28dcbea130d16b5",
-    "src-2a59653712d3": "3fcbf22e3773882c26b222afbca156a828f274d7bbc0719454d3316f7890d28c",
+    "src-2a59653712d3": "5581d392bc7571527fff81764a4ccbb9a1d14fc2efca64ac1b6cabb0a4c30fa6",
     "src-828b1cc9dc5c": "73d0c1e9d04a57f404a551e4e45562322be6fd93078e6337800c4835e6755b4c",
     "src-872b05071e96": "20e7051d06d345b6e8e8daa6290f5b2a7c32e5776f91bc6c81135bdfbd29285d",
     "src-336f7353bbdf": "a8a7d654505aa56356d7d836e20375d1dcdcc92c5a1ddb34d069b5cb2d479f45",
@@ -208,6 +242,29 @@
     "src-61a0b9a71122": "688edfb14f62e956fcf0a634c54c56a3f9f187b83ff83754cd4f2122ec637fbc",
     "src-62893f690998": "885b28679ee0c7e87cd34974cfc765560c8de7734348abcf2c15763d914436cc",
     "src-78b7d4a4289d": "14981c223b670b5f9827700a29f65f154a2601921f138d8ddea7f6c032ae91b2",
-    "src-c7d61405393c": "e58a09dbda7ee18e5226444027e5a7a3241570e3c65fad2ebabc8c98c17c5d1f"
+    "src-c7d61405393c": "e58a09dbda7ee18e5226444027e5a7a3241570e3c65fad2ebabc8c98c17c5d1f",
+    "src-86fc875548c8": "887a664200df151c343c9170ef3419f2ccd0e594bb44caeb9a7780f1d8cffc1c",
+    "src-de139e50d05b": "43ee7e59e99f598e52d36a7e30f3b9c4bb08aa74c792c7c2411097dde58d659b",
+    "src-b87a9c4ceb6f": "ddec76eba72161f14a19f37e0274456c12eb5f8c59ec9cc27075dcf7fbfb97af",
+    "src-7df1df339f89": "b883258a39c39639cf3bc49c34c77219f59dbc61dde08d8c4f17015268af1994",
+    "src-3901bf7c1489": "a334a5c9538f4b7bbafe5502af2a518963c5071baced5cd244131831ed7db411",
+    "src-ad9dbfd43650": "64091b94c082fc2f37b9b98de343bee4b1a9cc38deaaa8c9e95158a377565019",
+    "src-44f7a105a538": "a9a7be80ad591e02f9e76a7b10e6b70472714c93e0a0a32e98f328eeb90f3a38",
+    "src-26a2d18bbea0": "1e5b57dd9c002668a03e12793e62f23e438353a223ef5a21e4dac2eb1f0b1c2c",
+    "src-057efbcdf1b8": "e4cf7eceb7a2bc01d7ee375e3f3e84411269846b6731ef7907a97be521cb3bfd",
+    "src-95bb43e551f3": "e31a17bbf2494bd53c3c7ae67e28fae9d89c781002f1d433ee1d84a0b711eb9b",
+    "src-18ebdb1cca3c": "971bfa413961a1cad1ee7055c99a8472299670fc1e51e20a48cd22a99c1a6f95",
+    "src-f95e071ab942": "bb534eb63b62393a997f917dcd646926e03a579e2bcc4bbdb463988f2e04bc1c",
+    "src-aa6e0d670c42": "8635c23fe4c76003b7d5cad151007f3533913f146366cd19c01accf853899844",
+    "src-7364ad45d63b": "35c7e088707e7e5a6b2caa2b31a68c874c5e2dab95a70d4a26091c0dffec38c5",
+    "src-12b1bea0a52e": "a34850ea129015c23aa57cf0f369ab0a98243ba1585ebe446015269f29d9fdef",
+    "src-1174f8536b41": "1048509947c949bd4b1682beda79c5a7fe7b5925a876e325836712526a705ec6",
+    "src-2f3cec7db3bb": "2db31bc5a1904bdc37ea1777427ca6e8e9a7410e27e83f4e2775553b7fb6f652",
+    "src-1f3aa749d3b8": "8776647fdec780516800ebb840572871b444ee6b2b56800a549c1307056dbae0",
+    "src-48549c0d0a4c": "85081d94a68ed98dc648518c9b17e08422f95177cfbd6b827cfd1a603af54c21",
+    "src-9d362a2f6ab9": "8e6383a3e2764279f3e22e138f77cf8964d196799a7f96d32cd9a3efb4181ff4",
+    "src-1b04c8518bf7": "749ca1589f21cb6b355f1187b4b593ad5faef8a24a1b4a2a18e358e464a90fa9",
+    "src-7c2490f49bef": "8f667dfb9f9640ab0481b988bedcc6cbfc7297d8596508260852fe3f343e4438",
+    "src-f5512acb2e99": "f918c11e35fef6ea2ec3c13b37154f8aea0964ebefe57d35f353611e45c8169a"
   }
 }

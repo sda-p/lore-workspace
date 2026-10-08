@@ -1,0 +1,54 @@
+{
+  "source_id": "src-95bb43e551f3",
+  "snapshot_sha256": "057e1f2348d862d9fb4d3920d526ef7e2b9d127d777d01aeb739cac8c26bbc0a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-95bb43e551f3-c01",
+      "assertion": "Anéeka recalls living independently at 12–13 in a child-sized seaside house, with broad information access and freedom to study.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0003", "p0004"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-95bb43e551f3-c02",
+      "assertion": "She says Taygetan orphans learn self-reliance early under non-invasive supervision and receive homes scaled to their age.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0004"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "taygetans"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-95bb43e551f3-c03",
+      "assertion": "Anéeka says she serves as her people’s ambassador to humanity; aboard CIC she monitors ship status, reports and other cultures’ orbital communications.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0006", "p0010"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-95bb43e551f3-c04",
+      "assertion": "Her routine includes exercise, meditation, shared meal duties, socializing, play with Yazhi and self-directed study.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0010", "p0011", "p0012", "p0013", "p0014"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "holistic-society"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["life-aspirations", "ambassadorial-role", "daily-routine"]
+}

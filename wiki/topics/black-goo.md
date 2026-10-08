@@ -427,6 +427,7 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - [src-08eb04ce1eff-c03](artificial-intelligence.md#src-08eb04ce1eff-c03) — Artificial intelligence
 - [src-ce2d9650cd21-c01](artificial-intelligence.md#src-ce2d9650cd21-c01) — Artificial intelligence
 - [src-ce2d9650cd21-c02](artificial-intelligence.md#src-ce2d9650cd21-c02) — Artificial intelligence
+- [src-da37867cb1a1-c02](natural-portals.md#src-da37867cb1a1-c02) — Natural and artificial portals
 
 ## Review flags
 
@@ -451,6 +452,7 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - speaker-header-diff
 - speaker-label-ambiguity
 - translated\_source
+- translation-counterpart:src-af195906d27f-close-full
 - unsafe\_experiment\_questions\_omitted
 - unverified\_claims
 - unverified\_extraterrestrial\_threat\_claims

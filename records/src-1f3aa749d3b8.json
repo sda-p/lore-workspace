@@ -1,0 +1,87 @@
+{
+  "source_id": "src-1f3aa749d3b8",
+  "snapshot_sha256": "5c1af291a58291c46a90e597b62c9644044162cf5cb4866a9798e99cd0b10b57",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1f3aa749d3b8-c01",
+      "assertion": "Anéeka says a tractor beam can open a portal from orbit to a room by measuring its position and matching the room’s frequency.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-1f3aa749d3b8-c02",
+      "assertion": "She says a complete room-to-room bridge costs twice a membrane portal’s energy, about 150 gigawatts, and can carry conversation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0045",
+        "p0049",
+        "p0053",
+        "p0055"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her estimate."
+    },
+    {
+      "id": "src-1f3aa749d3b8-c03",
+      "assertion": "Portal openings create detectable magnetic nodes; compasses can point toward them, alerting nearby aircraft, ships, or military observers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0019",
+        "p0025"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-1f3aa749d3b8-c04",
+      "assertion": "She says energy mapping reads material frequencies in buildings, which computers render into detailed holograms.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0065"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "portal-energy-estimates-attributed"
+  ],
+  "coverage_gaps": [
+    "tractor-beam-hardware-scale",
+    "object-manufacture-and-removal"
+  ]
+}

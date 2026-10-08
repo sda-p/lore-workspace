@@ -1,0 +1,115 @@
+{
+  "source_id": "src-f469530b91ab",
+  "snapshot_sha256": "2ce2a73df8279181666e89523cce83b6b6705cb7e5394e726c1f58a4e53e7a14",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f469530b91ab-c01",
+      "assertion": "Yázhi alleges Earth’s controllers consider mass elimination ecologically necessary, though they know alternatives exist.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f469530b91ab-c02",
+      "assertion": "She says elites manipulate human perception, creating suffering that feeds dark egregors they themselves manifested.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f469530b91ab-c03",
+      "assertion": "She says offworld entities may direct controllers, but this does not excuse them; higher planes observe karmic consequences.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f469530b91ab-c04",
+      "assertion": "She calls vaccines deadly potions and says coercing informed people violates free will and cosmic law.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f469530b91ab-c05",
+      "assertion": "Yázhi identifies herself as Sophia Swaruu, a higher-plane consciousness speaking through a fragile child’s body.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "anti-vaccine-conspiracy-claims",
+    "genocide-and-elite-conspiracy-allegations",
+    "metaphysical-self-identity-claim"
+  ],
+  "coverage_gaps": [
+    "free-will-and-consent-framework",
+    "collective-karma-mechanism",
+    "resistance-warning"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-b0799fe10f02",
+  "snapshot_sha256": "8916fea15e189ee3418f12177647f1379a71903c73e511c732b51d6a53cd6fee",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b0799fe10f02-c01",
+      "assertion": "Yazhi says at least five interstellar civilizations predated Atlantis and Lemuria; records overlap and their dates are uncertain.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "civilizational-resets",
+      "topics": [
+        "civilizational-resets",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0799fe10f02-c02",
+      "assertion": "She treats Atlantis and Lemuria as one reset in a wider Solar System Matrix, distinguishing earlier 5D-era history from the latest 3D reset.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "civilizational-resets",
+      "topics": [
+        "civilizational-resets",
+        "atlantis-lemuria",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0799fe10f02-c03",
+      "assertion": "She says resets are abrupt changes imposed by force, often but not always accompanied by widespread death.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "civilizational-resets",
+      "topics": [
+        "civilizational-resets"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0799fe10f02-c04",
+      "assertion": "She cites Taygeta as stable for roughly 850,000 years, while saying the figure’s source and calculation are unknown.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Based on ship records and Asket’s group."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "civilizational-resets",
+      "name": "Civilizational resets",
+      "kind": "historical mechanism",
+      "aliases": [
+        "civilization reset",
+        "resets"
+      ]
+    }
+  ],
+  "review_flags": [
+    "reset-sequence-and-dating-unclear"
+  ],
+  "coverage_gaps": [
+    "earlier-civilization-names",
+    "reset-implementation-details"
+  ]
+}

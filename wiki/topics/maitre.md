@@ -124,17 +124,43 @@ Source: [LOS SECRETOS DEL PLANETA MARTE -CIVILIZACIONES EN MARTE](https://swaruu
 
 Related topics: [Mars](mars.md), [Natural and artificial portals](natural-portals.md), [Starship systems](starship-systems.md).
 
+### src-01886647014f-c01
+
+Anéeka says reports of French horse mutilations suggest both human cult and nonhuman involvement, but she cannot judge the cause or motive.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [CABALLOS MUTILADOS EN FRANCIA - PARTE 1 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/caballos-mutilados-en-francia-parte-1-sin-video) (2020-11-01; es); passages p0006, p0009, p0026. [Structured record](../../records/src-01886647014f.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-55aa4da20352-c01
+
+Anéeka attributes many worldwide livestock mutilations to regressive groups including Maitré, tall Greys, Kingu, Orange, and Malakak. She also alleges human government agents conduct some cases.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ABDUCCIONES EXTRATERRESTRES - DE GANADO - DE PLANTAS - DE HUMANOS - REGRESIVAS -ANEEKA DE TEMMER](https://swaruu.org/transcripts/abducciones-extraterrestres-de-ganado-de-plantas-de-humanos-regresivas-aneeka-de-temmer) (2020-10-30; es); passages p0003. [Structured record](../../records/src-55aa4da20352.json).
+
+Related topics: [Kingu](kingu.md), [Tall Whites](tall-whites.md).
+
 ## Claims filed under other topics
 
 - [src-72696c075fca-c04](galactic-federation.md#src-72696c075fca-c04) — Galactic Federation
 - [src-59c43e8ab96d-c02](mars.md#src-59c43e8ab96d-c02) — Mars
 - [src-59c43e8ab96d-c04](mars.md#src-59c43e8ab96d-c04) — Mars
+- [src-1c7b74567865-c02](karistus.md#src-1c7b74567865-c02) — Karistus
+- [src-1c7b74567865-c03](reptilians.md#src-1c7b74567865-c03) — Reptilians
 
 ## Review flags
 
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Species summaries are broad and based on accounts attributed to orbital sources
+- abduction-mutilation-claims
+- faction-taxonomy-and-levels-attributed
 - historical-contact-attributed
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - reported arrival date conflicts with article chronology
 - source includes conflicting publication and event dates; claims retain stated dates
+- species-labels-uncertain
+- uncertain-human-versus-nonhuman-mutilation-cause

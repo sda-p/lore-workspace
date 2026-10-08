@@ -1,0 +1,72 @@
+{
+  "source_id": "src-29eb9565748a",
+  "snapshot_sha256": "38ca931a664d3ae519d812f32a0de0717bc3a3c47dd9e89cbf2239ee98c28195",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-29eb9565748a-c01",
+      "assertion": "Yazhi models each person as a perception bubble formed by simpler consciousnesses; shared perceptions are overlapping agreements within one greater consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0012",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical model."
+    },
+    {
+      "id": "src-29eb9565748a-c02",
+      "assertion": "She says death ends an incarnation’s sequence of ideas, while attachments can sustain perceived spirit worlds overlapping the living world.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0023",
+        "p0026",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical model."
+    },
+    {
+      "id": "src-29eb9565748a-c03",
+      "assertion": "Yazhi says perception limits can hide or reveal entities; people may interact across realms according to self-imposed boundaries and attachments.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical model."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "time-perception-model",
+    "entity-classification"
+  ]
+}

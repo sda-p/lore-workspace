@@ -48,12 +48,53 @@ Source: [LA MATRIX ES UNA ENORME TULPA - JAQUEAR LA MATRIX - COMO SALIR DE LA MA
 
 Related topics: [Black holes](black-holes.md).
 
+### src-630d64c41a85-c04
+
+Anéeka says sunspots open cyclical, predictable ship portals; inactive spots can make nearby transit difficult or stop it. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Agujeros Negros, Portales, Sun - Que Son Realmente? - Contacto Extraterrestre (Taygeta, Pleyades)](https://swaruu.org/transcripts/agujeros-negros-portales-sun-que-son-realmente-contacto-extraterrestre-taygeta-pleyades) (2020-10-17; es); passages p0005, p0006. [Structured record](../../records/src-630d64c41a85.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-1422880235ff-c04
+
+She calls stars conscious and wormhole-connected, but denies a special incoming-wave link between Alcyone and Sol-13.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Llamarada Solar - Olas Galácticas - Anéeka y Dale Harder (Pléyades - Comunicación Extraterrestre)](https://swaruu.org/transcripts/llamarada-solar-olas-galacticas-aneeka-y-dale-harder-pleyades-comunicacion-extraterrestre) (2020-10-19; es); passages p0032, p0038, p0039, p0043, p0045. [Structured record](../../records/src-1422880235ff.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Sol 13 system](sol-13.md).
+
+### src-1422880235ff-c05
+
+Anéeka says more-connected stars function as entry/exit portals used by species lacking hyperdrive.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Llamarada Solar - Olas Galácticas - Anéeka y Dale Harder (Pléyades - Comunicación Extraterrestre)](https://swaruu.org/transcripts/llamarada-solar-olas-galacticas-aneeka-y-dale-harder-pleyades-comunicacion-extraterrestre) (2020-10-19; es); passages p0047, p0049. [Structured record](../../records/src-1422880235ff.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-9b690db81851-c03
+
+Anéeka says all stars are portals, with sunspots as openings; black holes are entrances only.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [VIAJES EN EL ESPACIO TIEMPO - RESPUESTAS A TUS PREGUNTAS - LO QUE NO TE CUENTAN - Anéeka de Temmer](https://swaruu.org/transcripts/viajes-en-el-espacio-tiempo-respuestas-a-tus-preguntas-lo-que-no-te-cuentan-aneeka-de-temmer) (2020-06-29; es); passages p0034, p0035. [Structured record](../../records/src-9b690db81851.json).
+
+Related topics: [Black holes](black-holes.md).
+
 ## Claims filed under other topics
 
 - [src-9ae514ab9585-c01](natural-portals.md#src-9ae514ab9585-c01) — Natural and artificial portals
 - [src-a11243a06a8a-c01](natural-portals.md#src-a11243a06a8a-c01) — Natural and artificial portals
 - [src-531b0e9f06bf-c01](natural-portals.md#src-531b0e9f06bf-c01) — Natural and artificial portals
 - [src-78a2f4005f35-c01](black-holes.md#src-78a2f4005f35-c01) — Black holes
+- [src-1422880235ff-c01](terrestrial-science.md#src-1422880235ff-c01) — Terrestrial science
 
 ## Review flags
 
@@ -64,5 +105,6 @@ Related topics: [Black holes](black-holes.md).
 - eclipse-portal-claims-unverified
 - metaphysical-claims
 - secondhand-fleet-reports
+- solar-and-black-hole-portal-model
 - unverified-eclipse-portal-theory
 - unverified\_physics\_claims

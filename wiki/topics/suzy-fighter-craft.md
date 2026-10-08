@@ -98,6 +98,16 @@ Source: [ENTREVISTA A UN EXTRATERRESTRE DE LAS PLEYADES ESTRELLA TAYGETA Dhor. K
 
 Related topics: [Artificial intelligence](artificial-intelligence.md).
 
+### src-699924c5628e-c03
+
+Swaruu says Suzy craft can enter hyperspace while stationary and remain undetectable and invulnerable, enabling surveillance, extraction, wall passage, and attacks; other races have not replicated this. She attributes the capabilities to static hyperspace mode.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Moviendo por el Éter - Conciencia y Navegación Estelar (Mensaje Extraterrestre - Pleyades) (Parte 6)](https://swaruu.org/transcripts/moviendo-por-el-eter-conciencia-y-navegacion-estelar-mensaje-extraterrestre-pleyades-parte-6) (2019-12-28; es); passages p0035, p0036, p0037. [Structured record](../../records/src-699924c5628e.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation

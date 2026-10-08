@@ -1300,6 +1300,150 @@ Source: [LA FALSEDAD DE LA CIENCIA TERRESTRE-BAJO QUE PROPOSITO - SWARUU - Siste
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-773f5d590da3-c03
+
+Swaruu presents direct positive nonhuman military intervention as a possible outcome, imposing a holographic society by force and causing deaths. A scenario, not a stated prediction; she says intervention depends on imminent mass violence.
+
+Attributed to **Swaruu**; speculative; extraction confidence: high.
+
+Source: [Swaruu D´Jedi: Enfoque: Nada Importa Mas (Contacto Extraterrestre - Taygeta Pleiades)](https://swaruu.org/transcripts/swaruu-d-jedi-enfoque-nada-importa-mas-contacto-extraterrestre-taygeta-pleiades) (2020-03-27; es); passages p0010, p0012, p0017. [Structured record](../../records/src-773f5d590da3.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-6c377f98a0b6-c02
+
+She says holographic societies let each member represent their culture and prepare to lead, unlike Earth's model where politicians represent people who lack power or votes.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA FEDERACIÓN DE PLANETAS UNIDOS ESTRUCTURA – CONTACTO EXTRATERRESTRE – Anéeka de Temmer](https://swaruu.org/transcripts/la-federacion-de-planetas-unidos-estructura-contacto-extraterrestre-aneeka-de-temmer) (2020-05-08; es); passages p0006, p0007, p0008. [Structured record](../../records/src-6c377f98a0b6.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-78d4eb7f6b15-c04
+
+She contrasts Earth’s collective agreements with Taygeta’s society, formed from consenting individuals. Taygeta is described as imperfect.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Matrix 3D, la Federacion, y Deseos de Humanos Despiertos - Yazhi Swaruu (Mensaje Extraterrestre)](https://swaruu.org/transcripts/matrix-3d-la-federacion-y-deseos-de-humanos-despiertos-yazhi-swaruu-mensaje-extraterrestre) (2020-08-10; es); passages p0042, p0043, p0045. [Structured record](../../records/src-78d4eb7f6b15.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-ef4288769802-c02
+
+She describes nested councils handling local problems and escalating unresolved issues to broader regional and planetary bodies.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica o Federación de la Luz - EXOPOLITICA - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-o-federacion-de-la-luz-exopolitica-aneeka-de-temmer) (2020-05-13; es); passages p0016, p0017. [Structured record](../../records/src-ef4288769802.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-ef4288769802-c03
+
+Anéeka says councils share information freely and seek reasoned agreement rather than majority votes. She links this model to ethical conduct and abundant resources.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica o Federación de la Luz - EXOPOLITICA - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-o-federacion-de-la-luz-exopolitica-aneeka-de-temmer) (2020-05-13; es); passages p0018, p0019, p0020. [Structured record](../../records/src-ef4288769802.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-ef4288769802-c04
+
+She says council membership is voluntary; specialists join when their expertise is needed.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica o Federación de la Luz - EXOPOLITICA - Aneeka de Temmer](https://swaruu.org/transcripts/federacion-galactica-o-federacion-de-la-luz-exopolitica-aneeka-de-temmer) (2020-05-13; es); passages p0018, p0029, p0030. [Structured record](../../records/src-ef4288769802.json).
+
+### src-acef919339e9-c02
+
+She says holographic societies educate citizens to represent their culture and prepare them to assume leadership or council roles.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica y Representantes Terrestres? (Aneeka de Temmer - Taygeta - Pleyades)](https://swaruu.org/transcripts/federacion-galactica-y-representantes-terrestres-aneeka-de-temmer-taygeta-pleyades) (2020-05-17; es); passages p0007, p0008, p0025. [Structured record](../../records/src-acef919339e9.json).
+
+### src-acef919339e9-c03
+
+Councils resolve local issues and escalate those they cannot; information flows freely and decisions seek reasoned agreement rather than majority votes.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica y Representantes Terrestres? (Aneeka de Temmer - Taygeta - Pleyades)](https://swaruu.org/transcripts/federacion-galactica-y-representantes-terrestres-aneeka-de-temmer-taygeta-pleyades) (2020-05-17; es); passages p0023, p0024, p0025, p0030. [Structured record](../../records/src-acef919339e9.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-acef919339e9-c04
+
+She says counselors coordinate councils, while specialists join when needed; membership depends on relevant capabilities and resources.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica y Representantes Terrestres? (Aneeka de Temmer - Taygeta - Pleyades)](https://swaruu.org/transcripts/federacion-galactica-y-representantes-terrestres-aneeka-de-temmer-taygeta-pleyades) (2020-05-17; es); passages p0038, p0039, p0040, p0041. [Structured record](../../records/src-acef919339e9.json).
+
+### src-7364ad45d63b-c03
+
+Councils scale from local to planetary across four planets; local issues are resolved locally, escalating when needed, with citizens volunteering.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA SOCIEDAD MATRIARCAL - LA SOCIEDAD PATRIARCAL - LA REALEZA TAYGETEANA - LA CORONA REAL](https://swaruu.org/transcripts/la-sociedad-matriarcal-la-sociedad-patriarcal-la-realeza-taygeteana-la-corona-real) (2020-01-09; es); passages p0040, p0041. [Structured record](../../records/src-7364ad45d63b.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-61a0b9a71122-c03
+
+She says advanced societies favor handmade art and technology serving people; their AI reflects creators’ ethics and coexists with biology.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Es Cultura Extraterrestre Similar a la Humana? (Contacto Extraterrestre Taygeta - Pleyades)](https://swaruu.org/transcripts/es-cultura-extraterrestre-similar-a-la-humana-contacto-extraterrestre-taygeta-pleyades) (2020-05-08; es); passages p0008, p0009. [Structured record](../../records/src-61a0b9a71122.json).
+
+Related topics: [Synthetic Intelligence](synthetic-intelligence.md).
+
+### src-057efbcdf1b8-c01
+
+Swaruu says positive timelines and holographic society require unity; society emerges from members’ consciousness rather than imposed rules.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MANIFESTAR ABUNDANCIA - SOCIEDAD HOLOGRAFICA – SWARUU D´JEDI RONIN](https://swaruu.org/transcripts/manifestar-abundancia-sociedad-holografica-swaruu-d-jedi-ronin) (2020-05-19; es); passages p0002, p0003, p0023, p0025. [Structured record](../../records/src-057efbcdf1b8.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-057efbcdf1b8-c04
+
+She says holographic society requires treating collective needs as personal, overcoming separation and survival-focused thinking through cooperation.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MANIFESTAR ABUNDANCIA - SOCIEDAD HOLOGRAFICA – SWARUU D´JEDI RONIN](https://swaruu.org/transcripts/manifestar-abundancia-sociedad-holografica-swaruu-d-jedi-ronin) (2020-05-19; es); passages p0022, p0023. [Structured record](../../records/src-057efbcdf1b8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-95bb43e551f3-c01
+
+Anéeka recalls living independently at 12–13 in a child-sized seaside house, with broad information access and freedom to study.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [MUJER PLEYADIANA TAYGETEANA - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/mujer-pleyadiana-taygeteana-aneeka-de-temmer) (2020-10-21; es); passages p0003, p0004. [Structured record](../../records/src-95bb43e551f3.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-95bb43e551f3-c02
+
+She says Taygetan orphans learn self-reliance early under non-invasive supervision and receive homes scaled to their age.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MUJER PLEYADIANA TAYGETEANA - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/mujer-pleyadiana-taygeteana-aneeka-de-temmer) (2020-10-21; es); passages p0004. [Structured record](../../records/src-95bb43e551f3.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -1356,9 +1500,17 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-bebc8e2161ed-c04](alfrata.md#src-bebc8e2161ed-c04) — Alfrata (Phaeton)
 - [src-0df271d4423a-c04](economics.md#src-0df271d4423a-c04) — Economics and resources
 - [src-b5edcd5a7e88-c04](consciousness-metaphysics.md#src-b5edcd5a7e88-c04) — Consciousness and metaphysics
+- [src-2eb79f41c6bd-c01](medical-pods.md#src-2eb79f41c6bd-c01) — Medical regeneration pods
+- [src-2eb79f41c6bd-c03](taygetans.md#src-2eb79f41c6bd-c03) — Taygetans
+- [src-6fa658378a51-c04](consciousness-metaphysics.md#src-6fa658378a51-c04) — Consciousness and metaphysics
+- [src-acef919339e9-c01](galactic-federation.md#src-acef919339e9-c01) — Galactic Federation
+- [src-7364ad45d63b-c01](taygetans.md#src-7364ad45d63b-c01) — Taygetans
+- [src-7364ad45d63b-c02](taygetans.md#src-7364ad45d63b-c02) — Taygetans
+- [src-95bb43e551f3-c04](taygetans.md#src-95bb43e551f3-c04) — Taygetans
 
 ## Review flags
 
+- 3d-vs-higher-density-wishes
 - Australian-traffic-purpose-unknown
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
@@ -1390,12 +1542,15 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - extraordinary\_medical\_claims
 - extraordinary\_metaphysical\_claims
 - family-dynamics-generalization
+- federation-name-level-ambiguity
+- federation-nonintervention
 - federation\_dispute
 - fence-control-theory-unconfirmed
 - gender\_role\_generalization
 - header-and-segmentation-variation
 - historical-allegations
 - historical-conspiracy-claims
+- holographic-governance-description-attributed
 - ideological-commentary
 - incomplete-investigation
 - intervention\_tension
@@ -1407,6 +1562,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - metaphysical-social-commentary
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
+- objective-versus-personal-reality-framing
 - personal\_advice
 - personal\_metaphysics
 - personal\_philosophy
@@ -1419,7 +1575,9 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - prior\_statement\_conflict
 - related\_series\_part
 - reported\_plan
+- royal-selection-and-symbolism-attributed
 - same-language-near-duplicate-src-735f991fe169
+- scenario-outcomes-and-intervention-threshold
 - self-reported-traits
 - self\_description
 - speaker-perspective-model

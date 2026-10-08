@@ -1,0 +1,65 @@
+{
+  "source_id": "src-698708ff8404",
+  "snapshot_sha256": "49bf44789096d1e9a787721028d20bfdcd83cd41fbbad031d95ee058c79f7780",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-698708ff8404-c01",
+      "assertion": "Anéeka rejects a literal spirituality gene; she says RNA-driven neuronal DNA changes can alter neural frequencies and disrupt the brain’s reception of the soul signal.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "neural-frequency-genetic-engineering",
+      "topics": [
+        "neural-frequency-genetic-engineering",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as her nonhuman-doctor explanation."
+    },
+    {
+      "id": "src-698708ff8404-c02",
+      "assertion": "Anéeka speculates that mass deaths may keep many souls from reincarnating on Earth, while survivors with genetic effects could remain trapped there.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0008",
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She frames this as her prediction, not certainty."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "neural-frequency-genetic-engineering",
+      "name": "Neural frequency and genetic engineering",
+      "kind": "biological mechanism",
+      "aliases": [
+        "alteración genética neuronal"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "neuron-signaling-details",
+    "immersion-pod-signal-transfer"
+  ]
+}

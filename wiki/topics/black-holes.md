@@ -70,6 +70,24 @@ Source: [EL SOL Y LOS CODIGOS OCULTOS DEL CABAL](https://swaruu.org/transcripts/
 
 Related topics: [Sunspot portals](sunspot-portals.md).
 
+### src-26d9d32c0ca8-c01
+
+Anéeka links stars and black holes as energy outflow/inflow; their balance varies.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Agujeros Negros - Preguntas del Público - Anéeka (Contacto Extraterrestre - Taygeta - Pleiades)](https://swaruu.org/transcripts/agujeros-negros-preguntas-del-publico-aneeka-contacto-extraterrestre-taygeta-pleiades) (2020-10-20; es); passages p0003, p0004. [Structured record](../../records/src-26d9d32c0ca8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-26d9d32c0ca8-c02
+
+She says a star becomes a black hole when etheric energy flow reverses, changing radiation into absorption.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Agujeros Negros - Preguntas del Público - Anéeka (Contacto Extraterrestre - Taygeta - Pleiades)](https://swaruu.org/transcripts/agujeros-negros-preguntas-del-publico-aneeka-contacto-extraterrestre-taygeta-pleiades) (2020-10-20; es); passages p0010, p0011, p0012. [Structured record](../../records/src-26d9d32c0ca8.json).
+
 ## Claims filed under other topics
 
 - [src-424a779240f3-c01](natural-portals.md#src-424a779240f3-c01) — Natural and artificial portals
@@ -79,9 +97,12 @@ Related topics: [Sunspot portals](sunspot-portals.md).
 - [src-db55ee8f9480-c02](consciousness-singularity.md#src-db55ee8f9480-c02) — Consciousness singularity
 - [src-6ce55fb86338-c03](tiamat.md#src-6ce55fb86338-c03) — Tiamat
 - [src-4f5b82f333ba-c01](sunspot-portals.md#src-4f5b82f333ba-c01) — Sunspot portals
+- [src-630d64c41a85-c01](natural-portals.md#src-630d64c41a85-c01) — Natural and artificial portals
+- [src-9b690db81851-c03](sunspot-portals.md#src-9b690db81851-c03) — Sunspot portals
 
 ## Review flags
 
+- black-hole-ether-model
 - conspiracy-claims
 - contested-claims
 - cosmology-claims-attributed
@@ -89,5 +110,7 @@ Related topics: [Sunspot portals](sunspot-portals.md).
 - extraordinary\_cosmology\_claims
 - internal-date-tension
 - metaphysical-claims
+- portal-time-travel-risk
+- solar-and-black-hole-portal-model
 - unproven-historical-speculation
 - unverified\_cosmology\_and\_technology

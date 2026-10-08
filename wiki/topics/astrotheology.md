@@ -220,6 +220,42 @@ Source: [SISTEMA SOLAR - PLANETA MERCURIO - EL SOL 13 - SWARUU DE ERRA](https://
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-42e6137b02bd-c01
+
+Swaruu (9) interprets Jesus as the Sun and his twelve disciples as zodiac signs, reading the cross as zodiacal symbolism. Her interpretation of Christian symbolism.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Existio Jesus de Nazared - Astroteologia - Simbolismo cristiano - Swaruu de Erra](https://swaruu.org/transcripts/existio-jesus-de-nazared-astroteologia-simbolismo-cristiano-swaruu-de-erra) (2020-05-22; es); passages p0010, p0011, p0013. [Structured record](../../records/src-42e6137b02bd.json).
+
+### src-42e6137b02bd-c02
+
+She interprets the winter-solstice story as the Sun's symbolic death, three-day obscurity, and rebirth around December 24–25. She clarifies that the Sun still rises during these days.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Existio Jesus de Nazared - Astroteologia - Simbolismo cristiano - Swaruu de Erra](https://swaruu.org/transcripts/existio-jesus-de-nazared-astroteologia-simbolismo-cristiano-swaruu-de-erra) (2020-05-22; es); passages p0015, p0016, p0020. [Structured record](../../records/src-42e6137b02bd.json).
+
+### src-42e6137b02bd-c03
+
+Swaruu alleges the Gospels are astrotheological rather than biographical and that Josephus's scribes under Vespasian compiled and altered canonical and apocryphal texts. Attributed historical claims; Constantine is separately credited with official compilation.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Existio Jesus de Nazared - Astroteologia - Simbolismo cristiano - Swaruu de Erra](https://swaruu.org/transcripts/existio-jesus-de-nazared-astroteologia-simbolismo-cristiano-swaruu-de-erra) (2020-05-22; es); passages p0035, p0063, p0065, p0067. [Structured record](../../records/src-42e6137b02bd.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
+### src-35ef7583ec87-c04
+
+She interprets Jesus as a 13th zodiac sign despite no stellar record for one.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Existo Realmente JESÚS DE NAZARET - ASTROTEOLOGÍA - Swaruu de Erra](https://swaruu.org/transcripts/existo-realmente-jesus-de-nazaret-astroteologia-swaruu-de-erra) (2020-07-07; es); passages p0012, p0013, p0014. [Structured record](../../records/src-35ef7583ec87.json).
+
+Related topics: [Flavian Jesus narrative](flavian-jesus-claim.md).
+
 ## Claims filed under other topics
 
 - [src-8889af167782-c03](natural-portals.md#src-8889af167782-c03) — Natural and artificial portals
@@ -231,22 +267,34 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-3c54f1ef569a-c03](atlantis-lemuria.md#src-3c54f1ef569a-c03) — Atlantis and Lemuria
 - [src-f042ab839938-c06](earth-cabal.md#src-f042ab839938-c06) — Earth Cabal and power structures
 - [src-40614df19d52-c01](pluto.md#src-40614df19d52-c01) — Pluto
+- [src-93765edbe0c7-c04](postmortem-realities.md#src-93765edbe0c7-c04) — Postmortem realities
+- [src-4f44ac4fb1a8-c01](flavian-jesus-claim.md#src-4f44ac4fb1a8-c01) — Flavian Jesus narrative
+- [src-4f44ac4fb1a8-c02](flavian-jesus-claim.md#src-4f44ac4fb1a8-c02) — Flavian Jesus narrative
+- [src-4f44ac4fb1a8-c05](flavian-jesus-claim.md#src-4f44ac4fb1a8-c05) — Flavian Jesus narrative
+- [src-35ef7583ec87-c01](flavian-jesus-claim.md#src-35ef7583ec87-c01) — Flavian Jesus narrative
+- [src-35ef7583ec87-c03](flavian-jesus-claim.md#src-35ef7583ec87-c03) — Flavian Jesus narrative
+- [src-35ef7583ec87-c06](flavian-jesus-claim.md#src-35ef7583ec87-c06) — Flavian Jesus narrative
 
 ## Review flags
 
+- No English translation counterpart identified; this source contains sweeping counter-historical claims, preserved here only as Swaruu’s attributed lore.
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - alternate-interpretation-of-ancient-texts-attributed
 - astronomical-claims-unverified
 - conspiracy\_claims
 - definition\_varies
+- disputed-scriptural-history
 - extraordinary-contact-claims
 - extraordinary\_astronomical\_claims
 - historical-doctrine-origin-claim
 - historical-uncertainty
 - ideological-commentary
+- internal\_tension
 - metaphysical-model
 - pluto-classification-esoteric-claim
+- postmortem-perception-and-reincarnation-model
 - related\_series\_part
 - speaker-attribution-inferred-from-robert-transcript
 - speaker-perspective-model
 - symbolic\_interpretations
+- translation-counterpart:src-476c3db82f6f-partial-overlap; English adds religious attachment and egregor discussion

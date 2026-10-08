@@ -1,0 +1,46 @@
+{
+  "source_id": "src-9d362a2f6ab9",
+  "snapshot_sha256": "34439bc46ffb70252ac14f50f7ca442ad1e804b70f881b8028087466de59be58",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9d362a2f6ab9-c01",
+      "assertion": "Anéeka describes a surface-level Deep State rivalry as real, while portraying both camps as subordinate to a deeper controlling tier.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her account of layered control."
+    },
+    {
+      "id": "src-9d362a2f6ab9-c02",
+      "assertion": "Anéeka says some hidden controllers are nonhuman and attributes parasitism to non-Lyrian influence, while distinguishing positive stellar reptilian groups.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She explicitly says not all reptilian races are negative."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-conspiracy-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "election-and-vaccine-claims-excluded"
+  ]
+}

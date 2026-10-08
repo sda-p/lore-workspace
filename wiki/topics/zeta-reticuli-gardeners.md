@@ -82,6 +82,16 @@ Source: [2019 - EL CABALLERO NEGRO - LOS ANUNNAKI - CONTACTO EXTRATERRESTRE](htt
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-01886647014f-c03
+
+Anéeka says Grey gardeners often perform health corrections during abductions; memory insertions may be arranged before incarnation by Greys or a person's own species.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CABALLOS MUTILADOS EN FRANCIA - PARTE 1 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/caballos-mutilados-en-francia-parte-1-sin-video) (2020-11-01; es); passages p0039, p0041, p0043, p0044. [Structured record](../../records/src-01886647014f.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
 ## Claims filed under other topics
 
 - [src-03651da1738e-c02](orion-grays.md#src-03651da1738e-c02) — Orion Grays
@@ -92,3 +102,4 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - claims-attributed-to-source-narrators
 - factional-threat-interpretation-attributed-to-urmah
+- uncertain-human-versus-nonhuman-mutilation-cause

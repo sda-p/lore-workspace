@@ -292,6 +292,56 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu (2021)](https://swaruu.org/transcripts/tulpas-everything-is-a-tulpa-metaphysical-chat-with-yazhi-swaruu-2021) (2024-10-11; en); passages p0027, p0034, p0036, p0038. [Structured record](../../records/src-f8cf4e785330.json).
 
+### src-a25cbe9cab02-c02
+
+She says collective attention can manifest viruses as egregors; fear concentrates attention on them and sustains them. Attribution preserves her account.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [El Miedo - Como superarlo? Los Virus - CENSURADO EN YOUTUBE](https://swaruu.org/transcripts/el-miedo-como-superarlo-los-virus-censurado-en-youtube) (2020-03-23; es); passages p0073, p0075, p0079, p0082, p0093. [Structured record](../../records/src-a25cbe9cab02.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d575fee8efe8-c01
+
+Swaruu says regressive reptile and Archon forms are egregors sustained by focused creative attention; fear concentrates it but is not their food itself. Her model.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conciencia Reptil - Egregores Humanos (Swaruu D´Jedi - Comunicacion Extraterrestre - Pleyades)](https://swaruu.org/transcripts/conciencia-reptil-egregores-humanos-swaruu-d-jedi-comunicacion-extraterrestre-pleyades) (2020-04-15; es); passages p0014, p0015, p0016, p0090, p0095. [Structured record](../../records/src-d575fee8efe8.json).
+
+Related topics: [Reptilians](reptilians.md), [Archons and demons](archons-and-demons.md).
+
+### src-d575fee8efe8-c03
+
+She says sufficiently strong egregors may become self-aware and self-sustaining, as species manifest. A possible process.
+
+Attributed to **Swaruu**; speculative; extraction confidence: high.
+
+Source: [Conciencia Reptil - Egregores Humanos (Swaruu D´Jedi - Comunicacion Extraterrestre - Pleyades)](https://swaruu.org/transcripts/conciencia-reptil-egregores-humanos-swaruu-d-jedi-comunicacion-extraterrestre-pleyades) (2020-04-15; es); passages p0123, p0124. [Structured record](../../records/src-d575fee8efe8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f118c9aeadd2-c02
+
+She describes astral worlds as belief-shaped personal or collective constructs; shared realities are egregors, whose creators defend them. Her model.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MATRIX – QUIENES SON MATRIX – LOS CREADORES DE MATRIX - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/matrix-quienes-son-matrix-los-creadores-de-matrix-aneeka-de-temmer) (2019-12-13; es); passages p0015, p0017, p0055, p0057, p0059. [Structured record](../../records/src-f118c9aeadd2.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-b75641f39867-c04
+
+Swaruu describes collective fear as a human-made egregor concentrating attention; regressive beings depend on that attention.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Miedos, Virus, Situacion Global - ENFOCATE (Mensaje Extraterrestre Pleyades)](https://swaruu.org/transcripts/miedos-virus-situacion-global-enfocate-mensaje-extraterrestre-pleyades) (2020-03-23; es); passages p0045, p0047, p0048, p0049, p0051. [Structured record](../../records/src-b75641f39867.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c03](postmortem-realities.md#src-331beeab2088-c03) — Postmortem realities
@@ -308,17 +358,23 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - [src-04f196994778-c01](archons-and-demons.md#src-04f196994778-c01) — Archons and demons
 - [src-04f196994778-c05](archons-and-demons.md#src-04f196994778-c05) — Archons and demons
 - [src-9c1661abc463-c02](consciousness-metaphysics.md#src-9c1661abc463-c02) — Consciousness and metaphysics
+- [src-d575fee8efe8-c02](reptilians.md#src-d575fee8efe8-c02) — Reptilians
 
 ## Review flags
 
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
+- attributed-virus-and-vaccine-claims
+- collective-egregor-metaphysics
 - conspiracy-claims
 - conspiracy\_claims
+- medical-virus claims are attributed lore, not independently substantiated
+- metaphysical-claims-attributed
 - metaphysical-claims\_attributed
 - metaphysical-model
 - paranormal-claims-unverified
 - personal\_metaphysics
+- reptilian-species-versus-reptile-egregor
 - soulless-people-claim
 - translated-originally-Spanish
 - unverified-current-events

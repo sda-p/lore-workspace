@@ -1,0 +1,100 @@
+{
+  "source_id": "src-f692b0750026",
+  "snapshot_sha256": "31e3cafb7c777a69979633e4effdb5aa56f3df938601470acb02c36ba5da7a70",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f692b0750026-c01",
+      "assertion": "Swaruu X says the Federation is tiered by area and density, with members’ ethics varying across levels.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f692b0750026-c02",
+      "assertion": "She says upper tiers view Earth as a bounded experience planned by incarnating souls from outside.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0027",
+        "p0102"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "original-matrix",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f692b0750026-c03",
+      "assertion": "She describes humans as a Lyran-derived biological suit enabling multiple species to share an Earth experience.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0110",
+        "p0111"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f692b0750026-c04",
+      "assertion": "She says the Federation will not permit humans’ interstellar expansion because it considers humanity already interstellar.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0112"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f692b0750026-c05",
+      "assertion": "Yazhi says lower-tier Antarian and Centaurian pilots pursue Maitre and reptilian craft to enforce Earth’s blockade.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0151",
+        "p0165"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "maitre",
+        "reptilian-invaders"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "federation-level-claims-attributed",
+    "pandemic-claims-excluded"
+  ],
+  "coverage_gaps": [
+    "egregor-explanation-omitted",
+    "health-and-political-claims-excluded"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "source_id": "src-2f3cec7db3bb",
+  "snapshot_sha256": "25397c3b802b0379d33a59f8b7fbaabdd02f49b78f9cf22d2bc637e8f3e592f4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2f3cec7db3bb-c01",
+      "assertion": "Yazhi says starseeds need not recover past-life memories; present self-concept and imagination shape identity and future.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-2f3cec7db3bb-c02",
+      "assertion": "She says high-frequency starseeds may feel discomfort on low-frequency Earth, but helping is a choice rather than a compulsory forgotten mission.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-2f3cec7db3bb-c03",
+      "assertion": "She advises accepting Earth while making a private space to recharge and living among humans without changing oneself to fit in.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f3cec7db3bb-c04",
+      "assertion": "She says higher planes are not separate places; people already embody them, and imagined worlds are experientially real within consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0030",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "starseed-identity-and-mission-attributed"
+  ],
+  "coverage_gaps": [
+    "karma-release-model",
+    "earth-frequency-mismatch-details"
+  ]
+}

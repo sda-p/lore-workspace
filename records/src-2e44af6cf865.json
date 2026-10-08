@@ -1,0 +1,64 @@
+{
+  "source_id": "src-2e44af6cf865",
+  "snapshot_sha256": "94566dbb42ea0a8ba1d5b032d34a6639a7dd47f18e31036fd3e6fbd05e6490ab",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2e44af6cf865-c01",
+      "assertion": "Swaruu (9) says Alpha Dracos and Urmahs eat meat cultivated from cells, never from conscious animals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "cultivated-meat",
+      "topics": [
+        "cultivated-meat",
+        "alpha-draconians",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says a steak takes six weeks, limiting large-scale viability."
+    },
+    {
+      "id": "src-2e44af6cf865-c02",
+      "assertion": "Swaruu (9) describes Kingu society as seven castes, with slave labor below and White Kingu at the top.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0099"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She compares middle-caste repression to Earth humans."
+    },
+    {
+      "id": "src-2e44af6cf865-c03",
+      "assertion": "Swaruu (9) says Toleka ships use aquaponics for supplemental kitchen produce, not crew subsistence.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0131"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "toleka-class"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The plots provide small quantities."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "food-claims-context"
+  ],
+  "coverage_gaps": [
+    "health-claims-omitted",
+    "food-technology-details-omitted"
+  ]
+}

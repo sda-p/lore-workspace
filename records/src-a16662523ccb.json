@@ -1,0 +1,112 @@
+{
+  "source_id": "src-a16662523ccb",
+  "snapshot_sha256": "1233751e515cc408793eb300d2bcb8058384873c678cc301b316ff708277f5b1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a16662523ccb-c01",
+      "assertion": "Yázhi describes time as the sequence of thoughts through which consciousness experiences itself.",
+      "speaker": "Yázhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a16662523ccb-c02",
+      "assertion": "She says attention flows as gravity, condensing potential energy into perceived matter.",
+      "speaker": "Yázhi Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a16662523ccb-c03",
+      "assertion": "Yázhi says shared time is a collective agreement, while each observer retains a distinct personal perception.",
+      "speaker": "Yázhi Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0034",
+        "p0057"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a16662523ccb-c04",
+      "assertion": "She contrasts linear 3D time with multidirectional time perception associated with broader consciousness.",
+      "speaker": "Yázhi Swaruu",
+      "paragraph_ids": [
+        "p0063",
+        "p0065",
+        "p0083",
+        "p0087",
+        "p0091"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a16662523ccb-c05",
+      "assertion": "Yázhi describes the Source or Ether as an undivided, eternal whole beyond duality.",
+      "speaker": "Yázhi Swaruu",
+      "paragraph_ids": [
+        "p0094",
+        "p0095",
+        "p0096"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "subjective-time-model",
+    "consciousness-gravity-model",
+    "deliberate-contradiction-note"
+  ],
+  "coverage_gaps": [
+    "perception-time-examples",
+    "higher-density-geometry",
+    "drug-claims"
+  ]
+}

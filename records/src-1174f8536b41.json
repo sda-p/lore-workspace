@@ -1,0 +1,77 @@
+{
+  "source_id": "src-1174f8536b41",
+  "snapshot_sha256": "757bcf32971a4942a59e0ffac503ff63ee471c932c05b0f472b2937510af28f2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1174f8536b41-c01",
+      "assertion": "Yazhi says she can change form or fly within her own astral perception; nearby observers usually see only her disappearance.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Self-report."
+    },
+    {
+      "id": "src-1174f8536b41-c02",
+      "assertion": "She says observers cannot naturally perceive these changes; aggressive telepathy can impose a transformation as their perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0044",
+        "p0047",
+        "p0053",
+        "p0058"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her explanation."
+    },
+    {
+      "id": "src-1174f8536b41-c03",
+      "assertion": "She attributes missed or differing UFO sightings to observers having different perceptual realities despite sharing a location.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0034",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal-ability-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "claim-not-scientifically-verifiable",
+    "astral-state-details"
+  ]
+}

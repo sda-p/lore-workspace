@@ -1,0 +1,65 @@
+{
+  "source_id": "src-876a8c6154df",
+  "snapshot_sha256": "7424d31c4068cd98c02418f53423fb319c665f2baeec4bc803b8506bad21e788",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-876a8c6154df-c01",
+      "assertion": "Athena rejects an Antarctic postwar surrender story, describing puppet leaders instead pledging loyalty to Cabal and nonhuman controllers linked to the Federation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "antarctica",
+      "topics": [
+        "antarctica",
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account; she says Federation authorities permit events under nonintervention."
+    },
+    {
+      "id": "src-876a8c6154df-c02",
+      "assertion": "Anéeka describes Antarctica as a military-controlled zone with ancient ruins and bases used by several Federation species; she says giant awakening claims are unconfirmed.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0028",
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "antarctica",
+      "topics": [
+        "antarctica",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She explicitly says the giant claim is not confirmed."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "antarctica",
+      "name": "Antarctica bases and ancient sites",
+      "kind": "location",
+      "aliases": [
+        "Antarctic bases"
+      ]
+    }
+  ],
+  "review_flags": [
+    "conspiracy-claims-attributed",
+    "covid-and-vaccine-claims-omitted"
+  ],
+  "coverage_gaps": [
+    "specific-base-inventories",
+    "historical-civilization-dates"
+  ]
+}

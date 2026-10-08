@@ -1,0 +1,93 @@
+{
+  "source_id": "src-0433b90a34a3",
+  "snapshot_sha256": "83f80fe87372f687040efe8e670a17ecfa868ec21079f3550bde99db864a9b9d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0433b90a34a3-c01",
+      "assertion": "Yazhi says timelines are mental constructs, with collective tracks emerging from agreements while each person perceives a unique version.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-0433b90a34a3-c02",
+      "assertion": "She describes each person as an aggregate of alternate selves sharing information, ultimately interwoven with one encompassing consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-0433b90a34a3-c03",
+      "assertion": "In her model, events occur simultaneously; contradictory pasts converge in the present, and future events can alter the past.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-0433b90a34a3-c04",
+      "assertion": "She warns that adopting this unity perspective can dissolve personal identity, while people may choose ordinary individual experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her view."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "nonlinear-time-model-attributed"
+  ],
+  "coverage_gaps": [
+    "practical-life-guidance",
+    "individual-identity-metaphysics"
+  ]
+}

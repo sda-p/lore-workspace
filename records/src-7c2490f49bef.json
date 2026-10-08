@@ -1,0 +1,27 @@
+{
+  "source_id": "src-7c2490f49bef",
+  "snapshot_sha256": "33e7b850546242e56cbf02556f96a4bb263df4d6e89dfe6902f63f6eeb3df55f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7c2490f49bef-c01",
+      "assertion": "Anéeka frames deep trance as reducing the physical body’s programmed filters, allowing a purer response from a self spanning space-time and multiple incarnations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

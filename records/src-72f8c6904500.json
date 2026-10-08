@@ -1,0 +1,71 @@
+{
+  "source_id": "src-72f8c6904500",
+  "snapshot_sha256": "b30192d2b040468efd127f2e309f6c3a4181844b0da7d01f5ad6e4cf544c9547",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-72f8c6904500-c01",
+      "assertion": "Yazhi accepts that tulpas and egregores are thought-forms, saying ideas given sufficient energy and attention can become real.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0032",
+        "p0036",
+        "p0044"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    },
+    {
+      "id": "src-72f8c6904500-c02",
+      "assertion": "She says reality can differ across levels of consciousness: an idea may be real from an expanded viewpoint but only a controlling invention from a human viewpoint.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "tulpas"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of perspective."
+    },
+    {
+      "id": "src-72f8c6904500-c03",
+      "assertion": "Yazhi advises audiences to compare many sources, form their own provisional model, and revise it without treating her or other authorities as final.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0086",
+        "p0087",
+        "p0089",
+        "p0090"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her advice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "CIA-control-allegation-omitted",
+    "medical-claims-omitted"
+  ],
+  "coverage_gaps": [
+    "claimed-CIA-role-in-ufology",
+    "religious-example-details"
+  ]
+}

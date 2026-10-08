@@ -1,0 +1,91 @@
+{
+  "source_id": "src-26a2d18bbea0",
+  "snapshot_sha256": "e09f5643d0706c42869422b274c38cf1ea5ebe8492832ef6ceeeb9650a70d170",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-26a2d18bbea0-c01",
+      "assertion": "Swaruu models natural portals as brief local equivalences between changing frequency harmonics, formed by interacting gravitational fluxes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-26a2d18bbea0-c02",
+      "assertion": "She identifies Bermuda as an energetic Earth node where a portal opens under specific conditions; pyramids concentrate dispersed energy at nodes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0026",
+        "p0032",
+        "p0043"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-26a2d18bbea0-c03",
+      "assertion": "She says portals can send travelers to compatible sites or times; return through the same portal is possible only while it remains open.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0037",
+        "p0047",
+        "p0052",
+        "p0054"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-26a2d18bbea0-c04",
+      "assertion": "She says Taygetans prefer ships over unreliable natural portals; some large space portals also serve as ship-transit routes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0039",
+        "p0041",
+        "p0074"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "portal-location-and-destination-vary"
+  ],
+  "coverage_gaps": [
+    "portal-predictability-cycles",
+    "individual-perception-during-group-transit"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_id": "src-1c7b74567865",
+  "snapshot_sha256": "3e2bea908e514303555c5b0d1a4386043a3d5a7976aafb7adfa918b0eebd3ee4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1c7b74567865-c01",
+      "assertion": "Anéeka describes conflicts among secret societies and nonhuman factions below the Federation, which she treats as a separate higher tier.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0038"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c7b74567865-c02",
+      "assertion": "She reports a conflict labeled Karistus–Anunnaki versus Vlash–Maitre; Karistus are positive 6D+, while “Anunnaki” denotes positive 5D races including Taygetans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus",
+        "vlash-vlad-vrill-clans",
+        "maitre",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c7b74567865-c03",
+      "assertion": "She says reptilians and Tall Greys oppose those positive groups; humans may serve as organic portals for higher beings.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0022",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "maitre",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c7b74567865-c04",
+      "assertion": "She describes lower Illuminati as mostly human and higher ranks as extraterrestrials in human bodies, with awareness varying by individual.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0034",
+        "p0040"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "faction-taxonomy-and-levels-attributed"
+  ],
+  "coverage_gaps": [
+    "satellite-launch-claims-excluded",
+    "positive-reptilian-conflict-details"
+  ]
+}

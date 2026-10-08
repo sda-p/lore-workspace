@@ -46,8 +46,19 @@ Source: [You are Experiencing the last stages of a total Cultural and Social Res
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-a02207051534-c05
+
+She identifies Nazca as Atlantean spaceport; figures mapped constellations and routes, while underground holograms guided ships.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [Las Guerras de Orion - Invasion Reptil - Atlantida y Lemuria - Parte 3 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/las-guerras-de-orion-invasion-reptil-atlantida-y-lemuria-parte-3-sin-video) (2020-07-24; es); passages p0052, p0053, p0059, p0060, p0062, p0064, p0066. [Structured record](../../records/src-a02207051534.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md), [Holographic computers](holographic-computers.md), [Tractor beams](tractor-beams.md).
+
 ## Review flags
 
 - alternate-history\_claims\_attributed
 - speaker-speculation
+- translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
 - unverified-reset-claims

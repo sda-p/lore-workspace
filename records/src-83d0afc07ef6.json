@@ -1,0 +1,68 @@
+{
+  "source_id": "src-83d0afc07ef6",
+  "snapshot_sha256": "304ec3575d066175d4acf64d905d2e751d71b4f84d5e7556221d689e6d91ed7e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-83d0afc07ef6-c01",
+      "assertion": "Athena says star races discussed helping Earth decades ago, mainly through starseeds incarnating via immersion pods, step-downs, and walk-ins rather than direct intervention.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "immersion-pods",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes this as an inside-out effort."
+    },
+    {
+      "id": "src-83d0afc07ef6-c02",
+      "assertion": "She says the Federation removed negative extraterrestrials from the wider solar system long ago, leaving their forces concentrated on Earth.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-83d0afc07ef6-c03",
+      "assertion": "Athena describes three Mars sectors as human-reptilian SSP, Mantis, and Maitré; a treaty with Mantis and reptilians prevents Maitré’s removal under Federation law.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "maitre",
+        "reptilians",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls the situation a legal problem."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "aliens-removed-from-quadrant-claim"
+  ],
+  "coverage_gaps": [
+    "specific-Mantis-treaty-terms",
+    "Earth-intervention-outcome"
+  ]
+}

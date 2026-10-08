@@ -138,16 +138,30 @@ Source: [Space News, 28, June 20, 2024, Alenym, brand new S.S. Hyades (English)]
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-1f01e4810fc2-c04
+
+She says Cyndriel has no night because Aldebaran dominates its sky; a Taygetan colony lives there. She attributes limited heating to radiation frequency and a dense nebula.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES - COMO COORDINAN EL TIEMPO - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/extraterrestres-como-coordinan-el-tiempo-aneeka-de-temmer) (2020-10-28; es); passages p0010. [Structured record](../../records/src-1f01e4810fc2.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-67f9e11f45a4-c06](amelie.md#src-67f9e11f45a4-c06) — Amelie
 - [src-7ced6b157e35-c05](taygetans.md#src-7ced6b157e35-c05) — Taygetans
 - [src-cff930fb7cbd-c01](taygetans.md#src-cff930fb7cbd-c01) — Taygetans
+- [src-3901bf7c1489-c04](alien-species.md#src-3901bf7c1489-c04) — Alien species and distinctions
 
 ## Review flags
 
 - Alenym-retirement-not-decided
 - Cyndriel time-difference mechanism remains unknown.
+- cyndriel-environment-claim
+- subjective-time-model
+- translation-counterpart:src-0bdff38c9c01-exact-full
 - unverified\_biological\_and\_metaphysical\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_temporal\_claims

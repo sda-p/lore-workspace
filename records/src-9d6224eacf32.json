@@ -1,0 +1,76 @@
+{
+  "source_id": "src-9d6224eacf32",
+  "snapshot_sha256": "09cedcea3640f30ffc69eb6dcdfbaeea4996a1d40a773c7efee1875552617ef4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9d6224eacf32-c01",
+      "assertion": "Athena says Taygetan fighters carry two black bulls and a silver sun, a Pleiadian-Taurus emblem; Toleka bears a large crowned figure.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0014",
+        "p0016",
+        "p0018",
+        "p0024",
+        "p0027"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "toleka-class"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of Taygetan insignia."
+    },
+    {
+      "id": "src-9d6224eacf32-c02",
+      "assertion": "She claims Cabal groups reuse ancient symbols as sigils, but says such visible marks distract from deeper power networks.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0041"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-9d6224eacf32-c03",
+      "assertion": "Athena says hidden Cabal tiers use gold and private technology; lower ranks rely on untraceable analog phone networks instead of muonic systems.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiratorial-claims"
+  ],
+  "coverage_gaps": [
+    "modern-symbol-origins",
+    "cabal-clan-politics"
+  ]
+}

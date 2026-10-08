@@ -1,0 +1,78 @@
+{
+  "source_id": "src-ea07e710cf87",
+  "snapshot_sha256": "bd698bd064e0cccf46f4247b48bb45e7513bd88e08e5fdfa4ab592078cc218a3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ea07e710cf87-c01",
+      "assertion": "Dhor Káal’el says pilots can start systems and request controls mentally or manually; the ship AI handles destination calculations.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0015",
+        "p0018",
+        "p0032"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "sentient-starship-ai"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ea07e710cf87-c02",
+      "assertion": "He describes plasma engines forming a closed magnetic toroid whose controlled frequency matches the destination for supraluminal travel, without warping spacetime.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0037",
+        "p0039",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "supraluminal-hyperdrive",
+      "topics": [
+        "supraluminal-hyperdrive",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "His account distinguishes it from conventional warp travel."
+    },
+    {
+      "id": "src-ea07e710cf87-c03",
+      "assertion": "He says the ships use zero-point power without refueling and make their own transit route, avoiding portals and other civilizations’ lanes.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "supraluminal-hyperdrive",
+      "topics": [
+        "supraluminal-hyperdrive",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "supraluminal-hyperdrive",
+      "name": "Supraluminal frequency hyperdrive",
+      "kind": "technology",
+      "aliases": [
+        "Hyperdrive",
+        "Ether jumps"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "preflight-checklist",
+    "inertial-dampers",
+    "frequency-recognition-access"
+  ]
+}

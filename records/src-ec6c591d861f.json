@@ -1,0 +1,66 @@
+{
+  "source_id": "src-ec6c591d861f",
+  "snapshot_sha256": "1dafb6be53cee977ced3ec7429583cfca60834e8c46ac029863edd40b724b90b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ec6c591d861f-c01",
+      "assertion": "Yazhi says three arks are held at the Pentagon, Vostok, and her ship; they preserve biology and can serve as weapons.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "earth-dna-arks",
+      "topics": [
+        "earth-dna-arks",
+        "deep-underground-military-bases"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ec6c591d861f-c02",
+      "assertion": "She says Ukraine’s old underground bases may hide an alien ark or looted tech, but ark talk may be a distraction, not the war’s sole cause.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "earth-dna-arks",
+        "deep-underground-military-bases"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "Possible, not directly identified."
+    },
+    {
+      "id": "src-ec6c591d861f-c03",
+      "assertion": "Yazhi says Federation and Andromedan nonintervention prevents worsening Earth’s problems; humanity must resolve them to avoid repeating mistakes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "ukraine-war-conspiracy-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "ark-technology-variations",
+    "other-ark-locations"
+  ]
+}

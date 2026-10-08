@@ -32,6 +32,12 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
 
 Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://swaruu.org/transcripts/contacto-con-mujeres-extraterrestres-la-estrella-taygeta) (2018-12-15; es); passages p0136. [Structured record](../../records/src-f3da65ca7f6c.json).
 
+## Claims filed under other topics
+
+- [src-55aa4da20352-c01](maitre.md#src-55aa4da20352-c01) — Maitre
+
 ## Review flags
 
 - Leader-contact claim is attributed to Asket in this transcript.
+- abduction-mutilation-claims
+- species-labels-uncertain

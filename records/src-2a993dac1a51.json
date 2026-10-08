@@ -1,0 +1,83 @@
+{
+  "source_id": "src-2a993dac1a51",
+  "snapshot_sha256": "ee66dc78f6b1f35dedc2ea42d8d6d286e16784060c4aa596180e883d6a2fdc66",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2a993dac1a51-c01",
+      "assertion": "Athena says local wars can begin over genuine disputes, though Cabal agents may manipulate both sides or install leaders favorable to it.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Athena’s account."
+    },
+    {
+      "id": "src-2a993dac1a51-c02",
+      "assertion": "She claims wars between Cabal-controlled powers are preplanned, with real combat and suffering arranged to control populations and extract human life energy.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0016",
+        "p0020",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0046"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account distinguishes real suffering from fabricated motives and outcomes."
+    },
+    {
+      "id": "src-2a993dac1a51-c03",
+      "assertion": "Athena describes fear-fed entities as human-created egregores sustained by attention and suffering, which may dissolve when people stop focusing on them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "lush-feeding-entities",
+      "topics": [
+        "lush-feeding-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "lush-feeding-entities",
+      "name": "Fear-fed egregore entities",
+      "kind": "metaphysical entity",
+      "aliases": [
+        "Lush-feeding entities"
+      ]
+    }
+  ],
+  "review_flags": [
+    "conspiratorial-war-history-claims"
+  ],
+  "coverage_gaps": [
+    "named-war-case-studies",
+    "nonhuman-entity-identities"
+  ]
+}

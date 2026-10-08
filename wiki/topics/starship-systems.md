@@ -2956,6 +2956,122 @@ Source: [NAVEGACION ESTELAR II - PORTALES DIMENSIONALES - SWARUU DE ERRA - VUELO
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-2a59653712d3-c01
+
+Anéeka says low-orbit suspension requires velocity to balance gravity; the vessel’s changing equatorial track surveys most of Earth. She describes the vessel’s current orbit.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anéeka de Temmer - Entrevista (Comunicación Extraterrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/aneeka-de-temmer-entrevista-comunicacion-extraterrestre-taygeta-pleyades) (2020-05-20; es); passages p0008, p0011, p0013, p0015. [Structured record](../../records/src-2a59653712d3.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-699924c5628e-c02
+
+She says large Taygetan ships use gravitational, plasma-jet, and toroidal flight systems as needed; multiple systems allow a damaged vessel to land.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Moviendo por el Éter - Conciencia y Navegación Estelar (Mensaje Extraterrestre - Pleyades) (Parte 6)](https://swaruu.org/transcripts/moviendo-por-el-eter-conciencia-y-navegacion-estelar-mensaje-extraterrestre-pleyades-parte-6) (2019-12-28; es); passages p0030, p0032, p0033, p0034. [Structured record](../../records/src-699924c5628e.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-27117e8f1038-c05
+
+Anéeka says chemtrails track Federation craft, which can face combined EMP, plasma, scalar-energy, and microwave attacks.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Coronavirus - Lo que sabemos hasta ahora - VIDEO ELIMINADO EN YOUTUBE POR CENSURA](https://swaruu.org/transcripts/coronavirus-lo-que-sabemos-hasta-ahora-video-eliminado-en-youtube-por-censura) (2020-02-03; es); passages p0018, p0019, p0020. [Structured record](../../records/src-27117e8f1038.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-630d64c41a85-c02
+
+She says Taygetan ships generate custom wormholes, using propulsion only for maneuvers; natural black-hole-to-star transit is lower technology. Her technology comparison.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Agujeros Negros, Portales, Sun - Que Son Realmente? - Contacto Extraterrestre (Taygeta, Pleyades)](https://swaruu.org/transcripts/agujeros-negros-portales-sun-que-son-realmente-contacto-extraterrestre-taygeta-pleyades) (2020-10-17; es); passages p0101, p0102, p0103. [Structured record](../../records/src-630d64c41a85.json).
+
+Related topics: [Taygetans](taygetans.md), [Natural and artificial portals](natural-portals.md).
+
+### src-b87a9c4ceb6f-c01
+
+Anéeka says imported 3D biological samples can lose their original pattern; Taygetan lab cylinders hold a precise frequency so samples can be studied.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Asuntos Actuales: Anéeka de Temmer (Contacto Extraterrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/asuntos-actuales-aneeka-de-temmer-contacto-extraterrestre-taygeta-pleyades) (2020-05-04; es); passages p0003, p0004. [Structured record](../../records/src-b87a9c4ceb6f.json).
+
+Related topics: [Frequency-holding sample containers](frequency-holding-containers.md).
+
+### src-a67fb92e8975-c04
+
+Swaruu identifies a ship’s tractor beam as a portal for transferring people or objects remotely.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Portales Artificiales - Tecnología Extraterrestre (Swaruu de Erra, Taygeta, Pleyades)](https://swaruu.org/transcripts/portales-artificiales-tecnologia-extraterrestre-swaruu-de-erra-taygeta-pleyades) (2020-03-11; es); passages p0030, p0032, p0045, p0046. [Structured record](../../records/src-a67fb92e8975.json).
+
+Related topics: [Artificial portals](artificial-portals.md), [Teleportation](teleportation.md).
+
+### src-e1b812564c1f-c01
+
+Dhor says systems start mentally or by console; startup activates the telepathic interface.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Tecnologia Extraterrestre: Procedimiento de Despegue y Vuelo (Mensaje Pleyadiano - Taygeta)](https://swaruu.org/transcripts/tecnologia-extraterrestre-procedimiento-de-despegue-y-vuelo-mensaje-pleyadiano-taygeta) (2020-02-29; es); passages p0013, p0020, p0021, p0022. [Structured record](../../records/src-e1b812564c1f.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-e1b812564c1f-c02
+
+He says plasma engines form a frequency-controlled toroid matching the destination for hyperspace, without space-warping.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Tecnologia Extraterrestre: Procedimiento de Despegue y Vuelo (Mensaje Pleyadiano - Taygeta)](https://swaruu.org/transcripts/tecnologia-extraterrestre-procedimiento-de-despegue-y-vuelo-mensaje-pleyadiano-taygeta) (2020-02-29; es); passages p0037, p0042, p0044, p0048, p0050. [Structured record](../../records/src-e1b812564c1f.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-e1b812564c1f-c03
+
+Suzy-class craft exceed 1,000G; inertial dampers tune how much acceleration occupants feel.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Tecnologia Extraterrestre: Procedimiento de Despegue y Vuelo (Mensaje Pleyadiano - Taygeta)](https://swaruu.org/transcripts/tecnologia-extraterrestre-procedimiento-de-despegue-y-vuelo-mensaje-pleyadiano-taygeta) (2020-02-29; es); passages p0027, p0028. [Structured record](../../records/src-e1b812564c1f.json).
+
+### src-e1b812564c1f-c06
+
+Ships recognize occupants by frequency and DNA; Suzy restricts access to Swaruu, its AI an extension of her mind.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Tecnologia Extraterrestre: Procedimiento de Despegue y Vuelo (Mensaje Pleyadiano - Taygeta)](https://swaruu.org/transcripts/tecnologia-extraterrestre-procedimiento-de-despegue-y-vuelo-mensaje-pleyadiano-taygeta) (2020-02-29; es); passages p0060, p0061. [Structured record](../../records/src-e1b812564c1f.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-2c51b741eabb-c01
+
+Swaruu says immersion toroids reduce ship mass as it accelerates, allowing plasma jet propulsion to reach one-third light speed.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu - Mapeando Espacios Desconocidos (Navegación Estelar 7) Comunicación Extraterrestre](https://swaruu.org/transcripts/swaruu-mapeando-espacios-desconocidos-navegacion-estelar-7-comunicacion-extraterrestre) (2020-01-12; es); passages p0015, p0016, p0017, p0018. [Structured record](../../records/src-2c51b741eabb.json).
+
+### src-61a0b9a71122-c02
+
+Taygetan medicine uses light and sound, plus faster controlled magnetic fields; small Med Pods heal localized injuries.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Es Cultura Extraterrestre Similar a la Humana? (Contacto Extraterrestre Taygeta - Pleyades)](https://swaruu.org/transcripts/es-cultura-extraterrestre-similar-a-la-humana-contacto-extraterrestre-taygeta-pleyades) (2020-05-08; es); passages p0005, p0007. [Structured record](../../records/src-61a0b9a71122.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -3150,6 +3266,26 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - [src-bf7085cb30ac-c01](stellar-navigation.md#src-bf7085cb30ac-c01) — Stellar navigation
 - [src-bf7085cb30ac-c04](natural-portals.md#src-bf7085cb30ac-c04) — Natural and artificial portals
 - [src-bf7085cb30ac-c05](stellar-navigation.md#src-bf7085cb30ac-c05) — Stellar navigation
+- [src-699924c5628e-c01](stellar-navigation.md#src-699924c5628e-c01) — Stellar navigation
+- [src-27117e8f1038-c03](energy-generation.md#src-27117e8f1038-c03) — Energy generation technology
+- [src-27117e8f1038-c04](galactic-federation.md#src-27117e8f1038-c04) — Galactic Federation
+- [src-c26942770282-c02](terrestrial-science.md#src-c26942770282-c02) — Terrestrial science
+- [src-b2a52629b21d-c01](secret-space-program.md#src-b2a52629b21d-c01) — Secret Space Program
+- [src-99293df55ffb-c05](temporal-skipping.md#src-99293df55ffb-c05) — Temporal skipping
+- [src-630d64c41a85-c03](natural-portals.md#src-630d64c41a85-c03) — Natural and artificial portals
+- [src-b87a9c4ceb6f-c02](harmonic-shields.md#src-b87a9c4ceb6f-c02) — Harmonic shields
+- [src-cd1fcaa78711-c04](muon-gravity-communications.md#src-cd1fcaa78711-c04) — Muon-triggered gravity communications
+- [src-33ef2f39ee97-c03](tractor-beams.md#src-33ef2f39ee97-c03) — Tractor beams
+- [src-1f3aa749d3b8-c02](tractor-beams.md#src-1f3aa749d3b8-c02) — Tractor beams
+- [src-1f3aa749d3b8-c04](holographic-computers.md#src-1f3aa749d3b8-c04) — Holographic computers
+- [src-00e384e559bd-c03](muon-gravity-communications.md#src-00e384e559bd-c03) — Muon-triggered gravity communications
+- [src-b59378b55fc0-c01](stellar-navigation.md#src-b59378b55fc0-c01) — Stellar navigation
+- [src-9b8c545032b0-c02](stellar-navigation.md#src-9b8c545032b0-c02) — Stellar navigation
+- [src-e1b812564c1f-c04](energy-generation.md#src-e1b812564c1f-c04) — Energy generation technology
+- [src-2c51b741eabb-c02](energy-generation.md#src-2c51b741eabb-c02) — Energy generation technology
+- [src-2c51b741eabb-c03](frequency-map-navigation.md#src-2c51b741eabb-c03) — Frequency-map navigation
+- [src-1422880235ff-c02](harmonic-shields.md#src-1422880235ff-c02) — Harmonic shields
+- [src-95bb43e551f3-c03](taygetans.md#src-95bb43e551f3-c03) — Taygetans
 
 ## Review flags
 
@@ -3162,6 +3298,7 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
 - Federation-infiltration\_theory
 - Maitre\_relationship\_with\_Reptilians
@@ -3177,6 +3314,7 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - ancient-history-claim
 - approximate-age-estimate
 - ark\_location\_and\_war\_claims\_unverified
+- ascension-not-a-single-event
 - biological-claims-unverified
 - biology-claim
 - black-knight-loss-details-provisional
@@ -3184,7 +3322,9 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - causal-attribution-tension
 - cern-portal-claim
 - claimed\_observation
+- communication-tech-claims-attributed
 - comparative\_technology\_claims
+- computer-throughput-claim-attributed
 - conflicting\_origin\_accounts
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
@@ -3205,8 +3345,10 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - crime\_and\_abundance\_claims
 - design\_discussion
 - dialogue-perspectives-distinguished
+- directed-energy-attack-claims
 - disaster claims are source allegations; no corroboration in snapshot
 - earth-consciousness\_claim\_omitted
+- earthly-cern-portal-claim-not-included
 - earthquake-causation-unverified
 - eclipse-portal-claims-unverified
 - ether\_model
@@ -3224,6 +3366,7 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - extraordinary\_technology\_claims
 - faction\_tension
 - factional-threat-interpretation-attributed-to-urmah
+- federation-seizure-claim
 - field-procedure-account-attributed-to-mari
 - fleet-status\_as-reported
 - food\_and\_health\_claims\_unverified
@@ -3240,6 +3383,7 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - historical\_account\_unverified
 - hyperspace\_model
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
+- laboratory-virus-report-uncertain
 - long conversation contains disputed health claims not included in core extraction
 - lunar-artificial-structure-claims-attributed
 - medical-claims-unverified
@@ -3251,11 +3395,13 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - meteorite\_claim\_omitted
 - moon-conspiracy-claims
 - named\_government\_and\_secret\_base\_claims
+- nanotechnology-claim-in-vaccine-context
 - narrator\_claims
 - nonhuman-technology\_claims\_attributed
 - nonstandard-physics-claims
 - nonstandard-planetary-model
 - nonstandard\_astrophysics\_claims
+- particle-vs-carrier-speed-distinction
 - pathogen-claim\_attributed
 - personal-childhood-anecdote
 - personal\_accusations
@@ -3264,8 +3410,11 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - political-claims
 - political\_structure\_claims
 - politically\_contested
+- portal-energy-estimates-attributed
 - portal-mechanics-overlap-src-6abed4268d57
 - portal-technology-claims-unverified
+- positronic-wave-source-disputed-with-alcyone-claims
+- possible-overlap-with-src-cd1fcaa78711
 - procedure-description
 - radiation-causation-allegations
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
@@ -3273,9 +3422,11 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - same-language-near-duplicate-src-6a5223076196
 - same-language-near-duplicate-src-735f991fe169
 - second-contact-stoppage-attributed-to-yazhi
+- secret-space-program-claims
 - secret\_ship\_capability\_claims
 - ship-specifications\_attributed
 - sirian-group-includes-distinct-species
+- solar-and-black-hole-portal-model
 - source includes conflicting publication and event dates; claims retain stated dates
 - source-mixed-origin-en-reactor-and-spanish-engine-sections
 - source-speaker-shift-dhor-to-yazhi
@@ -3291,6 +3442,7 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - technology-description-unverified
 - technology\_and\_mind\_interface
 - technology\_claims
+- temporal-branching-does-not-alter-observers' timelines
 - temporal-lore-attributed
 - time\_travel\_risks
 - title-metadata-diff
@@ -3299,9 +3451,14 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - translated-originally-Spanish
 - translated\_source
 - translation-counterpart-src-b781192c3a3d-expanded-plasma-engine-details
+- translation-counterpart: none identified
+- translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448
+- translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control
+- translation-counterpart:src-ce6ea4ce1c3c-close
 - translation-equivalence-unverified
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
 - unmapped\_regions\_and\_return\_risk
 - unverified-cabinet-claims
 - unverified-spiritual-attack-interpretation

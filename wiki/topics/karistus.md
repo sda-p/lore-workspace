@@ -42,6 +42,28 @@ Source: [SISTEMA SOLAR - PLANETA MERCURIO - EL SOL 13 - SWARUU DE ERRA](https://
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-76864ac53fe6-c03
+
+She says Karistus were the Solar System’s most advanced inhabitants, living on Jupiter and its moons in sixth density; most local life was fifth density.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA EXPANSIÓN DE LYRA - LAS GUERRAS DE ORIÓN - PARTE 2 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-expansion-de-lyra-las-guerras-de-orion-parte-2-sin-video) (2020-07-09; es); passages p0011, p0012. [Structured record](../../records/src-76864ac53fe6.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-1c7b74567865-c02
+
+She reports a conflict labeled Karistus–Anunnaki versus Vlash–Maitre; Karistus are positive 6D+, while “Anunnaki” denotes positive 5D races including Taygetans.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Armas en el Espacio - Karistus-Anunnaki -COHETE SPACE X – ANEEKA DE TEMMER](https://swaruu.org/transcripts/armas-en-el-espacio-karistus-anunnaki-cohete-space-x-aneeka-de-temmer) (2020-06-08; es); passages p0019, p0020. [Structured record](../../records/src-1c7b74567865.json).
+
+Related topics: [Vlash, Vlad and Vrill clans](vlash-vlad-vrill-clans.md), [Maitre](maitre.md), [Taygetans](taygetans.md).
+
 ## Review flags
 
 - Compared English translation candidate src-a2a5bfc5daf9 and Spanish version src-f94fd5d77808; bodies closely align with paragraph shifts and added explanatory material in English.
+- ancient-solar-system-density-and-polity-claims
+- faction-taxonomy-and-levels-attributed

@@ -400,6 +400,146 @@ Source: [ESPIRITUALIDAD Y CONCIENCIA - KARMA - MENSAJE EXTRATERRESTRE - SWARUU D
 
 Related topics: [Timeline branching](timeline-branching.md), [Taygetans](taygetans.md).
 
+### src-02802573a60a-c01
+
+Yazhi says she jumps through time to alter events; collective timelines shift when changes redirect mass perception, including through many aligned small interventions.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Nosotros Somos la Clave - Líneas Colectivas - Yázhi Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/nosotros-somos-la-clave-lineas-colectivas-yazhi-swaruu-comunicacion-extraterrestre) (2020-09-13; es); passages p0003, p0007, p0009, p0011, p0015, p0017, p0019. [Structured record](../../records/src-02802573a60a.json).
+
+Related topics: [Timeline branching](timeline-branching.md), [Collective timeline influence](collective-timeline-influence.md).
+
+### src-079a413a4643-c03
+
+Anéeka recounts a lost WWII Mosquito pilot appearing decades later to guide a modern jet to safety. She cites a story from terrestrial documents.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [TRIÁNGULO DE LAS BERMUDAS - AVIONES Y BARCOS DESAPARECIDOS - ANEEKA DE TEMMER \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/triangulo-de-las-bermudas-aviones-y-barcos-desaparecidos-aneeka-de-temmer-sin-video) (2020-10-24; es); passages p0023, p0024, p0025, p0026, p0027, p0028, p0030. [Structured record](../../records/src-079a413a4643.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-f680b9148842-c03
+
+Yazhi says past, present, and future mutually influence one another, converging in the perceived now.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LINEAS ESPACIO TEMPORALES - universo paralelo - YAZHÍ SWARUU - PRIMERA PARTE](https://swaruu.org/transcripts/lineas-espacio-temporales-universo-paralelo-yazhi-swaruu-primera-parte) (2020-08-24; es); passages p0018, p0019, p0020, p0021, p0026. [Structured record](../../records/src-f680b9148842.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-c1491dcb9c07-c03
+
+Swaruu says temporal-jump missions affect only the traveler; “Sand-Clock” squadron changes do not alter others.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Insertar nuevo Pasado del Campo Cuántico: Swaruu de Erra (Pleyades)](https://swaruu.org/transcripts/insertar-nuevo-pasado-del-campo-cuantico-swaruu-de-erra-pleyades) (2020-02-07; es); passages p0021, p0023. [Structured record](../../records/src-c1491dcb9c07.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-26d9d32c0ca8-c04
+
+She says portals can reach other times when exit frequency matches a past or future point. She says such travel requires careful study.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Agujeros Negros - Preguntas del Público - Anéeka (Contacto Extraterrestre - Taygeta - Pleiades)](https://swaruu.org/transcripts/agujeros-negros-preguntas-del-publico-aneeka-contacto-extraterrestre-taygeta-pleiades) (2020-10-20; es); passages p0021, p0022. [Structured record](../../records/src-26d9d32c0ca8.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-99293df55ffb-c02
+
+Jumps alter only the traveler's perceived future; original timelines and other people's histories persist. Her account.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Manipulación temporal - Cambia tu pasado- Viajes en el Tiempo - Swaruu de Erra](https://swaruu.org/transcripts/manipulacion-temporal-cambia-tu-pasado-viajes-en-el-tiempo-swaruu-de-erra) (2020-01-27; es); passages p0088, p0090, p0091, p0093, p0124. [Structured record](../../records/src-99293df55ffb.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-99293df55ffb-c04
+
+She says travel cannot erase the jumper's identity or experiences or shortcut spiritual growth. Her account.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Manipulación temporal - Cambia tu pasado- Viajes en el Tiempo - Swaruu de Erra](https://swaruu.org/transcripts/manipulacion-temporal-cambia-tu-pasado-viajes-en-el-tiempo-swaruu-de-erra) (2020-01-27; es); passages p0149, p0150, p0153, p0159. [Structured record](../../records/src-99293df55ffb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-99293df55ffb-c05
+
+She allows small combat repositioning but says time travel cannot change wars; conventional maneuvers may suffice. Limits.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Manipulación temporal - Cambia tu pasado- Viajes en el Tiempo - Swaruu de Erra](https://swaruu.org/transcripts/manipulacion-temporal-cambia-tu-pasado-viajes-en-el-tiempo-swaruu-de-erra) (2020-01-27; es); passages p0169, p0171, p0178. [Structured record](../../records/src-99293df55ffb.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-62893f690998-c04
+
+She claims temporal mastery lets her alter perceived time and thereby frequency, density, and dimension without a ship.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [FORMACIÓN DE UNA NUEVA ESPECIE - SOY YAZHÍ SWARUU TASHERIT](https://swaruu.org/transcripts/formacion-de-una-nueva-especie-soy-yazhi-swaruu-tasherit) (2020-06-17; es); passages p0030, p0031, p0056. [Structured record](../../records/src-62893f690998.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-fe16588859c1-c02
+
+She says practiced lucid-dream states let her shift frequency and appear elsewhere without physical travel; she cannot fully ensure return to the same timeline. Self-description.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PRIMERA CONVERSACIÓN CON YAZHÍ SWARUÚ \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-conversacion-con-yazhi-swaruu-sin-video) (2020-07-06; es); passages p0018, p0019, p0020, p0024, p0036, p0039. [Structured record](../../records/src-fe16588859c1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Timeline branching](timeline-branching.md).
+
+### src-b59378b55fc0-c03
+
+Changing the past yields a different future for the traveler, but leaves the departure timeline unchanged.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Viajes en Tiempo: Manipulación Temporal (Cambios del Pasado para Cambiar el Futuro): Swaruu de Erra](https://swaruu.org/transcripts/viajes-en-tiempo-manipulacion-temporal-cambios-del-pasado-para-cambiar-el-futuro-swaruu-de-erra) (2020-01-31; es); passages p0031, p0035, p0043, p0045, p0049. [Structured record](../../records/src-b59378b55fc0.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-b59378b55fc0-c04
+
+She says timeline jumps benefit only the traveler; strategic changes do not affect others, though small tactical combat jumps may work.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Viajes en Tiempo: Manipulación Temporal (Cambios del Pasado para Cambiar el Futuro): Swaruu de Erra](https://swaruu.org/transcripts/viajes-en-tiempo-manipulacion-temporal-cambios-del-pasado-para-cambiar-el-futuro-swaruu-de-erra) (2020-01-31; es); passages p0051, p0059, p0080, p0081. [Structured record](../../records/src-b59378b55fc0.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-9b8c545032b0-c05
+
+A two-month Temmer trip can return a minute later on Earth, but desynchronization may shift timelines.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Viajes en Tiempo, Tiempo y Lineas Temporales - Swaruu (Mensaje Extraterrestre - Pleyades)](https://swaruu.org/transcripts/viajes-en-tiempo-tiempo-y-lineas-temporales-swaruu-mensaje-extraterrestre-pleyades) (2020-01-17; es); passages p0061, p0062, p0063, p0064. [Structured record](../../records/src-9b8c545032b0.json).
+
+Related topics: [Timeline branching](timeline-branching.md), [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-9b690db81851-c01
+
+Frequency-using interstellar ships can time-travel via hyperspace; Anéeka reserves it for trained elite Sand Clock teams.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [VIAJES EN EL ESPACIO TIEMPO - RESPUESTAS A TUS PREGUNTAS - LO QUE NO TE CUENTAN - Anéeka de Temmer](https://swaruu.org/transcripts/viajes-en-el-espacio-tiempo-respuestas-a-tus-preguntas-lo-que-no-te-cuentan-aneeka-de-temmer) (2020-06-29; es); passages p0014, p0015, p0016, p0017. [Structured record](../../records/src-9b690db81851.json).
+
+Related topics: [Sand Clock](sand-clock.md).
+
 ## Claims filed under other topics
 
 - [src-c72b629726c7-c01](stellar-navigation.md#src-c72b629726c7-c01) — Stellar navigation
@@ -416,25 +556,56 @@ Related topics: [Timeline branching](timeline-branching.md), [Taygetans](taygeta
 - [src-bbad8c4053ab-c02](stellar-navigation.md#src-bbad8c4053ab-c02) — Stellar navigation
 - [src-e15992dcfa52-c02](crop-circles.md#src-e15992dcfa52-c02) — Crop circles
 - [src-6a5223076196-c04](stellar-navigation.md#src-6a5223076196-c04) — Stellar navigation
+- [src-079a413a4643-c01](energy-generation.md#src-079a413a4643-c01) — Energy generation technology
+- [src-079a413a4643-c02](timeline-branching.md#src-079a413a4643-c02) — Timeline branching
+- [src-d85be62c2f1e-c01](timeline-branching.md#src-d85be62c2f1e-c01) — Timeline branching
+- [src-c1491dcb9c07-c02](timeline-branching.md#src-c1491dcb9c07-c02) — Timeline branching
+- [src-99293df55ffb-c03](sand-clock.md#src-99293df55ffb-c03) — Sand Clock
+- [src-fe16588859c1-c04](crop-circles.md#src-fe16588859c1-c04) — Crop circles
+- [src-b59378b55fc0-c01](stellar-navigation.md#src-b59378b55fc0-c01) — Stellar navigation
+- [src-74d9087d50f8-c04](timeline-branching.md#src-74d9087d50f8-c04) — Timeline branching
+- [src-3fe6ca238068-c02](frequency-map-navigation.md#src-3fe6ca238068-c02) — Frequency-map navigation
+- [src-3fe6ca238068-c03](timeline-branching.md#src-3fe6ca238068-c03) — Timeline branching
+- [src-2c51b741eabb-c05](stellar-navigation.md#src-2c51b741eabb-c05) — Stellar navigation
 
 ## Review flags
 
+- English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
+- English source src-dd0d7340a655 closely translates the complete Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
+- black-hole-ether-model
 - conspiracy\_claims
+- dated-non-deterministic-prediction
 - extraordinary-ability-claims
+- flight-19-explanation-uncertain
+- integration-vs-personal-identity
 - internal-date-tension
 - long conversation contains disputed health claims not included in core extraction
+- memory-rewriting-is-personal-only
+- mental-health-claims-excluded
 - mirror-identity-varies
+- personal-ability-claims-attributed
 - personal\_metaphysics
+- portal-time-travel-risk
+- psychological memory-rewriting discussion could be confused with clinical guidance
 - same-language-near-duplicate-src-6a5223076196
+- self-described-species-transition
 - speaker-shift-in-source
 - speaker\_attribution
+- temporal-branching-does-not-alter-observers' timelines
+- temporal-duplicate-theory
 - temporal-lore-attributed
+- timeline-as-mind-model
+- timeline-model-varies-from-linear-view
 - title-metadata-diff
+- translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448
+- translation-counterpart:src-ce6ea4ce1c3c-close
+- translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
 - unproven-historical-speculation
 - unverified\_extraterrestrial\_claims
 - unverified\_historical\_claims
 - unverified\_paranormal\_claims
 - unverified\_physics\_claims
 - unverified\_temporal\_claims
+- yemen-portal-claim

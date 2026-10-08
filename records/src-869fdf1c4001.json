@@ -1,0 +1,50 @@
+{
+  "source_id": "src-869fdf1c4001",
+  "snapshot_sha256": "2b21c8411dcbac15fc0eacc0a4da3921c6da44a1407d5cebc0b3e504ced0374e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-869fdf1c4001-c01",
+      "assertion": "Yazhi says Vlash reptilian factions sit atop Earth’s Cabal but below the Federation; some use hybrids and clandestine operatives in Ukraine and cooperate with NATO factions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "vlash-vlad-vrill-clans",
+      "topics": [
+        "vlash-vlad-vrill-clans",
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of a fictional nonhuman conflict."
+    },
+    {
+      "id": "src-869fdf1c4001-c02",
+      "assertion": "She describes the conflict as layered, from gas infrastructure and politics to hidden nonhuman territorial clashes; Cabal factions may fight each other and have mixed agendas.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "vlash-vlad-vrill-clans",
+      "topics": [
+        "vlash-vlad-vrill-clans",
+        "engineered-social-unrest"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "current-war-conspiracy-claims-attributed",
+    "biden-and-putin-allegations-omitted"
+  ],
+  "coverage_gaps": [
+    "faction-leadership-structure",
+    "nonhuman-tactical-details"
+  ]
+}

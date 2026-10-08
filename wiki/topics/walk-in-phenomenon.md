@@ -68,18 +68,34 @@ Source: [Walk-Ins, Second Part, the Same Soul Re-Entering, but a Lot More Evolve
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-53756b5035b9-c03
+
+Yazhi says walk-ins assume a departing person’s healthy body, memories, family and life.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Implantes de Memorias - Manejo de la Matrix 3D - Información Extraterrestre (Taygeta - Pleyades)](https://swaruu.org/transcripts/implantes-de-memorias-manejo-de-la-matrix-3d-informacion-extraterrestre-taygeta-pleyades) (2020-07-17; es); passages p0051, p0052. [Structured record](../../records/src-53756b5035b9.json).
+
+Related topics: [Memory implantation](memory-implantation.md).
+
 ## Claims filed under other topics
 
 - [src-4af520912230-c05](lyrian-cellular-body.md#src-4af520912230-c05) — Lyrian cellular-body model
 - [src-69ad8dca8c41-c03](total-immersion-simulations.md#src-69ad8dca8c41-c03) — Total-immersion simulations
 - [src-80367dc03fbe-c03](matrix-generated-persons.md#src-80367dc03fbe-c03) — Matrix-generated persons
 - [src-39f1f606d12b-c05](human-clones.md#src-39f1f606d12b-c05) — Human clones and manufactured persons
+- [src-aa6e0d670c42-c04](earth-cabal.md#src-aa6e0d670c42-c04) — Earth Cabal and power structures
+- [src-54359f164bb6-c03](consciousness-metaphysics.md#src-54359f164bb6-c03) — Consciousness and metaphysics
 
 ## Review flags
 
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- claims about fabricated histories and public events are attributed lore, not independently substantiated
+- factional-claims-attributed
 - federation-authority-critique
+- higher-and-human-conflict-levels-distinguished
 - matrix-scope-differing-views
 - status-unverifiable
 - translated-originally-Spanish
+- translation-counterpart:none-identified
 - treat-all-persons-equally

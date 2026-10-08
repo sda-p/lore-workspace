@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:23:54+00:00",
+  "checkpointed_at": "2026-10-08T17:37:08+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-015",
@@ -29,9 +29,80 @@
       "src-25df1865ec2d",
       "src-d2225df469c1",
       "src-6e854bde7448",
-      "src-8ed812c6e261"
+      "src-8ed812c6e261",
+      "src-f3ee24d30a02",
+      "src-7ee742c5e8d8",
+      "src-ba1c5a843ad1",
+      "src-9524a72ff653",
+      "src-a16662523ccb",
+      "src-e3c4c3592419",
+      "src-3902c9520a94",
+      "src-ca31fe5ca6c3",
+      "src-b85ee8ec9a41",
+      "src-a11e19988b9a",
+      "src-e7f3b531d57a",
+      "src-26233e98795b",
+      "src-1e6c72c7fff5",
+      "src-3c4f875317e3",
+      "src-f7b14ae4e62f",
+      "src-ef805e314080",
+      "src-2431d292ceb2",
+      "src-417359a5f6a0",
+      "src-f469530b91ab",
+      "src-bc16c7eb40d8",
+      "src-2f14c95980f4",
+      "src-9ac9cc0d3fef",
+      "src-748a1e239668",
+      "src-56668c63592b",
+      "src-4077e2cdca7d",
+      "src-f692b0750026",
+      "src-c190fb308eb0"
     ],
-    "corrections": [],
+    "corrections": [
+      {
+        "source_id": "src-f3ee24d30a02",
+        "claim_id": "src-f3ee24d30a02-c04",
+        "problem": "The source alternately attributes Gospel compilation to Constantine and Josephus’s scribes under Vespasian.",
+        "action": "Added internal_tension review flag; retained both passages with attribution.",
+        "paragraph_ids": [
+          "p0089",
+          "p0101",
+          "p0103"
+        ]
+      },
+      {
+        "source_id": "src-9524a72ff653",
+        "claim_id": "src-9524a72ff653-c02",
+        "problem": "The claim combined intended original sites (Giza and Alt-Ur) with later reported locations (a U.S. DUMB and Vostok), obscuring that the article states both at different points.",
+        "action": "Rephrased to distinguish intended from later locations and added the Giza/Alt-Ur passage citation.",
+        "paragraph_ids": [
+          "p0010",
+          "p0022"
+        ]
+      },
+      {
+        "source_id": "src-9ac9cc0d3fef",
+        "claim_id": "src-9ac9cc0d3fef-c01",
+        "problem": "Cited p0006 assigns the no-further-intervention/invasiveness limit to Taygeta, while the claim assigned it to the Federation.",
+        "action": "Separated Taygeta’s constraint from Anéeka’s Federation-control and insufficient-response claims; narrowed citations and revalidated.",
+        "paragraph_ids": [
+          "p0006",
+          "p0010",
+          "p0017",
+          "p0019"
+        ]
+      },
+      {
+        "source_id": "src-748a1e239668",
+        "claim_id": "src-748a1e239668-c01",
+        "problem": "The host-reproduction detail was supported by an elliptical answer (“like in the film, yes”) but the citation omitted the interviewer’s immediately preceding question specifying host reproduction.",
+        "action": "Added the question paragraph p0023 next to the answer p0024; validated the complete record.",
+        "paragraph_ids": [
+          "p0023",
+          "p0024"
+        ]
+      }
+    ],
     "unresolved": []
   },
   "record_sha256": {
@@ -58,6 +129,33 @@
     "src-25df1865ec2d": "656634be8aa8005db69e7969f48bac1716c7489e8f222a23f689e0068458332e",
     "src-d2225df469c1": "68a3008aaeee176883511f3c7c61e455e8872d04909d8a38804c1616f190207a",
     "src-6e854bde7448": "819d57408d7977f0038f57145c4aaa71e451b3ade6b1256455b06447a2ced704",
-    "src-8ed812c6e261": "ba7dd903eae35dbf169c952a90e3bbf138692b667b8a49f5a0112a8a21e1b35e"
+    "src-8ed812c6e261": "ba7dd903eae35dbf169c952a90e3bbf138692b667b8a49f5a0112a8a21e1b35e",
+    "src-f3ee24d30a02": "915ac1fa134ad59dd6924e047ca77adeba31cade36b158be064e96efa5fc9012",
+    "src-7ee742c5e8d8": "61a5b012f7ffc39d104cddb6d46fece97955ccb4eb84ff11b003e291d7368fbf",
+    "src-ba1c5a843ad1": "6424588f2743d6a270897bf42fb501976bdac26115383477601e39f665bfa4a5",
+    "src-9524a72ff653": "f68fe6f13f97cb57efc8eda0e327b4603c9bceab36d5415a26c81e67c0916af3",
+    "src-a16662523ccb": "157be4f03a933ae227f31592451bada161243ccfc4064bd29050fd4b0ac3b23d",
+    "src-e3c4c3592419": "61ff0faa5f08bdc79b513186666b5b974e5d62e167d6b2e77a856ab78ff8c0ac",
+    "src-3902c9520a94": "dfd4793cabe3c6f4722fe63fc0e5a3d745175f38ad6bd190cde28ad6e89c9f77",
+    "src-ca31fe5ca6c3": "9a80a491c94c83e03bc9a835632790b4b6b7bb6510c937f88f0c0c02987ba94a",
+    "src-b85ee8ec9a41": "d7de3a7903222d2b6d8488601ccd908589b0eb64556fb6ea36b2d780d36a2154",
+    "src-a11e19988b9a": "d1deb40d245ef9560252cd1a100555ff61edbfd89981580c1b2074beeb094204",
+    "src-e7f3b531d57a": "b66ea4b4a43b288865dde80314173865f66e1046f9476b53444f617718a2e638",
+    "src-26233e98795b": "06ef1a6151305d9b49055fbf2c196d15ca965f2866b9f77c13e42f77ff68cad2",
+    "src-1e6c72c7fff5": "3765280008456c64d9aa075231adc6270ea45f3a7143416d1a04a0dbfba46c2a",
+    "src-3c4f875317e3": "17ebb63ae5fb144509a7396d6ce377871e917dfcdb3c833dc96f7e52b6b948d6",
+    "src-f7b14ae4e62f": "547770a9f3fb3e0ccdc21e83a79f7ff97e4146aa2576381ee36e53a5b7a7eaa5",
+    "src-ef805e314080": "8cb47eec6cb6c9da431bfa684a19e50eb6d0a4ad31d12bdaccb77d4a372de05e",
+    "src-2431d292ceb2": "1ed70a53b8928f7c2dbe5e121453f871a70594a929de75a854f1cf7818036e21",
+    "src-417359a5f6a0": "e7bf3643f57640d538de0368c932f53ba7eb7139c71f3f6a28c3a77203cd73ee",
+    "src-f469530b91ab": "e723885e3451773ac0d5b5d798d357da8850e2f0470e6dcdd24b2559838646cf",
+    "src-bc16c7eb40d8": "88b5090d92113eea883b306e558c0217ab6da3cee4ae0c6112fe74c634452349",
+    "src-2f14c95980f4": "71b4c8890b4ee3e9e873886144dbae81d0a0e184829cba097a732d3cd3aeb4c0",
+    "src-9ac9cc0d3fef": "07c3d1bf8006018a348c9cf844cb16dfb811da26fd8a5952668030ad874e4856",
+    "src-748a1e239668": "343b95388ade484c6a231f27529edd898bd3a1a710033244284faa52b7fb5f4c",
+    "src-56668c63592b": "3211e40e995d3e64685dd8c42174a961aa7dc5d7b5cbf1a47dfcb64f5d87fc61",
+    "src-4077e2cdca7d": "dcbbfb4ebaf45102e03f7192f8230cfce969caced715819fe46240088a831044",
+    "src-f692b0750026": "60fd8cb2c07cff2deff9d00ba0758cd574ab9c68ed1ca11d90f46000c201535e",
+    "src-c190fb308eb0": "199d9d7391cf24c5af9b5afc3e4a9d4749cb534aa07a3f43e534e61e701de462"
   }
 }

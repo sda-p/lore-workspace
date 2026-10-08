@@ -1,0 +1,75 @@
+{
+  "source_id": "src-b537b1865940",
+  "snapshot_sha256": "d06557086f4cb2d6638bbc39514a5cd33a7a60483d043c2f858a40e9d725cb8a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b537b1865940-c01",
+      "assertion": "Athena says incarnated partners need not be the same versions across lives; compatibility can join different fragments of a shared higher consciousness.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0019",
+        "p0021",
+        "p0037"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    },
+    {
+      "id": "src-b537b1865940-c02",
+      "assertion": "She says past-life memories may differ between partners, and some apparent memories can map shared future experiences rather than past ones.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0044",
+        "p0045",
+        "p0049",
+        "p0054",
+        "p0056"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says broad memory differences are uncommon."
+    },
+    {
+      "id": "src-b537b1865940-c03",
+      "assertion": "Athena attributes perceived repeating-life loops to attachments; releasing them dissolves loops and lets people form their future.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0059",
+        "p0061",
+        "p0062",
+        "p0064",
+        "p0066",
+        "p0067"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account links loops to forgotten past-life causes."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "soulmate-selection-mechanics",
+    "memory-retention-conditions"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "source_id": "src-184650651a69",
+  "snapshot_sha256": "83fb227aef3d05c6890f3f6eb76099dfbe327237519031f90867849ef5e7414e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-184650651a69-c01",
+      "assertion": "Anéeka says DNA reflects thought and perception; self-directed consciousness expansion changes it without external assistance, while guidance supports awakening.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0002", "p0003"],
+      "primary_topic": "dna-metaphysics",
+      "topics": ["dna-metaphysics", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["matrix-collapse-scenario", "awakening-guidance"]
+}

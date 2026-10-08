@@ -1,0 +1,47 @@
+{
+  "source_id": "src-1b04c8518bf7",
+  "snapshot_sha256": "6b307e4ce52793e968b05ad4cfedddd8cc76faf9babc50f99129b4e0efb5aecc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1b04c8518bf7-c01",
+      "assertion": "Anéeka says conscious, technologically assisted starseed entry has no regulating body; prospective entrants bear responsibility, and immersion applicants may consult elders.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "total-immersion-simulations"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes this planned process from other incarnations."
+    },
+    {
+      "id": "src-1b04c8518bf7-c02",
+      "assertion": "Anéeka says ordinary terrestrial incarnation follows compatibility with Earth’s existential frequency, arising from choices in a prior life.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "personal-medical-and-abduction-narrative-excluded"
+  ]
+}

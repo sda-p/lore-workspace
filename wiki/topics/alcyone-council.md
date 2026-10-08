@@ -374,6 +374,26 @@ Source: [BLAST FROM THE PAST - "You are in a Taygetan Immersion" - Does Cosmic I
 
 Related topics: [Taygetans](taygetans.md), [Perceptual density](perceptual-density.md).
 
+### src-01d7bdad2249-c01
+
+Anéeka says Alcyone backed the ship to observe Federation activity.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Contacto Extrateterrestre: Anéeka de Temmer - Mezcla de Conversaciones (Taygeta - Pleyades)](https://swaruu.org/transcripts/contacto-extrateterrestre-aneeka-de-temmer-mezcla-de-conversaciones-taygeta-pleyades) (2020-06-26; es); passages p0004. [Structured record](../../records/src-01d7bdad2249.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-05d9972a1c9b-c02
+
+Alenym says the Alcyone Council is a subordinate Federation member that prioritizes M45 civilizations; in May 2020 it backed her and requested ship data. Her account.
+
+Attributed to **Alenym**; asserted; extraction confidence: high.
+
+Source: [Exponiendo a la Federación Galáctica - Raza Taygeteana de las Pleyades](https://swaruu.org/transcripts/exponiendo-a-la-federacion-galactica-raza-taygeteana-de-las-pleyades) (2020-05-31; es); passages p0031, p0032. [Structured record](../../records/src-05d9972a1c9b.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c08](galactic-federation.md#src-a5811312e55c-c08) — Galactic Federation
@@ -391,6 +411,7 @@ Related topics: [Taygetans](taygetans.md), [Perceptual density](perceptual-densi
 - [src-234bba72765f-c01](orion-council.md#src-234bba72765f-c01) — Orion Council
 - [src-234bba72765f-c03](starship-systems.md#src-234bba72765f-c03) — Starship systems
 - [src-17057e78d90e-c03](atlantes.md#src-17057e78d90e-c03) — Atlantes
+- [src-33c7243bf8a8-c03](galactic-federation.md#src-33c7243bf8a8-c03) — Galactic Federation
 
 ## Review flags
 
@@ -415,9 +436,14 @@ Related topics: [Taygetans](taygetans.md), [Perceptual density](perceptual-densi
 - diet\_claim\_omitted
 - eclipse-portal-claims-unverified
 - factional\_viewpoint\_conflict
+- federation-control-allegations-versus-collective-consent-model
+- federation-purpose-disputed
+- federation-role-variation
 - federation\_dispute
 - genetic-weapon-causation-speculative
 - historical\_and\_nuclear\_claims\_unverified
+- intra-source-policy-tension
+- liberation-framing-disputed
 - mythic-identifications-attributed-to-mari
 - political-narrative\_attributed
 - reported\_plan

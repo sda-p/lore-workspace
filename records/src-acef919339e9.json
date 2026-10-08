@@ -1,0 +1,89 @@
+{
+  "source_id": "src-acef919339e9",
+  "snapshot_sha256": "8ea3800ac382e628be4c3872dc9924797ab0e334fba8ff6fc9e7aaedcc166390",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-acef919339e9-c01",
+      "assertion": "Anéeka describes Federation governance as tiered by region and density; no single Earth representative can monopolize perspectives, and starseeds may represent it.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-acef919339e9-c02",
+      "assertion": "She says holographic societies educate citizens to represent their culture and prepare them to assume leadership or council roles.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0025"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-acef919339e9-c03",
+      "assertion": "Councils resolve local issues and escalate those they cannot; information flows freely and decisions seek reasoned agreement rather than majority votes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0030"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-acef919339e9-c04",
+      "assertion": "She says counselors coordinate councils, while specialists join when needed; membership depends on relevant capabilities and resources.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "holographic-governance-description-attributed"
+  ],
+  "coverage_gaps": [
+    "no-paperwork-and-resource-model",
+    "federation-contact-procedures"
+  ]
+}

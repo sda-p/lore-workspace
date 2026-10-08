@@ -1,0 +1,96 @@
+{
+  "source_id": "src-7e3952095f4b",
+  "snapshot_sha256": "df7a4169585038a73abb53af0ae69b8aa5bbd715c5b61147df4922dd0c56cbbc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7e3952095f4b-c01",
+      "assertion": "Yazhi says collective fear manifests tulpas that can become physical, conscious, and feed on fear.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e3952095f4b-c02",
+      "assertion": "She distinguishes fear-created Reptilian tulpas parasitizing politicians from tangible Kingu; positive Kingu variants exist.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "reptilians",
+        "tulpas"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e3952095f4b-c03",
+      "assertion": "She says parasitic tulpas use human bodies as portals across densities, influencing Federation members who may be unaware.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "galactic-federation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e3952095f4b-c04",
+      "assertion": "She says physical beings are idea-materializations; collectively, people can manifest alternatives by withdrawing attention and fear.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-entity-origin-claims",
+    "federation-infiltration-allegations"
+  ],
+  "coverage_gaps": [
+    "fear-as-lush-mechanism",
+    "manufactured-fear-limit",
+    "cross-density-saturn-effect"
+  ]
+}

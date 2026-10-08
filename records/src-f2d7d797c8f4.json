@@ -1,0 +1,109 @@
+{
+  "source_id": "src-f2d7d797c8f4",
+  "snapshot_sha256": "c3d036d78247ef196929dc732aedae841d9391ff1eb4fb9ebcc9b499793dd888",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f2d7d797c8f4-c01",
+      "assertion": "Yazhi casts Vatican and Rome as visible control centers, with London and Washington directing economic and military power.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2d7d797c8f4-c02",
+      "assertion": "She describes a compartmentalized Jesuit-Illuminati hierarchy: middle tiers trade gold; top tiers dispense with money.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2d7d797c8f4-c03",
+      "assertion": "She alleges Cabal-Reptilian agreements exploit humans for food and energy.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "reptilian-invaders",
+      "topics": [
+        "reptilian-invaders",
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as her account of hidden agreements."
+    },
+    {
+      "id": "src-f2d7d797c8f4-c04",
+      "assertion": "She describes Federation oversight as constrained by human free will, yet also calls it a permissive controller.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0033",
+        "p0037"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2d7d797c8f4-c05",
+      "assertion": "She says collective beliefs form Earth’s Matrix and may manifest egregors, tulpas, and related entities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "egregors",
+        "tulpas",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy-allegations",
+    "federation-role-contradiction"
+  ],
+  "coverage_gaps": [
+    "satanic-belief-system",
+    "collective-mind-control-mechanism",
+    "secret-society-structure"
+  ]
+}

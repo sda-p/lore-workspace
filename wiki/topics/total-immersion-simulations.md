@@ -132,6 +132,8 @@ Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https
 - [src-f4085f32044d-c04](taygetans.md#src-f4085f32044d-c04) — Taygetans
 - [src-69ad8dca8c41-c05](taygetans.md#src-69ad8dca8c41-c05) — Taygetans
 - [src-a49c04fc44dc-c01](genetic-weapons.md#src-a49c04fc44dc-c01) — Genetic weapons
+- [src-9b3780bf7fb6-c02](memory-implants.md#src-9b3780bf7fb6-c02) — Memory implants
+- [src-1b04c8518bf7-c01](starseeds.md#src-1b04c8518bf7-c01) — Starseeds
 
 ## Review flags
 
@@ -141,5 +143,6 @@ Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https
 - claims-attributed-to-source-narrators
 - clone-technology-attributed
 - genetic-weapon-causation-speculative
+- machine-versus-etheric-implant-mechanisms
 - technology-described-by-mari
 - technology-description-unverified

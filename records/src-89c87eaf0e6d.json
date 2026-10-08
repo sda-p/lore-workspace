@@ -1,0 +1,43 @@
+{
+  "source_id": "src-89c87eaf0e6d",
+  "snapshot_sha256": "149c2185d20619ebf9b3e1aece4b4b4424619991a60e8dd61dab543f80fbe9a9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-89c87eaf0e6d-c01",
+      "assertion": "Nai’Shara, quoting Yazhi, says beings are scalar and religious seekers pursue Source integration, love, acceptance and peace; each truth is perspective-bound.",
+      "speaker": "Nai’Shara (quoting Yazhi)",
+      "paragraph_ids": ["p0002", "p0003", "p0004"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "original-matrix"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89c87eaf0e6d-c02",
+      "assertion": "Yazhi says logic alone cannot achieve integration without emotion and love; she attributes this impasse to Andromedan and Arcturian overreliance on logic.",
+      "speaker": "Nai’Shara (quoting Yazhi)",
+      "paragraph_ids": ["p0007", "p0008", "p0009", "p0010", "p0013"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "andromedans", "alien-species"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89c87eaf0e6d-c03",
+      "assertion": "She says Andromedans make poor human mentors, favoring Taygetans, Engans or Solatians as better adapted guides.",
+      "speaker": "Nai’Shara (quoting Yazhi)",
+      "paragraph_ids": ["p0010", "p0012"],
+      "primary_topic": "alien-species",
+      "topics": ["alien-species", "taygetans", "andromedans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["quoted-speaker-attribution:NaiShara-quotes-Yazhi"],
+  "coverage_gaps": ["emotional-suppression", "decision-making-example", "spiritual-practice"]
+}

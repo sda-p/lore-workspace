@@ -1,0 +1,113 @@
+{
+  "source_id": "src-2f14c95980f4",
+  "snapshot_sha256": "e18922efd62ce85ad72e20958e37a94c181d902c7d145fc08cddac0b278521de",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2f14c95980f4-c01",
+      "assertion": "Yazhi describes astral travel as deep meditation and repeated mental walking, with vivid imagery developing through practice.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f14c95980f4-c02",
+      "assertion": "She says forgetting is not machine erasure: subtle memories in an etheric field may not match the material brain’s frequencies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "ether-field",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f14c95980f4-c03",
+      "assertion": "Athena says the memory veil defines individual identity and persists across densities and after death until Source integration.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0028",
+        "p0031",
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f14c95980f4-c04",
+      "assertion": "Yazhi says collective unconscious affects astral perception, but Earth imposes its own form; she distrusts flat-Earth accounts.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She suggests some reports serve personal or group agendas."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "astral-travel",
+      "name": "Astral Travel",
+      "kind": "practice and phenomenon",
+      "aliases": [
+        "astral projection",
+        "viaje astral"
+      ]
+    },
+    {
+      "id": "memory-veil",
+      "name": "Memory Veil",
+      "kind": "cosmology",
+      "aliases": [
+        "veil of forgetting",
+        "velo del olvido"
+      ]
+    }
+  ],
+  "review_flags": [
+    "nonphysical-memory-mechanism-claims",
+    "astral-perception-agenda-claim"
+  ],
+  "coverage_gaps": [
+    "postmortem-memory-expansion",
+    "individual-practice-variation",
+    "shield-pressurization-claim"
+  ]
+}

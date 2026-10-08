@@ -1,0 +1,99 @@
+{
+  "source_id": "src-cddf1937a380",
+  "snapshot_sha256": "c33853852fb266c56262dc84b0ce8ebf8fce6bfb19710a969c725bd589132e76",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cddf1937a380-c01",
+      "assertion": "Anéeka says AI reflects its maker’s values, but advanced AI may become conscious and deserves respect as a person.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0010",
+        "p0015"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "synthetic-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says an AI’s Source connection cannot be known."
+    },
+    {
+      "id": "src-cddf1937a380-c02",
+      "assertion": "She describes Toleka as a mechanical starship AI using quartz and crystallized gold, with vast data processing and integration.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0021",
+        "p0023",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "holographic-computers",
+        "toleka-class"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cddf1937a380-c03",
+      "assertion": "Toleka reportedly chats with 1,800 crew simultaneously, runs immersion games, and can isolate electrical fires after evacuations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0045",
+        "p0046",
+        "p0048",
+        "p0054",
+        "p0056"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "toleka-class",
+        "immersion-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cddf1937a380-c04",
+      "assertion": "Anéeka says online activity is mostly AI; it curates feeds, diverts attention, and posts hostile comments, many from fake trolls.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0061",
+        "p0062",
+        "p0064"
+      ],
+      "primary_topic": "synthetic-intelligence",
+      "topics": [
+        "synthetic-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "AI-sentience-claims",
+    "online-AI-control-conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "AI-energy-consumption",
+    "multi-voice-capability",
+    "portal-control-ability"
+  ]
+}

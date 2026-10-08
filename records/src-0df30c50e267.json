@@ -1,0 +1,126 @@
+{
+  "source_id": "src-0df30c50e267",
+  "snapshot_sha256": "b3bf7113e7cf2f7fe020fb7846a4cb1483aed04c05cb0ee4268a72d6d833759c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0df30c50e267-c01",
+      "assertion": "Swaruu says holographic quantum computers match desired material outputs to equivalent etheric frequency patterns.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0014"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "ether-field"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0df30c50e267-c02",
+      "assertion": "She says Taygetan base-12 math gives ten and eleven distinct single-digit symbols for energy calculations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "taygetan-base-12-mathematics",
+      "topics": [
+        "taygetan-base-12-mathematics",
+        "taygetans",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0df30c50e267-c03",
+      "assertion": "She says brains are scalar quantum computers whose alternate timeline and density selves influence one another, incompletely.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023",
+        "p0025",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0df30c50e267-c04",
+      "assertion": "She says inspiration draws on other selves because all minds share the Source.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0034",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0df30c50e267-c05",
+      "assertion": "She says focused thought can manifest possibilities, but the all-encompassing ether cannot be defined.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0050",
+        "p0056",
+        "p0059",
+        "p0063",
+        "p0067"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-base-12-mathematics",
+      "name": "Taygetan Base-12 Mathematics",
+      "kind": "mathematics",
+      "aliases": [
+        "base 12",
+        "Taygetan mathematics"
+      ]
+    }
+  ],
+  "review_flags": [
+    "quantum-mechanics-reinterpretation",
+    "ether-field-model"
+  ],
+  "coverage_gaps": [
+    "harmonic-number-groups",
+    "alternate-reality-influence-limit",
+    "manifestation-examples"
+  ]
+}

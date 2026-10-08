@@ -1,0 +1,84 @@
+{
+  "source_id": "src-b0eb8093b751",
+  "snapshot_sha256": "9047de4915a87f2e5e064366e55bf8df0a904971a5c2d1b0988cfc21c687640f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b0eb8093b751-c01",
+      "assertion": "Athena says nebulae gather gas and particles around gravitational balance nodes between Pleiades stars; their colors reflect composition, and some gases emit light.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-b0eb8093b751-c02",
+      "assertion": "She models precession as a system-wide gravity-energy interaction, with Sirius prominent but not sole; cycle lengths depend on collective time perception.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-b0eb8093b751-c03",
+      "assertion": "Athena places Giza and Atlantis before Tiamat’s destruction, followed by flooding and Moon placement to stabilize Earth; she calls the Van Allen belt a byproduct, not a prison.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0033",
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0040",
+        "p0041",
+        "p0042",
+        "p0043",
+        "p0044",
+        "p0045",
+        "p0047"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "moon-biosphere-ship",
+        "van-allen-belts"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her alternative chronology; she explicitly rejects the prison-purpose claim."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "alternative-cosmology-and-chronology-claims"
+  ],
+  "coverage_gaps": [
+    "nebula-image-fabrication-claim",
+    "pre-tiamat-year-length"
+  ]
+}

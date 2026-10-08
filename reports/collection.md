@@ -1,17 +1,17 @@
 # Continuous collection progress
 
-Updated: 2026-10-08T17:23:06+00:00
+Updated: 2026-10-08T17:36:34+00:00
 
 - Inventoried URLs: 2207
-- Independently reviewed source records: 1070
-- Source-specific claims: 5400
-- Original source words in reviewed records: 2,653,012
+- Independently reviewed source records: 1230
+- Source-specific claims: 6004
+- Original source words in reviewed records: 3,058,254
 - Original source words prepared for processing: 5,274,594
-- Reviewed record languages: {'en': 908, 'es': 162}
-- Released records awaiting completed independent review/integration: 175
+- Reviewed record languages: {'en': 908, 'es': 322}
+- Released records awaiting completed independent review/integration: 131
 - Exact duplicate URLs skipped: 0
 - Unassigned URLs: 0
-- Assigned records still needing work: 1137
+- Assigned records still needing work: 977
 
 Source-record counts include retained language/revision variants and are not counts of independent corroborating accounts. Each record is a compact core extraction, not exhaustive coverage. English-first selection uses title heuristics plus coordinator review of ambiguous titles. Later cohorts process Spanish and remaining records; extracts are written in English, with original source language retained.
 
@@ -29,10 +29,10 @@ Source-record counts include retained language/revision variants and are not cou
 | continuous-011 | 20 | 20 | 20 | reviewed | 7 |
 | continuous-012 | 30 | 30 | 30 | reviewed | 5 |
 | continuous-013 | 160 | 160 | 160 | reviewed | 24 |
-| continuous-014 | 160 | 121 | 0 | running | 0 |
-| continuous-015 | 160 | 47 | 0 | running | 0 |
-| continuous-016 | 160 | 7 | 0 | running | 0 |
-| continuous-017 | 160 | 0 | 0 | running | 0 |
+| continuous-014 | 160 | 160 | 160 | reviewed | 12 |
+| continuous-015 | 160 | 91 | 0 | running | 0 |
+| continuous-016 | 160 | 39 | 0 | running | 0 |
+| continuous-017 | 160 | 1 | 0 | running | 0 |
 | continuous-018 | 160 | 0 | 0 | running | 0 |
 | continuous-019 | 160 | 0 | 0 | running | 0 |
 | continuous-020 | 160 | 0 | 0 | running | 0 |

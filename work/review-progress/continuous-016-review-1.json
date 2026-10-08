@@ -1,17 +1,41 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:23:54+00:00",
+  "checkpointed_at": "2026-10-08T17:37:08+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-016",
     "reviewer": 1,
     "reviewed_source_ids": [
+      "src-0dcb4b37d8c4",
       "src-113e831d374d",
+      "src-15e3ff87a1f4",
       "src-1eb9dc311794",
+      "src-23345f09145a",
+      "src-2496c5717d1f",
+      "src-29eb9565748a",
+      "src-2a993dac1a51",
+      "src-52c31730f7eb",
+      "src-56f6493ab6a3",
       "src-64966405e66f",
+      "src-660558e7aa14",
+      "src-72f8c6904500",
+      "src-83d0afc07ef6",
       "src-99ccae21b4fb",
+      "src-9d6224eacf32",
+      "src-b0eb8093b751",
       "src-b1091aecbbaa",
+      "src-b524630b8007",
+      "src-b537b1865940",
+      "src-b6d92d26782e",
+      "src-b6f425d6f3ea",
+      "src-bc6ca9130ba5",
+      "src-bdd4b433825f",
+      "src-d26552c9fbda",
       "src-e0aac48a5c49",
+      "src-e0c2e2fb61b4",
+      "src-ea07e710cf87",
+      "src-ec6c591d861f",
+      "src-f4178a54647e",
       "src-fd0bbccdb853"
     ],
     "corrections": [
@@ -26,17 +50,52 @@
           "p0112",
           "p0114"
         ]
+      },
+      {
+        "source_id": "src-b6d92d26782e",
+        "claim_id": "src-b6d92d26782e-c01",
+        "problem": "Claim said rest restores subtler perception; cited passages only directly say coffee suppresses it and food, exercise, and rest bring more energy.",
+        "action": "Narrowed the outcome to the source’s explicit energy statement.",
+        "paragraph_ids": [
+          "p0073",
+          "p0075",
+          "p0077"
+        ]
       }
     ],
     "unresolved": []
   },
   "record_sha256": {
+    "src-0dcb4b37d8c4": "a5d0ad534e15c4fcc2f4bed3460c817baa2ebea8c6d38a641335d33e6b61c04d",
     "src-113e831d374d": "fef150399b50b7b95729c4fa1c7542956d1796fe7dc09907f5411cd43c3501dc",
+    "src-15e3ff87a1f4": "49abcb8db11b22410b4ea1821aac9a09112980ef79e9219ea9cc850015a054cd",
     "src-1eb9dc311794": "c48124cc800ea49e9f3724cf58a64746413c47f9a571f34a6534da88fa0c249f",
+    "src-23345f09145a": "6e843c7aab0fdff868669add08287ee33be8b6a85022eba4299ff461500330f2",
+    "src-2496c5717d1f": "a009ceb7c4feb31f592329da646f7123c44f5a47b0f2857a74c6912290eec1de",
+    "src-29eb9565748a": "c3b6716247f338c7535563b7492fde35bd8ca798cc78805c8622abfede5b1b8c",
+    "src-2a993dac1a51": "6afe79c67cc628c471ac6baeda566a7ce6dd30e2ea4a34e709a0d51c8a868848",
+    "src-52c31730f7eb": "cdd7b7a7513edab3313238ed46be20563791b0d77d10da7bb094cd811d008807",
+    "src-56f6493ab6a3": "87fdafd7a6912aee43493efd1f3d098a81120cb2a594e97507ae996b661acff1",
     "src-64966405e66f": "9c4f1c947de62259822337b8acf7797e2bc43ad73aec82aafef20f7fcd7329a2",
+    "src-660558e7aa14": "47ff82d7ba8d61df89ddced91eed832fd2ee214a69514bed97b1f2d7f47f9c27",
+    "src-72f8c6904500": "21b05420ac9e43a18957fcff1c60d9b5739c2529ebac10e76873e6296c7170f5",
+    "src-83d0afc07ef6": "bd48adb26236232623c173e151015e3a861e939e732db66123a584fcc224d7c2",
     "src-99ccae21b4fb": "57c056efa871a11b9a340c4fbc5d1f0225ad2806dcb4f61f8a6d0e9699ab10f3",
+    "src-9d6224eacf32": "38c80133b09376fb74dfc7b17acb7953817dd4b91014588a77ec6e4979da653b",
+    "src-b0eb8093b751": "7d1a78c6c20947146aacf993e18f91b3631d84691c7b2518dab593cf4588b220",
     "src-b1091aecbbaa": "991b6d047ed1fe5fb217c74a2095bc39847d49ad0b9229d1eda801b717194ee0",
+    "src-b524630b8007": "ba2cc24df3919ff7d1c8d9f10309145e762f4e378f31b81a4f9f088a40c69dfe",
+    "src-b537b1865940": "2f945f96c5f3cafd38ec661a873986ace7710b617a2c034407979d8fabc829e5",
+    "src-b6d92d26782e": "6044a3f91a21a6667a35f44b2c4483ea69a0b927061f65ce72097f7d2aa7494c",
+    "src-b6f425d6f3ea": "f71c8dde85b513b8c8731f5baf5fe18f5c893d792f52eee340192fa872060b30",
+    "src-bc6ca9130ba5": "a3e39d8637bc7182edaf692d7c1a168f8c12121eb27d0276ff130048cc62bd23",
+    "src-bdd4b433825f": "e9b60d52c803baf5a3d4cc9c21f1e21d719b9f9ce7fcaf338099fb60910bbd69",
+    "src-d26552c9fbda": "effe0e4de443c623b2ad935b32827f72efc801379992f810ca504d9c325adce5",
     "src-e0aac48a5c49": "21529bcf0a12804cb5b3f75c4bc8749afc7c62a2621bf5333821a5c7f3c1732e",
+    "src-e0c2e2fb61b4": "090e166268e819a1e803e255d83b18ccebbd44fe09e38d43c4bbbd23d848ac20",
+    "src-ea07e710cf87": "447f2f90b71944ea18920e675eff3bbfa77db3c293b48a474cb6a90f87815a3e",
+    "src-ec6c591d861f": "dd6146deae8d9391d76a5e4b798e72053ceed7447443a12221134b9c4abe0935",
+    "src-f4178a54647e": "908c5d1e6a801af05b308957489b9a3030d548e1df044bd991596aba0d2ddb83",
     "src-fd0bbccdb853": "13b40307a7fc386ed6d017eb9b5cf5a64742b14c9ba5522b6c9f0e21992a6c11"
   }
 }

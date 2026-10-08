@@ -1,0 +1,95 @@
+{
+  "source_id": "src-6221e4d4f8ff",
+  "snapshot_sha256": "1d20e3ed53e44f54986eff105a37921eb4e2713ef3815725b1be2dcec54e29f0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6221e4d4f8ff-c01",
+      "assertion": "Swaruu alleges the Flavian rulers reshaped existing regional religions into Christianity and Judaism as Roman population-control tools.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0039",
+        "p0041",
+        "p0042",
+        "p0044",
+        "p0063"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "earth-cabal",
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her alternative-history account."
+    },
+    {
+      "id": "src-6221e4d4f8ff-c02",
+      "assertion": "She claims Josephus served Vespasian and that Titus’s campaigns were repurposed as the narrative of Jesus.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0045",
+        "p0047",
+        "p0093",
+        "p0094",
+        "p0132"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her historical interpretation."
+    },
+    {
+      "id": "src-6221e4d4f8ff-c03",
+      "assertion": "She alleges Roman-confiscated records, including nonhuman texts from Atlantis and Lemuria, remain in Vatican vaults.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0090",
+        "p0091",
+        "p0092"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-6221e4d4f8ff-c04",
+      "assertion": "Swaruu describes Gahonam as a hidden group behind Jesuits and high-degree Masons, directing planetary status quo from Rome.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0144",
+        "p0145",
+        "p0146",
+        "p0147"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "gahonam"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The name is phonetic and uncertain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "highly-contested-history-claims-attributed",
+    "secret-society-name-uncertain"
+  ],
+  "coverage_gaps": [
+    "full-jesus-parallel-argument-omitted"
+  ]
+}

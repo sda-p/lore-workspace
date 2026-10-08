@@ -1,0 +1,183 @@
+{
+  "batch_id": "continuous-014",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-5b3bbfac8b2b",
+    "src-2a59653712d3",
+    "src-828b1cc9dc5c",
+    "src-872b05071e96",
+    "src-336f7353bbdf",
+    "src-42e6137b02bd",
+    "src-773f5d590da3",
+    "src-699924c5628e",
+    "src-43ae6ea7442d",
+    "src-1dacc07067a8",
+    "src-2eb79f41c6bd",
+    "src-01886647014f",
+    "src-b76cc2a83453",
+    "src-2237b5ddb772",
+    "src-e9f782478883",
+    "src-2783d6a4d5f8",
+    "src-3247a8725177",
+    "src-9b8c545032b0",
+    "src-3fc0d6ff4509",
+    "src-22febda7e5c0",
+    "src-33c7243bf8a8",
+    "src-19222374970c",
+    "src-a47091eb591b",
+    "src-47899b07f4e7",
+    "src-dec75aa6f548",
+    "src-9714c4956dbe",
+    "src-1786d1c8b594",
+    "src-36f2904b7eee",
+    "src-1903d86872f9",
+    "src-589ce84319c0",
+    "src-079a413a4643",
+    "src-b3278ce1872a",
+    "src-f680b9148842",
+    "src-99293df55ffb",
+    "src-e1b812564c1f",
+    "src-54359f164bb6",
+    "src-c1491dcb9c07",
+    "src-2c51b741eabb",
+    "src-05d9972a1c9b",
+    "src-fa41802c361c",
+    "src-45f2406866f4",
+    "src-d2aab2fa5a4c",
+    "src-d575fee8efe8",
+    "src-da37867cb1a1",
+    "src-26d9d32c0ca8",
+    "src-55aa4da20352",
+    "src-6fa658378a51",
+    "src-4ce32a647c50",
+    "src-1422880235ff",
+    "src-1f01e4810fc2",
+    "src-532cfc8f03f5",
+    "src-36c5fde4f2a4",
+    "src-06c80561b461",
+    "src-61a0b9a71122",
+    "src-62893f690998",
+    "src-78b7d4a4289d",
+    "src-c7d61405393c",
+    "src-86fc875548c8",
+    "src-de139e50d05b",
+    "src-b87a9c4ceb6f",
+    "src-7df1df339f89",
+    "src-3901bf7c1489",
+    "src-ad9dbfd43650",
+    "src-44f7a105a538",
+    "src-26a2d18bbea0",
+    "src-057efbcdf1b8",
+    "src-95bb43e551f3",
+    "src-18ebdb1cca3c",
+    "src-f95e071ab942",
+    "src-aa6e0d670c42",
+    "src-7364ad45d63b",
+    "src-12b1bea0a52e",
+    "src-1174f8536b41",
+    "src-2f3cec7db3bb",
+    "src-1f3aa749d3b8",
+    "src-48549c0d0a4c",
+    "src-9d362a2f6ab9",
+    "src-1b04c8518bf7",
+    "src-7c2490f49bef",
+    "src-f5512acb2e99"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-2a59653712d3",
+      "claim_id": "src-2a59653712d3-c03",
+      "problem": "Qualifier about Federation rules limiting contact to text was unsupported by its citations, which only covered the planned/canceled program and its smaller continuation.",
+      "action": "Added p0086, where Anéeka explicitly attributes text-only contact rules to Federation directives.",
+      "paragraph_ids": [
+        "p0058",
+        "p0086",
+        "p0090"
+      ]
+    },
+    {
+      "source_id": "src-872b05071e96",
+      "claim_id": "src-872b05071e96-c01",
+      "problem": "The positive-emotion-as-compass paraphrase omitted the speaker’s explicit caution that feeling positive does not by itself make something right.",
+      "action": "Added a concise qualifier preserving the need for perspective and logic.",
+      "paragraph_ids": [
+        "p0010",
+        "p0015",
+        "p0034",
+        "p0035"
+      ]
+    },
+    {
+      "source_id": "src-42e6137b02bd",
+      "claim_id": "src-42e6137b02bd-c03",
+      "problem": "The source attributes writing the official Gospels to Josephus’s scribes under Vespasian, yet separately says Constantine compiled the official documents.",
+      "action": "Added an internal-tension review flag while retaining both attributed statements without reconciling them.",
+      "paragraph_ids": [
+        "p0063",
+        "p0065",
+        "p0067"
+      ]
+    },
+    {
+      "source_id": "src-1dacc07067a8",
+      "claim_id": "src-1dacc07067a8-c02",
+      "problem": "Qualifier that regressive factions cease to be called Federation lacked its supporting paragraph.",
+      "action": "Added p0035, where Anéeka states those factions are no longer called Federation.",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0033",
+        "p0035",
+        "p0037"
+      ]
+    },
+    {
+      "source_id": "src-36f2904b7eee",
+      "claim_id": "src-36f2904b7eee-c02",
+      "problem": "Qualifier that outcome one seemed most likely is sourced in p0015 but was uncited.",
+      "action": "Added p0015 to citation list.",
+      "paragraph_ids": [
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-fa41802c361c",
+      "claim_id": "src-fa41802c361c-c04",
+      "problem": "The record said the brain fully translates the soul signal at seven; the transcript says it does not fully interact with that signal until around seven.",
+      "action": "Rephrased to preserve the delayed interaction and qualification.",
+      "paragraph_ids": [
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-26d9d32c0ca8",
+      "claim_id": "src-26d9d32c0ca8-c05",
+      "problem": "Season mechanism was overcompressed as axial tilt alone; source also specifies the angle of received radiation.",
+      "action": "Added the radiation-angle qualification.",
+      "paragraph_ids": [
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-c7d61405393c",
+      "claim_id": "src-c7d61405393c-c01",
+      "problem": "The claim’s Pharos location was in p0023, omitted from its citation list.",
+      "action": "Added p0023 to support the location of the Roman base.",
+      "paragraph_ids": [
+        "p0023"
+      ]
+    },
+    {
+      "source_id": "src-2a59653712d3",
+      "claim_id": "src-2a59653712d3-c03",
+      "problem": "Proposed topic ID had become canonical in config/topics.json after extraction, causing current dictionary validation to reject the duplicate proposal.",
+      "action": "Removed duplicate proposed_topics entry; retained source claim and canonical topic references; revalidated against the current topic dictionary.",
+      "paragraph_ids": [
+        "p0058",
+        "p0086",
+        "p0090"
+      ]
+    }
+  ],
+  "unresolved": []
+}

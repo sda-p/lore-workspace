@@ -1,0 +1,72 @@
+{
+  "source_id": "src-051532dd5b50",
+  "snapshot_sha256": "8449ce8ce9458adab3f203fe13c8d7bbd60b476c7aa0f21721acf13ac77554a9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-051532dd5b50-c01",
+      "assertion": "Athena says temporal travelers encounter multiple possible futures, not one fixed destination, and estimate a likely outcome by comparing variants.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-051532dd5b50-c02",
+      "assertion": "She compares 3D reality to sequential rooms and 5D to interconnected floors; higher-density complexity makes those minds hard for 3D people to understand.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her explanatory metaphor."
+    },
+    {
+      "id": "src-051532dd5b50-c03",
+      "assertion": "Athena describes timelines and densities as perception ranges, not separate worlds; each present reflects many variants, while timeline remains a useful limited label.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0024"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account explicitly treats timelines as imprecise human terminology."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "perception-model-uses-and-rejects-literal-timeline-terms"
+  ],
+  "coverage_gaps": [
+    "temporal-navigation-mathematics",
+    "extractee-memory-mechanism"
+  ]
+}

@@ -285,6 +285,7 @@ Related topics: [Holographic computers](holographic-computers.md).
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c02](urmah.md#src-5e6c8ea2cb2c-c02) — Urmah
+- [src-48549c0d0a4c-c02](extraterrestrial-stepdowns.md#src-48549c0d0a4c-c02) — Extraterrestrial step-downs
 
 ## Review flags
 

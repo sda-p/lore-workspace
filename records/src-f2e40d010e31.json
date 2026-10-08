@@ -1,0 +1,55 @@
+{
+  "source_id": "src-f2e40d010e31",
+  "snapshot_sha256": "e8352a59a278a1d6fce21d9c866679ff1cae8b5812ebb8a7b8fc9f62a9828045",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f2e40d010e31-c01",
+      "assertion": "Yazhi says Taygetans make toys from durable, moldable non-hydrocarbon resin; children often build them by hand or design and replicate them at home.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "taygetan-toys-and-games",
+      "topics": [
+        "taygetan-toys-and-games"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says toy preferences vary and there are no gender-role restrictions."
+    },
+    {
+      "id": "src-f2e40d010e31-c02",
+      "assertion": "Raguel describes a cooperative Taygetan building-design board game requiring memory, spatial planning, and usually telepathic sharing of detailed mental images.",
+      "speaker": "Raguel",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "taygetan-toys-and-games",
+      "topics": [
+        "taygetan-toys-and-games"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says spoken descriptions can substitute for telepathy."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-toys-and-games",
+      "name": "Taygetan toys and games",
+      "kind": "culture",
+      "aliases": [
+        "juguetes y juegos en Taygeta"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "human-video-game-use"
+  ]
+}

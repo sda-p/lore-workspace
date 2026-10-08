@@ -87,9 +87,11 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 ## Claims filed under other topics
 
 - [src-a4e838c75ab3-c04](starship-systems.md#src-a4e838c75ab3-c04) — Starship systems
+- [src-b76cc2a83453-c02](unicorn-symbolism.md#src-b76cc2a83453-c02) — Unicorn symbolism
 
 ## Review flags
 
+- multiple-symbolic-interpretations
 - nonstandard-biology-claims
 - simulation-and-AI-claims
 - unverified\_technology\_claims

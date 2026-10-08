@@ -1,0 +1,85 @@
+{
+  "source_id": "src-9c7b2d494a6f",
+  "snapshot_sha256": "460b341b751dc4e829f14f00bf121fd8c8694b6137b272b2a07b943215ea737a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9c7b2d494a6f-c01",
+      "assertion": "Yazhi says a collective unconscious consists of a community’s tacit perceptual agreements, forming its conceptual reality bubble.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0110",
+        "p0111"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-9c7b2d494a6f-c02",
+      "assertion": "She says outsiders can guide inhabitants of a reality bubble but cannot impose lasting change; direct intervention is reserved for paradigm-threatening cases.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0112",
+        "p0114",
+        "p0115",
+        "p0117"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of cross-reality limits."
+    },
+    {
+      "id": "src-9c7b2d494a6f-c03",
+      "assertion": "Yazhi describes incarnations as simultaneous, with each person comprising a community of still-existing selves from other lives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0102",
+        "p0103",
+        "p0105"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical model."
+    },
+    {
+      "id": "src-9c7b2d494a6f-c04",
+      "assertion": "She says experiences across those lives share information through an etheric field, enabling access to Akashic records.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0105",
+        "p0106"
+      ],
+      "primary_topic": "akashic-records",
+      "topics": [
+        "akashic-records",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "pandemic-and-political-claims-excluded"
+  ],
+  "coverage_gaps": [
+    "collective-unconscious-and-matrix-lore-prioritized"
+  ]
+}

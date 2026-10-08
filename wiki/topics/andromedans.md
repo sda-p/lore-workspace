@@ -61,9 +61,17 @@ Related topics: [Galactic Federation](galactic-federation.md).
 ## Claims filed under other topics
 
 - [src-c8989a4b274b-c02](black-goo.md#src-c8989a4b274b-c02) — Black goo
+- [src-78b7d4a4289d-c03](galactic-federation.md#src-78b7d4a4289d-c03) — Galactic Federation
+- [src-bdc9959237c9-c03](alien-species.md#src-bdc9959237c9-c03) — Alien species and distinctions
+- [src-bdc9959237c9-c04](galactic-federation.md#src-bdc9959237c9-c04) — Galactic Federation
+- [src-89c87eaf0e6d-c02](consciousness-metaphysics.md#src-89c87eaf0e6d-c02) — Consciousness and metaphysics
+- [src-89c87eaf0e6d-c03](alien-species.md#src-89c87eaf0e6d-c03) — Alien species and distinctions
 
 ## Review flags
 
 - ancient-history-claim
 - conspiracy-claims
 - contested-claims
+- intervention-position-varies-across-dialogues
+- quoted-speaker-attribution:NaiShara-quotes-Yazhi
+- species-trait-generalizations-attributed

@@ -208,14 +208,17 @@ Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 - [src-b4123d146ba9-c03](total-immersion-simulations.md#src-b4123d146ba9-c03) — Total-immersion simulations
 - [src-a49c04fc44dc-c03](artificial-intelligence.md#src-a49c04fc44dc-c03) — Artificial intelligence
 - [src-1efac2564f96-c02](red-queen-ai.md#src-1efac2564f96-c02) — Red Queen AI
+- [src-55aa4da20352-c02](alien-species.md#src-55aa4da20352-c02) — Alien species and distinctions
 
 ## Review flags
 
 - Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
 - Leader-contact claim is attributed to Asket in this transcript.
 - The cloning and genetic-control statements are Swaruu’s claims.
+- abduction-mutilation-claims
 - artificial-intelligence-attributed
 - claims-attributed-to-source-narrators
 - clone-personhood-variation
 - clone-technology-attributed
 - cryonics-outcomes-speculative
+- species-labels-uncertain

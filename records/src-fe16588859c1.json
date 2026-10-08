@@ -1,0 +1,92 @@
+{
+  "source_id": "src-fe16588859c1",
+  "snapshot_sha256": "806554b5c4f1a82b18ce85700c2b5bc485f1e273f2343e596aef752b7dda3359",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fe16588859c1-c01",
+      "assertion": "Yazhi defines density as an individual’s perceptual range: greater understanding reveals more data, while realities coexist.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her framework."
+    },
+    {
+      "id": "src-fe16588859c1-c02",
+      "assertion": "She says practiced lucid-dream states let her shift frequency and appear elsewhere without physical travel; she cannot fully ensure return to the same timeline.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0024",
+        "p0036",
+        "p0039"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Self-description."
+    },
+    {
+      "id": "src-fe16588859c1-c03",
+      "assertion": "She says ships shift frequency to the destination, appearing there without propulsion while retaining internal time.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-fe16588859c1-c04",
+      "assertion": "She uses temporary markers to check her return point and says some crop circles mark time for spacecraft.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0041",
+        "p0043"
+      ],
+      "primary_topic": "crop-circles",
+      "topics": [
+        "crop-circles",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal-ability-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "astral-exploration-details",
+    "3d-frequency-adaptation"
+  ]
+}

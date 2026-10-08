@@ -204,6 +204,16 @@ Source: [EL PORQUE NO PUEDEN HABER PRUEBAS - TAYGETEANA DE LAS PLÉYADES](https:
 
 Related topics: [Galactic Federation](galactic-federation.md), [Earth Cabal and power structures](earth-cabal.md).
 
+### src-18ebdb1cca3c-c01
+
+Anéeka rejects expected total disclosure; she says authorities would release only agenda-serving material and might stage a false invasion using Blue Beam.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DEL FENÓMENO EXTRATERRESTRE CONSECUENCIAS -ANEEKA DE TEMMER](https://swaruu.org/transcripts/desclasificacion-del-fenomeno-extraterrestre-consecuencias-aneeka-de-temmer) (2020-10-29; es); passages p0003. [Structured record](../../records/src-18ebdb1cca3c.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-19b9c2bb57a1-c04](earth-cabal.md#src-19b9c2bb57a1-c04) — Earth Cabal and power structures

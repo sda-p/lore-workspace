@@ -355,6 +355,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-0f3bd493959e-c03](postmortem-realities.md#src-0f3bd493959e-c03) — Postmortem realities
 - [src-caf216b09494-c03](earth-cabal.md#src-caf216b09494-c03) — Earth Cabal and power structures
 - [src-35a4804aef6f-c03](postmortem-realities.md#src-35a4804aef6f-c03) — Postmortem realities
+- [src-d575fee8efe8-c01](egregors.md#src-d575fee8efe8-c01) — Egregors
+- [src-93765edbe0c7-c02](postmortem-realities.md#src-93765edbe0c7-c02) — Postmortem realities
 
 ## Review flags
 
@@ -381,6 +383,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - metaphysical-model
 - portal-technology-claims-unverified
 - post-eclipse-causal-attribution
+- postmortem-perception-and-reincarnation-model
+- reptilian-species-versus-reptile-egregor
 - translation-counterpart-src-77b565b0b608-shared-2018-section
 - unverified-astral-causation
 - unverified-current-events

@@ -1,0 +1,85 @@
+{
+  "source_id": "src-f118c9aeadd2",
+  "snapshot_sha256": "624ce9ca13e6d07ccef04eed8b8363442b51008630fce7d6f0b20984fddd2e77",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f118c9aeadd2-c01",
+      "assertion": "Anéeka says the Matrix is shared human perception; the Moon imposes low frequencies that limit what people manifest.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-f118c9aeadd2-c02",
+      "assertion": "She describes astral worlds as belief-shaped personal or collective constructs; shared realities are egregors, whose creators defend them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0055",
+        "p0057",
+        "p0059"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-f118c9aeadd2-c03",
+      "assertion": "She says transplanted organs may carry donor memories or intentions through DNA-frequency links, depending on signal strength.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-f118c9aeadd2-c04",
+      "assertion": "She says Taygeta may have one consciousness using multiple bodies, or different consciousnesses sharing one body.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0041"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "postmortem-egregor-loop",
+    "burial-and-cremation-beliefs"
+  ]
+}

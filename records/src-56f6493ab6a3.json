@@ -1,0 +1,61 @@
+{
+  "source_id": "src-56f6493ab6a3",
+  "snapshot_sha256": "ce6ff7131395a1759f9fa0ac05c994c188d12e0d9b629a7f6a3cf557192f74d4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-56f6493ab6a3-c01",
+      "assertion": "Athena calls the Antarctic surrender story distorted: leaders pledge loyalty to Cabal and nonhuman Federation representatives, who permit humanity to learn through its own errors.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "antarctica",
+      "topics": [
+        "antarctica",
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She rejects a postwar surrender."
+    },
+    {
+      "id": "src-56f6493ab6a3-c02",
+      "assertion": "She describes Antarctica as a meeting zone with human and nonhuman military bases near an inner-Earth entrance; Reptilian leaders participate, while Viera’s sector is reportedly unaware.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "antarctica",
+      "topics": [
+        "antarctica",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Coordination details are unknown to her."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "antarctica",
+      "name": "Antarctica bases and ancient sites",
+      "kind": "location",
+      "aliases": [
+        "Antarctic bases"
+      ]
+    }
+  ],
+  "review_flags": [
+    "near-duplicate-of-src-876a8c6154df",
+    "QAnon-and-COVID-claims-omitted"
+  ],
+  "coverage_gaps": [
+    "base-inventory",
+    "Federation-coordination-details"
+  ]
+}

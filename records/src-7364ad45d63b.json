@@ -1,0 +1,91 @@
+{
+  "source_id": "src-7364ad45d63b",
+  "snapshot_sha256": "921842fbb4589b2b8e9a09522514e69598507a0b3a8fee9558842eadd35d67fd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7364ad45d63b-c01",
+      "assertion": "Swaruu says Taygetan queens inherit only if judged worthy; otherwise the High Council remains or the role stays vacant.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7364ad45d63b-c02",
+      "assertion": "She places the queen on the High Council as an exemplar and liaison between citizens and councils, serving rather than exploiting the people.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0042",
+        "p0044",
+        "p0046",
+        "p0049"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7364ad45d63b-c03",
+      "assertion": "Councils scale from local to planetary across four planets; local issues are resolved locally, escalating when needed, with citizens volunteering.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7364ad45d63b-c04",
+      "assertion": "She identifies the crown as Elohi/Pleiadian and says its cross is a portable sextant used with maps to locate the user.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0057",
+        "p0058",
+        "p0059",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "royal-selection-and-symbolism-attributed"
+  ],
+  "coverage_gaps": [
+    "crown-stone-antenna-use",
+    "matriarchy-definition"
+  ]
+}

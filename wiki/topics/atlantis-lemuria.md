@@ -374,6 +374,34 @@ Source: [Respuestas - Anunnki - Elohim - Shiva - Enki - Enlil - Triangulum](http
 
 Related topics: [Ancient Egypt](ancient-egypt.md).
 
+### src-00837bcc422f-c03
+
+Yazhi interprets Adam and Eve as peoples: Reptile-controlled Atlantis created the Adamic humans through mental conditioning, while Lemurian Evas escaped and received Taygetan knowledge. Yazhi’s interpretation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADAN Y EVA - EL CONTROL MENTAL - LAS GUERRAS DE ORIÓN - PARTE 4 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/adan-y-eva-el-control-mental-las-guerras-de-orion-parte-4) (2020-09-06; es); passages p0027, p0028, p0030, p0034, p0035, p0036, p0043, p0044. [Structured record](../../records/src-00837bcc422f.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md), [Taygetans](taygetans.md).
+
+### src-a02207051534-c01
+
+Yazhi describes 40,000-year-old Earth as mostly green land with five continents now under oceans.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [Las Guerras de Orion - Invasion Reptil - Atlantida y Lemuria - Parte 3 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/las-guerras-de-orion-invasion-reptil-atlantida-y-lemuria-parte-3-sin-video) (2020-07-24; es); passages p0003, p0004, p0005. [Structured record](../../records/src-a02207051534.json).
+
+### src-a02207051534-c03
+
+She portrays Lemuria as a Lyrian-led resistance based in Mu, opposing multi-racial Atlantean rule.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [Las Guerras de Orion - Invasion Reptil - Atlantida y Lemuria - Parte 3 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/las-guerras-de-orion-invasion-reptil-atlantida-y-lemuria-parte-3-sin-video) (2020-07-24; es); passages p0025, p0026, p0027, p0028. [Structured record](../../records/src-a02207051534.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
 ## Claims filed under other topics
 
 - [src-4edf6c848c69-c03](tiamat.md#src-4edf6c848c69-c03) — Tiamat
@@ -391,6 +419,14 @@ Related topics: [Ancient Egypt](ancient-egypt.md).
 - [src-9afde86ad754-c03](tartaria.md#src-9afde86ad754-c03) — Tartaria
 - [src-357c482522d2-c02](tiamat.md#src-357c482522d2-c02) — Tiamat
 - [src-17057e78d90e-c02](atlantes.md#src-17057e78d90e-c02) — Atlantes
+- [src-00837bcc422f-c01](energy-generation.md#src-00837bcc422f-c01) — Energy generation technology
+- [src-9a2bfd903f99-c01](moon-matrix.md#src-9a2bfd903f99-c01) — Moon and terrestrial Matrix
+- [src-3247a8725177-c01](atlantean-zero-point-pyramids.md#src-3247a8725177-c01) — Atlantean zero-point pyramids
+- [src-b0799fe10f02-c01](civilizational-resets.md#src-b0799fe10f02-c01) — Civilizational resets
+- [src-b0799fe10f02-c02](civilizational-resets.md#src-b0799fe10f02-c02) — Civilizational resets
+- [src-a02207051534-c02](orion-wars.md#src-a02207051534-c02) — Orion Wars
+- [src-a02207051534-c04](terrestrial-science.md#src-a02207051534-c04) — Terrestrial science
+- [src-a02207051534-c05](nazca-spaceport.md#src-a02207051534-c05) — Nazca spaceport
 
 ## Review flags
 
@@ -399,6 +435,7 @@ Related topics: [Ancient Egypt](ancient-egypt.md).
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - alternate-history\_claims\_attributed
+- ancient-texts-as-racial-symbolism-attributed
 - competing\_attributions
 - contested-history
 - cosmology-claims\_attributed
@@ -408,12 +445,15 @@ Related topics: [Ancient Egypt](ancient-egypt.md).
 - extraterrestrial-claims
 - frequency\_health\_claims\_unverified
 - historical-conspiracy-claims
+- matrix-collapse-and-human-choice
 - no-parallel-source-in-batch
+- reset-sequence-and-dating-unclear
 - speaker-attribution-inferred-from-transcript
 - speaker-speculation
 - symbolic\_interpretations
 - translated-from-spanish
 - translated\_source
+- translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
 - unverified-reset-claims
 - unverified\_archaeology
 - unverified\_extraterrestrial\_claims

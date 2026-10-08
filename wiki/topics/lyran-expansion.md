@@ -166,6 +166,36 @@ Source: [CONTACTO EXTRATERRESTRE – LA MATRIX – SISTEMA SOLAR – NIBIRU – 
 
 Related topics: [Alien species and distinctions](alien-species.md), [Taygetans](taygetans.md).
 
+### src-51b930d00866-c03
+
+About 40,000 years ago, Yazhi says Lyrians settled an unusual 13-planet solar system that already hosted developing civilizations, including Earth; they coexisted peacefully. The chronology is approximate.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Guerras de Orion - Gran Expansión de Lyra - Introduccion \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/guerras-de-orion-gran-expansion-de-lyra-introduccion-sin-video) (2020-06-20; es); passages p0005. [Structured record](../../records/src-51b930d00866.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-8f36267b529f-c01
+
+Yazhi says terrestrial civilizations repeatedly flourish and collapse in roughly 5,000–10,000-year cycles, and attributes humanlike morphology to ancient Lyrian peoples. She says cycle lengths vary elsewhere.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Destruccion de la Matrix y manipulacion de la historia - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/destruccion-de-la-matrix-y-manipulacion-de-la-historia-sin-video) (2020-09-01; es); passages p0002, p0003. [Structured record](../../records/src-8f36267b529f.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-848430840164-c03
+
+She dates their freedom cry to about 850,000 years ago during the Great Expansion against reptilian oppression, followed by settlement of a resource-rich uninhabited system.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Anéeka habla de la lengua Taygeteana - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/aneeka-habla-de-la-lengua-taygeteana-sin-video) (2020-10-01; es); passages p0020. [Structured record](../../records/src-848430840164.json).
+
+Related topics: [Reptilians](reptilians.md), [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c08](stellar-navigation.md#src-03f88504384a-c08) — Stellar navigation
@@ -182,6 +212,13 @@ Related topics: [Alien species and distinctions](alien-species.md), [Taygetans](
 - [src-1a7b60ba8ea9-c02](reptilians.md#src-1a7b60ba8ea9-c02) — Reptilians
 - [src-65d7f9508cf4-c03](primary-secondary-species.md#src-65d7f9508cf4-c03) — Primary and Secondary Species
 - [src-59c43e8ab96d-c01](mars.md#src-59c43e8ab96d-c01) — Mars
+- [src-00837bcc422f-c03](atlantis-lemuria.md#src-00837bcc422f-c03) — Atlantis and Lemuria
+- [src-76864ac53fe6-c01](orion-wars.md#src-76864ac53fe6-c01) — Orion Wars
+- [src-51b930d00866-c01](orion-wars.md#src-51b930d00866-c01) — Orion Wars
+- [src-33c7243bf8a8-c02](moon-matrix.md#src-33c7243bf8a8-c02) — Moon and terrestrial Matrix
+- [src-a02207051534-c02](orion-wars.md#src-a02207051534-c02) — Orion Wars
+- [src-a02207051534-c03](atlantis-lemuria.md#src-a02207051534-c03) — Atlantis and Lemuria
+- [src-848430840164-c02](taygetans.md#src-848430840164-c02) — Taygetans
 
 ## Review flags
 
@@ -191,6 +228,8 @@ Related topics: [Alien species and distinctions](alien-species.md), [Taygetans](
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- ancient-solar-system-density-and-polity-claims
+- ancient-texts-as-racial-symbolism-attributed
 - approximate\_dates
 - broad-exopolitical-allegations
 - conflicting\_origin\_accounts
@@ -198,7 +237,10 @@ Related topics: [Alien species and distinctions](alien-species.md), [Taygetans](
 - density-morality-qualification
 - extraordinary\_history\_claims
 - extraterrestrial-claims
+- federation-role-variation
+- historical-conspiracy-claims-attributed
 - human-origin-model
+- intra-source-policy-tension
 - nonstandard-biology-claims
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - simulation-and-AI-claims
@@ -207,5 +249,7 @@ Related topics: [Alien species and distinctions](alien-species.md), [Taygetans](
 - species-threat-description
 - translated-originally-Spanish
 - translated\_source
+- translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
+- translation-counterpart:src-cb985947b0e5-english-adds-p21-p22
 - translation\_approximation\_navajo\_inuit
 - unverified\_extraterrestrial\_claims

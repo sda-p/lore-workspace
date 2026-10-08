@@ -108,16 +108,75 @@ Source: [TEMOR EN LA MATRIX -ENERGÍAS ETERICAS](https://swaruu.org/transcripts/
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-cdf26823e8ee-c03
+
+Yazhi says small actions accumulate into larger effects; humans themselves must change society rather than expect Federation rescue. This is her advice to the audience.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA ASCENSIÓN - LA ASCENSIÓN PLANETARIA - Líneas temporales - YAZHI SWARUU](https://swaruu.org/transcripts/la-ascension-la-ascension-planetaria-lineas-temporales-yazhi-swaruu) (2020-10-01; es); passages p0066, p0067, p0068, p0070, p0071. [Structured record](../../records/src-cdf26823e8ee.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-02802573a60a-c02
+
+She says 99.9% of key people are unknowns; coordinated small disruptions to many can trigger larger changes and are harder for negative forces to undo.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Nosotros Somos la Clave - Líneas Colectivas - Yázhi Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/nosotros-somos-la-clave-lineas-colectivas-yazhi-swaruu-comunicacion-extraterrestre) (2020-09-13; es); passages p0015, p0017, p0019, p0021, p0022. [Structured record](../../records/src-02802573a60a.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-d85be62c2f1e-c04
+
+She says collective agreements can redirect outcomes; ordinary people, rather than leaders, hold the decisive agency.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ver el Futuro - No es como lo Miran los Humanos - Yázhi Swaruu (Contacto Extraterrestre) \*\*CENSORADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/ver-el-futuro-no-es-como-lo-miran-los-humanos-yazhi-swaruu-contacto-extraterrestre) (2020-09-18; es); passages p0017, p0022, p0023, p0024, p0033, p0034. [Structured record](../../records/src-d85be62c2f1e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3fe6ca238068-c04
+
+She says collective timelines arise through agreements based on similar personal frequencies.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MANIPULACION TEMPORAL - Cambiar el Pasado - Viajes Temporales - Swaruu de Erra](https://swaruu.org/transcripts/manipulacion-temporal-cambiar-el-pasado-viajes-temporales-swaruu-de-erra) (2020-01-22; es); passages p0011, p0042. [Structured record](../../records/src-3fe6ca238068.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
 ## Claims filed under other topics
 
 - [src-775d18ade5d9-c04](timeline-branching.md#src-775d18ade5d9-c04) — Timeline branching
 - [src-4f5b82f333ba-c03](timeline-branching.md#src-4f5b82f333ba-c03) — Timeline branching
+- [src-773f5d590da3-c02](consciousness-metaphysics.md#src-773f5d590da3-c02) — Consciousness and metaphysics
+- [src-02802573a60a-c01](temporal-skipping.md#src-02802573a60a-c01) — Temporal skipping
+- [src-58b00e0b70b3-c01](timeline-branching.md#src-58b00e0b70b3-c01) — Timeline branching
+- [src-2237b5ddb772-c03](starseeds.md#src-2237b5ddb772-c03) — Starseeds
+- [src-d85be62c2f1e-c02](timeline-branching.md#src-d85be62c2f1e-c02) — Timeline branching
+- [src-53756b5035b9-c05](original-matrix.md#src-53756b5035b9-c05) — Original Matrix
+- [src-fed215817d92-c03](perceptual-density.md#src-fed215817d92-c03) — Perceptual density
+- [src-54359f164bb6-c05](timeline-branching.md#src-54359f164bb6-c05) — Timeline branching
+- [src-057efbcdf1b8-c01](holistic-society.md#src-057efbcdf1b8-c01) — Holistic society
 
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
+- ascension-model-attributed
+- claims about fabricated histories and public events are attributed lore, not independently substantiated
 - consciousness-claims
+- contested-genetic-surveillance-claim
 - cosmology-claims-attributed
+- dated-non-deterministic-prediction
+- human-agency-and-federation-oversight
+- numerical influence comparisons are illustrative, not fixed ratios
+- psychological memory-rewriting discussion could be confused with clinical guidance
+- scenario-outcomes-and-intervention-threshold
 - temporal-lore-attributed
+- timeline-model-varies-from-linear-view
+- translation-counterpart:none-identified

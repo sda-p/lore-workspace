@@ -1,0 +1,31 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-08T17:37:08+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-017",
+    "reviewer": 1,
+    "reviewed_source_ids": [
+      "src-2e44af6cf865",
+      "src-b01e12100c02"
+    ],
+    "corrections": [
+      {
+        "source_id": "src-b01e12100c02",
+        "claim_id": "src-b01e12100c02-c01",
+        "problem": "Cited passages support star-map positions as interpretive and scheduling references but do not describe them as frequency-based identity profiles.",
+        "action": "Removed the unsupported frequency framing and retained the supported functions and non-determinist caveat.",
+        "paragraph_ids": [
+          "p0012",
+          "p0013",
+          "p0019"
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-2e44af6cf865": "317018691e460880daab15402352315c6086439d562ca47ffdb509a6c9d364e6",
+    "src-b01e12100c02": "40d0d7ce7384b42884e7ed68ca668741cb62dd7bea0b3ebf8b3bc02ec8a21c75"
+  }
+}

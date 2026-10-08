@@ -1,0 +1,77 @@
+{
+  "source_id": "src-6d32076d9fb4",
+  "snapshot_sha256": "dd068ecc45710813eca3840cf68365ec551010befa353a9b07396767ad6209b6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6d32076d9fb4-c01",
+      "assertion": "Swaruu X says Federation tiers have different jurisdictions and density-linked ethics.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d32076d9fb4-c02",
+      "assertion": "She describes Earth as a contained learning realm guided in detail by the Federation; total nuclear war is barred, though localized wars may occur.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this control is framed as preserving inhabitants’ rights."
+    },
+    {
+      "id": "src-6d32076d9fb4-c03",
+      "assertion": "Swaruu X says the Federation views humanity as a shared Lyrian-patterned biological suit for multiple species, not a species; it will not permit humans to expand as such.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "human-biosuit-model",
+      "topics": [
+        "human-biosuit-model",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the Federation regards humanity as already interstellar."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "human-biosuit-model",
+      "name": "Humanity as a shared biological suit",
+      "kind": "species model",
+      "aliases": [
+        "bio-traje humano",
+        "biological suit"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "interstellar-civilization-definition"
+  ]
+}

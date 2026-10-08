@@ -36,6 +36,26 @@ Source: [Space News 52. Two Major Taygetan Starships Crash (English)](https://sw
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-b87a9c4ceb6f-c02
+
+She says missiles may briefly match a ship’s shield harmonics while it interacts with 3D; scalar shields cycle frequencies to cover multiple densities.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Asuntos Actuales: Anéeka de Temmer (Contacto Extraterrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/asuntos-actuales-aneeka-de-temmer-contacto-extraterrestre-taygeta-pleyades) (2020-05-04; es); passages p0017. [Structured record](../../records/src-b87a9c4ceb6f.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-1422880235ff-c02
+
+She says mostly gravitational waves carry debris, penetrate scalar shields, and damage ships; toroidal shields draw engine power.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Llamarada Solar - Olas Galácticas - Anéeka y Dale Harder (Pléyades - Comunicación Extraterrestre)](https://swaruu.org/transcripts/llamarada-solar-olas-galacticas-aneeka-y-dale-harder-pleyades-comunicacion-extraterrestre) (2020-10-19; es); passages p0011, p0016. [Structured record](../../records/src-1422880235ff.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-8a20bf02262a-c04](hashmallim.md#src-8a20bf02262a-c04) — Hashmallim
@@ -51,4 +71,5 @@ Related topics: [Starship systems](starship-systems.md).
 - astral-perception-and-protection-claims
 - matrix-technology-attributed
 - military-claims\_attributed
+- nanotechnology-claim-in-vaccine-context
 - source-speaker-shift-dhor-to-yazhi

@@ -1,0 +1,52 @@
+{
+  "source_id": "src-4ff159251d90",
+  "snapshot_sha256": "61860c33e37db2a2344be2a467d1813257030eb7bc236634618f189f867c7ea4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4ff159251d90-c01",
+      "assertion": "Anéeka says indirect contact was the only way to pass information through Federation and terrestrial filters; stronger proof or direct contact could stop transmission.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-4ff159251d90-c02",
+      "assertion": "She urges listeners to compare official and alternative sources, form independent judgments, and follow their own conscience without yielding to fear or authority.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her advice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "terrestrial-censorship-claim"
+  ],
+  "coverage_gaps": [
+    "specific-contact-channel",
+    "censorship-enforcement-mechanism"
+  ]
+}

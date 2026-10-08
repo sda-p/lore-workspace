@@ -54,12 +54,23 @@ Attributed to **Swaruu**; reported; extraction confidence: high.
 
 Source: [LA CRIOPRESERVACIÓN LO QUE NO TE DICEN - La Inmortalidad – Criogenización – Swaruu de Erra](https://swaruu.org/transcripts/la-criopreservacion-lo-que-no-te-dicen-la-inmortalidad-criogenizacion-swaruu-de-erra) (2018-11-01; es); passages p0008, p0010. [Structured record](../../records/src-73356320550c.json).
 
+### src-2eb79f41c6bd-c01
+
+Swaruu says Taygetans use sound, light, and precise high-energy magnetic fields for healing; replicators can create matter, yet advanced societies favor handmade objects and keep technology in service.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA VIDA EN LAS PLEYADES - ESTRELLA TAYGETA - CONTACTO EXTRATERRESTRE - Swaruu D´Jedi Ronin](https://swaruu.org/transcripts/la-vida-en-las-pleyades-estrella-taygeta-contacto-extraterrestre-swaruu-d-jedi-ronin) (2020-05-11; es); passages p0004, p0006, p0007, p0008. [Structured record](../../records/src-2eb79f41c6bd.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
 ## Claims filed under other topics
 
 - [src-73356320550c-c01](consciousness-metaphysics.md#src-73356320550c-c01) — Consciousness and metaphysics
 - [src-73356320550c-c03](human-clones.md#src-73356320550c-c03) — Human clones and manufactured persons
 - [src-543fe68707e6-c04](andromedans.md#src-543fe68707e6-c04) — Andromedans
 - [src-28c3fd0534dc-c02](perceptual-density.md#src-28c3fd0534dc-c02) — Perceptual density
+- [src-01886647014f-c02](compressed-sound-cutting.md#src-01886647014f-c02) — Compressed-sound cutting
 
 ## Review flags
 
@@ -67,3 +78,4 @@ Source: [LA CRIOPRESERVACIÓN LO QUE NO TE DICEN - La Inmortalidad – Criogeniz
 - cryonics-outcomes-speculative
 - medical account is attributed narrative, not medical guidance
 - time-travel-claims
+- uncertain-human-versus-nonhuman-mutilation-cause

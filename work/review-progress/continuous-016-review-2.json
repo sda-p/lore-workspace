@@ -1,0 +1,52 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-08T17:37:08+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-016",
+    "reviewer": 2,
+    "reviewed_source_ids": [
+      "src-876a8c6154df",
+      "src-0669cfd94f43",
+      "src-a5ce4900a24a",
+      "src-051532dd5b50",
+      "src-8917d0622133",
+      "src-9faade64b5f5",
+      "src-869fdf1c4001",
+      "src-4ff159251d90"
+    ],
+    "corrections": [
+      {
+        "source_id": "src-051532dd5b50",
+        "claim_id": "record",
+        "problem": "Extractor modified the record after release; current record hash differs from the immutable initial-release marker.",
+        "action": "Logged post-release write as a process correction; independently reread all cited/context passages, revalidated current record and 80-word budget, and retained current record hash d0058904bb7c10929a038315ab6941435206a3354a47e914138dffe5bdcfb417. Marker left unchanged.",
+        "paragraph_ids": [
+          "p0004",
+          "p0006",
+          "p0007",
+          "p0008",
+          "p0009",
+          "p0011",
+          "p0012",
+          "p0015",
+          "p0016",
+          "p0017",
+          "p0019",
+          "p0024"
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-876a8c6154df": "4738967cce5ba51115e422a70d17653ba824ef8182fc431af8bdb0dae6c335be",
+    "src-0669cfd94f43": "47b967f87d6eba444bdac3e4b0a167fc04c98b4fc9ee5de13fc3db9623733ee9",
+    "src-a5ce4900a24a": "1f9a1846d06542c5f13b7ed8fe4c82545f64d33bf447a48f6d861759fdeb5d50",
+    "src-051532dd5b50": "fcb5c9861fe47bdb3f599a3e2ad9f5b71d262574524dc23eeb7c804271a860d4",
+    "src-8917d0622133": "c91d4175a31928c0d84a5159405f90a35a85350f97404f9a59b1ac3d69ab2029",
+    "src-9faade64b5f5": "0c0e69ceebcd55b74148512e153dcc1878a2d50f1cdc665eb388bb62b15cbe85",
+    "src-869fdf1c4001": "97546c57d9d1d1f8de615c1fea7493f7319d2c881ca70130de321a3b998404dc",
+    "src-4ff159251d90": "6c2140e55b2f08a9ba46083b05050b80376816db0ae610e4f52bfb601e550d89"
+  }
+}

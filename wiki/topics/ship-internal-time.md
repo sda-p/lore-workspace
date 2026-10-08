@@ -118,16 +118,43 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [NAVES EXTRATERRESTRES – OVNIS – ENTREVISTA CON UN PLEYADIANO TAYGETEANO - DHOR KÁAL'EL Y ANÉEKA](https://swaruu.org/transcripts/naves-extraterrestres-ovnis-entrevista-con-un-pleyadiano-taygeteano-dhor-kaal-el-y-aneeka) (2019-11-18; es); passages p0003, p0005, p0010. [Structured record](../../records/src-32e031c42dc5.json).
 
+### src-1f01e4810fc2-c01
+
+Anéeka says groups coordinate by dominant local time perception; Earth orbit uses Earth dates. Taygeta and Cyndriel are described as difficult cases.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES - COMO COORDINAN EL TIEMPO - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/extraterrestres-como-coordinan-el-tiempo-aneeka-de-temmer) (2020-10-28; es); passages p0003. [Structured record](../../records/src-1f01e4810fc2.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-e1b812564c1f-c05
+
+A 65.4-light-year trip to Aldebaran took 25 minutes SIT, the ship-internal time measure.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Tecnologia Extraterrestre: Procedimiento de Despegue y Vuelo (Mensaje Pleyadiano - Taygeta)](https://swaruu.org/transcripts/tecnologia-extraterrestre-procedimiento-de-despegue-y-vuelo-mensaje-pleyadiano-taygeta) (2020-02-29; es); passages p0036, p0038, p0057. [Structured record](../../records/src-e1b812564c1f.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-07494ef21f67-c02](cyndriel.md#src-07494ef21f67-c02) — Cyndriel
 - [src-be2e5cb2654b-c01](taygetans.md#src-be2e5cb2654b-c01) — Taygetans
 - [src-1aa59d2c774b-c04](tractor-beams.md#src-1aa59d2c774b-c04) — Tractor beams
 - [src-f77b50b543b2-c02](original-matrix.md#src-f77b50b543b2-c02) — Original Matrix
+- [src-1f01e4810fc2-c03](taygetans.md#src-1f01e4810fc2-c03) — Taygetans
+- [src-fe16588859c1-c03](stellar-navigation.md#src-fe16588859c1-c03) — Stellar navigation
+- [src-48549c0d0a4c-c02](extraterrestrial-stepdowns.md#src-48549c0d0a4c-c02) — Extraterrestrial step-downs
 
 ## Review flags
 
 - Figures and ship status are Mari’s account as of August 2024
+- cyndriel-environment-claim
 - extraordinary-ability-claims
 - historical-event-identified-from-painting
+- personal-ability-claims-attributed
+- subjective-time-model
+- translation-counterpart: none identified
 - unverified\_temporal\_claims

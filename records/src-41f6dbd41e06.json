@@ -1,0 +1,120 @@
+{
+  "source_id": "src-41f6dbd41e06",
+  "snapshot_sha256": "7e0f3abf1986d38402cc05af472375c8eefff164896a53b0f3515a7522c6b3e5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-41f6dbd41e06-c01",
+      "assertion": "Athena identifies Pentagon clips as human Black Raven drone tests, but says exact designations may vary.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "black-raven-uav",
+      "topics": [
+        "black-raven-uav",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41f6dbd41e06-c02",
+      "assertion": "She says the F-19 needs a runway and is nearly invisible; her sightings stayed below 600 knots.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "black-raven-uav",
+      "topics": [
+        "black-raven-uav",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41f6dbd41e06-c03",
+      "assertion": "Taygetan Scimitar and Suzy craft reportedly spoof US Navy IFF/transponders for safer transit.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0052",
+        "p0055",
+        "p0057"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41f6dbd41e06-c04",
+      "assertion": "She says Federation rules require Taygetan concealment; both military and nonhuman craft may use lights.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0050",
+        "p0063"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41f6dbd41e06-c05",
+      "assertion": "She speculates Pentagon UAP disclosures hide drone tests and distract from genuine nonhuman craft.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0067",
+        "p0069",
+        "p0073"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "black-raven-uav"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "black-raven-uav",
+      "name": "Black Raven UAV",
+      "kind": "technology",
+      "aliases": [
+        "Black Raven drones",
+        "RX-111 A/B"
+      ]
+    }
+  ],
+  "review_flags": [
+    "secret-aircraft-identification-uncertain",
+    "pentagon-disclosure-motive-speculation"
+  ],
+  "coverage_gaps": [
+    "IFF-false-identities",
+    "UAP-misidentification-rates",
+    "autopsy-claims"
+  ]
+}

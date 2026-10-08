@@ -1,0 +1,54 @@
+{
+  "source_id": "src-5c6ca52aaabd",
+  "snapshot_sha256": "f9690282097fe46de315e3af7866fd5b344daabf900b032c24c360c0e932523d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5c6ca52aaabd-c01",
+      "assertion": "Yazhi describes Earth as containing vast illuminated caverns inhabited by animal and humanoid species; she says subterranean Vulcans near Antarctica face Kingu incursions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations",
+        "intraterrestrial-vulcans",
+        "kingu"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says little is known about Vulcan society."
+    },
+    {
+      "id": "src-5c6ca52aaabd-c02",
+      "assertion": "Yazhi says Earth is not hollow: internal cavities surround a glowing magmatic core that supplies heat and light; polar openings do not connect as a through-route.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0024",
+        "p0027"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations",
+        "subterranean-ocean-networks"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She likens Earth’s internal systems to circulation in a living body."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "cavern-size-and-plate-movement",
+    "magma-circulation"
+  ]
+}

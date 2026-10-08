@@ -1,0 +1,122 @@
+{
+  "source_id": "src-ed934b122dbc",
+  "snapshot_sha256": "999f38ec5443b92066564d651d74313fd82451ceba9f6a0c91fb1ba5f35f8d33",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ed934b122dbc-c01",
+      "assertion": "Anéeka says Taygetan women may reproduce parthenogenetically; identical mother-daughter clones can share consciousness and telepathy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0102",
+        "p0104"
+      ],
+      "primary_topic": "taygetan-parthenogenesis",
+      "topics": [
+        "taygetan-parthenogenesis",
+        "taygetans",
+        "human-clones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed934b122dbc-c02",
+      "assertion": "Swaruu 2 became a Sand Clock time-jumper, altering Earth-history nexuses before reincarnating into the same Erra life.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0030",
+        "p0031",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "sand-clock",
+      "topics": [
+        "sand-clock",
+        "temporal-skipping",
+        "suzy-class-starships"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed934b122dbc-c03",
+      "assertion": "Swaruu 9 concluded jumps altered only her timeline; Swaruu X and 11 later studied collective timeline changes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0068",
+        "p0069"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "temporal-skipping"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed934b122dbc-c04",
+      "assertion": "Anéeka says Swaruu 11 gave birth to Yazhi in hyperspace, hoping ether birth would grant special faculties.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0070",
+        "p0071"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field",
+        "taygetan-parthenogenesis",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed934b122dbc-c05",
+      "assertion": "Anéeka relays Yazhi’s claim S9 dissolved into ether; Yazhi attributes her physical death to stress, malnutrition and strokes.",
+      "speaker": "Anéeka reporting Yazhi; Yazhi",
+      "paragraph_ids": [
+        "p0123",
+        "p0125",
+        "p0134",
+        "p0143",
+        "p0144",
+        "p0151",
+        "p0153",
+        "p0161"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "reincarnation-cycles",
+        "ether-field"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-counterpart:src-06a1e5437c02-close-full",
+    "timeline-model-variant:personal-vs-collective",
+    "death-account:medical-cause-and-ether-dissolution"
+  ],
+  "coverage_gaps": [
+    "Swaruu-X-history",
+    "Suzy-ship-design",
+    "Swaruu-12-arrival"
+  ]
+}

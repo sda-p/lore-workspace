@@ -56,14 +56,26 @@ Attributed to **Rashell**; asserted; extraction confidence: high.
 
 Source: [Nosotras Somos las Chicas de Sociedad Vril: Mensaje Pleyadiano (Rashell de Temmer)](https://swaruu.org/transcripts/nosotras-somos-las-chicas-de-sociedad-vril-mensaje-pleyadiano-rashell-de-temmer) (2019-01-24; es); passages p0053, p0058, p0060, p0062. [Structured record](../../records/src-42f818598b56.json).
 
+### src-99293df55ffb-c03
+
+Sand Clock navigation stores departure frequencies; altered futures require new coordinates from a nexus point. Her model.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Manipulación temporal - Cambia tu pasado- Viajes en el Tiempo - Swaruu de Erra](https://swaruu.org/transcripts/manipulacion-temporal-cambia-tu-pasado-viajes-en-el-tiempo-swaruu-de-erra) (2020-01-27; es); passages p0021, p0028, p0029, p0041, p0045. [Structured record](../../records/src-99293df55ffb.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
 ## Claims filed under other topics
 
 - [src-4f2bc7f73ac1-c01](frequency-map-navigation.md#src-4f2bc7f73ac1-c01) — Frequency-map navigation
 - [src-4f2bc7f73ac1-c02](frequency-map-navigation.md#src-4f2bc7f73ac1-c02) — Frequency-map navigation
 - [src-e15992dcfa52-c02](crop-circles.md#src-e15992dcfa52-c02) — Crop circles
+- [src-9b690db81851-c01](temporal-skipping.md#src-9b690db81851-c01) — Temporal skipping
 
 ## Review flags
 
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - contested\_historical\_claims
+- temporal-branching-does-not-alter-observers' timelines
 - time\_travel\_lore

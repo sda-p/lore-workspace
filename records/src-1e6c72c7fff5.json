@@ -1,0 +1,76 @@
+{
+  "source_id": "src-1e6c72c7fff5",
+  "snapshot_sha256": "b300c59f70f0212b4712807bb85d0e85f9e223f6c120e350f04d4ecb4707039f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1e6c72c7fff5-c01",
+      "assertion": "Swaruu X says the Federation views isolated Earth as an educational world and sees regressive ETs as little threat.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She cites its influence."
+    },
+    {
+      "id": "src-1e6c72c7fff5-c02",
+      "assertion": "Yazhi alleges CIA-linked groups promote pro-Federation narratives in UFO circles; she is unsure of Federation involvement.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0030",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her account is uncertain."
+    },
+    {
+      "id": "src-1e6c72c7fff5-c03",
+      "assertion": "Swaruu X speculates a false invasion could be hostile or benevolent; she expects rescue-themed intervention imposing New World Order rules.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0073",
+        "p0074",
+        "p0076",
+        "p0085",
+        "p0088",
+        "p0094"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She calls this a likely scenario, not certain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "federation-role:uncertain-human-propaganda-vs-permissive-oversight"
+  ],
+  "coverage_gaps": [
+    "Van-Allen-barrier",
+    "transport-control",
+    "multi-level-reality"
+  ]
+}

@@ -1,7 +1,10 @@
 import copy
 import importlib.util
+import json
 from pathlib import Path
+import tempfile
 import unittest
+from unittest.mock import patch
 
 spec = importlib.util.spec_from_file_location('lore',Path(__file__).resolve().parents[1]/'scripts/lore.py')
 lore = importlib.util.module_from_spec(spec)
@@ -87,5 +90,26 @@ class IntegrityTests(unittest.TestCase):
         self.assertEqual(jobs['old-source']['status'],'reviewed')
         jobs['old-source']['worker']=2
         self.assertEqual(previous['old-source']['worker'],1)
+
+    def test_changed_approved_record_cannot_rebuild_wiki(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory)
+            original=copy.deepcopy(self.record)
+            digest=lore.sha(json.dumps(original,sort_keys=True,ensure_ascii=False))
+            changed=copy.deepcopy(original)
+            changed['claims'][0]['assertion']='A new claim added after approval.'
+            fixtures={
+                'sources/manifest.json':{'sources':[]},
+                'config/topics.json':[],
+                'work/ledger.json':{'jobs':{original['source_id']:{'status':'reviewed','record_sha256':digest}}},
+                f"records/{original['source_id']}.json":changed,
+            }
+            for name,value in fixtures.items():
+                path=root/name;path.parent.mkdir(parents=True,exist_ok=True);path.write_text(json.dumps(value))
+            index=root/'wiki/index.md';index.parent.mkdir();index.write_text('Previous approved wiki')
+            with patch.object(lore,'ROOT',root):
+                with self.assertRaisesRegex(ValueError,'changed since approval'):
+                    lore.build()
+            self.assertEqual(index.read_text(),'Previous approved wiki')
 
 if __name__=='__main__': unittest.main()

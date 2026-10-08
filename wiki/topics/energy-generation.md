@@ -616,6 +616,118 @@ Source: [CONTACTO EXTRATERRESTRE PLEYADIANO DE TAYGETA CON EL PRESIDENTE IKE EIS
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-00837bcc422f-c01
+
+Yazhi says Atlantean pyramids were zero-point reactors feeding a wireless energy grid; some also served as portals or consciousness amplifiers, while others generated no usable electricity.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADAN Y EVA - EL CONTROL MENTAL - LAS GUERRAS DE ORIÓN - PARTE 4 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/adan-y-eva-el-control-mental-las-guerras-de-orion-parte-4) (2020-09-06; es); passages p0002, p0003, p0006. [Structured record](../../records/src-00837bcc422f.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md), [Natural and artificial portals](natural-portals.md).
+
+### src-1786d1c8b594-c02
+
+She describes the Great Pyramid as a zero-point generator using atmospheric-ground charge differences and internal capacitors.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Quienes Construyeron las Pirámides de Egipto - Los Secretos de la Gran Pirámide - Swaruu de Erra](https://swaruu.org/transcripts/quienes-construyeron-las-piramides-de-egipto-los-secretos-de-la-gran-piramide-swaruu-de-erra) (2020-02-18; es); passages p0006, p0009, p0015, p0017, p0020. [Structured record](../../records/src-1786d1c8b594.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
+### src-589ce84319c0-c02
+
+She claims vaccine-linked nanotechnology could be remotely activated through communications networks to affect behavior.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Te Están Flanqueando\! EMPs para Nanotecnología (Swaruu - Taygeta - Pleyades)](https://swaruu.org/transcripts/te-estan-flanqueando-emps-para-nanotecnologia-swaruu-taygeta-pleyades) (2020-05-02; es); passages p0027, p0028, p0029, p0030. [Structured record](../../records/src-589ce84319c0.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-589ce84319c0-c03
+
+Swaruu says EMP disrupted the particles in computer immersion models, but she lacked real-world testing. The cited tests were simulations, not field experiments.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Te Están Flanqueando\! EMPs para Nanotecnología (Swaruu - Taygeta - Pleyades)](https://swaruu.org/transcripts/te-estan-flanqueando-emps-para-nanotecnologia-swaruu-taygeta-pleyades) (2020-05-02; es); passages p0031, p0032, p0033, p0045, p0047, p0051. [Structured record](../../records/src-589ce84319c0.json).
+
+### src-589ce84319c0-c04
+
+She says the EMP would not remove the particles, which she claims remain inert in the body.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Te Están Flanqueando\! EMPs para Nanotecnología (Swaruu - Taygeta - Pleyades)](https://swaruu.org/transcripts/te-estan-flanqueando-emps-para-nanotecnologia-swaruu-taygeta-pleyades) (2020-05-02; es); passages p0048, p0049. [Structured record](../../records/src-589ce84319c0.json).
+
+### src-079a413a4643-c01
+
+Anéeka attributes Bermuda anomalies to underwater zero-point reactors releasing energy, causing magnetic and temporal disturbance. She says Flight 19 likely remains on Earth.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [TRIÁNGULO DE LAS BERMUDAS - AVIONES Y BARCOS DESAPARECIDOS - ANEEKA DE TEMMER \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/triangulo-de-las-bermudas-aviones-y-barcos-desaparecidos-aneeka-de-temmer-sin-video) (2020-10-24; es); passages p0003, p0004, p0005, p0011. [Structured record](../../records/src-079a413a4643.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-507124acb730-c02
+
+She says EMPs disrupted particles in computer immersion models, but results were not field-tested. She says the particles would remain in the body; she lacked conclusive real-world data.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [NANO TECNOLOGÍA APLICADA EN LAS VACUNAS Y MANERAS DE DESACTIVARLA - Swaruu D´Jedi Ronin](https://swaruu.org/transcripts/nano-tecnologia-aplicada-en-las-vacunas-y-maneras-de-desactivarla-swaruu-d-jedi-ronin) (2020-06-11; es); passages p0009, p0013, p0033, p0035, p0039, p0041. [Structured record](../../records/src-507124acb730.json).
+
+### src-507124acb730-c03
+
+Swaruu says EMPs can interrupt electrical or magnetic devices through dominant-frequency effects.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NANO TECNOLOGÍA APLICADA EN LAS VACUNAS Y MANERAS DE DESACTIVARLA - Swaruu D´Jedi Ronin](https://swaruu.org/transcripts/nano-tecnologia-aplicada-en-las-vacunas-y-maneras-de-desactivarla-swaruu-d-jedi-ronin) (2020-06-11; es); passages p0023. [Structured record](../../records/src-507124acb730.json).
+
+### src-27117e8f1038-c03
+
+Anéeka describes anti-radiation nanodust aerosols that counter radiation through destructive interference.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Coronavirus - Lo que sabemos hasta ahora - VIDEO ELIMINADO EN YOUTUBE POR CENSURA](https://swaruu.org/transcripts/coronavirus-lo-que-sabemos-hasta-ahora-video-eliminado-en-youtube-por-censura) (2020-02-03; es); passages p0012, p0013. [Structured record](../../records/src-27117e8f1038.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-e1b812564c1f-c04
+
+Point-zero power needs no fuel or recharge, enabling unlimited range without portals.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Tecnologia Extraterrestre: Procedimiento de Despegue y Vuelo (Mensaje Pleyadiano - Taygeta)](https://swaruu.org/transcripts/tecnologia-extraterrestre-procedimiento-de-despegue-y-vuelo-mensaje-pleyadiano-taygeta) (2020-02-29; es); passages p0053, p0054. [Structured record](../../records/src-e1b812564c1f.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-2c51b741eabb-c02
+
+Zero-point reactors keep output stable as speed rises; ionizing reactors gain output as reactor mass increases.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu - Mapeando Espacios Desconocidos (Navegación Estelar 7) Comunicación Extraterrestre](https://swaruu.org/transcripts/swaruu-mapeando-espacios-desconocidos-navegacion-estelar-7-comunicacion-extraterrestre) (2020-01-12; es); passages p0009, p0010, p0011, p0012, p0015. [Structured record](../../records/src-2c51b741eabb.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-44f7a105a538-c01
+
+Swaruu defines zero-point energy as a usable spark from energetic imbalance between poles; controlled flux can create a miniature reactor sun.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Energía Punto Cero - Energía Libre - Espiritualidad y Conciencia - Estrella Taygeta](https://swaruu.org/transcripts/energia-punto-cero-energia-libre-espiritualidad-y-conciencia-estrella-taygeta) (2020-02-06; es); passages p0008, p0015. [Structured record](../../records/src-44f7a105a538.json).
+
+Related topics: [Ether field](ether-field.md).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -671,16 +783,28 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-47516d4ba42c-c01](starship-systems.md#src-47516d4ba42c-c01) — Starship systems
 - [src-47516d4ba42c-c02](starship-systems.md#src-47516d4ba42c-c02) — Starship systems
 - [src-47516d4ba42c-c04](starship-systems.md#src-47516d4ba42c-c04) — Starship systems
+- [src-00837bcc422f-c02](red-mercury-gravity-turbines.md#src-00837bcc422f-c02) — Red-mercury gravity turbines
+- [src-3247a8725177-c01](atlantean-zero-point-pyramids.md#src-3247a8725177-c01) — Atlantean zero-point pyramids
+- [src-3247a8725177-c03](galactic-federation.md#src-3247a8725177-c03) — Galactic Federation
+- [src-1786d1c8b594-c04](ancient-egypt.md#src-1786d1c8b594-c04) — Ancient Egypt
+- [src-a67fb92e8975-c03](artificial-portals.md#src-a67fb92e8975-c03) — Artificial portals
+- [src-06c80561b461-c02](natural-portals.md#src-06c80561b461-c02) — Natural and artificial portals
+- [src-06c80561b461-c03](natural-portals.md#src-06c80561b461-c03) — Natural and artificial portals
+- [src-61a0b9a71122-c02](starship-systems.md#src-61a0b9a71122-c02) — Starship systems
+- [src-44f7a105a538-c02](ether-field.md#src-44f7a105a538-c02) — Ether field
+- [src-18ebdb1cca3c-c02](earth-cabal.md#src-18ebdb1cca3c-c02) — Earth Cabal and power structures
 
 ## Review flags
 
 - Compared English candidate src-622099cec238; article substantially matches but has paragraph segmentation/translation differences.
+- EMP-intervention-field-unknown
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - aircraft-identity-ambiguity
 - alternative-weapons-claims
 - ancient-site-claims-attributed
+- ancient-texts-as-racial-symbolism-attributed
 - apollo-denial-claims
 - author-signature-attribution
 - biology-claim
@@ -691,6 +815,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - contested-claim
 - contested-claims
 - contested\_archaeology
+- directed-energy-attack-claims
 - earth\_science\_claims\_unverified
 - entertainment-disclaimer
 - extraordinary\_astronomical\_claims
@@ -702,20 +827,26 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - extraordinary\_physics\_claims
 - extraordinary\_technology\_claims
 - federation\_dispute
+- flight-19-explanation-uncertain
+- giza-underground-base-claim
 - historical and technological interpretations are attributed to Athena
 - historical-claims-unverified
 - internal\_uncertainty
+- laboratory-virus-report-uncertain
 - lunar-reactor-age-origin-uncertainty
 - matrix-technology-attributed
 - medical-claims-unverified
 - metaphysical-claims
+- nanotechnology-claims-based-on-simulation
 - narrator\_claims
 - nonhuman-technology\_claims\_attributed
 - nonstandard-physics-claims
 - nonstandard-planetary-model
 - nuclear\_science\_misinformation
+- pandemic-timeline-claims
 - portal-technology-claims-unverified
 - prior\_statement\_conflict
+- pyramid-age-and-function-unverified
 - reported\_plan
 - same-language-near-duplicate-src-7872bc2f2c04
 - second-contact-stoppage-attributed-to-yazhi
@@ -727,10 +858,15 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - suzy-thrust-rating-variant-review
 - taygetan-society-claims-attributed
 - technology\_claims
+- temporal-duplicate-theory
 - terrestrial-science-claims
 - tractor-beam-technology-attributed
 - translated-originally-Spanish
 - translation-counterpart-src-b781192c3a3d-expanded-plasma-engine-details
+- translation-counterpart: none identified
+- translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control
+- translation-counterpart:src-ce6ea4ce1c3c-close
+- translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
 - transport\_safety\_and\_policy\_claims\_unverified
 - unverified\_ancient\_technology\_claims
 - unverified\_biological\_claims
@@ -740,4 +876,6 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - unverified\_lunar\_claims
 - unverified\_lunar\_technology
 - unverified\_technical\_claims
+- vaccine-nanotech-claim-model-tested-only
 - wartime-conspiracy-claims
+- yemen-portal-claim

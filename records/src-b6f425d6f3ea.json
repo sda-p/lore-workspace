@@ -1,0 +1,90 @@
+{
+  "source_id": "src-b6f425d6f3ea",
+  "snapshot_sha256": "24f72e92274f7d9e32633b5a46c46de0ee3e2d4075137ff44997a7f4e474fb73",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b6f425d6f3ea-c01",
+      "assertion": "Anéeka says Suzy fighters are female-designed and rounded, while Scimitar A interceptors are light and B assault variants carry troops or vehicles.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6f425d6f3ea-c02",
+      "assertion": "She says plasma-jet engines form high-energy toroids for density shifts; gravitic manipulators have limited power and mainly serve for maneuvering.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0029",
+        "p0031",
+        "p0034",
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "gravitic-generators"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6f425d6f3ea-c03",
+      "assertion": "She describes morphic hulls as computer-shaped nanotechnology spheres that magnetically join into solid, heat-resistant composite materials.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0045",
+        "p0047",
+        "p0083",
+        "p0089"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6f425d6f3ea-c04",
+      "assertion": "A Toleka-scale ship may take five years and thousands of workers to build; modular internals are assembled before powered nanotech forms the casing.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0082",
+        "p0083",
+        "p0086",
+        "p0087"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "muon-internet-routing",
+    "weaponized-microwave-countermeasures"
+  ]
+}

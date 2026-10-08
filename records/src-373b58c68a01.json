@@ -1,0 +1,89 @@
+{
+  "source_id": "src-373b58c68a01",
+  "snapshot_sha256": "7d76d6cf1312d0c6c223bb887ef7c15b573b52b3f19bee5d1355d3d49f432091",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-373b58c68a01-c01",
+      "assertion": "Anéeka calls 12-strand DNA activation mostly esoteric; she says DNA reflects consciousness and changes follow personal growth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She allows invasive alteration as an exception."
+    },
+    {
+      "id": "src-373b58c68a01-c02",
+      "assertion": "She says partial memory loss eases Earth functioning and trauma; mental growth can sometimes overcome destructive frequencies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-373b58c68a01-c03",
+      "assertion": "She says recalling past actions can burden people with karma and impair adaptation; full-memory starseeds may feel unhappy and homesick.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021",
+        "p0028"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-373b58c68a01-c04",
+      "assertion": "Anéeka says denying karma can evade responsibility; Gosia distinguishes responsibility from reincarnation debt.",
+      "speaker": "Anéeka; Gosia",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Their interpretations differ."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "DNA-consciousness-causality-claim",
+    "karma-interpretation-disagreement"
+  ],
+  "coverage_gaps": [
+    "full-memory-trauma-examples",
+    "frequency-override-limit",
+    "memory-and-human-identity"
+  ]
+}

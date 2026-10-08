@@ -61,7 +61,9 @@ Related topics: [Disc-shaped shuttle craft](disc-shaped-shuttles.md).
 ## Claims filed under other topics
 
 - [src-bfae5ca72b24-c05](alien-species.md#src-bfae5ca72b24-c05) — Alien species and distinctions
+- [src-bdc9959237c9-c04](galactic-federation.md#src-bdc9959237c9-c04) — Galactic Federation
 
 ## Review flags
 
 - causal-attribution-tension
+- species-trait-generalizations-attributed

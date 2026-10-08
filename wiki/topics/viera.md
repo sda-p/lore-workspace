@@ -99,13 +99,16 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - [src-41d2f89260a5-c06](galactic-federation.md#src-41d2f89260a5-c06) — Galactic Federation
 - [src-fe82d1a07961-c02](galactic-federation.md#src-fe82d1a07961-c02) — Galactic Federation
 - [src-3ab615820cb8-c02](galactic-federation.md#src-3ab615820cb8-c02) — Galactic Federation
+- [src-33c7243bf8a8-c03](galactic-federation.md#src-33c7243bf8a8-c03) — Galactic Federation
 
 ## Review flags
 
 - Federation-arguments\_reported
 - Species summaries are broad and based on accounts attributed to orbital sources
 - broad-exopolitical-allegations
+- federation-role-variation
 - forecast-in-retrospect
+- intra-source-policy-tension
 - lunar-reactor-age-origin-uncertainty
 - ship-specifications\_attributed
 - unverified-contact-claims

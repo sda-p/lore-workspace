@@ -1,0 +1,47 @@
+{
+  "source_id": "src-bc16c7eb40d8",
+  "snapshot_sha256": "eb8dc2695335eababbcae6898d56c9bb8931cb762934c8404bcf5e9d6af7b7d8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bc16c7eb40d8-c01",
+      "assertion": "Anéeka describes the pineal gland as a modulator and interface that translates etheric experiences into conscious memories, rather than receiving the soul signal itself.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0010"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the signal enters through the whole brain and body."
+    },
+    {
+      "id": "src-bc16c7eb40d8-c02",
+      "assertion": "She says pineal rod-like structures produce nerve stimuli interpreted by the brain’s psycho-visual area as images from nonphysical experiences.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this resembles, but is not, ordinary visual reception."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

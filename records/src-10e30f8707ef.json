@@ -1,0 +1,117 @@
+{
+  "source_id": "src-10e30f8707ef",
+  "snapshot_sha256": "221c7ce16a9d3a66afc63c3b683c1fc288558d2ddf4aeffdbafe9f209236fe36",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-10e30f8707ef-c01",
+      "assertion": "Anéeka describes Temmer and Erra as symbiotic worlds with fewer predators and gentler ecosystems than Earth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007",
+        "p0017"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10e30f8707ef-c02",
+      "assertion": "She contrasts Procyon as hot, 1.2G, toxic, and filled with predatory wildlife.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0018"
+      ],
+      "primary_topic": "procyon",
+      "topics": [
+        "procyon",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10e30f8707ef-c03",
+      "assertion": "She says Temmer is a mild tropical waterworld with few storms and abundant cetaceans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10e30f8707ef-c04",
+      "assertion": "Temmer boats use magnetic waterjets instead of propellers to protect marine life, powered mainly by zero-point energy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10e30f8707ef-c05",
+      "assertion": "Erra plants flee disturbances on retractable roots; some trees walk slowly, while Ents communicate telepathically.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "taygetan-mobile-plants",
+      "topics": [
+        "taygetan-mobile-plants",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-mobile-plants",
+      "name": "Mobile Plants of Taygeta",
+      "kind": "flora",
+      "aliases": [
+        "Erra moving plants",
+        "Ents"
+      ]
+    }
+  ],
+  "review_flags": [
+    "speculative-ecosystem-biology",
+    "zero-point-watercraft-technology"
+  ],
+  "coverage_gaps": [
+    "Dakote-gravity-and-climate",
+    "Temmer-two-seasons",
+    "animal-predator-details"
+  ]
+}

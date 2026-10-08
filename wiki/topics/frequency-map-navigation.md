@@ -352,6 +352,36 @@ Source: [Navegacion Estelar 2 (Parte 4): Motores de Naves Extraterrestres y Cohe
 
 Related topics: [Starship systems](starship-systems.md), [Gravity harmonics](gravity-harmonics.md).
 
+### src-3fe6ca238068-c02
+
+She says ships navigate space-time by matching a destination frequency, constrained by their emulation capacity.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MANIPULACION TEMPORAL - Cambiar el Pasado - Viajes Temporales - Swaruu de Erra](https://swaruu.org/transcripts/manipulacion-temporal-cambiar-el-pasado-viajes-temporales-swaruu-de-erra) (2020-01-22; es); passages p0018, p0020, p0021. [Structured record](../../records/src-3fe6ca238068.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-2c51b741eabb-c03
+
+Supra-luminal ships use staged frequency-map jumps, recording gravity and ether values to survey unknown regions.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu - Mapeando Espacios Desconocidos (Navegación Estelar 7) Comunicación Extraterrestre](https://swaruu.org/transcripts/swaruu-mapeando-espacios-desconocidos-navegacion-estelar-7-comunicacion-extraterrestre) (2020-01-12; es); passages p0019, p0020, p0021, p0022, p0045, p0046. [Structured record](../../records/src-2c51b741eabb.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-2c51b741eabb-c04
+
+Swaruu says ether harmonics let computers infer unknown frequencies and interpolate gaps between measured points.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu - Mapeando Espacios Desconocidos (Navegación Estelar 7) Comunicación Extraterrestre](https://swaruu.org/transcripts/swaruu-mapeando-espacios-desconocidos-navegacion-estelar-7-comunicacion-extraterrestre) (2020-01-12; es); passages p0030, p0031, p0034, p0046. [Structured record](../../records/src-2c51b741eabb.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c01](stellar-navigation.md#src-426ea469937a-c01) — Stellar navigation
@@ -373,6 +403,7 @@ Related topics: [Starship systems](starship-systems.md), [Gravity harmonics](gra
 - [src-349f835aa3ef-c02](starship-systems.md#src-349f835aa3ef-c02) — Starship systems
 - [src-349f835aa3ef-c03](starship-systems.md#src-349f835aa3ef-c03) — Starship systems
 - [src-ca24d8041f8f-c01](moon-matrix.md#src-ca24d8041f8f-c01) — Moon and terrestrial Matrix
+- [src-e1b812564c1f-c02](starship-systems.md#src-e1b812564c1f-c02) — Starship systems
 
 ## Review flags
 
@@ -388,6 +419,7 @@ Related topics: [Starship systems](starship-systems.md), [Gravity harmonics](gra
 - nonhuman-technology\_claims\_attributed
 - portal-mechanics-overlap-src-6abed4268d57
 - post-eclipse-causal-attribution
+- psychological memory-rewriting discussion could be confused with clinical guidance
 - related-frequency-navigation-source
 - same-language-near-duplicate-src-6a5223076196
 - source-mixed-origin-en-reactor-and-spanish-engine-sections
@@ -397,6 +429,9 @@ Related topics: [Starship systems](starship-systems.md), [Gravity harmonics](gra
 - title-metadata-diff
 - translated-from-Spanish-original-not-available
 - translation-counterpart-src-b781192c3a3d-expanded-plasma-engine-details
+- translation-counterpart: none identified
+- translation-counterpart:src-ce6ea4ce1c3c-close
+- translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
 - unverified\_historical\_claims
 - unverified\_physics\_claims
 - unverified\_technical\_claims

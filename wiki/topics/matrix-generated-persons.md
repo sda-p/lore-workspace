@@ -62,9 +62,11 @@ Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 
 - [src-71526671dc28-c03](walk-in-phenomenon.md#src-71526671dc28-c03) — Walk-in phenomenon
 - [src-80367dc03fbe-c04](moon-matrix.md#src-80367dc03fbe-c04) — Moon and terrestrial Matrix
+- [src-a4e3084ce97a-c04](moon-matrix.md#src-a4e3084ce97a-c04) — Moon and terrestrial Matrix
 
 ## Review flags
 
+- conceptual-revision:mind-reading-vs-perception
 - matrix-scope-differing-views
 - status-unverifiable
 - translated-originally-Spanish

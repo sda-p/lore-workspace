@@ -62,9 +62,11 @@ Related topics: [Alien species and distinctions](alien-species.md).
 
 - [src-74c032374fff-c02](earth-cabal.md#src-74c032374fff-c02) — Earth Cabal and power structures
 - [src-59c43e8ab96d-c03](maitre.md#src-59c43e8ab96d-c03) — Maitre
+- [src-76864ac53fe6-c02](ohalum-council.md#src-76864ac53fe6-c02) — Ohalum Council
 
 ## Review flags
 
+- ancient-solar-system-density-and-polity-claims
 - contested\_extraterrestrial\_history
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - unsupported\_planetary\_claims

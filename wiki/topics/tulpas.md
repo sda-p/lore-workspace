@@ -58,6 +58,16 @@ Source: [ARCONTES - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swa
 
 Related topics: [Original Matrix](original-matrix.md).
 
+### src-057efbcdf1b8-c03
+
+Swaruu says fear concentrates creative attention on feared outcomes, fostering nightmares, tulpas and regressive beings, while positive intentions remain scattered.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MANIFESTAR ABUNDANCIA - SOCIEDAD HOLOGRAFICA – SWARUU D´JEDI RONIN](https://swaruu.org/transcripts/manifestar-abundancia-sociedad-holografica-swaruu-d-jedi-ronin) (2020-05-19; es); passages p0016, p0017, p0021. [Structured record](../../records/src-057efbcdf1b8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-78a2f4005f35-c05](original-matrix.md#src-78a2f4005f35-c05) — Original Matrix

@@ -84,6 +84,36 @@ Source: [CONTACTO EXTRATERRESTRE – LA MATRIX – SISTEMA SOLAR – NIBIRU – 
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-76864ac53fe6-c01
+
+Yazhi says Orion Council reptilians sought Lyrian enslavement or exploitation, while the Federation fought back; Lyrians fled to the Pleiades, Venus, and Earth. Chronology is approximate.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA EXPANSIÓN DE LYRA - LAS GUERRAS DE ORIÓN - PARTE 2 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-expansion-de-lyra-las-guerras-de-orion-parte-2-sin-video) (2020-07-09; es); passages p0022, p0023, p0024, p0025, p0026. [Structured record](../../records/src-76864ac53fe6.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md), [Galactic Federation](galactic-federation.md).
+
+### src-51b930d00866-c01
+
+Yazhi says Alpha Draconis created the Orion Council, which coordinated a Reptilian invasion of Vega, Avalon, and Lyra; peaceful Lyrians fled and spread across the galaxy.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Guerras de Orion - Gran Expansión de Lyra - Introduccion \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/guerras-de-orion-gran-expansion-de-lyra-introduccion-sin-video) (2020-06-20; es); passages p0002, p0003. [Structured record](../../records/src-51b930d00866.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-a02207051534-c02
+
+She says Usungal Reptilians pursued Lyrians to Earth, reducing them to eight women; later waves founded Atlantis and enslaved Lyrians.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [Las Guerras de Orion - Invasion Reptil - Atlantida y Lemuria - Parte 3 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/las-guerras-de-orion-invasion-reptil-atlantida-y-lemuria-parte-3-sin-video) (2020-07-24; es); passages p0020, p0023, p0024, p0025. [Structured record](../../records/src-a02207051534.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md), [Reptilians](reptilians.md), [Atlantis and Lemuria](atlantis-lemuria.md).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c01](lyran-expansion.md#src-03f88504384a-c01) — Lyran expansion
@@ -101,12 +131,14 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-08eb04ce1eff-c04](lyran-expansion.md#src-08eb04ce1eff-c04) — Lyran expansion
 - [src-f3a1e4326731-c02](galactic-federation.md#src-f3a1e4326731-c02) — Galactic Federation
 - [src-ec0774773c92-c02](tiamat.md#src-ec0774773c92-c02) — Tiamat
+- [src-51b930d00866-c02](galactic-federation.md#src-51b930d00866-c02) — Galactic Federation
 
 ## Review flags
 
 - Federation-infiltration\_theory
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- ancient-solar-system-density-and-polity-claims
 - approximate\_dates
 - conflicting\_faction\_accounts
 - conflicting\_origin\_accounts
@@ -123,5 +155,6 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - solar-system-history-attributed
 - translated-from-spanish
 - translated\_source
+- translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
 - unproven-historical-speculation
 - unverified\_extraterrestrial\_claims

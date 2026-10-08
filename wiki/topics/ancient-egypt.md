@@ -212,6 +212,46 @@ Source: [QUIEN FUE MOISÉS – QUE ERA LA ARCA DE LA ALIANZA – LOS LYRIANOS](h
 
 Related topics: [Reptilians](reptilians.md).
 
+### src-1786d1c8b594-c01
+
+Swaruu (9) dates Giza’s Great Pyramid to about 12,500 years ago and attributes its construction to Federation engineering.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Quienes Construyeron las Pirámides de Egipto - Los Secretos de la Gran Pirámide - Swaruu de Erra](https://swaruu.org/transcripts/quienes-construyeron-las-piramides-de-egipto-los-secretos-de-la-gran-piramide-swaruu-de-erra) (2020-02-18; es); passages p0004, p0007. [Structured record](../../records/src-1786d1c8b594.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-1786d1c8b594-c04
+
+She says builders used sound-cut stone, antigravity, internal ramps, and volunteer local labor, not slaves.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Quienes Construyeron las Pirámides de Egipto - Los Secretos de la Gran Pirámide - Swaruu de Erra](https://swaruu.org/transcripts/quienes-construyeron-las-piramides-de-egipto-los-secretos-de-la-gran-piramide-swaruu-de-erra) (2020-02-18; es); passages p0047, p0048, p0049, p0050, p0051. [Structured record](../../records/src-1786d1c8b594.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-1786d1c8b594-c05
+
+Swaruu says Giza was a Federation base on ley lines, with a concealed underground complex beneath the Sphinx.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Quienes Construyeron las Pirámides de Egipto - Los Secretos de la Gran Pirámide - Swaruu de Erra](https://swaruu.org/transcripts/quienes-construyeron-las-piramides-de-egipto-los-secretos-de-la-gran-piramide-swaruu-de-erra) (2020-02-18; es); passages p0039, p0061, p0071. [Structured record](../../records/src-1786d1c8b594.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-c7d61405393c-c01
+
+Swaruu recounts Cleopatra’s pro-Roman faction opposing Arsinoe’s resistance; Arsinoe’s forces briefly drove Caesar’s Romans from Alexandria’s Pharos. Her reconstruction.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: medium.
+
+Source: [Existio realmente Jesus - Arsinoe y Cleopatra - Maria Magdalena - Ishtar – Swaruu de Erra](https://swaruu.org/transcripts/existio-realmente-jesus-arsinoe-y-cleopatra-maria-magdalena-ishtar-swaruu-de-erra) (2020-03-06; es); passages p0003, p0004, p0022, p0024, p0025, p0023. [Structured record](../../records/src-c7d61405393c.json).
+
+Related topics: [Arsinoe IV](arsinoe-iv.md).
+
 ## Claims filed under other topics
 
 - [src-45ef563e0d5a-c03](prime-directive.md#src-45ef563e0d5a-c03) — Prime Directive
@@ -225,6 +265,12 @@ Related topics: [Reptilians](reptilians.md).
 - [src-8a805d3bcc25-c01](atlantis-lemuria.md#src-8a805d3bcc25-c01) — Atlantis and Lemuria
 - [src-8a805d3bcc25-c03](elohi.md#src-8a805d3bcc25-c03) — Elohi
 - [src-8a805d3bcc25-c04](taygetans.md#src-8a805d3bcc25-c04) — Taygetans
+- [src-42e6137b02bd-c03](astrotheology.md#src-42e6137b02bd-c03) — Astrotheology
+- [src-1786d1c8b594-c02](energy-generation.md#src-1786d1c8b594-c02) — Energy generation technology
+- [src-1786d1c8b594-c03](natural-portals.md#src-1786d1c8b594-c03) — Natural and artificial portals
+- [src-c7d61405393c-c02](arsinoe-iv.md#src-c7d61405393c-c02) — Arsinoe IV
+- [src-c7d61405393c-c03](arsinoe-iv.md#src-c7d61405393c-c03) — Arsinoe IV
+- [src-c7d61405393c-c04](mary-magdalene.md#src-c7d61405393c-c04) — Mary Magdalene
 
 ## Review flags
 
@@ -236,10 +282,16 @@ Related topics: [Reptilians](reptilians.md).
 - ancient-site-claims-attributed
 - ark-locations-and-status
 - contested-claims
+- disputed-scriptural-history
+- giza-underground-base-claim
 - historical and technological interpretations are attributed to Athena
 - historical-claim
 - historical-date-ambiguity
+- identity-and-chronology-disputed
+- internal\_tension
 - nonstandard-physics-claims
+- pyramid-age-and-function-unverified
 - reported-comparison-not-speaker-endorsement
 - speaker-attribution-inferred-from-robert-transcript
+- speculative-ancient-history-reconstruction
 - translated-originally-Spanish

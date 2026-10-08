@@ -1,0 +1,52 @@
+{
+  "source_id": "src-b01e12100c02",
+  "snapshot_sha256": "c2fceec690b6714a7e1edb7536cde9aa9b878f3237ad4d736d47fa90c4f046c1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b01e12100c02-c01",
+      "assertion": "Yazhi says star maps record birth time and place, which can help interpret a person and coordinate dates across species; stars reflect rather than determine character.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0019"
+      ],
+      "primary_topic": "frequency-astrology",
+      "topics": [
+        "frequency-astrology",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the stars reflect rather than determine a person's character."
+    },
+    {
+      "id": "src-b01e12100c02-c02",
+      "assertion": "Yazhi describes Earth's Moon as a Federation-operated ship based at Saturn that emits frequencies to disrupt psychic connection.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0089",
+        "p0093",
+        "p0107"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "frequency-astrology",
+        "saturn-bases"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says its effects chiefly concern Earth and interfere with astrology."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "medical-claims-omitted",
+    "other-astrology-claims-omitted"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "src-0669cfd94f43",
+  "snapshot_sha256": "06fa8a91765eba70dbb879d07c7fb0ccc437ed2e2566a345e7a18be2308eabc6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0669cfd94f43-c01",
+      "assertion": "Athena says people can be victims at a personal level yet creators of reality from a broader perspective; blaming an individual for their harm is abusive.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her perspective-based model."
+    },
+    {
+      "id": "src-0669cfd94f43-c02",
+      "assertion": "She says starseeds can feel pulled by the dominant collective reality despite awareness, and many lack resources to leave its social system.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0020",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes this as a common, not universal, experience."
+    },
+    {
+      "id": "src-0669cfd94f43-c03",
+      "assertion": "Athena says people interpret new ideas through prior knowledge frameworks; she advises studying broadly and forming one’s own model rather than following authorities.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0028",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her advice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal-responsibility-model-retains-victim-perspective"
+  ],
+  "coverage_gaps": [
+    "humanitarian-intervention-limits",
+    "seedstar-separation-strategies"
+  ]
+}

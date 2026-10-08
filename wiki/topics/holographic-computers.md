@@ -446,6 +446,26 @@ Source: [LA LUNA - ESTACIÓN ESPACIAL ARTIFICIAL Y LA MATRIX 3D – SWARUU - TAY
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-2a59653712d3-c02
+
+Anéeka’s intelligence team monitors Earth communications; quantum holographic computers process a claimed billion terabytes per second and infer population reactions. Her estimate.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Anéeka de Temmer - Entrevista (Comunicación Extraterrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/aneeka-de-temmer-entrevista-comunicacion-extraterrestre-taygeta-pleyades) (2020-05-20; es); passages p0071, p0073, p0074, p0075, p0076. [Structured record](../../records/src-2a59653712d3.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-1f3aa749d3b8-c04
+
+She says energy mapping reads material frequencies in buildings, which computers render into detailed holograms. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PORTALES ESPACIO TEMPORALES – VIAJE A TRAVÉS DEL ESPACIO TIEMPO - Anéeka de Temmer](https://swaruu.org/transcripts/portales-espacio-temporales-viaje-a-traves-del-espacio-tiempo-aneeka-de-temmer) (2020-06-27; es); passages p0065. [Structured record](../../records/src-1f3aa749d3b8.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-f22366424c26-c01](moon-matrix.md#src-f22366424c26-c01) — Moon and terrestrial Matrix
@@ -480,13 +500,23 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - [src-d91884cf2930-c04](frequency-microscopes.md#src-d91884cf2930-c04) — Frequency Mapping Microscopes
 - [src-ca24d8041f8f-c03](moon-biosphere-ship.md#src-ca24d8041f8f-c03) — The Moon as a biosphere ship
 - [src-ca24d8041f8f-c05](starship-systems.md#src-ca24d8041f8f-c05) — Starship systems
+- [src-de6bb6a64653-c04](earth-cabal.md#src-de6bb6a64653-c04) — Earth Cabal and power structures
+- [src-2e29a706d6e3-c01](earth-cabal.md#src-2e29a706d6e3-c01) — Earth Cabal and power structures
+- [src-507124acb730-c01](earth-cabal.md#src-507124acb730-c01) — Earth Cabal and power structures
+- [src-9b3780bf7fb6-c02](memory-implants.md#src-9b3780bf7fb6-c02) — Memory implants
+- [src-cd1fcaa78711-c02](muon-gravity-communications.md#src-cd1fcaa78711-c02) — Muon-triggered gravity communications
+- [src-a02207051534-c05](nazca-spaceport.md#src-a02207051534-c05) — Nazca spaceport
+- [src-e1b812564c1f-c01](starship-systems.md#src-e1b812564c1f-c01) — Starship systems
 
 ## Review flags
 
 - Alenym-retirement-not-decided
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- EMP-intervention-field-unknown
 - ai-clone-claims-attributed
+- biomedical-claims-not-independently-supported
 - blockade-and-biology-attributed
+- computer-throughput-claim-attributed
 - contested-space-history-allegation
 - ether\_and\_manifestation\_model
 - ether\_model
@@ -501,8 +531,13 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - frequency-mechanics-attributed
 - frequency\_health\_claims\_unverified
 - historical-allegations
+- machine-versus-etheric-implant-mechanisms
+- nanotechnology-claims
 - nonstandard-physics-claims
+- pandemic-control-claims
+- particle-vs-carrier-speed-distinction
 - pilot-account-attributed
+- portal-energy-estimates-attributed
 - related-frequency-navigation-source
 - related\_series\_part
 - technology-described-by-mari
@@ -510,7 +545,10 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - technology\_and\_mind\_interface
 - tractor-beam-technology-attributed
 - translated\_source
+- translation-counterpart: none identified
+- translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
 - unverified\_extraterrestrial\_technology\_claims
 - unverified\_laboratory\_report
 - unverified\_technical\_claims
 - unverified\_technology\_claims
+- vaccine-nanotech-claim-model-tested-only

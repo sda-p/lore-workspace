@@ -1,0 +1,64 @@
+{
+  "source_id": "src-8f36267b529f",
+  "snapshot_sha256": "7a75d222ca36878b4aee27907fb8dcb01ddfec26a65ed63bd27e43d02d3a7c05",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8f36267b529f-c01",
+      "assertion": "Yazhi says terrestrial civilizations repeatedly flourish and collapse in roughly 5,000–10,000-year cycles, and attributes humanlike morphology to ancient Lyrian peoples.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says cycle lengths vary elsewhere."
+    },
+    {
+      "id": "src-8f36267b529f-c02",
+      "assertion": "Yazhi argues history branches across timelines, with no single linear past, and says nonhuman records inform her alternative account.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her interpretation."
+    },
+    {
+      "id": "src-8f36267b529f-c03",
+      "assertion": "Yazhi alleges the Cabal destroyed historical records, while claiming many Alexandria-library manuscripts survive in the Vatican library.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as preserved hidden history."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "historical-conspiracy-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "specific-civilization-details-omitted"
+  ]
+}

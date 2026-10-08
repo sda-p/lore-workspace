@@ -1,0 +1,103 @@
+{
+  "source_id": "src-b85ee8ec9a41",
+  "snapshot_sha256": "50f23aee26657c28eace7bcb2c4b5d6dbeb5a52656d5c0af83e0e29891e1802c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b85ee8ec9a41-c01",
+      "assertion": "Yazhi calls her account personal, not absolute truth, and urges independent evaluation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b85ee8ec9a41-c02",
+      "assertion": "She says the Federation is not hostile and will not rescue Earth, viewing crises as familiar.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b85ee8ec9a41-c03",
+      "assertion": "She says thought alone is insufficient; research, discernment, and action are necessary.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b85ee8ec9a41-c04",
+      "assertion": "She says human thought and action shape reality, and mass non-consent may shift Earth’s collective mind.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b85ee8ec9a41-c05",
+      "assertion": "She says small trained groups can defeat larger forces through asymmetric warfare.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "federation-nonintervention-rationale",
+    "apocalyptic-political-framing"
+  ],
+  "coverage_gaps": [
+    "starseed-identity",
+    "historical-incarnations",
+    "resistance-group-tactics"
+  ]
+}

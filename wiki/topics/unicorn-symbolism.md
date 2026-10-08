@@ -80,9 +80,41 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [Apis Bull, Red Bull, and Illuminati Symbolism - They Steal Symbols that are NOT theirs](https://swaruu.org/transcripts/apis-bull-red-bull-and-illuminati-symbolism-they-steal-symbols-that-are-not-theirs) (2022-05-06; en); passages p0036, p0037, p0041. [Structured record](../../records/src-90b4147078b4.json).
 
+### src-b76cc2a83453-c01
+
+Anéeka treats the unicorn as an ideal of unattainable perfection, using Swaruu's pursuit of total knowledge as an example.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [UNICORNIOS - SIMBOLOGÍA Y AGENDA 2030 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/unicornios-simbologia-y-agenda-2030-sin-video) (2020-08-21; es); passages p0004, p0005. [Structured record](../../records/src-b76cc2a83453.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b76cc2a83453-c02
+
+Yazhi links unicorn symbolism to the third eye, pineal transformation, and veiled change; she frames Shiva/Pluto as positive and deceiving-Messiah/Antichrist imagery as negative. These are her symbolic interpretations.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [UNICORNIOS - SIMBOLOGÍA Y AGENDA 2030 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/unicornios-simbologia-y-agenda-2030-sin-video) (2020-08-21; es); passages p0008, p0009, p0010, p0011, p0012, p0016. [Structured record](../../records/src-b76cc2a83453.json).
+
+Related topics: [Pineal interface](pineal-interface.md).
+
+### src-3901bf7c1489-c02
+
+Yazhi says imagined unicorns exist in higher densities as ideas or conscious beings that may choose this form to communicate downward.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Existen los unicornios? - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/existen-los-unicornios-sin-video) (2020-08-16; es); passages p0012, p0013, p0018. [Structured record](../../records/src-3901bf7c1489.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Review flags
 
+- multiple-symbolic-interpretations
 - symbolic-claims
 - symbolic-conspiracy-claims
 - symbolic-conspiracy-interpretation
 - translated-compilation
+- translation-counterpart:src-0bdff38c9c01-exact-full

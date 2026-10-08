@@ -1036,6 +1036,214 @@ Source: [EL SUICIDIO - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-5b3bbfac8b2b-c03
+
+Yazhi says death does not automatically grant higher consciousness: people retain their ideas and Matrix in the astral and plan lives from that limited perspective. She says consciousness depends on understanding, not embodiment.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Seamos Nuestro Yo Superior AHORA - Yázhi Swaruu - Comunicación Extraterrestre (Pléyades)](https://swaruu.org/transcripts/seamos-nuestro-yo-superior-ahora-yazhi-swaruu-comunicacion-extraterrestre-pleyades) (2020-10-01; es); passages p0063, p0064, p0075, p0077, p0080, p0084. [Structured record](../../records/src-5b3bbfac8b2b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-58b00e0b70b3-c03
+
+Swaruu says higher-density beings view death as an exit from Earth back to one's origin, but she refuses to dismiss human death's tragedy as unreal.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MENSAJE DEL TIGRE A LA HUMANIDAD \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/mensaje-del-tigre-a-la-humanidad) (2020-06-11; es); passages p0016, p0017, p0018. [Structured record](../../records/src-58b00e0b70b3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-19222374970c-c04
+
+She says discarnate souls retain Matrix beliefs and may plan lives from limited awareness; 3D effort builds the soul.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [COMO SE CONSTRUYE EL ALMA LA CONSCIENCIA - YÁZHI SWARUU](https://swaruu.org/transcripts/como-se-construye-el-alma-la-consciencia-yazhi-swaruu) (2020-09-02; es); passages p0109, p0115, p0116, p0129, p0133. [Structured record](../../records/src-19222374970c.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-93765edbe0c7-c01
+
+Swaruu says a dead person's residual frequency shapes postmortem perception; belief can produce a matching heaven, deity, or feared entity. Her model.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Donde Vamos Cuando Morimos - Mensaje de Swaruu de Erra (Contacto Extraterrestre-Pleyades)](https://swaruu.org/transcripts/donde-vamos-cuando-morimos-mensaje-de-swaruu-de-erra-contacto-extraterrestre-pleyades) (2019-12-06; es); passages p0002, p0003, p0007, p0008. [Structured record](../../records/src-93765edbe0c7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-93765edbe0c7-c02
+
+She says guilt and karma beliefs prompt reincarnation, not an external Archon trap; souls choose incarnations and their forgetting. Her account.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Donde Vamos Cuando Morimos - Mensaje de Swaruu de Erra (Contacto Extraterrestre-Pleyades)](https://swaruu.org/transcripts/donde-vamos-cuando-morimos-mensaje-de-swaruu-de-erra-contacto-extraterrestre-pleyades) (2019-12-06; es); passages p0008, p0009, p0017, p0023, p0024. [Structured record](../../records/src-93765edbe0c7.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-93765edbe0c7-c03
+
+She says violent death or obsession can form a low astral body and looping scenario; ghosts may assemble social worlds. Her account.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Donde Vamos Cuando Morimos - Mensaje de Swaruu de Erra (Contacto Extraterrestre-Pleyades)](https://swaruu.org/transcripts/donde-vamos-cuando-morimos-mensaje-de-swaruu-de-erra-contacto-extraterrestre-pleyades) (2019-12-06; es); passages p0026, p0027, p0028, p0070. [Structured record](../../records/src-93765edbe0c7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-93765edbe0c7-c04
+
+She says prayers may reinforce a confused soul's religious expectations; speaking aloud and offering forgiveness can guide some dead. Advice.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Donde Vamos Cuando Morimos - Mensaje de Swaruu de Erra (Contacto Extraterrestre-Pleyades)](https://swaruu.org/transcripts/donde-vamos-cuando-morimos-mensaje-de-swaruu-de-erra-contacto-extraterrestre-pleyades) (2019-12-06; es); passages p0047, p0050, p0054, p0056, p0058. [Structured record](../../records/src-93765edbe0c7.json).
+
+Related topics: [Astrotheology](astrotheology.md).
+
+### src-de139e50d05b-c01
+
+Swaruu says postmortem realms reflect individual or collective expectations; the dead may perceive bodies and physicality at compatible frequencies.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Entrevida, Muerte, Temas Relacionados: Mensaje Extraterrestre (Taygeta-Pleyades)](https://swaruu.org/transcripts/entrevida-muerte-temas-relacionados-mensaje-extraterrestre-taygeta-pleyades) (2019-12-17; es); passages p0003, p0004, p0006. [Structured record](../../records/src-de139e50d05b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-de139e50d05b-c02
+
+She says some human souls may attach to living people through shared interests, while others stay because they do not know or want to reincarnate.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Entrevida, Muerte, Temas Relacionados: Mensaje Extraterrestre (Taygeta-Pleyades)](https://swaruu.org/transcripts/entrevida-muerte-temas-relacionados-mensaje-extraterrestre-taygeta-pleyades) (2019-12-17; es); passages p0033, p0036, p0038, p0043. [Structured record](../../records/src-de139e50d05b.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-3fc0d6ff4509-c01
+
+Swaruu says bodily form ends at death; remaining frequency shapes what a person perceives.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL MUNDO DE LOS MUERTOS - DONDE VAMOS DESPUÉS DE LA MUERTE - SWARUU DE ERRA](https://swaruu.org/transcripts/el-mundo-de-los-muertos-donde-vamos-despues-de-la-muerte-swaruu-de-erra) (2019-12-07; es); passages p0002, p0004. [Structured record](../../records/src-3fc0d6ff4509.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3fc0d6ff4509-c02
+
+At the Source, all frequencies and times converge, and thoughts manifest immediately.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL MUNDO DE LOS MUERTOS - DONDE VAMOS DESPUÉS DE LA MUERTE - SWARUU DE ERRA](https://swaruu.org/transcripts/el-mundo-de-los-muertos-donde-vamos-despues-de-la-muerte-swaruu-de-erra) (2019-12-07; es); passages p0010, p0011. [Structured record](../../records/src-3fc0d6ff4509.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3fc0d6ff4509-c03
+
+Strong attachment or trauma can manifest an astral body repeating familiar or traumatic scenes.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL MUNDO DE LOS MUERTOS - DONDE VAMOS DESPUÉS DE LA MUERTE - SWARUU DE ERRA](https://swaruu.org/transcripts/el-mundo-de-los-muertos-donde-vamos-despues-de-la-muerte-swaruu-de-erra) (2019-12-07; es); passages p0018, p0019. [Structured record](../../records/src-3fc0d6ff4509.json).
+
+### src-3fc0d6ff4509-c04
+
+Disembodied souls form clans and perceive only beings within their frequency range.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL MUNDO DE LOS MUERTOS - DONDE VAMOS DESPUÉS DE LA MUERTE - SWARUU DE ERRA](https://swaruu.org/transcripts/el-mundo-de-los-muertos-donde-vamos-despues-de-la-muerte-swaruu-de-erra) (2019-12-07; es); passages p0084, p0086, p0088. [Structured record](../../records/src-3fc0d6ff4509.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3fc0d6ff4509-c05
+
+She says funeral prayers can reinforce religious expectations; spiritually free souls may ignore them.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL MUNDO DE LOS MUERTOS - DONDE VAMOS DESPUÉS DE LA MUERTE - SWARUU DE ERRA](https://swaruu.org/transcripts/el-mundo-de-los-muertos-donde-vamos-despues-de-la-muerte-swaruu-de-erra) (2019-12-07; es); passages p0039, p0040, p0041. [Structured record](../../records/src-3fc0d6ff4509.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3fc0d6ff4509-c06
+
+Souls can progress in personal SIT time after death; from their own perspective, none are lost or trapped.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL MUNDO DE LOS MUERTOS - DONDE VAMOS DESPUÉS DE LA MUERTE - SWARUU DE ERRA](https://swaruu.org/transcripts/el-mundo-de-los-muertos-donde-vamos-despues-de-la-muerte-swaruu-de-erra) (2019-12-07; es); passages p0061, p0063, p0074, p0076. [Structured record](../../records/src-3fc0d6ff4509.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-54359f164bb6-c04
+
+After death, people rest in an interlife then go where their frequency and consciousness fit.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Me Convierto en una Comadreja - Manejo de la Realidad - Yázhí Swaruu (Taygeta, Pleyades) - CENSURADO EN YOUTUBE](https://swaruu.org/transcripts/me-convierto-en-una-comadreja-manejo-de-la-realidad-yazhi-swaruu-taygeta-pleyades) (2020-10-08; es); passages p0033, p0034, p0041. [Structured record](../../records/src-54359f164bb6.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9e56879471e5-c02
+
+She says animal death may stem from inner exhaustion; euthanasia may fit a pet’s plan.
+
+Attributed to **Swaruu**; speculative; extraction confidence: high.
+
+Source: [Entrevida para Animales: Donde Van Nuestras Mascotas despues de Morir?](https://swaruu.org/transcripts/entrevida-para-animales-donde-van-nuestras-mascotas-despues-de-morir) (2019-12-21; es); passages p0013, p0015, p0016, p0020, p0022. [Structured record](../../records/src-9e56879471e5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9e56879471e5-c03
+
+Dhor says animals escape astral traps; souls linger there by choice and attachment.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Entrevida para Animales: Donde Van Nuestras Mascotas despues de Morir?](https://swaruu.org/transcripts/entrevida-para-animales-donde-van-nuestras-mascotas-despues-de-morir) (2019-12-21; es); passages p0044, p0046, p0048. [Structured record](../../records/src-9e56879471e5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9e56879471e5-c04
+
+Dhor speculates an aura spectrometer could trace an incarnated soul across timelines, despite soul nonlocality.
+
+Attributed to **Dhor Káal’el**; speculative; extraction confidence: high.
+
+Source: [Entrevida para Animales: Donde Van Nuestras Mascotas despues de Morir?](https://swaruu.org/transcripts/entrevida-para-animales-donde-van-nuestras-mascotas-despues-de-morir) (2019-12-21; es); passages p0051, p0052, p0054, p0056. [Structured record](../../records/src-9e56879471e5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9e56879471e5-c05
+
+He says received love joins a pet’s soul; it experiences loved ones as present.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Entrevida para Animales: Donde Van Nuestras Mascotas despues de Morir?](https://swaruu.org/transcripts/entrevida-para-animales-donde-van-nuestras-mascotas-despues-de-morir) (2019-12-21; es); passages p0057, p0058, p0065, p0066. [Structured record](../../records/src-9e56879471e5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9a0338811c9d-c03
+
+Awakened souls can reject Matrix entities or escape through high frequency; unprepared souls risk nightmare-like low astral states, and she warns against dying now.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA COSECHA DE LAS ALMAS - SEMILLAS ESTELARES - ENTES EN LA TIERRA - YAZHI SWARUU - \*\*CENSORADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/la-cosecha-de-las-almas-semillas-estelares-entes-en-la-tierra-yazhi-swaruu-censorado-en-youtube) (2020-10-22; es); passages p0003, p0006, p0007. [Structured record](../../records/src-9a0338811c9d.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c01](consciousness-metaphysics.md#src-331beeab2088-c01) — Consciousness and metaphysics
@@ -1069,13 +1277,19 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - [src-e260e25670b5-c03](consciousness-metaphysics.md#src-e260e25670b5-c03) — Consciousness and metaphysics
 - [src-4e3d013dc4c3-c01](astrotheology.md#src-4e3d013dc4c3-c01) — Astrotheology
 - [src-35a4804aef6f-c05](moon-matrix.md#src-35a4804aef6f-c05) — Moon and terrestrial Matrix
+- [src-19222374970c-c05](consciousness-metaphysics.md#src-19222374970c-c05) — Consciousness and metaphysics
+- [src-de139e50d05b-c03](taygetans.md#src-de139e50d05b-c03) — Taygetans
+- [src-d5687a897b3a-c02](consciousness-metaphysics.md#src-d5687a897b3a-c02) — Consciousness and metaphysics
+- [src-9e56879471e5-c06](consciousness-metaphysics.md#src-9e56879471e5-c06) — Consciousness and metaphysics
 
 ## Review flags
 
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- English source src-efce96683138 closely translates the full Spanish article; no substantive additions found.
 - Federation-arguments\_reported
 - Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
+- afterlife-claims-are-source-model
 - afterlife-model-attributed
 - agenda\_term\_varies
 - apollo-denial-claims
@@ -1089,6 +1303,7 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - gender-reincarnation\_views\_attributed
 - gender\_role\_generalization
 - historical-doctrine-origin-claim
+- human-agency-and-federation-oversight
 - incarnation-afterlife-metaphysics
 - metaphysical-claims\_attributed
 - metaphysical-model
@@ -1097,13 +1312,19 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - mirror-identity-varies
 - pathogen-claim\_attributed
 - personal\_metaphysics
+- perspective-variation
 - post-eclipse-causal-attribution
+- postmortem-consciousness-doctrine-attributed
 - postmortem-identity-ambiguity
+- postmortem-perception-and-reincarnation-model
 - reincarnation-cosmology
+- related-starseed-material-overlap
 - reported-claims\_by\_Ari
 - rescue-anecdotes-unverified
+- same-language-counterpart:src-cb51273860c3-wording-diff-agresivos
 - speaker-shift-in-source
 - translation-counterpart-src-77b565b0b608-shared-2018-section
+- translation-counterpart:none-identified
 - unverified\_biological\_claims
 - unverified\_paranormal\_claims
 - vision-narrative\_attributed

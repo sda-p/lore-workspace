@@ -1,0 +1,52 @@
+{
+  "source_id": "src-6e66e9328bac",
+  "snapshot_sha256": "799af8378a2907dae7a6f42dc049279b5b386bd69ab6f99ddf40ab12926847cc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6e66e9328bac-c01",
+      "assertion": "Yazhi interprets Tiwanaku’s Gate of the Sun as a marker for a solar portal that opens at each solstice; she reads related ancient symbols as portals or spacecraft.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "ancient-egypt",
+        "sumerian-tablet-interpretations"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents these as her interpretations of the imagery."
+    },
+    {
+      "id": "src-6e66e9328bac-c02",
+      "assertion": "Yazhi interprets the Anunnaki bag as symbolizing agricultural and cultural knowledge, and the ankh as a control stick indicating a person could pilot a spacecraft.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "sumerian-tablet-interpretations",
+      "topics": [
+        "sumerian-tablet-interpretations",
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She extends the same reading to figures at Tula, Mexico."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Palenque-astronaut-replica"
+  ]
+}

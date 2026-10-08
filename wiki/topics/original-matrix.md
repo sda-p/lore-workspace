@@ -364,6 +364,26 @@ Source: [LA FALSEDAD DE LA CIENCIA TERRESTRE-BAJO QUE PROPOSITO - SWARUU - Siste
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-6fa658378a51-c01
+
+Yazhi says authorities shape collective reality by validating agreements and excluding perceptions they reject. Her account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Que es Realidad? Existe Realidad Objetiva? Yázhi Swaruu - Comunicación Extraterrestre](https://swaruu.org/transcripts/que-es-realidad-existe-realidad-objetiva-yazhi-swaruu-comunicacion-extraterrestre) (2020-09-03; es); passages p0003, p0004, p0005. [Structured record](../../records/src-6fa658378a51.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-53756b5035b9-c05
+
+Yazhi portrays 3D as Federation-managed, with personal timelines and collective timelines formed by agreement.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Implantes de Memorias - Manejo de la Matrix 3D - Información Extraterrestre (Taygeta - Pleyades)](https://swaruu.org/transcripts/implantes-de-memorias-manejo-de-la-matrix-3d-informacion-extraterrestre-taygeta-pleyades) (2020-07-17; es); passages p0061, p0063, p0072, p0075. [Structured record](../../records/src-53756b5035b9.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Timeline branching](timeline-branching.md), [Collective timeline influence](collective-timeline-influence.md).
+
 ## Claims filed under other topics
 
 - [src-bb4c17621e1a-c02](moon-matrix.md#src-bb4c17621e1a-c02) — Moon and terrestrial Matrix
@@ -397,6 +417,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-65d7f9508cf4-c01](consciousness-metaphysics.md#src-65d7f9508cf4-c01) — Consciousness and metaphysics
 - [src-46fa49e664e1-c03](tulpas.md#src-46fa49e664e1-c03) — Tulpas
 - [src-b24a05072ad7-c01](moon-matrix.md#src-b24a05072ad7-c01) — Moon and terrestrial Matrix
+- [src-89c87eaf0e6d-c01](consciousness-metaphysics.md#src-89c87eaf0e6d-c01) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -406,6 +427,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
 - agency\_and\_noninterference
 - archon-scope-is-broad
+- claims about fabricated histories and public events are attributed lore, not independently substantiated
 - conspiracy-claims
 - conspiracy\_claims
 - contested-claims
@@ -422,8 +444,10 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - metaphysical\_model
 - mirror-identity-varies
 - nonstandard-physics-claims
+- objective-versus-personal-reality-framing
 - paranormal\_claims
 - personal\_metaphysics
+- quoted-speaker-attribution:NaiShara-quotes-Yazhi
 - speaker-perspective-model
 - speaker-shift-in-source
 - species-origin-model-attributed

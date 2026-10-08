@@ -1,0 +1,65 @@
+{
+  "source_id": "src-68b07316b2f9",
+  "snapshot_sha256": "64788aa28961dd9bdf9c272b63a59290c7e5ebdce2ca916799b22b9ba2a1e036",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-68b07316b2f9-c01",
+      "assertion": "Anéeka says Dutch restrictions reflect obedience agendas, not a real virus, though she admits lacking precise knowledge of the motive.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0002", "p0003"],
+      "primary_topic": "engineered-social-unrest",
+      "topics": ["engineered-social-unrest", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68b07316b2f9-c02",
+      "assertion": "She says Trump’s faction contacts the Federation remotely; she calls him a Cabal puppet beneath hidden power brokers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0007", "p0010", "p0012"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68b07316b2f9-c03",
+      "assertion": "Anéeka names Alfrateans, Antarians, Arcturians and Andromedans as principal Federation contacts.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0013", "p0014"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "alien-species"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68b07316b2f9-c04",
+      "assertion": "Reporting Yazhi, Anéeka says the Federation controls Earth’s good and bad outcomes and will not intervene.",
+      "speaker": "Anéeka (reporting Yazhi)",
+      "paragraph_ids": ["p0015", "p0016"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68b07316b2f9-c05",
+      "assertion": "She reports contradictory China intelligence; she thinks restrictions condition global obedience, while war talk distracts from vaccines.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0024", "p0025", "p0026", "p0027"],
+      "primary_topic": "engineered-social-unrest",
+      "topics": ["engineered-social-unrest", "vaccine-inoculation-claims"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["translation-counterpart:src-50afee47b8a2-close-full"],
+  "coverage_gaps": ["JFK-Junior-claims", "COVID-test-claims", "vaccination-politics"]
+}

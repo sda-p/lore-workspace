@@ -171,6 +171,42 @@
       "origin": "continuous-013 extractor4 comparison",
       "status": "retain-variants",
       "comparison_note": "English counterpart is a close later version adding context and thirteen-planet claims."
+    },
+    {
+      "source_ids": [
+        "src-3901bf7c1489",
+        "src-0bdff38c9c01"
+      ],
+      "origin": "continuous-014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Full comparison reported close English/Spanish alignment with no material additions found."
+    },
+    {
+      "source_ids": [
+        "src-848430840164",
+        "src-cb985947b0e5"
+      ],
+      "origin": "continuous-014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "English passages p0021-p0022 add planet-name and linguistic-root discussion."
+    },
+    {
+      "source_ids": [
+        "src-68b07316b2f9",
+        "src-50afee47b8a2"
+      ],
+      "origin": "continuous-014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Worker reports close full translation; equivalence remains unconfirmed."
+    },
+    {
+      "source_ids": [
+        "src-9a0338811c9d",
+        "src-cb51273860c3"
+      ],
+      "origin": "continuous-014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Alternate Spanish versions use differing descriptors for hospital staff (regressive versus aggressive). Retain source wording distinctions."
     }
   ]
 }

@@ -1,0 +1,104 @@
+{
+  "source_id": "src-528175452786",
+  "snapshot_sha256": "103dbdc5f6a2733b4b22f2b07c94b74a761e53397bb9ea4e4e3bc3e7eb75ed89",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-528175452786-c01",
+      "assertion": "Anéeka says portal machines use controlled electromagnetic toroids to shift entrants to precisely frequency-matched destinations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-528175452786-c02",
+      "assertion": "She says hyperspace travel entails timeline travel, restricted to trained elite Sand Clock squads for ethical reasons.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "sand-clock",
+      "topics": [
+        "sand-clock",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-528175452786-c03",
+      "assertion": "She says natural portals trigger alarms only above size or energy thresholds and can be dangerous when unfamiliar.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-528175452786-c04",
+      "assertion": "She calls a frequency-matched empty body used by one or more souls an organic portal.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-528175452786-c05",
+      "assertion": "She says sunspots open solar entry and exit portals, while black holes are entrances only.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "sunspot-portals",
+      "topics": [
+        "sunspot-portals",
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "frequency-portal-physics-claims",
+    "cross-timeline-travel-restriction"
+  ],
+  "coverage_gaps": [
+    "portal-alarm-permission-distinction",
+    "astral-detection-variation",
+    "portal-sensations"
+  ]
+}

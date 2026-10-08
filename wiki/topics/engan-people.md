@@ -55,11 +55,16 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-c1a25429c797-c05](urmah.md#src-c1a25429c797-c05) — Urmah
 - [src-bfae5ca72b24-c05](alien-species.md#src-bfae5ca72b24-c05) — Alien species and distinctions
 - [src-8a805d3bcc25-c02](elohi.md#src-8a805d3bcc25-c02) — Elohi
+- [src-33c7243bf8a8-c01](galactic-federation.md#src-33c7243bf8a8-c01) — Galactic Federation
+- [src-bdc9959237c9-c04](galactic-federation.md#src-bdc9959237c9-c04) — Galactic Federation
 
 ## Review flags
 
 - Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Yazhi-interview-report
 - causal-attribution-tension
+- federation-role-variation
+- intra-source-policy-tension
 - mythic-identifications-attributed-to-mari
+- species-trait-generalizations-attributed
 - translated-from-Spanish-original-not-available

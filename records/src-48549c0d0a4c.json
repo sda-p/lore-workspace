@@ -1,0 +1,49 @@
+{
+  "source_id": "src-48549c0d0a4c",
+  "snapshot_sha256": "6b447946b0ba63814ae019b260e4dbc5b32b94b562d4f39faa20c93adcbe3d75",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-48549c0d0a4c-c01",
+      "assertion": "Swaruu links perceived time acceleration to increased data processing, which can become automatic through subconscious internalization.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-48549c0d0a4c-c02",
+      "assertion": "Swaruu says step-down travelers use a toroidal immersion device or other technology to slow mental processing and synchronize temporal rates enough to communicate across planets.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "immersion-pods",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents it as technological adjustment."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "health-claims-excluded"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "source_id": "src-9faade64b5f5",
+  "snapshot_sha256": "e7f202bb58790a70f8a4fe710eaf6bced42740551e5acb2eafa7911614b98465",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9faade64b5f5-c01",
+      "assertion": "Athena says temporal travel reveals multiple possible futures, which she averages to infer a likely outcome rather than identify one fixed future.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-9faade64b5f5-c02",
+      "assertion": "She compares 3D perception to sequential rooms and 5D to interconnected floors, with higher-density thought difficult for 3D minds to grasp.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her explanatory metaphor."
+    },
+    {
+      "id": "src-9faade64b5f5-c03",
+      "assertion": "Athena says timelines and universes are not separate realities but perception ranges; the present reflects countless variants and decisions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0021",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model treats timeline language as limited."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "near-duplicate-of-src-051532dd5b50"
+  ],
+  "coverage_gaps": [
+    "temporal-navigation-mathematics",
+    "extraction-memory-mechanism"
+  ]
+}

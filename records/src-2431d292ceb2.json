@@ -1,0 +1,49 @@
+{
+  "source_id": "src-2431d292ceb2",
+  "snapshot_sha256": "1ba9c454c783771e0ceccffac0dbc015fc8e0ddc7f91ae51b8623ee3b6f8e426",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2431d292ceb2-c01",
+      "assertion": "Swaruu 9 characterizes terrestrial science as materialist, reductionist, and deterministic, discounting consciousness, intuition, and nonphysical realms.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her critique of Earth science."
+    },
+    {
+      "id": "src-2431d292ceb2-c02",
+      "assertion": "She argues determinism encourages people to surrender agency to authorities and says controllers deliberately constrain science to direct human perception and preserve power.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as intentional social control."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

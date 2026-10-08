@@ -84,12 +84,17 @@ Related topics: [Reptilians](reptilians.md).
 - [src-ff97765a8c36-c03](alien-species.md#src-ff97765a8c36-c03) — Alien species and distinctions
 - [src-b4123d146ba9-c02](genetic-weapons.md#src-b4123d146ba9-c02) — Genetic weapons
 - [src-74c032374fff-c01](alien-species.md#src-74c032374fff-c01) — Alien species and distinctions
+- [src-55aa4da20352-c01](maitre.md#src-55aa4da20352-c01) — Maitre
+- [src-d575fee8efe8-c04](reptilians.md#src-d575fee8efe8-c04) — Reptilians
 
 ## Review flags
 
 - Species summaries are broad and based on accounts attributed to orbital sources
+- abduction-mutilation-claims
 - aircraft-identity-ambiguity
 - claims-attributed-to-source-narrators
 - conspiracy-claims
 - definition\_varies
 - lunar-artificial-structure-claims-attributed
+- reptilian-species-versus-reptile-egregor
+- species-labels-uncertain

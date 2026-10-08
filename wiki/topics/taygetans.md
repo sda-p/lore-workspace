@@ -2478,6 +2478,182 @@ Source: [Respuestas - Anunnki - Elohim - Shiva - Enki - Enlil - Triangulum](http
 
 Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-weapons.md).
 
+### src-2eb79f41c6bd-c03
+
+Swaruu says Taygeta has 38 million people across four planets, few cities, and mostly isolated self-sufficient households; work and academies are social hubs, with schooling often at home through immersion computers.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA VIDA EN LAS PLEYADES - ESTRELLA TAYGETA - CONTACTO EXTRATERRESTRE - Swaruu D´Jedi Ronin](https://swaruu.org/transcripts/la-vida-en-las-pleyades-estrella-taygeta-contacto-extraterrestre-swaruu-d-jedi-ronin) (2020-05-11; es); passages p0030, p0034, p0036. [Structured record](../../records/src-2eb79f41c6bd.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-01d7bdad2249-c04
+
+She says Taygetans reject “liberation” as a description of changed Earth control dynamics.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Contacto Extrateterrestre: Anéeka de Temmer - Mezcla de Conversaciones (Taygeta - Pleyades)](https://swaruu.org/transcripts/contacto-extrateterrestre-aneeka-de-temmer-mezcla-de-conversaciones-taygeta-pleyades) (2020-06-26; es); passages p0016, p0018, p0020. [Structured record](../../records/src-01d7bdad2249.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-1f01e4810fc2-c02
+
+She says telepathy is the main coordination method, with stellar positions as another time reference.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES - COMO COORDINAN EL TIEMPO - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/extraterrestres-como-coordinan-el-tiempo-aneeka-de-temmer) (2020-10-28; es); passages p0004. [Structured record](../../records/src-1f01e4810fc2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1f01e4810fc2-c03
+
+Anéeka says synchronized clocks quickly desynchronize in Taygeta because perception varies among individuals. Solar position gives only an approximate measure.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES - COMO COORDINAN EL TIEMPO - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/extraterrestres-como-coordinan-el-tiempo-aneeka-de-temmer) (2020-10-28; es); passages p0006, p0008. [Structured record](../../records/src-1f01e4810fc2.json).
+
+Related topics: [Ship internal time](ship-internal-time.md).
+
+### src-de139e50d05b-c03
+
+She says Taygetan natural death may be voluntary and peaceful during sleep; technology reduces end-of-life suffering, and euthanasia is rare.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Entrevida, Muerte, Temas Relacionados: Mensaje Extraterrestre (Taygeta-Pleyades)](https://swaruu.org/transcripts/entrevida-muerte-temas-relacionados-mensaje-extraterrestre-taygeta-pleyades) (2019-12-17; es); passages p0026, p0027, p0028, p0029. [Structured record](../../records/src-de139e50d05b.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-de139e50d05b-c04
+
+She describes Taygetan burial in nature, with bodies wrapped in linen or cotton and organic ties.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Entrevida, Muerte, Temas Relacionados: Mensaje Extraterrestre (Taygeta-Pleyades)](https://swaruu.org/transcripts/entrevida-muerte-temas-relacionados-mensaje-extraterrestre-taygeta-pleyades) (2019-12-17; es); passages p0045. [Structured record](../../records/src-de139e50d05b.json).
+
+### src-f118c9aeadd2-c04
+
+She says Taygeta may have one consciousness using multiple bodies, or different consciousnesses sharing one body. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MATRIX – QUIENES SON MATRIX – LOS CREADORES DE MATRIX - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/matrix-quienes-son-matrix-los-creadores-de-matrix-aneeka-de-temmer) (2019-12-13; es); passages p0041. [Structured record](../../records/src-f118c9aeadd2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b0799fe10f02-c04
+
+She cites Taygeta as stable for roughly 850,000 years, while saying the figure’s source and calculation are unknown. Based on ship records and Asket’s group.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [DESAPARICIÓN DE ANTIGUAS CIVILIZACIONES - YÁZHI SWARUU](https://swaruu.org/transcripts/desaparicion-de-antiguas-civilizaciones-yazhi-swaruu) (2020-09-17; es); passages p0026. [Structured record](../../records/src-b0799fe10f02.json).
+
+### src-f95e071ab942-c01
+
+In her formal report for Taygeta, Anéeka says two stealth combat ships surveyed Earth; one suffered minor hull damage from directed-energy and SAM fire.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Situacion Global - En Vivo con Aneeka de Temmer (Comunicacion Extraterrestre-Taygeta-Pleyades)](https://swaruu.org/transcripts/situacion-global-en-vivo-con-aneeka-de-temmer-comunicacion-extraterrestre-taygeta-pleyades) (2020-04-01; es); passages p0002, p0007. [Structured record](../../records/src-f95e071ab942.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-f95e071ab942-c02
+
+She says a Taygetan ship followed a cargo plane reportedly carrying coffins to JFK, but its sensors found it empty despite its manifest.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Situacion Global - En Vivo con Aneeka de Temmer (Comunicacion Extraterrestre-Taygeta-Pleyades)](https://swaruu.org/transcripts/situacion-global-en-vivo-con-aneeka-de-temmer-comunicacion-extraterrestre-taygeta-pleyades) (2020-04-01; es); passages p0007. [Structured record](../../records/src-f95e071ab942.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-7364ad45d63b-c01
+
+Swaruu says Taygetan queens inherit only if judged worthy; otherwise the High Council remains or the role stays vacant.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA SOCIEDAD MATRIARCAL - LA SOCIEDAD PATRIARCAL - LA REALEZA TAYGETEANA - LA CORONA REAL](https://swaruu.org/transcripts/la-sociedad-matriarcal-la-sociedad-patriarcal-la-realeza-taygeteana-la-corona-real) (2020-01-09; es); passages p0006, p0008, p0009, p0010. [Structured record](../../records/src-7364ad45d63b.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-7364ad45d63b-c02
+
+She places the queen on the High Council as an exemplar and liaison between citizens and councils, serving rather than exploiting the people.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA SOCIEDAD MATRIARCAL - LA SOCIEDAD PATRIARCAL - LA REALEZA TAYGETEANA - LA CORONA REAL](https://swaruu.org/transcripts/la-sociedad-matriarcal-la-sociedad-patriarcal-la-realeza-taygeteana-la-corona-real) (2020-01-09; es); passages p0004, p0042, p0044, p0046, p0049. [Structured record](../../records/src-7364ad45d63b.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-9e56879471e5-c01
+
+Swaruu says animals are persons; ship time-jumps may let Taygetan cats exceed 1,000 years.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Entrevida para Animales: Donde Van Nuestras Mascotas despues de Morir?](https://swaruu.org/transcripts/entrevida-para-animales-donde-van-nuestras-mascotas-despues-de-morir) (2019-12-21; es); passages p0003, p0009, p0011. [Structured record](../../records/src-9e56879471e5.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-4ce32a647c50-c02
+
+She says Taygetan reconnaissance found hospitals empty and a cargo plane’s alleged coffin load absent.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [ACTUALIZACIÓN PLANETARIA 2020 - 5G NO ES UN ANCHO DE BANDA DE TELECOMUNICACIONES – ANÉEKA DE TEMMER](https://swaruu.org/transcripts/actualizacion-planetaria-2020-5g-no-es-un-ancho-de-banda-de-telecomunicaciones-aneeka-de-temmer) (2020-06-11; es); passages p0015, p0017, p0018, p0035. [Structured record](../../records/src-4ce32a647c50.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-61a0b9a71122-c01
+
+Swaruu says cultures share material ideas through species contact and starseed incarnations, so common objects and arts recur across worlds.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Es Cultura Extraterrestre Similar a la Humana? (Contacto Extraterrestre Taygeta - Pleyades)](https://swaruu.org/transcripts/es-cultura-extraterrestre-similar-a-la-humana-contacto-extraterrestre-taygeta-pleyades) (2020-05-08; es); passages p0013, p0015, p0016, p0017. [Structured record](../../records/src-61a0b9a71122.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-848430840164-c02
+
+Taygetans call themselves Daughters of Moma in their matriarchal society; their older few-free name recalls expansion and sparse population.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Anéeka habla de la lengua Taygeteana - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/aneeka-habla-de-la-lengua-taygeteana-sin-video) (2020-10-01; es); passages p0017, p0018, p0019. [Structured record](../../records/src-848430840164.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-95bb43e551f3-c03
+
+Anéeka says she serves as her people’s ambassador to humanity; aboard CIC she monitors ship status, reports and other cultures’ orbital communications.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MUJER PLEYADIANA TAYGETEANA - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/mujer-pleyadiana-taygeteana-aneeka-de-temmer) (2020-10-21; es); passages p0006, p0010. [Structured record](../../records/src-95bb43e551f3.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-95bb43e551f3-c04
+
+Her routine includes exercise, meditation, shared meal duties, socializing, play with Yazhi and self-directed study.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [MUJER PLEYADIANA TAYGETEANA - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/mujer-pleyadiana-taygeteana-aneeka-de-temmer) (2020-10-21; es); passages p0010, p0011, p0012, p0013, p0014. [Structured record](../../records/src-95bb43e551f3.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -2696,9 +2872,47 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - [src-a0a1d364e89f-c02](galactic-federation.md#src-a0a1d364e89f-c02) — Galactic Federation
 - [src-e0a4afea956c-c02](earth-cabal.md#src-e0a4afea956c-c02) — Earth Cabal and power structures
 - [src-8a805d3bcc25-c02](elohi.md#src-8a805d3bcc25-c02) — Elohi
+- [src-cfb8d4ba70e4-c01](galactic-federation.md#src-cfb8d4ba70e4-c01) — Galactic Federation
+- [src-2a59653712d3-c03](taygetan-first-contact-project.md#src-2a59653712d3-c03) — Taygetan First Contact Project
+- [src-00837bcc422f-c03](atlantis-lemuria.md#src-00837bcc422f-c03) — Atlantis and Lemuria
+- [src-7bf576e6decd-c02](taygetan-parthenogenesis.md#src-7bf576e6decd-c02) — Taygetan parthenogenesis
+- [src-872b05071e96-c02](alien-species.md#src-872b05071e96-c02) — Alien species and distinctions
+- [src-872b05071e96-c03](galactic-federation.md#src-872b05071e96-c03) — Galactic Federation
+- [src-2783d6a4d5f8-c01](perceptual-density.md#src-2783d6a4d5f8-c01) — Perceptual density
+- [src-33c7243bf8a8-c01](galactic-federation.md#src-33c7243bf8a8-c01) — Galactic Federation
+- [src-01d7bdad2249-c01](alcyone-council.md#src-01d7bdad2249-c01) — Alcyone Council
+- [src-01d7bdad2249-c02](galactic-federation.md#src-01d7bdad2249-c02) — Galactic Federation
+- [src-78d4eb7f6b15-c04](holistic-society.md#src-78d4eb7f6b15-c04) — Holistic society
+- [src-10d0756497ac-c05](alien-species.md#src-10d0756497ac-c05) — Alien species and distinctions
+- [src-1f01e4810fc2-c01](ship-internal-time.md#src-1f01e4810fc2-c01) — Ship internal time
+- [src-1f01e4810fc2-c04](cyndriel.md#src-1f01e4810fc2-c04) — Cyndriel
+- [src-532cfc8f03f5-c01](starseeds.md#src-532cfc8f03f5-c01) — Starseeds
+- [src-630d64c41a85-c02](starship-systems.md#src-630d64c41a85-c02) — Starship systems
+- [src-62893f690998-c03](taygetan-parthenogenesis.md#src-62893f690998-c03) — Taygetan parthenogenesis
+- [src-86fc875548c8-c02](scalar-internet.md#src-86fc875548c8-c02) — Scalar Internet
+- [src-86fc875548c8-c03](scalar-internet.md#src-86fc875548c8-c03) — Scalar Internet
+- [src-7df1df339f89-c03](exo-gen.md#src-7df1df339f89-c03) — Exo-gen cellular signaling model
+- [src-bdc9959237c9-c03](alien-species.md#src-bdc9959237c9-c03) — Alien species and distinctions
+- [src-bdc9959237c9-c04](galactic-federation.md#src-bdc9959237c9-c04) — Galactic Federation
+- [src-33ef2f39ee97-c03](tractor-beams.md#src-33ef2f39ee97-c03) — Tractor beams
+- [src-f95e071ab942-c03](timeline-branching.md#src-f95e071ab942-c03) — Timeline branching
+- [src-f95e071ab942-c04](taygetan-cic.md#src-f95e071ab942-c04) — Taygetan CIC
+- [src-7364ad45d63b-c03](holistic-society.md#src-7364ad45d63b-c03) — Holistic society
+- [src-7364ad45d63b-c04](stellar-navigation.md#src-7364ad45d63b-c04) — Stellar navigation
+- [src-1c7b74567865-c02](karistus.md#src-1c7b74567865-c02) — Karistus
+- [src-4dbb2d05dfc2-c02](consciousness-metaphysics.md#src-4dbb2d05dfc2-c02) — Consciousness and metaphysics
+- [src-61a0b9a71122-c04](taygetan-ecosystems.md#src-61a0b9a71122-c04) — Taygetan ecosystems
+- [src-848430840164-c01](taygetan-holographic-language.md#src-848430840164-c01) — Taygetan holographic language
+- [src-848430840164-c03](lyran-expansion.md#src-848430840164-c03) — Lyran expansion
+- [src-848430840164-c04](taygetan-ecosystems.md#src-848430840164-c04) — Taygetan ecosystems
+- [src-7f6281c23ad5-c03](galactic-federation.md#src-7f6281c23ad5-c03) — Galactic Federation
+- [src-95bb43e551f3-c01](holistic-society.md#src-95bb43e551f3-c01) — Holistic society
+- [src-95bb43e551f3-c02](holistic-society.md#src-95bb43e551f3-c02) — Holistic society
+- [src-89c87eaf0e6d-c03](alien-species.md#src-89c87eaf0e6d-c03) — Alien species and distinctions
 
 ## Review flags
 
+- 3d-vs-higher-density-wishes
 - Alenym-attack-culprit-unknown
 - Alenym-retirement-not-decided
 - Athena-interview-original-English
@@ -2723,19 +2937,25 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
 - The cloning and genetic-control statements are Swaruu’s claims.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
+- abduction-motive-varies
+- afterlife-claims-are-source-model
 - afterlife\_model
 - agenda21-assertion
+- alternative-biology-claim
+- ancient-texts-as-racial-symbolism-attributed
 - approximate-age-estimate
 - ark-locations-and-status
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - attack-theory\_speculative
 - attributed-reproductive-lore
+- attributed-seti-military-purpose-claim
 - attribution-care: source claims about sexuality are speaker-specific
 - attribution\_scope
 - biology-claim
 - blockade-and-biology-attributed
 - causal-attribution-tension
 - claims-about-suppressed-contact-evidence
+- computer-throughput-claim-attributed
 - conflict-causation-uncertain
 - conflicting\_origin\_accounts
 - conflicting\_primary\_purpose\_claims
@@ -2747,6 +2967,7 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - contested-claims
 - contested-history
 - contested\_intelligence\_claims
+- contradictory-information-model-is-source-claim
 - contradictory\_past\_change\_model
 - contradicts\_prior\_public\_claims
 - cosmology-claims\_attributed
@@ -2759,6 +2980,7 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - coverage: reincarnation detail
 - crop\_circle\_interpretation
 - culturally\_variable\_nde\_claim
+- cyndriel-environment-claim
 - definition\_varies
 - density-morality-qualification
 - dietary-claims\_attributed
@@ -2766,6 +2988,8 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - directive-rules-not-in-transcript
 - disclosure\_claims\_unverified
 - earth-population-claims
+- earthly-cern-portal-claim-not-included
+- emotion-and-integration-doctrine-attributed
 - extraordinary-ability-claims
 - extraordinary-cosmology-claims
 - extraordinary-technology-claims
@@ -2781,14 +3005,21 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - extraordinary\_personal\_ability\_claims
 - extraterrestrial-claims
 - extreme-atrocities-claim
+- faction-taxonomy-and-levels-attributed
 - faction\_tension
 - factional-threat-interpretation-attributed-to-urmah
 - federation-authority-critique
+- federation-control-and-nonintervention-tension
+- federation-nonintervention
+- federation-purpose-disputed
+- federation-role-speaker-contrast
+- federation-role-variation
 - federation\_dispute
 - fence-control-theory-unconfirmed
 - field-procedure-account-attributed-to-mari
 - first-person claims reflect Gosia’s account in a dispute
 - fleet-status\_as-reported
+- franchise-reference-attributed
 - gender\_role\_generalization
 - genetic-weapon-causation-speculative
 - header-and-segmentation-variation
@@ -2804,12 +3035,19 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - identity-claims-unverified
 - identity-of-hidden-faction-unknown
 - identity-uncertainty
+- incarnation-and-extraction-claims
 - incomplete-investigation
+- intelligence-report-unverified
 - intercultural-claims
+- intra-source-policy-tension
+- liberation-framing-disputed
 - logo\_identity\_claim\_unverified
 - medical account is attributed narrative, not medical guidance
+- medical-lore
 - medical\_misinformation\_present
+- memory-suppression-imperfect
 - metaphysical-claims
+- metaphysical-claims-attributed
 - metaphysical-genetics-unverified
 - military-claims\_attributed
 - multiple\_futures\_claim
@@ -2818,29 +3056,37 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - nonhuman-technology\_claims\_attributed
 - nonstandard-biology-claims
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
+- pandemic-claims-omitted
 - pathogen-claim\_attributed
 - personal\_accusations
 - personal\_cosmology
+- perspective-dependent-claims
 - pilot-account-attributed
 - political-claims
 - political-claims-unverified
 - political-narrative\_attributed
 - prime-directive-attributed
 - project-guidance-attributed-to-mari
+- quoted-speaker-attribution:NaiShara-quotes-Yazhi
 - reincarnation-cosmology
 - reported-comparison-not-speaker-endorsement
 - reported\_plan
+- reset-sequence-and-dating-unclear
 - review: claims on sexual orientation and depopulation
+- royal-selection-and-symbolism-attributed
 - same-language-near-duplicate-src-735f991fe169
 - second-contact-stoppage-attributed-to-yazhi
 - secondhand-fleet-reports
+- self-described-species-transition
 - self-reported-traits
 - self\_description
 - serious\_allegations\_attributed
 - simulation-and-AI-claims
 - sirian-group-includes-distinct-species
 - social-media-project\_details\_speculative
+- solar-and-black-hole-portal-model
 - solar-system-history-attributed
+- soul-and-density-doctrine-attributed
 - source includes conflicting publication and event dates; claims retain stated dates
 - source-speaker-shift-dhor-to-yazhi
 - speaker-attribution-swaruu-x-athena
@@ -2849,10 +3095,13 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - species status is contested within Mari’s account; preserve her stated rationale
 - species-cosmology\_attributed
 - species-description\_attributed
+- species-emotional-ranges-attributed
 - species-origin-model-attributed
 - species-taxonomy-contradiction
 - species-threat-description
+- species-trait-generalizations-attributed
 - species\_specific\_reproduction
+- subjective-time-model
 - succession-report\_attributed
 - succession-rules\_attributed
 - symbolic-conspiracy-claims
@@ -2863,6 +3112,9 @@ Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-wea
 - temporal-lore-attributed
 - time-travel-claims
 - translated\_source
+- translation-counterpart-unconfirmed
+- translation-counterpart:none-identified
+- translation-counterpart:src-cb985947b0e5-english-adds-p21-p22
 - translation\_approximation\_navajo\_inuit
 - unverified-contact-claims
 - unverified-eclipse-portal-theory

@@ -1,0 +1,116 @@
+{
+  "source_id": "src-374fd6a44ec4",
+  "snapshot_sha256": "681f01f8f0046c7ccd9428d4e9a2ed9bca47327b4bf0a2aa97cf5f7dc5661fcc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-374fd6a44ec4-c01",
+      "assertion": "Yazhi says weak spells rely on suggestion, while stronger ones use energetic forms or summoned entities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0033"
+      ],
+      "primary_topic": "witchcraft-and-voodoo",
+      "topics": [
+        "witchcraft-and-voodoo",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-374fd6a44ec4-c02",
+      "assertion": "She says fear and reduced awareness increase vulnerability; recognizing an attack and remaining confident can weaken its effects.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "witchcraft-and-voodoo",
+      "topics": [
+        "witchcraft-and-voodoo",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-374fd6a44ec4-c03",
+      "assertion": "She says focused imagination is tangible spiritually; amulets or weapons only channel personal power.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0032",
+        "p0035"
+      ],
+      "primary_topic": "witchcraft-and-voodoo",
+      "topics": [
+        "witchcraft-and-voodoo",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-374fd6a44ec4-c04",
+      "assertion": "She recommends visualized light or love as astral defenses, while warning imagined fields do not stop ordinary bullets.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0042"
+      ],
+      "primary_topic": "witchcraft-and-voodoo",
+      "topics": [
+        "witchcraft-and-voodoo",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-374fd6a44ec4-c05",
+      "assertion": "She describes Voodoo as spirit contact; shamans may bargain with entities to harm or protect, sometimes using drugged potions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0048",
+        "p0054",
+        "p0055"
+      ],
+      "primary_topic": "witchcraft-and-voodoo",
+      "topics": [
+        "witchcraft-and-voodoo",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "witchcraft-and-voodoo",
+      "name": "Witchcraft and Voodoo",
+      "kind": "practice",
+      "aliases": [
+        "brujería",
+        "vudú"
+      ]
+    }
+  ],
+  "review_flags": [
+    "supernatural-claims",
+    "altered-state-and-poison-risk"
+  ],
+  "coverage_gaps": [
+    "dream-catchers",
+    "elemental-encounters",
+    "protection-ritual-details"
+  ]
+}

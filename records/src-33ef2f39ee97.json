@@ -1,0 +1,89 @@
+{
+  "source_id": "src-33ef2f39ee97",
+  "snapshot_sha256": "58db2f52206675f5f42d1ac168581774fc22b6094cd962270961559d33bec7b7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-33ef2f39ee97-c01",
+      "assertion": "Swaruu describes portal vortices as toroidal fields that shift entrants to a frequency-matched destination.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-33ef2f39ee97-c02",
+      "assertion": "A destination gate is optional; single gates can send to a known address but allow return only while open or via another gate.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0020",
+        "p0024"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-33ef2f39ee97-c03",
+      "assertion": "Taygetan ships use tractor-beam portals to move people or objects remotely; they prefer ordinary ramps.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0028",
+        "p0030",
+        "p0047",
+        "p0051"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams",
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-33ef2f39ee97-c04",
+      "assertion": "Passage is rapid, with static and abrupt temperature or smell shifts; observers at the destination may see a watery blur.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0035",
+        "p0043"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "earthly-cern-portal-claim-not-included"
+  ],
+  "coverage_gaps": [
+    "cern-claims",
+    "frequency-coordinate-system"
+  ]
+}

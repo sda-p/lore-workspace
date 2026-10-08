@@ -368,6 +368,106 @@ Source: [EL EGO Y EL AMOR - MENSAJE EXTRATERRESTRE - NIBIRU - STAR TREK - SWARUU
 
 Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 
+### src-7bf576e6decd-c03
+
+Yazhi says conscious time manipulation can alter frequency, density, and dimension without a ship; she describes shifting among her other identities.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Evolución y Expansión Espiritual de Almas - Yazhí Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/evolucion-y-expansion-espiritual-de-almas-yazhi-swaruu-contacto-extraterrestre) (2020-06-16; es); passages p0027, p0028, p0052, p0053, p0054. [Structured record](../../records/src-7bf576e6decd.json).
+
+Related topics: [Timeline branching](timeline-branching.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-cdf26823e8ee-c02
+
+Yazhi rejects automatic planetary ascension, describing ascension as individual growth of perception; aligned groups could form a society with a 5D mentality. She says collective change depends on human agreement.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA ASCENSIÓN - LA ASCENSIÓN PLANETARIA - Líneas temporales - YAZHI SWARUU](https://swaruu.org/transcripts/la-ascension-la-ascension-planetaria-lineas-temporales-yazhi-swaruu) (2020-10-01; es); passages p0033, p0034, p0036, p0037, p0038, p0039. [Structured record](../../records/src-cdf26823e8ee.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-828b1cc9dc5c-c04
+
+She describes rising density as integrating other beings through empathy, with their thoughts becoming part of one’s identity.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Reseteo Planetario - Respuestas de Yázhi Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/reseteo-planetario-respuestas-de-yazhi-swaruu-comunicacion-extraterrestre) (2020-08-30; es); passages p0059, p0060, p0061, p0062, p0065, p0066. [Structured record](../../records/src-828b1cc9dc5c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2783d6a4d5f8-c01
+
+Anéeka says M45's apparent hot blue stars and young age reflect Earth's 3D filter; life there exists in 5D, where time behaves differently.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LAS PLEYADES – SISTEMA ESTELAR JOVEN - PROYECTO SETI - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/las-pleyades-sistema-estelar-joven-proyecto-seti-aneeka-de-temmer) (2020-02-01; es); passages p0003, p0004, p0005, p0007. [Structured record](../../records/src-2783d6a4d5f8.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-6fa658378a51-c03
+
+She says higher-density consciousness manifests ideas faster and perceives flexible, nonlinear event sequences; lower-density material agreements slow manifestation. Her model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Que es Realidad? Existe Realidad Objetiva? Yázhi Swaruu - Comunicación Extraterrestre](https://swaruu.org/transcripts/que-es-realidad-existe-realidad-objetiva-yazhi-swaruu-comunicacion-extraterrestre) (2020-09-03; es); passages p0013, p0015, p0023, p0026, p0027, p0031. [Structured record](../../records/src-6fa658378a51.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-fe16588859c1-c01
+
+Yazhi defines density as an individual’s perceptual range: greater understanding reveals more data, while realities coexist. Her framework.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PRIMERA CONVERSACIÓN CON YAZHÍ SWARUÚ \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-conversacion-con-yazhi-swaruu-sin-video) (2020-07-06; es); passages p0010, p0011, p0012, p0015. [Structured record](../../records/src-fe16588859c1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1174f8536b41-c03
+
+She attributes missed or differing UFO sightings to observers having different perceptual realities despite sharing a location. Her model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA LLAMADA MATERIA ES SOLO UNA IDEA PERCEPCIÓN- YAZHI SWARUU](https://swaruu.org/transcripts/la-llamada-materia-es-solo-una-idea-percepcion-yazhi-swaruu) (2020-09-10; es); passages p0034, p0036, p0037. [Structured record](../../records/src-1174f8536b41.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-fed215817d92-c03
+
+She says awakened, higher-density consciousness can influence collective reality disproportionately and carries greater responsibility.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Porque Zapatitos Rotos Tenemos Poder y Responsabilidad - Yázhí Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/porque-zapatitos-rotos-tenemos-poder-y-responsabilidad-yazhi-swaruu-comunicacion-extraterrestre) (2020-09-21; es); passages p0045, p0046, p0053, p0054, p0056, p0057. [Structured record](../../records/src-fed215817d92.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Collective timeline influence](collective-timeline-influence.md).
+
+### src-54359f164bb6-c01
+
+Yazhi says animal shapeshifting occurs in her astral perception; observers cannot see the physical transformation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Me Convierto en una Comadreja - Manejo de la Realidad - Yázhí Swaruu (Taygeta, Pleyades) - CENSURADO EN YOUTUBE](https://swaruu.org/transcripts/me-convierto-en-una-comadreja-manejo-de-la-realidad-yazhi-swaruu-taygeta-pleyades) (2020-10-08; es); passages p0013, p0014, p0015, p0016, p0017. [Structured record](../../records/src-54359f164bb6.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7f6281c23ad5-c04
+
+She says density combines matter frequency with consciousness-perception; learning expands perception, making 5D an individual mentality rather than an external solar event.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Realidad artificial - SERES DE DENSIDADES MÁS ALTAS - DENSIDADES EXISTENCIALES - Yazhi Swaruu](https://swaruu.org/transcripts/realidad-artificial-seres-de-densidades-mas-altas-densidades-existenciales-yazhi-swaruu) (2020-07-06; es); passages p0025, p0027, p0028, p0038, p0039, p0041. [Structured record](../../records/src-7f6281c23ad5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bd13d89221e8-c04](consciousness-metaphysics.md#src-bd13d89221e8-c04) — Consciousness and metaphysics
@@ -421,6 +521,31 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - [src-349f835aa3ef-c03](starship-systems.md#src-349f835aa3ef-c03) — Starship systems
 - [src-ca24d8041f8f-c02](moon-matrix.md#src-ca24d8041f8f-c02) — Moon and terrestrial Matrix
 - [src-2bc9fdeb3e80-c04](sasquatch.md#src-2bc9fdeb3e80-c04) — Sasquatch
+- [src-492455da3cda-c03](consciousness-metaphysics.md#src-492455da3cda-c03) — Consciousness and metaphysics
+- [src-7bf576e6decd-c01](consciousness-metaphysics.md#src-7bf576e6decd-c01) — Consciousness and metaphysics
+- [src-336f7353bbdf-c01](moon-matrix.md#src-336f7353bbdf-c01) — Moon and terrestrial Matrix
+- [src-336f7353bbdf-c03](starseed-guides.md#src-336f7353bbdf-c03) — Starseed guides
+- [src-9a2bfd903f99-c03](consciousness-metaphysics.md#src-9a2bfd903f99-c03) — Consciousness and metaphysics
+- [src-76864ac53fe6-c03](karistus.md#src-76864ac53fe6-c03) — Karistus
+- [src-7dfce28f8118-c02](gravity-harmonics.md#src-7dfce28f8118-c02) — Gravity harmonics
+- [src-6c377f98a0b6-c01](galactic-federation.md#src-6c377f98a0b6-c01) — Galactic Federation
+- [src-62893f690998-c04](temporal-skipping.md#src-62893f690998-c04) — Temporal skipping
+- [src-1174f8536b41-c01](consciousness-metaphysics.md#src-1174f8536b41-c01) — Consciousness and metaphysics
+- [src-1174f8536b41-c02](consciousness-metaphysics.md#src-1174f8536b41-c02) — Consciousness and metaphysics
+- [src-2f3cec7db3bb-c02](starseeds.md#src-2f3cec7db3bb-c02) — Starseeds
+- [src-2f3cec7db3bb-c04](consciousness-metaphysics.md#src-2f3cec7db3bb-c04) — Consciousness and metaphysics
+- [src-d5687a897b3a-c01](starseeds.md#src-d5687a897b3a-c01) — Starseeds
+- [src-48549c0d0a4c-c01](consciousness-metaphysics.md#src-48549c0d0a4c-c01) — Consciousness and metaphysics
+- [src-9b8c545032b0-c04](consciousness-metaphysics.md#src-9b8c545032b0-c04) — Consciousness and metaphysics
+- [src-22febda7e5c0-c01](galactic-federation.md#src-22febda7e5c0-c01) — Galactic Federation
+- [src-22febda7e5c0-c03](consciousness-metaphysics.md#src-22febda7e5c0-c03) — Consciousness and metaphysics
+- [src-3fe6ca238068-c01](consciousness-metaphysics.md#src-3fe6ca238068-c01) — Consciousness and metaphysics
+- [src-fed215817d92-c04](consciousness-metaphysics.md#src-fed215817d92-c04) — Consciousness and metaphysics
+- [src-fed215817d92-c05](consciousness-metaphysics.md#src-fed215817d92-c05) — Consciousness and metaphysics
+- [src-9e56879471e5-c01](taygetans.md#src-9e56879471e5-c01) — Taygetans
+- [src-4f593a08df69-c01](individual-ascension.md#src-4f593a08df69-c01) — Individual ascension
+- [src-3901bf7c1489-c03](consciousness-metaphysics.md#src-3901bf7c1489-c03) — Consciousness and metaphysics
+- [src-057efbcdf1b8-c02](timeline-branching.md#src-057efbcdf1b8-c02) — Timeline branching
 
 ## Review flags
 
@@ -431,21 +556,42 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - These are Mari’s metaphysical positions, not externally verified cosmology
+- ancient-solar-system-density-and-polity-claims
+- ascension-model-attributed
 - astral-perception-and-protection-claims
 - astral-warfare-claims-unverified
+- attributed-seti-military-purpose-claim
 - biology-claim
 - contested-claim
 - cosmology-claims-attributed
 - dyatlov-claim-reversed-in-later-anéeka-account
 - entertainment-disclaimer
 - extraordinary-ability-claims
+- federation-intentions-and-collective-choice-tension
 - historical-doctrine-origin-claim
 - historical-event-identified-from-painting
 - historical-uncertainty
+- matrix-collapse-and-human-choice
+- matrix-reset-and-density-doctrine-attributed
 - metaphysical-model
+- numerical influence comparisons are illustrative, not fixed ratios
+- objective-versus-personal-reality-framing
+- personal-ability-claims-attributed
 - personal\_metaphysics
+- perspective-dependent-claims
+- planetary-reset-cycle-attributed
+- psychological memory-rewriting discussion could be confused with clinical guidance
 - reincarnation-cosmology
+- related-starseed-material-overlap
+- self-described-species-transition
+- soul-and-density-doctrine-attributed
+- starseed-identity-and-mission-attributed
+- starspot-portal-model-spans-two-speakers
 - translation-counterpart-src-0a2dec346e2d-expanded-later-account
+- translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448
+- translation-counterpart: src-d0398aec7731; close full translation; similar-title source src-ba29b281f533 is a distinct later essay
+- translation-counterpart:none-identified
+- translation-counterpart:src-0bdff38c9c01-exact-full
 - unverified\_paranormal\_claims
 - unverified\_physics\_claims
 - venus-habitable-world-model

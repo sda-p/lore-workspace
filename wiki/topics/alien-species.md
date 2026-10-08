@@ -3186,6 +3186,168 @@ Source: [2019 - EL CABALLERO NEGRO - LOS ANUNNAKI - CONTACTO EXTRATERRESTRE](htt
 
 Related topics: [Kingu](kingu.md).
 
+### src-872b05071e96-c02
+
+Yazhi says all souls have emotions, but Andromedan and Arcturian ranges are narrower than Lyrian; Taygetans may have emotional range comparable to or greater than humans.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EMOCIONES - QUE SON - LA ASCENSIÓN DE UNA PERSONA - YAZHÍ SWARUU](https://swaruu.org/transcripts/emociones-que-son-la-ascension-de-una-persona-yazhi-swaruu) (2020-07-16; es); passages p0020, p0021, p0024, p0025, p0049, p0050. [Structured record](../../records/src-872b05071e96.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-2eb79f41c6bd-c02
+
+She says ideas and inventions circulate between species through contact and souls incarnating across worlds, making familiar tools and instruments common among civilizations.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA VIDA EN LAS PLEYADES - ESTRELLA TAYGETA - CONTACTO EXTRATERRESTRE - Swaruu D´Jedi Ronin](https://swaruu.org/transcripts/la-vida-en-las-pleyades-estrella-taygeta-contacto-extraterrestre-swaruu-d-jedi-ronin) (2020-05-11; es); passages p0013, p0014, p0028. [Structured record](../../records/src-2eb79f41c6bd.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-2237b5ddb772-c02
+
+She says humanity comprises many species using human bodies as shared suits; souls, not outward appearance, distinguish them.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TEST PCR Y QUÉ SIGNIFICA SER SEMILLA ESTELAR \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/test-pcr-y-que-significa-ser-semilla-estelar-sin-video) (2020-10-28; es); passages p0013. [Structured record](../../records/src-2237b5ddb772.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-47899b07f4e7-c03
+
+Swaruu distinguishes fear-generated reptilian egregors from reptilian species, including positive, soul-bearing races.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [CONCIENCIA REPTIL -EL GRAN EGREGOR DE LA REALIDAD OBJETIVA- EL EGREGOR CÓSMICO - Swaruu Djedi Ronin](https://swaruu.org/transcripts/conciencia-reptil-el-gran-egregor-de-la-realidad-objetiva-el-egregor-cosmico-swaruu-djedi-ronin) (2020-04-14; es); passages p0080, p0085, p0089, p0091, p0099. [Structured record](../../records/src-47899b07f4e7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-10d0756497ac-c01
+
+Anéeka calls small greys “gardeners,” saying they are major abductors who work on planetary biology.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Mujer extraterrestre explica como se hacen las abducciones – Anéeka de Temmer](https://swaruu.org/transcripts/mujer-extraterrestre-explica-como-se-hacen-las-abducciones-aneeka-de-temmer) (2020-10-10; es); passages p0003, p0004. [Structured record](../../records/src-10d0756497ac.json).
+
+### src-10d0756497ac-c02
+
+She says other races contract grey teams for abductions, offering supplies, bases, or technology cooperation.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Mujer extraterrestre explica como se hacen las abducciones – Anéeka de Temmer](https://swaruu.org/transcripts/mujer-extraterrestre-explica-como-se-hacen-las-abducciones-aneeka-de-temmer) (2020-10-10; es); passages p0026, p0028. [Structured record](../../records/src-10d0756497ac.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-10d0756497ac-c03
+
+Anéeka says grey crews use brainwave frequencies to induce sleep, paralysis, and impaired memory formation. Memory suppression is described as imperfect.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Mujer extraterrestre explica como se hacen las abducciones – Anéeka de Temmer](https://swaruu.org/transcripts/mujer-extraterrestre-explica-como-se-hacen-las-abducciones-aneeka-de-temmer) (2020-10-10; es); passages p0018, p0019, p0020. [Structured record](../../records/src-10d0756497ac.json).
+
+### src-10d0756497ac-c04
+
+She says implanted trackers collect location, habits, and biometric data, often across repeated abductions.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Mujer extraterrestre explica como se hacen las abducciones – Anéeka de Temmer](https://swaruu.org/transcripts/mujer-extraterrestre-explica-como-se-hacen-las-abducciones-aneeka-de-temmer) (2020-10-10; es); passages p0043, p0047, p0054, p0056, p0058. [Structured record](../../records/src-10d0756497ac.json).
+
+### src-10d0756497ac-c05
+
+Anéeka says abductions can study or repair biology for life plans; advanced Taygeta usually needs no gardener assistance.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Mujer extraterrestre explica como se hacen las abducciones – Anéeka de Temmer](https://swaruu.org/transcripts/mujer-extraterrestre-explica-como-se-hacen-las-abducciones-aneeka-de-temmer) (2020-10-10; es); passages p0034, p0035, p0062, p0063, p0073. [Structured record](../../records/src-10d0756497ac.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-2e29a706d6e3-c03
+
+Swaruu says starseeds can define their identity internally and need no outside confirmation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mensaje para Semillas Estelares - Swaruu D´Jedi Ronin (Comunicacion Extraterrestre - Taygeta)](https://swaruu.org/transcripts/mensaje-para-semillas-estelares-swaruu-d-jedi-ronin-comunicacion-extraterrestre-taygeta) (2020-04-08; es); passages p0015, p0016, p0017. [Structured record](../../records/src-2e29a706d6e3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-55aa4da20352-c02
+
+She says mutilations supply tissues and genetic material for food, hybridization, cloning, and biointerface technologies. She includes human and wild animals among targets.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ABDUCCIONES EXTRATERRESTRES - DE GANADO - DE PLANTAS - DE HUMANOS - REGRESIVAS -ANEEKA DE TEMMER](https://swaruu.org/transcripts/abducciones-extraterrestres-de-ganado-de-plantas-de-humanos-regresivas-aneeka-de-temmer) (2020-10-30; es); passages p0004, p0005. [Structured record](../../records/src-55aa4da20352.json).
+
+Related topics: [Human clones and manufactured persons](human-clones.md).
+
+### src-55aa4da20352-c03
+
+Anéeka says nonhuman groups collect plant genes to adapt organisms to unfamiliar atmospheres and temperatures. She doubts this final practice occurs on Earth.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ABDUCCIONES EXTRATERRESTRES - DE GANADO - DE PLANTAS - DE HUMANOS - REGRESIVAS -ANEEKA DE TEMMER](https://swaruu.org/transcripts/abducciones-extraterrestres-de-ganado-de-plantas-de-humanos-regresivas-aneeka-de-temmer) (2020-10-30; es); passages p0006, p0007. [Structured record](../../records/src-55aa4da20352.json).
+
+### src-bdc9959237c9-c03
+
+She says all ensouled beings feel emotion, though species differ in range; Andromedans are less emotional than humans, while Taygetans retain comparable range.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Emociones: Que Son? (Yazhi Swaruu - Pleyades- Comunicación Extraterrestre)](https://swaruu.org/transcripts/emociones-que-son-yazhi-swaruu-pleyades-comunicacion-extraterrestre) (2020-07-07; es); passages p0003, p0023, p0024, p0025. [Structured record](../../records/src-bdc9959237c9.json).
+
+Related topics: [Andromedans](andromedans.md), [Taygetans](taygetans.md).
+
+### src-4dbb2d05dfc2-c01
+
+Swaruu describes D’Jedi as solitary galactic figures who awaken consciousness and free peoples, with military, artistic and mental training to manipulate matter and manifestation. Swaruu says Star Wars adopted “Jedi” from D’Jedi and also asserts that Star Wars Jedi and the Force exist.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Significado de D'Jedi Ronin - VIDEO FUE ELIMINADO POR YOUTUBE](https://swaruu.org/transcripts/significado-de-d-jedi-ronin-video-fue-eliminado-por-youtube) (2020-04-14; es); passages p0005. [Structured record](../../records/src-4dbb2d05dfc2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9b690db81851-c04
+
+Anéeka says telepathy crosses planes and portals; Taygetans claim no distance limit, while Ummites report weakening.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [VIAJES EN EL ESPACIO TIEMPO - RESPUESTAS A TUS PREGUNTAS - LO QUE NO TE CUENTAN - Anéeka de Temmer](https://swaruu.org/transcripts/viajes-en-el-espacio-tiempo-respuestas-a-tus-preguntas-lo-que-no-te-cuentan-aneeka-de-temmer) (2020-06-29; es); passages p0061. [Structured record](../../records/src-9b690db81851.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-3901bf7c1489-c04
+
+Anéeka reports no records of winged horses; she describes tiny white semi-equine creatures on Cyndriel and Aldebaran as seahorse-like, not quadrupeds.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Existen los unicornios? - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/existen-los-unicornios-sin-video) (2020-08-16; es); passages p0023. [Structured record](../../records/src-3901bf7c1489.json).
+
+Related topics: [Cyndriel](cyndriel.md).
+
+### src-89c87eaf0e6d-c03
+
+She says Andromedans make poor human mentors, favoring Taygetans, Engans or Solatians as better adapted guides.
+
+Attributed to **Nai’Shara (quoting Yazhi)**; reported; extraction confidence: high.
+
+Source: [Las personas son seres espirituales teniendo una experiencia física - Nai'Shara](https://swaruu.org/transcripts/las-personas-son-seres-espirituales-teniendo-una-experiencia-fisica-nai-shara) (2020-06-18; es); passages p0010, p0012. [Structured record](../../records/src-89c87eaf0e6d.json).
+
+Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -3381,6 +3543,26 @@ Related topics: [Kingu](kingu.md).
 - [src-2bc9fdeb3e80-c05](sasquatch.md#src-2bc9fdeb3e80-c05) — Sasquatch
 - [src-83d10afd7959-c06](karistus.md#src-83d10afd7959-c06) — Karistus
 - [src-59c43e8ab96d-c05](mars.md#src-59c43e8ab96d-c05) — Mars
+- [src-63ddcc45d115-c02](galactic-federation.md#src-63ddcc45d115-c02) — Galactic Federation
+- [src-7bf576e6decd-c02](taygetan-parthenogenesis.md#src-7bf576e6decd-c02) — Taygetan parthenogenesis
+- [src-76864ac53fe6-c02](ohalum-council.md#src-76864ac53fe6-c02) — Ohalum Council
+- [src-01886647014f-c01](maitre.md#src-01886647014f-c01) — Maitre
+- [src-51b930d00866-c03](lyran-expansion.md#src-51b930d00866-c03) — Lyran expansion
+- [src-01d7bdad2249-c05](galactic-federation.md#src-01d7bdad2249-c05) — Galactic Federation
+- [src-47899b07f4e7-c01](consciousness-metaphysics.md#src-47899b07f4e7-c01) — Consciousness and metaphysics
+- [src-47899b07f4e7-c02](consciousness-metaphysics.md#src-47899b07f4e7-c02) — Consciousness and metaphysics
+- [src-9714c4956dbe-c04](galactic-federation.md#src-9714c4956dbe-c04) — Galactic Federation
+- [src-a33b63eaf1c2-c01](consciousness-metaphysics.md#src-a33b63eaf1c2-c01) — Consciousness and metaphysics
+- [src-a33b63eaf1c2-c04](consciousness-metaphysics.md#src-a33b63eaf1c2-c04) — Consciousness and metaphysics
+- [src-62893f690998-c01](consciousness-metaphysics.md#src-62893f690998-c01) — Consciousness and metaphysics
+- [src-62893f690998-c02](dna-metaphysics.md#src-62893f690998-c02) — DNA and metaphysical patterns
+- [src-78b7d4a4289d-c03](galactic-federation.md#src-78b7d4a4289d-c03) — Galactic Federation
+- [src-7df1df339f89-c02](exo-gen.md#src-7df1df339f89-c02) — Exo-gen cellular signaling model
+- [src-8f36267b529f-c01](lyran-expansion.md#src-8f36267b529f-c01) — Lyran expansion
+- [src-61a0b9a71122-c01](taygetans.md#src-61a0b9a71122-c01) — Taygetans
+- [src-3901bf7c1489-c01](naki-bideetaaii.md#src-3901bf7c1489-c01) — Naki bide’taa’ii
+- [src-68b07316b2f9-c03](galactic-federation.md#src-68b07316b2f9-c03) — Galactic Federation
+- [src-89c87eaf0e6d-c02](consciousness-metaphysics.md#src-89c87eaf0e6d-c02) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -3404,10 +3586,14 @@ Related topics: [Kingu](kingu.md).
 - The cloning and genetic-control statements are Swaruu’s claims.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - Weapon and defense capabilities are source-attributed technical claims
+- abduction-motive-varies
+- abduction-mutilation-claims
 - agency\_and\_noninterference
 - agenda\_term\_varies
 - ai-clone-claims-attributed
 - alternate-interpretation-of-ancient-texts-attributed
+- alternative-biology-claim
+- ancient-solar-system-density-and-polity-claims
 - approximate-age-estimate
 - approximate\_dates
 - ark-locations-and-status
@@ -3429,6 +3615,7 @@ Related topics: [Kingu](kingu.md).
 - conflicting\_intelligence\_accounts
 - conspiracy-claims
 - conspiracy\_claims
+- contested-genetic-surveillance-claim
 - contested\_extraterrestrial\_history
 - cosmology-claims\_attributed
 - coverage: 5D transition forecast
@@ -3455,6 +3642,7 @@ Related topics: [Kingu](kingu.md).
 - dyatlov-claim-reversed-in-later-anéeka-account
 - earth-consciousness\_claim\_omitted
 - egregor-vs-species-levels
+- emotion-and-integration-doctrine-attributed
 - entertainment-disclaimer
 - extraordinary-contact-claims
 - extraordinary\_ai\_claims
@@ -3479,10 +3667,14 @@ Related topics: [Kingu](kingu.md).
 - factional\_viewpoint\_conflict
 - false-invasion-not-prediction
 - fauna\_and\_ecology\_claims
+- federation-level-perspective-difference
+- federation-purpose-disputed
+- federation-role-speaker-contrast
 - federation\_control\_claims\_unverified
 - federation\_dispute
 - fence-control-theory-unconfirmed
 - fleet-status\_as-reported
+- franchise-reference-attributed
 - frequency\_health\_claims\_unverified
 - gender-reincarnation\_views\_attributed
 - genetic-metaphysics-attributed
@@ -3493,6 +3685,7 @@ Related topics: [Kingu](kingu.md).
 - historical-claims-uncorroborated
 - historical-claims-unverified
 - historical-conspiracy-claims
+- historical-conspiracy-claims-attributed
 - historical-interpretation
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
@@ -3508,6 +3701,9 @@ Related topics: [Kingu](kingu.md).
 - internal\_qualification
 - internal\_scope\_tension
 - internal\_tension
+- intervention-ethics-disputed
+- intervention-position-varies-across-dialogues
+- liberation-framing-disputed
 - logo\_identity\_claim\_unverified
 - lunar-artificial-structure-claims-attributed
 - maitre\_claims\_conflicting\_and\_uncertain
@@ -3521,6 +3717,7 @@ Related topics: [Kingu](kingu.md).
 - medical\_claims
 - medical\_claims\_omitted
 - medical\_claims\_unverified
+- memory-suppression-imperfect
 - metaphysical-claims
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
@@ -3528,24 +3725,31 @@ Related topics: [Kingu](kingu.md).
 - multiple\_futures\_claim
 - name-variant-review
 - named\_government\_and\_secret\_base\_claims
+- nanotechnology-claims
 - nonstandard-biology-claims
 - nonstandard-genetics-claims
 - nonstandard-planetary-model
 - occult\_claims
+- ontological-scope-varies
 - paleontology\_claims\_unverified
+- pandemic-control-claims
+- personal-reflection-not-taygetan-report
 - personal\_advice
 - personal\_metaphysics
 - planetary-lore-unverified
 - political-allegation
 - politically\_contested
 - population-control-allegations
+- quoted-speaker-attribution:NaiShara-quotes-Yazhi
 - reincarnation-model-metaphysical
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
 - reported\_plan
+- reptile-race-vs-egregor-distinction
 - same-language-near-duplicate-src-735f991fe169
 - scenario-not-prediction
 - security-claims-attributed
+- self-described-species-transition
 - self-reported-traits
 - self\_description
 - sensitive\_claims
@@ -3553,6 +3757,7 @@ Related topics: [Kingu](kingu.md).
 - simulation-and-AI-claims
 - sirian-group-includes-distinct-species
 - solar-system-history-attributed
+- soul-and-density-doctrine-attributed
 - soul-model-metaphysical
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker-unidentified
@@ -3561,9 +3766,12 @@ Related topics: [Kingu](kingu.md).
 - speaker\_qualifies\_script\_claims
 - species-claims-unverified
 - species-cosmology\_attributed
+- species-emotional-ranges-attributed
+- species-labels-uncertain
 - species-origin-model-attributed
 - species-taxonomy-contradiction
 - species-threat-description
+- species-trait-generalizations-attributed
 - species\_specific\_reproduction
 - starlink-observation-scope-ambiguity
 - suffering\_causality
@@ -3575,11 +3783,14 @@ Related topics: [Kingu](kingu.md).
 - translated-originally-Spanish
 - translated\_source
 - translation-counterpart-src-0a2dec346e2d-expanded-later-account
+- translation-counterpart:src-0bdff38c9c01-exact-full
+- translation-counterpart:src-50afee47b8a2-close-full
 - translation-equivalence-review
 - translation-equivalence-unverified
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - translation\_approximation\_navajo\_inuit
 - ufo\_researcher\_critique
+- uncertain-human-versus-nonhuman-mutilation-cause
 - unsupported\_planetary\_claims
 - unverified-spiritual-attack-interpretation
 - unverified\_agency\_claims

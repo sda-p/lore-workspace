@@ -330,6 +330,276 @@ Source: [La Conciencia consciencia - Naves Extraterrestres - Navegacion Estelar 
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-cdf26823e8ee-c01
+
+Yazhi views time as a nested, expanding network of simultaneous event paths; nexus points spread influence, while attention animates a sequence. She describes all paths as interconnected, not isolated.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA ASCENSIÓN - LA ASCENSIÓN PLANETARIA - Líneas temporales - YAZHI SWARUU](https://swaruu.org/transcripts/la-ascension-la-ascension-planetaria-lineas-temporales-yazhi-swaruu) (2020-10-01; es); passages p0004, p0005, p0006, p0008, p0010, p0011, p0013. [Structured record](../../records/src-cdf26823e8ee.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-828b1cc9dc5c-c03
+
+Yazhi says each person’s frequency and thoughts select the perceived timeline; timelines are attention-sequences, not separate worlds.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Reseteo Planetario - Respuestas de Yázhi Swaruu (Comunicación Extraterrestre)](https://swaruu.org/transcripts/reseteo-planetario-respuestas-de-yazhi-swaruu-comunicacion-extraterrestre) (2020-08-30; es); passages p0028, p0038, p0039, p0058. [Structured record](../../records/src-828b1cc9dc5c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ab31d90c192d-c03
+
+Swaruu says observers can shift among countless mathematically patterned timelines through consciousness, decisions, and frequency compatibility. She reconciles patterned, predictable lines with observer choice.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Que es Tiempo y Lineas Temporales - Continuación (Comunicación Extraterrestre - Pleyades)](https://swaruu.org/transcripts/que-es-tiempo-y-lineas-temporales-continuacion-comunicacion-extraterrestre-pleyades) (2020-01-22; es); passages p0025, p0038, p0042, p0044, p0049. [Structured record](../../records/src-ab31d90c192d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-773f5d590da3-c01
+
+Swaruu describes collective timelines as shared perception agreements; when they fracture, people may experience many variants of several outcomes. She describes roughly four broad lines, with individual variants.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu D´Jedi: Enfoque: Nada Importa Mas (Contacto Extraterrestre - Taygeta Pleiades)](https://swaruu.org/transcripts/swaruu-d-jedi-enfoque-nada-importa-mas-contacto-extraterrestre-taygeta-pleiades) (2020-03-27; es); passages p0003, p0004, p0034, p0038. [Structured record](../../records/src-773f5d590da3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-58b00e0b70b3-c01
+
+Swaruu says Earth has many possible timelines; collective human choices manifest future outcomes, so even negative scenarios are not fixed.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MENSAJE DEL TIGRE A LA HUMANIDAD \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/mensaje-del-tigre-a-la-humanidad) (2020-06-11; es); passages p0003, p0011, p0019, p0021. [Structured record](../../records/src-58b00e0b70b3.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-079a413a4643-c02
+
+She says aircraft may cross timelines, leaving duplicate wrecks; she cannot identify who moved them.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [TRIÁNGULO DE LAS BERMUDAS - AVIONES Y BARCOS DESAPARECIDOS - ANEEKA DE TEMMER \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/triangulo-de-las-bermudas-aviones-y-barcos-desaparecidos-aneeka-de-temmer-sin-video) (2020-10-24; es); passages p0006, p0007, p0008, p0011. [Structured record](../../records/src-079a413a4643.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-d85be62c2f1e-c01
+
+Yazhi models time as nested expanding bubbles; event sequences interact and may move in any direction.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ver el Futuro - No es como lo Miran los Humanos - Yázhi Swaruu (Contacto Extraterrestre) \*\*CENSORADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/ver-el-futuro-no-es-como-lo-miran-los-humanos-yazhi-swaruu-contacto-extraterrestre) (2020-09-18; es); passages p0004, p0005, p0007, p0008, p0011, p0013. [Structured record](../../records/src-d85be62c2f1e.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-d85be62c2f1e-c02
+
+She says nexus points link events across timelines, with attention animating past, present, or future.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ver el Futuro - No es como lo Miran los Humanos - Yázhi Swaruu (Contacto Extraterrestre) \*\*CENSORADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/ver-el-futuro-no-es-como-lo-miran-los-humanos-yazhi-swaruu-contacto-extraterrestre) (2020-09-18; es); passages p0010, p0011, p0012. [Structured record](../../records/src-d85be62c2f1e.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-d85be62c2f1e-c03
+
+Yazhi foresaw stricter controls, economic collapse, and unrest during 2020–2025. She said outcomes were not fixed and depended on human choices.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Ver el Futuro - No es como lo Miran los Humanos - Yázhi Swaruu (Contacto Extraterrestre) \*\*CENSORADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/ver-el-futuro-no-es-como-lo-miran-los-humanos-yazhi-swaruu-contacto-extraterrestre) (2020-09-18; es); passages p0014, p0015, p0016. [Structured record](../../records/src-d85be62c2f1e.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-f680b9148842-c01
+
+Yazhi says time and timelines are mental constructs; all events form an interconnected whole.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LINEAS ESPACIO TEMPORALES - universo paralelo - YAZHÍ SWARUU - PRIMERA PARTE](https://swaruu.org/transcripts/lineas-espacio-temporales-universo-paralelo-yazhi-swaruu-primera-parte) (2020-08-24; es); passages p0004, p0006, p0010, p0011. [Structured record](../../records/src-f680b9148842.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f680b9148842-c04
+
+She describes history as viewpoint-dependent, with contradictory pasts simultaneously valid to different minds.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LINEAS ESPACIO TEMPORALES - universo paralelo - YAZHÍ SWARUU - PRIMERA PARTE](https://swaruu.org/transcripts/lineas-espacio-temporales-universo-paralelo-yazhi-swaruu-primera-parte) (2020-08-24; es); passages p0023, p0024, p0025. [Structured record](../../records/src-f680b9148842.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5915d2c9e136-c05
+
+Yazhi says increased awareness changes one’s attention point; alternate selves may remain unaware.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [CONSEJO DE ALCYONE – CONFEDERACIÓN GALÁCTICA - no hay líneas temporales - Yazhi Swaruu](https://swaruu.org/transcripts/consejo-de-alcyone-confederacion-galactica-no-hay-lineas-temporales-yazhi-swaruu) (2020-09-23; es); passages p0035, p0037. [Structured record](../../records/src-5915d2c9e136.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c1491dcb9c07-c01
+
+Swaruu says a person can change their experienced past through perception, without changing other people’s memories.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Insertar nuevo Pasado del Campo Cuántico: Swaruu de Erra (Pleyades)](https://swaruu.org/transcripts/insertar-nuevo-pasado-del-campo-cuantico-swaruu-de-erra-pleyades) (2020-02-07; es); passages p0002, p0003, p0008, p0023, p0024. [Structured record](../../records/src-c1491dcb9c07.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c1491dcb9c07-c02
+
+She describes alternate memories as drawn from another self’s timeline, with many versions of each event.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Insertar nuevo Pasado del Campo Cuántico: Swaruu de Erra (Pleyades)](https://swaruu.org/transcripts/insertar-nuevo-pasado-del-campo-cuantico-swaruu-de-erra-pleyades) (2020-02-07; es); passages p0009, p0010, p0012, p0014. [Structured record](../../records/src-c1491dcb9c07.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-99293df55ffb-c01
+
+Swaruu says time is personal perception, not external sequence; consciousness accesses alternate lines, not shared history. Her model.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Manipulación temporal - Cambia tu pasado- Viajes en el Tiempo - Swaruu de Erra](https://swaruu.org/transcripts/manipulacion-temporal-cambia-tu-pasado-viajes-en-el-tiempo-swaruu-de-erra) (2020-01-27; es); passages p0103, p0134, p0143, p0144. [Structured record](../../records/src-99293df55ffb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f95e071ab942-c03
+
+She allows that apparent empty-hospital reports could reflect timeline differences, while treating one collective timeline as the best fit to available data.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Situacion Global - En Vivo con Aneeka de Temmer (Comunicacion Extraterrestre-Taygeta-Pleyades)](https://swaruu.org/transcripts/situacion-global-en-vivo-con-aneeka-de-temmer-comunicacion-extraterrestre-taygeta-pleyades) (2020-04-01; es); passages p0016, p0017, p0018. [Structured record](../../records/src-f95e071ab942.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-0433b90a34a3-c01
+
+Yazhi says timelines are mental constructs, with collective tracks emerging from agreements while each person perceives a unique version. Her model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Lineas Temporales - Pasado - Presente - Futuro - Yázhi Swaruu - Perspectiva Extraterrestre](https://swaruu.org/transcripts/lineas-temporales-pasado-presente-futuro-yazhi-swaruu-perspectiva-extraterrestre) (2020-09-29; es); passages p0002, p0003, p0006, p0007. [Structured record](../../records/src-0433b90a34a3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0433b90a34a3-c03
+
+In her model, events occur simultaneously; contradictory pasts converge in the present, and future events can alter the past. Her model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Lineas Temporales - Pasado - Presente - Futuro - Yázhi Swaruu - Perspectiva Extraterrestre](https://swaruu.org/transcripts/lineas-temporales-pasado-presente-futuro-yazhi-swaruu-perspectiva-extraterrestre) (2020-09-29; es); passages p0012, p0013, p0014, p0015, p0017, p0018. [Structured record](../../records/src-0433b90a34a3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8f36267b529f-c02
+
+Yazhi argues history branches across timelines, with no single linear past, and says nonhuman records inform her alternative account. Her interpretation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Destruccion de la Matrix y manipulacion de la historia - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/destruccion-de-la-matrix-y-manipulacion-de-la-historia-sin-video) (2020-09-01; es); passages p0007, p0008. [Structured record](../../records/src-8f36267b529f.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-b59378b55fc0-c02
+
+She describes choices as shifts among existing timelines, while each person experiences one apparent sequence.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Viajes en Tiempo: Manipulación Temporal (Cambios del Pasado para Cambiar el Futuro): Swaruu de Erra](https://swaruu.org/transcripts/viajes-en-tiempo-manipulacion-temporal-cambios-del-pasado-para-cambiar-el-futuro-swaruu-de-erra) (2020-01-31; es); passages p0027, p0028, p0029, p0030. [Structured record](../../records/src-b59378b55fc0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-74d9087d50f8-c02
+
+She describes personal timelines as shifting among existing variants that converge and influence one another in the present.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Libre Albedrío y Líneas Temporales: Yázhí Swaruu - Contacto Extraterrestre](https://swaruu.org/transcripts/libre-albedrio-y-lineas-temporales-yazhi-swaruu-contacto-extraterrestre) (2020-10-28; es); passages p0027, p0028, p0033, p0034, p0045, p0046. [Structured record](../../records/src-74d9087d50f8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-74d9087d50f8-c04
+
+From a personal viewpoint, one may change the meaning of one’s past; she says this does not alter other timelines. This is her distinction between personal and expanded viewpoints.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Libre Albedrío y Líneas Temporales: Yázhí Swaruu - Contacto Extraterrestre](https://swaruu.org/transcripts/libre-albedrio-y-lineas-temporales-yazhi-swaruu-contacto-extraterrestre) (2020-10-28; es); passages p0041, p0042, p0043, p0084, p0085, p0086. [Structured record](../../records/src-74d9087d50f8.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-9b8c545032b0-c06
+
+Timelines are personal event sequences; shared perception forms group agreements that mental control can alter.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Viajes en Tiempo, Tiempo y Lineas Temporales - Swaruu (Mensaje Extraterrestre - Pleyades)](https://swaruu.org/transcripts/viajes-en-tiempo-tiempo-y-lineas-temporales-swaruu-mensaje-extraterrestre-pleyades) (2020-01-17; es); passages p0070, p0074. [Structured record](../../records/src-9b8c545032b0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3fe6ca238068-c03
+
+Changing a past event creates an alternate branch for the traveler; the departure timeline and other people remain unaffected.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MANIPULACION TEMPORAL - Cambiar el Pasado - Viajes Temporales - Swaruu de Erra](https://swaruu.org/transcripts/manipulacion-temporal-cambiar-el-pasado-viajes-temporales-swaruu-de-erra) (2020-01-22; es); passages p0031, p0034, p0035, p0036, p0072. [Structured record](../../records/src-3fe6ca238068.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-54359f164bb6-c05
+
+She perceives timelines as connected branches and says she can focus on or mentally jump between them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Me Convierto en una Comadreja - Manejo de la Realidad - Yázhí Swaruu (Taygeta, Pleyades) - CENSURADO EN YOUTUBE](https://swaruu.org/transcripts/me-convierto-en-una-comadreja-manejo-de-la-realidad-yazhi-swaruu-taygeta-pleyades) (2020-10-08; es); passages p0058, p0059, p0062. [Structured record](../../records/src-54359f164bb6.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-ad9dbfd43650-c04
+
+Anéeka says shared perception agreements have fractured the timeline; she urges meditation to sustain a positive timeline.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ACTUALIZACIÓN PLANETARIA - MEDITACIÓN - LINEA POSITIVA - Swaruu de Erra - Aneeka de Temmer](https://swaruu.org/transcripts/actualizacion-planetaria-meditacion-linea-positiva-swaruu-de-erra-aneeka-de-temmer) (2020-06-15; es); passages p0031, p0032. [Structured record](../../records/src-ad9dbfd43650.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-057efbcdf1b8-c02
+
+She says co-present people may perceive different parallel worlds, densities and timelines despite seeing one another’s bodies.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MANIFESTAR ABUNDANCIA - SOCIEDAD HOLOGRAFICA – SWARUU D´JEDI RONIN](https://swaruu.org/transcripts/manifestar-abundancia-sociedad-holografica-swaruu-d-jedi-ronin) (2020-05-19; es); passages p0007, p0009, p0011. [Structured record](../../records/src-057efbcdf1b8.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
 ## Claims filed under other topics
 
 - [src-4d14ae46991f-c04](consciousness-metaphysics.md#src-4d14ae46991f-c04) — Consciousness and metaphysics
@@ -358,39 +628,102 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-775d18ade5d9-c03](temporal-skipping.md#src-775d18ade5d9-c03) — Temporal skipping
 - [src-50c3183fae27-c04](stellar-navigation.md#src-50c3183fae27-c04) — Stellar navigation
 - [src-b24a05072ad7-c02](moon-matrix.md#src-b24a05072ad7-c02) — Moon and terrestrial Matrix
+- [src-7bf576e6decd-c03](perceptual-density.md#src-7bf576e6decd-c03) — Perceptual density
+- [src-ab31d90c192d-c02](consciousness-metaphysics.md#src-ab31d90c192d-c02) — Consciousness and metaphysics
+- [src-236ecb1cbc5f-c01](starseeds.md#src-236ecb1cbc5f-c01) — Starseeds
+- [src-02802573a60a-c01](temporal-skipping.md#src-02802573a60a-c01) — Temporal skipping
+- [src-02802573a60a-c02](collective-timeline-influence.md#src-02802573a60a-c02) — Collective timeline influence
+- [src-02802573a60a-c03](earth-cabal.md#src-02802573a60a-c03) — Earth Cabal and power structures
+- [src-64ed67657036-c02](consciousness-metaphysics.md#src-64ed67657036-c02) — Consciousness and metaphysics
+- [src-6c377f98a0b6-c01](galactic-federation.md#src-6c377f98a0b6-c01) — Galactic Federation
+- [src-079a413a4643-c03](temporal-skipping.md#src-079a413a4643-c03) — Temporal skipping
+- [src-f680b9148842-c02](consciousness-metaphysics.md#src-f680b9148842-c02) — Consciousness and metaphysics
+- [src-f680b9148842-c03](temporal-skipping.md#src-f680b9148842-c03) — Temporal skipping
+- [src-c1491dcb9c07-c03](temporal-skipping.md#src-c1491dcb9c07-c03) — Temporal skipping
+- [src-c26942770282-c05](consciousness-metaphysics.md#src-c26942770282-c05) — Consciousness and metaphysics
+- [src-99293df55ffb-c02](temporal-skipping.md#src-99293df55ffb-c02) — Temporal skipping
+- [src-6fa658378a51-c02](consciousness-metaphysics.md#src-6fa658378a51-c02) — Consciousness and metaphysics
+- [src-86fc875548c8-c01](scalar-internet.md#src-86fc875548c8-c01) — Scalar Internet
+- [src-26a2d18bbea0-c03](natural-portals.md#src-26a2d18bbea0-c03) — Natural and artificial portals
+- [src-fe16588859c1-c02](temporal-skipping.md#src-fe16588859c1-c02) — Temporal skipping
+- [src-0433b90a34a3-c02](consciousness-metaphysics.md#src-0433b90a34a3-c02) — Consciousness and metaphysics
+- [src-b59378b55fc0-c03](temporal-skipping.md#src-b59378b55fc0-c03) — Temporal skipping
+- [src-b59378b55fc0-c04](temporal-skipping.md#src-b59378b55fc0-c04) — Temporal skipping
+- [src-9b8c545032b0-c05](temporal-skipping.md#src-9b8c545032b0-c05) — Temporal skipping
+- [src-53756b5035b9-c05](original-matrix.md#src-53756b5035b9-c05) — Original Matrix
+- [src-3fe6ca238068-c04](collective-timeline-influence.md#src-3fe6ca238068-c04) — Collective timeline influence
+- [src-3fe6ca238068-c05](consciousness-metaphysics.md#src-3fe6ca238068-c05) — Consciousness and metaphysics
+- [src-fed215817d92-c02](consciousness-metaphysics.md#src-fed215817d92-c02) — Consciousness and metaphysics
 
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
+- English source src-dd0d7340a655 closely translates the complete Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
 - agenda21-assertion
 - ancient-history-claim
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
+- ascension-model-attributed
+- ascension-not-a-single-event
 - attribution\_scope
 - author-personal-philosophical-analysis
+- claims about fabricated histories and public events are attributed lore, not independently substantiated
 - consciousness-claims
 - conspiracy-claims
+- contested-vaccine-technology-allegations
+- contradictory-information-model-is-source-claim
 - cosmology-claims-attributed
 - counterfactual-earth-history
 - cryonics-outcomes-speculative
+- dated-non-deterministic-prediction
 - entertainment-disclaimer
+- flight-19-explanation-uncertain
 - historical-conspiracy-claims
+- historical-conspiracy-claims-attributed
+- human-agency-and-federation-oversight
 - human-origin-model
+- identity-perspective-difference
 - incomplete-investigation
+- integration-vs-personal-identity
+- intelligence-report-unverified
+- internal-contradiction:virus-presence
+- matrix-reset-and-density-doctrine-attributed
+- memory-rewriting-is-personal-only
+- mental-health-claims-excluded
 - metaphysical-claims\_attributed
 - metaphysical-model
 - metaphysical-model\_attributed
 - mirror-identity-varies
+- nonlinear-time-model-attributed
+- numerical influence comparisons are illustrative, not fixed ratios
+- objective-versus-personal-reality-framing
+- pandemic-claims-omitted
+- personal-ability-claims-attributed
 - political-claims
+- portal-location-and-destination-vary
+- positronic-wave-source-disputed-with-alcyone-claims
+- predictable-patterns-and-free-choice
+- psychological memory-rewriting discussion could be confused with clinical guidance
+- resets-without-agreement
+- scenario-outcomes-and-intervention-threshold
+- soul-and-density-doctrine-attributed
 - speaker-shift-in-source
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker\_attribution
 - subjective-reality-doctrine-attributed
+- temporal-branching-does-not-alter-observers' timelines
+- temporal-duplicate-theory
 - temporal-lore-attributed
 - time-travel-claims
+- timeline-as-mind-model
+- timeline-model-varies-from-linear-view
 - translated-from-Spanish-original-not-available
+- translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448
+- translation-counterpart:none-identified
 - vision-narrative\_attributed
+- yemen-portal-claim

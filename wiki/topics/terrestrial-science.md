@@ -2050,6 +2050,168 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
 
 Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru-y-nemesis-no-existen) (2018-05-30; es); passages p0007. [Structured record](../../records/src-fba00f670b62.json).
 
+### src-a25cbe9cab02-c03
+
+Swaruu claims viruses revert to original patterns and says a Chinese bioweapon later became a cold; she describes viruses as host-dependent. These are the speaker’s claims.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [El Miedo - Como superarlo? Los Virus - CENSURADO EN YOUTUBE](https://swaruu.org/transcripts/el-miedo-como-superarlo-los-virus-censurado-en-youtube) (2020-03-23; es); passages p0035, p0037, p0077, p0078, p0096, p0099, p0100, p0103. [Structured record](../../records/src-a25cbe9cab02.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-ab55e5374c49-c02
+
+She advises holding beliefs provisionally, comparing available information, and changing one's view when better evidence appears. Her recommended method for forming independent judgment.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [COMO ALCANZAR LA VERDAD - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/como-alcanzar-la-verdad-aneeka-de-temmer) (2020-10-27; es); passages p0004. [Structured record](../../records/src-ab55e5374c49.json).
+
+### src-8ba75495479d-c01
+
+Anéeka says 99% of learning difficulties stem from psychological resistance to imposed or boring material; low motivation and diverse brain injuries can also contribute. She presents the 99% figure as her view.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LAS DIFICULTADES DEL APRENDIZAJE EN EL 3D - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/las-dificultades-del-aprendizaje-en-el-3d-aneeka-de-temmer) (2020-10-22; es); passages p0003, p0004. [Structured record](../../records/src-8ba75495479d.json).
+
+### src-dda82170ab11-c02
+
+She relays a theory that an engineered strain reverted through rapid DNA replication. Presented as a possibility.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Comunicación Extraterrestre sobre Situacion Actual - Taygeta, Pleyades (Aneeka de Temmer)](https://swaruu.org/transcripts/comunicacion-extraterrestre-sobre-situacion-actual-taygeta-pleyades-aneeka-de-temmer) (2020-03-20; es); passages p0039, p0040, p0042. [Structured record](../../records/src-dda82170ab11.json).
+
+### src-dda82170ab11-c04
+
+Some sources blamed illness on 5G; Anéeka says it was not the sole cause.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Comunicación Extraterrestre sobre Situacion Actual - Taygeta, Pleyades (Aneeka de Temmer)](https://swaruu.org/transcripts/comunicacion-extraterrestre-sobre-situacion-actual-taygeta-pleyades-aneeka-de-temmer) (2020-03-20; es); passages p0017, p0036. [Structured record](../../records/src-dda82170ab11.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-de6bb6a64653-c01
+
+Swaruu describes SCEs, called viruses, as signals communicating between cells and nearby organisms.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Comportamiento de los Virus - Respuestas a doctor Alex (Swaruu - Taygeta - Pleyades)](https://swaruu.org/transcripts/comportamiento-de-los-virus-respuestas-a-doctor-alex-swaruu-taygeta-pleyades) (2020-05-24; es); passages p0003, p0016, p0018, p0021. [Structured record](../../records/src-de6bb6a64653.json).
+
+### src-de6bb6a64653-c02
+
+She says cell stress can release genetic material as an alarm, prompting nearby cells to respond.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Comportamiento de los Virus - Respuestas a doctor Alex (Swaruu - Taygeta - Pleyades)](https://swaruu.org/transcripts/comportamiento-de-los-virus-respuestas-a-doctor-alex-swaruu-taygeta-pleyades) (2020-05-24; es); passages p0016, p0017, p0018. [Structured record](../../records/src-de6bb6a64653.json).
+
+### src-de6bb6a64653-c03
+
+Swaruu claims environmental and psychological stress affect how organisms interpret SCE signals.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Comportamiento de los Virus - Respuestas a doctor Alex (Swaruu - Taygeta - Pleyades)](https://swaruu.org/transcripts/comportamiento-de-los-virus-respuestas-a-doctor-alex-swaruu-taygeta-pleyades) (2020-05-24; es); passages p0019, p0020. [Structured record](../../records/src-de6bb6a64653.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-27117e8f1038-c01
+
+Anéeka reports eight onboard blood samples showed no coronavirus, while acknowledging a virus could still exist.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Coronavirus - Lo que sabemos hasta ahora - VIDEO ELIMINADO EN YOUTUBE POR CENSURA](https://swaruu.org/transcripts/coronavirus-lo-que-sabemos-hasta-ahora-video-eliminado-en-youtube-por-censura) (2020-02-03; es); passages p0016, p0023. [Structured record](../../records/src-27117e8f1038.json).
+
+### src-c26942770282-c02
+
+She describes positronic waves from the galactic center arriving two or three times monthly and buffeting ships.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Ascension y Energia Positronica: Mensaje Extraterrestre (Swaruu de Erra)](https://swaruu.org/transcripts/ascension-y-energia-positronica-mensaje-extraterrestre-swaruu-de-erra) (2020-02-12; es); passages p0007, p0009, p0010. [Structured record](../../records/src-c26942770282.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-c26942770282-c03
+
+Swaruu says the waves amplify through stars, including the Sun; Alcyone amplifies them but is not their source.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Ascension y Energia Positronica: Mensaje Extraterrestre (Swaruu de Erra)](https://swaruu.org/transcripts/ascension-y-energia-positronica-mensaje-extraterrestre-swaruu-de-erra) (2020-02-12; es); passages p0013, p0014. [Structured record](../../records/src-c26942770282.json).
+
+### src-45f2406866f4-c04
+
+She attributes some deaths to lack of medical access rather than the virus itself.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Hospitales - Mensaje Urgente - Anéeka de Temmer (Comunicación Extraterrestre - Taygeta - Pleyades)](https://swaruu.org/transcripts/hospitales-mensaje-urgente-aneeka-de-temmer-comunicacion-extraterrestre-taygeta-pleyades) (2020-05-12; es); passages p0020, p0021, p0022. [Structured record](../../records/src-45f2406866f4.json).
+
+### src-26d9d32c0ca8-c05
+
+Anéeka says stellar radiation heats atmospheric molecules, while seasons reflect axial tilt and radiation angle.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Agujeros Negros - Preguntas del Público - Anéeka (Contacto Extraterrestre - Taygeta - Pleiades)](https://swaruu.org/transcripts/agujeros-negros-preguntas-del-publico-aneeka-contacto-extraterrestre-taygeta-pleiades) (2020-10-20; es); passages p0014, p0015. [Structured record](../../records/src-26d9d32c0ca8.json).
+
+### src-a02207051534-c04
+
+She claims some ancient stones formed liquid, while others were cut by compressed sound and levitated.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [Las Guerras de Orion - Invasion Reptil - Atlantida y Lemuria - Parte 3 \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/las-guerras-de-orion-invasion-reptil-atlantida-y-lemuria-parte-3-sin-video) (2020-07-24; es); passages p0047, p0048. [Structured record](../../records/src-a02207051534.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
+### src-4ce32a647c50-c03
+
+Anéeka speculates that 5G could induce symptoms in localized groups, while describing the wider pandemic narrative as media-driven.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [ACTUALIZACIÓN PLANETARIA 2020 - 5G NO ES UN ANCHO DE BANDA DE TELECOMUNICACIONES – ANÉEKA DE TEMMER](https://swaruu.org/transcripts/actualizacion-planetaria-2020-5g-no-es-un-ancho-de-banda-de-telecomunicaciones-aneeka-de-temmer) (2020-06-11; es); passages p0031, p0034. [Structured record](../../records/src-4ce32a647c50.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
+### src-1422880235ff-c01
+
+Anéeka says natural galactic spiral waves raise system frequency temporarily; the Sun relays them as solar wind.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Llamarada Solar - Olas Galácticas - Anéeka y Dale Harder (Pléyades - Comunicación Extraterrestre)](https://swaruu.org/transcripts/llamarada-solar-olas-galacticas-aneeka-y-dale-harder-pleyades-comunicacion-extraterrestre) (2020-10-19; es); passages p0003, p0004, p0007. [Structured record](../../records/src-1422880235ff.json).
+
+Related topics: [Sunspot portals](sunspot-portals.md).
+
+### src-ad9dbfd43650-c03
+
+Anéeka claims electromagnetic radiation from 5G can cause flu-like symptoms, hypoxia and lung fluid misattributed to infection.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ACTUALIZACIÓN PLANETARIA - MEDITACIÓN - LINEA POSITIVA - Swaruu de Erra - Aneeka de Temmer](https://swaruu.org/transcripts/actualizacion-planetaria-meditacion-linea-positiva-swaruu-de-erra-aneeka-de-temmer) (2020-06-15; es); passages p0012, p0013, p0014, p0015. [Structured record](../../records/src-ad9dbfd43650.json).
+
+Related topics: [Gwen towers](gwen-towers.md).
+
+### src-632cb43a7536-c02
+
+She denies 5G causes COVID-19, but says it can activate nanotechnology, manage chip data and possibly induce flu-like symptoms locally as a weapon. She distinguishes localized symptoms from causing COVID-19 itself.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL VERDADERO SIGNIFICADO DE COVID-19 – Significa una operación Militar - ANEEKA DE TEMMER](https://swaruu.org/transcripts/el-verdadero-significado-de-covid-19-significa-una-operacion-militar-aneeka-de-temmer) (2020-06-11; es); passages p0012, p0013, p0025, p0026. [Structured record](../../records/src-632cb43a7536.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -2145,23 +2307,57 @@ Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru
 - [src-0b358e77a59f-c03](moon-matrix.md#src-0b358e77a59f-c03) — Moon and terrestrial Matrix
 - [src-d8bcaf4fc008-c04](uranus.md#src-d8bcaf4fc008-c04) — Uranus and its moons
 - [src-fba00f670b62-c01](tiamat.md#src-fba00f670b62-c01) — Tiamat
+- [src-3aad979502f8-c01](5g-electromagnetic-weapons.md#src-3aad979502f8-c01) — 5G electromagnetic weapons
+- [src-3aad979502f8-c02](5g-electromagnetic-weapons.md#src-3aad979502f8-c02) — 5G electromagnetic weapons
+- [src-2783d6a4d5f8-c03](seti-surveillance.md#src-2783d6a4d5f8-c03) — SETI surveillance operation
+- [src-ab55e5374c49-c01](earth-cabal.md#src-ab55e5374c49-c01) — Earth Cabal and power structures
+- [src-dda82170ab11-c01](earth-cabal.md#src-dda82170ab11-c01) — Earth Cabal and power structures
+- [src-b3278ce1872a-c01](earth-cabal.md#src-b3278ce1872a-c01) — Earth Cabal and power structures
+- [src-b3278ce1872a-c02](earth-cabal.md#src-b3278ce1872a-c02) — Earth Cabal and power structures
+- [src-7df1df339f89-c01](exo-gen.md#src-7df1df339f89-c01) — Exo-gen cellular signaling model
+- [src-8f36267b529f-c02](timeline-branching.md#src-8f36267b529f-c02) — Timeline branching
+- [src-61643191f2a5-c01](exo-gen-signals.md#src-61643191f2a5-c01) — Exo-gen cellular signals
+- [src-61643191f2a5-c02](exo-gen-signals.md#src-61643191f2a5-c02) — Exo-gen cellular signals
+- [src-61643191f2a5-c03](exo-gen-signals.md#src-61643191f2a5-c03) — Exo-gen cellular signals
+- [src-61643191f2a5-c04](exo-gen-signals.md#src-61643191f2a5-c04) — Exo-gen cellular signals
+- [src-61643191f2a5-c06](exo-gen-signals.md#src-61643191f2a5-c06) — Exo-gen cellular signals
+- [src-da37867cb1a1-c01](natural-portals.md#src-da37867cb1a1-c01) — Natural and artificial portals
+- [src-4ce32a647c50-c02](taygetans.md#src-4ce32a647c50-c02) — Taygetans
+- [src-4ce32a647c50-c04](nanotechnology.md#src-4ce32a647c50-c04) — Nanotechnology and implants
+- [src-a4e3084ce97a-c05](moon-matrix.md#src-a4e3084ce97a-c05) — Moon and terrestrial Matrix
+- [src-ad9dbfd43650-c02](engineered-social-unrest.md#src-ad9dbfd43650-c02) — Engineered social unrest
+- [src-632cb43a7536-c01](nonhuman-surveillance-drones.md#src-632cb43a7536-c01) — Nonhuman surveillance drones
 
 ## Review flags
 
+- 5g-covid-causality-distinction
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
 - Nibiru\_claim\_conflicts\_with\_other\_sources
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- alleged-pandemic-cabal-plot
+- alternative-biology-claim
 - alternative-weapons-claims
 - apollo-denial-claims
+- ascension-not-a-single-event
 - astronomical-claims-unverified
 - attributed-climate-conspiracy-claims
+- attributed-covid-and-5g-conspiracy-claims
+- attributed-seti-military-purpose-claim
+- attributed-vaccine-claims
+- attributed-virus-and-vaccine-claims
 - author-signature-attribution
 - biological-claims-unverified
+- biomedical-claims-not-independently-supported
+- black-hole-ether-model
+- care-access-claims
 - chronology\_conflict
 - claimed\_observation
 - climate-claims
+- collective-egregor-metaphysics
 - competing\_attributions
+- conceptual-revision:mind-reading-vs-perception
+- conflicting-pandemic-origin-claims
 - conflicting\_war\_reports
 - conspiracy-claims
 - conspiracy\_claims
@@ -2176,6 +2372,7 @@ Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru
 - dangerous\_medical\_misinformation
 - diet\_claim\_omitted
 - dietary\_advice
+- directed-energy-attack-claims
 - disputed\_specimen
 - earth\_science\_claims\_unverified
 - entertainment-disclaimer
@@ -2203,13 +2400,17 @@ Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru
 - health-misinformation
 - health\_claims
 - historical-claims-unverified
+- historical-conspiracy-claims-attributed
 - historical\_and\_nuclear\_claims\_unverified
 - institutional\_conspiracy\_claims
 - inter-speaker-distinction
+- internal-contradiction:virus-presence
 - internal\_qualification
 - internal\_revision
 - internal\_scope\_tension
+- laboratory-virus-report-uncertain
 - medical-claims-unverified
+- medical-lore
 - medical-misinformation-claims
 - medical\_claims\_unverified
 - metaphysical-claims
@@ -2222,10 +2423,14 @@ Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru
 - occult\_claims
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
 - paleontology\_claims\_unverified
+- pandemic-and-vaccine-conspiracy-claims
+- pandemic-hospital-claims-unverified
 - personal\_cosmology
 - personal\_metaphysics
 - planet\_count\_internal\_inconsistency
 - political-claims-unverified
+- portal-time-travel-risk
+- positronic-wave-source-disputed-with-alcyone-claims
 - radiation-causation-allegations
 - related\_series\_part
 - same-language-near-duplicate-src-7872bc2f2c04
@@ -2243,7 +2448,10 @@ Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru
 - translated-from-Spanish-original-not-available
 - translated-originally-Spanish
 - translated\_source
+- translation-counterpart-unconfirmed
 - translation-counterpart:src-70fb5038443a-close; English adds context and 13-planet claims
+- translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
+- translation-counterpart:src-af195906d27f-close-full
 - translation-equivalence-unverified
 - translation-not-applicable
 - transport\_safety\_and\_policy\_claims\_unverified
@@ -2284,6 +2492,7 @@ Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru
 - unverified\_technology\_claims
 - unverified\_wartime\_claims
 - vaccine-harm-allegations
+- virus-presence-uncertain
 - war\_scale\_uncertainty
 - wartime-conspiracy-claims
 - weather\_claims

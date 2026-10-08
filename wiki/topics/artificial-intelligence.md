@@ -325,6 +325,11 @@ Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadia
 - [src-b36d2a7b7c51-c01](synthetic-intelligence.md#src-b36d2a7b7c51-c01) — Synthetic Intelligence
 - [src-caf216b09494-c03](earth-cabal.md#src-caf216b09494-c03) — Earth Cabal and power structures
 - [src-c92e3d59e2ba-c02](starship-systems.md#src-c92e3d59e2ba-c02) — Starship systems
+- [src-2a59653712d3-c02](holographic-computers.md#src-2a59653712d3-c02) — Holographic computers
+- [src-236ecb1cbc5f-c03](vaccine-inoculation-claims.md#src-236ecb1cbc5f-c03) — Inoculation and genetic alteration claims
+- [src-86fc875548c8-c03](scalar-internet.md#src-86fc875548c8-c03) — Scalar Internet
+- [src-e1b812564c1f-c06](starship-systems.md#src-e1b812564c1f-c06) — Starship systems
+- [src-da37867cb1a1-c05](nonhuman-surveillance-drones.md#src-da37867cb1a1-c05) — Nonhuman surveillance drones
 
 ## Review flags
 
@@ -340,8 +345,11 @@ Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadia
 - classified-details
 - clone-personhood-variation
 - clone-technology-attributed
+- computer-throughput-claim-attributed
 - conspiracy-claims
 - contested-claims
+- contested-vaccine-technology-allegations
+- contradictory-information-model-is-source-claim
 - extraordinary-cosmology-claims
 - factional-threat-interpretation-attributed-to-urmah
 - invasive-ai-claims-attributed
@@ -355,3 +363,5 @@ Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadia
 - speaker-header-diff
 - species-description\_attributed
 - technology-described-by-mari
+- translation-counterpart: none identified
+- translation-counterpart:src-af195906d27f-close-full

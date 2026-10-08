@@ -1,0 +1,83 @@
+{
+  "source_id": "src-00e384e559bd",
+  "snapshot_sha256": "c9f9df262377e5d5452810a44623e92168c9780e76fb82ae29f5cfdbf3d18454",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-00e384e559bd-c01",
+      "assertion": "Anéeka says muons or neutrinos trigger coded gravity pulses; gravity carries the message nonlocally across the universe without signal loss.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "ether-field"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-00e384e559bd-c02",
+      "assertion": "She says private links use frequency-matched nano-portals as undetectable circuits; public broadcasts use shared frequencies and compatible receivers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-00e384e559bd-c03",
+      "assertion": "She says Russia and the United States possess partial versions and use them to communicate with extraterrestrials.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "muon-gravity-communications",
+      "name": "Muon-triggered gravity communications",
+      "kind": "technology",
+      "aliases": [
+        "coded gravity transmission",
+        "muon communications"
+      ]
+    }
+  ],
+  "review_flags": [
+    "possible-overlap-with-src-cd1fcaa78711",
+    "communication-tech-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "generator-materials-and-temperature",
+    "SETI-claims-excluded"
+  ]
+}

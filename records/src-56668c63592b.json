@@ -1,0 +1,61 @@
+{
+  "source_id": "src-56668c63592b",
+  "snapshot_sha256": "a46f79b06ed94090311b9b8f8247375070664320b6e4e824fc89dfda2f9c6100",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-56668c63592b-c01",
+      "assertion": "Anéeka says Andromedans lead the Federation locally and notify each ship electronically in its language; attendance at meetings is optional.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "andromedans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Notifications include additional Andromedan messages."
+    },
+    {
+      "id": "src-56668c63592b-c02",
+      "assertion": "Anéeka describes fitted smart suits that regulate temperature, stiffen on impact, protect against kinetic or energy weapons, and carry biometric telemetry.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says these are also used as spacesuits."
+    },
+    {
+      "id": "src-56668c63592b-c03",
+      "assertion": "Anéeka says capes mark high responsibility at public Federation events; white indicates royalty, followed by violet.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says other cape colors have no consistent meaning."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "meeting-delegation-roster",
+    "room-design",
+    "royal-escort-protocol"
+  ]
+}

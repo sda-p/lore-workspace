@@ -350,6 +350,34 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de Erra - Pleyades)](https://swaruu.org/transcripts/genetica-humanos-no-fueron-editados-geneticamente-en-labs-swaruu-de-erra-pleyades) (2019-07-02; es); passages p0034, p0035, p0039. [Structured record](../../records/src-fe2b0b27084b.json).
 
+### src-62893f690998-c02
+
+She says consciousness is reflected in DNA; enough mutation can change an individual’s measurable biology and species classification.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [FORMACIÓN DE UNA NUEVA ESPECIE - SOY YAZHÍ SWARUU TASHERIT](https://swaruu.org/transcripts/formacion-de-una-nueva-especie-soy-yazhi-swaruu-tasherit) (2020-06-17; es); passages p0022, p0024. [Structured record](../../records/src-62893f690998.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-f118c9aeadd2-c03
+
+She says transplanted organs may carry donor memories or intentions through DNA-frequency links, depending on signal strength. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MATRIX – QUIENES SON MATRIX – LOS CREADORES DE MATRIX - ANÉEKA DE TEMMER](https://swaruu.org/transcripts/matrix-quienes-son-matrix-los-creadores-de-matrix-aneeka-de-temmer) (2019-12-13; es); passages p0039. [Structured record](../../records/src-f118c9aeadd2.json).
+
+### src-184650651a69-c01
+
+Anéeka says DNA reflects thought and perception; self-directed consciousness expansion changes it without external assistance, while guidance supports awakening.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA MATRIX - ACTIVACION DEL ADN -ANEEKA DE TEMMER](https://swaruu.org/transcripts/la-matrix-activacion-del-adn-aneeka-de-temmer) (2020-11-01; es); passages p0002, p0003. [Structured record](../../records/src-184650651a69.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-31e1b41b8c15-c01](consciousness-metaphysics.md#src-31e1b41b8c15-c01) — Consciousness and metaphysics
@@ -369,6 +397,9 @@ Source: [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de
 - [src-c92e3d59e2ba-c03](black-goo.md#src-c92e3d59e2ba-c03) — Black goo
 - [src-c92e3d59e2ba-c05](perceptual-density.md#src-c92e3d59e2ba-c05) — Perceptual density
 - [src-83d10afd7959-c02](consciousness-metaphysics.md#src-83d10afd7959-c02) — Consciousness and metaphysics
+- [src-2237b5ddb772-c01](starseeds.md#src-2237b5ddb772-c01) — Starseeds
+- [src-82159a8850fc-c01](starseeds.md#src-82159a8850fc-c01) — Starseeds
+- [src-82159a8850fc-c02](starseeds.md#src-82159a8850fc-c02) — Starseeds
 
 ## Review flags
 
@@ -382,18 +413,22 @@ Source: [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de
 - clone-personhood-variation
 - clone-technology-attributed
 - conspiracy-claims
+- contested-chromosome-and-ability-claims
 - contested-claim
 - contested-claims
+- contested-genetic-surveillance-claim
 - genetic-metaphysics-attributed
 - historical-uncertainty
 - human-gravity-design-claim
 - medical\_claims\_unverified
+- metaphysical-claims-attributed
 - metaphysical-genetics-unverified
 - metaphysical-model
 - nonhuman-medical-claims-unverified
 - nonstandard-genetics-claims
 - same-language-near-duplicate-src-7872bc2f2c04
 - segmentation-diff
+- self-described-species-transition
 - speaker-header-diff
 - speaker-shift-cic-to-mari
 - species-origin-model-attributed
