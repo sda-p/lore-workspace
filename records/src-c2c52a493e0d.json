@@ -1,0 +1,93 @@
+{
+  "source_id": "src-c2c52a493e0d",
+  "snapshot_sha256": "c30c66254109b819a5d305bcfdc87700ec0e1e67fb8724f0bb2db8a58f99d4e7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c2c52a493e0d-c01",
+      "assertion": "Yazhi says cetaceans share mind-created worlds through powerful telepathy and need few external tools.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2c52a493e0d-c02",
+      "assertion": "She characterizes dolphins as highly empathic and says they may help humans in danger.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2c52a493e0d-c03",
+      "assertion": "Yazhi says dolphins focus sonar into a lethal sound beam usable against prey or predators.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2c52a493e0d-c04",
+      "assertion": "She claims trained military dolphins stopped cooperating with handlers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2c52a493e0d-c05",
+      "assertion": "Yazhi says cetaceans exchange far more information telepathically than through sound.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

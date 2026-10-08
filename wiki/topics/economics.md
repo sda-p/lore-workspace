@@ -156,10 +156,31 @@ Attributed to **Editor note**; reported; extraction confidence: high.
 
 Source: [How to Raise Your Frequency: Direct Message from the Pleiadian Contact (8)](https://swaruu.org/transcripts/how-to-raise-your-frequency-direct-message-from-the-pleiadian-contact-8) (2018-11-07; en); passages p0002. [Structured record](../../records/src-8a16125ce61c.json).
 
+### src-7f7f62c9391c-c05
+
+Yazhi describes gold as scarce, widely mined, and useful in superconducting cables.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Orion Wars - Reptilian Invasion - Atlantis and Lemuria - Part 3 \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/orion-wars-reptilian-invasion-atlantis-and-lemuria-part-3-text-only-translated-originally-from-spani) (2020-07-24; en); passages p0050, p0051. [Structured record](../../records/src-7f7f62c9391c.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-42e3f0afcb4a-c06
+
+Yazhi warns current consumption could undermine civilization despite denying overpopulation.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [If Everything is Souls´ Plan from Above Anyway- What Do We Do? - Yazhi Swaruu - Pleiadian Contact](https://swaruu.org/transcripts/if-everything-is-souls-plan-from-above-anyway-what-do-we-do-yazhi-swaruu-pleiadian-contact) (2020-11-26; en); passages p0062, p0063. [Structured record](../../records/src-42e3f0afcb4a.json).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
 - [src-d9ac63440a2c-c02](holistic-society.md#src-d9ac63440a2c-c02) — Holistic society
+- [src-ed3d8dd11109-c03](galactic-federation.md#src-ed3d8dd11109-c03) — Galactic Federation
+- [src-7f7f62c9391c-c03](atlantis-lemuria.md#src-7f7f62c9391c-c03) — Atlantis and Lemuria
+- [src-c958dacd5a97-c01](earth-cabal.md#src-c958dacd5a97-c01) — Earth Cabal and power structures
 
 ## Review flags
 
@@ -169,6 +190,8 @@ Source: [How to Raise Your Frequency: Direct Message from the Pleiadian Contact 
 - coverage: interspecies compatibility
 - crime\_and\_abundance\_claims
 - dialogue-perspectives-distinguished
+- ethical\_perspective\_conflict
+- forecast\_predictions\_not\_confirmed
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - manifestation\_mechanics
 - matrix\_scope
@@ -176,4 +199,6 @@ Source: [How to Raise Your Frequency: Direct Message from the Pleiadian Contact 
 - speaker-attribution-swaruu-x-athena
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- unverified\_medical\_allegations
+- unverified\_medical\_claims
 - zero-point-mechanics

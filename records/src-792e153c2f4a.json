@@ -1,0 +1,100 @@
+{
+  "source_id": "src-792e153c2f4a",
+  "snapshot_sha256": "b323436ee5a3202cc8125e57ba0307348f44e9e0eec1b1145adf1a38f5ad741f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-792e153c2f4a-c01",
+      "assertion": "Yazhi says crystal data can be encoded in molecular rearrangements or mapped frequency grids.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-792e153c2f4a-c02",
+      "assertion": "She says mapped crystals retain data while frequencies are imposed or as persistent oscillations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-792e153c2f4a-c03",
+      "assertion": "Yazhi describes a contained miniature sun as a ship reactor, with induction and heat converted to electricity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0054",
+        "p0064",
+        "p0065",
+        "p0069"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-792e153c2f4a-c04",
+      "assertion": "She says excess heat is a major starship hazard managed through thermoelectric cells, plates, and steam.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0069",
+        "p0083"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-792e153c2f4a-c05",
+      "assertion": "Yazhi says harmonic or gravity-control failures can shut down the reactor or disperse its crystal toroid.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0093",
+        "p0095",
+        "p0099"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_technology_claims"
+  ],
+  "coverage_gaps": [
+    "human_technology_limits"
+  ]
+}

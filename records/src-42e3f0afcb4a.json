@@ -1,0 +1,135 @@
+{
+  "source_id": "src-42e3f0afcb4a",
+  "snapshot_sha256": "fd301e215b821b6255f2743c8266827d55ee6bb4fd4d0d98afb7bb337261bca0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-42e3f0afcb4a-c01",
+      "assertion": "Yazhi says souls cannot be trapped and may leave the Matrix through collective departure.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0039",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3f0afcb4a-c02",
+      "assertion": "Yazhi says higher-perspective plans do not erase Earth-level suffering or ethics.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0054",
+        "p0058"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3f0afcb4a-c03",
+      "assertion": "Yazhi frames alleged vaccine depopulation as genocide and rejects it as unethical.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0064",
+        "p0068",
+        "p0069",
+        "p0070"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3f0afcb4a-c04",
+      "assertion": "Yazhi says Earth-level observers should oppose harm while integrating wider perspectives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0056",
+        "p0057",
+        "p0082",
+        "p0084"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3f0afcb4a-c05",
+      "assertion": "Yazhi says attention and fear can reinforce perceived negative experiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0100",
+        "p0103",
+        "p0105",
+        "p0106"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3f0afcb4a-c06",
+      "assertion": "Yazhi warns current consumption could undermine civilization despite denying overpopulation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42e3f0afcb4a-c07",
+      "assertion": "Yazhi says departing souls may have different destinations according to each soul’s level.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0043"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_medical_allegations",
+    "ethical_perspective_conflict"
+  ],
+  "coverage_gaps": []
+}

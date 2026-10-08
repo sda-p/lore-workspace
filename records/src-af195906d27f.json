@@ -1,0 +1,98 @@
+{
+  "source_id": "src-af195906d27f",
+  "snapshot_sha256": "3945f79d153702c47dff553407ba6e32dc8c4fdbabc5653b558d5c1f97ef1e2b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-af195906d27f-c01",
+      "assertion": "Anéeka suspects Guanajuato’s reported portal was media fabrication, not a real opening.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0016"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af195906d27f-c02",
+      "assertion": "She attributes natural magnetic anomalies to tectonic movement and flowing magma and Black Goo.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af195906d27f-c03",
+      "assertion": "Anéeka says converging magnetic frequencies can form natural portal connections.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af195906d27f-c04",
+      "assertion": "She says artificial portals are localized, while natural portals may transport passersby.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af195906d27f-c05",
+      "assertion": "Anéeka describes nonhuman drones as using portals and carrying sensors and gravity engines.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0052",
+        "p0059"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

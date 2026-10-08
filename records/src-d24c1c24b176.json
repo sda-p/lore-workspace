@@ -1,0 +1,97 @@
+{
+  "source_id": "src-d24c1c24b176",
+  "snapshot_sha256": "3e95e8dd71f6f15b1b93d080848872146e7ad8fe1e01d74bfe9ba6949643077a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d24c1c24b176-c01",
+      "assertion": "Anéeka describes dry short-term and wet long-term immersion pods.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d24c1c24b176-c02",
+      "assertion": "She says both pod types stimulate muscles; wet pods supply nutrients during suspension.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d24c1c24b176-c03",
+      "assertion": "Anéeka says immersion redirects sensory attention while the original body remains suspended.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021",
+        "p0037"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d24c1c24b176-c04",
+      "assertion": "She says many races use immersion; Reptilians use it extensively and unethically.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0061",
+        "p0064",
+        "p0070"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d24c1c24b176-c05",
+      "assertion": "Anéeka says immersed users return to their original body, unless it dies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0105",
+        "p0107"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_id": "src-a4aadc3bec5b",
+  "snapshot_sha256": "ceaffdfd34c51846afc47503690104d42f1f82714067d92afec2b1cb11253f25",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a4aadc3bec5b-c01",
+      "assertion": "Anéeka describes direct tractor-beam and consensual landing-based extraction methods.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4aadc3bec5b-c02",
+      "assertion": "Anéeka says extractions avoid people with strong dependents and require readiness.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0051",
+        "p0063"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4aadc3bec5b-c03",
+      "assertion": "Anéeka says extracted people adapt gradually and may later help aboard ship.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4aadc3bec5b-c04",
+      "assertion": "Anéeka says arrivals receive medical oversight and may join civilian life.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0030",
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4aadc3bec5b-c05",
+      "assertion": "Anéeka says immersed visitors generally complete their Earth lifespan before awakening.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4aadc3bec5b-c06",
+      "assertion": "Anéeka says extraction prevents return to Earth or contact with loved ones.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a4aadc3bec5b-c07",
+      "assertion": "Anéeka reports about 100 Taygetan extractions in ten years, none in two.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "extraction_transport_details",
+    "cultural_adjustments"
+  ]
+}

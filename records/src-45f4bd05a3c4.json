@@ -1,0 +1,117 @@
+{
+  "source_id": "src-45f4bd05a3c4",
+  "snapshot_sha256": "6765aed221d76c72bce15dd90ca7da97a08f24022cfad7e38ba0cb292baebd87",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-45f4bd05a3c4-c01",
+      "assertion": "Swaruu portrays consciousness, rather than biology, as the basis of life throughout the universe.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45f4bd05a3c4-c02",
+      "assertion": "She estimates at least 400,000 humanoid civilizations in the galactic quadrant.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45f4bd05a3c4-c03",
+      "assertion": "She says technological development varies widely and is not determined by density.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45f4bd05a3c4-c04",
+      "assertion": "She estimates about eleven interstellar civilizations in the Pleiades and names examples.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0037",
+        "p0042",
+        "p0048"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45f4bd05a3c4-c05",
+      "assertion": "She says many 5D civilizations are non-interstellar by choice or limited capability.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-45f4bd05a3c4-c06",
+      "assertion": "She distinguishes Lurkers as dangerous silicon-based carnivores, with no known Earth presence.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0069",
+        "p0072",
+        "p0073",
+        "p0075",
+        "p0081"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "civilization-census-estimate",
+    "species-catalog-details"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "source_id": "src-8cd13537cbbe",
+  "snapshot_sha256": "a9bd36c9df5ae32b0a014fd01bb8084a7669914cc3976495401bc22283259312",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8cd13537cbbe-c01",
+      "assertion": "Anéeka says ship laboratories preserve biological samples in frequency-controlled containers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cd13537cbbe-c02",
+      "assertion": "She claims scalar shields vary frequencies rapidly to protect ships across densities.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cd13537cbbe-c03",
+      "assertion": "Anéeka alleges a mass-use vaccine would contain deadly nanotechnology and advises against vaccination.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0033"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cd13537cbbe-c04",
+      "assertion": "She attributes respiratory harm to 5G exposure and respirator use.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cd13537cbbe-c05",
+      "assertion": "She says 5G may activate alleged vaccine nanotechnology but is not her claimed primary pandemic cause.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cd13537cbbe-c06",
+      "assertion": "She says distancing lets satellites count people gathered together.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-misinformation-claims",
+    "vaccine-harm-allegations",
+    "radiation-causation-allegations"
+  ],
+  "coverage_gaps": [
+    "medical-claims",
+    "ship-laboratory-details"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_id": "src-34b645daba8c",
+  "snapshot_sha256": "a4788e60f201efba1a569d491088a5a501ecb8daf75fed7730643e07b9bcc7d1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-34b645daba8c-c01",
+      "assertion": "Anéeka describes planets and stars as nested collectives of consciousness.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34b645daba8c-c02",
+      "assertion": "Anéeka says stellar energy threads can serve as solar portals and routes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34b645daba8c-c03",
+      "assertion": "Anéeka says Taygetan ships can create wormholes without solar portals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34b645daba8c-c04",
+      "assertion": "Anéeka says stellar gravity holes may grow, fade, or reignite as stars.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34b645daba8c-c05",
+      "assertion": "Anéeka describes stars as scalar energy outlets rather than thermonuclear bodies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34b645daba8c-c06",
+      "assertion": "Anéeka says long-duration spacesuits cool crews and shield them from impacts.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0073",
+        "p0074",
+        "p0082"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34b645daba8c-c07",
+      "assertion": "Yazhi says planets are absorbed as their stars collapse.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0087",
+        "p0088",
+        "p0091"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "nonstandard_astrophysics_claims",
+    "space_suit_claims_unverified"
+  ],
+  "coverage_gaps": []
+}

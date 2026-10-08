@@ -1,0 +1,110 @@
+{
+  "source_id": "src-cad16865ae57",
+  "snapshot_sha256": "d4ba559d57e29097a13bccd997dc9868dc534a9641e49c1af8f3abc893664f41",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cad16865ae57-c01",
+      "assertion": "Yazhi says timelines are mental constructions rather than separate tracks.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cad16865ae57-c02",
+      "assertion": "Yazhi says perceived collective timelines arise from shared agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cad16865ae57-c03",
+      "assertion": "Yazhi describes each person as a conjunction of alternate selves.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cad16865ae57-c04",
+      "assertion": "Yazhi says past, present, and future influence one another.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cad16865ae57-c05",
+      "assertion": "Yazhi says all events occur simultaneously without linear time.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cad16865ae57-c06",
+      "assertion": "Yazhi says perceived history reflects group viewpoints, not a single fixed past.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "nonlinear_time_model"
+  ],
+  "coverage_gaps": []
+}

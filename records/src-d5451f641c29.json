@@ -1,0 +1,93 @@
+{
+  "source_id": "src-d5451f641c29",
+  "snapshot_sha256": "c27e439a6b916e7799d8151d3abc62fed5b77d4047ec120e6530d3016594f7e6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d5451f641c29-c01",
+      "assertion": "Yazhi says Earth’s collective unconscious constitutes the Matrix from an Earth-bound perspective.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0035",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d5451f641c29-c02",
+      "assertion": "Yazhi says Federation access to the human-created sphere requires contact through humans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0039",
+        "p0043"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d5451f641c29-c03",
+      "assertion": "She describes an inaccessible Federation that both warns and reflects Earth’s collective creation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0039",
+        "p0043"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d5451f641c29-c04",
+      "assertion": "Yazhi says changing human unconscious programming would require billions of signatures.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0060"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d5451f641c29-c05",
+      "assertion": "Yazhi says the Federation has historically not intervened in major Earth wars, though she allows that it intervenes when it judges appropriate.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0101"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

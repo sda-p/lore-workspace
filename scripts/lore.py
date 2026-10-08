@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Discover, cache, validate, and build a small source-linked lore wiki."""
 import argparse
+import contextlib
+import fcntl
 import concurrent.futures
 import datetime as dt
 import hashlib
@@ -29,6 +31,16 @@ def write(path, data):
     temporary = path.with_suffix(path.suffix + '.tmp')
     temporary.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     temporary.replace(path)
+
+@contextlib.contextmanager
+def coordinator_lock():
+    """Serialize brief shared ledger/config updates across prefetch and integration."""
+    with (ROOT / '.git/lore-coordinator.lock').open('a') as handle:
+        fcntl.flock(handle, fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(handle, fcntl.LOCK_UN)
 
 def retain_jobs(previous):
     """Keep inactive job history when a new selection is assigned."""
@@ -231,17 +243,18 @@ def prepare(cache, selection_path=None, batch_id='pilot-001'):
         worker = min(range(4), key=lambda i:totals[i])
         batches[worker].extend(s['id'] for s in group)
         totals[worker] += sum(s['word_count'] for s in group)
-    ledger_path = ROOT / 'work/ledger.json'
-    previous = read(ledger_path).get('jobs',{}) if ledger_path.exists() else {}
-    jobs = retain_jobs(previous)
-    for i, ids in enumerate(batches,1):
-        write(ROOT / f'work/batches/worker-{i}.json', {'worker':i,'source_ids':ids,'source_word_count':totals[i-1]})
-        write(ROOT / f'work/batches/{batch_id}/worker-{i}.json', {'worker':i,'batch_id':batch_id,'source_ids':ids,'source_word_count':totals[i-1]})
-        for source_id in ids:
-            jobs[source_id] = previous.get(source_id, {'status':'pending','attempts':0})
-            jobs[source_id]['worker'] = i
-            jobs[source_id]['batch_id'] = batch_id
-    write(ledger_path, {'batch':batch_id,'updated_at':now(),'active_source_ids':[s['id'] for s in selected],'jobs':jobs})
+    with coordinator_lock():
+        ledger_path = ROOT / 'work/ledger.json'
+        previous = read(ledger_path).get('jobs',{}) if ledger_path.exists() else {}
+        jobs = retain_jobs(previous)
+        for i, ids in enumerate(batches,1):
+            write(ROOT / f'work/batches/worker-{i}.json', {'worker':i,'source_ids':ids,'source_word_count':totals[i-1]})
+            write(ROOT / f'work/batches/{batch_id}/worker-{i}.json', {'worker':i,'batch_id':batch_id,'source_ids':ids,'source_word_count':totals[i-1]})
+            for source_id in ids:
+                jobs[source_id] = previous.get(source_id, {'status':'pending','attempts':0})
+                jobs[source_id]['worker'] = i
+                jobs[source_id]['batch_id'] = batch_id
+        write(ledger_path, {'batch':batch_id,'updated_at':now(),'active_source_ids':[s['id'] for s in selected],'jobs':jobs})
     print(f'Prepared {len(selected)} records across four batches, {sum(totals)} source words.', flush=True)
 
 def validate_record(record, snapshot, known_topics):

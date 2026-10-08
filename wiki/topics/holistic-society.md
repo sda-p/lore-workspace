@@ -236,6 +236,154 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
 
 Source: [Pleiadian Extraterrestrial Information: Families and Afterlife (Swaruu of Erra) (13)](https://swaruu.org/transcripts/pleiadian-extraterrestrial-message-families-and-afterlife-swaruu-from-erra-13) (2019-01-25; en); passages p0062, p0063, p0065. [Structured record](../../records/src-7e768e955cbe.json).
 
+### src-ffa5ee8fb668-c03
+
+He describes Taygeta as matriarchal, while men may take command roles as equals if they choose.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Interview with the Taygetan Pleiadian Pilot (Part 1): Dhor Káal'el - Extraterrestrial Contact](https://swaruu.org/transcripts/interview-with-the-taygetean-pleiadian-part-1-dhor-kaal-el-extraterrestrial-contact) (2019-11-15; en); passages p0118, p0123, p0132, p0133, p0135, p0136. [Structured record](../../records/src-ffa5ee8fb668.json).
+
+### src-1c7449095982-c02
+
+She describes a holographic society where each person may represent their culture.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation and Earth Representatives? (Anéeka of Temmer - Extraterrestrial Contact)](https://swaruu.org/transcripts/galactic-federation-and-earth-representatives-aneeka-of-temmer-extraterrestrial-contact) (2020-05-19; en); passages p0005, p0007, p0008. [Structured record](../../records/src-1c7449095982.json).
+
+### src-1c7449095982-c03
+
+She says councils are layered by region and density, escalating unresolved issues upward.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation and Earth Representatives? (Anéeka of Temmer - Extraterrestrial Contact)](https://swaruu.org/transcripts/galactic-federation-and-earth-representatives-aneeka-of-temmer-extraterrestrial-contact) (2020-05-19; en); passages p0006, p0023, p0024. [Structured record](../../records/src-1c7449095982.json).
+
+### src-1c7449095982-c04
+
+She claims citizens can access education and council participation without information secrecy.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation and Earth Representatives? (Anéeka of Temmer - Extraterrestrial Contact)](https://swaruu.org/transcripts/galactic-federation-and-earth-representatives-aneeka-of-temmer-extraterrestrial-contact) (2020-05-19; en); passages p0025, p0027, p0028. [Structured record](../../records/src-1c7449095982.json).
+
+### src-1c7449095982-c05
+
+She says councils seek agreement through deliberation rather than majority votes.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation and Earth Representatives? (Anéeka of Temmer - Extraterrestrial Contact)](https://swaruu.org/transcripts/galactic-federation-and-earth-representatives-aneeka-of-temmer-extraterrestrial-contact) (2020-05-19; en); passages p0029, p0030. [Structured record](../../records/src-1c7449095982.json).
+
+### src-1c7449095982-c06
+
+Council membership depends on relevant capacity; specialists join when their expertise is needed.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation and Earth Representatives? (Anéeka of Temmer - Extraterrestrial Contact)](https://swaruu.org/transcripts/galactic-federation-and-earth-representatives-aneeka-of-temmer-extraterrestrial-contact) (2020-05-19; en); passages p0039, p0040, p0041. [Structured record](../../records/src-1c7449095982.json).
+
+### src-53f4f0661b68-c05
+
+Swaruu says Phaethon survivors formed a Federation-mentored holographic society.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Races: Centauri (Swaruu - Extraterrestrial Pleiadian Communication)](https://swaruu.org/transcripts/extraterrestrial-races-centauri-swaruu-extraterrestrial-pleiadian-communication) (2020-09-02; en); passages p0023, p0025. [Structured record](../../records/src-53f4f0661b68.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-488e913b4ae2-c01
+
+Swaruu says cultures share ideas through migration, starseeds, and exchange across civilizations.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Are Extraterrestrials Similar to Humans Culturally? (Taygetean Pleiadian Communication)](https://swaruu.org/transcripts/are-extraterrestrials-similar-to-humans-culturally-taygetean-pleiadian-communication) (2020-05-09; en); passages p0003, p0015, p0016, p0017. [Structured record](../../records/src-488e913b4ae2.json).
+
+### src-488e913b4ae2-c02
+
+She says advanced societies may favor handmade art while keeping technology subordinate to people.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Are Extraterrestrials Similar to Humans Culturally? (Taygetean Pleiadian Communication)](https://swaruu.org/transcripts/are-extraterrestrials-similar-to-humans-culturally-taygetean-pleiadian-communication) (2020-05-09; en); passages p0008, p0009. [Structured record](../../records/src-488e913b4ae2.json).
+
+### src-804431552c95-c03
+
+Yazhi says personal and family care contributes to collective change.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [We Are the Key - Yázhi Swaruu (Extraterrestrial Communication)](https://swaruu.org/transcripts/we-are-the-key-yazhi-swaruu-extraterrestrial-communication) (2020-09-11; en); passages p0026, p0027, p0028. [Structured record](../../records/src-804431552c95.json).
+
+### src-fc319f4029d5-c06
+
+She says learning difficulties often arise from poor motivation or imposed, uninteresting study.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pleyades - Taygeta - Questions from the Public for Anéeka of Temmer (Extraterrestrial Contact)](https://swaruu.org/transcripts/pleyades-taygeta-questions-from-the-public-for-aneeka-of-temmer-extraterrestrial-contact) (2020-11-14; en); passages p0048, p0049. [Structured record](../../records/src-fc319f4029d5.json).
+
+### src-6dacfeef5ee4-c03
+
+She says people with shared understanding may form a more positive society despite continued conflict.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ascension - What is it Really About? - Yázhi Swaruu - Extraterrestrial Communication](https://swaruu.org/transcripts/ascension-what-is-it-really-about-yazhi-swaruu-extraterrestrial-communication) (2020-09-16; en); passages p0011, p0017, p0019. [Structured record](../../records/src-6dacfeef5ee4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6bfffa79183e-c06
+
+Swaruu says pyramid laborers volunteered and were not enslaved.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Pyramids-How Were They Built and What Do They Serve? - Extraterrestrial Knowledge (Pleiades-Taygeta)](https://swaruu.org/transcripts/pyramids-how-were-they-built-and-what-do-they-serve-extraterrestrial-knowledge-pleiades-taygeta) (2020-11-22; en); passages p0019, p0024. [Structured record](../../records/src-6bfffa79183e.json).
+
+### src-a4aadc3bec5b-c02
+
+Anéeka says extractions avoid people with strong dependents and require readiness.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Extraction from Earth - Protocols. - \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/extraction-from-earth-protocols-no-video) (2020-11-18; en); passages p0018, p0020, p0051, p0063. [Structured record](../../records/src-a4aadc3bec5b.json).
+
+### src-a4aadc3bec5b-c03
+
+Anéeka says extracted people adapt gradually and may later help aboard ship.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Extraction from Earth - Protocols. - \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/extraction-from-earth-protocols-no-video) (2020-11-18; en); passages p0024, p0026, p0027. [Structured record](../../records/src-a4aadc3bec5b.json).
+
+### src-a4aadc3bec5b-c04
+
+Anéeka says arrivals receive medical oversight and may join civilian life.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Extraction from Earth - Protocols. - \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/extraction-from-earth-protocols-no-video) (2020-11-18; en); passages p0030, p0033, p0035. [Structured record](../../records/src-a4aadc3bec5b.json).
+
+### src-a4aadc3bec5b-c06
+
+Anéeka says extraction prevents return to Earth or contact with loved ones.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Extraction from Earth - Protocols. - \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/extraction-from-earth-protocols-no-video) (2020-11-18; en); passages p0058, p0059. [Structured record](../../records/src-a4aadc3bec5b.json).
+
+### src-6a52659ee34e-c04
+
+She says Andromedans use a council-based holographic political system and belong to several federations.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Races: Andromedans (Swaruu - Extraterrestrial Pleiadian Communication)](https://swaruu.org/transcripts/extraterrestrial-races-andromedans-swaruu-extraterrestrial-pleiadian-communication) (2020-09-20; en); passages p0010, p0023. [Structured record](../../records/src-6a52659ee34e.json).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -244,10 +392,13 @@ Source: [Pleiadian Extraterrestrial Information: Families and Afterlife (Swaruu 
 - [src-7b903f929540-c05](consciousness-metaphysics.md#src-7b903f929540-c05) — Consciousness and metaphysics
 - [src-7b903f929540-c06](starship-systems.md#src-7b903f929540-c06) — Starship systems
 - [src-d9ac63440a2c-c03](alien-species.md#src-d9ac63440a2c-c03) — Alien species and distinctions
+- [src-fc319f4029d5-c01](taygetans.md#src-fc319f4029d5-c01) — Taygetans
+- [src-fc319f4029d5-c02](taygetans.md#src-fc319f4029d5-c02) — Taygetans
 
 ## Review flags
 
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
+- conflicting\_primary\_purpose\_claims
 - coverage: climate and architecture
 - coverage: interspecies compatibility
 - crime\_and\_abundance\_claims

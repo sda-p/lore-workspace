@@ -43,7 +43,8 @@
       "speaker": "Dhor Káal’él",
       "paragraph_ids": [
         "p0041",
-        "p0052"
+        "p0042",
+        "p0043"
       ],
       "primary_topic": "starship-systems",
       "topics": [
@@ -93,8 +94,10 @@
       "speaker": "Dhor Káal’él",
       "paragraph_ids": [
         "p0253",
+        "p0254",
+        "p0256",
         "p0257",
-        "p0264",
+        "p0266",
         "p0277"
       ],
       "primary_topic": "starship-systems",
@@ -113,6 +116,8 @@
         "p0103",
         "p0104",
         "p0328",
+        "p0329",
+        "p0338",
         "p0339"
       ],
       "primary_topic": "starship-systems",

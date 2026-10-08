@@ -1,0 +1,99 @@
+{
+  "source_id": "src-bfe8b74765bf",
+  "snapshot_sha256": "2948e7b755302b96619bd891c90a7191cc56c7f36872393e0801b3605925eca3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bfe8b74765bf-c01",
+      "assertion": "Swaruu describes 3D humanity as many extraterrestrial soul lineages using a shared human body form.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfe8b74765bf-c02",
+      "assertion": "She says laboratory genetic changes occur but are isolated, while species-wide limitations are reinforced by mind control.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfe8b74765bf-c03",
+      "assertion": "She says attention and shared perception agreements shape the experienced world.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfe8b74765bf-c04",
+      "assertion": "She says controlling perception can shape what a population manifests, including its bodies and genes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0037",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfe8b74765bf-c05",
+      "assertion": "She says ship medical pods can read and activate DNA, though consciousness alone can also do so.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0055",
+        "p0057",
+        "p0059",
+        "p0061"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

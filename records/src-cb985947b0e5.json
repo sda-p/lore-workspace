@@ -1,0 +1,124 @@
+{
+  "source_id": "src-cb985947b0e5",
+  "snapshot_sha256": "d9f9e3a46e2d266600dd373b543511473177ab2599cf07e932b34c5956888b56",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cb985947b0e5-c01",
+      "assertion": "Anéeka says Taygetans call the Pleiades Hoghan, meaning home or colony.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb985947b0e5-c02",
+      "assertion": "Anéeka says M45 is a human reference, while Pleiadian races use another name.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb985947b0e5-c03",
+      "assertion": "Anéeka describes Taygetan as a flexible holographic language using telepathic meaning.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb985947b0e5-c04",
+      "assertion": "Anéeka says holographic phrases can compress extensive information into few words.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb985947b0e5-c05",
+      "assertion": "Anéeka says Sadicleya lights Taygetan nights and affects biological cycles.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb985947b0e5-c06",
+      "assertion": "Anéeka says Taygetans call themselves free ones or daughters of Moma.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb985947b0e5-c07",
+      "assertion": "Anéeka says free ones recalls ancient resistance during the Great Expansion.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation_approximation_navajo_inuit"
+  ],
+  "coverage_gaps": []
+}

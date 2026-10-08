@@ -1,0 +1,118 @@
+{
+  "source_id": "src-8abb36767dcc",
+  "snapshot_sha256": "c55f7eb1b75880fc2e6a8ffd6107ac1212c4b4a87b2b9107b06c3fe6616312b2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8abb36767dcc-c01",
+      "assertion": "Yazhi says small actions combine into larger effects and people must choose their own response.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8abb36767dcc-c02",
+      "assertion": "She says no outside faction can save Earth; ordinary people must take responsibility.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8abb36767dcc-c03",
+      "assertion": "She describes events as interconnected across timelines rather than isolated linear sequences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8abb36767dcc-c04",
+      "assertion": "Yazhi claims higher-consciousness individuals exert greater influence on collective reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0045",
+        "p0054",
+        "p0055",
+        "p0058"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8abb36767dcc-c05",
+      "assertion": "She says greater influence brings responsibility and negative thought spirals can intensify outcomes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0057",
+        "p0061",
+        "p0066",
+        "p0068"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8abb36767dcc-c06",
+      "assertion": "She frames sadness as acceptable and advises allowing the feeling to pass.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0071",
+        "p0073",
+        "p0074"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "collective-manifestation",
+    "agency"
+  ]
+}

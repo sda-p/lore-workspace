@@ -39,7 +39,7 @@
     },
     {
       "id": "src-72edf386d7f9-c03",
-      "assertion": "Gravity control uses local readings and opposing electromagnetic frequencies to cancel gravitational flow.",
+      "assertion": "Gravity control uses local readings and opposing electromagnetic frequencies to cancel gravity.",
       "speaker": "Swaruu (9)",
       "paragraph_ids": [
         "p0064",
@@ -55,10 +55,12 @@
     },
     {
       "id": "src-72edf386d7f9-c04",
-      "assertion": "She says hull-distributed generators steer ships by creating gravity gradients.",
+      "assertion": "Forward and wing gravity generators steer ships by creating gravity gradients.",
       "speaker": "Swaruu (9)",
       "paragraph_ids": [
-        "p0093",
+        "p0096",
+        "p0098",
+        "p0101",
         "p0102"
       ],
       "primary_topic": "starship-systems",

@@ -154,6 +154,16 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [Extra Bits on Extraterrestrial Races - Conversations and Descriptions](https://swaruu.org/transcripts/extra-bits-on-extraterrestrial-races-conversations-and-descriptions) (2026-08-14; en); passages p0017, p0020. [Structured record](../../records/src-0fee7d796019.json).
 
+### src-48fe90170a55-c02
+
+She describes Alpha Dracos and Urmah as rival dominant species that respect one another.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRIAL RACES in 5D(3) - ALPHA DRACONIANS (Pleiadian Message - Taygeta)](https://swaruu.org/transcripts/extraterrestrial-races-in-5d-3-alpha-draconians-pleiadian-message-taygeta) (2020-07-17; en); passages p0002. [Structured record](../../records/src-48fe90170a55.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-1461dd27e63f-c08](alien-species.md#src-1461dd27e63f-c08) — Alien species and distinctions

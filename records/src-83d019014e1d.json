@@ -1,0 +1,93 @@
+{
+  "source_id": "src-83d019014e1d",
+  "snapshot_sha256": "d9e693119e3690fe74da2a429adc5bd57f1aa992c080c9202068113305e90f57",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-83d019014e1d-c01",
+      "assertion": "Yazhi identifies Atlantis and Lemuria as a prior reset within a wider solar-system Matrix.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83d019014e1d-c02",
+      "assertion": "She says earlier resets were 5D; only the latest was 3D.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83d019014e1d-c03",
+      "assertion": "Yazhi says resets are sudden forced changes and often accompany population deaths.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83d019014e1d-c04",
+      "assertion": "She says Taygeta has remained stable for roughly 850,000 Earth years.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83d019014e1d-c05",
+      "assertion": "Yazhi describes consciousness as integrating other beings and forming nested cosmic wholes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0064",
+        "p0065"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

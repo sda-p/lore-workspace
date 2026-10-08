@@ -1,0 +1,101 @@
+{
+  "source_id": "src-3ce9e57dfd79",
+  "snapshot_sha256": "175c0b19b0aa87b61cfa1c9ff15185d99d92ed71bc9f71d3ede58e474636419f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3ce9e57dfd79-c01",
+      "assertion": "Swaruu says Taygetan women reproduce through intercourse, retained sperm, or parthenogenesis.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ce9e57dfd79-c02",
+      "assertion": "She claims parthenogenesis uses 24 chromosomes and 12 DNA strands, producing a female copy of the mother.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ce9e57dfd79-c03",
+      "assertion": "Swaruu links reproduction to mental states including desire, stress, or loneliness.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ce9e57dfd79-c04",
+      "assertion": "She says Taygetan births usually occur at home underwater; hospitals are used mainly for problems.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ce9e57dfd79-c05",
+      "assertion": "Swaruu says Taygeta has no government-imposed birth control; it is personal.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_biological_claims"
+  ],
+  "coverage_gaps": [
+    "reproductive_exceptions",
+    "other_species"
+  ]
+}

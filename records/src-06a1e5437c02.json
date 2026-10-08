@@ -1,0 +1,101 @@
+{
+  "source_id": "src-06a1e5437c02",
+  "snapshot_sha256": "c7aa3a24f9ea25c2a05a8ddfd466fac9076e5b9433bab450dacfda0735e4d95d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-06a1e5437c02-c01",
+      "assertion": "Anéeka and Yazhi say Swaruu clones share one consciousness across multiple bodies.",
+      "speaker": "Anéeka; Yazhi",
+      "paragraph_ids": [
+        "p0104",
+        "p0106"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06a1e5437c02-c02",
+      "assertion": "Swaruu 2–9 repeatedly served as Sand Clock time-jump pilots altering Earth events.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032",
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06a1e5437c02-c03",
+      "assertion": "Swaruu 9 stopped time-jumping after concluding changes affected only her own timeline.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06a1e5437c02-c04",
+      "assertion": "Anéeka says Swaruu 9 won independence from Federation space law and made Swaruu a species/legal name in 2018.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0072"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06a1e5437c02-c05",
+      "assertion": "Anéeka and Yazhi describe Swaruu 9’s consciousness blending into Swaruu 12; Yazhi says she later dissolved the dead body.",
+      "speaker": "Anéeka; Yazhi",
+      "paragraph_ids": [
+        "p0123",
+        "p0125",
+        "p0133",
+        "p0134",
+        "p0161"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Their accounts distinguish mind assimilation from bodily disappearance."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_claims"
+  ],
+  "coverage_gaps": [
+    "biography_details",
+    "time_travel_methods"
+  ]
+}

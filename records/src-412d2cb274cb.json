@@ -1,0 +1,100 @@
+{
+  "source_id": "src-412d2cb274cb",
+  "snapshot_sha256": "ca8755c693d16e750c002b79f65a12be0ba401e4a0c8ad65c22f8c608142c8d2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-412d2cb274cb-c01",
+      "assertion": "Yazhi says Lemurian Evas freed Adamic people held by Atlantean controllers in Turkey.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-412d2cb274cb-c02",
+      "assertion": "She describes Lemuria as a holographic matriarchy aided mainly by Taygeta, with Solatian and Engan cooperation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-412d2cb274cb-c03",
+      "assertion": "Yazhi says the conflict escalated into a multi-century interstellar war between mostly Lyrian and Reptilian-backed sides.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "atlantis-lemuria",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-412d2cb274cb-c04",
+      "assertion": "She attributes Tiamat’s destruction and Mars devastation to nuclear battles fought with spacecraft.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-412d2cb274cb-c05",
+      "assertion": "Yazhi says plasma weapons could destroy underground bases without nuclear radiation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_history_claims",
+    "translated_source"
+  ],
+  "coverage_gaps": [
+    "war_timeline"
+  ]
+}

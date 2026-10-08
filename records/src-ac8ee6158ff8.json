@@ -1,0 +1,93 @@
+{
+  "source_id": "src-ac8ee6158ff8",
+  "snapshot_sha256": "b7a9527aa7ea5049ac907bb0eff3d0a4854c73436fe4791b48d00375f4d56098",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ac8ee6158ff8-c01",
+      "assertion": "Anéeka says the letter-based planetary classification is a human construct based on temperature ranges.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac8ee6158ff8-c02",
+      "assertion": "She claims sulfuric atmospheres may host silicon-based insectoid or mollusk-like beings.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac8ee6158ff8-c03",
+      "assertion": "Anéeka distinguishes human-looking Federation members from Procion from Taygetans on Procyon, a planet in their system.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac8ee6158ff8-c04",
+      "assertion": "She describes Procion A and B as a binary system with seven planets, two inhabited.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac8ee6158ff8-c05",
+      "assertion": "Anéeka says Procionians have friendly Alcyone Council relations and five ships near Earth at publication.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

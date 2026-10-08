@@ -36,9 +36,44 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Expansion of Lyra, The pre-history / Origin of Human beings / The Orion wars \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/expansion-of-lyra-the-pre-history-origin-of-human-beings-the-orion-wars-no-video) (2020-08-08; en); passages p0007, p0012, p0013. [Structured record](../../records/src-03f88504384a.json).
 
+### src-3dc3867de787-c05
+
+She says Lyrian refugees settled on Earth and hid underground, leaving star-map messages in some cave art.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Expansion of Lyra - Orion Wars - Part 2 \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/expansion-of-lyra-orion-wars-part-2-text-only-translated-originally-from-spanish) (2020-07-09; en); passages p0025, p0026, p0027, p0032, p0033. [Structured record](../../records/src-3dc3867de787.json).
+
+### src-9da371319747-c02
+
+She says human-like Lyrian civilizations predate accepted terrestrial chronology, which she considers indeterminate.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Destruction of the Matrix and Manipulation of History - \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/destruction-of-the-matrix-and-manipulation-of-history-no-video) (2020-09-01; en); passages p0002, p0003. [Structured record](../../records/src-9da371319747.json).
+
+### src-cb985947b0e5-c07
+
+Anéeka says free ones recalls ancient resistance during the Great Expansion.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka talks about the Taygetan language - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/aneeka-talks-about-the-taygetan-language-text-only-translated-originally-from-spanish) (2020-10-01; en); passages p0019, p0020. [Structured record](../../records/src-cb985947b0e5.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-00120f7d1b1a-c01
+
+Swaruu says cave paintings encode star maps and escape routes left by refugees fleeing reptiles.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt - Symbology - Ancient History - Swaruu and Dhor Káal'el (Extraterrestrial Perspective)](https://swaruu.org/transcripts/ancient-egypt-symbology-ancient-history-swaruu-and-dhor-kaal-el-extraterrestrial-perspective) (2020-12-14; en); passages p0010, p0011, p0013. [Structured record](../../records/src-00120f7d1b1a.json).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c08](stellar-navigation.md#src-03f88504384a-c08) — Stellar navigation
+- [src-53f4f0661b68-c01](alien-species.md#src-53f4f0661b68-c01) — Alien species and distinctions
 
 ## Review flags
 
@@ -46,3 +81,7 @@ Source: [Expansion of Lyra, The pre-history / Origin of Human beings / The Orion
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- approximate\_dates
+- extraordinary\_history\_claims
+- translated\_source
+- translation\_approximation\_navajo\_inuit

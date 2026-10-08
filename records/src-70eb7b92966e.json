@@ -1,0 +1,98 @@
+{
+  "source_id": "src-70eb7b92966e",
+  "snapshot_sha256": "6e26406e2616c290678611c8c233e17cb38832d825a12a9a30ed90d758fcf793",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-70eb7b92966e-c01",
+      "assertion": "Yazhí says identity comes from present self-understanding, not external confirmation or recovered memories.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70eb7b92966e-c02",
+      "assertion": "She frames karma as voluntarily carried and releasable through understanding.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70eb7b92966e-c03",
+      "assertion": "She says high-frequency starseeds may feel uncomfortable amid Earth’s lower-frequency conditions.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70eb7b92966e-c04",
+      "assertion": "She presents helping Earth as a choice arising from identity, not an imposed mission.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70eb7b92966e-c05",
+      "assertion": "She says perceived separation from higher planes reflects limited framing; imagination shapes lived experience.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0023",
+        "p0028",
+        "p0029",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "starseed-identity",
+    "karma-and-agency"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_id": "src-16afbaa59f2e",
+  "snapshot_sha256": "09585064d69be46e12df89a36fc6a21344d7b6de88810cf89a973e81192008c2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-16afbaa59f2e-c01",
+      "assertion": "Yazhi says stars, planets, and living beings exist across all densities simultaneously.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-16afbaa59f2e-c02",
+      "assertion": "She defines dimensions as accumulated data and complexity perceived through greater density awareness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-16afbaa59f2e-c03",
+      "assertion": "Yazhi links greater understanding with perceiving what was previously present but unnoticed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-16afbaa59f2e-c04",
+      "assertion": "She says people change density through expanded consciousness and must embody the mindset, not await 5D.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical_worldview"
+  ],
+  "coverage_gaps": [
+    "illustrative_images",
+    "dimension_examples"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "batch_id": "continuous-003",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-62f745a4f503",
+    "src-0490a8f59cf5",
+    "src-bfb4094468eb",
+    "src-efce96683138",
+    "src-34f99e6e936e",
+    "src-4ae3eab52e34",
+    "src-e7846dbe6a6c",
+    "src-ffa5ee8fb668",
+    "src-72edf386d7f9",
+    "src-b7bd29d43438",
+    "src-526c2f26de59",
+    "src-7454e687009f",
+    "src-6b41f329ba76",
+    "src-7519480bcc9c",
+    "src-317906f8a062",
+    "src-dca3fe7e225f",
+    "src-4386f9a28119",
+    "src-80fb5af6314e",
+    "src-876a1cb1e277",
+    "src-3c7d5111ac77"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-efce96683138",
+      "claim_id": "src-efce96683138-c06",
+      "problem": "The cited passages did not support a contrast about reincarnation.",
+      "action": "Narrowed the assertion to continued existence, evolution with or without bodies, and self-directed experience.",
+      "paragraph_ids": ["p0284", "p0289", "p0320", "p0324"]
+    },
+    {
+      "source_id": "src-0490a8f59cf5",
+      "claim_id": "src-0490a8f59cf5-c02",
+      "problem": "The assertion could imply that egregores feed on fear itself; nearby clarification says creative attention sustains them and fear concentrates attention.",
+      "action": "Preserved the distinction between creative attention and fear as an attention-concentrating emotion.",
+      "paragraph_ids": ["p0041", "p0043", "p0044", "p0403", "p0404"]
+    },
+    {
+      "source_id": "src-e7846dbe6a6c",
+      "claim_id": "src-e7846dbe6a6c-c01",
+      "problem": "The word 'resumed' implied Taygetan presence had stopped before 2008, which the cited source does not say.",
+      "action": "Changed the assertion to state continuous presence since 2008 and Swaruu's stated arrival and return dates.",
+      "paragraph_ids": ["p0003", "p0004"]
+    },
+    {
+      "source_id": "src-72edf386d7f9",
+      "claim_id": "src-72edf386d7f9-c04",
+      "problem": "The original assertion and citations did not identify how generator placement steers the ship.",
+      "action": "Specified forward and wing gravity generators and added passages describing their adjustment and the resulting gradient.",
+      "paragraph_ids": ["p0096", "p0098", "p0101", "p0102"]
+    }
+  ],
+  "unresolved": []
+}

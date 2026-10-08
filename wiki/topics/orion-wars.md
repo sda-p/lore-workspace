@@ -28,6 +28,14 @@ Source: [Great Flood and Tiamat Wars - \*\*Text only / Translated originally fro
 
 Related topics: [Tiamat](tiamat.md).
 
+### src-3dc3867de787-c04
+
+She says Orion Council Reptilians persecuted Lyrians for enslavement and exploitation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Expansion of Lyra - Orion Wars - Part 2 \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/expansion-of-lyra-orion-wars-part-2-text-only-translated-originally-from-spanish) (2020-07-09; en); passages p0022, p0023. [Structured record](../../records/src-3dc3867de787.json).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c01](lyran-expansion.md#src-03f88504384a-c01) — Lyran expansion
@@ -38,6 +46,8 @@ Related topics: [Tiamat](tiamat.md).
 
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- approximate\_dates
 - directive-rules-not-in-transcript
 - no-parallel-source-in-batch
 - translated-from-spanish
+- translated\_source

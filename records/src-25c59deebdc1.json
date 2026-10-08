@@ -1,0 +1,115 @@
+{
+  "source_id": "src-25c59deebdc1",
+  "snapshot_sha256": "8f39003e2f6b5648b65f6850abab3db024ce8a22753ce19306fb9e6d3442dfa4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-25c59deebdc1-c01",
+      "assertion": "Humanity generates oppression through shared ideas, Yazhi says; outside rescue could reinforce victimhood.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25c59deebdc1-c02",
+      "assertion": "Federation intervention cannot reach humanity unless Federation ideas enter its collective reality, she says.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0053",
+        "p0117"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25c59deebdc1-c03",
+      "assertion": "Yazhi presents starseeds as bridges between human and Federation realities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0101"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25c59deebdc1-c04",
+      "assertion": "She says needed change must mature from within.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0147"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25c59deebdc1-c05",
+      "assertion": "She says most 5D cultures use tailored societies grounded in union.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0231",
+        "p0232"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25c59deebdc1-c06",
+      "assertion": "Yazhi contrasts a reported Federation view that Maitré introduced money with her view that it grew from barter and scarcity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0239",
+        "p0240"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical_worldview",
+    "political_claims"
+  ],
+  "coverage_gaps": [
+    "historical_origins",
+    "faction_details"
+  ]
+}

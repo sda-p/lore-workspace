@@ -1,0 +1,94 @@
+{
+  "source_id": "src-d185beda6e57",
+  "snapshot_sha256": "39dda4ec78f008ec642dcbc927d7c56501d886d04dd3f563d17c11116fe99732",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d185beda6e57-c01",
+      "assertion": "Yazhi describes political conflict as a media war driven by deception and surprise.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d185beda6e57-c02",
+      "assertion": "She portrays Trump-Biden rivalry as real at one level but controlled by a deeper Cabal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d185beda6e57-c03",
+      "assertion": "Yazhi says White Hats and QAnon may have sincere aims yet serve as tools.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d185beda6e57-c04",
+      "assertion": "She doubts events will unfold as publicly predicted and admits her reading may be wrong.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d185beda6e57-c05",
+      "assertion": "Yazhi suggests staged broadcasts could present arrests after hidden operations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

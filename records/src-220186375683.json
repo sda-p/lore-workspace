@@ -1,0 +1,101 @@
+{
+  "source_id": "src-220186375683",
+  "snapshot_sha256": "b195e15325f1c928cf5524f3ce2aa6851c6350ff3abcff3f2592e988dabea585",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-220186375683-c01",
+      "assertion": "Anéeka estimates Taygetans hear from about 16–18 Hz upward and see more infrared, ultraviolet, and dim-light detail.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-220186375683-c02",
+      "assertion": "She says Taygetans perceive more visual frames, though video motion can seem slow or jumpy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-220186375683-c03",
+      "assertion": "Anéeka describes larger organs, denser bones, and digestion adapted to a vegan diet.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-220186375683-c04",
+      "assertion": "She says Taygetans are O+, while Yazhi is A+; RH-negative does not establish starseed or reptilian identity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-220186375683-c05",
+      "assertion": "Anéeka estimates ordinary Taygetans heal three to five times faster and Yazhi twenty times faster.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_biological_claims"
+  ],
+  "coverage_gaps": [
+    "sensory_details",
+    "RH_claims"
+  ]
+}

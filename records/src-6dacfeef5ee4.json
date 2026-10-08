@@ -1,0 +1,116 @@
+{
+  "source_id": "src-6dacfeef5ee4",
+  "snapshot_sha256": "7538bb9484bb2a67e2d46c44973d1aa225bc2ae6d586f07a0c46384eddb4ba7a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6dacfeef5ee4-c01",
+      "assertion": "Yazhi rejects inevitable planetary ascension and savior narratives as passive waiting.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6dacfeef5ee4-c02",
+      "assertion": "She describes ascension as individual growth in perception and consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6dacfeef5ee4-c03",
+      "assertion": "She says people with shared understanding may form a more positive society despite continued conflict.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6dacfeef5ee4-c04",
+      "assertion": "She argues understanding unwanted conditions helps people address them rather than deny them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6dacfeef5ee4-c05",
+      "assertion": "She defines shadow work as confronting and integrating feared aspects of oneself.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6dacfeef5ee4-c06",
+      "assertion": "She says personal and collective problems require active work, not waiting for ascension.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "ascension-claims",
+    "shadow-work"
+  ]
+}

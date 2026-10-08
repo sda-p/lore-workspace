@@ -1,0 +1,110 @@
+{
+  "source_id": "src-0bdff38c9c01",
+  "snapshot_sha256": "b3911425a40de6e27b5a3a19aec0fb11e47fbf4dc9c4d911505c383592e5667e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0bdff38c9c01-c01",
+      "assertion": "The article says sixth-density Naki bide’taa’ii are bicorn equines, not single-horned unicorns.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0bdff38c9c01-c02",
+      "assertion": "They are described as semi-etheric, moving between densities and resisting domestication.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0bdff38c9c01-c03",
+      "assertion": "Their small groups can shift habitats rapidly in plastic sixth-density environments.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0bdff38c9c01-c04",
+      "assertion": "Yazhí says imagined beings can exist in higher densities and may project downward.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0bdff38c9c01-c05",
+      "assertion": "She allows unicorn-like beings may exist somewhere, but says she has no confirmation.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0bdff38c9c01-c06",
+      "assertion": "Anéeka says she knows of no flying equine species; Pegasus is symbolic to her.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "translation-source-original-spanish",
+    "creature-description"
+  ]
+}

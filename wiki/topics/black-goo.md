@@ -54,6 +54,14 @@ Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
 
 Source: [Reptilian-Cabal Experiments: Swaruu of Erra, Extraterrestrial Woman from Pleiades, Speaks Out (Biology 2)](https://swaruu.org/transcripts/reptilian-cabal-experiments-swaruu-extraterrestrial-woman-from-pleiades-speaks-out-biology-2) (2018-10-28; en); passages p0061, p0063. [Structured record](../../records/src-fe653fa2e8b2.json).
 
+### src-af195906d27f-c02
+
+She attributes natural magnetic anomalies to tectonic movement and flowing magma and Black Goo.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Guanajuato Anomaly, Portals, Drones - Anéeka of Temmer (Extraterrestrial Contact)](https://swaruu.org/transcripts/guanajuato-anomaly-portals-drones-aneeka-of-temmer-extraterrestrial-contact) (2020-09-10; en); passages p0024, p0025, p0038, p0039. [Structured record](../../records/src-af195906d27f.json).
+
 ## Review flags
 
 - claim: extraordinary abduction and biology account

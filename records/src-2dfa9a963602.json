@@ -1,0 +1,120 @@
+{
+  "source_id": "src-2dfa9a963602",
+  "snapshot_sha256": "2db4b59186d6e9ee4a4e7dfabadb44dc4f02b8923d085a9051367a9893832ad5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2dfa9a963602-c01",
+      "assertion": "Anéeka says Taygetans represent navigation directions as musical frequencies and mathematical relationships.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0005",
+        "p0010"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dfa9a963602-c02",
+      "assertion": "She claims Taygetan music uses precise mathematical frequency notation beyond staff notation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dfa9a963602-c03",
+      "assertion": "She says Taygetans use 432 Hz and consider it harmonically preferable to 440 Hz.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0021"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dfa9a963602-c04",
+      "assertion": "She describes sound frequencies as a healing method used in Taygeta.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dfa9a963602-c05",
+      "assertion": "She describes space as an etheric fluid where frequency waves form gravity and matter.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dfa9a963602-c06",
+      "assertion": "She says consciousness harmonics sustain matter as nodes in the ether.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0040",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "music-frequency-theory",
+    "sound-healing-claims"
+  ]
+}

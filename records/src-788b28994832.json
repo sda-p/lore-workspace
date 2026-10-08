@@ -1,0 +1,111 @@
+{
+  "source_id": "src-788b28994832",
+  "snapshot_sha256": "afba560daad1a8ed5200008c0954f5193a795dce290fbe1f00178d50e92404d6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-788b28994832-c01",
+      "assertion": "Anéeka describes galaxy-scale spiral waves as temporarily raising solar-system frequencies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-788b28994832-c02",
+      "assertion": "Anéeka says the Sun relays incoming waves through its own solar activity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-788b28994832-c03",
+      "assertion": "Anéeka says mixed gravity waves can damage ships despite shielding.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-788b28994832-c04",
+      "assertion": "Anéeka says these wave events last days and may coincide with Schumann spikes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-788b28994832-c05",
+      "assertion": "Anéeka says connected stars can influence one another’s activity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0033",
+        "p0035",
+        "p0044"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-788b28994832-c06",
+      "assertion": "Anéeka says Taygetans see no special wave link between Alcyone and Sun-13.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "wave_physics",
+    "Alcyone_claim_context"
+  ]
+}

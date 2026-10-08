@@ -1,0 +1,103 @@
+{
+  "source_id": "src-2fd7ed09e087",
+  "snapshot_sha256": "02fe0f4a50681b4ae7665651597fa83280b8b7147f220ceaf6c43c4f4fd0f387",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2fd7ed09e087-c01",
+      "assertion": "Anéeka says the Federation has controlled Earth resets since at least the great flood.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2fd7ed09e087-c02",
+      "assertion": "She says the Federation avoids direct intervention so humans can learn responsibility for solving their problems.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2fd7ed09e087-c03",
+      "assertion": "She says the Alcyone Council represents 11 M45 races and has three external allies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0068",
+        "p0069",
+        "p0101",
+        "p0102"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2fd7ed09e087-c04",
+      "assertion": "She says Alcyone’s alternative to depopulation includes Cabal dismantling, resource and knowledge distribution, and a holographic society.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0080",
+        "p0081",
+        "p0082",
+        "p0083",
+        "p0105",
+        "p0106"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2fd7ed09e087-c05",
+      "assertion": "She says Taygetans, Ummites, and Karistus intervene for humanity outside Federation rules.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0156",
+        "p0157",
+        "p0158"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "factional_viewpoint_conflict",
+    "dated_claims"
+  ],
+  "coverage_gaps": []
+}

@@ -1,0 +1,104 @@
+{
+  "source_id": "src-ccd3c9d7556a",
+  "snapshot_sha256": "dc9a3997c3289c2ef8b0a25969b503be7b976f0c72ce5e40fba3e86945cb0cbe",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ccd3c9d7556a-c01",
+      "assertion": "Yazhi experiences time as nested, multidirectional sequences that continuously influence one another.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ccd3c9d7556a-c02",
+      "assertion": "She says apparent timelines are interrelated parts of a whole, animated by attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ccd3c9d7556a-c03",
+      "assertion": "She predicts restrictions and economic collapse but says outcomes depend on human choices.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ccd3c9d7556a-c04",
+      "assertion": "She argues ordinary people hold power to redirect collective outcomes through refusal and cooperation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ccd3c9d7556a-c05",
+      "assertion": "Yazhi predicts vaccine resistance could bring deaths, public conflict, and government retaliation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-misinformation-claims",
+    "dated-pandemic-prediction"
+  ],
+  "coverage_gaps": [
+    "timeline-model",
+    "dated-predictions"
+  ]
+}

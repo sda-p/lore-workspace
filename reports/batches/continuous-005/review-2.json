@@ -1,0 +1,40 @@
+{
+  "batch_id": "continuous-005",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-6bfffa79183e",
+    "src-dd0d7340a655",
+    "src-2fd7ed09e087",
+    "src-fc319f4029d5",
+    "src-3d5527cf8d47",
+    "src-32f3de8035b1",
+    "src-34b645daba8c",
+    "src-8abb36767dcc",
+    "src-a45840002af2",
+    "src-a4aadc3bec5b",
+    "src-f5d41171c3d6",
+    "src-788b28994832",
+    "src-77b565b0b608",
+    "src-6dacfeef5ee4",
+    "src-cad16865ae57",
+    "src-2dfa9a963602",
+    "src-cb985947b0e5",
+    "src-e22326435d3e",
+    "src-40d144c1675f",
+    "src-74db11a41c73"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-3d5527cf8d47",
+      "claim_id": "src-3d5527cf8d47-c03",
+      "problem": "The claim omitted the source\u2019s qualification that deep meditation alone is insufficient for the described shift.",
+      "action": "Added the further trance-like shift to the assertion while retaining destination visualization.",
+      "paragraph_ids": [
+        "p0074",
+        "p0078",
+        "p0079"
+      ]
+    }
+  ],
+  "unresolved": []
+}

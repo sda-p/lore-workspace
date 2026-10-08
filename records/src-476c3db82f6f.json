@@ -1,0 +1,100 @@
+{
+  "source_id": "src-476c3db82f6f",
+  "snapshot_sha256": "aba2d78263c4daa8bd0e62903f7b6c6281a00130b2550beb6b6402974210d947",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-476c3db82f6f-c01",
+      "assertion": "Swaruu denies Jesus existed historically in this timeline and attributes the narrative to Flavian population control.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-476c3db82f6f-c02",
+      "assertion": "She says Gospel accounts derive from Roman/Flavian sources and lack independent confirmation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-476c3db82f6f-c03",
+      "assertion": "Swaruu distinguishes a collectively created Jesus concept from a historical person.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0043",
+        "p0050",
+        "p0079",
+        "p0087"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-476c3db82f6f-c04",
+      "assertion": "Swaruu says ship engines emulate the pilot’s beliefs, limiting their capabilities.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0057"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-476c3db82f6f-c05",
+      "assertion": "Swaruu says religious institutions redirect spirituality toward external authority and social control.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0064",
+        "p0068",
+        "p0073"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_history_claims"
+  ],
+  "coverage_gaps": [
+    "institutional_history"
+  ]
+}

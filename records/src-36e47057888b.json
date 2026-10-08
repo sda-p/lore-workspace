@@ -1,0 +1,78 @@
+{
+  "source_id": "src-36e47057888b",
+  "snapshot_sha256": "c52be16d930870bd3dbdf6900c6ef93077042326e6fb3fe565d81ab8d7d8b981",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-36e47057888b-c01",
+      "assertion": "Yazhi defines time as inseparable from consciousness; its perceived direction depends on thought.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36e47057888b-c02",
+      "assertion": "Shared agreements make individual time perceptions appear similar, she says.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36e47057888b-c03",
+      "assertion": "Yazhi links awareness and insight with perceiving more dimensions of time and space.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0099",
+        "p0102"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36e47057888b-c04",
+      "assertion": "She describes a person as a limited point of attention shaped by attachments to ideas.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0085",
+        "p0086"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical_worldview"
+  ],
+  "coverage_gaps": [
+    "temporal_models",
+    "later_discussion"
+  ]
+}

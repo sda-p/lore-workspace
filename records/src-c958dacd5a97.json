@@ -5,7 +5,7 @@
   "claims": [
     {
       "id": "src-c958dacd5a97-c01",
-      "assertion": "Anéeka predicts repeated pandemic waves would collapse food distribution and economies.",
+      "assertion": "Anéeka predicts repeated waves would collapse food systems and economies.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0002",
@@ -19,7 +19,7 @@
       ],
       "modality": "speculative",
       "confidence": "high",
-      "qualifiers": "She attributes the forecast to controllers and sources."
+      "qualifiers": "She attributes this to controllers."
     },
     {
       "id": "src-c958dacd5a97-c02",
@@ -37,11 +37,11 @@
       ],
       "modality": "reported",
       "confidence": "high",
-      "qualifiers": "She describes it as a contingency and says she has unresolved questions."
+      "qualifiers": "She calls it a contingency and expresses doubts."
     },
     {
       "id": "src-c958dacd5a97-c03",
-      "assertion": "Anéeka predicts vaccination credentials could become prerequisites for services.",
+      "assertion": "Anéeka predicts vaccination credentials could restrict service access.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0015",
@@ -54,11 +54,11 @@
       ],
       "modality": "speculative",
       "confidence": "high",
-      "qualifiers": "She predicts formally voluntary vaccination would carry practical restrictions."
+      "qualifiers": "She says vaccination would remain formally voluntary."
     },
     {
       "id": "src-c958dacd5a97-c04",
-      "assertion": "Anéeka alleges masks were promoted as obedience indicators rather than protection.",
+      "assertion": "Anéeka alleges masks were promoted as obedience indicators.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0022",
@@ -75,7 +75,7 @@
     },
     {
       "id": "src-c958dacd5a97-c05",
-      "assertion": "Anéeka predicts vaccine harms and fertility effects would increase dependence on pharmaceuticals.",
+      "assertion": "Anéeka predicts vaccine harms and infertility would increase pharmaceutical dependence.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0041",
@@ -91,7 +91,7 @@
     },
     {
       "id": "src-c958dacd5a97-c06",
-      "assertion": "Anéeka reports conflicting forecasts: her sources expect October-November events; Yazhi sees September-November.",
+      "assertion": "Anéeka reports differing September-November forecasts from her sources and Yazhi.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0044",

@@ -1,0 +1,123 @@
+{
+  "source_id": "src-cf7bf2726e68",
+  "snapshot_sha256": "cc0f0660576df35bf30971e06113e2ab853ffac31b5459c8c2ae6a4963280697",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cf7bf2726e68-c01",
+      "assertion": "Swaruu describes stars as conscious portals linked to black-hole entrances through toroidal flows.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0011",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf7bf2726e68-c02",
+      "assertion": "She says black holes are spherical and can connect to stellar exits.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0034",
+        "p0039",
+        "p0093",
+        "p0094"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf7bf2726e68-c03",
+      "assertion": "She says black holes can move objects into another dimension while preserving them internally.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf7bf2726e68-c04",
+      "assertion": "She describes black-hole and solar portals as shortcuts, while Taygetans make tailored wormholes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0071",
+        "p0097",
+        "p0098",
+        "p0103"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf7bf2726e68-c05",
+      "assertion": "She says ship frequencies can alter a wormhole exit toward a target star.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0121",
+        "p0122"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf7bf2726e68-c06",
+      "assertion": "Swaruu frames stars as self-sustaining toroidal beings shaped by consciousness and frequency.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0081",
+        "p0082",
+        "p0083",
+        "p0087"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "portal-model",
+    "black-hole-navigation"
+  ]
+}

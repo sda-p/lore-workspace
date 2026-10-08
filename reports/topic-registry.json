@@ -153,5 +153,40 @@
       "Initial Matrix",
       "Primordial Matrix"
     ]
+  },
+  {
+    "id": "unicorn-symbolism",
+    "name": "Unicorn symbolism",
+    "kind": "symbolism",
+    "aliases": [
+      "unicorn"
+    ]
+  },
+  {
+    "id": "natural-portals",
+    "name": "Natural and artificial portals",
+    "kind": "technology",
+    "aliases": [
+      "portals",
+      "natural portals",
+      "wormholes"
+    ]
+  },
+  {
+    "id": "black-holes",
+    "name": "Black holes",
+    "kind": "cosmology",
+    "aliases": [
+      "black hole",
+      "black holes"
+    ]
+  },
+  {
+    "id": "monoliths",
+    "name": "Monoliths",
+    "kind": "technology",
+    "aliases": [
+      "solid portals"
+    ]
   }
 ]

@@ -1,0 +1,95 @@
+{
+  "source_id": "src-6a52659ee34e",
+  "snapshot_sha256": "4eebe51ce377b7f30862571d6f84bfb16aa27b02f3a3438252181efe3051f6cb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6a52659ee34e-c01",
+      "assertion": "Swaruu describes Andromedans as an old, mainly unified non-Lyrian race with a few factions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a52659ee34e-c02",
+      "assertion": "She says Andromedans lost their planet and now live nomadically in self-contained biosphere ships.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a52659ee34e-c03",
+      "assertion": "She describes their vessels as large sphere and triangular biospheres plus smaller craft, including a former lunar ship.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a52659ee34e-c04",
+      "assertion": "She says Andromedans use a council-based holographic political system and belong to several federations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0023"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a52659ee34e-c05",
+      "assertion": "She says Andromedans are logical with a narrower emotional range, causing friction with more emotional Taygetans.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "species_physiology_omitted"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source_id": "src-a8f8b6f4e217",
+  "snapshot_sha256": "b3586f2e003e6344d54caafbc39fbd63601267ce030cb1bfbb3068be6856c031",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a8f8b6f4e217-c01",
+      "assertion": "Swaruu interprets Virgo, Sirius, Isis, and Horus as elements in an astrotheological account of Jesus.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0019"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a8f8b6f4e217-c02",
+      "assertion": "She reads the cross and solar events as zodiacal and solstice symbolism rather than biography.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0035",
+        "p0040"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a8f8b6f4e217-c03",
+      "assertion": "Swaruu interprets the winter solstice as the Sun’s death followed by a three-day interval and rebirth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0040",
+        "p0046"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a8f8b6f4e217-c04",
+      "assertion": "She says Egyptian solar symbolism informed later Christian celebrations of Jesus’s birth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0052",
+        "p0082"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a8f8b6f4e217-c05",
+      "assertion": "Swaruu argues that the Gospels’ Greek composition does not fit her account of Jesus’s poorly educated followers.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0096"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "astrotheology",
+      "name": "Astrotheology",
+      "kind": "cosmology",
+      "aliases": [
+        "astral theology"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

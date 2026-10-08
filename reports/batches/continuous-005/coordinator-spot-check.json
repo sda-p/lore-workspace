@@ -1,0 +1,19 @@
+{
+  "batch_id": "continuous-005",
+  "checked_claim_ids": [
+    "src-6a52659ee34e-c03",
+    "src-bac5e28324ff-c03",
+    "src-40d144c1675f-c04",
+    "src-42e3f0afcb4a-c06",
+    "src-1ffb05bafb88-c01"
+  ],
+  "method": "Coordinator comparison of assertions with exact cited passages and adjacent context; sampled check, not a coverage measurement.",
+  "corrections": [
+    {
+      "source_id": "src-1ffb05bafb88",
+      "claim_id": "src-1ffb05bafb88-c01",
+      "action": "Added p0012 to support the claim about natural/source manifestation rather than human placement; assertion unchanged."
+    }
+  ],
+  "unresolved": []
+}

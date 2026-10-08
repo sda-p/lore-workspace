@@ -1,0 +1,96 @@
+{
+  "source_id": "src-2d8862e19785",
+  "snapshot_sha256": "0df19693303bad3f1707f2d275e03ecedf8df6aca25ff63c87ff6a05ed6f8fb0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2d8862e19785-c01",
+      "assertion": "Swaruu says helping is optional, self-chosen, and not a duty to fix Earth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d8862e19785-c02",
+      "assertion": "Swaruu says helping can reinforce the helper’s chosen self-concept.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d8862e19785-c03",
+      "assertion": "Swaruu describes helping as a chosen role that one may leave when it becomes burdensome.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0059",
+        "p0060"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d8862e19785-c04",
+      "assertion": "Yazhi says to help when one is in a position to do so.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0103",
+        "p0104",
+        "p0108"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d8862e19785-c05",
+      "assertion": "Yazhi says self-concept and ideas shape identity and reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0141",
+        "p0156"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

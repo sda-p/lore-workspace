@@ -1,0 +1,93 @@
+{
+  "source_id": "src-7f4feea64af6",
+  "snapshot_sha256": "1ef774723a356cddc1537d1dc2617812dfa365043a555c9985a5270bdecb372f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7f4feea64af6-c01",
+      "assertion": "Anéeka alleges hospitals receive escalating payments for COVID diagnoses and deaths.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f4feea64af6-c02",
+      "assertion": "She claims patients with unrelated conditions may be classified as COVID cases.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0016"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f4feea64af6-c03",
+      "assertion": "Anéeka alleges ventilators can injure lungs and says some were modified to cause more harm.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f4feea64af6-c04",
+      "assertion": "She says fear and access restrictions kept families from monitoring hospitalized patients.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f4feea64af6-c05",
+      "assertion": "Anéeka urges civil disobedience and rejects reliance on Trump as savior.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0026"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

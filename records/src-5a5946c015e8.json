@@ -1,0 +1,95 @@
+{
+  "source_id": "src-5a5946c015e8",
+  "snapshot_sha256": "646b1f40b64edbe6f1624bb0cff4a8a36c220dca82846882bbd18dd0d0121c88",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5a5946c015e8-c01",
+      "assertion": "Yazhi says Taygetan toys use durable, non-toxic composite resin rather than plastic.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5946c015e8-c02",
+      "assertion": "She says children often handcraft toys or design them for household replicators.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5946c015e8-c03",
+      "assertion": "Yazhi says toy preferences reflect gender identities, without restrictions on who may play with them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5946c015e8-c04",
+      "assertion": "Raguel describes a Taygetan board game requiring spatial planning, memory, and mostly telepathic exchange.",
+      "speaker": "Raguel",
+      "paragraph_ids": [
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5946c015e8-c05",
+      "assertion": "Raguel says the crew plays Earth video games but prefers their less immersive quality.",
+      "speaker": "Raguel",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "recreation_details"
+  ]
+}

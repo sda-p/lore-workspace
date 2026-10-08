@@ -1,0 +1,83 @@
+{
+  "source_id": "src-c2b1ef8fe78d",
+  "snapshot_sha256": "2ddca6228403a326d4dc95c3b702386827b295b067c939e2bd41d9f4860238c0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c2b1ef8fe78d-c01",
+      "assertion": "Yazhi alleges PCR swabs contain nanoscale devices with GPS, Wi-Fi, and surveillance capabilities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2b1ef8fe78d-c02",
+      "assertion": "She says Maitré are outside the Federation and seek control through infiltration and enslavement.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2b1ef8fe78d-c03",
+      "assertion": "Yazhi contrasts Maitré direct slavery with reptilian covert control, alleging both are involved.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0039"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2b1ef8fe78d-c04",
+      "assertion": "She says Maitré are tall greys derived through reptilian modification of plant-based greys.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0055",
+        "p0059"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_medical_claims",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "PCR_allegations",
+    "other_technology_claims"
+  ]
+}

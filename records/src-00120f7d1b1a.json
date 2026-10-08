@@ -1,0 +1,92 @@
+{
+  "source_id": "src-00120f7d1b1a",
+  "snapshot_sha256": "5ad1987c4dc49497bc4034031e835caae3fb5e562f61bdbe18becff422ab71f5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-00120f7d1b1a-c01",
+      "assertion": "Swaruu says cave paintings encode star maps and escape routes left by refugees fleeing reptiles.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-00120f7d1b1a-c02",
+      "assertion": "She calls star maps a cross-species language, while complex mathematics varies between civilizations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-00120f7d1b1a-c03",
+      "assertion": "Swaruu describes pyramid-era Egypt as a multicultural spaceport built by nonhumans.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0048"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-00120f7d1b1a-c04",
+      "assertion": "She distinguishes Federation Egypt from reptilian Atlantis.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0152",
+        "p0153"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-00120f7d1b1a-c05",
+      "assertion": "Dhor Káal’él describes the ankh as a ship-control device linked to temporal manipulation.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0132"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

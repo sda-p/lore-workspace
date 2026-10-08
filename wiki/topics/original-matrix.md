@@ -32,6 +32,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
 - [src-bb4c17621e1a-c02](moon-matrix.md#src-bb4c17621e1a-c02) — Moon and terrestrial Matrix
 - [src-bb4c17621e1a-c03](consciousness-metaphysics.md#src-bb4c17621e1a-c03) — Consciousness and metaphysics
+- [src-9e1b8453d2d7-c01](consciousness-metaphysics.md#src-9e1b8453d2d7-c01) — Consciousness and metaphysics
 
 ## Review flags
 

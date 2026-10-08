@@ -310,6 +310,126 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [More About 3D Matrix: Extraterrestrial Message from Pleiadians (Taygeta) (5)](https://swaruu.org/transcripts/more-about-3d-matrix-extraterrestrial-message-from-pleiadians-taygeta-5) (2018-10-06; en); passages p0064, p0065, p0066, p0068. [Structured record](../../records/src-2cc992a478c5.json).
 
+### src-b4779aaa27c9-c02
+
+She presents 5G-activated nanopowder as a possible source of reported symptoms.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [More about the Virus - New Report - LIVE with Aneeka of Temmer (Extraterrestrial Communication) \*\*Just Text\*\*](https://swaruu.org/transcripts/more-about-the-virus-new-report-live-with-aneeka-of-temmer-extraterrestrial-communication) (2020-04-01; en); passages p0027, p0028, p0033. [Structured record](../../records/src-b4779aaa27c9.json).
+
+### src-4ae3eab52e34-c06
+
+She says repeated intention can change body programs despite collective Matrix beliefs.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Genetics and Mind - "Humans Were NOT Edited in Extraterrestrial Labs" (Swaruu of Erra explains)](https://swaruu.org/transcripts/genetics-and-mind-humans-were-not-edited-in-extraterrestrial-labs-swaruu-explains) (2019-07-05; en); passages p0047, p0049. [Structured record](../../records/src-4ae3eab52e34.json).
+
+### src-80fb5af6314e-c04
+
+Swaruu distinguishes Earth’s 3D-to-5D shift from wider galactic ascension.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Ascension and "Positronic" Energies: Extraterrestrial Pleiadian Information (Swaruu of Erra)](https://swaruu.org/transcripts/ascension-and-positronic-energies-extraterrestrial-pleiadian-information-swaruu-of-erra) (2020-02-12; en); passages p0075, p0086. [Structured record](../../records/src-80fb5af6314e.json).
+
+### src-31961f38c0f5-c01
+
+Anéeka denies a biological virus and alleges 5G-activated nanopowder in vaccines.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Global Situation - Aneeka of Temmer (Taygeta - Pleiades - Extraterrestrial Communication)](https://swaruu.org/transcripts/global-situation-aneeka-of-temmer-taygeta-pleiades-extraterrestrial-communication) (2020-04-19; en); passages p0002, p0005. [Structured record](../../records/src-31961f38c0f5.json).
+
+### src-ffa5ee8fb668-c02
+
+He says his work is preparing Earth’s population for withdrawal of the artificial 3D Matrix.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Interview with the Taygetan Pleiadian Pilot (Part 1): Dhor Káal'el - Extraterrestrial Contact](https://swaruu.org/transcripts/interview-with-the-taygetean-pleiadian-part-1-dhor-kaal-el-extraterrestrial-contact) (2019-11-15; en); passages p0091, p0092, p0093, p0094. [Structured record](../../records/src-ffa5ee8fb668.json).
+
+### src-29a795acd121-c01
+
+Anéeka says implants can supply life context through memories or records.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Memory Implants - 3D Matrix Management by Federation-Extraterrestrial Information (Aneeka and Yazhi)](https://swaruu.org/transcripts/memory-implants-3d-matrix-management-by-federation-extraterrestrial-information-aneeka-and-yazhi) (2020-07-19; en); passages p0003, p0005, p0007. [Structured record](../../records/src-29a795acd121.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-29a795acd121-c02
+
+Anéeka says altered documents can redirect identity, residence, and personal history.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Memory Implants - 3D Matrix Management by Federation-Extraterrestrial Information (Aneeka and Yazhi)](https://swaruu.org/transcripts/memory-implants-3d-matrix-management-by-federation-extraterrestrial-information-aneeka-and-yazhi) (2020-07-19; en); passages p0006, p0008. [Structured record](../../records/src-29a795acd121.json).
+
+### src-29a795acd121-c04
+
+Anéeka says collective-event manipulation can combine changed records and implanted memories.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Memory Implants - 3D Matrix Management by Federation-Extraterrestrial Information (Aneeka and Yazhi)](https://swaruu.org/transcripts/memory-implants-3d-matrix-management-by-federation-extraterrestrial-information-aneeka-and-yazhi) (2020-07-19; en); passages p0011, p0012, p0018. [Structured record](../../records/src-29a795acd121.json).
+
+### src-29a795acd121-c05
+
+Yazhi says Federation and Cabal both use low-tech document manipulation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Memory Implants - 3D Matrix Management by Federation-Extraterrestrial Information (Aneeka and Yazhi)](https://swaruu.org/transcripts/memory-implants-3d-matrix-management-by-federation-extraterrestrial-information-aneeka-and-yazhi) (2020-07-19; en); passages p0020, p0021, p0024. [Structured record](../../records/src-29a795acd121.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Galactic Federation](galactic-federation.md).
+
+### src-83d019014e1d-c02
+
+She says earlier resets were 5D; only the latest was 3D.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Planetary Reset - Answers from Yázhi Swaruu - Extraterrestrial Communication](https://swaruu.org/transcripts/planetary-reset-answers-from-yazhi-swaruu-extraterrestrial-communication) (2020-08-31; en); passages p0008, p0010. [Structured record](../../records/src-83d019014e1d.json).
+
+### src-abc86bab5796-c02
+
+She describes each Matrix as shared agreements shaping perceived reality.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Freedom, Ascension, Federation, and 5D Cages - Swaruu - Extraterrestrial Contact (Pleiades)](https://swaruu.org/transcripts/freedom-ascension-federation-and-5d-cages-swaruu-extraterrestrial-contact-pleiades) (2020-06-10; en); passages p0032, p0037. [Structured record](../../records/src-abc86bab5796.json).
+
+### src-42e3f0afcb4a-c07
+
+Yazhi says departing souls may have different destinations according to each soul’s level.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [If Everything is Souls´ Plan from Above Anyway- What Do We Do? - Yazhi Swaruu - Pleiadian Contact](https://swaruu.org/transcripts/if-everything-is-souls-plan-from-above-anyway-what-do-we-do-yazhi-swaruu-pleiadian-contact) (2020-11-26; en); passages p0043. [Structured record](../../records/src-42e3f0afcb4a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-77b565b0b608-c05
+
+Swaruu says Matrix beliefs can perpetuate reincarnation without direct archon intervention.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Suicide - Why it is NOT a Good Idea - Swaruu (Extraterrestrial Contact - Pleiades - Taygeta)](https://swaruu.org/transcripts/suicide-why-it-is-not-a-good-idea-swaruu-extraterrestrial-contact-pleiades-taygeta) (2020-12-04; en); passages p0032, p0033. [Structured record](../../records/src-77b565b0b608.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f6f7bd5646db-c05
+
+Swaruu says the Federation installed Earth’s electromagnetic barrier using the damaged Moon ship.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Atlantis, Lemuria, Reptilians, Adam and Eve, Tiamat - Taygetean Pleiadian Role in Ancient History](https://swaruu.org/transcripts/atlantis-lemuria-reptilians-adam-and-eve-tiamat-taygetean-pleiadian-role-in-ancient-history) (2020-11-02; en); passages p0051, p0052, p0053. [Structured record](../../records/src-f6f7bd5646db.json).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -321,12 +441,20 @@ Source: [More About 3D Matrix: Extraterrestrial Message from Pleiadians (Taygeta
 - [src-f22366424c26-c02](holographic-computers.md#src-f22366424c26-c02) — Holographic computers
 - [src-f22366424c26-c04](holographic-computers.md#src-f22366424c26-c04) — Holographic computers
 - [src-f22366424c26-c05](consciousness-metaphysics.md#src-f22366424c26-c05) — Consciousness and metaphysics
+- [src-b8f2f7bcd1aa-c06](consciousness-metaphysics.md#src-b8f2f7bcd1aa-c06) — Consciousness and metaphysics
+- [src-bc845f80345f-c06](consciousness-metaphysics.md#src-bc845f80345f-c06) — Consciousness and metaphysics
+- [src-29a795acd121-c03](consciousness-metaphysics.md#src-29a795acd121-c03) — Consciousness and metaphysics
+- [src-29a795acd121-c08](prime-directive.md#src-29a795acd121-c08) — Prime Directive
+- [src-42e3f0afcb4a-c01](consciousness-metaphysics.md#src-42e3f0afcb4a-c01) — Consciousness and metaphysics
 
 ## Review flags
 
 - 3d-to-5d-transition
+- afterlife\_model
 - agency\_and\_noninterference
 - ai-clone-claims-attributed
+- archon\_interference\_qualification
+- attribution: extraordinary intelligence claims remain source-specific
 - blockade-and-biology-attributed
 - claim: extraordinary abduction and biology account
 - conceptual-tension: real/unreal distinctions are context-dependent
@@ -334,18 +462,31 @@ Source: [More About 3D Matrix: Extraterrestrial Message from Pleiadians (Taygeta
 - coverage: Atonism details
 - coverage: Matrix scripts
 - coverage: contactee examples
+- coverage: experimental rejuvenation narrative
+- coverage: frequency-wave mechanism
 - coverage: gardener-procedures
 - coverage: labor and media
 - coverage: primary-secondary taxonomy
+- coverage: psychic-function claims
+- culturally\_variable\_nde\_claim
 - earth-population-claims
+- ether\_model
+- ethical\_perspective\_conflict
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - manifestation\_mechanics
 - matrix\_layers
 - matrix\_scope
+- medical-misinformation: pandemic, testing, and vaccine claims
+- medical-misinformation: virus, vaccine, and nanopowder claims
 - reincarnation-model-metaphysical
 - sensitive\_claims
 - soul-model-metaphysical
 - speaker-label-ambiguity
 - speaker: interviewer prompts excluded as claims
 - speaker\_qualifies\_script\_claims
+- spiritual\_afterlife\_claims\_unverified
 - suffering\_causality
+- technology\_and\_mind\_interface
+- terminology: “positronic” is a human-language approximation (p0002)
+- uncertainty-shift: 5G moves from possible explanation to formal position
+- unverified\_medical\_allegations

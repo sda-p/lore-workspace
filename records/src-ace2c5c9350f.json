@@ -1,0 +1,104 @@
+{
+  "source_id": "src-ace2c5c9350f",
+  "snapshot_sha256": "7556b64bdc0e4705a0efe9ec27a1681819b1258f40050674c86d04322ecb29bb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ace2c5c9350f-c01",
+      "assertion": "Yazhi says her forecasts come from a mental field and remain uncertain because observation changes events.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ace2c5c9350f-c02",
+      "assertion": "She says Trump and patriot movements may distract people from acting independently, despite appearing positive at one level.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0010",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ace2c5c9350f-c03",
+      "assertion": "She alleges Federation factions are among the powerful forces manipulating humanity and Earth events.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ace2c5c9350f-c04",
+      "assertion": "She urges collective resistance to government control but also rejects violent action and advises civilian self-protection.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0025",
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ace2c5c9350f-c05",
+      "assertion": "She says Urmah and Taygeta have limited influence and people should stop relying on governments or rescuers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0033"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "factional_viewpoint_conflict",
+    "dated_claims",
+    "internal_tension"
+  ],
+  "coverage_gaps": []
+}

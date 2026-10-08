@@ -90,10 +90,41 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
 
 Source: [Swaruu of Erra addressed Galactic Federation, other so-called positive ET races, and humans - TEXT ONLY (published as video in Spanish only)](https://swaruu.org/transcripts/swaruu-of-erra-addressed-galactic-federation-other-so-called-positive-et-races-and-humans-text-only-) (2018-09-18; en); passages p0035. [Structured record](../../records/src-abb9772e4516.json).
 
+### src-e7846dbe6a6c-c04
+
+Swaruu says the Prime Directive protects free will, including prenatal intentions.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Taygetan Pleiadian Report (Swaruu): Are we Ready for Official Extraterrestrial Contact? (Part 1)](https://swaruu.org/transcripts/taygetean-pleiadian-report-swaruu-are-we-ready-for-official-extraterrestrial-contact-part-1) (2019-08-21; en); passages p0021, p0027. [Structured record](../../records/src-e7846dbe6a6c.json).
+
+### src-29a795acd121-c08
+
+Yazhi says Federation memory interventions violate its Prime Directive.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Memory Implants - 3D Matrix Management by Federation-Extraterrestrial Information (Aneeka and Yazhi)](https://swaruu.org/transcripts/memory-implants-3d-matrix-management-by-federation-extraterrestrial-information-aneeka-and-yazhi) (2020-07-19; en); passages p0062. [Structured record](../../records/src-29a795acd121.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-53f4f0661b68-c04
+
+Swaruu says Earth remained under the Prime Directive because humans believed themselves free.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Races: Centauri (Swaruu - Extraterrestrial Pleiadian Communication)](https://swaruu.org/transcripts/extraterrestrial-races-centauri-swaruu-extraterrestrial-pleiadian-communication) (2020-09-02; en); passages p0017, p0019. [Structured record](../../records/src-53f4f0661b68.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c04](galactic-federation.md#src-a5811312e55c-c04) — Galactic Federation
 - [src-c9ef4c4d5b13-c01](stellar-navigation.md#src-c9ef4c4d5b13-c01) — Stellar navigation
+- [src-ed3d8dd11109-c01](galactic-federation.md#src-ed3d8dd11109-c01) — Galactic Federation
+- [src-ed3d8dd11109-c06](galactic-federation.md#src-ed3d8dd11109-c06) — Galactic Federation
+- [src-fc319f4029d5-c05](galactic-federation.md#src-fc319f4029d5-c05) — Galactic Federation
 
 ## Review flags
 
@@ -102,6 +133,7 @@ Source: [Swaruu of Erra addressed Galactic Federation, other so-called positive 
 - agency\_and\_noninterference
 - cognitive-dissonance-concept
 - comparative\_technology\_claims
+- coverage: quoted Jung and Tsarion passages
 - directive-rules-not-in-transcript
 - matrix\_layers
 - time\_travel\_risks

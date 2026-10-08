@@ -5,7 +5,7 @@
   "claims": [
     {
       "id": "src-2a03cea64461-c01",
-      "assertion": "Anéeka says Alcyone Council backed her ship to monitor Federation activity.",
+      "assertion": "Anéeka says Alcyone Council backed her ship as a Federation observer.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0004"
@@ -21,7 +21,7 @@
     },
     {
       "id": "src-2a03cea64461-c02",
-      "assertion": "Anéeka says Federation ascension messaging helped keep crews assisting its agenda.",
+      "assertion": "Anéeka says ascension messaging helped align crews with Federation aims.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0006",
@@ -37,7 +37,7 @@
     },
     {
       "id": "src-2a03cea64461-c03",
-      "assertion": "Anéeka says Taygeta no longer views Earth operations as liberation.",
+      "assertion": "Anéeka rejects the Federation’s claimed liberation of Earth.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0016",
@@ -54,7 +54,7 @@
     },
     {
       "id": "src-2a03cea64461-c04",
-      "assertion": "Anéeka describes rival Federation and Satanist versions of planetary government.",
+      "assertion": "Anéeka says both Federation and Satanist plans seek planetary unification.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0022",
@@ -67,11 +67,11 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "Both envision one government, religion, and currency."
+      "qualifiers": ""
     },
     {
       "id": "src-2a03cea64461-c05",
-      "assertion": "Anéeka says the Federation filters information and uses layered oversight councils.",
+      "assertion": "Anéeka says Federation oversight filters information through layered councils.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0024",
@@ -87,7 +87,7 @@
     },
     {
       "id": "src-2a03cea64461-c06",
-      "assertion": "Anéeka says Phaethon survivors received guided manifestation training for centuries.",
+      "assertion": "Anéeka says Federation guidance helped Phaethon survivors manage manifestation.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0044",
@@ -100,7 +100,7 @@
       ],
       "modality": "asserted",
       "confidence": "high",
-      "qualifiers": "She says Federation forces liberated the former Earth-derived slave world."
+      "qualifiers": "She says it followed military liberation."
     },
     {
       "id": "src-2a03cea64461-c07",
@@ -121,7 +121,7 @@
     },
     {
       "id": "src-2a03cea64461-c08",
-      "assertion": "Anéeka says a 32-person Taygetan crew cannot expand without Federation permission.",
+      "assertion": "Anéeka says Federation limits a 32-person Taygetan crew’s expansion.",
       "speaker": "Anéeka",
       "paragraph_ids": [
         "p0102",

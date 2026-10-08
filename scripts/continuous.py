@@ -146,9 +146,12 @@ sub.add_parser('progress')
 e=sub.add_parser('extracted'); e.add_argument('--source',required=True); e.add_argument('--cache',default='../source-cache')
 w=sub.add_parser('wait-ready'); w.add_argument('--batch',required=True); w.add_argument('--reviewer',type=int,required=True); w.add_argument('--exclude',default='')
 args=parser.parse_args()
-if args.command=='select': select(args.batch,args.size)
-elif args.command=='ready': ready(args.batch)
-elif args.command=='integrate': integrate(args.batch,args.cache)
-elif args.command=='extracted': extracted(args.source,args.cache)
-elif args.command=='wait-ready': wait_ready(args.batch,args.reviewer,set(filter(None,args.exclude.split(','))))
-else: progress()
+if args.command in ('extracted','wait-ready'):
+    if args.command=='extracted': extracted(args.source,args.cache)
+    else: wait_ready(args.batch,args.reviewer,set(filter(None,args.exclude.split(','))))
+else:
+    with lore.coordinator_lock():
+        if args.command=='select': select(args.batch,args.size)
+        elif args.command=='ready': ready(args.batch)
+        elif args.command=='integrate': integrate(args.batch,args.cache)
+        else: progress()

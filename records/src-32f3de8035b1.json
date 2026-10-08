@@ -1,0 +1,127 @@
+{
+  "source_id": "src-32f3de8035b1",
+  "snapshot_sha256": "b112fff52c9ae1ea5278f04524d7c68c57c12f8c6b467e2c56721a92db1b42f8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-32f3de8035b1-c01",
+      "assertion": "Yazhi says perceived limits can frame expansion without defining a person’s full potential.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32f3de8035b1-c02",
+      "assertion": "Yazhi describes self-love and integration as a route to reduced conflict and fear.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32f3de8035b1-c03",
+      "assertion": "Yazhi says she experiences humans and other beings as aspects of herself.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32f3de8035b1-c04",
+      "assertion": "Yazhi says the body is an idea that need not limit awareness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32f3de8035b1-c05",
+      "assertion": "Yazhi argues understanding suffering does not require living through it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0051"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32f3de8035b1-c06",
+      "assertion": "Yazhi says people can embody their higher self through self-love and integration.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-32f3de8035b1-c07",
+      "assertion": "Yazhi says souls continue building understanding across embodied and non-embodied states.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0061",
+        "p0063",
+        "p0084"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

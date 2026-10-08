@@ -1,0 +1,92 @@
+{
+  "source_id": "src-b29b0f8556c0",
+  "snapshot_sha256": "ab3b4d615d8b4e8fd8bbbada0e5ea3d0c2108315b049bfde83596a0c22bd7c8d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b29b0f8556c0-c01",
+      "assertion": "Anéeka says Taygetan cycles are governed by mind rather than lunar frequencies and may stop for months or years.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b29b0f8556c0-c02",
+      "assertion": "She says Taygetan fertility may extend to a month after menstruation and persist without menopause.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b29b0f8556c0-c03",
+      "assertion": "Anéeka claims ovarian sperm retention and self-cloning can permit pregnancy long after intercourse or without intercourse.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b29b0f8556c0-c04",
+      "assertion": "She says pregnancy lasts about nine to ten months and birth is usually natural and underwater.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b29b0f8556c0-c05",
+      "assertion": "She says parthenogenetic birth may require surgical opening of the hymen.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0036"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

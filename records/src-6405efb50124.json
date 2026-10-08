@@ -1,0 +1,89 @@
+{
+  "source_id": "src-6405efb50124",
+  "snapshot_sha256": "e62fa60bdf8f7acc3f91adb2ab7f5e45338aa7791df3c8098291775192c21963",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6405efb50124-c01",
+      "assertion": "Yazhi says reincarnation depends on frequency compatibility with a body and its associated life experiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6405efb50124-c02",
+      "assertion": "She describes one absolute Soul or Source experiencing many apparent individual points of attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6405efb50124-c03",
+      "assertion": "Yazhi says strong attachment to a past life can draw attention back to that incarnation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6405efb50124-c04",
+      "assertion": "She describes life sequences as intertwined, with identities recurring across connected lives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0040",
+        "p0046"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6405efb50124-c05",
+      "assertion": "Yazhi says attachment to alternate choices may repeat a life or link several lives for a wider perspective.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0104"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

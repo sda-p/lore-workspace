@@ -1,0 +1,207 @@
+{
+  "batch_id": "continuous-003",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-f2e581c027ec",
+    "src-919dc7641045",
+    "src-30ad5c1df3fd",
+    "src-b4779aaa27c9",
+    "src-cf646873c491",
+    "src-b8f2f7bcd1aa",
+    "src-878283338eea",
+    "src-3eaf9a92ec74",
+    "src-5a1f126d1f61",
+    "src-bc845f80345f",
+    "src-457e1624a63c",
+    "src-4642eb8a57c3",
+    "src-6656b9a64d45",
+    "src-ce6ea4ce1c3c",
+    "src-2d9de6434606",
+    "src-97d78d5ed3d4",
+    "src-d7282a4e99a9",
+    "src-552d43bf3802",
+    "src-deac39f68d91",
+    "src-31961f38c0f5"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-b8f2f7bcd1aa",
+      "claim_id": "src-b8f2f7bcd1aa-c04",
+      "problem": "Citation set omitted the explicit rarity qualifier.",
+      "action": "Added direct contextual evidence for the rarity scope.",
+      "paragraph_ids": [
+        "p0112",
+        "p0115",
+        "p0118",
+        "p0121"
+      ]
+    },
+    {
+      "source_id": "src-3eaf9a92ec74",
+      "claim_id": "src-3eaf9a92ec74-c06",
+      "problem": "Citations did not directly cover the stated frequency matching.",
+      "action": "Replaced evidence with passages addressing frequency and harmonic matching.",
+      "paragraph_ids": [
+        "p0212",
+        "p0218",
+        "p0227",
+        "p0230",
+        "p0241",
+        "p0247"
+      ]
+    },
+    {
+      "source_id": "src-bc845f80345f",
+      "claim_id": "src-bc845f80345f-c03",
+      "problem": "Citations did not directly support the accelerator detail.",
+      "action": "Added the passages describing nano particle accelerators.",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0028",
+        "p0032"
+      ]
+    },
+    {
+      "source_id": "src-878283338eea",
+      "claim_id": "src-878283338eea-c01",
+      "problem": "Citation set drifted from navigation, engineering, and ethics components.",
+      "action": "Replaced with direct passages for each component.",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0016",
+        "p0022",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-878283338eea",
+      "claim_id": "src-878283338eea-c02",
+      "problem": "Citations omitted direct support for agility and AI components.",
+      "action": "Added direct evidence for the stated capabilities.",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0034",
+        "p0035"
+      ]
+    },
+    {
+      "source_id": "src-878283338eea",
+      "claim_id": "src-878283338eea-c04",
+      "problem": "Citation set omitted the direct sonic-weapon passage.",
+      "action": "Added direct weapon passage and retained context.",
+      "paragraph_ids": [
+        "p0099",
+        "p0105",
+        "p0108",
+        "p0112"
+      ]
+    },
+    {
+      "source_id": "src-878283338eea",
+      "claim_id": "src-878283338eea-c05",
+      "problem": "Citation set omitted the direct simulated-radar-return passage.",
+      "action": "Added direct evidence for simulated radar returns.",
+      "paragraph_ids": [
+        "p0161",
+        "p0165",
+        "p0188",
+        "p0198",
+        "p0202"
+      ]
+    },
+    {
+      "source_id": "src-6656b9a64d45",
+      "claim_id": "src-6656b9a64d45-c05",
+      "problem": "Citation set did not include the exact device identification.",
+      "action": "Added the direct superconducting quantum-interference-device passage.",
+      "paragraph_ids": [
+        "p0150",
+        "p0159",
+        "p0180",
+        "p0182",
+        "p0189"
+      ]
+    },
+    {
+      "source_id": "src-f2e581c027ec",
+      "claim_id": "src-f2e581c027ec-c03",
+      "problem": "One citation was unrelated; direct support for the listed propulsion components was missing.",
+      "action": "Replaced evidence with passages on gravity, plasma, and toroidal configuration.",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043"
+      ]
+    },
+    {
+      "source_id": "src-f2e581c027ec",
+      "claim_id": "src-f2e581c027ec-c06",
+      "problem": "An unrelated citation weakened support for hull-frequency construction.",
+      "action": "Removed drifted evidence and cited the relevant construction passages.",
+      "paragraph_ids": [
+        "p0253",
+        "p0254",
+        "p0256",
+        "p0257",
+        "p0266",
+        "p0277"
+      ]
+    },
+    {
+      "source_id": "src-f2e581c027ec",
+      "claim_id": "src-f2e581c027ec-c07",
+      "problem": "Citations omitted direct evidence for crew perception and travel-time claims.",
+      "action": "Replaced with passages addressing those aspects.",
+      "paragraph_ids": [
+        "p0103",
+        "p0104",
+        "p0328",
+        "p0329",
+        "p0338",
+        "p0339"
+      ]
+    },
+    {
+      "source_id": "src-4642eb8a57c3",
+      "claim_id": "src-4642eb8a57c3-c02",
+      "problem": "Evidence did not fully cite the stop-and-rewind list.",
+      "action": "Added direct list passages.",
+      "paragraph_ids": [
+        "p0059",
+        "p0063",
+        "p0065"
+      ]
+    },
+    {
+      "source_id": "src-4642eb8a57c3",
+      "claim_id": "src-4642eb8a57c3-c05",
+      "problem": "Citations omitted the passage explaining that interpretation changes meaning.",
+      "action": "Added the interpretive-context passage.",
+      "paragraph_ids": [
+        "p0220",
+        "p0228",
+        "p0233"
+      ]
+    },
+    {
+      "source_id": "src-4642eb8a57c3",
+      "claim_id": "src-4642eb8a57c3-c06",
+      "problem": "Evidence omitted the same-soul answer and its qualification.",
+      "action": "Added direct answer and contrast passages.",
+      "paragraph_ids": [
+        "p0165",
+        "p0170",
+        "p0174",
+        "p0175",
+        "p0179"
+      ]
+    }
+  ],
+  "unresolved": []
+}

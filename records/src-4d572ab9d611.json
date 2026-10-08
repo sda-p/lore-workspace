@@ -1,0 +1,76 @@
+{
+  "source_id": "src-4d572ab9d611",
+  "snapshot_sha256": "30d22a93d2c6a6e65a7a5b55721b1aa631ad3557599d57d19b58f812f14a495f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4d572ab9d611-c01",
+      "assertion": "Anéeka says Taygeta’s planetary network connects with Alcyone Council and Federation networks.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d572ab9d611-c02",
+      "assertion": "Anéeka says any citizen can upload news to a connected planetary network with searchable public updates.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d572ab9d611-c03",
+      "assertion": "She says Taygetan entertainment aims to expand collective consciousness and wisdom.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d572ab9d611-c04",
+      "assertion": "Anéeka says citizens have immersive holographic computers and can request what they need.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

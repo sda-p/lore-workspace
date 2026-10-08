@@ -1,0 +1,89 @@
+{
+  "source_id": "src-c2b7cd1441d7",
+  "snapshot_sha256": "ae582e2829a7594d9885c55b5b7fa36610c438616d4379218302d27c1d122568",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c2b7cd1441d7-c01",
+      "assertion": "Anéeka claims Maitré, Draco, and Kingu maintain Antarctic bases with US cooperation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2b7cd1441d7-c02",
+      "assertion": "She says Antarctica contains ancient ruins, including remains of planetary Atlantis.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2b7cd1441d7-c03",
+      "assertion": "Anéeka describes surface facilities above extensive underground bases.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2b7cd1441d7-c04",
+      "assertion": "She alleges a Nazi-founded Cabal underground base dates to the 1930s.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c2b7cd1441d7-c05",
+      "assertion": "Anéeka says military control makes Antarctica a no-fly zone for commercial airlines.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

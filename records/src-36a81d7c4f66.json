@@ -1,0 +1,97 @@
+{
+  "source_id": "src-36a81d7c4f66",
+  "snapshot_sha256": "e4ec58434eccb229f490779dcc44300a780353c7984197d089a187d4734cd435",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-36a81d7c4f66-c01",
+      "assertion": "Swaruu alleges Flavian rulers repurposed regional messianic beliefs to promote obedience to Rome.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36a81d7c4f66-c02",
+      "assertion": "She says Titus and Vespasian built the savior narrative from confiscated regional documents.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36a81d7c4f66-c03",
+      "assertion": "She presents Josephus and Roman networks as shaping Gospel accounts for Flavian purposes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0045",
+        "p0048"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36a81d7c4f66-c04",
+      "assertion": "Swaruu says “Messiah” was a generic leader-title rather than unique to Jesus.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36a81d7c4f66-c05",
+      "assertion": "She says her claimed stellar chronology conflicts with Earth accounts of crucifixion.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0117",
+        "p0118"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says her data places the punishment much later."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_history_claims",
+    "chronology_conflict"
+  ],
+  "coverage_gaps": [
+    "supporting_historical_evidence"
+  ]
+}

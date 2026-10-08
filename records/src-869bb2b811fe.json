@@ -1,0 +1,98 @@
+{
+  "source_id": "src-869bb2b811fe",
+  "snapshot_sha256": "64bba0ad38d6d5d3eb2a1a5eda5f129a577f50f57616cb9c6fdffcfd52b9b0e6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-869bb2b811fe-c01",
+      "assertion": "Swaruu says Agarthians are former Lemurians who built underground civilization after Tiamat’s flood.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0011"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "tiamat",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-869bb2b811fe-c02",
+      "assertion": "She places their capital at Great Shambala beneath the Gobi region, with cities worldwide.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-869bb2b811fe-c03",
+      "assertion": "She says Agarthian-Federation communications are sporadic amid an intraterrestrial reptilian incursion.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0018"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-869bb2b811fe-c04",
+      "assertion": "Agarthian surface-adjacent regions are described as 3D or 4D and vulnerable to incursions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-869bb2b811fe-c05",
+      "assertion": "She describes Lemurian survivors as Taygetans mixed with Homo Atlantis.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Agartha-geography",
+    "ancient-civilization-history"
+  ]
+}

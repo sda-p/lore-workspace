@@ -1,0 +1,117 @@
+{
+  "source_id": "src-ecebb87d5baa",
+  "snapshot_sha256": "d3fc139c4b197b0a2928b74117dfe624998b61403678aadb797226389462f0d9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ecebb87d5baa-c01",
+      "assertion": "Swaruu says a true quantum computer accesses ether and timelines, unlike terrestrial chip systems.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0016",
+        "p0021",
+        "p0032"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ecebb87d5baa-c02",
+      "assertion": "Taygetan AHCS systems use arrays of nanoscale particle accelerators and logical processing.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0070",
+        "p0074"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ecebb87d5baa-c03",
+      "assertion": "She says AHCS queries evaluate many possible outcomes at once through an ether field.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0062",
+        "p0077",
+        "p0078"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ecebb87d5baa-c04",
+      "assertion": "She claims these computers use base-12 mathematics and specialized materials.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0048",
+        "p0051",
+        "p0055",
+        "p0070"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ecebb87d5baa-c05",
+      "assertion": "Swaruu says ship computers can consult slightly future versions of themselves.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ecebb87d5baa-c06",
+      "assertion": "Anéeka says computer memory is an electromagnetic field accessing the ether.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "AHCS",
+    "terrestrial-technology-comparison"
+  ]
+}

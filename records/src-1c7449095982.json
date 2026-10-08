@@ -1,0 +1,113 @@
+{
+  "source_id": "src-1c7449095982",
+  "snapshot_sha256": "bd7d2af960f42ddb8b00dda7772ad28f0afebd89b691f0318bfe5b4c6604f26a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1c7449095982-c01",
+      "assertion": "Anéeka says no single human can represent the whole Federation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c7449095982-c02",
+      "assertion": "She describes a holographic society where each person may represent their culture.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c7449095982-c03",
+      "assertion": "She says councils are layered by region and density, escalating unresolved issues upward.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c7449095982-c04",
+      "assertion": "She claims citizens can access education and council participation without information secrecy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c7449095982-c05",
+      "assertion": "She says councils seek agreement through deliberation rather than majority votes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c7449095982-c06",
+      "assertion": "Council membership depends on relevant capacity; specialists join when their expertise is needed.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "council-governance",
+    "federation-representation"
+  ]
+}

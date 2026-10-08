@@ -1,0 +1,94 @@
+{
+  "source_id": "src-09e26ee299cd",
+  "snapshot_sha256": "7bf3d73ebda372da76b9fc923db309721a6828e96c5ac60749a2e5274feb6879",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-09e26ee299cd-c01",
+      "assertion": "Yazhi says timelines intersect and influence one another, shaping a shared present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-09e26ee299cd-c02",
+      "assertion": "She presents linear chronology as an explanatory arrangement rather than a fixed account.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-09e26ee299cd-c03",
+      "assertion": "Yazhi says contradictory event histories may converge into present reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-09e26ee299cd-c04",
+      "assertion": "She says there is no time independent of consciousness; attention creates experienced sequence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-09e26ee299cd-c05",
+      "assertion": "Yazhi calls her own account an interpreted alternative, drawing partly on Federation and Taygetan data.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0015",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "history_methodology"
+  ]
+}

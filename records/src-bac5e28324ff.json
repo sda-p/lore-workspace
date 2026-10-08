@@ -1,0 +1,97 @@
+{
+  "source_id": "src-bac5e28324ff",
+  "snapshot_sha256": "fe1a14170c78324189f71d5515d69886379617ebc852a9e80394f018a69cceea",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bac5e28324ff-c01",
+      "assertion": "Yazhi frames conflict as awakened starseeds versus Cabal forces competing for human minds.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bac5e28324ff-c02",
+      "assertion": "She says the human Cabal fears mass awakening and targets those who promote it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0023",
+        "p0030"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bac5e28324ff-c03",
+      "assertion": "Yazhi treats the Federation as a separate level that reflects Earth’s problems.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bac5e28324ff-c04",
+      "assertion": "She says both sides include nonhuman actors, while distinguishing human political leaders.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bac5e28324ff-c05",
+      "assertion": "Yazhi questions whether starseeds are invaders acting within another group’s world.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

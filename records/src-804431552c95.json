@@ -1,0 +1,97 @@
+{
+  "source_id": "src-804431552c95",
+  "snapshot_sha256": "201f687e872a307c0b7836371d8f1f90a5eb07296c6982969df8123bc00eec25",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-804431552c95-c01",
+      "assertion": "Yazhi says small changes to influential people can shift collective timelines.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-804431552c95-c02",
+      "assertion": "She describes arrays of minor events as cumulatively changing collective outcomes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-804431552c95-c03",
+      "assertion": "Yazhi says personal and family care contributes to collective change.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-804431552c95-c04",
+      "assertion": "She predicts the Cabal is defeated in every timeline, at substantial human cost.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-804431552c95-c05",
+      "assertion": "Yazhi frames her own resistance as mental and temporal rather than armed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

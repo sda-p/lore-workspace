@@ -1,0 +1,96 @@
+{
+  "source_id": "src-b99458d14828",
+  "snapshot_sha256": "f138cd4218c18d41638b19e6c25d95c30a81c20846d97fd737bf800da23f60ea",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b99458d14828-c01",
+      "assertion": "Swaruu describes extracellular secretions as cellular signals responding to hostile conditions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b99458d14828-c02",
+      "assertion": "She says secretions mediate communication among cells, individuals, and species.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b99458d14828-c03",
+      "assertion": "Swaruu claims viral signals arise from damaged genetic material under toxic conditions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b99458d14828-c04",
+      "assertion": "She attributes illness to environmental toxicity, including psychological stress.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b99458d14828-c05",
+      "assertion": "Swaruu claims vaccines can trigger disease and advises against viral vaccines.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

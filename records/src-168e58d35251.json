@@ -1,0 +1,95 @@
+{
+  "source_id": "src-168e58d35251",
+  "snapshot_sha256": "2bc98f58de7080d5fa4adc76bde45757d10bcec95c49532a1596741507be09d4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-168e58d35251-c01",
+      "assertion": "Anéeka says Earth observers see only part of stellar light, biasing astronomical readings.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-168e58d35251-c02",
+      "assertion": "She attributes apparent redshift to light refraction through space rather than expansion.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0020"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-168e58d35251-c03",
+      "assertion": "Anéeka says Taygeta is a binary system with Sadicleya illuminating planetary nights.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-168e58d35251-c04",
+      "assertion": "She says M45 stars interconnect and converge on Alcyone.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-168e58d35251-c05",
+      "assertion": "Anéeka describes collapsing stars as gravity holes that can disrupt ship sensors in propulsion.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

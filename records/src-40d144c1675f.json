@@ -1,0 +1,118 @@
+{
+  "source_id": "src-40d144c1675f",
+  "snapshot_sha256": "9b2e89a12b777554b01dc10f3fdce7e7f6848ea0d70aabd594ae54333a5a4c4f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-40d144c1675f-c01",
+      "assertion": "Anéeka says suns and black holes form connected toroidal energy pumps, though not in a one-to-one ratio.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-40d144c1675f-c02",
+      "assertion": "She describes a sun becoming a black hole when etheric energy flow reverses from exit to entry.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-40d144c1675f-c03",
+      "assertion": "She says solar radiation heats a planet by increasing atmospheric molecular activity; seasons depend mainly on axial angle.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-40d144c1675f-c04",
+      "assertion": "She says space portals can change transit frequency to reach past or future points in spacetime.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-40d144c1675f-c05",
+      "assertion": "She says many races prefer portals from habit and keep some advanced technology for their own use.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "black-holes",
+      "name": "Black holes",
+      "kind": "cosmology",
+      "aliases": [
+        "black hole",
+        "black holes"
+      ]
+    },
+    {
+      "id": "natural-portals",
+      "name": "Natural and artificial portals",
+      "kind": "technology",
+      "aliases": [
+        "portals",
+        "natural portals",
+        "wormholes"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": []
+}

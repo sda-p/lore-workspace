@@ -1,0 +1,83 @@
+{
+  "source_id": "src-5729c216ecd6",
+  "snapshot_sha256": "a9dbbfc7e1ea11fc137cb99608c2be005a2178c10b0f43192b0be9838e45563e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5729c216ecd6-c01",
+      "assertion": "Anéeka says human and extraterrestrial identities lack clear boundaries; human-like beings enter by immersion or physically.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5729c216ecd6-c02",
+      "assertion": "She describes Earth as Federation-isolated to preserve a difficult, chaotic experience for participants.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5729c216ecd6-c03",
+      "assertion": "Anéeka links Earth’s forgetting veil to frequency incompatibility between collective consciousness and Source.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5729c216ecd6-c04",
+      "assertion": "She says nonhuman visitors have long exchanged customs, technology, art, and fashions with Earth cultures.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical_worldview",
+    "faction_claims"
+  ],
+  "coverage_gaps": [
+    "specific_cultures",
+    "historical_examples"
+  ]
+}

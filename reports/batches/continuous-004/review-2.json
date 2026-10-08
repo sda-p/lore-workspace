@@ -1,0 +1,36 @@
+{
+  "batch_id": "continuous-004",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-2a03cea64461",
+    "src-b19fa5e67d4e",
+    "src-f464788b5aed",
+    "src-f7fa8cbcc686",
+    "src-29a795acd121",
+    "src-83d019014e1d",
+    "src-7f7f62c9391c",
+    "src-45f4bd05a3c4",
+    "src-2d7afe7b34f8",
+    "src-f42b3a460092",
+    "src-878a14191109",
+    "src-c958dacd5a97",
+    "src-48fe90170a55",
+    "src-3dc3867de787",
+    "src-488e913b4ae2",
+    "src-804431552c95",
+    "src-53f4f0661b68",
+    "src-7f4feea64af6",
+    "src-c7db88e53291",
+    "src-9da371319747"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-7f4feea64af6",
+      "claim_id": "src-7f4feea64af6-c03",
+      "problem": "The claim cited a paragraph about negligent non-treatment to support an assertion about ventilator use.",
+      "action": "Reworded the assertion to match the cited allegation that ventilators can injure lungs and that some were modified to cause more harm; removed the unrelated citation.",
+      "paragraph_ids": ["p0008"]
+    }
+  ],
+  "unresolved": []
+}

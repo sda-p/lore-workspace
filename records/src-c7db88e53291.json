@@ -1,0 +1,93 @@
+{
+  "source_id": "src-c7db88e53291",
+  "snapshot_sha256": "6bc025837b46875ffb33b2d9c855aa53ec6b28ab32651288aabffd0f28e80240",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c7db88e53291-c01",
+      "assertion": "Anéeka describes Trump as controlled opposition while acknowledging factional rivalry.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c7db88e53291-c02",
+      "assertion": "She says public figures Gates and Soros front a larger hidden organization.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c7db88e53291-c03",
+      "assertion": "Anéeka claims neutral ships were leaving Earth at historically high traffic levels.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c7db88e53291-c04",
+      "assertion": "She attributes Mexican COVID-reopening surges to political sabotage against Trump.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c7db88e53291-c05",
+      "assertion": "Anéeka describes Mexican noncompliance with official rules as a positive sign.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

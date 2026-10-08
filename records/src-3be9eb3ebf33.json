@@ -1,0 +1,93 @@
+{
+  "source_id": "src-3be9eb3ebf33",
+  "snapshot_sha256": "3064e1c6e3d464cd27e7574507993922dce405ec7f9adf483421867fbd4374b6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3be9eb3ebf33-c01",
+      "assertion": "Anéeka says Taygetans treat pets as family members and do not abandon them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0034"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3be9eb3ebf33-c02",
+      "assertion": "She lists cats, ferrets, otters, weasels, Moghyay, canines, and big cats among Taygetan pets.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3be9eb3ebf33-c03",
+      "assertion": "Anéeka says prolific Moghyay raid food supplies and can be temporarily deterred with sound.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3be9eb3ebf33-c04",
+      "assertion": "She says shipboard pets receive hormonal drops that suppress reproduction.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3be9eb3ebf33-c05",
+      "assertion": "Anéeka says ship green areas support food planting and house pets.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

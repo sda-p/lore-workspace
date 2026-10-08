@@ -1,0 +1,110 @@
+{
+  "source_id": "src-f5d41171c3d6",
+  "snapshot_sha256": "f657ad533a8d4c05c2687dd359fc9cdb3aa2e955dd2b991f7dd80aaa9b1ea7ed",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f5d41171c3d6-c01",
+      "assertion": "Anéeka says a discharge from submerged Zero Point reactors may have caused Flight 19’s magnetic anomaly.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She calls this the most likely explanation."
+    },
+    {
+      "id": "src-f5d41171c3d6-c02",
+      "assertion": "She says two groups of Avenger aircraft were found in Florida and the Bahamas, with matching serials that exclude Flight 19.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5d41171c3d6-c03",
+      "assertion": "She theorizes timeline convergence could account for duplicate aircraft.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5d41171c3d6-c04",
+      "assertion": "She cites a decades-old distress call received by a modern ship as temporal displacement.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5d41171c3d6-c05",
+      "assertion": "She describes an artificial underwater portal south of Yemen as a route for moving cargo.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "natural-portals",
+      "name": "Natural and artificial portals",
+      "kind": "technology",
+      "aliases": [
+        "portals",
+        "natural portals",
+        "wormholes"
+      ]
+    }
+  ],
+  "review_flags": [
+    "extraordinary_history_claims"
+  ],
+  "coverage_gaps": []
+}

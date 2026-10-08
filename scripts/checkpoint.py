@@ -17,6 +17,7 @@ parser=argparse.ArgumentParser()
 sub=parser.add_subparsers(dest='command',required=True)
 lister=sub.add_parser('list')
 lister.add_argument('--changed',action='store_true')
+lister.add_argument('--summary',action='store_true')
 reader=sub.add_parser('read')
 reader.add_argument('--path',required=True)
 reader.add_argument('--offset',type=int,default=0)
@@ -42,7 +43,13 @@ if args.command=='list':
         files.append({'path':name,'characters':len(content)})
     parent=subprocess.run(['git','rev-parse','HEAD'],cwd=ROOT,capture_output=True,text=True,check=True).stdout.strip()
     tree=subprocess.run(['git','rev-parse','HEAD^{tree}'],cwd=ROOT,capture_output=True,text=True,check=True).stdout.strip()
-    print(json.dumps({'parent_sha':parent,'base_tree_sha':tree,'files':files}))
+    metadata={'parent_sha':parent,'base_tree_sha':tree,'files':files}
+    if args.summary:
+        value=json.dumps(metadata)
+        (SNAPSHOT/'.checkpoint-index.json').write_text(value,encoding='utf-8')
+        print(json.dumps({'parent_sha':parent,'base_tree_sha':tree,'file_count':len(files),'index_characters':len(value),'total_characters':sum(f['characters'] for f in files)}))
+    else:
+        print(json.dumps(metadata))
 else:
     path=(SNAPSHOT/args.path).resolve()
     if not path.is_relative_to(SNAPSHOT.resolve()): raise ValueError('Invalid snapshot path')

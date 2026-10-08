@@ -1,0 +1,115 @@
+{
+  "source_id": "src-1ffb05bafb88",
+  "snapshot_sha256": "2c06c0c17f602f8d643f86c1ac565cf665dd136ef13f23d8ea8c8b124ac7220d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1ffb05bafb88-c01",
+      "assertion": "Anéeka says recently placed Earth monoliths are human-made fakes, unlike the natural rectangular forms she describes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0012"
+      ],
+      "primary_topic": "monoliths",
+      "topics": [
+        "monoliths"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ffb05bafb88-c02",
+      "assertion": "She describes real monoliths as solid portal counterparts, with Yazhi calling them natural features of universal consciousness.",
+      "speaker": "Anéeka and Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0032",
+        "p0033",
+        "p0060",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "monoliths",
+      "topics": [
+        "monoliths"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ffb05bafb88-c03",
+      "assertion": "Anéeka says true monoliths create strong gravitational vortices and cannot be moved by ordinary force.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "monoliths",
+      "topics": [
+        "monoliths"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ffb05bafb88-c04",
+      "assertion": "She gives true monoliths proportions of 9:4:2 and says the smallest reported are three meters tall.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0044",
+        "p0045",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "monoliths",
+      "topics": [
+        "monoliths"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1ffb05bafb88-c05",
+      "assertion": "She names examples near Jupiter and Ceres, and says monoliths may appear or disappear.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0050",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "monoliths",
+      "topics": [
+        "monoliths"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "monoliths",
+      "name": "Monoliths",
+      "kind": "technology",
+      "aliases": [
+        "solid portals"
+      ]
+    }
+  ],
+  "review_flags": [
+    "speaker_shift_anekea_to_yazhi"
+  ],
+  "coverage_gaps": []
+}

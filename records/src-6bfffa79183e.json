@@ -1,0 +1,133 @@
+{
+  "source_id": "src-6bfffa79183e",
+  "snapshot_sha256": "99060dac087ea412ec729a87b8f7b5aa618d195340a56777bf27521d942fbc92",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6bfffa79183e-c01",
+      "assertion": "Swaruu says a multi-race Federation consortium built pyramids, with Taygetan participation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bfffa79183e-c02",
+      "assertion": "Swaruu describes pyramids as zero-point generators supplying wireless planetary power.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bfffa79183e-c03",
+      "assertion": "Swaruu says pyramids amplify consciousness for astral travel and interstellar projection.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0044",
+        "p0051"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bfffa79183e-c04",
+      "assertion": "Swaruu says antigravity, sound levitation, cranes, and internal ramps aided construction.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bfffa79183e-c05",
+      "assertion": "Swaruu says ley-line pyramid arrays can influence planetary frequencies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0047"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bfffa79183e-c06",
+      "assertion": "Swaruu says pyramid laborers volunteered and were not enslaved.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0024"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bfffa79183e-c07",
+      "assertion": "Swaruu says Giza pyramids are inactive after removal of key components.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conflicting_primary_purpose_claims"
+  ],
+  "coverage_gaps": [
+    "construction_dates",
+    "regional_pyramid_variants"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "source_id": "src-a239fe40637d",
+  "snapshot_sha256": "aba48d6d0d7d7d7925a7b23c6b1331c61aa5809b5b42a3326b8cab610b4a0a85",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a239fe40637d-c01",
+      "assertion": "Anéeka says small Grays are the main abductors, acting as biological gardeners for other races.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a239fe40637d-c02",
+      "assertion": "She lists genetic work, medical intervention, implants, and contracted missions among abduction motives.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a239fe40637d-c03",
+      "assertion": "She says Gray procedures may induce coma and use frequencies to impair memory formation or movement.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a239fe40637d-c04",
+      "assertion": "She says some military abductions involve terrestrial forces, with or without nonhuman cooperation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a239fe40637d-c05",
+      "assertion": "She describes implants as collecting location, habit, and health data.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0040",
+        "p0042",
+        "p0058"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a239fe40637d-c06",
+      "assertion": "She says Taygetans rarely use abductors because their own medical technology is advanced.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0068",
+        "p0069",
+        "p0071"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "abduction-motives",
+    "gray-species-details"
+  ]
+}

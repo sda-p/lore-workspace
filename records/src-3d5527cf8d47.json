@@ -1,0 +1,95 @@
+{
+  "source_id": "src-3d5527cf8d47",
+  "snapshot_sha256": "45d937900dfd3402e08c35119112d312ddeac71581b589d2fa5478fa774f4437",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3d5527cf8d47-c01",
+      "assertion": "Yázhi says slowing perceived time through trance shifts one into another density.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3d5527cf8d47-c02",
+      "assertion": "She describes teleportation as trance, destination focus, and perceived relocation.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0046",
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3d5527cf8d47-c03",
+      "assertion": "Yázhi says teleportation requires deep meditation, a further trance-like shift, and detailed destination visualization.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0074",
+        "p0078",
+        "p0079"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3d5527cf8d47-c04",
+      "assertion": "She reports teleportation drains her body, especially when carrying cargo.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0084",
+        "p0086"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3d5527cf8d47-c05",
+      "assertion": "Yázhi says teleportation is instantaneous frequency management, like starship travel.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0089",
+        "p0090"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

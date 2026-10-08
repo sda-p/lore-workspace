@@ -1,0 +1,117 @@
+{
+  "source_id": "src-fc319f4029d5",
+  "snapshot_sha256": "9d96bc7c386b5dbba3273cfb38af5efd4ad59354db192d83a6502cd292d69cd2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fc319f4029d5-c01",
+      "assertion": "Anéeka says Taygetan orphans live in functional custom houses with safety features.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc319f4029d5-c02",
+      "assertion": "She says children learn by play and follow subjects that interest them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc319f4029d5-c03",
+      "assertion": "She reports her orbital ship was 425.2 km above Earth, moving semi-equatorially at 7.6 km/s.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc319f4029d5-c04",
+      "assertion": "Anéeka says Taygetan starseed frequency monitoring uses aura spectroscopy and may combine implant data.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0054",
+        "p0055",
+        "p0056"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc319f4029d5-c05",
+      "assertion": "She says the Federation permits humans to initiate social change but may stop outsiders doing the work for them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0057",
+        "p0058",
+        "p0060"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc319f4029d5-c06",
+      "assertion": "She says learning difficulties often arise from poor motivation or imposed, uninteresting study.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "daily-life-details",
+    "personal-biography"
+  ]
+}

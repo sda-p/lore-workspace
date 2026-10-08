@@ -1,0 +1,111 @@
+{
+  "source_id": "src-77b565b0b608",
+  "snapshot_sha256": "464ef11c4e3cb7488c284f6c090c624fc4cf1bf98e39f32625af92fe6dec43f4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-77b565b0b608-c01",
+      "assertion": "Yazhi says suicidal crises can arise when physical or psychological pain feels intolerable.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77b565b0b608-c02",
+      "assertion": "Swaruu says distress can change and recommends addressing problems while embodied.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77b565b0b608-c03",
+      "assertion": "Yazhi says personal identity persists after death.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77b565b0b608-c04",
+      "assertion": "Swaruu describes reincarnation as a repeated challenge or life-loop after suicide.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77b565b0b608-c05",
+      "assertion": "Swaruu says Matrix beliefs can perpetuate reincarnation without direct archon intervention.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77b565b0b608-c06",
+      "assertion": "Swaruu says fear and forgetfulness shape the 3D experience.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "spiritual_afterlife_claims_unverified",
+    "archon_interference_qualification"
+  ],
+  "coverage_gaps": []
+}

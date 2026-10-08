@@ -10,7 +10,8 @@
       "paragraph_ids": [
         "p0002",
         "p0003",
-        "p0004"
+        "p0004",
+        "p0008"
       ],
       "primary_topic": "tiamat",
       "topics": [
@@ -78,9 +79,9 @@
         "p0032",
         "p0033"
       ],
-      "primary_topic": "lyrian-expansion",
+      "primary_topic": "lyran-expansion",
       "topics": [
-        "lyrian-expansion"
+        "lyran-expansion"
       ],
       "modality": "asserted",
       "confidence": "high",

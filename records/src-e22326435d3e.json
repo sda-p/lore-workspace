@@ -1,0 +1,100 @@
+{
+  "source_id": "src-e22326435d3e",
+  "snapshot_sha256": "905b8c3f7e34cdb008624784dffdfb7d3bff8b92b788f8e4ac7679fce5c2c5a8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e22326435d3e-c01",
+      "assertion": "Anéeka favors mass civil disobedience over demonstrations as a way to challenge rules.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e22326435d3e-c02",
+      "assertion": "She alleges PCR testing is used to build a genetic database and identify starseeds.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e22326435d3e-c03",
+      "assertion": "She claims vaccines are used to impair children’s connection to higher realms.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e22326435d3e-c04",
+      "assertion": "She says people’s missions may be fulfilled through ordinary living or specific assignments.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e22326435d3e-c05",
+      "assertion": "She characterizes starseeds as experienced agents whose cooperation can challenge Cabal control.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-misinformation-claims",
+    "genetic-surveillance-allegations"
+  ],
+  "coverage_gaps": [
+    "PCR-claims",
+    "vaccination-allegations"
+  ]
+}

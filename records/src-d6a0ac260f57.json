@@ -1,0 +1,92 @@
+{
+  "source_id": "src-d6a0ac260f57",
+  "snapshot_sha256": "a4902e780e4b451784da45e41f507feeff70954df06aeccd95045cd97b314d0a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d6a0ac260f57-c01",
+      "assertion": "Anéeka contrasts Swaruu 9 as an adult fighter with Swaruu 12/Yázhi as a child perceived to have an unusually expanded mind.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d6a0ac260f57-c02",
+      "assertion": "Yázhi describes Swaruu 9 as an eighth repeated life cycle of Swaruu 2 with the same background but different choices.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d6a0ac260f57-c03",
+      "assertion": "Yázhi says density corresponds to a soul’s perceptual capacity and varies between individuals.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d6a0ac260f57-c04",
+      "assertion": "Yázhi says time travel cannot alter past events, but may shift the traveler to another timeline.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0056"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d6a0ac260f57-c05",
+      "assertion": "Yázhi describes collective perception agreements as shaping a shared density.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0043",
+        "p0060",
+        "p0065"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

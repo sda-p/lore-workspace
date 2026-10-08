@@ -1,0 +1,96 @@
+{
+  "source_id": "src-ce9c92fd3b4e",
+  "snapshot_sha256": "8682feb1d9a1cd43dd41ff33c45793189070120e5bdea70e637e4bb0def57e0e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ce9c92fd3b4e-c01",
+      "assertion": "Anéeka says Venus remains under regressive control, while Mars is divided among Cabal, Maitre, and Ojalu’s Mantis.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0021"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce9c92fd3b4e-c02",
+      "assertion": "She says Earth’s liberation would free Venus, described as an Earth Cabal colony.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0036",
+        "p0042"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce9c92fd3b4e-c03",
+      "assertion": "Anéeka describes Venus as a low-population water world with a stable, gentle climate.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0033"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce9c92fd3b4e-c04",
+      "assertion": "She says Federation forces classify Venus and Earth as regressive-controlled planets in this sector.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce9c92fd3b4e-c05",
+      "assertion": "Anéeka says peaceful planets relying on high frequency as protection were easily invaded.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_claims",
+    "translated_source"
+  ],
+  "coverage_gaps": [
+    "planetary_roster"
+  ]
+}

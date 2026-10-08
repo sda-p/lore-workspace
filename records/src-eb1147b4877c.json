@@ -1,0 +1,98 @@
+{
+  "source_id": "src-eb1147b4877c",
+  "snapshot_sha256": "a63f85b044bdbbff804f9e0a9f3de400b617141041cb6d650c8abb827bfa89db",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-eb1147b4877c-c01",
+      "assertion": "Swaruu describes entangled particles as harmonic mirrors used in advanced quantum computers.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb1147b4877c-c02",
+      "assertion": "She says Taygetean energy calculations use base twelve and paired harmonic number sets.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0010",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb1147b4877c-c03",
+      "assertion": "Swaruu calls the human brain a quantum computer whose other selves influence personality.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0025",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb1147b4877c-c04",
+      "assertion": "She says mind control can cross timelines, while density changes may weaken its effects.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb1147b4877c-c05",
+      "assertion": "Swaruu says the unified universe exists outside time and is never created or destroyed.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0040",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}

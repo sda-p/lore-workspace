@@ -1,0 +1,118 @@
+{
+  "source_id": "src-ed3d8dd11109",
+  "snapshot_sha256": "b5539d94e2b864191df3b6e5ef6a710e0017c4418a37ee331a14e65d32b9d410",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ed3d8dd11109-c01",
+      "assertion": "Alenym’s crew alleges Federation factions violate nonintervention and free will on Earth.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0004",
+        "p0017",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed3d8dd11109-c02",
+      "assertion": "The crew says the Alcyone Council supports reviewing its evidence before Federation escalation.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed3d8dd11109-c03",
+      "assertion": "Alenym says Federation factions seek centralized government, religion, and currency.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0033",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed3d8dd11109-c04",
+      "assertion": "She alleges secret-society leaders relay Federation orders through deep-state groups to public politicians.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0053",
+        "p0055",
+        "p0057"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed3d8dd11109-c05",
+      "assertion": "Anéeka characterizes Earth’s hidden takeover as a long-running Federation-controlled invasion.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0062"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ed3d8dd11109-c06",
+      "assertion": "Anéeka says Federation intervention may cause conflict and suffering; the crew favors disclosure.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0083",
+        "p0091",
+        "p0095"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "federation-control-claims",
+    "internal-faction-scope"
+  ]
+}

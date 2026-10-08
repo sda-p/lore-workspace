@@ -1,0 +1,95 @@
+{
+  "source_id": "src-f464788b5aed",
+  "snapshot_sha256": "7c2d933de49b1c46b82a9b436ca8854b3ab3258acb0cd6a76afe73e66c6aa9ac",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f464788b5aed-c01",
+      "assertion": "Yazhi says Federation intervention follows collective human preferences, not every individual wish.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0045",
+        "p0046",
+        "p0083"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f464788b5aed-c02",
+      "assertion": "She describes Earth and 5D as experiential games shaped by consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0075"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f464788b5aed-c03",
+      "assertion": "Yazhi says individual and collective perspectives conflict over awakening and intervention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0085",
+        "p0086"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f464788b5aed-c04",
+      "assertion": "She says humans collectively manifest reality through shared perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f464788b5aed-c05",
+      "assertion": "Yazhi says community videos help her learn followers’ expressed wishes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0096",
+        "p0100",
+        "p0102"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "secondary-details"
+  ]
+}
