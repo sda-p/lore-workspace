@@ -1,0 +1,183 @@
+{
+  "batch_id": "continuous-013",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-01318b2e6aaa",
+    "src-039a50ac3015",
+    "src-08eb04ce1eff",
+    "src-0b5cb8b06b54",
+    "src-0df271d4423a",
+    "src-0f16286af0bc",
+    "src-0f3bd493959e",
+    "src-17057e78d90e",
+    "src-1d479f08f57b",
+    "src-1efac2564f96",
+    "src-1fd1145b4a3b",
+    "src-227bccccc470",
+    "src-25d27d7a06ae",
+    "src-29dec782e6b2",
+    "src-2c208260f578",
+    "src-3282c3b2176d",
+    "src-32e031c42dc5",
+    "src-349f835aa3ef",
+    "src-3556f3ec008f",
+    "src-3e85a1ca7a28",
+    "src-3f4799b0281c",
+    "src-42f818598b56",
+    "src-4942a07c7e4f",
+    "src-4c19a3a319ec",
+    "src-4d31d71233c1",
+    "src-4e3d013dc4c3",
+    "src-50c3183fae27",
+    "src-52bbf3ffc87a",
+    "src-54b7fc64a7de",
+    "src-59c43e8ab96d",
+    "src-5d0fdcdc4f0b",
+    "src-5d901fdb8dd5",
+    "src-63fc52c97ef0",
+    "src-65d7f9508cf4",
+    "src-68f35a90f3f7",
+    "src-69ad66e27ca1",
+    "src-6a1113ff029c",
+    "src-6a5223076196",
+    "src-6c81d51e9d7c",
+    "src-7073c15c2ef0",
+    "src-73356320550c",
+    "src-735f991fe169",
+    "src-7872bc2f2c04",
+    "src-78a2f4005f35",
+    "src-7952cde1857a",
+    "src-7ea3539f3fa4",
+    "src-80367dc03fbe",
+    "src-84a31dbc8140",
+    "src-885ec940f20f",
+    "src-8a805d3bcc25",
+    "src-8e490481292c",
+    "src-95838b2a2aa6",
+    "src-96c91cbdd54c",
+    "src-9796515b4099",
+    "src-9fa59ea635de",
+    "src-a0a1d364e89f",
+    "src-a49c04fc44dc",
+    "src-a903c6d50bef",
+    "src-b24a05072ad7",
+    "src-b5edcd5a7e88",
+    "src-b6c6fa839c76",
+    "src-bdb9a554b70c",
+    "src-bfae5ca72b24",
+    "src-ca24d8041f8f",
+    "src-ca26375fb916",
+    "src-cad14862cc58",
+    "src-d704827158b8",
+    "src-d8bcaf4fc008",
+    "src-d91884cf2930",
+    "src-da3eb1da7135",
+    "src-db5d7dcfb7ef",
+    "src-dec0f3455320",
+    "src-ec0774773c92",
+    "src-f3a1e4326731",
+    "src-fa36f5777c7c",
+    "src-fa9d81b6939a",
+    "src-fba00f670b62",
+    "src-fd419788ecbb",
+    "src-fd4806542048",
+    "src-ff97765a8c36"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-3282c3b2176d",
+      "claim_id": "src-3282c3b2176d-c01",
+      "problem": "List citations did not include the explicit reverse-engineering question that frames Dhor’s answer.",
+      "action": "Added the interviewer question passage to the citations.",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0013",
+        "p0025",
+        "p0026",
+        "p0029"
+      ]
+    },
+    {
+      "source_id": "src-dec0f3455320",
+      "claim_id": "src-dec0f3455320-c06",
+      "problem": "Attribution to gardeners alone was ambiguous; cited paragraph first says robotic grays repair the body, while gardener frequency is a reference.",
+      "action": "Generalized attribution to the described gray procedures and preserved both the soul and frequency conditions.",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043"
+      ]
+    },
+    {
+      "source_id": "src-17057e78d90e",
+      "claim_id": "src-17057e78d90e-c02",
+      "problem": "Conflated Atlas-origin “Alantes” with “Atlantes” in a separate answer.",
+      "action": "Separated the Atlas-origin group from the Atlantes she says she has seen.",
+      "paragraph_ids": [
+        "p0009",
+        "p0015",
+        "p0016"
+      ]
+    },
+    {
+      "source_id": "src-29dec782e6b2",
+      "claim_id": "src-29dec782e6b2-c06",
+      "problem": "“Mandated birth control” reverses the source’s explicit statement that no governmental rule exists.",
+      "action": "Clarified that birth control is not government-imposed and is only personal.",
+      "paragraph_ids": [
+        "p0026"
+      ]
+    },
+    {
+      "source_id": "src-0df271d4423a",
+      "claim_id": "src-0df271d4423a-c03",
+      "problem": "“Kilometer-scale shipyards” could imply the shipyards themselves are kilometer-scale; source specifies facilities for building/repairing and docking ships up to a kilometer.",
+      "action": "Rephrased as facilities to build, repair, and dock kilometer-scale ships. Also tightened other phrasing to keep the article at 84 words.",
+      "paragraph_ids": [
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-039a50ac3015",
+      "claim_id": "src-039a50ac3015-c03",
+      "problem": "“Federation biosphere ship” was not supported by the cited passages or the full source; the speaker only identifies the Moon as a damaged, abandoned spherical spacecraft.",
+      "action": "Removed unsupported ownership and biosphere details, retaining its relation to the lunar frequency-control Matrix.",
+      "paragraph_ids": [
+        "p0010",
+        "p0027",
+        "p0029"
+      ]
+    },
+    {
+      "source_id": "src-fd419788ecbb",
+      "claim_id": "src-fd419788ecbb-c05",
+      "problem": "Claim that repairs and supplies are handled onboard overstated source’s qualification that only supplies or isolated repairs may require mothership support.",
+      "action": "Narrowed the statement to rare mothership needs and retained onboard parts replicator.",
+      "paragraph_ids": [
+        "p0040"
+      ]
+    },
+    {
+      "source_id": "src-b5edcd5a7e88",
+      "claim_id": "src-b5edcd5a7e88-c02",
+      "problem": "Claim cited only the first and last items in a multi-factor list, omitting passages that explicitly support food chemicals and electromagnetic radiation.",
+      "action": "Added the missing diet, radiation, and age-of-onset/context passages to citations.",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0025"
+      ]
+    }
+  ],
+  "unresolved": []
+}

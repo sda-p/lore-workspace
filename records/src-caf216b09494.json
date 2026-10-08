@@ -1,0 +1,102 @@
+{
+  "source_id": "src-caf216b09494",
+  "snapshot_sha256": "38bcdca4c6228b4b1ff712d251e1ed8edef9b016a05aa11fa3d1a3afc27e6c14",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-caf216b09494-c01",
+      "assertion": "Swaruu describes two Earth civilizations: a controlled type-0 population and an interstellar society thousands of years advanced, limited by the Federation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-caf216b09494-c02",
+      "assertion": "Controllers withhold escape-enabling technology and exploit humans for energy, food, and labor.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-caf216b09494-c03",
+      "assertion": "She presents controllers as an alliance spanning archons, AI, regressive ETs, Cabal, corporations, and governments.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "archons-and-demons",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-caf216b09494-c04",
+      "assertion": "Human liberation depends on self-development; Swaruu says schooling suppresses creativity and should give way to interest-led learning.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-caf216b09494-c05",
+      "assertion": "She says one all-inclusive Source contains everything, not separate positive and dark sources.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science."
+  ],
+  "coverage_gaps": [
+    "terrestrial-science-claims",
+    "disclosure",
+    "controllers-technology"
+  ]
+}

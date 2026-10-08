@@ -38,10 +38,57 @@ Source: [Space News 21. April 25 2024, Kassia, Etorthans, Greys, Toleka, Asterop
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-b4123d146ba9-c05
+
+She distinguishes benevolent Grey Gardeners repairing genetics from robotic Grey imitations supervised by other factions.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [BioGenetica Trans-Dimensional: Swaruu Mujer Extraterrestre de Pleyades (Taygeta) \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/biogenetica-trans-dimensional-swaruu-mujer-extraterrestre-de-pleyades-taygeta) (2018-08-14; es); passages p0029, p0030, p0031, p0032, p0033. [Structured record](../../records/src-b4123d146ba9.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-dec0f3455320-c05
+
+She distinguishes benevolent gray gardeners from robots supervised by Mantis or Reptilian beings.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Biogenética trans-dimensional. Secretos - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/biogenetica-trans-dimensional-secretos-swaruu-sistema-taygeta-pleyades) (2018-07-24; es); passages p0040, p0041. [Structured record](../../records/src-dec0f3455320.json).
+
+### src-dec0f3455320-c06
+
+She describes gray DNA repair as matching an occupant’s soul and gardeners’ frequency.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Biogenética trans-dimensional. Secretos - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/biogenetica-trans-dimensional-secretos-swaruu-sistema-taygeta-pleyades) (2018-07-24; es); passages p0041, p0042, p0043. [Structured record](../../records/src-dec0f3455320.json).
+
+### src-42f818598b56-c05
+
+Zeta Reticuli Grays are positive gardeners; Orion Maitré are distinct and linked to Reptiles.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [Nosotras Somos las Chicas de Sociedad Vril: Mensaje Pleyadiano (Rashell de Temmer)](https://swaruu.org/transcripts/nosotras-somos-las-chicas-de-sociedad-vril-mensaje-pleyadiano-rashell-de-temmer) (2019-01-24; es); passages p0033, p0035, p0036. [Structured record](../../records/src-42f818598b56.json).
+
+### src-74c032374fff-c03
+
+Asket says most captured craft belong to small Grey Gardeners, were downed by new energy weapons, and could permit reverse engineering.
+
+Attributed to **Asket, relayed by article narrator**; reported; extraction confidence: high.
+
+Source: [2019 - EL CABALLERO NEGRO - LOS ANUNNAKI - CONTACTO EXTRATERRESTRE](https://swaruu.org/transcripts/2019-el-caballero-negro-los-anunnaki-contacto-extraterrestre) (2019-01-10; es); passages p0018. [Structured record](../../records/src-74c032374fff.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-03651da1738e-c02](orion-grays.md#src-03651da1738e-c02) — Orion Grays
+- [src-a6f1977b24ac-c06](alien-species.md#src-a6f1977b24ac-c06) — Alien species and distinctions
 
 ## Review flags
 
+- Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
+- claims-attributed-to-source-narrators
 - factional-threat-interpretation-attributed-to-urmah

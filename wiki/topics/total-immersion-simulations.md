@@ -108,16 +108,38 @@ Source: [BLAST FROM THE PAST - "You are in a Taygetan Immersion" - Does Cosmic I
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-b4123d146ba9-c03
+
+Swaruu 9 says frequency containers simulate separate sensory lives for captives; she estimates over 100,000 underground.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BioGenetica Trans-Dimensional: Swaruu Mujer Extraterrestre de Pleyades (Taygeta) \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/biogenetica-trans-dimensional-swaruu-mujer-extraterrestre-de-pleyades-taygeta) (2018-08-14; es); passages p0072, p0074, p0076, p0082, p0084, p0092. [Structured record](../../records/src-b4123d146ba9.json).
+
+Related topics: [Human clones and manufactured persons](human-clones.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a0a1d364e89f-c05
+
+Full-immersion technology is computerized virtual reality allowing nonhumans to appear and function as humans for missions.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-quienes-somos-1) (2018-05-28; es); passages p0031, p0032, p0033. [Structured record](../../records/src-a0a1d364e89f.json).
+
 ## Claims filed under other topics
 
 - [src-03ea45d7d724-c03](spherical-drones.md#src-03ea45d7d724-c03) — Spherical drones
 - [src-f4085f32044d-c04](taygetans.md#src-f4085f32044d-c04) — Taygetans
 - [src-69ad8dca8c41-c05](taygetans.md#src-69ad8dca8c41-c05) — Taygetans
+- [src-a49c04fc44dc-c01](genetic-weapons.md#src-a49c04fc44dc-c01) — Genetic weapons
 
 ## Review flags
 
 - Alenym-attack-culprit-unknown
+- Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- claims-attributed-to-source-narrators
+- clone-technology-attributed
 - genetic-weapon-causation-speculative
 - technology-described-by-mari
 - technology-description-unverified

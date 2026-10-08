@@ -1,0 +1,62 @@
+{
+  "source_id": "src-51b930d00866",
+  "snapshot_sha256": "a2fb4776fd4f447ecd3cdfa344ba3adc63c8d65e8d56a8b22b88d032be933d12",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-51b930d00866-c01",
+      "assertion": "Yazhi says Alpha Draconis created the Orion Council, which coordinated a Reptilian invasion of Vega, Avalon, and Lyra; peaceful Lyrians fled and spread across the galaxy.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "lyran-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-51b930d00866-c02",
+      "assertion": "She says the Federation formed about 900,000 Earth years ago as a mutual-defense alliance after Reptilian attacks pushed many species toward extinction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-wars"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is an approximate Earth chronology."
+    },
+    {
+      "id": "src-51b930d00866-c03",
+      "assertion": "About 40,000 years ago, Yazhi says Lyrians settled an unusual 13-planet solar system that already hosted developing civilizations, including Earth; they coexisted peacefully.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The chronology is approximate."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "sol-13-and-earth-3-designations",
+    "species-morphological-bases"
+  ]
+}

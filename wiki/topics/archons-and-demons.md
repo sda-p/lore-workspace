@@ -296,6 +296,36 @@ Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
 
 Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (English)](https://swaruu.org/transcripts/space-news-51-what-is-up-with-taygetans-my-youtube-channel-and-me-english) (2024-11-16; en); passages p0007, p0008. [Structured record](../../records/src-6313385e14d2.json).
 
+### src-885ec940f20f-c04
+
+She identifies Earth’s oppressing archon group as chiefly Usungal, Usungal Naga, Draco, Kingu, and Anunnaki.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Contacto Extraterrestre Pleyadiano - Estrella Taygeta -Anéeka de Temmer - Las Pleyades](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-estrella-taygeta-aneeka-de-temmer-las-pleyades) (2018-11-22; es); passages p0040, p0041. [Structured record](../../records/src-885ec940f20f.json).
+
+Related topics: [Kingu](kingu.md), [Alien species and distinctions](alien-species.md).
+
+### src-46fa49e664e1-c01
+
+Swaruu uses Archon broadly for exploitative species, mostly fourth-density etheric animals but including advanced technological races. Her taxonomy.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [ARCONTES - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/arcontes-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-28; es); passages p0012, p0017. [Structured record](../../records/src-46fa49e664e1.json).
+
+Related topics: [Interdimensional parasites](interdimensional-parasites.md).
+
+### src-46fa49e664e1-c02
+
+She says Archons manipulate desires to harvest mental energy and make people manifest a 3D world benefiting them. Her account.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [ARCONTES - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/arcontes-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-28; es); passages p0020. [Structured record](../../records/src-46fa49e664e1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bc84d0e92778-c03](consciousness-metaphysics.md#src-bc84d0e92778-c03) — Consciousness and metaphysics
@@ -316,22 +346,41 @@ Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (
 - [src-9947bada3803-c04](astral-military-units.md#src-9947bada3803-c04) — Astral military units
 - [src-6abed4268d57-c04](natural-portals.md#src-6abed4268d57-c04) — Natural and artificial portals
 - [src-6abed4268d57-c05](natural-portals.md#src-6abed4268d57-c05) — Natural and artificial portals
+- [src-01318b2e6aaa-c02](artificial-intelligence.md#src-01318b2e6aaa-c02) — Artificial intelligence
+- [src-63234070a0cd-c02](postmortem-realities.md#src-63234070a0cd-c02) — Postmortem realities
+- [src-ff97765a8c36-c03](alien-species.md#src-ff97765a8c36-c03) — Alien species and distinctions
+- [src-b4123d146ba9-c02](genetic-weapons.md#src-b4123d146ba9-c02) — Genetic weapons
+- [src-e260e25670b5-c02](postmortem-realities.md#src-e260e25670b5-c02) — Postmortem realities
+- [src-4e3d013dc4c3-c02](perceptual-density.md#src-4e3d013dc4c3-c02) — Perceptual density
+- [src-0f3bd493959e-c03](postmortem-realities.md#src-0f3bd493959e-c03) — Postmortem realities
+- [src-caf216b09494-c03](earth-cabal.md#src-caf216b09494-c03) — Earth Cabal and power structures
+- [src-35a4804aef6f-c03](postmortem-realities.md#src-35a4804aef6f-c03) — Postmortem realities
 
 ## Review flags
 
 - Claims describe Mari’s spiritual model of the Federation and reincarnation
+- Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
+- afterlife-model-attributed
+- archon-scope-is-broad
 - astral-perception-and-protection-claims
 - astral-warfare-claims-unverified
+- attributed-reproductive-lore
+- claims-attributed-to-source-narrators
 - conspiracy-claims
+- discriminatory-sexuality-theory-attributed-to-speaker
+- english-counterpart-adds-july-2020-suicide-discussion
 - entertainment-disclaimer
 - extraordinary-cosmology-claims
 - family-dynamics-generalization
 - historical-allegations
+- historical-doctrine-origin-claim
+- lunar-artificial-structure-claims-attributed
 - metaphysical-claims\_attributed
 - metaphysical-model
 - portal-technology-claims-unverified
 - post-eclipse-causal-attribution
+- translation-counterpart-src-77b565b0b608-shared-2018-section
 - unverified-astral-causation
 - unverified-current-events

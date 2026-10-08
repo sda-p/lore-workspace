@@ -62,6 +62,11 @@ class ReviewGateTests(unittest.TestCase):
             for name,value in fixtures.items():
                 path=root/name;path.parent.mkdir(parents=True,exist_ok=True);path.write_text(json.dumps(value))
             result=subprocess.run([sys.executable,'scripts/continuous.py','integrate','--batch','test-batch','--cache','cache'],cwd=root,capture_output=True,text=True)
+            self.assertNotEqual(result.returncode,0)
+            self.assertIn('unreleased sources',result.stderr)
+            self.assertEqual(json.loads((root/'work/ledger.json').read_text())['jobs'][sid]['status'],'running')
+            marker=root/f'work/completed/{sid}.json';marker.parent.mkdir(parents=True,exist_ok=True);marker.write_text(json.dumps({'source_id':sid}))
+            result=subprocess.run([sys.executable,'scripts/continuous.py','integrate','--batch','test-batch','--cache','cache'],cwd=root,capture_output=True,text=True)
             self.assertEqual(result.returncode,0,result.stderr)
             variant=json.loads((root/f'reports/topic-variants/{sid}.json').read_text())[0]
             self.assertEqual(variant['proposed'],proposed)
@@ -89,6 +94,19 @@ class ReviewGateTests(unittest.TestCase):
             self.assertNotEqual(result.returncode,0)
             self.assertIn('unique array',result.stderr)
             self.assertEqual((root/'work/ledger.json').read_bytes(),before)
+
+    def test_release_helper_rejects_existing_marker_without_rewriting(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory);(root/'scripts').mkdir()
+            for name in ('lore.py','continuous.py'):
+                shutil.copyfile(ROOT/'scripts'/name,root/'scripts'/name)
+            sid='src-123456789abc';marker=root/f'work/completed/{sid}.json'
+            marker.parent.mkdir(parents=True);marker.write_text('{"original":"release"}')
+            before=marker.read_bytes()
+            result=subprocess.run([sys.executable,'scripts/continuous.py','extracted','--source',sid],cwd=root,capture_output=True,text=True)
+            self.assertNotEqual(result.returncode,0)
+            self.assertIn('already released',result.stderr)
+            self.assertEqual(marker.read_bytes(),before)
 
 if __name__=='__main__':
     unittest.main()

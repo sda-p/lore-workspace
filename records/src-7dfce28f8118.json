@@ -1,0 +1,80 @@
+{
+  "source_id": "src-7dfce28f8118",
+  "snapshot_sha256": "359c2ce874c390f16912b12c505cee23a30e08a8521c1a7c21dbe36755610782",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7dfce28f8118-c01",
+      "assertion": "Anéeka describes Betelgeuse as a stable, inhabited region and ship-transit portal node, with no imminent stellar explosion.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "betelgeuse",
+      "topics": [
+        "betelgeuse",
+        "stellar-navigation",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Surrounding zone described as inhabited."
+    },
+    {
+      "id": "src-7dfce28f8118-c02",
+      "assertion": "Anéeka says fast, high-frequency gravitational arms strike visible matter arms, producing waves that temporarily raise Earth's frequency and weaken its Van Allen belts.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Frequency later subsides."
+    },
+    {
+      "id": "src-7dfce28f8118-c03",
+      "assertion": "Anéeka says solar spots are predictable ship portals; Swaruu links spot-triggering flares to galactic waves.",
+      "speaker": "Anéeka and Swaruu (9)",
+      "paragraph_ids": [
+        "p0023",
+        "p0040",
+        "p0042"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Swaruu says the Sun then had no spots or portals."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "betelgeuse",
+      "name": "Betelgeuse",
+      "kind": "location",
+      "aliases": [
+        "Alpha Orionis"
+      ]
+    }
+  ],
+  "review_flags": [
+    "starspot-portal-model-spans-two-speakers"
+  ],
+  "coverage_gaps": [
+    "solar-and-galactic-energy-model",
+    "consciousness-scale-from-cell-to-star"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "source_id": "src-10d0756497ac",
+  "snapshot_sha256": "7777fd743b292de64ee9952eab3d5a5d458151a552658df955095991ce469803",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-10d0756497ac-c01",
+      "assertion": "Anéeka calls small greys “gardeners,” saying they are major abductors who work on planetary biology.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10d0756497ac-c02",
+      "assertion": "She says other races contract grey teams for abductions, offering supplies, bases, or technology cooperation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10d0756497ac-c03",
+      "assertion": "Anéeka says grey crews use brainwave frequencies to induce sleep, paralysis, and impaired memory formation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Memory suppression is described as imperfect."
+    },
+    {
+      "id": "src-10d0756497ac-c04",
+      "assertion": "She says implanted trackers collect location, habits, and biometric data, often across repeated abductions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0043",
+        "p0047",
+        "p0054",
+        "p0056",
+        "p0058"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10d0756497ac-c05",
+      "assertion": "Anéeka says abductions can study or repair biology for life plans; advanced Taygeta usually needs no gardener assistance.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0062",
+        "p0063",
+        "p0073"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "grey-gardeners",
+      "name": "Grey gardeners",
+      "kind": "species group",
+      "aliases": [
+        "small greys",
+        "gardeners"
+      ]
+    }
+  ],
+  "review_flags": [
+    "abduction-motive-varies",
+    "memory-suppression-imperfect"
+  ],
+  "coverage_gaps": [
+    "milab-operations",
+    "grey-biology",
+    "astral-abductions"
+  ]
+}

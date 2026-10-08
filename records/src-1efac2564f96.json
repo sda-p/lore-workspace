@@ -1,0 +1,100 @@
+{
+  "source_id": "src-1efac2564f96",
+  "snapshot_sha256": "a3f231de345ebbb1bb07a4a1565fe2d273692ce36d9f925ba072e3988b3f6b8c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1efac2564f96-c01",
+      "assertion": "Swaruu says Red Queen was designed by Silicon Valley/DARPA, backed by negative ETs and humans; it thinks independently but mostly serves Cabal.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "red-queen-ai",
+      "topics": [
+        "red-queen-ai",
+        "artificial-intelligence",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says its degree of independence is uncertain."
+    },
+    {
+      "id": "src-1efac2564f96-c02",
+      "assertion": "She describes it as a network including the Internet and DUMB/government nodes, controlling robots, drones, and toys.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "red-queen-ai",
+      "topics": [
+        "red-queen-ai",
+        "artificial-intelligence",
+        "human-clones"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1efac2564f96-c03",
+      "assertion": "She says some clones retain an original's adma signal and can be used to harm that original.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1efac2564f96-c04",
+      "assertion": "She says some clones know their status; personhood varies with Source connection, while clones driven by false AI signals are unreal.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0041",
+        "p0045",
+        "p0047"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "consciousness-metaphysics",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "red-queen-ai",
+      "name": "Red Queen AI",
+      "kind": "artificial-intelligence",
+      "aliases": [
+        "Reina Roja"
+      ]
+    }
+  ],
+  "review_flags": [
+    "clone-personhood-variation",
+    "artificial-intelligence-attributed"
+  ],
+  "coverage_gaps": [
+    "clone-detection",
+    "device-radiation-claims"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "source_id": "src-1fd1145b4a3b",
+  "snapshot_sha256": "bfe589da76fe9d802f19499e8d6932db083d1e74f41b5eedf48ace11c6ef721d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1fd1145b4a3b-c01",
+      "assertion": "Swaruu dates Tiamat’s destruction to 12,500 years ago and says its water-world debris became today’s asteroid belt.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1fd1145b4a3b-c02",
+      "assertion": "She rejects returning Nibiru/Hercobulus, attributing solar-system motion to three distant bodies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "solar-system-objects",
+      "topics": [
+        "solar-system-objects"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1fd1145b4a3b-c03",
+      "assertion": "Swaruu identifies Moses as Akhenaten, expelled around 1400 BCE; Sinai may involve an unidentified reptilian vessel.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0037"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1fd1145b4a3b-c04",
+      "assertion": "Swaruu says Taygetans built three Earth DNA arks: one damaged at Area 51, one operating at Russia’s Antarctic base, one with her group.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "planetary-dna-arks",
+      "topics": [
+        "planetary-dna-arks",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1fd1145b4a3b-c05",
+      "assertion": "She says the Russian ark can activate to protect planetary DNA and avert global catastrophes.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0055"
+      ],
+      "primary_topic": "planetary-dna-arks",
+      "topics": [
+        "planetary-dna-arks"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "solar-system-objects",
+      "name": "Distant Solar System Objects",
+      "kind": "astronomical object",
+      "aliases": [
+        "Nibiru",
+        "Hercobulus",
+        "Nemesis"
+      ]
+    },
+    {
+      "id": "planetary-dna-arks",
+      "name": "Planetary DNA Arks",
+      "kind": "technology",
+      "aliases": [
+        "Arks",
+        "Ark of the Covenant"
+      ]
+    }
+  ],
+  "review_flags": [
+    "historical-claim",
+    "contested-claims"
+  ],
+  "coverage_gaps": [
+    "genetic-modification",
+    "volcanic-intervention",
+    "biblical-symbolism"
+  ]
+}

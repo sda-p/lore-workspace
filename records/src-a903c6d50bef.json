@@ -1,0 +1,101 @@
+{
+  "source_id": "src-a903c6d50bef",
+  "snapshot_sha256": "bfe670e1caa3ddaec7ed0d758cd2e6a364ee862eb3263639916ebce59d239885",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a903c6d50bef-c01",
+      "assertion": "Anéeka says two aircraft caused Argentina and Uruguay’s blackout; a Black Knight intercepted them and downed one.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a903c6d50bef-c02",
+      "assertion": "Swaruu alleges a Growler caused the blackout by EMP; TR3Bs were decoys, while EA-6B reports are disputed.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a903c6d50bef-c03",
+      "assertion": "She frames blackouts as chaos tactics tied to planned agendas, linking Argentina’s event to vaccination and economic collapse.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a903c6d50bef-c04",
+      "assertion": "Swaruu describes the Cabal as including reptiles, Maitre and archons; Illuminati form its human elite tier.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a903c6d50bef-c05",
+      "assertion": "She distinguishes reptile-created Kingu servants from humans, whom she says are separately treated as livestock.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "aircraft-identity-ambiguity",
+    "conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "black-hat-claims",
+    "religious-codes",
+    "solution-proposal"
+  ]
+}

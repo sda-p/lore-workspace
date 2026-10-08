@@ -1,0 +1,90 @@
+{
+  "source_id": "src-36f2904b7eee",
+  "snapshot_sha256": "286b17762aad51b92fd906c1ec6e1a181697cce650736a6dc19ea78b90d4bc6e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-36f2904b7eee-c01",
+      "assertion": "Swaruu (9) says shared perception agreements create collective timelines; each person may experience a distinct branch.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0042",
+        "p0048",
+        "p0052"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36f2904b7eee-c02",
+      "assertion": "She lists four possible futures: tighter controls, economic collapse, partial Cabal removal, or extraterrestrial intervention.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says these were possible outcomes, with the first then seeming most likely."
+    },
+    {
+      "id": "src-36f2904b7eee-c03",
+      "assertion": "Swaruu urges collective focus and meditation, claiming they shape reality through shared perception.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0019",
+        "p0023",
+        "p0024",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36f2904b7eee-c04",
+      "assertion": "She says dominant collective frequencies can overwhelm individuals, who may resist through focused attention and supportive ties.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0102",
+        "p0103",
+        "p0105",
+        "p0107"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "dated-pandemic-scenario-predictions",
+    "timeline-branching-claims"
+  ],
+  "coverage_gaps": [
+    "intervention-impacts",
+    "regional-examples"
+  ]
+}

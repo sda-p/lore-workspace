@@ -88,6 +88,8 @@ def integrate(batch,cache):
     active=set(cohort.get('active_source_ids',cohort['source_ids']))
     if errors or not active<=approved:
         raise ValueError('Independent review reports incomplete or blocked; shared ledger unchanged')
+    if any(not (ROOT/f'work/completed/{sid}.json').exists() for sid in active):
+        raise ValueError('Completed review contains unreleased sources; shared ledger unchanged')
     for sid in cohort.get('active_source_ids',cohort['source_ids']):
         try:
             if sid not in approved: raise ValueError('Independent review incomplete or blocked')
@@ -138,12 +140,22 @@ def progress():
 
 def extracted(sid,cache):
     if not re.fullmatch(r'src-[a-f0-9]{12}',sid): raise ValueError('Invalid source ID')
+    marker=ROOT/f'work/completed/{sid}.json'
+    if marker.exists():
+        raise ValueError('Source already released; do not rewrite its marker or record. Route corrections to its assigned reviewer.')
     record=lore.read(ROOT/f'records/{sid}.json')
     snapshot=lore.read(Path(cache)/f'{sid}.json')
     topics={t['id']:t for t in lore.read(ROOT/'config/topics.json')}
     result=lore.validate_record(record,snapshot,topics)
-    lore.write(ROOT/f'work/completed/{sid}.json',{'source_id':sid,'completed_at':lore.now(),'record_sha256':lore.sha(__import__('json').dumps(record,sort_keys=True,ensure_ascii=False)),**result})
+    lore.write(marker,{'source_id':sid,'completed_at':lore.now(),'record_sha256':lore.sha(__import__('json').dumps(record,sort_keys=True,ensure_ascii=False)),**result})
     print(sid,'ready for independent review')
+
+def shard_progress(batch,worker):
+    ids=lore.read(ROOT/f'work/batches/{batch}/worker-{worker}.json')['source_ids']
+    released=[sid for sid in ids if (ROOT/f'work/completed/{sid}.json').exists() and (ROOT/f'records/{sid}.json').exists()]
+    records=[lore.read(ROOT/f'records/{sid}.json') for sid in released]
+    budgets=[sum(len((c['assertion']+' '+c['qualifiers']).split()) for c in record['claims']) for record in records]
+    print(__import__('json').dumps({'observed_at':lore.now(),'batch_id':batch,'worker':worker,'assigned_records':len(ids),'released_records':len(released),'claims_in_released_records':sum(len(r['claims']) for r in records),'assertion_qualifier_words':sum(budgets),'maximum_article_words':max(budgets,default=0),'unreleased_source_ids':[sid for sid in ids if sid not in released]}))
 
 def wait_ready(batch,reviewer,excluded):
     assigned=lore.read(ROOT/f'work/batches/{batch}/review-{reviewer}.json')['source_ids']
@@ -161,11 +173,13 @@ r=sub.add_parser('ready'); r.add_argument('--batch',required=True)
 i=sub.add_parser('integrate'); i.add_argument('--batch',required=True); i.add_argument('--cache',default='../source-cache')
 sub.add_parser('progress')
 e=sub.add_parser('extracted'); e.add_argument('--source',required=True); e.add_argument('--cache',default='../source-cache')
+p=sub.add_parser('shard-progress'); p.add_argument('--batch',required=True); p.add_argument('--worker',type=int,choices=(1,2,3,4),required=True)
 w=sub.add_parser('wait-ready'); w.add_argument('--batch',required=True); w.add_argument('--reviewer',type=int,required=True); w.add_argument('--exclude',default='')
 args=parser.parse_args()
-if args.command in ('extracted','wait-ready'):
+if args.command in ('extracted','wait-ready','shard-progress'):
     if args.command=='extracted': extracted(args.source,args.cache)
-    else: wait_ready(args.batch,args.reviewer,set(filter(None,args.exclude.split(','))))
+    elif args.command=='wait-ready': wait_ready(args.batch,args.reviewer,set(filter(None,args.exclude.split(','))))
+    else: shard_progress(args.batch,args.worker)
 else:
     with lore.coordinator_lock():
         if args.command=='select': select(args.batch,args.size,args.language)

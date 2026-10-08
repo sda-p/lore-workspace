@@ -77,3 +77,34 @@ Attributed to **Yazhi**; reported; extraction confidence: high.
 Source: [Interstellar Life 5C - Swaruu and Yazhi and their Starship Suzy - Anecdotes](https://swaruu.org/transcripts/interstellar-life-5c-swaruu-and-yazhi-and-their-starship-suzy-anecdotes) (2024-04-05; en); passages p0103, p0105, p0109. [Structured record](../../records/src-96581cc2ca29.json).
 
 Related topics: [Timeline branching](timeline-branching.md).
+
+### src-775d18ade5d9-c02
+
+She describes Taygetan ships as conscious persons with mental crew interfaces and limited self-repair using polymorphic alloys.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ESPIRITUALIDAD Y CONCIENCIA - KARMA - MENSAJE EXTRATERRESTRE - SWARUU DE ERRA](https://swaruu.org/transcripts/espiritualidad-y-conciencia-karma-mensaje-extraterrestre-swaruu-de-erra) (2018-12-22; es); passages p0030, p0031. [Structured record](../../records/src-775d18ade5d9.json).
+
+Related topics: [Starship systems](starship-systems.md), [Taygetans](taygetans.md).
+
+### src-32e031c42dc5-c04
+
+Ship AI can detect starseeds and amplify its owner’s consciousness for mental flight control.
+
+Attributed to **Dhor Káal’él**; asserted; extraction confidence: high.
+
+Source: [NAVES EXTRATERRESTRES – OVNIS – ENTREVISTA CON UN PLEYADIANO TAYGETEANO - DHOR KÁAL'EL Y ANÉEKA](https://swaruu.org/transcripts/naves-extraterrestres-ovnis-entrevista-con-un-pleyadiano-taygeteano-dhor-kaal-el-y-aneeka) (2019-11-18; es); passages p0051, p0052, p0068, p0070. [Structured record](../../records/src-32e031c42dc5.json).
+
+### src-01179c6a5906-c04
+
+She describes ancient external AI, trapped in 4D, seeking assimilation and manipulating Reptiles.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadiano (Taygeta)](https://swaruu.org/transcripts/tecnologia-5g-y-inteligencia-artificial-aviso-extraterrestre-pleyadiano-taygeta) (2019-06-21; es); passages p0039, p0045, p0049, p0057. [Structured record](../../records/src-01179c6a5906.json).
+
+## Review flags
+
+- Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
+- temporal-lore-attributed

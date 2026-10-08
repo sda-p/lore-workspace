@@ -44,9 +44,11 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-1d9c7182389e-c03](starship-systems.md#src-1d9c7182389e-c03) — Starship systems
 - [src-c533f1f1e9a7-c04](starship-systems.md#src-c533f1f1e9a7-c04) — Starship systems
 - [src-e0b94245b234-c05](consciousness-metaphysics.md#src-e0b94245b234-c05) — Consciousness and metaphysics
+- [src-cad14862cc58-c02](moon-matrix.md#src-cad14862cc58-c02) — Moon and terrestrial Matrix
 
 ## Review flags
 
 - astral-perception-and-protection-claims
+- matrix-technology-attributed
 - military-claims\_attributed
 - source-speaker-shift-dhor-to-yazhi

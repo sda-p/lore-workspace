@@ -1028,6 +1028,54 @@ Attributed to **Gosia**; reported; extraction confidence: medium.
 
 Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0081, p0082. [Structured record](../../records/src-c1f323f128a9.json).
 
+### src-bdb9a554b70c-c01
+
+Urmah are the dominant feline species, originating in Vega, Lyra and Avalon, with colonies across thousands of planets, especially Sirius.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (4) - URMAH Raza Felina (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-4-urmah-raza-felina-mensaje-pleyadiano) (2019-06-12; es); passages p0002. [Structured record](../../records/src-bdb9a554b70c.json).
+
+Related topics: [Urmah Federation](urmah-federation.md).
+
+### src-bdb9a554b70c-c02
+
+Swaruu says Urmah and Lyrians share origins and once cooperated; Urmah are now peaceful, militarized Federation members.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (4) - URMAH Raza Felina (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-4-urmah-raza-felina-mensaje-pleyadiano) (2019-06-12; es); passages p0002. [Structured record](../../records/src-bdb9a554b70c.json).
+
+Related topics: [Taygetans](taygetans.md), [Galactic Federation](galactic-federation.md).
+
+### src-bdb9a554b70c-c03
+
+They are bipedal feline carnivores but make synthetic meat; telepathy predominates though they can speak.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (4) - URMAH Raza Felina (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-4-urmah-raza-felina-mensaje-pleyadiano) (2019-06-12; es); passages p0003. [Structured record](../../records/src-bdb9a554b70c.json).
+
+### src-bdb9a554b70c-c04
+
+Urmah society uses balanced patriarchal-matriarchal councils and U-shaped, warp-capable starships.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (4) - URMAH Raza Felina (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-4-urmah-raza-felina-mensaje-pleyadiano) (2019-06-12; es); passages p0004. [Structured record](../../records/src-bdb9a554b70c.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-bdb9a554b70c-c05
+
+Anéeka says Taygetans introduced domestic cats in ancient Egypt, possibly alongside others; Urmah only interacted with Earth, without major colonies.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (4) - URMAH Raza Felina (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-4-urmah-raza-felina-mensaje-pleyadiano) (2019-06-12; es); passages p0012, p0014, p0016. [Structured record](../../records/src-bdb9a554b70c.json).
+
+Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
+
 ## Claims filed under other topics
 
 - [src-1461dd27e63f-c08](alien-species.md#src-1461dd27e63f-c08) — Alien species and distinctions
@@ -1054,6 +1102,8 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - [src-1d29aea5b394-c02](taygetans.md#src-1d29aea5b394-c02) — Taygetans
 - [src-d088ff3491c4-c02](alien-species.md#src-d088ff3491c4-c02) — Alien species and distinctions
 - [src-d088ff3491c4-c05](alien-species.md#src-d088ff3491c4-c05) — Alien species and distinctions
+- [src-1da40cd3aac1-c03](alien-species.md#src-1da40cd3aac1-c03) — Alien species and distinctions
+- [src-84a31dbc8140-c01](alpha-draconians.md#src-84a31dbc8140-c01) — Alpha Draconians
 
 ## Review flags
 
@@ -1082,6 +1132,7 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - genetic-weapon-causation-speculative
 - historical-claims-unverified
 - historical-conspiracy-claims
+- historical-date-ambiguity
 - identity-of-hidden-faction-unknown
 - incomplete-investigation
 - intercultural-claims
@@ -1101,6 +1152,7 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - translated-originally-Spanish
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- uncertain-origin
 - unverified-astral-causation
 - unverified-contact-claims
 - unverified\_extraterrestrial\_claims

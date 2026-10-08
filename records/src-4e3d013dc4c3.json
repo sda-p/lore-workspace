@@ -1,0 +1,54 @@
+{
+  "source_id": "src-4e3d013dc4c3",
+  "snapshot_sha256": "a47536573a871b94252b564c3a91e7b6e41e5ba8128b983cb7bc3736dc882bac",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4e3d013dc4c3-c01",
+      "assertion": "Swaruu alleges Vatican clergy altered Christian reincarnation doctrine around 800, adding one-life and severe-punishment beliefs amid widespread suicides.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0003", "p0004"],
+      "primary_topic": "astrotheology",
+      "topics": ["astrotheology", "postmortem-realities"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her historical account."
+    },
+    {
+      "id": "src-4e3d013dc4c3-c02",
+      "assertion": "She says Earth's 3D veil of forgetting is used by negative forces to intensify fear.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0014"],
+      "primary_topic": "perceptual-density",
+      "topics": ["perceptual-density", "archons-and-demons"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-4e3d013dc4c3-c03",
+      "assertion": "She says 4D-and-higher consensus treats death as bodily only; consciousness may exit when pain crosses a pre-incarnation threshold.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0019", "p0020"],
+      "primary_topic": "postmortem-realities",
+      "topics": ["postmortem-realities", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her account of that consensus."
+    },
+    {
+      "id": "src-4e3d013dc4c3-c04",
+      "assertion": "She says souls choose between-life exit points; the 3D ego is a finite traumatized persona, distinct from the enduring self.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0015", "p0021"],
+      "primary_topic": "postmortem-realities",
+      "topics": ["postmortem-realities", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her cosmology."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["historical-doctrine-origin-claim"],
+  "coverage_gaps": ["materialism-critique", "density-stage-behavior"]
+}

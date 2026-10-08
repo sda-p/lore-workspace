@@ -1,0 +1,121 @@
+{
+  "source_id": "src-3fc0d6ff4509",
+  "snapshot_sha256": "8a79356751ce8d220dca2d27f5be322e9d7accc3f53613647489847963906815",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3fc0d6ff4509-c01",
+      "assertion": "Swaruu says bodily form ends at death; remaining frequency shapes what a person perceives.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0004"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3fc0d6ff4509-c02",
+      "assertion": "At the Source, all frequencies and times converge, and thoughts manifest immediately.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3fc0d6ff4509-c03",
+      "assertion": "Strong attachment or trauma can manifest an astral body repeating familiar or traumatic scenes.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3fc0d6ff4509-c04",
+      "assertion": "Disembodied souls form clans and perceive only beings within their frequency range.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0084",
+        "p0086",
+        "p0088"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3fc0d6ff4509-c05",
+      "assertion": "She says funeral prayers can reinforce religious expectations; spiritually free souls may ignore them.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3fc0d6ff4509-c06",
+      "assertion": "Souls can progress in personal SIT time after death; from their own perspective, none are lost or trapped.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0061",
+        "p0063",
+        "p0074",
+        "p0076"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "English source src-efce96683138 closely translates the full Spanish article; no substantive additions found."
+  ],
+  "coverage_gaps": [
+    "religious manifestations",
+    "dream interactions",
+    "children and cemetery warning"
+  ]
+}

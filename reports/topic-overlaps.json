@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T15:51:41+00:00",
+  "checked_at": "2026-10-08T17:10:43+00:00",
   "collisions": [
     {
       "normalized_label": "sunspotportals",
@@ -10,5 +10,34 @@
       "status": "overlap-awaiting-reconciliation"
     }
   ],
-  "policy": "Keep existing IDs valid while workers are active; reconcile after source review. Shared labels do not by themselves establish identical concepts."
+  "policy": "Keep existing IDs valid while workers are active; reconcile after source review. Shared labels do not by themselves establish identical concepts.",
+  "identity_checks": [
+    {
+      "topic_ids": [
+        "oalu",
+        "oalu-high-council",
+        "ohalum-council"
+      ],
+      "status": "retain-distinct-source-identities",
+      "source_ids": [
+        "src-9796515b4099",
+        "src-76864ac53fe6",
+        "src-3dc3867de787"
+      ],
+      "evidence": {
+        "src-9796515b4099": [
+          "p0015",
+          "p0018",
+          "p0021",
+          "p0049",
+          "p0055"
+        ],
+        "src-76864ac53fe6": [
+          "p0009",
+          "p0010"
+        ]
+      },
+      "reason": "Oalu is described as an unrecognized outer world whose inhabitants mostly lack hive mind, explicitly distinct from Martian Mantis. Ohalum is identified with Eris and a hive-queen polity with a cooperating Mars colony. Similar names and insectoid councils do not establish one identity."
+    }
+  ]
 }

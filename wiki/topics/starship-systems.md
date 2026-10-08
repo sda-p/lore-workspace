@@ -2678,6 +2678,284 @@ Attributed to **Athena Swaruu (X)**; reported; extraction confidence: medium.
 
 Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0036, p0037, p0038, p0041, p0042. [Structured record](../../records/src-cdc00e8b66c4.json).
 
+### src-3282c3b2176d-c01
+
+Dhor Káal’el credits reverse engineering with materials, microprocessors, frequency controls, gravity and inertia cancellation, and medical pods.
+
+Attributed to **Dhor Káal’el**; reported; extraction confidence: high.
+
+Source: [Directos con Dhor Káal'el: Piloto Pleyadiano Taygeteano en la Orbita de la Tierra](https://swaruu.org/transcripts/directos-con-dhor-kaal-el-piloto-pleyadiano-taygeteano-en-la-orbita-de-la-tierra) (2019-11-30; es); passages p0006, p0007, p0008, p0010, p0013, p0025, p0026, p0029. [Structured record](../../records/src-3282c3b2176d.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-ed681d9a2b1f-c04
+
+She says Taygetan ships create wormholes at will and use quantum holographic computers with particle nano-accelerators instead of transistor cores.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL UNIVERSO ES UNA GRAN MATRIX – PORTALES ESPACIO TIEMPO - SWARUU](https://swaruu.org/transcripts/el-universo-es-una-gran-matrix-portales-espacio-tiempo-swaruu) (2019-02-13; es); passages p0057, p0059. [Structured record](../../records/src-ed681d9a2b1f.json).
+
+Related topics: [Holographic computers](holographic-computers.md), [Natural and artificial portals](natural-portals.md).
+
+### src-35de2559cc8b-c02
+
+She says immersion toroids reduce mass-drag during plasma acceleration, allowing speeds near one-third light speed; interstellar travel uses hyperspace jumps.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NAVEGACION ESTELAR II - MAPEO ESTELAR POR EXTRATERRESTRES – SWARUU DE ERRA - TOP SECRET](https://swaruu.org/transcripts/navegacion-estelar-ii-mapeo-estelar-por-extraterrestres-swaruu-de-erra-top-secret) (2019-10-31; es); passages p0014, p0015, p0016, p0017, p0018. [Structured record](../../records/src-35de2559cc8b.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-6a049025e05e-c03
+
+Taygetan ships use gravitational, plasma-jet, and high-energy toroidal flight modes; toroidal immersion changes ship density to match destination frequency and enables faster-than-light travel.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar II – Que es la Gravedad -Swaruu de Erra - Que es la Gravedad](https://swaruu.org/transcripts/navegacion-estelar-ii-que-es-la-gravedad-swaruu-de-erra-que-es-la-gravedad) (2019-09-03; es); passages p0011, p0012, p0013, p0014, p0015, p0036, p0037, p0039, p0040. [Structured record](../../records/src-6a049025e05e.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-54b7fc64a7de-c02
+
+Sublight engines use gravity manipulation or plasma jets; interstellar flight uses toroidal plasma immersion.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Navegacion Estelar Extraterrestre, Viajes en Tiempo, Mapas InterEstelares: Swaruu de Erra (Pleyades)](https://swaruu.org/transcripts/navegacion-estelar-extraterrestre-viajes-en-tiempo-mapas-interestelares-swaruu-de-erra-pleyades) (2018-10-30; es); passages p0025, p0026, p0027, p0028, p0029. [Structured record](../../records/src-54b7fc64a7de.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-954309ae5feb-c04
+
+Years in high Earth orbit, 422 light-years from home, make contact spiritually demanding and unsustainable.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [Swaruu se Dirige a los Escepticos - Mensaje Extraterreste de Pleyades (Taygeta)](https://swaruu.org/transcripts/swaruu-se-dirige-a-los-escepticos-mensaje-extraterreste-de-pleyades-taygeta) (2018-07-30; es); passages p0041, p0042, p0043. [Structured record](../../records/src-954309ae5feb.json).
+
+### src-fad1597372f1-c02
+
+Dhor says pilot-built small-ship race craft must fly no higher than ten meters.
+
+Attributed to **Dhor Káal'él**; reported; extraction confidence: high.
+
+Source: [Primera Entrevista con Hombre Extraterrestre de Taygeta (Pleyades): Contacto Extraterrestre](https://swaruu.org/transcripts/primera-entrevista-con-hombre-extraterrestre-de-taygeta-pleyades-contacto-extraterrestre) (2019-08-25; es); passages p0032, p0033. [Structured record](../../records/src-fad1597372f1.json).
+
+Related topics: [Disc-shaped shuttle craft](disc-shaped-shuttles.md).
+
+### src-8808e760d7a4-c05
+
+Different matter harmonics repel; density shifts or tractor beams can permit passage through walls.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ETER: Enseñanzas de Swaruu de Erra sobre el Campo Eterico (Contacto Extraterrestre)](https://swaruu.org/transcripts/eter-ensenanzas-de-swaruu-de-erra-sobre-el-campo-eterico-contacto-extraterrestre) (2019-11-11; es); passages p0022, p0024. [Structured record](../../records/src-8808e760d7a4.json).
+
+Related topics: [Ether field](ether-field.md).
+
+### src-f0430ddfaa2b-c03
+
+Scalar-frequency attacks can blind gravity sensors and crash gravity-dependent craft; larger Taygetan fighters retain plasma-jet lift.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [ENTREVISTA A UN EXTRATERRESTRE DE LAS PLEYADES ESTRELLA TAYGETA Dhor. Káal'el - Swaruu de Erra](https://swaruu.org/transcripts/entrevista-a-un-extraterrestre-de-las-pleyades-estrella-taygeta-dhor-kaal-el-swaruu-de-erra) (2019-10-03; es); passages p0020, p0021. [Structured record](../../records/src-f0430ddfaa2b.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-f0430ddfaa2b-c04
+
+Energy toroids and plasma jets shield ships; a system redirects physical and energy attacks.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [ENTREVISTA A UN EXTRATERRESTRE DE LAS PLEYADES ESTRELLA TAYGETA Dhor. Káal'el - Swaruu de Erra](https://swaruu.org/transcripts/entrevista-a-un-extraterrestre-de-las-pleyades-estrella-taygeta-dhor-kaal-el-swaruu-de-erra) (2019-10-03; es); passages p0023, p0024, p0026. [Structured record](../../records/src-f0430ddfaa2b.json).
+
+### src-f0430ddfaa2b-c05
+
+Dhor says static warp phases a stationary ship from attackers; shields cloak it by shifting frequency or bending light.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [ENTREVISTA A UN EXTRATERRESTRE DE LAS PLEYADES ESTRELLA TAYGETA Dhor. Káal'el - Swaruu de Erra](https://swaruu.org/transcripts/entrevista-a-un-extraterrestre-de-las-pleyades-estrella-taygeta-dhor-kaal-el-swaruu-de-erra) (2019-10-03; es); passages p0043, p0047. [Structured record](../../records/src-f0430ddfaa2b.json).
+
+### src-bf466c0fec46-c02
+
+She claims Van Allen passage requires toroidal immersion craft; onboard systems maintain a 3D-compatible interior and shield crews from lethal radiation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [PROGRAMA ESPACIAL SECRETO -LA COSMOLOGIA – BANDAS VAN ALLEN – SWARUU DE ERRA](https://swaruu.org/transcripts/programa-espacial-secreto-la-cosmologia-bandas-van-allen-swaruu-de-erra) (2018-08-06; es); passages p0013, p0014, p0015. [Structured record](../../records/src-bf466c0fec46.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-fd419788ecbb-c05
+
+Suzy rarely needs a mothership; it may need supplies or isolated repairs and carries a parts replicator.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [Transcripcion de una Entrevista a un Extraterrestre de la Estrella Taygeta - Dhor Káal'el - Swaruu](https://swaruu.org/transcripts/transcripcion-de-una-entrevista-a-un-extraterrestre-de-la-estrella-taygeta-dhor-kaal-el-swaruu) (2019-10-08; es); passages p0040. [Structured record](../../records/src-fd419788ecbb.json).
+
+Related topics: [Suzy fighter craft](suzy-fighter-craft.md).
+
+### src-a903c6d50bef-c01
+
+Anéeka says two aircraft caused Argentina and Uruguay’s blackout; a Black Knight intercepted them and downed one.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [APAGÓN EN ARGENTINA - QUE ESTA PASANDO - POR QUÉ](https://swaruu.org/transcripts/apagon-en-argentina-que-esta-pasando-por-que) (2019-06-24; es); passages p0003. [Structured record](../../records/src-a903c6d50bef.json).
+
+### src-6a5223076196-c02
+
+Short-range ships use gravity manipulation or plasma jets; interstellar travel uses total-immersion toroidal electromagnetic plasma-jet mode.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [MENSAJE EXTRATERRESTRE - NAVEGACION ESTELAR - SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/mensaje-extraterrestre-navegacion-estelar-swaruu-de-erra-sistema-taygeta-pleyades) (2018-09-19; es); passages p0024, p0025, p0026, p0027, p0028, p0029. [Structured record](../../records/src-6a5223076196.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-775d18ade5d9-c01
+
+Swaruu says some ships are genetically engineered, living organisms, including squid-like forms.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ESPIRITUALIDAD Y CONCIENCIA - KARMA - MENSAJE EXTRATERRESTRE - SWARUU DE ERRA](https://swaruu.org/transcripts/espiritualidad-y-conciencia-karma-mensaje-extraterrestre-swaruu-de-erra) (2018-12-22; es); passages p0027. [Structured record](../../records/src-775d18ade5d9.json).
+
+### src-4c19a3a319ec-c02
+
+He says some Taygetan ships are biological, learn like persons, and operate through crew consciousness. Some ships.
+
+Attributed to **Robert, relaying Taygetan accounts**; reported; extraction confidence: high.
+
+Source: [TECNOLOGIA EXTRATERRESTRE BASADA EN LA CONCIENCIA - SWARUU](https://swaruu.org/transcripts/tecnologia-extraterrestre-basada-en-la-conciencia-swaruu) (2019-02-15; es); passages p0005. [Structured record](../../records/src-4c19a3a319ec.json).
+
+Related topics: [Taygetans](taygetans.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5d0fdcdc4f0b-c01
+
+Swaruu lists possible boom sources: nearby invisible large ships' electromagnetic pulses (low probability) and underground tunneling or military activity (high, localized). She allows multiple causes to combine.
+
+Attributed to **Swaruu**; speculative; extraction confidence: high.
+
+Source: [MISTERIOSOS SONIDOS INEXPLICABLES EN EL CIELO](https://swaruu.org/transcripts/misteriosos-sonidos-inexplicables-en-el-cielo) (2018-05-26; es); passages p0015, p0017, p0018, p0020. [Structured record](../../records/src-5d0fdcdc4f0b.json).
+
+Related topics: [Deep underground military bases](deep-underground-military-bases.md).
+
+### src-42f818598b56-c03
+
+Microwave radar could blind craft sensors; Taygetan ships had backup propulsion.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [Nosotras Somos las Chicas de Sociedad Vril: Mensaje Pleyadiano (Rashell de Temmer)](https://swaruu.org/transcripts/nosotras-somos-las-chicas-de-sociedad-vril-mensaje-pleyadiano-rashell-de-temmer) (2019-01-24; es); passages p0021, p0022, p0027. [Structured record](../../records/src-42f818598b56.json).
+
+### src-349f835aa3ef-c01
+
+Swaruu says plasma-turbine output frequency is controlled by relative speeds of counter-rotating layers.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 2 (Parte 5): Modo SUPRALUMINAR: Mensaje Extraterrestre](https://swaruu.org/transcripts/navegacion-estelar-2-parte-5-modo-supraluminar-mensaje-extraterrestre) (2019-10-27; es); passages p0003, p0005. [Structured record](../../records/src-349f835aa3ef.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-349f835aa3ef-c02
+
+Connecting the ship’s nose to rear plasma flow closes an electromagnetic circuit, forming a high-energy toroid.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 2 (Parte 5): Modo SUPRALUMINAR: Mensaje Extraterrestre](https://swaruu.org/transcripts/navegacion-estelar-2-parte-5-modo-supraluminar-mensaje-extraterrestre) (2019-10-27; es); passages p0010, p0011. [Structured record](../../records/src-349f835aa3ef.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-349f835aa3ef-c03
+
+The dominant-frequency toroid envelops ship and occupants, imposing its frequency and selectable density on them.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar 2 (Parte 5): Modo SUPRALUMINAR: Mensaje Extraterrestre](https://swaruu.org/transcripts/navegacion-estelar-2-parte-5-modo-supraluminar-mensaje-extraterrestre) (2019-10-27; es); passages p0014, p0015. [Structured record](../../records/src-349f835aa3ef.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Perceptual density](perceptual-density.md).
+
+### src-ca24d8041f8f-c05
+
+High-energy synchronized holograms can feel solid through electromagnetic repulsion; Taygetan ship touchscreens use this.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA LUNA - ESTACIÓN ESPACIAL ARTIFICIAL Y LA MATRIX 3D – SWARUU - TAYGETA - Las Pléyades](https://swaruu.org/transcripts/la-luna-estacion-espacial-artificial-y-la-matrix-3d-swaruu-taygeta-las-pleyades) (2018-07-09; es); passages p0032, p0033, p0034. [Structured record](../../records/src-ca24d8041f8f.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-47516d4ba42c-c01
+
+Taygetan magnetic plasma engines use reactor electricity rather than fuel or propellant, unlike terrestrial plasma rockets.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar 2 (Parte 4): Motores de Naves Extraterrestres y Cohetes de Plasma](https://swaruu.org/transcripts/navegacion-estelar-2-parte-4-motores-de-naves-extraterrestres-y-cohetes-de-plasma) (2019-10-17; es); passages p0008, p0018, p0025. [Structured record](../../records/src-47516d4ba42c.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-47516d4ba42c-c02
+
+Zero-point current passes through voltage-amplifying coils into counter-rotating turbines, creating an electromagnetic vortex and thrust.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar 2 (Parte 4): Motores de Naves Extraterrestres y Cohetes de Plasma](https://swaruu.org/transcripts/navegacion-estelar-2-parte-4-motores-de-naves-extraterrestres-y-cohetes-de-plasma) (2019-10-17; es); passages p0018, p0019, p0021, p0022. [Structured record](../../records/src-47516d4ba42c.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-47516d4ba42c-c04
+
+Suzy has two magnetic engines rated at 5 TEV combined, powered by two Zero Point reactors.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar 2 (Parte 4): Motores de Naves Extraterrestres y Cohetes de Plasma](https://swaruu.org/transcripts/navegacion-estelar-2-parte-4-motores-de-naves-extraterrestres-y-cohetes-de-plasma) (2019-10-17; es); passages p0029, p0030. [Structured record](../../records/src-47516d4ba42c.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-47516d4ba42c-c05
+
+Taygetan magnetic engines propel ships, while gravity manipulators steer them and replace aerodynamic controls.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar 2 (Parte 4): Motores de Naves Extraterrestres y Cohetes de Plasma](https://swaruu.org/transcripts/navegacion-estelar-2-parte-4-motores-de-naves-extraterrestres-y-cohetes-de-plasma) (2019-10-17; es); passages p0036, p0037. [Structured record](../../records/src-47516d4ba42c.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-c92e3d59e2ba-c02
+
+She claims a Russian SU-24 with electromagnetic countermeasures can remotely disable the US carrier fleet.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL EGO Y EL AMOR - MENSAJE EXTRATERRESTRE - NIBIRU - STAR TREK - SWARUU DE ERRA](https://swaruu.org/transcripts/el-ego-y-el-amor-mensaje-extraterrestre-nibiru-star-trek-swaruu-de-erra) (2018-12-17; es); passages p0012. [Structured record](../../records/src-c92e3d59e2ba.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-bf7085cb30ac-c02
+
+Warp matches a ship’s toroidal frequency to a destination, taking it through the ether for instantaneous travel.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NAVEGACION ESTELAR II - PORTALES DIMENSIONALES - SWARUU DE ERRA - VUELO WARP](https://swaruu.org/transcripts/navegacion-estelar-ii-portales-dimensionales-swaruu-de-erra-vuelo-warp) (2018-11-21; es); passages p0002, p0003, p0006. [Structured record](../../records/src-bf7085cb30ac.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -2837,6 +3115,41 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - [src-c1a25429c797-c04](alcyone-council.md#src-c1a25429c797-c04) — Alcyone Council
 - [src-36012d587a34-c03](energy-generation.md#src-36012d587a34-c03) — Energy generation technology
 - [src-36012d587a34-c05](sand-clock.md#src-36012d587a34-c05) — Sand Clock
+- [src-3282c3b2176d-c04](stellar-navigation.md#src-3282c3b2176d-c04) — Stellar navigation
+- [src-11de0477daf4-c03](energy-generation.md#src-11de0477daf4-c03) — Energy generation technology
+- [src-fdc57e7c493f-c02](economics.md#src-fdc57e7c493f-c02) — Economics and resources
+- [src-ceb65bcc3f82-c04](frequency-map-navigation.md#src-ceb65bcc3f82-c04) — Frequency-map navigation
+- [src-35de2559cc8b-c01](suzy-class-starships.md#src-35de2559cc8b-c01) — Suzy-class starships
+- [src-6a049025e05e-c01](gravitic-generators.md#src-6a049025e05e-c01) — Gravitic generators
+- [src-6a049025e05e-c02](gravitic-generators.md#src-6a049025e05e-c02) — Gravitic generators
+- [src-ff97765a8c36-c02](moon-biosphere-ship.md#src-ff97765a8c36-c02) — The Moon as a biosphere ship
+- [src-7d0050d7c04a-c04](energy-generation.md#src-7d0050d7c04a-c04) — Energy generation technology
+- [src-7d0050d7c04a-c07](energy-generation.md#src-7d0050d7c04a-c07) — Energy generation technology
+- [src-bfae5ca72b24-c02](taygetans.md#src-bfae5ca72b24-c02) — Taygetans
+- [src-954309ae5feb-c05](nuclear-magnetic-engines.md#src-954309ae5feb-c05) — Nuclear-magnetic engines
+- [src-8808e760d7a4-c03](stellar-navigation.md#src-8808e760d7a4-c03) — Stellar navigation
+- [src-69ad66e27ca1-c04](galactic-federation.md#src-69ad66e27ca1-c04) — Galactic Federation
+- [src-f0430ddfaa2b-c01](suzy-fighter-craft.md#src-f0430ddfaa2b-c01) — Suzy fighter craft
+- [src-543fe68707e6-c02](andromedans.md#src-543fe68707e6-c02) — Andromedans
+- [src-bdb9a554b70c-c04](urmah.md#src-bdb9a554b70c-c04) — Urmah
+- [src-775d18ade5d9-c02](sentient-starship-ai.md#src-775d18ade5d9-c02) — Sentient starship AI
+- [src-52ab554c3637-c01](gravity-harmonics.md#src-52ab554c3637-c01) — Gravity harmonics
+- [src-52ab554c3637-c02](gravity-harmonics.md#src-52ab554c3637-c02) — Gravity harmonics
+- [src-52ab554c3637-c03](gravity-harmonics.md#src-52ab554c3637-c03) — Gravity harmonics
+- [src-52ab554c3637-c04](stellar-navigation.md#src-52ab554c3637-c04) — Stellar navigation
+- [src-d91884cf2930-c01](tractor-beams.md#src-d91884cf2930-c01) — Tractor beams
+- [src-d91884cf2930-c04](frequency-microscopes.md#src-d91884cf2930-c04) — Frequency Mapping Microscopes
+- [src-0df271d4423a-c03](energy-generation.md#src-0df271d4423a-c03) — Energy generation technology
+- [src-7952cde1857a-c04](sirian-civilizations.md#src-7952cde1857a-c04) — Sirian civilizations
+- [src-4c19a3a319ec-c01](taygetans.md#src-4c19a3a319ec-c01) — Taygetans
+- [src-349f835aa3ef-c04](frequency-map-navigation.md#src-349f835aa3ef-c04) — Frequency-map navigation
+- [src-47516d4ba42c-c03](frequency-map-navigation.md#src-47516d4ba42c-c03) — Frequency-map navigation
+- [src-83d10afd7959-c05](mercury.md#src-83d10afd7959-c05) — Mercury
+- [src-59c43e8ab96d-c03](maitre.md#src-59c43e8ab96d-c03) — Maitre
+- [src-8a97e5888a07-c03](van-allen-belts.md#src-8a97e5888a07-c03) — Van Allen belts
+- [src-bf7085cb30ac-c01](stellar-navigation.md#src-bf7085cb30ac-c01) — Stellar navigation
+- [src-bf7085cb30ac-c04](natural-portals.md#src-bf7085cb30ac-c04) — Natural and artificial portals
+- [src-bf7085cb30ac-c05](stellar-navigation.md#src-bf7085cb30ac-c05) — Stellar navigation
 
 ## Review flags
 
@@ -2847,18 +3160,28 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - Billy\_Meier\_photo\_authenticity\_uncertain
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
+- Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
+- Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
 - Federation-infiltration\_theory
 - Maitre\_relationship\_with\_Reptilians
+- No English counterpart found in the cached sources.
+- One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - Senetre-diagnosed-weapon-route-suspected
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Weapon and defense capabilities are source-attributed technical claims
 - Yazhi-interview-report
+- aircraft-identity-ambiguity
 - alternate-history\_claims\_attributed
 - alternative-weapons-claims
+- ancient-history-claim
+- approximate-age-estimate
 - ark\_location\_and\_war\_claims\_unverified
 - biological-claims-unverified
+- biology-claim
 - black-knight-loss-details-provisional
 - blockade-and-biology-attributed
+- causal-attribution-tension
 - cern-portal-claim
 - claimed\_observation
 - comparative\_technology\_claims
@@ -2866,6 +3189,7 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
 - conspiracy\_claims
+- contested-claim
 - contested\_archaeology
 - contested\_intelligence\_claims
 - contradictory\_past\_change\_model
@@ -2903,16 +3227,21 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - field-procedure-account-attributed-to-mari
 - fleet-status\_as-reported
 - food\_and\_health\_claims\_unverified
+- frequency-and-harm-claims
 - frequency-gravity-model
 - frequency\_map\_model
+- gravity-propulsion-attributed
+- header-and-segmentation-variation
 - health-claims-unverified
 - health-conspiracy-claims
 - historical-claims-uncorroborated
 - historical-claims-unverified
+- historical-date-ambiguity
 - historical\_account\_unverified
 - hyperspace\_model
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - long conversation contains disputed health claims not included in core extraction
+- lunar-artificial-structure-claims-attributed
 - medical-claims-unverified
 - medical-misinformation-claims
 - medical\_claims
@@ -2924,6 +3253,8 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - named\_government\_and\_secret\_base\_claims
 - narrator\_claims
 - nonhuman-technology\_claims\_attributed
+- nonstandard-physics-claims
+- nonstandard-planetary-model
 - nonstandard\_astrophysics\_claims
 - pathogen-claim\_attributed
 - personal-childhood-anecdote
@@ -2937,25 +3268,37 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - portal-technology-claims-unverified
 - procedure-description
 - radiation-causation-allegations
+- related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
+- related-frequency-navigation-source
+- same-language-near-duplicate-src-6a5223076196
+- same-language-near-duplicate-src-735f991fe169
 - second-contact-stoppage-attributed-to-yazhi
 - secret\_ship\_capability\_claims
 - ship-specifications\_attributed
+- sirian-group-includes-distinct-species
 - source includes conflicting publication and event dates; claims retain stated dates
+- source-mixed-origin-en-reactor-and-spanish-engine-sections
 - source-speaker-shift-dhor-to-yazhi
 - space\_suit\_claims\_unverified
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker: interviewer prompts excluded as claims
 - species-description\_attributed
 - species\_specific\_reproduction
+- suzy-thrust-rating-variant-review
 - targeting\_claims
+- taygetan-society-claims-attributed
 - technology-described-by-mari
 - technology-description-unverified
 - technology\_and\_mind\_interface
 - technology\_claims
+- temporal-lore-attributed
 - time\_travel\_risks
+- title-metadata-diff
+- tractor-beam-technology-attributed
 - translated-from-Spanish-original-not-available
 - translated-originally-Spanish
 - translated\_source
+- translation-counterpart-src-b781192c3a3d-expanded-plasma-engine-details
 - translation-equivalence-unverified
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025

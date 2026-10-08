@@ -1,0 +1,54 @@
+{
+  "source_id": "src-46fa49e664e1",
+  "snapshot_sha256": "60abbb86a9ae21683b2efa8583835ee53726703cdc10b8e42a4ba5981894a326",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-46fa49e664e1-c01",
+      "assertion": "Swaruu uses Archon broadly for exploitative species, mostly fourth-density etheric animals but including advanced technological races.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0012", "p0017"],
+      "primary_topic": "archons-and-demons",
+      "topics": ["archons-and-demons", "interdimensional-parasites"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her taxonomy."
+    },
+    {
+      "id": "src-46fa49e664e1-c02",
+      "assertion": "She says Archons manipulate desires to harvest mental energy and make people manifest a 3D world benefiting them.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0020"],
+      "primary_topic": "archons-and-demons",
+      "topics": ["archons-and-demons", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-46fa49e664e1-c03",
+      "assertion": "She describes the Matrix as a collective Tulpa: shared ideas shape reality, and individuals perceive what matches their own ideas.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0016", "p0017", "p0028"],
+      "primary_topic": "tulpas",
+      "topics": ["tulpas", "original-matrix"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-46fa49e664e1-c04",
+      "assertion": "She says beliefs and values prompt souls to reincarnate; no external afterlife trap is needed.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0022", "p0023", "p0024"],
+      "primary_topic": "postmortem-realities",
+      "topics": ["postmortem-realities", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["archon-scope-is-broad"],
+  "coverage_gaps": ["frequency-barrier-crossing", "soul-avatar-model"]
+}

@@ -1,0 +1,75 @@
+{
+  "source_id": "src-f6350a328e94",
+  "snapshot_sha256": "2d21d119d3cfebf2faa7a8b90f6ffafbaee16aa14c6aa2087a9cfaf27d1b3a94",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f6350a328e94-c01",
+      "assertion": "Yazhi says each soul is a memory-defined boundary within shared consciousness; broader awareness includes others, though no level is inherently superior.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0008",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account uses water and ocean analogies."
+    },
+    {
+      "id": "src-f6350a328e94-c02",
+      "assertion": "She says souls in a loop have each been one another; reincarnation choices are made from an afterlife state retaining ego, with intention shaping lives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6350a328e94-c03",
+      "assertion": "In Yazhi’s account, between-life experience reflects a soul’s identity, memories, and imaginings, which also influence whether and as whom it reincarnates.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "soul-loop-reincarnation",
+      "name": "Soul-loop reincarnation",
+      "kind": "cosmology",
+      "aliases": [
+        "bucles de almas"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "suicide-reincarnation-claims",
+    "gravity-influence-claims"
+  ]
+}

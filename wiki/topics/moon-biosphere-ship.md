@@ -48,6 +48,89 @@ Source: [Space News March 22 2024, News and Birthdays (English)](https://swaruu.
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-ff97765a8c36-c01
+
+Robert describes a hologram covering the Moon’s lunar surface; Swaruu confirms its separation and dates the Moon’s and Matrix’s installation to about 12,500 years ago.
+
+Attributed to **Robert; Swaruu (9) confirms separation**; asserted; extraction confidence: high.
+
+Source: [NO FUIMOS A LA LUNA – SWARUU DE ERRA – EXTRATERRESTRE DE LAS PLEYADES – ESTRELLA TAYGETA](https://swaruu.org/transcripts/no-fuimos-a-la-luna-swaruu-de-erra-extraterrestre-de-las-pleyades-estrella-taygeta) (2018-08-23; es); passages p0017, p0018, p0020, p0022, p0026, p0027. [Structured record](../../records/src-ff97765a8c36.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-ff97765a8c36-c02
+
+She says lunar interiors contain vast ruined corridors, traps, and primitive ionizing reactors; dangerous entities may also be present.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NO FUIMOS A LA LUNA – SWARUU DE ERRA – EXTRATERRESTRE DE LAS PLEYADES – ESTRELLA TAYGETA](https://swaruu.org/transcripts/no-fuimos-a-la-luna-swaruu-de-erra-extraterrestre-de-las-pleyades-estrella-taygeta) (2018-08-23; es); passages p0019, p0029, p0031. [Structured record](../../records/src-ff97765a8c36.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-da3eb1da7135-c05
+
+Swaruu claims Apollo crews never left low Earth orbit; Cabal used SSP for lunar access.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Preguntas Frecuentes: Mensaje Extraterrestre (Swaruu de Taygeta-Pleyades)](https://swaruu.org/transcripts/preguntas-frecuentes-mensaje-extraterrestre-swaruu-de-taygeta-pleyades) (2018-10-02; es); passages p0062. [Structured record](../../records/src-da3eb1da7135.json).
+
+### src-69ad66e27ca1-c05
+
+Swaruu calls lunar reactors toxic, old uranium-based fusion units kept as temporary power while Matrix dissolves.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra: Preguntas Frecuentes 2 (Mensaje de Taygeta, Pleyades) (14)](https://swaruu.org/transcripts/swaruu-de-erra-preguntas-frecuentes-2-mensaje-de-taygeta-pleyades-14) (2018-11-20; es); passages p0038, p0039. [Structured record](../../records/src-69ad66e27ca1.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Energy generation technology](energy-generation.md).
+
+### src-039a50ac3015-c03
+
+Swaruu calls the Moon a damaged, abandoned spherical spacecraft associated with the lunar frequency-control Matrix.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL SISTEMA SOLAR - EL PLANETA TIERRA](https://swaruu.org/transcripts/el-sistema-solar-el-planeta-tierra) (2019-06-07; es); passages p0010, p0027, p0029. [Structured record](../../records/src-039a50ac3015.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Galactic Federation](galactic-federation.md).
+
+### src-28c3fd0534dc-c03
+
+Swaruu claims Earth’s Moon is a hologram-covered, old damaged spherical ship; several similar craft remain in the Solar System.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Ascension: Que es y en Que Consiste? Mensaje Extraterrestre Pleyadiano (23)](https://swaruu.org/transcripts/ascension-que-es-y-en-que-consiste-mensaje-extraterrestre-pleyadiano-23) (2019-04-16; es); passages p0067, p0068, p0069, p0070. [Structured record](../../records/src-28c3fd0534dc.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-ca24d8041f8f-c03
+
+Swaruu describes the Moon as an imposed Andromedan biosphere ship projecting holographic surface images from a computer.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA LUNA - ESTACIÓN ESPACIAL ARTIFICIAL Y LA MATRIX 3D – SWARUU - TAYGETA - Las Pléyades](https://swaruu.org/transcripts/la-luna-estacion-espacial-artificial-y-la-matrix-3d-swaruu-taygeta-las-pleyades) (2018-07-09; es); passages p0024, p0025, p0026. [Structured record](../../records/src-ca24d8041f8f.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Holographic computers](holographic-computers.md).
+
+## Claims filed under other topics
+
+- [src-357c482522d2-c03](moon-matrix.md#src-357c482522d2-c03) — Moon and terrestrial Matrix
+- [src-1a7b60ba8ea9-c05](moon-matrix.md#src-1a7b60ba8ea9-c05) — Moon and terrestrial Matrix
+- [src-543fe68707e6-c02](andromedans.md#src-543fe68707e6-c02) — Andromedans
+
 ## Review flags
 
+- Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- ancient-history-claim
 - conspiracy\_claims
+- contested-history
+- date-discrepancy
+- extraterrestrial-claims
+- lunar-artificial-structure-claims-attributed
+- nonstandard-planetary-model
+- speaker-attribution-inferred-from-transcript
+- terrestrial-history-contradiction

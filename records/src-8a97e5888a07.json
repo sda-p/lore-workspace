@@ -1,0 +1,93 @@
+{
+  "source_id": "src-8a97e5888a07",
+  "snapshot_sha256": "86a9fdc73e200b50fdf9a2f597312577d66b507548023e78cbf21506bc8e7c11",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8a97e5888a07-c01",
+      "assertion": "Swaruu says astral passage through Van Allen bands depends on personal frequency; the bands span multiple frequencies but have a limit.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a97e5888a07-c02",
+      "assertion": "She says magnetic-field reversal would disrupt grids, harm migratory species, alter currents and climate, though it is not imminent.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a97e5888a07-c03",
+      "assertion": "She claims no one crossed the belts in 3D; 5D passage needs toroidal electromagnetic immersion, while rockets risk disorientation and lethal radiation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "starship-systems",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a97e5888a07-c04",
+      "assertion": "Swaruu describes reptilians as low-frequency beings harmed by higher frequencies, which positive humans can make dangerous to them.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "van-allen-belts",
+      "name": "Van Allen belts",
+      "kind": "celestial phenomenon",
+      "aliases": [
+        "Van Allen bands",
+        "cinturones Van Allen"
+      ]
+    }
+  ],
+  "review_flags": [
+    "English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found."
+  ],
+  "coverage_gaps": [
+    "Taygetan ship immunity claim"
+  ]
+}

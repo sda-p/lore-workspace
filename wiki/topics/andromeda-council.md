@@ -39,14 +39,21 @@ Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politi
 - [src-2c37577fd6a4-c01](galactic-federation.md#src-2c37577fd6a4-c01) — Galactic Federation
 - [src-dafa77b48f2e-c01](galactic-federation.md#src-dafa77b48f2e-c01) — Galactic Federation
 - [src-d088ff3491c4-c05](alien-species.md#src-d088ff3491c4-c05) — Alien species and distinctions
+- [src-0ad91b6f93c8-c04](alien-species.md#src-0ad91b6f93c8-c04) — Alien species and distinctions
+- [src-543fe68707e6-c03](andromedans.md#src-543fe68707e6-c03) — Andromedans
+- [src-ae20e2d2296b-c02](neptune.md#src-ae20e2d2296b-c02) — Neptune and Triton
+- [src-40614df19d52-c04](astrotheology.md#src-40614df19d52-c04) — Astrotheology
 
 ## Review flags
 
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
+- ancient-history-claim
 - astronomical-claims-unverified
 - conflicting\_faction\_accounts
 - conspiracy\_claims
+- pluto-classification-esoteric-claim
 - political-structure-unverified
 - saturn-council-uncertainty
 - translated-originally-Spanish
+- triton-placement-attributed-to-andromedans
 - unverified\_extraterrestrial\_claims

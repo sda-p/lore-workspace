@@ -1,0 +1,68 @@
+{
+  "source_id": "src-6c377f98a0b6",
+  "snapshot_sha256": "65794c9c4541caf77c34955ca3791e65ac230c27610990ec55c40845ee0d4d8c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6c377f98a0b6-c01",
+      "assertion": "Anéeka describes the Federation as a complex, layered system of councils whose authority varies by region, density, and timeline; no single Earth representative can speak for it.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "timeline-branching",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c377f98a0b6-c02",
+      "assertion": "She says holographic societies let each member represent their culture and prepare to lead, unlike Earth's model where politicians represent people who lack power or votes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c377f98a0b6-c03",
+      "assertion": "Anéeka says Federation credentials or requests must reach Taygetan ships directly through muon or similar systems; Earth-based representatives and organizations are rejected as intermediaries.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "federation-credential-details",
+    "holographic-representation-practice"
+  ]
+}

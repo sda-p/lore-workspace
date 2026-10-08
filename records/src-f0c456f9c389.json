@@ -1,0 +1,56 @@
+{
+  "source_id": "src-f0c456f9c389",
+  "snapshot_sha256": "8759e9301fb945959951613ec4423bc9135065a3a9782c4e1c59d8708b1e72a4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f0c456f9c389-c01",
+      "assertion": "Swaruu defines shadow work as systematic introspection into learned programming, trauma, and automatic reactions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0005"],
+      "primary_topic": "shadow-work",
+      "topics": ["shadow-work"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f0c456f9c389-c02",
+      "assertion": "She says social and family approval can repress disfavored traits and exaggerate accepted ones, forming conscious/unconscious divisions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0009", "p0010"],
+      "primary_topic": "shadow-work",
+      "topics": ["shadow-work"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f0c456f9c389-c03",
+      "assertion": "For Swaruu, a shadow is resisted behavior conflicting with self-concept; programming alone is not necessarily a shadow.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0026", "p0033", "p0043", "p0045", "p0052"],
+      "primary_topic": "shadow-work",
+      "topics": ["shadow-work"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says recognizing the resistance begins its resolution."
+    },
+    {
+      "id": "src-f0c456f9c389-c04",
+      "assertion": "She recommends identifying a troubling shadow, tracing its origins, choosing a response, then repeatedly building a positive association.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0064", "p0070", "p0072", "p0073"],
+      "primary_topic": "shadow-work",
+      "topics": ["shadow-work"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her approach; she rejects denial, not all negative attention."
+    }
+  ],
+  "proposed_topics": [
+    {"id": "shadow-work", "name": "Shadow Work", "kind": "practice", "aliases": ["trabajo de sombra", "shadow work"]}
+  ],
+  "review_flags": ["spiritual-psychology-attributed"],
+  "coverage_gaps": ["personal-examples", "reincarnation-claims"]
+}

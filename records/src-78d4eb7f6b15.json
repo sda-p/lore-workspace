@@ -1,0 +1,108 @@
+{
+  "source_id": "src-78d4eb7f6b15",
+  "snapshot_sha256": "c4d1df41ec9452af7f78231d771d9a22ec263624dc017e6db0412dab657aadd3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-78d4eb7f6b15-c01",
+      "assertion": "Yazhi says the Federation infers human wishes from statements and records, but these may differ from higher-density plans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78d4eb7f6b15-c02",
+      "assertion": "She describes Earth’s 3D experience as a chosen game; some departed humans reportedly oppose Federation intervention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78d4eb7f6b15-c03",
+      "assertion": "Yazhi says the Federation prioritizes collective wishes when awake and sleeping humans want incompatible outcomes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0079",
+        "p0081"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78d4eb7f6b15-c04",
+      "assertion": "She contrasts Earth’s collective agreements with Taygeta’s society, formed from consenting individuals.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Taygeta is described as imperfect."
+    },
+    {
+      "id": "src-78d4eb7f6b15-c05",
+      "assertion": "Yazhi says the Federation will not solve Earth’s conflicts; humans must create their preferred world.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0089",
+        "p0090",
+        "p0091"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "3d-vs-higher-density-wishes",
+    "federation-nonintervention"
+  ],
+  "coverage_gaps": [
+    "matrix-control-mechanisms",
+    "timeline-model"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "src-4a19348a3734",
+  "snapshot_sha256": "3d6deb29adc1a2c52af8e22f405fa3ec1b5fb0876fa40bbe0e8ca16991a9c75d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4a19348a3734-c01",
+      "assertion": "Athena describes druids as sages, healers and record-keepers bridging physical and spirit worlds through herbal medicine, history and metaphysics.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "druidic-traditions",
+      "topics": [
+        "druidic-traditions",
+        "elementals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as her own description."
+    },
+    {
+      "id": "src-4a19348a3734-c02",
+      "assertion": "Athena says the dead carry beliefs into an etheric world mirroring life; some spirits can interact with living people when frequencies align.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0052",
+        "p0053",
+        "p0054",
+        "p0058"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this varies by individual."
+    },
+    {
+      "id": "src-4a19348a3734-c03",
+      "assertion": "Athena says Arthur and Merlin stories combine historical figures and saga material with likely fictional additions; she places them near the first Crusades.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "druidic-traditions",
+      "topics": [
+        "druidic-traditions"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "druidic-traditions",
+      "name": "Druidic traditions",
+      "kind": "historical culture",
+      "aliases": [
+        "druids",
+        "Celtic druids"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Rome-and-Alexandria-claims",
+    "Navajo-comparison"
+  ]
+}

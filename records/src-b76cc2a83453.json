@@ -1,0 +1,43 @@
+{
+  "source_id": "src-b76cc2a83453",
+  "snapshot_sha256": "a003580c7a55fa5539ac3cc6c0f9caf91f422d856e440a3eb89e6b1ecc00137f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b76cc2a83453-c01",
+      "assertion": "Anéeka treats the unicorn as an ideal of unattainable perfection, using Swaruu's pursuit of total knowledge as an example.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0004", "p0005"],
+      "primary_topic": "unicorn-symbolism",
+      "topics": ["unicorn-symbolism", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b76cc2a83453-c02",
+      "assertion": "Yazhi links unicorn symbolism to the third eye, pineal transformation, and veiled change; she frames Shiva/Pluto as positive and deceiving-Messiah/Antichrist imagery as negative.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0008", "p0009", "p0010", "p0011", "p0012", "p0016"],
+      "primary_topic": "unicorn-symbolism",
+      "topics": ["unicorn-symbolism", "pineal-interface"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her symbolic interpretations."
+    },
+    {
+      "id": "src-b76cc2a83453-c03",
+      "assertion": "Yazhi says souls lack gender, but embodied genders offer different experiences; souls may prefer one physical gender and choose another in a later incarnation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0022", "p0023"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical model of incarnation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["multiple-symbolic-interpretations"],
+  "coverage_gaps": ["gender-politics-and-agenda-allegations"]
+}

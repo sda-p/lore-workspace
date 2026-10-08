@@ -1,0 +1,104 @@
+{
+  "source_id": "src-0df271d4423a",
+  "snapshot_sha256": "ece88f10a1ea63a644307883003824ec658c93cd587c879b93a1551c1bdc4ec6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0df271d4423a-c01",
+      "assertion": "Taygeta has four inhabited planets: three class M and cold, tundra-covered D'akotee, class P.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0df271d4423a-c02",
+      "assertion": "She says Taygeta has 38 million residents and fewer than ten major cities; Temmer’s Toleka is largest, at about 700,000.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0df271d4423a-c03",
+      "assertion": "Toleka Island has subterranean zero-point factories and facilities to build, repair, and dock kilometer-scale ships.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems",
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0df271d4423a-c04",
+      "assertion": "She describes money-free abundance: communities build free homes sited to spare nature; people choose work, while automation handles unwanted tasks.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0035",
+        "p0037",
+        "p0039",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "holistic-society",
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0df271d4423a-c05",
+      "assertion": "Small communities hundreds or thousands of kilometers apart use elevated MAGLEV trains to spare wildlife.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "taygetan-society-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "domestic-architecture",
+    "interstellar-compatibility"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "source_id": "src-3e85a1ca7a28",
+  "snapshot_sha256": "e77550046f1bbd700316818cea606762d586ddac3548d64a78bf9cfa90599778",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3e85a1ca7a28-c01",
+      "assertion": "Cloning requires an activated stem cell, laboratory, and medical pod; no woman is needed.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "maternal-med-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e85a1ca7a28-c02",
+      "assertion": "Two-week clones deteriorate rapidly; Earth's best models take three months, are more stable, and nearly indistinguishable.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0029",
+        "p0032",
+        "p0040"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Deterioration means malfunction, not rapid aging."
+    },
+    {
+      "id": "src-3e85a1ca7a28-c03",
+      "assertion": "Clones lack souls; supercomputers transmit stored identity programs to them via microwave or higher-frequency signals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e85a1ca7a28-c04",
+      "assertion": "A pod's body hologram directs nutrient-fed stem cells to differentiate over two weeks to three months.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "maternal-med-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e85a1ca7a28-c05",
+      "assertion": "Adma readers no longer detect advanced clones; telepathy and intuition are the best tests.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0030"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "clone-technology-attributed"
+  ],
+  "coverage_gaps": [
+    "hybridization-purposes",
+    "recognition-methods-unreliable"
+  ]
+}

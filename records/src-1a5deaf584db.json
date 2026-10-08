@@ -1,0 +1,67 @@
+{
+  "source_id": "src-1a5deaf584db",
+  "snapshot_sha256": "de73a12513ed342a2a20f8684be110fd9cd1a5468f0da57246b8b03e20f3b504",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1a5deaf584db-c01",
+      "assertion": "Yazhi describes Earth as an isolated dome or Matrix with rules of reality distinct from outside worlds.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as her account of Earth’s separation."
+    },
+    {
+      "id": "src-1a5deaf584db-c02",
+      "assertion": "Yazhi says Earth experiences and values carried by incarnating people influence Federation decisions about Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this feedback may perpetuate the same rules and problems."
+    },
+    {
+      "id": "src-1a5deaf584db-c03",
+      "assertion": "Swaruu X says the Federation limits public access to advanced technology to preserve the Earth experience chosen by souls.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0084",
+        "p0085",
+        "p0086"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes multiple civilization tiers with different technologies."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "time-slippage",
+    "Earth-human-species-origins"
+  ]
+}

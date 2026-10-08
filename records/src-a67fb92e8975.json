@@ -1,0 +1,123 @@
+{
+  "source_id": "src-a67fb92e8975",
+  "snapshot_sha256": "66f2e6e84f0cb79b23bb87f7694e6f4c6a631540daf988877af53f76bfe53e2e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a67fb92e8975-c01",
+      "assertion": "An artificial portal matches its toroidal core to a destination frequency, changing only what passes through its vortex.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a67fb92e8975-c02",
+      "assertion": "Destination hardware is optional, but return requires reaching a portal; paired portals provide more stable transit.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0020"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a67fb92e8975-c03",
+      "assertion": "Portal throughput depends on aperture size and energy relative to an object’s mass; more power enables heavier loads.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0052",
+        "p0054",
+        "p0055",
+        "p0057",
+        "p0061",
+        "p0065",
+        "p0078"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a67fb92e8975-c04",
+      "assertion": "Swaruu identifies a ship’s tractor beam as a portal for transferring people or objects remotely.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "artificial-portals",
+        "teleportation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a67fb92e8975-c05",
+      "assertion": "Taygetan portal use is logged by destination and leaves detectable residual energy, helping guard against infiltration.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0101"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "artificial-portals",
+      "name": "Artificial portals",
+      "kind": "technology",
+      "aliases": [
+        "artificial portals",
+        "portales artificiales",
+        "Stargate portals"
+      ]
+    }
+  ],
+  "review_flags": [
+    "translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control"
+  ],
+  "coverage_gaps": [
+    "CERN and Cabal claims",
+    "transit sensations",
+    "ancient portal locations"
+  ]
+}

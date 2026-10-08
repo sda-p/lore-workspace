@@ -250,6 +250,54 @@ Source: [Did the last Global Deluge happen less than 200 years ago? (English)](h
 
 Related topics: [Black holes](black-holes.md).
 
+### src-357c482522d2-c02
+
+She says a Federation-Taygeta fleet was ambushed at Tiamat, destroying over three-quarters of both forces and Tiamat; its waters flooded Earth and destroyed Atlantis and Lemuria.
+
+Attributed to **Swaruu (as recorded by Robert)**; reported; extraction confidence: medium.
+
+Source: [LA HISTORIA OCULTA DE LA HUMANIDAD - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/la-historia-oculta-de-la-humanidad-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-26; es); passages p0020, p0021, p0022, p0023. [Structured record](../../records/src-357c482522d2.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Atlantis and Lemuria](atlantis-lemuria.md).
+
+### src-1fd1145b4a3b-c01
+
+Swaruu dates Tiamat’s destruction to 12,500 years ago and says its water-world debris became today’s asteroid belt.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [INFORMACION IMPORTANTE SOBRE NIBIRU - MOISES Y LAS TABLAS DE LA LEY - SWARUU](https://swaruu.org/transcripts/informacion-importante-sobre-nibiru-moises-y-las-tablas-de-la-ley-swaruu) (2019-03-15; es); passages p0012, p0014. [Structured record](../../records/src-1fd1145b4a3b.json).
+
+### src-1a7b60ba8ea9-c03
+
+A Tiamat decoy ambushed the Federation; over 75% of both fleets were destroyed, shattering the planet.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [COMO NACIÓ LA MATRIX 3D - QUE FUE DE LOS GIGANTES - SWARUU](https://swaruu.org/transcripts/como-nacio-la-matrix-3d-que-fue-de-los-gigantes-swaruu) (2019-03-20; es); passages p0024, p0025. [Structured record](../../records/src-1a7b60ba8ea9.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-ec0774773c92-c02
+
+She says Taygetans pursued invaders into this system, destroying Tiamat and devastating Mars with extensive nuclear weapons; she condemns Tiamat's destruction. She says the destruction was unjustifiable and incurred species-level karma.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE – LA MATRIX – SISTEMA SOLAR – NIBIRU – TIAMAT - SWARUU DE ERRA](https://swaruu.org/transcripts/contacto-extraterrestre-la-matrix-sistema-solar-nibiru-tiamat-swaruu-de-erra) (2018-12-28; es); passages p0080, p0066, p0068, p0083. [Structured record](../../records/src-ec0774773c92.json).
+
+Related topics: [Taygetans](taygetans.md), [Orion Wars](orion-wars.md).
+
+### src-fba00f670b62-c01
+
+Swaruu says Tiamat, a large water planet nearer than Mars, was destroyed 12,500 years ago and became the asteroid belt.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru-y-nemesis-no-existen) (2018-05-30; es); passages p0004, p0005. [Structured record](../../records/src-fba00f670b62.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c02](black-goo.md#src-d47faace954b-c02) — Black goo
@@ -262,6 +310,16 @@ Related topics: [Black holes](black-holes.md).
 - [src-45ef563e0d5a-c01](ancient-egypt.md#src-45ef563e0d5a-c01) — Ancient Egypt
 - [src-7c1f9d5dcb76-c02](galactic-federation.md#src-7c1f9d5dcb76-c02) — Galactic Federation
 - [src-6ce55fb86338-c05](temporal-skipping.md#src-6ce55fb86338-c05) — Temporal skipping
+- [src-d7432fcef312-c01](black-goo.md#src-d7432fcef312-c01) — Black goo
+- [src-af005c73ed53-c03](black-goo.md#src-af005c73ed53-c03) — Black goo
+- [src-1a7b60ba8ea9-c04](atlantis-lemuria.md#src-1a7b60ba8ea9-c04) — Atlantis and Lemuria
+- [src-ba6a1792fd69-c03](atlantis-lemuria.md#src-ba6a1792fd69-c03) — Atlantis and Lemuria
+- [src-ae20e2d2296b-c02](neptune.md#src-ae20e2d2296b-c02) — Neptune and Triton
+- [src-ae20e2d2296b-c03](ceres.md#src-ae20e2d2296b-c03) — Ceres
+- [src-d8bcaf4fc008-c03](uranus.md#src-d8bcaf4fc008-c03) — Uranus and its moons
+- [src-59c43e8ab96d-c01](mars.md#src-59c43e8ab96d-c01) — Mars
+- [src-fba00f670b62-c02](terrestrial-science.md#src-fba00f670b62-c02) — Terrestrial science
+- [src-fba00f670b62-c04](reptilians.md#src-fba00f670b62-c04) — Reptilians
 
 ## Review flags
 
@@ -269,22 +327,36 @@ Related topics: [Black holes](black-holes.md).
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - approximate\_dates
+- attributed-medical-conspiracy-claims
+- contested-claims
+- contested-history
 - earth-control-claim-attributed
 - earth\_science\_claims\_unverified
 - extraordinary\_astronomical\_claims
 - extraordinary\_history\_claims
 - extraordinary\_metaphysical\_claims
+- extraterrestrial-claims
+- historical-claim
 - historical-claims-unverified
 - historical-conspiracy-claims
 - internal-date-tension
 - lunar-reactor-age-origin-uncertainty
 - metaphysical-claims
+- miranda-no-bases-versus-other-moon-bases
 - no-parallel-source-in-batch
 - planet\_count\_internal\_inconsistency
+- related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
+- same-language-near-duplicate-src-7872bc2f2c04
+- segmentation-diff
+- solar-system-history-attributed
+- speaker-attribution-inferred-from-transcript
+- speaker-header-diff
 - speaker-label-ambiguity
 - translated-from-spanish
 - translated-originally-Spanish
 - translated\_source
+- translation-counterpart:src-70fb5038443a-close; English adds context and 13-planet claims
 - translation-equivalence-review
+- triton-placement-attributed-to-andromedans
 - unproven-historical-speculation

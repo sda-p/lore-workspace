@@ -1,0 +1,90 @@
+{
+  "source_id": "src-01886647014f",
+  "snapshot_sha256": "49ed5acc605093998dd8fd9fc18df513d804ef0d8ddbb05614b496419c173d97",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-01886647014f-c01",
+      "assertion": "Anéeka says reports of French horse mutilations suggest both human cult and nonhuman involvement, but she cannot judge the cause or motive.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0026"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01886647014f-c02",
+      "assertion": "She describes nonhuman water-jet and compressed-sound cutters as at least 1,000 times more precise than scalpels; sound tools can separate cells intact.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "compressed-sound-cutting",
+      "topics": [
+        "compressed-sound-cutting",
+        "supersonic-water-jet-cutting",
+        "medical-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01886647014f-c03",
+      "assertion": "Anéeka says Grey gardeners often perform health corrections during abductions; memory insertions may be arranged before incarnation by Greys or a person's own species.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039",
+        "p0041",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "supersonic-water-jet-cutting",
+      "name": "Supersonic water-jet cutting",
+      "kind": "technology",
+      "aliases": [
+        "water saw",
+        "sierra de agua"
+      ]
+    },
+    {
+      "id": "compressed-sound-cutting",
+      "name": "Compressed-sound cutting",
+      "kind": "technology",
+      "aliases": [
+        "sonic saw",
+        "sierra de sonido"
+      ]
+    }
+  ],
+  "review_flags": [
+    "uncertain-human-versus-nonhuman-mutilation-cause"
+  ],
+  "coverage_gaps": [
+    "french-scope-and-surveillance-sensors",
+    "memory-insertion-pervasiveness"
+  ]
+}

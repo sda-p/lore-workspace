@@ -238,6 +238,136 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Unity - No Existential Realms, No Timelines, No Densities, No Dimensions (English)](https://swaruu.org/transcripts/unity-no-existential-realms-no-timelines-no-densities-no-dimensions-english) (2024-10-28; en); passages p0019, p0020, p0021. [Structured record](../../records/src-2ce90bb2fe65.json).
 
+### src-e60f3a4d18dd-c01
+
+Swaruu describes 5D as a state of consciousness rather than a material place; she says its perception includes 3D.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu: Que Signfica ser una Persona 5D: Contacto Extraterrestre Pleyadiano (12)](https://swaruu.org/transcripts/swaruu-que-signfica-ser-una-persona-5d-contacto-extraterrestre-pleyadiano-12) (2018-10-28; es); passages p0011, p0024. [Structured record](../../records/src-e60f3a4d18dd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e60f3a4d18dd-c02
+
+Swaruu says 5D senses are heightened and include telepathy and stronger empathy toward other beings.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu: Que Signfica ser una Persona 5D: Contacto Extraterrestre Pleyadiano (12)](https://swaruu.org/transcripts/swaruu-que-signfica-ser-una-persona-5d-contacto-extraterrestre-pleyadiano-12) (2018-10-28; es); passages p0005, p0007, p0009. [Structured record](../../records/src-e60f3a4d18dd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ceb65bcc3f82-c02
+
+Swaruu describes perceived density as an observer’s processing capacity; observers cannot perceive frequencies beyond their range.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar II - Swaruu de Erra -Como pilotar una nave](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-como-pilotar-una-nave) (2019-08-27; es); passages p0008, p0009. [Structured record](../../records/src-ceb65bcc3f82.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a011d9404b1c-c05
+
+Swaruu attributes planetary time’s pace mainly to inhabitants’ average perception, not celestial bodies.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [VIAJES EN EL TIEMPO, PARADOJAS, LINEAS TEMPORALES - SWARUU- DE LA RAZA TAYGETEANA - LAS PLEYADES](https://swaruu.org/transcripts/viajes-en-el-tiempo-paradojas-lineas-temporales-swaruu-de-la-raza-taygeteana-las-pleyades) (2018-06-20; es); passages p0027. [Structured record](../../records/src-a011d9404b1c.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-28c3fd0534dc-c02
+
+Swaruu says 5D time is malleable, aging stops, and bodies may change; full exit from 3D regeneration takes up to three months in a Med Pod or about two years naturally.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Ascension: Que es y en Que Consiste? Mensaje Extraterrestre Pleyadiano (23)](https://swaruu.org/transcripts/ascension-que-es-y-en-que-consiste-mensaje-extraterrestre-pleyadiano-23) (2019-04-16; es); passages p0019, p0021, p0023, p0081. [Structured record](../../records/src-28c3fd0534dc.json).
+
+Related topics: [Medical regeneration pods](medical-pods.md).
+
+### src-4f5b82f333ba-c04
+
+She defines dark matter as mass or potential energy outside 3D.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [LA MATRIX ES UNA ENORME TULPA - JAQUEAR LA MATRIX - COMO SALIR DE LA MATRIX](https://swaruu.org/transcripts/la-matrix-es-una-enorme-tulpa-jaquear-la-matrix-como-salir-de-la-matrix) (2019-04-05; es); passages p0012, p0019. [Structured record](../../records/src-4f5b82f333ba.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4e3d013dc4c3-c02
+
+She says Earth's 3D veil of forgetting is used by negative forces to intensify fear. Her model.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL MIEDO PRIMORDIAL - RAZA TAYGETEANA DE LAS PLEYADES](https://swaruu.org/transcripts/el-miedo-primordial-raza-taygeteana-de-las-pleyades) (2018-06-17; es); passages p0014. [Structured record](../../records/src-4e3d013dc4c3.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-67ae68e2b345-c01
+
+Swaruu uses densities for frequency bands, not mathematical dimensions.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Densidades: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (6)](https://swaruu.org/transcripts/densidades-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-6) (2018-07-16; es); passages p0004, p0005, p0015. [Structured record](../../records/src-67ae68e2b345.json).
+
+### src-67ae68e2b345-c02
+
+She says 3D and 5D are natural; artificial suppression restricts perception.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Densidades: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (6)](https://swaruu.org/transcripts/densidades-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-6) (2018-07-16; es); passages p0026, p0028, p0029. [Structured record](../../records/src-67ae68e2b345.json).
+
+### src-67ae68e2b345-c03
+
+She describes 4D as an astral buffer populated by varied creatures.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Densidades: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (6)](https://swaruu.org/transcripts/densidades-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-6) (2018-07-16; es); passages p0019, p0020, p0033, p0035. [Structured record](../../records/src-67ae68e2b345.json).
+
+### src-67ae68e2b345-c06
+
+She places matter’s transition to energy around 6D–7D; intent can manifest matter in any density.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Densidades: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (6)](https://swaruu.org/transcripts/densidades-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-6) (2018-07-16; es); passages p0074, p0076, p0078, p0080. [Structured record](../../records/src-67ae68e2b345.json).
+
+### src-31d1a6fe5da1-c04
+
+She says Earth 5D already exists at another frequency; inhabitants’ collective perception determines access.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar II - VUELO SUPRA-LUMINAR - Nave Extraterrestre - Swaruu de Erra](https://swaruu.org/transcripts/navegacion-estelar-ii-vuelo-supra-luminar-nave-extraterrestre-swaruu-de-erra) (2019-10-27; es); passages p0024, p0025, p0027. [Structured record](../../records/src-31d1a6fe5da1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a0a1d364e89f-c04
+
+Swaruu says Van Allen belts mark Earth’s 3D boundary; everything outside Earth is 5D.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-quienes-somos-1) (2018-05-28; es); passages p0007, p0024, p0026. [Structured record](../../records/src-a0a1d364e89f.json).
+
+### src-c92e3d59e2ba-c05
+
+Swaruu describes 5D as elevated consciousness-frequency that reveals high-frequency beings and latent DNA previously imperceptible to humans.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL EGO Y EL AMOR - MENSAJE EXTRATERRESTRE - NIBIRU - STAR TREK - SWARUU DE ERRA](https://swaruu.org/transcripts/el-ego-y-el-amor-mensaje-extraterrestre-nibiru-star-trek-swaruu-de-erra) (2018-12-17; es); passages p0035, p0036, p0037, p0039. [Structured record](../../records/src-c92e3d59e2ba.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bd13d89221e8-c04](consciousness-metaphysics.md#src-bd13d89221e8-c04) — Consciousness and metaphysics
@@ -278,20 +408,44 @@ Source: [Unity - No Existential Realms, No Timelines, No Densities, No Dimension
 - [src-1d29aea5b394-c03](extraterrestrial-syndrome.md#src-1d29aea5b394-c03) — Extraterrestrial syndrome
 - [src-69ad8dca8c41-c01](alien-species.md#src-69ad8dca8c41-c01) — Alien species and distinctions
 - [src-69ad8dca8c41-c02](alcyone-council.md#src-69ad8dca8c41-c02) — Alcyone Council
+- [src-52bbf3ffc87a-c01](consciousness-metaphysics.md#src-52bbf3ffc87a-c01) — Consciousness and metaphysics
+- [src-d704827158b8-c02](terrestrial-science.md#src-d704827158b8-c02) — Terrestrial science
+- [src-db5d7dcfb7ef-c02](consciousness-metaphysics.md#src-db5d7dcfb7ef-c02) — Consciousness and metaphysics
+- [src-bf466c0fec46-c03](reptilians.md#src-bf466c0fec46-c03) — Reptilians
+- [src-bf466c0fec46-c04](dna-metaphysics.md#src-bf466c0fec46-c04) — DNA and metaphysical patterns
+- [src-28c3fd0534dc-c04](taygetans.md#src-28c3fd0534dc-c04) — Taygetans
+- [src-3f4799b0281c-c01](venus.md#src-3f4799b0281c-c01) — Venus
+- [src-50c3183fae27-c06](consciousness-metaphysics.md#src-50c3183fae27-c06) — Consciousness and metaphysics
+- [src-31d1a6fe5da1-c03](consciousness-metaphysics.md#src-31d1a6fe5da1-c03) — Consciousness and metaphysics
+- [src-0f3bd493959e-c01](postmortem-realities.md#src-0f3bd493959e-c01) — Postmortem realities
+- [src-349f835aa3ef-c03](starship-systems.md#src-349f835aa3ef-c03) — Starship systems
+- [src-ca24d8041f8f-c02](moon-matrix.md#src-ca24d8041f8f-c02) — Moon and terrestrial Matrix
+- [src-2bc9fdeb3e80-c04](sasquatch.md#src-2bc9fdeb3e80-c04) — Sasquatch
 
 ## Review flags
 
 - 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
 - Abilities, body control, and density model are Yazhi’s self-reports
+- Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
+- Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - astral-perception-and-protection-claims
 - astral-warfare-claims-unverified
+- biology-claim
+- contested-claim
+- cosmology-claims-attributed
+- dyatlov-claim-reversed-in-later-anéeka-account
 - entertainment-disclaimer
 - extraordinary-ability-claims
+- historical-doctrine-origin-claim
+- historical-event-identified-from-painting
 - historical-uncertainty
 - metaphysical-model
 - personal\_metaphysics
 - reincarnation-cosmology
+- translation-counterpart-src-0a2dec346e2d-expanded-later-account
 - unverified\_paranormal\_claims
 - unverified\_physics\_claims
+- venus-habitable-world-model

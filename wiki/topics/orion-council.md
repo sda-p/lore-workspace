@@ -32,9 +32,13 @@ Related topics: [Alcyone Council](alcyone-council.md), [Urmah](urmah.md).
 
 - [src-97cfd0c56ade-c01](galactic-federation.md#src-97cfd0c56ade-c01) — Galactic Federation
 - [src-234bba72765f-c05](alfrata.md#src-234bba72765f-c05) — Alfrata (Phaeton)
+- [src-84a31dbc8140-c03](alpha-draconians.md#src-84a31dbc8140-c03) — Alpha Draconians
+- [src-f3a1e4326731-c04](prime-directive.md#src-f3a1e4326731-c04) — Prime Directive
 
 ## Review flags
 
 - Athena-interview-original-English
 - factional-threat-interpretation-attributed-to-urmah
+- federation-history-attributed
+- uncertain-origin
 - unverified-contact-claims

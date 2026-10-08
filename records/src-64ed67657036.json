@@ -1,0 +1,43 @@
+{
+  "source_id": "src-64ed67657036",
+  "snapshot_sha256": "ac2124d7a0d01942191cf5c41e9c405c7dc14172e787703d2b07e8cf64ef10c8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-64ed67657036-c01",
+      "assertion": "Swaruu says Akashic access is channeling the Ether/Source by matching a question's frequency; a library is only one person's metaphor for how information appears.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0003", "p0004", "p0005", "p0006"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64ed67657036-c02",
+      "assertion": "She says answers can come from any timeline but are filtered by the questioner's thought-frequency and expectations; shared answers reflect agreements, not absolute truth.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0008", "p0011", "p0013", "p0015"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "timeline-branching"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64ed67657036-c03",
+      "assertion": "Swaruu says an emptier mind makes information more reliable; meditation practice can develop into channeling, even during another task without losing awareness.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0022", "p0026", "p0031", "p0033"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes multitasking access as her own practice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["meditation-practice-details", "personal-expression-of-accessed-records"]
+}

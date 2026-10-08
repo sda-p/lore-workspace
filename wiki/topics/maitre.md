@@ -94,12 +94,47 @@ Attributed to **Gosia**; reported; extraction confidence: medium.
 
 Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0110, p0111. [Structured record](../../records/src-c1f323f128a9.json).
 
+### src-ab81c3f220ab-c04
+
+She says Maitré offered destructive technology for human and animal access, later demanding bases for missing components; diplomacy with the US government ended.
+
+Attributed to **Rashell**; reported; extraction confidence: high.
+
+Source: [Nosotras, Pleyadianas, Hablamos con Eisenhower: Primer Relato en la Historia](https://swaruu.org/transcripts/nosotras-pleyadianas-hablamos-con-eisenhower-primer-relato-en-la-historia) (2019-02-01; es); passages p0023, p0024. [Structured record](../../records/src-ab81c3f220ab.json).
+
+Related topics: [Rashell–Eisenhower Contact](rashell-eisenhower-contact.md).
+
+### src-8e490481292c-c04
+
+She says Maitré offered weapons technology for human and animal access, demanded bases for missing components; the US complied, ending diplomacy.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE PLEYADIANO DE TAYGETA CON EL PRESIDENTE IKE EISENHOWER - RASHELL DE TEMMER](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-de-taygeta-con-el-presidente-ike-eisenhower-rashell-de-temmer) (2018-10-16; es); passages p0023, p0024. [Structured record](../../records/src-8e490481292c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-59c43e8ab96d-c03
+
+Maitre reproduce only by test-tube methods or cloning; their ships use star portals and lack warp.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LOS SECRETOS DEL PLANETA MARTE -CIVILIZACIONES EN MARTE](https://swaruu.org/transcripts/los-secretos-del-planeta-marte-civilizaciones-en-marte) (2019-06-10; es); passages p0009, p0015, p0019. [Structured record](../../records/src-59c43e8ab96d.json).
+
+Related topics: [Mars](mars.md), [Natural and artificial portals](natural-portals.md), [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-72696c075fca-c04](galactic-federation.md#src-72696c075fca-c04) — Galactic Federation
+- [src-59c43e8ab96d-c02](mars.md#src-59c43e8ab96d-c02) — Mars
+- [src-59c43e8ab96d-c04](mars.md#src-59c43e8ab96d-c04) — Mars
 
 ## Review flags
 
+- Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Species summaries are broad and based on accounts attributed to orbital sources
+- historical-contact-attributed
+- related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - reported arrival date conflicts with article chronology
 - source includes conflicting publication and event dates; claims retain stated dates

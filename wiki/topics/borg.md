@@ -58,10 +58,21 @@ Source: [Invasive Artificial Intelligence - BORG - Extraterrestrial Information 
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-b36d2a7b7c51-c02
+
+She says Borg fiction symbolizes this, though real assimilation is more complex than cyborg fusion. Her analogy.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE - INTELIGENCIA ARTIFICIAL – Swaruu de Erra](https://swaruu.org/transcripts/contacto-extraterrestre-inteligencia-artificial-swaruu-de-erra) (2018-12-04; es); passages p0013. [Structured record](../../records/src-b36d2a7b7c51.json).
+
+Related topics: [Synthetic Intelligence](synthetic-intelligence.md).
+
 ## Claims filed under other topics
 
 - [src-edda680af7b5-c02](black-goo.md#src-edda680af7b5-c02) — Black goo
 
 ## Review flags
 
+- claims-about-suppressed-contact-evidence
 - unverified\_extraterrestrial\_threat\_claims

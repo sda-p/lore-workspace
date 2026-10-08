@@ -1,0 +1,94 @@
+{
+  "source_id": "src-8a9dc43817ba",
+  "snapshot_sha256": "80e271de5223542f791d048dd241e39536577175ace9a032e92a38e1def316a9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8a9dc43817ba-c01",
+      "assertion": "The article defines love as accepting and integrating another into oneself, and as a motive for life and cosmic creation.",
+      "speaker": "Despejando Enigmas, Robert",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a9dc43817ba-c02",
+      "assertion": "It says judgment and emotional attachment cause suffering, while peace comes from recognizing inner completeness rather than external validation.",
+      "speaker": "Despejando Enigmas, Robert",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a9dc43817ba-c03",
+      "assertion": "The article presents the world as a projection of inner self, shaped by perception, feeling and interpretation.",
+      "speaker": "Despejando Enigmas, Robert",
+      "paragraph_ids": [
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a9dc43817ba-c04",
+      "assertion": "It frames fear, separation, war and chaos as reflections of inner disconnection and conflict.",
+      "speaker": "Despejando Enigmas, Robert",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a9dc43817ba-c05",
+      "assertion": "The author treats love as near, but not necessarily, the universe’s highest frequency.",
+      "speaker": "Despejando Enigmas, Robert",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-attribution-ambiguous"
+  ],
+  "coverage_gaps": [
+    "love-definition-variation",
+    "social-application"
+  ]
+}

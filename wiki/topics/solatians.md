@@ -57,3 +57,11 @@ Attributed to **Mari Swa**; reported; extraction confidence: high.
 Source: [The Solatian People (English)](https://swaruu.org/transcripts/the-solatian-people-english) (2024-05-06; en); passages p0019, p0020. [Structured record](../../records/src-555d02ebcd4e.json).
 
 Related topics: [Disc-shaped shuttle craft](disc-shaped-shuttles.md).
+
+## Claims filed under other topics
+
+- [src-bfae5ca72b24-c05](alien-species.md#src-bfae5ca72b24-c05) — Alien species and distinctions
+
+## Review flags
+
+- causal-attribution-tension

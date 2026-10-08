@@ -1,0 +1,123 @@
+{
+  "source_id": "src-d2714323822a",
+  "snapshot_sha256": "c06ab8adae8c58ca28798c0b1e8778759b358b49c49dc452900b14f6098f108a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d2714323822a-c01",
+      "assertion": "Swaruu says Taygetan presence grew in 1952 and 2008 to counter a claimed Agenda 21 plan.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2714323822a-c02",
+      "assertion": "She says Earth liberation must come from within: contact awakens key people; direct force would fail.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0019",
+        "p0047"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2714323822a-c03",
+      "assertion": "Young Taygetan idealists volunteer, motivated by empathy and shared identity with Earth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2714323822a-c04",
+      "assertion": "Earth is one of ten similar planets but the key negative stronghold in its quadrant.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0055",
+        "p0057",
+        "p0059"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2714323822a-c05",
+      "assertion": "Swaruu says Federation made the 3D framework; negatives hacked and repurposed it.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0067"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2714323822a-c06",
+      "assertion": "She says Earth’s real population consists of starseeds; awakening shifts timelines positively.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0053"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "agenda21-assertion",
+    "counterfactual-earth-history"
+  ],
+  "coverage_gaps": [
+    "planetary-time-ratio",
+    "other-mission-rationales",
+    "federation-headquarters-history"
+  ]
+}

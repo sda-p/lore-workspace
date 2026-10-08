@@ -86,6 +86,16 @@ Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
 
 Source: [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-past-anecdotes-life-on-the-ship-part-4) (2024-10-07; en); passages p0041, p0043, p0045, p0047, p0049, p0051. [Structured record](../../records/src-6825f8d595d8.json).
 
+### src-b4123d146ba9-c04
+
+Swaruu de Erra says laser aura scanners on aircraft, drones, or handhelds can match offworld origins to databases.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [BioGenetica Trans-Dimensional: Swaruu Mujer Extraterrestre de Pleyades (Taygeta) \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/biogenetica-trans-dimensional-swaruu-mujer-extraterrestre-de-pleyades-taygeta) (2018-08-14; es); passages p0021, p0023, p0024, p0025. [Structured record](../../records/src-b4123d146ba9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-270ba8d9da62-c03](frequency-map-navigation.md#src-270ba8d9da62-c03) — Frequency-map navigation
@@ -93,6 +103,7 @@ Source: [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](htt
 ## Review flags
 
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
+- claims-attributed-to-source-narrators
 - conspiracy\_claims
 - disaster-causation-unverified
 - entertainment-disclaimer

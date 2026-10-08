@@ -1,0 +1,107 @@
+{
+  "source_id": "src-78a2f4005f35",
+  "snapshot_sha256": "653a870ee3a68ecd2a6c2f9495f25699c74ce1a91d67a0a7286bb54020ca534c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-78a2f4005f35-c01",
+      "assertion": "Swaruu says the visible Sun is a portal exit, paired with an entry black hole in central Andromeda.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0032"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes",
+        "sunspot-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78a2f4005f35-c02",
+      "assertion": "She alleges Cabal codes use nuclear for genetics, atomic for extraterrestrials, meteors for craft, and spirals for portals; context matters.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0017",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78a2f4005f35-c03",
+      "assertion": "Swaruu says consciousness sustains toroidal patterns that condense potential energy into matter; neglected forms dissipate.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0037"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78a2f4005f35-c04",
+      "assertion": "She defines dark matter as potential mass or energy outside 3D.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78a2f4005f35-c05",
+      "assertion": "Swaruu calls 3D a copy of the initial 5D Matrix; attention sustains tulpas and material forms.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0036",
+        "p0040"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "moon-matrix",
+        "tulpas"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy-claims",
+    "contested-claims"
+  ],
+  "coverage_gaps": [
+    "solar-energy-model",
+    "other-coded-terms",
+    "individual-consciousness"
+  ]
+}

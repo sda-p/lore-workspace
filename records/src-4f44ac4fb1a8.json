@@ -1,0 +1,111 @@
+{
+  "source_id": "src-4f44ac4fb1a8",
+  "snapshot_sha256": "314a7848cec6a9b7c30d7380b9474fe5ff16a460e6199cbbf70d1ffa46d19a5b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4f44ac4fb1a8-c01",
+      "assertion": "Swaruu says Vespasian and Titus used seized texts to build a pro-Roman messiah story.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "flavian-jesus-claim",
+      "topics": [
+        "flavian-jesus-claim",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f44ac4fb1a8-c02",
+      "assertion": "She says Rome reshaped existing religions into Christianity and Judaism to suppress revolt through social control.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0034",
+        "p0052"
+      ],
+      "primary_topic": "flavian-jesus-claim",
+      "topics": [
+        "flavian-jesus-claim",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f44ac4fb1a8-c03",
+      "assertion": "She says Messiah/Kristos was a common title for Palestinian movement leaders, not unique to Jesus.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "flavian-jesus-claim",
+      "topics": [
+        "flavian-jesus-claim"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f44ac4fb1a8-c04",
+      "assertion": "Her account recasts Titus as Jesus, with crucifixion used to create martyrdom and deter rebellion.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0091",
+        "p0097"
+      ],
+      "primary_topic": "flavian-jesus-claim",
+      "topics": [
+        "flavian-jesus-claim"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f44ac4fb1a8-c05",
+      "assertion": "She says Greek and Latin Gospels drew on Titus’s campaigns, Roman Stoicism, and older religious texts.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0055",
+        "p0058",
+        "p0079",
+        "p0080"
+      ],
+      "primary_topic": "flavian-jesus-claim",
+      "topics": [
+        "flavian-jesus-claim",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "flavian-jesus-claim",
+      "name": "Flavian Jesus narrative",
+      "kind": "historical claim",
+      "aliases": [
+        "Titus as Jesus",
+        "Relato flaviano de Jesús"
+      ]
+    }
+  ],
+  "review_flags": [
+    "No English translation counterpart identified; this source contains sweeping counter-historical claims, preserved here only as Swaruu’s attributed lore."
+  ],
+  "coverage_gaps": [
+    "Roman campaigns",
+    "Egyptian solar symbolism",
+    "Druidic history"
+  ]
+}

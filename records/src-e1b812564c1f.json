@@ -1,0 +1,123 @@
+{
+  "source_id": "src-e1b812564c1f",
+  "snapshot_sha256": "a8ad2c5241d31489ebe29bf4da47224c165a184b9d38db2706ec9debbd32aff5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e1b812564c1f-c01",
+      "assertion": "Dhor says systems start mentally or by console; startup activates the telepathic interface.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0013",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1b812564c1f-c02",
+      "assertion": "He says plasma engines form a frequency-controlled toroid matching the destination for hyperspace, without space-warping.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0037",
+        "p0042",
+        "p0044",
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1b812564c1f-c03",
+      "assertion": "Suzy-class craft exceed 1,000G; inertial dampers tune how much acceleration occupants feel.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1b812564c1f-c04",
+      "assertion": "Point-zero power needs no fuel or recharge, enabling unlimited range without portals.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1b812564c1f-c05",
+      "assertion": "A 65.4-light-year trip to Aldebaran took 25 minutes SIT, the ship-internal time measure.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0036",
+        "p0038",
+        "p0057"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1b812564c1f-c06",
+      "assertion": "Ships recognize occupants by frequency and DNA; Suzy restricts access to Swaruu, its AI an extension of her mind.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-counterpart: none identified"
+  ],
+  "coverage_gaps": [
+    "preflight checks",
+    "ship seating and cockpit",
+    "launch sequence"
+  ]
+}

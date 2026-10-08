@@ -1,0 +1,54 @@
+{
+  "source_id": "src-d91884cf2930",
+  "snapshot_sha256": "33a6af13167821dae535eb08b3a836fccfb9e3c15bea0ed9ff06474d4892bf1c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d91884cf2930-c01",
+      "assertion": "Swaruu says most ships use controlled-gravity tractor beams to move cargo or pull and push large objects.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0007", "p0009"],
+      "primary_topic": "tractor-beams",
+      "topics": ["tractor-beams", "starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d91884cf2930-c02",
+      "assertion": "She describes a counter-rotating, mercury-filled sphere turbine generating an electromagnetic vortex, shaped by holographic lenses and nano-electromagnets.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0007", "p0008", "p0009", "p0010"],
+      "primary_topic": "tractor-beams",
+      "topics": ["tractor-beams", "holographic-computers"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d91884cf2930-c03",
+      "assertion": "Swaruu says the beam can project forms or create solid matter and event sequences from energy; created objects persist after beam withdrawal.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0011", "p0013", "p0014", "p0015"],
+      "primary_topic": "tractor-beams",
+      "topics": ["tractor-beams", "energy-generation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d91884cf2930-c04",
+      "assertion": "She says hull sensors measure magnetic and gravitational changes but miss some subatomic values; computers estimate these from predictable parameters.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0022", "p0024", "p0025", "p0027"],
+      "primary_topic": "frequency-microscopes",
+      "topics": ["frequency-microscopes", "starship-systems", "holographic-computers"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["tractor-beam-technology-attributed"],
+  "coverage_gaps": ["ionizing-radiation", "crop-formation"]
+}

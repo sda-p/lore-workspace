@@ -1,0 +1,89 @@
+{
+  "source_id": "src-1903d86872f9",
+  "snapshot_sha256": "0e2dace0da309657e4b8953e73790473c37ea82b9668f6bbf5bdbda767b6042d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1903d86872f9-c01",
+      "assertion": "Yazhi says highly aware people can outweigh many “sleepers” in shaping collective reality; influence is not democratic.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0070",
+        "p0071",
+        "p0073",
+        "p0099",
+        "p0101"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her numerical examples are explicitly rough illustrations."
+    },
+    {
+      "id": "src-1903d86872f9-c02",
+      "assertion": "She says greater awareness amplifies responsibility, and fearful thought can manifest collective outcomes quickly.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0044",
+        "p0075",
+        "p0082",
+        "p0083"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1903d86872f9-c03",
+      "assertion": "Yazhi distinguishes deliberate reasoning from conditioned reaction, assigning thought scalar effects beyond physical action.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0026",
+        "p0030",
+        "p0032",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says outcomes depend on the thinker and context."
+    },
+    {
+      "id": "src-1903d86872f9-c04",
+      "assertion": "She says self-improvement and shadow work raise the influence of resulting thoughts and actions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0040",
+        "p0042"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "awareness-weighting-claims",
+    "higher-influence-carries-risk"
+  ],
+  "coverage_gaps": [
+    "collective-consciousness-model",
+    "emotion-frequency"
+  ]
+}

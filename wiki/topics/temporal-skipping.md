@@ -370,6 +370,36 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (English)](https://swaruu.org/transcripts/space-news-49-new-spaceport-more-on-australia-my-health-birthday-english) (2024-10-26; en); passages p0005. [Structured record](../../records/src-6b5449860d14.json).
 
+### src-54b7fc64a7de-c05
+
+FTL ships use Bil’h for where, Na’al for when, and Ho’dee’zá for approach direction.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Navegacion Estelar Extraterrestre, Viajes en Tiempo, Mapas InterEstelares: Swaruu de Erra (Pleyades)](https://swaruu.org/transcripts/navegacion-estelar-extraterrestre-viajes-en-tiempo-mapas-interestelares-swaruu-de-erra-pleyades) (2018-10-30; es); passages p0070, p0072, p0073, p0075. [Structured record](../../records/src-54b7fc64a7de.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-54b7fc64a7de-c06
+
+Swaruu says FTL is time travel, requiring ethical-spiritual maturity because interventions can alter timelines.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Navegacion Estelar Extraterrestre, Viajes en Tiempo, Mapas InterEstelares: Swaruu de Erra (Pleyades)](https://swaruu.org/transcripts/navegacion-estelar-extraterrestre-viajes-en-tiempo-mapas-interestelares-swaruu-de-erra-pleyades) (2018-10-30; es); passages p0071, p0076, p0077, p0078, p0079, p0080. [Structured record](../../records/src-54b7fc64a7de.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-775d18ade5d9-c03
+
+Swaruu says Taygetan Temporal Command trains top fighter pilots to alter timelines strategically; she claims repeated jumps accumulated thousands of years. She says Suzy AI retains the jump records.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ESPIRITUALIDAD Y CONCIENCIA - KARMA - MENSAJE EXTRATERRESTRE - SWARUU DE ERRA](https://swaruu.org/transcripts/espiritualidad-y-conciencia-karma-mensaje-extraterrestre-swaruu-de-erra) (2018-12-22; es); passages p0037, p0039. [Structured record](../../records/src-775d18ade5d9.json).
+
+Related topics: [Timeline branching](timeline-branching.md), [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-c72b629726c7-c01](stellar-navigation.md#src-c72b629726c7-c01) — Stellar navigation
@@ -383,6 +413,9 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - [src-1aa59d2c774b-c05](ship-internal-time.md#src-1aa59d2c774b-c05) — Ship internal time
 - [src-12122c9c7bda-c02](dimensional-mirroring.md#src-12122c9c7bda-c02) — Dimensional mirroring
 - [src-12122c9c7bda-c04](dimensional-mirroring.md#src-12122c9c7bda-c04) — Dimensional mirroring
+- [src-bbad8c4053ab-c02](stellar-navigation.md#src-bbad8c4053ab-c02) — Stellar navigation
+- [src-e15992dcfa52-c02](crop-circles.md#src-e15992dcfa52-c02) — Crop circles
+- [src-6a5223076196-c04](stellar-navigation.md#src-6a5223076196-c04) — Stellar navigation
 
 ## Review flags
 
@@ -394,8 +427,11 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - long conversation contains disputed health claims not included in core extraction
 - mirror-identity-varies
 - personal\_metaphysics
+- same-language-near-duplicate-src-6a5223076196
 - speaker-shift-in-source
 - speaker\_attribution
+- temporal-lore-attributed
+- title-metadata-diff
 - unproven-historical-speculation
 - unverified\_extraterrestrial\_claims
 - unverified\_historical\_claims

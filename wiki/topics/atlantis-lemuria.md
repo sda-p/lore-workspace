@@ -298,6 +298,82 @@ Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
 
 Source: [Ancient Egypt (3) - Meritaten, Exodus, Scotland, Cabal - Swaruu of Erra](https://swaruu.org/transcripts/ancient-egypt-3-meritaten-exodus-scotland-cabal-swaruu-of-erra) (2025-02-09; en); passages p0021. [Structured record](../../records/src-b0c4a788e5de.json).
 
+### src-357c482522d2-c01
+
+Swaruu says Lyrian humans reached Earth about 40,000 years ago; a Taygetan Lemurian colony coexisted with them before reptilian invaders attacked and enslaved Lyrians.
+
+Attributed to **Swaruu (as recorded by Robert)**; reported; extraction confidence: medium.
+
+Source: [LA HISTORIA OCULTA DE LA HUMANIDAD - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/la-historia-oculta-de-la-humanidad-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-26; es); passages p0006, p0007, p0008. [Structured record](../../records/src-357c482522d2.json).
+
+Related topics: [Reptilian invaders](reptilian-invaders.md).
+
+### src-17057e78d90e-c01
+
+Swaruu distinguishes Lyria-Gaia, a multiracial embassy, from Atlantis, a nearly all-reptilian stronghold; she says their histories are conflated.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LOS GIGANTES ATLANTES - LA ATLANTIDA - TABLILLAS SUMERIAS -LOS LYRIANOS](https://swaruu.org/transcripts/los-gigantes-atlantes-la-atlantida-tablillas-sumerias-los-lyrianos) (2019-04-11; es); passages p0008. [Structured record](../../records/src-17057e78d90e.json).
+
+### src-1a7b60ba8ea9-c01
+
+Swaruu says Lyrians arrived about 40,000 years ago; Taygetans founded cooperative Lemuria on lost Oceania before Atlantis.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [COMO NACIÓ LA MATRIX 3D - QUE FUE DE LOS GIGANTES - SWARUU](https://swaruu.org/transcripts/como-nacio-la-matrix-3d-que-fue-de-los-gigantes-swaruu) (2019-03-20; es); passages p0010, p0011. [Structured record](../../records/src-1a7b60ba8ea9.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-1a7b60ba8ea9-c04
+
+Tiamat’s destruction shifted orbits and flooded Earth, ending Lemuria and Atlantis; survivors fled to coasts and highlands.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [COMO NACIÓ LA MATRIX 3D - QUE FUE DE LOS GIGANTES - SWARUU](https://swaruu.org/transcripts/como-nacio-la-matrix-3d-que-fue-de-los-gigantes-swaruu) (2019-03-20; es); passages p0026, p0027. [Structured record](../../records/src-1a7b60ba8ea9.json).
+
+Related topics: [Tiamat](tiamat.md).
+
+### src-ba6a1792fd69-c01
+
+Swaruu defines Atlantis as a global culture, not continent, with its capital on submerged Appalachia.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (7) - AGARTHIANOS (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-7-agarthianos-mensaje-pleyadiano-taygeta) (2019-08-02; es); passages p0003. [Structured record](../../records/src-ba6a1792fd69.json).
+
+### src-ba6a1792fd69-c02
+
+Lemuria was a Taygetan-founded civilization on lost Oceana; its Mu capital welcomed refugees from Atlantis.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (7) - AGARTHIANOS (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-7-agarthianos-mensaje-pleyadiano-taygeta) (2019-08-02; es); passages p0004. [Structured record](../../records/src-ba6a1792fd69.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-ba6a1792fd69-c03
+
+After Tiamat’s flood, Lemurian survivors fled to the Americas and Japan, then Shasta caverns; Atlanteans settled Ireland and Scotland.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (7) - AGARTHIANOS (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-7-agarthianos-mensaje-pleyadiano-taygeta) (2019-08-02; es); passages p0005, p0007. [Structured record](../../records/src-ba6a1792fd69.json).
+
+Related topics: [Tiamat](tiamat.md), [Taygetans](taygetans.md).
+
+### src-8a805d3bcc25-c01
+
+Robert’s summary of Swaruu: Atlantis’s flood survivors settled Ireland and Scotland, then Egypt about 1,000 years later.
+
+Attributed to **Robert summarizing Swaruu**; reported; extraction confidence: high.
+
+Source: [Respuestas - Anunnki - Elohim - Shiva - Enki - Enlil - Triangulum](https://swaruu.org/transcripts/respuestas-anunnki-elohim-shiva-enki-enlil-triangulum) (2019-07-19; es); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-8a805d3bcc25.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
 ## Claims filed under other topics
 
 - [src-4edf6c848c69-c03](tiamat.md#src-4edf6c848c69-c03) — Tiamat
@@ -313,21 +389,27 @@ Source: [Ancient Egypt (3) - Meritaten, Exodus, Scotland, Cabal - Swaruu of Erra
 - [src-5ffe56780faa-c01](intraterrestrial-civilizations.md#src-5ffe56780faa-c01) — Intraterrestrial civilizations
 - [src-5ffe56780faa-c03](intraterrestrial-civilizations.md#src-5ffe56780faa-c03) — Intraterrestrial civilizations
 - [src-9afde86ad754-c03](tartaria.md#src-9afde86ad754-c03) — Tartaria
+- [src-357c482522d2-c02](tiamat.md#src-357c482522d2-c02) — Tiamat
+- [src-17057e78d90e-c02](atlantes.md#src-17057e78d90e-c02) — Atlantes
 
 ## Review flags
 
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
+- Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - alternate-history\_claims\_attributed
 - competing\_attributions
+- contested-history
 - cosmology-claims\_attributed
 - extraordinary\_archaeological\_claims
 - extraordinary\_conflict\_claims
 - extraordinary\_history\_claims
+- extraterrestrial-claims
 - frequency\_health\_claims\_unverified
 - historical-conspiracy-claims
 - no-parallel-source-in-batch
+- speaker-attribution-inferred-from-transcript
 - speaker-speculation
 - symbolic\_interpretations
 - translated-from-spanish

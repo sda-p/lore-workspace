@@ -1,0 +1,101 @@
+{
+  "source_id": "src-039a50ac3015",
+  "snapshot_sha256": "b889000cb1fefeed99d2c9223049dc3b4cbd0d2793d1bdbef998ec5c0f606957",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-039a50ac3015-c01",
+      "assertion": "Kingu dominate Earth’s reptiles; Usungal, Naga and Draco outrank Vlash, Vlak and Bril, under offworld Draconians.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-039a50ac3015-c02",
+      "assertion": "Agarthian/Vulcan intraterrestrials hide deep in Earth at higher densities beyond lunar Matrix waves; reptiles threaten them.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0041"
+      ],
+      "primary_topic": "intraterrestrial-vulcans",
+      "topics": [
+        "intraterrestrial-vulcans",
+        "reptilians",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-039a50ac3015-c03",
+      "assertion": "Swaruu calls the Moon a damaged, abandoned spherical spacecraft associated with the lunar frequency-control Matrix.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "moon-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-039a50ac3015-c04",
+      "assertion": "She says reptiles use Earth as a human farm, though souls enter voluntarily and remain through mind control.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-039a50ac3015-c05",
+      "assertion": "Swaruu dates colonization to about 40,000 years ago and the current lunar Matrix setup to 12,500 years ago.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "date-discrepancy"
+  ],
+  "coverage_gaps": [
+    "hollow-earth",
+    "artificial-intelligence",
+    "density-ascension"
+  ]
+}

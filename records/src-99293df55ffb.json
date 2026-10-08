@@ -1,0 +1,65 @@
+{
+  "source_id": "src-99293df55ffb",
+  "snapshot_sha256": "238eda34e319a8e4487f6827b53ccd70574b25b5dd805f06a51dda29d2a7b45e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-99293df55ffb-c01",
+      "assertion": "Swaruu says time is personal perception, not external sequence; consciousness accesses alternate lines, not shared history.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0103", "p0134", "p0143", "p0144"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-99293df55ffb-c02",
+      "assertion": "Jumps alter only the traveler's perceived future; original timelines and other people's histories persist.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0088", "p0090", "p0091", "p0093", "p0124"],
+      "primary_topic": "temporal-skipping",
+      "topics": ["temporal-skipping", "timeline-branching"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-99293df55ffb-c03",
+      "assertion": "Sand Clock navigation stores departure frequencies; altered futures require new coordinates from a nexus point.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0021", "p0028", "p0029", "p0041", "p0045"],
+      "primary_topic": "sand-clock",
+      "topics": ["sand-clock", "temporal-skipping"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-99293df55ffb-c04",
+      "assertion": "She says travel cannot erase the jumper's identity or experiences or shortcut spiritual growth.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0149", "p0150", "p0153", "p0159"],
+      "primary_topic": "temporal-skipping",
+      "topics": ["temporal-skipping", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-99293df55ffb-c05",
+      "assertion": "She allows small combat repositioning but says time travel cannot change wars; conventional maneuvers may suffice.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0169", "p0171", "p0178"],
+      "primary_topic": "temporal-skipping",
+      "topics": ["temporal-skipping", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Limits."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["temporal-branching-does-not-alter-observers' timelines"],
+  "coverage_gaps": ["frequency-based-destiny", "dna-and-temporal-experience"]
+}

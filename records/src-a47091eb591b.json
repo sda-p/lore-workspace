@@ -1,0 +1,108 @@
+{
+  "source_id": "src-a47091eb591b",
+  "snapshot_sha256": "53ce716d18593b5d98f7ae9ea5f3cfe8293b34ac0db31f15d7fdf58d74b43542",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a47091eb591b-c01",
+      "assertion": "Yazhi says reality is individually valid and shaped by perception, beliefs, and shared agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0072",
+        "p0075"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a47091eb591b-c02",
+      "assertion": "She says authorities and governments can impose collective reality when people delegate judgment.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0049",
+        "p0057",
+        "p0068",
+        "p0073"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a47091eb591b-c03",
+      "assertion": "She describes higher densities as more readily manifesting ideas, with less linear time and branching timelines.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0021",
+        "p0028",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a47091eb591b-c04",
+      "assertion": "Yazhi claims human collective fear empowers regressive entities, which manipulate rather than create.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0098",
+        "p0099",
+        "p0101",
+        "p0103"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents the tulpa idea as her own speculative view."
+    },
+    {
+      "id": "src-a47091eb591b-c05",
+      "assertion": "She says people should develop personal realities without imposing them, and remain open to changing beliefs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0085",
+        "p0086",
+        "p0089"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "authority-and-individual-reality-tension"
+  ],
+  "coverage_gaps": [
+    "ego-model",
+    "dream-state"
+  ]
+}

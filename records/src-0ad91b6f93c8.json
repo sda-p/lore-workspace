@@ -1,0 +1,112 @@
+{
+  "source_id": "src-0ad91b6f93c8",
+  "snapshot_sha256": "c4aec5adf6b7aa3cf38517dbda369d9fe77d959e07c86bdf9764b583b32e6be3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0ad91b6f93c8-c01",
+      "assertion": "Swaruu groups Arcturians into three ancient, non-Lyran amphibious-DNA branches—Dieslientiplex, Devonian and Korendian—in Bootes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "dieslientiplex",
+        "devonians",
+        "korendians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0ad91b6f93c8-c02",
+      "assertion": "They are short, single-sex and reproduce by self-cloning offspring in an abdominal pouch.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0ad91b6f93c8-c03",
+      "assertion": "Mature offspring inherit parental consciousness; old bodies die, preserving identity and memory, while individuals remain distinct rather than hive-minded.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0016",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0ad91b6f93c8-c04",
+      "assertion": "Swaruu says they are Federation members, co-founded the Andromeda Council, belong to the Sphere Council, and cooperate amicably with Taygetans.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0044",
+        "p0053"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation",
+        "andromeda-council",
+        "council-of-the-sphere",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "dieslientiplex",
+      "name": "Dieslientiplex",
+      "kind": "species",
+      "aliases": [
+        "Arcturians"
+      ]
+    },
+    {
+      "id": "devonians",
+      "name": "Devonians",
+      "kind": "species",
+      "aliases": []
+    },
+    {
+      "id": "korendians",
+      "name": "Korendians",
+      "kind": "species",
+      "aliases": []
+    },
+    {
+      "id": "council-of-the-sphere",
+      "name": "Council of the Sphere",
+      "kind": "institution",
+      "aliases": []
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "earth-seeds",
+    "romantic-relationships",
+    "5d-philosophy"
+  ]
+}

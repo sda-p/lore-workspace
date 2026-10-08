@@ -130,21 +130,272 @@ Source: [Swaruu of Erra & Gosia – Private Conversation Before Public Contact (
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-fd4806542048-c02
+
+She says alien soul incarnations can prompt genetic adaptation: intention usually suffices in 5D, while slower-manifesting 3D bodies may need artificial intervention.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Genética - Epigenética Aplicada – Tablillas Sumerias - Anunnaki](https://swaruu.org/transcripts/genetica-epigenetica-aplicada-tablillas-sumerias-anunnaki) (2019-07-06; es); passages p0024, p0025, p0029, p0031. [Structured record](../../records/src-fd4806542048.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-fd4806542048-c03
+
+She rejects the human reading of Sumerian tablets as physical human engineering, saying Matrix beliefs impose reversible limits while stellar-race genes remain latent until consciousness activates them.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Genética - Epigenética Aplicada – Tablillas Sumerias - Anunnaki](https://swaruu.org/transcripts/genetica-epigenetica-aplicada-tablillas-sumerias-anunnaki) (2019-07-06; es); passages p0039, p0040, p0041, p0042, p0044. [Structured record](../../records/src-fd4806542048.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7073c15c2ef0-c01
+
+Genes express consciousness and change through perception, Swaruu says.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Genética - Epigenética Aplicada – Genética Avanzada – Envejecimiento](https://swaruu.org/transcripts/genetica-epigenetica-aplicada-genetica-avanzada-envejecimiento) (2019-07-02; es); passages p0002, p0003. [Structured record](../../records/src-7073c15c2ef0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7073c15c2ef0-c02
+
+Beliefs can change population genetics over generations without laboratory edits.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Genética - Epigenética Aplicada – Genética Avanzada – Envejecimiento](https://swaruu.org/transcripts/genetica-epigenetica-aplicada-genetica-avanzada-envejecimiento) (2019-07-02; es); passages p0009, p0010, p0012. [Structured record](../../records/src-7073c15c2ef0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-7073c15c2ef0-c05
+
+She says telomere shortening follows aging beliefs; it is symptom, not cause.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Genética - Epigenética Aplicada – Genética Avanzada – Envejecimiento](https://swaruu.org/transcripts/genetica-epigenetica-aplicada-genetica-avanzada-envejecimiento) (2019-07-02; es); passages p0033, p0034. [Structured record](../../records/src-7073c15c2ef0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7073c15c2ef0-c06
+
+She links aging to consciousness, toxins, and stress; humans were designed for 0.8g, she says.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Genética - Epigenética Aplicada – Genética Avanzada – Envejecimiento](https://swaruu.org/transcripts/genetica-epigenetica-aplicada-genetica-avanzada-envejecimiento) (2019-07-02; es); passages p0036, p0038. [Structured record](../../records/src-7073c15c2ef0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-bf466c0fec46-c01
+
+Swaruu says Taygetan biology treats consciousness as manifesting DNA through higher-plane frequency patterns.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [PROGRAMA ESPACIAL SECRETO -LA COSMOLOGIA – BANDAS VAN ALLEN – SWARUU DE ERRA](https://swaruu.org/transcripts/programa-espacial-secreto-la-cosmologia-bandas-van-allen-swaruu-de-erra) (2018-08-06; es); passages p0008, p0009. [Structured record](../../records/src-bf466c0fec46.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-bf466c0fec46-c04
+
+She says 5D awareness activates twelve DNA strands already present, which appear as two in 3D; it is not mutation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [PROGRAMA ESPACIAL SECRETO -LA COSMOLOGIA – BANDAS VAN ALLEN – SWARUU DE ERRA](https://swaruu.org/transcripts/programa-espacial-secreto-la-cosmologia-bandas-van-allen-swaruu-de-erra) (2018-08-06; es); passages p0031, p0032, p0033, p0034. [Structured record](../../records/src-bf466c0fec46.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-b4123d146ba9-c01
+
+Swaruu de Erra says engineered DNA misaligned with an adma imprint becomes unstable, causing health and reproductive failures.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [BioGenetica Trans-Dimensional: Swaruu Mujer Extraterrestre de Pleyades (Taygeta) \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/biogenetica-trans-dimensional-swaruu-mujer-extraterrestre-de-pleyades-taygeta) (2018-08-14; es); passages p0011, p0012, p0013, p0014. [Structured record](../../records/src-b4123d146ba9.json).
+
+Related topics: [Genetic weapons](genetic-weapons.md).
+
+### src-227bccccc470-c01
+
+Swaruu says physical DNA is a limited projection of a higher-plane adma pattern; misalignment with consciousness can cause biological problems.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [La Biología, la genética se genera desde planos superiores – LAS PLEYADES -TAYGETA -SWARUU](https://swaruu.org/transcripts/la-biologia-la-genetica-se-genera-desde-planos-superiores-las-pleyades-taygeta-swaruu) (2018-07-04; es); passages p0009, p0010, p0015, p0024. [Structured record](../../records/src-227bccccc470.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-227bccccc470-c02
+
+She claims laboratory genetic alterations in complex species fail within one or two generations, reverting or dying without viable descendants; plants differ.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [La Biología, la genética se genera desde planos superiores – LAS PLEYADES -TAYGETA -SWARUU](https://swaruu.org/transcripts/la-biologia-la-genetica-se-genera-desde-planos-superiores-las-pleyades-taygeta-swaruu) (2018-07-04; es); passages p0006, p0007. [Structured record](../../records/src-227bccccc470.json).
+
+### src-227bccccc470-c03
+
+Swaruu describes a 5D genetic map with 12 DNA helices and chromosomes, versus the 3D human representation's two helices and 22–23 chromosomes.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [La Biología, la genética se genera desde planos superiores – LAS PLEYADES -TAYGETA -SWARUU](https://swaruu.org/transcripts/la-biologia-la-genetica-se-genera-desde-planos-superiores-las-pleyades-taygeta-swaruu) (2018-07-04; es); passages p0020. [Structured record](../../records/src-227bccccc470.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-227bccccc470-c04
+
+She says human consciousness has experienced twelve or more alien species, whose memories are carried in DNA.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [La Biología, la genética se genera desde planos superiores – LAS PLEYADES -TAYGETA -SWARUU](https://swaruu.org/transcripts/la-biologia-la-genetica-se-genera-desde-planos-superiores-las-pleyades-taygeta-swaruu) (2018-07-04; es); passages p0035. [Structured record](../../records/src-227bccccc470.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-65d7f9508cf4-c02
+
+She claims advanced species can alter populations' genes by controlling perception, prompting consciousness to switch or rewrite genes without physical editing.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [LA MATRIX - SWARUU - LAS PLÉYADES - TAYGETA](https://swaruu.org/transcripts/la-matrix-swaruu-las-pleyades-taygeta) (2018-06-30; es); passages p0010, p0011, p0012, p0016, p0017. [Structured record](../../records/src-65d7f9508cf4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-65d7f9508cf4-c04
+
+She says humans retain potential to reactivate their genes, but perceived limitation suppresses it.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [LA MATRIX - SWARUU - LAS PLÉYADES - TAYGETA](https://swaruu.org/transcripts/la-matrix-swaruu-las-pleyades-taygeta) (2018-06-30; es); passages p0022, p0023, p0027, p0029. [Structured record](../../records/src-65d7f9508cf4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1480eda6f2f1-c02
+
+She says consciousness and intention shape genetics; human changes are reversible and not laboratory-made.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica-Preguntas (Swaruu de Erra Habla de Nuestro Poder Illimitado) (Taygeta-Pleyades)](https://swaruu.org/transcripts/genetica-preguntas-swaruu-de-erra-habla-de-nuestro-poder-illimitado-taygeta-pleyades) (2019-07-11; es); passages p0031, p0032, p0033. [Structured record](../../records/src-1480eda6f2f1.json).
+
+### src-1480eda6f2f1-c03
+
+She says high-density souls may alter a body’s DNA to fit its incoming consciousness.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica-Preguntas (Swaruu de Erra Habla de Nuestro Poder Illimitado) (Taygeta-Pleyades)](https://swaruu.org/transcripts/genetica-preguntas-swaruu-de-erra-habla-de-nuestro-poder-illimitado-taygeta-pleyades) (2019-07-11; es); passages p0019, p0021, p0027. [Structured record](../../records/src-1480eda6f2f1.json).
+
+### src-dec0f3455320-c01
+
+Swaruu says consciousness projects biological form and DNA from higher planes.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Biogenética trans-dimensional. Secretos - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/biogenetica-trans-dimensional-secretos-swaruu-sistema-taygeta-pleyades) (2018-07-24; es); passages p0010, p0011. [Structured record](../../records/src-dec0f3455320.json).
+
+### src-fe2b0b27084b-c01
+
+Swaruu says genes express consciousness and respond to perception.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de Erra - Pleyades)](https://swaruu.org/transcripts/genetica-humanos-no-fueron-editados-geneticamente-en-labs-swaruu-de-erra-pleyades) (2019-07-02; es); passages p0002, p0014, p0015. [Structured record](../../records/src-fe2b0b27084b.json).
+
+### src-fe2b0b27084b-c02
+
+She says invasive laboratory edits tend to revert; on Earth this may take a generation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de Erra - Pleyades)](https://swaruu.org/transcripts/genetica-humanos-no-fueron-editados-geneticamente-en-labs-swaruu-de-erra-pleyades) (2019-07-02; es); passages p0003, p0004. [Structured record](../../records/src-fe2b0b27084b.json).
+
+### src-fe2b0b27084b-c03
+
+She says lasting artificial changes require subjects’ disconnection from Source.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de Erra - Pleyades)](https://swaruu.org/transcripts/genetica-humanos-no-fueron-editados-geneticamente-en-labs-swaruu-de-erra-pleyades) (2019-07-02; es); passages p0005, p0018. [Structured record](../../records/src-fe2b0b27084b.json).
+
+### src-fe2b0b27084b-c04
+
+She says controllers use beliefs and mind control to shape population genetics.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de Erra - Pleyades)](https://swaruu.org/transcripts/genetica-humanos-no-fueron-editados-geneticamente-en-labs-swaruu-de-erra-pleyades) (2019-07-02; es); passages p0009, p0010, p0012, p0025. [Structured record](../../records/src-fe2b0b27084b.json).
+
+### src-fe2b0b27084b-c05
+
+She says benevolent extraterrestrials alter genetics to adapt mothers for high-frequency starseeds or restore health.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de Erra - Pleyades)](https://swaruu.org/transcripts/genetica-humanos-no-fueron-editados-geneticamente-en-labs-swaruu-de-erra-pleyades) (2019-07-02; es); passages p0022. [Structured record](../../records/src-fe2b0b27084b.json).
+
+### src-fe2b0b27084b-c06
+
+She claims telomere shortening follows perceived aging rather than causing it.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de Erra - Pleyades)](https://swaruu.org/transcripts/genetica-humanos-no-fueron-editados-geneticamente-en-labs-swaruu-de-erra-pleyades) (2019-07-02; es); passages p0034, p0035, p0039. [Structured record](../../records/src-fe2b0b27084b.json).
+
 ## Claims filed under other topics
 
 - [src-31e1b41b8c15-c01](consciousness-metaphysics.md#src-31e1b41b8c15-c01) — Consciousness and metaphysics
 - [src-31e1b41b8c15-c02](consciousness-metaphysics.md#src-31e1b41b8c15-c02) — Consciousness and metaphysics
 - [src-31e1b41b8c15-c03](consciousness-metaphysics.md#src-31e1b41b8c15-c03) — Consciousness and metaphysics
 - [src-46bd13901f5f-c03](lyrian-cellular-body.md#src-46bd13901f5f-c03) — Lyrian cellular-body model
+- [src-d7432fcef312-c01](black-goo.md#src-d7432fcef312-c01) — Black goo
+- [src-fd4806542048-c01](alien-species.md#src-fd4806542048-c01) — Alien species and distinctions
+- [src-17057e78d90e-c04](lyrian-cellular-body.md#src-17057e78d90e-c04) — Lyrian cellular-body model
+- [src-e15992dcfa52-c01](crop-circles.md#src-e15992dcfa52-c01) — Crop circles
+- [src-af005c73ed53-c02](black-goo.md#src-af005c73ed53-c02) — Black goo
+- [src-af005c73ed53-c04](black-goo.md#src-af005c73ed53-c04) — Black goo
+- [src-c8989a4b274b-c01](black-goo.md#src-c8989a4b274b-c01) — Black goo
+- [src-a49c04fc44dc-c01](genetic-weapons.md#src-a49c04fc44dc-c01) — Genetic weapons
+- [src-3e85a1ca7a28-c05](human-clones.md#src-3e85a1ca7a28-c05) — Human clones and manufactured persons
+- [src-1efac2564f96-c03](human-clones.md#src-1efac2564f96-c03) — Human clones and manufactured persons
+- [src-c92e3d59e2ba-c03](black-goo.md#src-c92e3d59e2ba-c03) — Black goo
+- [src-c92e3d59e2ba-c05](perceptual-density.md#src-c92e3d59e2ba-c05) — Perceptual density
+- [src-83d10afd7959-c02](consciousness-metaphysics.md#src-83d10afd7959-c02) — Consciousness and metaphysics
 
 ## Review flags
 
 - Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
+- Compared English candidate src-4ae3eab52e34; closely aligned translation with differences in segmentation and some explanatory detail.
 - The cloning and genetic-control statements are Swaruu’s claims.
+- artificial-intelligence-attributed
+- attributed-medical-conspiracy-claims
+- biology-claim
+- claims-attributed-to-source-narrators
+- clone-personhood-variation
+- clone-technology-attributed
+- conspiracy-claims
+- contested-claim
+- contested-claims
+- genetic-metaphysics-attributed
 - historical-uncertainty
+- human-gravity-design-claim
 - medical\_claims\_unverified
 - metaphysical-genetics-unverified
 - metaphysical-model
 - nonhuman-medical-claims-unverified
+- nonstandard-genetics-claims
+- same-language-near-duplicate-src-7872bc2f2c04
+- segmentation-diff
+- speaker-header-diff
 - speaker-shift-cic-to-mari
+- species-origin-model-attributed
+- species-taxonomy-contradiction
 - translated-from-Spanish-original-not-available

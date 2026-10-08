@@ -1,0 +1,61 @@
+{
+  "source_id": "src-7952cde1857a",
+  "snapshot_sha256": "751ae188a3101e7f21872194e673e6bcbe111a19e9a2174a96f4d9921a357805",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7952cde1857a-c01",
+      "assertion": "Swaruu says Sirian denotes many species, some nonhumanoid; she identifies dolphins and whales as Earth's closest examples.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0002"],
+      "primary_topic": "sirian-civilizations",
+      "topics": ["sirian-civilizations", "alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her taxonomy."
+    },
+    {
+      "id": "src-7952cde1857a-c02",
+      "assertion": "She says many dolphins have Sirian souls, though others may not; souls reflect experiential affinity, not ownership.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0005", "p0007"],
+      "primary_topic": "sirian-civilizations",
+      "topics": ["sirian-civilizations", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She cannot know all."
+    },
+    {
+      "id": "src-7952cde1857a-c03",
+      "assertion": "She describes Sirio A's dominant humanoids as copper-dark, blue-tinged, and semi-aquatic; aquatic peoples also inhabit Sirio B.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0012", "p0031", "p0033"],
+      "primary_topic": "sirian-civilizations",
+      "topics": ["sirian-civilizations", "alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Not all Sirian peoples."
+    },
+    {
+      "id": "src-7952cde1857a-c04",
+      "assertion": "She links Sirian close-cohabitation to Taygetan conflict and recounts a fatal collision involving their ship and SS Elektra.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0015", "p0016"],
+      "primary_topic": "sirian-civilizations",
+      "topics": ["sirian-civilizations", "taygetans", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sirian-civilizations",
+      "name": "Sirian civilizations",
+      "kind": "species and civilization group",
+      "aliases": ["Sirians", "Sirian species"]
+    }
+  ],
+  "review_flags": ["sirian-group-includes-distinct-species"],
+  "coverage_gaps": ["density-model", "sirian-architecture"]
+}

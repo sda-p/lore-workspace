@@ -1,0 +1,56 @@
+{
+  "source_id": "src-9fa59ea635de",
+  "snapshot_sha256": "e458527d75ca9eb67952e1ab1edd6007da880250a27eb667e8e87882033c08b9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9fa59ea635de-c01",
+      "assertion": "Swaruu attributes strange sky sounds to cloaked-ship EM pulses (rare), DUMB or military work (local), or HAARP/GWEN/cellular signals (confirmed most common).",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0015", "p0016", "p0017", "p0018", "p0019"],
+      "primary_topic": "weather-control",
+      "topics": ["weather-control", "deep-underground-military-bases", "alien-species"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9fa59ea635de-c02",
+      "assertion": "She says the electromagnetic signals aim to suppress joy and induce alarm, making populations susceptible to manipulation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0018"],
+      "primary_topic": "weather-control",
+      "topics": ["weather-control", "earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9fa59ea635de-c03",
+      "assertion": "Swaruu outlines three Men in Black tiers: unaware law enforcement, human agents, and nonhuman groups who may work with humans.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0037", "p0038"],
+      "primary_topic": "men-in-black",
+      "topics": ["men-in-black", "earth-cabal", "alien-species"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9fa59ea635de-c04",
+      "assertion": "She describes mystery-media disinformation tailored to audiences' awareness, with paid agents seeding false sources.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0033", "p0034", "p0035"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {"id": "men-in-black", "name": "Men in Black", "kind": "organization", "aliases": ["Hombres de negro"]}
+  ],
+  "review_flags": ["security-claims-attributed"],
+  "coverage_gaps": ["anti-listening-advice", "Ashtar-claims"]
+}

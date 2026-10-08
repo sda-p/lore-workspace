@@ -1,0 +1,114 @@
+{
+  "source_id": "src-a02207051534",
+  "snapshot_sha256": "c20c988aa3f20db61ec6780c9e0f8b03286056aa563002e84ed6f64322511fe0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a02207051534-c01",
+      "assertion": "Yazhi describes 40,000-year-old Earth as mostly green land with five continents now under oceans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a02207051534-c02",
+      "assertion": "She says Usungal Reptilians pursued Lyrians to Earth, reducing them to eight women; later waves founded Atlantis and enslaved Lyrians.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "lyran-expansion",
+        "reptilians",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a02207051534-c03",
+      "assertion": "She portrays Lemuria as a Lyrian-led resistance based in Mu, opposing multi-racial Atlantean rule.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "lyran-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a02207051534-c04",
+      "assertion": "She claims some ancient stones formed liquid, while others were cut by compressed sound and levitated.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a02207051534-c05",
+      "assertion": "She identifies Nazca as Atlantean spaceport; figures mapped constellations and routes, while underground holograms guided ships.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0052",
+        "p0053",
+        "p0059",
+        "p0060",
+        "p0062",
+        "p0064",
+        "p0066"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport",
+        "atlantis-lemuria",
+        "holographic-computers",
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions"
+  ],
+  "coverage_gaps": [
+    "pre-cataclysm geography",
+    "colonial history details",
+    "port navigation codes"
+  ]
+}

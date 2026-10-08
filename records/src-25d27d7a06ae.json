@@ -1,0 +1,62 @@
+{
+  "source_id": "src-25d27d7a06ae",
+  "snapshot_sha256": "a9bb20938b2c644ccab02eb925b77abc2f1979947096afed10cc051266d4400d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-25d27d7a06ae-c01",
+      "assertion": "Swaruu defines ego as one’s finite Earth identity, while saying the self is more than that identity.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25d27d7a06ae-c02",
+      "assertion": "She argues that denying the temporary ego can cause severe psychological fragmentation; incarnation serves experiencing an ego.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-25d27d7a06ae-c03",
+      "assertion": "Swaruu advocates accepting and caring for a healthy ego rather than trying to erase it.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Opening essay is not Swaruu speech; claims extracted only from her answer to Robert. No equivalent English version identified."
+  ],
+  "coverage_gaps": [
+    "mind-programming essay"
+  ]
+}

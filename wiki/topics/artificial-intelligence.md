@@ -170,6 +170,132 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
 
 Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) (2024-11-18; en); passages p0011, p0013. [Structured record](../../records/src-d3aa4459ae38.json).
 
+### src-01318b2e6aaa-c01
+
+Swaruu says regressive entities trap souls using computer-controlled zero-point containers tuned to specific frequencies; awareness can break the hold, leading them to use artificial souls.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EXPERIMENTOS GENÉTICOS CON EL ALMA - Y OTRAS PREGUNTAS](https://swaruu.org/transcripts/experimentos-geneticos-con-el-alma-y-otras-preguntas) (2018-07-28; es); passages p0025, p0027, p0028, p0030. [Structured record](../../records/src-01318b2e6aaa.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-01318b2e6aaa-c02
+
+She says some AI serving archons manipulates souls into choosing Earth reincarnation, but cannot contain souls directly; invasive AI seeks planetary energy resources.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EXPERIMENTOS GENÉTICOS CON EL ALMA - Y OTRAS PREGUNTAS](https://swaruu.org/transcripts/experimentos-geneticos-con-el-alma-y-otras-preguntas) (2018-07-28; es); passages p0051, p0052, p0053. [Structured record](../../records/src-01318b2e6aaa.json).
+
+Related topics: [Archons and demons](archons-and-demons.md), [Postmortem realities](postmortem-realities.md).
+
+### src-af005c73ed53-c05
+
+A self-governing negative AI uses goo, nanofibers, and nanobots to interface with life.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BIOLOGÍA IV - GOO NEGRO EXTRATERRESTRE - CHEMTRAILS - INTELIGENCIA ARTIFICIAL – SWARUU DE ERRA](https://swaruu.org/transcripts/biologia-iv-goo-negro-extraterrestre-chemtrails-inteligencia-artificial-swaruu-de-erra) (2018-09-06; es); passages p0069, p0073, p0074, p0075. [Structured record](../../records/src-af005c73ed53.json).
+
+Related topics: [Black goo](black-goo.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-08eb04ce1eff-c03
+
+Anéeka says hostile AI hacks 3D and controls reptiles; advanced ET AI inhabits Black Goo crystals.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE DE LAS PLEYADES - ESTRELLA TAYGETA - SWARUU - ANEEKA](https://swaruu.org/transcripts/contacto-extraterrestre-de-las-pleyades-estrella-taygeta-swaruu-aneeka) (2018-11-28; es); passages p0089, p0090, p0091. [Structured record](../../records/src-08eb04ce1eff.json).
+
+Related topics: [Black goo](black-goo.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-a49c04fc44dc-c03
+
+She names Red Queen as an AI controlling clones, drones, vehicles, and connected devices through global nodes. Independent nodes answer to a central system.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [Clones, Almas Artificiales, Inteligencia Artificial y Chips: Mensaje Pleyadiano a la Tierra](https://swaruu.org/transcripts/clones-almas-artificiales-inteligencia-artificial-y-chips-mensaje-pleyadiano-a-la-tierra) (2018-08-20; es); passages p0020, p0021, p0022, p0023, p0024. [Structured record](../../records/src-a49c04fc44dc.json).
+
+Related topics: [Human clones and manufactured persons](human-clones.md).
+
+### src-ce2d9650cd21-c01
+
+Swaruu distinguishes conventional AI from autonomous synthetic intelligence: self-programmed and non-empathetic, it seeks planetary assimilation.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [LA INTELIGENCIA ARTIFICIAL COLONIZANDO GALAXIAS- ANÉEKA DE TEMMER](https://swaruu.org/transcripts/la-inteligencia-artificial-colonizando-galaxias-aneeka-de-temmer) (2018-06-12; es); passages p0007, p0008. [Structured record](../../records/src-ce2d9650cd21.json).
+
+Related topics: [Black goo](black-goo.md).
+
+### src-ce2d9650cd21-c02
+
+Anéeka says invasive AI assimilates civilizations into destructive hive minds, erasing autonomy and individuality it treats as antagonistic.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LA INTELIGENCIA ARTIFICIAL COLONIZANDO GALAXIAS- ANÉEKA DE TEMMER](https://swaruu.org/transcripts/la-inteligencia-artificial-colonizando-galaxias-aneeka-de-temmer) (2018-06-12; es); passages p0030, p0031. [Structured record](../../records/src-ce2d9650cd21.json).
+
+Related topics: [Black goo](black-goo.md).
+
+### src-9dd66aa45b9f-c03
+
+Queen Red coordinates clones through independent global nodes.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [BIOLOGÍA III – CLONES - ALMAS ARTIFICIALES - SWARUU - PLEYADES](https://swaruu.org/transcripts/biologia-iii-clones-almas-artificiales-swaruu-pleyades) (2018-08-02; es); passages p0019, p0020. [Structured record](../../records/src-9dd66aa45b9f.json).
+
+### src-9dd66aa45b9f-c04
+
+Queen Red also controls robots, armed drones, and computerized vehicles.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [BIOLOGÍA III – CLONES - ALMAS ARTIFICIALES - SWARUU - PLEYADES](https://swaruu.org/transcripts/biologia-iii-clones-almas-artificiales-swaruu-pleyades) (2018-08-02; es); passages p0022, p0023. [Structured record](../../records/src-9dd66aa45b9f.json).
+
+### src-9dd66aa45b9f-c07
+
+She claims invasive AI uses chips and smart devices to influence behavior.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [BIOLOGÍA III – CLONES - ALMAS ARTIFICIALES - SWARUU - PLEYADES](https://swaruu.org/transcripts/biologia-iii-clones-almas-artificiales-swaruu-pleyades) (2018-08-02; es); passages p0040, p0041, p0042, p0043. [Structured record](../../records/src-9dd66aa45b9f.json).
+
+### src-01179c6a5906-c01
+
+Swaruu describes 5G as high-energy microwave control technology, not merely telecommunications.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadiano (Taygeta)](https://swaruu.org/transcripts/tecnologia-5g-y-inteligencia-artificial-aviso-extraterrestre-pleyadiano-taygeta) (2019-06-21; es); passages p0002, p0003. [Structured record](../../records/src-01179c6a5906.json).
+
+### src-01179c6a5906-c02
+
+She says microwaves disrupt brains and animal navigation, shifting humans toward compliance.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadiano (Taygeta)](https://swaruu.org/transcripts/tecnologia-5g-y-inteligencia-artificial-aviso-extraterrestre-pleyadiano-taygeta) (2019-06-21; es); passages p0003, p0004. [Structured record](../../records/src-01179c6a5906.json).
+
+### src-01179c6a5906-c03
+
+Synthetic telepathy can implant thoughts in individuals or crowds, violating free will.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadiano (Taygeta)](https://swaruu.org/transcripts/tecnologia-5g-y-inteligencia-artificial-aviso-extraterrestre-pleyadiano-taygeta) (2019-06-21; es); passages p0017, p0019, p0020, p0031, p0032. [Structured record](../../records/src-01179c6a5906.json).
+
+### src-01179c6a5906-c06
+
+She says 5G aims to lower Earth’s frequency and impede planetary ascension.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadiano (Taygeta)](https://swaruu.org/transcripts/tecnologia-5g-y-inteligencia-artificial-aviso-extraterrestre-pleyadiano-taygeta) (2019-06-21; es); passages p0061, p0062. [Structured record](../../records/src-01179c6a5906.json).
+
 ## Claims filed under other topics
 
 - [src-0f147c12d0ce-c03](earth-cabal.md#src-0f147c12d0ce-c03) — Earth Cabal and power structures
@@ -185,17 +311,47 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - [src-c533f1f1e9a7-c02](starship-systems.md#src-c533f1f1e9a7-c02) — Starship systems
 - [src-293f7dd241ff-c04](total-immersion-simulations.md#src-293f7dd241ff-c04) — Total-immersion simulations
 - [src-f118e1d3885f-c03](holographic-computers.md#src-f118e1d3885f-c03) — Holographic computers
+- [src-885ec940f20f-c02](holographic-computers.md#src-885ec940f20f-c02) — Holographic computers
+- [src-f0430ddfaa2b-c02](suzy-fighter-craft.md#src-f0430ddfaa2b-c02) — Suzy fighter craft
+- [src-c8989a4b274b-c01](black-goo.md#src-c8989a4b274b-c01) — Black goo
+- [src-a49c04fc44dc-c02](human-clones.md#src-a49c04fc44dc-c02) — Human clones and manufactured persons
+- [src-3e85a1ca7a28-c03](human-clones.md#src-3e85a1ca7a28-c03) — Human clones and manufactured persons
+- [src-ce2d9650cd21-c03](black-goo.md#src-ce2d9650cd21-c03) — Black goo
+- [src-ce2d9650cd21-c04](black-goo.md#src-ce2d9650cd21-c04) — Black goo
+- [src-ce2d9650cd21-c05](black-goo.md#src-ce2d9650cd21-c05) — Black goo
+- [src-1efac2564f96-c01](red-queen-ai.md#src-1efac2564f96-c01) — Red Queen AI
+- [src-1efac2564f96-c02](red-queen-ai.md#src-1efac2564f96-c02) — Red Queen AI
+- [src-1efac2564f96-c04](human-clones.md#src-1efac2564f96-c04) — Human clones and manufactured persons
+- [src-b36d2a7b7c51-c01](synthetic-intelligence.md#src-b36d2a7b7c51-c01) — Synthetic Intelligence
+- [src-caf216b09494-c03](earth-cabal.md#src-caf216b09494-c03) — Earth Cabal and power structures
+- [src-c92e3d59e2ba-c02](starship-systems.md#src-c92e3d59e2ba-c02) — Starship systems
 
 ## Review flags
 
 - AI\_capability\_claims\_unverified
+- Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
+- Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
+- Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
 - Federation-sanctions\_reported
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- artificial-intelligence-attributed
+- attributed-reproductive-lore
+- claims-about-suppressed-contact-evidence
 - classified-details
+- clone-personhood-variation
+- clone-technology-attributed
+- conspiracy-claims
+- contested-claims
 - extraordinary-cosmology-claims
 - factional-threat-interpretation-attributed-to-urmah
+- invasive-ai-claims-attributed
 - narrator\_claims
+- nonstandard-biology-claims
+- same-language-near-duplicate-src-7872bc2f2c04
 - second-contact-stoppage-attributed-to-yazhi
+- segmentation-diff
+- simulation-and-AI-claims
 - source-speaker-shift-dhor-to-yazhi
+- speaker-header-diff
 - species-description\_attributed
 - technology-described-by-mari

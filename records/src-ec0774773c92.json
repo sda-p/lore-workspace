@@ -1,0 +1,43 @@
+{
+  "source_id": "src-ec0774773c92",
+  "snapshot_sha256": "1a926d1944b258981a51b7e05f6e2624d942ccc547acbd7d77187783720bd4ac",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ec0774773c92-c01",
+      "assertion": "Swaruu (9) says a reptilian invasion of Vega, Avalon, and Lyra triggered the Great Expansion, dispersing humanoids; Earth had eight women survivors, male count unknown.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0078", "p0079", "p0080"],
+      "primary_topic": "lyran-expansion",
+      "topics": ["lyran-expansion", "alien-species", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ec0774773c92-c02",
+      "assertion": "She says Taygetans pursued invaders into this system, destroying Tiamat and devastating Mars with extensive nuclear weapons; she condemns Tiamat's destruction.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0080", "p0066", "p0068", "p0083"],
+      "primary_topic": "tiamat",
+      "topics": ["tiamat", "taygetans", "orion-wars"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the destruction was unjustifiable and incurred species-level karma."
+    },
+    {
+      "id": "src-ec0774773c92-c03",
+      "assertion": "Swaruu (9) calls the current Earth conflict a continuation of the Orion Wars and says the Federation now holds superiority over regressive reptiles.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0081"],
+      "primary_topic": "orion-wars",
+      "topics": ["orion-wars", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["solar-system-history-attributed"],
+  "coverage_gaps": ["nibiru-claims", "agartha-network"]
+}

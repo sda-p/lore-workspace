@@ -1342,6 +1342,310 @@ Source: [Extraterrestrial Life: How Would It Affect Humanity and You? - CLASS 01
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-357c482522d2-c03
+
+She says the Federation projected an electromagnetic barrier around Earth from a damaged Andromedan biosphere Moon ship, creating the 3D Matrix to contain the reptiles.
+
+Attributed to **Swaruu (as recorded by Robert)**; reported; extraction confidence: medium.
+
+Source: [LA HISTORIA OCULTA DE LA HUMANIDAD - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/la-historia-oculta-de-la-humanidad-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-26; es); passages p0027, p0028. [Structured record](../../records/src-357c482522d2.json).
+
+Related topics: [The Moon as a biosphere ship](moon-biosphere-ship.md), [Galactic Federation](galactic-federation.md), [Reptilian invaders](reptilian-invaders.md).
+
+### src-0f16286af0bc-c01
+
+Swaruu says the 12,500-year-old Moon Matrix has four of twelve reactors working; Federation forces controlled its lunar system since 2008 but avoid abrupt shutdown to respect inhabitants’ consent.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL FINAL DE LA MATRIX 3D - SWARUU- Sistema Taygeta - LAS PLEYADES](https://swaruu.org/transcripts/el-final-de-la-matrix-3d-swaruu-sistema-taygeta-las-pleyades) (2018-07-12; es); passages p0003, p0004, p0005. [Structured record](../../records/src-0f16286af0bc.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0f16286af0bc-c02
+
+She says galactic-center positronic storms and gradual lunar frequency changes weaken the Matrix; she alleges controllers counter them with chemtrails, HAARP, and GUEN cellular microwave transmissions. She gives no date for the Matrix’s natural dissolution.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL FINAL DE LA MATRIX 3D - SWARUU- Sistema Taygeta - LAS PLEYADES](https://swaruu.org/transcripts/el-final-de-la-matrix-3d-swaruu-sistema-taygeta-las-pleyades) (2018-07-12; es); passages p0006, p0007, p0008, p0009, p0010, p0011, p0012. [Structured record](../../records/src-0f16286af0bc.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Weather control systems](weather-control.md).
+
+### src-9262c571083f-c03
+
+Focus shapes experience; negative forces hacked the Matrix to obscure this.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra: Porque hay Sufrimiento? (Mensaje Extraterrestre Pleyadiano de Taygeta) (16)](https://swaruu.org/transcripts/swaruu-de-erra-porque-hay-sufrimiento-mensaje-extraterrestre-pleyadiano-de-taygeta-16) (2018-12-08; es); passages p0015, p0016, p0018, p0024. [Structured record](../../records/src-9262c571083f.json).
+
+### src-9262c571083f-c05
+
+Most sufferers are programs; extreme atrocities are Matrix events.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra: Porque hay Sufrimiento? (Mensaje Extraterrestre Pleyadiano de Taygeta) (16)](https://swaruu.org/transcripts/swaruu-de-erra-porque-hay-sufrimiento-mensaje-extraterrestre-pleyadiano-de-taygeta-16) (2018-12-08; es); passages p0004, p0060. [Structured record](../../records/src-9262c571083f.json).
+
+### src-da3eb1da7135-c03
+
+The heart interfaces with Matrix; activated seeds may influence surroundings up to 18 km.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Preguntas Frecuentes: Mensaje Extraterrestre (Swaruu de Taygeta-Pleyades)](https://swaruu.org/transcripts/preguntas-frecuentes-mensaje-extraterrestre-swaruu-de-taygeta-pleyades) (2018-10-02; es); passages p0024, p0025, p0026. [Structured record](../../records/src-da3eb1da7135.json).
+
+### src-fad1597372f1-c06
+
+Dhor prepares humans for Matrix withdrawal and self-reliance, not outside guides.
+
+Attributed to **Dhor Káal'él**; reported; extraction confidence: high.
+
+Source: [Primera Entrevista con Hombre Extraterrestre de Taygeta (Pleyades): Contacto Extraterrestre](https://swaruu.org/transcripts/primera-entrevista-con-hombre-extraterrestre-de-taygeta-pleyades-contacto-extraterrestre) (2019-08-25; es); passages p0046. [Structured record](../../records/src-fad1597372f1.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-8808e760d7a4-c07
+
+Swaruu dates lunar Matrix physical-astral separation to 12,500 years ago.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ETER: Enseñanzas de Swaruu de Erra sobre el Campo Eterico (Contacto Extraterrestre)](https://swaruu.org/transcripts/eter-ensenanzas-de-swaruu-de-erra-sobre-el-campo-eterico-contacto-extraterrestre) (2019-11-11; es); passages p0055. [Structured record](../../records/src-8808e760d7a4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Ether field](ether-field.md).
+
+### src-69ad66e27ca1-c03
+
+The unconscious shapes Matrix experience more than conscious thought, making shadow work important.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra: Preguntas Frecuentes 2 (Mensaje de Taygeta, Pleyades) (14)](https://swaruu.org/transcripts/swaruu-de-erra-preguntas-frecuentes-2-mensaje-de-taygeta-pleyades-14) (2018-11-20; es); passages p0015. [Structured record](../../records/src-69ad66e27ca1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1a7b60ba8ea9-c05
+
+Swaruu says the Federation’s damaged Andromedan Moon ship projected an electromagnetic barrier around Earth, creating the 3D Matrix.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [COMO NACIÓ LA MATRIX 3D - QUE FUE DE LOS GIGANTES - SWARUU](https://swaruu.org/transcripts/como-nacio-la-matrix-3d-que-fue-de-los-gigantes-swaruu) (2019-03-20; es); passages p0029. [Structured record](../../records/src-1a7b60ba8ea9.json).
+
+Related topics: [The Moon as a biosphere ship](moon-biosphere-ship.md), [Galactic Federation](galactic-federation.md).
+
+### src-039a50ac3015-c05
+
+Swaruu dates colonization to about 40,000 years ago and the current lunar Matrix setup to 12,500 years ago.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL SISTEMA SOLAR - EL PLANETA TIERRA](https://swaruu.org/transcripts/el-sistema-solar-el-planeta-tierra) (2019-06-07; es); passages p0025. [Structured record](../../records/src-039a50ac3015.json).
+
+### src-ff91a858afee-c04
+
+Swaruu says reptilian controllers use linear time, media and schooling to synchronize collective beliefs into the 3D Matrix.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [TEMOR EN LA MATRIX -ENERGÍAS ETERICAS](https://swaruu.org/transcripts/temor-en-la-matrix-energias-etericas) (2018-06-01; es); passages p0006, p0007, p0008. [Structured record](../../records/src-ff91a858afee.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+### src-80367dc03fbe-c04
+
+Swaruu describes a lunar Matrix processor reading minds and projecting interactive figures through frequency.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Gente No Real: Mensaje Extraterrestre (Pleyades - Taygeta) (7)](https://swaruu.org/transcripts/gente-no-real-mensaje-extraterrestre-pleyades-taygeta-7) (2018-07-26; es); passages p0038, p0091, p0092, p0093. [Structured record](../../records/src-80367dc03fbe.json).
+
+Related topics: [Matrix-generated persons](matrix-generated-persons.md).
+
+### src-cad14862cc58-c01
+
+Anéeka says their frequency hologram lets operators alter 3D overlays; 5D objects require other means.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Mas sobre Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (5)](https://swaruu.org/transcripts/mas-sobre-matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-5) (2018-07-07; es); passages p0006, p0008, p0010, p0029. [Structured record](../../records/src-cad14862cc58.json).
+
+Related topics: [Original Matrix](original-matrix.md).
+
+### src-cad14862cc58-c02
+
+Anéeka says operators use lunar Matrix controls and electromagnetic waves to alter regional frequencies, disrupting predicted negative events.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Mas sobre Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (5)](https://swaruu.org/transcripts/mas-sobre-matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-5) (2018-07-07; es); passages p0063, p0064, p0068, p0069, p0070. [Structured record](../../records/src-cad14862cc58.json).
+
+Related topics: [Harmonic shields](harmonic-shields.md).
+
+### src-cad14862cc58-c03
+
+The failing Matrix runs on four of twelve reactors; boosting one region may lower another, requiring resource allocation. Operators monitor it continuously.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Mas sobre Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (5)](https://swaruu.org/transcripts/mas-sobre-matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-5) (2018-07-07; es); passages p0070, p0072. [Structured record](../../records/src-cad14862cc58.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-cad14862cc58-c04
+
+Anéeka says nature is mostly real in 5D, while artificial cities are over half 3D overlay, varying by area.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Mas sobre Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (5)](https://swaruu.org/transcripts/mas-sobre-matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-5) (2018-07-07; es); passages p0012, p0014. [Structured record](../../records/src-cad14862cc58.json).
+
+Related topics: [Original Matrix](original-matrix.md).
+
+### src-0b358e77a59f-c03
+
+She claims Apollo never occurred, citing radiation barriers, insufficient Saturn V lift and computing power, and equatorial trajectories. Her claims.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NUNCA FUIMOS A LA LUNA - BANDAS VAN ALLEN -SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-bandas-van-allen-swaruu-de-erra-sistema-taygeta-pleyades) (2018-08-11; es); passages p0006, p0011, p0016, p0018, p0021. [Structured record](../../records/src-0b358e77a59f.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-4d31d71233c1-c01
+
+Swaruu frames karma as a rule operating inside the Matrix, not an unavoidable debt.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra: Trampa del KARMA (Mensaje Extraterrestre Pleyadiano de Taygeta) (15)](https://swaruu.org/transcripts/swaruu-de-erra-trampa-del-karma-mensaje-extraterrestre-pleyadiano-de-taygeta-15) (2018-11-26; es); passages p0005, p0007, p0008. [Structured record](../../records/src-4d31d71233c1.json).
+
+### src-9dd66aa45b9f-c06
+
+She distinguishes clones from people generated by the lunar Matrix.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [BIOLOGÍA III – CLONES - ALMAS ARTIFICIALES - SWARUU - PLEYADES](https://swaruu.org/transcripts/biologia-iii-clones-almas-artificiales-swaruu-pleyades) (2018-08-02; es); passages p0024, p0034. [Structured record](../../records/src-9dd66aa45b9f.json).
+
+### src-29dec782e6b2-c03
+
+She describes soulless Matrix persons as limited program routines without independent thought.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [REGISTROS AKÁSHICOS - QUE ES EL LIBRE ALBEDRÍO - SWARUU](https://swaruu.org/transcripts/registros-akashicos-que-es-el-libre-albedrio-swaruu) (2019-03-11; es); passages p0052, p0053, p0054. [Structured record](../../records/src-29dec782e6b2.json).
+
+### src-29dec782e6b2-c07
+
+She defines free will as rewriting the Matrix through knowledge and responsibility.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [REGISTROS AKÁSHICOS - QUE ES EL LIBRE ALBEDRÍO - SWARUU](https://swaruu.org/transcripts/registros-akashicos-que-es-el-libre-albedrio-swaruu) (2019-03-11; es); passages p0123, p0124. [Structured record](../../records/src-29dec782e6b2.json).
+
+### src-ca26375fb916-c01
+
+Swaruu says the Federation installed a lunar Matrix to contain Reptiles, who later hacked it.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (4)](https://swaruu.org/transcripts/matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-4) (2018-06-29; es); passages p0003, p0006, p0008, p0018, p0030. [Structured record](../../records/src-ca26375fb916.json).
+
+### src-ca26375fb916-c02
+
+The Moon projects a digital hologram that limits perception through electromagnetic frequencies.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (4)](https://swaruu.org/transcripts/matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-4) (2018-06-29; es); passages p0019, p0037, p0048, p0054. [Structured record](../../records/src-ca26375fb916.json).
+
+### src-ca26375fb916-c03
+
+She says twelve uranium reactors powered the Matrix; four remain online.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (4)](https://swaruu.org/transcripts/matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-4) (2018-06-29; es); passages p0058. [Structured record](../../records/src-ca26375fb916.json).
+
+### src-67ae68e2b345-c05
+
+She says electromagnetic interference suppresses perception imperfectly, allowing 4D leaks.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Densidades: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (6)](https://swaruu.org/transcripts/densidades-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-6) (2018-07-16; es); passages p0028, p0039. [Structured record](../../records/src-67ae68e2b345.json).
+
+### src-01179c6a5906-c05
+
+She distinguishes invasive AI from the Moon’s primitive binary computer, which the Federation controls.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadiano (Taygeta)](https://swaruu.org/transcripts/tecnologia-5g-y-inteligencia-artificial-aviso-extraterrestre-pleyadiano-taygeta) (2019-06-21; es); passages p0043, p0047. [Structured record](../../records/src-01179c6a5906.json).
+
+### src-b24a05072ad7-c01
+
+Swaruu calls 3D Matrix a frequency suppressor; its hack combines technology and beliefs that steer collective reality.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [El ¨Hackeo Reptiliano¨ de la Matrix y Control Mental: Contacto Pleyadiano (Swaruu) (10)](https://swaruu.org/transcripts/el-hackeo-reptiliano-de-la-matrix-y-control-mental-contacto-pleyadiano-swaruu-10) (2018-10-14; es); passages p0006, p0014, p0016, p0026. [Structured record](../../records/src-b24a05072ad7.json).
+
+Related topics: [Original Matrix](original-matrix.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b24a05072ad7-c02
+
+She says Reptiles altered lunar Matrix computers around 1960; after 12,500 neglected years, Taygetans took control in 2008.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [El ¨Hackeo Reptiliano¨ de la Matrix y Control Mental: Contacto Pleyadiano (Swaruu) (10)](https://swaruu.org/transcripts/el-hackeo-reptiliano-de-la-matrix-y-control-mental-contacto-pleyadiano-swaruu-10) (2018-10-14; es); passages p0016, p0018, p0048, p0050, p0052. [Structured record](../../records/src-b24a05072ad7.json).
+
+Related topics: [Taygetans](taygetans.md), [Timeline branching](timeline-branching.md).
+
+### src-b24a05072ad7-c03
+
+Swaruu names imposed religion, mass media, microwave and HAARP control, and reptilian spaceflight as Matrix-hacking milestones.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [El ¨Hackeo Reptiliano¨ de la Matrix y Control Mental: Contacto Pleyadiano (Swaruu) (10)](https://swaruu.org/transcripts/el-hackeo-reptiliano-de-la-matrix-y-control-mental-contacto-pleyadiano-swaruu-10) (2018-10-14; es); passages p0026, p0034, p0040. [Structured record](../../records/src-b24a05072ad7.json).
+
+Related topics: [Weather control systems](weather-control.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-ca24d8041f8f-c01
+
+Swaruu says the Moon sends destructive-interference frequencies that narrow perception, using Schumann resonance as Earth’s frequency index.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA LUNA - ESTACIÓN ESPACIAL ARTIFICIAL Y LA MATRIX 3D – SWARUU - TAYGETA - Las Pléyades](https://swaruu.org/transcripts/la-luna-estacion-espacial-artificial-y-la-matrix-3d-swaruu-taygeta-las-pleyades) (2018-07-09; es); passages p0012, p0014, p0015. [Structured record](../../records/src-ca24d8041f8f.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-ca24d8041f8f-c02
+
+She says lunar control of Earth’s Van Allen toroid limits Earth to 3D; outside it, space is 5D.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA LUNA - ESTACIÓN ESPACIAL ARTIFICIAL Y LA MATRIX 3D – SWARUU - TAYGETA - Las Pléyades](https://swaruu.org/transcripts/la-luna-estacion-espacial-artificial-y-la-matrix-3d-swaruu-taygeta-las-pleyades) (2018-07-09; es); passages p0017, p0019, p0020, p0022. [Structured record](../../records/src-ca24d8041f8f.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-35a4804aef6f-c05
+
+Swaruu says limiting ideas anchor people to Matrix; mental liberation in life frees them after death.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL SUICIDIO - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/el-suicidio-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-18; es); passages p0013, p0014, p0016. [Structured record](../../records/src-35a4804aef6f.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -1403,28 +1707,64 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - [src-dec092ce158f-c04](consciousness-metaphysics.md#src-dec092ce158f-c04) — Consciousness and metaphysics
 - [src-fe82d1a07961-c04](galactic-federation.md#src-fe82d1a07961-c04) — Galactic Federation
 - [src-69ad8dca8c41-c03](total-immersion-simulations.md#src-69ad8dca8c41-c03) — Total-immersion simulations
+- [src-f77b50b543b2-c01](original-matrix.md#src-f77b50b543b2-c01) — Original Matrix
+- [src-0f16286af0bc-c03](consciousness-metaphysics.md#src-0f16286af0bc-c03) — Consciousness and metaphysics
+- [src-ff97765a8c36-c01](moon-biosphere-ship.md#src-ff97765a8c36-c01) — The Moon as a biosphere ship
+- [src-bfae5ca72b24-c04](alien-species.md#src-bfae5ca72b24-c04) — Alien species and distinctions
+- [src-08eb04ce1eff-c03](artificial-intelligence.md#src-08eb04ce1eff-c03) — Artificial intelligence
+- [src-69ad66e27ca1-c05](moon-biosphere-ship.md#src-69ad66e27ca1-c05) — The Moon as a biosphere ship
+- [src-d2714323822a-c02](galactic-federation.md#src-d2714323822a-c02) — Galactic Federation
+- [src-d2714323822a-c05](galactic-federation.md#src-d2714323822a-c05) — Galactic Federation
+- [src-10009bbe55a5-c02](galactic-federation.md#src-10009bbe55a5-c02) — Galactic Federation
+- [src-78a2f4005f35-c05](original-matrix.md#src-78a2f4005f35-c05) — Original Matrix
+- [src-039a50ac3015-c02](intraterrestrial-vulcans.md#src-039a50ac3015-c02) — Intraterrestrial Vulcans
+- [src-039a50ac3015-c03](moon-biosphere-ship.md#src-039a50ac3015-c03) — The Moon as a biosphere ship
+- [src-28c3fd0534dc-c03](moon-biosphere-ship.md#src-28c3fd0534dc-c03) — The Moon as a biosphere ship
+- [src-80367dc03fbe-c02](matrix-generated-persons.md#src-80367dc03fbe-c02) — Matrix-generated persons
+- [src-b24a05072ad7-c04](postmortem-realities.md#src-b24a05072ad7-c04) — Postmortem realities
+- [src-0f3bd493959e-c03](postmortem-realities.md#src-0f3bd493959e-c03) — Postmortem realities
+- [src-ca24d8041f8f-c03](moon-biosphere-ship.md#src-ca24d8041f8f-c03) — The Moon as a biosphere ship
+- [src-ca24d8041f8f-c04](holographic-computers.md#src-ca24d8041f8f-c04) — Holographic computers
+- [src-2bc9fdeb3e80-c04](sasquatch.md#src-2bc9fdeb3e80-c04) — Sasquatch
+- [src-35a4804aef6f-c03](postmortem-realities.md#src-35a4804aef6f-c03) — Postmortem realities
+- [src-35a4804aef6f-c04](postmortem-realities.md#src-35a4804aef6f-c04) — Postmortem realities
 
 ## Review flags
 
 - 3d-to-5d-transition
+- Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
+- Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
+- Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - Federation-arguments\_reported
 - Federation-policy\_claims\_attributed
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - afterlife\_model
 - agency\_and\_noninterference
+- agenda21-assertion
 - ai-clone-claims-attributed
+- apollo-denial-claims
+- approximate-age-estimate
 - archon\_interference\_qualification
+- attributed-frequency-interference-claims
 - attribution: extraordinary intelligence claims remain source-specific
 - blockade-and-biology-attributed
 - broad-exopolitical-allegations
+- causal-attribution-tension
 - claim: extraordinary abduction and biology account
 - claims reflect Space Academy’s attributed lore
 - conceptual-tension: real/unreal distinctions are context-dependent
+- consciousness-claims
+- conspiracy-claims
 - conspiracy\_claims
+- contested-claims
+- contested-history
 - contested-space-history-allegation
 - contested\_intelligence\_claims
 - cosmology-claims\_attributed
+- counterfactual-earth-history
+- counterfactual-metaphysics
 - coverage: 5D transition forecast
 - coverage: Atonism details
 - coverage: Matrix scripts
@@ -1436,8 +1776,11 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - coverage: primary-secondary taxonomy
 - coverage: psychic-function claims
 - culturally\_variable\_nde\_claim
+- date-discrepancy
 - disclosure\_claims\_unverified
+- dyatlov-claim-reversed-in-later-anéeka-account
 - earth-population-claims
+- english-counterpart-adds-july-2020-suicide-discussion
 - ether\_model
 - ethical\_perspective\_conflict
 - extraordinary\_astronomical\_claims
@@ -1445,14 +1788,19 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - extraordinary\_exopolitical\_claims
 - extraordinary\_extraction\_claims
 - extraordinary\_metaphysical\_claims
+- extraterrestrial-claims
+- extreme-atrocities-claim
 - family-dynamics-generalization
 - gender-reincarnation\_views\_attributed
 - historical-claims-unverified
+- human-origin-model
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - internal\_uncertainty
+- lunar-artificial-structure-claims-attributed
 - lunar-reactor-age-origin-uncertainty
 - manifestation\_mechanics
 - matrix-scope-differing-views
+- matrix-technology-attributed
 - matrix\_layers
 - matrix\_scope
 - medical-misinformation: pandemic, testing, and vaccine claims
@@ -1460,21 +1808,31 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - metaphysical-claims
 - metaphysical-model\_attributed
 - moon-conspiracy-claims
+- nonstandard-biology-claims
+- nonstandard-physics-claims
+- nonstandard-planetary-model
 - personal\_accusations
 - reincarnation-model-metaphysical
 - related\_series\_part
 - sensitive\_claims
+- simulation-and-AI-claims
 - soul-model-metaphysical
+- speaker-attribution-inferred-from-transcript
 - speaker-label-ambiguity
 - speaker: interviewer prompts excluded as claims
 - speaker\_qualifies\_script\_claims
 - spiritual\_afterlife\_claims\_unverified
+- status-unverifiable
 - succession-report\_attributed
 - suffering\_causality
 - technology\_and\_mind\_interface
 - terminology: “positronic” is a human-language approximation (p0002)
+- terrestrial-history-contradiction
 - time\_and\_dimension\_claims\_unverified
 - translated-originally-Spanish
+- translation-counterpart-src-0a2dec346e2d-expanded-later-account
+- translation-counterpart-src-77b565b0b608-shared-2018-section
+- treat-all-persons-equally
 - uncertainty-shift: 5G moves from possible explanation to formal position
 - unverified-astral-causation
 - unverified\_biological\_claims

@@ -1,0 +1,81 @@
+{
+  "source_id": "src-c1491dcb9c07",
+  "snapshot_sha256": "ac7ec63a9c72660b036c50d836a2fa8f3a5a81922a139d768817e2fd47ddb381",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c1491dcb9c07-c01",
+      "assertion": "Swaruu says a person can change their experienced past through perception, without changing other people’s memories.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0008",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1491dcb9c07-c02",
+      "assertion": "She describes alternate memories as drawn from another self’s timeline, with many versions of each event.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1491dcb9c07-c03",
+      "assertion": "Swaruu says temporal-jump missions affect only the traveler; “Sand-Clock” squadron changes do not alter others.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sand-clock-squadrons",
+      "name": "Sand-Clock temporal squadrons",
+      "kind": "temporal operation",
+      "aliases": [
+        "Sand-Clock missions"
+      ]
+    }
+  ],
+  "review_flags": [
+    "memory-rewriting-is-personal-only",
+    "mental-health-claims-excluded"
+  ],
+  "coverage_gaps": [
+    "shadow-work-procedure",
+    "mental-health-theory"
+  ]
+}

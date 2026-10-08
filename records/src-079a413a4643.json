@@ -1,0 +1,96 @@
+{
+  "source_id": "src-079a413a4643",
+  "snapshot_sha256": "a553e949deaff1707bc69309b3b5b125e3191ba11efe8b71cb63aa856a6a7e65",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-079a413a4643-c01",
+      "assertion": "Anéeka attributes Bermuda anomalies to underwater zero-point reactors releasing energy, causing magnetic and temporal disturbance.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0011"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "temporal-skipping"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says Flight 19 likely remains on Earth."
+    },
+    {
+      "id": "src-079a413a4643-c02",
+      "assertion": "She says aircraft may cross timelines, leaving duplicate wrecks; she cannot identify who moved them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0011"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "temporal-skipping"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-079a413a4643-c03",
+      "assertion": "Anéeka recounts a lost WWII Mosquito pilot appearing decades later to guide a modern jet to safety.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She cites a story from terrestrial documents."
+    },
+    {
+      "id": "src-079a413a4643-c04",
+      "assertion": "She describes an artificial portal in an underwater Yemen base, used by regressives to move human cargo.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "flight-19-explanation-uncertain",
+    "temporal-duplicate-theory",
+    "yemen-portal-claim"
+  ],
+  "coverage_gaps": [
+    "japan-triangle",
+    "diego-garcia-aircraft"
+  ]
+}

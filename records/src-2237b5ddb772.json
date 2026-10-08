@@ -1,0 +1,70 @@
+{
+  "source_id": "src-2237b5ddb772",
+  "snapshot_sha256": "c74e1d4bc54f92be7d66e94d04c7b0c141888774c52a2204a5201a756364a8d5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2237b5ddb772-c01",
+      "assertion": "Anéeka alleges the Cabal uses genetic data to identify starseeds as nonhuman agents and neutralize them, treating DNA as frequency-coded information about species and individuals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "earth-cabal",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2237b5ddb772-c02",
+      "assertion": "She says humanity comprises many species using human bodies as shared suits; souls, not outward appearance, distinguish them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2237b5ddb772-c03",
+      "assertion": "Anéeka says starseed missions are set before incarnation; some enter as commandos, while others fulfill them through ordinary lives and small actions that create large changes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "contested-genetic-surveillance-claim"
+  ],
+  "coverage_gaps": [
+    "pcr-and-vaccine-allegations",
+    "collective-resistance-strategy"
+  ]
+}

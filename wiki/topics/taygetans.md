@@ -2132,6 +2132,352 @@ Attributed to **Gosia**; reported; extraction confidence: medium.
 
 Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0013, p0016. [Structured record](../../records/src-c1f323f128a9.json).
 
+### src-7ea3539f3fa4-c01
+
+Swaruu says Taygeta’s First Contact Project ended around November 2016 and its Earth-orbit presence later contracted to one ship.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Contacto Extraterrestre: ESTAMOS LISTOS para Contacto Oficial? PARTE 2 (Swaruu de Erra, Pleyades)](https://swaruu.org/transcripts/contacto-extraterrestre-estamos-listos-para-contacto-oficial-parte-2-swaruu-de-erra-pleyades) (2019-08-10; es); passages p0037, p0038, p0039. [Structured record](../../records/src-7ea3539f3fa4.json).
+
+Related topics: [Toleka-class starships](toleka-class.md).
+
+### src-c39eb902dc40-c01
+
+Swaruu (9) says Taygeta’s First Contact Project involved at least about 550 participants contacting people online from 2009–2016; only a few remained partly convinced.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Programa de Primer Contacto Extraterrestre](https://swaruu.org/transcripts/programa-de-primer-contacto-extraterrestre) (2019-08-07; es); passages p0011, p0014. [Structured record](../../records/src-c39eb902dc40.json).
+
+### src-63fc52c97ef0-c01
+
+Robert recounts meeting an older woman at Montserrat’s ufology congress; she said she was a long-time contactee and introduced him to people she identified as Taygetans, including Swaruu. The Taygetan identity is reported by the narrators.
+
+Attributed to **Robert**; reported; extraction confidence: high.
+
+Source: [Como contactamos con Extraterrestres de la Raza Taygeteana de las Pleyades](https://swaruu.org/transcripts/como-contactamos-con-extraterrestres-de-la-raza-taygeteana-de-las-pleyades) (2018-05-20; es); passages p0017, p0019, p0020, p0021, p0025. [Structured record](../../records/src-63fc52c97ef0.json).
+
+### src-63fc52c97ef0-c02
+
+Gosia says her first connection with Swaruu was in December, followed by a months-long interruption and renewed contact around April.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Como contactamos con Extraterrestres de la Raza Taygeteana de las Pleyades](https://swaruu.org/transcripts/como-contactamos-con-extraterrestres-de-la-raza-taygeteana-de-las-pleyades) (2018-05-20; es); passages p0028. [Structured record](../../records/src-63fc52c97ef0.json).
+
+### src-63fc52c97ef0-c03
+
+Gosia says Swaruu explained that Taygetans shifted from telepathy to computer chat, which she described as less vulnerable to interference and distortion.
+
+Attributed to **Gosia, relaying Swaruu**; reported; extraction confidence: high.
+
+Source: [Como contactamos con Extraterrestres de la Raza Taygeteana de las Pleyades](https://swaruu.org/transcripts/como-contactamos-con-extraterrestres-de-la-raza-taygeteana-de-las-pleyades) (2018-05-20; es); passages p0033, p0034. [Structured record](../../records/src-63fc52c97ef0.json).
+
+### src-01318b2e6aaa-c03
+
+She claims Taygetan science places a fetus’s soul entry at two to three weeks, when abortion is allowed by the woman; she considers it murder afterward. She frames this as Taygetan knowledge.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EXPERIMENTOS GENÉTICOS CON EL ALMA - Y OTRAS PREGUNTAS](https://swaruu.org/transcripts/experimentos-geneticos-con-el-alma-y-otras-preguntas) (2018-07-28; es); passages p0034, p0036. [Structured record](../../records/src-01318b2e6aaa.json).
+
+### src-0b5cb8b06b54-c03
+
+She calls herself an independent Ronin, not a representative of Taygeta or the Federation, and says she withholds definitive proof to avoid imposing on listeners.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Carta Respuesta de Swaruu a la Federacion Galactica: Tertulia de Anochecer (3)](https://swaruu.org/transcripts/carta-respuesta-de-swaruu-a-la-federacion-galactica-tertulia-de-anochecer-3) (2018-09-18; es); passages p0035, p0036, p0038. [Structured record](../../records/src-0b5cb8b06b54.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-885ec940f20f-c01
+
+Anéeka says fewer than 100 Earth people were in contact with Taygeta; pressure to halt contacts existed, while Swaruu remained in contact as a counselor.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Contacto Extraterrestre Pleyadiano - Estrella Taygeta -Anéeka de Temmer - Las Pleyades](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-estrella-taygeta-aneeka-de-temmer-las-pleyades) (2018-11-22; es); passages p0002, p0006, p0010, p0016. [Structured record](../../records/src-885ec940f20f.json).
+
+### src-9262c571083f-c06
+
+Taygetans suffer too; density alone does not govern consciousness control.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra: Porque hay Sufrimiento? (Mensaje Extraterrestre Pleyadiano de Taygeta) (16)](https://swaruu.org/transcripts/swaruu-de-erra-porque-hay-sufrimiento-mensaje-extraterrestre-pleyadiano-de-taygeta-16) (2018-12-08; es); passages p0072, p0074, p0076. [Structured record](../../records/src-9262c571083f.json).
+
+### src-d5c29da42755-c04
+
+Taygetan children learn telepathically; past-life memories return near thirteen, and schooling follows interests.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE - ESTRELLA TAYGETA - LAS PLEYADES - Swarru - Anéeka](https://swaruu.org/transcripts/contacto-extraterrestre-estrella-taygeta-las-pleyades-swarru-aneeka) (2018-12-02; es); passages p0080, p0081, p0082. [Structured record](../../records/src-d5c29da42755.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-bfae5ca72b24-c01
+
+The First Contact Project ended around November 2016; Taygetan operations began under Asket and Rashell, now Centauri.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Proyecto Primer Contacto Extraterrestre - Segunda Parte](https://swaruu.org/transcripts/proyecto-primer-contacto-extraterrestre-segunda-parte) (2019-08-10; es); passages p0042, p0043. [Structured record](../../records/src-bfae5ca72b24.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-bfae5ca72b24-c02
+
+Taygeta cut Earth-orbit presence to one ship; about ten contact-capable people remained, mainly two.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Proyecto Primer Contacto Extraterrestre - Segunda Parte](https://swaruu.org/transcripts/proyecto-primer-contacto-extraterrestre-segunda-parte) (2019-08-10; es); passages p0044. [Structured record](../../records/src-bfae5ca72b24.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-954309ae5feb-c01
+
+Swaruu says she was born on Erra and reached Earth in October 2015.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [Swaruu se Dirige a los Escepticos - Mensaje Extraterreste de Pleyades (Taygeta)](https://swaruu.org/transcripts/swaruu-se-dirige-a-los-escepticos-mensaje-extraterreste-de-pleyades-taygeta) (2018-07-30; es); passages p0007. [Structured record](../../records/src-954309ae5feb.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-08eb04ce1eff-c05
+
+Taygetans have one brain mass, larger pineal, no corpus callosum, and higher nerve voltage.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE DE LAS PLEYADES - ESTRELLA TAYGETA - SWARUU - ANEEKA](https://swaruu.org/transcripts/contacto-extraterrestre-de-las-pleyades-estrella-taygeta-swaruu-aneeka) (2018-11-28; es); passages p0120, p0122, p0124. [Structured record](../../records/src-08eb04ce1eff.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-08eb04ce1eff-c06
+
+Taygetan women can self-reproduce and deliver more easily.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE DE LAS PLEYADES - ESTRELLA TAYGETA - SWARUU - ANEEKA](https://swaruu.org/transcripts/contacto-extraterrestre-de-las-pleyades-estrella-taygeta-swaruu-aneeka) (2018-11-28; es); passages p0126, p0128, p0129, p0131. [Structured record](../../records/src-08eb04ce1eff.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-fad1597372f1-c04
+
+Taygeta has negative birth rates; frequency-compatible newcomers are welcome.
+
+Attributed to **Dhor Káal'él**; reported; extraction confidence: high.
+
+Source: [Primera Entrevista con Hombre Extraterrestre de Taygeta (Pleyades): Contacto Extraterrestre](https://swaruu.org/transcripts/primera-entrevista-con-hombre-extraterrestre-de-taygeta-pleyades-contacto-extraterrestre) (2019-08-25; es); passages p0082, p0083. [Structured record](../../records/src-fad1597372f1.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-fad1597372f1-c05
+
+Taygetan men embrace emotions as part of their strength.
+
+Attributed to **Dhor Káal'él**; reported; extraction confidence: high.
+
+Source: [Primera Entrevista con Hombre Extraterrestre de Taygeta (Pleyades): Contacto Extraterrestre](https://swaruu.org/transcripts/primera-entrevista-con-hombre-extraterrestre-de-taygeta-pleyades-contacto-extraterrestre) (2019-08-25; es); passages p0100, p0101, p0102, p0103. [Structured record](../../records/src-fad1597372f1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-fad1597372f1-c07
+
+Only about ten Taygetans speak human languages, limiting direct contact.
+
+Attributed to **Dhor Káal'él**; reported; extraction confidence: high.
+
+Source: [Primera Entrevista con Hombre Extraterrestre de Taygeta (Pleyades): Contacto Extraterrestre](https://swaruu.org/transcripts/primera-entrevista-con-hombre-extraterrestre-de-taygeta-pleyades-contacto-extraterrestre) (2019-08-25; es); passages p0116, p0117. [Structured record](../../records/src-fad1597372f1.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-d2714323822a-c03
+
+Young Taygetan idealists volunteer, motivated by empathy and shared identity with Earth.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Porque Estamos Aqui Ahora? (2)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-porque-estamos-aqui-ahora-2) (2018-06-04; es); passages p0039, p0041. [Structured record](../../records/src-d2714323822a.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a6f1977b24ac-c04
+
+In Taygeta identical twins may share one soul; Earth forgetting can split its attention into a new soul.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRE DE LAS PLEYADES - SWARUU DE ERRA – ESTRELLA TAYGETA](https://swaruu.org/transcripts/extraterrestre-de-las-pleyades-swaruu-de-erra-estrella-taygeta) (2018-08-19; es); passages p0025, p0026, p0027, p0028. [Structured record](../../records/src-a6f1977b24ac.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6a1113ff029c-c01
+
+Swaruu describes Taygetans as physical, humanlike Lyrian relatives; Pleiades contains many distinct species.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZA TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/raza-taygeteana-de-las-pleyades) (2018-05-12; es); passages p0004, p0006, p0009. [Structured record](../../records/src-6a1113ff029c.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-6a1113ff029c-c02
+
+Their lifespans reportedly span 750–950 years; aging is voluntary and poorly tracks physical appearance.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZA TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/raza-taygeteana-de-las-pleyades) (2018-05-12; es); passages p0009, p0011. [Structured record](../../records/src-6a1113ff029c.json).
+
+### src-6a1113ff029c-c03
+
+Swaruu links longevity to 24-strand, 24-chromosome DNA and regenerative-cleaning technology.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZA TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/raza-taygeteana-de-las-pleyades) (2018-05-12; es); passages p0012. [Structured record](../../records/src-6a1113ff029c.json).
+
+Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
+
+### src-6a1113ff029c-c04
+
+Anéeka reports forward-set ears, larger eyes, fused corpus callosum, enlarged pineal glands and distinct reproductive systems.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [RAZA TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/raza-taygeteana-de-las-pleyades) (2018-05-12; es); passages p0014. [Structured record](../../records/src-6a1113ff029c.json).
+
+Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
+
+### src-28c3fd0534dc-c04
+
+Swaruu says Taygeta’s population declines because many residents have transcended 5D and no longer reincarnate there.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Ascension: Que es y en Que Consiste? Mensaje Extraterrestre Pleyadiano (23)](https://swaruu.org/transcripts/ascension-que-es-y-en-que-consiste-mensaje-extraterrestre-pleyadiano-23) (2019-04-16; es); passages p0122, p0123. [Structured record](../../records/src-28c3fd0534dc.json).
+
+Related topics: [Perceptual density](perceptual-density.md), [Postmortem realities](postmortem-realities.md).
+
+### src-b36d2a7b7c51-c03
+
+She describes Taygetans as biological, varied people, noting Pleiadians comprise many races and she speaks only for hers. Her self-description.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE - INTELIGENCIA ARTIFICIAL – Swaruu de Erra](https://swaruu.org/transcripts/contacto-extraterrestre-inteligencia-artificial-swaruu-de-erra) (2018-12-04; es); passages p0021, p0022. [Structured record](../../records/src-b36d2a7b7c51.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-a62abe01768e-c05
+
+She says the Cabal uses New Age Pleiadian imagery to discredit Taygetans and their message. Her claim.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS PLEYADES - LOS PLEYADIANOS - ESTRELLA TAYGETA - SWARUU DE ERRA](https://swaruu.org/transcripts/las-pleyades-los-pleyadianos-estrella-taygeta-swaruu-de-erra) (2019-05-18; es); passages p0027. [Structured record](../../records/src-a62abe01768e.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-4c19a3a319ec-c01
+
+Robert says Taygetan technology and society use holographic principles. His account.
+
+Attributed to **Robert**; asserted; extraction confidence: high.
+
+Source: [TECNOLOGIA EXTRATERRESTRE BASADA EN LA CONCIENCIA - SWARUU](https://swaruu.org/transcripts/tecnologia-extraterrestre-basada-en-la-conciencia-swaruu) (2019-02-15; es); passages p0003. [Structured record](../../records/src-4c19a3a319ec.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-1480eda6f2f1-c01
+
+Swaruu classifies Taygeta as primary and terrestrial humans as secondary species.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica-Preguntas (Swaruu de Erra Habla de Nuestro Poder Illimitado) (Taygeta-Pleyades)](https://swaruu.org/transcripts/genetica-preguntas-swaruu-de-erra-habla-de-nuestro-poder-illimitado-taygeta-pleyades) (2019-07-11; es); passages p0015, p0017, p0018. [Structured record](../../records/src-1480eda6f2f1.json).
+
+### src-4d31d71233c1-c03
+
+She contrasts her view with Andromedan karma, which she says Taygetans reject.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra: Trampa del KARMA (Mensaje Extraterrestre Pleyadiano de Taygeta) (15)](https://swaruu.org/transcripts/swaruu-de-erra-trampa-del-karma-mensaje-extraterrestre-pleyadiano-de-taygeta-15) (2018-11-26; es); passages p0003, p0004, p0050, p0052. [Structured record](../../records/src-4d31d71233c1.json).
+
+### src-42f818598b56-c02
+
+She says Taygetans arrived in 1952 after nuclear tests; about forty craft were downed by the 1970s, none Taygetan.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [Nosotras Somos las Chicas de Sociedad Vril: Mensaje Pleyadiano (Rashell de Temmer)](https://swaruu.org/transcripts/nosotras-somos-las-chicas-de-sociedad-vril-mensaje-pleyadiano-rashell-de-temmer) (2019-01-24; es); passages p0017, p0019. [Structured record](../../records/src-42f818598b56.json).
+
+### src-8e490481292c-c05
+
+Rashell says Taygetans sought to infiltrate Nazi Germany to impede its nuclear and flying-disc programs.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE PLEYADIANO DE TAYGETA CON EL PRESIDENTE IKE EISENHOWER - RASHELL DE TEMMER](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-de-taygeta-con-el-presidente-ike-eisenhower-rashell-de-temmer) (2018-10-16; es); passages p0030, p0034. [Structured record](../../records/src-8e490481292c.json).
+
+Related topics: [Vlash, Vlad and Vrill clans](vlash-vlad-vrill-clans.md).
+
+### src-a0a1d364e89f-c01
+
+Swaruu places Taygetans on Erra and Temmer around Taygeta in the Pleiades; nearly 18,000 serve aboard several ships.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-quienes-somos-1) (2018-05-28; es); passages p0005. [Structured record](../../records/src-a0a1d364e89f.json).
+
+### src-caf216b09494-c01
+
+Swaruu describes two Earth civilizations: a controlled type-0 population and an interstellar society thousands of years advanced, limited by the Federation.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA FALSEDAD DE LA CIENCIA TERRESTRE-BAJO QUE PROPOSITO - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/la-falsedad-de-la-ciencia-terrestre-bajo-que-proposito-swaruu-sistema-taygeta-pleyades) (2018-07-21; es); passages p0003. [Structured record](../../records/src-caf216b09494.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-e0a4afea956c-c03
+
+Anéeka says human-like Taygetans seem more alien to humans than visibly nonhuman species because they defy expectations.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL PORQUE NO PUEDEN HABER PRUEBAS - TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/el-porque-no-pueden-haber-pruebas-taygeteana-de-las-pleyades) (2018-05-15; es); passages p0011. [Structured record](../../records/src-e0a4afea956c.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-e0a4afea956c-c04
+
+Swaruu says photos and sightings are easily dismissed; contact should suggest ideas without overriding free will.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL PORQUE NO PUEDEN HABER PRUEBAS - TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/el-porque-no-pueden-haber-pruebas-taygeteana-de-las-pleyades) (2018-05-15; es); passages p0017, p0019, p0020. [Structured record](../../records/src-e0a4afea956c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8a805d3bcc25-c04
+
+She says Taygetans made Egypt’s Ark as weapon and genetic archive; it is nonfunctional and held by Cabal.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Respuestas - Anunnki - Elohim - Shiva - Enki - Enlil - Triangulum](https://swaruu.org/transcripts/respuestas-anunnki-elohim-shiva-enki-enlil-triangulum) (2019-07-19; es); passages p0024. [Structured record](../../records/src-8a805d3bcc25.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md), [Genetic weapons](genetic-weapons.md).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -2314,6 +2660,42 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - [src-110eac9645cb-c03](economics.md#src-110eac9645cb-c03) — Economics and resources
 - [src-dc53d4326450-c03](consciousness-metaphysics.md#src-dc53d4326450-c03) — Consciousness and metaphysics
 - [src-d892a9e298b1-c03](natural-portals.md#src-d892a9e298b1-c03) — Natural and artificial portals
+- [src-fd4806542048-c01](alien-species.md#src-fd4806542048-c01) — Alien species and distinctions
+- [src-fdf4bfc8aa32-c02](earth-cabal.md#src-fdf4bfc8aa32-c02) — Earth Cabal and power structures
+- [src-bbad8c4053ab-c03](natural-portals.md#src-bbad8c4053ab-c03) — Natural and artificial portals
+- [src-17057e78d90e-c03](atlantes.md#src-17057e78d90e-c03) — Atlantes
+- [src-1d479f08f57b-c01](taygetan-parthenogenesis.md#src-1d479f08f57b-c01) — Taygetan parthenogenesis
+- [src-d5c29da42755-c06](taygetan-ecosystems.md#src-d5c29da42755-c06) — Taygetan ecosystems
+- [src-954309ae5feb-c06](holistic-society.md#src-954309ae5feb-c06) — Holistic society
+- [src-5a63a913a8b6-c02](alien-species.md#src-5a63a913a8b6-c02) — Alien species and distinctions
+- [src-1fd1145b4a3b-c04](planetary-dna-arks.md#src-1fd1145b4a3b-c04) — Planetary DNA Arks
+- [src-bf466c0fec46-c01](dna-metaphysics.md#src-bf466c0fec46-c01) — DNA and metaphysical patterns
+- [src-1a7b60ba8ea9-c01](atlantis-lemuria.md#src-1a7b60ba8ea9-c01) — Atlantis and Lemuria
+- [src-0ad91b6f93c8-c04](alien-species.md#src-0ad91b6f93c8-c04) — Alien species and distinctions
+- [src-fd419788ecbb-c04](galactic-federation.md#src-fd419788ecbb-c04) — Galactic Federation
+- [src-ba6a1792fd69-c02](atlantis-lemuria.md#src-ba6a1792fd69-c02) — Atlantis and Lemuria
+- [src-ba6a1792fd69-c03](atlantis-lemuria.md#src-ba6a1792fd69-c03) — Atlantis and Lemuria
+- [src-bdb9a554b70c-c02](urmah.md#src-bdb9a554b70c-c02) — Urmah
+- [src-bdb9a554b70c-c05](urmah.md#src-bdb9a554b70c-c05) — Urmah
+- [src-775d18ade5d9-c02](sentient-starship-ai.md#src-775d18ade5d9-c02) — Sentient starship AI
+- [src-775d18ade5d9-c03](temporal-skipping.md#src-775d18ade5d9-c03) — Temporal skipping
+- [src-96c91cbdd54c-c01](taygetan-first-contact-project.md#src-96c91cbdd54c-c01) — Taygetan First Contact Project
+- [src-ec0774773c92-c01](lyran-expansion.md#src-ec0774773c92-c01) — Lyran expansion
+- [src-ec0774773c92-c02](tiamat.md#src-ec0774773c92-c02) — Tiamat
+- [src-0df271d4423a-c01](taygetan-ecosystems.md#src-0df271d4423a-c01) — Taygetan ecosystems
+- [src-0df271d4423a-c02](taygetan-ecosystems.md#src-0df271d4423a-c02) — Taygetan ecosystems
+- [src-ab81c3f220ab-c02](rashell-eisenhower-contact.md#src-ab81c3f220ab-c02) — Rashell–Eisenhower Contact
+- [src-65d7f9508cf4-c03](primary-secondary-species.md#src-65d7f9508cf4-c03) — Primary and Secondary Species
+- [src-914c88ed3e7a-c01](earth-dna-arks.md#src-914c88ed3e7a-c01) — Earth DNA Arks
+- [src-914c88ed3e7a-c02](earth-dna-arks.md#src-914c88ed3e7a-c02) — Earth DNA Arks
+- [src-7952cde1857a-c04](sirian-civilizations.md#src-7952cde1857a-c04) — Sirian civilizations
+- [src-a62abe01768e-c03](starseeds.md#src-a62abe01768e-c03) — Starseeds
+- [src-a62abe01768e-c04](alien-species.md#src-a62abe01768e-c04) — Alien species and distinctions
+- [src-4c19a3a319ec-c02](starship-systems.md#src-4c19a3a319ec-c02) — Starship systems
+- [src-b24a05072ad7-c02](moon-matrix.md#src-b24a05072ad7-c02) — Moon and terrestrial Matrix
+- [src-a0a1d364e89f-c02](galactic-federation.md#src-a0a1d364e89f-c02) — Galactic Federation
+- [src-e0a4afea956c-c02](earth-cabal.md#src-e0a4afea956c-c02) — Earth Cabal and power structures
+- [src-8a805d3bcc25-c02](elohi.md#src-8a805d3bcc25-c02) — Elohi
 
 ## Review flags
 
@@ -2322,13 +2704,19 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
+- Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
+- Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
+- Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Cyndriel time-difference mechanism remains unknown.
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Maitre\_relationship\_with\_Reptilians
+- Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
+- Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Senetre-diagnosed-weapon-route-suspected
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
 - Species summaries are broad and based on accounts attributed to orbital sources
@@ -2336,20 +2724,34 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - The cloning and genetic-control statements are Swaruu’s claims.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
 - afterlife\_model
+- agenda21-assertion
+- approximate-age-estimate
+- ark-locations-and-status
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - attack-theory\_speculative
+- attributed-reproductive-lore
 - attribution-care: source claims about sexuality are speaker-specific
 - attribution\_scope
+- biology-claim
 - blockade-and-biology-attributed
+- causal-attribution-tension
+- claims-about-suppressed-contact-evidence
 - conflict-causation-uncertain
 - conflicting\_origin\_accounts
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
 - conspiracy\_claims
+- contact-identity-reported
+- contact-readiness-generalization
+- contested-claim
+- contested-claims
+- contested-history
 - contested\_intelligence\_claims
 - contradictory\_past\_change\_model
 - contradicts\_prior\_public\_claims
 - cosmology-claims\_attributed
+- counterfactual-earth-history
+- counterfactual-metaphysics
 - coverage: climate and architecture
 - coverage: full metaphysical questions
 - coverage: interspecies compatibility
@@ -2358,6 +2760,7 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - crop\_circle\_interpretation
 - culturally\_variable\_nde\_claim
 - definition\_varies
+- density-morality-qualification
 - dietary-claims\_attributed
 - dietary\_advice
 - directive-rules-not-in-transcript
@@ -2376,6 +2779,8 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - extraordinary\_metaphysical\_claims
 - extraordinary\_paranormal\_claims
 - extraordinary\_personal\_ability\_claims
+- extraterrestrial-claims
+- extreme-atrocities-claim
 - faction\_tension
 - factional-threat-interpretation-attributed-to-urmah
 - federation-authority-critique
@@ -2386,11 +2791,16 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - fleet-status\_as-reported
 - gender\_role\_generalization
 - genetic-weapon-causation-speculative
+- header-and-segmentation-variation
 - historical-allegations
+- historical-claim
 - historical-claims-uncorroborated
 - historical-claims-unverified
 - historical-conspiracy-claims
+- historical-contact-attributed
+- historical-date-ambiguity
 - historical\_account\_unverified
+- humanomorph-is-source-specific-term
 - identity-claims-unverified
 - identity-of-hidden-faction-unknown
 - identity-uncertainty
@@ -2406,6 +2816,7 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - named\_government\_and\_secret\_base\_claims
 - narrator\_claims
 - nonhuman-technology\_claims\_attributed
+- nonstandard-biology-claims
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
 - pathogen-claim\_attributed
 - personal\_accusations
@@ -2414,16 +2825,22 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - political-claims
 - political-claims-unverified
 - political-narrative\_attributed
+- prime-directive-attributed
 - project-guidance-attributed-to-mari
 - reincarnation-cosmology
+- reported-comparison-not-speaker-endorsement
 - reported\_plan
 - review: claims on sexual orientation and depopulation
+- same-language-near-duplicate-src-735f991fe169
 - second-contact-stoppage-attributed-to-yazhi
 - secondhand-fleet-reports
 - self-reported-traits
 - self\_description
 - serious\_allegations\_attributed
+- simulation-and-AI-claims
+- sirian-group-includes-distinct-species
 - social-media-project\_details\_speculative
+- solar-system-history-attributed
 - source includes conflicting publication and event dates; claims retain stated dates
 - source-speaker-shift-dhor-to-yazhi
 - speaker-attribution-swaruu-x-athena
@@ -2432,13 +2849,19 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - species status is contested within Mari’s account; preserve her stated rationale
 - species-cosmology\_attributed
 - species-description\_attributed
+- species-origin-model-attributed
+- species-taxonomy-contradiction
+- species-threat-description
 - species\_specific\_reproduction
 - succession-report\_attributed
 - succession-rules\_attributed
 - symbolic-conspiracy-claims
+- taygetan-society-claims-attributed
 - technology-described-by-mari
 - technology-description-unverified
 - technology\_claims
+- temporal-lore-attributed
+- time-travel-claims
 - translated\_source
 - translation\_approximation\_navajo\_inuit
 - unverified-contact-claims

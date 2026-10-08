@@ -1,0 +1,97 @@
+{
+  "source_id": "src-ff91a858afee",
+  "snapshot_sha256": "39d165e1e576f1f483dca836953f1de9daabd75ff7d94d064875512c26c85a70",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ff91a858afee-c01",
+      "assertion": "Swaruu says esoteric or technological forecasts reveal the observer’s own timeline, not others’.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff91a858afee-c02",
+      "assertion": "Psychics miss collective outcomes when personal perceptions diverge from population averages.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff91a858afee-c03",
+      "assertion": "She says negative predictions reinforce shared expectations and make adverse outcomes more likely.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff91a858afee-c04",
+      "assertion": "Swaruu says reptilian controllers use linear time, media and schooling to synchronize collective beliefs into the 3D Matrix.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff91a858afee-c05",
+      "assertion": "She says collective fear and despair shape adverse conditions; hope and knowledge may support better outcomes.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "consciousness-claims"
+  ],
+  "coverage_gaps": [
+    "present-moment-doctrine",
+    "timekeeping-symbolism"
+  ]
+}

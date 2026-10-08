@@ -1,0 +1,70 @@
+{
+  "source_id": "src-951e92be08de",
+  "snapshot_sha256": "64960619b3d83cbf39fde0882ee34d295b68fe630313d5a584de3045c5a2ce69",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-951e92be08de-c01",
+      "assertion": "Athena and Yazhi describe densities as mental or perceptual states, not places; a visitor carries their prior mindset to Venus.",
+      "speaker": "Swaruu X (Athena); Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "venus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-951e92be08de-c02",
+      "assertion": "Anéeka says a 3D mindset may perceive only part of Venus, while perception ranges are unstable and differ even among civilizations classed as 5D.",
+      "speaker": "Anéeka; Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "venus",
+      "topics": [
+        "venus",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-951e92be08de-c03",
+      "assertion": "Athena says military APCs transit portals to Venus; a well-built portal can make passage immediate, while moving greater mass requires more energy.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0039",
+        "p0041",
+        "p0046",
+        "p0053",
+        "p0057"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "venus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "venus-gravity",
+    "soldier-memory-control",
+    "portal-node-harvesting"
+  ]
+}

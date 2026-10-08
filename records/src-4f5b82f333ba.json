@@ -1,0 +1,54 @@
+{
+  "source_id": "src-4f5b82f333ba",
+  "snapshot_sha256": "e7f822677c47d3fad129ba61c2458e4d48e97daab6a1904f1d72fa3aeb6020ad",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4f5b82f333ba-c01",
+      "assertion": "Swaruu says the Sun is a portal exit paired with a black-hole entrance in central Andromeda, forming a positive-negative energy torus.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0010", "p0034", "p0040"],
+      "primary_topic": "sunspot-portals",
+      "topics": ["sunspot-portals", "black-holes"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f5b82f333ba-c02",
+      "assertion": "She describes the Matrix as a vast tulpa: attention sustains energy patterns as matter, while unattended forms decay.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0035", "p0036", "p0037", "p0042"],
+      "primary_topic": "tulpas",
+      "topics": ["tulpas", "original-matrix", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f5b82f333ba-c03",
+      "assertion": "Swaruu says each consciousness manifests its own timeline; predictions reflect that observer's perception, and negative forecasts can reinforce collective expectations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0043", "p0046", "p0047", "p0048", "p0049"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "collective-timeline-influence"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f5b82f333ba-c04",
+      "assertion": "She defines dark matter as mass or potential energy outside 3D.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0012", "p0019"],
+      "primary_topic": "perceptual-density",
+      "topics": ["perceptual-density", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["cosmology-claims-attributed"],
+  "coverage_gaps": ["cabal-code-claims", "matter-creation-mechanics"]
+}

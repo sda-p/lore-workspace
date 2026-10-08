@@ -1,0 +1,116 @@
+{
+  "source_id": "src-a6f1977b24ac",
+  "snapshot_sha256": "921d54a13f456a64e9d5eb087a54224e99a062ff79c30a09648400e007c78c0d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a6f1977b24ac-c01",
+      "assertion": "Sleep and afterlife let Source attention manifest beyond density, Swaruu says.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a6f1977b24ac-c02",
+      "assertion": "Coma attention may leave; return needs reason; damage can block Source reconnection.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a6f1977b24ac-c03",
+      "assertion": "Swaruu says suicide may loop across lives until failures are released.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a6f1977b24ac-c04",
+      "assertion": "In Taygeta identical twins may share one soul; Earth forgetting can split its attention into a new soul.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a6f1977b24ac-c05",
+      "assertion": "In 5D, forgetting is weaker; most recall three prior lives, says Swaruu.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a6f1977b24ac-c06",
+      "assertion": "Extraction is consensual; abduction is not. Swaruu names Zeta Gardeners, MILAB, Sauroids, and Malakak.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starseeds",
+        "zeta-reticuli-gardeners"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "contact-protection",
+    "Taygetan-language"
+  ]
+}

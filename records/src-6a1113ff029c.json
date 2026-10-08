@@ -1,0 +1,108 @@
+{
+  "source_id": "src-6a1113ff029c",
+  "snapshot_sha256": "a4329d810a2e4789cea95c26677b38d4389e42e7482674b833b4e779782be232",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6a1113ff029c-c01",
+      "assertion": "Swaruu describes Taygetans as physical, humanlike Lyrian relatives; Pleiades contains many distinct species.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a1113ff029c-c02",
+      "assertion": "Their lifespans reportedly span 750–950 years; aging is voluntary and poorly tracks physical appearance.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a1113ff029c-c03",
+      "assertion": "Swaruu links longevity to 24-strand, 24-chromosome DNA and regenerative-cleaning technology.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a1113ff029c-c04",
+      "assertion": "Anéeka reports forward-set ears, larger eyes, fused corpus callosum, enlarged pineal glands and distinct reproductive systems.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a1113ff029c-c05",
+      "assertion": "Swaruu says Centaurians are human descendants of refugees held on Phaethon as a reptilian slave-farm world.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "centaurians",
+      "topics": [
+        "centaurians",
+        "alfrata",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "centaurians",
+      "name": "Centaurians",
+      "kind": "species",
+      "aliases": [
+        "Centauri humans"
+      ]
+    }
+  ],
+  "review_flags": [
+    "biology-claim"
+  ],
+  "coverage_gaps": [
+    "gender-roles",
+    "diet",
+    "reproduction-details"
+  ]
+}

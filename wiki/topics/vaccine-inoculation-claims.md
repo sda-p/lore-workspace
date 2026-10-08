@@ -44,14 +44,38 @@ Source: [Human Genetic Compatibility with Reptilian Possessions (English)](https
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-d7432fcef312-c03
+
+Swaruu alleges Earth vaccines serve population-control agendas, including a 1918 influenza campaign she claims helped cause the pandemic.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS VACUNAS - EL GOO NEGRO - EL SIDA - LAS FARMACÉUTICAS -SWARUU -MENSAJE PLEYADIANO](https://swaruu.org/transcripts/las-vacunas-el-goo-negro-el-sida-las-farmaceuticas-swaruu-mensaje-pleyadiano) (2018-09-11; es); passages p0012, p0056, p0058. [Structured record](../../records/src-d7432fcef312.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-b5edcd5a7e88-c02
+
+She links some autism-related difficulties to soul-body communication and cites vaccines, food chemicals, radiation, and family stress. Her proposed causes.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL PORQUÉ DE LA ENTRADA DE TANTOS NIÑOS AUTISTAS Y ASPERGER A LA TIERRA](https://swaruu.org/transcripts/el-porque-de-la-entrada-de-tantos-ninos-autistas-y-asperger-a-la-tierra) (2018-06-14; es); passages p0002, p0005, p0006, p0007, p0008, p0009, p0010, p0011, p0013, p0025. [Structured record](../../records/src-b5edcd5a7e88.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-f4085f32044d-c02](taygetans.md#src-f4085f32044d-c02) — Taygetans
+- [src-b5edcd5a7e88-c03](consciousness-metaphysics.md#src-b5edcd5a7e88-c03) — Consciousness and metaphysics
 
 ## Review flags
 
 - Alenym-attack-culprit-unknown
+- attributed-medical-conspiracy-claims
+- disability-spiritualization
 - genetic-weapon-causation-speculative
+- medical-causation-claims
 - medical-claims-unverified
 - medical\_claims
 - population-control-allegations

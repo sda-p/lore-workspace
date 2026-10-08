@@ -38,15 +38,29 @@ Source: [Eclipse, April 8th, 2024 (English)](https://swaruu.org/transcripts/ecli
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-4f5b82f333ba-c01
+
+Swaruu says the Sun is a portal exit paired with a black-hole entrance in central Andromeda, forming a positive-negative energy torus.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [LA MATRIX ES UNA ENORME TULPA - JAQUEAR LA MATRIX - COMO SALIR DE LA MATRIX](https://swaruu.org/transcripts/la-matrix-es-una-enorme-tulpa-jaquear-la-matrix-como-salir-de-la-matrix) (2019-04-05; es); passages p0010, p0034, p0040. [Structured record](../../records/src-4f5b82f333ba.json).
+
+Related topics: [Black holes](black-holes.md).
+
 ## Claims filed under other topics
 
 - [src-9ae514ab9585-c01](natural-portals.md#src-9ae514ab9585-c01) — Natural and artificial portals
 - [src-a11243a06a8a-c01](natural-portals.md#src-a11243a06a8a-c01) — Natural and artificial portals
 - [src-531b0e9f06bf-c01](natural-portals.md#src-531b0e9f06bf-c01) — Natural and artificial portals
+- [src-78a2f4005f35-c01](black-holes.md#src-78a2f4005f35-c01) — Black holes
 
 ## Review flags
 
 - black-knight-loss-details-provisional
+- conspiracy-claims
+- contested-claims
+- cosmology-claims-attributed
 - eclipse-portal-claims-unverified
 - metaphysical-claims
 - secondhand-fleet-reports

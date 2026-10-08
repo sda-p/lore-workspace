@@ -152,6 +152,74 @@ Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
 
 Source: [Ancient Egypt (5) - Egyptian Mysteries - Questions (Athena Swaruu)](https://swaruu.org/transcripts/ancient-egypt-5-egyptian-mysteries-questions-athena-swaruu) (2025-03-18; en); passages p0068, p0069, p0070, p0071. [Structured record](../../records/src-f14039337563.json).
 
+### src-bb90b9018597-c03
+
+The account links Anu, Enlil, and Enki to Beta, Gamma, and Mothallah in a stellar-origin interpretation of the Trinity.
+
+Attributed to **Swaruu (as attributed by Robert)**; reported; extraction confidence: medium.
+
+Source: [Quienes eran - Enki y Enlil](https://swaruu.org/transcripts/quienes-eran-enki-y-enlil) (2019-07-14; es); passages p0021, p0022, p0025, p0026. [Structured record](../../records/src-bb90b9018597.json).
+
+### src-8653c6f0627b-c01
+
+Swaruu interprets Enki and Enlil as peoples, not individuals; she says Federation records do not corroborate them as Sumerian accounts describe. This is her interpretation of records she says she cannot independently verify for listeners.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS TABLILLAS SUMERIAS - ANUNNAKI REPTIL - QUIENES ERAN ENKI ENLIL Y ANU - Swaruu de Erra](https://swaruu.org/transcripts/las-tablillas-sumerias-anunnaki-reptil-quienes-eran-enki-enlil-y-anu-swaruu-de-erra) (2018-10-10; es); passages p0003, p0007, p0008, p0013. [Structured record](../../records/src-8653c6f0627b.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-8653c6f0627b-c02
+
+She characterizes the Sumerian tablets as reptilian disinformation for control, while acknowledging they contain valuable information and that her account lacks outside-Earth corroboration. Attribution preserves her uncertainty.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS TABLILLAS SUMERIAS - ANUNNAKI REPTIL - QUIENES ERAN ENKI ENLIL Y ANU - Swaruu de Erra](https://swaruu.org/transcripts/las-tablillas-sumerias-anunnaki-reptil-quienes-eran-enki-enlil-y-anu-swaruu-de-erra) (2018-10-10; es); passages p0004, p0008, p0009, p0010. [Structured record](../../records/src-8653c6f0627b.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-4e3d013dc4c3-c01
+
+Swaruu alleges Vatican clergy altered Christian reincarnation doctrine around 800, adding one-life and severe-punishment beliefs amid widespread suicides. Her historical account.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL MIEDO PRIMORDIAL - RAZA TAYGETEANA DE LAS PLEYADES](https://swaruu.org/transcripts/el-miedo-primordial-raza-taygeteana-de-las-pleyades) (2018-06-17; es); passages p0003, p0004. [Structured record](../../records/src-4e3d013dc4c3.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-40614df19d52-c03
+
+She describes Enki and Enlil as energies or concepts, not persons, associating Enki with Saturn and Enlil with Pluto. Her symbolic mapping.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LOS MISTERIOS DE PLUTON ESOTERICO -SHIVA - ENKI Y ENLIL](https://swaruu.org/transcripts/los-misterios-de-pluton-esoterico-shiva-enki-y-enlil) (2019-07-10; es); passages p0007. [Structured record](../../records/src-40614df19d52.json).
+
+Related topics: [Saturnian orbital bases](saturn-bases.md), [Pluto](pluto.md).
+
+### src-40614df19d52-c04
+
+She says Shiva was Andromedan, explaining his blue depictions. She says Shiva was or is a real person.
+
+Attributed to **Swaruu**; speculative; extraction confidence: high.
+
+Source: [LOS MISTERIOS DE PLUTON ESOTERICO -SHIVA - ENKI Y ENLIL](https://swaruu.org/transcripts/los-misterios-de-pluton-esoterico-shiva-enki-y-enlil) (2019-07-10; es); passages p0015. [Structured record](../../records/src-40614df19d52.json).
+
+Related topics: [Andromeda Council](andromeda-council.md).
+
+### src-83d10afd7959-c01
+
+Swaruu describes stars as energy portals, not thermonuclear bodies; planets convert incoming radiation to heat.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [SISTEMA SOLAR - PLANETA MERCURIO - EL SOL 13 - SWARUU DE ERRA](https://swaruu.org/transcripts/sistema-solar-planeta-mercurio-el-sol-13-swaruu-de-erra) (2019-05-28; es); passages p0003. [Structured record](../../records/src-83d10afd7959.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-8889af167782-c03](natural-portals.md#src-8889af167782-c03) — Natural and artificial portals
@@ -162,18 +230,23 @@ Source: [Ancient Egypt (5) - Egyptian Mysteries - Questions (Athena Swaruu)](htt
 - [src-64665fcf10bc-c02](consciousness-metaphysics.md#src-64665fcf10bc-c02) — Consciousness and metaphysics
 - [src-3c54f1ef569a-c03](atlantis-lemuria.md#src-3c54f1ef569a-c03) — Atlantis and Lemuria
 - [src-f042ab839938-c06](earth-cabal.md#src-f042ab839938-c06) — Earth Cabal and power structures
+- [src-40614df19d52-c01](pluto.md#src-40614df19d52-c01) — Pluto
 
 ## Review flags
 
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
+- alternate-interpretation-of-ancient-texts-attributed
 - astronomical-claims-unverified
 - conspiracy\_claims
 - definition\_varies
 - extraordinary-contact-claims
 - extraordinary\_astronomical\_claims
+- historical-doctrine-origin-claim
 - historical-uncertainty
 - ideological-commentary
 - metaphysical-model
+- pluto-classification-esoteric-claim
 - related\_series\_part
+- speaker-attribution-inferred-from-robert-transcript
 - speaker-perspective-model
 - symbolic\_interpretations

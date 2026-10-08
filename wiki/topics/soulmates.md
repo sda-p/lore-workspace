@@ -76,7 +76,13 @@ Source: [Questions and Answers - Swaruu of Erra and Aneeka of Temmer](https://sw
 
 Related topics: [Taygetans](taygetans.md).
 
+## Claims filed under other topics
+
+- [src-63234070a0cd-c01](postmortem-realities.md#src-63234070a0cd-c01) — Postmortem realities
+- [src-0f3bd493959e-c04](postmortem-realities.md#src-0f3bd493959e-c04) — Postmortem realities
+
 ## Review flags
 
 - Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
+- discriminatory-sexuality-theory-attributed-to-speaker
 - nonhuman-technology\_claims\_attributed

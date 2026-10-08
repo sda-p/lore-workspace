@@ -1,0 +1,45 @@
+{
+  "source_id": "src-3556f3ec008f",
+  "snapshot_sha256": "2418f6ed5cefa3e6ce7578ee0e3a6fb459d1f55483bbe2934dcf8910d113cd7a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3556f3ec008f-c01",
+      "assertion": "Swaruu (9) says two Sphinxes guarded a valley entrance; two underground bases lay below, one beneath the other.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0033", "p0034"],
+      "primary_topic": "sphinx-underground-bases",
+      "topics": ["sphinx-underground-bases", "deep-underground-military-bases", "ancient-egypt"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3556f3ec008f-c02",
+      "assertion": "She describes the complex as abandoned after flood damage and as a positive, mixed-species Federation base.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0038", "p0040", "p0042"],
+      "primary_topic": "sphinx-underground-bases",
+      "topics": ["sphinx-underground-bases", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3556f3ec008f-c03",
+      "assertion": "Swaruu (9) says Egyptian culture developed around older-than-claimed pyramids, which she describes as energy plants rather than tombs.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0042"],
+      "primary_topic": "ancient-egypt",
+      "topics": ["ancient-egypt", "energy-generation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {"id": "sphinx-underground-bases", "name": "Sphinx Underground Bases", "kind": "location", "aliases": ["DUMBs beneath the Sphinx"]}
+  ],
+  "review_flags": ["ancient-site-claims-attributed"],
+  "coverage_gaps": ["interior-details", "temple-energy-claims"]
+}

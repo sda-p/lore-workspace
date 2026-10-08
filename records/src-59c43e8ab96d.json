@@ -1,0 +1,111 @@
+{
+  "source_id": "src-59c43e8ab96d",
+  "snapshot_sha256": "abdf99ad50470451a1bb3dc5667a23806c830cd2fbe59cdf63815e4ee40eb2e4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-59c43e8ab96d-c01",
+      "assertion": "Swaruu says Mars’s Lyrian civilization was destroyed in the Tiamat wars 12,500 years ago, leaving ruins.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "lyran-expansion",
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59c43e8ab96d-c02",
+      "assertion": "She describes Mars as divided into militarized sectors controlled by Earth-Cabal Reptilians and humans, Maitre, and Aethien Mantis.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "earth-cabal",
+        "reptilians",
+        "maitre",
+        "aethien-mantis"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59c43e8ab96d-c03",
+      "assertion": "Maitre reproduce only by test-tube methods or cloning; their ships use star portals and lack warp.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0015",
+        "p0019"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "mars",
+        "natural-portals",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59c43e8ab96d-c04",
+      "assertion": "She describes Maitre as pyramidal, Mantis as queen-led hive mind, and Martian Reptilians as a seven-level hierarchy.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0021"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "maitre",
+        "aethien-mantis",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59c43e8ab96d-c05",
+      "assertion": "Swaruu says the three groups exterminated all native Martians.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation"
+  ],
+  "coverage_gaps": [
+    "surface ecology",
+    "Earth mission claims",
+    "soul claims"
+  ]
+}

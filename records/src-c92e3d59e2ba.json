@@ -1,0 +1,101 @@
+{
+  "source_id": "src-c92e3d59e2ba",
+  "snapshot_sha256": "8673338a9e42b7d97903d30e29b5ab87cfe5de84bc779760348714eb4bc789aa",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c92e3d59e2ba-c01",
+      "assertion": "Swaruu calls Apollo lunar laser-ranging evidence NASA misinformation, claiming beams diffuse before reflecting back.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c92e3d59e2ba-c02",
+      "assertion": "She claims a Russian SU-24 with electromagnetic countermeasures can remotely disable the US carrier fleet.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c92e3d59e2ba-c03",
+      "assertion": "Swaruu says Falklands fighting concerned Black Goo deposits; she describes the material as petroleum-based and DNA-altering.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c92e3d59e2ba-c04",
+      "assertion": "She claims Cabal corporations seek water privatization, including shipping North American lake water to China for chipmaking.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c92e3d59e2ba-c05",
+      "assertion": "Swaruu describes 5D as elevated consciousness-frequency that reveals high-frequency beings and latent DNA previously imperceptible to humans.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Russian-fleet-details",
+    "Antarctic-water",
+    "Goo-Black-chemistry"
+  ]
+}

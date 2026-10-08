@@ -1,0 +1,102 @@
+{
+  "source_id": "src-73356320550c",
+  "snapshot_sha256": "447650090097ad03038c80afe11d865c451164c1d0523e8a55242083d47ea71f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-73356320550c-c01",
+      "assertion": "Cryonics may return a soul only after recent death, within minutes; old bodies may become programming-only zombies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0058"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "human-clones",
+        "medical-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Swaruu presents reanimation as unlikely."
+    },
+    {
+      "id": "src-73356320550c-c02",
+      "assertion": "MedPod immersion preserves a living sleeper; rapid regeneration causes problems and depends on species and DNA.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "medical-pods",
+      "topics": [
+        "medical-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73356320550c-c03",
+      "assertion": "Cloning from one cell is more viable than reviving damaged bodies, but the soul must choose that clone.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0058",
+        "p0060",
+        "p0062"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "medical-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73356320550c-c04",
+      "assertion": "Consciousness cannot be stored digitally; Swaruu calls it an unbounded, Source-linked flow.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0063",
+        "p0064"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73356320550c-c05",
+      "assertion": "One soul may inhabit two bodies simultaneously if their frequencies and timelines align.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0038",
+        "p0040",
+        "p0042"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "cryonics-outcomes-speculative"
+  ],
+  "coverage_gaps": [
+    "material-attachment-motives",
+    "body-wide-consciousness"
+  ]
+}

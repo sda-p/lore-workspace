@@ -180,6 +180,156 @@ Attributed to **Anéeka**; reported; extraction confidence: medium.
 
 Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-cdc00e8b66c4.json).
 
+### src-d5c29da42755-c01
+
+Swaruu says time jumps shift only the jumper’s line; paradoxes do not occur.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE - ESTRELLA TAYGETA - LAS PLEYADES - Swarru - Anéeka](https://swaruu.org/transcripts/contacto-extraterrestre-estrella-taygeta-las-pleyades-swarru-aneeka) (2018-12-02; es); passages p0017, p0032. [Structured record](../../records/src-d5c29da42755.json).
+
+### src-10009bbe55a5-c03
+
+Each real person has a separate timeline; outsiders have no right to impose their will.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Los Creadores de la Realidad - Swaruu de Erra - Aneeka de Temmer - Asket de Temmer](https://swaruu.org/transcripts/los-creadores-de-la-realidad-swaruu-de-erra-aneeka-de-temmer-asket-de-temmer) (2018-11-08; es); passages p0010, p0011. [Structured record](../../records/src-10009bbe55a5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5d901fdb8dd5-c01
+
+Swaruu (9) says all temporal moments exist as fixed images, perceived sequentially by consciousness.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [CONCEPTO DE QUE ES EL TIEMPO – EL MUNDO REAL - Navegacion Estelar -Swaruu de Erra](https://swaruu.org/transcripts/concepto-de-que-es-el-tiempo-el-mundo-real-navegacion-estelar-swaruu-de-erra) (2019-11-23; es); passages p0007, p0009. [Structured record](../../records/src-5d901fdb8dd5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5d901fdb8dd5-c03
+
+Temporal jumps can desynchronize return; small changes may cause large timeline shifts.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [CONCEPTO DE QUE ES EL TIEMPO – EL MUNDO REAL - Navegacion Estelar -Swaruu de Erra](https://swaruu.org/transcripts/concepto-de-que-es-el-tiempo-el-mundo-real-navegacion-estelar-swaruu-de-erra) (2019-11-23; es); passages p0018. [Structured record](../../records/src-5d901fdb8dd5.json).
+
+### src-5d901fdb8dd5-c04
+
+People choose among fixed timelines; emotional frequency steers toward positive or catastrophic lines.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [CONCEPTO DE QUE ES EL TIEMPO – EL MUNDO REAL - Navegacion Estelar -Swaruu de Erra](https://swaruu.org/transcripts/concepto-de-que-es-el-tiempo-el-mundo-real-navegacion-estelar-swaruu-de-erra) (2019-11-23; es); passages p0022, p0023, p0024, p0026, p0034. [Structured record](../../records/src-5d901fdb8dd5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5d901fdb8dd5-c05
+
+A mind may predict personal futures but tends to miss collective outcomes; algorithms can model trends.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [CONCEPTO DE QUE ES EL TIEMPO – EL MUNDO REAL - Navegacion Estelar -Swaruu de Erra](https://swaruu.org/transcripts/concepto-de-que-es-el-tiempo-el-mundo-real-navegacion-estelar-swaruu-de-erra) (2019-11-23; es); passages p0016, p0021. [Structured record](../../records/src-5d901fdb8dd5.json).
+
+### src-a011d9404b1c-c01
+
+Swaruu says each person has countless existing timelines; consciousness animates but does not create them.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [VIAJES EN EL TIEMPO, PARADOJAS, LINEAS TEMPORALES - SWARUU- DE LA RAZA TAYGETEANA - LAS PLEYADES](https://swaruu.org/transcripts/viajes-en-el-tiempo-paradojas-lineas-temporales-swaruu-de-la-raza-taygeteana-las-pleyades) (2018-06-20; es); passages p0007, p0008. [Structured record](../../records/src-a011d9404b1c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a011d9404b1c-c02
+
+Personal frequency and mood steer choices among catastrophic and positive timeline branches.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [VIAJES EN EL TIEMPO, PARADOJAS, LINEAS TEMPORALES - SWARUU- DE LA RAZA TAYGETEANA - LAS PLEYADES](https://swaruu.org/transcripts/viajes-en-el-tiempo-paradojas-lineas-temporales-swaruu-de-la-raza-taygeteana-las-pleyades) (2018-06-20; es); passages p0009, p0010, p0011, p0012. [Structured record](../../records/src-a011d9404b1c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a011d9404b1c-c03
+
+Swaruu says temporal paradoxes do not occur: changing a past branch leaves the traveler’s origin timeline intact.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [VIAJES EN EL TIEMPO, PARADOJAS, LINEAS TEMPORALES - SWARUU- DE LA RAZA TAYGETEANA - LAS PLEYADES](https://swaruu.org/transcripts/viajes-en-el-tiempo-paradojas-lineas-temporales-swaruu-de-la-raza-taygeteana-las-pleyades) (2018-06-20; es); passages p0008, p0015, p0016, p0021. [Structured record](../../records/src-a011d9404b1c.json).
+
+### src-a011d9404b1c-c04
+
+Clocks and shared social ideas synchronize populations’ time perception, though individual timelines remain distinct.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [VIAJES EN EL TIEMPO, PARADOJAS, LINEAS TEMPORALES - SWARUU- DE LA RAZA TAYGETEANA - LAS PLEYADES](https://swaruu.org/transcripts/viajes-en-el-tiempo-paradojas-lineas-temporales-swaruu-de-la-raza-taygeteana-las-pleyades) (2018-06-20; es); passages p0023, p0024, p0025. [Structured record](../../records/src-a011d9404b1c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ff91a858afee-c01
+
+Swaruu says esoteric or technological forecasts reveal the observer’s own timeline, not others’.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [TEMOR EN LA MATRIX -ENERGÍAS ETERICAS](https://swaruu.org/transcripts/temor-en-la-matrix-energias-etericas) (2018-06-01; es); passages p0002. [Structured record](../../records/src-ff91a858afee.json).
+
+### src-775d18ade5d9-c04
+
+She describes Earth's futures as many shifting probabilities shaped by each person's intention and perception, not a fixed collective destiny.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ESPIRITUALIDAD Y CONCIENCIA - KARMA - MENSAJE EXTRATERRESTRE - SWARUU DE ERRA](https://swaruu.org/transcripts/espiritualidad-y-conciencia-karma-mensaje-extraterrestre-swaruu-de-erra) (2018-12-22; es); passages p0093, p0094, p0095. [Structured record](../../records/src-775d18ade5d9.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-4f5b82f333ba-c03
+
+Swaruu says each consciousness manifests its own timeline; predictions reflect that observer's perception, and negative forecasts can reinforce collective expectations.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [LA MATRIX ES UNA ENORME TULPA - JAQUEAR LA MATRIX - COMO SALIR DE LA MATRIX](https://swaruu.org/transcripts/la-matrix-es-una-enorme-tulpa-jaquear-la-matrix-como-salir-de-la-matrix) (2019-04-05; es); passages p0043, p0046, p0047, p0048, p0049. [Structured record](../../records/src-4f5b82f333ba.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-4c19a3a319ec-c03
+
+Robert says consciousness animates fixed universal frames into an individual timeline; each person is a creator of personal reality. His metaphysical account.
+
+Attributed to **Robert**; asserted; extraction confidence: high.
+
+Source: [TECNOLOGIA EXTRATERRESTRE BASADA EN LA CONCIENCIA - SWARUU](https://swaruu.org/transcripts/tecnologia-extraterrestre-basada-en-la-conciencia-swaruu) (2019-02-15; es); passages p0006, p0007. [Structured record](../../records/src-4c19a3a319ec.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-39f1f606d12b-c02
+
+She describes timelines as predictable frequency sequences, while observers can choose among countless prewritten lines.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [La Conciencia consciencia - Naves Extraterrestres - Navegacion Estelar - Swaruu de Erra](https://swaruu.org/transcripts/la-conciencia-consciencia-naves-extraterrestres-navegacion-estelar-swaruu-de-erra) (2019-12-01; es); passages p0028, p0031, p0035. [Structured record](../../records/src-39f1f606d12b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-39f1f606d12b-c03
+
+Swaruu says mental control can steer populations toward selected timelines; people in one setting may inhabit different realities.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [La Conciencia consciencia - Naves Extraterrestres - Navegacion Estelar - Swaruu de Erra](https://swaruu.org/transcripts/la-conciencia-consciencia-naves-extraterrestres-navegacion-estelar-swaruu-de-erra) (2019-12-01; es); passages p0036, p0037, p0040. [Structured record](../../records/src-39f1f606d12b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-4d14ae46991f-c04](consciousness-metaphysics.md#src-4d14ae46991f-c04) — Consciousness and metaphysics
@@ -194,20 +344,42 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - [src-25cd15eb88db-c02](consciousness-metaphysics.md#src-25cd15eb88db-c02) — Consciousness and metaphysics
 - [src-25cd15eb88db-c05](consciousness-metaphysics.md#src-25cd15eb88db-c05) — Consciousness and metaphysics
 - [src-756f10136c06-c01](frequency-map-navigation.md#src-756f10136c06-c01) — Frequency-map navigation
+- [src-3282c3b2176d-c03](sand-clock.md#src-3282c3b2176d-c03) — Sand Clock
+- [src-78b55f817800-c01](consciousness-metaphysics.md#src-78b55f817800-c01) — Consciousness and metaphysics
+- [src-73356320550c-c05](consciousness-metaphysics.md#src-73356320550c-c05) — Consciousness and metaphysics
+- [src-d2714323822a-c06](starseeds.md#src-d2714323822a-c06) — Starseeds
+- [src-10009bbe55a5-c04](consciousness-metaphysics.md#src-10009bbe55a5-c04) — Consciousness and metaphysics
+- [src-10009bbe55a5-c05](consciousness-metaphysics.md#src-10009bbe55a5-c05) — Consciousness and metaphysics
+- [src-a6f1977b24ac-c03](consciousness-metaphysics.md#src-a6f1977b24ac-c03) — Consciousness and metaphysics
+- [src-5d901fdb8dd5-c02](stellar-navigation.md#src-5d901fdb8dd5-c02) — Stellar navigation
+- [src-543fe68707e6-c01](andromedans.md#src-543fe68707e6-c01) — Andromedans
+- [src-ff91a858afee-c02](collective-timeline-influence.md#src-ff91a858afee-c02) — Collective timeline influence
+- [src-28c3fd0534dc-c01](consciousness-metaphysics.md#src-28c3fd0534dc-c01) — Consciousness and metaphysics
+- [src-775d18ade5d9-c03](temporal-skipping.md#src-775d18ade5d9-c03) — Temporal skipping
+- [src-50c3183fae27-c04](stellar-navigation.md#src-50c3183fae27-c04) — Stellar navigation
+- [src-b24a05072ad7-c02](moon-matrix.md#src-b24a05072ad7-c02) — Moon and terrestrial Matrix
 
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
+- Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
+- agenda21-assertion
+- ancient-history-claim
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - attribution\_scope
 - author-personal-philosophical-analysis
+- consciousness-claims
 - conspiracy-claims
+- cosmology-claims-attributed
+- counterfactual-earth-history
+- cryonics-outcomes-speculative
 - entertainment-disclaimer
 - historical-conspiracy-claims
+- human-origin-model
 - incomplete-investigation
 - metaphysical-claims\_attributed
 - metaphysical-model
@@ -217,5 +389,8 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - speaker-shift-in-source
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker\_attribution
+- subjective-reality-doctrine-attributed
+- temporal-lore-attributed
+- time-travel-claims
 - translated-from-Spanish-original-not-available
 - vision-narrative\_attributed

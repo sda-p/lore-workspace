@@ -1,0 +1,64 @@
+{
+  "source_id": "src-8bdab4413323",
+  "snapshot_sha256": "cfe20da0311e554c3ac0eb10ec2218ede4ef53a272cf3450b817611c19b08a19",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8bdab4413323-c01",
+      "assertion": "Yazhi describes secret power structures as compartmentalized layers, with deeper groups controlling shallower ones and limiting what each knows.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says exact participants and mechanisms are difficult to determine."
+    },
+    {
+      "id": "src-8bdab4413323-c02",
+      "assertion": "Yazhi says Vatican representatives speak with Federation officials based on Saturn at the solar-system level.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0100",
+        "p0101"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "saturn-bases"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She does not identify specific officials."
+    },
+    {
+      "id": "src-8bdab4413323-c03",
+      "assertion": "Yazhi says groups outside Earth’s official street-level civilization use encoded gravitational transmissions called Muon, alongside other communication methods.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She lists this among several contact methods."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Federation-involvement-in-Earth-politics-varies-across-source-claims"
+  ],
+  "coverage_gaps": [
+    "Cabal-claims",
+    "nonhuman-contact-details"
+  ]
+}

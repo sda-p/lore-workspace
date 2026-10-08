@@ -1,0 +1,90 @@
+{
+  "source_id": "src-a49c04fc44dc",
+  "snapshot_sha256": "a4ef8b46d14728774ea7e5e9f9f2b30a3a5a82d37974c5e1fc46c9ce40afbdad",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a49c04fc44dc-c01",
+      "assertion": "Swaruu de Erra says DNA misaligned with an adma imprint becomes unstable; frequency containers align captured admas with altered bodies.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "genetic-weapons",
+      "topics": [
+        "genetic-weapons",
+        "dna-metaphysics",
+        "total-immersion-simulations"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a49c04fc44dc-c02",
+      "assertion": "She describes AI clones with programmed identities and limited interactivity, coordinated centrally.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a49c04fc44dc-c03",
+      "assertion": "She names Red Queen as an AI controlling clones, drones, vehicles, and connected devices through global nodes.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "human-clones"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Independent nodes answer to a central system."
+    },
+    {
+      "id": "src-a49c04fc44dc-c04",
+      "assertion": "Clone stability varies with formation: cheaper models last weeks; 3–5-month models may reach original lifespans.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0025",
+        "p0029"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "genetic-weapons"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Longer formation costs more and increases stability."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "clone-technology-attributed"
+  ],
+  "coverage_gaps": [
+    "clone-use-cases",
+    "chip-control-claims"
+  ]
+}

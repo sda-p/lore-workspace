@@ -1,0 +1,106 @@
+{
+  "source_id": "src-5915d2c9e136",
+  "snapshot_sha256": "3687a92c16bd61f7ccf366e5c951c2aa7bbc48cd2736dab676b4b64bc616dca2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5915d2c9e136-c01",
+      "assertion": "Yazhi says “regressive” is a relative label, and civilizational resets occur amid unresolved chaos rather than agreement.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5915d2c9e136-c02",
+      "assertion": "She says humanity grants the Federation power and that it reflects human thought across levels.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5915d2c9e136-c03",
+      "assertion": "Yazhi describes rising density as integrating other beings into self, expanding information processing and responsibility.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5915d2c9e136-c04",
+      "assertion": "She portrays consciousness as nested from cells through planets, stars, and galaxies into Source.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5915d2c9e136-c05",
+      "assertion": "Yazhi says increased awareness changes one’s attention point; alternate selves may remain unaware.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "resets-without-agreement",
+    "identity-perspective-difference"
+  ],
+  "coverage_gaps": [
+    "alcyone-council-structure",
+    "timeline-linkage"
+  ]
+}

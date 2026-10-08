@@ -136,6 +136,36 @@ Source: [Taygeta, origins and history. Part 1 (English)](https://swaruu.org/tran
 
 Related topics: [Orion Wars](orion-wars.md).
 
+### src-08eb04ce1eff-c04
+
+Lyrans spread from Vega after Orion Wars with reptile invaders about a million years ago.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE DE LAS PLEYADES - ESTRELLA TAYGETA - SWARUU - ANEEKA](https://swaruu.org/transcripts/contacto-extraterrestre-de-las-pleyades-estrella-taygeta-swaruu-aneeka) (2018-11-28; es); passages p0117. [Structured record](../../records/src-08eb04ce1eff.json).
+
+Related topics: [Orion Wars](orion-wars.md), [Alien species and distinctions](alien-species.md).
+
+### src-10009bbe55a5-c01
+
+Earth humans are low-density Lyrian alterations hosting many star lineages, Swaruu says.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Los Creadores de la Realidad - Swaruu de Erra - Aneeka de Temmer - Asket de Temmer](https://swaruu.org/transcripts/los-creadores-de-la-realidad-swaruu-de-erra-aneeka-de-temmer-asket-de-temmer) (2018-11-08; es); passages p0007, p0008. [Structured record](../../records/src-10009bbe55a5.json).
+
+Related topics: [Starseeds](starseeds.md), [Alien species and distinctions](alien-species.md).
+
+### src-ec0774773c92-c01
+
+Swaruu (9) says a reptilian invasion of Vega, Avalon, and Lyra triggered the Great Expansion, dispersing humanoids; Earth had eight women survivors, male count unknown.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE – LA MATRIX – SISTEMA SOLAR – NIBIRU – TIAMAT - SWARUU DE ERRA](https://swaruu.org/transcripts/contacto-extraterrestre-la-matrix-sistema-solar-nibiru-tiamat-swaruu-de-erra) (2018-12-28; es); passages p0078, p0079, p0080. [Structured record](../../records/src-ec0774773c92.json).
+
+Related topics: [Alien species and distinctions](alien-species.md), [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c08](stellar-navigation.md#src-03f88504384a-c08) — Stellar navigation
@@ -147,6 +177,11 @@ Related topics: [Orion Wars](orion-wars.md).
 - [src-45ef563e0d5a-c01](ancient-egypt.md#src-45ef563e0d5a-c01) — Ancient Egypt
 - [src-fe82d1a07961-c01](galactic-federation.md#src-fe82d1a07961-c01) — Galactic Federation
 - [src-3ab615820cb8-c01](galactic-federation.md#src-3ab615820cb8-c01) — Galactic Federation
+- [src-bebc8e2161ed-c02](alfrata.md#src-bebc8e2161ed-c02) — Alfrata (Phaeton)
+- [src-5a63a913a8b6-c01](alien-species.md#src-5a63a913a8b6-c01) — Alien species and distinctions
+- [src-1a7b60ba8ea9-c02](reptilians.md#src-1a7b60ba8ea9-c02) — Reptilians
+- [src-65d7f9508cf4-c03](primary-secondary-species.md#src-65d7f9508cf4-c03) — Primary and Secondary Species
+- [src-59c43e8ab96d-c01](mars.md#src-59c43e8ab96d-c01) — Mars
 
 ## Review flags
 
@@ -159,7 +194,17 @@ Related topics: [Orion Wars](orion-wars.md).
 - approximate\_dates
 - broad-exopolitical-allegations
 - conflicting\_origin\_accounts
+- contested-history
+- density-morality-qualification
 - extraordinary\_history\_claims
+- extraterrestrial-claims
+- human-origin-model
+- nonstandard-biology-claims
+- related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
+- simulation-and-AI-claims
+- solar-system-history-attributed
+- species-origin-model-attributed
+- species-threat-description
 - translated-originally-Spanish
 - translated\_source
 - translation\_approximation\_navajo\_inuit

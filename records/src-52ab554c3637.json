@@ -1,0 +1,92 @@
+{
+  "source_id": "src-52ab554c3637",
+  "snapshot_sha256": "5dfbd37029a60654f485e6522f887cbe30bbfcae0adcd16769fa253188315b9b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-52ab554c3637-c01",
+      "assertion": "Swaruu lists three Taygetan movement modes: gravity manipulation, electromagnetic plasma jet, and faster-than-light frequency-torus immersion.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-52ab554c3637-c02",
+      "assertion": "She says gravity cancellation uses electromagnetic frequencies opposing local gravity; interferometers sense it and computers adjust generators.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0023",
+        "p0048"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-52ab554c3637-c03",
+      "assertion": "Hull-mounted generators create directional gravity gradients for steering; at least three are needed, and capacity scales with ship mass.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028",
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-52ab554c3637-c04",
+      "assertion": "Swaruu says early spacefaring civilizations hollow metal-rich asteroids into low-tech ships, reusing them for impact protection and camouflage.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0069",
+        "p0071"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "gravity-propulsion-attributed"
+  ],
+  "coverage_gaps": [
+    "generator-construction",
+    "atmospheric-aerodynamics"
+  ]
+}

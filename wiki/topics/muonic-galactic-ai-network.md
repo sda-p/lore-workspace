@@ -98,12 +98,21 @@ Source: [Interstellar Life 9 - Spaceship Struck by Lightning — Taygetan Pilot�
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-64a9e923fd20-c02
+
+Swaruu says Taygetans communicate between planets using muon-neutrino transmissions instead of radio or microwaves.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra: Varias Conversaciones (Mensaje Extraterrestre Pleyadiano) (18)](https://swaruu.org/transcripts/swaruu-de-erra-varias-conversaciones-mensaje-extraterrestre-pleyadiano-18) (2019-01-12; es); passages p0017, p0018. [Structured record](../../records/src-64a9e923fd20.json).
+
 ## Claims filed under other topics
 
 - [src-0a76aae844b1-c04](natural-portals.md#src-0a76aae844b1-c04) — Natural and artificial portals
 - [src-857383d23bc1-c04](starship-systems.md#src-857383d23bc1-c04) — Starship systems
 - [src-802b0f3f9360-c02](spherical-drones.md#src-802b0f3f9360-c02) — Spherical drones
 - [src-5f58a24652ac-c04](immersion-pods.md#src-5f58a24652ac-c04) — Immersion pods
+- [src-6a5223076196-c01](stellar-navigation.md#src-6a5223076196-c01) — Stellar navigation
 
 ## Review flags
 

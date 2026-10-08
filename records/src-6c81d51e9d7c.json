@@ -1,0 +1,56 @@
+{
+  "source_id": "src-6c81d51e9d7c",
+  "snapshot_sha256": "7b3eac2f2f851f75cd52e393ac73fa8286059be9e499916d0d5ecd4475294500",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6c81d51e9d7c-c01",
+      "assertion": "Swaruu says Earth reincarnation can become a trap imposed by religions and an alleged Van Allen etheric barrier; she claims sufficiently high frequency may escape it.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0053"],
+      "primary_topic": "reincarnation-cycles",
+      "topics": ["reincarnation-cycles"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c81d51e9d7c-c02",
+      "assertion": "She describes reincarnation spirals linking people who believe they owe one another karmic debts, sometimes as the same soul across lives.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0043", "p0044", "p0046", "p0048"],
+      "primary_topic": "reincarnation-cycles",
+      "topics": ["reincarnation-cycles"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c81d51e9d7c-c03",
+      "assertion": "Swaruu says reincarnation spirals accumulate experience and expand, so lives never repeat exactly.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0065", "p0067", "p0069"],
+      "primary_topic": "reincarnation-cycles",
+      "topics": ["reincarnation-cycles"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c81d51e9d7c-c04",
+      "assertion": "She advises taking lessons from experiences, forgiving oneself, and letting go of karmic burdens to ascend.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0069", "p0071", "p0072"],
+      "primary_topic": "reincarnation-cycles",
+      "topics": ["reincarnation-cycles"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {"id": "reincarnation-cycles", "name": "Reincarnation and karmic cycles", "kind": "cosmology", "aliases": ["ciclos de reencarnación", "karma"]}
+  ],
+  "review_flags": ["reincarnation-cosmology-attributed"],
+  "coverage_gaps": ["animal-incarnation", "memory-of-past-lives"]
+}

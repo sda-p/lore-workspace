@@ -76,12 +76,22 @@ Attributed to **Yazhi**; reported; extraction confidence: medium.
 
 Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0004, p0005, p0007. [Structured record](../../records/src-cdc00e8b66c4.json).
 
+### src-24ab9cb7ffa0-c07
+
+Standard private ships are discoidal; small sport craft lack warp capability.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) (2018-12-28; es); passages p0050, p0051. [Structured record](../../records/src-24ab9cb7ffa0.json).
+
 ## Claims filed under other topics
 
 - [src-96581cc2ca29-c03](starship-systems.md#src-96581cc2ca29-c03) — Starship systems
 - [src-555d02ebcd4e-c05](solatians.md#src-555d02ebcd4e-c05) — Solatians
+- [src-fad1597372f1-c02](starship-systems.md#src-fad1597372f1-c02) — Starship systems
 
 ## Review flags
 
 - Billy\_Meier\_photo\_authenticity\_uncertain
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
+- approximate-age-estimate

@@ -1,0 +1,95 @@
+{
+  "source_id": "src-8a805d3bcc25",
+  "snapshot_sha256": "0e55d4cb001d27905b7006de854aef312dddb9ab328dab8ed1a61a8608f29121",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8a805d3bcc25-c01",
+      "assertion": "Robert’s summary of Swaruu: Atlantis’s flood survivors settled Ireland and Scotland, then Egypt about 1,000 years later.",
+      "speaker": "Robert summarizing Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a805d3bcc25-c02",
+      "assertion": "Swaruu calls Triangulum a sacred creation portal; Elohim founded Earth civilization with Engan and Taygetean participants.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "elohi",
+      "topics": [
+        "elohi",
+        "engan-people",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a805d3bcc25-c03",
+      "assertion": "She says Elohim transmitted Sumerian teachings to later Maya tablets; Quetzalcoatl was a spacecraft.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "elohi",
+      "topics": [
+        "elohi",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a805d3bcc25-c04",
+      "assertion": "She says Taygetans made Egypt’s Ark as weapon and genetic archive; it is nonfunctional and held by Cabal.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "ancient-egypt",
+        "genetic-weapons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "triangulum",
+      "name": "Triangulum portal",
+      "kind": "location",
+      "aliases": [
+        "Triangulum portal",
+        "portal de Triangulum"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct."
+  ],
+  "coverage_gaps": [
+    "religious-control claims",
+    "Shiva and solar symbolism"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "src-3fe6ca238068",
+  "snapshot_sha256": "a63e064fc3fc53500b32e7c228773410588d8cbcaa63c03d471adaca2feb4d2f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3fe6ca238068-c01",
+      "assertion": "Swaruu says time is consciousness-relative; 5D perceives it as multidirectional space rather than a linear sequence.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3fe6ca238068-c02",
+      "assertion": "She says ships navigate space-time by matching a destination frequency, constrained by their emulation capacity.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3fe6ca238068-c03",
+      "assertion": "Changing a past event creates an alternate branch for the traveler; the departure timeline and other people remain unaffected.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0034",
+        "p0035",
+        "p0036",
+        "p0072"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3fe6ca238068-c04",
+      "assertion": "She says collective timelines arise through agreements based on similar personal frequencies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011",
+        "p0042"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3fe6ca238068-c05",
+      "assertion": "She describes shadow work and alternate memories as shifting personal perception; others may retain different memories.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0054",
+        "p0055",
+        "p0057",
+        "p0064",
+        "p0072",
+        "p0074",
+        "p0076"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "psychological memory-rewriting discussion could be confused with clinical guidance"
+  ],
+  "coverage_gaps": [
+    "higher-density time geometry",
+    "alternate-memory mechanism",
+    "crew-wide time travel"
+  ]
+}

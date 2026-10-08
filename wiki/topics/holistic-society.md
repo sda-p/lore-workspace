@@ -1198,6 +1198,108 @@ Source: [Extraterrestrial Life: How Would It Affect Humanity and You? - CLASS 01
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-64a9e923fd20-c01
+
+Swaruu says Taygeta uses voluntary councils of participants and topic experts rather than majority voting.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra: Varias Conversaciones (Mensaje Extraterrestre Pleyadiano) (18)](https://swaruu.org/transcripts/swaruu-de-erra-varias-conversaciones-mensaje-extraterrestre-pleyadiano-18) (2019-01-12; es); passages p0093, p0094, p0095, p0096. [Structured record](../../records/src-64a9e923fd20.json).
+
+### src-954309ae5feb-c06
+
+She says technology must serve spirituality to prevent civilizational self-destruction.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [Swaruu se Dirige a los Escepticos - Mensaje Extraterreste de Pleyades (Taygeta)](https://swaruu.org/transcripts/swaruu-se-dirige-a-los-escepticos-mensaje-extraterreste-de-pleyades-taygeta) (2018-07-30; es); passages p0011, p0012. [Structured record](../../records/src-954309ae5feb.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-fad1597372f1-c03
+
+Taygeta is matriarchal, but men participate and may seek leadership.
+
+Attributed to **Dhor Káal'él**; reported; extraction confidence: high.
+
+Source: [Primera Entrevista con Hombre Extraterrestre de Taygeta (Pleyades): Contacto Extraterrestre](https://swaruu.org/transcripts/primera-entrevista-con-hombre-extraterrestre-de-taygeta-pleyades-contacto-extraterrestre) (2019-08-25; es); passages p0058, p0059, p0066, p0067. [Structured record](../../records/src-fad1597372f1.json).
+
+### src-29dec782e6b2-c06
+
+She says Taygeta has no government-imposed birth-control rules; individuals use it for personal reasons.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [REGISTROS AKÁSHICOS - QUE ES EL LIBRE ALBEDRÍO - SWARUU](https://swaruu.org/transcripts/registros-akashicos-que-es-el-libre-albedrio-swaruu) (2019-03-11; es); passages p0026, p0028. [Structured record](../../records/src-29dec782e6b2.json).
+
+### src-24ab9cb7ffa0-c01
+
+City, island, and planetary councils form a nested Taygetan system; any citizen may serve.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) (2018-12-28; es); passages p0003, p0004. [Structured record](../../records/src-24ab9cb7ffa0.json).
+
+### src-24ab9cb7ffa0-c02
+
+She says Taygeta has no countries or artificial borders.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) (2018-12-28; es); passages p0006. [Structured record](../../records/src-24ab9cb7ffa0.json).
+
+### src-24ab9cb7ffa0-c03
+
+Taygeta has no formal government; experienced councilors serve without coercive authority.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) (2018-12-28; es); passages p0018, p0019, p0021, p0022. [Structured record](../../records/src-24ab9cb7ffa0.json).
+
+### src-24ab9cb7ffa0-c05
+
+Abundance limits material crime; SAR handles fights and therapy centers replace prisons.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) (2018-12-28; es); passages p0016, p0028, p0032. [Structured record](../../records/src-24ab9cb7ffa0.json).
+
+### src-24ab9cb7ffa0-c06
+
+Swaruu says Taygetan children recall past lives around age thirteen, with some earlier and others later.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) (2018-12-28; es); passages p0053, p0054, p0056. [Structured record](../../records/src-24ab9cb7ffa0.json).
+
+### src-42f818598b56-c01
+
+Rashell officially represents Taygeta on its High Council and before the Federation.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [Nosotras Somos las Chicas de Sociedad Vril: Mensaje Pleyadiano (Rashell de Temmer)](https://swaruu.org/transcripts/nosotras-somos-las-chicas-de-sociedad-vril-mensaje-pleyadiano-rashell-de-temmer) (2019-01-24; es); passages p0004, p0005. [Structured record](../../records/src-42f818598b56.json).
+
+### src-74c032374fff-c05
+
+Swaruu describes Taygetan society as voluntary councils without elections, money, or conventional government; residents contribute weekly communal work.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [2019 - EL CABALLERO NEGRO - LOS ANUNNAKI - CONTACTO EXTRATERRESTRE](https://swaruu.org/transcripts/2019-el-caballero-negro-los-anunnaki-contacto-extraterrestre) (2019-01-10; es); passages p0033, p0034, p0035, p0037, p0038. [Structured record](../../records/src-74c032374fff.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-caf216b09494-c04
+
+Human liberation depends on self-development; Swaruu says schooling suppresses creativity and should give way to interest-led learning.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA FALSEDAD DE LA CIENCIA TERRESTRE-BAJO QUE PROPOSITO - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/la-falsedad-de-la-ciencia-terrestre-bajo-que-proposito-swaruu-sistema-taygeta-pleyades) (2018-07-21; es); passages p0012, p0013, p0018, p0019. [Structured record](../../records/src-caf216b09494.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -1250,16 +1352,23 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-bb2e4f6bf652-c01](taygetans.md#src-bb2e4f6bf652-c01) — Taygetans
 - [src-a536d40b8707-c04](earth-cabal.md#src-a536d40b8707-c04) — Earth Cabal and power structures
 - [src-3dfabad0c315-c04](consciousness-metaphysics.md#src-3dfabad0c315-c04) — Consciousness and metaphysics
+- [src-fdc57e7c493f-c01](economics.md#src-fdc57e7c493f-c01) — Economics and resources
+- [src-bebc8e2161ed-c04](alfrata.md#src-bebc8e2161ed-c04) — Alfrata (Phaeton)
+- [src-0df271d4423a-c04](economics.md#src-0df271d4423a-c04) — Economics and resources
+- [src-b5edcd5a7e88-c04](consciousness-metaphysics.md#src-b5edcd5a7e88-c04) — Consciousness and metaphysics
 
 ## Review flags
 
 - Australian-traffic-purpose-unknown
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
+- Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
+- Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation-arguments\_reported
 - Senetre-diagnosed-weapon-route-suspected
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - agenda\_term\_varies
+- approximate-age-estimate
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - attack-theory\_speculative
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
@@ -1271,6 +1380,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - coverage: interspecies compatibility
 - crime\_and\_abundance\_claims
 - dialogue-perspectives-distinguished
+- disability-spiritualization
 - earth-consciousness\_claim\_omitted
 - ethical\_use\_limits
 - extraordinary\_economic\_claims
@@ -1283,6 +1393,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - federation\_dispute
 - fence-control-theory-unconfirmed
 - gender\_role\_generalization
+- header-and-segmentation-variation
 - historical-allegations
 - historical-conspiracy-claims
 - ideological-commentary
@@ -1290,6 +1401,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - intervention\_tension
 - manifestation\_mechanics
 - matrix\_scope
+- medical-causation-claims
 - medical\_claims\_omitted
 - metaphysical-claims
 - metaphysical-social-commentary
@@ -1307,11 +1419,13 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - prior\_statement\_conflict
 - related\_series\_part
 - reported\_plan
+- same-language-near-duplicate-src-735f991fe169
 - self-reported-traits
 - self\_description
 - speaker-perspective-model
 - speaker: interviewer questions excluded as claims
 - species\_specific\_reproduction
+- taygetan-society-claims-attributed
 - technology-described-by-mari
 - technology\_claims
 - translated-originally-Spanish

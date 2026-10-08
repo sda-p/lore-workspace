@@ -1,0 +1,54 @@
+{
+  "source_id": "src-227bccccc470",
+  "snapshot_sha256": "777c244e6cd81e4c9515f64bade0e6fbc184d39b457639d0775e883f8f4f4b18",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-227bccccc470-c01",
+      "assertion": "Swaruu says physical DNA is a limited projection of a higher-plane adma pattern; misalignment with consciousness can cause biological problems.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0009", "p0010", "p0015", "p0024"],
+      "primary_topic": "dna-metaphysics",
+      "topics": ["dna-metaphysics", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-227bccccc470-c02",
+      "assertion": "She claims laboratory genetic alterations in complex species fail within one or two generations, reverting or dying without viable descendants; plants differ.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0006", "p0007"],
+      "primary_topic": "dna-metaphysics",
+      "topics": ["dna-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-227bccccc470-c03",
+      "assertion": "Swaruu describes a 5D genetic map with 12 DNA helices and chromosomes, versus the 3D human representation's two helices and 22–23 chromosomes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0020"],
+      "primary_topic": "dna-metaphysics",
+      "topics": ["dna-metaphysics", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-227bccccc470-c04",
+      "assertion": "She says human consciousness has experienced twelve or more alien species, whose memories are carried in DNA.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0035"],
+      "primary_topic": "dna-metaphysics",
+      "topics": ["dna-metaphysics", "alien-species"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["genetic-metaphysics-attributed"],
+  "coverage_gaps": ["frequency-editing-method", "soul-development"]
+}

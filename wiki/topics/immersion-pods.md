@@ -264,6 +264,24 @@ Source: [BLAST FROM THE PAST: Behind the Mission: Sophia Swaruu (Yazhi) - Issues
 
 Related topics: [Sophia Swaruu](sophia-swaruu.md).
 
+### src-3282c3b2176d-c02
+
+Dhor says immersive training can transfer skills; three weeks of practice inside may feel like seconds outside.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Directos con Dhor Káal'el: Piloto Pleyadiano Taygeteano en la Orbita de la Tierra](https://swaruu.org/transcripts/directos-con-dhor-kaal-el-piloto-pleyadiano-taygeteano-en-la-orbita-de-la-tierra) (2019-11-30; es); passages p0035, p0037, p0039. [Structured record](../../records/src-3282c3b2176d.json).
+
+### src-64a9e923fd20-c04
+
+Swaruu says immersion chambers support brief conscious holographic visits with family aboard distant ships.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra: Varias Conversaciones (Mensaje Extraterrestre Pleyadiano) (18)](https://swaruu.org/transcripts/swaruu-de-erra-varias-conversaciones-mensaje-extraterrestre-pleyadiano-18) (2019-01-12; es); passages p0097, p0098, p0099. [Structured record](../../records/src-64a9e923fd20.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c02](urmah.md#src-5e6c8ea2cb2c-c02) — Urmah

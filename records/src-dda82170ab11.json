@@ -1,0 +1,88 @@
+{
+  "source_id": "src-dda82170ab11",
+  "snapshot_sha256": "f5da8cab25d70dfc2b2926ab927e2c174c2d6d3c1934f43d081ee1ffad0b613e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dda82170ab11-c01",
+      "assertion": "Anéeka says intelligence sources blamed a Wuhan bio-weapon on economic and depopulation aims; Taygetan tests found ordinary SARS.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0011",
+        "p0026",
+        "p0031"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She notes conflicting findings."
+    },
+    {
+      "id": "src-dda82170ab11-c02",
+      "assertion": "She relays a theory that an engineered strain reverted through rapid DNA replication.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0042"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Presented as a possibility."
+    },
+    {
+      "id": "src-dda82170ab11-c03",
+      "assertion": "She alleges rival Cabal factions used the crisis for propaganda and martial law, with one side pursuing arrests.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says several factions were involved."
+    },
+    {
+      "id": "src-dda82170ab11-c04",
+      "assertion": "Some sources blamed illness on 5G; Anéeka says it was not the sole cause.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0036"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conflicting-pandemic-origin-claims",
+    "alleged-pandemic-cabal-plot"
+  ],
+  "coverage_gaps": [
+    "faction-identities",
+    "military-arrest-details"
+  ]
+}

@@ -548,6 +548,80 @@ Source: [BLAST FROM THE PAST: Behind the Mission: Yazhi and Gosia - Gosia´s Dou
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-11de0477daf4-c04
+
+Swaruu says Taygetans use only needed energy and avoid civilization-scale resource extraction.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [CONVERSIÓN DE CONCIENCIA-INTENCIÓN A MATERIA DURA - Swaruu de Erra – REACTOR DE ENERGIA PUNTO CERO](https://swaruu.org/transcripts/conversion-de-conciencia-intencion-a-materia-dura-swaruu-de-erra-reactor-de-energia-punto-cero) (2018-08-30; es); passages p0075, p0076, p0077. [Structured record](../../records/src-11de0477daf4.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-fdc57e7c493f-c01
+
+Gosia describes Earth’s wage system as a cycle that consumes time for basic needs; Swaruu contrasts it with Taygetan support for preferred work.
+
+Attributed to **Gosia and Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra y su Curiosidad sobre Nosotros: Mensaje Extraterrestre Pleyadiano (21)](https://swaruu.org/transcripts/swaruu-de-erra-y-su-curiosidad-sobre-nosotros-mensaje-extraterrestre-pleyadiano-21) (2019-03-11; es); passages p0025, p0027, p0031, p0050, p0052. [Structured record](../../records/src-fdc57e7c493f.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-fdc57e7c493f-c02
+
+Swaruu says Taygetans can build huge interstellar ships because they need not pay for them.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra y su Curiosidad sobre Nosotros: Mensaje Extraterrestre Pleyadiano (21)](https://swaruu.org/transcripts/swaruu-de-erra-y-su-curiosidad-sobre-nosotros-mensaje-extraterrestre-pleyadiano-21) (2019-03-11; es); passages p0056, p0060. [Structured record](../../records/src-fdc57e7c493f.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-735f991fe169-c03
+
+Swaruu says she shares information without payment, describing money as unused in her society.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MENSAJE EXTRATRRESTRE PARA LOS ESCEPTICOS - SWARUU DE ERRA - PLEYADES](https://swaruu.org/transcripts/mensaje-extratrrestre-para-los-escepticos-swaruu-de-erra-pleyades) (2018-07-30; es); passages p0035, p0036, p0037. [Structured record](../../records/src-735f991fe169.json).
+
+### src-954309ae5feb-c07
+
+She says Taygetans use no money; her messages earn no payment.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [Swaruu se Dirige a los Escepticos - Mensaje Extraterreste de Pleyades (Taygeta)](https://swaruu.org/transcripts/swaruu-se-dirige-a-los-escepticos-mensaje-extraterreste-de-pleyades-taygeta) (2018-07-30; es); passages p0036, p0037, p0038. [Structured record](../../records/src-954309ae5feb.json).
+
+### src-c8989a4b274b-c03
+
+She alleges transnational Cabal actors seek water deposits for privatization; lake water is shipped to China for chipmaking.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [NUNCA FUIMOS A LA LUNA - SWARUU DE ERRA - LAS PLEYADES - Goo Negro - MENSAJE EXTRATERRESTRE](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-swaruu-de-erra-las-pleyades-goo-negro-mensaje-extraterrestre) (2018-08-15; es); passages p0035, p0037, p0039. [Structured record](../../records/src-c8989a4b274b.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-c8989a4b274b-c04
+
+Subglacial Antarctic lakes hold fresh water but unfamiliar organisms, making drinking it inadvisable, Swaruu says.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [NUNCA FUIMOS A LA LUNA - SWARUU DE ERRA - LAS PLEYADES - Goo Negro - MENSAJE EXTRATERRESTRE](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-swaruu-de-erra-las-pleyades-goo-negro-mensaje-extraterrestre) (2018-08-15; es); passages p0041, p0043, p0045. [Structured record](../../records/src-c8989a4b274b.json).
+
+### src-0df271d4423a-c04
+
+She describes money-free abundance: communities build free homes sited to spare nature; people choose work, while automation handles unwanted tasks.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 1: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-1-mensaje-extraterrestre-17) (2018-12-23; es); passages p0033, p0035, p0037, p0039, p0041, p0042. [Structured record](../../records/src-0df271d4423a.json).
+
+Related topics: [Holistic society](holistic-society.md), [Taygetan ecosystems](taygetan-ecosystems.md).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -593,15 +667,23 @@ Related topics: [Taygetans](taygetans.md).
 - [src-f9789939fb7e-c04](starship-systems.md#src-f9789939fb7e-c04) — Starship systems
 - [src-3980f5f58d0b-c05](taygetans.md#src-3980f5f58d0b-c05) — Taygetans
 - [src-3dfabad0c315-c02](holistic-society.md#src-3dfabad0c315-c02) — Holistic society
+- [src-fad1597372f1-c04](taygetans.md#src-fad1597372f1-c04) — Taygetans
+- [src-d8bcaf4fc008-c02](uranus.md#src-d8bcaf4fc008-c02) — Uranus and its moons
+- [src-74c032374fff-c05](holistic-society.md#src-74c032374fff-c05) — Holistic society
+- [src-caf216b09494-c02](earth-cabal.md#src-caf216b09494-c02) — Earth Cabal and power structures
+- [src-c92e3d59e2ba-c04](earth-cabal.md#src-c92e3d59e2ba-c04) — Earth Cabal and power structures
 
 ## Review flags
 
+- Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Federation-infiltration\_theory
 - Federation-sanctions\_reported
+- approximate-age-estimate
 - attack-theory\_speculative
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
 - conspiracy-claims
+- contested-claims
 - coverage: climate and architecture
 - coverage: interspecies compatibility
 - crime\_and\_abundance\_claims
@@ -620,6 +702,7 @@ Related topics: [Taygetans](taygetans.md).
 - fleet-status\_as-reported
 - forecast\_predictions\_not\_confirmed
 - geopolitical-allegation
+- header-and-segmentation-variation
 - health-claims-unverified
 - historical-claims-unverified
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
@@ -631,6 +714,7 @@ Related topics: [Taygetans](taygetans.md).
 - metaphysical-claims
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
+- miranda-no-bases-versus-other-moon-bases
 - nonhuman-technology\_claims\_attributed
 - personal\_metaphysics
 - personal\_social\_theory
@@ -639,10 +723,12 @@ Related topics: [Taygetans](taygetans.md).
 - political\_claims
 - political\_structure\_claims
 - prior\_statement\_conflict
+- same-language-near-duplicate-src-735f991fe169
 - secondhand-fleet-reports
 - ship-specifications\_attributed
 - speaker-attribution-swaruu-x-athena
 - symbolic-conspiracy-claims
+- taygetan-society-claims-attributed
 - technology\_claims
 - time-bound-prediction
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025

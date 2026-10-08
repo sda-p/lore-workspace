@@ -1,0 +1,54 @@
+{
+  "source_id": "src-0b358e77a59f",
+  "snapshot_sha256": "053e29a79bcccc9673a974baed57950935d756b7a0831ebec4bdf22d32becbb1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0b358e77a59f-c01",
+      "assertion": "Swaruu says Van Allen bands are artificial high-energy overlays on the natural magnetosphere, powered by it; both are overlapping toroidal fields strongest at polar vortices.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0032", "p0033"],
+      "primary_topic": "terrestrial-science",
+      "topics": ["terrestrial-science", "energy-generation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-0b358e77a59f-c02",
+      "assertion": "She rejects open-ended doughnut depictions, describing a total barrier with stronger polar concentration.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0005", "p0035", "p0038"],
+      "primary_topic": "terrestrial-science",
+      "topics": ["terrestrial-science"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-0b358e77a59f-c03",
+      "assertion": "She claims Apollo never occurred, citing radiation barriers, insufficient Saturn V lift and computing power, and equatorial trajectories.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0006", "p0011", "p0016", "p0018", "p0021"],
+      "primary_topic": "moon-matrix",
+      "topics": ["moon-matrix", "terrestrial-science"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her claims."
+    },
+    {
+      "id": "src-0b358e77a59f-c04",
+      "assertion": "She says astral escape depends on personal frequency; only sufficiently advanced admas escape after death.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0045", "p0046"],
+      "primary_topic": "postmortem-realities",
+      "topics": ["postmortem-realities", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Conditional threshold."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["apollo-denial-claims"],
+  "coverage_gaps": ["nuclear-power-claims"]
+}

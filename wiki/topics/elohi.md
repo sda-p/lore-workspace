@@ -18,6 +18,26 @@ Source: [Iraq War - Real Reasons - Extraterrestrial Portals - Swaruu of Erra](ht
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-8a805d3bcc25-c02
+
+Swaruu calls Triangulum a sacred creation portal; Elohim founded Earth civilization with Engan and Taygetean participants.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Respuestas - Anunnki - Elohim - Shiva - Enki - Enlil - Triangulum](https://swaruu.org/transcripts/respuestas-anunnki-elohim-shiva-enki-enlil-triangulum) (2019-07-19; es); passages p0010, p0011. [Structured record](../../records/src-8a805d3bcc25.json).
+
+Related topics: [Engan people](engan-people.md), [Taygetans](taygetans.md).
+
+### src-8a805d3bcc25-c03
+
+She says Elohim transmitted Sumerian teachings to later Maya tablets; Quetzalcoatl was a spacecraft.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Respuestas - Anunnki - Elohim - Shiva - Enki - Enlil - Triangulum](https://swaruu.org/transcripts/respuestas-anunnki-elohim-shiva-enki-enlil-triangulum) (2019-07-19; es); passages p0013. [Structured record](../../records/src-8a805d3bcc25.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
 ## Claims filed under other topics
 
 - [src-2a1b375479ef-c01](natural-portals.md#src-2a1b375479ef-c01) — Natural and artificial portals
@@ -25,5 +45,6 @@ Related topics: [Taygetans](taygetans.md).
 
 ## Review flags
 
+- Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - extraordinary-technology-claims
 - unverified-historical-claims

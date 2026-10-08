@@ -1,0 +1,120 @@
+{
+  "source_id": "src-ba6a1792fd69",
+  "snapshot_sha256": "1f947537522bb29acd8dd8a2ecbf543040be529be8ec3e964bbb3202d5415225",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ba6a1792fd69-c01",
+      "assertion": "Swaruu defines Atlantis as a global culture, not continent, with its capital on submerged Appalachia.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6a1792fd69-c02",
+      "assertion": "Lemuria was a Taygetan-founded civilization on lost Oceana; its Mu capital welcomed refugees from Atlantis.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6a1792fd69-c03",
+      "assertion": "After Tiamat’s flood, Lemurian survivors fled to the Americas and Japan, then Shasta caverns; Atlanteans settled Ireland and Scotland.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "tiamat",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6a1792fd69-c04",
+      "assertion": "Ex-Lemurian Agarthians built a global underground society around Shambala beneath Gobi, with another Himalayan city.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "agarthians",
+      "topics": [
+        "agarthians",
+        "shambala",
+        "intraterrestrial-vulcans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6a1792fd69-c05",
+      "assertion": "Swaruu says surface Agartha is 3D/4D and reptile-invaded, while deeper high-frequency regions remain free; Federation contact is poor.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0017",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "agarthians",
+      "topics": [
+        "agarthians",
+        "reptilians",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "agarthians",
+      "name": "Agarthians",
+      "kind": "civilization",
+      "aliases": [
+        "Agartheanos",
+        "Agarthian"
+      ]
+    },
+    {
+      "id": "shambala",
+      "name": "Shambala",
+      "kind": "location",
+      "aliases": [
+        "Shamballa",
+        "Shambala the Great"
+      ]
+    }
+  ],
+  "review_flags": [
+    "contested-history"
+  ],
+  "coverage_gaps": [
+    "prehistoric-civilizations",
+    "physical-description"
+  ]
+}

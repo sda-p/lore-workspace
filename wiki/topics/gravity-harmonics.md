@@ -156,6 +156,62 @@ Source: [A Case Against the Existence of Gravity (English)](https://swaruu.org/t
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-7027fa794a95-c02
+
+Swaruu identifies gravitational-intensity frequencies as the universal interstellar language; she says most races use base-12 mathematics, while other systems communicate only partly. She frames the mathematical and language claims as her account.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Preguntas Constantes que Recibe Telepaticamente Swaruu de Erra (Taygeta, Pleyades)](https://swaruu.org/transcripts/preguntas-constantes-que-recibe-telepaticamente-swaruu-de-erra-taygeta-pleyades) (2019-06-23; es); passages p0026, p0027, p0028. [Structured record](../../records/src-7027fa794a95.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-7d0050d7c04a-c05
+
+Gravity is magnetosphere-linked electromagnetic flow at the ether boundary.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Energia Punto Cero: Preguntas (Mensaje Extraterrestre Pleyades)](https://swaruu.org/transcripts/energia-punto-cero-preguntas-mensaje-extraterrestre-pleyades) (2018-09-28; es); passages p0089, p0091. [Structured record](../../records/src-7d0050d7c04a.json).
+
+### src-52ab554c3637-c01
+
+Swaruu lists three Taygetan movement modes: gravity manipulation, electromagnetic plasma jet, and faster-than-light frequency-torus immersion.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra-Navegación Estelar 2 (Parte 3): Cancelación de Gravedad](https://swaruu.org/transcripts/swaruu-de-erra-navegacion-estelar-2-parte-3-cancelacion-de-gravedad) (2019-10-02; es); passages p0008, p0010, p0012, p0013, p0015. [Structured record](../../records/src-52ab554c3637.json).
+
+Related topics: [Starship systems](starship-systems.md), [Stellar navigation](stellar-navigation.md).
+
+### src-52ab554c3637-c02
+
+She says gravity cancellation uses electromagnetic frequencies opposing local gravity; interferometers sense it and computers adjust generators.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra-Navegación Estelar 2 (Parte 3): Cancelación de Gravedad](https://swaruu.org/transcripts/swaruu-de-erra-navegacion-estelar-2-parte-3-cancelacion-de-gravedad) (2019-10-02; es); passages p0020, p0022, p0023, p0048. [Structured record](../../records/src-52ab554c3637.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-52ab554c3637-c03
+
+Hull-mounted generators create directional gravity gradients for steering; at least three are needed, and capacity scales with ship mass.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra-Navegación Estelar 2 (Parte 3): Cancelación de Gravedad](https://swaruu.org/transcripts/swaruu-de-erra-navegacion-estelar-2-parte-3-cancelacion-de-gravedad) (2019-10-02; es); passages p0025, p0027, p0028, p0053, p0054. [Structured record](../../records/src-52ab554c3637.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-68f35a90f3f7-c01
+
+Swaruu describes gravity as an etheric flow that forms matter.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Naves Extraterrestres](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-circulos-de-las-cosechas-naves-extraterrestres) (2019-08-30; es); passages p0003, p0004. [Structured record](../../records/src-68f35a90f3f7.json).
+
 ## Claims filed under other topics
 
 - [src-30d632b02db6-c04](frequency-map-navigation.md#src-30d632b02db6-c04) — Frequency-map navigation
@@ -165,16 +221,24 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-dec092ce158f-c01](starship-systems.md#src-dec092ce158f-c01) — Starship systems
 - [src-c533f1f1e9a7-c03](starship-systems.md#src-c533f1f1e9a7-c03) — Starship systems
 - [src-6eecf487bb1a-c01](natural-portals.md#src-6eecf487bb1a-c01) — Natural and artificial portals
+- [src-50c3183fae27-c01](frequency-map-navigation.md#src-50c3183fae27-c01) — Frequency-map navigation
+- [src-47516d4ba42c-c03](frequency-map-navigation.md#src-47516d4ba42c-c03) — Frequency-map navigation
+- [src-47516d4ba42c-c05](starship-systems.md#src-47516d4ba42c-c05) — Starship systems
 
 ## Review flags
 
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
 - classified-details
+- gravity-propulsion-attributed
 - metaphysical-model\_attributed
 - nonhuman-technology\_claims\_attributed
+- nonstandard-physics-claims
 - portal-mechanics-overlap-src-6abed4268d57
+- source-mixed-origin-en-reactor-and-spanish-engine-sections
 - source-speaker-shift-dhor-to-yazhi
+- suzy-thrust-rating-variant-review
 - technology\_claims
+- translation-counterpart-src-b781192c3a3d-expanded-plasma-engine-details
 - unverified\_conspiracy\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_geophysical\_claims

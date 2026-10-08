@@ -608,6 +608,68 @@ Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [Interstellar Life 12 – Extraterrestrial Craft Posing as Human Aircraft Explained](https://swaruu.org/transcripts/interstellar-life-12-extraterrestrial-craft-posing-as-human-aircraft-explained) (2026-01-23; en); passages p0050, p0052. [Structured record](../../records/src-88e941a1512e.json).
 
+### src-ed681d9a2b1f-c01
+
+Swaruu (9) says artificial portals send a wormhole vortex rather than the apparatus; travelers need a portal at their destination to return.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL UNIVERSO ES UNA GRAN MATRIX – PORTALES ESPACIO TIEMPO - SWARUU](https://swaruu.org/transcripts/el-universo-es-una-gran-matrix-portales-espacio-tiempo-swaruu) (2019-02-13; es); passages p0041, p0043. [Structured record](../../records/src-ed681d9a2b1f.json).
+
+### src-ed681d9a2b1f-c03
+
+She describes natural portals as dependent on many planetary and nearby-astral conditions, potentially predictable but unstable and unreliable. They do not always open.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL UNIVERSO ES UNA GRAN MATRIX – PORTALES ESPACIO TIEMPO - SWARUU](https://swaruu.org/transcripts/el-universo-es-una-gran-matrix-portales-espacio-tiempo-swaruu) (2019-02-13; es); passages p0054, p0055. [Structured record](../../records/src-ed681d9a2b1f.json).
+
+### src-bbad8c4053ab-c03
+
+She says Taygetan ships create their own wormholes, while negative species depend on space corridors, portals, and jumps rather than traveling independently.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu: Navegacion Estelar 1: PREGUNTAS (Contacto Extraterrestre)](https://swaruu.org/transcripts/swaruu-navegacion-estelar-1-preguntas-contacto-extraterrestre) (2018-11-05; es); passages p0011, p0012. [Structured record](../../records/src-bbad8c4053ab.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-ca26375fb916-c06
+
+Reptiles retain limited portal use but cannot use spaceflight.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (4)](https://swaruu.org/transcripts/matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-4) (2018-06-29; es); passages p0075. [Structured record](../../records/src-ca26375fb916.json).
+
+### src-f3da65ca7f6c-c06
+
+Anéeka calls CERN a damaged portal for reinforcements, hampered by failures and sabotage.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://swaruu.org/transcripts/contacto-con-mujeres-extraterrestres-la-estrella-taygeta) (2018-12-15; es); passages p0140, p0142. [Structured record](../../records/src-f3da65ca7f6c.json).
+
+### src-bf7085cb30ac-c03
+
+Portals use the same frequency principle, but return usually requires a separate portal physically at the destination.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NAVEGACION ESTELAR II - PORTALES DIMENSIONALES - SWARUU DE ERRA - VUELO WARP](https://swaruu.org/transcripts/navegacion-estelar-ii-portales-dimensionales-swaruu-de-erra-vuelo-warp) (2018-11-21; es); passages p0008, p0009. [Structured record](../../records/src-bf7085cb30ac.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-bf7085cb30ac-c04
+
+Portal frequencies can use magnet relations or counter-rotating red-mercury rings; ship turbines and computers control an analogous field.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NAVEGACION ESTELAR II - PORTALES DIMENSIONALES - SWARUU DE ERRA - VUELO WARP](https://swaruu.org/transcripts/navegacion-estelar-ii-portales-dimensionales-swaruu-de-erra-vuelo-warp) (2018-11-21; es); passages p0010. [Structured record](../../records/src-bf7085cb30ac.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -630,16 +692,27 @@ Source: [Interstellar Life 12 – Extraterrestrial Craft Posing as Human Aircraf
 - [src-03651da1738e-c02](orion-grays.md#src-03651da1738e-c02) — Orion Grays
 - [src-270ba8d9da62-c01](archons-and-demons.md#src-270ba8d9da62-c01) — Archons and demons
 - [src-8ca54257f6a4-c05](cyndriel.md#src-8ca54257f6a4-c05) — Cyndriel
+- [src-ed681d9a2b1f-c02](frequency-map-navigation.md#src-ed681d9a2b1f-c02) — Frequency-map navigation
+- [src-ed681d9a2b1f-c04](starship-systems.md#src-ed681d9a2b1f-c04) — Starship systems
+- [src-78a2f4005f35-c02](earth-cabal.md#src-78a2f4005f35-c02) — Earth Cabal and power structures
+- [src-74c032374fff-c02](earth-cabal.md#src-74c032374fff-c02) — Earth Cabal and power structures
+- [src-59c43e8ab96d-c03](maitre.md#src-59c43e8ab96d-c03) — Maitre
+- [src-8a97e5888a07-c03](van-allen-belts.md#src-8a97e5888a07-c03) — Van Allen belts
 
 ## Review flags
 
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
+- English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
+- Leader-contact claim is attributed to Asket in this transcript.
+- No English counterpart found in the cached sources.
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - black-knight-loss-details-provisional
 - conflict-causation-uncertain
+- conspiracy-claims
 - conspiracy\_claims
+- contested-claims
 - contested\_archaeology
 - earth\_science\_claims\_unverified
 - eclipse-portal-claims-unverified
@@ -658,6 +731,8 @@ Source: [Interstellar Life 12 – Extraterrestrial Craft Posing as Human Aircraf
 - portal-mechanics-overlap-src-6abed4268d57
 - portal-technology-claims-unverified
 - post-eclipse-causal-attribution
+- related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
+- related-frequency-navigation-source
 - related\_series\_part
 - secondhand-fleet-reports
 - speaker-shifts-Aneeka-Athena-Yazhi

@@ -1,0 +1,72 @@
+{
+  "source_id": "src-0ca2007b25fa",
+  "snapshot_sha256": "7d3478f58699e9868668150d621205a45a5f5269313aeb63ecb0471e11fa7c3a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0ca2007b25fa-c01",
+      "assertion": "Swaruu says ships can enter stellar portals through sunspots and tune their frequency to alter a wormhole’s exit; black holes allow entry only.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Taygeta stopped using black-hole transit because communications cannot escape."
+    },
+    {
+      "id": "src-0ca2007b25fa-c02",
+      "assertion": "Anéeka says interstellar groups standardize frequency using a hydrogen-molecule vibration cycle measured near absolute zero.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0082",
+        "p0083",
+        "p0084",
+        "p0085"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says time is variable rather than a constant."
+    },
+    {
+      "id": "src-0ca2007b25fa-c03",
+      "assertion": "Yazhi says polar reversals require a major cause; she attributes Earth’s last reversal to Tiamat’s water impact.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0087",
+        "p0091"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She contrasts this with Earth’s official timeline."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age"
+  ],
+  "coverage_gaps": [
+    "black-hole-physics",
+    "Earth-polar-field-details"
+  ]
+}

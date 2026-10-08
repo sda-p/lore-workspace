@@ -1,0 +1,67 @@
+{
+  "source_id": "src-ae20e2d2296b",
+  "snapshot_sha256": "b699a8178f966f6cbea238b7edf70e0678cf0ac34f66c4f44bf19a4ace9179aa",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ae20e2d2296b-c01",
+      "assertion": "Swaruu says Triton hosts extraterrestrial animals, including intraterrestrial life using its geological activity for energy, light, and heat.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0006", "p0008", "p0010"],
+      "primary_topic": "neptune",
+      "topics": ["neptune", "intraterrestrial-civilizations"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says only animals live there."
+    },
+    {
+      "id": "src-ae20e2d2296b-c02",
+      "assertion": "By her account, Andromedans towed natural Triton after Tiamat's war into reverse orbit to counterbalance and stabilize Neptune.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0008", "p0012", "p0014"],
+      "primary_topic": "neptune",
+      "topics": ["neptune", "tiamat", "andromeda-council"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She cites her data."
+    },
+    {
+      "id": "src-ae20e2d2296b-c03",
+      "assertion": "Swaruu says Ceres was Tiamat's moon and now hosts Federation bases and service stations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0018", "p0020", "p0022"],
+      "primary_topic": "ceres",
+      "topics": ["ceres", "tiamat", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-ae20e2d2296b-c04",
+      "assertion": "She says Ceres bases supply and repair ships, trade goods, and house multiple species in sector-based cities under domes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0033", "p0041", "p0045", "p0047"],
+      "primary_topic": "ceres",
+      "topics": ["ceres", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Dome security is doubled."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "neptune",
+      "name": "Neptune and Triton",
+      "kind": "planet and moon",
+      "aliases": ["Triton"]
+    },
+    {
+      "id": "ceres",
+      "name": "Ceres",
+      "kind": "location",
+      "aliases": ["former moon of Tiamat"]
+    }
+  ],
+  "review_flags": ["triton-placement-attributed-to-andromedans"],
+  "coverage_gaps": ["neptune-atmosphere", "ceres-city-layout"]
+}

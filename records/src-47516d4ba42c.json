@@ -1,0 +1,107 @@
+{
+  "source_id": "src-47516d4ba42c",
+  "snapshot_sha256": "8cd52a1e2fd2aa1c94615ab3cab2f31d749afd2436b5d638ffe8fd05705db391",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-47516d4ba42c-c01",
+      "assertion": "Taygetan magnetic plasma engines use reactor electricity rather than fuel or propellant, unlike terrestrial plasma rockets.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0018",
+        "p0025"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-47516d4ba42c-c02",
+      "assertion": "Zero-point current passes through voltage-amplifying coils into counter-rotating turbines, creating an electromagnetic vortex and thrust.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-47516d4ba42c-c03",
+      "assertion": "Computers control turbine frequencies; precise harmonics produce directed plasma and enable supraluminal mode.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "starship-systems",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-47516d4ba42c-c04",
+      "assertion": "Suzy has two magnetic engines rated at 5 TEV combined, powered by two Zero Point reactors.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-47516d4ba42c-c05",
+      "assertion": "Taygetan magnetic engines propel ships, while gravity manipulators steer them and replace aerodynamic controls.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-counterpart-src-b781192c3a3d-expanded-plasma-engine-details",
+    "source-mixed-origin-en-reactor-and-spanish-engine-sections",
+    "suzy-thrust-rating-variant-review"
+  ],
+  "coverage_gaps": [
+    "engine-cooling",
+    "atmospheric-exhaust",
+    "gravity-engine-limitations"
+  ]
+}

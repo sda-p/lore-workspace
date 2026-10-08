@@ -1,0 +1,140 @@
+{
+  "source_id": "src-53756b5035b9",
+  "snapshot_sha256": "214e2fb171ad9effda5e4b1f61a0b0f4239af214b2b9dfcddeae041e9ce0ea2a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-53756b5035b9-c01",
+      "assertion": "Anéeka says Federation immersion and memory insertion shape life context; higher-plane methods are more complete.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "memory-implantation",
+      "topics": [
+        "memory-implantation",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53756b5035b9-c02",
+      "assertion": "Yazhi says fabricated records can alter histories; low-tech methods let Cabal counteract Federation changes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "memory-implantation",
+      "topics": [
+        "memory-implantation",
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53756b5035b9-c03",
+      "assertion": "Yazhi says walk-ins assume a departing person’s healthy body, memories, family and life.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "memory-implantation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53756b5035b9-c04",
+      "assertion": "Yazhi says prenatal shared memories provide behavioral templates; some entrants experience childhood directly.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0049",
+        "p0051"
+      ],
+      "primary_topic": "memory-implantation",
+      "topics": [
+        "memory-implantation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53756b5035b9-c05",
+      "assertion": "Yazhi portrays 3D as Federation-managed, with personal timelines and collective timelines formed by agreement.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0061",
+        "p0063",
+        "p0072",
+        "p0075"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "galactic-federation",
+        "timeline-branching",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53756b5035b9-c06",
+      "assertion": "Yazhi says souls choose the experience; humans may see Federation management as interference.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0073",
+        "p0084",
+        "p0085",
+        "p0086",
+        "p0088"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "memory-implantation",
+      "name": "Memory implantation",
+      "kind": "technology",
+      "aliases": [
+        "implantes de memorias",
+        "inserted memories"
+      ]
+    }
+  ],
+  "review_flags": [
+    "claims about fabricated histories and public events are attributed lore, not independently substantiated"
+  ],
+  "coverage_gaps": [
+    "event-memory insertion",
+    "timeline anomalies",
+    "Federation control methods"
+  ]
+}

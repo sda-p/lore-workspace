@@ -103,11 +103,14 @@ Source: [Space News, 29, June 24, 2024, Hurricane in Temmer, Fluffy Cotton in th
 ## Claims filed under other topics
 
 - [src-f6a0faeb1f8f-c02](taygetans.md#src-f6a0faeb1f8f-c02) — Taygetans
+- [src-3e85a1ca7a28-c01](human-clones.md#src-3e85a1ca7a28-c01) — Human clones and manufactured persons
+- [src-3e85a1ca7a28-c04](human-clones.md#src-3e85a1ca7a28-c04) — Human clones and manufactured persons
 
 ## Review flags
 
 - Alenym-retirement-not-decided
 - Senetre-diagnosed-weapon-route-suspected
+- clone-technology-attributed
 - medical-claims-unverified
 - nonhuman-technology\_claims\_attributed
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain

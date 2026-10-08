@@ -1,0 +1,104 @@
+{
+  "source_id": "src-e0a4afea956c",
+  "snapshot_sha256": "4a0148b374f6c5679d8d8a0cea67be874cc4fc245315c6ea3787bf98b6de1c86",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e0a4afea956c-c01",
+      "assertion": "Swaruu says contact rules restrict open proof; exposure could feed a hostile-invasion narrative and enable new-world-order control.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0a4afea956c-c02",
+      "assertion": "She says Cabal-controlled media and New Age ideas seed disinformation that discredits Taygetan contact.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0a4afea956c-c03",
+      "assertion": "Anéeka says human-like Taygetans seem more alien to humans than visibly nonhuman species because they defy expectations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0a4afea956c-c04",
+      "assertion": "Swaruu says photos and sightings are easily dismissed; contact should suggest ideas without overriding free will.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0a4afea956c-c05",
+      "assertion": "She predicts controlled, partial disclosure mainly for population-engineering research; people should judge evidence independently.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "science-critique",
+    "Darwin-and-relativity-claims",
+    "Anunnaki-claims"
+  ]
+}

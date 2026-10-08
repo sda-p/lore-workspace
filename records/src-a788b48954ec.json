@@ -1,0 +1,79 @@
+{
+  "source_id": "src-a788b48954ec",
+  "snapshot_sha256": "5ea438b8bfe5c860007ed26fbef02a4adfd41365c80861a56d2c986e77e48270",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a788b48954ec-c01",
+      "assertion": "Yazhi says a roughly 5,000-year-old Federation base beneath Bucegi was recently emptied; it had maglev routes to Giza and Crimea, recovery chambers and robotic guards.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0049",
+        "p0054",
+        "p0056",
+        "p0060"
+      ],
+      "primary_topic": "bucegi-underground-base",
+      "topics": [
+        "bucegi-underground-base",
+        "deep-underground-military-bases",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says its current occupancy is unknown."
+    },
+    {
+      "id": "src-a788b48954ec-c02",
+      "assertion": "Yazhi describes plants, especially trees, as an interconnected consciousness network that converts minerals and radiation into life.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0074",
+        "p0076",
+        "p0077",
+        "p0078",
+        "p0083"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says animals also participate."
+    },
+    {
+      "id": "src-a788b48954ec-c03",
+      "assertion": "Yazhi suggests Tartaria may name Atlantis or an earlier planetary civilization; she says the surviving history is obscure.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0093",
+        "p0094"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says she lacks stellar references for the name."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "bucegi-underground-base",
+      "name": "Bucegi underground base",
+      "kind": "location",
+      "aliases": [
+        "Bucegi DUMB",
+        "Bucegi base"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Vasectomy-health-claims",
+    "Tutankhamun-artifact"
+  ]
+}

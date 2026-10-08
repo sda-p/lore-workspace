@@ -74,6 +74,16 @@ Source: [Alpha Centauri: Historical Lies? Mari’s and Urmah's Perspective. (Eng
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-ec0774773c92-c03
+
+Swaruu (9) calls the current Earth conflict a continuation of the Orion Wars and says the Federation now holds superiority over regressive reptiles.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE – LA MATRIX – SISTEMA SOLAR – NIBIRU – TIAMAT - SWARUU DE ERRA](https://swaruu.org/transcripts/contacto-extraterrestre-la-matrix-sistema-solar-nibiru-tiamat-swaruu-de-erra) (2018-12-28; es); passages p0081. [Structured record](../../records/src-ec0774773c92.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c01](lyran-expansion.md#src-03f88504384a-c01) — Lyran expansion
@@ -88,6 +98,9 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-ee2bcb823310-c03](galactic-federation.md#src-ee2bcb823310-c03) — Galactic Federation
 - [src-cf0ae0f8a31e-c05](urmah.md#src-cf0ae0f8a31e-c05) — Urmah
 - [src-6ce55fb86338-c02](tiamat.md#src-6ce55fb86338-c02) — Tiamat
+- [src-08eb04ce1eff-c04](lyran-expansion.md#src-08eb04ce1eff-c04) — Lyran expansion
+- [src-f3a1e4326731-c02](galactic-federation.md#src-f3a1e4326731-c02) — Galactic Federation
+- [src-ec0774773c92-c02](tiamat.md#src-ec0774773c92-c02) — Tiamat
 
 ## Review flags
 
@@ -100,10 +113,14 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - directive-rules-not-in-transcript
 - extraordinary\_history\_claims
 - faction\_tension
+- federation-history-attributed
 - internal-date-tension
 - no-parallel-source-in-batch
+- nonstandard-biology-claims
 - political-claims\_attributed
 - reported-claims\_by\_Ari
+- simulation-and-AI-claims
+- solar-system-history-attributed
 - translated-from-spanish
 - translated\_source
 - unproven-historical-speculation

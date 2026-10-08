@@ -1,0 +1,56 @@
+{
+  "source_id": "src-65d7f9508cf4",
+  "snapshot_sha256": "84dabaee2e9007af09eeb3c807e4d0d6b2fdf122a13ca9414654042ccfe9cf0a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-65d7f9508cf4-c01",
+      "assertion": "Swaruu says consciousness shapes perceived reality through attention; people manifest more of what they focus on, whether desired or feared.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0004", "p0005", "p0006", "p0007"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "original-matrix"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65d7f9508cf4-c02",
+      "assertion": "She claims advanced species can alter populations' genes by controlling perception, prompting consciousness to switch or rewrite genes without physical editing.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0010", "p0011", "p0012", "p0016", "p0017"],
+      "primary_topic": "dna-metaphysics",
+      "topics": ["dna-metaphysics", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65d7f9508cf4-c03",
+      "assertion": "She classifies Source-intended Lyrians and Taygetans as primary, but humans as a modified Lyran secondary species.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0020", "p0021", "p0022"],
+      "primary_topic": "primary-secondary-species",
+      "topics": ["primary-secondary-species", "lyran-expansion", "taygetans", "alien-species"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65d7f9508cf4-c04",
+      "assertion": "She says humans retain potential to reactivate their genes, but perceived limitation suppresses it.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0022", "p0023", "p0027", "p0029"],
+      "primary_topic": "dna-metaphysics",
+      "topics": ["dna-metaphysics", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {"id": "primary-secondary-species", "name": "Primary and Secondary Species", "kind": "species-taxonomy", "aliases": ["razas primarias y secundarias"]}
+  ],
+  "review_flags": ["species-origin-model-attributed"],
+  "coverage_gaps": ["collective-perception-mechanics", "frequency-gradients"]
+}

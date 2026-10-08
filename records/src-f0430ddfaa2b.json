@@ -1,0 +1,97 @@
+{
+  "source_id": "src-f0430ddfaa2b",
+  "snapshot_sha256": "b5367c3fd7c9ce1a416ab9515c293a02863035e691cfb30d4607137e6a5d0818",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f0430ddfaa2b-c01",
+      "assertion": "Dhor’s third-built Suzy has a 90-meter hull plus cannons, 30-meter wingspan, two reactors, and two plasma engines.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f0430ddfaa2b-c02",
+      "assertion": "A Suzy fighter can fly with its pilot or autonomously under onboard AI.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0031"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f0430ddfaa2b-c03",
+      "assertion": "Scalar-frequency attacks can blind gravity sensors and crash gravity-dependent craft; larger Taygetan fighters retain plasma-jet lift.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f0430ddfaa2b-c04",
+      "assertion": "Energy toroids and plasma jets shield ships; a system redirects physical and energy attacks.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f0430ddfaa2b-c05",
+      "assertion": "Dhor says static warp phases a stationary ship from attackers; shields cloak it by shifting frequency or bending light.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0043",
+        "p0047"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "pilot-qualification",
+    "orion-wars",
+    "aircraft-mimicry"
+  ]
+}

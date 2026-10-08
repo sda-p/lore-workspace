@@ -1,0 +1,75 @@
+{
+  "source_id": "src-eb7d2550aba4",
+  "snapshot_sha256": "3ad5fa8b1636d6f88878d804fb3ca6a5b5e90ab45a34ab9c9acdfc9847e8f00c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-eb7d2550aba4-c01",
+      "assertion": "Yazhi Swaruu describes a soul as a bounded set of memories and ideas within Source, not an independent entity; accumulated experience can expand that boundary.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0012",
+        "p0015",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb7d2550aba4-c02",
+      "assertion": "She says forgetting sustains individual identity and duality, and continues after death and across densities until reintegration with Source.",
+      "speaker": "Yazhi Swaruu; Swaruu X",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0023",
+        "p0025",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb7d2550aba4-c03",
+      "assertion": "Swaruu X says densities are perceptual states defined by consciousness; she and Yazhi are one consciousness sharing experience while retaining distinct attention and priorities.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0038",
+        "p0048",
+        "p0049",
+        "p0052",
+        "p0054"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "walk-in-examples",
+    "egregor-sentience",
+    "timeline-claims"
+  ]
+}

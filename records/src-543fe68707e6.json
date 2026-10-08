@@ -1,0 +1,122 @@
+{
+  "source_id": "src-543fe68707e6",
+  "snapshot_sha256": "c0ac92eaf066fc5aeb05bddcea1667df9a3c10120cb9acb9adc472e596db301c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-543fe68707e6-c01",
+      "assertion": "Andromedans say they destroyed their homeworld in ancient warfare, then became nomads aboard ships.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "andromedans",
+      "topics": [
+        "andromedans",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-543fe68707e6-c02",
+      "assertion": "Large spherical biospheres house millions; triangular ships exceed 800 km and hold thousands.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "andromedans",
+      "topics": [
+        "andromedans",
+        "starship-systems",
+        "moon-biosphere-ship"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-543fe68707e6-c03",
+      "assertion": "They use layered councils, belong to the Federation, Andromeda Council, and Sphere Alliance, and have egalitarian status with patriarchal tendencies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0012",
+        "p0022"
+      ],
+      "primary_topic": "andromedans",
+      "topics": [
+        "andromedans",
+        "galactic-federation",
+        "andromeda-council",
+        "sphere-alliance"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-543fe68707e6-c04",
+      "assertion": "They reproduce sexually underwater; lifespans are estimated near 4,500 years.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "andromedans",
+      "topics": [
+        "andromedans",
+        "medical-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Estimate is uncertain because time differs across worlds."
+    },
+    {
+      "id": "src-543fe68707e6-c05",
+      "assertion": "A large biosphere reached Earth in 1952; Andromedans advise, provide logistics and conduct geophysical research.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "andromedans",
+      "topics": [
+        "andromedans",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "andromedans",
+      "name": "Andromedans",
+      "kind": "species",
+      "aliases": [
+        "Andromedan"
+      ]
+    },
+    {
+      "id": "sphere-alliance",
+      "name": "Alliance of the Sphere",
+      "kind": "faction",
+      "aliases": [
+        "Alliance of the Sphere"
+      ]
+    }
+  ],
+  "review_flags": [
+    "ancient-history-claim"
+  ],
+  "coverage_gaps": [
+    "andromedan-appearance",
+    "human-influence",
+    "portal-transit"
+  ]
+}

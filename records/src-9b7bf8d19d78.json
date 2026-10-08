@@ -1,0 +1,52 @@
+{
+  "source_id": "src-9b7bf8d19d78",
+  "snapshot_sha256": "fb3fb95d664b26281a05f60300ef3432b659a56182ac92f1b1450cc490c239cd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9b7bf8d19d78-c01",
+      "assertion": "Yazhi says iron retains a limited frequency range, grounding people in 3D and making paranormal experiences harder for those she calls asleep; she says already-awake people are not similarly impeded.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0011",
+        "p0020",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Within Yazhi’s metaphysical model."
+    },
+    {
+      "id": "src-9b7bf8d19d78-c02",
+      "assertion": "She says iron retains the user’s own frequency and cannot distinguish helpful from harmful influences; crystals and rocks supposedly work similarly, with effects depending on the user’s ideas.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0053",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Protection is attributed to the user’s own filtering and beliefs."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "health-claims",
+    "electromagnetic-protection",
+    "gold-recipe"
+  ]
+}

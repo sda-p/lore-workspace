@@ -1,0 +1,81 @@
+{
+  "source_id": "src-82159a8850fc",
+  "snapshot_sha256": "7eda3c78abc38a17cd73e528ffbbff626a89518d42bca4935cd8afaaab629563",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-82159a8850fc-c01",
+      "assertion": "Anéeka claims starseeds may have 24 chromosomes, often with one or two inactive; awakening can activate them, while humans usually have 22 active chromosomes, sometimes 23.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-82159a8850fc-c02",
+      "assertion": "She says an activated 24th chromosome unlocks advanced mental powers and makes starseeds hard for the Cabal to control, prompting its genetic detection efforts.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "earth-cabal",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-82159a8850fc-c03",
+      "assertion": "Anéeka recounts Yazhi shielding herself with an invisible force field about half a meter away, stopping tossed toys; she says Yazhi manipulates matter with mind.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "mind-generated-force-fields",
+      "topics": [
+        "mind-generated-force-fields",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "mind-generated-force-fields",
+      "name": "Mind-generated force fields",
+      "kind": "phenomenon",
+      "aliases": [
+        "mental shields",
+        "campos de fuerza mentales"
+      ]
+    }
+  ],
+  "review_flags": [
+    "contested-chromosome-and-ability-claims"
+  ],
+  "coverage_gaps": [
+    "starseed-memory-and-incarnation",
+    "genetic-surveillance-details"
+  ]
+}

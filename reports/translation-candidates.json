@@ -27,6 +27,150 @@
       "origin": "continuous-013 extractor4 comparison",
       "status": "retain-variants",
       "comparison_note": "Spanish source has broader scope than English account; retain distinct source claims."
+    },
+    {
+      "source_ids": [
+        "src-a0a1d364e89f",
+        "src-71d40c73482b"
+      ],
+      "origin": "continuous-013 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Close Spanish/English alignment reported by extractor4; equivalence unconfirmed."
+    },
+    {
+      "source_ids": [
+        "src-b24a05072ad7",
+        "src-1db159fdbe8d"
+      ],
+      "origin": "continuous-013 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Spanish p0052 adds attributed Taygetan military coordination from 5D; retain source-specific material."
+    },
+    {
+      "source_ids": [
+        "src-caf216b09494",
+        "src-d16fe289eee6"
+      ],
+      "origin": "continuous-013 extractor4 comparison",
+      "status": "distinct-accounts",
+      "comparison_note": "Similarly titled English and Spanish articles were compared in full and reported as non-equivalent."
+    },
+    {
+      "source_ids": [
+        "src-2bc9fdeb3e80",
+        "src-0a2dec346e2d"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "English repeats the 2018 account then adds a 2019 account changing the Dyatlov deaths explanation; retain dated contradictory variants."
+    },
+    {
+      "source_ids": [
+        "src-35a4804aef6f",
+        "src-77b565b0b608"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "English adds a July 2020 opening section absent from the Spanish 2018 article."
+    },
+    {
+      "source_ids": [
+        "src-59c43e8ab96d",
+        "src-ce9c92fd3b4e"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Shared Mars division material; Spanish includes broader multi-planet material."
+    },
+    {
+      "source_ids": [
+        "src-8a97e5888a07",
+        "src-9dba344806dc"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Worker reports close full translation with no substantive difference found; equivalence remains unconfirmed."
+    },
+    {
+      "source_ids": [
+        "src-b59378b55fc0",
+        "src-62f745a4f503"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Worker reports close full translation; equivalence remains unconfirmed."
+    },
+    {
+      "source_ids": [
+        "src-74d9087d50f8",
+        "src-dd0d7340a655"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Worker reports close full translation; equivalence remains unconfirmed."
+    },
+    {
+      "source_ids": [
+        "src-9b8c545032b0",
+        "src-30ad5c1df3fd"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "English passages p0424-p0448 add a mind-generated portals section absent from Spanish."
+    },
+    {
+      "source_ids": [
+        "src-3fc0d6ff4509",
+        "src-efce96683138"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Worker reports close full translation; equivalence remains unconfirmed."
+    },
+    {
+      "source_ids": [
+        "src-8e490481292c",
+        "src-ab81c3f220ab"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Worker reports identical 60-passage Spanish bodies with alternate titles."
+    },
+    {
+      "source_ids": [
+        "src-af005c73ed53",
+        "src-7872bc2f2c04"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Spanish repost changes paragraph grouping and omits attribution preface and signature; no lore additions found by worker."
+    },
+    {
+      "source_ids": [
+        "src-954309ae5feb",
+        "src-735f991fe169"
+      ],
+      "origin": "continuous-013/014 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "Spanish bodies differ in speaker-label spacing, paragraph grouping and signature; no lore additions found by worker."
+    },
+    {
+      "source_ids": [
+        "src-39133ce4e004",
+        "src-e9f782478883"
+      ],
+      "origin": "continuous-014 independent reviewer1 comparison",
+      "status": "retain-distinct-revisions",
+      "comparison_note": "Near-identical quarantine passages, but different dated source snapshots and lengths (11 versus 30 passages); retain both records."
+    },
+    {
+      "source_ids": [
+        "src-fba00f670b62",
+        "src-70fb5038443a"
+      ],
+      "origin": "continuous-013 extractor4 comparison",
+      "status": "retain-variants",
+      "comparison_note": "English counterpart is a close later version adding context and thirteen-planet claims."
     }
   ]
 }

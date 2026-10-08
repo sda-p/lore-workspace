@@ -1,0 +1,72 @@
+{
+  "source_id": "src-d5ad0f7ed082",
+  "snapshot_sha256": "7c579ad5685837ddad1a3ff66bb27e0f9389acb63d52f5788430ec89f0ac5241",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d5ad0f7ed082-c01",
+      "assertion": "Anéeka says dry pods support short immersions; wet pods sustain suspended bodies for years or decades, with fluid supplying nutrients.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She knows no cases lasting thousands of years."
+    },
+    {
+      "id": "src-d5ad0f7ed082-c02",
+      "assertion": "Anéeka says pods maintain the body while computers divert sensory attention by frequencies; electrical stimulation prevents muscle atrophy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0014",
+        "p0016",
+        "p0029",
+        "p0038"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Immersion can also work without a pod."
+    },
+    {
+      "id": "src-d5ad0f7ed082-c03",
+      "assertion": "Anéeka says pod failure or danger wakes the user; immersion users return to their original bodies and retain most immersion memories.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0100",
+        "p0105"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Memory is not perfectly retained."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "cross-species-use",
+    "immersion-history",
+    "avatar-frequency-matching"
+  ]
+}

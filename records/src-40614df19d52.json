@@ -1,0 +1,61 @@
+{
+  "source_id": "src-40614df19d52",
+  "snapshot_sha256": "b5adb33c463a3d70323e838d69314949cd36d5ee25a87a989d572ac76779b4a9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-40614df19d52-c01",
+      "assertion": "Swaruu says Pluto's demotion has an esoteric, not astrophysical, basis: it symbolizes Shiva's transformative threat to the Cabal, so they reduced its influence.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0006", "p0010", "p0011", "p0012"],
+      "primary_topic": "pluto",
+      "topics": ["pluto", "astrotheology", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her esoteric explanation."
+    },
+    {
+      "id": "src-40614df19d52-c02",
+      "assertion": "She says Pluto currently hosts a large Galactic Federation base.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0009"],
+      "primary_topic": "pluto",
+      "topics": ["pluto", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-40614df19d52-c03",
+      "assertion": "She describes Enki and Enlil as energies or concepts, not persons, associating Enki with Saturn and Enlil with Pluto.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0007"],
+      "primary_topic": "astrotheology",
+      "topics": ["astrotheology", "saturn-bases", "pluto"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her symbolic mapping."
+    },
+    {
+      "id": "src-40614df19d52-c04",
+      "assertion": "She says Shiva was Andromedan, explaining his blue depictions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0015"],
+      "primary_topic": "astrotheology",
+      "topics": ["astrotheology", "andromeda-council"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says Shiva was or is a real person."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "pluto",
+      "name": "Pluto",
+      "kind": "dwarf planet and astrological symbol",
+      "aliases": ["Pluto esoteric symbolism"]
+    }
+  ],
+  "review_flags": ["pluto-classification-esoteric-claim"],
+  "coverage_gaps": ["venus-saturn-portal-claims"]
+}

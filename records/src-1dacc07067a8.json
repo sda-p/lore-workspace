@@ -1,0 +1,86 @@
+{
+  "source_id": "src-1dacc07067a8",
+  "snapshot_sha256": "a62d6c82db120853efb62de0b77d01bdf417ec6b745e7294be84d908aefe14e9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1dacc07067a8-c01",
+      "assertion": "Anéeka distinguishes a regressive human order linked to transhumanism from a Federation-associated unification meant to free Earth; both envision one planetary government, religion, and currency without countries.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0018",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "planetary-unification",
+      "topics": [
+        "planetary-unification",
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1dacc07067a8-c02",
+      "assertion": "Anéeka says the Federation permits lower-level factions to clash under a free-will rationale; it appears divided from below but unified from above.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0033",
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "planetary-unification"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says regressive factions cease to be called Federation."
+    },
+    {
+      "id": "src-1dacc07067a8-c03",
+      "assertion": "Anéeka says humans must lead planetary unification and she does not expect it soon; regressive factions could redirect its infrastructure if left in place.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0040",
+        "p0071",
+        "p0085",
+        "p0087"
+      ],
+      "primary_topic": "planetary-unification",
+      "topics": [
+        "planetary-unification",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "planetary-unification",
+      "name": "Planetary Unification",
+      "kind": "institution",
+      "aliases": [
+        "Unificación Planetaria",
+        "planetary government"
+      ]
+    }
+  ],
+  "review_flags": [
+    "federation-unity-and-factional-conflict"
+  ],
+  "coverage_gaps": [
+    "synthetic-population-taxonomy",
+    "federation-layer-identity"
+  ]
+}

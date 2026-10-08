@@ -1,0 +1,119 @@
+{
+  "source_id": "src-5a63a913a8b6",
+  "snapshot_sha256": "826f18f32c562861a6d287b4e26a5e38aaf687a29b02442c0ee543800a32e69c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5a63a913a8b6-c01",
+      "assertion": "Swaruu estimates 400,000 humanoid civilizations in this galactic quadrant, plus countless less-human forms.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a63a913a8b6-c02",
+      "assertion": "She says Pleiades has about 11 interstellar races; most 5D races are not interstellar.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0026"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a63a913a8b6-c03",
+      "assertion": "Lurkers are silicon-based insectoid carnivores from Zeta Reticuli, tolerating hostile atmospheres.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0071",
+        "p0073",
+        "p0074",
+        "p0076"
+      ],
+      "primary_topic": "lurkers",
+      "topics": [
+        "lurkers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a63a913a8b6-c04",
+      "assertion": "Swaruu rates Lurkers 10/10 threats, even to Taygetans; none are known on Earth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0082",
+        "p0084"
+      ],
+      "primary_topic": "lurkers",
+      "topics": [
+        "lurkers",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a63a913a8b6-c05",
+      "assertion": "Interstellar crews need high ethics to avoid importing hazards; Cabal might weaponize Lurkers.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0085"
+      ],
+      "primary_topic": "lurkers",
+      "topics": [
+        "lurkers",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a63a913a8b6-c06",
+      "assertion": "5D does not ensure benevolence; duality remains and perceived aggression is relative.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0089",
+        "p0091",
+        "p0092"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "species-threat-description",
+    "density-morality-qualification"
+  ],
+  "coverage_gaps": [
+    "Pleiadian-race-list",
+    "nonstellar-species-details",
+    "Molluse-and-Maia-distinction"
+  ]
+}

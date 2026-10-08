@@ -1,0 +1,143 @@
+{
+  "source_id": "src-61643191f2a5",
+  "snapshot_sha256": "6db5c14fe183fe4d0fc02dec08ec1a52083da9cf53333e40db32ed6c37d65ba5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-61643191f2a5-c01",
+      "assertion": "Swaruu presents exo-gen as cell-produced genetic signals that warn nearby cells and release internal toxicity.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "exo-gen-signals",
+      "topics": [
+        "exo-gen-signals",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61643191f2a5-c02",
+      "assertion": "She says airborne signals trigger illness mainly in stressed hosts; receptor compatibility limits species and cell targets.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "exo-gen-signals",
+      "topics": [
+        "exo-gen-signals",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61643191f2a5-c03",
+      "assertion": "She attributes outbreaks to shared stress and says media coverage and confinement add stress.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0025",
+        "p0032",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "exo-gen-signals",
+      "topics": [
+        "exo-gen-signals",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61643191f2a5-c04",
+      "assertion": "She claims COVID tests detect exo-gen proteins and misattribute deaths to infection.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0025",
+        "p0047",
+        "p0059"
+      ],
+      "primary_topic": "exo-gen-signals",
+      "topics": [
+        "exo-gen-signals",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61643191f2a5-c05",
+      "assertion": "She rejects antivirals and vaccines as harmful alarm signals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0026",
+        "p0049",
+        "p0051"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "exo-gen-signals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61643191f2a5-c06",
+      "assertion": "She says other pathogens may exploit a host weakened after cellular alarm signals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "exo-gen-signals",
+      "topics": [
+        "exo-gen-signals",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "exo-gen-signals",
+      "name": "Exo-gen cellular signals",
+      "kind": "biology",
+      "aliases": [
+        "exo-gen",
+        "secreciones celulares exo-gen"
+      ]
+    }
+  ],
+  "review_flags": [
+    "medical-lore"
+  ],
+  "coverage_gaps": [
+    "test mechanism details",
+    "viral strain variation",
+    "species-specific examples"
+  ]
+}

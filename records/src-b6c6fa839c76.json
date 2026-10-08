@@ -1,0 +1,43 @@
+{
+  "source_id": "src-b6c6fa839c76",
+  "snapshot_sha256": "ee48a1abbcc1e4ce477169d36ebdea788660183fcfebf68ad1ac49447665fcc3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b6c6fa839c76-c01",
+      "assertion": "Swaruu says Taygetans navigate with frequency maps: a location's exact frequency and harmonics serve as its destination coordinates.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0002", "p0003", "p0019", "p0021", "p0024"],
+      "primary_topic": "frequency-map-navigation",
+      "topics": ["frequency-map-navigation", "stellar-navigation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6c6fa839c76-c02",
+      "assertion": "She describes calculating future events from frequency interactions; prediction requires exponentially more computing as scene details increase.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0028", "p0029"],
+      "primary_topic": "frequency-map-navigation",
+      "topics": ["frequency-map-navigation", "holographic-computers"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6c6fa839c76-c03",
+      "assertion": "She says objects, people, or ships can be inserted into another real context by adjusting their frequency harmonics to fit its dynamics.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0030", "p0031"],
+      "primary_topic": "frequency-map-navigation",
+      "topics": ["frequency-map-navigation", "stellar-navigation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She distinguishes objects from situations, which require more exact harmonic matching."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["frequency-mechanics-attributed"],
+  "coverage_gaps": ["consciousness-model", "computer-hardware-details"]
+}

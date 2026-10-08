@@ -3272,6 +3272,154 @@ Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
 
 Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0024, p0025, p0026. [Structured record](../../records/src-cdc00e8b66c4.json).
 
+### src-c39eb902dc40-c03
+
+She says the Federation and other space organizations assist Earth’s ordinary population covertly, avoiding visible external intervention.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Programa de Primer Contacto Extraterrestre](https://swaruu.org/transcripts/programa-de-primer-contacto-extraterrestre) (2019-08-07; es); passages p0032, p0033. [Structured record](../../records/src-c39eb902dc40.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-0b5cb8b06b54-c01
+
+Swaruu says positive offworld groups must aid a planet after enough inhabitants request help, under galactic rules protecting free will and preventing abuse of authority.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Carta Respuesta de Swaruu a la Federacion Galactica: Tertulia de Anochecer (3)](https://swaruu.org/transcripts/carta-respuesta-de-swaruu-a-la-federacion-galactica-tertulia-de-anochecer-3) (2018-09-18; es); passages p0005, p0006. [Structured record](../../records/src-0b5cb8b06b54.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-0b5cb8b06b54-c02
+
+She says Earth’s liberation depends on its inhabitants; requesting assistance must not surrender their own power or responsibility.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Carta Respuesta de Swaruu a la Federacion Galactica: Tertulia de Anochecer (3)](https://swaruu.org/transcripts/carta-respuesta-de-swaruu-a-la-federacion-galactica-tertulia-de-anochecer-3) (2018-09-18; es); passages p0005, p0007, p0010. [Structured record](../../records/src-0b5cb8b06b54.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-885ec940f20f-c03
+
+She says humanity must receive credit for its liberation; outside species should avoid becoming idols or solving human problems, preventing dependence.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Contacto Extraterrestre Pleyadiano - Estrella Taygeta -Anéeka de Temmer - Las Pleyades](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-estrella-taygeta-aneeka-de-temmer-las-pleyades) (2018-11-22; es); passages p0036, p0037, p0039. [Structured record](../../records/src-885ec940f20f.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-bfae5ca72b24-c03
+
+Swaruu says mass contact is unviable: humanity is unready, channels are controlled, and contact is invasive.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Proyecto Primer Contacto Extraterrestre - Segunda Parte](https://swaruu.org/transcripts/proyecto-primer-contacto-extraterrestre-segunda-parte) (2019-08-10; es); passages p0004, p0008, p0011, p0046. [Structured record](../../records/src-bfae5ca72b24.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-69ad66e27ca1-c04
+
+Deep Cabal and reptiles occupy 3D–4D; Federation stopped 5D SSP ships, Swaruu says.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra: Preguntas Frecuentes 2 (Mensaje de Taygeta, Pleyades) (14)](https://swaruu.org/transcripts/swaruu-de-erra-preguntas-frecuentes-2-mensaje-de-taygeta-pleyades-14) (2018-11-20; es); passages p0037. [Structured record](../../records/src-69ad66e27ca1.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d2714323822a-c02
+
+She says Earth liberation must come from within: contact awakens key people; direct force would fail.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Porque Estamos Aqui Ahora? (2)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-porque-estamos-aqui-ahora-2) (2018-06-04; es); passages p0015, p0016, p0019, p0047. [Structured record](../../records/src-d2714323822a.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-d2714323822a-c05
+
+Swaruu says Federation made the 3D framework; negatives hacked and repurposed it.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Porque Estamos Aqui Ahora? (2)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-porque-estamos-aqui-ahora-2) (2018-06-04; es); passages p0067. [Structured record](../../records/src-d2714323822a.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-10009bbe55a5-c02
+
+She says the Federation created 3D as a limited range of perceived frequencies.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Los Creadores de la Realidad - Swaruu de Erra - Aneeka de Temmer - Asket de Temmer](https://swaruu.org/transcripts/los-creadores-de-la-realidad-swaruu-de-erra-aneeka-de-temmer-asket-de-temmer) (2018-11-08; es); passages p0029. [Structured record](../../records/src-10009bbe55a5.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-fd419788ecbb-c04
+
+Taygetan Federation fighter missions may span a pilot’s lifetime, with shorter sub-missions.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [Transcripcion de una Entrevista a un Extraterrestre de la Estrella Taygeta - Dhor Káal'el - Swaruu](https://swaruu.org/transcripts/transcripcion-de-una-entrevista-a-un-extraterrestre-de-la-estrella-taygeta-dhor-kaal-el-swaruu) (2019-10-08; es); passages p0034. [Structured record](../../records/src-fd419788ecbb.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-96c91cbdd54c-c04
+
+She says the Federation aids civilians indirectly, disguising help as ordinary events; overt intervention risks war and impedes growth.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Contacto Extraterrestre: ESTAMOS LISTOS para Contacto Oficial? (Swaruu de Erra, Pleyades)](https://swaruu.org/transcripts/contacto-extraterrestre-estamos-listos-para-contacto-oficial-swaruu-de-erra-pleyades) (2019-08-07; es); passages p0028, p0029, p0030. [Structured record](../../records/src-96c91cbdd54c.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-f3a1e4326731-c02
+
+She describes a half-million-race Federation, formed during the Great Expansion after Orion forces exterminated many species.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Primera Directiva: Mensaje Extraterrestre de Pleyades (Taygeta) (3)](https://swaruu.org/transcripts/primera-directiva-mensaje-extraterrestre-de-pleyades-taygeta-3) (2018-06-16; es); passages p0007. [Structured record](../../records/src-f3a1e4326731.json).
+
+Related topics: [Orion Wars](orion-wars.md).
+
+### src-b36d2a7b7c51-c04
+
+She says contact evidence exists but is suppressed by Earth elites; galactic laws are only one reason for limited proof. Her explanation for absent public evidence.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE - INTELIGENCIA ARTIFICIAL – Swaruu de Erra](https://swaruu.org/transcripts/contacto-extraterrestre-inteligencia-artificial-swaruu-de-erra) (2018-12-04; es); passages p0038, p0040, p0045. [Structured record](../../records/src-b36d2a7b7c51.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-8e490481292c-c01
+
+Rashell says the Federation Council contacted Eisenhower by radio and chose her as envoy.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE PLEYADIANO DE TAYGETA CON EL PRESIDENTE IKE EISENHOWER - RASHELL DE TEMMER](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-de-taygeta-con-el-presidente-ike-eisenhower-rashell-de-temmer) (2018-10-16; es); passages p0005, p0006. [Structured record](../../records/src-8e490481292c.json).
+
+### src-a0a1d364e89f-c02
+
+The blockade prevents unauthorized Earth traffic and trafficking, enforced by Taygetans, Alfratans, and Antarians.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-quienes-somos-1) (2018-05-28; es); passages p0011, p0013. [Structured record](../../records/src-a0a1d364e89f.json).
+
+Related topics: [Taygetans](taygetans.md), [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c02](urmah.md#src-a5811312e55c-c02) — Urmah
@@ -3456,6 +3604,44 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - [src-a7b0b8bf878c-c05](project-second-contact.md#src-a7b0b8bf878c-c05) — Project Second Contact
 - [src-7935e066946e-c01](false-alien-invasion.md#src-7935e066946e-c01) — False alien invasion scenarios
 - [src-7935e066946e-c03](false-alien-invasion.md#src-7935e066946e-c03) — False alien invasion scenarios
+- [src-0b5cb8b06b54-c03](taygetans.md#src-0b5cb8b06b54-c03) — Taygetans
+- [src-357c482522d2-c02](tiamat.md#src-357c482522d2-c02) — Tiamat
+- [src-357c482522d2-c03](moon-matrix.md#src-357c482522d2-c03) — Moon and terrestrial Matrix
+- [src-84a31dbc8140-c03](alpha-draconians.md#src-84a31dbc8140-c03) — Alpha Draconians
+- [src-0f16286af0bc-c01](moon-matrix.md#src-0f16286af0bc-c01) — Moon and terrestrial Matrix
+- [src-bebc8e2161ed-c03](alfrata.md#src-bebc8e2161ed-c03) — Alfrata (Phaeton)
+- [src-bebc8e2161ed-c04](alfrata.md#src-bebc8e2161ed-c04) — Alfrata (Phaeton)
+- [src-bfae5ca72b24-c01](taygetans.md#src-bfae5ca72b24-c01) — Taygetans
+- [src-fad1597372f1-c06](moon-matrix.md#src-fad1597372f1-c06) — Moon and terrestrial Matrix
+- [src-fad1597372f1-c07](taygetans.md#src-fad1597372f1-c07) — Taygetans
+- [src-69ad66e27ca1-c06](alien-species.md#src-69ad66e27ca1-c06) — Alien species and distinctions
+- [src-d2714323822a-c01](earth-cabal.md#src-d2714323822a-c01) — Earth Cabal and power structures
+- [src-d2714323822a-c03](taygetans.md#src-d2714323822a-c03) — Taygetans
+- [src-d2714323822a-c04](earth-cabal.md#src-d2714323822a-c04) — Earth Cabal and power structures
+- [src-1a7b60ba8ea9-c03](tiamat.md#src-1a7b60ba8ea9-c03) — Tiamat
+- [src-1a7b60ba8ea9-c05](moon-matrix.md#src-1a7b60ba8ea9-c05) — Moon and terrestrial Matrix
+- [src-039a50ac3015-c03](moon-biosphere-ship.md#src-039a50ac3015-c03) — The Moon as a biosphere ship
+- [src-0ad91b6f93c8-c04](alien-species.md#src-0ad91b6f93c8-c04) — Alien species and distinctions
+- [src-9796515b4099-c02](oalu-high-council.md#src-9796515b4099-c02) — Oalu High Council
+- [src-543fe68707e6-c03](andromedans.md#src-543fe68707e6-c03) — Andromedans
+- [src-543fe68707e6-c05](andromedans.md#src-543fe68707e6-c05) — Andromedans
+- [src-ba6a1792fd69-c05](agarthians.md#src-ba6a1792fd69-c05) — Agarthians
+- [src-bdb9a554b70c-c02](urmah.md#src-bdb9a554b70c-c02) — Urmah
+- [src-f3a1e4326731-c01](prime-directive.md#src-f3a1e4326731-c01) — Prime Directive
+- [src-f3a1e4326731-c04](prime-directive.md#src-f3a1e4326731-c04) — Prime Directive
+- [src-ec0774773c92-c03](orion-wars.md#src-ec0774773c92-c03) — Orion Wars
+- [src-ab81c3f220ab-c01](rashell-eisenhower-contact.md#src-ab81c3f220ab-c01) — Rashell–Eisenhower Contact
+- [src-ab81c3f220ab-c03](rashell-eisenhower-contact.md#src-ab81c3f220ab-c03) — Rashell–Eisenhower Contact
+- [src-3556f3ec008f-c02](sphinx-underground-bases.md#src-3556f3ec008f-c02) — Sphinx Underground Bases
+- [src-ae20e2d2296b-c03](ceres.md#src-ae20e2d2296b-c03) — Ceres
+- [src-ae20e2d2296b-c04](ceres.md#src-ae20e2d2296b-c04) — Ceres
+- [src-40614df19d52-c02](pluto.md#src-40614df19d52-c02) — Pluto
+- [src-8e490481292c-c02](energy-generation.md#src-8e490481292c-c02) — Energy generation technology
+- [src-8e490481292c-c03](vlash-vlad-vrill-clans.md#src-8e490481292c-c03) — Vlash, Vlad and Vrill clans
+- [src-8e490481292c-c04](maitre.md#src-8e490481292c-c04) — Maitre
+- [src-a0a1d364e89f-c03](centauri-l-class-fighters.md#src-a0a1d364e89f-c03) — Centauri L-class fighters
+- [src-caf216b09494-c01](taygetans.md#src-caf216b09494-c01) — Taygetans
+- [src-e0a4afea956c-c01](false-alien-invasion.md#src-e0a4afea956c-c01) — False alien invasion scenarios
 
 ## Review flags
 
@@ -3464,6 +3650,8 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
 - Claims describe Mari’s spiritual model of the Federation and reincarnation
+- Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
+- Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
 - Federation-arguments\_reported
@@ -3479,6 +3667,7 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Proposed intervention remains conditional and internally qualified
+- Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
@@ -3486,19 +3675,26 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - Weapon and defense capabilities are source-attributed technical claims
+- agenda21-assertion
 - alternate-history\_claims\_attributed
+- ancient-history-claim
+- ancient-site-claims-attributed
+- approximate-age-estimate
 - approximate\_dates
 - attack-theory\_speculative
+- attributed-frequency-interference-claims
 - attribution: extraordinary intelligence claims remain source-specific
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - biological-claims-unverified
 - black-knight-loss-details-provisional
 - blockade-and-biology-attributed
 - broad-exopolitical-allegations
+- causal-attribution-tension
 - cern-portal-claim
 - claimed\_observation
 - claims about current events and power structures are Mari’s interpretations
 - claims are presented as attributed lore and quotations within a lesson
+- claims-about-suppressed-contact-evidence
 - competing\_attributions
 - conditional\_forecast
 - conflicting\_faction\_accounts
@@ -3507,10 +3703,13 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - conspiracy-claims
 - conspiracy\_claims
 - conspiracy\_claims\_unverified
+- contact-readiness-generalization
 - contact\_censorship\_claims\_unverified
+- contested-history
 - contested\_extraterrestrial\_history
 - contested\_historical\_claims
 - contested\_intelligence\_claims
+- counterfactual-earth-history
 - coverage: 5D transition forecast
 - coverage: Atonism details
 - coverage: contactee examples
@@ -3518,6 +3717,7 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - coverage: labor and media
 - coverage: quoted Jung and Tsarion passages
 - dangerous-health-advice
+- date-discrepancy
 - dated\_claims
 - dated\_prediction
 - density-model-metaphorical
@@ -3541,12 +3741,14 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - extraordinary\_exopolitical\_claims
 - extraordinary\_extraction\_claims
 - extraordinary\_metaphysical\_claims
+- extraterrestrial-claims
 - faction\_claims
 - faction\_tension
 - factional-perspective-difference
 - factional\_viewpoint\_conflict
 - false-invasion-not-prediction
 - federation-authority-critique
+- federation-history-attributed
 - federation\_control\_claims\_unverified
 - federation\_dispute
 - fence-control-theory-unconfirmed
@@ -3560,8 +3762,11 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - historical-claims-uncorroborated
 - historical-claims-unverified
 - historical-conspiracy-claims
+- historical-contact-attributed
+- historical-date-ambiguity
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
+- human-origin-model
 - identity-of-hidden-faction-unknown
 - incomplete-investigation
 - intercultural-claims
@@ -3575,6 +3780,7 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - long conversation contains disputed health claims not included in core extraction
 - lunar-reactor-age-origin-uncertainty
 - maitre\_claims\_conflicting\_and\_uncertain
+- mass-explanation-variation
 - medical-misinformation-claims
 - medical-misinformation: pandemic, testing, and vaccine claims
 - medical-misinformation: virus, vaccine, and nanopowder claims
@@ -3586,14 +3792,17 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - metaphysical\_claims\_attributed
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
+- name-variant-review
 - named\_government\_and\_secret\_base\_claims
 - narrator\_claims
 - no-parallel-source-in-batch
+- nonstandard-planetary-model
 - nuclear\_science\_misinformation
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
 - personal\_accusations
 - personal\_metaphysics
 - personal\_social\_theory
+- pluto-classification-esoteric-claim
 - political-allegation
 - political-claims
 - political-claims-unverified
@@ -3602,6 +3811,7 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - political-structure-unverified
 - political\_claims
 - politically\_contested
+- prime-directive-attributed
 - related\_series\_part
 - reported arrival date conflicts with article chronology
 - reported-claims\_by\_Ari
@@ -3615,7 +3825,9 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - self\_description
 - serious\_allegations\_attributed
 - ship-specifications\_attributed
+- solar-system-history-attributed
 - source includes conflicting publication and event dates; claims retain stated dates
+- speaker-attribution-inferred-from-transcript
 - speaker-attribution-swaruu-x-athena
 - speaker-speculation
 - speaker-split: Gosia reflection; Anéeka statement at p0050-p0054
@@ -3630,6 +3842,8 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - translated-from-spanish
 - translated-originally-Spanish
 - translated\_source
+- triton-placement-attributed-to-andromedans
+- uncertain-origin
 - uncertainty-shift: 5G moves from possible explanation to formal position
 - unsupported\_planetary\_claims
 - unverified-cabinet-claims

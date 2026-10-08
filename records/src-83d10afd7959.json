@@ -1,0 +1,144 @@
+{
+  "source_id": "src-83d10afd7959",
+  "snapshot_sha256": "69232df03b8690c84cc7c71b4da2830fd1614244eb715faa5ba03071ba227a9e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-83d10afd7959-c01",
+      "assertion": "Swaruu describes stars as energy portals, not thermonuclear bodies; planets convert incoming radiation to heat.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83d10afd7959-c02",
+      "assertion": "The Sun relays galactic energies that raise lower frequencies; DNA is affected, not activated from nothing.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83d10afd7959-c03",
+      "assertion": "Swaruu says Sol 13 has Pluto and four planets unrecognized by Earth governments.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0024"
+      ],
+      "primary_topic": "sol-13",
+      "topics": [
+        "sol-13"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83d10afd7959-c04",
+      "assertion": "Mercury hosts only primordial planetary consciousness; high radiation makes biological life and bases untenable.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "mercury",
+      "topics": [
+        "mercury"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83d10afd7959-c05",
+      "assertion": "Multiple races maintain Mercury muon relays and sensors for solar and ship traffic; no satellites.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "mercury",
+      "topics": [
+        "mercury",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83d10afd7959-c06",
+      "assertion": "Karistus is interplanetary but lacks warp technology for interstellar travel.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sol-13",
+      "name": "Sol 13 system",
+      "kind": "star system",
+      "aliases": [
+        "Solar System",
+        "Sistema Solar",
+        "Sol 13"
+      ]
+    },
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "kind": "location",
+      "aliases": [
+        "Mercurio"
+      ]
+    },
+    {
+      "id": "karistus",
+      "name": "Karistus",
+      "kind": "civilization",
+      "aliases": [
+        "Karistus"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "solar-flare-claims",
+    "other-planetary-life-stages",
+    "Mercury-station-origins"
+  ]
+}

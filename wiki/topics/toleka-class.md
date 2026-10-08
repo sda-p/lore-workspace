@@ -190,6 +190,7 @@ Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (Engl
 - [src-b0a69aaecc08-c01](stellar-navigation.md#src-b0a69aaecc08-c01) — Stellar navigation
 - [src-680909ec608a-c03](starship-systems.md#src-680909ec608a-c03) — Starship systems
 - [src-dc53d4326450-c01](taygetans.md#src-dc53d4326450-c01) — Taygetans
+- [src-7ea3539f3fa4-c01](taygetans.md#src-7ea3539f3fa4-c01) — Taygetans
 
 ## Review flags
 

@@ -24,6 +24,26 @@ Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
 
 Source: [Interstellar Life 12 – Extraterrestrial Craft Posing as Human Aircraft Explained](https://swaruu.org/transcripts/interstellar-life-12-extraterrestrial-craft-posing-as-human-aircraft-explained) (2026-01-23; en); passages p0014, p0026, p0027. [Structured record](../../records/src-88e941a1512e.json).
 
+### src-fd419788ecbb-c01
+
+Dhor says Suzy craft spoof Challenger 350 radar/IFF with false registration and simulated telemetry.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [Transcripcion de una Entrevista a un Extraterrestre de la Estrella Taygeta - Dhor Káal'el - Swaruu](https://swaruu.org/transcripts/transcripcion-de-una-entrevista-a-un-extraterrestre-de-la-estrella-taygeta-dhor-kaal-el-swaruu) (2019-10-08; es); passages p0010, p0011, p0012, p0018, p0019. [Structured record](../../records/src-fd419788ecbb.json).
+
+Related topics: [Suzy fighter craft](suzy-fighter-craft.md).
+
+### src-fd419788ecbb-c02
+
+Spoofing permits slow corridor flight and civilian internet; holograms can visually disguise the hull.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [Transcripcion de una Entrevista a un Extraterrestre de la Estrella Taygeta - Dhor Káal'el - Swaruu](https://swaruu.org/transcripts/transcripcion-de-una-entrevista-a-un-extraterrestre-de-la-estrella-taygeta-dhor-kaal-el-swaruu) (2019-10-08; es); passages p0003, p0004, p0013. [Structured record](../../records/src-fd419788ecbb.json).
+
+Related topics: [Suzy fighter craft](suzy-fighter-craft.md).
+
 ## Review flags
 
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems

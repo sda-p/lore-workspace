@@ -1,0 +1,97 @@
+{
+  "source_id": "src-bf7085cb30ac",
+  "snapshot_sha256": "a43e3029400f20e427031321b299d9a8b006bfcdbbdf48116faf9b8d25279edd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bf7085cb30ac-c01",
+      "assertion": "Swaruu says one numeric destination code includes all navigation and timing data.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bf7085cb30ac-c02",
+      "assertion": "Warp matches a ship’s toroidal frequency to a destination, taking it through the ether for instantaneous travel.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0006"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bf7085cb30ac-c03",
+      "assertion": "Portals use the same frequency principle, but return usually requires a separate portal physically at the destination.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bf7085cb30ac-c04",
+      "assertion": "Portal frequencies can use magnet relations or counter-rotating red-mercury rings; ship turbines and computers control an analogous field.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bf7085cb30ac-c05",
+      "assertion": "She says incomplete destination data can merge arrivals with surrounding objects, citing the Philadelphia Experiment.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "No English counterpart found in the cached sources."
+  ],
+  "coverage_gaps": [
+    "soul and ether claims"
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "proposed": {
+      "id": "dieslientiplex",
+      "name": "Dieslientiplex",
+      "kind": "species",
+      "aliases": []
+    },
+    "canonical": {
+      "id": "dieslientiplex",
+      "name": "Dieslientiplex",
+      "kind": "species",
+      "aliases": [
+        "Arcturians"
+      ]
+    }
+  }
+]

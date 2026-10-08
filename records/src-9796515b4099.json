@@ -1,0 +1,129 @@
+{
+  "source_id": "src-9796515b4099",
+  "snapshot_sha256": "a8f8d820af2a827d8cbdba5ed68de37b336b19f71ea018906c477b17251890b1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9796515b4099-c01",
+      "assertion": "Oalu is a large world at the Kuiper Belt edge, home to a subterranean Mantis civilization.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0023"
+      ],
+      "primary_topic": "oalu",
+      "topics": [
+        "oalu",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9796515b4099-c02",
+      "assertion": "Oalu has a tiered Mantis council, claims neutrality, yet treaties with regressives draw Federation monitoring.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0045"
+      ],
+      "primary_topic": "oalu-high-council",
+      "topics": [
+        "oalu",
+        "oalu-high-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9796515b4099-c03",
+      "assertion": "Mantis may trade base access to Sauroid pirates who seek human captives.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037"
+      ],
+      "primary_topic": "oalu-mantis",
+      "topics": [
+        "oalu-mantis",
+        "reptilians"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Swaruu says direct abduction is uncertain."
+    },
+    {
+      "id": "src-9796515b4099-c04",
+      "assertion": "Oalu’s colony has a central queen, subordinate egg-laying queens, male drones and sexless workers.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0059",
+        "p0061",
+        "p0063"
+      ],
+      "primary_topic": "oalu-mantis",
+      "topics": [
+        "oalu-mantis"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9796515b4099-c05",
+      "assertion": "Swaruu attributes missing Solar System mass to Oalu plus Kuiper objects, rejecting a single brown dwarf.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0049",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "oalu",
+      "topics": [
+        "oalu",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "oalu",
+      "name": "Oalu",
+      "kind": "location",
+      "aliases": []
+    },
+    {
+      "id": "oalu-mantis",
+      "name": "Oalu Mantis",
+      "kind": "species",
+      "aliases": [
+        "Oalu Mantis insectoids"
+      ]
+    },
+    {
+      "id": "oalu-high-council",
+      "name": "Oalu High Council",
+      "kind": "institution",
+      "aliases": [
+        "Council of Oalu"
+      ]
+    }
+  ],
+  "review_flags": [
+    "mass-explanation-variation",
+    "name-variant-review"
+  ],
+  "coverage_gaps": [
+    "haumea-mining",
+    "eris-protection",
+    "oalu-appearance"
+  ]
+}

@@ -90,6 +90,7 @@ Source: [Space News 44, Galactic Federation and Earth Situation Update (English)
 - [src-0a2dec346e2d-c02](bigfoot-sasquatch.md#src-0a2dec346e2d-c02) — Bigfoot, Sasquatch and Yeti
 - [src-87bd832ea105-c03](deep-underground-military-bases.md#src-87bd832ea105-c03) — Deep underground military bases
 - [src-5ffe56780faa-c02](galactic-federation.md#src-5ffe56780faa-c02) — Galactic Federation
+- [src-ae20e2d2296b-c01](neptune.md#src-ae20e2d2296b-c01) — Neptune and Triton
 
 ## Review flags
 
@@ -99,4 +100,5 @@ Source: [Space News 44, Galactic Federation and Earth Situation Update (English)
 - entertainment-disclaimer
 - historical and technological interpretations are attributed to Athena
 - translated-originally-Spanish
+- triton-placement-attributed-to-andromedans
 - wartime-conspiracy-claims

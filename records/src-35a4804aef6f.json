@@ -1,0 +1,107 @@
+{
+  "source_id": "src-35a4804aef6f",
+  "snapshot_sha256": "ba8dbd584a1c2d4f2b3d75ebd2f003a14a78fd4a9302a4323893f3bc16cc06f4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-35a4804aef6f-c01",
+      "assertion": "Swaruu says death by suicide is not externally punished; a person may self-punish after death.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35a4804aef6f-c02",
+      "assertion": "She says unresolved psychological pain can prompt spirits to re-enter the same life, like replaying a challenge.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0009"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35a4804aef6f-c03",
+      "assertion": "Swaruu doubts detectable archon interference, attributing reincarnation to Matrix beliefs, but does not rule it out.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "archons-and-demons",
+        "moon-matrix"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35a4804aef6f-c04",
+      "assertion": "She describes baptism, work, and debt as soul-binding contracts that personal responsibility can revoke.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35a4804aef6f-c05",
+      "assertion": "Swaruu says limiting ideas anchor people to Matrix; mental liberation in life frees them after death.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-counterpart-src-77b565b0b608-shared-2018-section",
+    "english-counterpart-adds-july-2020-suicide-discussion"
+  ],
+  "coverage_gaps": [
+    "primordial-fear",
+    "belief-attachments",
+    "multi-incarnation-loops"
+  ]
+}

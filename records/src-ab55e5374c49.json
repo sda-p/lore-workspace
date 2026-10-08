@@ -1,0 +1,32 @@
+{
+  "source_id": "src-ab55e5374c49",
+  "snapshot_sha256": "8cce967c91ab392b86cc22b4649977eaa41d8484d0299ad210fadb31740f4a4d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ab55e5374c49-c01",
+      "assertion": "Anéeka alleges the Cabal exploits information saturation and disinformation to obscure true messages and make verification difficult.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0003"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal", "terrestrial-science"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab55e5374c49-c02",
+      "assertion": "She advises holding beliefs provisionally, comparing available information, and changing one's view when better evidence appears.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0004"],
+      "primary_topic": "terrestrial-science",
+      "topics": ["terrestrial-science"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her recommended method for forming independent judgment."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

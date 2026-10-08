@@ -1,0 +1,66 @@
+{
+  "source_id": "src-5d286dfcc1cb",
+  "snapshot_sha256": "fb534adc086f2a95192c73d077bc786569430719134e67a116a50054f9b0c02a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5d286dfcc1cb-c01",
+      "assertion": "Yazhi says time is inseparable from consciousness and arises from thought and mental reference points; it has no independent existence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical model."
+    },
+    {
+      "id": "src-5d286dfcc1cb-c02",
+      "assertion": "She says perceived time direction depends on consciousness; from an expanded viewpoint, effects may precede causes because events are interconnected in an eternal present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5d286dfcc1cb-c03",
+      "assertion": "Yazhi says time cannot be measured objectively in isolation; shared perceptual agreements let members of a collective experience it similarly.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "medium-spirit-frequency-link",
+    "astral-identity-model",
+    "earth-science-critique"
+  ]
+}

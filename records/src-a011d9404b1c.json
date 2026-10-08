@@ -1,0 +1,102 @@
+{
+  "source_id": "src-a011d9404b1c",
+  "snapshot_sha256": "e17831c4f6f610fc7f300a1a68018ac77f12e78c173aa959e87015ea646cf533",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a011d9404b1c-c01",
+      "assertion": "Swaruu says each person has countless existing timelines; consciousness animates but does not create them.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a011d9404b1c-c02",
+      "assertion": "Personal frequency and mood steer choices among catastrophic and positive timeline branches.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a011d9404b1c-c03",
+      "assertion": "Swaruu says temporal paradoxes do not occur: changing a past branch leaves the traveler’s origin timeline intact.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0015",
+        "p0016",
+        "p0021"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a011d9404b1c-c04",
+      "assertion": "Clocks and shared social ideas synchronize populations’ time perception, though individual timelines remain distinct.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a011d9404b1c-c05",
+      "assertion": "Swaruu attributes planetary time’s pace mainly to inhabitants’ average perception, not celestial bodies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "space-time-navigation",
+    "faster-than-light-claims",
+    "quantum-jumps"
+  ]
+}

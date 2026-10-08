@@ -1,0 +1,89 @@
+{
+  "source_id": "src-49447d1539c8",
+  "snapshot_sha256": "6e7381cf7cb29219f296f6a38eacdd19b789a89da69263bf74b41cd8141e1f8d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-49447d1539c8-c01",
+      "assertion": "Anéeka alleges Cabal planners intend repeated crisis waves to impose restrictions and disrupt food supply.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-49447d1539c8-c02",
+      "assertion": "She says vaccination would be nominally voluntary but required for travel, schooling, licenses, and eventually purchases.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-49447d1539c8-c03",
+      "assertion": "Anéeka describes masks as compliance indicators used to identify regions and people resisting the agenda.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-49447d1539c8-c04",
+      "assertion": "She presents a biological weapon as a last-resort response to organized opposition, while expressing uncertainty about its necessity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "pandemic-conspiracy-forecast",
+    "last-resort-weapon-uncertain"
+  ],
+  "coverage_gaps": [
+    "vaccine-technology-allegations",
+    "food-system-collapse-details"
+  ]
+}

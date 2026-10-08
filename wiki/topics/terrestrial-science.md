@@ -1938,6 +1938,118 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
 
 Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) (2024-11-18; en); passages p0021, p0023. [Structured record](../../records/src-d3aa4459ae38.json).
 
+### src-d704827158b8-c01
+
+Swaruu argues terrestrial science prioritizes materialism, reductionism, and determinism, limiting its account of consciousness.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA FALSEDAD DE LA CIENCIA TERRESTRE- SWARUU- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/la-falsedad-de-la-ciencia-terrestre-swaruu-sistema-taygeta-pleyades) (2018-07-19; es); passages p0034, p0035, p0036, p0037, p0038, p0040, p0041. [Structured record](../../records/src-d704827158b8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d704827158b8-c02
+
+She says Earth science can describe physical phenomena but does not encompass other existential planes or spiritual dimensions.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA FALSEDAD DE LA CIENCIA TERRESTRE- SWARUU- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/la-falsedad-de-la-ciencia-terrestre-swaruu-sistema-taygeta-pleyades) (2018-07-19; es); passages p0054, p0061, p0062. [Structured record](../../records/src-d704827158b8.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-fa36f5777c7c-c01
+
+Swaruu distinguishes environmental pollution and ecosystem destruction from what she calls a climate-change control agenda, denying global warming as commonly described. Attributed claims; the denial and agenda framing are Swaruu’s.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cambio Climatico? Calentamiento Global? Greta Thunberg? Comentarios de Swaruu de Erra](https://swaruu.org/transcripts/cambio-climatico-calentamiento-global-greta-thunberg-comentarios-de-swaruu-de-erra) (2019-10-07; es); passages p0002, p0003, p0004, p0029. [Structured record](../../records/src-fa36f5777c7c.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-d215ccbf4167-c01
+
+Swaruu divides Earth science into public teachings and research used by controllers.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: medium.
+
+Source: [Mensaje Extraterrestre Pleyadiano: La Falsedad de la Ciencia Terrestre](https://swaruu.org/transcripts/mensaje-extraterrestre-pleyadiano-la-falsedad-de-la-ciencia-terrestre) (2018-07-21; es); passages p0004, p0005, p0006, p0007. [Structured record](../../records/src-d215ccbf4167.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-d215ccbf4167-c02
+
+She says funding and journals can steer theories and filter experimental results.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: medium.
+
+Source: [Mensaje Extraterrestre Pleyadiano: La Falsedad de la Ciencia Terrestre](https://swaruu.org/transcripts/mensaje-extraterrestre-pleyadiano-la-falsedad-de-la-ciencia-terrestre) (2018-07-21; es); passages p0011, p0012. [Structured record](../../records/src-d215ccbf4167.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-d215ccbf4167-c03
+
+She says materialism, reductionism, and determinism exclude consciousness and individual agency.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: medium.
+
+Source: [Mensaje Extraterrestre Pleyadiano: La Falsedad de la Ciencia Terrestre](https://swaruu.org/transcripts/mensaje-extraterrestre-pleyadiano-la-falsedad-de-la-ciencia-terrestre) (2018-07-21; es); passages p0031, p0033, p0034, p0035, p0037, p0043. [Structured record](../../records/src-d215ccbf4167.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d215ccbf4167-c04
+
+She argues mathematical models may be self-consistent yet fail to describe external reality.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: medium.
+
+Source: [Mensaje Extraterrestre Pleyadiano: La Falsedad de la Ciencia Terrestre](https://swaruu.org/transcripts/mensaje-extraterrestre-pleyadiano-la-falsedad-de-la-ciencia-terrestre) (2018-07-21; es); passages p0015, p0016, p0018. [Structured record](../../records/src-d215ccbf4167.json).
+
+### src-0b358e77a59f-c01
+
+Swaruu says Van Allen bands are artificial high-energy overlays on the natural magnetosphere, powered by it; both are overlapping toroidal fields strongest at polar vortices. Her model.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NUNCA FUIMOS A LA LUNA - BANDAS VAN ALLEN -SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-bandas-van-allen-swaruu-de-erra-sistema-taygeta-pleyades) (2018-08-11; es); passages p0032, p0033. [Structured record](../../records/src-0b358e77a59f.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-0b358e77a59f-c02
+
+She rejects open-ended doughnut depictions, describing a total barrier with stronger polar concentration. Her model.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NUNCA FUIMOS A LA LUNA - BANDAS VAN ALLEN -SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-bandas-van-allen-swaruu-de-erra-sistema-taygeta-pleyades) (2018-08-11; es); passages p0005, p0035, p0038. [Structured record](../../records/src-0b358e77a59f.json).
+
+### src-c92e3d59e2ba-c01
+
+Swaruu calls Apollo lunar laser-ranging evidence NASA misinformation, claiming beams diffuse before reflecting back.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL EGO Y EL AMOR - MENSAJE EXTRATERRESTRE - NIBIRU - STAR TREK - SWARUU DE ERRA](https://swaruu.org/transcripts/el-ego-y-el-amor-mensaje-extraterrestre-nibiru-star-trek-swaruu-de-erra) (2018-12-17; es); passages p0006, p0007. [Structured record](../../records/src-c92e3d59e2ba.json).
+
+### src-fba00f670b62-c02
+
+She says Nibiru and Hercóbulus will not return and denies a binary sun or Nemesis brown dwarf.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru-y-nemesis-no-existen) (2018-05-30; es); passages p0006, p0008. [Structured record](../../records/src-fba00f670b62.json).
+
+Related topics: [Tiamat](tiamat.md).
+
+### src-fba00f670b62-c03
+
+She attributes the system’s missing mass to three smaller objects, not a large incoming planet.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru-y-nemesis-no-existen) (2018-05-30; es); passages p0007. [Structured record](../../records/src-fba00f670b62.json).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -2027,6 +2139,12 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - [src-3082849baa66-c04](holistic-society.md#src-3082849baa66-c04) — Holistic society
 - [src-9afde86ad754-c01](earth-cabal.md#src-9afde86ad754-c01) — Earth Cabal and power structures
 - [src-756f10136c06-c03](frequency-map-navigation.md#src-756f10136c06-c03) — Frequency-map navigation
+- [src-3282c3b2176d-c01](starship-systems.md#src-3282c3b2176d-c01) — Starship systems
+- [src-d704827158b8-c03](consciousness-metaphysics.md#src-d704827158b8-c03) — Consciousness and metaphysics
+- [src-af005c73ed53-c06](weather-control.md#src-af005c73ed53-c06) — Weather control systems
+- [src-0b358e77a59f-c03](moon-matrix.md#src-0b358e77a59f-c03) — Moon and terrestrial Matrix
+- [src-d8bcaf4fc008-c04](uranus.md#src-d8bcaf4fc008-c04) — Uranus and its moons
+- [src-fba00f670b62-c01](tiamat.md#src-fba00f670b62-c01) — Tiamat
 
 ## Review flags
 
@@ -2035,7 +2153,10 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - Nibiru\_claim\_conflicts\_with\_other\_sources
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - alternative-weapons-claims
+- apollo-denial-claims
 - astronomical-claims-unverified
+- attributed-climate-conspiracy-claims
+- author-signature-attribution
 - biological-claims-unverified
 - chronology\_conflict
 - claimed\_observation
@@ -2093,6 +2214,7 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - medical\_claims\_unverified
 - metaphysical-claims
 - metaphysical\_model
+- miranda-no-bases-versus-other-moon-bases
 - moon-conspiracy-claims
 - nonhuman-technology\_claims\_attributed
 - nonstandard\_astrophysics\_claims
@@ -2106,17 +2228,22 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - political-claims-unverified
 - radiation-causation-allegations
 - related\_series\_part
+- same-language-near-duplicate-src-7872bc2f2c04
 - science\_claims\_unverified\_in\_source
+- segmentation-diff
 - space\_suit\_claims\_unverified
+- speaker-header-diff
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker-speculation
 - technology\_claims
 - terrestrial-history-claims-unverified
+- terrestrial-science-claims
 - time-bound-prediction
 - time\_travel\_lore
 - translated-from-Spanish-original-not-available
 - translated-originally-Spanish
 - translated\_source
+- translation-counterpart:src-70fb5038443a-close; English adds context and 13-planet claims
 - translation-equivalence-unverified
 - translation-not-applicable
 - transport\_safety\_and\_policy\_claims\_unverified

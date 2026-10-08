@@ -2872,6 +2872,320 @@ Attributed to **Gosia**; reported; extraction confidence: medium.
 
 Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) (2026-07-07; en); passages p0036. [Structured record](../../records/src-c3560b8010b9.json).
 
+### src-7ea3539f3fa4-c02
+
+Swaruu says mass contact lacks a viable channel and depends on broader spiritual awareness, not a separate contact protocol.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Contacto Extraterrestre: ESTAMOS LISTOS para Contacto Oficial? PARTE 2 (Swaruu de Erra, Pleyades)](https://swaruu.org/transcripts/contacto-extraterrestre-estamos-listos-para-contacto-oficial-parte-2-swaruu-de-erra-pleyades) (2019-08-10; es); passages p0007, p0008, p0009, p0011. [Structured record](../../records/src-7ea3539f3fa4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7ea3539f3fa4-c03
+
+Swaruu says human and stellar identities overlap, with no clear species boundary among incarnating souls.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Contacto Extraterrestre: ESTAMOS LISTOS para Contacto Oficial? PARTE 2 (Swaruu de Erra, Pleyades)](https://swaruu.org/transcripts/contacto-extraterrestre-estamos-listos-para-contacto-oficial-parte-2-swaruu-de-erra-pleyades) (2019-08-10; es); passages p0018, p0020. [Structured record](../../records/src-7ea3539f3fa4.json).
+
+Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
+
+### src-1da40cd3aac1-c03
+
+She says advanced interstellar races are vegan, while animal predation persists even in 5D; Urmah and Alpha Dracos are vegan.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Taygeteana PARTE 3: Animales y Sufrimiento Animal (17)](https://swaruu.org/transcripts/sociedad-taygeteana-parte-3-animales-y-sufrimiento-animal-17) (2019-01-02; es); passages p0036, p0045. [Structured record](../../records/src-1da40cd3aac1.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-fd4806542048-c01
+
+Swaruu calls humans secondary species, but calls Taygeta primary in one answer and adapted, therefore not primary in another.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Genética - Epigenética Aplicada – Tablillas Sumerias - Anunnaki](https://swaruu.org/transcripts/genetica-epigenetica-aplicada-tablillas-sumerias-anunnaki) (2019-07-06; es); passages p0017, p0018, p0020, p0022, p0024. [Structured record](../../records/src-fd4806542048.json).
+
+Related topics: [Taygetans](taygetans.md), [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-ff97765a8c36-c03
+
+She says “Anunnaki” is a broad label, not a distinct species, often applied to negative reptilian controllers such as Kingu, Draco, Usungal, and Naga.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NO FUIMOS A LA LUNA – SWARUU DE ERRA – EXTRATERRESTRE DE LAS PLEYADES – ESTRELLA TAYGETA](https://swaruu.org/transcripts/no-fuimos-a-la-luna-swaruu-de-erra-extraterrestre-de-las-pleyades-estrella-taygeta) (2018-08-23; es); passages p0033, p0034. [Structured record](../../records/src-ff97765a8c36.json).
+
+Related topics: [Kingu](kingu.md), [Archons and demons](archons-and-demons.md).
+
+### src-8653c6f0627b-c03
+
+Swaruu says Anunnaki reptilians spread their narratives worldwide because their civilization could travel rapidly between regions such as Sumeria and Mesoamerica.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS TABLILLAS SUMERIAS - ANUNNAKI REPTIL - QUIENES ERAN ENKI ENLIL Y ANU - Swaruu de Erra](https://swaruu.org/transcripts/las-tablillas-sumerias-anunnaki-reptil-quienes-eran-enki-enlil-y-anu-swaruu-de-erra) (2018-10-10; es); passages p0011, p0012. [Structured record](../../records/src-8653c6f0627b.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-da3eb1da7135-c02
+
+EMP disables implants; some starseed trackers provide family support, so removal risks aid.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Preguntas Frecuentes: Mensaje Extraterrestre (Swaruu de Taygeta-Pleyades)](https://swaruu.org/transcripts/preguntas-frecuentes-mensaje-extraterrestre-swaruu-de-taygeta-pleyades) (2018-10-02; es); passages p0009, p0011, p0013. [Structured record](../../records/src-da3eb1da7135.json).
+
+### src-da3eb1da7135-c06
+
+She calls animals persons; advanced interstellar species reject eating other members.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Preguntas Frecuentes: Mensaje Extraterrestre (Swaruu de Taygeta-Pleyades)](https://swaruu.org/transcripts/preguntas-frecuentes-mensaje-extraterrestre-swaruu-de-taygeta-pleyades) (2018-10-02; es); passages p0084. [Structured record](../../records/src-da3eb1da7135.json).
+
+### src-d5c29da42755-c03
+
+Ummites resemble humans genetically; their government limits births, and they are less telepathic.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE - ESTRELLA TAYGETA - LAS PLEYADES - Swarru - Anéeka](https://swaruu.org/transcripts/contacto-extraterrestre-estrella-taygeta-las-pleyades-swarru-aneeka) (2018-12-02; es); passages p0076, p0078. [Structured record](../../records/src-d5c29da42755.json).
+
+Related topics: [Ummite civilization](ummite-civilization.md).
+
+### src-bfae5ca72b24-c04
+
+She blames human society for enabling regressives, while saying stellar lineages and problems intertwine.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Proyecto Primer Contacto Extraterrestre - Segunda Parte](https://swaruu.org/transcripts/proyecto-primer-contacto-extraterrestre-segunda-parte) (2019-08-10; es); passages p0018, p0021, p0023, p0032. [Structured record](../../records/src-bfae5ca72b24.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-bfae5ca72b24-c05
+
+Engan, Solatian, Ummite, and Sassani groups collect social-network data to plan possible aid.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Proyecto Primer Contacto Extraterrestre - Segunda Parte](https://swaruu.org/transcripts/proyecto-primer-contacto-extraterrestre-segunda-parte) (2019-08-10; es); passages p0048, p0049, p0051. [Structured record](../../records/src-bfae5ca72b24.json).
+
+Related topics: [Engan people](engan-people.md), [Solatians](solatians.md), [Ummite civilization](ummite-civilization.md), [Sassani](sassani.md).
+
+### src-954309ae5feb-c03
+
+She shares personal views only; the Pleiades contains many distinct cultures.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [Swaruu se Dirige a los Escepticos - Mensaje Extraterreste de Pleyades (Taygeta)](https://swaruu.org/transcripts/swaruu-se-dirige-a-los-escepticos-mensaje-extraterreste-de-pleyades-taygeta) (2018-07-30; es); passages p0013. [Structured record](../../records/src-954309ae5feb.json).
+
+### src-fad1597372f1-c01
+
+Dhor estimates roughly 10,000 years from experience and time jumps. He says exact age is impossible; he appears 21–25.
+
+Attributed to **Dhor Káal'él**; reported; extraction confidence: medium.
+
+Source: [Primera Entrevista con Hombre Extraterrestre de Taygeta (Pleyades): Contacto Extraterrestre](https://swaruu.org/transcripts/primera-entrevista-con-hombre-extraterrestre-de-taygeta-pleyades-contacto-extraterrestre) (2019-08-25; es); passages p0011, p0013. [Structured record](../../records/src-fad1597372f1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-69ad66e27ca1-c06
+
+She identifies positive-contact signs: warning about Matrix, no payment requests, and no imposed agenda.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra: Preguntas Frecuentes 2 (Mensaje de Taygeta, Pleyades) (14)](https://swaruu.org/transcripts/swaruu-de-erra-preguntas-frecuentes-2-mensaje-de-taygeta-pleyades-14) (2018-11-20; es); passages p0041. [Structured record](../../records/src-69ad66e27ca1.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-5a63a913a8b6-c01
+
+Swaruu estimates 400,000 humanoid civilizations in this galactic quadrant, plus countless less-human forms.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (1) - Informacion Directa Extraterrestre](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-1-informacion-directa-extraterrestre) (2019-05-25; es); passages p0005, p0006. [Structured record](../../records/src-5a63a913a8b6.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-5a63a913a8b6-c02
+
+She says Pleiades has about 11 interstellar races; most 5D races are not interstellar.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (1) - Informacion Directa Extraterrestre](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-1-informacion-directa-extraterrestre) (2019-05-25; es); passages p0018, p0026. [Structured record](../../records/src-5a63a913a8b6.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-a6f1977b24ac-c06
+
+Extraction is consensual; abduction is not. Swaruu names Zeta Gardeners, MILAB, Sauroids, and Malakak.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRE DE LAS PLEYADES - SWARUU DE ERRA – ESTRELLA TAYGETA](https://swaruu.org/transcripts/extraterrestre-de-las-pleyades-swaruu-de-erra-estrella-taygeta) (2018-08-19; es); passages p0047, p0048, p0049. [Structured record](../../records/src-a6f1977b24ac.json).
+
+Related topics: [Starseeds](starseeds.md), [Zeta Reticuli Gardeners](zeta-reticuli-gardeners.md).
+
+### src-0ad91b6f93c8-c01
+
+Swaruu groups Arcturians into three ancient, non-Lyran amphibious-DNA branches—Dieslientiplex, Devonian and Korendian—in Bootes.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (2) - ARCTURIANOS (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-2-arcturianos-mensaje-pleyadiano) (2019-05-29; es); passages p0003. [Structured record](../../records/src-0ad91b6f93c8.json).
+
+Related topics: [Dieslientiplex](dieslientiplex.md), [Devonians](devonians.md), [Korendians](korendians.md).
+
+### src-0ad91b6f93c8-c02
+
+They are short, single-sex and reproduce by self-cloning offspring in an abdominal pouch.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (2) - ARCTURIANOS (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-2-arcturianos-mensaje-pleyadiano) (2019-05-29; es); passages p0004, p0006. [Structured record](../../records/src-0ad91b6f93c8.json).
+
+### src-0ad91b6f93c8-c03
+
+Mature offspring inherit parental consciousness; old bodies die, preserving identity and memory, while individuals remain distinct rather than hive-minded.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (2) - ARCTURIANOS (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-2-arcturianos-mensaje-pleyadiano) (2019-05-29; es); passages p0010, p0016, p0020. [Structured record](../../records/src-0ad91b6f93c8.json).
+
+### src-0ad91b6f93c8-c04
+
+Swaruu says they are Federation members, co-founded the Andromeda Council, belong to the Sphere Council, and cooperate amicably with Taygetans.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (2) - ARCTURIANOS (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-2-arcturianos-mensaje-pleyadiano) (2019-05-29; es); passages p0044, p0053. [Structured record](../../records/src-0ad91b6f93c8.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Andromeda Council](andromeda-council.md), [Council of the Sphere](council-of-the-sphere.md), [Taygetans](taygetans.md).
+
+### src-fd419788ecbb-c03
+
+He judges craft positivity by viewer reaction; shape is unreliable, though triangles are usually negative except Dieslientiplex craft.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [Transcripcion de una Entrevista a un Extraterrestre de la Estrella Taygeta - Dhor Káal'el - Swaruu](https://swaruu.org/transcripts/transcripcion-de-una-entrevista-a-un-extraterrestre-de-la-estrella-taygeta-dhor-kaal-el-swaruu) (2019-10-08; es); passages p0021, p0023, p0026. [Structured record](../../records/src-fd419788ecbb.json).
+
+Related topics: [Dieslientiplex](dieslientiplex.md).
+
+### src-914c88ed3e7a-c03
+
+Robert says humans are Lyrian variants; consciousness, not mutation or selection, alters their genes. According to this account.
+
+Attributed to **Robert**; speculative; extraction confidence: high.
+
+Source: [QUIEN FUE MOISÉS – QUE ERA LA ARCA DE LA ALIANZA – LOS LYRIANOS](https://swaruu.org/transcripts/quien-fue-moises-que-era-la-arca-de-la-alianza-los-lyrianos) (2019-02-06; es); passages p0006, p0008. [Structured record](../../records/src-914c88ed3e7a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a62abe01768e-c01
+
+Alfrateans and Antarians are humanomorphs, not Pleiadians; Alfrateans are Centaurian and Latin-appearing. Her account.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS PLEYADES - LOS PLEYADIANOS - ESTRELLA TAYGETA - SWARUU DE ERRA](https://swaruu.org/transcripts/las-pleyades-los-pleyadianos-estrella-taygeta-swaruu-de-erra) (2019-05-18; es); passages p0004, p0006, p0009, p0015. [Structured record](../../records/src-a62abe01768e.json).
+
+Related topics: [Alfrata (Phaeton)](alfrata.md).
+
+### src-a62abe01768e-c02
+
+She defines humanomorphs as visually indistinguishable from humans, unlike broader humanoid categories. Her terminology.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS PLEYADES - LOS PLEYADIANOS - ESTRELLA TAYGETA - SWARUU DE ERRA](https://swaruu.org/transcripts/las-pleyades-los-pleyadianos-estrella-taygeta-swaruu-de-erra) (2019-05-18; es); passages p0017, p0018. [Structured record](../../records/src-a62abe01768e.json).
+
+### src-a62abe01768e-c04
+
+Swaruu alleges regressive species use Nordic holograms or clones to impersonate them and assign blame. Her warning.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS PLEYADES - LOS PLEYADIANOS - ESTRELLA TAYGETA - SWARUU DE ERRA](https://swaruu.org/transcripts/las-pleyades-los-pleyadianos-estrella-taygeta-swaruu-de-erra) (2019-05-18; es); passages p0008. [Structured record](../../records/src-a62abe01768e.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-1480eda6f2f1-c04
+
+She says starseeds occur across Earth’s populations, not one selected ethnicity.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica-Preguntas (Swaruu de Erra Habla de Nuestro Poder Illimitado) (Taygeta-Pleyades)](https://swaruu.org/transcripts/genetica-preguntas-swaruu-de-erra-habla-de-nuestro-poder-illimitado-taygeta-pleyades) (2019-07-11; es); passages p0022, p0023. [Structured record](../../records/src-1480eda6f2f1.json).
+
+### src-1480eda6f2f1-c06
+
+She says crossbred dogs may revert toward ancestral types over generations, depending on lineage.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Genetica-Preguntas (Swaruu de Erra Habla de Nuestro Poder Illimitado) (Taygeta-Pleyades)](https://swaruu.org/transcripts/genetica-preguntas-swaruu-de-erra-habla-de-nuestro-poder-illimitado-taygeta-pleyades) (2019-07-11; es); passages p0063, p0065, p0071, p0072. [Structured record](../../records/src-1480eda6f2f1.json).
+
+### src-dec0f3455320-c04
+
+She describes 165 gray species, including botanical, silicon-based, and robotic types.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Biogenética trans-dimensional. Secretos - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/biogenetica-trans-dimensional-secretos-swaruu-sistema-taygeta-pleyades) (2018-07-24; es); passages p0039. [Structured record](../../records/src-dec0f3455320.json).
+
+### src-29dec782e6b2-c05
+
+She distinguishes Adamic humans, humanlike starseeds, and reptilian beings.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [REGISTROS AKÁSHICOS - QUE ES EL LIBRE ALBEDRÍO - SWARUU](https://swaruu.org/transcripts/registros-akashicos-que-es-el-libre-albedrio-swaruu) (2019-03-11; es); passages p0052. [Structured record](../../records/src-29dec782e6b2.json).
+
+### src-ca26375fb916-c04
+
+Dislientiplex technicians seek alternative power for the failing system.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (4)](https://swaruu.org/transcripts/matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-4) (2018-06-29; es); passages p0059. [Structured record](../../records/src-ca26375fb916.json).
+
+### src-ca26375fb916-c05
+
+Reptiles split between cooperation and continued fighting.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (4)](https://swaruu.org/transcripts/matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-4) (2018-06-29; es); passages p0071. [Structured record](../../records/src-ca26375fb916.json).
+
+### src-67ae68e2b345-c04
+
+She says 4D Reptiles can perceive 3D, but not 5D Taygetans.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Densidades: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (6)](https://swaruu.org/transcripts/densidades-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-6) (2018-07-16; es); passages p0031. [Structured record](../../records/src-67ae68e2b345.json).
+
+### src-74c032374fff-c01
+
+The article uses Anunnaki for several reptilian groups controlling Earth, not one species.
+
+Attributed to **Article narrator**; asserted; extraction confidence: high.
+
+Source: [2019 - EL CABALLERO NEGRO - LOS ANUNNAKI - CONTACTO EXTRATERRESTRE](https://swaruu.org/transcripts/2019-el-caballero-negro-los-anunnaki-contacto-extraterrestre) (2019-01-10; es); passages p0003, p0004. [Structured record](../../records/src-74c032374fff.json).
+
+Related topics: [Kingu](kingu.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -3029,6 +3343,44 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - [src-42e3d8553c1f-c03](starship-systems.md#src-42e3d8553c1f-c03) — Starship systems
 - [src-1098d5d992f8-c04](moon-matrix.md#src-1098d5d992f8-c04) — Moon and terrestrial Matrix
 - [src-3dfabad0c315-c01](moon-matrix.md#src-3dfabad0c315-c01) — Moon and terrestrial Matrix
+- [src-735f991fe169-c01](taygetan-language.md#src-735f991fe169-c01) — Taygetan language
+- [src-1da40cd3aac1-c02](taygetan-ecosystems.md#src-1da40cd3aac1-c02) — Taygetan ecosystems
+- [src-fd4806542048-c02](dna-metaphysics.md#src-fd4806542048-c02) — DNA and metaphysical patterns
+- [src-1d479f08f57b-c02](dieslientiplex.md#src-1d479f08f57b-c02) — Dieslientiplex
+- [src-885ec940f20f-c04](archons-and-demons.md#src-885ec940f20f-c04) — Archons and demons
+- [src-bebc8e2161ed-c01](alfrata.md#src-bebc8e2161ed-c01) — Alfrata (Phaeton)
+- [src-8653c6f0627b-c01](astrotheology.md#src-8653c6f0627b-c01) — Astrotheology
+- [src-e15992dcfa52-c01](crop-circles.md#src-e15992dcfa52-c01) — Crop circles
+- [src-954309ae5feb-c01](taygetans.md#src-954309ae5feb-c01) — Taygetans
+- [src-7073c15c2ef0-c04](starseeds.md#src-7073c15c2ef0-c04) — Starseeds
+- [src-08eb04ce1eff-c04](lyran-expansion.md#src-08eb04ce1eff-c04) — Lyran expansion
+- [src-08eb04ce1eff-c05](taygetans.md#src-08eb04ce1eff-c05) — Taygetans
+- [src-08eb04ce1eff-c06](taygetans.md#src-08eb04ce1eff-c06) — Taygetans
+- [src-5a63a913a8b6-c04](lurkers.md#src-5a63a913a8b6-c04) — Lurkers
+- [src-5a63a913a8b6-c05](lurkers.md#src-5a63a913a8b6-c05) — Lurkers
+- [src-10009bbe55a5-c01](lyran-expansion.md#src-10009bbe55a5-c01) — Lyran expansion
+- [src-9796515b4099-c01](oalu.md#src-9796515b4099-c01) — Oalu
+- [src-6a1113ff029c-c01](taygetans.md#src-6a1113ff029c-c01) — Taygetans
+- [src-b4123d146ba9-c02](genetic-weapons.md#src-b4123d146ba9-c02) — Genetic weapons
+- [src-b4123d146ba9-c05](zeta-reticuli-gardeners.md#src-b4123d146ba9-c05) — Zeta Reticuli Gardeners
+- [src-ec0774773c92-c01](lyran-expansion.md#src-ec0774773c92-c01) — Lyran expansion
+- [src-227bccccc470-c04](dna-metaphysics.md#src-227bccccc470-c04) — DNA and metaphysical patterns
+- [src-9fa59ea635de-c01](weather-control.md#src-9fa59ea635de-c01) — Weather control systems
+- [src-9fa59ea635de-c03](men-in-black.md#src-9fa59ea635de-c03) — Men in Black
+- [src-65d7f9508cf4-c03](primary-secondary-species.md#src-65d7f9508cf4-c03) — Primary and Secondary Species
+- [src-b36d2a7b7c51-c03](taygetans.md#src-b36d2a7b7c51-c03) — Taygetans
+- [src-7952cde1857a-c01](sirian-civilizations.md#src-7952cde1857a-c01) — Sirian civilizations
+- [src-7952cde1857a-c03](sirian-civilizations.md#src-7952cde1857a-c03) — Sirian civilizations
+- [src-d8bcaf4fc008-c02](uranus.md#src-d8bcaf4fc008-c02) — Uranus and its moons
+- [src-3f4799b0281c-c02](venus.md#src-3f4799b0281c-c02) — Venus
+- [src-74c032374fff-c03](zeta-reticuli-gardeners.md#src-74c032374fff-c03) — Zeta Reticuli Gardeners
+- [src-a0a1d364e89f-c02](galactic-federation.md#src-a0a1d364e89f-c02) — Galactic Federation
+- [src-e0a4afea956c-c03](taygetans.md#src-e0a4afea956c-c03) — Taygetans
+- [src-2bc9fdeb3e80-c01](sasquatch.md#src-2bc9fdeb3e80-c01) — Sasquatch
+- [src-2bc9fdeb3e80-c02](sasquatch.md#src-2bc9fdeb3e80-c02) — Sasquatch
+- [src-2bc9fdeb3e80-c05](sasquatch.md#src-2bc9fdeb3e80-c05) — Sasquatch
+- [src-83d10afd7959-c06](karistus.md#src-83d10afd7959-c06) — Karistus
+- [src-59c43e8ab96d-c05](mars.md#src-59c43e8ab96d-c05) — Mars
 
 ## Review flags
 
@@ -3038,6 +3390,7 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - Australian-traffic-purpose-unknown
 - Billy\_Meier\_photo\_authenticity\_uncertain
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
+- Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation-as-controller claim conflicts with mentor framing within transcript
@@ -3054,14 +3407,22 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - agency\_and\_noninterference
 - agenda\_term\_varies
 - ai-clone-claims-attributed
+- alternate-interpretation-of-ancient-texts-attributed
+- approximate-age-estimate
 - approximate\_dates
+- ark-locations-and-status
+- attributed-reproductive-lore
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - biological-claims-unverified
+- biology-claim
 - blockade-and-biology-attributed
+- causal-attribution-tension
 - claim: extraordinary abduction and biology account
 - claimed\_observation
 - claims are presented as attributed lore and quotations within a lesson
 - claims reflect Space Academy’s attributed lore
+- claims-about-suppressed-contact-evidence
+- claims-attributed-to-source-narrators
 - competing\_attributions
 - conditional\_forecast
 - conflicting\_faction\_accounts
@@ -3084,12 +3445,14 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - dangerous\_medical\_misinformation
 - dated\_claims
 - definition\_varies
+- density-morality-qualification
 - dialogue-perspectives-distinguished
 - diet\_claim\_omitted
 - dietary-claims\_attributed
 - disclosure\_claims\_unverified
 - disputed\_specimen
 - dog\_import\_exception\_is\_uncertain
+- dyatlov-claim-reversed-in-later-anéeka-account
 - earth-consciousness\_claim\_omitted
 - egregor-vs-species-levels
 - entertainment-disclaimer
@@ -3122,7 +3485,9 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - fleet-status\_as-reported
 - frequency\_health\_claims\_unverified
 - gender-reincarnation\_views\_attributed
+- genetic-metaphysics-attributed
 - genetic-surveillance-allegations
+- header-and-segmentation-variation
 - health\_claims
 - higher\_plane\_genetics\_claims
 - historical-claims-uncorroborated
@@ -3131,6 +3496,9 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - historical-interpretation
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
+- human-gravity-design-claim
+- human-origin-model
+- humanomorph-is-source-specific-term
 - identity-claims-unverified
 - inter-speaker-distinction
 - intercultural-claims
@@ -3141,8 +3509,10 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - internal\_scope\_tension
 - internal\_tension
 - logo\_identity\_claim\_unverified
+- lunar-artificial-structure-claims-attributed
 - maitre\_claims\_conflicting\_and\_uncertain
 - manifestation\_mechanics
+- mass-explanation-variation
 - matrix\_layers
 - matrix\_scope
 - medical-claims-unverified
@@ -3154,8 +3524,13 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - metaphysical-claims
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
+- miranda-no-bases-versus-other-moon-bases
 - multiple\_futures\_claim
+- name-variant-review
 - named\_government\_and\_secret\_base\_claims
+- nonstandard-biology-claims
+- nonstandard-genetics-claims
+- nonstandard-planetary-model
 - occult\_claims
 - paleontology\_claims\_unverified
 - personal\_advice
@@ -3165,13 +3540,19 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - politically\_contested
 - population-control-allegations
 - reincarnation-model-metaphysical
+- related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
 - reported\_plan
+- same-language-near-duplicate-src-735f991fe169
 - scenario-not-prediction
+- security-claims-attributed
 - self-reported-traits
 - self\_description
 - sensitive\_claims
 - ship-specifications\_attributed
+- simulation-and-AI-claims
+- sirian-group-includes-distinct-species
+- solar-system-history-attributed
 - soul-model-metaphysical
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker-unidentified
@@ -3180,14 +3561,20 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - speaker\_qualifies\_script\_claims
 - species-claims-unverified
 - species-cosmology\_attributed
+- species-origin-model-attributed
+- species-taxonomy-contradiction
+- species-threat-description
 - species\_specific\_reproduction
 - starlink-observation-scope-ambiguity
 - suffering\_causality
 - technology\_claims
 - terminology-tension: densities called concepts and frequency ranges
 - terrestrial-history-claims-unverified
+- terrestrial-history-contradiction
+- time-travel-claims
 - translated-originally-Spanish
 - translated\_source
+- translation-counterpart-src-0a2dec346e2d-expanded-later-account
 - translation-equivalence-review
 - translation-equivalence-unverified
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
@@ -3206,6 +3593,7 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - unverified\_medical\_advice
 - unverified\_medical\_claims
 - unverified\_paranormal\_claims
+- venus-habitable-world-model
 - viral-model-claims-attributed
 - virus-account-internal-tension
 - warrior\_symbolism

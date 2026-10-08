@@ -154,6 +154,64 @@ Attributed to **Unattributed source narration**; reported; extraction confidence
 
 Source: [Osiris, Eye of Horus, Ancient Egyptian matters - Extraterrestrial People](https://swaruu.org/transcripts/osiris-eye-of-horus-ancient-egyptian-matters-extraterrestrial-people) (2025-04-13; en); passages p0008, p0009. [Structured record](../../records/src-959864c4fde8.json).
 
+### src-fdf4bfc8aa32-c03
+
+Anéeka, explicitly not speaking for Swaruu, reports that Swaruu rated ancient Egyptian civilization 8/10 and modern society 2/10.
+
+Attributed to **Anéeka, reporting Swaruu’s view**; reported; extraction confidence: high.
+
+Source: [Conversaciones con Anéeka - Tablillas Sumerias - El Mundo del misterio Youtube](https://swaruu.org/transcripts/conversaciones-con-aneeka-tablillas-sumerias-el-mundo-del-misterio-youtube) (2019-07-08; es); passages p0024. [Structured record](../../records/src-fdf4bfc8aa32.json).
+
+### src-bb90b9018597-c01
+
+The account recasts Enki and Enlil as rival groups rooted in Egyptian politics, not individuals: Enki aligned with Akhenaten, Enlil with his opponents.
+
+Attributed to **Swaruu (as attributed by Robert)**; reported; extraction confidence: medium.
+
+Source: [Quienes eran - Enki y Enlil](https://swaruu.org/transcripts/quienes-eran-enki-y-enlil) (2019-07-14; es); passages p0006, p0008, p0014, p0015, p0018. [Structured record](../../records/src-bb90b9018597.json).
+
+Related topics: [Sumerian tablets](sumerian-tablets.md).
+
+### src-bb90b9018597-c02
+
+It claims Egyptian civilization predates Sumerian culture by millennia, with Egyptian roots traced to Ireland, and says later chronology was reversed.
+
+Attributed to **Swaruu (as attributed by Robert)**; reported; extraction confidence: medium.
+
+Source: [Quienes eran - Enki y Enlil](https://swaruu.org/transcripts/quienes-eran-enki-y-enlil) (2019-07-14; es); passages p0005, p0009, p0010, p0013, p0019. [Structured record](../../records/src-bb90b9018597.json).
+
+Related topics: [Sumerian tablets](sumerian-tablets.md).
+
+### src-1fd1145b4a3b-c03
+
+Swaruu identifies Moses as Akhenaten, expelled around 1400 BCE; Sinai may involve an unidentified reptilian vessel.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [INFORMACION IMPORTANTE SOBRE NIBIRU - MOISES Y LAS TABLAS DE LA LEY - SWARUU](https://swaruu.org/transcripts/informacion-importante-sobre-nibiru-moises-y-las-tablas-de-la-ley-swaruu) (2019-03-15; es); passages p0037. [Structured record](../../records/src-1fd1145b4a3b.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+### src-3556f3ec008f-c03
+
+Swaruu (9) says Egyptian culture developed around older-than-claimed pyramids, which she describes as energy plants rather than tombs.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BASES EXTRATERRESTRES ABANDONADAS BAJO LA ESFINGE DE EGIPTO.](https://swaruu.org/transcripts/bases-extraterrestres-abandonadas-bajo-la-esfinge-de-egipto) (2019-01-24; es); passages p0042. [Structured record](../../records/src-3556f3ec008f.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-914c88ed3e7a-c04
+
+Robert identifies Moses as Akhenaten and tentatively links Sinai to a reptilian ship. Tentative encounter.
+
+Attributed to **Robert**; asserted; extraction confidence: high.
+
+Source: [QUIEN FUE MOISÉS – QUE ERA LA ARCA DE LA ALIANZA – LOS LYRIANOS](https://swaruu.org/transcripts/quien-fue-moises-que-era-la-arca-de-la-alianza-los-lyrianos) (2019-02-06; es); passages p0010, p0011. [Structured record](../../records/src-914c88ed3e7a.json).
+
+Related topics: [Reptilians](reptilians.md).
+
 ## Claims filed under other topics
 
 - [src-45ef563e0d5a-c03](prime-directive.md#src-45ef563e0d5a-c03) — Prime Directive
@@ -161,12 +219,27 @@ Source: [Osiris, Eye of Horus, Ancient Egyptian matters - Extraterrestrial Peopl
 - [src-fea991df8ac7-c02](energy-generation.md#src-fea991df8ac7-c02) — Energy generation technology
 - [src-fea991df8ac7-c03](energy-generation.md#src-fea991df8ac7-c03) — Energy generation technology
 - [src-fea991df8ac7-c05](intraterrestrial-civilizations.md#src-fea991df8ac7-c05) — Intraterrestrial civilizations
+- [src-7d0050d7c04a-c06](energy-generation.md#src-7d0050d7c04a-c06) — Energy generation technology
+- [src-bdb9a554b70c-c05](urmah.md#src-bdb9a554b70c-c05) — Urmah
+- [src-3556f3ec008f-c01](sphinx-underground-bases.md#src-3556f3ec008f-c01) — Sphinx Underground Bases
+- [src-8a805d3bcc25-c01](atlantis-lemuria.md#src-8a805d3bcc25-c01) — Atlantis and Lemuria
+- [src-8a805d3bcc25-c03](elohi.md#src-8a805d3bcc25-c03) — Elohi
+- [src-8a805d3bcc25-c04](taygetans.md#src-8a805d3bcc25-c04) — Taygetans
 
 ## Review flags
 
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
+- Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- ancient-site-claims-attributed
+- ark-locations-and-status
+- contested-claims
 - historical and technological interpretations are attributed to Athena
+- historical-claim
+- historical-date-ambiguity
+- nonstandard-physics-claims
+- reported-comparison-not-speaker-endorsement
+- speaker-attribution-inferred-from-robert-transcript
 - translated-originally-Spanish

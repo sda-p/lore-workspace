@@ -1082,6 +1082,176 @@ Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
 
 Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0031, p0032, p0033. [Structured record](../../records/src-cdc00e8b66c4.json).
 
+### src-3282c3b2176d-c04
+
+Dhor says hyperspace jumps can begin from rest; crews use plasma propulsion near destinations for safe navigation.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Directos con Dhor Káal'el: Piloto Pleyadiano Taygeteano en la Orbita de la Tierra](https://swaruu.org/transcripts/directos-con-dhor-kaal-el-piloto-pleyadiano-taygeteano-en-la-orbita-de-la-tierra) (2019-11-30; es); passages p0043, p0044, p0045, p0046. [Structured record](../../records/src-3282c3b2176d.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-bbad8c4053ab-c02
+
+She says hyperspace is a controlled frequency change, not propulsion; entering origin data enables return, while repeated jumps can reduce its precision and strand crews.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu: Navegacion Estelar 1: PREGUNTAS (Contacto Extraterrestre)](https://swaruu.org/transcripts/swaruu-navegacion-estelar-1-preguntas-contacto-extraterrestre) (2018-11-05; es); passages p0014, p0016, p0018, p0043, p0044, p0046. [Structured record](../../records/src-bbad8c4053ab.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Temporal skipping](temporal-skipping.md).
+
+### src-54b7fc64a7de-c01
+
+Swaruu says Taygetan ships navigate with Muon/Tachyon factors; coded Muons enable near-instant interstellar communication.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Navegacion Estelar Extraterrestre, Viajes en Tiempo, Mapas InterEstelares: Swaruu de Erra (Pleyades)](https://swaruu.org/transcripts/navegacion-estelar-extraterrestre-viajes-en-tiempo-mapas-interestelares-swaruu-de-erra-pleyades) (2018-10-30; es); passages p0019, p0021, p0022. [Structured record](../../records/src-54b7fc64a7de.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-8808e760d7a4-c03
+
+Supra-luminal ships form controlled-frequency toroids, entering ether as information-bearing potential bubbles before reconfiguring at destinations.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ETER: Enseñanzas de Swaruu de Erra sobre el Campo Eterico (Contacto Extraterrestre)](https://swaruu.org/transcripts/eter-ensenanzas-de-swaruu-de-erra-sobre-el-campo-eterico-contacto-extraterrestre) (2019-11-11; es); passages p0018. [Structured record](../../records/src-8808e760d7a4.json).
+
+Related topics: [Starship systems](starship-systems.md), [Ether field](ether-field.md).
+
+### src-5d901fdb8dd5-c02
+
+Space-time navigation matches a destination frequency using a map; past and future are alternate tuning targets.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [CONCEPTO DE QUE ES EL TIEMPO – EL MUNDO REAL - Navegacion Estelar -Swaruu de Erra](https://swaruu.org/transcripts/concepto-de-que-es-el-tiempo-el-mundo-real-navegacion-estelar-swaruu-de-erra) (2019-11-23; es); passages p0011, p0012, p0017. [Structured record](../../records/src-5d901fdb8dd5.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-6a5223076196-c01
+
+Taygetans use coded Tau/anti-Tau muons for near-instant interstellar communication, including while ships travel supraluminally.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [MENSAJE EXTRATERRESTRE - NAVEGACION ESTELAR - SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/mensaje-extraterrestre-navegacion-estelar-swaruu-de-erra-sistema-taygeta-pleyades) (2018-09-19; es); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-6a5223076196.json).
+
+Related topics: [Muonic galactic AI network](muonic-galactic-ai-network.md).
+
+### src-6a5223076196-c03
+
+For supraluminal navigation, unique location frequencies in Dz replace XYZ maps; more decimals identify finer locations. Dz units use shipboard time.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [MENSAJE EXTRATERRESTRE - NAVEGACION ESTELAR - SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/mensaje-extraterrestre-navegacion-estelar-swaruu-de-erra-sistema-taygeta-pleyades) (2018-09-19; es); passages p0032, p0037, p0038, p0040, p0041, p0042, p0047, p0048, p0049, p0050, p0051. [Structured record](../../records/src-6a5223076196.json).
+
+### src-6a5223076196-c04
+
+FTL navigation specifies where (Bil’h), when (Na’al), and approach direction (Ho’dee’zá); it enables time travel and requires advanced spiritual and ethical development. The author says crews can alter timelines and must respect non-intervention.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [MENSAJE EXTRATERRESTRE - NAVEGACION ESTELAR - SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/mensaje-extraterrestre-navegacion-estelar-swaruu-de-erra-sistema-taygeta-pleyades) (2018-09-19; es); passages p0070, p0071, p0072, p0073, p0075, p0076, p0077, p0078, p0079, p0080. [Structured record](../../records/src-6a5223076196.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-52ab554c3637-c04
+
+Swaruu says early spacefaring civilizations hollow metal-rich asteroids into low-tech ships, reusing them for impact protection and camouflage.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra-Navegación Estelar 2 (Parte 3): Cancelación de Gravedad](https://swaruu.org/transcripts/swaruu-de-erra-navegacion-estelar-2-parte-3-cancelacion-de-gravedad) (2019-10-02; es); passages p0069, p0071. [Structured record](../../records/src-52ab554c3637.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-68f35a90f3f7-c06
+
+Ships match their harmonics to a destination for quantum or warp jumps through ether.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Naves Extraterrestres](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-circulos-de-las-cosechas-naves-extraterrestres) (2019-08-30; es); passages p0038, p0039, p0040, p0041. [Structured record](../../records/src-68f35a90f3f7.json).
+
+### src-32e031c42dc5-c03
+
+Ships can pass through solid obstacles by shifting frequency.
+
+Attributed to **Dhor Káal’él**; asserted; extraction confidence: high.
+
+Source: [NAVES EXTRATERRESTRES – OVNIS – ENTREVISTA CON UN PLEYADIANO TAYGETEANO - DHOR KÁAL'EL Y ANÉEKA](https://swaruu.org/transcripts/naves-extraterrestres-ovnis-entrevista-con-un-pleyadiano-taygeteano-dhor-kaal-el-y-aneeka) (2019-11-18; es); passages p0011, p0012. [Structured record](../../records/src-32e031c42dc5.json).
+
+### src-32e031c42dc5-c05
+
+Dhor describes ether jumps as combat maneuvers that reposition a ship behind an enemy.
+
+Attributed to **Dhor Káal’él**; asserted; extraction confidence: high.
+
+Source: [NAVES EXTRATERRESTRES – OVNIS – ENTREVISTA CON UN PLEYADIANO TAYGETEANO - DHOR KÁAL'EL Y ANÉEKA](https://swaruu.org/transcripts/naves-extraterrestres-ovnis-entrevista-con-un-pleyadiano-taygeteano-dhor-kaal-el-y-aneeka) (2019-11-18; es); passages p0065, p0066. [Structured record](../../records/src-32e031c42dc5.json).
+
+### src-50c3183fae27-c03
+
+Charts are corridors, not full maps; Milky Way and M-33 mapping is theoretical, other galaxies partial, and ships fail to return.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar - Como se cartografía el espacio - Naves Extraterrestres - Swaruu de Erra](https://swaruu.org/transcripts/navegacion-estelar-como-se-cartografia-el-espacio-naves-extraterrestres-swaruu-de-erra) (2019-11-12; es); passages p0010, p0011. [Structured record](../../records/src-50c3183fae27.json).
+
+### src-50c3183fae27-c04
+
+Temporal-line variables can prevent explorers returning.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar - Como se cartografía el espacio - Naves Extraterrestres - Swaruu de Erra](https://swaruu.org/transcripts/navegacion-estelar-como-se-cartografia-el-espacio-naves-extraterrestres-swaruu-de-erra) (2019-11-12; es); passages p0012, p0013. [Structured record](../../records/src-50c3183fae27.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-39f1f606d12b-c01
+
+Swaruu says ships tune internal consciousness to a destination’s frequency and time; time is another Ether coordinate.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [La Conciencia consciencia - Naves Extraterrestres - Navegacion Estelar - Swaruu de Erra](https://swaruu.org/transcripts/la-conciencia-consciencia-naves-extraterrestres-navegacion-estelar-swaruu-de-erra) (2019-12-01; es); passages p0002, p0004, p0006. [Structured record](../../records/src-39f1f606d12b.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-31d1a6fe5da1-c05
+
+Swaruu withholds maps and materials; she reports Anéeka distinguishes their muon system from a terrestrial patent. Anéeka is quoted through Swaruu.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Navegacion Estelar II - VUELO SUPRA-LUMINAR - Nave Extraterrestre - Swaruu de Erra](https://swaruu.org/transcripts/navegacion-estelar-ii-vuelo-supra-luminar-nave-extraterrestre-swaruu-de-erra) (2019-10-27; es); passages p0029, p0030, p0032. [Structured record](../../records/src-31d1a6fe5da1.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-bf7085cb30ac-c01
+
+Swaruu says one numeric destination code includes all navigation and timing data.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NAVEGACION ESTELAR II - PORTALES DIMENSIONALES - SWARUU DE ERRA - VUELO WARP](https://swaruu.org/transcripts/navegacion-estelar-ii-portales-dimensionales-swaruu-de-erra-vuelo-warp) (2018-11-21; es); passages p0002. [Structured record](../../records/src-bf7085cb30ac.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-bf7085cb30ac-c05
+
+She says incomplete destination data can merge arrivals with surrounding objects, citing the Philadelphia Experiment.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NAVEGACION ESTELAR II - PORTALES DIMENSIONALES - SWARUU DE ERRA - VUELO WARP](https://swaruu.org/transcripts/navegacion-estelar-ii-portales-dimensionales-swaruu-de-erra-vuelo-warp) (2018-11-21; es); passages p0011. [Structured record](../../records/src-bf7085cb30ac.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -1129,6 +1299,35 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - [src-8a20bf02262a-c06](hashmallim.md#src-8a20bf02262a-c06) — Hashmallim
 - [src-f95f21ca391d-c03](galactic-federation.md#src-f95f21ca391d-c03) — Galactic Federation
 - [src-9afde86ad754-c04](nazca-spaceport.md#src-9afde86ad754-c04) — Nazca spaceport
+- [src-735f991fe169-c02](taygetan-language.md#src-735f991fe169-c02) — Taygetan language
+- [src-ceb65bcc3f82-c01](frequency-map-navigation.md#src-ceb65bcc3f82-c01) — Frequency-map navigation
+- [src-ceb65bcc3f82-c03](frequency-map-navigation.md#src-ceb65bcc3f82-c03) — Frequency-map navigation
+- [src-ed681d9a2b1f-c02](frequency-map-navigation.md#src-ed681d9a2b1f-c02) — Frequency-map navigation
+- [src-35de2559cc8b-c02](starship-systems.md#src-35de2559cc8b-c02) — Starship systems
+- [src-35de2559cc8b-c03](frequency-map-navigation.md#src-35de2559cc8b-c03) — Frequency-map navigation
+- [src-db5d7dcfb7ef-c01](ship-internal-time.md#src-db5d7dcfb7ef-c01) — Ship internal time
+- [src-6a049025e05e-c03](starship-systems.md#src-6a049025e05e-c03) — Starship systems
+- [src-7027fa794a95-c01](crop-circles.md#src-7027fa794a95-c01) — Crop circles
+- [src-7027fa794a95-c03](frequency-map-navigation.md#src-7027fa794a95-c03) — Frequency-map navigation
+- [src-e15992dcfa52-c03](crop-circles.md#src-e15992dcfa52-c03) — Crop circles
+- [src-54b7fc64a7de-c02](starship-systems.md#src-54b7fc64a7de-c02) — Starship systems
+- [src-54b7fc64a7de-c03](frequency-map-navigation.md#src-54b7fc64a7de-c03) — Frequency-map navigation
+- [src-54b7fc64a7de-c04](frequency-map-navigation.md#src-54b7fc64a7de-c04) — Frequency-map navigation
+- [src-54b7fc64a7de-c05](temporal-skipping.md#src-54b7fc64a7de-c05) — Temporal skipping
+- [src-8808e760d7a4-c02](holographic-computers.md#src-8808e760d7a4-c02) — Holographic computers
+- [src-8808e760d7a4-c04](ether-field.md#src-8808e760d7a4-c04) — Ether field
+- [src-9796515b4099-c05](oalu.md#src-9796515b4099-c05) — Oalu
+- [src-6a5223076196-c02](starship-systems.md#src-6a5223076196-c02) — Starship systems
+- [src-b6c6fa839c76-c01](frequency-map-navigation.md#src-b6c6fa839c76-c01) — Frequency-map navigation
+- [src-b6c6fa839c76-c03](frequency-map-navigation.md#src-b6c6fa839c76-c03) — Frequency-map navigation
+- [src-52ab554c3637-c01](gravity-harmonics.md#src-52ab554c3637-c01) — Gravity harmonics
+- [src-0df271d4423a-c05](taygetan-ecosystems.md#src-0df271d4423a-c05) — Taygetan ecosystems
+- [src-50c3183fae27-c01](frequency-map-navigation.md#src-50c3183fae27-c01) — Frequency-map navigation
+- [src-50c3183fae27-c02](holographic-computers.md#src-50c3183fae27-c02) — Holographic computers
+- [src-50c3183fae27-c05](frequency-map-navigation.md#src-50c3183fae27-c05) — Frequency-map navigation
+- [src-31d1a6fe5da1-c01](frequency-map-navigation.md#src-31d1a6fe5da1-c01) — Frequency-map navigation
+- [src-bf7085cb30ac-c02](starship-systems.md#src-bf7085cb30ac-c02) — Starship systems
+- [src-bf7085cb30ac-c03](natural-portals.md#src-bf7085cb30ac-c03) — Natural and artificial portals
 
 ## Review flags
 
@@ -1136,6 +1335,7 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - Federation-policy\_claims\_attributed
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
+- No English counterpart found in the cached sources.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
@@ -1165,29 +1365,39 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - extraordinary\_exopolitical\_claims
 - extraordinary\_metaphysical\_claims
 - frequency-gravity-model
+- frequency-mechanics-attributed
 - frequency\_map\_model
+- gravity-propulsion-attributed
+- historical-event-identified-from-painting
 - hyperspace\_model
 - jumper\_vs\_origin\_line
+- mass-explanation-variation
 - metaphysical-claims
 - military-claims\_attributed
 - multiple\_futures\_claim
+- name-variant-review
 - narrator\_claims
+- nonstandard-physics-claims
 - nonstandard\_astrophysics\_claims
 - past-editing-metaphysical-claim
 - personal\_metaphysics
 - phenomenon\_not\_fully\_understood
 - procedure-description
+- related-frequency-navigation-source
 - related\_series\_part
+- same-language-near-duplicate-src-6a5223076196
 - secret\_ship\_capability\_claims
 - space\_suit\_claims\_unverified
 - speaker-speculation
 - species\_specific\_reproduction
 - starlink-observation-scope-ambiguity
 - symbolic\_interpretations
+- taygetan-society-claims-attributed
 - technology\_and\_mind\_interface
 - technology\_claims
 - time\_travel\_risks
 - timeline\_model
+- title-metadata-diff
 - translated\_source
 - translation-equivalence-unverified
 - unmapped\_regions\_and\_return\_risk

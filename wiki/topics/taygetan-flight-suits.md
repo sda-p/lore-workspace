@@ -58,6 +58,14 @@ Source: [Taygetean Technology: Part 1 - Suits and Boots (English)](https://swaru
 
 Related topics: [Taygetans](taygetans.md), [Starship systems](starship-systems.md), [Energy generation technology](energy-generation.md).
 
+### src-64a9e923fd20-c03
+
+Swaruu describes Taygetan uniforms as protective suits with impact stiffening, medical telemetry, temperature control, and belt-operated functions.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra: Varias Conversaciones (Mensaje Extraterrestre Pleyadiano) (18)](https://swaruu.org/transcripts/swaruu-de-erra-varias-conversaciones-mensaje-extraterrestre-pleyadiano-18) (2019-01-12; es); passages p0037, p0038, p0039, p0040. [Structured record](../../records/src-64a9e923fd20.json).
+
 ## Claims filed under other topics
 
 - [src-96581cc2ca29-c01](starship-systems.md#src-96581cc2ca29-c01) — Starship systems

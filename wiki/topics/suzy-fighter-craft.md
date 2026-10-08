@@ -70,11 +70,43 @@ Source: [Interstellar Life 6C - Taygetan Pleiadian Advanced Fighter Crafts](http
 
 Related topics: [Artificial intelligence](artificial-intelligence.md).
 
+### src-d5c29da42755-c02
+
+SUZY is Swaruu’s AI craft, bonded to her and pilotable only by her.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE - ESTRELLA TAYGETA - LAS PLEYADES - Swarru - Anéeka](https://swaruu.org/transcripts/contacto-extraterrestre-estrella-taygeta-las-pleyades-swarru-aneeka) (2018-12-02; es); passages p0016, p0022, p0023. [Structured record](../../records/src-d5c29da42755.json).
+
+### src-f0430ddfaa2b-c01
+
+Dhor’s third-built Suzy has a 90-meter hull plus cannons, 30-meter wingspan, two reactors, and two plasma engines.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [ENTREVISTA A UN EXTRATERRESTRE DE LAS PLEYADES ESTRELLA TAYGETA Dhor. Káal'el - Swaruu de Erra](https://swaruu.org/transcripts/entrevista-a-un-extraterrestre-de-las-pleyades-estrella-taygeta-dhor-kaal-el-swaruu-de-erra) (2019-10-03; es); passages p0028, p0029. [Structured record](../../records/src-f0430ddfaa2b.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-f0430ddfaa2b-c02
+
+A Suzy fighter can fly with its pilot or autonomously under onboard AI.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: high.
+
+Source: [ENTREVISTA A UN EXTRATERRESTRE DE LAS PLEYADES ESTRELLA TAYGETA Dhor. Káal'el - Swaruu de Erra](https://swaruu.org/transcripts/entrevista-a-un-extraterrestre-de-las-pleyades-estrella-taygeta-dhor-kaal-el-swaruu-de-erra) (2019-10-03; es); passages p0031. [Structured record](../../records/src-f0430ddfaa2b.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
 ## Claims filed under other topics
 
 - [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation
+- [src-fd419788ecbb-c01](aircraft-mimicry.md#src-fd419788ecbb-c01) — Aircraft Mimicry
+- [src-fd419788ecbb-c02](aircraft-mimicry.md#src-fd419788ecbb-c02) — Aircraft Mimicry
+- [src-fd419788ecbb-c05](starship-systems.md#src-fd419788ecbb-c05) — Starship systems
 
 ## Review flags
 
 - classified-details
+- time-travel-claims
 - translation-equivalence-unverified

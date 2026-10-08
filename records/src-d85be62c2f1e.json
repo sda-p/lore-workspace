@@ -1,0 +1,94 @@
+{
+  "source_id": "src-d85be62c2f1e",
+  "snapshot_sha256": "874f225add13f1410c2a820963eb4f8c5d783df726565221b3bebab9ad8c3032",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d85be62c2f1e-c01",
+      "assertion": "Yazhi models time as nested expanding bubbles; event sequences interact and may move in any direction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d85be62c2f1e-c02",
+      "assertion": "She says nexus points link events across timelines, with attention animating past, present, or future.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d85be62c2f1e-c03",
+      "assertion": "Yazhi foresaw stricter controls, economic collapse, and unrest during 2020–2025.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She said outcomes were not fixed and depended on human choices."
+    },
+    {
+      "id": "src-d85be62c2f1e-c04",
+      "assertion": "She says collective agreements can redirect outcomes; ordinary people, rather than leaders, hold the decisive agency.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "dated-non-deterministic-prediction",
+    "timeline-model-varies-from-linear-view"
+  ],
+  "coverage_gaps": [
+    "negative-timeline-scenarios",
+    "reincarnation-model"
+  ]
+}

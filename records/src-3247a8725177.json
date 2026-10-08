@@ -1,0 +1,81 @@
+{
+  "source_id": "src-3247a8725177",
+  "snapshot_sha256": "4010f676152c64b25d44346c6ad1a63a27eeb0a099a6651126e6a0d5afa060a6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3247a8725177-c01",
+      "assertion": "Yazhi says at least three Atlantean pyramids under Bermuda, Puerto Rico, and Florida still operate unattended as zero-point reactors, generating energy and magnetic disturbances.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "atlantean-zero-point-pyramids",
+      "topics": [
+        "atlantean-zero-point-pyramids",
+        "atlantis-lemuria",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3247a8725177-c02",
+      "assertion": "When energy builds, the pyramids discharge it and create portals that can shift a passing object's frequency, relocating it across space or only time.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "atlantean-zero-point-pyramids"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3247a8725177-c03",
+      "assertion": "Yazhi says the Federation monitors but has not deactivated the pyramids; she claims pyramid form alone can generate substantial energy without internal systems.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "atlantean-zero-point-pyramids",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "atlantean-zero-point-pyramids",
+      "name": "Atlantean zero-point pyramids",
+      "kind": "technology",
+      "aliases": [
+        "submerged Bermuda pyramids",
+        "pirámides sumergidas de Bermuda"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "spatial-versus-temporal-displacement-examples",
+    "federation-deactivation-rationale"
+  ]
+}

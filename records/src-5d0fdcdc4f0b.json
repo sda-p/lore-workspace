@@ -1,0 +1,43 @@
+{
+  "source_id": "src-5d0fdcdc4f0b",
+  "snapshot_sha256": "f301e0666888df28a349c30c163d2ffca6e318ef810745d10bd4b29e92098eae",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5d0fdcdc4f0b-c01",
+      "assertion": "Swaruu lists possible boom sources: nearby invisible large ships' electromagnetic pulses (low probability) and underground tunneling or military activity (high, localized).",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0015", "p0017", "p0018", "p0020"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems", "deep-underground-military-bases"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She allows multiple causes to combine."
+    },
+    {
+      "id": "src-5d0fdcdc4f0b-c02",
+      "assertion": "She calls HAARP, Gwen, or cell-tower emissions the most common cause, alleging they suppress mood, induce fear, and enable social manipulation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0019", "p0020"],
+      "primary_topic": "weather-control",
+      "topics": ["weather-control", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls this confirmed."
+    },
+    {
+      "id": "src-5d0fdcdc4f0b-c03",
+      "assertion": "She warns recordings can harm listeners and advises avoidance or countering them with cheerful headphone music and 528-megahertz binaural beats.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0021", "p0022"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "weather-control"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her advice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["frequency-and-harm-claims"],
+  "coverage_gaps": ["reported-boom-events", "false-flag-wars-claim"]
+}

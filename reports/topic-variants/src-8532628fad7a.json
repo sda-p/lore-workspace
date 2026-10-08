@@ -1,0 +1,20 @@
+[
+  {
+    "proposed": {
+      "id": "karistus",
+      "name": "Karistus",
+      "kind": "species",
+      "aliases": [
+        "Karistus beings"
+      ]
+    },
+    "canonical": {
+      "id": "karistus",
+      "name": "Karistus",
+      "kind": "civilization",
+      "aliases": [
+        "Karistus"
+      ]
+    }
+  }
+]

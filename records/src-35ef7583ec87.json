@@ -1,0 +1,146 @@
+{
+  "source_id": "src-35ef7583ec87",
+  "snapshot_sha256": "63c6d69a16e177629b7d51e4b9c436872a6c85fc851bb935cf41c65ec1e60ef1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-35ef7583ec87-c01",
+      "assertion": "Swaruu says Jesus never existed historically, attributing the story to Flavians adapting Titus’s campaigns.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0022",
+        "p0028"
+      ],
+      "primary_topic": "flavian-jesus-claim",
+      "topics": [
+        "flavian-jesus-claim",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35ef7583ec87-c02",
+      "assertion": "She says Church and Cabal used Jesus to secure obedience and political control.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "flavian-jesus-claim"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35ef7583ec87-c03",
+      "assertion": "She says Dead Sea Scrolls reflect anti-Roman rebels, later reframed for Rome.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "flavian-jesus-claim",
+      "topics": [
+        "flavian-jesus-claim",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35ef7583ec87-c04",
+      "assertion": "She interprets Jesus as a 13th zodiac sign despite no stellar record for one.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "flavian-jesus-claim"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35ef7583ec87-c05",
+      "assertion": "She reports a group heard as Gahonam within Jesuits, linked to high-degree Masons and Earth control.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0052",
+        "p0055",
+        "p0057",
+        "p0058",
+        "p0060",
+        "p0061",
+        "p0063"
+      ],
+      "primary_topic": "gahonam",
+      "topics": [
+        "gahonam",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-35ef7583ec87-c06",
+      "assertion": "She says the Gospels copy materials Josephus used to assemble the New Testament.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "flavian-jesus-claim",
+      "topics": [
+        "flavian-jesus-claim",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "flavian-jesus-claim",
+      "name": "Flavian Jesus narrative",
+      "kind": "historical claim",
+      "aliases": [
+        "Titus as Jesus",
+        "Relato flaviano de Jesús"
+      ]
+    },
+    {
+      "id": "gahonam",
+      "name": "Gahonam",
+      "kind": "secret society",
+      "aliases": [
+        "Gahonam society",
+        "Ga-jo-nam"
+      ]
+    }
+  ],
+  "review_flags": [
+    "translation-counterpart:src-476c3db82f6f-partial-overlap; English adds religious attachment and egregor discussion"
+  ],
+  "coverage_gaps": [
+    "Gospel authorship claims",
+    "Roman timeline construction",
+    "religious cosmology"
+  ]
+}

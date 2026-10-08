@@ -1,0 +1,85 @@
+{
+  "source_id": "src-f3a1e4326731",
+  "snapshot_sha256": "23ffa6e06168634d276b2a772d8b69d6a7b5e7036c0f87197ef2a4824c3aebe6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f3a1e4326731-c01",
+      "assertion": "Swaruu dates the Federation's First Directive to 850,000–900,000 years ago, intended to prevent interference with less-developed civilizations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3a1e4326731-c02",
+      "assertion": "She describes a half-million-race Federation, formed during the Great Expansion after Orion forces exterminated many species.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3a1e4326731-c03",
+      "assertion": "The Directive restricts contact and advanced technology for cultures lacking interstellar travel or organized offworld ties; exceptions include contamination and external threats.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0026",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f3a1e4326731-c04",
+      "assertion": "She calls it flexible guidance, breakable for greater good; contactors bear responsibility, while Federation and Orion Council supervise.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0039",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation",
+        "orion-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "federation-history-attributed"
+  ],
+  "coverage_gaps": [
+    "current-intervention",
+    "species-status-claims"
+  ]
+}

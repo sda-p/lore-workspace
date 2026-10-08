@@ -496,6 +496,126 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
 
 Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) (2024-11-18; en); passages p0008, p0010. [Structured record](../../records/src-d3aa4459ae38.json).
 
+### src-11de0477daf4-c03
+
+Swaruu describes quartz-crystal zero-point reactors as computer-controlled toroids that supply large ships with abundant energy and need little maintenance.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [CONVERSIÓN DE CONCIENCIA-INTENCIÓN A MATERIA DURA - Swaruu de Erra – REACTOR DE ENERGIA PUNTO CERO](https://swaruu.org/transcripts/conversion-de-conciencia-intencion-a-materia-dura-swaruu-de-erra-reactor-de-energia-punto-cero) (2018-08-30; es); passages p0063, p0064, p0066, p0067. [Structured record](../../records/src-11de0477daf4.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d215ccbf4167-c05
+
+She says controllers suppress uncontrolled inventions, especially free energy tied to ether.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: medium.
+
+Source: [Mensaje Extraterrestre Pleyadiano: La Falsedad de la Ciencia Terrestre](https://swaruu.org/transcripts/mensaje-extraterrestre-pleyadiano-la-falsedad-de-la-ciencia-terrestre) (2018-07-21; es); passages p0044, p0046. [Structured record](../../records/src-d215ccbf4167.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-7d0050d7c04a-c04
+
+Rotating quartz merkabas generate piezoelectricity; Swaruu calls this compact reactor nearly 100% efficient.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Energia Punto Cero: Preguntas (Mensaje Extraterrestre Pleyades)](https://swaruu.org/transcripts/energia-punto-cero-preguntas-mensaje-extraterrestre-pleyades) (2018-09-28; es); passages p0047, p0049, p0051. [Structured record](../../records/src-7d0050d7c04a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-7d0050d7c04a-c06
+
+Pyramids used gravity cancellation and were planetary free-energy plants.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Energia Punto Cero: Preguntas (Mensaje Extraterrestre Pleyades)](https://swaruu.org/transcripts/energia-punto-cero-preguntas-mensaje-extraterrestre-pleyades) (2018-09-28; es); passages p0084, p0085, p0087. [Structured record](../../records/src-7d0050d7c04a.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
+### src-7d0050d7c04a-c07
+
+Rodin coils amplify electricity but need external power and better conductors.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Energia Punto Cero: Preguntas (Mensaje Extraterrestre Pleyades)](https://swaruu.org/transcripts/energia-punto-cero-preguntas-mensaje-extraterrestre-pleyades) (2018-09-28; es); passages p0093, p0095. [Structured record](../../records/src-7d0050d7c04a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-a903c6d50bef-c02
+
+Swaruu alleges a Growler caused the blackout by EMP; TR3Bs were decoys, while EA-6B reports are disputed.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [APAGÓN EN ARGENTINA - QUE ESTA PASANDO - POR QUÉ](https://swaruu.org/transcripts/apagon-en-argentina-que-esta-pasando-por-que) (2019-06-24; es); passages p0009, p0010, p0011, p0013. [Structured record](../../records/src-a903c6d50bef.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-0df271d4423a-c03
+
+Toleka Island has subterranean zero-point factories and facilities to build, repair, and dock kilometer-scale ships.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 1: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-1-mensaje-extraterrestre-17) (2018-12-23; es); passages p0024. [Structured record](../../records/src-0df271d4423a.json).
+
+Related topics: [Starship systems](starship-systems.md), [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-4942a07c7e4f-c01
+
+She describes matter as toroidal standing-wave nodes in ether.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Energia Libre (Punto Zero): Mecanica de Manifestacion 1 - Mensaje Extraterrestre- Swaruu de Erra](https://swaruu.org/transcripts/energia-libre-punto-zero-mensaje-extraterrestre-directo-de-swaruu-de-los-pleyades-taygeta) (2018-09-07; es); passages p0006, p0007. [Structured record](../../records/src-4942a07c7e4f.json).
+
+### src-4942a07c7e4f-c04
+
+She describes zero-point energy as depolarization between physical and etheric fields.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Energia Libre (Punto Zero): Mecanica de Manifestacion 1 - Mensaje Extraterrestre- Swaruu de Erra](https://swaruu.org/transcripts/energia-libre-punto-zero-mensaje-extraterrestre-directo-de-swaruu-de-los-pleyades-taygeta) (2018-09-07; es); passages p0040, p0041, p0051, p0052. [Structured record](../../records/src-4942a07c7e4f.json).
+
+### src-4942a07c7e4f-c05
+
+She says quartz reactors use controlled crystals and nested toroids for abundant power.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Energia Libre (Punto Zero): Mecanica de Manifestacion 1 - Mensaje Extraterrestre- Swaruu de Erra](https://swaruu.org/transcripts/energia-libre-punto-zero-mensaje-extraterrestre-directo-de-swaruu-de-los-pleyades-taygeta) (2018-09-07; es); passages p0063, p0064, p0065, p0066, p0067. [Structured record](../../records/src-4942a07c7e4f.json).
+
+### src-4942a07c7e4f-c06
+
+She describes wireless power as clean and harmless because it travels nonmaterially.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Energia Libre (Punto Zero): Mecanica de Manifestacion 1 - Mensaje Extraterrestre- Swaruu de Erra](https://swaruu.org/transcripts/energia-libre-punto-zero-mensaje-extraterrestre-directo-de-swaruu-de-los-pleyades-taygeta) (2018-09-07; es); passages p0053, p0054. [Structured record](../../records/src-4942a07c7e4f.json).
+
+### src-4942a07c7e4f-c07
+
+She says positive civilizations use only needed energy, largely through zero-point systems.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Energia Libre (Punto Zero): Mecanica de Manifestacion 1 - Mensaje Extraterrestre- Swaruu de Erra](https://swaruu.org/transcripts/energia-libre-punto-zero-mensaje-extraterrestre-directo-de-swaruu-de-los-pleyades-taygeta) (2018-09-07; es); passages p0076, p0077. [Structured record](../../records/src-4942a07c7e4f.json).
+
+### src-8e490481292c-c02
+
+At Edwards in 1954, Rashell offered free power for nuclear disarmament; Eisenhower rejected it, citing Russia.
+
+Attributed to **Rashell**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE PLEYADIANO DE TAYGETA CON EL PRESIDENTE IKE EISENHOWER - RASHELL DE TEMMER](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-de-taygeta-con-el-presidente-ike-eisenhower-rashell-de-temmer) (2018-10-16; es); passages p0006, p0012, p0013. [Structured record](../../records/src-8e490481292c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -538,15 +658,38 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - [src-7288ab90f589-c04](starship-systems.md#src-7288ab90f589-c04) — Starship systems
 - [src-722b52946af6-c06](spherical-drones.md#src-722b52946af6-c06) — Spherical drones
 - [src-6abed4268d57-c03](natural-portals.md#src-6abed4268d57-c03) — Natural and artificial portals
+- [src-11de0477daf4-c04](economics.md#src-11de0477daf4-c04) — Economics and resources
+- [src-af005c73ed53-c01](black-goo.md#src-af005c73ed53-c01) — Black goo
+- [src-69ad66e27ca1-c05](moon-biosphere-ship.md#src-69ad66e27ca1-c05) — The Moon as a biosphere ship
+- [src-f0430ddfaa2b-c03](starship-systems.md#src-f0430ddfaa2b-c03) — Starship systems
+- [src-bf466c0fec46-c02](starship-systems.md#src-bf466c0fec46-c02) — Starship systems
+- [src-78a2f4005f35-c03](original-matrix.md#src-78a2f4005f35-c03) — Original Matrix
+- [src-cad14862cc58-c03](moon-matrix.md#src-cad14862cc58-c03) — Moon and terrestrial Matrix
+- [src-d91884cf2930-c03](tractor-beams.md#src-d91884cf2930-c03) — Tractor beams
+- [src-3556f3ec008f-c03](ancient-egypt.md#src-3556f3ec008f-c03) — Ancient Egypt
+- [src-0b358e77a59f-c01](terrestrial-science.md#src-0b358e77a59f-c01) — Terrestrial science
+- [src-47516d4ba42c-c01](starship-systems.md#src-47516d4ba42c-c01) — Starship systems
+- [src-47516d4ba42c-c02](starship-systems.md#src-47516d4ba42c-c02) — Starship systems
+- [src-47516d4ba42c-c04](starship-systems.md#src-47516d4ba42c-c04) — Starship systems
 
 ## Review flags
 
+- Compared English candidate src-622099cec238; article substantially matches but has paragraph segmentation/translation differences.
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
+- Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- aircraft-identity-ambiguity
 - alternative-weapons-claims
+- ancient-site-claims-attributed
+- apollo-denial-claims
+- author-signature-attribution
+- biology-claim
 - climate-claims
 - conflicting\_primary\_purpose\_claims
+- conspiracy-claims
 - conspiracy\_claims
+- contested-claim
+- contested-claims
 - contested\_archaeology
 - earth\_science\_claims\_unverified
 - entertainment-disclaimer
@@ -563,19 +706,31 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - historical-claims-unverified
 - internal\_uncertainty
 - lunar-reactor-age-origin-uncertainty
+- matrix-technology-attributed
 - medical-claims-unverified
 - metaphysical-claims
 - narrator\_claims
 - nonhuman-technology\_claims\_attributed
+- nonstandard-physics-claims
+- nonstandard-planetary-model
 - nuclear\_science\_misinformation
 - portal-technology-claims-unverified
 - prior\_statement\_conflict
 - reported\_plan
+- same-language-near-duplicate-src-7872bc2f2c04
 - second-contact-stoppage-attributed-to-yazhi
+- segmentation-diff
+- source-mixed-origin-en-reactor-and-spanish-engine-sections
+- speaker-header-diff
 - species-description\_attributed
 - starlink-observation-scope-ambiguity
+- suzy-thrust-rating-variant-review
+- taygetan-society-claims-attributed
 - technology\_claims
+- terrestrial-science-claims
+- tractor-beam-technology-attributed
 - translated-originally-Spanish
+- translation-counterpart-src-b781192c3a3d-expanded-plasma-engine-details
 - transport\_safety\_and\_policy\_claims\_unverified
 - unverified\_ancient\_technology\_claims
 - unverified\_biological\_claims

@@ -288,6 +288,82 @@ Source: [Dimensional Mirrors - People Repeating Themselves - Athena and Yazhi Sw
 
 Related topics: [Dimensional mirroring](dimensional-mirroring.md).
 
+### src-11de0477daf4-c01
+
+Swaruu models matter as toroidal standing-wave nodes in an ether of potential energy, shaped by consciousness and sacred geometry.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [CONVERSIÓN DE CONCIENCIA-INTENCIÓN A MATERIA DURA - Swaruu de Erra – REACTOR DE ENERGIA PUNTO CERO](https://swaruu.org/transcripts/conversion-de-conciencia-intencion-a-materia-dura-swaruu-de-erra-reactor-de-energia-punto-cero) (2018-08-30; es); passages p0006, p0008, p0010, p0018. [Structured record](../../records/src-11de0477daf4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f77b50b543b2-c01
+
+Swaruu defines the Original Matrix as shared perceptual rules, while 3D is a deeper layer with additional imposed beliefs.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu: Matrix Original: Contacto Extraterrestre Pleyadiano (11)](https://swaruu.org/transcripts/swaruu-matrix-original-contacto-extraterrestre-pleyadiano-11) (2018-10-17; es); passages p0003, p0004, p0007, p0008, p0031, p0042. [Structured record](../../records/src-f77b50b543b2.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-f77b50b543b2-c02
+
+She says collective agreements let people interpret objects and time similarly; clocks synchronize shared time perception.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu: Matrix Original: Contacto Extraterrestre Pleyadiano (11)](https://swaruu.org/transcripts/swaruu-matrix-original-contacto-extraterrestre-pleyadiano-11) (2018-10-17; es); passages p0009, p0010. [Structured record](../../records/src-f77b50b543b2.json).
+
+Related topics: [Ship internal time](ship-internal-time.md).
+
+### src-f77b50b543b2-c04
+
+She says the Original Matrix evolves with individual perception yet is eternal from a broader perspective.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu: Matrix Original: Contacto Extraterrestre Pleyadiano (11)](https://swaruu.org/transcripts/swaruu-matrix-original-contacto-extraterrestre-pleyadiano-11) (2018-10-17; es); passages p0073, p0074. [Structured record](../../records/src-f77b50b543b2.json).
+
+### src-78a2f4005f35-c03
+
+Swaruu says consciousness sustains toroidal patterns that condense potential energy into matter; neglected forms dissipate.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL SOL Y LOS CODIGOS OCULTOS DEL CABAL](https://swaruu.org/transcripts/el-sol-y-los-codigos-ocultos-del-cabal) (2018-06-11; es); passages p0033, p0034, p0037. [Structured record](../../records/src-78a2f4005f35.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-78a2f4005f35-c04
+
+She defines dark matter as potential mass or energy outside 3D.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL SOL Y LOS CODIGOS OCULTOS DEL CABAL](https://swaruu.org/transcripts/el-sol-y-los-codigos-ocultos-del-cabal) (2018-06-11; es); passages p0008. [Structured record](../../records/src-78a2f4005f35.json).
+
+### src-78a2f4005f35-c05
+
+Swaruu calls 3D a copy of the initial 5D Matrix; attention sustains tulpas and material forms.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL SOL Y LOS CODIGOS OCULTOS DEL CABAL](https://swaruu.org/transcripts/el-sol-y-los-codigos-ocultos-del-cabal) (2018-06-11; es); passages p0033, p0036, p0040. [Structured record](../../records/src-78a2f4005f35.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Tulpas](tulpas.md).
+
+### src-caf216b09494-c05
+
+She says one all-inclusive Source contains everything, not separate positive and dark sources.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA FALSEDAD DE LA CIENCIA TERRESTRE-BAJO QUE PROPOSITO - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/la-falsedad-de-la-ciencia-terrestre-bajo-que-proposito-swaruu-sistema-taygeta-pleyades) (2018-07-21; es); passages p0025. [Structured record](../../records/src-caf216b09494.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bb4c17621e1a-c02](moon-matrix.md#src-bb4c17621e1a-c02) — Moon and terrestrial Matrix
@@ -309,26 +385,48 @@ Related topics: [Dimensional mirroring](dimensional-mirroring.md).
 - [src-b2a05f16c59d-c05](galactic-federation.md#src-b2a05f16c59d-c05) — Galactic Federation
 - [src-612967b691f8-c01](perceptual-density.md#src-612967b691f8-c01) — Perceptual density
 - [src-612967b691f8-c03](perceptual-density.md#src-612967b691f8-c03) — Perceptual density
+- [src-e60f3a4d18dd-c03](consciousness-metaphysics.md#src-e60f3a4d18dd-c03) — Consciousness and metaphysics
+- [src-f77b50b543b2-c03](consciousness-metaphysics.md#src-f77b50b543b2-c03) — Consciousness and metaphysics
+- [src-7d0050d7c04a-c01](consciousness-metaphysics.md#src-7d0050d7c04a-c01) — Consciousness and metaphysics
+- [src-7d0050d7c04a-c02](consciousness-metaphysics.md#src-7d0050d7c04a-c02) — Consciousness and metaphysics
+- [src-7d0050d7c04a-c03](consciousness-metaphysics.md#src-7d0050d7c04a-c03) — Consciousness and metaphysics
+- [src-cad14862cc58-c01](moon-matrix.md#src-cad14862cc58-c01) — Moon and terrestrial Matrix
+- [src-cad14862cc58-c04](moon-matrix.md#src-cad14862cc58-c04) — Moon and terrestrial Matrix
+- [src-4f5b82f333ba-c02](tulpas.md#src-4f5b82f333ba-c02) — Tulpas
+- [src-ce2d9650cd21-c04](black-goo.md#src-ce2d9650cd21-c04) — Black goo
+- [src-65d7f9508cf4-c01](consciousness-metaphysics.md#src-65d7f9508cf4-c01) — Consciousness and metaphysics
+- [src-46fa49e664e1-c03](tulpas.md#src-46fa49e664e1-c03) — Tulpas
+- [src-b24a05072ad7-c01](moon-matrix.md#src-b24a05072ad7-c01) — Moon and terrestrial Matrix
 
 ## Review flags
 
 - Claims describe Mari’s spiritual model of the Federation and reincarnation
+- Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
+- Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
 - agency\_and\_noninterference
+- archon-scope-is-broad
+- conspiracy-claims
 - conspiracy\_claims
+- contested-claims
+- cosmology-claims-attributed
 - entertainment-disclaimer
 - federation-authority-critique
 - historical-uncertainty
+- invasive-ai-claims-attributed
 - matrix-scope-differing-views
+- matrix-technology-attributed
 - matrix\_layers
 - medical-misinformation-allegation
 - metaphysical-model
 - metaphysical\_model
 - mirror-identity-varies
+- nonstandard-physics-claims
 - paranormal\_claims
 - personal\_metaphysics
 - speaker-perspective-model
 - speaker-shift-in-source
+- species-origin-model-attributed
 - translated-originally-Spanish
 - unverified\_historical\_claims
 - unverified\_physics\_claims

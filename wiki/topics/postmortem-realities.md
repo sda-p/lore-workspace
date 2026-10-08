@@ -784,6 +784,258 @@ Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
 
 Source: [On Souls and Entities, Life and Death from the point of view of a Spirit](https://swaruu.org/transcripts/on-souls-and-entities-life-and-death-from-the-point-of-view-of-a-spirit) (2024-05-16; en); passages p0017, p0018, p0019. [Structured record](../../records/src-af94d1557c05.json).
 
+### src-63234070a0cd-c01
+
+Swaruu says Taygetans have no homosexuals and offers soul/body mismatch or depopulation agendas as explanations for Earth same-sex orientation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu y Homosexualidad en 5D: EXISTE? (Mensaje Extraterrestre Pleyadiano (20)](https://swaruu.org/transcripts/swaruu-y-homosexualidad-en-5d-existe-mensaje-extraterrestre-pleyadiano-20) (2019-02-22; es); passages p0003, p0005, p0006. [Structured record](../../records/src-63234070a0cd.json).
+
+Related topics: [Soulmates](soulmates.md).
+
+### src-63234070a0cd-c02
+
+She says souls may be intercepted by archons or return voluntarily under karmic beliefs, with gender preferences shaping future embodiment.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu y Homosexualidad en 5D: EXISTE? (Mensaje Extraterrestre Pleyadiano (20)](https://swaruu.org/transcripts/swaruu-y-homosexualidad-en-5d-existe-mensaje-extraterrestre-pleyadiano-20) (2019-02-22; es); passages p0010, p0011. [Structured record](../../records/src-63234070a0cd.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-63234070a0cd-c03
+
+She says orientation does not bar ascension; she speculates people may choose a preferred gender in future lives while remaining homosexual in their current bodies.
+
+Attributed to **Swaruu**; speculative; extraction confidence: high.
+
+Source: [Swaruu y Homosexualidad en 5D: EXISTE? (Mensaje Extraterrestre Pleyadiano (20)](https://swaruu.org/transcripts/swaruu-y-homosexualidad-en-5d-existe-mensaje-extraterrestre-pleyadiano-20) (2019-02-22; es); passages p0018, p0021, p0023, p0024, p0025. [Structured record](../../records/src-63234070a0cd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2c208260f578-c02
+
+The afterlife manifests experiences immediately; attention shifts among them without a single density.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra: Familias y Entrevidas (Mensaje Extraterrestre Pleyadiano) (13)](https://swaruu.org/transcripts/swaruu-de-erra-familias-y-entrevidas-mensaje-extraterrestre-pleyadiano-13) (2018-11-10; es); passages p0025, p0027. [Structured record](../../records/src-2c208260f578.json).
+
+### src-2c208260f578-c03
+
+Reunions after death depend on mutual desire; presence manifests immediately.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra: Familias y Entrevidas (Mensaje Extraterrestre Pleyadiano) (13)](https://swaruu.org/transcripts/swaruu-de-erra-familias-y-entrevidas-mensaje-extraterrestre-pleyadiano-13) (2018-11-10; es); passages p0048, p0049, p0050. [Structured record](../../records/src-2c208260f578.json).
+
+### src-e260e25670b5-c01
+
+Swaruu describes a soul as a Source fractal that accumulates life experience and retains identity after death. Gender is not inherent.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ALMA: Que Es? Swaruu de Erra (Taygeta-Pleyades): Mensaje Extraterrestre](https://swaruu.org/transcripts/alma-que-es-swaruu-de-erra-taygeta-pleyades-mensaje-extraterrestre) (2019-04-22; es); passages p0003, p0005, p0006. [Structured record](../../records/src-e260e25670b5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e260e25670b5-c02
+
+Swaruu says each soul manifests its afterlife by frequency and beliefs; unresolved guilt or resentment can prompt reincarnation. No guardian is needed.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ALMA: Que Es? Swaruu de Erra (Taygeta-Pleyades): Mensaje Extraterrestre](https://swaruu.org/transcripts/alma-que-es-swaruu-de-erra-taygeta-pleyades-mensaje-extraterrestre) (2019-04-22; es); passages p0021, p0035, p0037, p0038, p0039. [Structured record](../../records/src-e260e25670b5.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-e260e25670b5-c04
+
+Swaruu says sleep shifts soul attention to higher realms for rest; dreams are self-manifested realities where thoughts appear faster.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ALMA: Que Es? Swaruu de Erra (Taygeta-Pleyades): Mensaje Extraterrestre](https://swaruu.org/transcripts/alma-que-es-swaruu-de-erra-taygeta-pleyades-mensaje-extraterrestre) (2019-04-22; es); passages p0107, p0109, p0111, p0120, p0126, p0127. [Structured record](../../records/src-e260e25670b5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0b358e77a59f-c04
+
+She says astral escape depends on personal frequency; only sufficiently advanced admas escape after death. Conditional threshold.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [NUNCA FUIMOS A LA LUNA - BANDAS VAN ALLEN -SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-bandas-van-allen-swaruu-de-erra-sistema-taygeta-pleyades) (2018-08-11; es); passages p0045, p0046. [Structured record](../../records/src-0b358e77a59f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4c19a3a319ec-c04
+
+Robert says postmortem reincarnation needs no external soul-trap: carried beliefs draw souls back, so ideas should change during physical life. His account.
+
+Attributed to **Robert**; asserted; extraction confidence: high.
+
+Source: [TECNOLOGIA EXTRATERRESTRE BASADA EN LA CONCIENCIA - SWARUU](https://swaruu.org/transcripts/tecnologia-extraterrestre-basada-en-la-conciencia-swaruu) (2019-02-15; es); passages p0009. [Structured record](../../records/src-4c19a3a319ec.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-46fa49e664e1-c04
+
+She says beliefs and values prompt souls to reincarnate; no external afterlife trap is needed. Her account.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [ARCONTES - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/arcontes-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-28; es); passages p0022, p0023, p0024. [Structured record](../../records/src-46fa49e664e1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4e3d013dc4c3-c03
+
+She says 4D-and-higher consensus treats death as bodily only; consciousness may exit when pain crosses a pre-incarnation threshold. Her account of that consensus.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [EL MIEDO PRIMORDIAL - RAZA TAYGETEANA DE LAS PLEYADES](https://swaruu.org/transcripts/el-miedo-primordial-raza-taygeteana-de-las-pleyades) (2018-06-17; es); passages p0019, p0020. [Structured record](../../records/src-4e3d013dc4c3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4e3d013dc4c3-c04
+
+She says souls choose between-life exit points; the 3D ego is a finite traumatized persona, distinct from the enduring self. Her cosmology.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL MIEDO PRIMORDIAL - RAZA TAYGETEANA DE LAS PLEYADES](https://swaruu.org/transcripts/el-miedo-primordial-raza-taygeteana-de-las-pleyades) (2018-06-17; es); passages p0015, p0021. [Structured record](../../records/src-4e3d013dc4c3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4d31d71233c1-c04
+
+She says belief and attention shape postmortem experience and possible reincarnation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra: Trampa del KARMA (Mensaje Extraterrestre Pleyadiano de Taygeta) (15)](https://swaruu.org/transcripts/swaruu-de-erra-trampa-del-karma-mensaje-extraterrestre-pleyadiano-de-taygeta-15) (2018-11-26; es); passages p0078, p0079. [Structured record](../../records/src-4d31d71233c1.json).
+
+### src-4d31d71233c1-c05
+
+She says clear intent can let a soul refuse reincarnation and leave the Matrix.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu de Erra: Trampa del KARMA (Mensaje Extraterrestre Pleyadiano de Taygeta) (15)](https://swaruu.org/transcripts/swaruu-de-erra-trampa-del-karma-mensaje-extraterrestre-pleyadiano-de-taygeta-15) (2018-11-26; es); passages p0042, p0043. [Structured record](../../records/src-4d31d71233c1.json).
+
+### src-b24a05072ad7-c04
+
+She claims Reptiles intercept the dead in lower astral or 4D, invoke karma, and compel reincarnation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [El ¨Hackeo Reptiliano¨ de la Matrix y Control Mental: Contacto Pleyadiano (Swaruu) (10)](https://swaruu.org/transcripts/el-hackeo-reptiliano-de-la-matrix-y-control-mental-contacto-pleyadiano-swaruu-10) (2018-10-14; es); passages p0038. [Structured record](../../records/src-b24a05072ad7.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-0f3bd493959e-c01
+
+Náhást’Éí describes spirit realms as frequency ranges; consciousness determines where each spirit dwells.
+
+Attributed to **Náhást’Éí**; asserted; extraction confidence: high.
+
+Source: [La Historia Oculta del Mundo de los Espiritus](https://swaruu.org/transcripts/la-historia-oculta-del-mundo-de-los-espiritus) (2018-11-13; es); passages p0004, p0024. [Structured record](../../records/src-0f3bd493959e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Perceptual density](perceptual-density.md).
+
+### src-0f3bd493959e-c02
+
+The dead retain identity; material beliefs and attachments may keep them as ghosts.
+
+Attributed to **Náhást’Éí**; asserted; extraction confidence: high.
+
+Source: [La Historia Oculta del Mundo de los Espiritus](https://swaruu.org/transcripts/la-historia-oculta-del-mundo-de-los-espiritus) (2018-11-13; es); passages p0005, p0006. [Structured record](../../records/src-0f3bd493959e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0f3bd493959e-c03
+
+She cannot verify archon traps, saying Matrix mind control can prompt voluntary reincarnation.
+
+Attributed to **Náhást’Éí**; speculative; extraction confidence: high.
+
+Source: [La Historia Oculta del Mundo de los Espiritus](https://swaruu.org/transcripts/la-historia-oculta-del-mundo-de-los-espiritus) (2018-11-13; es); passages p0007, p0008. [Structured record](../../records/src-0f3bd493959e.json).
+
+Related topics: [Archons and demons](archons-and-demons.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-0f3bd493959e-c04
+
+Without linear time or space, spirits can contact loved ones after they reincarnate.
+
+Attributed to **Náhást’Éí**; asserted; extraction confidence: high.
+
+Source: [La Historia Oculta del Mundo de los Espiritus](https://swaruu.org/transcripts/la-historia-oculta-del-mundo-de-los-espiritus) (2018-11-13; es); passages p0022, p0026. [Structured record](../../records/src-0f3bd493959e.json).
+
+Related topics: [Soulmates](soulmates.md).
+
+### src-0f3bd493959e-c05
+
+Dreaming temporarily returns a person to spirit form, where thoughts shape experience.
+
+Attributed to **Náhást’Éí**; asserted; extraction confidence: high.
+
+Source: [La Historia Oculta del Mundo de los Espiritus](https://swaruu.org/transcripts/la-historia-oculta-del-mundo-de-los-espiritus) (2018-11-13; es); passages p0028. [Structured record](../../records/src-0f3bd493959e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0f3bd493959e-c06
+
+She says spirits can free themselves through introspection, forgiveness, and belief in their freedom.
+
+Attributed to **Náhást’Éí**; asserted; extraction confidence: high.
+
+Source: [La Historia Oculta del Mundo de los Espiritus](https://swaruu.org/transcripts/la-historia-oculta-del-mundo-de-los-espiritus) (2018-11-13; es); passages p0015. [Structured record](../../records/src-0f3bd493959e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-35a4804aef6f-c01
+
+Swaruu says death by suicide is not externally punished; a person may self-punish after death.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL SUICIDIO - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/el-suicidio-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-18; es); passages p0007, p0008. [Structured record](../../records/src-35a4804aef6f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-35a4804aef6f-c02
+
+She says unresolved psychological pain can prompt spirits to re-enter the same life, like replaying a challenge.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL SUICIDIO - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/el-suicidio-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-18; es); passages p0005, p0009. [Structured record](../../records/src-35a4804aef6f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-35a4804aef6f-c03
+
+Swaruu doubts detectable archon interference, attributing reincarnation to Matrix beliefs, but does not rule it out.
+
+Attributed to **Swaruu (9)**; speculative; extraction confidence: high.
+
+Source: [EL SUICIDIO - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/el-suicidio-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-18; es); passages p0010, p0011, p0013. [Structured record](../../records/src-35a4804aef6f.json).
+
+Related topics: [Archons and demons](archons-and-demons.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-35a4804aef6f-c04
+
+She describes baptism, work, and debt as soul-binding contracts that personal responsibility can revoke.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EL SUICIDIO - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/el-suicidio-swaruu-de-la-raza-taygeteana-de-las-pleyades) (2018-06-18; es); passages p0014, p0016, p0018. [Structured record](../../records/src-35a4804aef6f.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c01](consciousness-metaphysics.md#src-331beeab2088-c01) — Consciousness and metaphysics
@@ -811,18 +1063,33 @@ Source: [On Souls and Entities, Life and Death from the point of view of a Spiri
 - [src-38b07e39e45a-c04](taygetans.md#src-38b07e39e45a-c04) — Taygetans
 - [src-12122c9c7bda-c03](dimensional-mirroring.md#src-12122c9c7bda-c03) — Dimensional mirroring
 - [src-9947bada3803-c02](consciousness-metaphysics.md#src-9947bada3803-c02) — Consciousness and metaphysics
+- [src-01318b2e6aaa-c01](artificial-intelligence.md#src-01318b2e6aaa-c01) — Artificial intelligence
+- [src-01318b2e6aaa-c02](artificial-intelligence.md#src-01318b2e6aaa-c02) — Artificial intelligence
+- [src-28c3fd0534dc-c04](taygetans.md#src-28c3fd0534dc-c04) — Taygetans
+- [src-e260e25670b5-c03](consciousness-metaphysics.md#src-e260e25670b5-c03) — Consciousness and metaphysics
+- [src-4e3d013dc4c3-c01](astrotheology.md#src-4e3d013dc4c3-c01) — Astrotheology
+- [src-35a4804aef6f-c05](moon-matrix.md#src-35a4804aef6f-c05) — Moon and terrestrial Matrix
 
 ## Review flags
 
+- Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Federation-arguments\_reported
 - Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
+- afterlife-model-attributed
 - agenda\_term\_varies
+- apollo-denial-claims
+- archon-scope-is-broad
 - astral-warfare-claims-unverified
+- attributed-reproductive-lore
 - author-personal-philosophical-analysis
+- discriminatory-sexuality-theory-attributed-to-speaker
+- english-counterpart-adds-july-2020-suicide-discussion
 - entertainment-disclaimer
 - gender-reincarnation\_views\_attributed
 - gender\_role\_generalization
+- historical-doctrine-origin-claim
+- incarnation-afterlife-metaphysics
 - metaphysical-claims\_attributed
 - metaphysical-model
 - metaphysical-model\_attributed
@@ -836,6 +1103,7 @@ Source: [On Souls and Entities, Life and Death from the point of view of a Spiri
 - reported-claims\_by\_Ari
 - rescue-anecdotes-unverified
 - speaker-shift-in-source
+- translation-counterpart-src-77b565b0b608-shared-2018-section
 - unverified\_biological\_claims
 - unverified\_paranormal\_claims
 - vision-narrative\_attributed

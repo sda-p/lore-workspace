@@ -106,20 +106,64 @@ Attributed to **Gosia**; reported; extraction confidence: medium.
 
 Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0037, p0038, p0039. [Structured record](../../records/src-c1f323f128a9.json).
 
+### src-bebc8e2161ed-c01
+
+Swaruu identifies Phaethon/Alfrata as the inhabited temperate planet in Alpha Centauri A; nearby Phainon and Pyroies host colonies and facilities.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (6) - CENTAURI (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-6-centauri-mensaje-pleyadiano-taygeta) (2019-07-15; es); passages p0002. [Structured record](../../records/src-bebc8e2161ed.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-bebc8e2161ed-c02
+
+She says Draco groups invaded Phaethon, destroyed its original Lyrian population, and used humans—mostly abducted from Earth—as livestock. She allows possible Lyrian survivors.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (6) - CENTAURI (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-6-centauri-mensaje-pleyadiano-taygeta) (2019-07-15; es); passages p0003, p0004, p0006, p0008. [Structured record](../../records/src-bebc8e2161ed.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-bebc8e2161ed-c03
+
+Swaruu says Federation forces liberated Phaethon around 1560–1570, bypassing the Prime Directive because it was an openly exploitative farm and most residents wanted liberation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (6) - CENTAURI (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-6-centauri-mensaje-pleyadiano-taygeta) (2019-07-15; es); passages p0014, p0017, p0019, p0023. [Structured record](../../records/src-bebc8e2161ed.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Prime Directive](prime-directive.md).
+
+### src-bebc8e2161ed-c04
+
+She says Federation mentors helped survivors build a society that later became independent and joined the Federation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [RAZAS EXTRATERRESTRES en 5D (6) - CENTAURI (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-6-centauri-mensaje-pleyadiano-taygeta) (2019-07-15; es); passages p0025, p0026. [Structured record](../../records/src-bebc8e2161ed.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Holistic society](holistic-society.md).
+
 ## Claims filed under other topics
 
 - [src-19300029508e-c05](urmah.md#src-19300029508e-c05) — Urmah
 - [src-531b0e9f06bf-c02](galactic-federation.md#src-531b0e9f06bf-c02) — Galactic Federation
 - [src-a536d40b8707-c02](galactic-federation.md#src-a536d40b8707-c02) — Galactic Federation
+- [src-6a1113ff029c-c05](centaurians.md#src-6a1113ff029c-c05) — Centaurians
+- [src-a62abe01768e-c01](alien-species.md#src-a62abe01768e-c01) — Alien species and distinctions
 
 ## Review flags
 
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
 - Species summaries are broad and based on accounts attributed to orbital sources
+- biology-claim
 - black-knight-loss-details-provisional
 - eclipse-portal-claims-unverified
 - fence-control-theory-unconfirmed
+- humanomorph-is-source-specific-term
 - personal-childhood-anecdote
 - secondhand-fleet-reports
 - unverified-eclipse-portal-theory

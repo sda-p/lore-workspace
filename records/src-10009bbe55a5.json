@@ -1,0 +1,118 @@
+{
+  "source_id": "src-10009bbe55a5",
+  "snapshot_sha256": "28a49bd295cdcba652e22f8d467918c7a94fa5343f164ae28902b451499f412c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-10009bbe55a5-c01",
+      "assertion": "Earth humans are low-density Lyrian alterations hosting many star lineages, Swaruu says.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "starseeds",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10009bbe55a5-c02",
+      "assertion": "She says the Federation created 3D as a limited range of perceived frequencies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10009bbe55a5-c03",
+      "assertion": "Each real person has a separate timeline; outsiders have no right to impose their will.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10009bbe55a5-c04",
+      "assertion": "Souls loop through varied incarnations until releasing fixation on correcting past failures.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10009bbe55a5-c05",
+      "assertion": "Taygetan identical twins share one soul; Earth’s memory veil can split them into separate attention points.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starseeds",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-10009bbe55a5-c06",
+      "assertion": "Most 5D beings recall about three prior lives; ascension occurs individually.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Swaruu says memory varies by person."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "human-origin-model"
+  ],
+  "coverage_gaps": [
+    "twin-soul-mechanism",
+    "afterlife-attention",
+    "coma-experience"
+  ]
+}

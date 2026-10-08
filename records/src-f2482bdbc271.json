@@ -1,0 +1,108 @@
+{
+  "source_id": "src-f2482bdbc271",
+  "snapshot_sha256": "2de1956abcb39da947fd84891d1112e8ca4b881d51112f131a078e42c5d8505c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f2482bdbc271-c01",
+      "assertion": "Swaruu says Federation leaders seek to perpetuate Earth’s 3D system, reorganizing its assets and challenges.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2482bdbc271-c02",
+      "assertion": "She defines density as a state of being shaped by personal beliefs, not a planetary transition.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0035"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2482bdbc271-c03",
+      "assertion": "Swaruu says starseed guides remind incarnated people they can leave Earth for other experiences.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0047",
+        "p0049",
+        "p0057"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2482bdbc271-c04",
+      "assertion": "She says Federation outcomes follow collective wishes, while some starseeds act independently to help people choose.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0051",
+        "p0055"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2482bdbc271-c05",
+      "assertion": "Swaruu describes freedom as retaining one’s essence while choosing, controlling, or leaving experiential “jails.”",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0063",
+        "p0065",
+        "p0067"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "federation-purpose-vs-collective-choice-tension",
+    "density-transition-vs-personal-state"
+  ],
+  "coverage_gaps": [
+    "transhumanist-control-scenario",
+    "individual-exit-paths"
+  ]
+}

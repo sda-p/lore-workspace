@@ -1,0 +1,74 @@
+{
+  "source_id": "src-d96ec8429f2c",
+  "snapshot_sha256": "fd0498f1684bc3abda5e9a73bb645c80dd4755164a888faf51af9699fa7439a2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d96ec8429f2c-c01",
+      "assertion": "Anéeka contrasts Swaruu 9’s readiness to fight directly with Yázhi’s reliance on mind and perception to resolve conflict.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Anéeka says Swaruu 9 was changing."
+    },
+    {
+      "id": "src-d96ec8429f2c-c02",
+      "assertion": "Yázhi defines densities as personal perception and understanding, contrasting Swaruu 9’s model of fixed 3D–5D layers.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0041",
+        "p0042",
+        "p0045"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She rejects universal numerical levels."
+    },
+    {
+      "id": "src-d96ec8429f2c-c03",
+      "assertion": "Yázhi says shared beliefs can alter a collective timeline; Swaruu 9 held that time jumps change only the traveler’s branch.",
+      "speaker": "Yázhi",
+      "paragraph_ids": [
+        "p0054",
+        "p0055",
+        "p0056",
+        "p0063",
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Yázhi presents this as her reinterpretation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Different-models-of-time-and-density-are-explicitly-contrasted"
+  ],
+  "coverage_gaps": [
+    "biographical-details",
+    "immersion-and-sleep-habits"
+  ]
+}

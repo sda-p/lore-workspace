@@ -1,0 +1,93 @@
+{
+  "source_id": "src-ab81c3f220ab",
+  "snapshot_sha256": "5a28f8ed743cc70ebd47644bff059b56c7d2b26d1339b506105675f3133cf270",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ab81c3f220ab-c01",
+      "assertion": "Rashell says the Federation used a Pentagon radio-frequency message to arrange an Edwards AFB meeting with Eisenhower on February 18, 1954.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "rashell-eisenhower-contact",
+      "topics": [
+        "rashell-eisenhower-contact",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab81c3f220ab-c02",
+      "assertion": "She offered free Taygetan energy, reactors, and electrical transmission in exchange for total nuclear disarmament; Eisenhower refused, citing Soviet advantage.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "rashell-eisenhower-contact",
+      "topics": [
+        "rashell-eisenhower-contact",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab81c3f220ab-c03",
+      "assertion": "Rashell says association with Vril undermined negotiations; a Taygetan operation sought to disrupt Nazi nuclear and saucer-craft programs.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0030",
+        "p0034"
+      ],
+      "primary_topic": "rashell-eisenhower-contact",
+      "topics": [
+        "rashell-eisenhower-contact",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab81c3f220ab-c04",
+      "assertion": "She says Maitré offered destructive technology for human and animal access, later demanding bases for missing components; diplomacy with the US government ended.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "rashell-eisenhower-contact"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "rashell-eisenhower-contact",
+      "name": "Rashell–Eisenhower Contact",
+      "kind": "historical-event",
+      "aliases": [
+        "Edwards Air Force Base meeting",
+        "contact with Eisenhower"
+      ]
+    }
+  ],
+  "review_flags": [
+    "historical-contact-attributed"
+  ],
+  "coverage_gaps": [
+    "antarctic-bases",
+    "reptile-maitre-relations"
+  ]
+}

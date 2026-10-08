@@ -1,0 +1,109 @@
+{
+  "source_id": "src-19222374970c",
+  "snapshot_sha256": "a7c814361da17c10195040dab2ae1ff04744ac5e8f6dc922e212ed14553f3f50",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-19222374970c-c01",
+      "assertion": "Yazhi says one Source appears as all beings; each person is observer and creator, with limitation defining its opposite.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0016",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19222374970c-c02",
+      "assertion": "Self-love integrates opposing perspectives; she says this dissolves fear and conflict.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19222374970c-c03",
+      "assertion": "Yazhi says she can mentally reshape her body or project without one because it is an idea.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19222374970c-c04",
+      "assertion": "She says discarnate souls retain Matrix beliefs and may plan lives from limited awareness; 3D effort builds the soul.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0109",
+        "p0115",
+        "p0116",
+        "p0129",
+        "p0133"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-19222374970c-c05",
+      "assertion": "Yazhi says suffering is unnecessary; understanding alone can transcend it without prolonged incarnation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0049",
+        "p0050",
+        "p0052",
+        "p0055",
+        "p0071",
+        "p0072"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "perspective-variation"
+  ],
+  "coverage_gaps": [
+    "cosmological-levels",
+    "multiple-points-of-view",
+    "incarnation-planning"
+  ]
+}

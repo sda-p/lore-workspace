@@ -390,6 +390,7 @@ Related topics: [Taygetans](taygetans.md), [Perceptual density](perceptual-densi
 - [src-c1a25429c797-c03](project-second-contact.md#src-c1a25429c797-c03) — Project Second Contact
 - [src-234bba72765f-c01](orion-council.md#src-234bba72765f-c01) — Orion Council
 - [src-234bba72765f-c03](starship-systems.md#src-234bba72765f-c03) — Starship systems
+- [src-17057e78d90e-c03](atlantes.md#src-17057e78d90e-c03) — Atlantes
 
 ## Review flags
 

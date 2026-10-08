@@ -44,6 +44,60 @@ Attributed to **Anéeka**; reported; extraction confidence: medium.
 
 Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0020, p0021. [Structured record](../../records/src-cdc00e8b66c4.json).
 
+### src-d91884cf2930-c01
+
+Swaruu says most ships use controlled-gravity tractor beams to move cargo or pull and push large objects.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra-Navegacion Estelar 2 (Gravedad, Rayos Tractor, Creacion de Energia de Materia)](https://swaruu.org/transcripts/swaruu-de-erra-navegacion-estelar-2-gravedad-rayos-tractor-creacion-de-energia-de-materia) (2019-09-26; es); passages p0007, p0009. [Structured record](../../records/src-d91884cf2930.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d91884cf2930-c02
+
+She describes a counter-rotating, mercury-filled sphere turbine generating an electromagnetic vortex, shaped by holographic lenses and nano-electromagnets.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra-Navegacion Estelar 2 (Gravedad, Rayos Tractor, Creacion de Energia de Materia)](https://swaruu.org/transcripts/swaruu-de-erra-navegacion-estelar-2-gravedad-rayos-tractor-creacion-de-energia-de-materia) (2019-09-26; es); passages p0007, p0008, p0009, p0010. [Structured record](../../records/src-d91884cf2930.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-d91884cf2930-c03
+
+Swaruu says the beam can project forms or create solid matter and event sequences from energy; created objects persist after beam withdrawal.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Swaruu de Erra-Navegacion Estelar 2 (Gravedad, Rayos Tractor, Creacion de Energia de Materia)](https://swaruu.org/transcripts/swaruu-de-erra-navegacion-estelar-2-gravedad-rayos-tractor-creacion-de-energia-de-materia) (2019-09-26; es); passages p0011, p0013, p0014, p0015. [Structured record](../../records/src-d91884cf2930.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-68f35a90f3f7-c02
+
+Tractor beams use counter-rotating mercury turbines to generate controlled gravity for moving objects.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Naves Extraterrestres](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-circulos-de-las-cosechas-naves-extraterrestres) (2019-08-30; es); passages p0007, p0010, p0011. [Structured record](../../records/src-68f35a90f3f7.json).
+
+### src-68f35a90f3f7-c03
+
+Holographic lenses and nano-electromagnets shape beams that can project or manifest solid objects.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Naves Extraterrestres](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-circulos-de-las-cosechas-naves-extraterrestres) (2019-08-30; es); passages p0013, p0015, p0016. [Structured record](../../records/src-68f35a90f3f7.json).
+
+### src-68f35a90f3f7-c04
+
+She says tractor beams create crop circles by restructuring stalk frequencies, leaving weak, harmless radiation.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Naves Extraterrestres](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-circulos-de-las-cosechas-naves-extraterrestres) (2019-08-30; es); passages p0021, p0022, p0023. [Structured record](../../records/src-68f35a90f3f7.json).
+
 ## Claims filed under other topics
 
 - [src-cb6267c7760f-c04](starship-systems.md#src-cb6267c7760f-c04) — Starship systems
@@ -51,6 +105,7 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - [src-2bca495f8f63-c02](natural-portals.md#src-2bca495f8f63-c02) — Natural and artificial portals
 - [src-2bca495f8f63-c03](natural-portals.md#src-2bca495f8f63-c03) — Natural and artificial portals
 - [src-756f10136c06-c05](natural-portals.md#src-756f10136c06-c05) — Natural and artificial portals
+- [src-e15992dcfa52-c03](crop-circles.md#src-e15992dcfa52-c03) — Crop circles
 
 ## Review flags
 
@@ -61,5 +116,6 @@ Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceshi
 - metaphysical-claims
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker\_attribution
+- tractor-beam-technology-attributed
 - translated-from-Spanish-original-not-available
 - unverified\_extraterrestrial\_claims

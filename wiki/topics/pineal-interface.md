@@ -74,10 +74,22 @@ Source: [CLASS 005 - Body or Soul - Who Are You? What Makes You "You"? Are you C
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-08eb04ce1eff-c01
+
+Pineal atrophy causes death and senility; Swaruu calls the gland a soul-body modem.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE DE LAS PLEYADES - ESTRELLA TAYGETA - SWARUU - ANEEKA](https://swaruu.org/transcripts/contacto-extraterrestre-de-las-pleyades-estrella-taygeta-swaruu-aneeka) (2018-11-28; es); passages p0004. [Structured record](../../records/src-08eb04ce1eff.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-a4e838c75ab3-c04](starship-systems.md#src-a4e838c75ab3-c04) — Starship systems
 
 ## Review flags
 
+- nonstandard-biology-claims
+- simulation-and-AI-claims
 - unverified\_technology\_claims

@@ -1,0 +1,43 @@
+{
+  "source_id": "src-3f4799b0281c",
+  "snapshot_sha256": "c4f8c6ae1d11c6962d8a7effe16abb62724d523d5645ed20ea6ccc97aa951617",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3f4799b0281c-c01",
+      "assertion": "Swaruu says Venus's visible 3D image is filtered; in 5D it is a temperate tropical ocean world, averaging 30°C, with abundant life and better oxygen than Earth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0002", "p0003", "p0004", "p0008"],
+      "primary_topic": "venus",
+      "topics": ["venus", "perceptual-density", "taygetan-ecosystems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model."
+    },
+    {
+      "id": "src-3f4799b0281c-c02",
+      "assertion": "She describes Venusians as humanlike, spiritually advanced but technologically less developed; their general population reportedly does not know Earth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0005", "p0009", "p0011"],
+      "primary_topic": "venus",
+      "topics": ["venus", "alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-3f4799b0281c-c03",
+      "assertion": "Anéeka says over 80% of species, plants, and animals match between Venus and Earth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0013", "p0014"],
+      "primary_topic": "venus",
+      "topics": ["venus", "taygetan-ecosystems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her comparison."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["venus-habitable-world-model"],
+  "coverage_gaps": ["earth-lyrian-genetics-claim", "reptilian-hunt-claim"]
+}

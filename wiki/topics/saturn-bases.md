@@ -32,8 +32,10 @@ Related topics: [Galactic Federation](galactic-federation.md).
 
 - [src-fe82d1a07961-c02](galactic-federation.md#src-fe82d1a07961-c02) — Galactic Federation
 - [src-3ab615820cb8-c02](galactic-federation.md#src-3ab615820cb8-c02) — Galactic Federation
+- [src-40614df19d52-c03](astrotheology.md#src-40614df19d52-c03) — Astrotheology
 
 ## Review flags
 
 - broad-exopolitical-allegations
+- pluto-classification-esoteric-claim
 - unverified-contact-claims

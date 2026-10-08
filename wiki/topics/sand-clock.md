@@ -28,12 +28,42 @@ Source: [Interstellar Life 6A - Taygetan Pleiadian Special Fighter Crafts - Yazh
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-3282c3b2176d-c03
+
+Dhor says only the elite Sand Clock squad uses timeline-travel ships, unlike most of Taygeta’s fleet.
+
+Attributed to **Dhor Káal’el**; asserted; extraction confidence: high.
+
+Source: [Directos con Dhor Káal'el: Piloto Pleyadiano Taygeteano en la Orbita de la Tierra](https://swaruu.org/transcripts/directos-con-dhor-kaal-el-piloto-pleyadiano-taygeteano-en-la-orbita-de-la-tierra) (2019-11-30; es); passages p0052, p0053. [Structured record](../../records/src-3282c3b2176d.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-bbad8c4053ab-c01
+
+Swaruu says Taygeta’s Sand Clock time-travel squad admits only highly ethical members, follows the Prime Directive, and undertakes important missions despite temporal risks.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Swaruu: Navegacion Estelar 1: PREGUNTAS (Contacto Extraterrestre)](https://swaruu.org/transcripts/swaruu-navegacion-estelar-1-preguntas-contacto-extraterrestre) (2018-11-05; es); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-bbad8c4053ab.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-42f818598b56-c04
+
+Two Sand Clock crews traveled from 1952 to 1937 to disrupt Nazi nuclear research, partly succeeding.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [Nosotras Somos las Chicas de Sociedad Vril: Mensaje Pleyadiano (Rashell de Temmer)](https://swaruu.org/transcripts/nosotras-somos-las-chicas-de-sociedad-vril-mensaje-pleyadiano-rashell-de-temmer) (2019-01-24; es); passages p0053, p0058, p0060, p0062. [Structured record](../../records/src-42f818598b56.json).
+
 ## Claims filed under other topics
 
 - [src-4f2bc7f73ac1-c01](frequency-map-navigation.md#src-4f2bc7f73ac1-c01) — Frequency-map navigation
 - [src-4f2bc7f73ac1-c02](frequency-map-navigation.md#src-4f2bc7f73ac1-c02) — Frequency-map navigation
+- [src-e15992dcfa52-c02](crop-circles.md#src-e15992dcfa52-c02) — Crop circles
 
 ## Review flags
 
+- Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - contested\_historical\_claims
 - time\_travel\_lore

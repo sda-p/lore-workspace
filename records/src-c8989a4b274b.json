@@ -1,0 +1,95 @@
+{
+  "source_id": "src-c8989a4b274b",
+  "snapshot_sha256": "568c713aab72ed1e3d480c4cf5120b3076cea7279a5da62b06e8a58c1c4c0709",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c8989a4b274b-c01",
+      "assertion": "Swaruu says black goo is partly pressure-crystallized petroleum; it alters DNA, aiding compatibility with dark entities and AI.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "dna-metaphysics",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c8989a4b274b-c02",
+      "assertion": "She claims the Falklands War targeted local black-goo deposits before Andromedans could remove contamination; that was not the whole cause.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "andromedans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c8989a4b274b-c03",
+      "assertion": "She alleges transnational Cabal actors seek water deposits for privatization; lake water is shipped to China for chipmaking.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c8989a4b274b-c04",
+      "assertion": "Subglacial Antarctic lakes hold fresh water but unfamiliar organisms, making drinking it inadvisable, Swaruu says.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "andromedans",
+      "name": "Andromedans",
+      "kind": "species",
+      "aliases": [
+        "Andromedan"
+      ]
+    }
+  ],
+  "review_flags": [
+    "contested-claims",
+    "conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "lunar-landing-claims",
+    "5d-perception"
+  ]
+}

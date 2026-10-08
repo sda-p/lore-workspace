@@ -1,0 +1,84 @@
+{
+  "source_id": "src-775d18ade5d9",
+  "snapshot_sha256": "48a380c52bc539daf23c2d7b0aef4f335e0ff4ae6b0daaec2b12556951bf4148",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-775d18ade5d9-c01",
+      "assertion": "Swaruu says some ships are genetically engineered, living organisms, including squid-like forms.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-775d18ade5d9-c02",
+      "assertion": "She describes Taygetan ships as conscious persons with mental crew interfaces and limited self-repair using polymorphic alloys.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-775d18ade5d9-c03",
+      "assertion": "Swaruu says Taygetan Temporal Command trains top fighter pilots to alter timelines strategically; she claims repeated jumps accumulated thousands of years.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "timeline-branching",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Suzy AI retains the jump records."
+    },
+    {
+      "id": "src-775d18ade5d9-c04",
+      "assertion": "She describes Earth's futures as many shifting probabilities shaped by each person's intention and perception, not a fixed collective destiny.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0093",
+        "p0094",
+        "p0095"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "collective-timeline-influence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "temporal-lore-attributed"
+  ],
+  "coverage_gaps": [
+    "karma-system",
+    "species-lifespan"
+  ]
+}

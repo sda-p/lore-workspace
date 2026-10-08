@@ -1,0 +1,65 @@
+{
+  "source_id": "src-c6659bce620e",
+  "snapshot_sha256": "0498a284c8ceffcda83a7ae4c34c2c5369712873017ada0f80499fd982f010ef",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c6659bce620e-c01",
+      "assertion": "Swaruu says helping is a personal choice, not an assigned mission; she advises helpers to stop when it harms them.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0012",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes this as her perspective."
+    },
+    {
+      "id": "src-c6659bce620e-c02",
+      "assertion": "Yazhí says positive nonhuman races serve as guides and teachers; the work of learning remains with humans.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0113",
+        "p0128",
+        "p0129"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She compares intervention to solving a student’s exam."
+    },
+    {
+      "id": "src-c6659bce620e-c03",
+      "assertion": "Yazhí says nearly all biological incarnations occur in 5D rather than 3D; 3D offers a different set of experiences.",
+      "speaker": "Yazhí",
+      "paragraph_ids": [
+        "p0120",
+        "p0123"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames this as a broad tendency."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "identity-metaphysics",
+    "helping-ethics"
+  ]
+}

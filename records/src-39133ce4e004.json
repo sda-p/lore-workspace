@@ -1,0 +1,51 @@
+{
+  "source_id": "src-39133ce4e004",
+  "snapshot_sha256": "3fdf060867d27af408ffc052dadbc0fa33e491a7d2c6816f065a73aac1351e61",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-39133ce4e004-c01",
+      "assertion": "Anéeka portrays quarantine and distancing as Cabal measures to create fear, obedience, and acceptance of a chip-linked vaccine, rather than as medical interventions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "vaccine-inoculation-claims",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-39133ce4e004-c02",
+      "assertion": "She claims people without chip-vaccines would face restrictions on movement and food access, potentially followed by direct extermination.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "high-content-overlap-with-src-e9f782478883"
+  ],
+  "coverage_gaps": [
+    "virus-denial-and-vaccine-harm-allegations",
+    "simultaneous-rollout-claims"
+  ]
+}

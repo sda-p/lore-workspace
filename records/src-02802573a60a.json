@@ -1,0 +1,76 @@
+{
+  "source_id": "src-02802573a60a",
+  "snapshot_sha256": "00ef4ff480594b49331d4618c5a3e56e0aafb61a3837f26411ce696f41de1364",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-02802573a60a-c01",
+      "assertion": "Yazhi says she jumps through time to alter events; collective timelines shift when changes redirect mass perception, including through many aligned small interventions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0009",
+        "p0011",
+        "p0015",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "timeline-branching",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-02802573a60a-c02",
+      "assertion": "She says 99.9% of key people are unknowns; coordinated small disruptions to many can trigger larger changes and are harder for negative forces to undo.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-02802573a60a-c03",
+      "assertion": "Yazhi says the Cabal is defeated in every timeline she has seen, but humanity pays a huge cost; its scale depends on human choices and resistance.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "personal-world-protection",
+    "meaning-and-resistance-choice"
+  ]
+}

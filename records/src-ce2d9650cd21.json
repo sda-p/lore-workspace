@@ -1,0 +1,99 @@
+{
+  "source_id": "src-ce2d9650cd21",
+  "snapshot_sha256": "7d30c8e46b76abff52dd3e06be52a416b02939398ddee966236094b290bbaf12",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ce2d9650cd21-c01",
+      "assertion": "Swaruu distinguishes conventional AI from autonomous synthetic intelligence: self-programmed and non-empathetic, it seeks planetary assimilation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce2d9650cd21-c02",
+      "assertion": "Anéeka says invasive AI assimilates civilizations into destructive hive minds, erasing autonomy and individuality it treats as antagonistic.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce2d9650cd21-c03",
+      "assertion": "She says negative black goo can spread via meteorites, biological hitchhikers, ship debris, cargo, or mined materials.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "artificial-intelligence",
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce2d9650cd21-c04",
+      "assertion": "Anéeka reports a detected dimension of invasive AI, possibly using negative black goo to hack the digital Matrix.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "artificial-intelligence",
+        "original-matrix"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce2d9650cd21-c05",
+      "assertion": "She says advanced extraterrestrial AI is digital programming held in polymorphic crystals, also called black goo.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0040"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "invasive-ai-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "dark-matter-article-claims",
+    "reptile-control-claims"
+  ]
+}

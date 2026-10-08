@@ -1,0 +1,70 @@
+{
+  "source_id": "src-699924c5628e",
+  "snapshot_sha256": "0d490728d63078eeaa62432e9d133e4bd8d0518b1b56e49890f4221575b1e1fe",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-699924c5628e-c01",
+      "assertion": "Swaruu says a ship's computer maps destination frequencies and its high-energy toroid matches the vessel to them, enabling instantaneous superluminal jumps across space and time.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0010",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-699924c5628e-c02",
+      "assertion": "She says large Taygetan ships use gravitational, plasma-jet, and toroidal flight systems as needed; multiple systems allow a damaged vessel to land.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-699924c5628e-c03",
+      "assertion": "Swaruu says Suzy craft can enter hyperspace while stationary and remain undetectable and invulnerable, enabling surveillance, extraction, wall passage, and attacks; other races have not replicated this.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributes the capabilities to static hyperspace mode."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "ether-and-consciousness-model",
+    "flight-sequence-and-speed-details"
+  ]
+}

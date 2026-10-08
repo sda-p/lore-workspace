@@ -13,3 +13,8 @@ Primary assertions are filed under the linked topics below.
 ## Claims filed under other topics
 
 - [src-e96e8067e205-c04](maternal-med-pods.md#src-e96e8067e205-c04) — Maternal medical pods
+- [src-46fa49e664e1-c01](archons-and-demons.md#src-46fa49e664e1-c01) — Archons and demons
+
+## Review flags
+
+- archon-scope-is-broad

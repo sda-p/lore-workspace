@@ -1,0 +1,70 @@
+{
+  "source_id": "src-aac42554ceb6",
+  "snapshot_sha256": "dcdb0220e776c1cfcd8c4ab9a5a9ea41d2d95c74e14295ff8311f6287c355fdf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-aac42554ceb6-c01",
+      "assertion": "Yazhi says fear-focused ideas can manifest tulpas, which may become autonomous physical beings and feed on the fear that created them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    },
+    {
+      "id": "src-aac42554ceb6-c02",
+      "assertion": "She distinguishes fear-created reptile tulpas from tangible Kingu, noting positive Kingu variants; she says malice comes from the tulpa, not species.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "kingu",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aac42554ceb6-c03",
+      "assertion": "She says parasitic tulpas use human and Federation-linked forms as portals to influence associated selves across densities; the infiltrated may not know.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "collective-attention-remedy",
+    "lush-human-fear-claims"
+  ]
+}

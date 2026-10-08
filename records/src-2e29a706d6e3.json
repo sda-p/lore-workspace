@@ -1,0 +1,86 @@
+{
+  "source_id": "src-2e29a706d6e3",
+  "snapshot_sha256": "f7bc8acbcdb6d57ec8b0cecd1b205b1eefceee3ff084b7e968ef2af8834e21ad",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2e29a706d6e3-c01",
+      "assertion": "Swaruu alleges Cabal actors seek network-connected human bodies using 5G, vaccine nanotechnology, and internet AI.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2e29a706d6e3-c02",
+      "assertion": "She says confinement synchronizes mass thought and cultivates fear, which she calls “lush”; starseeds should resist this.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2e29a706d6e3-c03",
+      "assertion": "Swaruu says starseeds can define their identity internally and need no outside confirmation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2e29a706d6e3-c04",
+      "assertion": "She says focus alone may not manifest outcomes in 3D; proactive action should accompany positive intent.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "pandemic-control-claims",
+    "nanotechnology-claims"
+  ],
+  "coverage_gaps": [
+    "specific-nanotech-mechanism",
+    "positive-timeline-outcomes"
+  ]
+}

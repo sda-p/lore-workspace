@@ -1,0 +1,110 @@
+{
+  "source_id": "src-fd419788ecbb",
+  "snapshot_sha256": "4915362ce80f76531015a4d9d83a30224280ee7e5c6889e5946b28b3f3308952",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fd419788ecbb-c01",
+      "assertion": "Dhor says Suzy craft spoof Challenger 350 radar/IFF with false registration and simulated telemetry.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "aircraft-mimicry",
+      "topics": [
+        "aircraft-mimicry",
+        "suzy-fighter-craft"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd419788ecbb-c02",
+      "assertion": "Spoofing permits slow corridor flight and civilian internet; holograms can visually disguise the hull.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0013"
+      ],
+      "primary_topic": "aircraft-mimicry",
+      "topics": [
+        "aircraft-mimicry",
+        "suzy-fighter-craft"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd419788ecbb-c03",
+      "assertion": "He judges craft positivity by viewer reaction; shape is unreliable, though triangles are usually negative except Dieslientiplex craft.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0026"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "dieslientiplex"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd419788ecbb-c04",
+      "assertion": "Taygetan Federation fighter missions may span a pilot’s lifetime, with shorter sub-missions.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0034"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd419788ecbb-c05",
+      "assertion": "Suzy rarely needs a mothership; it may need supplies or isolated repairs and carries a parts replicator.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0040"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "suzy-fighter-craft"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "dieslientiplex",
+      "name": "Dieslientiplex",
+      "kind": "species",
+      "aliases": [
+        "Arcturians"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "biological-craft",
+    "pilot-targeting"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_id": "src-dec75aa6f548",
+  "snapshot_sha256": "85e6ebb71371338e87732b74d96f3a2cd0f1985a9ff5198e9eac2062e69167b1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dec75aa6f548-c01",
+      "assertion": "Yazhi says duality supplies contrast for learning and identity in lower-density experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dec75aa6f548-c02",
+      "assertion": "She says suffering can teach through contrast, but learning without suffering is possible.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0051"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dec75aa6f548-c03",
+      "assertion": "Yazhi says souls are equally eternal aspects of Source; apparent age or progress reflects attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dec75aa6f548-c04",
+      "assertion": "She describes higher integration as broadening identity while reducing individual specificity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0075",
+        "p0079",
+        "p0083",
+        "p0087"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dec75aa6f548-c05",
+      "assertion": "Yazhi says total union with Source ends individual selfhood, after which creation begins again.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0089",
+        "p0096",
+        "p0098",
+        "p0100"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "integration-vs-individuality",
+    "suffering-as-teacher-not-necessity"
+  ],
+  "coverage_gaps": [
+    "interdimensional-terms",
+    "shadow-work"
+  ]
+}

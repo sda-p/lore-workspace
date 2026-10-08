@@ -1,0 +1,94 @@
+{
+  "source_id": "src-fa9d81b6939a",
+  "snapshot_sha256": "6c0fbd6416e490e464af11bb74b45af719248a6c1d5884a04f37ec41a6d58eb8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fa9d81b6939a-c01",
+      "assertion": "From his limited orbital viewpoint, Dhor alleges global exploitation aims to provoke social discontent.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa9d81b6939a-c02",
+      "assertion": "He says coordinated Latin American unrest seeks to destabilize countries and justify authoritarian policing.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa9d81b6939a-c03",
+      "assertion": "Dhor alleges Cabal-funded organizers use paid agitators to turn peaceful protests violent, even when some begin organically.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa9d81b6939a-c04",
+      "assertion": "He attributes these operations mainly to CIA and MI6, with Mossad and Jesuit backing.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa9d81b6939a-c05",
+      "assertion": "Dhor predicts Central American instability will drive mass migration through Mexico toward the United States.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy-claims",
+    "limited-perspective"
+  ],
+  "coverage_gaps": [
+    "civil-resistance-advice",
+    "banking-claims"
+  ]
+}

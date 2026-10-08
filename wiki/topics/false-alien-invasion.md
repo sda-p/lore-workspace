@@ -194,6 +194,16 @@ Source: [UFO Disclosure and Project Blue Beam: Is False Alien Invasion Next? - C
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-e0a4afea956c-c01
+
+Swaruu says contact rules restrict open proof; exposure could feed a hostile-invasion narrative and enable new-world-order control.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL PORQUE NO PUEDEN HABER PRUEBAS - TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/el-porque-no-pueden-haber-pruebas-taygeteana-de-las-pleyades) (2018-05-15; es); passages p0004, p0006, p0007. [Structured record](../../records/src-e0a4afea956c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-19b9c2bb57a1-c04](earth-cabal.md#src-19b9c2bb57a1-c04) — Earth Cabal and power structures

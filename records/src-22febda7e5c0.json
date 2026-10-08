@@ -1,0 +1,123 @@
+{
+  "source_id": "src-22febda7e5c0",
+  "snapshot_sha256": "a0d6a6e2ace2fd1f2ad0bfda85add5b0b80dd0f9936043c2b5a43e5d5ca0d19e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-22febda7e5c0-c01",
+      "assertion": "Swaruu portrays the 5D Federation as a learning institution guided by higher layers carrying broader responsibilities.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22febda7e5c0-c02",
+      "assertion": "Higher councils communicate mentally with stronger telepathy; participants may use chosen avatars or remain formless.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "higher-federation-councils",
+      "topics": [
+        "higher-federation-councils",
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22febda7e5c0-c03",
+      "assertion": "At high densities, individual identities blend into collective consciousness, though distinct voices still contribute.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22febda7e5c0-c04",
+      "assertion": "Higher guides may assist humans directly or through 5D agents, using mental resources beyond the local Federation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0072",
+        "p0074",
+        "p0075",
+        "p0077"
+      ],
+      "primary_topic": "higher-federation-councils",
+      "topics": [
+        "higher-federation-councils",
+        "galactic-federation",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22febda7e5c0-c05",
+      "assertion": "The higher Federation understands human suffering and views peoples collectively, unlike the local 5D council.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "higher-federation-councils"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "higher-federation-councils",
+      "name": "Higher Federation councils",
+      "kind": "institution",
+      "aliases": [
+        "Higher Councils",
+        "Consejos superiores de la Federación",
+        "Federation 6D/7D councils"
+      ]
+    }
+  ],
+  "review_flags": [
+    "translation-counterpart: src-d0398aec7731; close full translation; similar-title source src-ba29b281f533 is a distinct later essay"
+  ],
+  "coverage_gaps": [
+    "higher-density motives",
+    "conflicts within local council",
+    "identity loss tradeoffs"
+  ]
+}

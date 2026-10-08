@@ -66,12 +66,30 @@ Attributed to **Gosia**; reported; extraction confidence: medium.
 
 Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0106, p0107, p0108. [Structured record](../../records/src-c1f323f128a9.json).
 
+### src-a903c6d50bef-c05
+
+She distinguishes reptile-created Kingu servants from humans, whom she says are separately treated as livestock.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [APAGÓN EN ARGENTINA - QUE ESTA PASANDO - POR QUÉ](https://swaruu.org/transcripts/apagon-en-argentina-que-esta-pasando-por-que) (2019-06-24; es); passages p0029, p0031. [Structured record](../../records/src-a903c6d50bef.json).
+
+Related topics: [Reptilians](reptilians.md).
+
 ## Claims filed under other topics
 
 - [src-afa1873e4741-c02](alien-species.md#src-afa1873e4741-c02) — Alien species and distinctions
 - [src-073aba37af59-c01](tulpas.md#src-073aba37af59-c01) — Tulpas
+- [src-885ec940f20f-c04](archons-and-demons.md#src-885ec940f20f-c04) — Archons and demons
+- [src-ff97765a8c36-c03](alien-species.md#src-ff97765a8c36-c03) — Alien species and distinctions
+- [src-b4123d146ba9-c02](genetic-weapons.md#src-b4123d146ba9-c02) — Genetic weapons
+- [src-74c032374fff-c01](alien-species.md#src-74c032374fff-c01) — Alien species and distinctions
 
 ## Review flags
 
 - Species summaries are broad and based on accounts attributed to orbital sources
+- aircraft-identity-ambiguity
+- claims-attributed-to-source-narrators
+- conspiracy-claims
 - definition\_varies
+- lunar-artificial-structure-claims-attributed

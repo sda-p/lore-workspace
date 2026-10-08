@@ -1,0 +1,70 @@
+{
+  "source_id": "src-4dc58e9bd766",
+  "snapshot_sha256": "24021ef34d913f51685fe9ccf9243f719e43bdc9a06c9ce7132e99dc07cbd683",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4dc58e9bd766-c01",
+      "assertion": "Swaruu X (Athena) and Yazhi describe the brain as translating, not generating, astral or etheric memories; frequency incompatibility can block conscious recall.",
+      "speaker": "Swaruu X (Athena); Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0019",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4dc58e9bd766-c02",
+      "assertion": "Anéeka says the veil of forgetting appears selective, perhaps intentionally controlled from the between-life state; she also gives frequency incompatibility as its explanation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4dc58e9bd766-c03",
+      "assertion": "Yazhi says post-death experience manifests from a person’s own frequency and expectations, so each encounters what they anticipate.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "earth-veil-frequency-examples",
+    "adn-life-plan-claims",
+    "med-pod-memory-claims"
+  ]
+}

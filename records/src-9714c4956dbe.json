@@ -1,0 +1,106 @@
+{
+  "source_id": "src-9714c4956dbe",
+  "snapshot_sha256": "590ea893aad287688a19e23afe1917922cff21203085e2fe3a034d464f1d3798",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9714c4956dbe-c01",
+      "assertion": "Swaruu (9) says higher Federation tiers supervise 5D members through guides, consequences, and accountability.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9714c4956dbe-c02",
+      "assertion": "She says upper tiers lack physical bodies and influence lower tiers through starseeds and perception changes.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0047",
+        "p0049",
+        "p0061",
+        "p0063"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9714c4956dbe-c03",
+      "assertion": "Swaruu says higher-tier consciousness integrates individuals into a nonphysical collective with blurred separation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0067",
+        "p0068",
+        "p0070"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9714c4956dbe-c04",
+      "assertion": "She criticizes non-Lyrian, non-emotional species mentoring humanity, preferring emotionally attuned guidance.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9714c4956dbe-c05",
+      "assertion": "She says higher-tier intervention aligns with Earth’s free will from an integrated perspective, despite lower-level conflicts.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0072",
+        "p0074",
+        "p0076",
+        "p0079"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "intervention-ethics-disputed",
+    "federation-level-perspective-difference"
+  ],
+  "coverage_gaps": [
+    "earth-targeted-actions",
+    "governance-membership"
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "proposed": {
+      "id": "andromedans",
+      "name": "Andromedans",
+      "kind": "species",
+      "aliases": [
+        "Andromedano",
+        "Andromedanos"
+      ]
+    },
+    "canonical": {
+      "id": "andromedans",
+      "name": "Andromedans",
+      "kind": "species",
+      "aliases": [
+        "Andromedan"
+      ]
+    }
+  }
+]

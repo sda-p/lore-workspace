@@ -1098,5 +1098,525 @@
     "aliases": [
       "Dyatlov Pass"
     ]
+  },
+  {
+    "id": "centaurians",
+    "name": "Centaurians",
+    "kind": "species",
+    "aliases": [
+      "Centauri humans"
+    ]
+  },
+  {
+    "id": "centauri-l-class-fighters",
+    "name": "Centauri L-class fighters",
+    "kind": "technology",
+    "aliases": [
+      "Black Knight satellites",
+      "Black Knights",
+      "Caballeros Negros"
+    ]
+  },
+  {
+    "id": "reptilian-invaders",
+    "name": "Reptilian invaders",
+    "kind": "faction",
+    "aliases": [
+      "reptile invaders",
+      "reptilians"
+    ]
+  },
+  {
+    "id": "primary-secondary-species",
+    "name": "Primary and Secondary Species",
+    "kind": "species-taxonomy",
+    "aliases": [
+      "razas primarias y secundarias"
+    ]
+  },
+  {
+    "id": "taygetan-parthenogenesis",
+    "name": "Taygetan parthenogenesis",
+    "kind": "reproductive mechanism",
+    "aliases": [
+      "auto-pregnancy",
+      "self-pregnancy",
+      "parthenogenesis"
+    ]
+  },
+  {
+    "id": "dieslientiplex",
+    "name": "Dieslientiplex",
+    "kind": "species",
+    "aliases": [
+      "Arcturians"
+    ]
+  },
+  {
+    "id": "nuclear-magnetic-engines",
+    "name": "Nuclear-magnetic engines",
+    "kind": "technology",
+    "aliases": [
+      "magnetic nuclear engines"
+    ]
+  },
+  {
+    "id": "andromedans",
+    "name": "Andromedans",
+    "kind": "species",
+    "aliases": [
+      "Andromedan"
+    ]
+  },
+  {
+    "id": "red-queen-ai",
+    "name": "Red Queen AI",
+    "kind": "artificial-intelligence",
+    "aliases": [
+      "Reina Roja"
+    ]
+  },
+  {
+    "id": "nanotechnology",
+    "name": "Nanotechnology and implants",
+    "kind": "technology",
+    "aliases": [
+      "smart dust",
+      "nanobots"
+    ]
+  },
+  {
+    "id": "sasquatch",
+    "name": "Sasquatch",
+    "kind": "species",
+    "aliases": [
+      "Yeti",
+      "Bigfoot",
+      "Menk",
+      "Pie Grande"
+    ]
+  },
+  {
+    "id": "sumerian-tablet-interpretations",
+    "name": "Sumerian tablet interpretations",
+    "kind": "history",
+    "aliases": [
+      "Sumerian tablets"
+    ]
+  },
+  {
+    "id": "crop-circles",
+    "name": "Crop circles",
+    "kind": "phenomenon",
+    "aliases": [
+      "agro glyphs",
+      "crop formations"
+    ]
+  },
+  {
+    "id": "alpha-centauri-liberation",
+    "name": "Battle for the liberation of Alpha Centauri",
+    "kind": "historical event",
+    "aliases": [
+      "Alpha Centauri liberation battle"
+    ]
+  },
+  {
+    "id": "soul-family-groups",
+    "name": "Soul-family groups",
+    "kind": "cosmology",
+    "aliases": [
+      "soul families",
+      "grupos de almas"
+    ]
+  },
+  {
+    "id": "toroidal-planetary-model",
+    "name": "Toroidal planetary model",
+    "kind": "cosmology",
+    "aliases": [
+      "Toroidal Earth",
+      "Earth torus model"
+    ]
+  },
+  {
+    "id": "ummite-civilization",
+    "name": "Ummite civilization",
+    "kind": "civilization",
+    "aliases": [
+      "Ummitas",
+      "Ummites"
+    ]
+  },
+  {
+    "id": "synthetic-intelligence",
+    "name": "Synthetic Intelligence",
+    "kind": "artificial intelligence",
+    "aliases": [
+      "I.S.",
+      "autonomous synthetic intelligence"
+    ]
+  },
+  {
+    "id": "tall-whites",
+    "name": "Tall Whites",
+    "kind": "species",
+    "aliases": [
+      "Altos Blancos"
+    ]
+  },
+  {
+    "id": "mogh-yay",
+    "name": "Mogh-yay",
+    "kind": "species",
+    "aliases": [
+      "Mogh yay",
+      "Mogh-yays"
+    ]
+  },
+  {
+    "id": "sphinx-underground-bases",
+    "name": "Sphinx Underground Bases",
+    "kind": "location",
+    "aliases": [
+      "DUMBs beneath the Sphinx"
+    ]
+  },
+  {
+    "id": "rashell-eisenhower-contact",
+    "name": "Rashell–Eisenhower Contact",
+    "kind": "historical-event",
+    "aliases": [
+      "Edwards Air Force Base meeting",
+      "contact with Eisenhower"
+    ]
+  },
+  {
+    "id": "earth-dna-arks",
+    "name": "Earth DNA Arks",
+    "kind": "infrastructure",
+    "aliases": [
+      "Arks of the Covenant",
+      "planetary DNA arks"
+    ]
+  },
+  {
+    "id": "reincarnation-cycles",
+    "name": "Reincarnation and karmic cycles",
+    "kind": "cosmology",
+    "aliases": [
+      "ciclos de reencarnación",
+      "karma"
+    ]
+  },
+  {
+    "id": "men-in-black",
+    "name": "Men in Black",
+    "kind": "organization",
+    "aliases": [
+      "Hombres de negro"
+    ]
+  },
+  {
+    "id": "akashic-records",
+    "name": "Akashic records",
+    "kind": "cosmology",
+    "aliases": [
+      "Registros Akáshicos"
+    ]
+  },
+  {
+    "id": "solar-system-objects",
+    "name": "Distant Solar System Objects",
+    "kind": "astronomical object",
+    "aliases": [
+      "Nibiru",
+      "Hercobulus",
+      "Nemesis"
+    ]
+  },
+  {
+    "id": "planetary-dna-arks",
+    "name": "Planetary DNA Arks",
+    "kind": "technology",
+    "aliases": [
+      "Arks",
+      "Ark of the Covenant"
+    ]
+  },
+  {
+    "id": "atlantes",
+    "name": "Atlantes",
+    "kind": "species",
+    "aliases": [
+      "Atlanteans",
+      "people of Atlas"
+    ]
+  },
+  {
+    "id": "van-allen-belts",
+    "name": "Van Allen belts",
+    "kind": "celestial phenomenon",
+    "aliases": [
+      "Van Allen bands",
+      "cinturones Van Allen"
+    ]
+  },
+  {
+    "id": "shadow-work",
+    "name": "Shadow Work",
+    "kind": "practice",
+    "aliases": [
+      "trabajo de sombra",
+      "shadow work"
+    ]
+  },
+  {
+    "id": "sol-13",
+    "name": "Sol 13 system",
+    "kind": "star system",
+    "aliases": [
+      "Solar System",
+      "Sistema Solar",
+      "Sol 13"
+    ]
+  },
+  {
+    "id": "mercury",
+    "name": "Mercury",
+    "kind": "location",
+    "aliases": [
+      "Mercurio"
+    ]
+  },
+  {
+    "id": "karistus",
+    "name": "Karistus",
+    "kind": "civilization",
+    "aliases": [
+      "Karistus"
+    ]
+  },
+  {
+    "id": "devonians",
+    "name": "Devonians",
+    "kind": "species",
+    "aliases": []
+  },
+  {
+    "id": "korendians",
+    "name": "Korendians",
+    "kind": "species",
+    "aliases": []
+  },
+  {
+    "id": "council-of-the-sphere",
+    "name": "Council of the Sphere",
+    "kind": "institution",
+    "aliases": []
+  },
+  {
+    "id": "alpha-draconians",
+    "name": "Alpha Draconians",
+    "kind": "species",
+    "aliases": [
+      "Alpha Dracos",
+      "Alpha Draconian"
+    ]
+  },
+  {
+    "id": "jupiter",
+    "name": "Jupiter",
+    "kind": "location",
+    "aliases": [
+      "Júpiter"
+    ]
+  },
+  {
+    "id": "europa",
+    "name": "Europa",
+    "kind": "location",
+    "aliases": [
+      "Europa, moon of Jupiter"
+    ]
+  },
+  {
+    "id": "sirian-civilizations",
+    "name": "Sirian civilizations",
+    "kind": "species and civilization group",
+    "aliases": [
+      "Sirians",
+      "Sirian species"
+    ]
+  },
+  {
+    "id": "uranus",
+    "name": "Uranus and its moons",
+    "kind": "planetary system",
+    "aliases": [
+      "Uranus",
+      "Miranda",
+      "Titania",
+      "Umbriel",
+      "Ariel",
+      "Oberon"
+    ]
+  },
+  {
+    "id": "neptune",
+    "name": "Neptune and Triton",
+    "kind": "planet and moon",
+    "aliases": [
+      "Triton"
+    ]
+  },
+  {
+    "id": "ceres",
+    "name": "Ceres",
+    "kind": "location",
+    "aliases": [
+      "former moon of Tiamat"
+    ]
+  },
+  {
+    "id": "oalu",
+    "name": "Oalu",
+    "kind": "location",
+    "aliases": []
+  },
+  {
+    "id": "oalu-mantis",
+    "name": "Oalu Mantis",
+    "kind": "species",
+    "aliases": [
+      "Oalu Mantis insectoids"
+    ]
+  },
+  {
+    "id": "oalu-high-council",
+    "name": "Oalu High Council",
+    "kind": "institution",
+    "aliases": [
+      "Council of Oalu"
+    ]
+  },
+  {
+    "id": "sumerian-tablets",
+    "name": "Sumerian tablets",
+    "kind": "historical source",
+    "aliases": [
+      "Sumerian tablets"
+    ]
+  },
+  {
+    "id": "pluto",
+    "name": "Pluto",
+    "kind": "dwarf planet and astrological symbol",
+    "aliases": [
+      "Pluto esoteric symbolism"
+    ]
+  },
+  {
+    "id": "phaethon-liberation",
+    "name": "Liberation of Phaethon",
+    "kind": "historical event",
+    "aliases": [
+      "Phaethon liberation"
+    ]
+  },
+  {
+    "id": "triangulum",
+    "name": "Triangulum portal",
+    "kind": "location",
+    "aliases": [
+      "Triangulum portal",
+      "portal de Triangulum"
+    ]
+  },
+  {
+    "id": "agarthians",
+    "name": "Agarthians",
+    "kind": "civilization",
+    "aliases": [
+      "Agartheanos",
+      "Agarthian"
+    ]
+  },
+  {
+    "id": "shambala",
+    "name": "Shambala",
+    "kind": "location",
+    "aliases": [
+      "Shamballa",
+      "Shambala the Great"
+    ]
+  },
+  {
+    "id": "sphere-alliance",
+    "name": "Alliance of the Sphere",
+    "kind": "faction",
+    "aliases": [
+      "Alliance of the Sphere"
+    ]
+  },
+  {
+    "id": "taygetan-first-contact-project",
+    "name": "Taygetan First Contact Project",
+    "kind": "contact-program",
+    "aliases": [
+      "Proyecto Primer Contacto"
+    ]
+  },
+  {
+    "id": "sassani",
+    "name": "Sassani",
+    "kind": "species",
+    "aliases": [
+      "Sassani people"
+    ]
+  },
+  {
+    "id": "gravitic-generators",
+    "name": "Gravitic generators",
+    "kind": "technology",
+    "aliases": [
+      "gravity generators"
+    ]
+  },
+  {
+    "id": "suzy-class-starships",
+    "name": "Suzy-class starships",
+    "kind": "technology",
+    "aliases": [
+      "Suzy class",
+      "Suzy-class"
+    ]
+  },
+  {
+    "id": "ether-field",
+    "name": "Ether field",
+    "kind": "cosmology",
+    "aliases": [
+      "Éter",
+      "aether"
+    ]
+  },
+  {
+    "id": "dhor-kaalel",
+    "name": "Dhor Káal’el",
+    "kind": "character",
+    "aliases": [
+      "Dhor Káal’el",
+      "Dhor Kaalel"
+    ]
+  },
+  {
+    "id": "engineered-social-unrest",
+    "name": "Engineered social unrest",
+    "kind": "political mechanism",
+    "aliases": [
+      "social engineering",
+      "staged unrest"
+    ]
   }
 ]

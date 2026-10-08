@@ -1,0 +1,137 @@
+{
+  "source_id": "src-fad1597372f1",
+  "snapshot_sha256": "89a58c8fd986046ce907535fdf77e29a26e50f7d4e1670cce264b38b757db357",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fad1597372f1-c01",
+      "assertion": "Dhor estimates roughly 10,000 years from experience and time jumps.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "He says exact age is impossible; he appears 21–25."
+    },
+    {
+      "id": "src-fad1597372f1-c02",
+      "assertion": "Dhor says pilot-built small-ship race craft must fly no higher than ten meters.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "disc-shaped-shuttles"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fad1597372f1-c03",
+      "assertion": "Taygeta is matriarchal, but men participate and may seek leadership.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0058",
+        "p0059",
+        "p0066",
+        "p0067"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fad1597372f1-c04",
+      "assertion": "Taygeta has negative birth rates; frequency-compatible newcomers are welcome.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0082",
+        "p0083"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fad1597372f1-c05",
+      "assertion": "Taygetan men embrace emotions as part of their strength.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0100",
+        "p0101",
+        "p0102",
+        "p0103"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fad1597372f1-c06",
+      "assertion": "Dhor prepares humans for Matrix withdrawal and self-reliance, not outside guides.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0046"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fad1597372f1-c07",
+      "assertion": "Only about ten Taygetans speak human languages, limiting direct contact.",
+      "speaker": "Dhor Káal'él",
+      "paragraph_ids": [
+        "p0116",
+        "p0117"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "approximate-age-estimate"
+  ],
+  "coverage_gaps": [
+    "Taygetan-military-policy",
+    "reproductive-biology",
+    "craft-uniforms"
+  ]
+}

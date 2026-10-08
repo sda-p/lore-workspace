@@ -1,0 +1,21 @@
+{
+  "source_id": "src-e9f782478883",
+  "snapshot_sha256": "c67646dac0ef57de4c74bd5cf306397522a14f61fc1dbd6cf9c5e3e98514bf79",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e9f782478883-c01",
+      "assertion": "Anéeka portrays quarantines and restrictions as a Cabal tool for inducing fear and compliance, with vaccination presented as the route back to normal life.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0003", "p0006", "p0009", "p0019", "p0030"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal", "vaccine-inoculation-claims", "moon-matrix"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account alleges political rather than medical motives."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["contested-pandemic-control-narrative"],
+  "coverage_gaps": ["virus-denial-and-vaccine-harm-allegations", "population-reduction-claims"]
+}

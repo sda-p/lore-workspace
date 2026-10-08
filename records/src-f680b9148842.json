@@ -1,0 +1,110 @@
+{
+  "source_id": "src-f680b9148842",
+  "snapshot_sha256": "9706ed68fb2dc0d3bc1ce39c2b62470d00026a6f5604b51c5065a499b875f9db",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f680b9148842-c01",
+      "assertion": "Yazhi says time and timelines are mental constructs; all events form an interconnected whole.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f680b9148842-c02",
+      "assertion": "She says each person comprises interacting alternate selves that share information across parallel experiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f680b9148842-c03",
+      "assertion": "Yazhi says past, present, and future mutually influence one another, converging in the perceived now.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0026"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f680b9148842-c04",
+      "assertion": "She describes history as viewpoint-dependent, with contradictory pasts simultaneously valid to different minds.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f680b9148842-c05",
+      "assertion": "Yazhi says higher integration dissolves personal identity; she advises self-love and appreciating ordinary life.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "timeline-as-mind-model",
+    "integration-vs-personal-identity"
+  ],
+  "coverage_gaps": [
+    "causal-mechanism",
+    "practical-daily-methods"
+  ]
+}

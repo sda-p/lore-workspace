@@ -188,6 +188,74 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (English)](https://swaruu.org/transcripts/space-news-49-new-spaceport-more-on-australia-my-health-birthday-english) (2024-10-26; en); passages p0003, p0004. [Structured record](../../records/src-6b5449860d14.json).
 
+### src-1da40cd3aac1-c02
+
+She says Earth-bred dogs threaten Taygetan native species, though a leashed pet might be considered after customs review.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Taygeteana PARTE 3: Animales y Sufrimiento Animal (17)](https://swaruu.org/transcripts/sociedad-taygeteana-parte-3-animales-y-sufrimiento-animal-17) (2019-01-02; es); passages p0011, p0013, p0014, p0016, p0017. [Structured record](../../records/src-1da40cd3aac1.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-1da40cd3aac1-c04
+
+She describes Temmer as tropical, Erra as forested and mountainous, Procyon as a hazardous jungle at 1.2G, and Dakote as icy tundra.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Taygeteana PARTE 3: Animales y Sufrimiento Animal (17)](https://swaruu.org/transcripts/sociedad-taygeteana-parte-3-animales-y-sufrimiento-animal-17) (2019-01-02; es); passages p0009, p0019, p0020. [Structured record](../../records/src-1da40cd3aac1.json).
+
+Related topics: [Planet Procyon](procyon.md).
+
+### src-d5c29da42755-c06
+
+Temmer is an ocean world; 18 Tau supplies Taygetans’ lunar-like cycles.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE - ESTRELLA TAYGETA - LAS PLEYADES - Swarru - Anéeka](https://swaruu.org/transcripts/contacto-extraterrestre-estrella-taygeta-las-pleyades-swarru-aneeka) (2018-12-02; es); passages p0140, p0154. [Structured record](../../records/src-d5c29da42755.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-0df271d4423a-c01
+
+Taygeta has four inhabited planets: three class M and cold, tundra-covered D'akotee, class P.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 1: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-1-mensaje-extraterrestre-17) (2018-12-23; es); passages p0005, p0007, p0009. [Structured record](../../records/src-0df271d4423a.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-0df271d4423a-c02
+
+She says Taygeta has 38 million residents and fewer than ten major cities; Temmer’s Toleka is largest, at about 700,000.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 1: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-1-mensaje-extraterrestre-17) (2018-12-23; es); passages p0023. [Structured record](../../records/src-0df271d4423a.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-0df271d4423a-c05
+
+Small communities hundreds or thousands of kilometers apart use elevated MAGLEV trains to spare wildlife.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 1: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-1-mensaje-extraterrestre-17) (2018-12-23; es); passages p0025. [Structured record](../../records/src-0df271d4423a.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-24ab9cb7ffa0-c04
+
+Unique frequencies identify citizens; telepathy allows openness and mental firewalls protect privacy.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) (2018-12-28; es); passages p0014, p0015. [Structured record](../../records/src-24ab9cb7ffa0.json).
+
 ## Claims filed under other topics
 
 - [src-8ca54257f6a4-c03](cyndriel.md#src-8ca54257f6a4-c03) — Cyndriel
@@ -197,6 +265,13 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - [src-857383d23bc1-c01](alien-species.md#src-857383d23bc1-c01) — Alien species and distinctions
 - [src-0689f51f7290-c01](ship-internal-time.md#src-0689f51f7290-c01) — Ship internal time
 - [src-bb2e4f6bf652-c02](genetic-weapons.md#src-bb2e4f6bf652-c02) — Genetic weapons
+- [src-1da40cd3aac1-c01](mogh-yay.md#src-1da40cd3aac1-c01) — Mogh-yay
+- [src-a011d9404b1c-c05](perceptual-density.md#src-a011d9404b1c-c05) — Perceptual density
+- [src-0df271d4423a-c03](energy-generation.md#src-0df271d4423a-c03) — Energy generation technology
+- [src-0df271d4423a-c04](economics.md#src-0df271d4423a-c04) — Economics and resources
+- [src-d8bcaf4fc008-c01](uranus.md#src-d8bcaf4fc008-c01) — Uranus and its moons
+- [src-3f4799b0281c-c01](venus.md#src-3f4799b0281c-c01) — Venus
+- [src-3f4799b0281c-c03](venus.md#src-3f4799b0281c-c03) — Venus
 
 ## Review flags
 
@@ -205,8 +280,12 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - conflicting\_origin\_accounts
 - field-procedure-account-attributed-to-mari
+- miranda-no-bases-versus-other-moon-bases
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
 - pathogen-claim\_attributed
 - species-description\_attributed
+- taygetan-society-claims-attributed
+- time-travel-claims
 - translation-equivalence-unverified
 - unverified\_extraterrestrial\_claims
+- venus-habitable-world-model

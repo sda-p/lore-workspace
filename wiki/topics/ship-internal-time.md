@@ -100,14 +100,34 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (English)](https://swaruu.org/transcripts/taygeta-space-news-35-august-12-2024-good-bye-starship-toleka-english) (2024-08-12; en); passages p0006. [Structured record](../../records/src-15a5d7380aeb.json).
 
+### src-db5d7dcfb7ef-c01
+
+Swaruu says stellar travel is instantaneous externally but has ship-internal time: seven hours for a large craft and one hour forty minutes for a fighter.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EXISTEN LOS ÁNGELES - HUBO BIG BANG – PREGUNTAS Y RESPUESTAS – Swaruu de Erra](https://swaruu.org/transcripts/existen-los-angeles-hubo-big-bang-preguntas-y-respuestas-swaruu-de-erra) (2018-10-26; es); passages p0021, p0022, p0023, p0025. [Structured record](../../records/src-db5d7dcfb7ef.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-32e031c42dc5-c01
+
+Dhor says superluminal travel is instantaneous, while perceived onboard SIT varies by crew consciousness.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [NAVES EXTRATERRESTRES – OVNIS – ENTREVISTA CON UN PLEYADIANO TAYGETEANO - DHOR KÁAL'EL Y ANÉEKA](https://swaruu.org/transcripts/naves-extraterrestres-ovnis-entrevista-con-un-pleyadiano-taygeteano-dhor-kaal-el-y-aneeka) (2019-11-18; es); passages p0003, p0005, p0010. [Structured record](../../records/src-32e031c42dc5.json).
+
 ## Claims filed under other topics
 
 - [src-07494ef21f67-c02](cyndriel.md#src-07494ef21f67-c02) — Cyndriel
 - [src-be2e5cb2654b-c01](taygetans.md#src-be2e5cb2654b-c01) — Taygetans
 - [src-1aa59d2c774b-c04](tractor-beams.md#src-1aa59d2c774b-c04) — Tractor beams
+- [src-f77b50b543b2-c02](original-matrix.md#src-f77b50b543b2-c02) — Original Matrix
 
 ## Review flags
 
 - Figures and ship status are Mari’s account as of August 2024
 - extraordinary-ability-claims
+- historical-event-identified-from-painting
 - unverified\_temporal\_claims

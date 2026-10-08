@@ -1,0 +1,68 @@
+{
+  "source_id": "src-2eb79f41c6bd",
+  "snapshot_sha256": "0d562238329f418bdfd1929974d3a41251b3963e4de5ec98c98f2a6680498212",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2eb79f41c6bd-c01",
+      "assertion": "Swaruu says Taygetans use sound, light, and precise high-energy magnetic fields for healing; replicators can create matter, yet advanced societies favor handmade objects and keep technology in service.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "medical-pods",
+      "topics": [
+        "medical-pods",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2eb79f41c6bd-c02",
+      "assertion": "She says ideas and inventions circulate between species through contact and souls incarnating across worlds, making familiar tools and instruments common among civilizations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0028"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2eb79f41c6bd-c03",
+      "assertion": "Swaruu says Taygeta has 38 million people across four planets, few cities, and mostly isolated self-sufficient households; work and academies are social hubs, with schooling often at home through immersion computers.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0030",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "species-specific-cultural-influences",
+    "med-pod-capabilities"
+  ]
+}

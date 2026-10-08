@@ -1,0 +1,122 @@
+{
+  "source_id": "src-08eb04ce1eff",
+  "snapshot_sha256": "a9849d31ebe6ae42cf7c1082ba20d0971c776001267573137f8d6938fec8d526",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-08eb04ce1eff-c01",
+      "assertion": "Pineal atrophy causes death and senility; Swaruu calls the gland a soul-body modem.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-08eb04ce1eff-c02",
+      "assertion": "The soul uses a body-drone; 3D senses veil subtler realities, she says.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-08eb04ce1eff-c03",
+      "assertion": "Anéeka says hostile AI hacks 3D and controls reptiles; advanced ET AI inhabits Black Goo crystals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0089",
+        "p0090",
+        "p0091"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "black-goo",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-08eb04ce1eff-c04",
+      "assertion": "Lyrans spread from Vega after Orion Wars with reptile invaders about a million years ago.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0117"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "orion-wars",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-08eb04ce1eff-c05",
+      "assertion": "Taygetans have one brain mass, larger pineal, no corpus callosum, and higher nerve voltage.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0120",
+        "p0122",
+        "p0124"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-08eb04ce1eff-c06",
+      "assertion": "Taygetan women can self-reproduce and deliver more easily.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0126",
+        "p0128",
+        "p0129",
+        "p0131"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "nonstandard-biology-claims",
+    "simulation-and-AI-claims"
+  ],
+  "coverage_gaps": [
+    "animal-pineal-variants",
+    "contact-restrictions",
+    "Lyrian-species-variation"
+  ]
+}

@@ -6,206 +6,423 @@ Language and revision variants remain separate source records unless content equ
 
 | Topic | Type | Primary claims | Related claims |
 | --- | --- | ---: | ---: |
-| [Aethien Mantis](topics/aethien-mantis.md) | species | 1 | 0 |
-| [Aircraft Mimicry](topics/aircraft-mimicry.md) | technology | 2 | 0 |
-| [Alcyone Council](topics/alcyone-council.md) | institution | 39 | 14 |
-| [Alfrata (Phaeton)](topics/alfrata.md) | location | 10 | 3 |
-| [Alien species and distinctions](topics/alien-species.md) | species | 328 | 155 |
+| [Aethien Mantis](topics/aethien-mantis.md) | species | 1 | 2 |
+| [Agarthians](topics/agarthians.md) | civilization | 2 | 0 |
+| [Aircraft Mimicry](topics/aircraft-mimicry.md) | technology | 4 | 0 |
+| [Akashic records](topics/akashic-records.md) | cosmology | 2 | 0 |
+| [Alcyone Council](topics/alcyone-council.md) | institution | 39 | 15 |
+| [Alfrata (Phaeton)](topics/alfrata.md) | location | 14 | 5 |
+| [Alien species and distinctions](topics/alien-species.md) | species | 362 | 193 |
+| [Battle for the liberation of Alpha Centauri](topics/alpha-centauri-liberation.md) | historical event | 1 | 0 |
+| [Alpha Draconians](topics/alpha-draconians.md) | species | 4 | 0 |
 | [Amelie](topics/amelie.md) | species | 2 | 0 |
-| [Ancient Egypt](topics/ancient-egypt.md) | historical civilization | 17 | 5 |
-| [Andromeda Council](topics/andromeda-council.md) | institution | 3 | 5 |
-| [Archons and demons](topics/archons-and-demons.md) | astral-entity | 30 | 18 |
-| [Artificial intelligence](topics/artificial-intelligence.md) | technology | 17 | 13 |
+| [Ancient Egypt](topics/ancient-egypt.md) | historical civilization | 23 | 11 |
+| [Andromeda Council](topics/andromeda-council.md) | institution | 3 | 9 |
+| [Andromedans](topics/andromedans.md) | species | 5 | 1 |
+| [Archons and demons](topics/archons-and-demons.md) | astral-entity | 33 | 27 |
+| [Artificial intelligence](topics/artificial-intelligence.md) | technology | 31 | 27 |
 | [Astral military units](topics/astral-military-units.md) | organization | 3 | 2 |
-| [Astrotheology](topics/astrotheology.md) | cosmology | 17 | 8 |
-| [Atlantis and Lemuria](topics/atlantis-lemuria.md) | history | 33 | 13 |
+| [Astrotheology](topics/astrotheology.md) | cosmology | 24 | 9 |
+| [Atlantes](topics/atlantes.md) | species | 2 | 0 |
+| [Atlantis and Lemuria](topics/atlantis-lemuria.md) | history | 41 | 15 |
 | [Bigfoot, Sasquatch and Yeti](topics/bigfoot-sasquatch.md) | species | 3 | 2 |
-| [Black goo](topics/black-goo.md) | technology | 28 | 5 |
-| [Black holes](topics/black-holes.md) | cosmology | 6 | 6 |
-| [Borg](topics/borg.md) | faction | 5 | 1 |
-| [Collective timeline influence](topics/collective-timeline-influence.md) | phenomenon | 8 | 0 |
-| [Consciousness and metaphysics](topics/consciousness-metaphysics.md) | cosmology | 1113 | 340 |
+| [Black goo](topics/black-goo.md) | technology | 45 | 9 |
+| [Black holes](topics/black-holes.md) | cosmology | 7 | 7 |
+| [Borg](topics/borg.md) | faction | 6 | 1 |
+| [Centauri L-class fighters](topics/centauri-l-class-fighters.md) | technology | 2 | 0 |
+| [Centaurians](topics/centaurians.md) | species | 1 | 0 |
+| [Ceres](topics/ceres.md) | location | 2 | 0 |
+| [Collective timeline influence](topics/collective-timeline-influence.md) | phenomenon | 11 | 2 |
+| [Consciousness and metaphysics](topics/consciousness-metaphysics.md) | cosmology | 1176 | 420 |
 | [Consciousness singularity](topics/consciousness-singularity.md) | cosmology | 2 | 0 |
+| [Council of the Sphere](topics/council-of-the-sphere.md) | institution | 0 | 1 |
+| [Crop circles](topics/crop-circles.md) | phenomenon | 4 | 0 |
 | [Cultivated meat](topics/cultivated-meat.md) | technology | 3 | 2 |
 | [Cyndriel](topics/cyndriel.md) | location | 14 | 3 |
-| [Deep underground military bases](topics/deep-underground-military-bases.md) | infrastructure | 1 | 0 |
+| [Deep underground military bases](topics/deep-underground-military-bases.md) | infrastructure | 1 | 3 |
+| [Devonians](topics/devonians.md) | species | 0 | 1 |
+| [Dieslientiplex](topics/dieslientiplex.md) | species | 1 | 2 |
 | [Dimensional mirroring](topics/dimensional-mirroring.md) | cosmology | 20 | 6 |
-| [Disc-shaped shuttle craft](topics/disc-shaped-shuttles.md) | technology | 7 | 2 |
-| [DNA and metaphysical patterns](topics/dna-metaphysics.md) | cosmology | 13 | 4 |
+| [Disc-shaped shuttle craft](topics/disc-shaped-shuttles.md) | technology | 8 | 3 |
+| [DNA and metaphysical patterns](topics/dna-metaphysics.md) | cosmology | 37 | 17 |
 | [Dyatlov Pass Incident](topics/dyatlov-pass-incident.md) | historical event | 1 | 0 |
-| [Earth Cabal and power structures](topics/earth-cabal.md) | faction | 269 | 108 |
-| [Economics and resources](topics/economics.md) | economics | 60 | 43 |
+| [Earth Cabal and power structures](topics/earth-cabal.md) | faction | 294 | 134 |
+| [Earth DNA Arks](topics/earth-dna-arks.md) | infrastructure | 2 | 0 |
+| [Economics and resources](topics/economics.md) | economics | 68 | 48 |
 | [Egregors](topics/egregors.md) | cosmology | 30 | 14 |
 | [Elementals](topics/elementals.md) | species | 5 | 0 |
-| [Elohi](topics/elohi.md) | species | 1 | 2 |
-| [Energy generation technology](topics/energy-generation.md) | technology | 55 | 40 |
-| [Engan people](topics/engan-people.md) | species | 4 | 3 |
+| [Elohi](topics/elohi.md) | species | 3 | 2 |
+| [Energy generation technology](topics/energy-generation.md) | technology | 68 | 53 |
+| [Engan people](topics/engan-people.md) | species | 4 | 5 |
+| [Engineered social unrest](topics/engineered-social-unrest.md) | political mechanism | 1 | 0 |
+| [Ether field](topics/ether-field.md) | cosmology | 3 | 3 |
 | [Etheric load heaters](topics/etheric-load-heaters.md) | technology | 1 | 0 |
 | [Etorthans](topics/etorthans.md) | species | 5 | 6 |
+| [Europa](topics/europa.md) | location | 1 | 0 |
 | [Extraterrestrial step-downs](topics/extraterrestrial-stepdowns.md) | phenomenon | 21 | 6 |
 | [Extraterrestrial syndrome](topics/extraterrestrial-syndrome.md) | condition | 1 | 0 |
-| [False alien invasion scenarios](topics/false-alien-invasion.md) | history | 20 | 4 |
+| [False alien invasion scenarios](topics/false-alien-invasion.md) | history | 21 | 4 |
 | [Forshagh](topics/forshagh.md) | sport | 0 | 5 |
 | [Frequency-based astrology](topics/frequency-astrology.md) | cosmology | 3 | 2 |
-| [Frequency-map navigation](topics/frequency-map-navigation.md) | technology | 15 | 10 |
-| [Frequency Mapping Microscopes](topics/frequency-microscopes.md) | technology | 1 | 0 |
-| [Galactic Federation](topics/galactic-federation.md) | faction | 367 | 182 |
-| [Genetic weapons](topics/genetic-weapons.md) | technology | 1 | 0 |
+| [Frequency-map navigation](topics/frequency-map-navigation.md) | technology | 35 | 19 |
+| [Frequency Mapping Microscopes](topics/frequency-microscopes.md) | technology | 2 | 0 |
+| [Galactic Federation](topics/galactic-federation.md) | faction | 382 | 220 |
+| [Genetic weapons](topics/genetic-weapons.md) | technology | 3 | 3 |
 | [Global deluge](topics/global-deluge.md) | historical event | 1 | 1 |
 | [Goblins](topics/goblins.md) | species | 1 | 0 |
-| [Gravity harmonics](topics/gravity-harmonics.md) | cosmology | 15 | 7 |
-| [Harmonic shields](topics/harmonic-shields.md) | technology | 3 | 6 |
+| [Gravitic generators](topics/gravitic-generators.md) | technology | 2 | 0 |
+| [Gravity harmonics](topics/gravity-harmonics.md) | cosmology | 21 | 10 |
+| [Harmonic shields](topics/harmonic-shields.md) | technology | 3 | 7 |
 | [Hashmallim](topics/hashmallim.md) | faction | 10 | 0 |
-| [Holistic society](topics/holistic-society.md) | institution | 139 | 50 |
-| [Holographic computers](topics/holographic-computers.md) | technology | 45 | 24 |
-| [Human clones and manufactured persons](topics/human-clones.md) | technology | 2 | 0 |
-| [Immersion pods](topics/immersion-pods.md) | technology | 27 | 1 |
-| [Interdimensional parasites](topics/interdimensional-parasites.md) | species | 0 | 1 |
-| [Intraterrestrial civilizations](topics/intraterrestrial-civilizations.md) | civilization | 8 | 4 |
-| [Intraterrestrial Vulcans](topics/intraterrestrial-vulcans.md) | species | 1 | 0 |
-| [Kingu](topics/kingu.md) | species | 6 | 2 |
-| [Lurkers](topics/lurkers.md) | species | 2 | 1 |
-| [Lyran expansion](topics/lyran-expansion.md) | history | 14 | 9 |
-| [Lyrian cellular-body model](topics/lyrian-cellular-body.md) | biology | 4 | 6 |
-| [Maitre](topics/maitre.md) | species | 9 | 1 |
-| [Mars](topics/mars.md) | location | 1 | 0 |
-| [Maternal medical pods](topics/maternal-med-pods.md) | technology | 10 | 1 |
-| [Matrix-generated persons](topics/matrix-generated-persons.md) | metaphysical population | 2 | 1 |
-| [Medical regeneration pods](topics/medical-pods.md) | technology | 3 | 0 |
+| [Holistic society](topics/holistic-society.md) | institution | 151 | 54 |
+| [Holographic computers](topics/holographic-computers.md) | technology | 49 | 32 |
+| [Human clones and manufactured persons](topics/human-clones.md) | technology | 21 | 4 |
+| [Immersion pods](topics/immersion-pods.md) | technology | 29 | 1 |
+| [Interdimensional parasites](topics/interdimensional-parasites.md) | species | 0 | 2 |
+| [Intraterrestrial civilizations](topics/intraterrestrial-civilizations.md) | civilization | 8 | 5 |
+| [Intraterrestrial Vulcans](topics/intraterrestrial-vulcans.md) | species | 2 | 1 |
+| [Jupiter](topics/jupiter.md) | location | 2 | 0 |
+| [Karistus](topics/karistus.md) | civilization | 4 | 0 |
+| [Kingu](topics/kingu.md) | species | 7 | 6 |
+| [Korendians](topics/korendians.md) | species | 0 | 1 |
+| [Lurkers](topics/lurkers.md) | species | 5 | 1 |
+| [Lyran expansion](topics/lyran-expansion.md) | history | 17 | 14 |
+| [Lyrian cellular-body model](topics/lyrian-cellular-body.md) | biology | 8 | 9 |
+| [Maitre](topics/maitre.md) | species | 12 | 3 |
+| [Mars](topics/mars.md) | location | 5 | 2 |
+| [Maternal medical pods](topics/maternal-med-pods.md) | technology | 10 | 3 |
+| [Matrix-generated persons](topics/matrix-generated-persons.md) | metaphysical population | 5 | 2 |
+| [Medical regeneration pods](topics/medical-pods.md) | technology | 5 | 4 |
+| [Men in Black](topics/men-in-black.md) | organization | 1 | 0 |
+| [Mercury](topics/mercury.md) | location | 2 | 0 |
+| [Mogh-yay](topics/mogh-yay.md) | species | 1 | 0 |
 | [Moghyay](topics/moghyay.md) | species | 4 | 0 |
-| [Monoliths](topics/monoliths.md) | technology | 5 | 1 |
-| [The Moon as a biosphere ship](topics/moon-biosphere-ship.md) | location-technology | 4 | 0 |
-| [Moon and terrestrial Matrix](topics/moon-matrix.md) | technology | 144 | 59 |
-| [Muonic galactic AI network](topics/muonic-galactic-ai-network.md) | technology | 9 | 4 |
-| [Natural and artificial portals](topics/natural-portals.md) | technology | 64 | 20 |
+| [Monoliths](topics/monoliths.md) | technology | 6 | 1 |
+| [The Moon as a biosphere ship](topics/moon-biosphere-ship.md) | location-technology | 11 | 3 |
+| [Moon and terrestrial Matrix](topics/moon-matrix.md) | technology | 177 | 80 |
+| [Muonic galactic AI network](topics/muonic-galactic-ai-network.md) | technology | 10 | 5 |
+| [Nanotechnology and implants](topics/nanotechnology.md) | technology | 0 | 1 |
+| [Natural and artificial portals](topics/natural-portals.md) | technology | 71 | 26 |
 | [Nazca spaceport](topics/nazca-spaceport.md) | location | 4 | 0 |
+| [Neptune and Triton](topics/neptune.md) | planet and moon | 2 | 0 |
 | [Nexus souls](topics/nexus-souls.md) | cosmology | 15 | 11 |
-| [Nonhuman surveillance drones](topics/nonhuman-surveillance-drones.md) | technology | 9 | 1 |
+| [Nonhuman surveillance drones](topics/nonhuman-surveillance-drones.md) | technology | 10 | 1 |
+| [Nuclear-magnetic engines](topics/nuclear-magnetic-engines.md) | technology | 1 | 0 |
 | [O’ha’lu](topics/o-halu.md) | location | 2 | 0 |
+| [Oalu](topics/oalu.md) | location | 2 | 1 |
+| [Oalu High Council](topics/oalu-high-council.md) | institution | 1 | 0 |
+| [Oalu Mantis](topics/oalu-mantis.md) | species | 2 | 0 |
 | [Operation Venus Haven](topics/operation-venus-haven.md) | historical event | 1 | 1 |
-| [Original Matrix](topics/original-matrix.md) | cosmology | 29 | 19 |
-| [Orion Council](topics/orion-council.md) | polity | 2 | 2 |
+| [Original Matrix](topics/original-matrix.md) | cosmology | 37 | 31 |
+| [Orion Council](topics/orion-council.md) | polity | 2 | 4 |
 | [Orion Grays](topics/orion-grays.md) | species | 5 | 4 |
-| [Orion Wars](topics/orion-wars.md) | history | 7 | 12 |
-| [Perceptual density](topics/perceptual-density.md) | cosmology | 24 | 38 |
-| [Pineal interface](topics/pineal-interface.md) | biology | 7 | 1 |
-| [Postmortem realities](topics/postmortem-realities.md) | cosmology | 85 | 25 |
-| [Prime Directive](topics/prime-directive.md) | institution | 53 | 24 |
-| [Planet Procyon](topics/procyon.md) | location | 1 | 4 |
+| [Orion Wars](topics/orion-wars.md) | history | 8 | 15 |
+| [Perceptual density](topics/perceptual-density.md) | cosmology | 38 | 51 |
+| [Pineal interface](topics/pineal-interface.md) | biology | 8 | 1 |
+| [Planetary DNA Arks](topics/planetary-dna-arks.md) | technology | 2 | 0 |
+| [Pluto](topics/pluto.md) | dwarf planet and astrological symbol | 2 | 1 |
+| [Postmortem realities](topics/postmortem-realities.md) | cosmology | 111 | 31 |
+| [Primary and Secondary Species](topics/primary-secondary-species.md) | species-taxonomy | 1 | 0 |
+| [Prime Directive](topics/prime-directive.md) | institution | 60 | 31 |
+| [Planet Procyon](topics/procyon.md) | location | 1 | 5 |
 | [Project Second Contact](topics/project-second-contact.md) | program | 10 | 2 |
+| [Rashell–Eisenhower Contact](topics/rashell-eisenhower-contact.md) | historical-event | 3 | 1 |
+| [Red Queen AI](topics/red-queen-ai.md) | artificial-intelligence | 2 | 0 |
+| [Reincarnation and karmic cycles](topics/reincarnation-cycles.md) | cosmology | 4 | 0 |
 | [Remote-presence technology](topics/remote-presence-technology.md) | technology | 3 | 0 |
-| [Reptilians](topics/reptilians.md) | species | 1 | 0 |
-| [Sand Clock](topics/sand-clock.md) | institution | 2 | 2 |
-| [Saturnian orbital bases](topics/saturn-bases.md) | location | 2 | 2 |
+| [Reptilian invaders](topics/reptilian-invaders.md) | faction | 0 | 2 |
+| [Reptilians](topics/reptilians.md) | species | 7 | 10 |
+| [Sand Clock](topics/sand-clock.md) | institution | 5 | 3 |
+| [Sasquatch](topics/sasquatch.md) | species | 5 | 0 |
+| [Sassani](topics/sassani.md) | species | 0 | 1 |
+| [Saturnian orbital bases](topics/saturn-bases.md) | location | 2 | 3 |
 | [Saturnian atmospheric fauna](topics/saturn-fauna.md) | species | 1 | 0 |
-| [Sentient starship AI](topics/sentient-starship-ai.md) | technology | 7 | 0 |
-| [Ship internal time](topics/ship-internal-time.md) | technology | 10 | 3 |
-| [Solar portal transit](topics/solar-portal-transit.md) | technology | 1 | 0 |
-| [Solatians](topics/solatians.md) | species | 5 | 0 |
+| [Sentient starship AI](topics/sentient-starship-ai.md) | technology | 10 | 0 |
+| [Shadow Work](topics/shadow-work.md) | practice | 4 | 0 |
+| [Shambala](topics/shambala.md) | location | 0 | 1 |
+| [Ship internal time](topics/ship-internal-time.md) | technology | 12 | 4 |
+| [Sirian civilizations](topics/sirian-civilizations.md) | species and civilization group | 4 | 0 |
+| [Sol 13 system](topics/sol-13.md) | star system | 1 | 0 |
+| [Solar portal transit](topics/solar-portal-transit.md) | technology | 2 | 0 |
+| [Distant Solar System Objects](topics/solar-system-objects.md) | astronomical object | 1 | 0 |
+| [Solatians](topics/solatians.md) | species | 5 | 1 |
 | [Sophia Swaruu](topics/sophia-swaruu.md) | character | 9 | 6 |
-| [Soulmates](topics/soulmates.md) | cosmology | 8 | 0 |
+| [Soul-family groups](topics/soul-family-groups.md) | cosmology | 0 | 4 |
+| [Soulmates](topics/soulmates.md) | cosmology | 8 | 2 |
 | [Spatium Lupi](topics/spatium-lupi.md) | faction | 6 | 0 |
+| [Alliance of the Sphere](topics/sphere-alliance.md) | faction | 0 | 1 |
 | [Spherical drones](topics/spherical-drones.md) | technology | 3 | 3 |
+| [Sphinx Underground Bases](topics/sphinx-underground-bases.md) | location | 2 | 0 |
 | [Starlette](topics/starlette.md) | person | 0 | 2 |
-| [Starseeds](topics/starseeds.md) | metaphysical population | 2 | 0 |
-| [Starship systems](topics/starship-systems.md) | technology | 308 | 157 |
-| [Stellar navigation](topics/stellar-navigation.md) | technology | 122 | 45 |
+| [Starseeds](topics/starseeds.md) | metaphysical population | 6 | 4 |
+| [Starship systems](topics/starship-systems.md) | technology | 337 | 192 |
+| [Stellar navigation](topics/stellar-navigation.md) | technology | 140 | 74 |
 | [Subterranean ocean networks](topics/subterranean-ocean-networks.md) | location | 2 | 0 |
-| [Sunspot portals](topics/sunspot-portals.md) | technology | 3 | 3 |
-| [Suzy fighter craft](topics/suzy-fighter-craft.md) | technology | 7 | 1 |
+| [Sumerian tablets](topics/sumerian-tablets.md) | historical source | 1 | 2 |
+| [Sunspot portals](topics/sunspot-portals.md) | technology | 4 | 4 |
+| [Suzy-class starships](topics/suzy-class-starships.md) | technology | 1 | 0 |
+| [Suzy fighter craft](topics/suzy-fighter-craft.md) | technology | 10 | 4 |
 | [Swaruunians](topics/swaruunians.md) | civilization | 2 | 0 |
+| [Synthetic Intelligence](topics/synthetic-intelligence.md) | artificial intelligence | 1 | 1 |
+| [Tall Whites](topics/tall-whites.md) | species | 3 | 0 |
 | [Tartaria](topics/tartaria.md) | history | 9 | 4 |
-| [Taygetan ecosystems](topics/taygetan-ecosystems.md) | geography | 19 | 7 |
-| [Taygetan flight suits and boots](topics/taygetan-flight-suits.md) | technology | 5 | 1 |
-| [Taygetan language](topics/taygetan-language.md) | language | 13 | 3 |
+| [Taygetan ecosystems](topics/taygetan-ecosystems.md) | geography | 26 | 14 |
+| [Taygetan First Contact Project](topics/taygetan-first-contact-project.md) | contact-program | 2 | 0 |
+| [Taygetan flight suits and boots](topics/taygetan-flight-suits.md) | technology | 6 | 1 |
+| [Taygetan language](topics/taygetan-language.md) | language | 15 | 3 |
+| [Taygetan parthenogenesis](topics/taygetan-parthenogenesis.md) | reproductive mechanism | 1 | 0 |
 | [Taygetan wireless power grid](topics/taygetan-wireless-power-grid.md) | technology | 2 | 2 |
-| [Taygetans](topics/taygetans.md) | civilization | 238 | 180 |
+| [Taygetans](topics/taygetans.md) | civilization | 275 | 216 |
 | [Teleportation](topics/teleportation.md) | technology | 2 | 0 |
-| [Temporal skipping](topics/temporal-skipping.md) | technology | 39 | 11 |
-| [Terrestrial science](topics/terrestrial-science.md) | institution | 229 | 87 |
-| [Tiamat](topics/tiamat.md) | location | 27 | 10 |
-| [Timeline branching](topics/timeline-branching.md) | mechanism | 19 | 12 |
-| [Toleka-class starships](topics/toleka-class.md) | technology | 18 | 4 |
-| [Total-immersion simulations](topics/total-immersion-simulations.md) | technology | 10 | 3 |
-| [Tractor beams](topics/tractor-beams.md) | technology | 4 | 5 |
-| [Tulpas](topics/tulpas.md) | cosmology | 3 | 0 |
+| [Temporal skipping](topics/temporal-skipping.md) | technology | 42 | 14 |
+| [Terrestrial science](topics/terrestrial-science.md) | institution | 241 | 93 |
+| [Tiamat](topics/tiamat.md) | location | 32 | 20 |
+| [Timeline branching](topics/timeline-branching.md) | mechanism | 35 | 26 |
+| [Toleka-class starships](topics/toleka-class.md) | technology | 18 | 5 |
+| [Toroidal planetary model](topics/toroidal-planetary-model.md) | cosmology | 1 | 0 |
+| [Total-immersion simulations](topics/total-immersion-simulations.md) | technology | 12 | 4 |
+| [Tractor beams](topics/tractor-beams.md) | technology | 10 | 6 |
+| [Tulpas](topics/tulpas.md) | cosmology | 5 | 1 |
 | [Ukraine](topics/ukraine.md) | location | 1 | 4 |
+| [Ummite civilization](topics/ummite-civilization.md) | civilization | 0 | 2 |
 | [Unicorn symbolism](topics/unicorn-symbolism.md) | symbolism | 9 | 0 |
-| [Urmah](topics/urmah.md) | species | 113 | 24 |
-| [Urmah Federation](topics/urmah-federation.md) | faction | 0 | 5 |
-| [Inoculation and genetic alteration claims](topics/vaccine-inoculation-claims.md) | technology | 4 | 1 |
-| [Venus](topics/venus.md) | location | 3 | 1 |
+| [Uranus and its moons](topics/uranus.md) | planetary system | 4 | 0 |
+| [Urmah](topics/urmah.md) | species | 118 | 26 |
+| [Urmah Federation](topics/urmah-federation.md) | faction | 0 | 6 |
+| [Inoculation and genetic alteration claims](topics/vaccine-inoculation-claims.md) | technology | 6 | 2 |
+| [Van Allen belts](topics/van-allen-belts.md) | celestial phenomenon | 3 | 0 |
+| [Venus](topics/venus.md) | location | 6 | 2 |
 | [Viera](topics/viera.md) | location | 9 | 5 |
-| [Vlash, Vlad and Vrill clans](topics/vlash-vlad-vrill-clans.md) | faction | 0 | 1 |
-| [Walk-in phenomenon](topics/walk-in-phenomenon.md) | cosmology | 6 | 2 |
-| [Weather control systems](topics/weather-control.md) | technology | 4 | 1 |
-| [Zeta Reticuli Gardeners](topics/zeta-reticuli-gardeners.md) | species | 3 | 1 |
+| [Vlash, Vlad and Vrill clans](topics/vlash-vlad-vrill-clans.md) | faction | 1 | 2 |
+| [Walk-in phenomenon](topics/walk-in-phenomenon.md) | cosmology | 6 | 4 |
+| [Weather control systems](topics/weather-control.md) | technology | 10 | 4 |
+| [Zeta Reticuli Gardeners](topics/zeta-reticuli-gardeners.md) | species | 8 | 2 |
 
 ## Reviewed sources
 
 | Source | Language | Published | Claims |
 | --- | --- | --- | ---: |
+| [RAZA TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/raza-taygeteana-de-las-pleyades) | es | 2018-05-12 | 5 |
+| [EL PORQUE NO PUEDEN HABER PRUEBAS - TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/el-porque-no-pueden-haber-pruebas-taygeteana-de-las-pleyades) | es | 2018-05-15 | 5 |
+| [Como contactamos con Extraterrestres de la Raza Taygeteana de las Pleyades](https://swaruu.org/transcripts/como-contactamos-con-extraterrestres-de-la-raza-taygeteana-de-las-pleyades) | es | 2018-05-20 | 3 |
+| [El Ego - Que es](https://swaruu.org/transcripts/el-ego-que-es) | es | 2018-05-25 | 3 |
+| [MISTERIOSOS SONIDOS INEXPLICABLES EN EL CIELO](https://swaruu.org/transcripts/misteriosos-sonidos-inexplicables-en-el-cielo) | es | 2018-05-26 | 3 |
+| [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-quienes-somos-1) | es | 2018-05-28 | 5 |
+| [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru-y-nemesis-no-existen) | es | 2018-05-30 | 4 |
+| [QUE ES EL AMOR](https://swaruu.org/transcripts/que-es-el-amor) | es | 2018-05-31 | 5 |
+| [TEMOR EN LA MATRIX -ENERGÍAS ETERICAS](https://swaruu.org/transcripts/temor-en-la-matrix-energias-etericas) | es | 2018-06-01 | 5 |
+| [Mensaje Extraterrestre de Taygeta (Pleyades): Porque Estamos Aqui Ahora? (2)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-porque-estamos-aqui-ahora-2) | es | 2018-06-04 | 6 |
+| [EL SOL Y LOS CODIGOS OCULTOS DEL CABAL](https://swaruu.org/transcripts/el-sol-y-los-codigos-ocultos-del-cabal) | es | 2018-06-11 | 5 |
+| [LA INTELIGENCIA ARTIFICIAL COLONIZANDO GALAXIAS- ANÉEKA DE TEMMER](https://swaruu.org/transcripts/la-inteligencia-artificial-colonizando-galaxias-aneeka-de-temmer) | es | 2018-06-12 | 5 |
+| [EL PORQUÉ DE LA ENTRADA DE TANTOS NIÑOS AUTISTAS Y ASPERGER A LA TIERRA](https://swaruu.org/transcripts/el-porque-de-la-entrada-de-tantos-ninos-autistas-y-asperger-a-la-tierra) | es | 2018-06-14 | 4 |
+| [Primera Directiva: Mensaje Extraterrestre de Pleyades (Taygeta) (3)](https://swaruu.org/transcripts/primera-directiva-mensaje-extraterrestre-de-pleyades-taygeta-3) | es | 2018-06-16 | 4 |
+| [EL MIEDO PRIMORDIAL - RAZA TAYGETEANA DE LAS PLEYADES](https://swaruu.org/transcripts/el-miedo-primordial-raza-taygeteana-de-las-pleyades) | es | 2018-06-17 | 4 |
+| [EL SUICIDIO - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/el-suicidio-swaruu-de-la-raza-taygeteana-de-las-pleyades) | es | 2018-06-18 | 5 |
+| [VIAJES EN EL TIEMPO, PARADOJAS, LINEAS TEMPORALES - SWARUU- DE LA RAZA TAYGETEANA - LAS PLEYADES](https://swaruu.org/transcripts/viajes-en-el-tiempo-paradojas-lineas-temporales-swaruu-de-la-raza-taygeteana-las-pleyades) | es | 2018-06-20 | 5 |
+| [LA HISTORIA OCULTA DE LA HUMANIDAD - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/la-historia-oculta-de-la-humanidad-swaruu-de-la-raza-taygeteana-de-las-pleyades) | es | 2018-06-26 | 3 |
+| [ARCONTES - SWARUU- DE LA RAZA TAYGETEANA DE - LAS PLEYADES](https://swaruu.org/transcripts/arcontes-swaruu-de-la-raza-taygeteana-de-las-pleyades) | es | 2018-06-28 | 4 |
+| [Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (4)](https://swaruu.org/transcripts/matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-4) | es | 2018-06-29 | 7 |
+| [LA MATRIX - SWARUU - LAS PLÉYADES - TAYGETA](https://swaruu.org/transcripts/la-matrix-swaruu-las-pleyades-taygeta) | es | 2018-06-30 | 4 |
+| [La Biología, la genética se genera desde planos superiores – LAS PLEYADES -TAYGETA -SWARUU](https://swaruu.org/transcripts/la-biologia-la-genetica-se-genera-desde-planos-superiores-las-pleyades-taygeta-swaruu) | es | 2018-07-04 | 4 |
+| [Mas sobre Matrix 3D: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (5)](https://swaruu.org/transcripts/mas-sobre-matrix-3d-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-5) | es | 2018-07-07 | 4 |
+| [LA LUNA - ESTACIÓN ESPACIAL ARTIFICIAL Y LA MATRIX 3D – SWARUU - TAYGETA - Las Pléyades](https://swaruu.org/transcripts/la-luna-estacion-espacial-artificial-y-la-matrix-3d-swaruu-taygeta-las-pleyades) | es | 2018-07-09 | 5 |
+| [EL FINAL DE LA MATRIX 3D - SWARUU- Sistema Taygeta - LAS PLEYADES](https://swaruu.org/transcripts/el-final-de-la-matrix-3d-swaruu-sistema-taygeta-las-pleyades) | es | 2018-07-12 | 3 |
+| [AUTOEMBARAZO - PARTENOGÉNESIS- SWARUU- Sistema Taygeta - LAS PLEYADES](https://swaruu.org/transcripts/autoembarazo-partenogenesis-swaruu-sistema-taygeta-las-pleyades) | es | 2018-07-15 | 3 |
+| [Densidades: Mensaje y Contacto Extraterrestre de Pleyades (Taygeta) (6)](https://swaruu.org/transcripts/densidades-mensaje-y-contacto-extraterrestre-de-pleyades-taygeta-6) | es | 2018-07-16 | 6 |
+| [LA FALSEDAD DE LA CIENCIA TERRESTRE- SWARUU- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/la-falsedad-de-la-ciencia-terrestre-swaruu-sistema-taygeta-pleyades) | es | 2018-07-19 | 3 |
+| [Mensaje Extraterrestre Pleyadiano: La Falsedad de la Ciencia Terrestre](https://swaruu.org/transcripts/mensaje-extraterrestre-pleyadiano-la-falsedad-de-la-ciencia-terrestre) | es | 2018-07-21 | 6 |
+| [LA FALSEDAD DE LA CIENCIA TERRESTRE-BAJO QUE PROPOSITO - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/la-falsedad-de-la-ciencia-terrestre-bajo-que-proposito-swaruu-sistema-taygeta-pleyades) | es | 2018-07-21 | 5 |
+| [Biogenética trans-dimensional. Secretos - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/biogenetica-trans-dimensional-secretos-swaruu-sistema-taygeta-pleyades) | es | 2018-07-24 | 7 |
+| [Gente No Real: Mensaje Extraterrestre (Pleyades - Taygeta) (7)](https://swaruu.org/transcripts/gente-no-real-mensaje-extraterrestre-pleyades-taygeta-7) | es | 2018-07-26 | 4 |
+| [EXPERIMENTOS GENÉTICOS CON EL ALMA - Y OTRAS PREGUNTAS](https://swaruu.org/transcripts/experimentos-geneticos-con-el-alma-y-otras-preguntas) | es | 2018-07-28 | 3 |
+| [MENSAJE EXTRATRRESTRE PARA LOS ESCEPTICOS - SWARUU DE ERRA - PLEYADES](https://swaruu.org/transcripts/mensaje-extratrrestre-para-los-escepticos-swaruu-de-erra-pleyades) | es | 2018-07-30 | 3 |
+| [Swaruu se Dirige a los Escepticos - Mensaje Extraterreste de Pleyades (Taygeta)](https://swaruu.org/transcripts/swaruu-se-dirige-a-los-escepticos-mensaje-extraterreste-de-pleyades-taygeta) | es | 2018-07-30 | 7 |
+| [BIOLOGÍA III – CLONES - ALMAS ARTIFICIALES - SWARUU - PLEYADES](https://swaruu.org/transcripts/biologia-iii-clones-almas-artificiales-swaruu-pleyades) | es | 2018-08-02 | 7 |
+| [PROGRAMA ESPACIAL SECRETO -LA COSMOLOGIA – BANDAS VAN ALLEN – SWARUU DE ERRA](https://swaruu.org/transcripts/programa-espacial-secreto-la-cosmologia-bandas-van-allen-swaruu-de-erra) | es | 2018-08-06 | 4 |
+| [NUNCA FUIMOS A LA LUNA - BANDAS VAN ALLEN -SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-bandas-van-allen-swaruu-de-erra-sistema-taygeta-pleyades) | es | 2018-08-11 | 4 |
+| [BioGenetica Trans-Dimensional: Swaruu Mujer Extraterrestre de Pleyades (Taygeta) \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/biogenetica-trans-dimensional-swaruu-mujer-extraterrestre-de-pleyades-taygeta) | es | 2018-08-14 | 5 |
+| [NUNCA FUIMOS A LA LUNA - SWARUU DE ERRA - LAS PLEYADES - Goo Negro - MENSAJE EXTRATERRESTRE](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-swaruu-de-erra-las-pleyades-goo-negro-mensaje-extraterrestre) | es | 2018-08-15 | 4 |
+| [EXTRATERRESTRE DE LAS PLEYADES - SWARUU DE ERRA – ESTRELLA TAYGETA](https://swaruu.org/transcripts/extraterrestre-de-las-pleyades-swaruu-de-erra-estrella-taygeta) | es | 2018-08-19 | 6 |
+| [Clones, Almas Artificiales, Inteligencia Artificial y Chips: Mensaje Pleyadiano a la Tierra](https://swaruu.org/transcripts/clones-almas-artificiales-inteligencia-artificial-y-chips-mensaje-pleyadiano-a-la-tierra) | es | 2018-08-20 | 4 |
+| [NO FUIMOS A LA LUNA – SWARUU DE ERRA – EXTRATERRESTRE DE LAS PLEYADES – ESTRELLA TAYGETA](https://swaruu.org/transcripts/no-fuimos-a-la-luna-swaruu-de-erra-extraterrestre-de-las-pleyades-estrella-taygeta) | es | 2018-08-23 | 3 |
+| [Inteligencia Artificial y Clones: Preguntas (Mensaje Extraterrestre Pleyades)](https://swaruu.org/transcripts/inteligencia-artificial-y-clones-preguntas-mensaje-extraterrestre-pleyades) | es | 2018-08-24 | 4 |
+| [Como Elevar la Frecuencia: Mensaje Extraterrestre de los Pleyades (8)](https://swaruu.org/transcripts/como-elevar-la-frecuencia-mensaje-extraterrestre-de-los-pleyades-8) | es | 2018-08-30 | 3 |
+| [CONVERSIÓN DE CONCIENCIA-INTENCIÓN A MATERIA DURA - Swaruu de Erra – REACTOR DE ENERGIA PUNTO CERO](https://swaruu.org/transcripts/conversion-de-conciencia-intencion-a-materia-dura-swaruu-de-erra-reactor-de-energia-punto-cero) | es | 2018-08-30 | 4 |
 | [Extraterrestrial Message/Taygeta (Pleiades): Who Are We? (1)](https://swaruu.org/transcripts/1-extraterrestrial-message-taygeta-pleiades-who-are-we) | en | 2018-09-02 | 5 |
 | [Extraterrestrial Message from Pleiades (Taygeta) (2)](https://swaruu.org/transcripts/2-extraterrestrial-message-from-pleiades-taygeta) | en | 2018-09-04 | 5 |
+| [BIOLOGÍA IV - GOO NEGRO EXTRATERRESTRE - CHEMTRAILS - INTELIGENCIA ARTIFICIAL – SWARUU DE ERRA](https://swaruu.org/transcripts/biologia-iv-goo-negro-extraterrestre-chemtrails-inteligencia-artificial-swaruu-de-erra) | es | 2018-09-06 | 6 |
+| [Energia Libre (Punto Zero): Mecanica de Manifestacion 1 - Mensaje Extraterrestre- Swaruu de Erra](https://swaruu.org/transcripts/energia-libre-punto-zero-mensaje-extraterrestre-directo-de-swaruu-de-los-pleyades-taygeta) | es | 2018-09-07 | 7 |
+| [LAS VACUNAS - EL GOO NEGRO - EL SIDA - LAS FARMACÉUTICAS -SWARUU -MENSAJE PLEYADIANO](https://swaruu.org/transcripts/las-vacunas-el-goo-negro-el-sida-las-farmaceuticas-swaruu-mensaje-pleyadiano) | es | 2018-09-11 | 3 |
 | [Swaruu of Erra addressed Galactic Federation, other so-called positive ET races, and humans - TEXT ONLY (published as video in Spanish only)](https://swaruu.org/transcripts/swaruu-of-erra-addressed-galactic-federation-other-so-called-positive-et-races-and-humans-text-only-) | en | 2018-09-18 | 5 |
+| [Carta Respuesta de Swaruu a la Federacion Galactica: Tertulia de Anochecer (3)](https://swaruu.org/transcripts/carta-respuesta-de-swaruu-a-la-federacion-galactica-tertulia-de-anochecer-3) | es | 2018-09-18 | 4 |
+| [MENSAJE EXTRATERRESTRE - NAVEGACION ESTELAR - SWARUU DE ERRA- Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/mensaje-extraterrestre-navegacion-estelar-swaruu-de-erra-sistema-taygeta-pleyades) | es | 2018-09-19 | 4 |
+| [Energia Punto Cero: Preguntas (Mensaje Extraterrestre Pleyades)](https://swaruu.org/transcripts/energia-punto-cero-preguntas-mensaje-extraterrestre-pleyades) | es | 2018-09-28 | 7 |
 | [Extraterrestrial Message from Taygeta (Pleiades) - Prime Directive (3)](https://swaruu.org/transcripts/extraterrestrial-message-from-taygeta-pleiades-prime-directi) | en | 2018-09-29 | 5 |
 | [Extraterrestrial Message (Taygeta - Pleiades): We are Living in the Matrix 3D (4)](https://swaruu.org/transcripts/extraterrestrial-message-taygeta-pleiades-we-are-living-in-the-matrix-3d-4) | en | 2018-09-30 | 7 |
+| [Preguntas Frecuentes: Mensaje Extraterrestre (Swaruu de Taygeta-Pleyades)](https://swaruu.org/transcripts/preguntas-frecuentes-mensaje-extraterrestre-swaruu-de-taygeta-pleyades) | es | 2018-10-02 | 6 |
+| [EL YETI ES REAL Y EXISTE - EL MISTERIO DEL YETI -SASQUATCH - BIGFOOT - PIE GRANDE -MENK](https://swaruu.org/transcripts/el-yeti-es-real-y-existe-el-misterio-del-yeti-sasquatch-bigfoot-pie-grande-menk) | es | 2018-10-02 | 5 |
 | [More About 3D Matrix: Extraterrestrial Message from Pleiadians (Taygeta) (5)](https://swaruu.org/transcripts/more-about-3d-matrix-extraterrestrial-message-from-pleiadians-taygeta-5) | en | 2018-10-06 | 5 |
+| [Inteligencia Artificial, Goo Negro, Chemtrails y mas: Articulo de Swaruu (Taygeta, Pleyades)](https://swaruu.org/transcripts/inteligencia-artificial-goo-negro-chemtrails-y-mas-articulo-de-swaruu-taygeta-pleyades) | es | 2018-10-09 | 8 |
+| [LAS TABLILLAS SUMERIAS - ANUNNAKI REPTIL - QUIENES ERAN ENKI ENLIL Y ANU - Swaruu de Erra](https://swaruu.org/transcripts/las-tablillas-sumerias-anunnaki-reptil-quienes-eran-enki-enlil-y-anu-swaruu-de-erra) | es | 2018-10-10 | 3 |
+| [El ¨Hackeo Reptiliano¨ de la Matrix y Control Mental: Contacto Pleyadiano (Swaruu) (10)](https://swaruu.org/transcripts/el-hackeo-reptiliano-de-la-matrix-y-control-mental-contacto-pleyadiano-swaruu-10) | es | 2018-10-14 | 4 |
 | [Densities: Extraterrestrial Message from Pleiades (Taygeta) (6)](https://swaruu.org/transcripts/densities-extraterrestrial-message-from-pleiades-taygeta-6) | en | 2018-10-15 | 6 |
+| [CONTACTO EXTRATERRESTRE PLEYADIANO DE TAYGETA CON EL PRESIDENTE IKE EISENHOWER - RASHELL DE TEMMER](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-de-taygeta-con-el-presidente-ike-eisenhower-rashell-de-temmer) | es | 2018-10-16 | 5 |
+| [Swaruu: Matrix Original: Contacto Extraterrestre Pleyadiano (11)](https://swaruu.org/transcripts/swaruu-matrix-original-contacto-extraterrestre-pleyadiano-11) | es | 2018-10-17 | 4 |
+| [LOS MISTERIOSOS CIRCULOS DE LAS COSECHAS – MENSAJES ENTRE EXTRATERRESTRES – Swaruu de Erra](https://swaruu.org/transcripts/los-misteriosos-circulos-de-las-cosechas-mensajes-entre-extraterrestres-swaruu-de-erra) | es | 2018-10-18 | 3 |
 | [Extraterrestrial Pleiadian Message: Falsity of Earth Science (Swaruu of Erra)](https://swaruu.org/transcripts/extraterrestrial-pleiadian-message-falsity-of-earth-science-swaruu) | en | 2018-10-20 | 6 |
 | [Not Real People: Extraterrestrial Information from Pleiades (Taygeta) (7)](https://swaruu.org/transcripts/not-real-people-extraterrestrial-message-from-pleiades-taygeta-7) | en | 2018-10-22 | 6 |
+| [EXISTEN LOS ÁNGELES - HUBO BIG BANG – PREGUNTAS Y RESPUESTAS – Swaruu de Erra](https://swaruu.org/transcripts/existen-los-angeles-hubo-big-bang-preguntas-y-respuestas-swaruu-de-erra) | es | 2018-10-26 | 3 |
 | [Reptilian-Cabal Experiments: Swaruu of Erra, Extraterrestrial Woman from Pleiades, Speaks Out (Biology 2)](https://swaruu.org/transcripts/reptilian-cabal-experiments-swaruu-extraterrestrial-woman-from-pleiades-speaks-out-biology-2) | en | 2018-10-28 | 8 |
+| [Swaruu: Que Signfica ser una Persona 5D: Contacto Extraterrestre Pleyadiano (12)](https://swaruu.org/transcripts/swaruu-que-signfica-ser-una-persona-5d-contacto-extraterrestre-pleyadiano-12) | es | 2018-10-28 | 3 |
+| [Navegacion Estelar Extraterrestre, Viajes en Tiempo, Mapas InterEstelares: Swaruu de Erra (Pleyades)](https://swaruu.org/transcripts/navegacion-estelar-extraterrestre-viajes-en-tiempo-mapas-interestelares-swaruu-de-erra-pleyades) | es | 2018-10-30 | 6 |
 | [Artificial Intelligence, Clones, Artificial Souls and Chips: Extraterrestrial Message to Earth (Biology 3)](https://swaruu.org/transcripts/artificial-intelligence-clones-artificial-souls-and-chips-extraterrestrial-message-to-earth-biology-) | en | 2018-10-31 | 5 |
+| [LA CRIOPRESERVACIÓN LO QUE NO TE DICEN - La Inmortalidad – Criogenización – Swaruu de Erra](https://swaruu.org/transcripts/la-criopreservacion-lo-que-no-te-dicen-la-inmortalidad-criogenizacion-swaruu-de-erra) | es | 2018-11-01 | 5 |
 | [Artificial Intelligence and Clones (Extraterrestrial Information - Taygeta/Pleiades) (Biology 3: Questions)](https://swaruu.org/transcripts/artificial-intelligence-and-clones-extraterrestrial-message-from-pleyades-biology-3-questions) | en | 2018-11-04 | 5 |
+| [Swaruu: Navegacion Estelar 1: PREGUNTAS (Contacto Extraterrestre)](https://swaruu.org/transcripts/swaruu-navegacion-estelar-1-preguntas-contacto-extraterrestre) | es | 2018-11-05 | 3 |
 | [How to Raise Your Frequency: Direct Message from the Pleiadian Contact (8)](https://swaruu.org/transcripts/how-to-raise-your-frequency-direct-message-from-the-pleiadian-contact-8) | en | 2018-11-07 | 5 |
+| [Los Creadores de la Realidad - Swaruu de Erra - Aneeka de Temmer - Asket de Temmer](https://swaruu.org/transcripts/los-creadores-de-la-realidad-swaruu-de-erra-aneeka-de-temmer-asket-de-temmer) | es | 2018-11-08 | 6 |
+| [Swaruu de Erra: Familias y Entrevidas (Mensaje Extraterrestre Pleyadiano) (13)](https://swaruu.org/transcripts/swaruu-de-erra-familias-y-entrevidas-mensaje-extraterrestre-pleyadiano-13) | es | 2018-11-10 | 6 |
+| [La Historia Oculta del Mundo de los Espiritus](https://swaruu.org/transcripts/la-historia-oculta-del-mundo-de-los-espiritus) | es | 2018-11-13 | 6 |
 | [Free Energy (Zero Point): Mechanics of Manifestation - Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/free-energy-zero-point-direct-message-from-pleiadian-taygetean-swaruu) | en | 2018-11-16 | 5 |
+| [Swaruu de Erra: Preguntas Frecuentes 2 (Mensaje de Taygeta, Pleyades) (14)](https://swaruu.org/transcripts/swaruu-de-erra-preguntas-frecuentes-2-mensaje-de-taygeta-pleyades-14) | es | 2018-11-20 | 6 |
+| [NAVEGACION ESTELAR II - PORTALES DIMENSIONALES - SWARUU DE ERRA - VUELO WARP](https://swaruu.org/transcripts/navegacion-estelar-ii-portales-dimensionales-swaruu-de-erra-vuelo-warp) | es | 2018-11-21 | 5 |
+| [Contacto Extraterrestre Pleyadiano - Estrella Taygeta -Anéeka de Temmer - Las Pleyades](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-estrella-taygeta-aneeka-de-temmer-las-pleyades) | es | 2018-11-22 | 4 |
 | [Zero Point (Free) Energy: Questions (Extraterrestrial Pleiadian Information)](https://swaruu.org/transcripts/zero-point-free-energy-questions-extraterrestrial-pleiadian-message) | en | 2018-11-23 | 5 |
+| [Swaruu de Erra: Trampa del KARMA (Mensaje Extraterrestre Pleyadiano de Taygeta) (15)](https://swaruu.org/transcripts/swaruu-de-erra-trampa-del-karma-mensaje-extraterrestre-pleyadiano-de-taygeta-15) | es | 2018-11-26 | 6 |
+| [CONTACTO EXTRATERRESTRE DE LAS PLEYADES - ESTRELLA TAYGETA - SWARUU - ANEEKA](https://swaruu.org/transcripts/contacto-extraterrestre-de-las-pleyades-estrella-taygeta-swaruu-aneeka) | es | 2018-11-28 | 6 |
+| [CONTACTO EXTRATERRESTRE - ESTRELLA TAYGETA - LAS PLEYADES - Swarru - Anéeka](https://swaruu.org/transcripts/contacto-extraterrestre-estrella-taygeta-las-pleyades-swarru-aneeka) | es | 2018-12-02 | 6 |
 | [Frequently Asked Questions: Extraterrestrial Information from Pleiades (Taygeta)](https://swaruu.org/transcripts/frequently-asked-questions-extraterrestrial-message-from-pleiades-taygeta) | en | 2018-12-04 | 5 |
+| [CONTACTO EXTRATERRESTRE - INTELIGENCIA ARTIFICIAL – Swaruu de Erra](https://swaruu.org/transcripts/contacto-extraterrestre-inteligencia-artificial-swaruu-de-erra) | es | 2018-12-04 | 4 |
+| [Swaruu de Erra: Porque hay Sufrimiento? (Mensaje Extraterrestre Pleyadiano de Taygeta) (16)](https://swaruu.org/transcripts/swaruu-de-erra-porque-hay-sufrimiento-mensaje-extraterrestre-pleyadiano-de-taygeta-16) | es | 2018-12-08 | 8 |
 | [INVASIVE BLACK GOO and AI: Biggest THREAT to the PLANET EARTH (Extraterrestrial Message - Pleiades)](https://swaruu.org/transcripts/invasive-black-goo-and-ai-biggest-threat-to-the-planet-earth-extraterrestrial-message-pleiades) | en | 2018-12-13 | 5 |
+| [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://swaruu.org/transcripts/contacto-con-mujeres-extraterrestres-la-estrella-taygeta) | es | 2018-12-15 | 7 |
+| [EL EGO Y EL AMOR - MENSAJE EXTRATERRESTRE - NIBIRU - STAR TREK - SWARUU DE ERRA](https://swaruu.org/transcripts/el-ego-y-el-amor-mensaje-extraterrestre-nibiru-star-trek-swaruu-de-erra) | es | 2018-12-17 | 5 |
+| [ESPIRITUALIDAD Y CONCIENCIA - KARMA - MENSAJE EXTRATERRESTRE - SWARUU DE ERRA](https://swaruu.org/transcripts/espiritualidad-y-conciencia-karma-mensaje-extraterrestre-swaruu-de-erra) | es | 2018-12-22 | 4 |
+| [Sociedad Pleyadiana (Taygeta) PARTE 1: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-1-mensaje-extraterrestre-17) | es | 2018-12-23 | 5 |
 | [Reptilian Matrix Hack and Mind Control: Extraterrestrial Pleiadian Information (10)](https://swaruu.org/transcripts/reptilian-matrix-hack-and-mind-control-extraterrestrial-pleiadian-message-10) | en | 2018-12-27 | 7 |
+| [CONTACTO EXTRATERRESTRE – LA MATRIX – SISTEMA SOLAR – NIBIRU – TIAMAT - SWARUU DE ERRA](https://swaruu.org/transcripts/contacto-extraterrestre-la-matrix-sistema-solar-nibiru-tiamat-swaruu-de-erra) | es | 2018-12-28 | 3 |
+| [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) | es | 2018-12-28 | 7 |
 | [Original Matrix: Extraterrestrial Pleiadian Information (Swaruu of Erra, Taygeta) (11)](https://swaruu.org/transcripts/original-matrix-extraterrestrial-pleiadian-message-swaruu-of-erra-taygeta-11) | en | 2018-12-31 | 6 |
+| [Sociedad Taygeteana PARTE 3: Animales y Sufrimiento Animal (17)](https://swaruu.org/transcripts/sociedad-taygeteana-parte-3-animales-y-sufrimiento-animal-17) | es | 2019-01-02 | 4 |
 | [How to be a "5D" person?: Extraterrestrial Pleiadian Information (Taygeta) (12)](https://swaruu.org/transcripts/how-to-be-a-5d-person-extraterrestrial-pleiadian-message-taygeta-12) | en | 2019-01-05 | 7 |
+| [2019 - EL CABALLERO NEGRO - LOS ANUNNAKI - CONTACTO EXTRATERRESTRE](https://swaruu.org/transcripts/2019-el-caballero-negro-los-anunnaki-contacto-extraterrestre) | es | 2019-01-10 | 5 |
+| [Swaruu de Erra: Varias Conversaciones (Mensaje Extraterrestre Pleyadiano) (18)](https://swaruu.org/transcripts/swaruu-de-erra-varias-conversaciones-mensaje-extraterrestre-pleyadiano-18) | es | 2019-01-12 | 4 |
+| [BASES EXTRATERRESTRES ABANDONADAS BAJO LA ESFINGE DE EGIPTO.](https://swaruu.org/transcripts/bases-extraterrestres-abandonadas-bajo-la-esfinge-de-egipto) | es | 2019-01-24 | 3 |
+| [Nosotras Somos las Chicas de Sociedad Vril: Mensaje Pleyadiano (Rashell de Temmer)](https://swaruu.org/transcripts/nosotras-somos-las-chicas-de-sociedad-vril-mensaje-pleyadiano-rashell-de-temmer) | es | 2019-01-24 | 6 |
 | [Pleiadian Extraterrestrial Information: Families and Afterlife (Swaruu of Erra) (13)](https://swaruu.org/transcripts/pleiadian-extraterrestrial-message-families-and-afterlife-swaruu-from-erra-13) | en | 2019-01-25 | 5 |
+| [Nosotras, Pleyadianas, Hablamos con Eisenhower: Primer Relato en la Historia](https://swaruu.org/transcripts/nosotras-pleyadianas-hablamos-con-eisenhower-primer-relato-en-la-historia) | es | 2019-02-01 | 4 |
 | [Stellar Navigation 1 (Extraterrestrial Time Travel, Stellar Maps and more) - Swaruu of Erra](https://swaruu.org/transcripts/pleiadian-message-stellar-navigation-time-travel-stellar-maps-and-more) | en | 2019-02-03 | 7 |
+| [QUIEN FUE MOISÉS – QUE ERA LA ARCA DE LA ALIANZA – LOS LYRIANOS](https://swaruu.org/transcripts/quien-fue-moises-que-era-la-arca-de-la-alianza-los-lyrianos) | es | 2019-02-06 | 4 |
+| [Swaruu y Reencarnacion: Mensaje Extraterrestre Pleyadiano (Taygeta) (19)](https://swaruu.org/transcripts/swaruu-y-reencarnacion-mensaje-extraterrestre-pleyadiano-taygeta-19) | es | 2019-02-11 | 4 |
 | [Stellar Navigation 1: Questions (Pleiadian Extraterrestrial Information)](https://swaruu.org/transcripts/stellar-navigation-questions-pleiadian-extraterrestrial-message) | en | 2019-02-13 | 7 |
+| [EL UNIVERSO ES UNA GRAN MATRIX – PORTALES ESPACIO TIEMPO - SWARUU](https://swaruu.org/transcripts/el-universo-es-una-gran-matrix-portales-espacio-tiempo-swaruu) | es | 2019-02-13 | 4 |
+| [TECNOLOGIA EXTRATERRESTRE BASADA EN LA CONCIENCIA - SWARUU](https://swaruu.org/transcripts/tecnologia-extraterrestre-basada-en-la-conciencia-swaruu) | es | 2019-02-15 | 4 |
 | [Pleiadian Extraterrestrial Information: Frequently Asked Questions 2](https://swaruu.org/transcripts/pleiadian-extraterrestrial-message-frequently-asked-questions-2) | en | 2019-02-18 | 6 |
+| [Swaruu y Homosexualidad en 5D: EXISTE? (Mensaje Extraterrestre Pleyadiano (20)](https://swaruu.org/transcripts/swaruu-y-homosexualidad-en-5d-existe-mensaje-extraterrestre-pleyadiano-20) | es | 2019-02-22 | 3 |
 | [Karma: FREE YOURSELF - Extraterrestrial Information (Swaruu of Erra) (15)](https://swaruu.org/transcripts/karma-free-yourself-extraterrestrial-pleiadian-message-swaruu-of-erra-15) | en | 2019-02-23 | 5 |
+| [CREACIÓN DE CLONES HUMANOS – COMO SE CREAN – TECNOLOGÍA DE CLONACIÓN - SWARUU DE ERRA](https://swaruu.org/transcripts/creacion-de-clones-humanos-como-se-crean-tecnologia-de-clonacion-swaruu-de-erra) | es | 2019-03-03 | 5 |
+| [SONIDOS EXTRAÑOS EN EL CIELO – PRESUPUESTO PROPUESTO DE LA NASA PARA CAZAR EXTRATERRESTRES](https://swaruu.org/transcripts/sonidos-extranos-en-el-cielo-presupuesto-propuesto-de-la-nasa-para-cazar-extraterrestres) | es | 2019-03-07 | 4 |
 | [Why Do We Suffer? - Conversation with the Extraterrestrial Pleiadian (Swaruu of Erra) (16)](https://swaruu.org/transcripts/why-do-we-suffer-extraterrestrial-pleiadian-message-swaruu-of-erra-16) | en | 2019-03-11 | 6 |
+| [Swaruu de Erra y su Curiosidad sobre Nosotros: Mensaje Extraterrestre Pleyadiano (21)](https://swaruu.org/transcripts/swaruu-de-erra-y-su-curiosidad-sobre-nosotros-mensaje-extraterrestre-pleyadiano-21) | es | 2019-03-11 | 2 |
+| [REGISTROS AKÁSHICOS - QUE ES EL LIBRE ALBEDRÍO - SWARUU](https://swaruu.org/transcripts/registros-akashicos-que-es-el-libre-albedrio-swaruu) | es | 2019-03-11 | 7 |
+| [INFORMACION IMPORTANTE SOBRE NIBIRU - MOISES Y LAS TABLAS DE LA LEY - SWARUU](https://swaruu.org/transcripts/informacion-importante-sobre-nibiru-moises-y-las-tablas-de-la-ley-swaruu) | es | 2019-03-15 | 5 |
+| [COMO NACIÓ LA MATRIX 3D - QUE FUE DE LOS GIGANTES - SWARUU](https://swaruu.org/transcripts/como-nacio-la-matrix-3d-que-fue-de-los-gigantes-swaruu) | es | 2019-03-20 | 5 |
 | [Taygetan Pleiadian Civilization (Part 1) - Extraterrestrial Life (17)](https://swaruu.org/transcripts/taygetean-pleiadian-civilization-part-1-extraterrestrial-life-17) | en | 2019-03-24 | 7 |
 | [Taygetan Pleiadian Civilization (Part 2) - Extraterrestrial Life](https://swaruu.org/transcripts/taygetean-pleiadian-civilization-part-2-extraterrestrial-life) | en | 2019-03-31 | 6 |
+| [LA MATRIX ES UNA ENORME TULPA - JAQUEAR LA MATRIX - COMO SALIR DE LA MATRIX](https://swaruu.org/transcripts/la-matrix-es-una-enorme-tulpa-jaquear-la-matrix-como-salir-de-la-matrix) | es | 2019-04-05 | 4 |
+| [LOS GIGANTES ATLANTES - LA ATLANTIDA - TABLILLAS SUMERIAS -LOS LYRIANOS](https://swaruu.org/transcripts/los-gigantes-atlantes-la-atlantida-tablillas-sumerias-los-lyrianos) | es | 2019-04-11 | 4 |
+| [Swaruu y el Gato: Esta Realmente Alli? Mensaje Extraterrestre Pleyadiano (22)](https://swaruu.org/transcripts/swaruu-y-el-gato-esta-realmente-alli-mensaje-extraterrestre-pleyadiano-22) | es | 2019-04-11 | 2 |
 | [Taygetan Pleiadian Civilization (Part 3) - Pleiadian Animals](https://swaruu.org/transcripts/taygetean-pleiadian-civilization-part-3-pleiadian-animals) | en | 2019-04-12 | 6 |
 | [Pleiadian Taygetan Information: Mix of Conversations with Swaruu of Erra (18)](https://swaruu.org/transcripts/pleiadian-taygetean-message-mix-of-conversations-with-swaruu-of-erra-18) | en | 2019-04-14 | 7 |
+| [Ascension: Que es y en Que Consiste? Mensaje Extraterrestre Pleyadiano (23)](https://swaruu.org/transcripts/ascension-que-es-y-en-que-consiste-mensaje-extraterrestre-pleyadiano-23) | es | 2019-04-16 | 4 |
 | [Reincarnation: Direct Extraterrestrial Pleiadian Information (Swaruu - Taygeta) (19)](https://swaruu.org/transcripts/reincarnation-direct-extraterrestrial-pleiadian-message-swaruu-taygeta-19) | en | 2019-04-19 | 5 |
+| [ALMA: Que Es? Swaruu de Erra (Taygeta-Pleyades): Mensaje Extraterrestre](https://swaruu.org/transcripts/alma-que-es-swaruu-de-erra-taygeta-pleyades-mensaje-extraterrestre) | es | 2019-04-22 | 4 |
+| [DIFERENCIA ENTRE MAGNETOSFERA Y CINTURONES VAN ALLEN](https://swaruu.org/transcripts/diferencia-entre-magnetosfera-y-cinturones-van-allen) | es | 2019-04-23 | 4 |
 | ["We Formed the Vril Society": Taygetan Pleiadian Information (Rashell of Temmer)](https://swaruu.org/transcripts/we-formed-the-vril-society-taygetean-pleiadian-message-rashell-of-temmer) | en | 2019-04-26 | 5 |
 | [Swaruu - Sociedad Holografica (Modelo Extraterrestre) - Mensaje Pleyadiano (Taygeta)](https://swaruu.org/transcripts/swaruu-sociedad-holografica-modelo-extraterrestre-mensaje-pleyadiano-taygeta) | es | 2019-04-29 | 7 |
 | [Pleiadian Taygetan woman who met with Eisenhower SPEAKS OUT (first time in history)](https://swaruu.org/transcripts/5d-pleiadian-taygetean-who-met-with-eisenhower-speaks-out-first-time-in-history) | en | 2019-05-01 | 7 |
+| [Swaruu de Erra: Trabajo de Sombra (Mensaje Extraterrestre Pleyadiano-Taygeta)](https://swaruu.org/transcripts/swaruu-de-erra-trabajo-de-sombra-mensaje-extraterrestre-pleyadiano-taygeta) | es | 2019-05-14 | 4 |
 | [Soul - Extraterrestrial Pleiadian Information (Swaruu of Erra, Taygeta) (20)](https://swaruu.org/transcripts/soul-extraterrestrial-pleiadian-message-swaruu-from-erra-taygeta-20) | en | 2019-05-15 | 5 |
+| [LAS PLEYADES - LOS PLEYADIANOS - ESTRELLA TAYGETA - SWARUU DE ERRA](https://swaruu.org/transcripts/las-pleyades-los-pleyadianos-estrella-taygeta-swaruu-de-erra) | es | 2019-05-18 | 5 |
 | [Swaruu and Homosexuality: Does it exist outside Earth? (Extraterrestrial Pleiadian Information) (21)](https://swaruu.org/transcripts/swaruu-and-homosexuality-does-it-exist-in-5d-extraterrestrial-pleiadian-message-21) | en | 2019-05-24 | 6 |
+| [RAZAS EXTRATERRESTRES en 5D (1) - Informacion Directa Extraterrestre](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-1-informacion-directa-extraterrestre) | es | 2019-05-25 | 6 |
+| [SISTEMA SOLAR - PLANETA MERCURIO - EL SOL 13 - SWARUU DE ERRA](https://swaruu.org/transcripts/sistema-solar-planeta-mercurio-el-sol-13-swaruu-de-erra) | es | 2019-05-28 | 6 |
+| [RAZAS EXTRATERRESTRES en 5D (2) - ARCTURIANOS (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-2-arcturianos-mensaje-pleyadiano) | es | 2019-05-29 | 4 |
 | [Swaruu and Taygetan Pleiadian Curiosity in Humans - Direct Extraterrestrial Communication](https://swaruu.org/transcripts/swaruu-and-taygetean-pleiadian-curiosity-in-humans-direct-extraterrestrial-communication) | en | 2019-05-30 | 5 |
+| [SISTEMA SOLAR - PLANETA VENUS - VIDA EN OTROS PLANETAS - VIDA INTELIGENTE EN EL ESPACIO](https://swaruu.org/transcripts/sistema-solar-planeta-venus-vida-en-otros-planetas-vida-inteligente-en-el-espacio) | es | 2019-05-31 | 3 |
 | [Do ETs Exist if we Don´t Believe in Them? Extraterrestrial Pleiadian Communication (23)](https://swaruu.org/transcripts/do-aliens-exist-if-we-dont-believe-in-them-extraterrestrial-pleiadian-communication-23) | en | 2019-06-05 | 5 |
 | [What is a "5D" Ascension - Direct Extraterrestrial Pleiadian Information (Taygeta) (24)](https://swaruu.org/transcripts/what-is-a-5d-ascension-direct-extraterrestrial-pleiadian-message-taygeta-24) | en | 2019-06-06 | 5 |
+| [RAZAS EXTRATERRESTRES en 5D (3) - ALPHA DRACONIANOS (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-3-alpha-draconianos-mensaje-pleyadiano) | es | 2019-06-07 | 4 |
+| [EL SISTEMA SOLAR - EL PLANETA TIERRA](https://swaruu.org/transcripts/el-sistema-solar-el-planeta-tierra) | es | 2019-06-07 | 5 |
+| [LOS SECRETOS DEL PLANETA MARTE -CIVILIZACIONES EN MARTE](https://swaruu.org/transcripts/los-secretos-del-planeta-marte-civilizaciones-en-marte) | es | 2019-06-10 | 5 |
 | [Holographic (Holistic) Society - Extraterrestrial Model (Direct Pleiadian Contact-Taygeta)](https://swaruu.org/transcripts/holographic-society-extraterrestrial-model-direct-pleiadian-contact-taygeta) | en | 2019-06-11 | 7 |
+| [RAZAS EXTRATERRESTRES en 5D (4) - URMAH Raza Felina (Mensaje Pleyadiano)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-4-urmah-raza-felina-mensaje-pleyadiano) | es | 2019-06-12 | 5 |
 | [Shadow Work - Extraterrestrial Pleiadian Contact (Taygeta)](https://swaruu.org/transcripts/shadow-work-extraterrestrial-pleiadian-contact-taygeta) | en | 2019-06-14 | 6 |
+| [EL SISTEMA SOLAR - LOS SECRETOS DEL PLANETA JUPITER Y SUS LUNAS -EL MONOLITO DE JUPITER](https://swaruu.org/transcripts/el-sistema-solar-los-secretos-del-planeta-jupiter-y-sus-lunas-el-monolito-de-jupiter) | es | 2019-06-14 | 7 |
 | [Swaruu explaining Cognitive Dissonance (Are We Ready for Extraterrestrial Reality?)](https://swaruu.org/transcripts/swaruu-explaining-cognitive-dissonance-are-we-ready-for-extraterrestrial-reality) | en | 2019-06-16 | 5 |
+| [RAZAS EXTRATERRESTRES en 5D (5) - SIRIANOS (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-5-sirianos-mensaje-pleyadiano-taygeta) | es | 2019-06-19 | 4 |
+| [LOS SECRETOS DEL PLANETA URANO Y SUS LUNAS](https://swaruu.org/transcripts/los-secretos-del-planeta-urano-y-sus-lunas) | es | 2019-06-20 | 4 |
 | [5G Technology and Artificial Intelligence - Warning from the Extraterrestrial People (Taygeta)](https://swaruu.org/transcripts/5g-technology-and-artificial-intelligence-warning-from-extraterrestrial-pleiadian-taygeta) | en | 2019-06-21 | 5 |
+| [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadiano (Taygeta)](https://swaruu.org/transcripts/tecnologia-5g-y-inteligencia-artificial-aviso-extraterrestre-pleyadiano-taygeta) | es | 2019-06-21 | 6 |
+| [LOS SECRETOS DEL PLANETA NEPTUNO SUS LUNAS Y EL ASTEROIDE CERES ANTIGUA LUNA DE TIAMAT](https://swaruu.org/transcripts/los-secretos-del-planeta-neptuno-sus-lunas-y-el-asteroide-ceres-antigua-luna-de-tiamat) | es | 2019-06-22 | 4 |
+| [Preguntas Constantes que Recibe Telepaticamente Swaruu de Erra (Taygeta, Pleyades)](https://swaruu.org/transcripts/preguntas-constantes-que-recibe-telepaticamente-swaruu-de-erra-taygeta-pleyades) | es | 2019-06-23 | 3 |
 | [Repetitive Questions that Swaruu Receives Telepathically (Taygeta - Pleiades)](https://swaruu.org/transcripts/repetitive-questions-that-swaruu-receives-telepathically-taygeta-pleiades) | en | 2019-06-24 | 5 |
+| [APAGÓN EN ARGENTINA - QUE ESTA PASANDO - POR QUÉ](https://swaruu.org/transcripts/apagon-en-argentina-que-esta-pasando-por-que) | es | 2019-06-24 | 5 |
+| [PLUTON Y LOS PLANETAS OCULTOS A LA HUMANIDAD DE ESTE SISTEMA SOLAR](https://swaruu.org/transcripts/pluton-y-los-planetas-ocultos-a-la-humanidad-de-este-sistema-solar) | es | 2019-06-28 | 5 |
 | [Argentina/Uruguay Blackout - Extraterrestrial Pleiadian Explanation (Taygeta)](https://swaruu.org/transcripts/argentina-uruguay-blackout-extraterrestrial-pleiadian-explanation-taygeta) | en | 2019-06-29 | 6 |
+| [Genética - Epigenética Aplicada – Genética Avanzada – Envejecimiento](https://swaruu.org/transcripts/genetica-epigenetica-aplicada-genetica-avanzada-envejecimiento) | es | 2019-07-02 | 6 |
+| [Genetica: Humanos no Fueron Editados Geneticamente en Labs\! (Swaruu de Erra - Pleyades)](https://swaruu.org/transcripts/genetica-humanos-no-fueron-editados-geneticamente-en-labs-swaruu-de-erra-pleyades) | es | 2019-07-02 | 6 |
 | [Genetics and Mind - "Humans Were NOT Edited in Extraterrestrial Labs" (Swaruu of Erra explains)](https://swaruu.org/transcripts/genetics-and-mind-humans-were-not-edited-in-extraterrestrial-labs-swaruu-explains) | en | 2019-07-05 | 7 |
+| [Genética - Epigenética Aplicada – Tablillas Sumerias - Anunnaki](https://swaruu.org/transcripts/genetica-epigenetica-aplicada-tablillas-sumerias-anunnaki) | es | 2019-07-06 | 3 |
+| [Conversaciones con Anéeka - Tablillas Sumerias - El Mundo del misterio Youtube](https://swaruu.org/transcripts/conversaciones-con-aneeka-tablillas-sumerias-el-mundo-del-misterio-youtube) | es | 2019-07-08 | 3 |
+| [LOS MISTERIOS DE PLUTON ESOTERICO -SHIVA - ENKI Y ENLIL](https://swaruu.org/transcripts/los-misterios-de-pluton-esoterico-shiva-enki-y-enlil) | es | 2019-07-10 | 4 |
+| [Genetica-Preguntas (Swaruu de Erra Habla de Nuestro Poder Illimitado) (Taygeta-Pleyades)](https://swaruu.org/transcripts/genetica-preguntas-swaruu-de-erra-habla-de-nuestro-poder-illimitado-taygeta-pleyades) | es | 2019-07-11 | 6 |
 | [Extraterrestrials and Genetics-Questions (Swaruu of Erra, Taygeta-Pleiades)](https://swaruu.org/transcripts/extraterrestrials-and-genetics-questions-swaruu-of-erra-taygeta-pleiades) | en | 2019-07-14 | 5 |
+| [Quienes eran - Enki y Enlil](https://swaruu.org/transcripts/quienes-eran-enki-y-enlil) | es | 2019-07-14 | 3 |
+| [RAZAS EXTRATERRESTRES en 5D (6) - CENTAURI (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-6-centauri-mensaje-pleyadiano-taygeta) | es | 2019-07-15 | 4 |
 | [Extraterrestrial Pleiadian Explains: Biology Generated from Etheric Planes](https://swaruu.org/transcripts/extraterrestrial-pleiadian-explains-biology-generated-from-etheric-planes) | en | 2019-07-17 | 5 |
+| [Respuestas - Anunnki - Elohim - Shiva - Enki - Enlil - Triangulum](https://swaruu.org/transcripts/respuestas-anunnki-elohim-shiva-enki-enlil-triangulum) | es | 2019-07-19 | 4 |
+| [RAZAS EXTRATERRESTRES en 5D (7) - AGARTHIANOS (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-7-agarthianos-mensaje-pleyadiano-taygeta) | es | 2019-08-02 | 5 |
 | [Taygetan Pleiadians (Swaruu of Erra): Questions and Answers](https://swaruu.org/transcripts/taygetean-pleiadians-swaruu-of-erra-questions-and-answers) | en | 2019-08-04 | 5 |
+| [RAZAS EXTRATERRESTRES en 5D (8) - ANDROMEDANOS (Mensaje Pleyadiano-TAYGETA)](https://swaruu.org/transcripts/razas-extraterrestres-en-5d-8-andromedanos-mensaje-pleyadiano-taygeta) | es | 2019-08-05 | 5 |
+| [Programa de Primer Contacto Extraterrestre](https://swaruu.org/transcripts/programa-de-primer-contacto-extraterrestre) | es | 2019-08-07 | 3 |
+| [Contacto Extraterrestre: ESTAMOS LISTOS para Contacto Oficial? (Swaruu de Erra, Pleyades)](https://swaruu.org/transcripts/contacto-extraterrestre-estamos-listos-para-contacto-oficial-swaruu-de-erra-pleyades) | es | 2019-08-07 | 4 |
+| [Contacto Extraterrestre: ESTAMOS LISTOS para Contacto Oficial? PARTE 2 (Swaruu de Erra, Pleyades)](https://swaruu.org/transcripts/contacto-extraterrestre-estamos-listos-para-contacto-oficial-parte-2-swaruu-de-erra-pleyades) | es | 2019-08-10 | 3 |
+| [Proyecto Primer Contacto Extraterrestre - Segunda Parte](https://swaruu.org/transcripts/proyecto-primer-contacto-extraterrestre-segunda-parte) | es | 2019-08-10 | 6 |
 | [Taygetan Pleiadian Report (Swaruu): Are we Ready for Official Extraterrestrial Contact? (Part 1)](https://swaruu.org/transcripts/taygetean-pleiadian-report-swaruu-are-we-ready-for-official-extraterrestrial-contact-part-1) | en | 2019-08-21 | 6 |
+| [Primera Entrevista con Hombre Extraterrestre de Taygeta (Pleyades): Contacto Extraterrestre](https://swaruu.org/transcripts/primera-entrevista-con-hombre-extraterrestre-de-taygeta-pleyades-contacto-extraterrestre) | es | 2019-08-25 | 7 |
 | [Extraterrestrial Direct Contact with Humans: Taygetan Conclusions (Pleiades) (Part 2)](https://swaruu.org/transcripts/extraterrestrial-direct-contact-taygetean-conclusions-pleiades-part-2) | en | 2019-08-26 | 5 |
+| [Navegacion Estelar II - Swaruu de Erra -Como pilotar una nave](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-como-pilotar-una-nave) | es | 2019-08-27 | 4 |
+| [Mecánica de Manifestacion 2 (Tecnologias Extraterrestres explicado por Swaruu de Erra - Pleyades)](https://swaruu.org/transcripts/mecanica-de-manifestacion-2-tecnologias-extraterrestres-explicado-por-swaruu-de-erra-pleyades) | es | 2019-08-29 | 3 |
+| [Navegacion Estelar II - Swaruu de Erra - Circulos de las cosechas - Naves Extraterrestres](https://swaruu.org/transcripts/navegacion-estelar-ii-swaruu-de-erra-circulos-de-las-cosechas-naves-extraterrestres) | es | 2019-08-30 | 6 |
 | [Mechanics of Manifestation 2 - Intro to Extraterrestrial Navigation (Swaruu of Erra - Pleiades)](https://swaruu.org/transcripts/mechanics-of-manifestation-2-intro-to-extraterrestrial-navigation-swaruu-of-erra-pleiades) | en | 2019-09-01 | 6 |
+| [Navegacion Estelar II – Que es la Gravedad -Swaruu de Erra - Que es la Gravedad](https://swaruu.org/transcripts/navegacion-estelar-ii-que-es-la-gravedad-swaruu-de-erra-que-es-la-gravedad) | es | 2019-09-03 | 3 |
 | [Stellar Navigation 2 (Swaruu of Erra) (Part 2): Extraterrestrial Ship Technology (Taygeta - Pleiades)](https://swaruu.org/transcripts/stellar-navigation-2-swaruu-part-2-extraterrestrial-ship-technology-taygeta-pleiades) | en | 2019-09-25 | 5 |
+| [Swaruu de Erra-Navegacion Estelar 2 (Gravedad, Rayos Tractor, Creacion de Energia de Materia)](https://swaruu.org/transcripts/swaruu-de-erra-navegacion-estelar-2-gravedad-rayos-tractor-creacion-de-energia-de-materia) | es | 2019-09-26 | 4 |
 | [Stellar Navigation 2 (Swaruu) (Part 3): Extraterrestrial Ship Technology (Taygeta - Pleiades)](https://swaruu.org/transcripts/stellar-navigation-2-swaruu-part-3-extraterrestrial-ship-technology-taygeta-pleiades) | en | 2019-10-01 | 7 |
+| [Swaruu de Erra-Navegación Estelar 2 (Parte 3): Cancelación de Gravedad](https://swaruu.org/transcripts/swaruu-de-erra-navegacion-estelar-2-parte-3-cancelacion-de-gravedad) | es | 2019-10-02 | 4 |
+| [ENTREVISTA A UN EXTRATERRESTRE DE LAS PLEYADES ESTRELLA TAYGETA Dhor. Káal'el - Swaruu de Erra](https://swaruu.org/transcripts/entrevista-a-un-extraterrestre-de-las-pleyades-estrella-taygeta-dhor-kaal-el-swaruu-de-erra) | es | 2019-10-03 | 5 |
+| [Cambio Climatico? Calentamiento Global? Greta Thunberg? Comentarios de Swaruu de Erra](https://swaruu.org/transcripts/cambio-climatico-calentamiento-global-greta-thunberg-comentarios-de-swaruu-de-erra) | es | 2019-10-07 | 3 |
+| [Transcripcion de una Entrevista a un Extraterrestre de la Estrella Taygeta - Dhor Káal'el - Swaruu](https://swaruu.org/transcripts/transcripcion-de-una-entrevista-a-un-extraterrestre-de-la-estrella-taygeta-dhor-kaal-el-swaruu) | es | 2019-10-08 | 5 |
 | [Global Warming, Climate Change, Greta Thumberg? Swaruu (Taygeta-Pleiades) Responds](https://swaruu.org/transcripts/global-warming-climate-change-greta-thumberg-swaruu-taygeta-pleiades-responds) | en | 2019-10-15 | 5 |
+| [Navegacion Estelar 2 (Parte 4): Motores de Naves Extraterrestres y Cohetes de Plasma](https://swaruu.org/transcripts/navegacion-estelar-2-parte-4-motores-de-naves-extraterrestres-y-cohetes-de-plasma) | es | 2019-10-17 | 5 |
 | [Stellar Navigation 2 (Swaruu) (Part 4): Extraterrestrial Ship Technology (Taygeta - Pleiades)](https://swaruu.org/transcripts/stellar-navigation-2-swaruu-part-4-extraterrestrial-ship-technology-taygeta-pleiades) | en | 2019-10-19 | 6 |
 | [MATRIX 3D - 3 Ways to Understand Matrix (Moon Technology) - Extraterrestrial Communication](https://swaruu.org/transcripts/matrix-3d-3-ways-to-understand-matrix-moon-technology-extraterrestrial-communication) | en | 2019-10-25 | 6 |
+| [Navegacion Estelar II - VUELO SUPRA-LUMINAR - Nave Extraterrestre - Swaruu de Erra](https://swaruu.org/transcripts/navegacion-estelar-ii-vuelo-supra-luminar-nave-extraterrestre-swaruu-de-erra) | es | 2019-10-27 | 5 |
+| [Navegación Estelar 2 (Parte 5): Modo SUPRALUMINAR: Mensaje Extraterrestre](https://swaruu.org/transcripts/navegacion-estelar-2-parte-5-modo-supraluminar-mensaje-extraterrestre) | es | 2019-10-27 | 5 |
 | [Stellar Navigation 2 - Part 5: Extraterrestrial Warp Drive Flight Mode (Swaruu of Erra)](https://swaruu.org/transcripts/stellar-navigation-2-swaruu-part-5-extraterrestrial-warp-drive-flight-mode) | en | 2019-10-31 | 4 |
+| [NAVEGACION ESTELAR II - MAPEO ESTELAR POR EXTRATERRESTRES – SWARUU DE ERRA - TOP SECRET](https://swaruu.org/transcripts/navegacion-estelar-ii-mapeo-estelar-por-extraterrestres-swaruu-de-erra-top-secret) | es | 2019-10-31 | 3 |
+| [ETER: Enseñanzas de Swaruu de Erra sobre el Campo Eterico (Contacto Extraterrestre)](https://swaruu.org/transcripts/eter-ensenanzas-de-swaruu-de-erra-sobre-el-campo-eterico-contacto-extraterrestre) | es | 2019-11-11 | 7 |
 | [Ether - Teachings of Swaruu of Erra (Extraterrestrial Communication)](https://swaruu.org/transcripts/ether-teachings-of-swaruu-of-erra-extraterrestrial-communication) | en | 2019-11-12 | 6 |
+| [Navegacion Estelar - Como se cartografía el espacio - Naves Extraterrestres - Swaruu de Erra](https://swaruu.org/transcripts/navegacion-estelar-como-se-cartografia-el-espacio-naves-extraterrestres-swaruu-de-erra) | es | 2019-11-12 | 6 |
 | [Interview with the Taygetan Pleiadian Pilot (Part 1): Dhor Káal'el - Extraterrestrial Contact](https://swaruu.org/transcripts/interview-with-the-taygetean-pleiadian-part-1-dhor-kaal-el-extraterrestrial-contact) | en | 2019-11-15 | 5 |
+| [NAVES EXTRATERRESTRES – OVNIS – ENTREVISTA CON UN PLEYADIANO TAYGETEANO - DHOR KÁAL'EL Y ANÉEKA](https://swaruu.org/transcripts/naves-extraterrestres-ovnis-entrevista-con-un-pleyadiano-taygeteano-dhor-kaal-el-y-aneeka) | es | 2019-11-18 | 6 |
+| [CONCEPTO DE QUE ES EL TIEMPO – EL MUNDO REAL - Navegacion Estelar -Swaruu de Erra](https://swaruu.org/transcripts/concepto-de-que-es-el-tiempo-el-mundo-real-navegacion-estelar-swaruu-de-erra) | es | 2019-11-23 | 5 |
 | [Live Sessions with Dhor Káal'el - Extraterrestrial Taygetan Pleiadian Pilot in the Orbit of Earth](https://swaruu.org/transcripts/live-sessions-with-dhor-kaal-el-extraterrestrial-taygetean-pleiadian-pilot-in-the-orbit-of-earth) | en | 2019-11-28 | 7 |
+| [Directos con Dhor Káal'el: Piloto Pleyadiano Taygeteano en la Orbita de la Tierra](https://swaruu.org/transcripts/directos-con-dhor-kaal-el-piloto-pleyadiano-taygeteano-en-la-orbita-de-la-tierra) | es | 2019-11-30 | 4 |
+| [La Conciencia consciencia - Naves Extraterrestres - Navegacion Estelar - Swaruu de Erra](https://swaruu.org/transcripts/la-conciencia-consciencia-naves-extraterrestres-navegacion-estelar-swaruu-de-erra) | es | 2019-12-01 | 5 |
+| [Protestas en Sud America: Ingenieria Social: Mensaje Extraterrestre (Dhor Káal'el)](https://swaruu.org/transcripts/protestas-en-sud-america-ingenieria-social-mensaje-extraterrestre-dhor-kaal-el) | es | 2019-12-04 | 2 |
+| [LATINO AMÉRICA - QUE ESTA PASANDO - REVUELTAS - MANIFESTACIONES - INGENIERÍA SOCIAL](https://swaruu.org/transcripts/latino-america-que-esta-pasando-revueltas-manifestaciones-ingenieria-social) | es | 2019-12-04 | 5 |
 | [Social Engineering: Protests in South America (Direct Extraterrestrial Message)](https://swaruu.org/transcripts/social-engineering-protests-in-south-america-direct-extraterrestrial-message) | en | 2019-12-05 | 4 |
 | [Life After Death: Where do we Go when we Die? (Extraterrestrial Pleiadian Swaruu Explains)](https://swaruu.org/transcripts/life-after-death-where-do-we-go-when-we-die-extraterrestrial-pleiadian-swaruu-explains) | en | 2019-12-14 | 6 |
 | [Death and Afterlife: More Questions (Extraterrestrial Pleiadian Message)](https://swaruu.org/transcripts/death-and-afterlife-more-questions-extraterrestrial-pleiadian-message) | en | 2019-12-19 | 6 |

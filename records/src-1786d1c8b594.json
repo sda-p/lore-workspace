@@ -1,0 +1,120 @@
+{
+  "source_id": "src-1786d1c8b594",
+  "snapshot_sha256": "fccc874525b286d740f3ebe06e262c1e82e15bf45a3d5cc1f32cf0bb5e150444",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1786d1c8b594-c01",
+      "assertion": "Swaruu (9) dates Giza’s Great Pyramid to about 12,500 years ago and attributes its construction to Federation engineering.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1786d1c8b594-c02",
+      "assertion": "She describes the Great Pyramid as a zero-point generator using atmospheric-ground charge differences and internal capacitors.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0015",
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1786d1c8b594-c03",
+      "assertion": "Swaruu says pyramids served as interplanetary portals and consciousness amplifiers for astral travel.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043",
+        "p0076"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "ancient-egypt",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1786d1c8b594-c04",
+      "assertion": "She says builders used sound-cut stone, antigravity, internal ramps, and volunteer local labor, not slaves.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049",
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1786d1c8b594-c05",
+      "assertion": "Swaruu says Giza was a Federation base on ley lines, with a concealed underground complex beneath the Sphinx.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0039",
+        "p0061",
+        "p0071"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "great-pyramid-of-giza",
+      "name": "Great Pyramid of Giza",
+      "kind": "location",
+      "aliases": [
+        "Great Pyramid"
+      ]
+    }
+  ],
+  "review_flags": [
+    "pyramid-age-and-function-unverified",
+    "giza-underground-base-claim"
+  ],
+  "coverage_gaps": [
+    "astral-use-details",
+    "symbolism"
+  ]
+}

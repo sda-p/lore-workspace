@@ -1,0 +1,117 @@
+{
+  "source_id": "src-2bc9fdeb3e80",
+  "snapshot_sha256": "83cd5a2e663edd82cc6d8b7e815b90127e68f1a355734e713c61d5200b3a129b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2bc9fdeb3e80-c01",
+      "assertion": "Swaruu identifies Yeti, Bigfoot, and Menk as the same tall, telepathic, semi-subterranean creature.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0036"
+      ],
+      "primary_topic": "sasquatch",
+      "topics": [
+        "sasquatch",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bc9fdeb3e80-c02",
+      "assertion": "She says they are carnivorous and account for over 90% of disappearances in US national parks.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "sasquatch",
+      "topics": [
+        "sasquatch",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bc9fdeb3e80-c03",
+      "assertion": "They use hidden underground labyrinths and pit traps; Swaruu describes at least five varieties.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "sasquatch",
+      "topics": [
+        "sasquatch"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bc9fdeb3e80-c04",
+      "assertion": "Swaruu says their consciousness frequencies evade lunar 3D limits that affect humans but not Sasquatch or whales.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "sasquatch",
+      "topics": [
+        "sasquatch",
+        "moon-matrix",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bc9fdeb3e80-c05",
+      "assertion": "Swaruu says Eridania’s Ventra team studies Sasquatch, whose intelligence cannot be measured by human standards.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "sasquatch",
+      "topics": [
+        "sasquatch",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sasquatch",
+      "name": "Sasquatch",
+      "kind": "species",
+      "aliases": [
+        "Yeti",
+        "Bigfoot",
+        "Menk",
+        "Pie Grande"
+      ]
+    }
+  ],
+  "review_flags": [
+    "translation-counterpart-src-0a2dec346e2d-expanded-later-account",
+    "dyatlov-claim-reversed-in-later-anéeka-account"
+  ],
+  "coverage_gaps": [
+    "habitat-distribution",
+    "human-child-interactions",
+    "reptilian-modification-claims"
+  ]
+}

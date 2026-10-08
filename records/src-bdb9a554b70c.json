@@ -1,0 +1,99 @@
+{
+  "source_id": "src-bdb9a554b70c",
+  "snapshot_sha256": "7ae18b44eb3a8c7406fa991e43f3c8915d0b4b639da3785e1e053266968d3882",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bdb9a554b70c-c01",
+      "assertion": "Urmah are the dominant feline species, originating in Vega, Lyra and Avalon, with colonies across thousands of planets, especially Sirius.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "urmah-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdb9a554b70c-c02",
+      "assertion": "Swaruu says Urmah and Lyrians share origins and once cooperated; Urmah are now peaceful, militarized Federation members.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdb9a554b70c-c03",
+      "assertion": "They are bipedal feline carnivores but make synthetic meat; telepathy predominates though they can speak.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdb9a554b70c-c04",
+      "assertion": "Urmah society uses balanced patriarchal-matriarchal councils and U-shaped, warp-capable starships.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bdb9a554b70c-c05",
+      "assertion": "Anéeka says Taygetans introduced domestic cats in ancient Egypt, possibly alongside others; Urmah only interacted with Earth, without major colonies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans",
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "historical-date-ambiguity"
+  ],
+  "coverage_gaps": [
+    "urmah-homeworld-status",
+    "earth-seeds",
+    "spirituality"
+  ]
+}

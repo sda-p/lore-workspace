@@ -1,0 +1,244 @@
+{
+  "batch_id": "continuous-013",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-1480eda6f2f1",
+    "src-e60f3a4d18dd",
+    "src-11de0477daf4",
+    "src-64a9e923fd20",
+    "src-f77b50b543b2",
+    "src-fdc57e7c493f",
+    "src-ceb65bcc3f82",
+    "src-c39eb902dc40",
+    "src-ed681d9a2b1f",
+    "src-35de2559cc8b",
+    "src-d7432fcef312",
+    "src-1da40cd3aac1",
+    "src-6a049025e05e",
+    "src-fdf4bfc8aa32",
+    "src-bbad8c4053ab",
+    "src-bb90b9018597",
+    "src-357c482522d2",
+    "src-9dd66aa45b9f",
+    "src-63234070a0cd",
+    "src-f3da65ca7f6c",
+    "src-bebc8e2161ed",
+    "src-78b55f817800",
+    "src-67ae68e2b345",
+    "src-fe2b0b27084b",
+    "src-8653c6f0627b",
+    "src-7027fa794a95",
+    "src-e15992dcfa52",
+    "src-24ab9cb7ffa0",
+    "src-af005c73ed53",
+    "src-8532628fad7a",
+    "src-01179c6a5906",
+    "src-39f1f606d12b",
+    "src-31d1a6fe5da1",
+    "src-b4123d146ba9",
+    "src-9262c571083f",
+    "src-d5c29da42755",
+    "src-28c3fd0534dc",
+    "src-e260e25670b5",
+    "src-d215ccbf4167",
+    "src-7d0050d7c04a",
+    "src-74c032374fff",
+    "src-954309ae5feb",
+    "src-caf216b09494",
+    "src-e0a4afea956c",
+    "src-fad1597372f1",
+    "src-f0c456f9c389",
+    "src-8808e760d7a4",
+    "src-775d18ade5d9",
+    "src-47516d4ba42c",
+    "src-5a63a913a8b6",
+    "src-c92e3d59e2ba",
+    "src-d2714323822a",
+    "src-10009bbe55a5",
+    "src-2bc9fdeb3e80",
+    "src-52ab554c3637",
+    "src-35a4804aef6f",
+    "src-83d10afd7959",
+    "src-a6f1977b24ac",
+    "src-f0430ddfaa2b",
+    "src-a011d9404b1c",
+    "src-4f5b82f333ba",
+    "src-ab81c3f220ab",
+    "src-bf466c0fec46",
+    "src-1a7b60ba8ea9",
+    "src-c8989a4b274b",
+    "src-8a97e5888a07",
+    "src-bf7085cb30ac",
+    "src-0ad91b6f93c8",
+    "src-ce2d9650cd21",
+    "src-543fe68707e6",
+    "src-8a9dc43817ba",
+    "src-ba6a1792fd69",
+    "src-0b358e77a59f",
+    "src-ff91a858afee",
+    "src-914c88ed3e7a",
+    "src-b36d2a7b7c51",
+    "src-a62abe01768e",
+    "src-ae20e2d2296b",
+    "src-46fa49e664e1",
+    "src-40614df19d52"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-64a9e923fd20",
+      "claim_id": "src-64a9e923fd20-c01",
+      "problem": "The source explicitly says “elder” is not an age category; any interested person may request council participation.",
+      "action": "Rephrased the council membership as voluntary and topic-expert based.",
+      "paragraph_ids": [
+        "p0094",
+        "p0095",
+        "p0096"
+      ]
+    },
+    {
+      "source_id": "src-fdc57e7c493f",
+      "claim_id": "src-fdc57e7c493f-c02",
+      "problem": "Original claim inferred a labor-payment policy from the statement that no one has to pay for ships.",
+      "action": "Rephrased to the source’s specific claim that shipbuilding requires no payment.",
+      "paragraph_ids": [
+        "p0056",
+        "p0060"
+      ]
+    },
+    {
+      "source_id": "src-63234070a0cd",
+      "claim_id": "src-63234070a0cd-c01",
+      "problem": "Original wording made one explanation sound exhaustive, omitting the speaker’s separate depopulation-agenda explanation.",
+      "action": "Included both explanations as the speaker’s attributed claims and narrowed citations to the passages.",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ]
+    },
+    {
+      "source_id": "src-24ab9cb7ffa0",
+      "claim_id": "src-24ab9cb7ffa0-c06",
+      "problem": "“Most by thirteen” did not convey the source’s stated variation, including some earlier and others rarely later.",
+      "action": "Specified the typical age and retained earlier/later variation.",
+      "paragraph_ids": [
+        "p0053",
+        "p0054"
+      ]
+    },
+    {
+      "source_id": "src-954309ae5feb",
+      "claim_id": "src-954309ae5feb-c07",
+      "problem": "No-money statements were missing from the citation; p0035 is about language/terminology only.",
+      "action": "Added p0036 and p0038, which directly state that money is unused and she earns no payment.",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0038"
+      ]
+    },
+    {
+      "source_id": "src-fad1597372f1",
+      "claim_id": "src-fad1597372f1-c02",
+      "problem": "“Limited to ten meters high” could be read as a craft-size limit; source says ten-meter flight ceiling.",
+      "action": "Rephrased the statement as a maximum flight altitude, preserving pilot-built rule.",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ]
+    },
+    {
+      "source_id": "src-5a63a913a8b6",
+      "claim_id": "src-5a63a913a8b6-c04",
+      "problem": "Qualifier “no recent ship incidents are reported” was not stated in cited source passages.",
+      "action": "Removed unsupported qualifier; retained the claims that Lurkers are rated a 10/10 threat and none are indicated on Earth.",
+      "paragraph_ids": [
+        "p0082",
+        "p0084"
+      ]
+    },
+    {
+      "source_id": "src-d2714323822a",
+      "claim_id": "src-d2714323822a-c05",
+      "problem": "“Federation built 3D Earth” implied construction of the planet, while context asks about its 3D framework/Matrix and says negatives hacked that.",
+      "action": "Narrowed wording to a Federation-made 3D framework later hacked and repurposed by negatives.",
+      "paragraph_ids": [
+        "p0066",
+        "p0067"
+      ]
+    },
+    {
+      "source_id": "src-a6f1977b24ac",
+      "claim_id": "src-a6f1977b24ac-c05",
+      "problem": "p0040 concerns individual ascension, not the prior-life memory claim.",
+      "action": "Removed the irrelevant citation and retained p0030, which directly supports weaker forgetting in 5D and recall of about three lives by most.",
+      "paragraph_ids": [
+        "p0030",
+        "p0040"
+      ]
+    },
+    {
+      "source_id": "src-f0430ddfaa2b",
+      "claim_id": "src-f0430ddfaa2b-c01",
+      "problem": "“90 meters long” omitted the source’s distinction between 90-meter hull and additional plasma cannons.",
+      "action": "Clarified the 90-meter dimension as hull length plus cannons and preserved wingtip width and ship-specific reactors/engines.",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ]
+    },
+    {
+      "source_id": "src-0ad91b6f93c8",
+      "claim_id": "src-0ad91b6f93c8-c04",
+      "problem": "Claim said the group co-founded two councils, but p0053 says they co-founded the Andromeda Council and are members of the Council of the Sphere.",
+      "action": "Corrected the distinct council roles and retained the separate Taygetan cooperation statement.",
+      "paragraph_ids": [
+        "p0044",
+        "p0053"
+      ]
+    },
+    {
+      "source_id": "src-543fe68707e6",
+      "claim_id": "src-543fe68707e6-c03",
+      "problem": "“Three alliances” mislabels the Andromeda Council as an alliance.",
+      "action": "Named the Federation, Andromeda Council, and Sphere Alliance distinctly.",
+      "paragraph_ids": [
+        "p0009",
+        "p0012",
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-914c88ed3e7a",
+      "claim_id": "src-914c88ed3e7a-c04",
+      "problem": "The transcript qualifies the alleged Sinai ship encounter with “al parecer,” but the record did not preserve that uncertainty.",
+      "action": "Rephrased the claim and added a qualifier marking the Sinai encounter as tentative.",
+      "paragraph_ids": [
+        "p0011"
+      ]
+    },
+    {
+      "source_id": "src-fdf4bfc8aa32",
+      "claim_id": "topic-metadata",
+      "problem": "Proposed topic declarations collided with canonical topics added after extraction.",
+      "action": "Removed duplicate proposals while retaining valid topic references.",
+      "paragraph_ids": []
+    },
+    {
+      "source_id": "src-bb90b9018597",
+      "claim_id": "topic-metadata",
+      "problem": "Proposed topic declarations collided with canonical topics added after extraction.",
+      "action": "Removed duplicate proposals while retaining valid topic references.",
+      "paragraph_ids": []
+    },
+    {
+      "source_id": "src-0ad91b6f93c8",
+      "claim_id": "topic-metadata",
+      "problem": "Proposed topic declarations collided with canonical topics added after extraction.",
+      "action": "Removed duplicate proposals while retaining valid topic references.",
+      "paragraph_ids": []
+    }
+  ],
+  "unresolved": []
+}

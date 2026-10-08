@@ -1,0 +1,65 @@
+{
+  "source_id": "src-a62abe01768e",
+  "snapshot_sha256": "d2132a86197aa6bead199cd55c07a9ce11bb104fce76b00ea9fb6d4f7750a392",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a62abe01768e-c01",
+      "assertion": "Alfrateans and Antarians are humanomorphs, not Pleiadians; Alfrateans are Centaurian and Latin-appearing.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0004", "p0006", "p0009", "p0015"],
+      "primary_topic": "alien-species",
+      "topics": ["alien-species", "alfrata"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-a62abe01768e-c02",
+      "assertion": "She defines humanomorphs as visually indistinguishable from humans, unlike broader humanoid categories.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0017", "p0018"],
+      "primary_topic": "alien-species",
+      "topics": ["alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her terminology."
+    },
+    {
+      "id": "src-a62abe01768e-c03",
+      "assertion": "She says Nordic-looking contactees often report Pleiadians because many have been active and New Age programming primes that label.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0009", "p0010", "p0011"],
+      "primary_topic": "starseeds",
+      "topics": ["starseeds", "taygetans"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her explanation."
+    },
+    {
+      "id": "src-a62abe01768e-c04",
+      "assertion": "Swaruu alleges regressive species use Nordic holograms or clones to impersonate them and assign blame.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0008"],
+      "primary_topic": "alien-species",
+      "topics": ["alien-species", "taygetans"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her warning."
+    },
+    {
+      "id": "src-a62abe01768e-c05",
+      "assertion": "She says the Cabal uses New Age Pleiadian imagery to discredit Taygetans and their message.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0027"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her claim."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["humanomorph-is-source-specific-term"],
+  "coverage_gaps": ["contact-disclosure-credibility-claims"]
+}

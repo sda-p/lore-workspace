@@ -1,0 +1,86 @@
+{
+  "source_id": "src-a33b63eaf1c2",
+  "snapshot_sha256": "649ca5a8105010d4736f145d0e90da9f292ca55449656399537ce1d5286588d6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a33b63eaf1c2-c01",
+      "assertion": "Gosia says she chose Earth to support humanity and preserve its perceived connection to Source.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as personal reflection."
+    },
+    {
+      "id": "src-a33b63eaf1c2-c02",
+      "assertion": "She believes spiritual growth need not require severe suffering, though humans may still create difficult challenges.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Personal view, not attributed Taygetan doctrine."
+    },
+    {
+      "id": "src-a33b63eaf1c2-c03",
+      "assertion": "Gosia says duality defines 3D–5D experience, making liberation difficult, while questioning whether souls want to leave.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a33b63eaf1c2-c04",
+      "assertion": "She describes starseeds as taking a dual role: experiencing Earth while sustaining a higher perspective for others.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal-reflection-not-taygetan-report"
+  ],
+  "coverage_gaps": [
+    "federation-policy",
+    "future-human-species"
+  ]
+}

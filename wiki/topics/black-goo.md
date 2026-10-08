@@ -256,6 +256,166 @@ Attributed to **Swaruu (9)**; reported; extraction confidence: high.
 
 Source: [Swaruu of Erra and Aneeka of Temmer - A Mix of Totally Random Questions and Answers](https://swaruu.org/transcripts/swaruu-of-erra-and-aneeka-of-temmer-a-mix-of-totally-random-questions-and-answers) (2023-12-02; en); passages p0029, p0030, p0031, p0032, p0033, p0034, p0035, p0036. [Structured record](../../records/src-37e67ed7223b.json).
 
+### src-d7432fcef312-c01
+
+Swaruu says Tiamat’s black goo reached Mars and Venus and can alter DNA; she presents it as a substance used by others rather than inherently agenda-driven.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS VACUNAS - EL GOO NEGRO - EL SIDA - LAS FARMACÉUTICAS -SWARUU -MENSAJE PLEYADIANO](https://swaruu.org/transcripts/las-vacunas-el-goo-negro-el-sida-las-farmaceuticas-swaruu-mensaje-pleyadiano) (2018-09-11; es); passages p0042, p0044, p0046. [Structured record](../../records/src-d7432fcef312.json).
+
+Related topics: [Tiamat](tiamat.md), [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-d7432fcef312-c02
+
+She says imposed frequencies can reprogram black goo’s quartz-like crystals; intention can neutralize it and an EMP can disable nanobots or implants.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LAS VACUNAS - EL GOO NEGRO - EL SIDA - LAS FARMACÉUTICAS -SWARUU -MENSAJE PLEYADIANO](https://swaruu.org/transcripts/las-vacunas-el-goo-negro-el-sida-las-farmaceuticas-swaruu-mensaje-pleyadiano) (2018-09-11; es); passages p0034, p0035, p0039. [Structured record](../../records/src-d7432fcef312.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
+### src-af005c73ed53-c01
+
+Swaruu says pressurized seawater and crustal carbon form renewable oil, later crystallizing into black goo.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BIOLOGÍA IV - GOO NEGRO EXTRATERRESTRE - CHEMTRAILS - INTELIGENCIA ARTIFICIAL – SWARUU DE ERRA](https://swaruu.org/transcripts/biologia-iv-goo-negro-extraterrestre-chemtrails-inteligencia-artificial-swaruu-de-erra) (2018-09-06; es); passages p0018, p0028, p0029, p0030. [Structured record](../../records/src-af005c73ed53.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-af005c73ed53-c02
+
+Earth’s positive goo carries planetary life patterns, supporting new species and DNA repair.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BIOLOGÍA IV - GOO NEGRO EXTRATERRESTRE - CHEMTRAILS - INTELIGENCIA ARTIFICIAL – SWARUU DE ERRA](https://swaruu.org/transcripts/biologia-iv-goo-negro-extraterrestre-chemtrails-inteligencia-artificial-swaruu-de-erra) (2018-09-06; es); passages p0037, p0042, p0043. [Structured record](../../records/src-af005c73ed53.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-af005c73ed53-c03
+
+She dates Tiamat-derived negative goo’s main arrival to 12,500 years ago; it is lower-frequency than Earth goo.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BIOLOGÍA IV - GOO NEGRO EXTRATERRESTRE - CHEMTRAILS - INTELIGENCIA ARTIFICIAL – SWARUU DE ERRA](https://swaruu.org/transcripts/biologia-iv-goo-negro-extraterrestre-chemtrails-inteligencia-artificial-swaruu-de-erra) (2018-09-06; es); passages p0048, p0049, p0055. [Structured record](../../records/src-af005c73ed53.json).
+
+Related topics: [Tiamat](tiamat.md).
+
+### src-af005c73ed53-c04
+
+Negative goo alters genes and lowers frequency; high empathy and will may resist it.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BIOLOGÍA IV - GOO NEGRO EXTRATERRESTRE - CHEMTRAILS - INTELIGENCIA ARTIFICIAL – SWARUU DE ERRA](https://swaruu.org/transcripts/biologia-iv-goo-negro-extraterrestre-chemtrails-inteligencia-artificial-swaruu-de-erra) (2018-09-06; es); passages p0056, p0057, p0061, p0062. [Structured record](../../records/src-af005c73ed53.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-c8989a4b274b-c01
+
+Swaruu says black goo is partly pressure-crystallized petroleum; it alters DNA, aiding compatibility with dark entities and AI.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [NUNCA FUIMOS A LA LUNA - SWARUU DE ERRA - LAS PLEYADES - Goo Negro - MENSAJE EXTRATERRESTRE](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-swaruu-de-erra-las-pleyades-goo-negro-mensaje-extraterrestre) (2018-08-15; es); passages p0029, p0031. [Structured record](../../records/src-c8989a4b274b.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md), [Artificial intelligence](artificial-intelligence.md).
+
+### src-c8989a4b274b-c02
+
+She claims the Falklands War targeted local black-goo deposits before Andromedans could remove contamination; that was not the whole cause.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [NUNCA FUIMOS A LA LUNA - SWARUU DE ERRA - LAS PLEYADES - Goo Negro - MENSAJE EXTRATERRESTRE](https://swaruu.org/transcripts/nunca-fuimos-a-la-luna-swaruu-de-erra-las-pleyades-goo-negro-mensaje-extraterrestre) (2018-08-15; es); passages p0027, p0029. [Structured record](../../records/src-c8989a4b274b.json).
+
+Related topics: [Andromedans](andromedans.md).
+
+### src-ce2d9650cd21-c03
+
+She says negative black goo can spread via meteorites, biological hitchhikers, ship debris, cargo, or mined materials.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LA INTELIGENCIA ARTIFICIAL COLONIZANDO GALAXIAS- ANÉEKA DE TEMMER](https://swaruu.org/transcripts/la-inteligencia-artificial-colonizando-galaxias-aneeka-de-temmer) (2018-06-12; es); passages p0034, p0036. [Structured record](../../records/src-ce2d9650cd21.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-ce2d9650cd21-c04
+
+Anéeka reports a detected dimension of invasive AI, possibly using negative black goo to hack the digital Matrix.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [LA INTELIGENCIA ARTIFICIAL COLONIZANDO GALAXIAS- ANÉEKA DE TEMMER](https://swaruu.org/transcripts/la-inteligencia-artificial-colonizando-galaxias-aneeka-de-temmer) (2018-06-12; es); passages p0032. [Structured record](../../records/src-ce2d9650cd21.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md), [Original Matrix](original-matrix.md).
+
+### src-ce2d9650cd21-c05
+
+She says advanced extraterrestrial AI is digital programming held in polymorphic crystals, also called black goo.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [LA INTELIGENCIA ARTIFICIAL COLONIZANDO GALAXIAS- ANÉEKA DE TEMMER](https://swaruu.org/transcripts/la-inteligencia-artificial-colonizando-galaxias-aneeka-de-temmer) (2018-06-12; es); passages p0040. [Structured record](../../records/src-ce2d9650cd21.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-7872bc2f2c04-c02
+
+She says pressure and speed turn water and crustal carbon into petroleum.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [Inteligencia Artificial, Goo Negro, Chemtrails y mas: Articulo de Swaruu (Taygeta, Pleyades)](https://swaruu.org/transcripts/inteligencia-artificial-goo-negro-chemtrails-y-mas-articulo-de-swaruu-taygeta-pleyades) (2018-10-09; es); passages p0018, p0027. [Structured record](../../records/src-7872bc2f2c04.json).
+
+### src-7872bc2f2c04-c03
+
+Further concentration produces black goo containing heavy metals and antimatter.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [Inteligencia Artificial, Goo Negro, Chemtrails y mas: Articulo de Swaruu (Taygeta, Pleyades)](https://swaruu.org/transcripts/inteligencia-artificial-goo-negro-chemtrails-y-mas-articulo-de-swaruu-taygeta-pleyades) (2018-10-09; es); passages p0020, p0031. [Structured record](../../records/src-7872bc2f2c04.json).
+
+### src-7872bc2f2c04-c04
+
+Planetary goo carries its world’s frequencies and shapes magnetic ley lines.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [Inteligencia Artificial, Goo Negro, Chemtrails y mas: Articulo de Swaruu (Taygeta, Pleyades)](https://swaruu.org/transcripts/inteligencia-artificial-goo-negro-chemtrails-y-mas-articulo-de-swaruu-taygeta-pleyades) (2018-10-09; es); passages p0034, p0036, p0037. [Structured record](../../records/src-7872bc2f2c04.json).
+
+### src-7872bc2f2c04-c05
+
+She links invasive negative goo to Tiamat’s destruction and Earth’s flood.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: high.
+
+Source: [Inteligencia Artificial, Goo Negro, Chemtrails y mas: Articulo de Swaruu (Taygeta, Pleyades)](https://swaruu.org/transcripts/inteligencia-artificial-goo-negro-chemtrails-y-mas-articulo-de-swaruu-taygeta-pleyades) (2018-10-09; es); passages p0049. [Structured record](../../records/src-7872bc2f2c04.json).
+
+### src-7872bc2f2c04-c06
+
+She says negative goo can alter DNA and brain frequencies; some resist it.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [Inteligencia Artificial, Goo Negro, Chemtrails y mas: Articulo de Swaruu (Taygeta, Pleyades)](https://swaruu.org/transcripts/inteligencia-artificial-goo-negro-chemtrails-y-mas-articulo-de-swaruu-taygeta-pleyades) (2018-10-09; es); passages p0055, p0056, p0060. [Structured record](../../records/src-7872bc2f2c04.json).
+
+### src-c92e3d59e2ba-c03
+
+Swaruu says Falklands fighting concerned Black Goo deposits; she describes the material as petroleum-based and DNA-altering.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL EGO Y EL AMOR - MENSAJE EXTRATERRESTRE - NIBIRU - STAR TREK - SWARUU DE ERRA](https://swaruu.org/transcripts/el-ego-y-el-amor-mensaje-extraterrestre-nibiru-star-trek-swaruu-de-erra) (2018-12-17; es); passages p0018, p0020, p0022. [Structured record](../../records/src-c92e3d59e2ba.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-6bb3f5207f8d-c01](terrestrial-science.md#src-6bb3f5207f8d-c01) — Terrestrial science
@@ -263,18 +423,32 @@ Source: [Swaruu of Erra and Aneeka of Temmer - A Mix of Totally Random Questions
 - [src-edda680af7b5-c05](borg.md#src-edda680af7b5-c05) — Borg
 - [src-6c71c02def44-c03](alien-species.md#src-6c71c02def44-c03) — Alien species and distinctions
 - [src-41d2e6231b38-c05](terrestrial-science.md#src-41d2e6231b38-c05) — Terrestrial science
+- [src-af005c73ed53-c05](artificial-intelligence.md#src-af005c73ed53-c05) — Artificial intelligence
+- [src-08eb04ce1eff-c03](artificial-intelligence.md#src-08eb04ce1eff-c03) — Artificial intelligence
+- [src-ce2d9650cd21-c01](artificial-intelligence.md#src-ce2d9650cd21-c01) — Artificial intelligence
+- [src-ce2d9650cd21-c02](artificial-intelligence.md#src-ce2d9650cd21-c02) — Artificial intelligence
 
 ## Review flags
 
+- Related Spanish and English articles cover overlapping material but have different scopes; translation equivalence is unconfirmed.
+- attributed-medical-conspiracy-claims
 - claim: extraordinary abduction and biology account
+- conspiracy-claims
 - conspiracy\_claims
+- contested-claims
 - coverage: gardener-procedures
 - coverage: primary-secondary taxonomy
 - dangerous\_medical\_misinformation
 - extraordinary\_geological\_claims
 - extraordinary\_medical\_claims
+- invasive-ai-claims-attributed
 - medical\_claims\_unverified
+- nonstandard-biology-claims
 - reproductive\_claims\_unverified
+- same-language-near-duplicate-src-7872bc2f2c04
+- segmentation-diff
+- simulation-and-AI-claims
+- speaker-header-diff
 - speaker-label-ambiguity
 - translated\_source
 - unsafe\_experiment\_questions\_omitted

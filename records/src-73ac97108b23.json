@@ -1,0 +1,74 @@
+{
+  "source_id": "src-73ac97108b23",
+  "snapshot_sha256": "492cea814eaae551bfb5575a510af65d7407d8e95f0dc04c4ea2b2ba8ebafcb6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-73ac97108b23-c01",
+      "assertion": "Anéeka says recent viral monoliths were human-made fakes, distinct from genuine monoliths; she says there are no genuine examples on Earth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "monoliths",
+      "topics": [
+        "monoliths"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her statement concerns examples on Earth."
+    },
+    {
+      "id": "src-73ac97108b23-c02",
+      "assertion": "Anéeka describes genuine monoliths as dense, solid anti-portals, the closed counterpart to a portal opening; she says either may be crossed when it permits passage.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0039",
+        "p0043"
+      ],
+      "primary_topic": "monoliths",
+      "topics": [
+        "monoliths",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73ac97108b23-c03",
+      "assertion": "Yazhi says monoliths and portals are one natural phenomenon in universal reality; a rectangle is a lower-density interpretation of energy geometry.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0060",
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "monoliths",
+      "topics": [
+        "monoliths",
+        "natural-portals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-accounts-of-monolith-origin-differ"
+  ],
+  "coverage_gaps": [
+    "dimensions",
+    "locations",
+    "gravitational-effects"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_id": "src-4cc1ee1cc7ec",
+  "snapshot_sha256": "169ab40f89a70e4103f2bfa662696e6b21d0fbfd5cc70f31b139d5223e8c88b7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4cc1ee1cc7ec-c01",
+      "assertion": "Yazhi says each planet or collective forms its own creative consciousness and frequency through shared beliefs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes this as a metaphysical model."
+    },
+    {
+      "id": "src-4cc1ee1cc7ec-c02",
+      "assertion": "Yazhi says a place’s shifting frequency can guide stellar navigation; she links planetary time perception to collective consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0041",
+        "p0047"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says frequencies vary with external stimuli."
+    },
+    {
+      "id": "src-4cc1ee1cc7ec-c03",
+      "assertion": "Yazhi says Earth is already ascended; human collective perception determines whether people experience it as changed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0055",
+        "p0061",
+        "p0064"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "iron-paranormal-claims",
+    "medical-claims"
+  ]
+}

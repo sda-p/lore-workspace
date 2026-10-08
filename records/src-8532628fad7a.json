@@ -125,9 +125,9 @@
     {
       "id": "karistus",
       "name": "Karistus",
-      "kind": "species",
+      "kind": "civilization",
       "aliases": [
-        "Karistus beings"
+        "Karistus"
       ]
     },
     {

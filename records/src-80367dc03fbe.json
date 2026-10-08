@@ -1,0 +1,97 @@
+{
+  "source_id": "src-80367dc03fbe",
+  "snapshot_sha256": "c066299c695a0c94792df5830bbac0ecc52a19e1d1fc9f66f7703eaf26ce3f80",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-80367dc03fbe-c01",
+      "assertion": "Swaruu distinguishes soul-bearing persons from scripted Matrix figures, but warns observers cannot reliably identify individuals and should treat everyone equally.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0016",
+        "p0029",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "matrix-generated-persons",
+      "topics": [
+        "matrix-generated-persons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-80367dc03fbe-c02",
+      "assertion": "She says personal or collective attention can give Matrix figures richer roles and histories, making their experience real to the observer.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0018",
+        "p0024",
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "matrix-generated-persons",
+      "topics": [
+        "matrix-generated-persons",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-80367dc03fbe-c03",
+      "assertion": "A scripted figure may gain a soul through a walk-in; Swaruu says most conformist humans are still real and have their own experiences.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0066",
+        "p0067",
+        "p0088",
+        "p0089",
+        "p0096",
+        "p0097"
+      ],
+      "primary_topic": "matrix-generated-persons",
+      "topics": [
+        "matrix-generated-persons",
+        "walk-in-phenomenon"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says status can change over time."
+    },
+    {
+      "id": "src-80367dc03fbe-c04",
+      "assertion": "Swaruu describes a lunar Matrix processor reading minds and projecting interactive figures through frequency.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0038",
+        "p0091",
+        "p0092",
+        "p0093"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "matrix-generated-persons"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "treat-all-persons-equally",
+    "status-unverifiable"
+  ],
+  "coverage_gaps": [
+    "biological-status-variation"
+  ]
+}

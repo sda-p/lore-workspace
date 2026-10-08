@@ -1,0 +1,72 @@
+{
+  "source_id": "src-36de59341f2c",
+  "snapshot_sha256": "564c5589bc59794fe7a4ed0abe9ba85eb2d400dabfd0fe2208947a356f4a2cd2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-36de59341f2c-c01",
+      "assertion": "Yazhi says the Maitré are outside the Federation and seek total control and enslavement.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36de59341f2c-c02",
+      "assertion": "Yazhi describes the Maitré as tall Greys genetically altered by reptilians; she says they reproduce artificially.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0054",
+        "p0055",
+        "p0056",
+        "p0057",
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls them a secondary species."
+    },
+    {
+      "id": "src-36de59341f2c-c03",
+      "assertion": "Yazhi contrasts reptilian covert control with Maitré enslavement, but says the evidence cannot identify a responsible species with certainty.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0053",
+        "p0076"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "reptilians"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents Maitré involvement as a possibility."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims-about-PCR-swab-nanotechnology-conflict-with-later-human-origin-possibility"
+  ],
+  "coverage_gaps": [
+    "PCR-technology-details",
+    "sensor-interference",
+    "species-arrival-date"
+  ]
+}

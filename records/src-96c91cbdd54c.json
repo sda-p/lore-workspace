@@ -1,0 +1,94 @@
+{
+  "source_id": "src-96c91cbdd54c",
+  "snapshot_sha256": "58d8198574ff8834fd5f52684695f8bbf023acf90ae880fcf1ece5a85cddde1f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-96c91cbdd54c-c01",
+      "assertion": "Swaruu says Asket's First Contact Project sent over 550 Taygetans onto social media during 2009–2016 to assess readiness.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-96c91cbdd54c-c02",
+      "assertion": "She says it revealed general unreadiness: only 10–15 of thousands partly believed them, and fewer than five remained.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Some people were ready."
+    },
+    {
+      "id": "src-96c91cbdd54c-c03",
+      "assertion": "Swaruu says the Prime Directive protects free will and deep incarnation intentions, but is imperfect and leaves complex cases to captains.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-96c91cbdd54c-c04",
+      "assertion": "She says the Federation aids civilians indirectly, disguising help as ordinary events; overt intervention risks war and impedes growth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-first-contact-project",
+      "name": "Taygetan First Contact Project",
+      "kind": "contact-program",
+      "aliases": [
+        "Proyecto Primer Contacto"
+      ]
+    }
+  ],
+  "review_flags": [
+    "contact-readiness-generalization",
+    "prime-directive-attributed"
+  ],
+  "coverage_gaps": [
+    "historical-contact-events",
+    "human-agency-claims"
+  ]
+}

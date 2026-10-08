@@ -1,0 +1,66 @@
+{
+  "source_id": "src-b3613644793e",
+  "snapshot_sha256": "12b515c9de69b982662d3f2eed7759c8f2f95869af5d030a274685782c65c93b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b3613644793e-c01",
+      "assertion": "Yazhi says Federation rescue would reinforce human dependence; lasting change must arise through human maturation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0145",
+        "p0151"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She offers her own rationale."
+    },
+    {
+      "id": "src-b3613644793e-c02",
+      "assertion": "Yazhi says 3D and 5D realities mutually influence; 3D can constrain Federation action more than 5D can shape Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0081",
+        "p0087",
+        "p0091"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her model treats realities as perception agreements."
+    },
+    {
+      "id": "src-b3613644793e-c03",
+      "assertion": "Yazhi says most 5D cultures use tailored holographic societies grounded in unity and lack of money.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0227",
+        "p0228"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says these societies remain imperfect."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "human-history",
+    "Earth-intervention",
+    "metaphysics"
+  ]
+}

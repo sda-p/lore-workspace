@@ -1,0 +1,88 @@
+{
+  "source_id": "src-76864ac53fe6",
+  "snapshot_sha256": "0f41fb4d433c1aadfc8aefac057f727bfeb9fea1011cbd03ee8f2efe7a975cdb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-76864ac53fe6-c01",
+      "assertion": "Yazhi says Orion Council reptilians sought Lyrian enslavement or exploitation, while the Federation fought back; Lyrians fled to the Pleiades, Venus, and Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "lyran-expansion",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Chronology is approximate."
+    },
+    {
+      "id": "src-76864ac53fe6-c02",
+      "assertion": "She describes Ohalum (Eris) as a Mantis hive-queen polity; its former Martian separatist colony now cooperates fully.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "ohalum-council",
+      "topics": [
+        "ohalum-council",
+        "mars",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-76864ac53fe6-c03",
+      "assertion": "She says Karistus were the Solar System’s most advanced inhabitants, living on Jupiter and its moons in sixth density; most local life was fifth density.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "ohalum-council",
+      "name": "Ohalum Council",
+      "kind": "institution",
+      "aliases": [
+        "Consejo de Ohalum"
+      ]
+    },
+    {
+      "id": "karistus",
+      "name": "Karistus",
+      "kind": "species",
+      "aliases": [
+        "Karistus"
+      ]
+    }
+  ],
+  "review_flags": [
+    "ancient-solar-system-density-and-polity-claims"
+  ],
+  "coverage_gaps": [
+    "tiamat-and-planetary-census",
+    "lyrian-stonehenge-and-star-map-claims"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "src-2c3f3e20fe69",
+  "snapshot_sha256": "1396c40d6bce0b935dbd02b8a8ba561bcf96f896f0cee15fdb4c2cdc24d81985",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2c3f3e20fe69-c01",
+      "assertion": "Yazhi says starships can map locations as a numeric frequency gradient, but that model cannot capture non-linear conscious perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0007",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She treats the gradient as a navigation tool."
+    },
+    {
+      "id": "src-2c3f3e20fe69-c02",
+      "assertion": "Yazhi describes individual identity as remembered ideas and attachments within the one Source, without fixed boundaries between people.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-singularity",
+      "topics": [
+        "consciousness-singularity",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She uses “soul” as a simplified label."
+    },
+    {
+      "id": "src-2c3f3e20fe69-c03",
+      "assertion": "Yazhi says shared reality is partial agreements; individual consciousness filters can make people perceive different aspects of other worlds.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She rejects fixed frequency rankings for direct perception."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Venus-environment-claims",
+    "off-world-biological-encounters"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "source_id": "src-9b8c545032b0",
+  "snapshot_sha256": "98c401e218df6aee4d59d595fe5fdde96001203f6452759c14b390e1a65ae9db",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9b8c545032b0-c01",
+      "assertion": "Swaruu defines time as consciousness’s sequencing of its own perceptions, not an external force.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0038"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b8c545032b0-c02",
+      "assertion": "Ship frequency maps encode where and when; engines match a destination frequency.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0017",
+        "p0040",
+        "p0045"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b8c545032b0-c03",
+      "assertion": "She says automatic processing slows perceived time, while conscious overload accelerates it.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b8c545032b0-c04",
+      "assertion": "Earth’s average frequency shapes visitors’ time perception while their bodies remain 5D.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b8c545032b0-c05",
+      "assertion": "A two-month Temmer trip can return a minute later on Earth, but desynchronization may shift timelines.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0061",
+        "p0062",
+        "p0063",
+        "p0064"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "timeline-branching",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b8c545032b0-c06",
+      "assertion": "Timelines are personal event sequences; shared perception forms group agreements that mental control can alter.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0070",
+        "p0074"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448"
+  ],
+  "coverage_gaps": [
+    "timeline frequency selection",
+    "ship-computer AI"
+  ]
+}

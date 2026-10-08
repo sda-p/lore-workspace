@@ -406,6 +406,46 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [Random Conversations with the Taygetan Pleiadians - Mini Topics](https://swaruu.org/transcripts/random-conversations-with-the-taygetan-pleiadians-mini-topics) (2025-12-21; en); passages p0049, p0050, p0052. [Structured record](../../records/src-1d29aea5b394.json).
 
+### src-885ec940f20f-c02
+
+She describes her specialties as intelligence and counterespionage, holographic computing interfaces, and strategic architecture of virtual worlds.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Contacto Extraterrestre Pleyadiano - Estrella Taygeta -Anéeka de Temmer - Las Pleyades](https://swaruu.org/transcripts/contacto-extraterrestre-pleyadiano-estrella-taygeta-aneeka-de-temmer-las-pleyades) (2018-11-22; es); passages p0027. [Structured record](../../records/src-885ec940f20f.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-8808e760d7a4-c02
+
+Taygetan computers use nano-accelerators to calculate quantum probabilities.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [ETER: Enseñanzas de Swaruu de Erra sobre el Campo Eterico (Contacto Extraterrestre)](https://swaruu.org/transcripts/eter-ensenanzas-de-swaruu-de-erra-sobre-el-campo-eterico-contacto-extraterrestre) (2019-11-11; es); passages p0006. [Structured record](../../records/src-8808e760d7a4.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-50c3183fae27-c02
+
+Quantum computers access Ether for calculations; minds cannot process deep-space navigation data.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Navegacion Estelar - Como se cartografía el espacio - Naves Extraterrestres - Swaruu de Erra](https://swaruu.org/transcripts/navegacion-estelar-como-se-cartografia-el-espacio-naves-extraterrestres-swaruu-de-erra) (2019-11-12; es); passages p0007, p0009. [Structured record](../../records/src-50c3183fae27.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ca24d8041f8f-c04
+
+She says the lunar computer reads collective and individual minds to create, erase, or alter projected images.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA LUNA - ESTACIÓN ESPACIAL ARTIFICIAL Y LA MATRIX 3D – SWARUU - TAYGETA - Las Pléyades](https://swaruu.org/transcripts/la-luna-estacion-espacial-artificial-y-la-matrix-3d-swaruu-taygeta-las-pleyades) (2018-07-09; es); passages p0025, p0026. [Structured record](../../records/src-ca24d8041f8f.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
 ## Claims filed under other topics
 
 - [src-f22366424c26-c01](moon-matrix.md#src-f22366424c26-c01) — Moon and terrestrial Matrix
@@ -432,10 +472,19 @@ Source: [Random Conversations with the Taygetan Pleiadians - Mini Topics](https:
 - [src-293f7dd241ff-c01](total-immersion-simulations.md#src-293f7dd241ff-c01) — Total-immersion simulations
 - [src-f6a0faeb1f8f-c01](maternal-med-pods.md#src-f6a0faeb1f8f-c01) — Maternal medical pods
 - [src-f6a0faeb1f8f-c04](starship-systems.md#src-f6a0faeb1f8f-c04) — Starship systems
+- [src-64a9e923fd20-c04](immersion-pods.md#src-64a9e923fd20-c04) — Immersion pods
+- [src-ceb65bcc3f82-c04](frequency-map-navigation.md#src-ceb65bcc3f82-c04) — Frequency-map navigation
+- [src-ed681d9a2b1f-c04](starship-systems.md#src-ed681d9a2b1f-c04) — Starship systems
+- [src-b6c6fa839c76-c02](frequency-map-navigation.md#src-b6c6fa839c76-c02) — Frequency-map navigation
+- [src-d91884cf2930-c02](tractor-beams.md#src-d91884cf2930-c02) — Tractor beams
+- [src-d91884cf2930-c04](frequency-microscopes.md#src-d91884cf2930-c04) — Frequency Mapping Microscopes
+- [src-ca24d8041f8f-c03](moon-biosphere-ship.md#src-ca24d8041f8f-c03) — The Moon as a biosphere ship
+- [src-ca24d8041f8f-c05](starship-systems.md#src-ca24d8041f8f-c05) — Starship systems
 
 ## Review flags
 
 - Alenym-retirement-not-decided
+- Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - ai-clone-claims-attributed
 - blockade-and-biology-attributed
 - contested-space-history-allegation
@@ -449,13 +498,17 @@ Source: [Random Conversations with the Taygetan Pleiadians - Mini Topics](https:
 - extraordinary\_technology\_claims
 - factional-threat-interpretation-attributed-to-urmah
 - frequency-gravity-model
+- frequency-mechanics-attributed
 - frequency\_health\_claims\_unverified
 - historical-allegations
+- nonstandard-physics-claims
 - pilot-account-attributed
+- related-frequency-navigation-source
 - related\_series\_part
 - technology-described-by-mari
 - technology-description-unverified
 - technology\_and\_mind\_interface
+- tractor-beam-technology-attributed
 - translated\_source
 - unverified\_extraterrestrial\_technology\_claims
 - unverified\_laboratory\_report

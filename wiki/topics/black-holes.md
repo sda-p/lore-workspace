@@ -60,6 +60,16 @@ Source: [Galaxies - Information provided by Extraterrestrial Women](https://swar
 
 Related topics: [Natural and artificial portals](natural-portals.md).
 
+### src-78a2f4005f35-c01
+
+Swaruu says the visible Sun is a portal exit, paired with an entry black hole in central Andromeda.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL SOL Y LOS CODIGOS OCULTOS DEL CABAL](https://swaruu.org/transcripts/el-sol-y-los-codigos-ocultos-del-cabal) (2018-06-11; es); passages p0005, p0032. [Structured record](../../records/src-78a2f4005f35.json).
+
+Related topics: [Sunspot portals](sunspot-portals.md).
+
 ## Claims filed under other topics
 
 - [src-424a779240f3-c01](natural-portals.md#src-424a779240f3-c01) — Natural and artificial portals
@@ -68,9 +78,13 @@ Related topics: [Natural and artificial portals](natural-portals.md).
 - [src-db55ee8f9480-c01](consciousness-singularity.md#src-db55ee8f9480-c01) — Consciousness singularity
 - [src-db55ee8f9480-c02](consciousness-singularity.md#src-db55ee8f9480-c02) — Consciousness singularity
 - [src-6ce55fb86338-c03](tiamat.md#src-6ce55fb86338-c03) — Tiamat
+- [src-4f5b82f333ba-c01](sunspot-portals.md#src-4f5b82f333ba-c01) — Sunspot portals
 
 ## Review flags
 
+- conspiracy-claims
+- contested-claims
+- cosmology-claims-attributed
 - extraordinary\_astronomical\_claims
 - extraordinary\_cosmology\_claims
 - internal-date-tension

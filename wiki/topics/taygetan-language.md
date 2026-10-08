@@ -120,6 +120,26 @@ Source: [Chatting with Yazhi Swaruu - September 2024](https://swaruu.org/transcr
 
 Related topics: [Urmah](urmah.md).
 
+### src-735f991fe169-c01
+
+Swaruu says written online contact avoids channeling, which she believes can mix a receiver’s imagination and beliefs into messages.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MENSAJE EXTRATRRESTRE PARA LOS ESCEPTICOS - SWARUU DE ERRA - PLEYADES](https://swaruu.org/transcripts/mensaje-extratrrestre-para-los-escepticos-swaruu-de-erra-pleyades) (2018-07-30; es); passages p0015, p0016. [Structured record](../../records/src-735f991fe169.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-735f991fe169-c02
+
+Swaruu says human ship-role terms are approximate translations used to make Taygetan roles understandable.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MENSAJE EXTRATRRESTRE PARA LOS ESCEPTICOS - SWARUU DE ERRA - PLEYADES](https://swaruu.org/transcripts/mensaje-extratrrestre-para-los-escepticos-swaruu-de-erra-pleyades) (2018-07-30; es); passages p0034. [Structured record](../../records/src-735f991fe169.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c03](urmah.md#src-5e6c8ea2cb2c-c03) — Urmah

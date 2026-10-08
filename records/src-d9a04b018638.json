@@ -1,0 +1,72 @@
+{
+  "source_id": "src-d9a04b018638",
+  "snapshot_sha256": "b64cabd48d4850c110d56bbd74ef5d7a53d8f2c93b315aa45da95c5d13705a75",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d9a04b018638-c01",
+      "assertion": "Anéeka says Taygetans have a unified brain, faster connections, integrated artistic and mathematical thought, and ambidexterity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0032",
+        "p0033",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "They have up to 500 cm³ more brain volume."
+    },
+    {
+      "id": "src-d9a04b018638-c02",
+      "assertion": "Anéeka says Urmah have a unified, cat-like brain; Alfrateans and Ummitas retain two lobes with stronger interhemispheric connections than humans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alfrata"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d9a04b018638-c03",
+      "assertion": "Anéeka says Taygetan nerves carry more signal and support greater strength, but their faster metabolism makes them more vulnerable to stress overload.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0040",
+        "p0041",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She notes their lower stress tolerance."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Homo-Capensis-comparison",
+    "pineal-claims",
+    "cognitive-language-tradeoffs"
+  ]
+}

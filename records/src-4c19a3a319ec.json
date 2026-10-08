@@ -1,0 +1,54 @@
+{
+  "source_id": "src-4c19a3a319ec",
+  "snapshot_sha256": "5811bd632d1831652a0d83cc72a1eeeb785c598c1c93d3112b5019dc35838def",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4c19a3a319ec-c01",
+      "assertion": "Robert says Taygetan technology and society use holographic principles.",
+      "speaker": "Robert",
+      "paragraph_ids": ["p0003"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "His account."
+    },
+    {
+      "id": "src-4c19a3a319ec-c02",
+      "assertion": "He says some Taygetan ships are biological, learn like persons, and operate through crew consciousness.",
+      "speaker": "Robert, relaying Taygetan accounts",
+      "paragraph_ids": ["p0005"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems", "taygetans", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Some ships."
+    },
+    {
+      "id": "src-4c19a3a319ec-c03",
+      "assertion": "Robert says consciousness animates fixed universal frames into an individual timeline; each person is a creator of personal reality.",
+      "speaker": "Robert",
+      "paragraph_ids": ["p0006", "p0007"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "His metaphysical account."
+    },
+    {
+      "id": "src-4c19a3a319ec-c04",
+      "assertion": "Robert says postmortem reincarnation needs no external soul-trap: carried beliefs draw souls back, so ideas should change during physical life.",
+      "speaker": "Robert",
+      "paragraph_ids": ["p0009"],
+      "primary_topic": "postmortem-realities",
+      "topics": ["postmortem-realities", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "His account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["physical-reality-model", "terrestrial-physics-claims"]
+}

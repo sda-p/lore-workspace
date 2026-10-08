@@ -72,10 +72,14 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
 - [src-4af520912230-c05](lyrian-cellular-body.md#src-4af520912230-c05) — Lyrian cellular-body model
 - [src-69ad8dca8c41-c03](total-immersion-simulations.md#src-69ad8dca8c41-c03) — Total-immersion simulations
+- [src-80367dc03fbe-c03](matrix-generated-persons.md#src-80367dc03fbe-c03) — Matrix-generated persons
+- [src-39f1f606d12b-c05](human-clones.md#src-39f1f606d12b-c05) — Human clones and manufactured persons
 
 ## Review flags
 
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - federation-authority-critique
 - matrix-scope-differing-views
+- status-unverifiable
 - translated-originally-Spanish
+- treat-all-persons-equally

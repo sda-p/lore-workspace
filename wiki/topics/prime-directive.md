@@ -500,6 +500,66 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politics (English)](https://swaruu.org/transcripts/taygeta-space-news-37-galactic-federation-update-taygetan-exo-politics-english) (2024-08-24; en); passages p0019, p0020, p0021. [Structured record](../../records/src-679ef96054ba.json).
 
+### src-c39eb902dc40-c02
+
+She says the Prime Directive protects free will, including an incarnating soul’s deeper intentions; complex cases may be left to individual ship captains. She acknowledges the directive is imperfect.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Programa de Primer Contacto Extraterrestre](https://swaruu.org/transcripts/programa-de-primer-contacto-extraterrestre) (2019-08-07; es); passages p0020, p0028, p0029, p0030. [Structured record](../../records/src-c39eb902dc40.json).
+
+### src-da3eb1da7135-c04
+
+Federation rules bar direct intervention; Taygetans covertly opposed reptiles, leaving humans credit.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Preguntas Frecuentes: Mensaje Extraterrestre (Swaruu de Taygeta-Pleyades)](https://swaruu.org/transcripts/preguntas-frecuentes-mensaje-extraterrestre-swaruu-de-taygeta-pleyades) (2018-10-02; es); passages p0050. [Structured record](../../records/src-da3eb1da7135.json).
+
+### src-96c91cbdd54c-c03
+
+Swaruu says the Prime Directive protects free will and deep incarnation intentions, but is imperfect and leaves complex cases to captains.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Contacto Extraterrestre: ESTAMOS LISTOS para Contacto Oficial? (Swaruu de Erra, Pleyades)](https://swaruu.org/transcripts/contacto-extraterrestre-estamos-listos-para-contacto-oficial-swaruu-de-erra-pleyades) (2019-08-07; es); passages p0018, p0025, p0026, p0027. [Structured record](../../records/src-96c91cbdd54c.json).
+
+### src-f3a1e4326731-c01
+
+Swaruu dates the Federation's First Directive to 850,000–900,000 years ago, intended to prevent interference with less-developed civilizations.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Primera Directiva: Mensaje Extraterrestre de Pleyades (Taygeta) (3)](https://swaruu.org/transcripts/primera-directiva-mensaje-extraterrestre-de-pleyades-taygeta-3) (2018-06-16; es); passages p0005. [Structured record](../../records/src-f3a1e4326731.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-f3a1e4326731-c03
+
+The Directive restricts contact and advanced technology for cultures lacking interstellar travel or organized offworld ties; exceptions include contamination and external threats.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Primera Directiva: Mensaje Extraterrestre de Pleyades (Taygeta) (3)](https://swaruu.org/transcripts/primera-directiva-mensaje-extraterrestre-de-pleyades-taygeta-3) (2018-06-16; es); passages p0023, p0026, p0028, p0029. [Structured record](../../records/src-f3a1e4326731.json).
+
+### src-f3a1e4326731-c04
+
+She calls it flexible guidance, breakable for greater good; contactors bear responsibility, while Federation and Orion Council supervise.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Primera Directiva: Mensaje Extraterrestre de Pleyades (Taygeta) (3)](https://swaruu.org/transcripts/primera-directiva-mensaje-extraterrestre-de-pleyades-taygeta-3) (2018-06-16; es); passages p0037, p0039, p0043, p0045. [Structured record](../../records/src-f3a1e4326731.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Orion Council](orion-council.md).
+
+### src-f3da65ca7f6c-c02
+
+Asket says the First Directive bars communication beyond a recipient society’s technology level.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://swaruu.org/transcripts/contacto-con-mujeres-extraterrestres-la-estrella-taygeta) (2018-12-15; es); passages p0056, p0057. [Structured record](../../records/src-f3da65ca7f6c.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c04](galactic-federation.md#src-a5811312e55c-c04) — Galactic Federation
@@ -526,6 +586,13 @@ Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politi
 - [src-fe82d1a07961-c03](galactic-federation.md#src-fe82d1a07961-c03) — Galactic Federation
 - [src-c0ea4ddd8632-c05](holographic-computers.md#src-c0ea4ddd8632-c05) — Holographic computers
 - [src-4af520912230-c01](galactic-federation.md#src-4af520912230-c01) — Galactic Federation
+- [src-c39eb902dc40-c03](galactic-federation.md#src-c39eb902dc40-c03) — Galactic Federation
+- [src-0b5cb8b06b54-c01](galactic-federation.md#src-0b5cb8b06b54-c01) — Galactic Federation
+- [src-0b5cb8b06b54-c02](galactic-federation.md#src-0b5cb8b06b54-c02) — Galactic Federation
+- [src-bbad8c4053ab-c01](sand-clock.md#src-bbad8c4053ab-c01) — Sand Clock
+- [src-bebc8e2161ed-c03](alfrata.md#src-bebc8e2161ed-c03) — Alfrata (Phaeton)
+- [src-bfae5ca72b24-c03](galactic-federation.md#src-bfae5ca72b24-c03) — Galactic Federation
+- [src-96c91cbdd54c-c04](galactic-federation.md#src-96c91cbdd54c-c04) — Galactic Federation
 
 ## Review flags
 
@@ -533,19 +600,23 @@ Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politi
 - AI\_capability\_claims\_unverified
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
 - Federation-as-controller claim conflicts with mentor framing within transcript
+- Leader-contact claim is attributed to Asket in this transcript.
 - Yazhi-interview-report
 - agency\_and\_noninterference
 - broad-exopolitical-allegations
+- causal-attribution-tension
 - cognitive-dissonance-concept
 - comparative\_technology\_claims
 - conspiracy-claims
 - conspiracy\_claims
+- contact-readiness-generalization
 - contested\_intelligence\_claims
 - coverage: quoted Jung and Tsarion passages
 - directive-rules-not-in-transcript
 - extraordinary\_exopolitical\_claims
 - faction\_claims
 - federation-authority-critique
+- federation-history-attributed
 - historical-allegations
 - historical-claims-unverified
 - internal\_tension
@@ -557,9 +628,11 @@ Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politi
 - personal\_metaphysics
 - planetary-lore-unverified
 - political-claims-unverified
+- prime-directive-attributed
 - project-guidance-attributed-to-mari
 - self\_description
 - social-media-project\_details\_speculative
+- terrestrial-history-contradiction
 - time\_travel\_risks
 - translated-from-Spanish-original-not-available
 - translated-originally-Spanish

@@ -1,0 +1,99 @@
+{
+  "source_id": "src-5d901fdb8dd5",
+  "snapshot_sha256": "3f0279dc6d391d1ea00cac38ee2fce05666ae874c67c42d20c55d598a42c117d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5d901fdb8dd5-c01",
+      "assertion": "Swaruu (9) says all temporal moments exist as fixed images, perceived sequentially by consciousness.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5d901fdb8dd5-c02",
+      "assertion": "Space-time navigation matches a destination frequency using a map; past and future are alternate tuning targets.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0017"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5d901fdb8dd5-c03",
+      "assertion": "Temporal jumps can desynchronize return; small changes may cause large timeline shifts.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5d901fdb8dd5-c04",
+      "assertion": "People choose among fixed timelines; emotional frequency steers toward positive or catastrophic lines.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0026",
+        "p0034"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5d901fdb8dd5-c05",
+      "assertion": "A mind may predict personal futures but tends to miss collective outcomes; algorithms can model trends.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0021"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "density-dimension-distinction",
+    "reincarnation-loops"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "source_id": "src-7037a2d38c7d",
+  "snapshot_sha256": "05b5d1f63efbefed7d5b673a76d361bc5269e7c395d81d640b8dfe8bee40afff",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7037a2d38c7d-c01",
+      "assertion": "Yazhi says Alfrateans and Antarians enforce a Federation blockade around Earth; ships must file flight plans, though some can pass.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alfrata"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes the human and extraterrestrial boundary as unclear."
+    },
+    {
+      "id": "src-7037a2d38c7d-c02",
+      "assertion": "Swaruu X says Lurkers are silicon-based, unlike carbon-based Lyrians such as Taygetans; this is a difference, not an upgrade.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0037",
+        "p0039",
+        "p0041",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "lurkers",
+      "topics": [
+        "lurkers",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7037a2d38c7d-c03",
+      "assertion": "Swaruu X says solar portals open around the northern summer solstice; a large Arcturian biosphere ship recently used one, producing a magnetic anomaly.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0080",
+        "p0081",
+        "p0082",
+        "p0083",
+        "p0085"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls this routine and predictable."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Yautija-proto-Reptilians",
+    "Federation-contact-policy",
+    "holographic-interference"
+  ]
+}

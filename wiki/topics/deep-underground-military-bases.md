@@ -18,7 +18,16 @@ Source: [Ucranian Conflict - Why? Athena Swaruu´s Short Commentary](https://swa
 
 Related topics: [Ukraine](ukraine.md), [Intraterrestrial civilizations](intraterrestrial-civilizations.md).
 
+## Claims filed under other topics
+
+- [src-3556f3ec008f-c01](sphinx-underground-bases.md#src-3556f3ec008f-c01) — Sphinx Underground Bases
+- [src-9fa59ea635de-c01](weather-control.md#src-9fa59ea635de-c01) — Weather control systems
+- [src-5d0fdcdc4f0b-c01](starship-systems.md#src-5d0fdcdc4f0b-c01) — Starship systems
+
 ## Review flags
 
+- ancient-site-claims-attributed
+- frequency-and-harm-claims
+- security-claims-attributed
 - translated-originally-Spanish
 - wartime-conspiracy-claims

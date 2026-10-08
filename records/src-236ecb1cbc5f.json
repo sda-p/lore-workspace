@@ -1,0 +1,72 @@
+{
+  "source_id": "src-236ecb1cbc5f",
+  "snapshot_sha256": "a526970744e2745ea32f7b2672c3aed0e4bd9710454dc51be727562f98ce6a8e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-236ecb1cbc5f-c01",
+      "assertion": "Swaruu says starseeds can sustain a positive timeline through inner identity, while imposed mass thinking can neutralize them and support a negative line.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-236ecb1cbc5f-c02",
+      "assertion": "She says positive thought alone may not manifest desired results in 3D; active work is needed alongside focus.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0020",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She particularly urges practical action in response to problems."
+    },
+    {
+      "id": "src-236ecb1cbc5f-c03",
+      "assertion": "Swaruu claims the Cabal placed nanotech chips in vaccines from 1997 and links vaccine metals to programmed phone radiation and AI access to human bodies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "artificial-intelligence",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account alleges covert technology and control."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "contested-vaccine-technology-allegations"
+  ],
+  "coverage_gaps": [
+    "medical-disinformation-claims",
+    "information-overload-and-coping"
+  ]
+}

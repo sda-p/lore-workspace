@@ -1,0 +1,92 @@
+{
+  "source_id": "src-914c88ed3e7a",
+  "snapshot_sha256": "8dc5d5579fd94cad637ef7ec356b2f7dd16d4c34e6c16968f791db2da6e20ede",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-914c88ed3e7a-c01",
+      "assertion": "Robert relays Taygetan claims that their Arks store planetary species' DNA and protect inhabitants.",
+      "speaker": "Robert, relaying Taygetan claims",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "earth-dna-arks",
+      "topics": [
+        "earth-dna-arks",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Advanced safeguards."
+    },
+    {
+      "id": "src-914c88ed3e7a-c02",
+      "assertion": "He reports three Earth Arks: damaged or possibly inactive at Area 51, active in Russian Antarctic custody, and a Taygetan-held unit ready for activation.",
+      "speaker": "Robert, relaying Taygetan claims",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "earth-dna-arks",
+      "topics": [
+        "earth-dna-arks",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "First condition uncertain."
+    },
+    {
+      "id": "src-914c88ed3e7a-c03",
+      "assertion": "Robert says humans are Lyrian variants; consciousness, not mutation or selection, alters their genes.",
+      "speaker": "Robert",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "According to this account."
+    },
+    {
+      "id": "src-914c88ed3e7a-c04",
+      "assertion": "Robert identifies Moses as Akhenaten and tentatively links Sinai to a reptilian ship.",
+      "speaker": "Robert",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Tentative encounter."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "earth-dna-arks",
+      "name": "Earth DNA Arks",
+      "kind": "infrastructure",
+      "aliases": [
+        "Arks of the Covenant",
+        "planetary DNA arks"
+      ]
+    }
+  ],
+  "review_flags": [
+    "ark-locations-and-status"
+  ],
+  "coverage_gaps": [
+    "angeletal-emblems",
+    "religious-history-claims"
+  ]
+}

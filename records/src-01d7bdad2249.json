@@ -1,0 +1,104 @@
+{
+  "source_id": "src-01d7bdad2249",
+  "snapshot_sha256": "e10c06a5b4b6ef823c85ae7c2f0a982f745a5f98e6369b279d148c01bbbe92e2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-01d7bdad2249-c01",
+      "assertion": "Anéeka says Alcyone backed the ship to observe Federation activity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01d7bdad2249-c02",
+      "assertion": "She says ascension messaging recruited ships to awaken starseeds, but she doubts its stated purpose.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01d7bdad2249-c03",
+      "assertion": "Anéeka distinguishes satanist and Federation-backed global unions; both envision one government, religion, and currency.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0072"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01d7bdad2249-c04",
+      "assertion": "She says Taygetans reject “liberation” as a description of changed Earth control dynamics.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01d7bdad2249-c05",
+      "assertion": "Anéeka says Engan and Urmah left the area but remain Federation members.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0095",
+        "p0096",
+        "p0097"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "federation-purpose-disputed",
+    "liberation-framing-disputed"
+  ],
+  "coverage_gaps": [
+    "reptile-conflicts",
+    "matrix-model",
+    "gaia"
+  ]
+}

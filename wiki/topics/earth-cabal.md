@@ -2392,6 +2392,226 @@ Attributed to **Gosia**; reported; extraction confidence: medium.
 
 Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) (2026-07-07; en); passages p0038, p0039, p0040. [Structured record](../../records/src-c3560b8010b9.json).
 
+### src-0b5cb8b06b54-c04
+
+She says the Cabal uses the Internet for population control, surveillance, censorship, and shaping public values.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Carta Respuesta de Swaruu a la Federacion Galactica: Tertulia de Anochecer (3)](https://swaruu.org/transcripts/carta-respuesta-de-swaruu-a-la-federacion-galactica-tertulia-de-anochecer-3) (2018-09-18; es); passages p0018, p0019. [Structured record](../../records/src-0b5cb8b06b54.json).
+
+### src-fdf4bfc8aa32-c02
+
+She says Earth controllers use YouTube to profile creators and social relationships for targeted manipulation; Taygeta also analyzes its data through her.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Conversaciones con Anéeka - Tablillas Sumerias - El Mundo del misterio Youtube](https://swaruu.org/transcripts/conversaciones-con-aneeka-tablillas-sumerias-el-mundo-del-misterio-youtube) (2019-07-08; es); passages p0020, p0021, p0022. [Structured record](../../records/src-fdf4bfc8aa32.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-fa36f5777c7c-c03
+
+Swaruu alleges the Cabal uses Greta Thunberg to promote carbon credits, taxes, and regulations as population-control measures. The source presents this as Swaruu’s allegation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cambio Climatico? Calentamiento Global? Greta Thunberg? Comentarios de Swaruu de Erra](https://swaruu.org/transcripts/cambio-climatico-calentamiento-global-greta-thunberg-comentarios-de-swaruu-de-erra) (2019-10-07; es); passages p0025, p0027, p0028. [Structured record](../../records/src-fa36f5777c7c.json).
+
+### src-95838b2a2aa6-c01
+
+Dhor Káal’él alleges the Cabal coordinates Latin American unrest to destabilize countries and justify authoritarian control; some genuine protests may be co-opted. Attributed political-conspiracy claims.
+
+Attributed to **Dhor Káal’él**; asserted; extraction confidence: high.
+
+Source: [Protestas en Sud America: Ingenieria Social: Mensaje Extraterrestre (Dhor Káal'el)](https://swaruu.org/transcripts/protestas-en-sud-america-ingenieria-social-mensaje-extraterrestre-dhor-kaal-el) (2019-12-04; es); passages p0002, p0003, p0004, p0006. [Structured record](../../records/src-95838b2a2aa6.json).
+
+### src-d215ccbf4167-c06
+
+She claims Jesuits control telescopes and filter space-agency information about extraterrestrial life.
+
+Attributed to **Swaruu de Erra**; reported; extraction confidence: medium.
+
+Source: [Mensaje Extraterrestre Pleyadiano: La Falsedad de la Ciencia Terrestre](https://swaruu.org/transcripts/mensaje-extraterrestre-pleyadiano-la-falsedad-de-la-ciencia-terrestre) (2018-07-21; es); passages p0055. [Structured record](../../records/src-d215ccbf4167.json).
+
+### src-d2714323822a-c01
+
+Swaruu says Taygetan presence grew in 1952 and 2008 to counter a claimed Agenda 21 plan.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Porque Estamos Aqui Ahora? (2)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-porque-estamos-aqui-ahora-2) (2018-06-04; es); passages p0003, p0005, p0007. [Structured record](../../records/src-d2714323822a.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-d2714323822a-c04
+
+Earth is one of ten similar planets but the key negative stronghold in its quadrant.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Porque Estamos Aqui Ahora? (2)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-porque-estamos-aqui-ahora-2) (2018-06-04; es); passages p0055, p0057, p0059. [Structured record](../../records/src-d2714323822a.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-78a2f4005f35-c02
+
+She alleges Cabal codes use nuclear for genetics, atomic for extraterrestrials, meteors for craft, and spirals for portals; context matters.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL SOL Y LOS CODIGOS OCULTOS DEL CABAL](https://swaruu.org/transcripts/el-sol-y-los-codigos-ocultos-del-cabal) (2018-06-11; es); passages p0010, p0012, p0014, p0017, p0018, p0020. [Structured record](../../records/src-78a2f4005f35.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-a903c6d50bef-c03
+
+She frames blackouts as chaos tactics tied to planned agendas, linking Argentina’s event to vaccination and economic collapse.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [APAGÓN EN ARGENTINA - QUE ESTA PASANDO - POR QUÉ](https://swaruu.org/transcripts/apagon-en-argentina-que-esta-pasando-por-que) (2019-06-24; es); passages p0006, p0007, p0015. [Structured record](../../records/src-a903c6d50bef.json).
+
+### src-a903c6d50bef-c04
+
+Swaruu describes the Cabal as including reptiles, Maitre and archons; Illuminati form its human elite tier.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [APAGÓN EN ARGENTINA - QUE ESTA PASANDO - POR QUÉ](https://swaruu.org/transcripts/apagon-en-argentina-que-esta-pasando-por-que) (2019-06-24; es); passages p0032, p0033. [Structured record](../../records/src-a903c6d50bef.json).
+
+### src-fa9d81b6939a-c01
+
+From his limited orbital viewpoint, Dhor alleges global exploitation aims to provoke social discontent.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: medium.
+
+Source: [LATINO AMÉRICA - QUE ESTA PASANDO - REVUELTAS - MANIFESTACIONES - INGENIERÍA SOCIAL](https://swaruu.org/transcripts/latino-america-que-esta-pasando-revueltas-manifestaciones-ingenieria-social) (2019-12-04; es); passages p0002, p0003. [Structured record](../../records/src-fa9d81b6939a.json).
+
+### src-fa9d81b6939a-c02
+
+He says coordinated Latin American unrest seeks to destabilize countries and justify authoritarian policing.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: medium.
+
+Source: [LATINO AMÉRICA - QUE ESTA PASANDO - REVUELTAS - MANIFESTACIONES - INGENIERÍA SOCIAL](https://swaruu.org/transcripts/latino-america-que-esta-pasando-revueltas-manifestaciones-ingenieria-social) (2019-12-04; es); passages p0004. [Structured record](../../records/src-fa9d81b6939a.json).
+
+### src-fa9d81b6939a-c03
+
+Dhor alleges Cabal-funded organizers use paid agitators to turn peaceful protests violent, even when some begin organically.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: medium.
+
+Source: [LATINO AMÉRICA - QUE ESTA PASANDO - REVUELTAS - MANIFESTACIONES - INGENIERÍA SOCIAL](https://swaruu.org/transcripts/latino-america-que-esta-pasando-revueltas-manifestaciones-ingenieria-social) (2019-12-04; es); passages p0005, p0006. [Structured record](../../records/src-fa9d81b6939a.json).
+
+### src-fa9d81b6939a-c04
+
+He attributes these operations mainly to CIA and MI6, with Mossad and Jesuit backing.
+
+Attributed to **Dhor Káal'él**; asserted; extraction confidence: medium.
+
+Source: [LATINO AMÉRICA - QUE ESTA PASANDO - REVUELTAS - MANIFESTACIONES - INGENIERÍA SOCIAL](https://swaruu.org/transcripts/latino-america-que-esta-pasando-revueltas-manifestaciones-ingenieria-social) (2019-12-04; es); passages p0014. [Structured record](../../records/src-fa9d81b6939a.json).
+
+### src-fa9d81b6939a-c05
+
+Dhor predicts Central American instability will drive mass migration through Mexico toward the United States.
+
+Attributed to **Dhor Káal'él**; speculative; extraction confidence: medium.
+
+Source: [LATINO AMÉRICA - QUE ESTA PASANDO - REVUELTAS - MANIFESTACIONES - INGENIERÍA SOCIAL](https://swaruu.org/transcripts/latino-america-que-esta-pasando-revueltas-manifestaciones-ingenieria-social) (2019-12-04; es); passages p0016, p0017. [Structured record](../../records/src-fa9d81b6939a.json).
+
+### src-9fa59ea635de-c04
+
+She describes mystery-media disinformation tailored to audiences' awareness, with paid agents seeding false sources.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [SONIDOS EXTRAÑOS EN EL CIELO – PRESUPUESTO PROPUESTO DE LA NASA PARA CAZAR EXTRATERRESTRES](https://swaruu.org/transcripts/sonidos-extranos-en-el-cielo-presupuesto-propuesto-de-la-nasa-para-cazar-extraterrestres) (2019-03-07; es); passages p0033, p0034, p0035. [Structured record](../../records/src-9fa59ea635de.json).
+
+### src-7872bc2f2c04-c07
+
+She says Cabal allies use negative goo for genetic weapons.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [Inteligencia Artificial, Goo Negro, Chemtrails y mas: Articulo de Swaruu (Taygeta, Pleyades)](https://swaruu.org/transcripts/inteligencia-artificial-goo-negro-chemtrails-y-mas-articulo-de-swaruu-taygeta-pleyades) (2018-10-09; es); passages p0059, p0060. [Structured record](../../records/src-7872bc2f2c04.json).
+
+### src-f3da65ca7f6c-c07
+
+Asket says Russia’s president is their sole leader contact.
+
+Attributed to **Asket**; asserted; extraction confidence: high.
+
+Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://swaruu.org/transcripts/contacto-con-mujeres-extraterrestres-la-estrella-taygeta) (2018-12-15; es); passages p0119, p0122, p0125. [Structured record](../../records/src-f3da65ca7f6c.json).
+
+### src-42f818598b56-c06
+
+Rashell says Eisenhower signed a technology-for-abductions treaty, though his Cabal role is unclear.
+
+Attributed to **Rashell**; asserted; extraction confidence: high.
+
+Source: [Nosotras Somos las Chicas de Sociedad Vril: Mensaje Pleyadiano (Rashell de Temmer)](https://swaruu.org/transcripts/nosotras-somos-las-chicas-de-sociedad-vril-mensaje-pleyadiano-rashell-de-temmer) (2019-01-24; es); passages p0042, p0044. [Structured record](../../records/src-42f818598b56.json).
+
+### src-74c032374fff-c02
+
+Asket says reptilian-run space operations use portals between Earth, Mars, and Venus.
+
+Attributed to **Asket, relayed by article narrator**; reported; extraction confidence: high.
+
+Source: [2019 - EL CABALLERO NEGRO - LOS ANUNNAKI - CONTACTO EXTRATERRESTRE](https://swaruu.org/transcripts/2019-el-caballero-negro-los-anunnaki-contacto-extraterrestre) (2019-01-10; es); passages p0011, p0016. [Structured record](../../records/src-74c032374fff.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Mars](mars.md), [Venus](venus.md).
+
+### src-caf216b09494-c02
+
+Controllers withhold escape-enabling technology and exploit humans for energy, food, and labor.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA FALSEDAD DE LA CIENCIA TERRESTRE-BAJO QUE PROPOSITO - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/la-falsedad-de-la-ciencia-terrestre-bajo-que-proposito-swaruu-sistema-taygeta-pleyades) (2018-07-21; es); passages p0004, p0006, p0008. [Structured record](../../records/src-caf216b09494.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-caf216b09494-c03
+
+She presents controllers as an alliance spanning archons, AI, regressive ETs, Cabal, corporations, and governments.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LA FALSEDAD DE LA CIENCIA TERRESTRE-BAJO QUE PROPOSITO - SWARUU - Sistema Taygeta - PLEYADES](https://swaruu.org/transcripts/la-falsedad-de-la-ciencia-terrestre-bajo-que-proposito-swaruu-sistema-taygeta-pleyades) (2018-07-21; es); passages p0023. [Structured record](../../records/src-caf216b09494.json).
+
+Related topics: [Archons and demons](archons-and-demons.md), [Artificial intelligence](artificial-intelligence.md).
+
+### src-e0a4afea956c-c02
+
+She says Cabal-controlled media and New Age ideas seed disinformation that discredits Taygetan contact.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL PORQUE NO PUEDEN HABER PRUEBAS - TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/el-porque-no-pueden-haber-pruebas-taygeteana-de-las-pleyades) (2018-05-15; es); passages p0006, p0008, p0009. [Structured record](../../records/src-e0a4afea956c.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-e0a4afea956c-c05
+
+She predicts controlled, partial disclosure mainly for population-engineering research; people should judge evidence independently.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL PORQUE NO PUEDEN HABER PRUEBAS - TAYGETEANA DE LAS PLÉYADES](https://swaruu.org/transcripts/el-porque-no-pueden-haber-pruebas-taygeteana-de-las-pleyades) (2018-05-15; es); passages p0021, p0022, p0023, p0024. [Structured record](../../records/src-e0a4afea956c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c92e3d59e2ba-c04
+
+She claims Cabal corporations seek water privatization, including shipping North American lake water to China for chipmaking.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL EGO Y EL AMOR - MENSAJE EXTRATERRESTRE - NIBIRU - STAR TREK - SWARUU DE ERRA](https://swaruu.org/transcripts/el-ego-y-el-amor-mensaje-extraterrestre-nibiru-star-trek-swaruu-de-erra) (2018-12-17; es); passages p0026, p0028, p0029. [Structured record](../../records/src-c92e3d59e2ba.json).
+
+Related topics: [Economics and resources](economics.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -2502,27 +2722,67 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - [src-bddaa45917d5-c03](galactic-federation.md#src-bddaa45917d5-c03) — Galactic Federation
 - [src-bddaa45917d5-c04](galactic-federation.md#src-bddaa45917d5-c04) — Galactic Federation
 - [src-3dfabad0c315-c05](alien-species.md#src-3dfabad0c315-c05) — Alien species and distinctions
+- [src-d7432fcef312-c03](vaccine-inoculation-claims.md#src-d7432fcef312-c03) — Inoculation and genetic alteration claims
+- [src-0f16286af0bc-c02](moon-matrix.md#src-0f16286af0bc-c02) — Moon and terrestrial Matrix
+- [src-885ec940f20f-c03](galactic-federation.md#src-885ec940f20f-c03) — Galactic Federation
+- [src-fa36f5777c7c-c01](terrestrial-science.md#src-fa36f5777c7c-c01) — Terrestrial science
+- [src-fa36f5777c7c-c02](weather-control.md#src-fa36f5777c7c-c02) — Weather control systems
+- [src-8653c6f0627b-c02](astrotheology.md#src-8653c6f0627b-c02) — Astrotheology
+- [src-8653c6f0627b-c03](alien-species.md#src-8653c6f0627b-c03) — Alien species and distinctions
+- [src-95838b2a2aa6-c02](engineered-social-unrest.md#src-95838b2a2aa6-c02) — Engineered social unrest
+- [src-af005c73ed53-c05](artificial-intelligence.md#src-af005c73ed53-c05) — Artificial intelligence
+- [src-d215ccbf4167-c01](terrestrial-science.md#src-d215ccbf4167-c01) — Terrestrial science
+- [src-d215ccbf4167-c02](terrestrial-science.md#src-d215ccbf4167-c02) — Terrestrial science
+- [src-d215ccbf4167-c05](energy-generation.md#src-d215ccbf4167-c05) — Energy generation technology
+- [src-7073c15c2ef0-c02](dna-metaphysics.md#src-7073c15c2ef0-c02) — DNA and metaphysical patterns
+- [src-c8989a4b274b-c03](economics.md#src-c8989a4b274b-c03) — Economics and resources
+- [src-a903c6d50bef-c02](energy-generation.md#src-a903c6d50bef-c02) — Energy generation technology
+- [src-9fa59ea635de-c02](weather-control.md#src-9fa59ea635de-c02) — Weather control systems
+- [src-9fa59ea635de-c03](men-in-black.md#src-9fa59ea635de-c03) — Men in Black
+- [src-1efac2564f96-c01](red-queen-ai.md#src-1efac2564f96-c01) — Red Queen AI
+- [src-b36d2a7b7c51-c04](galactic-federation.md#src-b36d2a7b7c51-c04) — Galactic Federation
+- [src-a62abe01768e-c05](taygetans.md#src-a62abe01768e-c05) — Taygetans
+- [src-b5edcd5a7e88-c01](starseeds.md#src-b5edcd5a7e88-c01) — Starseeds
+- [src-5d0fdcdc4f0b-c02](weather-control.md#src-5d0fdcdc4f0b-c02) — Weather control systems
+- [src-40614df19d52-c01](pluto.md#src-40614df19d52-c01) — Pluto
+- [src-b24a05072ad7-c03](moon-matrix.md#src-b24a05072ad7-c03) — Moon and terrestrial Matrix
+- [src-e0a4afea956c-c01](false-alien-invasion.md#src-e0a4afea956c-c01) — False alien invasion scenarios
+- [src-59c43e8ab96d-c02](mars.md#src-59c43e8ab96d-c02) — Mars
 
 ## Review flags
 
 - 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
 - AI\_capability\_claims\_unverified
 - Australian-traffic-purpose-unknown
+- Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
+- Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
+- Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Higher-level free-will explanation is challenged by Gosia
+- Leader-contact claim is attributed to Asket in this transcript.
 - Maitre\_relationship\_with\_Reptilians
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Proposed intervention remains conditional and internally qualified
+- Related Spanish and English articles cover overlapping material but have different scopes; translation equivalence is unconfirmed.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
+- agenda21-assertion
 - agenda\_term\_varies
+- aircraft-identity-ambiguity
+- alternate-interpretation-of-ancient-texts-attributed
 - ark\_location\_and\_war\_claims\_unverified
+- artificial-intelligence-attributed
 - attack-theory\_speculative
+- attributed-climate-conspiracy-claims
+- attributed-frequency-interference-claims
+- attributed-medical-conspiracy-claims
+- attributed-political-conspiracy-claims
 - attribution-care: source claims about sexuality are speaker-specific
 - attribution: extraordinary intelligence claims remain source-specific
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
+- author-signature-attribution
 - black-knight-loss-details-provisional
 - broad-exopolitical-allegations
 - chronology\_conflict
@@ -2530,7 +2790,9 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - claims are attributed teachings from Space Academy, not independently verified
 - claims are presented as attributed lore and quotations within a lesson
 - claims reflect Space Academy’s attributed lore
+- claims-about-suppressed-contact-evidence
 - climate-claims
+- clone-personhood-variation
 - competing\_attributions
 - conditional\_forecast
 - conflict\_claims\_unverified
@@ -2539,10 +2801,12 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - conspiracy-claims
 - conspiracy\_claims
 - conspiracy\_claims\_unverified
+- contested-claims
 - contested-space-history-allegation
 - contested\_extraterrestrial\_history
 - contested\_historical\_claims
 - contested\_intelligence\_claims
+- counterfactual-earth-history
 - coverage: Atonism details
 - coverage: aircraft technical details
 - coverage: experimental rejuvenation narrative
@@ -2553,6 +2817,7 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - dated\_claims
 - dated\_prediction
 - diet\_claim\_omitted
+- disability-spiritualization
 - disaster claims are source allegations; no corroboration in snapshot
 - disaster-causation-unverified
 - disclosure-agenda-speculative
@@ -2585,6 +2850,7 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - fence-control-theory-unconfirmed
 - food\_and\_health\_claims\_unverified
 - forecast\_predictions\_not\_confirmed
+- frequency-and-harm-claims
 - genetic-surveillance-allegations
 - geopolitical-allegation
 - health-conspiracy-claims
@@ -2595,6 +2861,8 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - historical-uncertainty
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
+- human-gravity-design-claim
+- humanomorph-is-source-specific-term
 - ideological-commentary
 - incomplete-investigation
 - institutional\_conspiracy\_claims
@@ -2604,9 +2872,11 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - internal\_revision
 - internal\_scope\_tension
 - internal\_tension
+- limited-perspective
 - long conversation contains disputed health claims not included in core extraction
 - lunar-reactor-age-origin-uncertainty
 - media-control-allegation
+- medical-causation-claims
 - medical-claims-unverified
 - medical-conspiracy-claims
 - medical-misinformation-claims
@@ -2621,12 +2891,14 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - meteorite\_claim\_omitted
 - mythic-identifications-attributed-to-mari
 - named\_government\_and\_secret\_base\_claims
+- nonstandard-genetics-claims
 - nuclear\_science\_misinformation
 - occult\_claims
 - personal-childhood-anecdote
 - personal\_accusations
 - personal\_cosmology
 - personal\_metaphysics
+- pluto-classification-esoteric-claim
 - policy-claims-unverified
 - political-allegation
 - political-claims
@@ -2638,12 +2910,18 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - prior\_statement\_conflict
 - protest\_operation\_allegations
 - reincarnation-cosmology
+- related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
+- reported-comparison-not-speaker-endorsement
 - review: claims on sexual orientation and depopulation
+- same-language-near-duplicate-src-7872bc2f2c04
 - scenario-not-prediction
 - science\_claims\_unverified\_in\_source
 - second\_hand\_claims
+- security-claims-attributed
+- segmentation-diff
 - soulless-people-claim
+- speaker-header-diff
 - speaker-label-ambiguity
 - speaker-perspective-model
 - speaker-speculation
@@ -2653,6 +2931,7 @@ Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://
 - symbolic-conspiracy-claims
 - targeting\_claims
 - terrestrial-history-claims-unverified
+- terrestrial-science-claims
 - time-bound-prediction
 - time\_travel\_lore
 - translated-originally-Spanish

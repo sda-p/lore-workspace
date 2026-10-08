@@ -78,8 +78,46 @@ Attributed to **Gosia**; asserted; extraction confidence: high.
 
 Source: [Power of Your Mind - Reality Begins in Consciousness (PART 1) - CLASS 013](https://swaruu.org/transcripts/power-of-your-mind-reality-begins-in-consciousness-part-1-class-013) (2026-04-20; en); passages p0038, p0040. [Structured record](../../records/src-9088ba16e8c6.json).
 
+### src-ff91a858afee-c02
+
+Psychics miss collective outcomes when personal perceptions diverge from population averages.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [TEMOR EN LA MATRIX -ENERGÍAS ETERICAS](https://swaruu.org/transcripts/temor-en-la-matrix-energias-etericas) (2018-06-01; es); passages p0003. [Structured record](../../records/src-ff91a858afee.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-ff91a858afee-c03
+
+She says negative predictions reinforce shared expectations and make adverse outcomes more likely.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [TEMOR EN LA MATRIX -ENERGÍAS ETERICAS](https://swaruu.org/transcripts/temor-en-la-matrix-energias-etericas) (2018-06-01; es); passages p0005. [Structured record](../../records/src-ff91a858afee.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ff91a858afee-c05
+
+She says collective fear and despair shape adverse conditions; hope and knowledge may support better outcomes.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [TEMOR EN LA MATRIX -ENERGÍAS ETERICAS](https://swaruu.org/transcripts/temor-en-la-matrix-energias-etericas) (2018-06-01; es); passages p0009, p0010. [Structured record](../../records/src-ff91a858afee.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+## Claims filed under other topics
+
+- [src-775d18ade5d9-c04](timeline-branching.md#src-775d18ade5d9-c04) — Timeline branching
+- [src-4f5b82f333ba-c03](timeline-branching.md#src-4f5b82f333ba-c03) — Timeline branching
+
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
+- consciousness-claims
+- cosmology-claims-attributed
+- temporal-lore-attributed
