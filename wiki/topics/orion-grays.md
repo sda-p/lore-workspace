@@ -31,3 +31,9 @@ Related topics: [Zeta Reticuli Gardeners](zeta-reticuli-gardeners.md), [Natural 
 ## Claims filed under other topics
 
 - [src-03651da1738e-c03](zeta-reticuli-gardeners.md#src-03651da1738e-c03) — Zeta Reticuli Gardeners
+- [src-45558fcded2a-c04](etorthans.md#src-45558fcded2a-c04) — Etorthans
+
+## Review flags
+
+- forecast-in-retrospect
+- unverified-contact-claims

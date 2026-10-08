@@ -17,3 +17,76 @@ Attributed to **Swaruu**; reported; extraction confidence: medium.
 Source: [Mars & Earth - What´s on Mars? - Extraterrestrial Information - Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/mars-earth-what-s-on-mars-extraterrestrial-information-swaruu-of-erra-taygeta-pleiades) (2021-10-29; en); passages p0039, p0041. [Structured record](../../records/src-d7d90a56bb44.json).
 
 Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-0c480ba1b78c-c01
+
+Mari reports Etorthan Tall Grays arrived as higher-level Federation auditors overseeing several nearby systems.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News, and a lot of important comments (English)](https://swaruu.org/transcripts/space-news-and-a-lot-of-important-comments-english) (2023-12-20; en); passages p0004, p0005, p0006. [Structured record](../../records/src-0c480ba1b78c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0c480ba1b78c-c02
+
+Mari reports Urmah distrust of Etorthans and questions their non-empathic oversight role.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News, and a lot of important comments (English)](https://swaruu.org/transcripts/space-news-and-a-lot-of-important-comments-english) (2023-12-20; en); passages p0007, p0008. [Structured record](../../records/src-0c480ba1b78c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-adcf524dc083-c01
+
+Mari reports Etorthan delegates met secret Earth power figures in an Antarctic Federation base in late January 2024.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 13, Update January 31st, 2024 (English)](https://swaruu.org/transcripts/space-news-13-update-january-31st-2024-english) (2024-02-01; en); passages p0004, p0007. [Structured record](../../records/src-adcf524dc083.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-adcf524dc083-c02
+
+Mari says Etorthans left an unspecified number of diplomats aboard the Andromedan ship Viera and scheduled annual December visits.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 13, Update January 31st, 2024 (English)](https://swaruu.org/transcripts/space-news-13-update-january-31st-2024-english) (2024-02-01; en); passages p0008, p0009. [Structured record](../../records/src-adcf524dc083.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-adcf524dc083-c03
+
+Mari alleges Etorthan presence coincides with major Earth events and interprets their continued stationing as close oversight.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Space News 13, Update January 31st, 2024 (English)](https://swaruu.org/transcripts/space-news-13-update-january-31st-2024-english) (2024-02-01; en); passages p0010, p0013. [Structured record](../../records/src-adcf524dc083.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-cd752213df10-c03
+
+Arishah distrusts Etorthan claims of reform, citing repeated reversals and incompatible emotionless logic.
+
+Attributed to **Arishah**; reported; extraction confidence: high.
+
+Source: [Arishah, the Urmah Tiger , 3rd Interview, Part 1 (English)](https://swaruu.org/transcripts/arishah-the-urmah-tiger-3rd-interview-part-1-english) (2024-02-24; en); passages p0016, p0017, p0018. [Structured record](../../records/src-cd752213df10.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-de6bce5d6310-c04
+
+Mari reports an Etorthan deputy died after illness following a surface visit; the cause was undisclosed.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)](https://swaruu.org/transcripts/space-news-11-galactic-federation-update-for-january-17-2024-english) (2024-01-18; en); passages p0010, p0011, p0012. [Structured record](../../records/src-de6bce5d6310.json).
+
+## Review flags
+
+- reported arrival date conflicts with article chronology
+- source includes conflicting publication and event dates; claims retain stated dates

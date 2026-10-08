@@ -1,0 +1,111 @@
+{
+  "source_id": "src-555d02ebcd4e",
+  "snapshot_sha256": "ae8926205875cf9c0755fb3110aa785468d7be9993bc0e17c461ae424c03a803",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-555d02ebcd4e-c01",
+      "assertion": "Solatians inhabit three worlds orbiting Pleione and are Federation members represented through Alcyone Council, with a civilian Earth-orbit presence.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "solatians",
+      "topics": [
+        "solatians",
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-555d02ebcd4e-c02",
+      "assertion": "Mari calls them white Pleiadians, distinct from Malakak Tall Whites, typically tall, slender, and pale.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "solatians",
+      "topics": [
+        "solatians",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-555d02ebcd4e-c03",
+      "assertion": "Their cities favor coastal islands and aboveground maglev tubes; they rely on trains and aircraft over roads.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "solatians",
+      "topics": [
+        "solatians",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-555d02ebcd4e-c04",
+      "assertion": "Mari says Solatians use soul projection to briefly enter consenting starseeds and redirect their lives.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "solatians",
+      "topics": [
+        "solatians",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Pre-life consent is claimed."
+    },
+    {
+      "id": "src-555d02ebcd4e-c05",
+      "assertion": "She says Solatians favor disc-shaped craft and a fish, fruit, and vegetable diet.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "solatians",
+      "topics": [
+        "solatians",
+        "disc-shaped-shuttles"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "solatians",
+      "name": "Solatians",
+      "kind": "species",
+      "aliases": [
+        "white Pleiadians"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "planetary society",
+    "projection limitations"
+  ]
+}

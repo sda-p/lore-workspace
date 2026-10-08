@@ -146,6 +146,44 @@ Source: [Formation of a Matrix (English)](https://swaruu.org/transcripts/formati
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-8609c7064ec9-c03
+
+Mari describes closed systems as limiting perception to their internal boundaries.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Basic Principles for Real Time Travel, Second Part (English)](https://swaruu.org/transcripts/basic-principles-for-real-time-travel-second-part-english) (2024-02-05; en); passages p0002, p0009, p0010, p0011. [Structured record](../../records/src-8609c7064ec9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-09dea9adfb59-c03
+
+Yazhi says Earth’s Matrix pressures people toward population-average values and obedience; spiritual growth can resist that norm.
+
+Attributed to **Yazhi**; asserted; extraction confidence: low.
+
+Source: [Buddha and Enlightenment - Can it be Reached? Yazhi Swaruu](https://swaruu.org/transcripts/buddha-and-enlightenment-can-it-be-reached-yazhi-swaruu) (2023-10-05; en); passages p0012. [Structured record](../../records/src-09dea9adfb59.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-78e78e2a3cba-c02
+
+Mari says public persuasion faces Matrix dogma and institutions that control extraterrestrial narratives.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Aliens, Extraterrestrials and Toothbrushes (English)](https://swaruu.org/transcripts/on-aliens-extraterrestrials-and-toothbrushes-english) (2024-03-02; en); passages p0004, p0005, p0011, p0015. [Structured record](../../records/src-78e78e2a3cba.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-831bdc2709f5-c05
+
+Mari describes all beings as Source experiencing itself through differences in awareness.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Thoughts on Consciousness and Awakening](https://swaruu.org/transcripts/thoughts-on-consciousness-and-awakening) (2024-02-12; en); passages p0010, p0017. [Structured record](../../records/src-831bdc2709f5.json).
+
 ## Claims filed under other topics
 
 - [src-bb4c17621e1a-c02](moon-matrix.md#src-bb4c17621e1a-c02) — Moon and terrestrial Matrix
@@ -162,13 +200,22 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-d8abcaa43fd8-c05](consciousness-metaphysics.md#src-d8abcaa43fd8-c05) — Consciousness and metaphysics
 - [src-6d89e231f729-c05](moon-matrix.md#src-6d89e231f729-c05) — Moon and terrestrial Matrix
 - [src-b539e2dbbcd5-c01](consciousness-metaphysics.md#src-b539e2dbbcd5-c01) — Consciousness and metaphysics
+- [src-af7fe8f320b2-c04](immersion-pods.md#src-af7fe8f320b2-c04) — Immersion pods
+- [src-b2a05f16c59d-c05](galactic-federation.md#src-b2a05f16c59d-c05) — Galactic Federation
+- [src-612967b691f8-c01](perceptual-density.md#src-612967b691f8-c01) — Perceptual density
+- [src-612967b691f8-c03](perceptual-density.md#src-612967b691f8-c03) — Perceptual density
 
 ## Review flags
 
 - agency\_and\_noninterference
+- conspiracy\_claims
+- historical-uncertainty
 - matrix\_layers
 - medical-misinformation-allegation
+- metaphysical-model
 - metaphysical\_model
 - paranormal\_claims
 - personal\_metaphysics
 - unverified\_historical\_claims
+- unverified\_physics\_claims
+- unverified\_technology\_claims

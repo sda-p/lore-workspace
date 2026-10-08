@@ -1,0 +1,145 @@
+{
+  "source_id": "src-c1f323f128a9",
+  "snapshot_sha256": "a6d83d619ed8169b46d77461ee035a2172d6a056f348417b550401ad56bccf20",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c1f323f128a9-c01",
+      "assertion": "The Pleiades has 11 main civilizations, not one uniform race.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1f323f128a9-c02",
+      "assertion": "Taygetans occupy four planets and belong to the Federation through Alcyone.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1f323f128a9-c03",
+      "assertion": "Alfratans descend from Earth humans and dominate Federation activity near Earth.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "alfrata",
+      "topics": [
+        "alfrata"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1f323f128a9-c04",
+      "assertion": "Andromedans live aboard biosphere ships; Viera is Federation’s local headquarters.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0057",
+        "p0058"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1f323f128a9-c05",
+      "assertion": "Urmah are feline Federation members who may reject Federation policies.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0081",
+        "p0082"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1f323f128a9-c06",
+      "assertion": "Greys include 165 types; Zeta Gardeners differ from invasive Orion variants.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0099",
+        "p0100",
+        "p0101"
+      ],
+      "primary_topic": "orion-grays",
+      "topics": [
+        "orion-grays"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1f323f128a9-c07",
+      "assertion": "Reptilians vary widely; Kingu live underground, but not all are hostile.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0106",
+        "p0107",
+        "p0108"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1f323f128a9-c08",
+      "assertion": "Maitre are engineered hybrids whose low-frequency limits restrict where they live.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0110",
+        "p0111"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Species summaries are broad and based on accounts attributed to orbital sources"
+  ],
+  "coverage_gaps": [
+    "many additional species and detailed phenotype descriptions"
+  ]
+}

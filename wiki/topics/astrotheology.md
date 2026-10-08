@@ -116,18 +116,43 @@ Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
 
 Source: [Anunnaki - Who are they exactly? Extraterrestrial Perspective](https://swaruu.org/transcripts/anunnaki-who-are-they-exactly-extraterrestrial-perspective) (2023-03-10; en); passages p0012, p0013, p0014. [Structured record](../../records/src-afa1873e4741.json).
 
+### src-8183f4237107-c02
+
+He argues institutional religion can cultivate victimhood and dependence on promised salvation, while dividing believers.
+
+Attributed to **Za’el**; asserted; extraction confidence: low.
+
+Source: [Falsehood - The Sickness of Earth's Society, Part 3](https://swaruu.org/transcripts/falsehood-the-sickness-of-earth-s-society-part-3) (2023-11-01; en); passages p0007. [Structured record](../../records/src-8183f4237107.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-09dea9adfb59-c05
+
+Yazhi doubts Buddha’s historicity but speculates a real person’s story gained later additions for population control.
+
+Attributed to **Yazhi**; speculative; extraction confidence: low.
+
+Source: [Buddha and Enlightenment - Can it be Reached? Yazhi Swaruu](https://swaruu.org/transcripts/buddha-and-enlightenment-can-it-be-reached-yazhi-swaruu) (2023-10-05; en); passages p0016, p0023. [Structured record](../../records/src-09dea9adfb59.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-8889af167782-c03](natural-portals.md#src-8889af167782-c03) — Natural and artificial portals
 - [src-8889af167782-c04](stellar-navigation.md#src-8889af167782-c04) — Stellar navigation
 - [src-8889af167782-c06](natural-portals.md#src-8889af167782-c06) — Natural and artificial portals
 - [src-0700efa54ddc-c05](earth-cabal.md#src-0700efa54ddc-c05) — Earth Cabal and power structures
+- [src-ae7f46d3466c-c04](urmah.md#src-ae7f46d3466c-c04) — Urmah
 
 ## Review flags
 
 - astronomical-claims-unverified
 - conspiracy\_claims
 - definition\_varies
+- extraordinary-contact-claims
 - extraordinary\_astronomical\_claims
+- historical-uncertainty
+- ideological-commentary
+- metaphysical-model
 - related\_series\_part
 - symbolic\_interpretations

@@ -1,0 +1,93 @@
+{
+  "source_id": "src-1f8d569d9e4f",
+  "snapshot_sha256": "9ee78ba1e2e794d34d1673b8eb4a5666d223ef97b2b0ad3c2aa0680ee92a72a3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1f8d569d9e4f-c01",
+      "assertion": "Mari speculates Valencia flooding may involve weaponized weather and points to an equipment-laden ship nearby.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1f8d569d9e4f-c02",
+      "assertion": "Mari says Toleka City approved most proposed bridges, hospitals, library, museum, and cadet facilities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1f8d569d9e4f-c03",
+      "assertion": "Mari says one bridge was rejected to protect pygmy-duck nesting habitat.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1f8d569d9e4f-c04",
+      "assertion": "Mari says immersion let friends move her body into a truck while she experienced virtual travel, because they could not disconnect her.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1f8d569d9e4f-c05",
+      "assertion": "Mari planned solo immersion using a frequency suppressor to evade detection and returning at her entry point.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated"
+  ],
+  "coverage_gaps": [
+    "political commentary"
+  ]
+}

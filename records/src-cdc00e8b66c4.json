@@ -1,0 +1,118 @@
+{
+  "source_id": "src-cdc00e8b66c4",
+  "snapshot_sha256": "789354cb5c5adadbb4e8c490dfb8ae74eb328de12be65a9546c1dcc118cc78c1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cdc00e8b66c4-c01",
+      "assertion": "Yazhi says magnetic saucer engines create toroidal frequency shifts; disc shape distributes their weaker field, but interstellar use is impractical.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdc00e8b66c4-c02",
+      "assertion": "Anéeka says crop circles began as ship-to-ship position or timeline markers and now signal humans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdc00e8b66c4-c03",
+      "assertion": "Anéeka says tractor beams or 110-cm drones create crop designs.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdc00e8b66c4-c04",
+      "assertion": "Swaruu (9) describes South America as a Federation patrol route for targets of opportunity.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdc00e8b66c4-c05",
+      "assertion": "Swaruu (9) says visible light shifts beyond sight at light speed; hyperspace appears black.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdc00e8b66c4-c06",
+      "assertion": "Athena distinguishes compact shuttles from liveable ships; science vessels add internal labs.",
+      "speaker": "Athena Swaruu (X)",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available"
+  ],
+  "coverage_gaps": [
+    "volcano sightings and underwater craft"
+  ]
+}

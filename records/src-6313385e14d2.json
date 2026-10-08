@@ -1,0 +1,78 @@
+{
+  "source_id": "src-6313385e14d2",
+  "snapshot_sha256": "025629278c6235c0724bb73f6b0dbfac0aa11e588fa6b8fe11ab1928ac05806e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6313385e14d2-c01",
+      "assertion": "Mari reports recurring respiratory and stomach illnesses among crew; the surgeon said Yazhi’s lungs remained infected with fungus.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6313385e14d2-c02",
+      "assertion": "Mari says Taygetan doctors struggled because crew lacked antibodies to illnesses imported from Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6313385e14d2-c03",
+      "assertion": "Mari interprets her illness sequence as a coordinated spiritual attack, possibly involving witchcraft.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6313385e14d2-c04",
+      "assertion": "Mari says she would hold the Galactic Federation responsible for future disease attacks, while rejecting Earth’s virus model.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack"
+  ],
+  "coverage_gaps": [
+    "individual recovery outcomes",
+    "channel sponsorship"
+  ]
+}

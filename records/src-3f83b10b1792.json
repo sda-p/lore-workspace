@@ -1,0 +1,100 @@
+{
+  "source_id": "src-3f83b10b1792",
+  "snapshot_sha256": "779a2113b658ab95f8593e0728b74fb1acc4b468c2bf9171c11b4dfaa519c673",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3f83b10b1792-c01",
+      "assertion": "Mari says interstellar Lyrians share human kinship through similar perception, prenatal agreements, and soul affinity.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f83b10b1792-c02",
+      "assertion": "She says a species-wide collective unconscious connects compatible souls telepathically across distance and time.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "taygetan-language"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f83b10b1792-c03",
+      "assertion": "Mari says offworld incarnations shape personality even when past-life memories are forgotten.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f83b10b1792-c04",
+      "assertion": "She identifies Centauri/Alfratans as especially close to Earth humans, with Engans and Taygetans also historically involved.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f83b10b1792-c05",
+      "assertion": "Mari says souls return to vibrationally matching worlds after death; some starseeds remain on Earth through technology or intent.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other Lyrian civilizations",
+    "incarnation mechanics"
+  ]
+}

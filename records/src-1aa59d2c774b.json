@@ -1,0 +1,104 @@
+{
+  "source_id": "src-1aa59d2c774b",
+  "snapshot_sha256": "755af9953d2a2b80ea75cb542d29ad8d8b16d27727c5c71cbc587256628908ac",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1aa59d2c774b-c01",
+      "assertion": "Anéeka reports that Yazhi teleports, passes through titanium, moves at extreme speed, duplicates herself, and changes her apparent age.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0020"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1aa59d2c774b-c02",
+      "assertion": "Taygetans say they cannot perform these feats and struggle to guide Yazhi as a child.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1aa59d2c774b-c03",
+      "assertion": "Anéeka attributes Yazhi’s abilities to temporal manipulation and links density to data and oscillations over time.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0051",
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1aa59d2c774b-c04",
+      "assertion": "Yazhi scans pantry frequencies through a mind-computer interface and reprints its earlier state with a tractor beam.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0074",
+        "p0080"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1aa59d2c774b-c05",
+      "assertion": "She describes grafting the pantry’s past state into the present, relocating food through time rather than replicating it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0082",
+        "p0084"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary-ability-claims"
+  ],
+  "coverage_gaps": [
+    "other-reported-abilities"
+  ]
+}

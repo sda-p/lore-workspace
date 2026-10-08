@@ -1,0 +1,99 @@
+{
+  "source_id": "src-09dea9adfb59",
+  "snapshot_sha256": "1b39c07368349736fff3d97550b2eabea0c6d9396602193687dfeb32cd04d432",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-09dea9adfb59-c01",
+      "assertion": "Yazhi describes enlightenment as an evolving path shaped by mind and conduct, not a fixed state or destination.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-09dea9adfb59-c02",
+      "assertion": "She says enlightenment can occur anywhere because perceived limits are mental attachments, though Earth’s materialism makes progress harder.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-09dea9adfb59-c03",
+      "assertion": "Yazhi says Earth’s Matrix pressures people toward population-average values and obedience; spiritual growth can resist that norm.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-09dea9adfb59-c04",
+      "assertion": "She claims experience gradually alters DNA as a record or memory.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-09dea9adfb59-c05",
+      "assertion": "Yazhi doubts Buddha’s historicity but speculates a real person’s story gained later additions for population control.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0023"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-model",
+    "historical-uncertainty"
+  ],
+  "coverage_gaps": [
+    "independent-corroboration"
+  ]
+}

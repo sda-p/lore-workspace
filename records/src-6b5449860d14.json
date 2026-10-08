@@ -1,0 +1,95 @@
+{
+  "source_id": "src-6b5449860d14",
+  "snapshot_sha256": "04dcc770293e8e32604a067d2df8737f0f97790ba3b51b2368b704107f807b0b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6b5449860d14-c01",
+      "assertion": "Mari says Toleka City’s expanded spaceport can handle three or four additional Toleka-class transports.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b5449860d14-c02",
+      "assertion": "Mari reports a 25-minute Temmer remote-presence visit corresponded to over two hours aboard Earth-time Sadicleya.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b5449860d14-c03",
+      "assertion": "Mari says Urmah intervention resolved her reported type 1 diabetes after Taygetan dry pods had not; other illnesses remained.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b5449860d14-c04",
+      "assertion": "Mari reports Alfratans transported Federation delegates to meetings at central-Australia installations; she says the purpose was unknown.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b5449860d14-c05",
+      "assertion": "Mari warns that official relief groups may divert donations and that media narratives can manipulate public responses.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown"
+  ],
+  "coverage_gaps": [
+    "birthday calculation"
+  ]
+}

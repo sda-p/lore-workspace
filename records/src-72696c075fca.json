@@ -1,0 +1,101 @@
+{
+  "source_id": "src-72696c075fca",
+  "snapshot_sha256": "b81b0347c3411a60392fec7511e8526d519bc2b5c318e0e3bc6f738d283663d3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-72696c075fca-c01",
+      "assertion": "Mari says bodies filter souls into limited material frequencies, while paranormal events leak from astral realms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72696c075fca-c02",
+      "assertion": "She claims US and Soviet agencies used astral spies and guards for espionage from the 1950s–60s.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72696c075fca-c03",
+      "assertion": "Mari says extraterrestrial astral agents access other frequency layers, challenging human astral guards.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72696c075fca-c04",
+      "assertion": "She alleges deep-government astral programs cooperate with Reptilians, Tall Grays, and Federation-member Centauri.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "maitre",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72696c075fca-c05",
+      "assertion": "Mari says star cultures commonly master multiple astral levels; Yazhi can teleport with her body and control its age.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "astral defense methods",
+    "other star-nation programs"
+  ]
+}

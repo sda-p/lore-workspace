@@ -1,0 +1,62 @@
+{
+  "source_id": "src-735f991fe169",
+  "snapshot_sha256": "1003784efaf0aeeea97c49a15468470d4225439639bcea380bc9c500c33e97e2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-735f991fe169-c01",
+      "assertion": "Swaruu says written online contact avoids channeling, which she believes can mix a receiver’s imagination and beliefs into messages.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-735f991fe169-c02",
+      "assertion": "Swaruu says human ship-role terms are approximate translations used to make Taygetan roles understandable.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0034"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-735f991fe169-c03",
+      "assertion": "Swaruu says she shares information without payment, describing money as unused in her society.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

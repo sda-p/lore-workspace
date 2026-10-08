@@ -1,0 +1,96 @@
+{
+  "source_id": "src-f8715fda448c",
+  "snapshot_sha256": "abb5a19c66dae6af2be38a21264b9af7ba0767605ae114397445380ad43b5e24",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f8715fda448c-c01",
+      "assertion": "Mari says Anna Olgyria, selected from over 300 cadets, joined Sadicleya as a communications cadet before becoming her assistant.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0022"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f8715fda448c-c02",
+      "assertion": "Mari says large ships must exit hyperspace far from Earth and notify space traffic before approach.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f8715fda448c-c03",
+      "assertion": "Mari reports Alfratan destroyers intercepted Vigilant Eagle after it failed to notify traffic; Asterope fired warning shots and escorted it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f8715fda448c-c04",
+      "assertion": "Mari reports Urmah forces went to alert under their military assistance treaty with Taygetans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f8715fda448c-c05",
+      "assertion": "Mari says the Andromedan representative acknowledged Alfratan aggression and urged Taygetan crews to follow arrival protocols.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The account is Mari’s report; it describes a near-escalation without further reported consequences"
+  ],
+  "coverage_gaps": [
+    "coded “thinking hat” segment"
+  ]
+}

@@ -366,6 +366,86 @@ Source: [Money and the Galactic Federation. (English)](https://swaruu.org/transc
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-3c7459286bbe-c06
+
+Athena says freshwater scarcity is artificially worsened by corporate control and allocation.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Mini Topics - Information from Extraterrestrial People - Taygeta, Pleiades](https://swaruu.org/transcripts/mini-topics-information-from-extraterrestrial-people-taygeta-pleiades) (2023-08-30; en); passages p0108, p0109, p0110, p0111, p0115, p0116. [Structured record](../../records/src-3c7459286bbe.json).
+
+### src-1ba260f045af-c05
+
+The crew says channel support helps provide resources for Toleka and mission crews.
+
+Attributed to **Taygetan team**; reported; extraction confidence: high.
+
+Source: [1st Anniversary, of this YouTube channel, Swaruu Official. Thank You (English)](https://swaruu.org/transcripts/1st-anniversary-of-this-youtube-channel-swaruu-official-thank-you-english) (2023-12-12; en); passages p0017, p0018, p0019, p0022, p0024, p0025. [Structured record](../../records/src-1ba260f045af.json).
+
+### src-06e7030559af-c05
+
+She alleges farm closures and new crises could increase dependence on large cities.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [What happened in Maui, Hawaii? Why the Fires? Chat with Athena Swaruu](https://swaruu.org/transcripts/what-happened-in-maui-hawaii-why-the-fires-chat-with-athena-swaruu) (2023-08-19; en); passages p0014, p0015, p0016, p0017, p0020, p0022. [Structured record](../../records/src-06e7030559af.json).
+
+### src-4f613755089f-c04
+
+Her crew depends on Earth food and technology; its supply ship brings no human goods, and Taygetan plant foods poorly suit some.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reflections, by Mari Swaruu, Important, please watch (English)](https://swaruu.org/transcripts/reflections-by-mari-swaruu-important-please-watch-english) (2023-10-23; en); passages p0029, p0030. [Structured record](../../records/src-4f613755089f.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-4f613755089f-c05
+
+Mari says the Federation stopped funding Earth operations, so she must monetize her channel to support crew needs.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reflections, by Mari Swaruu, Important, please watch (English)](https://swaruu.org/transcripts/reflections-by-mari-swaruu-important-please-watch-english) (2023-10-23; en); passages p0032, p0033. [Structured record](../../records/src-4f613755089f.json).
+
+### src-729c2f64ccf5-c05
+
+She says Taygetans tailor clothing individually and lack mass production and money, which newcomers found shocking.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [4 New Crew Members on Board, Part 2, Heavy Cultural Shock (English)](https://swaruu.org/transcripts/4-new-crew-members-on-board-part-2-heavy-cultural-shock-english) (2023-11-12; en); passages p0022, p0023. [Structured record](../../records/src-729c2f64ccf5.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-ec946e4b1e84-c05
+
+Mari says Federation budget cuts left Taygetans reliant on her channel and donations to remain near Earth.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Space News 12, Galactic Federation harassing Taygeta, Update for January 23, 2024 (English)](https://swaruu.org/transcripts/space-news-12-galactic-federation-harassing-taygeta-update-for-january-23-2024-english) (2024-01-25; en); passages p0023, p0024. [Structured record](../../records/src-ec946e4b1e84.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-86dc1fdb6247-c03
+
+Mari says her crew buys Earth goods because taking them or replicating money would violate its ethics.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Important Comments, several other subjects, please watch to understand everything better (English)](https://swaruu.org/transcripts/important-comments-several-other-subjects-please-watch-to-understand-everything-better-english) (2023-10-17; en); passages p0011, p0012. [Structured record](../../records/src-86dc1fdb6247.json).
+
+### src-3a84733d9846-c05
+
+Mari alleges owners faced low-price buyouts or property confiscation after the fires.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Maui Fires, Complete Report. Space News Number 01 (English)](https://swaruu.org/transcripts/maui-fires-complete-report-space-news-number-01-english) (2023-08-19; en); passages p0024. [Structured record](../../records/src-3a84733d9846.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -391,6 +471,11 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - [src-4667fff63537-c03](galactic-federation.md#src-4667fff63537-c03) — Galactic Federation
 - [src-3182af03be61-c05](earth-cabal.md#src-3182af03be61-c05) — Earth Cabal and power structures
 - [src-3c70c40f1bbb-c04](earth-cabal.md#src-3c70c40f1bbb-c04) — Earth Cabal and power structures
+- [src-5759f6ed8a71-c05](starship-systems.md#src-5759f6ed8a71-c05) — Starship systems
+- [src-d9efe19e10ad-c03](holistic-society.md#src-d9efe19e10ad-c03) — Holistic society
+- [src-cff930fb7cbd-c04](holistic-society.md#src-cff930fb7cbd-c04) — Holistic society
+- [src-f16ea4c6f1ae-c01](starship-systems.md#src-f16ea4c6f1ae-c01) — Starship systems
+- [src-28ddf6479cea-c05](maternal-med-pods.md#src-28ddf6479cea-c05) — Maternal medical pods
 
 ## Review flags
 
@@ -401,35 +486,43 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - coverage: interspecies compatibility
 - crime\_and\_abundance\_claims
 - dialogue-perspectives-distinguished
+- disaster claims are source allegations; no corroboration in snapshot
+- disaster-causation-unverified
 - earth-consciousness\_claim\_omitted
 - ethical\_perspective\_conflict
 - extraordinary\_astronomical\_claims
 - extraordinary\_civilization\_claims
 - extraordinary\_economic\_claims
 - extraordinary\_exopolitical\_claims
+- faction\_tension
 - forecast\_predictions\_not\_confirmed
 - geopolitical-allegation
 - health-claims-unverified
+- historical-claims-unverified
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - intervention\_tension
 - manifestation\_mechanics
 - matrix\_scope
+- medical-claims-unverified
 - medical\_claims\_omitted
 - metaphysical-claims
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
 - personal\_metaphysics
 - personal\_social\_theory
+- policy-claims-unverified
 - political-allegation
 - political\_claims
 - political\_structure\_claims
 - prior\_statement\_conflict
 - speaker-attribution-swaruu-x-athena
 - symbolic-conspiracy-claims
+- technology\_claims
 - time-bound-prediction
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - transport\_safety\_and\_policy\_claims\_unverified
+- unverified\_conspiracy\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims
 - unverified\_medical\_allegations

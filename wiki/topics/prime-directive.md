@@ -384,6 +384,56 @@ Source: [Money and the Galactic Federation. (English)](https://swaruu.org/transc
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-07331ba24627-c03
+
+Mari says Federation rules prohibit her from using her real voice in videos.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Changes in this YouTube Channel, Swaruu Official, and a Surprise (English)](https://swaruu.org/transcripts/changes-in-this-youtube-channel-swaruu-official-and-a-surprise-english) (2024-01-17; en); passages p0002, p0014, p0015. [Structured record](../../records/src-07331ba24627.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a36a4b8ec897-c02
+
+She says the Federation restricts human contact to writing under its rules.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Mari Swaruu Live - Recopilation of all Questions and Answers](https://swaruu.org/transcripts/mari-swaruu-live-recopilation-of-all-questions-and-answers) (2023-10-22; en); passages p0035, p0036, p0150, p0151. [Structured record](../../records/src-a36a4b8ec897.json).
+
+### src-8e904c5be0ba-c03
+
+They say Taygetans are barred from direct voice contact with Earth residents.
+
+Attributed to **Taygetan and Swaruunian signatories**; asserted; extraction confidence: high.
+
+Source: [Letter for the Galactic Federation, January 7th 2024 (English)](https://swaruu.org/transcripts/letter-for-the-galactic-federation-january-7th-2024-english) (2024-01-07; en); passages p0018, p0019, p0020, p0021, p0022. [Structured record](../../records/src-8e904c5be0ba.json).
+
+### src-1ba260f045af-c03
+
+She says Prime Directive rules require her to communicate through writing.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [1st Anniversary, of this YouTube channel, Swaruu Official. Thank You (English)](https://swaruu.org/transcripts/1st-anniversary-of-this-youtube-channel-swaruu-official-thank-you-english) (2023-12-12; en); passages p0002, p0010, p0011, p0013. [Structured record](../../records/src-1ba260f045af.json).
+
+### src-afb0e2b3295c-c03
+
+She says useful technical instruction is restricted by platform rules and Federation directives.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Technology and why I cannot share More Details (English)](https://swaruu.org/transcripts/technology-and-why-i-cannot-share-more-details-english) (2024-03-25; en); passages p0002, p0009, p0014, p0015, p0016. [Structured record](../../records/src-afb0e2b3295c.json).
+
+### src-86dc1fdb6247-c01
+
+Mari says the Prime Directive limits her to written messages using human-level technology and forbids direct proof.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Important Comments, several other subjects, please watch to understand everything better (English)](https://swaruu.org/transcripts/important-comments-several-other-subjects-please-watch-to-understand-everything-better-english) (2023-10-17; en); passages p0005, p0007. [Structured record](../../records/src-86dc1fdb6247.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c04](galactic-federation.md#src-a5811312e55c-c04) — Galactic Federation
@@ -403,6 +453,8 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-0f147c12d0ce-c01](artificial-intelligence.md#src-0f147c12d0ce-c01) — Artificial intelligence
 - [src-3c59fb85976c-c04](alien-species.md#src-3c59fb85976c-c04) — Alien species and distinctions
 - [src-1afd7588a669-c04](galactic-federation.md#src-1afd7588a669-c04) — Galactic Federation
+- [src-a4e838c75ab3-c05](pineal-interface.md#src-a4e838c75ab3-c05) — Pineal interface
+- [src-3ea817d6282d-c04](nonhuman-surveillance-drones.md#src-3ea817d6282d-c04) — Nonhuman surveillance drones
 
 ## Review flags
 
@@ -428,6 +480,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - personal\_accusations
 - personal\_metaphysics
 - planetary-lore-unverified
+- political-claims-unverified
 - self\_description
 - time\_travel\_risks
 - unverified\_extraterrestrial\_claims
@@ -435,3 +488,4 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - unverified\_medical\_claims
 - unverified\_military\_claims
 - unverified\_paranormal\_claims
+- unverified\_technology\_claims

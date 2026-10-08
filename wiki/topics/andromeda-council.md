@@ -28,10 +28,13 @@ Source: [Pluto and why it was degraded to Planetoid - Swaruu of Erra](https://sw
 
 - [src-22d5f1e26b59-c01](alcyone-council.md#src-22d5f1e26b59-c01) — Alcyone Council
 - [src-c972fa5ca890-c01](nonhuman-surveillance-drones.md#src-c972fa5ca890-c01) — Nonhuman surveillance drones
+- [src-2c37577fd6a4-c01](galactic-federation.md#src-2c37577fd6a4-c01) — Galactic Federation
+- [src-dafa77b48f2e-c01](galactic-federation.md#src-dafa77b48f2e-c01) — Galactic Federation
 
 ## Review flags
 
 - astronomical-claims-unverified
+- conflicting\_faction\_accounts
 - conspiracy\_claims
 - political-structure-unverified
 - saturn-council-uncertainty

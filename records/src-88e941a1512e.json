@@ -1,0 +1,126 @@
+{
+  "source_id": "src-88e941a1512e",
+  "snapshot_sha256": "50cdf60d7b9320b9d148fc27c1a8bd52725052bab66f4a6f49f0fd53c16ecee7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-88e941a1512e-c01",
+      "assertion": "Taygetan ships can mimic aircraft appearance, transponders, and flight identities.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "aircraft-mimicry",
+      "topics": [
+        "aircraft-mimicry"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88e941a1512e-c02",
+      "assertion": "Athena distinguishes disguised spacecraft from real aircraft fitted with zero-point engines.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0018",
+        "p0025"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88e941a1512e-c03",
+      "assertion": "Athena says disguised jets have spacecraft and aircraft flight modes with different performance limits.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "aircraft-mimicry",
+      "topics": [
+        "aircraft-mimicry"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88e941a1512e-c04",
+      "assertion": "Yazhi says Toleka tractor beams insert squadrons at atmospheric altitude; craft then fly on air-breathing engines.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0040",
+        "p0042",
+        "p0048"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88e941a1512e-c05",
+      "assertion": "Anéeka says some Reptilian cargo ships travel underwater to portal entrances near Yemen and Los Angeles.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88e941a1512e-c06",
+      "assertion": "Anéeka says heating or condensation can reveal cloaked ships; plasma trails may be shed or displayed.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0061",
+        "p0065",
+        "p0067"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "aircraft-mimicry",
+      "name": "Aircraft Mimicry",
+      "kind": "technology",
+      "aliases": [
+        "aircraft-shaped spacecraft",
+        "aircraft disguise"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems"
+  ],
+  "coverage_gaps": [
+    "hangar details",
+    "cloud camouflage"
+  ]
+}

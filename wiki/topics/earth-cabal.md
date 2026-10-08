@@ -1624,6 +1624,490 @@ Source: [Conclusions 01, Galactic Federation. (English)](https://swaruu.org/tran
 
 Related topics: [Economics and resources](economics.md).
 
+### src-d9efe19e10ad-c05
+
+Mari portrays secret societies as influencing governments from behind the scenes. Conspiracy claim.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [How to Control Society on Earth, and more about Holistic Society (English)](https://swaruu.org/transcripts/how-to-control-society-on-earth-and-more-about-holistic-society-english) (2023-11-04; en); passages p0002, p0014, p0015. [Structured record](../../records/src-d9efe19e10ad.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-56d295c20b53-c02
+
+She claims some aerial trails contain chemicals used to influence weather and human experience.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Aircraft exhaust contaminants (English)](https://swaruu.org/transcripts/aircraft-exhaust-contaminants-english) (2023-10-09; en); passages p0002, p0029, p0030, p0031. [Structured record](../../records/src-56d295c20b53.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-56d295c20b53-c05
+
+Mari argues that blaming air travel supports efforts to restrict public mobility.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Aircraft exhaust contaminants (English)](https://swaruu.org/transcripts/aircraft-exhaust-contaminants-english) (2023-10-09; en); passages p0002, p0032. [Structured record](../../records/src-56d295c20b53.json).
+
+### src-834f9cdfbb00-c02
+
+She says the Federation determines which groups and politicians gain power.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Politics are being controlled from off-planet by the Galactic Federation. (English)](https://swaruu.org/transcripts/politics-are-being-controlled-from-off-planet-by-the-galactic-federation-english) (2023-08-16; en); passages p0002, p0011, p0012. [Structured record](../../records/src-834f9cdfbb00.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-834f9cdfbb00-c03
+
+Mari describes politics and elections as theater masking hidden control.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Politics are being controlled from off-planet by the Galactic Federation. (English)](https://swaruu.org/transcripts/politics-are-being-controlled-from-off-planet-by-the-galactic-federation-english) (2023-08-16; en); passages p0002, p0013, p0019. [Structured record](../../records/src-834f9cdfbb00.json).
+
+### src-07e69a604c97-c06
+
+She alleges Earth’s Cabal sought to colonize Taygeta and install a puppet queen.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Holistic Society, also called Holographic Society, and Royalty in Outer Space. (English)](https://swaruu.org/transcripts/holistic-society-also-called-holographic-society-and-royalty-in-outer-space-english) (2023-09-19; en); passages p0002, p0027, p0028, p0029. [Structured record](../../records/src-07e69a604c97.json).
+
+### src-89700ee6bd1c-c03
+
+She argues flat-globe claims are disinformation that creates confusion and social division.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [What’s it, with Flat Globe? (English)](https://swaruu.org/transcripts/what-s-it-with-flat-globe-english) (2023-12-08; en); passages p0002, p0017, p0018. [Structured record](../../records/src-89700ee6bd1c.json).
+
+### src-37e67ed7223b-c04
+
+Swaruu says the Cabal includes Reptiles and Maitre, while Illuminati is a human power tier.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Swaruu of Erra and Aneeka of Temmer - A Mix of Totally Random Questions and Answers](https://swaruu.org/transcripts/swaruu-of-erra-and-aneeka-of-temmer-a-mix-of-totally-random-questions-and-answers) (2023-12-02; en); passages p0053, p0054, p0055, p0056, p0057, p0058, p0059. [Structured record](../../records/src-37e67ed7223b.json).
+
+### src-d32a737d43d2-c06
+
+Mari speculates a Japanese earthquake may have been an offering, while admitting uncertainty.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Space News 8, Galactic Federation Update for January 5th 2024 (English)](https://swaruu.org/transcripts/space-news-8-galactic-federation-update-for-january-5th-2024-english) (2024-01-05; en); passages p0002, p0011, p0012, p0013, p0014. [Structured record](../../records/src-d32a737d43d2.json).
+
+### src-e8c948eba87c-c01
+
+Swaruu claims Lusitania’s sinking was engineered to justify US entry into World War I.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Titanic - How it Sank - Swaruu of Erra talks to Dale Harder](https://swaruu.org/transcripts/titanic-how-it-sank-swaruu-of-erra-talks-to-dale-harder) (2023-11-28; en); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-e8c948eba87c.json).
+
+### src-e8c948eba87c-c03
+
+She claims Titanic was deliberately sunk to remove Federal Reserve opponents.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Titanic - How it Sank - Swaruu of Erra talks to Dale Harder](https://swaruu.org/transcripts/titanic-how-it-sank-swaruu-of-erra-talks-to-dale-harder) (2023-11-28; en); passages p0022, p0023, p0024, p0028, p0029, p0030, p0038. [Structured record](../../records/src-e8c948eba87c.json).
+
+### src-355f9b0040fe-c01
+
+Mari alleges news media mix manipulation with selected truths to shape public beliefs.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [On the Media and other related subjects (English)](https://swaruu.org/transcripts/on-the-media-and-other-related-subjects-english) (2024-03-14; en); passages p0002, p0004, p0005, p0011, p0012, p0016. [Structured record](../../records/src-355f9b0040fe.json).
+
+### src-68f3cdbaf739-c01
+
+Mari treats claims that elites plan to leave Earth as a widespread rumor.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Elites are Planning to leave Earth. (English)](https://swaruu.org/transcripts/the-elites-are-planning-to-leave-earth-english) (2023-09-29; en); passages p0002, p0003, p0006, p0007, p0008, p0009. [Structured record](../../records/src-68f3cdbaf739.json).
+
+### src-68f3cdbaf739-c04
+
+She says powerful groups maintain extensive underground bases and transport networks.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Elites are Planning to leave Earth. (English)](https://swaruu.org/transcripts/the-elites-are-planning-to-leave-earth-english) (2023-09-29; en); passages p0002, p0019, p0020. [Structured record](../../records/src-68f3cdbaf739.json).
+
+### src-68f3cdbaf739-c05
+
+She says exit rumors and disaster narratives may promote public fear.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Elites are Planning to leave Earth. (English)](https://swaruu.org/transcripts/the-elites-are-planning-to-leave-earth-english) (2023-09-29; en); passages p0002, p0010, p0011, p0012, p0021, p0022. [Structured record](../../records/src-68f3cdbaf739.json).
+
+### src-06e7030559af-c01
+
+Athena claims the Maui fires were deliberately started to displace residents.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [What happened in Maui, Hawaii? Why the Fires? Chat with Athena Swaruu](https://swaruu.org/transcripts/what-happened-in-maui-hawaii-why-the-fires-chat-with-athena-swaruu) (2023-08-19; en); passages p0003, p0004, p0005, p0006, p0007, p0021, p0022. [Structured record](../../records/src-06e7030559af.json).
+
+### src-06e7030559af-c03
+
+She says 15-minute cities may be promoted as a response to climate change.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [What happened in Maui, Hawaii? Why the Fires? Chat with Athena Swaruu](https://swaruu.org/transcripts/what-happened-in-maui-hawaii-why-the-fires-chat-with-athena-swaruu) (2023-08-19; en); passages p0008, p0009, p0010, p0011, p0016, p0017. [Structured record](../../records/src-06e7030559af.json).
+
+### src-06e7030559af-c04
+
+She alleges police or military enforcement could restrict movement between cities.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [What happened in Maui, Hawaii? Why the Fires? Chat with Athena Swaruu](https://swaruu.org/transcripts/what-happened-in-maui-hawaii-why-the-fires-chat-with-athena-swaruu) (2023-08-19; en); passages p0010, p0011, p0012, p0013. [Structured record](../../records/src-06e7030559af.json).
+
+### src-a02ed53897bc-c05
+
+Yazhi says humans would collapse before the Cabal enslaves them, while the Cabal needs ensouled people to manifest its desired reality.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Positive "Agenda" - PART 2 - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/positive-agenda-part-2-conversation-with-sophia-swaruu-yazhi) (2023-12-31; en); passages p0023, p0027, p0028. [Structured record](../../records/src-a02ed53897bc.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3f1db6ee307b-c03
+
+She alleges organized spiritual and UFO groups may act as intelligence-controlled opposition.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Awakening and Awareness, What level are you at? (English)](https://swaruu.org/transcripts/awakening-and-awareness-what-level-are-you-at-english) (2023-09-13; en); passages p0019, p0020. [Structured record](../../records/src-3f1db6ee307b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3d4d92e12f44-c03
+
+Mari says lower-astral entities feed on human creative attention and use monitors or possessed agents to disrupt starseeds.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Monitoring Spirits (English)](https://swaruu.org/transcripts/monitoring-spirits-english) (2024-03-30; en); passages p0008, p0010, p0011, p0012. [Structured record](../../records/src-3d4d92e12f44.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-3ea817d6282d-c01
+
+Mari says smart devices and connected cars gather personal data used to track trends and steer policies.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [You are never really alone, Part 3, Technological surveillance (English)](https://swaruu.org/transcripts/you-are-never-really-alone-part-3-technological-surveillance-english) (2023-12-26; en); passages p0006, p0007, p0011. [Structured record](../../records/src-3ea817d6282d.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-3ea817d6282d-c02
+
+She claims Cabal aircraft use aura-reading spectrometers to identify starseeds, though not all FLIR craft do.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [You are never really alone, Part 3, Technological surveillance (English)](https://swaruu.org/transcripts/you-are-never-really-alone-part-3-technological-surveillance-english) (2023-12-26; en); passages p0014, p0015, p0016. [Structured record](../../records/src-3ea817d6282d.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-3ea817d6282d-c03
+
+Mari says cell towers can transmit directed-energy or frequency attacks against targeted people.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [You are never really alone, Part 3, Technological surveillance (English)](https://swaruu.org/transcripts/you-are-never-really-alone-part-3-technological-surveillance-english) (2023-12-26; en); passages p0018. [Structured record](../../records/src-3ea817d6282d.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-b77d9fd5db08-c02
+
+She alleges Cabal-controlled industries promote disharmonic popular music and lyrics to shape attitudes and behavior.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Audio and Music Conspiracy Detected (English)](https://swaruu.org/transcripts/audio-and-music-conspiracy-detected-english) (2023-10-07; en); passages p0006, p0007, p0010. [Structured record](../../records/src-b77d9fd5db08.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ce90cae90fd1-c01
+
+Mari Swaruu alleges her group attributes Tenerife and Maui fires to incendiary drones and laser or plasma weapons.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: low.
+
+Source: [Tenerife Fires Complete Report, (English) - Space news Number 02](https://swaruu.org/transcripts/tenerife-fires-complete-report-english-space-news-number-02) (2023-08-22; en); passages p0025, p0026, p0034. [Structured record](../../records/src-ce90cae90fd1.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-ce90cae90fd1-c02
+
+She says a hidden Cabal directs governments and seeks controlled reconstruction, including half-hour-city plans.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: low.
+
+Source: [Tenerife Fires Complete Report, (English) - Space news Number 02](https://swaruu.org/transcripts/tenerife-fires-complete-report-english-space-news-number-02) (2023-08-22; en); passages p0028, p0029. [Structured record](../../records/src-ce90cae90fd1.json).
+
+### src-ce90cae90fd1-c03
+
+Mari reports Tenerife Smart Island is backed by ITER, Intech Tenerife, IAC, University of La Lagunilla, and telecom engineers.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: low.
+
+Source: [Tenerife Fires Complete Report, (English) - Space news Number 02](https://swaruu.org/transcripts/tenerife-fires-complete-report-english-space-news-number-02) (2023-08-22; en); passages p0030. [Structured record](../../records/src-ce90cae90fd1.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-4d14ae46991f-c03
+
+Mari argues Earth’s rulers depend on public compliance and can be blocked by sufficiently unified popular refusal.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: low.
+
+Source: [Space News March 6 2024, Earth moving into a Positive Timeline, detected (English)](https://swaruu.org/transcripts/space-news-march-6-2024-earth-moving-into-a-positive-timeline-detected-english) (2024-03-07; en); passages p0006, p0008, p0009. [Structured record](../../records/src-4d14ae46991f.json).
+
+### src-8183f4237107-c01
+
+Za’el says Earth’s ruling system shapes society through science, history, religion, ethics, and government messaging.
+
+Attributed to **Za’el**; asserted; extraction confidence: low.
+
+Source: [Falsehood - The Sickness of Earth's Society, Part 3](https://swaruu.org/transcripts/falsehood-the-sickness-of-earth-s-society-part-3) (2023-11-01; en); passages p0004, p0006, p0012. [Structured record](../../records/src-8183f4237107.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-8183f4237107-c03
+
+Za’el says laws and official norms can be mistaken for ethical guidance, making populations easier to manipulate.
+
+Attributed to **Za’el**; asserted; extraction confidence: low.
+
+Source: [Falsehood - The Sickness of Earth's Society, Part 3](https://swaruu.org/transcripts/falsehood-the-sickness-of-earth-s-society-part-3) (2023-11-01; en); passages p0012. [Structured record](../../records/src-8183f4237107.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-8183f4237107-c04
+
+He portrays advertising and social interaction as systems that reward exaggeration and constructed images over sincerity.
+
+Attributed to **Za’el**; asserted; extraction confidence: low.
+
+Source: [Falsehood - The Sickness of Earth's Society, Part 3](https://swaruu.org/transcripts/falsehood-the-sickness-of-earth-s-society-part-3) (2023-11-01; en); passages p0016, p0017, p0019, p0020. [Structured record](../../records/src-8183f4237107.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-b7b4119e55e3-c02
+
+She speculates Earth’s culture was artificially created to feed an undisclosed nonhuman presence, but says she cannot verify this.
+
+Attributed to **Yazhi**; speculative; extraction confidence: low.
+
+Source: [Lies coming from Galactic Federation - Yazhi Swaruu](https://swaruu.org/transcripts/lies-coming-from-galactic-federation-yazhi-swaruu) (2023-09-21; en); passages p0012. [Structured record](../../records/src-b7b4119e55e3.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-1aaa84ea5a0d-c01
+
+Mari distinguishes soft resets through perception control from hard resets through cataclysm.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Soft Social Resets, and how they are done with Mind Control, going deep into details (English)](https://swaruu.org/transcripts/soft-social-resets-and-how-they-are-done-with-mind-control-going-deep-into-details-english) (2024-01-20; en); passages p0011, p0012. [Structured record](../../records/src-1aaa84ea5a0d.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-1aaa84ea5a0d-c02
+
+Mari says soft resets exploit generational forgetting and deletion or reinterpretation of historical evidence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Soft Social Resets, and how they are done with Mind Control, going deep into details (English)](https://swaruu.org/transcripts/soft-social-resets-and-how-they-are-done-with-mind-control-going-deep-into-details-english) (2024-01-20; en); passages p0006, p0008, p0009. [Structured record](../../records/src-1aaa84ea5a0d.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-1aaa84ea5a0d-c03
+
+Mari says controllers weaponize social movements and gradual changes to guide society.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Soft Social Resets, and how they are done with Mind Control, going deep into details (English)](https://swaruu.org/transcripts/soft-social-resets-and-how-they-are-done-with-mind-control-going-deep-into-details-english) (2024-01-20; en); passages p0013, p0014, p0015, p0016. [Structured record](../../records/src-1aaa84ea5a0d.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-1aaa84ea5a0d-c04
+
+Mari alleges controllers use social movements and media narratives to guide cultural change.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Soft Social Resets, and how they are done with Mind Control, going deep into details (English)](https://swaruu.org/transcripts/soft-social-resets-and-how-they-are-done-with-mind-control-going-deep-into-details-english) (2024-01-20; en); passages p0014, p0015, p0016, p0017, p0018. [Structured record](../../records/src-1aaa84ea5a0d.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-1aaa84ea5a0d-c05
+
+Mari estimates a soft societal reset takes about 150 years and says the prior one occurred mid-19th century.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Soft Social Resets, and how they are done with Mind Control, going deep into details (English)](https://swaruu.org/transcripts/soft-social-resets-and-how-they-are-done-with-mind-control-going-deep-into-details-english) (2024-01-20; en); passages p0025, p0026. [Structured record](../../records/src-1aaa84ea5a0d.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-1d3b676b5336-c02
+
+Za’el alleges media and authorities normalize selected values while marginalizing dissent.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Mind Control, Training and Programation over Humanity](https://swaruu.org/transcripts/mind-control-training-and-programation-over-humanity) (2023-08-31; en); passages p0014, p0017. [Structured record](../../records/src-1d3b676b5336.json).
+
+### src-1d3b676b5336-c03
+
+Za’el quotes Athena distinguishing legality from justice, saying laws may serve corporate interests.
+
+Attributed to **Za’el of Erra, quoting Athena Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mind Control, Training and Programation over Humanity](https://swaruu.org/transcripts/mind-control-training-and-programation-over-humanity) (2023-08-31; en); passages p0015. [Structured record](../../records/src-1d3b676b5336.json).
+
+### src-0a9c03921995-c01
+
+Mari alleges controlled media content is used to shape public perception and reinforce the terrestrial Matrix.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Movies and Dark Entities. The content you watch defines your world (English)](https://swaruu.org/transcripts/movies-and-dark-entities-the-content-you-watch-defines-your-world-english) (2024-03-04; en); passages p0003, p0008, p0009. [Structured record](../../records/src-0a9c03921995.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-87b856f413b6-c01
+
+Mari describes Earth power as layered: public institutions, secret societies, occult influences, then a deepest tier linked to nonhuman authorities.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Power Structure on Earth and Society Resets (English)](https://swaruu.org/transcripts/power-structure-on-earth-and-society-resets-english) (2024-01-15; en); passages p0006, p0007, p0008, p0009. [Structured record](../../records/src-87b856f413b6.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-87b856f413b6-c03
+
+Mari says soft cultural resets use perception management and generational forgetting; catastrophic resets are another possible method.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Power Structure on Earth and Society Resets (English)](https://swaruu.org/transcripts/power-structure-on-earth-and-society-resets-english) (2024-01-15; en); passages p0012, p0013, p0017, p0018. [Structured record](../../records/src-87b856f413b6.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-87b856f413b6-c04
+
+Mari alleges controllers alter historical narratives by erasing or reinterpreting physical records and archives.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Power Structure on Earth and Society Resets (English)](https://swaruu.org/transcripts/power-structure-on-earth-and-society-resets-english) (2024-01-15; en); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-87b856f413b6.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-87b856f413b6-c05
+
+Mari says internet devices intensify continuous influence over public values, while social acceptance aids conformity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Power Structure on Earth and Society Resets (English)](https://swaruu.org/transcripts/power-structure-on-earth-and-society-resets-english) (2024-01-15; en); passages p0014, p0015, p0023, p0024. [Structured record](../../records/src-87b856f413b6.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-bbe40d2cc2f2-c01
+
+Mari argues sudden Cabal removal could cause chaos because she says Earth society is unready for self-rule.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Is removing the Cabal advisable? Holistic Society Part 2. (English)](https://swaruu.org/transcripts/is-removing-the-cabal-advisable-holistic-society-part-2-english) (2023-09-21; en); passages p0015, p0016. [Structured record](../../records/src-bbe40d2cc2f2.json).
+
+### src-bbe40d2cc2f2-c04
+
+Mari says ordinary secret-society members may be compartmentalized and unaware of upper-level activity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Is removing the Cabal advisable? Holistic Society Part 2. (English)](https://swaruu.org/transcripts/is-removing-the-cabal-advisable-holistic-society-part-2-english) (2023-09-21; en); passages p0012, p0014. [Structured record](../../records/src-bbe40d2cc2f2.json).
+
+### src-4936c3c90ef9-c01
+
+Mari alleges major religions were designed to govern behavior through fear and obedience.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Religions, another perspective, False History, Reality and Egregors. (English)](https://swaruu.org/transcripts/religions-another-perspective-false-history-reality-and-egregors-english) (2023-08-14; en); passages p0003, p0006, p0007. [Structured record](../../records/src-4936c3c90ef9.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-4936c3c90ef9-c02
+
+Mari claims historical narratives and prominent figures were altered or fabricated to serve rulers.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Religions, another perspective, False History, Reality and Egregors. (English)](https://swaruu.org/transcripts/religions-another-perspective-false-history-reality-and-egregors-english) (2023-08-14; en); passages p0008, p0009, p0010, p0011. [Structured record](../../records/src-4936c3c90ef9.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-9b1732b6fb53-c03
+
+Anéeka reports Yazhi’s view that Earth’s problems can only be solved from within by humans.
+
+Attributed to **Anéeka of Temmer**; reported; extraction confidence: high.
+
+Source: [Galactic Federation and Saturn - Leaders Impossible to Find - Aneeka of Temmer](https://swaruu.org/transcripts/galactic-federation-and-saturn-leaders-impossible-to-find-aneeka-of-temmer) (2024-01-13; en); passages p0035. [Structured record](../../records/src-9b1732b6fb53.json).
+
+### src-3a84733d9846-c03
+
+Mari alleges authorities blocked civilian escape and aid, and ordered relief cargo dumped.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Maui Fires, Complete Report. Space News Number 01 (English)](https://swaruu.org/transcripts/maui-fires-complete-report-space-news-number-01-english) (2023-08-19; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-3a84733d9846.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-3a84733d9846-c04
+
+Mari says fires selectively destroyed homes and cultural sites, which she interprets as preparation for controlled reconstruction.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Maui Fires, Complete Report. Space News Number 01 (English)](https://swaruu.org/transcripts/maui-fires-complete-report-space-news-number-01-english) (2023-08-19; en); passages p0021, p0022, p0023. [Structured record](../../records/src-3a84733d9846.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-2adab2ea6183-c03
+
+Athena says Earth decision-making occurs outside public institutions and media.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [UFOs in Congress - Chatting more about the subject with Athena Swaruu](https://swaruu.org/transcripts/ufos-in-congress-chatting-more-about-the-subject-with-athena-swaruu) (2023-08-17; en); passages p0004. [Structured record](../../records/src-2adab2ea6183.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -1677,6 +2161,32 @@ Related topics: [Economics and resources](economics.md).
 - [src-88ba599fa614-c03](terrestrial-science.md#src-88ba599fa614-c03) — Terrestrial science
 - [src-c147ae1148dd-c03](original-matrix.md#src-c147ae1148dd-c03) — Original Matrix
 - [src-c147ae1148dd-c04](original-matrix.md#src-c147ae1148dd-c04) — Original Matrix
+- [src-d9efe19e10ad-c04](holistic-society.md#src-d9efe19e10ad-c04) — Holistic society
+- [src-af4500c882ec-c02](terrestrial-science.md#src-af4500c882ec-c02) — Terrestrial science
+- [src-834f9cdfbb00-c04](galactic-federation.md#src-834f9cdfbb00-c04) — Galactic Federation
+- [src-9c4e856e01e8-c04](false-alien-invasion.md#src-9c4e856e01e8-c04) — False alien invasion scenarios
+- [src-3d4d92e12f44-c04](consciousness-metaphysics.md#src-3d4d92e12f44-c04) — Consciousness and metaphysics
+- [src-8183f4237107-c02](astrotheology.md#src-8183f4237107-c02) — Astrotheology
+- [src-ae7f46d3466c-c05](urmah.md#src-ae7f46d3466c-c05) — Urmah
+- [src-554a031b6c3c-c02](holistic-society.md#src-554a031b6c3c-c02) — Holistic society
+- [src-562e2758f0d0-c02](archons-and-demons.md#src-562e2758f0d0-c02) — Archons and demons
+- [src-2a1b375479ef-c05](natural-portals.md#src-2a1b375479ef-c05) — Natural and artificial portals
+- [src-09dea9adfb59-c05](astrotheology.md#src-09dea9adfb59-c05) — Astrotheology
+- [src-b7b4119e55e3-c01](galactic-federation.md#src-b7b4119e55e3-c01) — Galactic Federation
+- [src-1d3b676b5336-c01](moon-matrix.md#src-1d3b676b5336-c01) — Moon and terrestrial Matrix
+- [src-0a9c03921995-c02](egregors.md#src-0a9c03921995-c02) — Egregors
+- [src-0a9c03921995-c03](egregors.md#src-0a9c03921995-c03) — Egregors
+- [src-0a9c03921995-c04](egregors.md#src-0a9c03921995-c04) — Egregors
+- [src-0a9c03921995-c05](consciousness-metaphysics.md#src-0a9c03921995-c05) — Consciousness and metaphysics
+- [src-bbe40d2cc2f2-c02](holistic-society.md#src-bbe40d2cc2f2-c02) — Holistic society
+- [src-bbe40d2cc2f2-c05](holistic-society.md#src-bbe40d2cc2f2-c05) — Holistic society
+- [src-3a84733d9846-c01](starship-systems.md#src-3a84733d9846-c01) — Starship systems
+- [src-3a84733d9846-c02](starship-systems.md#src-3a84733d9846-c02) — Starship systems
+- [src-3a84733d9846-c05](economics.md#src-3a84733d9846-c05) — Economics and resources
+- [src-2adab2ea6183-c01](false-alien-invasion.md#src-2adab2ea6183-c01) — False alien invasion scenarios
+- [src-2adab2ea6183-c02](false-alien-invasion.md#src-2adab2ea6183-c02) — False alien invasion scenarios
+- [src-2adab2ea6183-c04](false-alien-invasion.md#src-2adab2ea6183-c04) — False alien invasion scenarios
+- [src-2adab2ea6183-c05](false-alien-invasion.md#src-2adab2ea6183-c05) — False alien invasion scenarios
 
 ## Review flags
 
@@ -1684,6 +2194,7 @@ Related topics: [Economics and resources](economics.md).
 - Higher-level free-will explanation is challenged by Gosia
 - Maitre\_relationship\_with\_Reptilians
 - Proposed intervention remains conditional and internally qualified
+- agenda\_term\_varies
 - ark\_location\_and\_war\_claims\_unverified
 - attribution-care: source claims about sexuality are speaker-specific
 - attribution: extraordinary intelligence claims remain source-specific
@@ -1711,11 +2222,17 @@ Related topics: [Economics and resources](economics.md).
 - dated\_claims
 - dated\_prediction
 - diet\_claim\_omitted
+- disaster claims are source allegations; no corroboration in snapshot
+- disaster-causation-unverified
 - disclosure\_claims\_unverified
+- disputed\_specimen
 - earth-consciousness\_claim\_omitted
 - earth-population-claims
+- earthquake-causation-unverified
 - egregor-vs-species-levels
 - ethical\_perspective\_conflict
+- extraordinary-contact-claims
+- extraordinary-technology-claims
 - extraordinary\_astronomical\_claims
 - extraordinary\_claims
 - extraordinary\_conflict\_claims
@@ -1736,9 +2253,13 @@ Related topics: [Economics and resources](economics.md).
 - geopolitical-allegation
 - health-conspiracy-claims
 - health\_claims
+- historical-claims-unverified
 - historical-conspiracy-claims
+- historical-uncertainty
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
+- ideological-commentary
+- incomplete-investigation
 - institutional\_conspiracy\_claims
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - internal\_qualification
@@ -1746,6 +2267,7 @@ Related topics: [Economics and resources](economics.md).
 - internal\_scope\_tension
 - internal\_tension
 - lunar-reactor-age-origin-uncertainty
+- media-control-allegation
 - medical-claims-unverified
 - medical-conspiracy-claims
 - medical-misinformation-claims
@@ -1754,6 +2276,8 @@ Related topics: [Economics and resources](economics.md).
 - medical\_claims\_omitted
 - medical\_claims\_unverified
 - metaphysical-claims
+- metaphysical-model
+- metaphysical-social-commentary
 - metaphysical\_model
 - meteorite\_claim\_omitted
 - named\_government\_and\_secret\_base\_claims
@@ -1762,7 +2286,10 @@ Related topics: [Economics and resources](economics.md).
 - personal\_accusations
 - personal\_cosmology
 - personal\_metaphysics
+- policy-claims-unverified
 - political-allegation
+- political-claims
+- political-claims-unverified
 - political\_conspiracy\_claims
 - population-control-allegations
 - prior\_statement\_conflict
@@ -1772,26 +2299,33 @@ Related topics: [Economics and resources](economics.md).
 - scenario-not-prediction
 - science\_claims\_unverified\_in\_source
 - second\_hand\_claims
+- soulless-people-claim
 - speaker-label-ambiguity
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker-unidentified
 - speaker\_identity\_unclear\_p0002\_p0019
 - symbolic-conspiracy-claims
 - targeting\_claims
+- terrestrial-history-claims-unverified
 - time-bound-prediction
 - time\_travel\_lore
 - translated\_source
+- translation-not-applicable
 - transport\_safety\_and\_policy\_claims\_unverified
 - ufo\_researcher\_critique
 - uncertainty-shift: 5G moves from possible explanation to formal position
 - unsupported\_planetary\_claims
 - unverified-cabinet-claims
+- unverified-current-events
+- unverified-historical-claims
 - unverified-technology-claims
 - unverified\_aerospace\_claims
 - unverified\_agency\_claims
+- unverified\_conspiracy\_claims
 - unverified\_disinformation\_claims
 - unverified\_extraordinary\_claims
 - unverified\_extraterrestrial\_claims
+- unverified\_frequency\_claims
 - unverified\_geopolitical\_claims
 - unverified\_historical\_claims
 - unverified\_medical\_advice
@@ -1804,6 +2338,7 @@ Related topics: [Economics and resources](economics.md).
 - unverified\_political\_claims
 - unverified\_public\_figure\_claims
 - unverified\_social\_claims
+- unverified\_technology\_claims
 - unverified\_wartime\_claims
 - vaccine-harm-allegations
 - virus-account-internal-tension

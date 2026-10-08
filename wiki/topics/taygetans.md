@@ -1166,6 +1166,316 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/transcripts/za-el-and-arien-new-friends-in-star-ship-toleka) (2023-03-01; en); passages p0003. [Structured record](../../records/src-3e47a84b5581.json).
 
+### src-0e992795e982-c01
+
+Mari says Procyon was first mapped by explorers from the Procyon star system, not Taygeta.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Terrible Ending of the First Settlers on Planet Procyon. (English)](https://swaruu.org/transcripts/the-terrible-ending-of-the-first-settlers-on-planet-procyon-english) (2023-10-03; en); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-0e992795e982.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-0e992795e982-c02
+
+Early Taygetan settlers assumed Procyon’s ecology resembled Temmer and Erra.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [The Terrible Ending of the First Settlers on Planet Procyon. (English)](https://swaruu.org/transcripts/the-terrible-ending-of-the-first-settlers-on-planet-procyon-english) (2023-10-03; en); passages p0002, p0011, p0012, p0013. [Structured record](../../records/src-0e992795e982.json).
+
+Related topics: [Planet Procyon](procyon.md).
+
+### src-42ef2a1bb92f-c05
+
+Mari describes Dakote as a frozen military outpost with sensors and underground installations.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygeta, origins and history. Part 1 (English)](https://swaruu.org/transcripts/taygeta-origins-and-history-part-1-english) (2023-09-27; en); passages p0002, p0030. [Structured record](../../records/src-42ef2a1bb92f.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-cff930fb7cbd-c01
+
+Mari says Taygetan society spans four planets and the Cyndriel colony.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Society in Taygeta, Structure. (English)](https://swaruu.org/transcripts/society-in-taygeta-structure-english) (2023-10-01; en); passages p0002, p0004. [Structured record](../../records/src-cff930fb7cbd.json).
+
+Related topics: [Cyndriel](cyndriel.md).
+
+### src-faff88963391-c01
+
+Athena says highly conscious Taygetan women can mentally control ovulation and menstruation.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Taygeta - Gender Roles, Fallen Angels, and more - MINITOPICS (Extraterrestrial Information)](https://swaruu.org/transcripts/taygeta-gender-roles-fallen-angels-and-more-minitopics-extraterrestrial-information) (2024-01-17; en); passages p0004, p0005, p0007, p0008. [Structured record](../../records/src-faff88963391.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-128ec3c824ca-c01
+
+Mari says earlier claims that Taygeta had very few men were false.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No Men in Taygeta? (English)](https://swaruu.org/transcripts/no-men-in-taygeta-english) (2023-10-21; en); passages p0002, p0003. [Structured record](../../records/src-128ec3c824ca.json).
+
+### src-128ec3c824ca-c02
+
+She describes Taygetan society as balanced, with men and women participating in any social role.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No Men in Taygeta? (English)](https://swaruu.org/transcripts/no-men-in-taygeta-english) (2023-10-21; en); passages p0002, p0013, p0015, p0016. [Structured record](../../records/src-128ec3c824ca.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-128ec3c824ca-c03
+
+Mari estimates women exceed men by no more than ten percent, mostly because women live longer.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No Men in Taygeta? (English)](https://swaruu.org/transcripts/no-men-in-taygeta-english) (2023-10-21; en); passages p0002, p0014. [Structured record](../../records/src-128ec3c824ca.json).
+
+### src-128ec3c824ca-c05
+
+Mari says both genders can manufacture their own items by machine or hand.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No Men in Taygeta? (English)](https://swaruu.org/transcripts/no-men-in-taygeta-english) (2023-10-21; en); passages p0002, p0022. [Structured record](../../records/src-128ec3c824ca.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-07331ba24627-c01
+
+Mari says her team translated English videos into Spanish and planned paired releases.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Changes in this YouTube Channel, Swaruu Official, and a Surprise (English)](https://swaruu.org/transcripts/changes-in-this-youtube-channel-swaruu-official-and-a-surprise-english) (2024-01-17; en); passages p0002, p0004, p0005, p0006. [Structured record](../../records/src-07331ba24627.json).
+
+### src-07331ba24627-c04
+
+She says team members shield her from direct viewer messages.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Changes in this YouTube Channel, Swaruu Official, and a Surprise (English)](https://swaruu.org/transcripts/changes-in-this-youtube-channel-swaruu-official-and-a-surprise-english) (2024-01-17; en); passages p0002, p0010, p0011, p0012. [Structured record](../../records/src-07331ba24627.json).
+
+### src-07331ba24627-c05
+
+Mari says future short videos would explain concepts and reference material.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Changes in this YouTube Channel, Swaruu Official, and a Surprise (English)](https://swaruu.org/transcripts/changes-in-this-youtube-channel-swaruu-official-and-a-surprise-english) (2024-01-17; en); passages p0002, p0005, p0006, p0008. [Structured record](../../records/src-07331ba24627.json).
+
+### src-a36a4b8ec897-c04
+
+She describes Taygetan alliances across M45 and with the Urmah.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Mari Swaruu Live - Recopilation of all Questions and Answers](https://swaruu.org/transcripts/mari-swaruu-live-recopilation-of-all-questions-and-answers) (2023-10-22; en); passages p0091, p0092, p0093. [Structured record](../../records/src-a36a4b8ec897.json).
+
+### src-59be34c07758-c04
+
+She says Taygetans Yazhi, Mari, and Alenym conduct astral defense of their ship.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Military Forces in the Astral - MILABs - Astral World - Athena and Yazhi Swaruu](https://swaruu.org/transcripts/military-forces-in-the-astral-milabs-astral-world-athena-and-yazhi-swaruu) (2023-09-25; en); passages p0028, p0029, p0030, p0031. [Structured record](../../records/src-59be34c07758.json).
+
+### src-07e69a604c97-c04
+
+She says Taygetan queens may override High Council decisions, subject to review.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Holistic Society, also called Holographic Society, and Royalty in Outer Space. (English)](https://swaruu.org/transcripts/holistic-society-also-called-holographic-society-and-royalty-in-outer-space-english) (2023-09-19; en); passages p0002, p0015, p0016. [Structured record](../../records/src-07e69a604c97.json).
+
+### src-1ba260f045af-c04
+
+Mari says Alenym named her successor and she now studies with the queen.
+
+Attributed to **Taygetan team**; reported; extraction confidence: high.
+
+Source: [1st Anniversary, of this YouTube channel, Swaruu Official. Thank You (English)](https://swaruu.org/transcripts/1st-anniversary-of-this-youtube-channel-swaruu-official-thank-you-english) (2023-12-12; en); passages p0020, p0021, p0022. [Structured record](../../records/src-1ba260f045af.json).
+
+### src-261f583f3783-c01
+
+Gosia says thousands of young Taygetan Pleiadians were near Earth aboard ships and communicated with humans online.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Taygetan Pleiadian Extraterrestrial Disclosure - Contact - JOURNEY SO FAR](https://swaruu.org/transcripts/taygetan-pleiadian-extraterrestrial-disclosure-contact-journey-so-far) (2024-02-01; en); passages p0020, p0021. [Structured record](../../records/src-261f583f3783.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-261f583f3783-c02
+
+She says her first written contact with Swaruu of Erra began in December 2017; she describes Swaruu as Taygetan aboard Toleka.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Taygetan Pleiadian Extraterrestrial Disclosure - Contact - JOURNEY SO FAR](https://swaruu.org/transcripts/taygetan-pleiadian-extraterrestrial-disclosure-contact-journey-so-far) (2024-02-01; en); passages p0021, p0022. [Structured record](../../records/src-261f583f3783.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-4f613755089f-c02
+
+Queen Alenym mentors Mari in Taygetan politics and exopolitics; Zaikira teaches engineering.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reflections, by Mari Swaruu, Important, please watch (English)](https://swaruu.org/transcripts/reflections-by-mari-swaruu-important-please-watch-english) (2023-10-23; en); passages p0007. [Structured record](../../records/src-4f613755089f.json).
+
+### src-fd364b9ee561-c01
+
+Mari says two Taygetan couples, aged 20–24, arrived from Temmer’s academy in fighter craft.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News: 4 New People Arriving on The Ship. First Part (English)](https://swaruu.org/transcripts/space-news-4-new-people-arriving-on-the-ship-first-part-english) (2023-11-06; en); passages p0004, p0006. [Structured record](../../records/src-fd364b9ee561.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-667e6da8febb-c04
+
+She says Taygetans adopted Earth-style birthdays, with approximate dates and no alcohol at celebrations.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News March 22 2024, News and Birthdays (English)](https://swaruu.org/transcripts/space-news-march-22-2024-news-and-birthdays-english) (2024-03-23; en); passages p0011, p0012, p0013. [Structured record](../../records/src-667e6da8febb.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-729c2f64ccf5-c01
+
+Mari says prolonged Earth exposure has blended Toleka’s Taygetan culture with human influences.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [4 New Crew Members on Board, Part 2, Heavy Cultural Shock (English)](https://swaruu.org/transcripts/4-new-crew-members-on-board-part-2-heavy-cultural-shock-english) (2023-11-12; en); passages p0004, p0006, p0008. [Structured record](../../records/src-729c2f64ccf5.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-729c2f64ccf5-c03
+
+The new fighter pilots had no Earth experience or human languages, leaving their Taygetan culture unmodified by humans.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [4 New Crew Members on Board, Part 2, Heavy Cultural Shock (English)](https://swaruu.org/transcripts/4-new-crew-members-on-board-part-2-heavy-cultural-shock-english) (2023-11-12; en); passages p0012, p0013. [Structured record](../../records/src-729c2f64ccf5.json).
+
+### src-4d14ae46991f-c02
+
+She says onboard computers model likely Earth outcomes, then Taygetan ship councils discuss the data at least twice weekly.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: low.
+
+Source: [Space News March 6 2024, Earth moving into a Positive Timeline, detected (English)](https://swaruu.org/transcripts/space-news-march-6-2024-earth-moving-into-a-positive-timeline-detected-english) (2024-03-07; en); passages p0004, p0005. [Structured record](../../records/src-4d14ae46991f.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-97cfd0c56ade-c04
+
+She reports Queen Alenym rejected in-person and remote meetings, offering video conference only after council consensus.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: low.
+
+Source: [Space News 10, Galactic Federation Update for January 10 2024 (English)](https://swaruu.org/transcripts/space-news-10-galactic-federation-update-for-january-10-2024-english) (2024-01-11; en); passages p0016, p0017. [Structured record](../../records/src-97cfd0c56ade.json).
+
+Related topics: [Alcyone Council](alcyone-council.md), [Etorthans](etorthans.md).
+
+### src-b7b4119e55e3-c03
+
+Yazhi says Mari’s Matrix research and Athena’s date calculations raised suspicions; Taygetans and Urmah are investigating without firm evidence.
+
+Attributed to **Yazhi**; reported; extraction confidence: low.
+
+Source: [Lies coming from Galactic Federation - Yazhi Swaruu](https://swaruu.org/transcripts/lies-coming-from-galactic-federation-yazhi-swaruu) (2023-09-21; en); passages p0009, p0019, p0027, p0029. [Structured record](../../records/src-b7b4119e55e3.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-486d293f3a87-c01
+
+Yazhi says crew members built custom bicycles from replicated parts, including polymorphic titanium frames.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Interstellar Life 5B - More Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-more-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) (2024-03-19; en); passages p0009, p0016, p0020, p0022, p0024, p0026. [Structured record](../../records/src-486d293f3a87.json).
+
+### src-486d293f3a87-c05
+
+Athena says five Toleka kittens survived after a lost kitten was found behind ship panels.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 5B - More Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-more-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) (2024-03-19; en); passages p0132, p0136, p0138, p0148. [Structured record](../../records/src-486d293f3a87.json).
+
+### src-6473c7769615-c01
+
+Mari says Anna is Anéeka’s immediate past life and that Anna’s extraction followed severe family hardship.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [A Perfect Example of how a Soul becomes Strongly Attached to its past life, a true story (English)](https://swaruu.org/transcripts/a-perfect-example-of-how-a-soul-becomes-strongly-attached-to-its-past-life-a-true-story-english) (2023-10-19; en); passages p0009, p0042, p0043, p0044. [Structured record](../../records/src-6473c7769615.json).
+
+### src-78e78e2a3cba-c04
+
+Mari says off-world human-like societies use ordinary technologies such as toothbrushes and wheeled landing gear.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Aliens, Extraterrestrials and Toothbrushes (English)](https://swaruu.org/transcripts/on-aliens-extraterrestrials-and-toothbrushes-english) (2024-03-02; en); passages p0019, p0020. [Structured record](../../records/src-78e78e2a3cba.json).
+
+### src-86dc1fdb6247-c02
+
+Mari says human-like people live across space and Earth supplies her crew’s food and other needs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Important Comments, several other subjects, please watch to understand everything better (English)](https://swaruu.org/transcripts/important-comments-several-other-subjects-please-watch-to-understand-everything-better-english) (2023-10-17; en); passages p0010, p0011, p0018. [Structured record](../../records/src-86dc1fdb6247.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-86dc1fdb6247-c05
+
+Mari says interstellar ideas and human ideas have seeded each other across societies for millennia.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Important Comments, several other subjects, please watch to understand everything better (English)](https://swaruu.org/transcripts/important-comments-several-other-subjects-please-watch-to-understand-everything-better-english) (2023-10-17; en); passages p0017. [Structured record](../../records/src-86dc1fdb6247.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-be2e5cb2654b-c01
+
+Mari says Taygetans on the Toleka use Earth server time for coordination, while home life follows individual rhythms.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Day in Mari’s Life (English)](https://swaruu.org/transcripts/a-day-in-mari-s-life-english) (2023-11-02; en); passages p0004, p0007. [Structured record](../../records/src-be2e5cb2654b.json).
+
+Related topics: [Ship internal time](ship-internal-time.md).
+
+### src-be2e5cb2654b-c04
+
+Mari studies space history, exopolitics, species protocol, spacecraft repair, medicine, biology, and cooking.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Day in Mari’s Life (English)](https://swaruu.org/transcripts/a-day-in-mari-s-life-english) (2023-11-02; en); passages p0018, p0019, p0020. [Structured record](../../records/src-be2e5cb2654b.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -1216,6 +1526,39 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 - [src-3182af03be61-c02](taygetan-wireless-power-grid.md#src-3182af03be61-c02) — Taygetan wireless power grid
 - [src-cd1cd400e21c-c04](terrestrial-science.md#src-cd1cd400e21c-c04) — Terrestrial science
 - [src-3e47a84b5581-c02](starship-systems.md#src-3e47a84b5581-c02) — Starship systems
+- [src-5e6c8ea2cb2c-c04](urmah.md#src-5e6c8ea2cb2c-c04) — Urmah
+- [src-07494ef21f67-c01](ship-internal-time.md#src-07494ef21f67-c01) — Ship internal time
+- [src-8ca54257f6a4-c01](cyndriel.md#src-8ca54257f6a4-c01) — Cyndriel
+- [src-42ef2a1bb92f-c03](taygetan-ecosystems.md#src-42ef2a1bb92f-c03) — Taygetan ecosystems
+- [src-42ef2a1bb92f-c04](taygetan-ecosystems.md#src-42ef2a1bb92f-c04) — Taygetan ecosystems
+- [src-dafa77b48f2e-c04](urmah.md#src-dafa77b48f2e-c04) — Urmah
+- [src-cff930fb7cbd-c02](taygetan-ecosystems.md#src-cff930fb7cbd-c02) — Taygetan ecosystems
+- [src-cff930fb7cbd-c03](holistic-society.md#src-cff930fb7cbd-c03) — Holistic society
+- [src-cff930fb7cbd-c04](holistic-society.md#src-cff930fb7cbd-c04) — Holistic society
+- [src-cff930fb7cbd-c05](holistic-society.md#src-cff930fb7cbd-c05) — Holistic society
+- [src-faff88963391-c03](holistic-society.md#src-faff88963391-c03) — Holistic society
+- [src-faff88963391-c04](holistic-society.md#src-faff88963391-c04) — Holistic society
+- [src-faff88963391-c05](holistic-society.md#src-faff88963391-c05) — Holistic society
+- [src-f16ea4c6f1ae-c03](starship-systems.md#src-f16ea4c6f1ae-c03) — Starship systems
+- [src-128ec3c824ca-c04](holistic-society.md#src-128ec3c824ca-c04) — Holistic society
+- [src-07331ba24627-c02](starship-systems.md#src-07331ba24627-c02) — Starship systems
+- [src-4f613755089f-c03](postmortem-realities.md#src-4f613755089f-c03) — Postmortem realities
+- [src-fd364b9ee561-c02](starship-systems.md#src-fd364b9ee561-c02) — Starship systems
+- [src-fd364b9ee561-c03](taygetan-language.md#src-fd364b9ee561-c03) — Taygetan language
+- [src-729c2f64ccf5-c02](alien-species.md#src-729c2f64ccf5-c02) — Alien species and distinctions
+- [src-729c2f64ccf5-c04](postmortem-realities.md#src-729c2f64ccf5-c04) — Postmortem realities
+- [src-729c2f64ccf5-c05](economics.md#src-729c2f64ccf5-c05) — Economics and resources
+- [src-5a5582a387e3-c02](consciousness-metaphysics.md#src-5a5582a387e3-c02) — Consciousness and metaphysics
+- [src-8aee5e8d5c92-c02](holistic-society.md#src-8aee5e8d5c92-c02) — Holistic society
+- [src-92f31dcfc4f7-c05](artificial-intelligence.md#src-92f31dcfc4f7-c05) — Artificial intelligence
+- [src-2a1b375479ef-c04](elohi.md#src-2a1b375479ef-c04) — Elohi
+- [src-be2e5cb2654b-c02](taygetan-language.md#src-be2e5cb2654b-c02) — Taygetan language
+- [src-be2e5cb2654b-c03](starship-systems.md#src-be2e5cb2654b-c03) — Starship systems
+- [src-be2e5cb2654b-c05](starship-systems.md#src-be2e5cb2654b-c05) — Starship systems
+- [src-58d43415bb30-c03](starship-systems.md#src-58d43415bb30-c03) — Starship systems
+- [src-de6bce5d6310-c01](starship-systems.md#src-de6bce5d6310-c01) — Starship systems
+- [src-de6bce5d6310-c02](starship-systems.md#src-de6bce5d6310-c02) — Starship systems
+- [src-de6bce5d6310-c03](starship-systems.md#src-de6bce5d6310-c03) — Starship systems
 
 ## Review flags
 
@@ -1223,11 +1566,13 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 - afterlife\_model
 - attribution-care: source claims about sexuality are speaker-specific
 - blockade-and-biology-attributed
+- conflicting\_origin\_accounts
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
 - conspiracy\_claims
 - contested\_intelligence\_claims
 - contradictory\_past\_change\_model
+- contradicts\_prior\_public\_claims
 - coverage: climate and architecture
 - coverage: full metaphysical questions
 - coverage: interspecies compatibility
@@ -1240,6 +1585,8 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 - directive-rules-not-in-transcript
 - disclosure\_claims\_unverified
 - earth-population-claims
+- extraordinary-cosmology-claims
+- extraordinary-technology-claims
 - extraordinary\_biological\_claims
 - extraordinary\_civilization\_claims
 - extraordinary\_claims
@@ -1250,11 +1597,14 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 - extraordinary\_metaphysical\_claims
 - extraordinary\_paranormal\_claims
 - extraordinary\_personal\_ability\_claims
+- faction\_tension
+- gender\_role\_generalization
 - historical-claims-uncorroborated
 - historical-claims-unverified
 - historical-conspiracy-claims
 - historical\_account\_unverified
 - identity-claims-unverified
+- incomplete-investigation
 - logo\_identity\_claim\_unverified
 - medical\_misinformation\_present
 - metaphysical-claims
@@ -1263,9 +1613,12 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 - personal\_accusations
 - personal\_cosmology
 - pilot-account-attributed
+- political-claims
+- political-claims-unverified
 - review: claims on sexual orientation and depopulation
 - self-reported-traits
 - self\_description
+- source includes conflicting publication and event dates; claims retain stated dates
 - speaker-attribution-swaruu-x-athena
 - speaker-split: Gosia reflection; Anéeka statement at p0050-p0054
 - species\_specific\_reproduction
@@ -1273,9 +1626,13 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 - technology\_claims
 - translated\_source
 - translation\_approximation\_navajo\_inuit
+- unverified-contact-claims
+- unverified-historical-claims
+- unverified-paranormal-claims
 - unverified\_biological\_and\_metaphysical\_claims
 - unverified\_biological\_claims
 - unverified\_disinformation\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims
+- unverified\_temporal\_claims
 - weather\_claims

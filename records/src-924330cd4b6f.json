@@ -1,0 +1,98 @@
+{
+  "source_id": "src-924330cd4b6f",
+  "snapshot_sha256": "8180d4f39a2acc5ee111a42a49a5e8a24a65bae2552dce31b111989ce5eb5c04",
+  "language": "en",
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-contact-claims"
+  ],
+  "coverage_gaps": [
+    "intervention-details-omitted"
+  ],
+  "claims": [
+    {
+      "id": "src-924330cd4b6f-c01",
+      "assertion": "Mari says Federation step councils restrict members to local authorities, leaving some concerns unappealable.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-924330cd4b6f-c02",
+      "assertion": "She places a higher solar-system council at Saturn and cites no-fly zones around Saturn, Jupiter, and Venus.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "saturn-bases",
+      "topics": [
+        "saturn-bases",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-924330cd4b6f-c03",
+      "assertion": "Mari reports an Andromedan official urged her to stop criticizing the Federation and organizing Earth-focused meetings.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-924330cd4b6f-c04",
+      "assertion": "She says Taygetan–Urmah alliances and the Alcyone Council moved away from Federation directives.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-924330cd4b6f-c05",
+      "assertion": "Mari accuses the Federation of attempting Alenym’s assassination, citing claimed forensic evidence from the Saturn level.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ]
+}

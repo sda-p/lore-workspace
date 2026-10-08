@@ -1,0 +1,96 @@
+{
+  "source_id": "src-562e2758f0d0",
+  "snapshot_sha256": "7fd8fc3083fed45462abacea5aab3f720f6d20563bfabbacb2c1b71754f97b07",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-562e2758f0d0-c01",
+      "assertion": "Mari says Earth incarnations involve a strong memory veil, though past-life emotions and learning still shape personality.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562e2758f0d0-c02",
+      "assertion": "She says opportunistic entities may exploit incarnated beings’ perception and life-force energy, sometimes through human power structures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562e2758f0d0-c03",
+      "assertion": "Mari describes the recently dead as conscious near the living in an etheric body shaped by self-concepts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562e2758f0d0-c04",
+      "assertion": "She says prolonged grief can attach the deceased to loved ones, while accepting loss helps both move forward.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562e2758f0d0-c05",
+      "assertion": "Mari says pets, like people, are loved ones whose deaths can prompt profound grief.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-model"
+  ],
+  "coverage_gaps": [
+    "empirical-verification"
+  ]
+}

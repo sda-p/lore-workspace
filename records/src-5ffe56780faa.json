@@ -1,0 +1,65 @@
+{
+  "source_id": "src-5ffe56780faa",
+  "snapshot_sha256": "f712a3ab820333a19bc44dc7d3b6ba9b0837d2d7091fd64a7dfd436afd5c323c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5ffe56780faa-c01",
+      "assertion": "Anéeka claims a 30-meter-deep DUMB beneath Abu Simbel was flooded during dam construction to conceal its entrance.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations",
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5ffe56780faa-c02",
+      "assertion": "She says the site was part of Egypt’s Federation base system, linked by tunnels to Giza, Crimea, and Bucegi.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5ffe56780faa-c03",
+      "assertion": "Anéeka says the base is now flooded and former Federation; some workers may have sealed its access before the temple moved.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations",
+        "atlantis-lemuria"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "base function",
+    "access points"
+  ]
+}

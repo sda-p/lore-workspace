@@ -1,0 +1,105 @@
+{
+  "source_id": "src-fe82d1a07961",
+  "snapshot_sha256": "ad7731dc53c4aa50778dc70c3be6602a2ace22434f04a284aa437f78ffc3c573",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fe82d1a07961-c01",
+      "assertion": "Gosia’s Taygetan-source summary describes the Federation as a physical multiracial polity founded by Andromedans, Arcturians, and Lyrians after Lyran expansion.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe82d1a07961-c02",
+      "assertion": "It portrays Earth oversight as layered: Antarctic councils, Viera headquarters, and a Saturn-based solar-system council.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "viera",
+        "saturn-bases"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe82d1a07961-c03",
+      "assertion": "It says lower Federation members may be benevolent, while opaque upper levels control Earth affairs and bend noninterference rules.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe82d1a07961-c04",
+      "assertion": "The account claims Federation agents alter Earth politics, technology, weather, money, and history to shape the Matrix.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe82d1a07961-c05",
+      "assertion": "One unverified theory says invasive muon-network AI may secretly influence Federation leadership.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0053"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "broad-exopolitical-allegations"
+  ],
+  "coverage_gaps": [
+    "detailed-interventions-omitted"
+  ]
+}

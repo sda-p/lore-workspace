@@ -100,6 +100,26 @@ Source: [Origins of the Lyran / Human race (English)](https://swaruu.org/transcr
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-42ef2a1bb92f-c01
+
+Mari says Federation accounts disagree whether humanlike Lyrians originated in Lyra or Triangulum.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygeta, origins and history. Part 1 (English)](https://swaruu.org/transcripts/taygeta-origins-and-history-part-1-english) (2023-09-27; en); passages p0002, p0003, p0004. [Structured record](../../records/src-42ef2a1bb92f.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-42ef2a1bb92f-c02
+
+Her account says Orion invaders displaced Lyrians in an event called the Great Expansion. Official history as presented; speaker questions its accuracy.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Taygeta, origins and history. Part 1 (English)](https://swaruu.org/transcripts/taygeta-origins-and-history-part-1-english) (2023-09-27; en); passages p0002, p0006, p0007, p0008. [Structured record](../../records/src-42ef2a1bb92f.json).
+
+Related topics: [Orion Wars](orion-wars.md).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c08](stellar-navigation.md#src-03f88504384a-c08) — Stellar navigation
@@ -116,6 +136,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - approximate\_dates
+- conflicting\_origin\_accounts
 - extraordinary\_history\_claims
 - translated\_source
 - translation\_approximation\_navajo\_inuit
+- unverified\_extraterrestrial\_claims

@@ -1,0 +1,84 @@
+{
+  "source_id": "src-ceb65bcc3f82",
+  "snapshot_sha256": "7718129549ab322869918d4f2ab5e77caeb7fe6c0e2bcfb1099de6ecba8db864",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ceb65bcc3f82-c01",
+      "assertion": "Swaruu (9) says stellar navigation uses frequency maps, where a location is its frequency rather than a physical coordinate.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ceb65bcc3f82-c02",
+      "assertion": "Swaruu describes perceived density as an observer’s processing capacity; observers cannot perceive frequencies beyond their range.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ceb65bcc3f82-c03",
+      "assertion": "She says a planet’s exact frequency harmonics provide starship navigation data, and frequency maps can represent locations or situations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ceb65bcc3f82-c04",
+      "assertion": "She describes inserting objects or situations into other contexts by matching frequencies; the calculations require powerful nonbinary computers with particle nano-accelerators.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Object harmonics need compatibility, while situations require more precise amalgamation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "frequency-context-calculation",
+    "observer-metaphysics"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-802b0f3f9360",
+  "snapshot_sha256": "13e2db4beb8bc5859e41f5a99f877e9851d5d3dfee80df8ddd4025561acaacfc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-802b0f3f9360-c01",
+      "assertion": "Mari describes full immersion as a spherical-room VR system that simulates remote presence without physical travel.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-802b0f3f9360-c02",
+      "assertion": "A remote spherical drone gathers sensory data and sends it through muon communication to the user’s computer.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0014"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-802b0f3f9360-c03",
+      "assertion": "The room recreates 360-degree visuals, sound, temperature, wind, and smells; controlled gravity permits walking.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-802b0f3f9360-c04",
+      "assertion": "The drone projects the user as a hologram at the destination, enabling interaction while concealing the drone.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "spherical-drones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-802b0f3f9360-c05",
+      "assertion": "Mari says this model is obsolete, with sensory and image glitches; newer systems are nearly indistinguishable from reality.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "third-generation technology",
+    "system limitations"
+  ]
+}

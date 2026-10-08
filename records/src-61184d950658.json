@@ -1,0 +1,114 @@
+{
+  "source_id": "src-61184d950658",
+  "snapshot_sha256": "03ca8be12926dd3c2829c7f0fc3e4b9ec1dc484f4b02afc03e31c9e6c989f042",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-61184d950658-c01",
+      "assertion": "Anéeka says starseeds migrate among cultures, carrying ideas; interstellar travel also spreads customs.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61184d950658-c02",
+      "assertion": "She describes human-form beings as widespread, ranging from Earthlike to biologically nonhuman.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61184d950658-c03",
+      "assertion": "She names Druidic culture as Taygeta’s major Earth influence and Urmah influence in ancient architecture.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61184d950658-c04",
+      "assertion": "Anéeka says Federation internet shares knowledge, while Earth’s version enables population monitoring and behavioral influence.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61184d950658-c05",
+      "assertion": "Taygetans adopted Earth birthdays, cake, candles, and music, she says.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0036",
+        "p0086"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61184d950658-c06",
+      "assertion": "She distinguishes Taygetan cultivated meat from Earth’s synthetic products and discourages the latter.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0076"
+      ],
+      "primary_topic": "cultivated-meat",
+      "topics": [
+        "cultivated-meat"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "intercultural-claims"
+  ],
+  "coverage_gaps": [
+    "additional-cultural-exchanges"
+  ]
+}

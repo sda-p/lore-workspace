@@ -1,0 +1,86 @@
+{
+  "source_id": "src-680909ec608a",
+  "snapshot_sha256": "a04b026a5d42e1806ad1d1b24d6ca5395a59d6041cf50abd97889b3adaea6f26",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-680909ec608a-c01",
+      "assertion": "Mari says engine-generated shields repel ships unless harmonics are synchronized, enabling shield-blended docking.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-680909ec608a-c02",
+      "assertion": "She says Saska One struck Alcyone during undocking after Alcyone’s new rear sensors failed and its crew turned too early.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-680909ec608a-c03",
+      "assertion": "The collision destroyed Alcyone’s rear structure and caused decompression; Saska One remained operational and Alcyone was repaired in orbit.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "toleka-class"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-680909ec608a-c04",
+      "assertion": "Mari says ships use welded modular sections covered by polymorphic metal, whose self-repair has limits.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "collision safeguards",
+    "sensor repair"
+  ]
+}

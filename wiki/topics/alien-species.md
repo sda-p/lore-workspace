@@ -2174,6 +2174,340 @@ Source: [Orion Mothership entering Earth? NOTHING is happening - Yazhi Swaruu](h
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-7ffa03537463-c01
+
+Mari says starseeds may feel alienated from families with different beliefs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Surviving the Holidays, for Star Seeds (English)](https://swaruu.org/transcripts/surviving-the-holidays-for-star-seeds-english) (2023-12-16; en); passages p0002, p0007, p0008, p0010. [Structured record](../../records/src-7ffa03537463.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-7ffa03537463-c05
+
+Mari describes Rodina as a place where starseeds feel safe and spiritually restored.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Surviving the Holidays, for Star Seeds (English)](https://swaruu.org/transcripts/surviving-the-holidays-for-star-seeds-english) (2023-12-16; en); passages p0002, p0018. [Structured record](../../records/src-7ffa03537463.json).
+
+### src-2c37577fd6a4-c02
+
+Federation accounts portray Etorthans as Orion Grays who terraform worlds and assist other species. Official Federation account as relayed by Mari.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Deep Federation, Etorthan detachment arriving, And Urmah vs Etorthans (English)](https://swaruu.org/transcripts/deep-federation-etorthan-detachment-arriving-and-urmah-vs-etorthans-english) (2023-11-30; en); passages p0002, p0006, p0007. [Structured record](../../records/src-2c37577fd6a4.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a71f4c4e176a-c01
+
+Mari says light beings may appear as ordinary people to communicate with lower-awareness observers. Personal metaphysics.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Light Beings passing off as Normal People (English)](https://swaruu.org/transcripts/light-beings-passing-off-as-normal-people-english) (2024-01-29; en); passages p0002, p0010, p0013. [Structured record](../../records/src-a71f4c4e176a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a71f4c4e176a-c02
+
+She says such beings may manifest through different bodies or forms.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Light Beings passing off as Normal People (English)](https://swaruu.org/transcripts/light-beings-passing-off-as-normal-people-english) (2024-01-29; en); passages p0002, p0018, p0021. [Structured record](../../records/src-a71f4c4e176a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a71f4c4e176a-c03
+
+Mari attributes teleportation and rule-bending abilities to some light beings.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Light Beings passing off as Normal People (English)](https://swaruu.org/transcripts/light-beings-passing-off-as-normal-people-english) (2024-01-29; en); passages p0002, p0014, p0015, p0020. [Structured record](../../records/src-a71f4c4e176a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a71f4c4e176a-c04
+
+She says light beings can appear as animals, plants, rocks, or humanoids.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Light Beings passing off as Normal People (English)](https://swaruu.org/transcripts/light-beings-passing-off-as-normal-people-english) (2024-01-29; en); passages p0002, p0010, p0018. [Structured record](../../records/src-a71f4c4e176a.json).
+
+### src-0e992795e982-c04
+
+Mari identifies the predators as Gunahabuls that hunt in groups at night.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Terrible Ending of the First Settlers on Planet Procyon. (English)](https://swaruu.org/transcripts/the-terrible-ending-of-the-first-settlers-on-planet-procyon-english) (2023-10-03; en); passages p0002, p0031, p0032. [Structured record](../../records/src-0e992795e982.json).
+
+Related topics: [Planet Procyon](procyon.md).
+
+### src-0e992795e982-c05
+
+She says Gunahabuls remain a threat in restricted areas and may have been introduced. Their origin and introducer remain uncertain.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Terrible Ending of the First Settlers on Planet Procyon. (English)](https://swaruu.org/transcripts/the-terrible-ending-of-the-first-settlers-on-planet-procyon-english) (2023-10-03; en); passages p0002, p0033, p0034. [Structured record](../../records/src-0e992795e982.json).
+
+Related topics: [Planet Procyon](procyon.md).
+
+### src-f28ef31d9222-c01
+
+Yazhi says more than 100 vampire types exist, including corpse-animated forms.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vampires/Zombies - Are they Real? Yazhi Swaruu and Aneeka explain](https://swaruu.org/transcripts/vampires-zombies-are-they-real-yazhi-swaruu-and-aneeka-explain) (2023-11-02; en); passages p0003, p0006, p0009. [Structured record](../../records/src-f28ef31d9222.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-f28ef31d9222-c03
+
+Yazhi says black-eyed beings are a distinct, often intelligent vampire variant.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Vampires/Zombies - Are they Real? Yazhi Swaruu and Aneeka explain](https://swaruu.org/transcripts/vampires-zombies-are-they-real-yazhi-swaruu-and-aneeka-explain) (2023-11-02; en); passages p0003, p0010, p0018, p0020, p0030. [Structured record](../../records/src-f28ef31d9222.json).
+
+### src-c3fb6e0f8cde-c01
+
+Mari defines demons as narcissistic lower-astral beings that exploit others. Unverified paranormal claim.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Demons and evil entities of the Lower astral and the world of the living, Part 1 (English)](https://swaruu.org/transcripts/demons-and-evil-entities-of-the-lower-astral-and-the-world-of-the-living-part-1-english) (2023-08-18; en); passages p0002, p0010, p0011. [Structured record](../../records/src-c3fb6e0f8cde.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-3c7459286bbe-c02
+
+She says Taygetan reproduction differs genetically, especially in nervous-system structure.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Mini Topics - Information from Extraterrestrial People - Taygeta, Pleiades](https://swaruu.org/transcripts/mini-topics-information-from-extraterrestrial-people-taygeta-pleiades) (2023-08-30; en); passages p0027, p0030, p0031. [Structured record](../../records/src-3c7459286bbe.json).
+
+### src-89700ee6bd1c-c05
+
+She distinguishes off-world beings, interdimensional beings, and beings described as both.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [What’s it, with Flat Globe? (English)](https://swaruu.org/transcripts/what-s-it-with-flat-globe-english) (2023-12-08; en); passages p0002, p0032, p0033, p0034. [Structured record](../../records/src-89700ee6bd1c.json).
+
+### src-43132e2e23d8-c01
+
+Mari distinguishes Alpha Draconians from smaller humanoid Dracos.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alpha Dracos or Alpha Draconians. Space Dragons (English)](https://swaruu.org/transcripts/alpha-dracos-or-alpha-draconians-space-dragons-english) (2024-03-09; en); passages p0002, p0003, p0004, p0008. [Structured record](../../records/src-43132e2e23d8.json).
+
+### src-43132e2e23d8-c02
+
+She says Alpha Draconians share genetics but divide into opposing positive and regressive cultures.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alpha Dracos or Alpha Draconians. Space Dragons (English)](https://swaruu.org/transcripts/alpha-dracos-or-alpha-draconians-space-dragons-english) (2024-03-09; en); passages p0002, p0009, p0010, p0011, p0012, p0013, p0014. [Structured record](../../records/src-43132e2e23d8.json).
+
+### src-43132e2e23d8-c03
+
+She describes Alpha Draconians as roughly 15 meters tall with fire-spitting ability.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Alpha Dracos or Alpha Draconians. Space Dragons (English)](https://swaruu.org/transcripts/alpha-dracos-or-alpha-draconians-space-dragons-english) (2024-03-09; en); passages p0002, p0004, p0006, p0007. [Structured record](../../records/src-43132e2e23d8.json).
+
+### src-43132e2e23d8-c04
+
+She says their fire uses two substances and diminishes with dehydration.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alpha Dracos or Alpha Draconians. Space Dragons (English)](https://swaruu.org/transcripts/alpha-dracos-or-alpha-draconians-space-dragons-english) (2024-03-09; en); passages p0002, p0006, p0007. [Structured record](../../records/src-43132e2e23d8.json).
+
+### src-b6b461d0197b-c03
+
+He says positive and regressive Alpha Draconian cultures are genetically similar but ethically opposed.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Arishah, the Urmah Tiger , 3rd Interview, Part 2 (English)](https://swaruu.org/transcripts/arishah-the-urmah-tiger-3rd-interview-part-2-english) (2024-02-26; en); passages p0013, p0014, p0015. [Structured record](../../records/src-b6b461d0197b.json).
+
+### src-ebb0792f073e-c03
+
+She says starseeds and wanderers differ in attachment to particular stellar races.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Starseeds, What Are They? (English)](https://swaruu.org/transcripts/starseeds-what-are-they-english) (2023-11-22; en); passages p0002, p0019, p0020. [Structured record](../../records/src-ebb0792f073e.json).
+
+### src-a02ed53897bc-c03
+
+Yazhi says evil becomes self-destructive; a Procyon Gunabul predator starves after exhausting its prey.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Positive "Agenda" - PART 2 - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/positive-agenda-part-2-conversation-with-sophia-swaruu-yazhi) (2023-12-31; en); passages p0013, p0014, p0020, p0021. [Structured record](../../records/src-a02ed53897bc.json).
+
+### src-aadfaf12666d-c04
+
+Mari says fear concentrates attention; entities may adapt to victims, while succubi and incubi exploit sexual energy.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Dreams, and Dark Lower-Astral Entity Night Visitations (English)](https://swaruu.org/transcripts/dreams-and-dark-lower-astral-entity-night-visitations-english) (2023-10-29; en); passages p0024, p0025, p0028. [Structured record](../../records/src-aadfaf12666d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9c4e856e01e8-c01
+
+Mari says the mummies may be fakes despite Grey-like traits and an egg. She cannot identify their species and allows the researcher may have stronger evidence.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Peruvian Mummies in the Media, there is never enough proof about extra-terrestrials, (English)](https://swaruu.org/transcripts/peruvian-mummies-in-the-media-there-is-never-enough-proof-about-extra-terrestrials-english) (2023-09-25; en); passages p0008, p0009, p0011, p0021, p0026. [Structured record](../../records/src-9c4e856e01e8.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-9c4e856e01e8-c03
+
+Mari’s files characterize the Starchild skull as an adult nonhuman with distinct structure and DNA unknown to human science.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Peruvian Mummies in the Media, there is never enough proof about extra-terrestrials, (English)](https://swaruu.org/transcripts/peruvian-mummies-in-the-media-there-is-never-enough-proof-about-extra-terrestrials-english) (2023-09-25; en); passages p0017, p0018, p0019. [Structured record](../../records/src-9c4e856e01e8.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-729c2f64ccf5-c02
+
+She identifies ship surgeon Senetre as half-Taygetan, half-Solatian; Solatians inhabit planets orbiting Pleione.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [4 New Crew Members on Board, Part 2, Heavy Cultural Shock (English)](https://swaruu.org/transcripts/4-new-crew-members-on-board-part-2-heavy-cultural-shock-english) (2023-11-12; en); passages p0010, p0011. [Structured record](../../records/src-729c2f64ccf5.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-149a920c9a41-c05
+
+Mari cautions against judging species by lineage, emphasizing individual actions and observer interests.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Break Away Civilizations and Space Pirates (English)](https://swaruu.org/transcripts/break-away-civilizations-and-space-pirates-english) (2023-11-16; en); passages p0012, p0013. [Structured record](../../records/src-149a920c9a41.json).
+
+### src-486d293f3a87-c04
+
+Dhor Káal’el says Chiqui Swaruu aided a wounded, unnamed being astrally; positive Greys physically extracted it.
+
+Attributed to **Dhor Káal’el**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 5B - More Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-more-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) (2024-03-19; en); passages p0097, p0101, p0103, p0111, p0113, p0115, p0117, p0119. [Structured record](../../records/src-486d293f3a87.json).
+
+### src-9dff6eea43d2-c01
+
+Mari says “reptiloids” covers thousands of species, from harmless small lizards to Alpha Draconians.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Reptiloids and how they view Earth and Humanity (English)](https://swaruu.org/transcripts/reptiloids-and-how-they-view-earth-and-humanity-english) (2024-03-16; en); passages p0003, p0004, p0005. [Structured record](../../records/src-9dff6eea43d2.json).
+
+### src-78e78e2a3cba-c01
+
+Mari distinguishes harmful “aliens” from extraterrestrials born beyond Earth, who may be human-looking or not. This is Mari’s own terminology.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Aliens, Extraterrestrials and Toothbrushes (English)](https://swaruu.org/transcripts/on-aliens-extraterrestrials-and-toothbrushes-english) (2024-03-02; en); passages p0003. [Structured record](../../records/src-78e78e2a3cba.json).
+
+### src-78e78e2a3cba-c05
+
+Mari says human and extraterrestrial identities have no clear boundary and calls them kin.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Aliens, Extraterrestrials and Toothbrushes (English)](https://swaruu.org/transcripts/on-aliens-extraterrestrials-and-toothbrushes-english) (2024-03-02; en); passages p0021, p0022. [Structured record](../../records/src-78e78e2a3cba.json).
+
+### src-31b05fa92657-c05
+
+Mari limits consciousness-based Pleiadian travel claims to some higher-realm beings, who she says are nonlocal.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [You don’t need a Starship (English)](https://swaruu.org/transcripts/you-don-t-need-a-starship-english) (2024-02-10; en); passages p0019. [Structured record](../../records/src-31b05fa92657.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ed8cbef23d82-c03
+
+Mari says positive and negative Reptilians both exist, and influence depends on compatibility and consent.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Human Genetic Compatibility with Reptilian Possessions (English)](https://swaruu.org/transcripts/human-genetic-compatibility-with-reptilian-possessions-english) (2024-03-21; en); passages p0012, p0013, p0014. [Structured record](../../records/src-ed8cbef23d82.json).
+
+### src-58d43415bb30-c01
+
+Mari says human-like Lyrians live across the galaxy and use starships ranging from familiar to radically different designs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Starships and why many look so human, and Earth as an Isolated Island (English)](https://swaruu.org/transcripts/on-starships-and-why-many-look-so-human-and-earth-as-an-isolated-island-english) (2024-01-22; en); passages p0006, p0007, p0008. [Structured record](../../records/src-58d43415bb30.json).
+
+### src-58d43415bb30-c05
+
+Mari says spacefaring humans use recognizable craft because they are human Lyrians.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Starships and why many look so human, and Earth as an Isolated Island (English)](https://swaruu.org/transcripts/on-starships-and-why-many-look-so-human-and-earth-as-an-isolated-island-english) (2024-01-22; en); passages p0015, p0016, p0021. [Structured record](../../records/src-58d43415bb30.json).
+
+### src-56be9f8f16bb-c02
+
+Mari says Reptilian society has seven social levels, clans, regions, and sub-overlords.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reptilians and the Galactic Federation, and Positive Reptiles (English)](https://swaruu.org/transcripts/reptilians-and-the-galactic-federation-and-positive-reptiles-english) (2024-03-18; en); passages p0007. [Structured record](../../records/src-56be9f8f16bb.json).
+
+### src-56be9f8f16bb-c04
+
+Mari says Reptilians include both destructive and protective civilizations, including positive Alpha Draconians.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reptilians and the Galactic Federation, and Positive Reptiles (English)](https://swaruu.org/transcripts/reptilians-and-the-galactic-federation-and-positive-reptiles-english) (2024-03-18; en); passages p0011, p0012, p0013. [Structured record](../../records/src-56be9f8f16bb.json).
+
+### src-56be9f8f16bb-c05
+
+Mari says positive Reptilians may avoid open contact because human observers would fear their appearance.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reptilians and the Galactic Federation, and Positive Reptiles (English)](https://swaruu.org/transcripts/reptilians-and-the-galactic-federation-and-positive-reptiles-english) (2024-03-18; en); passages p0013, p0014. [Structured record](../../records/src-56be9f8f16bb.json).
+
+### src-678b016bc66c-c01
+
+Za’el says Lyrians are highly emotional and that emotions can become a source of strength when managed.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Emotions - Their Power and Meaning](https://swaruu.org/transcripts/emotions-their-power-and-meaning) (2023-09-17; en); passages p0005, p0010. [Structured record](../../records/src-678b016bc66c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -2282,6 +2616,30 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-cd1cd400e21c-c05](perceptual-density.md#src-cd1cd400e21c-c05) — Perceptual density
 - [src-3012390b7529-c02](extraterrestrial-stepdowns.md#src-3012390b7529-c02) — Extraterrestrial step-downs
 - [src-3012390b7529-c03](extraterrestrial-stepdowns.md#src-3012390b7529-c03) — Extraterrestrial step-downs
+- [src-0e992795e982-c03](procyon.md#src-0e992795e982-c03) — Planet Procyon
+- [src-f28ef31d9222-c02](postmortem-realities.md#src-f28ef31d9222-c02) — Postmortem realities
+- [src-f28ef31d9222-c05](postmortem-realities.md#src-f28ef31d9222-c05) — Postmortem realities
+- [src-d47a3308dd27-c01](urmah.md#src-d47a3308dd27-c01) — Urmah
+- [src-d47a3308dd27-c04](urmah.md#src-d47a3308dd27-c04) — Urmah
+- [src-dafa77b48f2e-c03](galactic-federation.md#src-dafa77b48f2e-c03) — Galactic Federation
+- [src-f16ea4c6f1ae-c04](galactic-federation.md#src-f16ea4c6f1ae-c04) — Galactic Federation
+- [src-110444c31179-c02](galactic-federation.md#src-110444c31179-c02) — Galactic Federation
+- [src-9c4e856e01e8-c02](urmah.md#src-9c4e856e01e8-c02) — Urmah
+- [src-3f1db6ee307b-c02](consciousness-metaphysics.md#src-3f1db6ee307b-c02) — Consciousness and metaphysics
+- [src-3f1db6ee307b-c05](consciousness-metaphysics.md#src-3f1db6ee307b-c05) — Consciousness and metaphysics
+- [src-149a920c9a41-c03](galactic-federation.md#src-149a920c9a41-c03) — Galactic Federation
+- [src-ae7f46d3466c-c02](urmah.md#src-ae7f46d3466c-c02) — Urmah
+- [src-9dff6eea43d2-c02](kingu.md#src-9dff6eea43d2-c02) — Kingu
+- [src-9dff6eea43d2-c03](kingu.md#src-9dff6eea43d2-c03) — Kingu
+- [src-9dff6eea43d2-c04](kingu.md#src-9dff6eea43d2-c04) — Kingu
+- [src-9dff6eea43d2-c05](kingu.md#src-9dff6eea43d2-c05) — Kingu
+- [src-78e78e2a3cba-c02](original-matrix.md#src-78e78e2a3cba-c02) — Original Matrix
+- [src-ed8cbef23d82-c01](vaccine-inoculation-claims.md#src-ed8cbef23d82-c01) — Inoculation and genetic alteration claims
+- [src-ed8cbef23d82-c02](consciousness-metaphysics.md#src-ed8cbef23d82-c02) — Consciousness and metaphysics
+- [src-ed8cbef23d82-c04](egregors.md#src-ed8cbef23d82-c04) — Egregors
+- [src-ed8cbef23d82-c05](consciousness-metaphysics.md#src-ed8cbef23d82-c05) — Consciousness and metaphysics
+- [src-56be9f8f16bb-c01](galactic-federation.md#src-56be9f8f16bb-c01) — Galactic Federation
+- [src-56be9f8f16bb-c03](natural-portals.md#src-56be9f8f16bb-c03) — Natural and artificial portals
 
 ## Review flags
 
@@ -2296,6 +2654,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - Weapon and defense capabilities are source-attributed technical claims
 - agency\_and\_noninterference
+- agenda\_term\_varies
 - ai-clone-claims-attributed
 - approximate\_dates
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
@@ -2305,6 +2664,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - claimed\_observation
 - competing\_attributions
 - conditional\_forecast
+- conflicting\_faction\_accounts
 - conflicting\_intelligence\_accounts
 - conspiracy-claims
 - conspiracy\_claims
@@ -2326,9 +2686,11 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - dialogue-perspectives-distinguished
 - diet\_claim\_omitted
 - disclosure\_claims\_unverified
+- disputed\_specimen
 - dog\_import\_exception\_is\_uncertain
 - earth-consciousness\_claim\_omitted
 - egregor-vs-species-levels
+- extraordinary-contact-claims
 - extraordinary\_ai\_claims
 - extraordinary\_archaeological\_claims
 - extraordinary\_astronomical\_claims
@@ -2345,6 +2707,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - extraordinary\_species\_claims
 - extraordinary\_telepathy\_claims
 - faction\_claims
+- faction\_tension
 - factional-perspective-difference
 - factional\_viewpoint\_conflict
 - false-invasion-not-prediction
@@ -2386,9 +2749,11 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - named\_government\_and\_secret\_base\_claims
 - occult\_claims
 - paleontology\_claims\_unverified
+- personal\_advice
 - personal\_metaphysics
 - planetary-lore-unverified
 - political-allegation
+- politically\_contested
 - population-control-allegations
 - reincarnation-model-metaphysical
 - related\_series\_part
@@ -2402,11 +2767,13 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - speaker: interviewer prompts excluded as claims
 - speaker\_identity\_unclear\_p0002\_p0019
 - speaker\_qualifies\_script\_claims
+- species-claims-unverified
 - species\_specific\_reproduction
 - starlink-observation-scope-ambiguity
 - suffering\_causality
 - technology\_claims
 - terminology-tension: densities called concepts and frequency ranges
+- terrestrial-history-claims-unverified
 - translated\_source
 - translation-equivalence-review
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025

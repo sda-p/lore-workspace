@@ -1,0 +1,93 @@
+{
+  "source_id": "src-15a5d7380aeb",
+  "snapshot_sha256": "efb6b2f5d9b356402b431bbf49544f8f0573adadad11daa9a0e8e69df2fa0132",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-15a5d7380aeb-c01",
+      "assertion": "Mari reports 89-year-old Toleka left Earth orbit for Temmer because aging systems required constant maintenance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15a5d7380aeb-c02",
+      "assertion": "Mari says Toleka can cover 440 light-years in seven hours at full power; crew travel time includes ship-internal frequency-transition time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15a5d7380aeb-c03",
+      "assertion": "Mari says Toleka will stop at Cyndriel, then face a 375-light-year leg to Temmer; Vigilant Eagle escorts her.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15a5d7380aeb-c04",
+      "assertion": "Mari says Toleka’s future in Temmer—repair, storage, memorial, or dismantling—was undecided.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0016"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15a5d7380aeb-c05",
+      "assertion": "Mari reports Sadicleya replaced Toleka as flagship, with Alcyone, Asterope, Hyades, and Saska 1 remaining near Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Figures and ship status are Mari’s account as of August 2024"
+  ],
+  "coverage_gaps": [
+    "Toleka’s eventual disposition"
+  ]
+}

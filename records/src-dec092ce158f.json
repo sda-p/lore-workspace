@@ -1,0 +1,86 @@
+{
+  "source_id": "src-dec092ce158f",
+  "snapshot_sha256": "728066f1e1df7314475fbf09c7cd99d6c2546fa9d33c94c9de26e472385847d3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-dec092ce158f-c01",
+      "assertion": "Swaruu says Van Allen passage requires toroidal electromagnetic immersion ships that match crew frequencies; rockets expose crews to radiation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dec092ce158f-c02",
+      "assertion": "She says life support keeps ship interiors at crew-compatible 3D frequencies; higher frequencies harm Reptilian morphology.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dec092ce158f-c03",
+      "assertion": "Swaruu describes Earth DNA as a two-strand 3D shadow of twelve braided strands accessible in 5D.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dec092ce158f-c04",
+      "assertion": "She says leaving Matrix frequencies rapidly expands consciousness and telepathy, and travelers may not want to return.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0019",
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "offworld experience details",
+    "ship technology limits"
+  ]
+}

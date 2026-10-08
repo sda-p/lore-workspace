@@ -1,0 +1,105 @@
+{
+  "source_id": "src-72e66bf3c62a",
+  "snapshot_sha256": "1f33ff944ab62d7dc0166a96b60263c78975e2708e24374915c912ea1b164cf3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-72e66bf3c62a-c01",
+      "assertion": "Athena says collective dark thoughts can manifest as egregors; fear and attention feed them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72e66bf3c62a-c02",
+      "assertion": "She says positivity without awareness can leave societies vulnerable; understanding danger matters alongside kindness.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72e66bf3c62a-c03",
+      "assertion": "Yazhi says physical incarnation entails frequency compatibility with shared events, while unconscious patterns can shape outcomes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0028",
+        "p0030",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72e66bf3c62a-c04",
+      "assertion": "She says high vibration alone is insufficient protection; practical precautions can coexist with positive intent.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72e66bf3c62a-c05",
+      "assertion": "Yazhi says unconscious patterns can be reprogrammed through repeated self-understanding, often over lifetimes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0048",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Keppler 598 history",
+    "frequency mechanics"
+  ]
+}

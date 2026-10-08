@@ -1,0 +1,100 @@
+{
+  "source_id": "src-959864c4fde8",
+  "snapshot_sha256": "f8f445d9fb03eabfb0a00ac2b36945d48e74c8d993b3ea758c18733cc96cb9a4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-959864c4fde8-c01",
+      "assertion": "The compilation identifies Osiris as Taygetan and credits him with teaching agriculture and Nile flood cultivation.",
+      "speaker": "Unattributed source narration",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-959864c4fde8-c02",
+      "assertion": "The account describes Giza as a Federation base with energy-source pyramids, built over an older destroyed base.",
+      "speaker": "Unattributed source narration",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-959864c4fde8-c03",
+      "assertion": "The account presents Egyptian gods as nonhuman guides whose presence initiated pre-dynastic culture.",
+      "speaker": "Unattributed source narration",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-959864c4fde8-c04",
+      "assertion": "The account says Horus was a starship and the Eye of Horus a low-orbit observer craft.",
+      "speaker": "Unattributed source narration",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-959864c4fde8-c05",
+      "assertion": "The account interprets the Eye’s spiral as portal trajectory and its eyebrow as a sign of origin in space.",
+      "speaker": "Unattributed source narration",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "ancient-egypt",
+      "name": "Ancient Egypt",
+      "kind": "historical civilization",
+      "aliases": [
+        "Egypt"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker"
+  ],
+  "coverage_gaps": [
+    "eye symbolism and alleged Cabal appropriation"
+  ]
+}

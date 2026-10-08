@@ -860,6 +860,72 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-minitopics-with-gosia-cosmic-agency) (2023-03-14; en); passages p0111, p0112, p0114, p0116, p0117, p0120. [Structured record](../../records/src-4c18957bd2f2.json).
 
+### src-47a2e5f62aeb-c04
+
+She says ships can jump by matching destination frequency and use gravity modulation for flight.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Flying Saucers (English)](https://swaruu.org/transcripts/on-flying-saucers-english) (2024-03-28; en); passages p0002, p0014, p0015, p0016. [Structured record](../../records/src-47a2e5f62aeb.json).
+
+### src-b781192c3a3d-c04
+
+She says FTL navigation matches a ship’s frequency to destination and time coordinates held in AI maps.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 4 - Extraterrestrial Engineering - Reactors/Plasma Engines (Taygeta - Pleiades)](https://swaruu.org/transcripts/interstellar-life-4-extraterrestrial-engineering-reactors-plasma-engines-taygeta-pleiades) (2023-11-07; en); passages p0048, p0050, p0051, p0052. [Structured record](../../records/src-b781192c3a3d.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-0a76aae844b1-c01
+
+Mari says navigation maps encode gravity, mass, and energy snapshots of locations and moments.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Basic Principles for Real Time Travel, Third Part. Starships (English)](https://swaruu.org/transcripts/basic-principles-for-real-time-travel-third-part-starships-english) (2024-02-08; en); passages p0004, p0008, p0010, p0011. [Structured record](../../records/src-0a76aae844b1.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-0a76aae844b1-c02
+
+Ships reach destinations by changing their own gravity-energy matrix, not by entering calendar dates.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Basic Principles for Real Time Travel, Third Part. Starships (English)](https://swaruu.org/transcripts/basic-principles-for-real-time-travel-third-part-starships-english) (2024-02-08; en); passages p0011, p0012, p0014. [Structured record](../../records/src-0a76aae844b1.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-0a76aae844b1-c03
+
+She says faster-than-light and time travel share this mechanism, so FTL-capable races also time-travel.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Basic Principles for Real Time Travel, Third Part. Starships (English)](https://swaruu.org/transcripts/basic-principles-for-real-time-travel-third-part-starships-english) (2024-02-08; en); passages p0013. [Structured record](../../records/src-0a76aae844b1.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-8aee5e8d5c92-c01
+
+Gosia says starship navigation and personal manifestation share frequency matching: align with a desired destination.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: ["Technological Subjects are not practical"" - Why We and I Disagree and Why they are Important](https://swaruu.org/transcripts/technological-subjects-are-not-practical-why-we-and-i-disagree-and-why-they-are-important) (2024-02-14; en); passages p0005, p0006, p0007. [Structured record](../../records/src-8aee5e8d5c92.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-58d43415bb30-c02
+
+Mari describes interstellar routes and traffic corridors with departure and arrival protocols.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Starships and why many look so human, and Earth as an Isolated Island (English)](https://swaruu.org/transcripts/on-starships-and-why-many-look-so-human-and-earth-as-an-isolated-island-english) (2024-01-22; en); passages p0009. [Structured record](../../records/src-58d43415bb30.json).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -898,6 +964,9 @@ Source: [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](h
 - [src-4781604621b1-c02](dimensional-mirroring.md#src-4781604621b1-c02) — Dimensional mirroring
 - [src-0700efa54ddc-c03](natural-portals.md#src-0700efa54ddc-c03) — Natural and artificial portals
 - [src-6d89e231f729-c02](frequency-astrology.md#src-6d89e231f729-c02) — Frequency-based astrology
+- [src-07494ef21f67-c04](ship-internal-time.md#src-07494ef21f67-c04) — Ship internal time
+- [src-0e992795e982-c01](taygetans.md#src-0e992795e982-c01) — Taygetans
+- [src-0a76aae844b1-c05](timeline-branching.md#src-0a76aae844b1-c05) — Timeline branching
 
 ## Review flags
 
@@ -953,4 +1022,5 @@ Source: [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](h
 - unverified\_extraterrestrial\_claims
 - unverified\_extraterrestrial\_technology\_claims
 - unverified\_technical\_claims
+- unverified\_temporal\_claims
 - unverified\_time\_travel\_claims

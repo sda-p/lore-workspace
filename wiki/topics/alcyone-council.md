@@ -95,6 +95,7 @@ Related topics: [Galactic Federation](galactic-federation.md), [Prime Directive]
 - [src-a5811312e55c-c08](galactic-federation.md#src-a5811312e55c-c08) — Galactic Federation
 - [src-0fee7d796019-c07](alien-species.md#src-0fee7d796019-c07) — Alien species and distinctions
 - [src-6bb3f5207f8d-c04](galactic-federation.md#src-6bb3f5207f8d-c04) — Galactic Federation
+- [src-97cfd0c56ade-c04](taygetans.md#src-97cfd0c56ade-c04) — Taygetans
 
 ## Review flags
 
@@ -105,5 +106,6 @@ Related topics: [Galactic Federation](galactic-federation.md), [Prime Directive]
 - diet\_claim\_omitted
 - factional\_viewpoint\_conflict
 - historical\_and\_nuclear\_claims\_unverified
+- unverified-contact-claims
 - unverified\_agency\_claims
 - unverified\_medical\_claims

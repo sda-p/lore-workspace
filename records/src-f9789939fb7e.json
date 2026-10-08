@@ -1,0 +1,95 @@
+{
+  "source_id": "src-f9789939fb7e",
+  "snapshot_sha256": "ee1ba17fecf293a824a8f7538f03821d0651fd08adb579d8f00be485af3c6e53",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f9789939fb7e-c01",
+      "assertion": "Mari said Antarians were scheduled to join the Alcyone treaty on October 20, 2024, with Ruhr guiding signing.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Planned at publication."
+    },
+    {
+      "id": "src-f9789939fb7e-c02",
+      "assertion": "She reports 14 ships under construction, but Taygeta lacks crews; its population is about 38 million.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f9789939fb7e-c03",
+      "assertion": "Mari says aquaponics extends ship autonomy, but non-vegan crews remain dependent on Earth food.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f9789939fb7e-c04",
+      "assertion": "Toleka City shipyard foundations use liquid rock stronger than concrete after topsoil removal.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f9789939fb7e-c05",
+      "assertion": "She assigned a Hyades light destroyer to Earth orbit; the class also patrols Taygeta and Pleiades.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "agricultural methods",
+    "ship construction schedule"
+  ]
+}

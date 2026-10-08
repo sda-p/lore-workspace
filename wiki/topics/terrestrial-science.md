@@ -1580,6 +1580,258 @@ Source: [Pleiades are NOT too Young to Support Organic Life - Extraterrestrial C
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-5f504bef5a30-c01
+
+Mari argues official histories are shaped by victors and political interests.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [False History, in space and on Earth, Tartaria, Cabal, Lies and the Galactic Federation. (English)](https://swaruu.org/transcripts/false-history-in-space-and-on-earth-tartaria-cabal-lies-and-the-galactic-federation-english) (2023-09-01; en); passages p0002, p0003, p0004, p0007, p0008. [Structured record](../../records/src-5f504bef5a30.json).
+
+Related topics: [Tartaria](tartaria.md).
+
+### src-5f504bef5a30-c03
+
+Mari says many historical events occurred closer together than accepted accounts indicate.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [False History, in space and on Earth, Tartaria, Cabal, Lies and the Galactic Federation. (English)](https://swaruu.org/transcripts/false-history-in-space-and-on-earth-tartaria-cabal-lies-and-the-galactic-federation-english) (2023-09-01; en); passages p0002, p0013, p0015, p0017. [Structured record](../../records/src-5f504bef5a30.json).
+
+### src-5f504bef5a30-c05
+
+Mari presents her conclusions as a perspective rather than ultimate truth.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [False History, in space and on Earth, Tartaria, Cabal, Lies and the Galactic Federation. (English)](https://swaruu.org/transcripts/false-history-in-space-and-on-earth-tartaria-cabal-lies-and-the-galactic-federation-english) (2023-09-01; en); passages p0002, p0029. [Structured record](../../records/src-5f504bef5a30.json).
+
+### src-56d295c20b53-c01
+
+Mari says aircraft contrails form when atmospheric moisture condenses under pressure.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Aircraft exhaust contaminants (English)](https://swaruu.org/transcripts/aircraft-exhaust-contaminants-english) (2023-10-09; en); passages p0002, p0007, p0010, p0011. [Structured record](../../records/src-56d295c20b53.json).
+
+### src-56d295c20b53-c04
+
+She says commercial airliners are mostly not responsible for large-scale spraying, which she attributes mainly to nonhuman craft.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Aircraft exhaust contaminants (English)](https://swaruu.org/transcripts/aircraft-exhaust-contaminants-english) (2023-10-09; en); passages p0002, p0030, p0032. [Structured record](../../records/src-56d295c20b53.json).
+
+### src-ff24151e015d-c01
+
+Mari calls alcohol a drug that can impair judgment and damage relationships. Attributed health claims.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stop Drinking Alcohol (English)](https://swaruu.org/transcripts/stop-drinking-alcohol-english) (2023-10-11; en); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-ff24151e015d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b2a05f16c59d-c01
+
+Mari warns readers not to fill gaps in historical evidence with their own theories.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [More on False Past, how it is studied, and Time Travel (English)](https://swaruu.org/transcripts/more-on-false-past-how-it-is-studied-and-time-travel-english) (2024-01-27; en); passages p0002, p0003, p0004. [Structured record](../../records/src-b2a05f16c59d.json).
+
+### src-b2a05f16c59d-c02
+
+She claims Earth history contains manipulated chronology and omitted evidence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [More on False Past, how it is studied, and Time Travel (English)](https://swaruu.org/transcripts/more-on-false-past-how-it-is-studied-and-time-travel-english) (2024-01-27; en); passages p0002, p0010, p0011, p0017. [Structured record](../../records/src-b2a05f16c59d.json).
+
+### src-af4500c882ec-c02
+
+She says Earth history can be manipulated by controlling records and public memory.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why there is no Real History and a bit of What We Know (English)](https://swaruu.org/transcripts/why-there-is-no-real-history-and-a-bit-of-what-we-know-english) (2024-02-22; en); passages p0002, p0013, p0016, p0017. [Structured record](../../records/src-af4500c882ec.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-5ee43e47632e-c02
+
+Yazhi says atmospheric filtering makes sunlight appear yellow from Earth but white in space.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sun, Galactic Waves - Do they Matter? Athena and Yazhi Swaruu](https://swaruu.org/transcripts/sun-galactic-waves-do-they-matter-athena-and-yazhi-swaruu) (2024-02-09; en); passages p0007, p0009, p0010, p0013. [Structured record](../../records/src-5ee43e47632e.json).
+
+### src-c868ee942b53-c01
+
+Athena says constellation observations from both hemispheres rule out a flat Earth.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: ["I see Earth from my window and it is ROUND\!" - Flat Earth Theory Psyop](https://swaruu.org/transcripts/i-see-earth-from-my-window-and-it-is-round-flat-earth-theory-psyop) (2023-10-08; en); passages p0008, p0009, p0010. [Structured record](../../records/src-c868ee942b53.json).
+
+### src-c868ee942b53-c02
+
+She says Earth’s mass and measured gravity constrain its possible size and shape.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: ["I see Earth from my window and it is ROUND\!" - Flat Earth Theory Psyop](https://swaruu.org/transcripts/i-see-earth-from-my-window-and-it-is-round-flat-earth-theory-psyop) (2023-10-08; en); passages p0011, p0012, p0016, p0030, p0031. [Structured record](../../records/src-c868ee942b53.json).
+
+### src-c868ee942b53-c03
+
+Athena says atmospheric refraction can make distant objects visible beyond the horizon.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: ["I see Earth from my window and it is ROUND\!" - Flat Earth Theory Psyop](https://swaruu.org/transcripts/i-see-earth-from-my-window-and-it-is-round-flat-earth-theory-psyop) (2023-10-08; en); passages p0020. [Structured record](../../records/src-c868ee942b53.json).
+
+### src-c868ee942b53-c04
+
+She says temperature layers can create mirror effects that distort distant views.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: ["I see Earth from my window and it is ROUND\!" - Flat Earth Theory Psyop](https://swaruu.org/transcripts/i-see-earth-from-my-window-and-it-is-round-flat-earth-theory-psyop) (2023-10-08; en); passages p0024, p0025, p0026. [Structured record](../../records/src-c868ee942b53.json).
+
+### src-ef5bf21bfc65-c01
+
+Mari describes weather control in three tiers: cloud seeding, microwave systems, and advanced nonhuman technology. Unverified account.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Artificial Weather (English ) / (Re-loaded)](https://swaruu.org/transcripts/artificial-weather-english-re-loaded) (2023-10-17; en); passages p0002, p0008, p0009, p0011. [Structured record](../../records/src-ef5bf21bfc65.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-ef5bf21bfc65-c04
+
+She says natural weather may be modified, while large storms are reportedly artificial.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Artificial Weather (English ) / (Re-loaded)](https://swaruu.org/transcripts/artificial-weather-english-re-loaded) (2023-10-17; en); passages p0002, p0015. [Structured record](../../records/src-ef5bf21bfc65.json).
+
+### src-89700ee6bd1c-c01
+
+Mari says Earth appears flat to ordinary surface observers but is spherical in space.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [What’s it, with Flat Globe? (English)](https://swaruu.org/transcripts/what-s-it-with-flat-globe-english) (2023-12-08; en); passages p0002, p0005, p0006, p0027, p0035. [Structured record](../../records/src-89700ee6bd1c.json).
+
+### src-89700ee6bd1c-c02
+
+She says Antarctic flights are limited by emergency-route, weather, navigation, and military factors.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [What’s it, with Flat Globe? (English)](https://swaruu.org/transcripts/what-s-it-with-flat-globe-english) (2023-12-08; en); passages p0002, p0019, p0020, p0021, p0022. [Structured record](../../records/src-89700ee6bd1c.json).
+
+### src-e8c948eba87c-c02
+
+She alleges Titanic and Olympic were secretly swapped before the voyage.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Titanic - How it Sank - Swaruu of Erra talks to Dale Harder](https://swaruu.org/transcripts/titanic-how-it-sank-swaruu-of-erra-talks-to-dale-harder) (2023-11-28; en); passages p0017, p0018, p0019, p0020, p0021, p0022. [Structured record](../../records/src-e8c948eba87c.json).
+
+### src-e8c948eba87c-c04
+
+She says Californian was positioned to rescue only some survivors.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Titanic - How it Sank - Swaruu of Erra talks to Dale Harder](https://swaruu.org/transcripts/titanic-how-it-sank-swaruu-of-erra-talks-to-dale-harder) (2023-11-28; en); passages p0018, p0025, p0026, p0027. [Structured record](../../records/src-e8c948eba87c.json).
+
+### src-e8c948eba87c-c05
+
+Anéeka claims the wreck carried radioactive material from Russia to New York.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [Titanic - How it Sank - Swaruu of Erra talks to Dale Harder](https://swaruu.org/transcripts/titanic-how-it-sank-swaruu-of-erra-talks-to-dale-harder) (2023-11-28; en); passages p0032, p0033, p0034, p0035, p0036. [Structured record](../../records/src-e8c948eba87c.json).
+
+### src-1ba260f045af-c02
+
+She says her CIC team translates and supports frequent channel production.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [1st Anniversary, of this YouTube channel, Swaruu Official. Thank You (English)](https://swaruu.org/transcripts/1st-anniversary-of-this-youtube-channel-swaruu-official-thank-you-english) (2023-12-12; en); passages p0002, p0008, p0009. [Structured record](../../records/src-1ba260f045af.json).
+
+### src-68f3cdbaf739-c02
+
+She says lower-level wealthy figures lack independent interplanetary capability.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [The Elites are Planning to leave Earth. (English)](https://swaruu.org/transcripts/the-elites-are-planning-to-leave-earth-english) (2023-09-29; en); passages p0002, p0013, p0014, p0015, p0016. [Structured record](../../records/src-68f3cdbaf739.json).
+
+### src-d899adc8debe-c02
+
+She reports preliminary tests found captured mosquitoes lacked expected wild-growth traces.
+
+Attributed to **Mari Swa**; reported; extraction confidence: medium.
+
+Source: [Space News 15, Federation Update, February 28, 2024 (English)](https://swaruu.org/transcripts/space-news-15-federation-update-february-28-2024-english) (2024-02-29; en); passages p0002, p0005, p0006. [Structured record](../../records/src-d899adc8debe.json).
+
+### src-d899adc8debe-c03
+
+She speculates mosquitoes may be engineered to inject substances, but says testing is incomplete.
+
+Attributed to **Mari Swa**; speculative; extraction confidence: high.
+
+Source: [Space News 15, Federation Update, February 28, 2024 (English)](https://swaruu.org/transcripts/space-news-15-federation-update-february-28-2024-english) (2024-02-29; en); passages p0002, p0005, p0006. [Structured record](../../records/src-d899adc8debe.json).
+
+### src-fd364b9ee561-c05
+
+Aydan expected a human phone to project a holographic interface and found its touch screen primitive.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News: 4 New People Arriving on The Ship. First Part (English)](https://swaruu.org/transcripts/space-news-4-new-people-arriving-on-the-ship-first-part-english) (2023-11-06; en); passages p0021, p0022, p0023. [Structured record](../../records/src-fd364b9ee561.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-047d49f64bd7-c04
+
+Mari says Earth science cannot master time travel without integrating consciousness with physics.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Basic Principles for Real Time Travel, First Part (English)](https://swaruu.org/transcripts/basic-principles-for-real-time-travel-first-part-english) (2024-02-03; en); passages p0007, p0008, p0011. [Structured record](../../records/src-047d49f64bd7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9f6b8fccb9d1-c01
+
+Za’el characterizes Earth science as reductionist and limited to material explanations.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Arrogance and False Science - The Sickness of Earth's Society, Part 2](https://swaruu.org/transcripts/arrogance-and-false-science-the-sickness-of-earth-s-society-part-2) (2023-10-19; en); passages p0005. [Structured record](../../records/src-9f6b8fccb9d1.json).
+
+### src-9f6b8fccb9d1-c02
+
+Za’el alleges some studies are promoted to support predetermined claims and shape public perception.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Arrogance and False Science - The Sickness of Earth's Society, Part 2](https://swaruu.org/transcripts/arrogance-and-false-science-the-sickness-of-earth-s-society-part-2) (2023-10-19; en); passages p0006. [Structured record](../../records/src-9f6b8fccb9d1.json).
+
+### src-9f6b8fccb9d1-c03
+
+Za’el says scientific knowledge is compartmentalized into progressively narrower tiers.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Arrogance and False Science - The Sickness of Earth's Society, Part 2](https://swaruu.org/transcripts/arrogance-and-false-science-the-sickness-of-earth-s-society-part-2) (2023-10-19; en); passages p0008. [Structured record](../../records/src-9f6b8fccb9d1.json).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -1650,6 +1902,20 @@ Related topics: [Taygetans](taygetans.md).
 - [src-88ba599fa614-c04](earth-cabal.md#src-88ba599fa614-c04) — Earth Cabal and power structures
 - [src-c147ae1148dd-c01](earth-cabal.md#src-c147ae1148dd-c01) — Earth Cabal and power structures
 - [src-c147ae1148dd-c02](earth-cabal.md#src-c147ae1148dd-c02) — Earth Cabal and power structures
+- [src-af4500c882ec-c04](tartaria.md#src-af4500c882ec-c04) — Tartaria
+- [src-5ee43e47632e-c01](sunspot-portals.md#src-5ee43e47632e-c01) — Sunspot portals
+- [src-c868ee942b53-c05](false-alien-invasion.md#src-c868ee942b53-c05) — False alien invasion scenarios
+- [src-ef5bf21bfc65-c05](gravity-harmonics.md#src-ef5bf21bfc65-c05) — Gravity harmonics
+- [src-4f613755089f-c04](economics.md#src-4f613755089f-c04) — Economics and resources
+- [src-9c4e856e01e8-c01](alien-species.md#src-9c4e856e01e8-c01) — Alien species and distinctions
+- [src-9c4e856e01e8-c03](alien-species.md#src-9c4e856e01e8-c03) — Alien species and distinctions
+- [src-3ea817d6282d-c01](earth-cabal.md#src-3ea817d6282d-c01) — Earth Cabal and power structures
+- [src-3ea817d6282d-c02](earth-cabal.md#src-3ea817d6282d-c02) — Earth Cabal and power structures
+- [src-3ea817d6282d-c03](earth-cabal.md#src-3ea817d6282d-c03) — Earth Cabal and power structures
+- [src-28ddf6479cea-c02](gravity-harmonics.md#src-28ddf6479cea-c02) — Gravity harmonics
+- [src-8aee5e8d5c92-c03](holistic-society.md#src-8aee5e8d5c92-c03) — Holistic society
+- [src-ce90cae90fd1-c01](earth-cabal.md#src-ce90cae90fd1-c01) — Earth Cabal and power structures
+- [src-ce90cae90fd1-c03](earth-cabal.md#src-ce90cae90fd1-c03) — Earth Cabal and power structures
 
 ## Review flags
 
@@ -1674,6 +1940,7 @@ Related topics: [Taygetans](taygetans.md).
 - dangerous\_medical\_misinformation
 - diet\_claim\_omitted
 - dietary\_advice
+- disputed\_specimen
 - earth\_science\_claims\_unverified
 - extraordinary\_biological\_claims
 - extraordinary\_conflict\_claims
@@ -1718,16 +1985,21 @@ Related topics: [Taygetans](taygetans.md).
 - personal\_cosmology
 - personal\_metaphysics
 - planet\_count\_internal\_inconsistency
+- political-claims-unverified
 - radiation-causation-allegations
 - related\_series\_part
 - science\_claims\_unverified\_in\_source
 - space\_suit\_claims\_unverified
+- technology\_claims
+- terrestrial-history-claims-unverified
 - time-bound-prediction
 - time\_travel\_lore
 - translated\_source
+- translation-not-applicable
 - transport\_safety\_and\_policy\_claims\_unverified
 - ufo\_researcher\_critique
 - unsupported\_planetary\_claims
+- unverified-current-events
 - unverified-technology-claims
 - unverified\_aerospace\_claims
 - unverified\_ancient\_technology\_claims
@@ -1737,12 +2009,14 @@ Related topics: [Taygetans](taygetans.md).
 - unverified\_biological\_claims
 - unverified\_claims
 - unverified\_cloning\_claims
+- unverified\_conspiracy\_claims
 - unverified\_demographics
 - unverified\_energy\_claims
 - unverified\_extraordinary\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_geophysical\_claims
 - unverified\_geopolitical\_claims
+- unverified\_health\_claims
 - unverified\_historical\_claims
 - unverified\_laboratory\_report
 - unverified\_lunar\_claims
@@ -1752,8 +2026,11 @@ Related topics: [Taygetans](taygetans.md).
 - unverified\_metaphysical\_biology
 - unverified\_metaphysical\_claims
 - unverified\_mind\_control\_claims
+- unverified\_paranormal\_claims
+- unverified\_physics\_claims
 - unverified\_political\_claims
 - unverified\_science\_claims
+- unverified\_technology\_claims
 - unverified\_wartime\_claims
 - vaccine-harm-allegations
 - war\_scale\_uncertainty

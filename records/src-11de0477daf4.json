@@ -1,0 +1,84 @@
+{
+  "source_id": "src-11de0477daf4",
+  "snapshot_sha256": "85d4dce2dab44e5f0da24d028ae9d9ccc629bd0bfdad5b826cc321bf14cd85f7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-11de0477daf4-c01",
+      "assertion": "Swaruu models matter as toroidal standing-wave nodes in an ether of potential energy, shaped by consciousness and sacred geometry.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010",
+        "p0018"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-11de0477daf4-c02",
+      "assertion": "She says shared attention reinforces matter-forming nodes, while conflicting intentions produce destructive interference.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-11de0477daf4-c03",
+      "assertion": "Swaruu describes quartz-crystal zero-point reactors as computer-controlled toroids that supply large ships with abundant energy and need little maintenance.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0063",
+        "p0064",
+        "p0066",
+        "p0067"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-11de0477daf4-c04",
+      "assertion": "Swaruu says Taygetans use only needed energy and avoid civilization-scale resource extraction.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0075",
+        "p0076",
+        "p0077"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

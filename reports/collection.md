@@ -1,14 +1,16 @@
 # Continuous collection progress
 
-Updated: 2026-10-08T15:47:46+00:00
+Updated: 2026-10-08T15:56:16+00:00
 
 - Inventoried URLs: 2207
-- Independently reviewed source records: 540
-- Source-specific claims: 2813
-- Reviewed record languages: {'en': 538, 'es': 2}
-- Released records awaiting completed independent review/integration: 244
+- Independently reviewed source records: 700
+- Source-specific claims: 3609
+- Original source words in reviewed records: 1,741,907
+- Original source words prepared for processing: 4,590,507
+- Reviewed record languages: {'en': 698, 'es': 2}
+- Released records awaiting completed independent review/integration: 139
 - Exact duplicate URLs skipped: 0
-- Unassigned URLs: 497
+- Unassigned URLs: 337
 - Assigned records still needing work: 1170
 
 Source-record counts include retained language/revision variants and are not counts of independent corroborating accounts. Each record is a compact core extraction, not exhaustive coverage. English-first selection uses title heuristics plus coordinator review of ambiguous titles. Later cohorts process Spanish and remaining records; extracts are written in English, with original source language retained.
@@ -22,16 +24,17 @@ Source-record counts include retained language/revision variants and are not cou
 | continuous-006 | 40 | 40 | 40 | reviewed | 7 |
 | continuous-007 | 160 | 160 | 160 | reviewed | 35 |
 | continuous-008 | 160 | 160 | 160 | reviewed | 34 |
-| continuous-009 | 160 | 153 | 0 | running | 0 |
-| continuous-010 | 160 | 79 | 0 | running | 0 |
+| continuous-009 | 160 | 160 | 160 | reviewed | 33 |
+| continuous-010 | 160 | 119 | 0 | running | 0 |
 | continuous-011 | 20 | 5 | 0 | running | 0 |
 | continuous-012 | 30 | 7 | 0 | running | 0 |
-| continuous-013 | 160 | 0 | 0 | running | 0 |
+| continuous-013 | 160 | 8 | 0 | running | 0 |
 | continuous-014 | 160 | 0 | 0 | running | 0 |
 | continuous-015 | 160 | 0 | 0 | running | 0 |
 | continuous-016 | 160 | 0 | 0 | running | 0 |
 | continuous-017 | 160 | 0 | 0 | running | 0 |
-| continuous-018 | 160 | 0 | 0 | selected | 0 |
+| continuous-018 | 160 | 0 | 0 | running | 0 |
+| continuous-019 | 160 | 0 | 0 | selected | 0 |
 
 ## Resume
 

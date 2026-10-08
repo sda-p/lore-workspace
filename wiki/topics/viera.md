@@ -18,6 +18,13 @@ Source: [The Moon, part 4, how it influences Earth’s Matrix, shady things and 
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Galactic Federation](galactic-federation.md).
 
+## Claims filed under other topics
+
+- [src-45558fcded2a-c01](galactic-federation.md#src-45558fcded2a-c01) — Galactic Federation
+- [src-45558fcded2a-c02](galactic-federation.md#src-45558fcded2a-c02) — Galactic Federation
+
 ## Review flags
 
+- forecast-in-retrospect
 - lunar-reactor-age-origin-uncertainty
+- unverified-contact-claims

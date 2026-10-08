@@ -1,0 +1,108 @@
+{
+  "source_id": "src-97cfd0c56ade",
+  "snapshot_sha256": "7049bc99488bad647cecf1bf16a28c5cc50583817ea013ce96599b684a89a920",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-97cfd0c56ade-c01",
+      "assertion": "Mari says Orion ships were officially described as diplomatic witnesses, not an invasion force, though her group suspects other intentions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-council"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-97cfd0c56ade-c02",
+      "assertion": "She says Etorthans met Earth leaders in Antarctica by hologram and audited media, AI, climate, resources, health, food, governance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "etorthans"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-97cfd0c56ade-c03",
+      "assertion": "Mari says the Urmah refused Etorthan inspections, demanding answers and warning coercion would constitute an act of war.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation",
+        "etorthans"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-97cfd0c56ade-c04",
+      "assertion": "She reports Queen Alenym rejected in-person and remote meetings, offering video conference only after council consensus.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alcyone-council",
+        "etorthans"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-97cfd0c56ade-c05",
+      "assertion": "Mari says Etorthans have no genders; their second-in-command delegated duties while sick.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "orion-council",
+      "name": "Orion Council",
+      "kind": "polity",
+      "aliases": [
+        "Orion Council races"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unverified-contact-claims"
+  ],
+  "coverage_gaps": [
+    "independent-corroboration"
+  ]
+}

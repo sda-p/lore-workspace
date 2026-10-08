@@ -1,0 +1,98 @@
+{
+  "source_id": "src-af94d1557c05",
+  "snapshot_sha256": "ac3c9eb270690954938d21959aa81c1ab42d6aaba89ad1a582f99a6aed17cf1a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-af94d1557c05-c01",
+      "assertion": "Mari uses “entity” broadly but, in paranormal contexts, for unknown lower-astral beings with regressive tendencies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af94d1557c05-c02",
+      "assertion": "Mari defines demons as dangerous negative entities and describes them as hierarchically organized.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af94d1557c05-c03",
+      "assertion": "Mari says collective religious beliefs can manifest distinct existential realms inhabited by souls and entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af94d1557c05-c04",
+      "assertion": "Mari says postmortem awareness depends on a soul’s values and vibration; expanded consciousness can transform, rather than erase, identity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af94d1557c05-c05",
+      "assertion": "Mari speculates that comfortable souls may reincarnate to seek experience and further expansion.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative"
+  ],
+  "coverage_gaps": [
+    "religion as social control"
+  ]
+}

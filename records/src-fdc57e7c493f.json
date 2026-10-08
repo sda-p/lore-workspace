@@ -1,0 +1,49 @@
+{
+  "source_id": "src-fdc57e7c493f",
+  "snapshot_sha256": "13c315d63212f55b24e13f7175feb1e3b513b5dd495dc2bc6e03b58b439d01c0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fdc57e7c493f-c01",
+      "assertion": "Gosia describes Earth’s wage system as a cycle that consumes time for basic needs; Swaruu contrasts it with Taygetan support for preferred work.",
+      "speaker": "Gosia and Swaruu de Erra",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0031",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fdc57e7c493f-c02",
+      "assertion": "Swaruu says Taygetans can build large starships because their society does not require payment for that work.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0056",
+        "p0060"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

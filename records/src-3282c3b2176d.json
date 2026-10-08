@@ -1,0 +1,97 @@
+{
+  "source_id": "src-3282c3b2176d",
+  "snapshot_sha256": "11be8f435bfb29349070111f23f0f4ffba1577edc050e800e502cb480e0ebeef",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3282c3b2176d-c01",
+      "assertion": "Dhor Káal’el credits reverse engineering with materials, microprocessors, frequency controls, gravity and inertia cancellation, and medical pods.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0013",
+        "p0025",
+        "p0026",
+        "p0029"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3282c3b2176d-c02",
+      "assertion": "Dhor says immersive training can transfer skills; three weeks of practice inside may feel like seconds outside.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0035",
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3282c3b2176d-c03",
+      "assertion": "Dhor says only the elite Sand Clock squad uses timeline-travel ships, unlike most of Taygeta’s fleet.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "sand-clock",
+      "topics": [
+        "sand-clock",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3282c3b2176d-c04",
+      "assertion": "Dhor says hyperspace jumps can begin from rest; crews use plasma propulsion near destinations for safe navigation.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "dhor-kaalel",
+      "name": "Dhor Káal’el",
+      "kind": "character",
+      "aliases": [
+        "Dhor Káal’el",
+        "Dhor Kaalel"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

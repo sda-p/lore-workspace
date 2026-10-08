@@ -1,0 +1,63 @@
+{
+  "source_id": "src-52bbf3ffc87a",
+  "snapshot_sha256": "a7a675614a60d99e5a86efc57e7e5f56deb3538dbf9efb528fd5b5658d4016d9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-52bbf3ffc87a-c01",
+      "assertion": "Swaruu of Erra links personal frequency to consciousness and says thoughts and resulting emotions shift it.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-52bbf3ffc87a-c02",
+      "assertion": "Swaruu says Taygetans learn meditation in childhood, using comfortable posture and sometimes music or crystals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0076",
+        "p0077",
+        "p0078",
+        "p0079",
+        "p0081"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-52bbf3ffc87a-c03",
+      "assertion": "Swaruu describes crystals as conscious beings whose aura can reinforce a person’s frequency through constructive interference.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0065"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

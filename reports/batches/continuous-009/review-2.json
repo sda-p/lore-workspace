@@ -1,0 +1,381 @@
+{
+  "batch_id": "continuous-009",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-a36a4b8ec897",
+    "src-af7fe8f320b2",
+    "src-30d632b02db6",
+    "src-07494ef21f67",
+    "src-34a3e2e798ce",
+    "src-6d38ac5d0290",
+    "src-89700ee6bd1c",
+    "src-261f583f3783",
+    "src-b781192c3a3d",
+    "src-a02ed53897bc",
+    "src-07e69a604c97",
+    "src-50e2b0a4c4db",
+    "src-56d295c20b53",
+    "src-01313e3b257d",
+    "src-2c37577fd6a4",
+    "src-6d309d4db045",
+    "src-4f613755089f",
+    "src-84ca52f59faa",
+    "src-9f11dae98ad6",
+    "src-609b0994ee96",
+    "src-42ef2a1bb92f",
+    "src-b2a05f16c59d",
+    "src-f28ef31d9222",
+    "src-aadfaf12666d",
+    "src-110444c31179",
+    "src-0ebe98700e9f",
+    "src-9c4e856e01e8",
+    "src-af4500c882ec",
+    "src-d47a3308dd27",
+    "src-d545f32c2086",
+    "src-55cede2bb2d1",
+    "src-3f1db6ee307b",
+    "src-a5ad7ee224b0",
+    "src-fd364b9ee561",
+    "src-3d4d92e12f44",
+    "src-3ea817d6282d",
+    "src-dafa77b48f2e",
+    "src-db3d6f050be0",
+    "src-cff930fb7cbd",
+    "src-28ddf6479cea",
+    "src-667e6da8febb",
+    "src-729c2f64ccf5",
+    "src-5ee43e47632e",
+    "src-a4e838c75ab3",
+    "src-834f9cdfbb00",
+    "src-355f9b0040fe",
+    "src-c868ee942b53",
+    "src-faff88963391",
+    "src-149a920c9a41",
+    "src-76f0d99f4008",
+    "src-b77d9fd5db08",
+    "src-5a5582a387e3",
+    "src-2cf60c16f1d6",
+    "src-f16ea4c6f1ae",
+    "src-8e904c5be0ba",
+    "src-0a76aae844b1",
+    "src-8aee5e8d5c92",
+    "src-1ba260f045af",
+    "src-ebb0792f073e",
+    "src-3a84733d9846",
+    "src-2d3ac10bf2dd",
+    "src-128ec3c824ca",
+    "src-68f3cdbaf739",
+    "src-b33e4508070f",
+    "src-9f6b8fccb9d1",
+    "src-d221262cd71f",
+    "src-1285722e0e9d",
+    "src-2bd09e4280df",
+    "src-92b336dba8e9",
+    "src-06e7030559af",
+    "src-92f31dcfc4f7",
+    "src-ce90cae90fd1",
+    "src-4d14ae46991f",
+    "src-45558fcded2a",
+    "src-612967b691f8",
+    "src-ae7f46d3466c",
+    "src-554a031b6c3c",
+    "src-2a1b375479ef",
+    "src-97cfd0c56ade",
+    "src-441ff86d1886"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-30d632b02db6",
+      "claim_id": "src-30d632b02db6-c01",
+      "problem": "Claim credited a combined gravity model to Yazhi though the cited passages are attributed to Swaruu of Erra and Mari; “consciousness flow” was only partly sourced.",
+      "action": "Corrected attribution and paraphrase, citing the speaker credit and retaining only the cited etheric-flow/matter claims.",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0007"
+      ]
+    },
+    {
+      "source_id": "src-a02ed53897bc",
+      "claim_id": "src-a02ed53897bc-c05",
+      "problem": "Claim inferred that Cabal control drives souls away from Earth; the cited passages instead say people would collapse before enslavement and that the Cabal needs ensouled people.",
+      "action": "Rephrased to preserve those two source assertions without the unsupported causal claim.",
+      "paragraph_ids": [
+        "p0023",
+        "p0027",
+        "p0028"
+      ]
+    },
+    {
+      "source_id": "src-01313e3b257d",
+      "claim_id": "src-01313e3b257d-c05",
+      "problem": "Added an unsupported “without requiring suffering” connection to quantum change.",
+      "action": "Replaced it with the source-supported advice that changing mentality/environment and removing toxic people can improve circumstances.",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0033",
+        "p0034"
+      ]
+    },
+    {
+      "source_id": "src-56d295c20b53",
+      "claim_id": "src-56d295c20b53-c02",
+      "problem": "Qualifier added an unsupported evaluator verdict rather than source-stated uncertainty.",
+      "action": "Removed “unverified conspiracy claim” while retaining source attribution.",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-56d295c20b53",
+      "claim_id": "src-56d295c20b53-c03",
+      "problem": "Paraphrase weakened “most” to “many”; qualifier added an evaluator verdict.",
+      "action": "Restored “most” and removed truth-status qualifier, keeping attribution.",
+      "paragraph_ids": [
+        "p0030"
+      ]
+    },
+    {
+      "source_id": "src-56d295c20b53",
+      "claim_id": "src-56d295c20b53-c04",
+      "problem": "“Alleged” introduced evaluator uncertainty not present in the source.",
+      "action": "Rephrased as Mari’s attributed account, preserving the stated responsibility split.",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ]
+    },
+    {
+      "source_id": "src-b2a05f16c59d",
+      "claim_id": "src-b2a05f16c59d-c02",
+      "problem": "Evaluator qualifier (“Unverified historical claim”) outside source-fidelity scope.",
+      "action": "Removed the verdict; retained Mari’s attribution.",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0017"
+      ]
+    },
+    {
+      "source_id": "src-b2a05f16c59d",
+      "claim_id": "src-b2a05f16c59d-c05",
+      "problem": "Evaluator qualifier (“Unverified claim”) outside source-fidelity scope.",
+      "action": "Removed the verdict; retained Mari’s attribution.",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-f28ef31d9222",
+      "claim_id": "src-f28ef31d9222-c01",
+      "problem": "Evaluator qualifier (“Unverified paranormal claim”) outside source-fidelity scope.",
+      "action": "Removed the verdict; retained Yazhi’s attribution and source-stated count.",
+      "paragraph_ids": [
+        "p0006",
+        "p0009"
+      ]
+    },
+    {
+      "source_id": "src-84ca52f59faa",
+      "claim_id": "src-84ca52f59faa-c01",
+      "problem": "The final pilot rescue anecdote had an explicit source caveat that its origin is unclear.",
+      "action": "Added a concise qualifier preserving the source’s uncertainty.",
+      "paragraph_ids": [
+        "p0013",
+        "p0017",
+        "p0018"
+      ]
+    },
+    {
+      "source_id": "src-110444c31179",
+      "claim_id": "src-110444c31179-c05",
+      "problem": "“Internal sabotage” could obscure the source’s explicit distinction: an individual within/aligned with Federation interests, but not the Federation itself, was suspected.",
+      "action": "Clarified the alleged actor and preserved the statement that Federation staff repaired the servers.",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-9c4e856e01e8",
+      "claim_id": "src-9c4e856e01e8-c01",
+      "problem": "Paraphrase understated Mari’s current conclusion that available data point toward fakes and omitted her caveat that the researcher might have stronger evidence.",
+      "action": "Restored both her current view and the source’s caveat while retaining her uncertainty about species.",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0026"
+      ]
+    },
+    {
+      "source_id": "src-af4500c882ec",
+      "claim_id": "src-af4500c882ec-c02",
+      "problem": "Generic “Unverified claim” qualifier is an evaluator verdict outside the source-fidelity scope.",
+      "action": "Removed verdict and retained Mari’s attribution.",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0017"
+      ]
+    },
+    {
+      "source_id": "src-af4500c882ec",
+      "claim_id": "src-af4500c882ec-c03",
+      "problem": "Generic “Unverified historical account” qualifier is an evaluator verdict outside source-fidelity scope.",
+      "action": "Removed verdict and retained Mari’s attribution.",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ]
+    },
+    {
+      "source_id": "src-dafa77b48f2e",
+      "claim_id": "src-dafa77b48f2e-c01",
+      "problem": "Generic “Unverified account” qualifier is an evaluator verdict outside source-fidelity scope.",
+      "action": "Removed the verdict and retained Mari’s attribution.",
+      "paragraph_ids": [
+        "p0006",
+        "p0010"
+      ]
+    },
+    {
+      "source_id": "src-28ddf6479cea",
+      "claim_id": "src-28ddf6479cea-c01",
+      "problem": "The cited passages support artificial-gravity emulation, not the stronger “antigravity” wording.",
+      "action": "Changed the paraphrase to source-supported gravity mimicry.",
+      "paragraph_ids": [
+        "p0004",
+        "p0012",
+        "p0016"
+      ]
+    },
+    {
+      "source_id": "src-834f9cdfbb00",
+      "claim_id": "src-834f9cdfbb00-c01",
+      "problem": "Generic “Unverified political claim” qualifier is an evaluator verdict outside source-fidelity scope.",
+      "action": "Removed the verdict, retaining attribution to Mari.",
+      "paragraph_ids": [
+        "p0004",
+        "p0010"
+      ]
+    },
+    {
+      "source_id": "src-c868ee942b53",
+      "claim_id": "src-c868ee942b53-c01",
+      "problem": "Original wording narrowed the source’s explicit conclusion to “spherical,” omitting its “spherical or semi-spherical” wording.",
+      "action": "Recast the claim as the supported conclusion that observations rule out a flat Earth.",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ]
+    },
+    {
+      "source_id": "src-c868ee942b53",
+      "claim_id": "src-c868ee942b53-c03",
+      "problem": "One cited passage concerned contained-system motion, not atmospheric refraction.",
+      "action": "Removed the unrelated citation and kept the direct refraction passage.",
+      "paragraph_ids": [
+        "p0020"
+      ]
+    },
+    {
+      "source_id": "src-c868ee942b53",
+      "claim_id": "src-c868ee942b53-c05",
+      "problem": "Generic “Unverified conspiracy claim” qualifier is an evaluator verdict outside source-fidelity scope.",
+      "action": "Removed the verdict while preserving the mixed-speaker attribution and citations.",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0041",
+        "p0042"
+      ]
+    },
+    {
+      "source_id": "src-5ee43e47632e",
+      "claim_id": "src-5ee43e47632e-c01",
+      "problem": "Generic “Unverified account” qualifier is an evaluator verdict outside source-fidelity scope.",
+      "action": "Removed verdict while retaining Athena’s attribution.",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ]
+    },
+    {
+      "source_id": "src-5ee43e47632e",
+      "claim_id": "src-5ee43e47632e-c03",
+      "problem": "Generic “Unverified physics claim” qualifier is an evaluator verdict outside source-fidelity scope.",
+      "action": "Removed verdict while retaining Athena’s attribution.",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0020"
+      ]
+    },
+    {
+      "source_id": "src-a4e838c75ab3",
+      "claim_id": "src-a4e838c75ab3-c01",
+      "problem": "Generic “Unverified technology claim” qualifier is an evaluator verdict outside source-fidelity scope.",
+      "action": "Removed verdict while retaining Athena’s attribution.",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "source_id": "src-faff88963391",
+      "claim_id": "src-faff88963391-c01",
+      "problem": "Generic evaluator truth-status qualifier (“Unverified biological claim”) is outside source-fidelity scope.",
+      "action": "Removed the evaluator verdict; retained Athena attribution and source wording.",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008"
+      ]
+    },
+    {
+      "source_id": "src-2cf60c16f1d6",
+      "claim_id": "src-2cf60c16f1d6-c05",
+      "problem": "“Inconsistent experiences among crews” blurred the source’s specific contrast between jumpers and people who did not time-jump with them.",
+      "action": "Narrowed the paraphrase and citation to the source’s stated difficulty for non-jumpers to understand jumpers’ accounts.",
+      "paragraph_ids": [
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-ce90cae90fd1",
+      "claim_id": "src-ce90cae90fd1-c03",
+      "problem": "The paraphrase silently normalized the source’s “University of La Lagunilla” to “University of La Laguna,” adding an entity-name correction absent from the cited text.",
+      "action": "Restored the cited source spelling in the claim.",
+      "paragraph_ids": [
+        "p0030"
+      ]
+    },
+    {
+      "source_id": "src-97cfd0c56ade",
+      "claim_id": "src-97cfd0c56ade-c01",
+      "problem": "The claim omitted the source’s qualification that the diplomatic description was official and the group remained suspicious of other intentions.",
+      "action": "Restored the official-status caveat and Mari’s stated suspicion.",
+      "paragraph_ids": [
+        "p0005"
+      ]
+    }
+  ],
+  "unresolved": []
+}

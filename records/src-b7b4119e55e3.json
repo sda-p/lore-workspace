@@ -1,0 +1,86 @@
+{
+  "source_id": "src-b7b4119e55e3",
+  "snapshot_sha256": "d77d0381960513785fa9563d0e5352f98a4c8e970da9692cb3cc19c1b8c7401e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b7b4119e55e3-c01",
+      "assertion": "Yazhi alleges Earth history and Federation records repeat falsehoods imposed by the Federation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7b4119e55e3-c02",
+      "assertion": "She speculates Earth’s culture was artificially created to feed an undisclosed nonhuman presence, but says she cannot verify this.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7b4119e55e3-c03",
+      "assertion": "Yazhi says Mari’s Matrix research and Athena’s date calculations raised suspicions; Taygetans and Urmah are investigating without firm evidence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0019",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7b4119e55e3-c04",
+      "assertion": "She says falsifying multiple planets’ histories is harder because each culture keeps records and experiences time differently.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "historical-conspiracy-claims",
+    "incomplete-investigation"
+  ],
+  "coverage_gaps": [
+    "no-confirming-data"
+  ]
+}

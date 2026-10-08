@@ -286,6 +286,88 @@ Source: [The Astral. (English)](https://swaruu.org/transcripts/the-astral-englis
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-34a3e2e798ce-c05
+
+She says places associated with suffering can attract lower-astral activity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Ghosts, Apparitions and Hauntings, Part 2. (English)](https://swaruu.org/transcripts/ghosts-apparitions-and-hauntings-part-2-english) (2023-09-17; en); passages p0002, p0030, p0031, p0032, p0033, p0034. [Structured record](../../records/src-34a3e2e798ce.json).
+
+### src-55cede2bb2d1-c03
+
+She says entities cannot enter homes without direct consent.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Monitoring Spirits. Part 2 (English)](https://swaruu.org/transcripts/monitoring-spirits-part-2-english) (2024-04-01; en); passages p0002, p0018, p0019, p0020, p0021, p0022. [Structured record](../../records/src-55cede2bb2d1.json).
+
+### src-55cede2bb2d1-c04
+
+She warns that accepting cohabitation agreements may expose residents to manipulation.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Monitoring Spirits. Part 2 (English)](https://swaruu.org/transcripts/monitoring-spirits-part-2-english) (2024-04-01; en); passages p0002, p0021, p0022, p0023. [Structured record](../../records/src-55cede2bb2d1.json).
+
+### src-0a76aae844b1-c04
+
+Portals shift only entrants and may be one-way; coded muon pulses transmit position-time data.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Basic Principles for Real Time Travel, Third Part. Starships (English)](https://swaruu.org/transcripts/basic-principles-for-real-time-travel-third-part-starships-english) (2024-02-08; en); passages p0015, p0019, p0020. [Structured record](../../records/src-0a76aae844b1.json).
+
+Related topics: [Muonic galactic AI network](muonic-galactic-ai-network.md).
+
+### src-2a1b375479ef-c01
+
+Swaruu (9) claims Baghdad Museum cellars held three mainly Elohi portals, two operational and one inoperative, though the count was unverified.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: low.
+
+Source: [Iraq War - Real Reasons - Extraterrestrial Portals - Swaruu of Erra](https://swaruu.org/transcripts/iraq-war-real-reasons-extraterrestrial-portals-swaruu-of-erra) (2023-08-23; en); passages p0014. [Structured record](../../records/src-2a1b375479ef.json).
+
+Related topics: [Elohi](elohi.md).
+
+### src-2a1b375479ef-c02
+
+She relays witnesses’ claims that large metal ring portals were removed by convoy from the museum and flown out.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: low.
+
+Source: [Iraq War - Real Reasons - Extraterrestrial Portals - Swaruu of Erra](https://swaruu.org/transcripts/iraq-war-real-reasons-extraterrestrial-portals-swaruu-of-erra) (2023-08-23; en); passages p0015, p0016. [Structured record](../../records/src-2a1b375479ef.json).
+
+Related topics: [Elohi](elohi.md).
+
+### src-2a1b375479ef-c03
+
+Swaruu says the rings resemble Stargate devices but does not know whether they work.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: low.
+
+Source: [Iraq War - Real Reasons - Extraterrestrial Portals - Swaruu of Erra](https://swaruu.org/transcripts/iraq-war-real-reasons-extraterrestrial-portals-swaruu-of-erra) (2023-08-23; en); passages p0025, p0026. [Structured record](../../records/src-2a1b375479ef.json).
+
+### src-2a1b375479ef-c05
+
+Swaruu says the invasion sought archaeological records and nonhuman technology, and that a puppet government followed.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: low.
+
+Source: [Iraq War - Real Reasons - Extraterrestrial Portals - Swaruu of Erra](https://swaruu.org/transcripts/iraq-war-real-reasons-extraterrestrial-portals-swaruu-of-erra) (2023-08-23; en); passages p0010, p0013, p0028. [Structured record](../../records/src-2a1b375479ef.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-56be9f8f16bb-c03
+
+Mari reports underground portals let Reptilians bypass a Federation blockade; she says magnetic anomalies reveal activation.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reptilians and the Galactic Federation, and Positive Reptiles (English)](https://swaruu.org/transcripts/reptilians-and-the-galactic-federation-and-positive-reptiles-english) (2024-03-18; en); passages p0009. [Structured record](../../records/src-56be9f8f16bb.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -306,6 +388,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-ecee618ac78e-c03](moon-matrix.md#src-ecee618ac78e-c03) — Moon and terrestrial Matrix
 - [src-e2b6999b0e7f-c05](archons-and-demons.md#src-e2b6999b0e7f-c05) — Archons and demons
 - [src-03651da1738e-c02](orion-grays.md#src-03651da1738e-c02) — Orion Grays
+- [src-8ca54257f6a4-c05](cyndriel.md#src-8ca54257f6a4-c05) — Cyndriel
 
 ## Review flags
 
@@ -313,6 +396,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - contested\_archaeology
 - earth\_science\_claims\_unverified
 - ethical\_use\_limits
+- extraordinary-technology-claims
 - extraordinary\_archaeological\_claims
 - extraordinary\_astronomical\_claims
 - extraordinary\_claims
@@ -321,10 +405,12 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - internal\_uncertainty
 - medical-misinformation-allegation
 - metaphysical-claims
+- paranormal-claims-unverified
 - related\_series\_part
 - symbolic\_interpretations
 - third\_party\_allegations
 - translated\_source
+- unverified-historical-claims
 - unverified\_ancient\_technology\_claims
 - unverified\_archaeology
 - unverified\_biological\_claims

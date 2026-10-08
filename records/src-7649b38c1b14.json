@@ -1,0 +1,108 @@
+{
+  "source_id": "src-7649b38c1b14",
+  "snapshot_sha256": "62b9f01c0b0c419e8d040ce636e47082fb878b0b918cdd753aaac2f649b0035a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7649b38c1b14-c01",
+      "assertion": "Yazhi says doppelganger encounters occur on and off Earth, with causes and outcomes varying by case.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7649b38c1b14-c02",
+      "assertion": "She speculates natural doubles may be soul manifestations, timeline overlaps, or spontaneous portal events.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0022",
+        "p0028"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "timeline-branching"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7649b38c1b14-c03",
+      "assertion": "Yazhi says mirrored people may share identical photographs and repeated events despite different causal histories.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0042"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7649b38c1b14-c04",
+      "assertion": "She says some doubles resemble unconscious tulpas or semi-physical echoes that may vanish.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0057",
+        "p0060",
+        "p0062",
+        "p0064",
+        "p0068"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7649b38c1b14-c05",
+      "assertion": "Yazhi says mirror encounters expose weak boundaries in objective reality; physical contact may stabilize them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0066",
+        "p0071",
+        "p0072"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "perceptual-density"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific case records",
+    "causal mechanisms"
+  ]
+}

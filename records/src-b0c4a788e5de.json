@@ -1,0 +1,137 @@
+{
+  "source_id": "src-b0c4a788e5de",
+  "snapshot_sha256": "8d1d8821e5e11d6c05ec041e6b509386ec6f0459e5cb7e8eb5411f2cba54e55e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b0c4a788e5de-c01",
+      "assertion": "She says Egyptian groups left for Italy, Iberia, Ireland, and Scotland.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0c4a788e5de-c02",
+      "assertion": "She says Meritaten ruled briefly, then joined an Ireland–Scotland expedition.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0c4a788e5de-c03",
+      "assertion": "She links the post-exodus journey with the origin of Celtic culture.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0c4a788e5de-c04",
+      "assertion": "Celtic society is described as holistic; she alleges its destruction.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0028"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0c4a788e5de-c05",
+      "assertion": "She describes the Cabal as a cross-species corporation seeking Earth and expansion.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0029",
+        "p0035",
+        "p0038"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0c4a788e5de-c06",
+      "assertion": "She says morality depends on individuals, not species, and separates the Cabal from Elohi generally.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0044"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0c4a788e5de-c07",
+      "assertion": "She says the Cabal regards Egypt as key to dominion and its pyramids as portals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "ancient-egypt",
+      "name": "Ancient Egypt",
+      "kind": "historical civilization",
+      "aliases": [
+        "Egypt"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief"
+  ],
+  "coverage_gaps": [
+    "Meritaten identity and reincarnation narrative"
+  ]
+}

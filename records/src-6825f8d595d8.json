@@ -1,0 +1,111 @@
+{
+  "source_id": "src-6825f8d595d8",
+  "snapshot_sha256": "066513a169fe32a8639f435f8513ea219cb44b616d41e46c435f40b5f5fc903d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6825f8d595d8-c01",
+      "assertion": "Yazhi says she teleports a few meters to her bathroom to avoid waking fully.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "teleportation",
+      "topics": [
+        "teleportation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6825f8d595d8-c02",
+      "assertion": "Yazhi reports a cracked hip and other injuries after a wheelchair mishap; Andromedans planned frequency-laser treatment.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6825f8d595d8-c03",
+      "assertion": "Athena says a soap-skating prank by Mari and Yazhi created a cleanup hazard aboard ship.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6825f8d595d8-c04",
+      "assertion": "Athena recounts Yazhi and Sophia playing dangerously on hangar scaffolding; Anéeka raised the alarm and Hashmallim escorted them down.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0032"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6825f8d595d8-c05",
+      "assertion": "Athena says Yazhi replicated webcams to expose Taygetan surveillance drones monitoring starseeds; Taygetans say surveillance is limited to research or danger.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0045",
+        "p0047",
+        "p0049",
+        "p0051"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "teleportation",
+      "name": "Teleportation",
+      "kind": "technology",
+      "aliases": [
+        "short-range teleportation"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy"
+  ],
+  "coverage_gaps": [
+    "other anecdotes in compilation"
+  ]
+}

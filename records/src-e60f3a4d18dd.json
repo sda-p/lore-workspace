@@ -1,0 +1,65 @@
+{
+  "source_id": "src-e60f3a4d18dd",
+  "snapshot_sha256": "0e5f269c1aa1e6c22548838be82388ba82cdfffec73c7ad6b50a5afce8b36318",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e60f3a4d18dd-c01",
+      "assertion": "Swaruu describes 5D as a state of consciousness rather than a material place; she says its perception includes 3D.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0024"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e60f3a4d18dd-c02",
+      "assertion": "Swaruu says 5D senses are heightened and include telepathy and stronger empathy toward other beings.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e60f3a4d18dd-c03",
+      "assertion": "Swaruu says 3D is a training experience for directing manifestation, while 5D residents are more aligned with Source.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

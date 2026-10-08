@@ -783,5 +783,97 @@
     "aliases": [
       "large-nosed Grays"
     ]
+  },
+  {
+    "id": "elohi",
+    "name": "Elohi",
+    "kind": "species",
+    "aliases": [
+      "Elohim"
+    ]
+  },
+  {
+    "id": "alfrata",
+    "name": "Alfrata (Phaeton)",
+    "kind": "location",
+    "aliases": [
+      "Phaeton",
+      "planet Alfrata"
+    ]
+  },
+  {
+    "id": "astral-military-units",
+    "name": "Astral military units",
+    "kind": "organization",
+    "aliases": [
+      "astral soldiers",
+      "astral special forces"
+    ]
+  },
+  {
+    "id": "procyon",
+    "name": "Planet Procyon",
+    "kind": "location",
+    "aliases": [
+      "Procyon"
+    ]
+  },
+  {
+    "id": "collective-timeline-influence",
+    "name": "Collective timeline influence",
+    "kind": "phenomenon",
+    "aliases": [
+      "timeline influence"
+    ]
+  },
+  {
+    "id": "walk-in-phenomenon",
+    "name": "Walk-in phenomenon",
+    "kind": "cosmology",
+    "aliases": [
+      "walk-ins",
+      "walk-in souls"
+    ]
+  },
+  {
+    "id": "urmah-federation",
+    "name": "Urmah Federation",
+    "kind": "faction",
+    "aliases": [
+      "Urmah Federation"
+    ]
+  },
+  {
+    "id": "orion-council",
+    "name": "Orion Council",
+    "kind": "polity",
+    "aliases": [
+      "Orion Council races"
+    ]
+  },
+  {
+    "id": "saturn-bases",
+    "name": "Saturnian orbital bases",
+    "kind": "location",
+    "aliases": [
+      "Saturn bases",
+      "ring bases"
+    ]
+  },
+  {
+    "id": "saturn-fauna",
+    "name": "Saturnian atmospheric fauna",
+    "kind": "species",
+    "aliases": [
+      "floating Saturnian fauna"
+    ]
+  },
+  {
+    "id": "total-immersion-simulations",
+    "name": "Total-immersion simulations",
+    "kind": "technology",
+    "aliases": [
+      "full immersion simulation"
+    ]
   }
 ]

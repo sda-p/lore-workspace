@@ -1,0 +1,97 @@
+{
+  "source_id": "src-eaeca76aac30",
+  "snapshot_sha256": "8684fd399a8979f6d224dab2e5eec6f4d7aeeea8f53fa1245b3d05d625124393",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-eaeca76aac30-c01",
+      "assertion": "Mari frames her discussion on the assumption that reincarnation exists.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eaeca76aac30-c02",
+      "assertion": "Mari says interstellar populations remember past lives more often than humans on Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eaeca76aac30-c03",
+      "assertion": "Mari describes the biological body as a consciousness filter limiting awareness to material experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "lyrian-cellular-body",
+      "topics": [
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eaeca76aac30-c04",
+      "assertion": "Mari reports psychics’ view that higher selves plan incarnations, then argues incarnated selves lack equal knowledge or meaningful consent.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eaeca76aac30-c05",
+      "assertion": "Mari calls the higher-self arrangement ethically abusive and urges people to expand awareness and agency while alive.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s"
+  ],
+  "coverage_gaps": [
+    "other cultures and evidence claims"
+  ]
+}

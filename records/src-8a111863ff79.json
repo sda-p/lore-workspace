@@ -1,0 +1,96 @@
+{
+  "source_id": "src-8a111863ff79",
+  "snapshot_sha256": "05a03b3567c5d96ea7537169f65f458b304b2c2022fcf932988f36191f0f99d4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8a111863ff79-c01",
+      "assertion": "Mari describes Taygetan military as large, highly trained, ethical, and willing to use lethal force when needed.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a111863ff79-c02",
+      "assertion": "Mari says Taygetan forces use ranks and command hierarchy, while training members to think and protect life.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a111863ff79-c03",
+      "assertion": "Mari argues military hierarchy enables rapid action during threats, when collective councils are too slow.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a111863ff79-c04",
+      "assertion": "Mari says advanced human-Lyrian societies can fall to invasive forces despite high-vibration beliefs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a111863ff79-c05",
+      "assertion": "Mari attributes the Saska 1–Alcyone collision to untested replacement sensors and communication failures between civilian maintenance and military crews.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete"
+  ],
+  "coverage_gaps": [
+    "detailed military organization and ranks"
+  ]
+}

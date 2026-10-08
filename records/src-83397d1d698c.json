@@ -1,0 +1,97 @@
+{
+  "source_id": "src-83397d1d698c",
+  "snapshot_sha256": "7d3e55e63d22de9ee2ff4a4464a534d2d92ff1dee6096aabf09a596ef02ea5fa",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-83397d1d698c-c01",
+      "assertion": "Mari says the Alcyone Council–Urmah treaty was a legal cooperation pact among Federation members, including defense, trade, and technology.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0013"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83397d1d698c-c02",
+      "assertion": "Mari reports the Federation anonymously asked whether the treaty declared war, with replies routed through Viera headquarters.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83397d1d698c-c03",
+      "assertion": "Mari says Antaria sought entry; Alcyone Council convened a meeting to discuss legal and practical terms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83397d1d698c-c04",
+      "assertion": "Mari reports Alfratan representatives challenged the treaty and monopolized council discussion; Ruhr ended the meeting.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83397d1d698c-c05",
+      "assertion": "Mari characterizes the alliance as protection against unknown threats and says it remains open to other races.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear"
+  ],
+  "coverage_gaps": [
+    "second Antaria meeting outcome"
+  ]
+}

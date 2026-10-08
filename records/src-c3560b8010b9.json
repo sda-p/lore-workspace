@@ -1,0 +1,130 @@
+{
+  "source_id": "src-c3560b8010b9",
+  "snapshot_sha256": "d05534f92ac0d2460948c46eb551363ba95830020af1747a97eeab3dcade60f4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c3560b8010b9-c01",
+      "assertion": "Gosia says good and evil vary with perspective and human impact.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3560b8010b9-c02",
+      "assertion": "Many stellar groups are benevolent; some remain passive toward Earth suffering.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3560b8010b9-c03",
+      "assertion": "Gosia says the Federation may allow conflict to spur human development despite harm to immediate human interests.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3560b8010b9-c04",
+      "assertion": "Gosia alleges regressive Reptilian, Draco, and Grey factions manipulate Earth with secret societies.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3560b8010b9-c05",
+      "assertion": "Gosia says not all Reptilians or Greys are regressive.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3560b8010b9-c06",
+      "assertion": "Some Tall Whites are described as half-regressive and reportedly cooperate with Earth militaries.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0036"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c3560b8010b9-c07",
+      "assertion": "Gosia says regressive groups prefer covert exploitation to overt invasion.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent"
+  ],
+  "coverage_gaps": [
+    "individual named species profiles deferred to next class"
+  ]
+}

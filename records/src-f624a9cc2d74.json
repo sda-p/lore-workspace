@@ -1,0 +1,99 @@
+{
+  "source_id": "src-f624a9cc2d74",
+  "snapshot_sha256": "6db37896c458229a6d2cfd2afd31cfe3fe21559fd8a96184b9d0b62bfdcdfc9b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f624a9cc2d74-c01",
+      "assertion": "Mari says extraterrestrial phenomena can also be interdimensional, with degree varying by culture and perception.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f624a9cc2d74-c02",
+      "assertion": "She says sentient perception creates personal realities, while shared agreements produce common realms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f624a9cc2d74-c03",
+      "assertion": "Isolated intelligent species may inhabit distinct densities; shared species traits and collective unconscious align perceptions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f624a9cc2d74-c04",
+      "assertion": "Mari says faster-than-light ships cross dimensions technologically, while some beings shift without technology.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f624a9cc2d74-c05",
+      "assertion": "She says the Galactic Federation synchronizes member consciousness, extending a shared Matrix beyond Earth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "species examples",
+    "travel mechanism details"
+  ]
+}

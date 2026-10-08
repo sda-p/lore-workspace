@@ -41,6 +41,7 @@
       "speaker": "Athena Swaruu",
       "paragraph_ids": [
         "p0022",
+        "p0023",
         "p0024"
       ],
       "primary_topic": "suzy-fighter-craft",
@@ -99,9 +100,10 @@
     },
     {
       "id": "src-f4849bf7aa2d-c07",
-      "assertion": "Athena Swaruu says Suzy AI corrects a blackout course.",
+      "assertion": "Athena says the AI corrects the ship’s track if the pilot falls asleep or blacks out.",
       "speaker": "Athena Swaruu",
       "paragraph_ids": [
+        "p0067",
         "p0068"
       ],
       "primary_topic": "suzy-fighter-craft",

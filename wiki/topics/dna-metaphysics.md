@@ -36,6 +36,16 @@ Attributed to **Yazhi**; reported; extraction confidence: high.
 
 Source: [DNA - Registry of Who We Are - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dna-registry-of-who-we-are-questions-from-the-public-yazhi-swaruu) (2023-03-26; en); passages p0048, p0050, p0052. [Structured record](../../records/src-31e1b41b8c15.json).
 
+### src-09dea9adfb59-c04
+
+She claims experience gradually alters DNA as a record or memory.
+
+Attributed to **Yazhi**; asserted; extraction confidence: low.
+
+Source: [Buddha and Enlightenment - Can it be Reached? Yazhi Swaruu](https://swaruu.org/transcripts/buddha-and-enlightenment-can-it-be-reached-yazhi-swaruu) (2023-10-05; en); passages p0014. [Structured record](../../records/src-09dea9adfb59.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-31e1b41b8c15-c01](consciousness-metaphysics.md#src-31e1b41b8c15-c01) — Consciousness and metaphysics
@@ -44,4 +54,6 @@ Source: [DNA - Registry of Who We Are - Questions from the Public - Yazhi Swaruu
 
 ## Review flags
 
+- historical-uncertainty
 - medical\_claims\_unverified
+- metaphysical-model

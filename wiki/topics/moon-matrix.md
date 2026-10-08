@@ -1092,6 +1092,62 @@ Source: [Orion Mothership entering Earth? NOTHING is happening - Yazhi Swaruu](h
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-2d000b01da1d-c01
+
+Mari says religions shape collective beliefs and can reinforce an Earth Matrix.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Religions and Lower Astral Entities, and why it works against some of them (English)](https://swaruu.org/transcripts/religions-and-lower-astral-entities-and-why-it-works-against-some-of-them-english) (2023-10-31; en); passages p0002, p0003, p0004, p0005, p0006, p0013. [Structured record](../../records/src-2d000b01da1d.json).
+
+### src-2dc01b1ead9f-c02
+
+Swaruu says actions in Earth’s duality provoke opposites, while military liberation could reproduce conflict.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Swaruu of Erra and Yazhi Swaruu - Metaphysical Chats](https://swaruu.org/transcripts/swaruu-of-erra-and-yazhi-swaruu-metaphysical-chats) (2023-10-17; en); passages p0015, p0016, p0018, p0019. [Structured record](../../records/src-2dc01b1ead9f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2dc01b1ead9f-c04
+
+Yazhi says people collectively choose Earth’s experience and may leave when they tire of it.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Swaruu of Erra and Yazhi Swaruu - Metaphysical Chats](https://swaruu.org/transcripts/swaruu-of-erra-and-yazhi-swaruu-metaphysical-chats) (2023-10-17; en); passages p0051, p0058, p0059, p0062, p0063. [Structured record](../../records/src-2dc01b1ead9f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1d3b676b5336-c01
+
+Za’el says imposed perceptions can restrict people to narrow, self-serving versions of reality.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Mind Control, Training and Programation over Humanity](https://swaruu.org/transcripts/mind-control-training-and-programation-over-humanity) (2023-08-31; en); passages p0009, p0010, p0011. [Structured record](../../records/src-1d3b676b5336.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-58d43415bb30-c04
+
+Mari portrays Earth as an isolated island whose inhabitants are shielded from broader human space traffic.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Starships and why many look so human, and Earth as an Isolated Island (English)](https://swaruu.org/transcripts/on-starships-and-why-many-look-so-human-and-earth-as-an-isolated-island-english) (2024-01-22; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-58d43415bb30.json).
+
+### src-2bd09e4280df-c03
+
+Yazhi says all realities are a structured Matrix, not only Earth’s 3D.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu talks with Rich - Metaphysical Conversation from 2021](https://swaruu.org/transcripts/yazhi-swaruu-talks-with-rich-metaphysical-conversation-from-2021) (2024-03-31; en); passages p0012, p0013, p0018. [Structured record](../../records/src-2bd09e4280df.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -1127,6 +1183,14 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-ac1ba0859491-c02](moon-biosphere-ship.md#src-ac1ba0859491-c02) — The Moon as a biosphere ship
 - [src-ac1ba0859491-c03](moon-biosphere-ship.md#src-ac1ba0859491-c03) — The Moon as a biosphere ship
 - [src-ac1ba0859491-c04](moon-biosphere-ship.md#src-ac1ba0859491-c04) — The Moon as a biosphere ship
+- [src-1aaa84ea5a0d-c01](earth-cabal.md#src-1aaa84ea5a0d-c01) — Earth Cabal and power structures
+- [src-1aaa84ea5a0d-c02](earth-cabal.md#src-1aaa84ea5a0d-c02) — Earth Cabal and power structures
+- [src-1aaa84ea5a0d-c03](earth-cabal.md#src-1aaa84ea5a0d-c03) — Earth Cabal and power structures
+- [src-1aaa84ea5a0d-c04](earth-cabal.md#src-1aaa84ea5a0d-c04) — Earth Cabal and power structures
+- [src-1aaa84ea5a0d-c05](earth-cabal.md#src-1aaa84ea5a0d-c05) — Earth Cabal and power structures
+- [src-0a9c03921995-c01](earth-cabal.md#src-0a9c03921995-c01) — Earth Cabal and power structures
+- [src-4936c3c90ef9-c01](earth-cabal.md#src-4936c3c90ef9-c01) — Earth Cabal and power structures
+- [src-4936c3c90ef9-c02](earth-cabal.md#src-4936c3c90ef9-c02) — Earth Cabal and power structures
 
 ## Review flags
 

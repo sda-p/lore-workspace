@@ -334,6 +334,52 @@ Source: [Taygetan Star Ship private rooms and Toilets](https://swaruu.org/transc
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-3c7459286bbe-c05
+
+Yazhi says advanced replicators can form matter from ether, while some remain incomplete.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Mini Topics - Information from Extraterrestrial People - Taygeta, Pleiades](https://swaruu.org/transcripts/mini-topics-information-from-extraterrestrial-people-taygeta-pleiades) (2023-08-30; en); passages p0130, p0131, p0132, p0134, p0136, p0137. [Structured record](../../records/src-3c7459286bbe.json).
+
+### src-afb0e2b3295c-c04
+
+She alleges advanced technologies already exist on Earth but are withheld from the public.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Technology and why I cannot share More Details (English)](https://swaruu.org/transcripts/technology-and-why-i-cannot-share-more-details-english) (2024-03-25; en); passages p0002, p0012, p0013. [Structured record](../../records/src-afb0e2b3295c.json).
+
+### src-b781192c3a3d-c01
+
+Athena describes a reactor core of 12 nested quartz toroids, with AI-managed gravity and electromagnetic fields controlling output.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 4 - Extraterrestrial Engineering - Reactors/Plasma Engines (Taygeta - Pleiades)](https://swaruu.org/transcripts/interstellar-life-4-extraterrestrial-engineering-reactors-plasma-engines-taygeta-pleiades) (2023-11-07; en); passages p0015, p0019, p0020. [Structured record](../../records/src-b781192c3a3d.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-28ddf6479cea-c04
+
+She distinguishes crystal-based Taygetan reactors from mercury-based plasma turbines and withholds formulas under Federation rules.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Anti-Gravity, Enriched Mercury, and more - Extraterrestrial Tech - Yazhi Swaruu](https://swaruu.org/transcripts/anti-gravity-enriched-mercury-and-more-extraterrestrial-tech-yazhi-swaruu) (2023-11-11; en); passages p0017, p0041, p0042. [Structured record](../../records/src-28ddf6479cea.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-b77d9fd5db08-c05
+
+Mari says advanced societies use sound frequencies for healing, favoring classical music and quality speakers.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Audio and Music Conspiracy Detected (English)](https://swaruu.org/transcripts/audio-and-music-conspiracy-detected-english) (2023-10-07; en); passages p0020, p0024. [Structured record](../../records/src-b77d9fd5db08.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -364,6 +410,9 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-ac1ba0859491-c03](moon-biosphere-ship.md#src-ac1ba0859491-c03) — The Moon as a biosphere ship
 - [src-ac1ba0859491-c04](moon-biosphere-ship.md#src-ac1ba0859491-c04) — The Moon as a biosphere ship
 - [src-3182af03be61-c02](taygetan-wireless-power-grid.md#src-3182af03be61-c02) — Taygetan wireless power grid
+- [src-b781192c3a3d-c03](starship-systems.md#src-b781192c3a3d-c03) — Starship systems
+- [src-28ddf6479cea-c01](gravity-harmonics.md#src-28ddf6479cea-c01) — Gravity harmonics
+- [src-28ddf6479cea-c03](starship-systems.md#src-28ddf6479cea-c03) — Starship systems
 
 ## Review flags
 
@@ -380,16 +429,20 @@ Related topics: [Starship systems](starship-systems.md).
 - extraordinary\_metaphysical\_claims
 - extraordinary\_physics\_claims
 - extraordinary\_technology\_claims
+- historical-claims-unverified
 - internal\_uncertainty
 - lunar-reactor-age-origin-uncertainty
+- medical-claims-unverified
 - metaphysical-claims
 - nuclear\_science\_misinformation
 - prior\_statement\_conflict
 - starlink-observation-scope-ambiguity
+- technology\_claims
 - transport\_safety\_and\_policy\_claims\_unverified
 - unverified\_ancient\_technology\_claims
 - unverified\_biological\_claims
 - unverified\_energy\_claims
+- unverified\_frequency\_claims
 - unverified\_geophysical\_claims
 - unverified\_lunar\_claims
 - unverified\_lunar\_technology

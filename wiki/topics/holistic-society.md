@@ -808,6 +808,302 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/transcripts/za-el-and-arien-new-friends-in-star-ship-toleka) (2023-03-01; en); passages p0004. [Structured record](../../records/src-3e47a84b5581.json).
 
+### src-d9efe19e10ad-c01
+
+Mari describes holistic societies as largely governmentless, relying on advanced personal ethics. Her speculative societal model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [How to Control Society on Earth, and more about Holistic Society (English)](https://swaruu.org/transcripts/how-to-control-society-on-earth-and-more-about-holistic-society-english) (2023-11-04; en); passages p0002, p0005, p0007, p0010. [Structured record](../../records/src-d9efe19e10ad.json).
+
+### src-d9efe19e10ad-c02
+
+She says members are educated to lead and contribute through personally chosen work.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [How to Control Society on Earth, and more about Holistic Society (English)](https://swaruu.org/transcripts/how-to-control-society-on-earth-and-more-about-holistic-society-english) (2023-11-04; en); passages p0002, p0008. [Structured record](../../records/src-d9efe19e10ad.json).
+
+### src-d9efe19e10ad-c03
+
+Mari links holistic society with abundance and reduced concern over resource scarcity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [How to Control Society on Earth, and more about Holistic Society (English)](https://swaruu.org/transcripts/how-to-control-society-on-earth-and-more-about-holistic-society-english) (2023-11-04; en); passages p0002, p0009, p0010. [Structured record](../../records/src-d9efe19e10ad.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-d9efe19e10ad-c04
+
+She says Earth’s scarcity and survival pressures enable unethical people to gain political power.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [How to Control Society on Earth, and more about Holistic Society (English)](https://swaruu.org/transcripts/how-to-control-society-on-earth-and-more-about-holistic-society-english) (2023-11-04; en); passages p0002, p0012, p0013. [Structured record](../../records/src-d9efe19e10ad.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-7ffa03537463-c02
+
+She advises setting boundaries and declining gatherings that undermine personal values.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Surviving the Holidays, for Star Seeds (English)](https://swaruu.org/transcripts/surviving-the-holidays-for-star-seeds-english) (2023-12-16; en); passages p0002, p0021, p0022, p0030, p0032. [Structured record](../../records/src-7ffa03537463.json).
+
+### src-7ffa03537463-c03
+
+Mari says arguing about expansive beliefs rarely changes others’ minds.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Surviving the Holidays, for Star Seeds (English)](https://swaruu.org/transcripts/surviving-the-holidays-for-star-seeds-english) (2023-12-16; en); passages p0002, p0024, p0025, p0026. [Structured record](../../records/src-7ffa03537463.json).
+
+### src-7ffa03537463-c04
+
+She recommends protecting one’s energy and avoiding disclosure to people considered toxic.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Surviving the Holidays, for Star Seeds (English)](https://swaruu.org/transcripts/surviving-the-holidays-for-star-seeds-english) (2023-12-16; en); passages p0002, p0027, p0028. [Structured record](../../records/src-7ffa03537463.json).
+
+### src-ff24151e015d-c05
+
+Mari recommends avoiding alcohol and choosing other activities.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stop Drinking Alcohol (English)](https://swaruu.org/transcripts/stop-drinking-alcohol-english) (2023-10-11; en); passages p0002, p0029, p0030. [Structured record](../../records/src-ff24151e015d.json).
+
+### src-d545f32c2086-c05
+
+Mari says mutual cooperation remains central to holistic society despite self-reliance.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Why is the Galactic Federation so permissive towards all what causes humanity's problems? (English)](https://swaruu.org/transcripts/why-is-the-galactic-federation-so-permissive-towards-all-what-causes-humanity-s-problems-english) (2023-09-23; en); passages p0002, p0028. [Structured record](../../records/src-d545f32c2086.json).
+
+### src-cff930fb7cbd-c03
+
+Mari says nested councils govern regions and allow residents to volunteer in deliberations.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Society in Taygeta, Structure. (English)](https://swaruu.org/transcripts/society-in-taygeta-structure-english) (2023-10-01; en); passages p0002, p0011. [Structured record](../../records/src-cff930fb7cbd.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-cff930fb7cbd-c04
+
+She estimates 38 million residents across five worlds and says resources are abundant without money.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Society in Taygeta, Structure. (English)](https://swaruu.org/transcripts/society-in-taygeta-structure-english) (2023-10-01; en); passages p0002, p0012, p0013, p0014, p0015. [Structured record](../../records/src-cff930fb7cbd.json).
+
+Related topics: [Economics and resources](economics.md), [Taygetans](taygetans.md).
+
+### src-cff930fb7cbd-c05
+
+Mari says community work, schooling, and military service are generally voluntary.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Society in Taygeta, Structure. (English)](https://swaruu.org/transcripts/society-in-taygeta-structure-english) (2023-10-01; en); passages p0002, p0018, p0020, p0022, p0025. [Structured record](../../records/src-cff930fb7cbd.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-faff88963391-c03
+
+Yazhi describes Taygetan politics and social structures as more female-led. Speaker generalizes about gender roles.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Taygeta - Gender Roles, Fallen Angels, and more - MINITOPICS (Extraterrestrial Information)](https://swaruu.org/transcripts/taygeta-gender-roles-fallen-angels-and-more-minitopics-extraterrestrial-information) (2024-01-17; en); passages p0022, p0024, p0025. [Structured record](../../records/src-faff88963391.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-faff88963391-c04
+
+She says Taygetan social roles emphasize complementary strengths and interests. Speaker generalizes about gender roles.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Taygeta - Gender Roles, Fallen Angels, and more - MINITOPICS (Extraterrestrial Information)](https://swaruu.org/transcripts/taygeta-gender-roles-fallen-angels-and-more-minitopics-extraterrestrial-information) (2024-01-17; en); passages p0024, p0026, p0027, p0028, p0032. [Structured record](../../records/src-faff88963391.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-faff88963391-c05
+
+Athena says Taygetan science includes metaphysical phenomena that Earth science cannot verify.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Taygeta - Gender Roles, Fallen Angels, and more - MINITOPICS (Extraterrestrial Information)](https://swaruu.org/transcripts/taygeta-gender-roles-fallen-angels-and-more-minitopics-extraterrestrial-information) (2024-01-17; en); passages p0033, p0035, p0036, p0037. [Structured record](../../records/src-faff88963391.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-ebfc3a5560a4-c04
+
+He says pursuing another person against their stated wishes can become invasive.
+
+Attributed to **Za´el**; asserted; extraction confidence: high.
+
+Source: [To fight or not to fight? - The danger of not believing in yourself](https://swaruu.org/transcripts/to-fight-or-not-to-fight-the-danger-of-not-believing-in-yourself) (2023-12-22; en); passages p0002, p0012, p0013. [Structured record](../../records/src-ebfc3a5560a4.json).
+
+### src-128ec3c824ca-c04
+
+She says Taygetans view gender roles as complementary without ranking either gender above the other.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No Men in Taygeta? (English)](https://swaruu.org/transcripts/no-men-in-taygeta-english) (2023-10-21; en); passages p0002, p0015. [Structured record](../../records/src-128ec3c824ca.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-07e69a604c97-c01
+
+Mari describes Andromedan councils as voluntary, expert-guided, and consensus-based without voting.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Holistic Society, also called Holographic Society, and Royalty in Outer Space. (English)](https://swaruu.org/transcripts/holistic-society-also-called-holographic-society-and-royalty-in-outer-space-english) (2023-09-19; en); passages p0002, p0006, p0007, p0008, p0009. [Structured record](../../records/src-07e69a604c97.json).
+
+### src-07e69a604c97-c02
+
+She says council authority scales upward when local bodies cannot resolve an issue.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Holistic Society, also called Holographic Society, and Royalty in Outer Space. (English)](https://swaruu.org/transcripts/holistic-society-also-called-holographic-society-and-royalty-in-outer-space-english) (2023-09-19; en); passages p0002, p0010, p0011, p0012. [Structured record](../../records/src-07e69a604c97.json).
+
+### src-07e69a604c97-c03
+
+She says some societies combine councils with monarchs whose decisions require council approval.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Holistic Society, also called Holographic Society, and Royalty in Outer Space. (English)](https://swaruu.org/transcripts/holistic-society-also-called-holographic-society-and-royalty-in-outer-space-english) (2023-09-19; en); passages p0002, p0015, p0016, p0017. [Structured record](../../records/src-07e69a604c97.json).
+
+### src-07e69a604c97-c05
+
+She says high ethics and service to others are necessary for holistic society stability.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Holistic Society, also called Holographic Society, and Royalty in Outer Space. (English)](https://swaruu.org/transcripts/holistic-society-also-called-holographic-society-and-royalty-in-outer-space-english) (2023-09-19; en); passages p0002, p0030, p0031, p0034, p0035, p0036. [Structured record](../../records/src-07e69a604c97.json).
+
+### src-261f583f3783-c03
+
+Gosia says the group began publicly sharing their conversations around May 2018.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Taygetan Pleiadian Extraterrestrial Disclosure - Contact - JOURNEY SO FAR](https://swaruu.org/transcripts/taygetan-pleiadian-extraterrestrial-disclosure-contact-journey-so-far) (2024-02-01; en); passages p0025. [Structured record](../../records/src-261f583f3783.json).
+
+### src-a02ed53897bc-c01
+
+Yazhi denies a positive-side agenda: guides aim to expand human minds and ease suffering, leaving outcomes to humans.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Positive "Agenda" - PART 2 - Conversation with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/positive-agenda-part-2-conversation-with-sophia-swaruu-yazhi) (2023-12-31; en); passages p0012, p0055, p0059. [Structured record](../../records/src-a02ed53897bc.json).
+
+### src-4f613755089f-c01
+
+Mari says Swaruu Oficial carries her direct updates; Robert and Gosia share complementary information from other crew members.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Reflections, by Mari Swaruu, Important, please watch (English)](https://swaruu.org/transcripts/reflections-by-mari-swaruu-important-please-watch-english) (2023-10-23; en); passages p0012, p0014, p0015. [Structured record](../../records/src-4f613755089f.json).
+
+### src-149a920c9a41-c01
+
+Mari says outcasts from holistic societies may flee in starships, forming rogue colonies under leaders seeking power.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Break Away Civilizations and Space Pirates (English)](https://swaruu.org/transcripts/break-away-civilizations-and-space-pirates-english) (2023-11-16; en); passages p0014, p0016, p0017, p0018. [Structured record](../../records/src-149a920c9a41.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-8aee5e8d5c92-c02
+
+She says Taygetans treat engineering, physics, and spirituality as interconnected, making technical study part of spiritual growth.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: ["Technological Subjects are not practical"" - Why We and I Disagree and Why they are Important](https://swaruu.org/transcripts/technological-subjects-are-not-practical-why-we-and-i-disagree-and-why-they-are-important) (2024-02-14; en); passages p0009, p0010, p0011, p0012. [Structured record](../../records/src-8aee5e8d5c92.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-8aee5e8d5c92-c03
+
+Gosia frames technical lessons as a galactic academy seeding human science for future specialists and civilization.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: ["Technological Subjects are not practical"" - Why We and I Disagree and Why they are Important](https://swaruu.org/transcripts/technological-subjects-are-not-practical-why-we-and-i-disagree-and-why-they-are-important) (2024-02-14; en); passages p0015, p0016, p0020, p0023. [Structured record](../../records/src-8aee5e8d5c92.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-554a031b6c3c-c01
+
+Za’el says realities are perspectives and societies hold distinct cultural and ethical systems.
+
+Attributed to **Za’el**; asserted; extraction confidence: low.
+
+Source: [The Sickness of Earth's Society, and the Purpose of the Starseeds](https://swaruu.org/transcripts/the-sickness-of-earth-s-society-and-the-purpose-of-the-starseeds) (2023-10-01; en); passages p0003, p0004. [Structured record](../../records/src-554a031b6c3c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-554a031b6c3c-c02
+
+He says starseeds may expect peaceful social behavior, while online platforms train young people in conflict and cruelty.
+
+Attributed to **Za’el**; asserted; extraction confidence: low.
+
+Source: [The Sickness of Earth's Society, and the Purpose of the Starseeds](https://swaruu.org/transcripts/the-sickness-of-earth-s-society-and-the-purpose-of-the-starseeds) (2023-10-01; en); passages p0008, p0009. [Structured record](../../records/src-554a031b6c3c.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-554a031b6c3c-c03
+
+Za’el attributes attacks on innocent people to trauma and fear, which can produce cruelty.
+
+Attributed to **Za’el**; asserted; extraction confidence: low.
+
+Source: [The Sickness of Earth's Society, and the Purpose of the Starseeds](https://swaruu.org/transcripts/the-sickness-of-earth-s-society-and-the-purpose-of-the-starseeds) (2023-10-01; en); passages p0011, p0013. [Structured record](../../records/src-554a031b6c3c.json).
+
+### src-554a031b6c3c-c04
+
+He says prolonged mistreatment can lead starseeds to self-rejection, depression, and isolation.
+
+Attributed to **Za’el**; asserted; extraction confidence: low.
+
+Source: [The Sickness of Earth's Society, and the Purpose of the Starseeds](https://swaruu.org/transcripts/the-sickness-of-earth-s-society-and-the-purpose-of-the-starseeds) (2023-10-01; en); passages p0015. [Structured record](../../records/src-554a031b6c3c.json).
+
+### src-bbe40d2cc2f2-c02
+
+Mari proposes a transition government or mentorship by emotionally empathic interstellar societies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Is removing the Cabal advisable? Holistic Society Part 2. (English)](https://swaruu.org/transcripts/is-removing-the-cabal-advisable-holistic-society-part-2-english) (2023-09-21; en); passages p0017, p0020. [Structured record](../../records/src-bbe40d2cc2f2.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-bbe40d2cc2f2-c05
+
+Mari says starseeds may lead a transition, while sudden removal could cause avoidable suffering.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Is removing the Cabal advisable? Holistic Society Part 2. (English)](https://swaruu.org/transcripts/is-removing-the-cabal-advisable-holistic-society-part-2-english) (2023-09-21; en); passages p0023, p0025. [Structured record](../../records/src-bbe40d2cc2f2.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -828,13 +1124,25 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 - [src-0f4f8d997259-c02](starship-systems.md#src-0f4f8d997259-c02) — Starship systems
 - [src-01c3c72a675d-c03](earth-cabal.md#src-01c3c72a675d-c03) — Earth Cabal and power structures
 - [src-bc1f28760d1d-c01](economics.md#src-bc1f28760d1d-c01) — Economics and resources
+- [src-d9efe19e10ad-c05](earth-cabal.md#src-d9efe19e10ad-c05) — Earth Cabal and power structures
+- [src-7ffa03537463-c01](alien-species.md#src-7ffa03537463-c01) — Alien species and distinctions
+- [src-128ec3c824ca-c02](taygetans.md#src-128ec3c824ca-c02) — Taygetans
+- [src-667e6da8febb-c04](taygetans.md#src-667e6da8febb-c04) — Taygetans
+- [src-729c2f64ccf5-c01](taygetans.md#src-729c2f64ccf5-c01) — Taygetans
+- [src-8183f4237107-c01](earth-cabal.md#src-8183f4237107-c01) — Earth Cabal and power structures
+- [src-8183f4237107-c03](earth-cabal.md#src-8183f4237107-c03) — Earth Cabal and power structures
+- [src-8183f4237107-c04](earth-cabal.md#src-8183f4237107-c04) — Earth Cabal and power structures
+- [src-554a031b6c3c-c05](galactic-federation.md#src-554a031b6c3c-c05) — Galactic Federation
+- [src-b7b4119e55e3-c02](earth-cabal.md#src-b7b4119e55e3-c02) — Earth Cabal and power structures
 
 ## Review flags
 
+- agenda\_term\_varies
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
 - conditional\_forecast
 - conflicting\_primary\_purpose\_claims
 - conspiracy\_claims
+- contradicts\_prior\_public\_claims
 - coverage: climate and architecture
 - coverage: interspecies compatibility
 - crime\_and\_abundance\_claims
@@ -847,17 +1155,24 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 - extraordinary\_history\_claims
 - extraordinary\_medical\_claims
 - extraordinary\_metaphysical\_claims
+- gender\_role\_generalization
+- historical-conspiracy-claims
+- ideological-commentary
+- incomplete-investigation
 - intervention\_tension
 - manifestation\_mechanics
 - matrix\_scope
 - medical\_claims\_omitted
 - metaphysical-claims
+- metaphysical-social-commentary
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
+- personal\_advice
 - personal\_metaphysics
 - personal\_philosophy
 - personal\_social\_theory
 - political-allegation
+- political-claims-unverified
 - political\_claims
 - political\_structure\_claims
 - politically\_contested
@@ -872,5 +1187,9 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - unverified\_biological\_claims
+- unverified\_conspiracy\_claims
+- unverified\_extraterrestrial\_claims
+- unverified\_health\_claims
+- unverified\_paranormal\_claims
 - unverified\_source\_claims
 - unverified\_technical\_claims

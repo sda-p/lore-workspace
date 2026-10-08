@@ -1,0 +1,102 @@
+{
+  "source_id": "src-4af520912230",
+  "snapshot_sha256": "28547053f524e7bdc467c3ab9af6d3da135b4b9b9e6f614775f2a845256d1af3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4af520912230-c01",
+      "assertion": "Anéeka says the Federation sent a muon-coded warning to stop her disclosures, invoking the Prime Directive.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4af520912230-c02",
+      "assertion": "She says no Federation official was responsible for answering her appeal.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4af520912230-c03",
+      "assertion": "Anéeka describes Taygetans as part of the Federation coalition policing Earth, questioning their authority over humans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032",
+        "p0047",
+        "p0049"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4af520912230-c04",
+      "assertion": "She says embodied societies need some governance, though Federation space remains another Matrix.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0061",
+        "p0063",
+        "p0065"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4af520912230-c05",
+      "assertion": "Anéeka relays Yazhi’s choice of a woman’s body for reproduction and to help others relate to her, though Yazhi says she no longer needs to reproduce.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0077",
+        "p0079",
+        "p0083"
+      ],
+      "primary_topic": "lyrian-cellular-body",
+      "topics": [
+        "lyrian-cellular-body",
+        "walk-in-phenomenon"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "federation-authority-critique"
+  ],
+  "coverage_gaps": [
+    "additional-matrix-details"
+  ]
+}

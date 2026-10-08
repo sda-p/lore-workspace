@@ -37,3 +37,17 @@ Attributed to **Alenym**; reported; extraction confidence: medium.
 Source: [Aritificial Intelligence and Federation - Alenym and Aneeka (Taygeta, Pleiades)](https://swaruu.org/transcripts/aritificial-intelligence-and-federation-alenym-and-aneeka-taygeta-pleiades) (2022-05-21; en); passages p0043, p0046, p0047. [Structured record](../../records/src-165493b296b5.json).
 
 Related topics: [Holographic computers](holographic-computers.md).
+
+### src-ec946e4b1e84-c03
+
+Mari says Taygetan leaders refused Etorthan inspections and shut down muon communications after pressure.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Space News 12, Galactic Federation harassing Taygeta, Update for January 23, 2024 (English)](https://swaruu.org/transcripts/space-news-12-galactic-federation-harassing-taygeta-update-for-january-23-2024-english) (2024-01-25; en); passages p0009, p0011, p0012, p0013, p0014. [Structured record](../../records/src-ec946e4b1e84.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+## Claims filed under other topics
+
+- [src-0a76aae844b1-c04](natural-portals.md#src-0a76aae844b1-c04) — Natural and artificial portals

@@ -1,0 +1,66 @@
+{
+  "source_id": "src-7ea3539f3fa4",
+  "snapshot_sha256": "38e17ed4f65f90929ff3062fbdd3b149e33b39644672e6b91fef6254a2055a2f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7ea3539f3fa4-c01",
+      "assertion": "Swaruu says Taygeta’s First Contact Project ended around November 2016 and its Earth-orbit presence later contracted to one ship.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "toleka-class"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ea3539f3fa4-c02",
+      "assertion": "Swaruu says mass contact lacks a viable channel and depends on broader spiritual awareness, not a separate contact protocol.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ea3539f3fa4-c03",
+      "assertion": "Swaruu says human and stellar identities overlap, with no clear species boundary among incarnating souls.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "lyrian-cellular-body"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

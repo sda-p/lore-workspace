@@ -1,0 +1,98 @@
+{
+  "source_id": "src-679ef96054ba",
+  "snapshot_sha256": "c77ce2423de260df1369f7afc56ff893294913dc1f8a97e7c502278e26b4c177",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-679ef96054ba-c01",
+      "assertion": "Mari reports an Andromedan representative urged cooperation and warned Taygetan allies’ growth made them seem dangerous to the Federation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-679ef96054ba-c02",
+      "assertion": "Mari alleges a Federation Saturn lab supplied the pathogen used in an attempt on Alenym, citing a protein signature.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-679ef96054ba-c03",
+      "assertion": "Mari says Taygeta sought an investigation, Federation transparency, reduced Earth interference, and lifted communication restrictions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-679ef96054ba-c04",
+      "assertion": "Mari describes an alliance including Alcyone Council members, Urmah, Vega Lyrians, and Antarians opposing Federation opacity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-679ef96054ba-c05",
+      "assertion": "Mari says the Andromedan planned to relay her requests and affirmed interest in strengthening Andromedan–Taygetan relations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "andromeda-council",
+      "topics": [
+        "andromeda-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition"
+  ],
+  "coverage_gaps": [
+    "specific alleged Federation decision-makers"
+  ]
+}

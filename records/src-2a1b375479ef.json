@@ -1,0 +1,109 @@
+{
+  "source_id": "src-2a1b375479ef",
+  "snapshot_sha256": "977b59d5ed8a2b6ed135b2edc99ab1893b690ea05df0fa86f8b026acefec47d5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2a1b375479ef-c01",
+      "assertion": "Swaruu (9) claims Baghdad Museum cellars held three mainly Elohi portals, two operational and one inoperative, though the count was unverified.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "elohi"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2a1b375479ef-c02",
+      "assertion": "She relays witnesses’ claims that large metal ring portals were removed by convoy from the museum and flown out.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "elohi"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2a1b375479ef-c03",
+      "assertion": "Swaruu says the rings resemble Stargate devices but does not know whether they work.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2a1b375479ef-c04",
+      "assertion": "She describes Elohi as large, bearded beings resembling Taygetans or Engans.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0035"
+      ],
+      "primary_topic": "elohi",
+      "topics": [
+        "elohi",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2a1b375479ef-c05",
+      "assertion": "Swaruu says the invasion sought archaeological records and nonhuman technology, and that a puppet government followed.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0013",
+        "p0028"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "elohi",
+      "name": "Elohi",
+      "kind": "species",
+      "aliases": [
+        "Elohim"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unverified-historical-claims",
+    "extraordinary-technology-claims"
+  ],
+  "coverage_gaps": [
+    "independent-corroboration"
+  ]
+}

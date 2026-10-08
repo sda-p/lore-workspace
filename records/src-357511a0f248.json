@@ -1,0 +1,100 @@
+{
+  "source_id": "src-357511a0f248",
+  "snapshot_sha256": "0566da3f60af77e609e054a1b2ac93e775437666112e54bcc88cc308339eeb34",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-357511a0f248-c01",
+      "assertion": "Mari reports an Alfratan L-class Black Knight crashed in Yukon after evading a missile; both pilots died.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The account came via Viera high-priority notice."
+    },
+    {
+      "id": "src-357511a0f248-c02",
+      "assertion": "She describes the Alcyone Council as the political body representing M45’s Pleiadian races.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-357511a0f248-c03",
+      "assertion": "Mari says the Council distanced itself from Federation intervention after Alenym presented evidence about Earth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-357511a0f248-c04",
+      "assertion": "She says an accepted treaty would expand Taygeta-Urmah cooperation to all M45 Pleiadian races, despite Federation displeasure.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-357511a0f248-c05",
+      "assertion": "Mari says Hyadean felines on Merope are genetically identical to Avyon’s Urmah, linking the groups.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "treaty clauses",
+    "crash investigation"
+  ]
+}

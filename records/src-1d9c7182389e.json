@@ -1,0 +1,103 @@
+{
+  "source_id": "src-1d9c7182389e",
+  "snapshot_sha256": "5c9ceef5e16cd951b0cb4901e43a767928cd9c4859be293f98aec377e772f89c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1d9c7182389e-c01",
+      "assertion": "Mari says Sadicleya is Tau 19B, a dim blue white dwarf companion to Tau 19A that supports wildlife rhythms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1d9c7182389e-c02",
+      "assertion": "Sadicleya is a Toleka-class Mk2 long-range yacht; modular decks allow mission-specific layouts.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0013"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1d9c7182389e-c03",
+      "assertion": "Its eight main and four maneuvering engines are 25% larger but produce 75% more power than Toleka Mk1, strengthening shields.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1d9c7182389e-c04",
+      "assertion": "Two decks simulate nature-integrated towns with real weather, parks, pools, and an artificial beach for crew wellbeing.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1d9c7182389e-c05",
+      "assertion": "Designed for fewer than 100, Sadicleya remains Mari’s Earth-orbit flagship while Alenym and Toleka return to Temmer.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "measurement inconsistencies",
+    "shipyard details"
+  ]
+}

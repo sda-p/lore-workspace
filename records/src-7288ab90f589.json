@@ -1,0 +1,100 @@
+{
+  "source_id": "src-7288ab90f589",
+  "snapshot_sha256": "0cde5cdb880905cd2616db7291dea519a3a94d9ee45657d970bdfaeb55577876",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7288ab90f589-c01",
+      "assertion": "Mari says Toleka was completed in 1935 and served as Taygetan flagship for over 80 years.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7288ab90f589-c02",
+      "assertion": "Sadicleya is the first Toleka Mk2, designed as a yacht; modular decks let cruisers be reconfigured.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7288ab90f589-c03",
+      "assertion": "She says Sadicleya is 30% larger than Toleka Mk1, with lower decks devoted to parks, lake, beach, and town replicas.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0013",
+        "p0018"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7288ab90f589-c04",
+      "assertion": "Climate generators and solar lamps simulate weather, seasons, sunlight, and plant-useful radiation indoors.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7288ab90f589-c05",
+      "assertion": "Mk2 adds wireless shipwide power, improved pneumatic doors, and lower-mounted water tanks to reduce flooding risk.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetan-wireless-power-grid"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "crew capacity",
+    "engine improvements"
+  ]
+}

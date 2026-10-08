@@ -34,6 +34,16 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [Blood Transfusions - Influence on the Receiver - Extraterrestrial Women Respond](https://swaruu.org/transcripts/blood-transfusions-influence-on-the-receiver-extraterrestrial-women-respond) (2023-04-11; en); passages p0003, p0004, p0005, p0006, p0007, p0008, p0010. [Structured record](../../records/src-6fd8e8fc178e.json).
 
+### src-ed8cbef23d82-c01
+
+Mari says reptilian influence depends on vibrational compatibility, not fixed genetic markers.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Human Genetic Compatibility with Reptilian Possessions (English)](https://swaruu.org/transcripts/human-genetic-compatibility-with-reptilian-possessions-english) (2024-03-21; en); passages p0004, p0006, p0019. [Structured record](../../records/src-ed8cbef23d82.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Review flags
 
 - medical-claims-unverified

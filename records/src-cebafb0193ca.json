@@ -1,0 +1,98 @@
+{
+  "source_id": "src-cebafb0193ca",
+  "snapshot_sha256": "83f2c7bac8bd9e8fd11518ca9843733e91469a8410ac835ada13524a5d6176bb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cebafb0193ca-c01",
+      "assertion": "Mari reports about 977 large starships in Earth orbit; she says transponder identities often cannot be verified.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cebafb0193ca-c02",
+      "assertion": "Mari suspects Orion Grays use Zeta Gray codes and may obstruct genuine Zeta craft.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "orion-grays",
+      "topics": [
+        "orion-grays"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cebafb0193ca-c03",
+      "assertion": "Mari says Reptilians are officially restricted from entering or leaving Earth, with possible Federation-authorized exceptions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0016"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cebafb0193ca-c04",
+      "assertion": "Mari rejects a simple Orion–Reptilian conflict explanation for Earth wars and stresses human participation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cebafb0193ca-c05",
+      "assertion": "Mari says Alcyone Council allies seek to strengthen the Federation and counter its allegedly corrupt factions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative"
+  ],
+  "coverage_gaps": [
+    "species diversity and blockade enforcement details"
+  ]
+}

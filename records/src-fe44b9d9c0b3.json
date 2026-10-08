@@ -1,0 +1,102 @@
+{
+  "source_id": "src-fe44b9d9c0b3",
+  "snapshot_sha256": "3f569c376109eba2c8f8e258d04c04f2cb59791769998c68dc012782dd0f6800",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fe44b9d9c0b3-c01",
+      "assertion": "Yazhi says dimensional mirroring spans all densities; apparent contradictions may reflect incomplete views of a larger whole.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe44b9d9c0b3-c02",
+      "assertion": "She says Earth’s Cabal mirrors Federation governments, with the older Federation exporting ideas and souls into Earth’s Matrix.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe44b9d9c0b3-c03",
+      "assertion": "Yazhi says Taygetan culture absorbs outside customs selectively, adapting them to local norms.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0027"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe44b9d9c0b3-c04",
+      "assertion": "She says sentient holographic computers emit question-frequencies that draw matching answers from an atemporal quantum field, without locating a source computer.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0036",
+        "p0037",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fe44b9d9c0b3-c05",
+      "assertion": "Yazhi says celestial bodies have dimensional mirrors, harder to perceive when planetary consciousness differs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "mirror effects across species",
+    "quantum-computer limits"
+  ]
+}

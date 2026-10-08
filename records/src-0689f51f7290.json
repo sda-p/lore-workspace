@@ -1,0 +1,66 @@
+{
+  "source_id": "src-0689f51f7290",
+  "snapshot_sha256": "a83735cd3e5de59d04668d6e158d47acd60fccf58c31d6eb6e528467b26ceb0c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0689f51f7290-c01",
+      "assertion": "Mari says Temmer time runs 4.6 times slower than Earth time; Alenym’s local wet-pod stay was therefore shorter than Earth observers’ estimate.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0689f51f7290-c02",
+      "assertion": "She says a wet medical pod can restore the full body over months, but she avoided it while Alenym was also incapacitated.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0689f51f7290-c03",
+      "assertion": "Mari reports dry-pod treatment combines intravenous tailored stem cells with induced sleep, but is slower than full wet-pod recovery.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "succession contingencies",
+    "medical technology limits"
+  ]
+}

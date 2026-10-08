@@ -1,0 +1,97 @@
+{
+  "source_id": "src-8475fb1082ba",
+  "snapshot_sha256": "944a5540accfa882f399f7e1cb95590cf258123d10112cd3585b99ff9de7fde5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8475fb1082ba-c01",
+      "assertion": "Mari distinguishes Urmah feline embodiment and broader sensed reality from human-Lyrian experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8475fb1082ba-c02",
+      "assertion": "Mari says Urmah induced her trance with vocal sounds, without technology, and she interprets the vision as partly her own.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8475fb1082ba-c03",
+      "assertion": "Mari attributes her type 1 diabetes recovery to Urmah spiritual intervention after Taygetan dry pods and stem-cell treatment failed.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8475fb1082ba-c04",
+      "assertion": "Mari reports the Urmah intervention did not cure her fungal lung infection.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8475fb1082ba-c05",
+      "assertion": "Mari says Urmah assistance is voluntary and cannot be demanded.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0019"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Medical recovery and spiritual causation are Mari’s personal report, not independently established; do not generalize or present as treatment guidance"
+  ],
+  "coverage_gaps": [
+    "reported trauma narrative",
+    "Urmah cultural interpretation"
+  ]
+}

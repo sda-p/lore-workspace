@@ -1,0 +1,97 @@
+{
+  "source_id": "src-620ccccce34a",
+  "snapshot_sha256": "f2902f8d1b806ca1352452db87d0ce867c96481138dddc62e9ef09b21f43bf83",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-620ccccce34a-c01",
+      "assertion": "Mari reports a Pleiadian–Urmah treaty covering defense, agriculture, raw materials, technology, exploration data, frequency maps, and trade.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-620ccccce34a-c02",
+      "assertion": "Mari says Antaria sought to join; inclusion required Alcyone Council review of legalities and consequences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-620ccccce34a-c03",
+      "assertion": "Mari says Ruhr called verbal abuse treaty aggression and described reduced Urmah–Federation cooperation as consequence, not threat.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-620ccccce34a-c04",
+      "assertion": "Mari attributes alcohol abuse to Alfratan Federation pilots and says Taygetans avoid alcohol as toxic and spiritually risky.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-620ccccce34a-c05",
+      "assertion": "Mari reports Alcyone’s hull shields were being upgraded under her and Gori’el’s direction.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Alcohol claims and spiritual effects are Mari’s assertions; avoid generalizing to all Alfratans"
+  ],
+  "coverage_gaps": [
+    "treaty details and trade conditions"
+  ]
+}

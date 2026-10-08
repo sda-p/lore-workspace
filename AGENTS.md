@@ -4,7 +4,7 @@
 
 The user authorized Luna subagents for this lore-collection project. Extraction workers own only their assigned `records/<source-id>.json` files. Do not modify the ledger, shared topic registry, scripts, or Git state. The coordinator owns integration and publication. Topic editors own explicitly assigned wiki sections only.
 
-Continuous-pass extractors must run `python3 scripts/continuous.py extracted --source <source-id>` after validating each finished record. This controlled helper creates a completion marker; the worker then releases that record to its assigned independent reviewer. Reviewers may correct completed records in their own shard and write `reports/batches/<cohort>/review-<n>.json`. Extractors must not edit released records while review is in progress. Both roles still leave the shared ledger, configuration, and Git state to the coordinator.
+Continuous-pass extractors must run `python3 scripts/continuous.py extracted --source <source-id>` after validating each finished record. The required order is: write JSON, reread each exact cited passage and its speaker/qualification context, correct the unreleased record, validate, then run the marker helper. Finish and release one source before reading/drafting the next. A helper must not bundle release before citation readback. This controlled helper creates a completion marker; the worker then releases that record to its assigned independent reviewer. Reviewers may correct completed records in their own shard and write `reports/batches/<cohort>/review-<n>.json`. Extractors must not edit released records while review is in progress. Both roles still leave the shared ledger, configuration, and Git state to the coordinator.
 
 ## Source handling
 
@@ -14,7 +14,7 @@ The publisher is not necessarily the speaker. Interviewer questions are not asse
 
 ## Output
 
-Follow `schema/article.schema.json`. Use exact source IDs and snapshot hashes from the cache. Cite nonempty `pNNNN` passage IDs for every claim. Claims should be atomic and relevant to factions, political authority, geography, technologies, capabilities, limitations, resources, species, cosmology, or historical events. Keep 5–10 prioritized claims where supported, with **at most 85 words across all assertions and qualifiers** per article. This compact pilot prioritizes core lore; use categorical `coverage_gaps` tags to flag details omitted. No verbatim quotes.
+Follow `schema/article.schema.json`. Use exact source IDs and snapshot hashes from the cache. Cite nonempty `pNNNN` passage IDs for every claim. Claims should be atomic and relevant to factions, political authority, geography, technologies, capabilities, limitations, resources, species, cosmology, or historical events. Keep 1–10 prioritized claims where supported, with **at most 85 words across all assertions and qualifiers** per article. This compact collection prioritizes core lore; use categorical `coverage_gaps` tags to flag details omitted. No verbatim quotes.
 
 Use only canonical topic IDs from `config/topics.json`, or propose a new ID in `proposed_topics`. A claim can link several topics. Preserve source-specific speaker labels; the same apparent name does not prove the same identity. Record suspected contradictions as review flags without resolving them. Candidate translations are not confirmed duplicates; compare their scope and content before proposing a merge.
 

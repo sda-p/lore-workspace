@@ -1,0 +1,98 @@
+{
+  "source_id": "src-645493db4473",
+  "snapshot_sha256": "f8322978e7f1b172c847bef391d67cd65902db3be0d52f7926252d09301c80c4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-645493db4473-c01",
+      "assertion": "Mari interprets the brain as a filter or antenna through which a soul experiences material limits.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "nexus-souls"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her personal model."
+    },
+    {
+      "id": "src-645493db4473-c02",
+      "assertion": "She describes Akashic records as a timeless higher-realm data field containing all thoughts and ideas.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her interpretation."
+    },
+    {
+      "id": "src-645493db4473-c03",
+      "assertion": "Mari says each soul perceives its own realm; compatible groups share a collective unconscious and common experience.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-645493db4473-c04",
+      "assertion": "She says telepathic fields share concepts and perception agreements that enable communication among compatible minds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "nexus-souls"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-645493db4473-c05",
+      "assertion": "Mari says access to information in the field depends on a soul’s awareness and vibrational compatibility.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "frequency-astrology",
+      "topics": [
+        "frequency-astrology",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "access methods",
+    "limits of the model"
+  ]
+}

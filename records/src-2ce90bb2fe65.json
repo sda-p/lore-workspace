@@ -1,0 +1,98 @@
+{
+  "source_id": "src-2ce90bb2fe65",
+  "snapshot_sha256": "3bb3c7eac9975f64aa3f7df4b472b8fd30b43bf5bde910ba51322d1e13e92cb5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2ce90bb2fe65-c01",
+      "assertion": "Mari says dimensions, timelines, and existential realms are consciousness-made classifications, not universal structures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0012",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ce90bb2fe65-c02",
+      "assertion": "Mari describes souls as Source-created identities bounded by accumulated experience and perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ce90bb2fe65-c03",
+      "assertion": "Mari says human-Lyrian and Urmah realities differ because Urmah senses include aspects humans call astral.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ce90bb2fe65-c04",
+      "assertion": "Mari argues reality categories are perception-dependent and may hold only limited validity across species.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ce90bb2fe65-c05",
+      "assertion": "Mari presents Source as unity beyond ordinary notions of oneness or separation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "These are Mari’s metaphysical positions, not externally verified cosmology"
+  ],
+  "coverage_gaps": [
+    "critique of institutional science"
+  ]
+}

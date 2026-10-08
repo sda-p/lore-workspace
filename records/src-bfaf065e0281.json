@@ -1,0 +1,115 @@
+{
+  "source_id": "src-bfaf065e0281",
+  "snapshot_sha256": "7f00ca98d14599d8b517238e60b0c4694b35d03e7d683f6787cac8353147aa3b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bfaf065e0281-c01",
+      "assertion": "Mari distinguishes psychic attacks from specific agents and astral attacks from less-defined sources.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfaf065e0281-c02",
+      "assertion": "She says astral attacks affect a target only when their frequencies match.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "frequency-astrology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfaf065e0281-c03",
+      "assertion": "Mari says fear amplifies attacks, while awareness can diminish their effects.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0017"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfaf065e0281-c04",
+      "assertion": "She says imagined shields and personally meaningful amulets can protect through astral manifestation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfaf065e0281-c05",
+      "assertion": "Mari says unconscious beliefs can sustain vulnerability, which attackers may exploit indirectly through bodily weakness.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfaf065e0281-c06",
+      "assertion": "She advises strengthening character and avoiding focus on aggressors, which she says can feed them.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "attack examples",
+    "entity classes"
+  ]
+}

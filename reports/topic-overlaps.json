@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-08T15:51:41+00:00",
+  "collisions": [
+    {
+      "normalized_label": "sunspotportals",
+      "topic_ids": [
+        "solar-portal-transit",
+        "sunspot-portals"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    }
+  ],
+  "policy": "Keep existing IDs valid while workers are active; reconcile after source review. Shared labels do not by themselves establish identical concepts."
+}

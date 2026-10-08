@@ -248,6 +248,14 @@ Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [Graphene, Vaccines, Nanotechnology - Aneeka Responds Dr Alex´s Questions](https://swaruu.org/transcripts/graphene-vaccines-nanotechnology-aneeka-responds-dr-alex-s-questions) (2021-11-11; en); passages p0047, p0048, p0061, p0062. [Structured record](../../records/src-6c1d61adc74b.json).
 
+### src-37e67ed7223b-c05
+
+She says negative black goo is crystalline and originates mainly from Tiamat.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu of Erra and Aneeka of Temmer - A Mix of Totally Random Questions and Answers](https://swaruu.org/transcripts/swaruu-of-erra-and-aneeka-of-temmer-a-mix-of-totally-random-questions-and-answers) (2023-12-02; en); passages p0029, p0030, p0031, p0032, p0033, p0034, p0035, p0036. [Structured record](../../records/src-37e67ed7223b.json).
+
 ## Claims filed under other topics
 
 - [src-6bb3f5207f8d-c01](terrestrial-science.md#src-6bb3f5207f8d-c01) — Terrestrial science

@@ -222,6 +222,14 @@ Source: [Neptune, Ceres, and other planets - Solar System - Swaruu of Erra](http
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-069cfa908078-c03
+
+He describes Tiamat’s destruction as conflict between Federation factions and Orion allies.
+
+Attributed to **Arishah**; reported; extraction confidence: high.
+
+Source: [The Urmah Interview, Arishah-Tiger, Part 2 (English)](https://swaruu.org/transcripts/the-urmah-interview-arishah-tiger-part-2-english) (2023-09-07; en); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-069cfa908078.json).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c02](black-goo.md#src-d47faace954b-c02) — Black goo

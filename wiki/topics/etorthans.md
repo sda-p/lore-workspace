@@ -27,3 +27,34 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 Source: [Grey Aliens. Part 2, Orions, and Etorthans. (English)](https://swaruu.org/transcripts/grey-aliens-part-2-orions-and-etorthans-english) (2023-07-31; en); passages p0020, p0021, p0023, p0024, p0025, p0026. [Structured record](../../records/src-03651da1738e.json).
 
 Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-45558fcded2a-c04
+
+She describes Etorthans as Orion logical beings without familiar emotions and distrusts their role in Federation affairs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: low.
+
+Source: [Deep Galactic Federation to Audit Local Federation about Earth Affairs, Early 2024 (English)](https://swaruu.org/transcripts/deep-galactic-federation-to-audit-local-federation-about-earth-affairs-early-2024-english) (2023-08-30; en); passages p0035, p0036. [Structured record](../../records/src-45558fcded2a.json).
+
+Related topics: [Orion Grays](orion-grays.md).
+
+### src-97cfd0c56ade-c05
+
+Mari says Etorthans have no genders; their second-in-command delegated duties while sick.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: low.
+
+Source: [Space News 10, Galactic Federation Update for January 10 2024 (English)](https://swaruu.org/transcripts/space-news-10-galactic-federation-update-for-january-10-2024-english) (2024-01-11; en); passages p0019. [Structured record](../../records/src-97cfd0c56ade.json).
+
+## Claims filed under other topics
+
+- [src-fd364b9ee561-c04](galactic-federation.md#src-fd364b9ee561-c04) — Galactic Federation
+- [src-45558fcded2a-c02](galactic-federation.md#src-45558fcded2a-c02) — Galactic Federation
+- [src-97cfd0c56ade-c02](galactic-federation.md#src-97cfd0c56ade-c02) — Galactic Federation
+- [src-97cfd0c56ade-c03](urmah.md#src-97cfd0c56ade-c03) — Urmah
+- [src-97cfd0c56ade-c04](taygetans.md#src-97cfd0c56ade-c04) — Taygetans
+
+## Review flags
+
+- forecast-in-retrospect
+- unverified-contact-claims

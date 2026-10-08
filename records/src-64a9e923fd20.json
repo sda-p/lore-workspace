@@ -1,0 +1,82 @@
+{
+  "source_id": "src-64a9e923fd20",
+  "snapshot_sha256": "febb3fdefb496a631af9449f566f6b2c0e0c1a18dd60d978228565c8d5a982a2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-64a9e923fd20-c01",
+      "assertion": "Swaruu says Taygeta uses councils of interested elders and topic experts rather than majority voting.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0093",
+        "p0094",
+        "p0095",
+        "p0096"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64a9e923fd20-c02",
+      "assertion": "Swaruu says Taygetans communicate between planets using muon-neutrino transmissions instead of radio or microwaves.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64a9e923fd20-c03",
+      "assertion": "Swaruu describes Taygetan uniforms as protective suits with impact stiffening, medical telemetry, temperature control, and belt-operated functions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64a9e923fd20-c04",
+      "assertion": "Swaruu says immersion chambers support brief conscious holographic visits with family aboard distant ships.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0097",
+        "p0098",
+        "p0099"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "omitted-secondary-details"
+  ]
+}

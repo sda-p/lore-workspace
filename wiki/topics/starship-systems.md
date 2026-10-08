@@ -1718,6 +1718,404 @@ Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/tr
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-5759f6ed8a71-c01
+
+Mari says Saska 1 docks with Toleka through aligned hangars and a telescopic passage.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [A Serious Incident on board Starship Toleka (English)](https://swaruu.org/transcripts/a-serious-incident-on-board-starship-toleka-english) (2024-01-09; en); passages p0002, p0010, p0011, p0013. [Structured record](../../records/src-5759f6ed8a71.json).
+
+### src-5759f6ed8a71-c02
+
+She says gravity engines and clamps maneuver and secure the two large ships.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [A Serious Incident on board Starship Toleka (English)](https://swaruu.org/transcripts/a-serious-incident-on-board-starship-toleka-english) (2024-01-09; en); passages p0002, p0011, p0012. [Structured record](../../records/src-5759f6ed8a71.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-5759f6ed8a71-c03
+
+A Scimitar fighter became wedged while being towed through a narrow secondary hangar door.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [A Serious Incident on board Starship Toleka (English)](https://swaruu.org/transcripts/a-serious-incident-on-board-starship-toleka-english) (2024-01-09; en); passages p0002, p0015, p0017, p0018. [Structured record](../../records/src-5759f6ed8a71.json).
+
+### src-5759f6ed8a71-c04
+
+The trapped fighter’s landing gear and ship pressure damaged Toleka’s hangar during failed extraction.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [A Serious Incident on board Starship Toleka (English)](https://swaruu.org/transcripts/a-serious-incident-on-board-starship-toleka-english) (2024-01-09; en); passages p0002, p0019, p0020, p0021, p0027, p0029. [Structured record](../../records/src-5759f6ed8a71.json).
+
+### src-5759f6ed8a71-c05
+
+Saska 1 carries workshops, repair equipment, service vehicles, and spare materials for deep-space repairs.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [A Serious Incident on board Starship Toleka (English)](https://swaruu.org/transcripts/a-serious-incident-on-board-starship-toleka-english) (2024-01-09; en); passages p0002, p0035, p0036, p0037. [Structured record](../../records/src-5759f6ed8a71.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-a4e838c75ab3-c04
+
+She says starship computers exchange mental messages with pilots through an interface.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Synthetic Telepathy - What is it and How is it Used? - Athena Swaruu](https://swaruu.org/transcripts/synthetic-telepathy-what-is-it-and-how-is-it-used-athena-swaruu) (2023-09-11; en); passages p0036, p0038, p0040, p0044. [Structured record](../../records/src-a4e838c75ab3.json).
+
+Related topics: [Pineal interface](pineal-interface.md).
+
+### src-f16ea4c6f1ae-c01
+
+Mari says Saska 1 serves as a deep-space repair station with engineers and spare parts.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 14, Federation Update, February 15, 2024 (English)](https://swaruu.org/transcripts/space-news-14-federation-update-february-15-2024-english) (2024-02-15; en); passages p0002, p0005. [Structured record](../../records/src-f16ea4c6f1ae.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-f16ea4c6f1ae-c02
+
+She says Toleka had mechanical issues in its twelve engines.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 14, Federation Update, February 15, 2024 (English)](https://swaruu.org/transcripts/space-news-14-federation-update-february-15-2024-english) (2024-02-15; en); passages p0002, p0006. [Structured record](../../records/src-f16ea4c6f1ae.json).
+
+### src-f16ea4c6f1ae-c03
+
+Mari says Vigilant Eagle is escorting Toleka and has no planned departure.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 14, Federation Update, February 15, 2024 (English)](https://swaruu.org/transcripts/space-news-14-federation-update-february-15-2024-english) (2024-02-15; en); passages p0002, p0008. [Structured record](../../records/src-f16ea4c6f1ae.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-ef5bf21bfc65-c03
+
+Mari says operators manipulate global weather through holographic displays or mind-machine interfaces.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Artificial Weather (English ) / (Re-loaded)](https://swaruu.org/transcripts/artificial-weather-english-re-loaded) (2023-10-17; en); passages p0002, p0013, p0014. [Structured record](../../records/src-ef5bf21bfc65.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-07331ba24627-c02
+
+She says the Taygetan CIC team supports her publishing work.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Changes in this YouTube Channel, Swaruu Official, and a Surprise (English)](https://swaruu.org/transcripts/changes-in-this-youtube-channel-swaruu-official-and-a-surprise-english) (2024-01-17; en); passages p0002, p0009, p0011. [Structured record](../../records/src-07331ba24627.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-a36a4b8ec897-c05
+
+She gives Varena-class length as 81 km and Toleka length as 1,734 m.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Mari Swaruu Live - Recopilation of all Questions and Answers](https://swaruu.org/transcripts/mari-swaruu-live-recopilation-of-all-questions-and-answers) (2023-10-22; en); passages p0075, p0076. [Structured record](../../records/src-a36a4b8ec897.json).
+
+### src-3c7459286bbe-c03
+
+She describes Roswell craft as downed by microwave weapons disrupting sensors and gravity control.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Mini Topics - Information from Extraterrestrial People - Taygeta, Pleiades](https://swaruu.org/transcripts/mini-topics-information-from-extraterrestrial-people-taygeta-pleiades) (2023-08-30; en); passages p0041, p0042, p0043. [Structured record](../../records/src-3c7459286bbe.json).
+
+### src-3c7459286bbe-c04
+
+She says advanced ships can suppress invasive synthetic telepathy with counter-frequencies.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Mini Topics - Information from Extraterrestrial People - Taygeta, Pleiades](https://swaruu.org/transcripts/mini-topics-information-from-extraterrestrial-people-taygeta-pleiades) (2023-08-30; en); passages p0090, p0091, p0093, p0102, p0103. [Structured record](../../records/src-3c7459286bbe.json).
+
+### src-8273e7acbf53-c01
+
+Swaruu says her Suzy-class ship had apartment-like interior and she used seawater filtration.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 5A - Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) (2024-03-11; en); passages p0011, p0012, p0014, p0015, p0016, p0017. [Structured record](../../records/src-8273e7acbf53.json).
+
+### src-8273e7acbf53-c02
+
+Anéeka says a ship lost artificial gravity in sections despite quadruple redundancy.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 5A - Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) (2024-03-11; en); passages p0041, p0042, p0044, p0045, p0048. [Structured record](../../records/src-8273e7acbf53.json).
+
+### src-8273e7acbf53-c03
+
+She says Urmah surgery used a medical hologram, while a pod could not remove embedded metal.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 5A - Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) (2024-03-11; en); passages p0050, p0051, p0053, p0054, p0055. [Structured record](../../records/src-8273e7acbf53.json).
+
+### src-8273e7acbf53-c04
+
+Aneeka says four crew repaired a hull crack using layered metal-seeding paste during EVA.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 5A - Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) (2024-03-11; en); passages p0071, p0073, p0078, p0087, p0094, p0095, p0096. [Structured record](../../records/src-8273e7acbf53.json).
+
+### src-8273e7acbf53-c05
+
+She describes Toleka interior as modular, replaceable with prefabricated sections.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 5A - Anecdotes of Life Onboard the Extraterrestrial Ship - Taygeta](https://swaruu.org/transcripts/interstellar-life-5a-anecdotes-of-life-onboard-the-extraterrestrial-ship-taygeta) (2024-03-11; en); passages p0098, p0099, p0100, p0101. [Structured record](../../records/src-8273e7acbf53.json).
+
+### src-37e67ed7223b-c03
+
+She describes interstellar communication as coded muon-neutrino bursts manipulating gravity.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Swaruu of Erra and Aneeka of Temmer - A Mix of Totally Random Questions and Answers](https://swaruu.org/transcripts/swaruu-of-erra-and-aneeka-of-temmer-a-mix-of-totally-random-questions-and-answers) (2023-12-02; en); passages p0037, p0038, p0039, p0040, p0041. [Structured record](../../records/src-37e67ed7223b.json).
+
+### src-47a2e5f62aeb-c01
+
+Mari says disc-shaped craft are common among emerging interstellar cultures.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Flying Saucers (English)](https://swaruu.org/transcripts/on-flying-saucers-english) (2024-03-28; en); passages p0002, p0003, p0005, p0017. [Structured record](../../records/src-47a2e5f62aeb.json).
+
+### src-47a2e5f62aeb-c02
+
+She says atmospheric plasma glow is an engine side effect, not the ship itself.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Flying Saucers (English)](https://swaruu.org/transcripts/on-flying-saucers-english) (2024-03-28; en); passages p0002, p0008, p0009, p0010. [Structured record](../../records/src-47a2e5f62aeb.json).
+
+### src-47a2e5f62aeb-c03
+
+She describes disc engines as layered rotating spheres producing toroidal electromagnetic flow.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [On Flying Saucers (English)](https://swaruu.org/transcripts/on-flying-saucers-english) (2024-03-28; en); passages p0002, p0011, p0012, p0013. [Structured record](../../records/src-47a2e5f62aeb.json).
+
+### src-47a2e5f62aeb-c05
+
+She says radar pulses can disable some disc craft, while multi-engine ships resist this.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [On Flying Saucers (English)](https://swaruu.org/transcripts/on-flying-saucers-english) (2024-03-28; en); passages p0002, p0018, p0019, p0020. [Structured record](../../records/src-47a2e5f62aeb.json).
+
+### src-d32a737d43d2-c02
+
+She says Saska 1 brought supplies and two replacement fighter craft to Toleka.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 8, Galactic Federation Update for January 5th 2024 (English)](https://swaruu.org/transcripts/space-news-8-galactic-federation-update-for-january-5th-2024-english) (2024-01-05; en); passages p0002, p0007, p0008. [Structured record](../../records/src-d32a737d43d2.json).
+
+### src-afb0e2b3295c-c01
+
+Mari says direct technology disclosure could be discredited or appropriated by powerful groups.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Technology and why I cannot share More Details (English)](https://swaruu.org/transcripts/technology-and-why-i-cannot-share-more-details-english) (2024-03-25; en); passages p0002, p0005, p0006, p0007, p0008. [Structured record](../../records/src-afb0e2b3295c.json).
+
+### src-afb0e2b3295c-c02
+
+She says many off-world devices require specialized materials unavailable on Earth.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Technology and why I cannot share More Details (English)](https://swaruu.org/transcripts/technology-and-why-i-cannot-share-more-details-english) (2024-03-25; en); passages p0002, p0009, p0010, p0011. [Structured record](../../records/src-afb0e2b3295c.json).
+
+### src-afb0e2b3295c-c05
+
+She says her channel presents technology indirectly as science fiction.
+
+Attributed to **Mari Swa**; asserted; extraction confidence: high.
+
+Source: [Technology and why I cannot share More Details (English)](https://swaruu.org/transcripts/technology-and-why-i-cannot-share-more-details-english) (2024-03-25; en); passages p0002, p0015, p0016, p0017, p0018. [Structured record](../../records/src-afb0e2b3295c.json).
+
+### src-d899adc8debe-c04
+
+She says Toleka remains under repair while Saska 1 supplies and services ships.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 15, Federation Update, February 28, 2024 (English)](https://swaruu.org/transcripts/space-news-15-federation-update-february-28-2024-english) (2024-02-29; en); passages p0002, p0007, p0008, p0009. [Structured record](../../records/src-d899adc8debe.json).
+
+### src-d899adc8debe-c05
+
+She says Saska 2 delivered two Super Suzy Mark 6 fighters without pilots.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News 15, Federation Update, February 28, 2024 (English)](https://swaruu.org/transcripts/space-news-15-federation-update-february-28-2024-english) (2024-02-29; en); passages p0002, p0008, p0009, p0010, p0011. [Structured record](../../records/src-d899adc8debe.json).
+
+### src-b781192c3a3d-c02
+
+She says Toleka-class cruisers carry four reactors near 10 meters wide; Suzy II reactors are 3–3.5 meters.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 4 - Extraterrestrial Engineering - Reactors/Plasma Engines (Taygeta - Pleiades)](https://swaruu.org/transcripts/interstellar-life-4-extraterrestrial-engineering-reactors-plasma-engines-taygeta-pleiades) (2023-11-07; en); passages p0023. [Structured record](../../records/src-b781192c3a3d.json).
+
+### src-b781192c3a3d-c03
+
+Athena describes propellant-free plasma turbines generating thrust electrically; newer polymorphic-metal versions have no moving parts.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 4 - Extraterrestrial Engineering - Reactors/Plasma Engines (Taygeta - Pleiades)](https://swaruu.org/transcripts/interstellar-life-4-extraterrestrial-engineering-reactors-plasma-engines-taygeta-pleiades) (2023-11-07; en); passages p0029, p0030, p0044, p0045. [Structured record](../../records/src-b781192c3a3d.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-fd364b9ee561-c02
+
+They join Toleka’s 28-person crew as pilots for protection; Mari denies any plan for aggression.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News: 4 New People Arriving on The Ship. First Part (English)](https://swaruu.org/transcripts/space-news-4-new-people-arriving-on-the-ship-first-part-english) (2023-11-06; en); passages p0008, p0010. [Structured record](../../records/src-fd364b9ee561.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-28ddf6479cea-c03
+
+Yazhi says Taygetan plasma-jet engines use pressurized enriched mercury in counterrotating superconducting turbines; Toleka units have nine layers.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Anti-Gravity, Enriched Mercury, and more - Extraterrestrial Tech - Yazhi Swaruu](https://swaruu.org/transcripts/anti-gravity-enriched-mercury-and-more-extraterrestrial-tech-yazhi-swaruu) (2023-11-11; en); passages p0027, p0032, p0034, p0042. [Structured record](../../records/src-28ddf6479cea.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-667e6da8febb-c05
+
+Mari says Toleka repairs require replacing four of its 12 engines, unprecedented for a ship this large in orbit.
+
+Attributed to **Mari Swa**; reported; extraction confidence: high.
+
+Source: [Space News March 22 2024, News and Birthdays (English)](https://swaruu.org/transcripts/space-news-march-22-2024-news-and-birthdays-english) (2024-03-23; en); passages p0025, p0026. [Structured record](../../records/src-667e6da8febb.json).
+
+### src-149a920c9a41-c02
+
+She says pirates build remote bases by tunneling into planets or asteroids; hollowed asteroids can become camouflaged ships.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Break Away Civilizations and Space Pirates (English)](https://swaruu.org/transcripts/break-away-civilizations-and-space-pirates-english) (2023-11-16; en); passages p0019, p0021, p0022, p0023. [Structured record](../../records/src-149a920c9a41.json).
+
+### src-be2e5cb2654b-c03
+
+Mari describes the Toleka as a city-like ship with libraries, gym, pool, kitchens, museum, and 21 cats.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Day in Mari’s Life (English)](https://swaruu.org/transcripts/a-day-in-mari-s-life-english) (2023-11-02; en); passages p0010, p0011, p0016, p0017, p0018, p0025. [Structured record](../../records/src-be2e5cb2654b.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-be2e5cb2654b-c05
+
+Mari says the Toleka orbits Earth in at most three hours and simulates night with shutters, dim lights, and soft sounds.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [A Day in Mari’s Life (English)](https://swaruu.org/transcripts/a-day-in-mari-s-life-english) (2023-11-02; en); passages p0025. [Structured record](../../records/src-be2e5cb2654b.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-31b05fa92657-c03
+
+Mari says starship engines emulate consciousness by imposing compatible vibration on components.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [You don’t need a Starship (English)](https://swaruu.org/transcripts/you-don-t-need-a-starship-english) (2024-02-10; en); passages p0012. [Structured record](../../records/src-31b05fa92657.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-58d43415bb30-c03
+
+Mari says some Taygetan ships use familiar aircraft instruments, including artificial horizons configured for atmospheric flight.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [On Starships and why many look so human, and Earth as an Isolated Island (English)](https://swaruu.org/transcripts/on-starships-and-why-many-look-so-human-and-earth-as-an-isolated-island-english) (2024-01-22; en); passages p0010, p0011, p0013, p0014. [Structured record](../../records/src-58d43415bb30.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-3a84733d9846-c01
+
+Mari reports CIC analyses and 110 drones supported her account of Maui fires.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Maui Fires, Complete Report. Space News Number 01 (English)](https://swaruu.org/transcripts/maui-fires-complete-report-space-news-number-01-english) (2023-08-19; en); passages p0012. [Structured record](../../records/src-3a84733d9846.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-3a84733d9846-c02
+
+Mari alleges the fires were deliberately started by flamethrower drones and energy weapons.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Maui Fires, Complete Report. Space News Number 01 (English)](https://swaruu.org/transcripts/maui-fires-complete-report-space-news-number-01-english) (2023-08-19; en); passages p0013, p0014. [Structured record](../../records/src-3a84733d9846.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-de6bce5d6310-c01
+
+Mari reports the Toleka was repaired by Saska 1, which remained docked for further maintenance.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)](https://swaruu.org/transcripts/space-news-11-galactic-federation-update-for-january-17-2024-english) (2024-01-18; en); passages p0003, p0004. [Structured record](../../records/src-de6bce5d6310.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-de6bce5d6310-c02
+
+Mari describes Vigilant Eagle as a 320-meter armed escort with two zero-point reactors and 25 crew.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)](https://swaruu.org/transcripts/space-news-11-galactic-federation-update-for-january-17-2024-english) (2024-01-18; en); passages p0005, p0006. [Structured record](../../records/src-de6bce5d6310.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-de6bce5d6310-c03
+
+Mari says Vigilant Eagle will stay near Toleka and needs human-made communications equipment for Earth orbit.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)](https://swaruu.org/transcripts/space-news-11-galactic-federation-update-for-january-17-2024-english) (2024-01-18; en); passages p0006, p0007. [Structured record](../../records/src-de6bce5d6310.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -1806,6 +2204,33 @@ Related topics: [Taygetans](taygetans.md).
 - [src-ac1ba0859491-c04](moon-biosphere-ship.md#src-ac1ba0859491-c04) — The Moon as a biosphere ship
 - [src-2f9edb3af632-c03](immersion-pods.md#src-2f9edb3af632-c03) — Immersion pods
 - [src-2f9edb3af632-c04](immersion-pods.md#src-2f9edb3af632-c04) — Immersion pods
+- [src-30d632b02db6-c03](gravity-harmonics.md#src-30d632b02db6-c03) — Gravity harmonics
+- [src-56d295c20b53-c03](galactic-federation.md#src-56d295c20b53-c03) — Galactic Federation
+- [src-9f11dae98ad6-c04](temporal-skipping.md#src-9f11dae98ad6-c04) — Temporal skipping
+- [src-42ef2a1bb92f-c05](taygetans.md#src-42ef2a1bb92f-c05) — Taygetans
+- [src-8609c7064ec9-c04](frequency-map-navigation.md#src-8609c7064ec9-c04) — Frequency-map navigation
+- [src-dafa77b48f2e-c05](galactic-federation.md#src-dafa77b48f2e-c05) — Galactic Federation
+- [src-a4e838c75ab3-c01](pineal-interface.md#src-a4e838c75ab3-c01) — Pineal interface
+- [src-128ec3c824ca-c05](taygetans.md#src-128ec3c824ca-c05) — Taygetans
+- [src-261f583f3783-c01](taygetans.md#src-261f583f3783-c01) — Taygetans
+- [src-261f583f3783-c02](taygetans.md#src-261f583f3783-c02) — Taygetans
+- [src-261f583f3783-c04](consciousness-metaphysics.md#src-261f583f3783-c04) — Consciousness and metaphysics
+- [src-b781192c3a3d-c01](energy-generation.md#src-b781192c3a3d-c01) — Energy generation technology
+- [src-b781192c3a3d-c04](stellar-navigation.md#src-b781192c3a3d-c04) — Stellar navigation
+- [src-b781192c3a3d-c05](gravity-harmonics.md#src-b781192c3a3d-c05) — Gravity harmonics
+- [src-110444c31179-c05](galactic-federation.md#src-110444c31179-c05) — Galactic Federation
+- [src-fd364b9ee561-c01](taygetans.md#src-fd364b9ee561-c01) — Taygetans
+- [src-667e6da8febb-c02](galactic-federation.md#src-667e6da8febb-c02) — Galactic Federation
+- [src-0a76aae844b1-c01](stellar-navigation.md#src-0a76aae844b1-c01) — Stellar navigation
+- [src-0a76aae844b1-c02](stellar-navigation.md#src-0a76aae844b1-c02) — Stellar navigation
+- [src-4d14ae46991f-c01](galactic-federation.md#src-4d14ae46991f-c01) — Galactic Federation
+- [src-4d14ae46991f-c02](taygetans.md#src-4d14ae46991f-c02) — Taygetans
+- [src-295e66a4e1b9-c02](immersion-pods.md#src-295e66a4e1b9-c02) — Immersion pods
+- [src-486d293f3a87-c02](immersion-pods.md#src-486d293f3a87-c02) — Immersion pods
+- [src-486d293f3a87-c03](immersion-pods.md#src-486d293f3a87-c03) — Immersion pods
+- [src-86dc1fdb6247-c02](taygetans.md#src-86dc1fdb6247-c02) — Taygetans
+- [src-86dc1fdb6247-c05](taygetans.md#src-86dc1fdb6247-c05) — Taygetans
+- [src-be2e5cb2654b-c04](taygetans.md#src-be2e5cb2654b-c04) — Taygetans
 
 ## Review flags
 
@@ -1815,15 +2240,19 @@ Related topics: [Taygetans](taygetans.md).
 - Weapon and defense capabilities are source-attributed technical claims
 - alternative-weapons-claims
 - ark\_location\_and\_war\_claims\_unverified
+- biological-claims-unverified
 - blockade-and-biology-attributed
 - cern-portal-claim
 - claimed\_observation
 - comparative\_technology\_claims
+- conflicting\_origin\_accounts
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
+- conspiracy\_claims
 - contested\_archaeology
 - contested\_intelligence\_claims
 - contradictory\_past\_change\_model
+- contradicts\_prior\_public\_claims
 - coverage: 5D transition forecast
 - coverage: aircraft technical details
 - coverage: climate and architecture
@@ -1835,7 +2264,9 @@ Related topics: [Taygetans](taygetans.md).
 - crime\_and\_abundance\_claims
 - design\_discussion
 - dialogue-perspectives-distinguished
+- disaster claims are source allegations; no corroboration in snapshot
 - earth-consciousness\_claim\_omitted
+- earthquake-causation-unverified
 - ether\_model
 - ethical\_use\_limits
 - extraordinary\_astronomical\_claims
@@ -1849,6 +2280,7 @@ Related topics: [Taygetans](taygetans.md).
 - extraordinary\_paranormal\_claims
 - extraordinary\_personal\_ability\_claims
 - extraordinary\_technology\_claims
+- faction\_tension
 - food\_and\_health\_claims\_unverified
 - frequency-gravity-model
 - frequency\_map\_model
@@ -1859,6 +2291,7 @@ Related topics: [Taygetans](taygetans.md).
 - historical\_account\_unverified
 - hyperspace\_model
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
+- medical-claims-unverified
 - medical-misinformation-claims
 - medical\_claims
 - medical\_claims\_omitted
@@ -1871,10 +2304,13 @@ Related topics: [Taygetans](taygetans.md).
 - personal\_accusations
 - personal\_metaphysics
 - pilot-account-attributed
+- political-claims
 - political\_structure\_claims
+- politically\_contested
 - procedure-description
 - radiation-causation-allegations
 - secret\_ship\_capability\_claims
+- source includes conflicting publication and event dates; claims retain stated dates
 - space\_suit\_claims\_unverified
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker: interviewer prompts excluded as claims
@@ -1895,14 +2331,17 @@ Related topics: [Taygetans](taygetans.md).
 - unverified\_biological\_and\_metaphysical\_claims
 - unverified\_biological\_claims
 - unverified\_cloning\_claims
+- unverified\_conspiracy\_claims
 - unverified\_cosmology\_and\_technology
 - unverified\_extraterrestrial\_claims
 - unverified\_extraterrestrial\_technology\_claims
+- unverified\_geophysical\_claims
 - unverified\_laboratory\_report
 - unverified\_lunar\_claims
 - unverified\_metaphysical\_biology
 - unverified\_military\_claims
 - unverified\_paranormal\_claims
+- unverified\_physics\_claims
 - unverified\_political\_claims
 - unverified\_technical\_claims
 - unverified\_technology\_claims
