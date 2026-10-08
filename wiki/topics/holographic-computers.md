@@ -466,6 +466,34 @@ Source: [PORTALES ESPACIO TEMPORALES – VIAJE A TRAVÉS DEL ESPACIO TIEMPO - An
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-eb16750d6a08-c03
+
+Anéeka says holographic computers are given on request without payment; a council may allocate scarce, indivisible goods, such as an original artwork.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MEDIOS DE COMUNICACIÓN EN TAYGETA - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/medios-de-comunicacion-en-taygeta-sin-video) (2021-04-19; es); passages p0009, p0011, p0013. [Structured record](../../records/src-eb16750d6a08.json).
+
+Related topics: [Economics and resources](economics.md), [Holistic society](holistic-society.md).
+
+### src-0df30c50e267-c01
+
+Swaruu says holographic quantum computers match desired material outputs to equivalent etheric frequency patterns.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Ordenadores Cuánticos, Matemática Base 12 y Mas - Conocimiento Extraterrestre (Swaruu - Pléyades)](https://swaruu.org/transcripts/ordenadores-cuanticos-matematica-base-12-y-mas-conocimiento-extraterrestre-swaruu-pleyades) (2021-01-01; es); passages p0002, p0004, p0005, p0014. [Structured record](../../records/src-0df30c50e267.json).
+
+Related topics: [Ether field](ether-field.md).
+
+### src-3f3c87a05939-c02
+
+Yázhi describes crystal data grids as frequency-coded molecular sectors, read by precise interferometers or lasers.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte Final - Yazhi con Dale Harder](https://swaruu.org/transcripts/tecnologia-extraterrestre-cristales-y-reactores-punto-zero-parte-final-yazhi-con-dale-harder) (2021-04-07; es); passages p0026, p0040, p0042. [Structured record](../../records/src-3f3c87a05939.json).
+
 ## Claims filed under other topics
 
 - [src-f22366424c26-c01](moon-matrix.md#src-f22366424c26-c01) — Moon and terrestrial Matrix
@@ -507,17 +535,23 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-cd1fcaa78711-c02](muon-gravity-communications.md#src-cd1fcaa78711-c02) — Muon-triggered gravity communications
 - [src-a02207051534-c05](nazca-spaceport.md#src-a02207051534-c05) — Nazca spaceport
 - [src-e1b812564c1f-c01](starship-systems.md#src-e1b812564c1f-c01) — Starship systems
+- [src-cddf1937a380-c02](sentient-starship-ai.md#src-cddf1937a380-c02) — Sentient starship AI
+- [src-220efa38c406-c01](crystal-core-zero-point-reactors.md#src-220efa38c406-c01) — Crystal-core zero-point reactors
+- [src-a6ebb6326b6a-c01](immersion-pods.md#src-a6ebb6326b6a-c01) — Immersion pods
 
 ## Review flags
 
+- AI-sentience-claims
 - Alenym-retirement-not-decided
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- Core technology described as extraterrestrial; source offers no engineering measurements.
 - EMP-intervention-field-unknown
 - ai-clone-claims-attributed
 - biomedical-claims-not-independently-supported
 - blockade-and-biology-attributed
 - computer-throughput-claim-attributed
 - contested-space-history-allegation
+- ether-field-model
 - ether\_and\_manifestation\_model
 - ether\_model
 - extraordinary\_ai\_claims
@@ -534,10 +568,13 @@ Related topics: [Starship systems](starship-systems.md).
 - machine-versus-etheric-implant-mechanisms
 - nanotechnology-claims
 - nonstandard-physics-claims
+- online-AI-control-conspiracy-claims
 - pandemic-control-claims
 - particle-vs-carrier-speed-distinction
 - pilot-account-attributed
 - portal-energy-estimates-attributed
+- quantum-mechanics-reinterpretation
+- reactor-mechanism-attributed
 - related-frequency-navigation-source
 - related\_series\_part
 - technology-described-by-mari

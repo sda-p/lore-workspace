@@ -204,6 +204,14 @@ Source: [Aceleración de Tiempo y Interiorizacion de Datos - Swaruu de Erra (Tay
 
 Related topics: [Immersion pods](immersion-pods.md), [Ship internal time](ship-internal-time.md).
 
+### src-74df7085bcef-c01
+
+Anéeka says some extraterrestrials incarnate on Earth to test themselves, then return home with what they learned.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-creacion-del-cabal-reptiles-y-manifestaciones-humanas) (2021-10-10; es); passages p0003. [Structured record](../../records/src-74df7085bcef.json).
+
 ## Claims filed under other topics
 
 - [src-e1b4f8c5afc0-c03](alien-species.md#src-e1b4f8c5afc0-c03) — Alien species and distinctions
@@ -215,6 +223,7 @@ Related topics: [Immersion pods](immersion-pods.md), [Ship internal time](ship-i
 
 ## Review flags
 
+- Anéeka says Reptilian exploitation is partial, not a complete account of Earth events.
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - historical-claims-unverified

@@ -76,6 +76,16 @@ Source: [APAGÓN EN ARGENTINA - QUE ESTA PASANDO - POR QUÉ](https://swaruu.org/
 
 Related topics: [Reptilians](reptilians.md).
 
+### src-7e3952095f4b-c02
+
+She distinguishes fear-created Reptilian tulpas parasitizing politicians from tangible Kingu; positive Kingu variants exist.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Tulpas, Reptiles Kingu, Federación Galactica - Yazhi (Comunicacion Extraterrestre - Pleyades)](https://swaruu.org/transcripts/tulpas-reptiles-kingu-federacion-galactica-yazhi-comunicacion-extraterrestre-pleyades) (2021-05-23; es); passages p0003, p0004, p0005, p0007, p0008. [Structured record](../../records/src-7e3952095f4b.json).
+
+Related topics: [Reptilians](reptilians.md), [Tulpas](tulpas.md).
+
 ## Claims filed under other topics
 
 - [src-afa1873e4741-c02](alien-species.md#src-afa1873e4741-c02) — Alien species and distinctions
@@ -86,15 +96,22 @@ Related topics: [Reptilians](reptilians.md).
 - [src-74c032374fff-c01](alien-species.md#src-74c032374fff-c01) — Alien species and distinctions
 - [src-55aa4da20352-c01](maitre.md#src-55aa4da20352-c01) — Maitre
 - [src-d575fee8efe8-c04](reptilians.md#src-d575fee8efe8-c04) — Reptilians
+- [src-aac42554ceb6-c02](tulpas.md#src-aac42554ceb6-c02) — Tulpas
+- [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
+- [src-5c6ca52aaabd-c01](intraterrestrial-civilizations.md#src-5c6ca52aaabd-c01) — Intraterrestrial civilizations
 
 ## Review flags
 
 - Species summaries are broad and based on accounts attributed to orbital sources
 - abduction-mutilation-claims
 - aircraft-identity-ambiguity
+- antarctic-base-conspiracy-claims
 - claims-attributed-to-source-narrators
 - conspiracy-claims
 - definition\_varies
+- federation-infiltration-allegations
+- hidden-inner-earth-entrance-claim
 - lunar-artificial-structure-claims-attributed
+- metaphysical-entity-origin-claims
 - reptilian-species-versus-reptile-egregor
 - species-labels-uncertain

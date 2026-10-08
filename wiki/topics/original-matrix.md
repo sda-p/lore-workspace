@@ -384,6 +384,46 @@ Source: [Implantes de Memorias - Manejo de la Matrix 3D - Información Extraterr
 
 Related topics: [Galactic Federation](galactic-federation.md), [Timeline branching](timeline-branching.md), [Collective timeline influence](collective-timeline-influence.md).
 
+### src-9c7b2d494a6f-c01
+
+Yazhi says a collective unconscious consists of a community’s tacit perceptual agreements, forming its conceptual reality bubble. Her model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Federacion y Inconsciente Colectivo Humano - Humanos son la Clave (Yazhi - Contacto Extraterrestre)](https://swaruu.org/transcripts/federacion-y-inconsciente-colectivo-humano-humanos-son-la-clave-yazhi-contacto-extraterrestre) (2021-03-14; es); passages p0110, p0111. [Structured record](../../records/src-9c7b2d494a6f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9c7b2d494a6f-c02
+
+She says outsiders can guide inhabitants of a reality bubble but cannot impose lasting change; direct intervention is reserved for paradigm-threatening cases. Her account of cross-reality limits.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Federacion y Inconsciente Colectivo Humano - Humanos son la Clave (Yazhi - Contacto Extraterrestre)](https://swaruu.org/transcripts/federacion-y-inconsciente-colectivo-humano-humanos-son-la-clave-yazhi-contacto-extraterrestre) (2021-03-14; es); passages p0112, p0114, p0115, p0117. [Structured record](../../records/src-9c7b2d494a6f.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-484a3e354961-c01
+
+Yazhi says Earth has a distinct perception Matrix, so terrestrial science, history and extraterrestrial concepts differ from off-world agreements.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica - Falsas Realidades ET en las Comunidades OVNI - Información Extraterrestre](https://swaruu.org/transcripts/federacion-galactica-falsas-realidades-et-en-las-comunidades-ovni-informacion-extraterrestre) (2021-07-15; es); passages p0009, p0010, p0011, p0012. [Structured record](../../records/src-484a3e354961.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0a7a9d2fed72-c01
+
+Yazhi presents a collective soul-level exit from the 3D Matrix as possible, but rejects mass death as unethical and urges resistance on Earth. She offers this as her interpretation.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Si Todo es el Plan de Planos Superiores - Que Hacemos? - Yazhi Swaruu - Comunicación Extraterrestre \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/si-todo-es-el-plan-de-planos-superiores-que-hacemos-yazhi-swaruu-comunicacion-extraterrestre) (2020-11-25; es); passages p0022, p0047, p0058, p0081, p0084. [Structured record](../../records/src-0a7a9d2fed72.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bb4c17621e1a-c02](moon-matrix.md#src-bb4c17621e1a-c02) — Moon and terrestrial Matrix
@@ -418,6 +458,11 @@ Related topics: [Galactic Federation](galactic-federation.md), [Timeline branchi
 - [src-46fa49e664e1-c03](tulpas.md#src-46fa49e664e1-c03) — Tulpas
 - [src-b24a05072ad7-c01](moon-matrix.md#src-b24a05072ad7-c01) — Moon and terrestrial Matrix
 - [src-89c87eaf0e6d-c01](consciousness-metaphysics.md#src-89c87eaf0e6d-c01) — Consciousness and metaphysics
+- [src-0df30c50e267-c04](consciousness-metaphysics.md#src-0df30c50e267-c04) — Consciousness and metaphysics
+- [src-2f14c95980f4-c03](memory-veil.md#src-2f14c95980f4-c03) — Memory Veil
+- [src-d886f4bf6787-c02](consciousness-metaphysics.md#src-d886f4bf6787-c02) — Consciousness and metaphysics
+- [src-f692b0750026-c02](galactic-federation.md#src-f692b0750026-c02) — Galactic Federation
+- [src-0a7a9d2fed72-c03](earth-cabal.md#src-0a7a9d2fed72-c03) — Earth Cabal and power structures
 
 ## Review flags
 
@@ -427,13 +472,17 @@ Related topics: [Galactic Federation](galactic-federation.md), [Timeline branchi
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
 - agency\_and\_noninterference
 - archon-scope-is-broad
+- astral-perception-agenda-claim
 - claims about fabricated histories and public events are attributed lore, not independently substantiated
+- competing-human-and-federation-perspectives-attributed
 - conspiracy-claims
 - conspiracy\_claims
 - contested-claims
 - cosmology-claims-attributed
 - entertainment-disclaimer
+- ether-field-model
 - federation-authority-critique
+- federation-level-claims-attributed
 - historical-uncertainty
 - invasive-ai-claims-attributed
 - matrix-scope-differing-views
@@ -443,11 +492,18 @@ Related topics: [Galactic Federation](galactic-federation.md), [Timeline branchi
 - metaphysical-model
 - metaphysical\_model
 - mirror-identity-varies
+- multiple-lyrian-origin-traditions
+- nonlinear-human-origin-model
+- nonphysical-memory-mechanism-claims
 - nonstandard-physics-claims
 - objective-versus-personal-reality-framing
+- pandemic-and-political-claims-excluded
+- pandemic-claims-excluded
 - paranormal\_claims
 - personal\_metaphysics
+- quantum-mechanics-reinterpretation
 - quoted-speaker-attribution:NaiShara-quotes-Yazhi
+- source frames vaccine-related mass death as a hypothetical soul-level exit while explicitly opposing genocide; avoid treating it as endorsed policy
 - speaker-perspective-model
 - speaker-shift-in-source
 - species-origin-model-attributed

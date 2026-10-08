@@ -1,0 +1,50 @@
+{
+  "source_id": "src-cb85dc7702bb",
+  "snapshot_sha256": "4d6b26255714a1e85347d2622efe27652e014b785330efd93c0ccbb1a53ba180",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cb85dc7702bb-c01",
+      "assertion": "Yazhi says breaking physical-world perception agreements requires embodying a desired state, not merely intending it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb85dc7702bb-c02",
+      "assertion": "She proposes lucid-dream practice as a route to treating astral and physical reality as one controllable mental field.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "lore-claims-attributed-to-Yazhi"
+  ],
+  "coverage_gaps": [
+    "limits-of-wall-passing"
+  ]
+}

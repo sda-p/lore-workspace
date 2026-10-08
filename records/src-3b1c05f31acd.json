@@ -1,0 +1,67 @@
+{
+  "source_id": "src-3b1c05f31acd",
+  "snapshot_sha256": "2d718560d1e263c7f98a2b9d6917954ebd48705c2eb8f2c1f741a5bc24ede4c9",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says thoughts are frequencies generated in the etheric field, with the brain translating them into material experience; she describes living cells and DNA as receivers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed to Mari’s metaphysical model.",
+      "id": "src-3b1c05f31acd-c01"
+    },
+    {
+      "assertion": "She says people broadcast thoughts into a shared field; common ideas reinforce their frequencies, and individuals tune to compatible patterns from others.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-3b1c05f31acd-c02"
+    },
+    {
+      "assertion": "Mari says starseeds can positively alter a realm’s energetic field through presence; stronger-frequency thoughts may influence thousands or more.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed to Mari’s model.",
+      "id": "src-3b1c05f31acd-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "emotional-advice-omitted"
+  ]
+}

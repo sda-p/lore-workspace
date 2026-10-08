@@ -8,7 +8,15 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
-Primary assertions are filed under the linked topics below.
+### src-7f78e5cfd758-c01
+
+Anéeka says astral contact with star families is possible, but high-frequency memories translate poorly into waking 3D. She says training can improve recall.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL ASTRAL – TU FAMILIA ESTELAR - EL VELO DEL OLVIDO Anéeka de Temmer](https://swaruu.org/transcripts/el-astral-tu-familia-estelar-el-velo-del-olvido-aneeka-de-temmer) (2020-11-14; es); passages p0002, p0003. [Structured record](../../records/src-7f78e5cfd758.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
 ## Claims filed under other topics
 
@@ -16,7 +24,11 @@ Primary assertions are filed under the linked topics below.
 - [src-2c208260f578-c04](consciousness-metaphysics.md#src-2c208260f578-c04) — Consciousness and metaphysics
 - [src-2c208260f578-c05](consciousness-metaphysics.md#src-2c208260f578-c05) — Consciousness and metaphysics
 - [src-2c208260f578-c06](consciousness-metaphysics.md#src-2c208260f578-c06) — Consciousness and metaphysics
+- [src-78ab0bda1cd0-c02](consciousness-metaphysics.md#src-78ab0bda1cd0-c02) — Consciousness and metaphysics
 
 ## Review flags
 
+- astral-memory-frequency-claim
+- collective-self-perspective-attributed
 - incarnation-afterlife-metaphysics
+- postmortem-reincarnation-model

@@ -1,0 +1,94 @@
+{
+  "source_id": "src-eb8d5c381779",
+  "snapshot_sha256": "e172bd7104857c94c31eeff4765a84a12f7993e3dfa85601a9650945f47bf2f6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-eb8d5c381779-c01",
+      "assertion": "Yazhi says minerals can be atomically replicated, while living matter cannot.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb8d5c381779-c02",
+      "assertion": "Anéeka describes the pineal as translating brain-and-body etheric signals into conscious memories of astral experiences.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb8d5c381779-c03",
+      "assertion": "Yazhi says Hiroshima and Nagasaki reportedly alarmed nearby Federation representatives, but she cannot explain the apparent policy exception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb8d5c381779-c04",
+      "assertion": "Anéeka says Taygeta remains linked to the Federation through Alcyone Council while reducing direct Federation ties.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0049",
+        "p0052"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb8d5c381779-c05",
+      "assertion": "Anéeka says Taygetans can guide humans or send volunteer seeds, but cannot directly free Earth’s population.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0054"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified."
+  ],
+  "coverage_gaps": [
+    "pineal anatomy claims",
+    "seismic and HAARP claims",
+    "appendix and vestigial-organ claims"
+  ]
+}

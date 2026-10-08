@@ -1,0 +1,100 @@
+{
+  "source_id": "src-be4d6a42f7c2",
+  "snapshot_sha256": "9bf72f14989e7e849ed416091215671d3f70a8ed8924cde9fd6997b200d9e449",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-be4d6a42f7c2-c01",
+      "assertion": "Yazhi says Reptilians may need mental effort to maintain altered forms; human blood tests could register their cover as human.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0026"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-be4d6a42f7c2-c02",
+      "assertion": "She describes machine mind-reading through neural-signal mapping or behavioral profiles combining voice, face and online data.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0055",
+        "p0058",
+        "p0059",
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-be4d6a42f7c2-c03",
+      "assertion": "Yazhi says impact-formed moldavite retains an extraterrestrial frequency and is scarce because it comes from one impact region.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0070",
+        "p0072",
+        "p0079"
+      ],
+      "primary_topic": "moldavite",
+      "topics": [
+        "moldavite"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-be4d6a42f7c2-c04",
+      "assertion": "She says moldavite can raise personal frequency and is best used alone or with white amethyst as amplifier.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0077",
+        "p0088"
+      ],
+      "primary_topic": "moldavite",
+      "topics": [
+        "moldavite"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-be4d6a42f7c2-c05",
+      "assertion": "Yazhi warns cryptocurrency may aid cashless control, including digital funds with expiration dates.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "attributed-lore-claims"
+  ],
+  "coverage_gaps": [
+    "reptilian-disguise-limitations",
+    "moldavite-composition"
+  ]
+}

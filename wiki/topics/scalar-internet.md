@@ -38,6 +38,25 @@ Source: [INTERNET MULTI DIMENSIONAL CUANTICO ESCALAR ANÉEKA DE TEMMER](https://
 
 Related topics: [Artificial intelligence](artificial-intelligence.md), [Taygetans](taygetans.md).
 
+### src-b0eb7ba14903-c02
+
+Anéeka speculates a possible internet blackout could reboot the network, remove alternatives, and tighten restrictions, without giving timing or certainty.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Pruebas de PCR, Nanotecnologia y Q Anon - Peligros de Pruebas PCR - Advertencia a la Humanidad - Aneeka y Yazhi](https://swaruu.org/transcripts/pruebas-de-pcr-nanotecnologia-y-q-anon-peligros-de-pruebas-pcr-advertencia-a-la-humanidad-aneeka-y-y) (2021-02-13; es); passages p0004. [Structured record](../../records/src-b0eb7ba14903.json).
+
+### src-482490d8772a-c02
+
+Anéeka speculated that social platforms, not the whole internet, might be shut down to justify digital identity controls; she stressed uncertainty. Forecast was explicitly uncertain and time-bound.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Desconexion de Redes Sociales - Solo texto](https://swaruu.org/transcripts/desconexion-de-redes-sociales-solo-texto) (2021-10-07; es); passages p0013, p0021. [Structured record](../../records/src-482490d8772a.json).
+
 ## Review flags
 
+- Internet-blackout prediction is explicitly uncertain.
+- PCR and vaccine medical claims omitted.
+- Time-bound 2021 prediction; no outcome asserted.
 - contradictory-information-model-is-source-claim

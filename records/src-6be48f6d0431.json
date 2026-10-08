@@ -1,0 +1,49 @@
+{
+  "source_id": "src-6be48f6d0431",
+  "snapshot_sha256": "7bfbef4e6688028ca87436cbc70546df7a3e7e2f9285af4325816382d433db6c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6be48f6d0431-c01",
+      "assertion": "Gosia and Robert allege that hostile controllers use fabricated images, edited records and clones to discredit Taygetan contact.",
+      "speaker": "Gosia and Robert",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "human-clones"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6be48f6d0431-c02",
+      "assertion": "They argue that wider contact contexts are omitted and say some private participants experienced harmonious contact.",
+      "speaker": "Gosia and Robert",
+      "paragraph_ids": [
+        "p0005",
+        "p0009"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "disputed-contact-authenticity-narrative"
+  ],
+  "coverage_gaps": [
+    "specific-disinformation-examples"
+  ]
+}

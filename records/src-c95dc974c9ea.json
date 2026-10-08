@@ -1,0 +1,70 @@
+{
+  "source_id": "src-c95dc974c9ea",
+  "snapshot_sha256": "64cdc4ac6fb14765c6c5fba3fc0986ae14ef1ecebfd36f8ece9dacf5ca4afccd",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Athena says starseeds undergo astral military abductions and related missions, but acknowledges no concrete evidence; she distinguishes astral from physical cases.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "astral-military-units"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Athena explicitly says there is no concrete evidence.",
+      "id": "src-c95dc974c9ea-c01"
+    },
+    {
+      "assertion": "Athena says personnel consciously project into astral military units, where opposing forces fight; she says such activity is not necessarily harmful and may affect physical events.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0015",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "astral-military-units",
+      "topics": [
+        "astral-military-units",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-c95dc974c9ea-c02"
+    },
+    {
+      "assertion": "Yazhi says astral scenes respond rapidly to imagination and advises dream or projection practice and assertive boundaries as ways to resist unwanted encounters.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0068",
+        "p0070",
+        "p0071",
+        "p0073",
+        "p0075"
+      ],
+      "primary_topic": "astral-military-units",
+      "topics": [
+        "astral-military-units",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as her advice.",
+      "id": "src-c95dc974c9ea-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "physical-milab-claims-omitted"
+  ]
+}

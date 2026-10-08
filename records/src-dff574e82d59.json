@@ -1,0 +1,85 @@
+{
+  "source_id": "src-dff574e82d59",
+  "snapshot_sha256": "930f38c0d5c310f10239c4265f43d7995e059ca8b0a3eadb5453a0fc6dcc93a0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dff574e82d59-c01",
+      "assertion": "Athena says a Federation alliance discussed helping Earth decades ago, but intervention remains indirect and insufficient.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dff574e82d59-c02",
+      "assertion": "She says starseeds, step-downs, walk-ins and souls from Source enter Earth to awaken people, often through immersion pods.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "starseed-guides",
+      "topics": [
+        "starseed-guides",
+        "immersion-pods"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dff574e82d59-c03",
+      "assertion": "Athena says the Federation removed negative extraterrestrial forces from the Solar System, while remaining threats are concentrated on Earth.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dff574e82d59-c04",
+      "assertion": "She says Mars has human-Reptilian, Mantis and Maitre sectors; Maitre treaties prevent legal expulsion under Federation law.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "maitre",
+        "aethien-mantis",
+        "secret-space-program",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "claims-attributed-to-Athena",
+    "source-disputes-current-liberation-narrative"
+  ],
+  "coverage_gaps": [
+    "Earth-outcomes",
+    "Jupiter-sector"
+  ]
+}

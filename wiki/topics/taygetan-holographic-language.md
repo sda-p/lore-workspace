@@ -6,6 +6,12 @@ Aliases: lengua holográfica taygeteana, Taygetan language
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Taygetan language](taygetan-language.md)
+
 ## Collected claims
 
 ### src-848430840164-c01

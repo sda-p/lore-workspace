@@ -1,0 +1,72 @@
+{
+  "source_id": "src-9d5a0a649d33",
+  "snapshot_sha256": "7a0e17438864143a14164e99115dcd57f6be2941f0cb791dde8aa1cb25f90f6c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9d5a0a649d33-c01",
+      "assertion": "Mari says astral projection is a conscious out-of-body experience, occurring naturally, through practice, or by artificial induction; she distinguishes it from lucid dreaming.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0018"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These descriptions are framed as beliefs."
+    },
+    {
+      "id": "src-9d5a0a649d33-c02",
+      "assertion": "Mari alleges militaries induce astral projection using drugs, deprivation, and sensory-isolation capsules, then use astral units for remote viewing or facility defense.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "postmortem-realities"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Unverified claim."
+    },
+    {
+      "id": "src-9d5a0a649d33-c03",
+      "assertion": "Mari says astral realms reflect inhabitants’ perceptions and can affect the material world, which she describes as generated from them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0015",
+        "p0016",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-military-claims"
+  ],
+  "coverage_gaps": [
+    "astral-projection",
+    "military-astral-operations"
+  ]
+}

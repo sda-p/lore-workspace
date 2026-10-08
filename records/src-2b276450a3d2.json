@@ -1,0 +1,103 @@
+{
+  "source_id": "src-2b276450a3d2",
+  "snapshot_sha256": "0c45f01b39c3a5dbd07ee3b0b50e7a4eb7053c7c361fc910e949005bf91c9885",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2b276450a3d2-c01",
+      "assertion": "Yazhi describes a continuum of consciousness, with simpler minds composing more complex beings.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2b276450a3d2-c02",
+      "assertion": "From an expanded view, all existence forms one timeless, nonlocal field of ideas.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2b276450a3d2-c03",
+      "assertion": "She says selfhood and perceived surroundings arise through attachments that filter experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2b276450a3d2-c04",
+      "assertion": "Yazhi describes time as thought’s rhythm and distance as a concept measured through time.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2b276450a3d2-c05",
+      "assertion": "She says postmortem environments reflect a person’s carried ideas, attachments, values, and ethics.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts"
+  ],
+  "coverage_gaps": [
+    "transition between realities",
+    "mechanics of consciousness"
+  ]
+}

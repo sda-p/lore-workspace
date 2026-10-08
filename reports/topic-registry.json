@@ -1986,5 +1986,374 @@
       "sonic saw",
       "sierra de sonido"
     ]
+  },
+  {
+    "id": "aura-spectrometry",
+    "name": "Aura spectrometry",
+    "kind": "technology",
+    "aliases": [
+      "soul spectrometer",
+      "aura spectrometer"
+    ]
+  },
+  {
+    "id": "pyramid-network",
+    "name": "Pyramid energy and portal network",
+    "kind": "technology network",
+    "aliases": [
+      "pyramids",
+      "red de pirámides"
+    ]
+  },
+  {
+    "id": "giza-labyrinth",
+    "name": "Giza Labyrinth",
+    "kind": "underground base",
+    "aliases": [
+      "El Laberinto"
+    ]
+  },
+  {
+    "id": "alien-abduction-practices",
+    "name": "Alien abduction practices",
+    "kind": "technology and encounter process",
+    "aliases": [
+      "abductions",
+      "abducción extraterrestre"
+    ]
+  },
+  {
+    "id": "ahcs-computers",
+    "name": "Advanced Holographic Computer Systems (AHCS)",
+    "kind": "technology",
+    "aliases": [
+      "AHCS",
+      "Sistemas Computacionales Holográficos Avanzados"
+    ]
+  },
+  {
+    "id": "taygetan-base-12-mathematics",
+    "name": "Taygetan Base-12 Mathematics",
+    "kind": "mathematics",
+    "aliases": [
+      "base 12",
+      "Taygetan mathematics"
+    ]
+  },
+  {
+    "id": "antarctica",
+    "name": "Antarctica",
+    "kind": "location",
+    "aliases": [
+      "Antarctic bases",
+      "Antarctic interior"
+    ]
+  },
+  {
+    "id": "human-biosuit-model",
+    "name": "Humanity as a shared biological suit",
+    "kind": "species model",
+    "aliases": [
+      "bio-traje humano",
+      "biological suit"
+    ]
+  },
+  {
+    "id": "arsinoe-magdalene",
+    "name": "Arsinoe–Mary Magdalene",
+    "kind": "person or identity",
+    "aliases": [
+      "Arsinoe IV",
+      "Mary Magdalene"
+    ]
+  },
+  {
+    "id": "smart-flight-suits",
+    "name": "Smart flight suits",
+    "kind": "technology",
+    "aliases": [
+      "trajes inteligentes",
+      "Taygetan flight suits"
+    ]
+  },
+  {
+    "id": "ritual-symbolism-in-media",
+    "name": "Ritual symbolism in toys and media",
+    "kind": "symbolism",
+    "aliases": [
+      "simbología oculta en juguetes"
+    ]
+  },
+  {
+    "id": "atomic-wave-structure",
+    "name": "Taygetan atomic wave structure",
+    "kind": "cosmological model",
+    "aliases": [
+      "estructura atómica",
+      "nodos y ondas estacionarias"
+    ]
+  },
+  {
+    "id": "crystal-core-zero-point-reactors",
+    "name": "Crystal-core zero-point reactors",
+    "kind": "technology",
+    "aliases": [
+      "Quartz merkaba reactor",
+      "crystal-core reactor"
+    ]
+  },
+  {
+    "id": "cetaceans",
+    "name": "Cetaceans",
+    "kind": "species group",
+    "aliases": [
+      "dolphins",
+      "whales",
+      "cetaceans"
+    ]
+  },
+  {
+    "id": "enki-enlil-factions",
+    "name": "Enki and Enlil factions",
+    "kind": "factional concepts",
+    "aliases": [
+      "Enki",
+      "Enlil"
+    ]
+  },
+  {
+    "id": "elohim",
+    "name": "Elohim groups",
+    "kind": "species group",
+    "aliases": [
+      "Elohi",
+      "Elohim"
+    ]
+  },
+  {
+    "id": "usungal",
+    "name": "Usungal",
+    "kind": "species",
+    "aliases": [
+      "Usungal reptilians"
+    ]
+  },
+  {
+    "id": "neural-frequency-genetic-engineering",
+    "name": "Neural frequency and genetic engineering",
+    "kind": "biological mechanism",
+    "aliases": [
+      "alteración genética neuronal"
+    ]
+  },
+  {
+    "id": "taygetan-toys-and-games",
+    "name": "Taygetan toys and games",
+    "kind": "culture",
+    "aliases": [
+      "juguetes y juegos en Taygeta"
+    ]
+  },
+  {
+    "id": "soul-loop-reincarnation",
+    "name": "Soul-loop reincarnation",
+    "kind": "cosmology",
+    "aliases": [
+      "soul loops",
+      "reincarnation loops"
+    ]
+  },
+  {
+    "id": "eden-escape",
+    "name": "Eden Escape",
+    "kind": "historical event",
+    "aliases": [
+      "Adamic liberation"
+    ]
+  },
+  {
+    "id": "antarians",
+    "name": "Antarians",
+    "kind": "civilization",
+    "aliases": [
+      "Antarianos"
+    ]
+  },
+  {
+    "id": "alfrateans",
+    "name": "Alfrateans",
+    "kind": "civilization",
+    "aliases": [
+      "Alfrateanos"
+    ]
+  },
+  {
+    "id": "taygetan-mobile-plants",
+    "name": "Mobile Plants of Taygeta",
+    "kind": "flora",
+    "aliases": [
+      "Erra moving plants",
+      "Ents"
+    ]
+  },
+  {
+    "id": "lyrians",
+    "name": "Lyrians",
+    "kind": "civilization",
+    "aliases": [
+      "raza liriana",
+      "Lyrian race"
+    ]
+  },
+  {
+    "id": "galactic-high-energy-arms",
+    "name": "Galactic high-energy arms",
+    "kind": "celestial phenomenon",
+    "aliases": [
+      "gravitational arms",
+      "olas de gravedad"
+    ]
+  },
+  {
+    "id": "solar-consciousness",
+    "name": "Solar consciousness",
+    "kind": "cosmology",
+    "aliases": [
+      "conciencia del Sol"
+    ]
+  },
+  {
+    "id": "black-raven-uavs",
+    "name": "Black Raven UAVs",
+    "kind": "technology",
+    "aliases": [
+      "Black Raven drone family",
+      "RX-111 A/B"
+    ]
+  },
+  {
+    "id": "black-raven-uav",
+    "name": "Black Raven UAV",
+    "kind": "technology",
+    "aliases": [
+      "Black Raven drones",
+      "RX-111 A/B"
+    ]
+  },
+  {
+    "id": "astral-travel",
+    "name": "Astral Travel",
+    "kind": "practice and phenomenon",
+    "aliases": [
+      "astral projection",
+      "viaje astral"
+    ]
+  },
+  {
+    "id": "memory-veil",
+    "name": "Memory Veil",
+    "kind": "cosmology",
+    "aliases": [
+      "veil of forgetting",
+      "velo del olvido"
+    ]
+  },
+  {
+    "id": "druidic-traditions",
+    "name": "Druidic traditions",
+    "kind": "historical culture",
+    "aliases": [
+      "druids",
+      "Celtic druids"
+    ]
+  },
+  {
+    "id": "c-17-globemaster",
+    "name": "C-17 Globemaster",
+    "kind": "aircraft",
+    "aliases": [
+      "C-17",
+      "Globemaster"
+    ]
+  },
+  {
+    "id": "high-greys",
+    "name": "High Greys",
+    "kind": "species group",
+    "aliases": [
+      "Grises Altos"
+    ]
+  },
+  {
+    "id": "secret-society-hierarchy",
+    "name": "Secret-society hierarchy",
+    "kind": "organization structure",
+    "aliases": [
+      "sociedades secretas",
+      "compartmentalized societies"
+    ]
+  },
+  {
+    "id": "vampires",
+    "name": "Vampires",
+    "kind": "parasitic entity group",
+    "aliases": [
+      "vampirism",
+      "upirólogo entities",
+      "upirismo"
+    ]
+  },
+  {
+    "id": "astral-entities",
+    "name": "Astral entities",
+    "kind": "species group",
+    "aliases": [
+      "entidades astrales",
+      "low astral entities"
+    ]
+  },
+  {
+    "id": "protective-charms",
+    "name": "Protective charms",
+    "kind": "technology",
+    "aliases": [
+      "amulets",
+      "iron charms"
+    ]
+  },
+  {
+    "id": "humanity-multi-species-experiment",
+    "name": "Humanity as a multi-species experiment",
+    "kind": "civilization",
+    "aliases": [
+      "humanidad como experimento de varias razas"
+    ]
+  },
+  {
+    "id": "witchcraft-and-voodoo",
+    "name": "Witchcraft and Voodoo",
+    "kind": "practice",
+    "aliases": [
+      "brujería",
+      "vudú"
+    ]
+  },
+  {
+    "id": "sentient-crystals",
+    "name": "Sentient crystals",
+    "kind": "entity or phenomenon",
+    "aliases": [
+      "crystals as 1D beings",
+      "1D crystal pets"
+    ]
+  },
+  {
+    "id": "bucegi-underground-base",
+    "name": "Bucegi underground base",
+    "kind": "location",
+    "aliases": [
+      "Bucegi DUMB",
+      "Bucegi base"
+    ]
   }
 ]

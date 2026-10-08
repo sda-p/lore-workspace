@@ -138,6 +138,16 @@ Source: [Tecnologia Extraterrestre: Procedimiento de Despegue y Vuelo (Mensaje P
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-d3e73f956099-c04
+
+She says Taygetan time varies by person, so telepathy and star positions coordinate events while synchronized clocks quickly drift. Her description.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pleyades - Taygeta - Preguntas del Público para Anéeka de Temmer (Contacto Extraterrestre)](https://swaruu.org/transcripts/pleyades-taygeta-preguntas-del-publico-para-aneeka-de-temmer-contacto-extraterrestre) (2020-11-11; es); passages p0107, p0108, p0110, p0113. [Structured record](../../records/src-d3e73f956099.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md), [Taygetan ecosystems](taygetan-ecosystems.md).
+
 ## Claims filed under other topics
 
 - [src-07494ef21f67-c02](cyndriel.md#src-07494ef21f67-c02) — Cyndriel
@@ -147,6 +157,7 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - [src-1f01e4810fc2-c03](taygetans.md#src-1f01e4810fc2-c03) — Taygetans
 - [src-fe16588859c1-c03](stellar-navigation.md#src-fe16588859c1-c03) — Stellar navigation
 - [src-48549c0d0a4c-c02](extraterrestrial-stepdowns.md#src-48549c0d0a4c-c02) — Extraterrestrial step-downs
+- [src-ba1c5a843ad1-c05](immersion-pods.md#src-ba1c5a843ad1-c05) — Immersion pods
 
 ## Review flags
 
@@ -154,7 +165,10 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - cyndriel-environment-claim
 - extraordinary-ability-claims
 - historical-event-identified-from-painting
+- immersion-metaphysics-claims
+- medical-and-abduction-claims-excluded
 - personal-ability-claims-attributed
+- pod-failure-outcomes
 - subjective-time-model
 - translation-counterpart: none identified
 - unverified\_temporal\_claims

@@ -1,0 +1,88 @@
+{
+  "source_id": "src-0a7a9d2fed72",
+  "snapshot_sha256": "b9ba45ae9b94bcf12f7ff7d331458566e5215c14fffe80b952857982a5df36d0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0a7a9d2fed72-c01",
+      "assertion": "Yazhi presents a collective soul-level exit from the 3D Matrix as possible, but rejects mass death as unethical and urges resistance on Earth.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0047",
+        "p0058",
+        "p0081",
+        "p0084"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She offers this as her interpretation."
+    },
+    {
+      "id": "src-0a7a9d2fed72-c02",
+      "assertion": "Yazhi says all levels of existence are one; broader perspectives do not invalidate embodied suffering or ethical duties.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0038",
+        "p0056",
+        "p0057",
+        "p0095"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a7a9d2fed72-c03",
+      "assertion": "Yazhi portrays the Cabal as a destructive role sustained by creator consciousness within the Matrix’s contrast-driven game.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a7a9d2fed72-c04",
+      "assertion": "Yazhi criticizes the Galactic Federation for invoking karma and nonintervention while Earth suffers.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0096",
+        "p0097"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her criticism of their stance."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source frames vaccine-related mass death as a hypothetical soul-level exit while explicitly opposing genocide; avoid treating it as endorsed policy"
+  ],
+  "coverage_gaps": [
+    "competing soul-perspective interpretations",
+    "planetary resource argument",
+    "resistance and attention model"
+  ]
+}

@@ -108,12 +108,21 @@ Source: [Moviendo por el Éter - Conciencia y Navegación Estelar (Mensaje Extra
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-4077e2cdca7d-c02
+
+Swaruu X says Taygetan fighters may emulate Navy F-18 IFF and transponder identities for safer atmospheric travel. She says this practice is now rarely used.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [Divulgación "Ovni" de Pentágono - Mentiras del Gobierno - Origen de la Nave](https://swaruu.org/transcripts/divulgacion-ovni-de-pentagono-mentiras-del-gobierno-origen-de-la-nave) (2021-08-14; es); passages p0040. [Structured record](../../records/src-4077e2cdca7d.json).
+
 ## Claims filed under other topics
 
 - [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation
 - [src-fd419788ecbb-c01](aircraft-mimicry.md#src-fd419788ecbb-c01) — Aircraft Mimicry
 - [src-fd419788ecbb-c02](aircraft-mimicry.md#src-fd419788ecbb-c02) — Aircraft Mimicry
 - [src-fd419788ecbb-c05](starship-systems.md#src-fd419788ecbb-c05) — Starship systems
+- [src-74fefae75775-c01](swaruunians.md#src-74fefae75775-c01) — Swaruunians
 
 ## Review flags
 

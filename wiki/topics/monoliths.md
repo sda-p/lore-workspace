@@ -56,6 +56,34 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [EL SISTEMA SOLAR - LOS SECRETOS DEL PLANETA JUPITER Y SUS LUNAS -EL MONOLITO DE JUPITER](https://swaruu.org/transcripts/el-sistema-solar-los-secretos-del-planeta-jupiter-y-sus-lunas-el-monolito-de-jupiter) (2019-06-14; es); passages p0058, p0060, p0061. [Structured record](../../records/src-8532628fad7a.json).
 
+### src-73ac97108b23-c01
+
+Anéeka says recent viral monoliths were human-made fakes, distinct from genuine monoliths; she says there are no genuine examples on Earth. Her statement concerns examples on Earth.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Monolitos Extraños - Reales o Falsos? Comunicación Extraterrestre (Taygeta, Pleyades)](https://swaruu.org/transcripts/monolitos-extranos-reales-o-falsos-comunicacion-extraterrestre-taygeta-pleyades) (2020-12-15; es); passages p0002, p0004, p0006, p0008, p0024, p0025. [Structured record](../../records/src-73ac97108b23.json).
+
+### src-73ac97108b23-c02
+
+Anéeka describes genuine monoliths as dense, solid anti-portals, the closed counterpart to a portal opening; she says either may be crossed when it permits passage.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Monolitos Extraños - Reales o Falsos? Comunicación Extraterrestre (Taygeta, Pleyades)](https://swaruu.org/transcripts/monolitos-extranos-reales-o-falsos-comunicacion-extraterrestre-taygeta-pleyades) (2020-12-15; es); passages p0032, p0033, p0039, p0043. [Structured record](../../records/src-73ac97108b23.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-73ac97108b23-c03
+
+Yazhi says monoliths and portals are one natural phenomenon in universal reality; a rectangle is a lower-density interpretation of energy geometry.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Monolitos Extraños - Reales o Falsos? Comunicación Extraterrestre (Taygeta, Pleyades)](https://swaruu.org/transcripts/monolitos-extranos-reales-o-falsos-comunicacion-extraterrestre-taygeta-pleyades) (2020-12-15; es); passages p0060, p0065, p0066. [Structured record](../../records/src-73ac97108b23.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-0d8c0f4f7056-c05](natural-portals.md#src-0d8c0f4f7056-c05) — Natural and artificial portals
@@ -64,4 +92,5 @@ Source: [EL SISTEMA SOLAR - LOS SECRETOS DEL PLANETA JUPITER Y SUS LUNAS -EL MON
 
 - Compared English translation candidate src-a2a5bfc5daf9 and Spanish version src-f94fd5d77808; bodies closely align with paragraph shifts and added explanatory material in English.
 - extraordinary\_astronomical\_claims
+- speaker-accounts-of-monolith-origin-differ
 - speaker\_shift\_anekea\_to\_yazhi

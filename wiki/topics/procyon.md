@@ -18,6 +18,36 @@ Source: [The Terrible Ending of the First Settlers on Planet Procyon. (English)]
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-dc304babfddc-c01
+
+Anéeka distinguishes Procyonians from Procyon, human-looking Federation members, from Proceon residents, who are Taygetans of the same race and culture. She treats the similar names as distinct.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Procionianos - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/procionianos-sin-video) (2021-02-24; es); passages p0023, p0024, p0026. [Structured record](../../records/src-dc304babfddc.json).
+
+Related topics: [Taygetans](taygetans.md), [Galactic Federation](galactic-federation.md).
+
+### src-dc304babfddc-c02
+
+She describes Procyon as a binary system with seven planets, two inhabited; its 5D human-looking inhabitants have a holistic-patriarchal polity and positive ties to Alcyone.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Procionianos - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/procionianos-sin-video) (2021-02-24; es); passages p0028, p0029, p0031, p0033. [Structured record](../../records/src-dc304babfddc.json).
+
+Related topics: [Holistic society](holistic-society.md), [Alcyone Council](alcyone-council.md).
+
+### src-10e30f8707ef-c02
+
+She contrasts Procyon as hot, 1.2G, toxic, and filled with predatory wildlife.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Ecosistemas en Taygeta \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/ecosistemas-en-taygeta-sin-video) (2021-07-22; es); passages p0003, p0018. [Structured record](../../records/src-10e30f8707ef.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
 ## Claims filed under other topics
 
 - [src-0e992795e982-c02](taygetans.md#src-0e992795e982-c02) — Taygetans
@@ -29,4 +59,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 ## Review flags
 
 - mythic-identifications-attributed-to-mari
+- procyon-proceon-name-distinction
+- speculative-ecosystem-biology
 - unverified\_extraterrestrial\_claims
+- zero-point-watercraft-technology

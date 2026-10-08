@@ -6,6 +6,12 @@ Aliases: stellar portals
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Solar portal transit](solar-portal-transit.md)
+
 ## Collected claims
 
 ### src-5ee43e47632e-c01
@@ -88,6 +94,16 @@ Source: [VIAJES EN EL ESPACIO TIEMPO - RESPUESTAS A TUS PREGUNTAS - LO QUE NO TE
 
 Related topics: [Black holes](black-holes.md).
 
+### src-528175452786-c05
+
+She says sunspots open solar entry and exit portals, while black holes are entrances only.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PORTALES ESPACIO TEMPORALES – PREGUNTAS Y RESPUESTAS – ANÉEKA DE TEMMER](https://swaruu.org/transcripts/portales-espacio-temporales-preguntas-y-respuestas-aneeka-de-temmer) (2020-11-20; es); passages p0028, p0029. [Structured record](../../records/src-528175452786.json).
+
+Related topics: [Black holes](black-holes.md).
+
 ## Claims filed under other topics
 
 - [src-9ae514ab9585-c01](natural-portals.md#src-9ae514ab9585-c01) — Natural and artificial portals
@@ -95,6 +111,7 @@ Related topics: [Black holes](black-holes.md).
 - [src-531b0e9f06bf-c01](natural-portals.md#src-531b0e9f06bf-c01) — Natural and artificial portals
 - [src-78a2f4005f35-c01](black-holes.md#src-78a2f4005f35-c01) — Black holes
 - [src-1422880235ff-c01](terrestrial-science.md#src-1422880235ff-c01) — Terrestrial science
+- [src-8253dcdfe3e7-c03](solar-consciousness.md#src-8253dcdfe3e7-c03) — Solar consciousness
 
 ## Review flags
 
@@ -102,7 +119,9 @@ Related topics: [Black holes](black-holes.md).
 - conspiracy-claims
 - contested-claims
 - cosmology-claims-attributed
+- cross-timeline-travel-restriction
 - eclipse-portal-claims-unverified
+- frequency-portal-physics-claims
 - metaphysical-claims
 - secondhand-fleet-reports
 - solar-and-black-hole-portal-model

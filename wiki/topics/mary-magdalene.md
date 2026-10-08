@@ -6,6 +6,12 @@ Aliases: Mary of Magdala
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Arsinoe–Mary Magdalene](arsinoe-magdalene.md)
+
 ## Collected claims
 
 ### src-c7d61405393c-c04

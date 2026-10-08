@@ -1,0 +1,86 @@
+{
+  "source_id": "src-85324cf8988c",
+  "snapshot_sha256": "40558394dc7ab31beea98a538257271826242ac010244ab86619d0685d8c5167",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-85324cf8988c-c01",
+      "assertion": "Yazhi says Federation quarantine officially bars all entry and exit, but enforcement fails; Hashmallim conduct limited, sometimes covert interventions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "hashmallim"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says some such missions may be officially illegal."
+    },
+    {
+      "id": "src-85324cf8988c-c02",
+      "assertion": "She says Dieslientiplex seek lunar forward bases for many species, parking space and recyclable materials.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0031"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "dieslientiplex"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-85324cf8988c-c03",
+      "assertion": "Yazhi says replicators cannot make everything and may work better with material feedstock.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-85324cf8988c-c04",
+      "assertion": "She alleges a human UFO organization imitates Federation structures to impose a monopoly of ideas.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0068",
+        "p0071"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "quarantine-policy-vs-practice",
+    "reported-UFO-community-allegation"
+  ],
+  "coverage_gaps": [
+    "uncertain-lunar-incident",
+    "planetary-contact-context"
+  ]
+}

@@ -222,6 +222,14 @@ Source: [EXPLOTARA LA ESTRELLA BETELGEUSE UN PELIGRO PARA LA TIERRA\_ - MANCHAS 
 
 Related topics: [Perceptual density](perceptual-density.md).
 
+### src-2ad850d76eda-c03
+
+In Anéeka’s account, matter is potential energy held at nodes by resonant frequency harmonics.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MÚSICA EN EL UNIVERSO - GRAVEDAD, ETER, Y CONCIENCIA \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/musica-en-el-universo-gravedad-eter-y-conciencia-sin-video) (2020-11-13; es); passages p0038, p0039. [Structured record](../../records/src-2ad850d76eda.json).
+
 ## Claims filed under other topics
 
 - [src-30d632b02db6-c04](frequency-map-navigation.md#src-30d632b02db6-c04) — Frequency-map navigation
@@ -242,21 +250,30 @@ Related topics: [Perceptual density](perceptual-density.md).
 - [src-26a2d18bbea0-c02](natural-portals.md#src-26a2d18bbea0-c02) — Natural and artificial portals
 - [src-33ef2f39ee97-c01](natural-portals.md#src-33ef2f39ee97-c01) — Natural and artificial portals
 - [src-1f3aa749d3b8-c03](natural-portals.md#src-1f3aa749d3b8-c03) — Natural and artificial portals
+- [src-220efa38c406-c02](crystal-core-zero-point-reactors.md#src-220efa38c406-c02) — Crystal-core zero-point reactors
+- [src-220efa38c406-c03](energy-generation.md#src-220efa38c406-c03) — Energy generation technology
+- [src-9143cd103af6-c03](elementals.md#src-9143cd103af6-c03) — Elementals
+- [src-7de827628fae-c04](elementals.md#src-7de827628fae-c04) — Elementals
 
 ## Review flags
 
+- Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
 - ancient-texts-as-racial-symbolism-attributed
 - attributed-seti-military-purpose-claim
 - classified-details
+- distinct-speaker-models-attributed
 - earthly-cern-portal-claim-not-included
 - gravity-propulsion-attributed
+- mental-health-and-protection-advice-excluded
 - metaphysical-model\_attributed
 - nonhuman-technology\_claims\_attributed
 - nonstandard-physics-claims
+- paranormal-entity-claims-attributed
 - portal-energy-estimates-attributed
 - portal-location-and-destination-vary
 - portal-mechanics-overlap-src-6abed4268d57
+- reactor-mechanism-attributed
 - source-mixed-origin-en-reactor-and-spanish-engine-sections
 - source-speaker-shift-dhor-to-yazhi
 - starspot-portal-model-spans-two-speakers

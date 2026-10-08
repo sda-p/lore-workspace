@@ -1,0 +1,49 @@
+{
+  "source_id": "src-482490d8772a",
+  "snapshot_sha256": "c40aae00a52a6ac24fed83e63a6dabc5a6dc0d01db18ad0b1d971897bc135840",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-482490d8772a-c01",
+      "assertion": "In a 5 October 2021 communiqué, Anéeka interpreted the prior day’s social-platform outage as a digital false-flag rehearsal like Event 201.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-482490d8772a-c02",
+      "assertion": "Anéeka speculated that social platforms, not the whole internet, might be shut down to justify digital identity controls; she stressed uncertainty.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0021"
+      ],
+      "primary_topic": "scalar-internet",
+      "topics": [
+        "scalar-internet"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Forecast was explicitly uncertain and time-bound."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Time-bound 2021 prediction; no outcome asserted."
+  ],
+  "coverage_gaps": [
+    "alternative communication platforms",
+    "specific shutdown likelihood estimates",
+    "claimed political motives"
+  ]
+}

@@ -394,6 +394,44 @@ Source: [Exponiendo a la Federación Galáctica - Raza Taygeteana de las Pleyade
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-6e854bde7448-c02
+
+She says the Alcyone Council represents 11 M45 races and has three external allies.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka Responde 63 Preguntas del Publico - Comunicación Extraterrestre (Taygeta - Pléyades)](https://swaruu.org/transcripts/aneeka-responde-63-preguntas-del-publico-comunicacion-extraterrestre-taygeta-pleyades) (2021-01-08; es); passages p0043, p0069. [Structured record](../../records/src-6e854bde7448.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-6e854bde7448-c04
+
+She says Alcyone disputes Federation Earth policy and considers open contact and a holographic society alternatives.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka Responde 63 Preguntas del Publico - Comunicación Extraterrestre (Taygeta - Pléyades)](https://swaruu.org/transcripts/aneeka-responde-63-preguntas-del-publico-comunicacion-extraterrestre-taygeta-pleyades) (2021-01-08; es); passages p0007, p0067, p0071, p0055. [Structured record](../../records/src-6e854bde7448.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Holistic society](holistic-society.md).
+
+### src-ca31fe5ca6c3-c05
+
+Anéeka reports Alcyone and local Federation councils received and repudiated her lab findings.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Nueva Analisis - Vacunas - Pruebas Analizadas - Aneeka de Temmer comparte los descubrimientos](https://swaruu.org/transcripts/nueva-analisis-vacunas-pruebas-analizadas-aneeka-de-temmer-comparte-los-descubrimientos) (2021-10-15; es); passages p0047, p0048, p0050. [Structured record](../../records/src-ca31fe5ca6c3.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-eb8d5c381779-c04
+
+Anéeka says Taygeta remains linked to the Federation through Alcyone Council while reducing direct Federation ties.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Glandula Pineal, Armas Nucleares y Federacion, y mas Temas - Informacion Extraterrestre](https://swaruu.org/transcripts/glandula-pineal-armas-nucleares-y-federacion-y-mas-temas-informacion-extraterrestre) (2021-10-03; es); passages p0049, p0052. [Structured record](../../records/src-eb8d5c381779.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c08](galactic-federation.md#src-a5811312e55c-c08) — Galactic Federation
@@ -412,6 +450,11 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-234bba72765f-c03](starship-systems.md#src-234bba72765f-c03) — Starship systems
 - [src-17057e78d90e-c03](atlantes.md#src-17057e78d90e-c03) — Atlantes
 - [src-33c7243bf8a8-c03](galactic-federation.md#src-33c7243bf8a8-c03) — Galactic Federation
+- [src-29ae7cdf0163-c04](taygetans.md#src-29ae7cdf0163-c04) — Taygetans
+- [src-dc304babfddc-c02](procyon.md#src-dc304babfddc-c02) — Planet Procyon
+- [src-eb16750d6a08-c01](holistic-society.md#src-eb16750d6a08-c01) — Holistic society
+- [src-6e854bde7448-c05](galactic-federation.md#src-6e854bde7448-c05) — Galactic Federation
+- [src-7e10fbdcd1c5-c02](atlantis-lemuria.md#src-7e10fbdcd1c5-c02) — Atlantis and Lemuria
 
 ## Review flags
 
@@ -422,10 +465,12 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Athena-interview-original-English
 - Cyndriel time-difference mechanism remains unknown.
 - Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
+- Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Federation-infiltration\_theory
 - Federation-sanctions\_reported
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Senetre-diagnosed-weapon-route-suspected
 - Yazhi-interview-report
@@ -434,9 +479,12 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - conspiracy\_claims
 - dated\_claims
 - diet\_claim\_omitted
+- earth-reset-control-claim
 - eclipse-portal-claims-unverified
 - factional\_viewpoint\_conflict
+- federation-alcyone-policy-conflict
 - federation-control-allegations-versus-collective-consent-model
+- federation-intervention-rationale
 - federation-purpose-disputed
 - federation-role-variation
 - federation\_dispute
@@ -444,8 +492,10 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - historical\_and\_nuclear\_claims\_unverified
 - intra-source-policy-tension
 - liberation-framing-disputed
+- medical-misinformation-claims
 - mythic-identifications-attributed-to-mari
 - political-narrative\_attributed
+- procyon-proceon-name-distinction
 - reported\_plan
 - second-contact-stoppage-attributed-to-yazhi
 - secondhand-fleet-reports
@@ -454,5 +504,6 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - translated-from-Spanish-original-not-available
 - unverified-contact-claims
 - unverified-eclipse-portal-theory
+- unverified-nonhuman-intervention-narrative
 - unverified\_agency\_claims
 - unverified\_medical\_claims

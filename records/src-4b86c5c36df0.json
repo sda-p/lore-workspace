@@ -1,0 +1,106 @@
+{
+  "source_id": "src-4b86c5c36df0",
+  "snapshot_sha256": "aacf1c6a8f03b6f4d2129ddf8827e6ee39a06b103f1178b439b3279d2b5d7283",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4b86c5c36df0-c01",
+      "assertion": "Yazhi says Lemurian Evas freed captive Adamic people in Turkey, triggering a mass escape from Atlantean control.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0007"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "eden-escape"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4b86c5c36df0-c02",
+      "assertion": "Yazhi says Evas and Adanes later merged into modern Homo sapiens, displacing a proto-Lyrian Neanderthal population.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4b86c5c36df0-c03",
+      "assertion": "Yazhi says conflict between Lemuria and Atlantis escalated over centuries, with Lyrian allies supporting Lemuria and Reptilian allies Atlantis.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4b86c5c36df0-c04",
+      "assertion": "Yazhi attributes Tiamat’s destruction and Mars surface devastation to nuclear space warfare involving flying craft.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4b86c5c36df0-c05",
+      "assertion": "Yazhi names Taygeteans, Engan, Arcturians, Reptilians, and Maitré among involved groups; Andromedans reportedly observed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "eden-escape",
+      "name": "Eden Escape",
+      "kind": "historical event",
+      "aliases": [
+        "Adamic liberation"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Alternative ancient-history narrative; no independent corroboration in source."
+  ],
+  "coverage_gaps": [
+    "Shiva identity",
+    "later battles",
+    "weapon specifications"
+  ]
+}

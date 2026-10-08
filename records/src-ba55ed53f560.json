@@ -1,0 +1,64 @@
+{
+  "source_id": "src-ba55ed53f560",
+  "snapshot_sha256": "db323d52b49939966cc1fc3a7b8d7dc5ad579b3546184f8e212574ad22a19574",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ba55ed53f560-c01",
+      "assertion": "Anéeka identifies three stars on the Federation emblem as its founding groups—Lyrians, Andromedans, and Arcturians—with the Milky Way behind them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba55ed53f560-c02",
+      "assertion": "She says no one formally rules, though Andromedans head Federation councils; Arcturians follow closely, while Lyrians are few and third-ranked.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "andromeda-council",
+      "topics": [
+        "andromeda-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba55ed53f560-c03",
+      "assertion": "Federation insignia appear on member ships and uniforms; Taygetan craft add hourglass marks, while royal yacht Toleka carries the queen’s crown.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Anéeka says Andromedans dominate councils but denies formal rulership."
+  ],
+  "coverage_gaps": [
+    "Earth-agency symbolism claims",
+    "Taygetan uniform variants",
+    "Federation symbol geometry"
+  ]
+}

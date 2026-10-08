@@ -64,6 +64,26 @@ Source: [LA VIDA EN LAS PLEYADES - ESTRELLA TAYGETA - CONTACTO EXTRATERRESTRE - 
 
 Related topics: [Holistic society](holistic-society.md).
 
+### src-e7f3b531d57a-c02
+
+Anéeka says ordinary medical pods copy altered cells; restoration needs unaffected DNA and cloning technology. She calls this complex.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vacunas, Virus, Covid19 - Recopilación de Información - Aneeka de Temmer](https://swaruu.org/transcripts/vacunas-virus-covid19-recopilacion-de-informacion-aneeka-de-temmer) (2021-10-11; es); passages p0035, p0036, p0059, p0062. [Structured record](../../records/src-e7f3b531d57a.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-748a1e239668-c03
+
+Anéeka says medical pods safely treat interdimensional parasites, though some regeneration procedures cannot be interrupted midway. She gives lost-limb restoration as an example.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EXOBIOLOGÍA - LURKERS - LARVAS ENERGÉTICAS - POD MÉDICO \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/exobiologia-lurkers-larvas-energeticas-pod-medico-sin-video) (2021-01-12; es); passages p0045, p0047, p0051. [Structured record](../../records/src-748a1e239668.json).
+
+Related topics: [Interdimensional parasites](interdimensional-parasites.md).
+
 ## Claims filed under other topics
 
 - [src-73356320550c-c01](consciousness-metaphysics.md#src-73356320550c-c01) — Consciousness and metaphysics
@@ -77,5 +97,7 @@ Related topics: [Holistic society](holistic-society.md).
 - ancient-history-claim
 - cryonics-outcomes-speculative
 - medical account is attributed narrative, not medical guidance
+- medical-claims:unverified
 - time-travel-claims
 - uncertain-human-versus-nonhuman-mutilation-cause
+- virus-model:exosome-equivalence

@@ -104,6 +104,72 @@ Source: [EL VERDADERO SIGNIFICADO DE COVID-19 – Significa una operación Milit
 
 Related topics: [Nanotechnology and implants](nanotechnology.md), [Earth Cabal and power structures](earth-cabal.md).
 
+### src-8ed812c6e261-c02
+
+The report alleges nano-graphene reads DNA and carries genetic material for targeted cellular alteration.
+
+Attributed to **Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el**; reported; extraction confidence: high.
+
+Source: [Vacunas - Informe de Laboratorio de Taygeta - Tecnología No-Humana Transhumanista](https://swaruu.org/transcripts/vacunas-informe-de-laboratorio-de-taygeta-tecnologia-no-humana-transhumanista) (2021-10-28; es); passages p0032, p0035, p0037, p0039, p0041. [Structured record](../../records/src-8ed812c6e261.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
+### src-8ed812c6e261-c04
+
+The report alleges nano-graphene can spread from inoculated people and modify exposed individuals.
+
+Attributed to **Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el**; reported; extraction confidence: high.
+
+Source: [Vacunas - Informe de Laboratorio de Taygeta - Tecnología No-Humana Transhumanista](https://swaruu.org/transcripts/vacunas-informe-de-laboratorio-de-taygeta-tecnologia-no-humana-transhumanista) (2021-10-28; es); passages p0086, p0088, p0091. [Structured record](../../records/src-8ed812c6e261.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
+### src-8ed812c6e261-c05
+
+It frames the technology as a transhumanist system for remote biological control and reduced personal autonomy.
+
+Attributed to **Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el**; reported; extraction confidence: high.
+
+Source: [Vacunas - Informe de Laboratorio de Taygeta - Tecnología No-Humana Transhumanista](https://swaruu.org/transcripts/vacunas-informe-de-laboratorio-de-taygeta-tecnologia-no-humana-transhumanista) (2021-10-28; es); passages p0094, p0095, p0096, p0098. [Structured record](../../records/src-8ed812c6e261.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
+### src-f469530b91ab-c04
+
+She calls vaccines deadly potions and says coercing informed people violates free will and cosmic law.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Mensaje a los Controladores de la Tierra - Yazhi (Sophia) Swaruu - Mensaje Extraterrestre](https://swaruu.org/transcripts/mensaje-a-los-controladores-de-la-tierra-yazhi-sophia-swaruu-mensaje-extraterrestre) (2021-09-25; es); passages p0023, p0024, p0025, p0027, p0028. [Structured record](../../records/src-f469530b91ab.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-e7f3b531d57a-c01
+
+Anéeka alleges inoculations alter cellular DNA and vary by population group in composition and intended effect. She attributes the design to controllers.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vacunas, Virus, Covid19 - Recopilación de Información - Aneeka de Temmer](https://swaruu.org/transcripts/vacunas-virus-covid19-recopilacion-de-informacion-aneeka-de-temmer) (2021-10-11; es); passages p0011, p0110, p0117, p0119. [Structured record](../../records/src-e7f3b531d57a.json).
+
+### src-e7f3b531d57a-c03
+
+Anéeka describes viruses as inert exosome signals activating latent conditions in compatible cells; each host generates variants. This is her proposed virus model.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vacunas, Virus, Covid19 - Recopilación de Información - Aneeka de Temmer](https://swaruu.org/transcripts/vacunas-virus-covid19-recopilacion-de-informacion-aneeka-de-temmer) (2021-10-11; es); passages p0128, p0129, p0130, p0150, p0155, p0173, p0174. [Structured record](../../records/src-e7f3b531d57a.json).
+
+### src-da49b1ecdb2a-c01
+
+Anéeka alleges nanotechnology uses synthetic retroviruses to replace DNA sequences regulating reproduction. This is her account of the mechanism.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vacunas y Nanotecnología - Respuestas de Aneeka a las preguntas de dr Alex y otras](https://swaruu.org/transcripts/vacunas-y-nanotecnologia-respuestas-de-aneeka-a-las-preguntas-de-dr-alex-y-otras) (2021-11-08; es); passages p0033, p0034. [Structured record](../../records/src-da49b1ecdb2a.json).
+
+Related topics: [Genetic weapons](genetic-weapons.md).
+
 ## Claims filed under other topics
 
 - [src-f4085f32044d-c02](taygetans.md#src-f4085f32044d-c02) — Taygetans
@@ -115,11 +181,20 @@ Related topics: [Nanotechnology and implants](nanotechnology.md), [Earth Cabal a
 - [src-39133ce4e004-c02](earth-cabal.md#src-39133ce4e004-c02) — Earth Cabal and power structures
 - [src-36c5fde4f2a4-c01](earth-cabal.md#src-36c5fde4f2a4-c01) — Earth Cabal and power structures
 - [src-68b07316b2f9-c05](engineered-social-unrest.md#src-68b07316b2f9-c05) — Engineered social unrest
+- [src-8ed812c6e261-c01](nanotechnology.md#src-8ed812c6e261-c01) — Nanotechnology and implants
+- [src-8ed812c6e261-c03](nanotechnology.md#src-8ed812c6e261-c03) — Nanotechnology and implants
+- [src-ca31fe5ca6c3-c01](nanotechnology.md#src-ca31fe5ca6c3-c01) — Nanotechnology and implants
+- [src-ca31fe5ca6c3-c02](nanotechnology.md#src-ca31fe5ca6c3-c02) — Nanotechnology and implants
+- [src-ca31fe5ca6c3-c03](nanotechnology.md#src-ca31fe5ca6c3-c03) — Nanotechnology and implants
+- [src-e7f3b531d57a-c02](medical-pods.md#src-e7f3b531d57a-c02) — Medical regeneration pods
+- [src-da49b1ecdb2a-c02](nanotechnology.md#src-da49b1ecdb2a-c02) — Nanotechnology and implants
+- [src-da49b1ecdb2a-c03](genetic-weapons.md#src-da49b1ecdb2a-c03) — Genetic weapons
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - Alenym-attack-culprit-unknown
+- anti-vaccine-conspiracy-claims
 - attributed-covid-and-5g-conspiracy-claims
 - attributed-medical-conspiracy-claims
 - attributed-vaccine-claims
@@ -129,14 +204,24 @@ Related topics: [Nanotechnology and implants](nanotechnology.md), [Earth Cabal a
 - contested-pandemic-control-narrative
 - contested-vaccine-technology-allegations
 - disability-spiritualization
+- document-caveat-incomplete-data
 - genetic-weapon-causation-speculative
+- genocide-and-elite-conspiracy-allegations
 - high-content-overlap-with-src-e9f782478883
 - medical-causation-claims
 - medical-claims-unverified
+- medical-claims:unverified
+- medical-conspiracy-claims
 - medical-lore
+- medical-misinformation-claims
 - medical\_claims
+- metaphysical-self-identity-claim
+- nanotech-mechanism:remote-activation
+- nonhuman-lab-report
 - pandemic-conspiracy-claims
 - population-control-allegations
 - translation-counterpart-unconfirmed
 - translation-counterpart:src-50afee47b8a2-close-full
+- unverified-nonhuman-intervention-narrative
 - unverified\_extraterrestrial\_claims
+- virus-model:exosome-equivalence

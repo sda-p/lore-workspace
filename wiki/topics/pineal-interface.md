@@ -84,14 +84,46 @@ Source: [CONTACTO EXTRATERRESTRE DE LAS PLEYADES - ESTRELLA TAYGETA - SWARUU - A
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-eb8d5c381779-c02
+
+Anéeka describes the pineal as translating brain-and-body etheric signals into conscious memories of astral experiences.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Glandula Pineal, Armas Nucleares y Federacion, y mas Temas - Informacion Extraterrestre](https://swaruu.org/transcripts/glandula-pineal-armas-nucleares-y-federacion-y-mas-temas-informacion-extraterrestre) (2021-10-03; es); passages p0018, p0020. [Structured record](../../records/src-eb8d5c381779.json).
+
+### src-bc16c7eb40d8-c01
+
+Anéeka describes the pineal gland as a modulator and interface that translates etheric experiences into conscious memories, rather than receiving the soul signal itself. She says the signal enters through the whole brain and body.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [\#MUJER \#EXTRATERRESTRE ME HABLA DE LA \#GLANDULA \#PINEAL CUAL ES SU FUNCION - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/mujer-extraterrestre-me-habla-de-la-glandula-pineal-cual-es-su-funcion-aneeka-de-temmer) (2021-08-30; es); passages p0003, p0004, p0005, p0010. [Structured record](../../records/src-bc16c7eb40d8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-bc16c7eb40d8-c02
+
+She says pineal rod-like structures produce nerve stimuli interpreted by the brain’s psycho-visual area as images from nonphysical experiences. She says this resembles, but is not, ordinary visual reception.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [\#MUJER \#EXTRATERRESTRE ME HABLA DE LA \#GLANDULA \#PINEAL CUAL ES SU FUNCION - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/mujer-extraterrestre-me-habla-de-la-glandula-pineal-cual-es-su-funcion-aneeka-de-temmer) (2021-08-30; es); passages p0007, p0008, p0009. [Structured record](../../records/src-bc16c7eb40d8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-a4e838c75ab3-c04](starship-systems.md#src-a4e838c75ab3-c04) — Starship systems
 - [src-b76cc2a83453-c02](unicorn-symbolism.md#src-b76cc2a83453-c02) — Unicorn symbolism
+- [src-0229a552cea2-c03](taygetans.md#src-0229a552cea2-c03) — Taygetans
 
 ## Review flags
 
+- Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified.
 - multiple-symbolic-interpretations
+- non-darwinian-consciousness-evolution-model
 - nonstandard-biology-claims
 - simulation-and-AI-claims
+- speculative-neurobiology-claims
 - unverified\_technology\_claims

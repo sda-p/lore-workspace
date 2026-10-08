@@ -38,8 +38,25 @@ Source: [FORMACIÓN DE UNA NUEVA ESPECIE - SOY YAZHÍ SWARUU TASHERIT](https://s
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-ed934b122dbc-c01
+
+Anéeka says Taygetan women may reproduce parthenogenetically; identical mother-daughter clones can share consciousness and telepathy.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Swaruu y Yazhi - Quienes Son? Historia que Nunca Fue Contada - Contacto Extraterrestre (Pléyades)](https://swaruu.org/transcripts/swaruu-y-yazhi-quienes-son-historia-que-nunca-fue-contada-contacto-extraterrestre-pleyades) (2021-04-25; es); passages p0004, p0005, p0006, p0007, p0102, p0104. [Structured record](../../records/src-ed934b122dbc.json).
+
+Related topics: [Taygetans](taygetans.md), [Human clones and manufactured persons](human-clones.md).
+
+## Claims filed under other topics
+
+- [src-ed934b122dbc-c04](ether-field.md#src-ed934b122dbc-c04) — Ether field
+
 ## Review flags
 
 - attributed-reproductive-lore
+- death-account:medical-cause-and-ether-dissolution
 - self-described-species-transition
 - soul-and-density-doctrine-attributed
+- timeline-model-variant:personal-vs-collective
+- translation-counterpart:src-06a1e5437c02-close-full

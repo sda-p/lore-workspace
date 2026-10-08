@@ -1,0 +1,112 @@
+{
+  "source_id": "src-205c04ebdf5e",
+  "snapshot_sha256": "7d64cf63528ffe293860c01989f18295989eb3ec2cdc8f5ab24de070471734ee",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-205c04ebdf5e-c01",
+      "assertion": "Yazhi says higher awareness includes lower densities, allowing simultaneous attention across levels.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0033",
+        "p0036"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-205c04ebdf5e-c02",
+      "assertion": "She says integration means understanding a system and withholding attention from unwanted parts.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-205c04ebdf5e-c03",
+      "assertion": "Yazhi says integration and love can dissolve regressive forces, while denying lower levels risks vulnerability.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0044"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-205c04ebdf5e-c04",
+      "assertion": "She describes Urmah as powerful galactic predators who can act as warriors or affectionate companions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0045"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-205c04ebdf5e-c05",
+      "assertion": "Yazhi calls the most effective warrior an observant strategist who anticipates opponents without fear or agenda.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0051"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "combat-doctrine"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "combat-doctrine",
+      "name": "Combat doctrine",
+      "kind": "practice",
+      "aliases": [
+        "warrior philosophy"
+      ]
+    }
+  ],
+  "review_flags": [
+    "original-language:en",
+    "perspective-dependent"
+  ],
+  "coverage_gaps": [
+    "specific tactics",
+    "named Urmah units"
+  ]
+}

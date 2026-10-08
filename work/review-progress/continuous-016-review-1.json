@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:44:01+00:00",
+  "checkpointed_at": "2026-10-08T17:57:14+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-016",
@@ -14,14 +14,20 @@
       "src-2496c5717d1f",
       "src-29eb9565748a",
       "src-2a993dac1a51",
+      "src-2ebd8e231c94",
       "src-52c31730f7eb",
       "src-56f6493ab6a3",
       "src-64966405e66f",
       "src-660558e7aa14",
+      "src-6be48f6d0431",
       "src-72f8c6904500",
       "src-83d0afc07ef6",
+      "src-8636b4bb3446",
       "src-99ccae21b4fb",
+      "src-9d5476909933",
       "src-9d6224eacf32",
+      "src-b00727c7921a",
+      "src-b0c5455056ea",
       "src-b0eb8093b751",
       "src-b1091aecbbaa",
       "src-b524630b8007",
@@ -30,13 +36,21 @@
       "src-b6f425d6f3ea",
       "src-bc6ca9130ba5",
       "src-bdd4b433825f",
+      "src-cb85dc7702bb",
       "src-d26552c9fbda",
       "src-e0aac48a5c49",
       "src-e0c2e2fb61b4",
       "src-ea07e710cf87",
+      "src-eb63ff9a2c19",
       "src-ec6c591d861f",
       "src-f4178a54647e",
-      "src-fd0bbccdb853"
+      "src-fd0bbccdb853",
+      "src-621113b9af49",
+      "src-59c853fbd4b4",
+      "src-7d45f5f944a1",
+      "src-a18d1af875eb",
+      "src-6d8ed766cc58",
+      "src-ce78d7905978"
     ],
     "corrections": [
       {
@@ -61,6 +75,25 @@
           "p0075",
           "p0077"
         ]
+      },
+      {
+        "source_id": "src-b00727c7921a",
+        "claim_id": "src-b00727c7921a-c05",
+        "problem": "The original phrasing generalized compatibility as the reason for all souls entering, omitting service-oriented exceptions.",
+        "action": "Added the source’s service-motive and later incompatibility qualification.",
+        "paragraph_ids": [
+          "p0037",
+          "p0039"
+        ]
+      },
+      {
+        "source_id": "src-621113b9af49",
+        "claim_id": "src-621113b9af49-c02",
+        "problem": "The claim attributes radiation filtering to the nebula, but the cited set omitted the direct passage.",
+        "action": "Added the passage explicitly stating the nebula filters Aldebaran radiation.",
+        "paragraph_ids": [
+          "p0019"
+        ]
       }
     ],
     "unresolved": []
@@ -74,14 +107,20 @@
     "src-2496c5717d1f": "a009ceb7c4feb31f592329da646f7123c44f5a47b0f2857a74c6912290eec1de",
     "src-29eb9565748a": "c3b6716247f338c7535563b7492fde35bd8ca798cc78805c8622abfede5b1b8c",
     "src-2a993dac1a51": "6afe79c67cc628c471ac6baeda566a7ce6dd30e2ea4a34e709a0d51c8a868848",
+    "src-2ebd8e231c94": "5d5283532b55601923e0ecf168009bdb8849a24ae55979416dfdfad63e0514a9",
     "src-52c31730f7eb": "cdd7b7a7513edab3313238ed46be20563791b0d77d10da7bb094cd811d008807",
     "src-56f6493ab6a3": "87fdafd7a6912aee43493efd1f3d098a81120cb2a594e97507ae996b661acff1",
     "src-64966405e66f": "9c4f1c947de62259822337b8acf7797e2bc43ad73aec82aafef20f7fcd7329a2",
     "src-660558e7aa14": "47ff82d7ba8d61df89ddced91eed832fd2ee214a69514bed97b1f2d7f47f9c27",
+    "src-6be48f6d0431": "59b58df948b6ae46d65d2d0d70a3e52004eb6cc3002e166d53b5ba887dd2fbb4",
     "src-72f8c6904500": "21b05420ac9e43a18957fcff1c60d9b5739c2529ebac10e76873e6296c7170f5",
     "src-83d0afc07ef6": "bd48adb26236232623c173e151015e3a861e939e732db66123a584fcc224d7c2",
+    "src-8636b4bb3446": "2c01dfc236304ed26f52b08d6baa1778716e89f21f74681acb4abb9e1bfebbea",
     "src-99ccae21b4fb": "57c056efa871a11b9a340c4fbc5d1f0225ad2806dcb4f61f8a6d0e9699ab10f3",
+    "src-9d5476909933": "71d3138766f112cdd45c137eddc977ad01639b282bf0d88576cce89c17a4ebd8",
     "src-9d6224eacf32": "38c80133b09376fb74dfc7b17acb7953817dd4b91014588a77ec6e4979da653b",
+    "src-b00727c7921a": "1fea17087d3f3d52c87cf4000ee0e18f662eb31fe28c1e0175f1a457ea550d79",
+    "src-b0c5455056ea": "073bc96bcdc940a8c5b362a725746b25fecee008731986111a8d7440cfd61043",
     "src-b0eb8093b751": "7d1a78c6c20947146aacf993e18f91b3631d84691c7b2518dab593cf4588b220",
     "src-b1091aecbbaa": "991b6d047ed1fe5fb217c74a2095bc39847d49ad0b9229d1eda801b717194ee0",
     "src-b524630b8007": "ba2cc24df3919ff7d1c8d9f10309145e762f4e378f31b81a4f9f088a40c69dfe",
@@ -90,12 +129,20 @@
     "src-b6f425d6f3ea": "f71c8dde85b513b8c8731f5baf5fe18f5c893d792f52eee340192fa872060b30",
     "src-bc6ca9130ba5": "a3e39d8637bc7182edaf692d7c1a168f8c12121eb27d0276ff130048cc62bd23",
     "src-bdd4b433825f": "e9b60d52c803baf5a3d4cc9c21f1e21d719b9f9ce7fcaf338099fb60910bbd69",
+    "src-cb85dc7702bb": "de41463118dcef2bbf8bfc494a318a7077b404c2f447086957dde391bd3a9256",
     "src-d26552c9fbda": "effe0e4de443c623b2ad935b32827f72efc801379992f810ca504d9c325adce5",
     "src-e0aac48a5c49": "21529bcf0a12804cb5b3f75c4bc8749afc7c62a2621bf5333821a5c7f3c1732e",
     "src-e0c2e2fb61b4": "090e166268e819a1e803e255d83b18ccebbd44fe09e38d43c4bbbd23d848ac20",
     "src-ea07e710cf87": "447f2f90b71944ea18920e675eff3bbfa77db3c293b48a474cb6a90f87815a3e",
+    "src-eb63ff9a2c19": "ccf0420fbf8b79f8a07e8a4417db849d1edcaed361c03fe7dcf7ab4ca6180b55",
     "src-ec6c591d861f": "dd6146deae8d9391d76a5e4b798e72053ceed7447443a12221134b9c4abe0935",
     "src-f4178a54647e": "908c5d1e6a801af05b308957489b9a3030d548e1df044bd991596aba0d2ddb83",
-    "src-fd0bbccdb853": "13b40307a7fc386ed6d017eb9b5cf5a64742b14c9ba5522b6c9f0e21992a6c11"
+    "src-fd0bbccdb853": "13b40307a7fc386ed6d017eb9b5cf5a64742b14c9ba5522b6c9f0e21992a6c11",
+    "src-621113b9af49": "6f7935d5f4eca11b5926657c90435b950538c16628cdf0def92779401eb0f2b6",
+    "src-59c853fbd4b4": "84630e04f2df1308031c33b5e550299978205466439791281d20db48711632fd",
+    "src-7d45f5f944a1": "5c3d6378e6d45c5f8b62b12862d9775dc8eaf760f59368b6ce9e6fe938b9b56d",
+    "src-a18d1af875eb": "1a0b45b13a1c9234a211837bfdbb93d1ce5f5251ff2408854eb6d3a642b5c368",
+    "src-6d8ed766cc58": "503107afaf25ac103f3f09e63c710ee35e4ffaac730434b72a3135aff8cfed4e",
+    "src-ce78d7905978": "c9b8efd58e9e05b921cf9092b04ab22072ec562372fe7053c70fe1547dfadc12"
   }
 }

@@ -153,6 +153,8 @@ Related topics: [Galactic Federation](galactic-federation.md), [Holistic society
 - [src-a536d40b8707-c02](galactic-federation.md#src-a536d40b8707-c02) — Galactic Federation
 - [src-6a1113ff029c-c05](centaurians.md#src-6a1113ff029c-c05) — Centaurians
 - [src-a62abe01768e-c01](alien-species.md#src-a62abe01768e-c01) — Alien species and distinctions
+- [src-d9a04b018638-c02](urmah.md#src-d9a04b018638-c02) — Urmah
+- [src-7037a2d38c7d-c01](galactic-federation.md#src-7037a2d38c7d-c01) — Galactic Federation
 
 ## Review flags
 

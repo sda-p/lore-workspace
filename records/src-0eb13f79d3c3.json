@@ -1,0 +1,11 @@
+{
+  "source_id": "src-0eb13f79d3c3",
+  "snapshot_sha256": "7870e73ce5e9ca571d15b761047e70f6fc9ac893b1cb3dd8ec1c8b6c24686b15",
+  "language": "es",
+  "claims": [
+    {"id":"src-0eb13f79d3c3-c01","assertion":"Swaruu X (Athena) identifies a depicted UFO-like object as possibly an external military reconnaissance pod, citing an F-105-era example.","speaker":"Swaruu X (Athena)","paragraph_ids":["p0015","p0017","p0021","p0023"],"primary_topic":"aircraft-mimicry","topics":["aircraft-mimicry"],"modality":"speculative","confidence":"high","qualifiers":"She says a sealed, lightweight model could float, depending on its design."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["contested-object-identification"],
+  "coverage_gaps": ["false-flag-political-claims-omitted", "media-manipulation-claims-omitted"]
+}

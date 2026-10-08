@@ -1,0 +1,44 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-08T17:57:14+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-018",
+    "reviewer": 1,
+    "reviewed_source_ids": [
+      "src-3e414790b429",
+      "src-536cd29a42e2",
+      "src-59758ad652fa",
+      "src-7fe18cd69157",
+      "src-8a37a5eaeb7b",
+      "src-d9bbb3c4038b",
+      "src-fb36af989f4a",
+      "src-86a4669c182d",
+      "src-b11e21360ce7"
+    ],
+    "corrections": [
+      {
+        "source_id": "src-b11e21360ce7",
+        "claim_id": "src-b11e21360ce7-c03",
+        "problem": "“Attracting” implied a causal action absent from the cited description; realm-quality qualification also lacked its direct passage.",
+        "action": "Replaced with the source’s general-inhabitance scope and added the passage on perceived realm qualities.",
+        "paragraph_ids": [
+          "p0022",
+          "p0023"
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-3e414790b429": "d8f272338acf07dd9bd925165be6e6598e715898bc4a162ecee3cf25661e661a",
+    "src-536cd29a42e2": "8231ccd7c6571e99b948cb155a65be2c8794aacef3792ef78e823744fc690456",
+    "src-59758ad652fa": "3fd2dc0ccf182964f9f7e2bcdf662a50a296876348817591ad9afb521c71c2ad",
+    "src-7fe18cd69157": "2b647af5a36b19db77cc200616b3d987f30612c91279f485d4cf81e1e9d01943",
+    "src-8a37a5eaeb7b": "85d3854d99d493eccb5a7e040921c80a2006e7201b10833ab91e3740c155a2a1",
+    "src-d9bbb3c4038b": "49a8d8e2c60bc1085986598fd0119242573fde21bf5d3c8810a98a14fa858f09",
+    "src-fb36af989f4a": "cfcf7d9697ce60da8ffdf634b466cdca2201696bcb528a0d79d545aa09f0ec43",
+    "src-86a4669c182d": "3986c0d678f492a10efa4fa601298bca3d63fdaebab7246c7c18782d907d65be",
+    "src-b11e21360ce7": "1f32ed7bea28bb7c7b3f269bff94d9aadea0c5110766904471efab9d503f7594"
+  }
+}

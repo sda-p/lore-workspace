@@ -1,0 +1,96 @@
+{
+  "source_id": "src-74df7085bcef",
+  "snapshot_sha256": "d749a7a1a1c41c462dd9ad2ca12ffe1f9180ee7dc8a4c3de8c83dffcc10b4c88",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-74df7085bcef-c01",
+      "assertion": "Anéeka says some extraterrestrials incarnate on Earth to test themselves, then return home with what they learned.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74df7085bcef-c02",
+      "assertion": "Anéeka describes human bodies as shared biological suits used by multiple distinct races.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74df7085bcef-c03",
+      "assertion": "Anéeka says collective human attention can manifest threatening concepts as real experiences without creating matching physical creatures.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74df7085bcef-c04",
+      "assertion": "Anéeka distinguishes physical Reptilians from astral egregors sustained by focused human fear and suffering.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74df7085bcef-c05",
+      "assertion": "Anéeka contrasts Reptilian covert enslavement with Maitré coercive control; she says physical Reptilians mainly hunt humans for food.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0035"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Anéeka says Reptilian exploitation is partial, not a complete account of Earth events."
+  ],
+  "coverage_gaps": [
+    "Egyptian origin narrative",
+    "Federation motives",
+    "extraterrestrial political disputes"
+  ]
+}

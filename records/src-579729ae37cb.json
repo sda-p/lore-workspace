@@ -1,0 +1,43 @@
+{
+  "source_id": "src-579729ae37cb",
+  "snapshot_sha256": "8617132d3575ab962c62f1474ebdffc4c828a48a9573e769e58bb214f30146aa",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-579729ae37cb-c01",
+      "assertion": "Yazhi says regional councils group allied species; their higher councils have a voice in the Federation within their jurisdiction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-579729ae37cb-c02",
+      "assertion": "Yazhi describes Alcyone Council as serving M45, while Andromeda Council includes Andromedan factions, Sirians, and three Arcturian variants.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "andromeda-council",
+      "topics": [
+        "andromeda-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "council membership counts",
+    "decision procedures"
+  ]
+}

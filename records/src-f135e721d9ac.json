@@ -1,0 +1,12 @@
+{
+  "source_id": "src-f135e721d9ac",
+  "snapshot_sha256": "accbec0a8bf6b392e99ca582421d76b85ff37d62b08c4444a4a385327651ff04",
+  "language": "es",
+  "claims": [
+    {"id":"src-f135e721d9ac-c01","assertion":"Mari Swaruu distinguishes the physical Galactic Federation, an organization of embodied star beings, from higher-plane spiritual guides often conflated with it on Earth.","speaker":"Mari Swaruu","paragraph_ids":["p0004","p0005","p0012"],"primary_topic":"galactic-federation","topics":["galactic-federation","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"She says its members have embodied limits similar to humans, despite different species and perceptions."},
+    {"id":"src-f135e721d9ac-c02","assertion":"Mari Swaruu says physical Federation representatives bear direct responsibility for guiding events on Earth, despite claiming humans and higher beings guide it.","speaker":"Mari Swaruu","paragraph_ids":["p0009","p0010","p0011","p0012"],"primary_topic":"galactic-federation","topics":["galactic-federation"],"modality":"asserted","confidence":"high","qualifiers":"She characterizes their limited assistance as a convenient excuse."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["federation-role-described-as-contradictory"],
+  "coverage_gaps": ["war-and-invasion-claims-omitted", "suffering-and-soul-expansion-claims-omitted"]
+}

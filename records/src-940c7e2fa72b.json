@@ -1,0 +1,46 @@
+{
+  "source_id": "src-940c7e2fa72b",
+  "snapshot_sha256": "6566d1e26689901331b20aca2612d03781570ed3546359d660ec4ffe6bf0d894",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-940c7e2fa72b-c01",
+      "assertion": "Yazhi says the CIC identified the Turkey earthquake as artificial from its shock-wave signature; she lacks complete information but suggests it punished Turkey for insufficient alignment with the Cabal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Attributed account; Yazhi explicitly says she lacks complete information."
+    },
+    {
+      "id": "src-940c7e2fa72b-c02",
+      "assertion": "Yazhi attributes the quake to directed energy shifting tectonic plates, saying the resulting energy and atmospheric water form clouds; she says official explanations reverse this causal order.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Presented as Yazhi’s account, not independently established."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "earthquake-causation-contested"
+  ],
+  "coverage_gaps": []
+}

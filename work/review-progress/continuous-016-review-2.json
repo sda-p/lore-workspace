@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:44:01+00:00",
+  "checkpointed_at": "2026-10-08T17:57:14+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-016",
@@ -22,7 +22,41 @@
       "src-63eb2c3859f8",
       "src-77187dee8432",
       "src-6d9f789c718e",
-      "src-bb099276c98e"
+      "src-bb099276c98e",
+      "src-8418c91c8a5b",
+      "src-5b78336f9481",
+      "src-d328a6c23916",
+      "src-906e32a9d0d6",
+      "src-79f31e8f23bd",
+      "src-3ce31d2810ab",
+      "src-9d3980dffe57",
+      "src-74cf1c7706e3",
+      "src-2b276450a3d2",
+      "src-769b9ad6be07",
+      "src-205c04ebdf5e",
+      "src-f806bbf625d9",
+      "src-66eb347ad466",
+      "src-bb19379f0b60",
+      "src-075f03199db3",
+      "src-8d5449505ff0",
+      "src-830158547001",
+      "src-e41d4b9ab4a8",
+      "src-fb8fca342865",
+      "src-98f45fed7656",
+      "src-7ff15150434a",
+      "src-daa6375b23e6",
+      "src-85df30bab80f",
+      "src-1dc8eadf6766",
+      "src-9f9a5d3a7e35",
+      "src-b6d4df9b3066",
+      "src-dff574e82d59",
+      "src-9fb50ae5b7f5",
+      "src-c51704b659a3",
+      "src-cb2bbf14ee59",
+      "src-f47ad5f1276b",
+      "src-4ea4379f95bf",
+      "src-ed015e2bb945",
+      "src-0a57940b9e27"
     ],
     "corrections": [
       {
@@ -66,6 +100,58 @@
           "p0119",
           "p0123"
         ]
+      },
+      {
+        "source_id": "src-d328a6c23916",
+        "claim_id": "src-d328a6c23916-c03",
+        "problem": "The answer gives 36 minutes but does not name Suzy; the preceding question identifies the craft as Suzy.",
+        "action": "Added p0070 so the 36-minute attribution is contextualized; revalidated.",
+        "paragraph_ids": [
+          "p0070",
+          "p0071"
+        ]
+      },
+      {
+        "source_id": "src-74cf1c7706e3",
+        "claim_id": "src-74cf1c7706e3-c01",
+        "problem": "The claim specifies that molecules stay intact in answer to an interviewer question, but omitted that question; the Suzy attribution in c04 also depends on the prior question.",
+        "action": "Added the context paragraphs p0005 and p0042; revalidated.",
+        "paragraph_ids": [
+          "p0005",
+          "p0042"
+        ]
+      },
+      {
+        "source_id": "src-f806bbf625d9",
+        "claim_id": "src-f806bbf625d9-c02",
+        "problem": "“Later 48 chromosomes” obscured that the source describes the 48 chromosomes as a combined crystalline mass after first giving 24/24 strands/chromosomes.",
+        "action": "Clarified the relationship while retaining the source’s figures and citations; validated.",
+        "paragraph_ids": [
+          "p0025",
+          "p0029"
+        ]
+      },
+      {
+        "source_id": "src-fb8fca342865",
+        "claim_id": "src-fb8fca342865-c05",
+        "problem": "The qualifier that Anéeka had not personally seen the groups is unsupported anywhere in this source.",
+        "action": "Removed the unsupported firsthand-knowledge qualifier and revalidated.",
+        "paragraph_ids": [
+          "p0054",
+          "p0055",
+          "p0058",
+          "p0060"
+        ]
+      },
+      {
+        "source_id": "src-1dc8eadf6766",
+        "claim_id": "src-1dc8eadf6766-c01",
+        "problem": "The physical-versus-higher-plane guardianship answer was attributed without its preceding question.",
+        "action": "Added p0007 to preserve the question’s scope; revalidated.",
+        "paragraph_ids": [
+          "p0007",
+          "p0008"
+        ]
       }
     ],
     "unresolved": []
@@ -87,6 +173,40 @@
     "src-63eb2c3859f8": "7feced4a3e591588a75771c7c9a487cfc0394d2d21b41d5c73fb57c240d32237",
     "src-77187dee8432": "f5aef911d7fc3a4c5aef1e76cb9619ada1a776c1812188df2e384c72a4f1b746",
     "src-6d9f789c718e": "5528279d2a4ef9ea6b45f161ab2d0044faa129517c8090721abc1eabca7858af",
-    "src-bb099276c98e": "a574504b3b9b69239d83b7fcb9c08dc14d11e7f78b1454f3b1d45c515cfb0163"
+    "src-bb099276c98e": "a574504b3b9b69239d83b7fcb9c08dc14d11e7f78b1454f3b1d45c515cfb0163",
+    "src-8418c91c8a5b": "ce73faa0cd0921c339761e9ecd10c42af4d6a0a0e0dfef5ad0bbe449316dc58d",
+    "src-5b78336f9481": "328630e743d15b289242860bb694dcfa2f8f16361c5b458ba136f40d63ba7218",
+    "src-d328a6c23916": "dff6bd5d1cd511123b69f1451163db965c20b96442c49efcbd6e2fb81b131c62",
+    "src-906e32a9d0d6": "b69a41bb9ca2f65459cc2c08a6cda9bd727cac92706ddb24092cb47a0fb6ebff",
+    "src-79f31e8f23bd": "925c28ab8259ffc97db81ac41a04ce27623b11ef25c55f5185763b6e8f02c53b",
+    "src-3ce31d2810ab": "8c62f77bdc3617f1849e9869e686ccfe8da45f71d4f54e279717b0380a3b43f1",
+    "src-9d3980dffe57": "63ee9ab1c4e79badbde9a041c343e90de06e6a94e6b1d151a33ec16217f52bc9",
+    "src-74cf1c7706e3": "32af627c30ee410bae63be3f9534820f39db5cc5c334ab64fbfec6707d0a5f4b",
+    "src-2b276450a3d2": "b7a67dbb5c3e0b8f6b6ec7f61e7649dccc3a55db293096e2c51955475a9622a9",
+    "src-769b9ad6be07": "910dfbb9bae3291b206a787eda09093c5f90b0be6422b3f4245433a57ffdd046",
+    "src-205c04ebdf5e": "c736d8a4e4e77327ba907c212243cf7d6a7b58b9fac4d2290801e7402cc43bd6",
+    "src-f806bbf625d9": "7734606e50f1814d5b51a9eb74e66fabcb27d31fe0c3fb5b1e46eb4bbad4f0e0",
+    "src-66eb347ad466": "4a2dacb1cb49684d903357a9b9a21cc5c21c00dddc1c78fdd7198b4a94aa8048",
+    "src-bb19379f0b60": "bac870b78f72af884462f50c6f43041fa6390f7d867280c24db9d0f81db5a578",
+    "src-075f03199db3": "28f7c2a2203ecfe4d19a72874a7a55837fa048b88775028b89e43f369665a346",
+    "src-8d5449505ff0": "b4acc4cdfa0adc7aef2a5a0f8b408e47f13197284ebaeab9d6be1a5c7b0437b1",
+    "src-830158547001": "9a85cbc1a8addc7765ce682bf22180e9d126362b34004cf1594f08605422dfb7",
+    "src-e41d4b9ab4a8": "64a69864e971a8a4878360afaf9a230c8c075cdf3190f6b312b3abd487c4e541",
+    "src-fb8fca342865": "18025feaa924645e8eee0b3fb8f94dcf314f55bd97dbe2c8648769c7ce4ab9d7",
+    "src-98f45fed7656": "702a36b35b7602686dfcfa70f2a5faa8b846fe2da773f9004f45d0d0bfb11a02",
+    "src-7ff15150434a": "a40c18677c881b0bd9c34b67f01412ecfa0bd93cb854ee362ee3e8118a708aa4",
+    "src-daa6375b23e6": "599ebdc99900939c98ca9fa8bb62dffc3ad1473a8cadcb978df9cf9de56cd5a3",
+    "src-85df30bab80f": "88796be5edc0d27211465bc6b82645280371bc8afc8fa8c33d7e549c3680d76c",
+    "src-1dc8eadf6766": "342eb9097f2787fc6f01462470ee096548c54345f159c9e84fecb027f422c9dc",
+    "src-9f9a5d3a7e35": "18422686b98a279dd3e67d43e357d758eeaa342d284b1790281d873296ae1f5c",
+    "src-b6d4df9b3066": "bdd35d3a86655b0cd6349068607be884409b9ed994632f19a87f7f163e6502d9",
+    "src-dff574e82d59": "8f16707e69e3d2665045380209b562b58227a84bd3c14f386ad54b1bfd1be39a",
+    "src-9fb50ae5b7f5": "f3b28abce62adf549ddcfa76897f0ba4b9de53dbf56f46dfc2759625eaa27fe3",
+    "src-c51704b659a3": "03dd061e8446522789e4ace268fdf940dc0482df67e6d487a8ae3eec0026332f",
+    "src-cb2bbf14ee59": "8c615e9336862db793af012299551032208ba4f168fc8d4d8bfd9e811af55635",
+    "src-f47ad5f1276b": "46ac464912c6fd16104797fdbb4aa1b938d4ac168f3d7cad84a4f4a0bfbf64d8",
+    "src-4ea4379f95bf": "b2c99f3151d14f0346f8b4e5fc0e27578cc7c157aae2372329fbadbde343ff37",
+    "src-ed015e2bb945": "eb5c6b826eb502bdf494a6b778c4634262aa40afd185da30d6469e589dbdc8cf",
+    "src-0a57940b9e27": "0dbb360a13f9e147ecce5376e15ac12084e3297fd88686bec7ebb825cfe35a29"
   }
 }

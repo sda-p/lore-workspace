@@ -8,7 +8,13 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
-Primary assertions are filed under the linked topics below.
+### src-06841218e937-c02
+
+Anéeka says Urmah forces came to deter Federation abuses against humans and escort Taygetans, ignoring requests to withdraw.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-urmah-sin-video) (2021-02-01; es); passages p0018, p0020. [Structured record](../../records/src-06841218e937.json).
 
 ## Claims filed under other topics
 
@@ -21,4 +27,5 @@ Primary assertions are filed under the linked topics below.
 
 ## Review flags
 
+- Avyon-1 orbit and crew-size details omitted.
 - historical-date-ambiguity

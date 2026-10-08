@@ -1,0 +1,64 @@
+{
+  "source_id": "src-fb36af989f4a",
+  "snapshot_sha256": "f13e1c6b14e648bbcea0baa1a157a8eadd5450cb59c8020bcc7547464c5e3c1e",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari defines starseeds as souls with prior extraterrestrial incarnations; she distinguishes wanderers, who shift among species, from souls strongly attached to one star civilization.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Classification attributed to Mari.",
+      "id": "src-fb36af989f4a-c01"
+    },
+    {
+      "assertion": "Mari says a mismatch between starseeds’ higher-frequency origins and Earth’s collective field can cause discomfort; she says solitude or like-minded groups help them recharge.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0024"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari’s metaphysical explanation.",
+      "id": "src-fb36af989f4a-c02"
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "wanderer-souls",
+      "name": "Wanderer souls",
+      "kind": "metaphysical population",
+      "aliases": [
+        "wanderers",
+        "almas errantes"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "medical-claims-omitted"
+  ]
+}

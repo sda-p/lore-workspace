@@ -378,6 +378,14 @@ Source: [LA MATRIX - ACTIVACION DEL ADN -ANEEKA DE TEMMER](https://swaruu.org/tr
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-2bf76cf1cd2e-c05
+
+Swaruu X says DNA encodes a life plan linked to between-life agreements.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Bandas Van Allen, Resonancia Schumann, Memorias - Athena Swaruu - Contacto Extraterrestre](https://swaruu.org/transcripts/bandas-van-allen-resonancia-schumann-memorias-athena-swaruu-contacto-extraterrestre) (2021-10-25; es); passages p0042. [Structured record](../../records/src-2bf76cf1cd2e.json).
+
 ## Claims filed under other topics
 
 - [src-31e1b41b8c15-c01](consciousness-metaphysics.md#src-31e1b41b8c15-c01) — Consciousness and metaphysics
@@ -406,6 +414,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
 - Compared English candidate src-4ae3eab52e34; closely aligned translation with differences in segmentation and some explanatory detail.
 - The cloning and genetic-control statements are Swaruu’s claims.
+- Van Allen belts both set a baseline and can be transcended; preserve distinction.
 - artificial-intelligence-attributed
 - attributed-medical-conspiracy-claims
 - biology-claim

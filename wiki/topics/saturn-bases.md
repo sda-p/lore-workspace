@@ -35,10 +35,15 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-40614df19d52-c03](astrotheology.md#src-40614df19d52-c03) — Astrotheology
 - [src-cfb8d4ba70e4-c02](galactic-federation.md#src-cfb8d4ba70e4-c02) — Galactic Federation
 - [src-33c7243bf8a8-c03](galactic-federation.md#src-33c7243bf8a8-c03) — Galactic Federation
+- [src-8bdab4413323-c02](galactic-federation.md#src-8bdab4413323-c02) — Galactic Federation
+- [src-7a1af96e9fb5-c02](earth-cabal.md#src-7a1af96e9fb5-c02) — Earth Cabal and power structures
 
 ## Review flags
 
+- Federation-involvement-in-Earth-politics-varies-across-source-claims
 - broad-exopolitical-allegations
+- competing-cabal-scenarios
+- dated-political-predictions
 - federation-control-and-nonintervention-tension
 - federation-role-speaker-contrast
 - federation-role-variation

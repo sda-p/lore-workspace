@@ -1,0 +1,64 @@
+{
+  "source_id": "src-40a206133712",
+  "snapshot_sha256": "1ba43d9640a19625269092184d88a7d58648511bf00a20fb8a3a7b74932b7431",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-40a206133712-c01",
+      "assertion": "Anéeka says Tartaria was a regional part of Atlantis, which she describes as a planet-wide civilization rather than one city or continent.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-40a206133712-c02",
+      "assertion": "Anéeka places Tartaria across Siberia, northern China, and Mongolia, within Atlantis’s wider regional network.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-40a206133712-c03",
+      "assertion": "Anéeka characterizes Atlantis as reptilian-based but multi-species; Yázhi reportedly found many Arcturian Dieslientiplex in its Bahamas capital.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Anéeka says surviving Tartaria evidence is regional and does not appear in offworld archives."
+  ],
+  "coverage_gaps": [
+    "Atlantis–Lemuria chronology",
+    "other Atlantean capitals",
+    "civilization cycle details"
+  ]
+}

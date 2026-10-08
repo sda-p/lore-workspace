@@ -902,6 +902,80 @@ Source: [VIAJES EN EL ESPACIO TIEMPO - RESPUESTAS A TUS PREGUNTAS - LO QUE NO TE
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-951e92be08de-c03
+
+Athena says military APCs transit portals to Venus; a well-built portal can make passage immediate, while moving greater mass requires more energy.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA QUINTA DENSIDAD - VIAJE AL PLANETA VENUS - INVASION EXOPOLITICA -YAZHI - ATHENA -ANEEKA](https://swaruu.org/transcripts/la-quinta-densidad-viaje-al-planeta-venus-invasion-exopolitica-yazhi-athena-aneeka) (2021-07-31; es); passages p0039, p0041, p0046, p0053, p0057. [Structured record](../../records/src-951e92be08de.json).
+
+Related topics: [Venus](venus.md).
+
+### src-528175452786-c01
+
+Anéeka says portal machines use controlled electromagnetic toroids to shift entrants to precisely frequency-matched destinations.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PORTALES ESPACIO TEMPORALES – PREGUNTAS Y RESPUESTAS – ANÉEKA DE TEMMER](https://swaruu.org/transcripts/portales-espacio-temporales-preguntas-y-respuestas-aneeka-de-temmer) (2020-11-20; es); passages p0004, p0005, p0024, p0025. [Structured record](../../records/src-528175452786.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-528175452786-c03
+
+She says natural portals trigger alarms only above size or energy thresholds and can be dangerous when unfamiliar.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PORTALES ESPACIO TEMPORALES – PREGUNTAS Y RESPUESTAS – ANÉEKA DE TEMMER](https://swaruu.org/transcripts/portales-espacio-temporales-preguntas-y-respuestas-aneeka-de-temmer) (2020-11-20; es); passages p0016, p0017. [Structured record](../../records/src-528175452786.json).
+
+### src-528175452786-c04
+
+She calls a frequency-matched empty body used by one or more souls an organic portal.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PORTALES ESPACIO TEMPORALES – PREGUNTAS Y RESPUESTAS – ANÉEKA DE TEMMER](https://swaruu.org/transcripts/portales-espacio-temporales-preguntas-y-respuestas-aneeka-de-temmer) (2020-11-20; es); passages p0022, p0023. [Structured record](../../records/src-528175452786.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b68856d8a0e1-c02
+
+Swaruu 9 describes portal entry and exit as adjacent, without tunnel-like transit.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Significado del Ojo de Horus - Swaruu de Erra - Portales Espacio Temporales](https://swaruu.org/transcripts/significado-del-ojo-de-horus-swaruu-de-erra-portales-espacio-temporales) (2021-03-30; es); passages p0004, p0006. [Structured record](../../records/src-b68856d8a0e1.json).
+
+### src-b68856d8a0e1-c04
+
+Swaruu 9 says spirals may mark portals or artificial exits; fixed natural portals form where frequencies recur, such as ley lines.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Significado del Ojo de Horus - Swaruu de Erra - Portales Espacio Temporales](https://swaruu.org/transcripts/significado-del-ojo-de-horus-swaruu-de-erra-portales-espacio-temporales) (2021-03-30; es); passages p0008, p0014. [Structured record](../../records/src-b68856d8a0e1.json).
+
+### src-ee1516c33ac1-c04
+
+Anéeka attributes deaths and partial USS Eldridge displacement to chaotic electromagnetic portal experiments.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Mercurio, Venus y Guerra de Vietnam - Que Hay en Venus? Información Directa Extraterrestre](https://swaruu.org/transcripts/mercurio-venus-y-guerra-de-vietnam-que-hay-en-venus-informacion-directa-extraterrestre) (2021-07-23; es); passages p0147, p0151, p0152, p0153, p0154. [Structured record](../../records/src-ee1516c33ac1.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-6e66e9328bac-c01
+
+Yazhi interprets Tiwanaku’s Gate of the Sun as a marker for a solar portal that opens at each solstice; she reads related ancient symbols as portals or spacecraft. She presents these as her interpretations of the imagery.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [SIMBOLOGIA OCULTA - TIAHUANACO - SUMERIA - EGIPTO - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/simbologia-oculta-tiahuanaco-sumeria-egipto-sin-video) (2021-09-19; es); passages p0003, p0005, p0007, p0009, p0012. [Structured record](../../records/src-6e66e9328bac.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md), [Sumerian tablet interpretations](sumerian-tablet-interpretations.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -945,25 +1019,39 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - [src-da37867cb1a1-c04](nonhuman-surveillance-drones.md#src-da37867cb1a1-c04) — Nonhuman surveillance drones
 - [src-9b690db81851-c04](alien-species.md#src-9b690db81851-c04) — Alien species and distinctions
 - [src-9a0338811c9d-c01](soul-harvesting.md#src-9a0338811c9d-c01) — Soul harvesting
+- [src-73ac97108b23-c02](monoliths.md#src-73ac97108b23-c02) — Monoliths
+- [src-73ac97108b23-c03](monoliths.md#src-73ac97108b23-c03) — Monoliths
+- [src-d53c3bf86f18-c02](astrotheology.md#src-d53c3bf86f18-c02) — Astrotheology
+- [src-a0cc26df9e0c-c05](pyramid-network.md#src-a0cc26df9e0c-c05) — Pyramid energy and portal network
+- [src-25df1865ec2d-c04](pyramid-network.md#src-25df1865ec2d-c04) — Pyramid energy and portal network
+- [src-df0b18054ec1-c02](ancient-egypt.md#src-df0b18054ec1-c02) — Ancient Egypt
+- [src-df0b18054ec1-c03](solar-portal-transit.md#src-df0b18054ec1-c03) — Solar portal transit
+- [src-ee1516c33ac1-c02](venus.md#src-ee1516c33ac1-c02) — Venus
+- [src-7e10fbdcd1c5-c03](operation-venus-haven.md#src-7e10fbdcd1c5-c03) — Operation Venus Haven
 
 ## Review flags
 
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
+- Eye of Horus interpretation is attributed to Swaruu 9.
 - Leader-contact claim is attributed to Asket in this transcript.
 - No English counterpart found in the cached sources.
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
+- ancient-history-reinterpretation
+- ancient-symbol-interpretations-attributed
 - ancient-texts-as-racial-symbolism-attributed
 - black-hole-ether-model
 - black-knight-loss-details-provisional
 - communication-tech-claims-attributed
 - conflict-causation-uncertain
+- conflicting-pyramid-dates
 - conspiracy-claims
 - conspiracy\_claims
 - contested-claims
 - contested\_archaeology
+- cross-timeline-travel-restriction
 - earth\_science\_claims\_unverified
 - earthly-cern-portal-claim-not-included
 - eclipse-portal-claims-unverified
@@ -976,6 +1064,8 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - extraordinary\_cosmology\_claims
 - extraordinary\_history\_claims
 - flight-19-explanation-uncertain
+- frequency-portal-physics-claims
+- giza-base-account
 - giza-underground-base-claim
 - internal\_uncertainty
 - medical-misinformation-allegation
@@ -990,14 +1080,18 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - possible-overlap-with-src-cd1fcaa78711
 - post-eclipse-causal-attribution
 - pyramid-age-and-function-unverified
+- pyramid-portal-claims
+- pyramid-technology-claims
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related-frequency-navigation-source
 - related\_series\_part
 - same-language-counterpart:src-cb51273860c3-wording-diff-agresivos
 - secondhand-fleet-reports
 - solar-and-black-hole-portal-model
+- speaker-accounts-of-monolith-origin-differ
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker\_attribution
+- species-taxonomy-ambiguous
 - starspot-portal-model-spans-two-speakers
 - symbolic\_interpretations
 - temporal-duplicate-theory

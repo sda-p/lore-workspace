@@ -1,0 +1,53 @@
+{
+  "source_id": "src-720349fd0c8e",
+  "snapshot_sha256": "d54d590c6743103c20ea6f59e310a575032d1803ebb10e5518dd018e617c6859",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says lower-astral demons are egregors manifested from living beings’ fears; they feed on fear and seek to lower a target’s frequency, with forms reflecting the target’s fears.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari presents this as her view and acknowledges materialist interpretations.",
+      "id": "src-720349fd0c8e-c01"
+    },
+    {
+      "assertion": "Mari says spiritually strong, high-frequency people, especially starseeds, resist direct access; she says entities may instead trouble their loved ones to distress them indirectly.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed to Mari’s metaphysical model.",
+      "id": "src-720349fd0c8e-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-entity-claims"
+  ],
+  "coverage_gaps": [
+    "specific-temptation-examples-omitted"
+  ]
+}

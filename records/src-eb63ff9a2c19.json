@@ -1,0 +1,85 @@
+{
+  "source_id": "src-eb63ff9a2c19",
+  "snapshot_sha256": "e182b203aa52c34a41eeb4f510f600b6d67d6e8503ac758263595e8a15d94304",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-eb63ff9a2c19-c01",
+      "assertion": "Anéeka reports that tested EMPs disabled the alleged nanotechnology only during exposure, with function returning within seconds.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "5g-electromagnetic-weapons"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb63ff9a2c19-c02",
+      "assertion": "She says counter-frequency stopped its claimed 5G communication while applied, then transmission resumed.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims",
+        "5g-electromagnetic-weapons"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb63ff9a2c19-c03",
+      "assertion": "Anéeka claims nanographene emits a fixed inoculation ID and can transmit location and biomedical data.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0021",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "reported",
+      "confidence": "low",
+      "qualifiers": "Presented as laboratory findings; unverified in this source."
+    },
+    {
+      "id": "src-eb63ff9a2c19-c04",
+      "assertion": "She claims the system could support remote behavioral influence, including perceived voice transmission and thought guidance.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "vaccine-inoculation-claims",
+      "topics": [
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-biomedical-claims",
+    "potentially-harmful-device-experiment-claims"
+  ],
+  "coverage_gaps": [
+    "device-protocol",
+    "signal-reappearance-claims"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_id": "src-2ede2b39ce16",
+  "snapshot_sha256": "a45c092ba3fe89b9446e2f5fd40d000ec7567a21982940ee9fad4cec4742aed9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2ede2b39ce16-c01",
+      "assertion": "Yazhi defines time as observer consciousness and its flow of ideas; shared temporal perception reflects agreements among observers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ede2b39ce16-c02",
+      "assertion": "Swaruu 9 says ether filters light across distance, making terrestrial redshift interpretations unreliable.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ede2b39ce16-c03",
+      "assertion": "Swaruu 9 says grandfather paradoxes resolve through branching timelines; the traveler persists on their origin line.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ede2b39ce16-c04",
+      "assertion": "Swaruu 9 describes black holes as concentrated gravity or attention, like an entire universe compressed into an observer’s point.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Time model rejects fixed linear time; do not reconcile with other accounts."
+  ],
+  "coverage_gaps": [
+    "Einstein and quantum mechanics critique",
+    "stellar lifecycles",
+    "light-speed measurement"
+  ]
+}

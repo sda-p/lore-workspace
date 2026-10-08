@@ -1,0 +1,101 @@
+{
+  "source_id": "src-7ff15150434a",
+  "snapshot_sha256": "667a75aed5fa6d4ff3981e1ff6a471e31760e243180521734e86ebecd9579947",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7ff15150434a-c01",
+      "assertion": "Athena says hyperdrive ships rematerialize by copying destination frequencies from quantum memory maps; range depends on map and engine precision.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0042",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ff15150434a-c02",
+      "assertion": "Only the destination bubble needs emulation; richer local map data improves arrival precision and timing.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ff15150434a-c03",
+      "assertion": "Athena says coded-gravity beams can alter a site’s energy map to insert objects; higher-frequency destinations require greater precision.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0038",
+        "p0078"
+      ],
+      "primary_topic": "matrix-energy-insertion",
+      "topics": [
+        "matrix-energy-insertion",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ff15150434a-c04",
+      "assertion": "In Taygeta, High Council rules restrict insertion technology; artisanal work predominates because overreliance risks ethical manipulation and social stagnation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0091",
+        "p0093",
+        "p0097",
+        "p0099",
+        "p0105",
+        "p0106"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans",
+        "matrix-energy-insertion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "matrix-energy-insertion",
+      "name": "Matrix energy insertion",
+      "kind": "technology",
+      "aliases": [
+        "inserting objects into the Matrix",
+        "gravity-coded insertion beam"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "interferometer frequency sensing",
+    "non-local terrain prediction",
+    "Sand-Clock temporal intervention"
+  ]
+}

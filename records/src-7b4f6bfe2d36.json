@@ -1,0 +1,55 @@
+{
+  "source_id": "src-7b4f6bfe2d36",
+  "snapshot_sha256": "f33a465bde8505a202a2745e905a14d507b919857bada6f4eda3a8efab1561ff",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7b4f6bfe2d36-c01",
+      "assertion": "Za’el presents Earth’s artificial 3D experience as potentially strengthening but unnecessary; it may also compound trauma and suffering.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He says this view is not shared by everyone supporting the Matrix."
+    },
+    {
+      "id": "src-7b4f6bfe2d36-c02",
+      "assertion": "Za’el says perspectives on victimhood vary, but people can act on present circumstances and alter their experienced path.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0016",
+        "p0017",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He encourages practical improvement while rejecting suffering as necessary."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "earth-matrix-ethics",
+    "perspective-metaphysics"
+  ]
+}

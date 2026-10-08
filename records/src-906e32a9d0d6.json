@@ -1,0 +1,104 @@
+{
+  "source_id": "src-906e32a9d0d6",
+  "snapshot_sha256": "b2dd80cc27d1aba0adb43685008743dcaeaa6708503b778550b435b05e7a3a16",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-906e32a9d0d6-c01",
+      "assertion": "Athena says the Moon bioship’s mass helped rebalance Earth’s orbit after Tiamat’s destruction.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0012"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-906e32a9d0d6-c02",
+      "assertion": "She says imposed lunar 3D frequencies reduced Source connection and fostered Earthbound regressive egregors.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0022"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "egregors"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-906e32a9d0d6-c03",
+      "assertion": "Athena says abrupt frequency elevation risks population harm and may strengthen egregors, rather than destroy them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0041",
+        "p0043"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "egregors"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-906e32a9d0d6-c04",
+      "assertion": "Swaruu 9 says Earth alone has a lunar Matrix; other worlds may have 3D through perception or control.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "moon-biosphere-ship"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-906e32a9d0d6-c05",
+      "assertion": "She describes the lunar hologram as thousands of surface projectors whose failures cause visual anomalies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0055",
+        "p0057"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Transcript combines several speakers and dates; claims preserve speaker attribution"
+  ],
+  "coverage_gaps": [
+    "station reactor status",
+    "Van Allen exit constraints"
+  ]
+}

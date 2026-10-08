@@ -1,0 +1,91 @@
+{
+  "source_id": "src-3ce31d2810ab",
+  "snapshot_sha256": "75e96b90f0a55b5ef70a621bd33ec4eea3b6834ba08f065028eaad2df3268fd0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3ce31d2810ab-c01",
+      "assertion": "Anéeka says advanced offworld species chiefly seek consciousness, lived experience, or influence over reality, not minerals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0011",
+        "p0015",
+        "p0023"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ce31d2810ab-c02",
+      "assertion": "She distinguishes Earthbound Cabal-linked and subterranean groups seeking resources from fully interstellar societies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028",
+        "p0059",
+        "p0061",
+        "p0065"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ce31d2810ab-c03",
+      "assertion": "Anéeka uses hybrid broadly for starseeds, engineered gene combinations, and natural crossbreeds.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3ce31d2810ab-c04",
+      "assertion": "She measures advanced civilization by interstellar capability and ability to produce matter from energy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0062",
+        "p0063",
+        "p0064",
+        "p0070"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Resource-seeking distinction is level-dependent in Anéeka’s account"
+  ],
+  "coverage_gaps": [
+    "specific offworld factions",
+    "hybrid reproduction constraints"
+  ]
+}

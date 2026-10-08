@@ -1,0 +1,71 @@
+{
+  "source_id": "src-2c81dcc2e671",
+  "snapshot_sha256": "797a0df73ab0cf98a1881bc63462f38e211ba82b640e152e0e2102454d63921c",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says the Federation moved a damaged Andromedan biosphere ship, destroyed in the Tiamat war, into Earth orbit as a stabilizing counterweight and military base.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "tiamat",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-2c81dcc2e671-c01"
+    },
+    {
+      "assertion": "She says a metal lunar hull is hidden by synchronized hologram projectors, though telescopic glitches expose the projection.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-2c81dcc2e671-c02"
+    },
+    {
+      "assertion": "Mari says lunar low-frequency transmissions modulate Earth’s magnetosphere into Van Allen belts; spiritually awakened souls can transcend them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "van-allen-belts"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-2c81dcc2e671-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "moon-lore-conflicts-with-other-accounts"
+  ],
+  "coverage_gaps": [
+    "other-lunar-claims-omitted"
+  ]
+}

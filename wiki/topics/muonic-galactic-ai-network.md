@@ -106,6 +106,14 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [Swaruu de Erra: Varias Conversaciones (Mensaje Extraterrestre Pleyadiano) (18)](https://swaruu.org/transcripts/swaruu-de-erra-varias-conversaciones-mensaje-extraterrestre-pleyadiano-18) (2019-01-12; es); passages p0017, p0018. [Structured record](../../records/src-64a9e923fd20.json).
 
+### src-8bdab4413323-c03
+
+Yazhi says groups outside Earth’s official street-level civilization use encoded gravitational transmissions called Muon, alongside other communication methods. She lists this among several contact methods.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Jesuitas - Cabal - Federación - Estructura del Poder Secreto en la Tierra - PARTE 2 - Yazhi Swaruu](https://swaruu.org/transcripts/jesuitas-cabal-federacion-estructura-del-poder-secreto-en-la-tierra-parte-2-yazhi-swaruu) (2021-08-30; es); passages p0018. [Structured record](../../records/src-8bdab4413323.json).
+
 ## Claims filed under other topics
 
 - [src-0a76aae844b1-c04](natural-portals.md#src-0a76aae844b1-c04) — Natural and artificial portals
@@ -116,6 +124,7 @@ Source: [Swaruu de Erra: Varias Conversaciones (Mensaje Extraterrestre Pleyadian
 
 ## Review flags
 
+- Federation-involvement-in-Earth-politics-varies-across-source-claims
 - broad-exopolitical-allegations
 - nonhuman-medical-claims-unverified
 - social-media-project\_details\_speculative

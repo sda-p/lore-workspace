@@ -1,0 +1,141 @@
+{
+  "batch_id": "continuous-015",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-a0cc26df9e0c",
+    "src-f692b0750026",
+    "src-e7f3b531d57a",
+    "src-25df1865ec2d",
+    "src-d2225df469c1",
+    "src-1e6c72c7fff5",
+    "src-70151b61ae43",
+    "src-df0b18054ec1",
+    "src-6e854bde7448",
+    "src-220efa38c406",
+    "src-d3e73f956099",
+    "src-8ed812c6e261",
+    "src-9524a72ff653",
+    "src-9143cd103af6",
+    "src-f3ee24d30a02",
+    "src-a024d1720df9",
+    "src-7ee742c5e8d8",
+    "src-cf34095b8042",
+    "src-71496b122bfb",
+    "src-ba1c5a843ad1",
+    "src-a16662523ccb",
+    "src-940f9935241e",
+    "src-2997017bfd28",
+    "src-e3c4c3592419",
+    "src-3902c9520a94",
+    "src-d96ec8429f2c",
+    "src-ca31fe5ca6c3",
+    "src-6e8bf66d80f9",
+    "src-a6ebb6326b6a",
+    "src-2aeaa7622c61",
+    "src-87d412699e7d",
+    "src-b366c302a081",
+    "src-2a6863e625a6",
+    "src-d9a04b018638",
+    "src-7037a2d38c7d",
+    "src-74df7085bcef",
+    "src-b85ee8ec9a41",
+    "src-c57cf7f12530",
+    "src-00bbf49a9a01",
+    "src-9d6a70cdb1fa",
+    "src-a11e19988b9a",
+    "src-9b7bf8d19d78",
+    "src-eb7d2550aba4",
+    "src-56668c63592b",
+    "src-748a1e239668",
+    "src-26233e98795b",
+    "src-3c4f875317e3",
+    "src-ae3ec238fe23",
+    "src-ef805e314080",
+    "src-9ac9cc0d3fef",
+    "src-f469530b91ab",
+    "src-4077e2cdca7d",
+    "src-aac42554ceb6",
+    "src-06841218e937",
+    "src-5d286dfcc1cb",
+    "src-2f14c95980f4",
+    "src-af62f6070aa7",
+    "src-d53c3bf86f18",
+    "src-5f6db4196608",
+    "src-6d32076d9fb4",
+    "src-c190fb308eb0",
+    "src-a962ed4b5139",
+    "src-26f786757cae",
+    "src-8253dcdfe3e7",
+    "src-74fefae75775",
+    "src-482490d8772a",
+    "src-ba55ed53f560",
+    "src-3dd31a924503",
+    "src-045ad55a01dd",
+    "src-4209c9213382",
+    "src-dc304babfddc",
+    "src-6ee50082e97e",
+    "src-eb16750d6a08",
+    "src-bc16c7eb40d8",
+    "src-2431d292ceb2",
+    "src-8a02bd099c08",
+    "src-40a206133712",
+    "src-417359a5f6a0",
+    "src-d886f4bf6787",
+    "src-f7b14ae4e62f"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-f3ee24d30a02",
+      "claim_id": "src-f3ee24d30a02-c04",
+      "problem": "The source alternately attributes Gospel compilation to Constantine and Josephus’s scribes under Vespasian.",
+      "action": "Added internal_tension review flag; retained both passages with attribution.",
+      "paragraph_ids": [
+        "p0089",
+        "p0101",
+        "p0103"
+      ]
+    },
+    {
+      "source_id": "src-9524a72ff653",
+      "claim_id": "src-9524a72ff653-c02",
+      "problem": "The claim combined intended original sites (Giza and Alt-Ur) with later reported locations (a U.S. DUMB and Vostok), obscuring that the article states both at different points.",
+      "action": "Rephrased to distinguish intended from later locations and added the Giza/Alt-Ur passage citation.",
+      "paragraph_ids": [
+        "p0010",
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-9ac9cc0d3fef",
+      "claim_id": "src-9ac9cc0d3fef-c01",
+      "problem": "Cited p0006 assigns the no-further-intervention/invasiveness limit to Taygeta, while the claim assigned it to the Federation.",
+      "action": "Separated Taygeta’s constraint from Anéeka’s Federation-control and insufficient-response claims; narrowed citations and revalidated.",
+      "paragraph_ids": [
+        "p0006",
+        "p0010",
+        "p0017",
+        "p0019"
+      ]
+    },
+    {
+      "source_id": "src-748a1e239668",
+      "claim_id": "src-748a1e239668-c01",
+      "problem": "The host-reproduction detail was supported by an elliptical answer (“like in the film, yes”) but the citation omitted the interviewer’s immediately preceding question specifying host reproduction.",
+      "action": "Added the question paragraph p0023 next to the answer p0024; validated the complete record.",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-940f9935241e",
+      "claim_id": "src-940f9935241e-c03",
+      "problem": "“Inland” did not preserve the source’s specific destination, Tierra interna (Earth’s interior).",
+      "action": "Changed to “into Earth’s interior” and retained the Mount Shasta example; validated.",
+      "paragraph_ids": [
+        "p0053"
+      ]
+    }
+  ],
+  "unresolved": []
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "src-1917bcf83880",
+  "snapshot_sha256": "690de395afaf6ee31a80d9d5e8d50227587b8168d3f04912d594c726210c81ec",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Athena says Earth’s synthetic telepathy uses microwaves tuned to mental-frequency ranges to transmit ideas, feelings, or inner voices; she says it can implant false memories and affect crowds.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "aggressive-telepathy",
+      "topics": [
+        "aggressive-telepathy",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed to Athena’s account.",
+      "id": "src-1917bcf83880-c01"
+    },
+    {
+      "assertion": "Athena distinguishes ship mind-computer interfaces for pilot commands and in-head messages from Earth use; advanced Suzy systems can adjust message intensity.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0037",
+        "p0045",
+        "p0047",
+        "p0051",
+        "p0055",
+        "p0057",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "suzy-class-starships"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-1917bcf83880-c02"
+    },
+    {
+      "assertion": "Athena says localized transmissions need a directional line of sight; an unfocused beam may reach bystanders, and the Federation prohibits offworld use.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0065",
+        "p0069",
+        "p0070",
+        "p0072",
+        "p0074"
+      ],
+      "primary_topic": "aggressive-telepathy",
+      "topics": [
+        "aggressive-telepathy",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-1917bcf83880-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "terrestrial-technology-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "concert-incident-claims-omitted"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_id": "src-f344c5152e16",
+  "snapshot_sha256": "219d807c861e294bbde1737d83e01c0cfe5b7ecae4cf127e7324aa13292455f7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f344c5152e16-c01",
+      "assertion": "Swaruu 9 says Alpha Dracos and Urmahs eat cell-grown meat, avoiding conscious animals.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "cultivated-meat",
+      "topics": [
+        "cultivated-meat",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f344c5152e16-c02",
+      "assertion": "She says widespread production requires released technology and takes six weeks per steak.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "cultivated-meat",
+      "topics": [
+        "cultivated-meat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f344c5152e16-c03",
+      "assertion": "Swaruu says Reptilian society has seven castes, with slave labor below and white Kingu at the top.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0099"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f344c5152e16-c04",
+      "assertion": "Swaruu says some Earth DUMB Kingu oppose human exploitation yet eat humans to survive; Reptilian society is also repressive.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0153",
+        "p0155",
+        "p0158"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f344c5152e16-c05",
+      "assertion": "She dates the Great Expansion to about one million years ago, when Lyrans fled Vega’s Reptilian invasion.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0222"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-diet-claims",
+    "multi-speaker-source"
+  ],
+  "coverage_gaps": [
+    "Taygetan-food-systems",
+    "plant-variety-constraints",
+    "Federation-diet-dispute"
+  ]
+}

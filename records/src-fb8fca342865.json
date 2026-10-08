@@ -1,0 +1,100 @@
+{
+  "source_id": "src-fb8fca342865",
+  "snapshot_sha256": "620158a7acdcf6bc0028ab2b469f4b22a3dcd7d88723a3afe28ededa2abfbbb3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fb8fca342865-c01",
+      "assertion": "Anéeka describes a regressive Homo Capensis lineage allied by treaty with Reptiles and Maitre Greys.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0012"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "maitre"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fb8fca342865-c02",
+      "assertion": "She says Reptiles, Maitre, Orange and Malakak are outside the Federation; Malakak are Tall Whites.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fb8fca342865-c03",
+      "assertion": "Anéeka says Maitre directs the operation, with Reptiles as allies, to exploit humans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0033",
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fb8fca342865-c04",
+      "assertion": "She says the Federation contains these groups on Earth but will not intervene.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0049"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fb8fca342865-c05",
+      "assertion": "Anéeka identifies Paracas elongated-skull beings as extraterrestrial Asterope Elohi, called Homo Capensis on Earth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0054",
+        "p0055",
+        "p0058",
+        "p0060"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source-says-speaker-has-not-seen-regressive-groups"
+  ],
+  "coverage_gaps": [
+    "biology",
+    "species-range",
+    "other-extraterrestrial-groups"
+  ]
+}

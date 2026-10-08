@@ -124,10 +124,11 @@
     },
     {
       "id": "pyramid-network",
-      "name": "Planetary pyramid network",
+      "name": "Pyramid energy and portal network",
       "kind": "technology network",
       "aliases": [
-        "pyramid energy grid"
+        "pyramids",
+        "red de pirámides"
       ]
     }
   ],

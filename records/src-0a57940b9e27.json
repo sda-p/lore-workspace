@@ -1,0 +1,107 @@
+{
+  "source_id": "src-0a57940b9e27",
+  "snapshot_sha256": "ebc20aff012b9ceba23262c0704bf21d2e10b4c5e8abb92cde3d8fc2243de793",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0a57940b9e27-c01",
+      "assertion": "In Yazhi’s astral account, Haitian zombies are people declared dead, magically revived with severely diminished awareness, then forced into plantation labor.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0021"
+      ],
+      "primary_topic": "haitian-zombification",
+      "topics": [
+        "haitian-zombification"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a57940b9e27-c02",
+      "assertion": "She distinguishes these living humans from corpses animated by unincarnated lower-astral entities.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "haitian-zombification"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a57940b9e27-c03",
+      "assertion": "Yazhi calls Pulsa Denura an occult judgment ritual whose curse can rebound if its petition is unjust; she notes rabbis reject the ritual label.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0041",
+        "p0042",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "pulsa-denura",
+      "topics": [
+        "pulsa-denura",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0a57940b9e27-c04",
+      "assertion": "Yazhi says Earth’s transition follows frequency compatibility and a holographic society requires gradual consciousness change; she calls mass killing unnecessary.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0056",
+        "p0071",
+        "p0072",
+        "p0074",
+        "p0076"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "haitian-zombification",
+      "name": "Haitian zombification",
+      "kind": "phenomenon",
+      "aliases": [
+        "zombificación haitiana",
+        "Haitian zombies"
+      ]
+    },
+    {
+      "id": "pulsa-denura",
+      "name": "Pulsa Denura",
+      "kind": "ritual",
+      "aliases": [
+        "Pulsa Denura ritual"
+      ]
+    }
+  ],
+  "review_flags": [
+    "internal-tension:population-change"
+  ],
+  "coverage_gaps": [
+    "salt-claims-omitted",
+    "renewal-scenario-details"
+  ]
+}

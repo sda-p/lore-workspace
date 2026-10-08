@@ -1786,6 +1786,116 @@ Source: [Realidad artificial - SERES DE DENSIDADES MÁS ALTAS - DENSIDADES EXIST
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-1a5deaf584db-c01
+
+Yazhi describes Earth as an isolated dome or Matrix with rules of reality distinct from outside worlds. She presents this as her account of Earth’s separation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Federación y la Tierra - Realidad Extraterrestre vs Humanidad - Información Extraterrestre Directa](https://swaruu.org/transcripts/federacion-y-la-tierra-realidad-extraterrestre-vs-humanidad-informacion-extraterrestre-directa) (2021-07-10; es); passages p0058, p0060, p0061. [Structured record](../../records/src-1a5deaf584db.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-838da06df0a1-c01
+
+Anéeka says the Van Allen belts are not a solid dome; atmospheric layers can reflect radio waves depending on frequency. She compares this to long-distance ship radio.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tierra Plana - Conversación con Athena Swaruu y Aneeka - Contacto Extraterrestre](https://swaruu.org/transcripts/tierra-plana-conversacion-con-athena-swaruu-y-aneeka-contacto-extraterrestre) (2021-09-29; es); passages p0016, p0017. [Structured record](../../records/src-838da06df0a1.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-a233d8d37765-c02
+
+Anéeka says the Van Allen belts are not a solid dome; atmospheric strata can reflect waves according to frequency. She compares this with long-distance ship radio.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [El \#Terraplanismo - La Tierra Plana - Anéeka de Temmer](https://swaruu.org/transcripts/el-terraplanismo-la-tierra-plana-aneeka-de-temmer) (2021-11-11; es); passages p0034. [Structured record](../../records/src-a233d8d37765.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-4209c9213382-c01
+
+Yazhi says Earth’s human civilization is intentionally contained in 3D; awakening could trigger a reset, and advanced medical technology is withheld because it would disrupt that scenario. Her account of the human scenario.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA IDEA ES QUE ESTÉ CONTENIDA LA CIVILIZACIÓN HUMANA - EXOPOLITICA - YAZHI SWARUU](https://swaruu.org/transcripts/la-idea-es-que-este-contenida-la-civilizacion-humana-exopolitica-yazhi-swaruu) (2021-08-10; es); passages p0005, p0010, p0011. [Structured record](../../records/src-4209c9213382.json).
+
+### src-8a02bd099c08-c02
+
+She predicts acknowledging extraterrestrials would undermine human science and evolution narratives and encourage people to see themselves as stellar and free.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DEL FENOMENO OVNI – EXTRATERRESTRE -ANEEKA DE TEMMER](https://swaruu.org/transcripts/desclasificacion-del-fenomeno-ovni-extraterrestre-aneeka-de-temmer) (2021-04-18; es); passages p0006, p0007, p0009. [Structured record](../../records/src-8a02bd099c08.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-8a02bd099c08-c03
+
+She says disclosure of free energy and transport technology could collapse economies, while the Federation maintains the terrestrial Matrix partly to preserve Earth-based experiences. She presents this as a motive within her account.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DEL FENOMENO OVNI – EXTRATERRESTRE -ANEEKA DE TEMMER](https://swaruu.org/transcripts/desclasificacion-del-fenomeno-ovni-extraterrestre-aneeka-de-temmer) (2021-04-18; es); passages p0008, p0012, p0013. [Structured record](../../records/src-8a02bd099c08.json).
+
+Related topics: [Energy generation technology](energy-generation.md), [Economics and resources](economics.md), [Galactic Federation](galactic-federation.md).
+
+### src-3c4f875317e3-c05
+
+She says collective thought sustains Earth’s Matrix and nonhuman incarnations influence culture.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [INFLUENCIA CULTURAL EXTRATERRESTRES Y HUMANOS – UFÓLOGOS – ANEEKA DE TEMMER 2021](https://swaruu.org/transcripts/influencia-cultural-extraterrestres-y-humanos-ufologos-aneeka-de-temmer-2021) (2021-04-02; es); passages p0022, p0023, p0024, p0027, p0028. [Structured record](../../records/src-3c4f875317e3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Alien species and distinctions](alien-species.md).
+
+### src-87d412699e7d-c05
+
+Yazhi says human collective perception creates Earth’s Matrix and that ordinary humans ultimately govern their Earth experience.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Vaticano - Jesuitas - Cabal - Federación - Estructura del Poder Secreto en la Tierra - Yazhi Swaruu](https://swaruu.org/transcripts/vaticano-jesuitas-cabal-federacion-estructura-del-poder-secreto-en-la-tierra-yazhi-swaruu) (2021-08-25; es); passages p0033, p0037. [Structured record](../../records/src-87d412699e7d.json).
+
+### src-a9734f1c49e3-c04
+
+Anéeka says Earth’s 3D reality is a self-sustaining collective thought loop, filtered by bodily senses and socially learned processing.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL ÉTER EL TODO LA FUENTE LA LLAMADA ASCENSIÓN PLANETARIA – ANÉEKA DE TEMMER](https://swaruu.org/transcripts/el-eter-el-todo-la-fuente-la-llamada-ascension-planetaria-aneeka-de-temmer) (2021-04-14; es); passages p0015, p0019. [Structured record](../../records/src-a9734f1c49e3.json).
+
+### src-045ad55a01dd-c03
+
+Anéeka contrasts Swaruu’s lunar Matrix separation of physical and astral bodies around 12,500 years ago with Yazhi’s self-reinforcing collective-trauma model.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [CAMBIO DEL EJE MAGNETICO PLANETARIO NO HUBO GLACIACION](https://swaruu.org/transcripts/cambio-del-eje-magnetico-planetario-no-hubo-glaciacion) (2021-09-02; es); passages p0017, p0018, p0019, p0021, p0022. [Structured record](../../records/src-045ad55a01dd.json).
+
+### src-1916a1ff5c00-c02
+
+She calls Earth artificial through perception control, not computers or Van Allen belts; collective beliefs sustain a local 3D reality.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [LA REALIDAD ARTIFICIAL - EL MUNDO DONDE VIVES – SWARUU X](https://swaruu.org/transcripts/la-realidad-artificial-el-mundo-donde-vives-swaruu-x) (2021-06-14; es); passages p0005, p0007, p0009. [Structured record](../../records/src-1916a1ff5c00.json).
+
+### src-cf34095b8042-c01
+
+Yazhi says Earth’s controlled perception agreements form an isolated Matrix unlike other worlds’ realities.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES Y HUMANOS - LA FEDERACION DE PLANETAS UNIDOS](https://swaruu.org/transcripts/extraterrestres-y-humanos-la-federacion-de-planetas-unidos) (2021-07-19; es); passages p0004, p0008, p0009, p0010. [Structured record](../../records/src-cf34095b8042.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -1884,14 +1994,23 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-b0799fe10f02-c02](civilizational-resets.md#src-b0799fe10f02-c02) — Civilizational resets
 - [src-18ebdb1cca3c-c03](galactic-federation.md#src-18ebdb1cca3c-c03) — Galactic Federation
 - [src-9a0338811c9d-c03](postmortem-realities.md#src-9a0338811c9d-c03) — Postmortem realities
+- [src-29ae7cdf0163-c03](galactic-federation.md#src-29ae7cdf0163-c03) — Galactic Federation
+- [src-f2d7d797c8f4-c05](consciousness-metaphysics.md#src-f2d7d797c8f4-c05) — Consciousness and metaphysics
+- [src-2f14c95980f4-c04](astral-travel.md#src-2f14c95980f4-c04) — Astral Travel
+- [src-4a65be032f34-c01](consciousness-metaphysics.md#src-4a65be032f34-c01) — Consciousness and metaphysics
 
 ## Review flags
 
 - 3d-to-5d-transition
+- Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
 - Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- Different trauma explanations are attributed separately to Swaruu and Yazhi.
+- Earth’s purpose is explicitly undetermined.
+- Federation alternately described as Earth controller and nonultimate authority.
+- Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-arguments\_reported
 - Federation-policy\_claims\_attributed
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
@@ -1904,6 +2023,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - approximate-age-estimate
 - archon\_interference\_qualification
 - ascension-not-a-single-event
+- astral-perception-agenda-claim
 - attributed-frequency-interference-claims
 - attribution: extraordinary intelligence claims remain source-specific
 - blockade-and-biology-attributed
@@ -1914,6 +2034,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - conceptual-revision:mind-reading-vs-perception
 - conceptual-tension: real/unreal distinctions are context-dependent
 - consciousness-claims
+- conspiracy-allegations
 - conspiracy-claims
 - conspiracy\_claims
 - contested-claims
@@ -1954,12 +2075,16 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - family-dynamics-generalization
 - federation-control-and-nonintervention-tension
 - federation-intentions-and-collective-choice-tension
+- federation-noninterference-tension
 - federation-purpose-vs-collective-choice-tension
+- federation-role-contradiction
 - federation-role-speaker-contrast
 - federation-role-variation
 - gender-reincarnation\_views\_attributed
+- high-content-overlap-with-src-838da06df0a1
 - high-content-overlap-with-src-e9f782478883
 - historical-claims-unverified
+- human-civilization-containment-claim
 - human-origin-model
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - internal\_uncertainty
@@ -1979,6 +2104,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - metaphysical-claims-attributed
 - metaphysical-model\_attributed
 - moon-conspiracy-claims
+- nonhuman-human-boundary-claims
+- nonphysical-memory-mechanism-claims
 - nonstandard-biology-claims
 - nonstandard-physics-claims
 - nonstandard-planetary-model
@@ -1987,6 +2114,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - perspective-variation
 - planetary-reset-cycle-attributed
 - positronic-wave-source-disputed-with-alcyone-claims
+- reincarnation-and-catholic-control-claim
 - reincarnation-model-metaphysical
 - related\_series\_part
 - religion-personal-benefit-versus-social-harm

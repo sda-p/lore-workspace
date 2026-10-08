@@ -1,0 +1,93 @@
+{
+  "source_id": "src-ce78d7905978",
+  "snapshot_sha256": "ed09ac3470cf1b5a403874fbce23be4f60ec86df74e737f56db08057ea459558",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ce78d7905978-c01",
+      "assertion": "Athena says local wars may begin from clan disputes, but Cabal agents may later steer conflicts and install controlled leaders.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce78d7905978-c02",
+      "assertion": "She alleges Cabal-controlled major wars are preplanned on both sides for population control; combat is real, but human unpredictability can disrupt plans.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0018",
+        "p0019",
+        "p0031",
+        "p0032",
+        "p0035",
+        "p0038",
+        "p0051"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce78d7905978-c03",
+      "assertion": "She says both sides propagandize wartime accounts, so observers cannot know events clearly during conflict.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce78d7905978-c04",
+      "assertion": "Athena describes fear as concentrated creative attention called Lush; human-made egregore entities feed on suffering and dissolve if people withdraw attention.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0053",
+        "p0054",
+        "p0055",
+        "p0056",
+        "p0058",
+        "p0061"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "tension:planned-outcomes-vs-human-agency"
+  ],
+  "coverage_gaps": [
+    "world-war-examples-omitted"
+  ]
+}

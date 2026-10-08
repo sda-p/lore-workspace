@@ -1,0 +1,106 @@
+{
+  "source_id": "src-74cf1c7706e3",
+  "snapshot_sha256": "115a0442e7f4d12c72b18067b3e0d0737b44f743430a7972f355cb0b05c39d09",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-74cf1c7706e3-c01",
+      "assertion": "Athena says portals and hyperspace change frequency compatibility without separating molecules.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74cf1c7706e3-c02",
+      "assertion": "She says low-energy portals show a watery effect; higher-energy versions reveal the other side directly.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74cf1c7706e3-c03",
+      "assertion": "Small craft shift instantly, while massive ships make gradual frequency steps limited by engine power and mass.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0020",
+        "p0021",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74cf1c7706e3-c04",
+      "assertion": "For Earth–Temmer, she gives Toleka’s crew seven hours SIT and Suzy’s 36 minutes.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0036",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "toleka-class",
+        "suzy-class-starships"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74cf1c7706e3-c05",
+      "assertion": "Athena says repeated jumps have no lifetime limit for a body.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "near-duplicate:src-d328a6c23916"
+  ],
+  "coverage_gaps": [
+    "portal construction",
+    "engine specifications"
+  ]
+}

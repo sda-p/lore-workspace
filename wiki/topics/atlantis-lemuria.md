@@ -402,6 +402,80 @@ Source: [Las Guerras de Orion - Invasion Reptil - Atlantida y Lemuria - Parte 3 
 
 Related topics: [Lyran expansion](lyran-expansion.md).
 
+### src-a788b48954ec-c03
+
+Yazhi suggests Tartaria may name Atlantis or an earlier planetary civilization; she says the surviving history is obscure. She says she lacks stellar references for the name.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Vasectomia, Monte Bucegi, Facebook - Meta, y Mas - Minitemas con Gosia (Taygeta - Pleyades)](https://swaruu.org/transcripts/vasectomia-monte-bucegi-facebook-meta-y-mas-minitemas-con-gosia-taygeta-pleyades) (2021-11-13; es); passages p0093, p0094. [Structured record](../../records/src-a788b48954ec.json).
+
+### src-a0cc26df9e0c-c03
+
+Swaruu says Usungal reptilians dominated Atlantis, guided by Draco.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Enki, Enlil, Elohim, Anunnaki - QUIENES SON? Contacto Extraterrestre - Swaruu de Erra (Pleyades)](https://swaruu.org/transcripts/enki-enlil-elohim-anunnaki-quienes-son-contacto-extraterrestre-swaruu-de-erra-pleyades) (2021-04-14; es); passages p0107. [Structured record](../../records/src-a0cc26df9e0c.json).
+
+Related topics: [Usungal](usungal.md).
+
+### src-de22732f48f1-c03
+
+She says Antarctica preserves ruins of the planetwide pre-flood Atlantis civilization.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA ANTÁRTIDA - BASES EXTRATERRESTRES \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-antartida-bases-extraterrestres-sin-video) (2021-01-04; es); passages p0003. [Structured record](../../records/src-de22732f48f1.json).
+
+Related topics: [Antarctica](antarctica.md).
+
+### src-6221e4d4f8ff-c03
+
+She alleges Roman-confiscated records, including nonhuman texts from Atlantis and Lemuria, remain in Vatican vaults. Her account.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Jesús - Quien Era? Existió? Titus y Vespasiano - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/jesus-quien-era-existio-titus-y-vespasiano-swaruu-de-erra-comunicacion-extraterrestre) (2021-02-03; es); passages p0035, p0090, p0091, p0092. [Structured record](../../records/src-6221e4d4f8ff.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-4b86c5c36df0-c01
+
+Yazhi says Lemurian Evas freed captive Adamic people in Turkey, triggering a mass escape from Atlantean control.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guerras de Orión - PARTE 5 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-batalla-antigua-la-rebelion-del-jardin-del-eden-las-guerras-de-orion-parte-5-sin-video) (2021-05-29; es); passages p0003, p0007. [Structured record](../../records/src-4b86c5c36df0.json).
+
+Related topics: [Eden Escape](eden-escape.md).
+
+### src-4b86c5c36df0-c03
+
+Yazhi says conflict between Lemuria and Atlantis escalated over centuries, with Lyrian allies supporting Lemuria and Reptilian allies Atlantis.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guerras de Orión - PARTE 5 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-batalla-antigua-la-rebelion-del-jardin-del-eden-las-guerras-de-orion-parte-5-sin-video) (2021-05-29; es); passages p0019, p0020. [Structured record](../../records/src-4b86c5c36df0.json).
+
+### src-40a206133712-c03
+
+Anéeka characterizes Atlantis as reptilian-based but multi-species; Yázhi reportedly found many Arcturian Dieslientiplex in its Bahamas capital.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [TARTARIA ATLANTIDA y LEMURIA CIVILIZACION ANÉEKA DE TEMMER](https://swaruu.org/transcripts/tartaria-atlantida-y-lemuria-civilizacion-aneeka-de-temmer) (2020-11-13; es); passages p0008, p0009. [Structured record](../../records/src-40a206133712.json).
+
+### src-7e10fbdcd1c5-c02
+
+She says Lemuria was founded by Atlantean separatists of Lyrian stock and later supported by offworld bases, including Taygetans.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Atlantida y Lemuria - Invasion de Venus - Preguntas y Respuestas - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/atlantida-y-lemuria-invasion-de-venus-preguntas-y-respuestas-sin-video) (2021-10-14; es); passages p0061, p0065, p0067. [Structured record](../../records/src-7e10fbdcd1c5.json).
+
+Related topics: [Taygetans](taygetans.md), [Alcyone Council](alcyone-council.md).
+
 ## Claims filed under other topics
 
 - [src-4edf6c848c69-c03](tiamat.md#src-4edf6c848c69-c03) — Tiamat
@@ -427,15 +501,22 @@ Related topics: [Lyran expansion](lyran-expansion.md).
 - [src-a02207051534-c02](orion-wars.md#src-a02207051534-c02) — Orion Wars
 - [src-a02207051534-c04](terrestrial-science.md#src-a02207051534-c04) — Terrestrial science
 - [src-a02207051534-c05](nazca-spaceport.md#src-a02207051534-c05) — Nazca spaceport
+- [src-940f9935241e-c03](intra-terrestrial-agartha.md#src-940f9935241e-c03) — Agartha resistance network
+- [src-7e10fbdcd1c5-c01](tiamat.md#src-7e10fbdcd1c5-c01) — Tiamat
 
 ## Review flags
 
+- Alternative ancient-history narrative; no independent corroboration in source.
+- Anéeka says surviving Tartaria evidence is regional and does not appear in offworld archives.
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - alternate-history\_claims\_attributed
+- ancient-history-reinterpretation
 - ancient-texts-as-racial-symbolism-attributed
+- antarctic-base-conspiracy-claims
+- cataclysm-history-attributed
 - competing\_attributions
 - contested-history
 - cosmology-claims\_attributed
@@ -444,12 +525,17 @@ Related topics: [Lyran expansion](lyran-expansion.md).
 - extraordinary\_history\_claims
 - extraterrestrial-claims
 - frequency\_health\_claims\_unverified
+- hidden-inner-earth-entrance-claim
+- highly-contested-history-claims-attributed
 - historical-conspiracy-claims
 - matrix-collapse-and-human-choice
 - no-parallel-source-in-batch
+- pyramid-portal-claims
 - reset-sequence-and-dating-unclear
+- secret-society-name-uncertain
 - speaker-attribution-inferred-from-transcript
 - speaker-speculation
+- species-taxonomy-ambiguous
 - symbolic\_interpretations
 - translated-from-spanish
 - translated\_source

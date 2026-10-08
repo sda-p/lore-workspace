@@ -1,0 +1,94 @@
+{
+  "source_id": "src-b00727c7921a",
+  "snapshot_sha256": "a9d74078677f4f25cbd12caff24ecf1f3f5c78b2789b17dad935e071d4135450",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b00727c7921a-c01",
+      "assertion": "Yazhi says collective beliefs generate a planetary reality and its perceived frequency.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b00727c7921a-c02",
+      "assertion": "She says time is consciousness in motion; changing consciousness changes experienced time.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b00727c7921a-c03",
+      "assertion": "She says surrounding higher-frequency collectives may raise Earth’s perceived frequency through dominant-frequency equalization.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b00727c7921a-c04",
+      "assertion": "Yazhi says Earth is already ascended; human perception determines whether people experience it as ascending.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0028"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b00727c7921a-c05",
+      "assertion": "Yazhi says some souls enter because compatible with or drawn to the Earth experience, while others arrive with service aims and later become incompatible.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "soul-family-groups",
+      "topics": [
+        "soul-family-groups"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "lore-claims-attributed-to-Yazhi"
+  ],
+  "coverage_gaps": [
+    "individual-ascension-outcomes",
+    "soul-departure-conditions"
+  ]
+}

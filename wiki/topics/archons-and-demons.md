@@ -357,6 +357,9 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-35a4804aef6f-c03](postmortem-realities.md#src-35a4804aef6f-c03) — Postmortem realities
 - [src-d575fee8efe8-c01](egregors.md#src-d575fee8efe8-c01) — Egregors
 - [src-93765edbe0c7-c02](postmortem-realities.md#src-93765edbe0c7-c02) — Postmortem realities
+- [src-cb51273860c3-c01](postmortem-realities.md#src-cb51273860c3-c01) — Postmortem realities
+- [src-374fd6a44ec4-c01](witchcraft-and-voodoo.md#src-374fd6a44ec4-c01) — Witchcraft and Voodoo
+- [src-374fd6a44ec4-c05](witchcraft-and-voodoo.md#src-374fd6a44ec4-c05) — Witchcraft and Voodoo
 
 ## Review flags
 
@@ -365,6 +368,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - afterlife-model-attributed
+- altered-state-and-poison-risk
 - archon-scope-is-broad
 - astral-perception-and-protection-claims
 - astral-warfare-claims-unverified
@@ -385,6 +389,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - post-eclipse-causal-attribution
 - postmortem-perception-and-reincarnation-model
 - reptilian-species-versus-reptile-egregor
+- supernatural-claims
 - translation-counterpart-src-77b565b0b608-shared-2018-section
 - unverified-astral-causation
 - unverified-current-events

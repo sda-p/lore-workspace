@@ -2654,6 +2654,152 @@ Source: [MUJER PLEYADIANA TAYGETEANA - ANÉEKA DE TEMMER](https://swaruu.org/tra
 
 Related topics: [Holistic society](holistic-society.md).
 
+### src-29ae7cdf0163-c04
+
+Since 2021, Taygeta recognizes Federation ties only through the Alcyone Council after disputes over Earth policy. She says Taygetans approved the arrangement.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica - Que es? Taygeta (Pléyades) y Federación - Acusaciones Mutuas (Swaruu X)](https://swaruu.org/transcripts/federacion-galactica-que-es-taygeta-pleyades-y-federacion-acusaciones-mutuas-swaruu-x) (2021-06-18; es); passages p0085, p0086. [Structured record](../../records/src-29ae7cdf0163.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Alcyone Council](alcyone-council.md).
+
+### src-d9a04b018638-c01
+
+Anéeka says Taygetans have a unified brain, faster connections, integrated artistic and mathematical thought, and ambidexterity. They have up to 500 cm³ more brain volume.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Sistema nervioso y los celebros - Taygeteano, de otras razas, y de los humanos \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/sistema-nervioso-y-los-celebros-taygeteano-de-otras-razas-y-de-los-humanos-sin-video) (2021-02-16; es); passages p0003, p0004, p0005, p0032, p0033, p0006. [Structured record](../../records/src-d9a04b018638.json).
+
+Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
+
+### src-d9a04b018638-c03
+
+Anéeka says Taygetan nerves carry more signal and support greater strength, but their faster metabolism makes them more vulnerable to stress overload. She notes their lower stress tolerance.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Sistema nervioso y los celebros - Taygeteano, de otras razas, y de los humanos \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/sistema-nervioso-y-los-celebros-taygeteano-de-otras-razas-y-de-los-humanos-sin-video) (2021-02-16; es); passages p0040, p0041, p0042, p0043. [Structured record](../../records/src-d9a04b018638.json).
+
+Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
+
+### src-9d6a70cdb1fa-c01
+
+Anéeka describes Taygeta as strongly matriarchal, with women holding social control while men remain included. She says this does not nullify men.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MENSTRUACIÓN Y EMBARAZO - RAZA ESTELAR TAYGETEANA - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/menstruacion-y-embarazo-raza-estelar-taygeteana-sin-video) (2021-03-18; es); passages p0046. [Structured record](../../records/src-9d6a70cdb1fa.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-9d6a70cdb1fa-c02
+
+Anéeka says Taygetans treat menstruation as normal and respect it; people may use the period to rest and pause routine. She contrasts this with Earth’s stigma.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MENSTRUACIÓN Y EMBARAZO - RAZA ESTELAR TAYGETEANA - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/menstruacion-y-embarazo-raza-estelar-taygeteana-sin-video) (2021-03-18; es); passages p0024, p0025, p0026. [Structured record](../../records/src-9d6a70cdb1fa.json).
+
+### src-9d6a70cdb1fa-c03
+
+Anéeka says Taygetan pregnancies last about nine to ten months; births are usually natural and often underwater. She says cesarean delivery is reserved for severe problems.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MENSTRUACIÓN Y EMBARAZO - RAZA ESTELAR TAYGETEANA - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/menstruacion-y-embarazo-raza-estelar-taygeteana-sin-video) (2021-03-18; es); passages p0027, p0028, p0029, p0030, p0033, p0036. [Structured record](../../records/src-9d6a70cdb1fa.json).
+
+### src-a11e19988b9a-c01
+
+Anéeka says Taygetans see better in darkness and infrared/ultraviolet; only Yázhi tracks bullets by slowing time.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [GRUPOS SANGUÍNEOS - RH - LOS SENTIDOS Y ÓRGANOS INTERNOS - LA RAZA TAYGETEANA \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/grupos-sanguineos-rh-los-sentidos-y-organos-internos-la-raza-taygeteana-sin-video) (2021-02-28; es); passages p0003, p0005, p0007, p0012, p0013. [Structured record](../../records/src-a11e19988b9a.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-a11e19988b9a-c02
+
+She says Taygetans have stronger bones and longer plant-adapted guts; meat may sicken them, excess fiber obstruct them.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [GRUPOS SANGUÍNEOS - RH - LOS SENTIDOS Y ÓRGANOS INTERNOS - LA RAZA TAYGETEANA \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/grupos-sanguineos-rh-los-sentidos-y-organos-internos-la-raza-taygeteana-sin-video) (2021-02-28; es); passages p0018, p0020. [Structured record](../../records/src-a11e19988b9a.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-a11e19988b9a-c03
+
+She says Taygetans heal 3–5 times faster than humans; Yázhi heals about 20 times faster.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [GRUPOS SANGUÍNEOS - RH - LOS SENTIDOS Y ÓRGANOS INTERNOS - LA RAZA TAYGETEANA \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/grupos-sanguineos-rh-los-sentidos-y-organos-internos-la-raza-taygeteana-sin-video) (2021-02-28; es); passages p0023. [Structured record](../../records/src-a11e19988b9a.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-a11e19988b9a-c04
+
+She says Taygetans are O+, but Yázhi is A+; she links Earth’s blood diversity partly to Lyran ancestry.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [GRUPOS SANGUÍNEOS - RH - LOS SENTIDOS Y ÓRGANOS INTERNOS - LA RAZA TAYGETEANA \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/grupos-sanguineos-rh-los-sentidos-y-organos-internos-la-raza-taygeteana-sin-video) (2021-02-28; es); passages p0025, p0026. [Structured record](../../records/src-a11e19988b9a.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-0229a552cea2-c02
+
+She describes Taygetans as symmetric and ambidextrous, without dominant-eye or hemispheric specialization.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES - EL CEREBRO UMMITA EL CEREBRO TAYGETEANO BIOLOGIA - ANEEKA - SWARUU](https://swaruu.org/transcripts/extraterrestres-el-cerebro-ummita-el-cerebro-taygeteano-biologia-aneeka-swaruu) (2020-11-18; es); passages p0009, p0011, p0013, p0015. [Structured record](../../records/src-0229a552cea2.json).
+
+### src-0229a552cea2-c03
+
+Swaruu 9 gives Taygetan brains 1,800–1,900cc, with pineal glands and neural density about 400% greater, boosting extrasensory abilities.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES - EL CEREBRO UMMITA EL CEREBRO TAYGETEANO BIOLOGIA - ANEEKA - SWARUU](https://swaruu.org/transcripts/extraterrestres-el-cerebro-ummita-el-cerebro-taygeteano-biologia-aneeka-swaruu) (2020-11-18; es); passages p0044, p0045, p0046, p0047. [Structured record](../../records/src-0229a552cea2.json).
+
+Related topics: [Pineal interface](pineal-interface.md).
+
+### src-eb8d5c381779-c05
+
+Anéeka says Taygetans can guide humans or send volunteer seeds, but cannot directly free Earth’s population.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Glandula Pineal, Armas Nucleares y Federacion, y mas Temas - Informacion Extraterrestre](https://swaruu.org/transcripts/glandula-pineal-armas-nucleares-y-federacion-y-mas-temas-informacion-extraterrestre) (2021-10-03; es); passages p0054. [Structured record](../../records/src-eb8d5c381779.json).
+
+### src-ba55ed53f560-c03
+
+Federation insignia appear on member ships and uniforms; Taygetan craft add hourglass marks, while royal yacht Toleka carries the queen’s crown.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Los Simbolos de la Federacion de Planetas Unidos - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/los-simbolos-de-la-federacion-de-planetas-unidos-sin-video) (2021-01-11; es); passages p0024, p0025. [Structured record](../../records/src-ba55ed53f560.json).
+
+### src-ed3c8805562b-c02
+
+Taygetan ships also serve as schools; adults choose practical studies, with only childhood survival skills generally compulsory.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [DE LAS PLÉYADES A LA TIERRA - EXPERIENCIA DE UNA EXTRATERRESTRE - ANEEKA DE TEMMER \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/de-las-pleyades-a-la-tierra-experiencia-de-una-extraterrestre-aneeka-de-temmer-sin-video) (2021-10-01; es); passages p0016, p0017, p0018, p0023. [Structured record](../../records/src-ed3c8805562b.json).
+
+### src-b366c302a081-c01
+
+Yazhi says Taygetans first settled Erra with under 1,000 people; population peaked near 70 million, then fell to 38 million across four planets as souls leave physical life.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ERES MENTE - \#CONSCIENCIA PURA – CONVERSACIÓN CON UNA \#EXTRATERRESTRE - SOPHIA SWARUU](https://swaruu.org/transcripts/eres-mente-consciencia-pura-conversacion-con-una-extraterrestre-sophia-swaruu) (2021-09-24; es); passages p0003, p0005, p0007, p0009, p0011, p0016. [Structured record](../../records/src-b366c302a081.json).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -2909,12 +3055,34 @@ Related topics: [Holistic society](holistic-society.md).
 - [src-95bb43e551f3-c01](holistic-society.md#src-95bb43e551f3-c01) — Holistic society
 - [src-95bb43e551f3-c02](holistic-society.md#src-95bb43e551f3-c02) — Holistic society
 - [src-89c87eaf0e6d-c03](alien-species.md#src-89c87eaf0e6d-c03) — Alien species and distinctions
+- [src-b3613644793e-c02](collective-timeline-influence.md#src-b3613644793e-c02) — Collective timeline influence
+- [src-7037a2d38c7d-c02](lurkers.md#src-7037a2d38c7d-c02) — Lurkers
+- [src-a962ed4b5139-c01](taygetan-ecosystems.md#src-a962ed4b5139-c01) — Taygetan ecosystems
+- [src-dc304babfddc-c01](procyon.md#src-dc304babfddc-c01) — Planet Procyon
+- [src-6e854bde7448-c02](alcyone-council.md#src-6e854bde7448-c02) — Alcyone Council
+- [src-9524a72ff653-c01](earth-dna-arks.md#src-9524a72ff653-c01) — Earth DNA Arks
+- [src-9524a72ff653-c02](earth-dna-arks.md#src-9524a72ff653-c02) — Earth DNA Arks
+- [src-9524a72ff653-c05](earth-dna-arks.md#src-9524a72ff653-c05) — Earth DNA Arks
+- [src-ba1c5a843ad1-c01](immersion-pods.md#src-ba1c5a843ad1-c01) — Immersion pods
+- [src-41f6dbd41e06-c03](starship-systems.md#src-41f6dbd41e06-c03) — Starship systems
+- [src-0df30c50e267-c02](taygetan-base-12-mathematics.md#src-0df30c50e267-c02) — Taygetan Base-12 Mathematics
+- [src-a11e19988b9a-c05](alien-species.md#src-a11e19988b9a-c05) — Alien species and distinctions
+- [src-f469530b91ab-c05](consciousness-metaphysics.md#src-f469530b91ab-c05) — Consciousness and metaphysics
+- [src-cc4e6a95114d-c05](galactic-federation.md#src-cc4e6a95114d-c05) — Galactic Federation
+- [src-0229a552cea2-c01](ummite-civilization.md#src-0229a552cea2-c01) — Ummite civilization
+- [src-373b58c68a01-c03](reincarnation-cycles.md#src-373b58c68a01-c03) — Reincarnation and karmic cycles
+- [src-940f9935241e-c04](planetary-dna-arks.md#src-940f9935241e-c04) — Planetary DNA Arks
+- [src-ed934b122dbc-c01](taygetan-parthenogenesis.md#src-ed934b122dbc-c01) — Taygetan parthenogenesis
+- [src-7e10fbdcd1c5-c02](atlantis-lemuria.md#src-7e10fbdcd1c5-c02) — Atlantis and Lemuria
+- [src-ed3c8805562b-c01](galactic-federation.md#src-ed3c8805562b-c01) — Galactic Federation
+- [src-417359a5f6a0-c02](frequency-astrology.md#src-417359a5f6a0-c02) — Frequency-based astrology
 
 ## Review flags
 
 - 3d-vs-higher-density-wishes
 - Alenym-attack-culprit-unknown
 - Alenym-retirement-not-decided
+- Anéeka says Andromedans dominate councils but denies formal rulership.
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
@@ -2923,11 +3091,14 @@ Related topics: [Holistic society](holistic-society.md).
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Cyndriel time-difference mechanism remains unknown.
+- DNA-consciousness-causality-claim
+- Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Maitre\_relationship\_with\_Reptilians
+- Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified.
 - Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
@@ -2943,16 +3114,20 @@ Related topics: [Holistic society](holistic-society.md).
 - agenda21-assertion
 - alternative-biology-claim
 - ancient-texts-as-racial-symbolism-attributed
+- anti-vaccine-conspiracy-claims
 - approximate-age-estimate
 - ark-locations-and-status
+- ark-status-uncertainty
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - attack-theory\_speculative
 - attributed-reproductive-lore
 - attributed-seti-military-purpose-claim
 - attribution-care: source claims about sexuality are speaker-specific
 - attribution\_scope
+- biological-restoration-technology
 - biology-claim
 - blockade-and-biology-attributed
+- cataclysm-history-attributed
 - causal-attribution-tension
 - claims-about-suppressed-contact-evidence
 - computer-throughput-claim-attributed
@@ -2981,15 +3156,19 @@ Related topics: [Holistic society](holistic-society.md).
 - crop\_circle\_interpretation
 - culturally\_variable\_nde\_claim
 - cyndriel-environment-claim
+- death-account:medical-cause-and-ether-dissolution
 - definition\_varies
 - density-morality-qualification
 - dietary-claims\_attributed
 - dietary\_advice
 - directive-rules-not-in-transcript
 - disclosure\_claims\_unverified
+- earth-ark-location-claims
 - earth-population-claims
+- earth-reset-control-claim
 - earthly-cern-portal-claim-not-included
 - emotion-and-integration-doctrine-attributed
+- ether-field-model
 - extraordinary-ability-claims
 - extraordinary-cosmology-claims
 - extraordinary-technology-claims
@@ -3008,8 +3187,11 @@ Related topics: [Holistic society](holistic-society.md).
 - faction-taxonomy-and-levels-attributed
 - faction\_tension
 - factional-threat-interpretation-attributed-to-urmah
+- federation-alcyone-policy-conflict
 - federation-authority-critique
+- federation-briefing-vs-earth-experience
 - federation-control-and-nonintervention-tension
+- federation-intervention-rationale
 - federation-nonintervention
 - federation-purpose-disputed
 - federation-role-speaker-contrast
@@ -3022,6 +3204,7 @@ Related topics: [Holistic society](holistic-society.md).
 - franchise-reference-attributed
 - gender\_role\_generalization
 - genetic-weapon-causation-speculative
+- genocide-and-elite-conspiracy-allegations
 - header-and-segmentation-variation
 - historical-allegations
 - historical-claim
@@ -3035,11 +3218,13 @@ Related topics: [Holistic society](holistic-society.md).
 - identity-claims-unverified
 - identity-of-hidden-faction-unknown
 - identity-uncertainty
+- immersion-metaphysics-claims
 - incarnation-and-extraction-claims
 - incomplete-investigation
 - intelligence-report-unverified
 - intercultural-claims
 - intra-source-policy-tension
+- karma-interpretation-disagreement
 - liberation-framing-disputed
 - logo\_identity\_claim\_unverified
 - medical account is attributed narrative, not medical guidance
@@ -3049,34 +3234,43 @@ Related topics: [Holistic society](holistic-society.md).
 - metaphysical-claims
 - metaphysical-claims-attributed
 - metaphysical-genetics-unverified
+- metaphysical-self-identity-claim
 - military-claims\_attributed
 - multiple\_futures\_claim
 - named\_government\_and\_secret\_base\_claims
 - narrator\_claims
+- non-darwinian-consciousness-evolution-model
 - nonhuman-technology\_claims\_attributed
 - nonstandard-biology-claims
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
 - pandemic-claims-omitted
 - pathogen-claim\_attributed
+- pentagon-disclosure-motive-speculation
 - personal\_accusations
 - personal\_cosmology
 - perspective-dependent-claims
 - pilot-account-attributed
+- planetary-control-and-liberation-claims
+- pod-failure-outcomes
 - political-claims
 - political-claims-unverified
 - political-narrative\_attributed
 - prime-directive-attributed
+- procyon-proceon-name-distinction
 - project-guidance-attributed-to-mari
+- quantum-mechanics-reinterpretation
 - quoted-speaker-attribution:NaiShara-quotes-Yazhi
 - reincarnation-cosmology
 - reported-comparison-not-speaker-endorsement
 - reported\_plan
 - reset-sequence-and-dating-unclear
 - review: claims on sexual orientation and depopulation
+- rh-negative-identity-caveat
 - royal-selection-and-symbolism-attributed
 - same-language-near-duplicate-src-735f991fe169
 - second-contact-stoppage-attributed-to-yazhi
 - secondhand-fleet-reports
+- secret-aircraft-identification-uncertain
 - self-described-species-transition
 - self-reported-traits
 - self\_description
@@ -3101,6 +3295,8 @@ Related topics: [Holistic society](holistic-society.md).
 - species-threat-description
 - species-trait-generalizations-attributed
 - species\_specific\_reproduction
+- speculative-biology-and-blood-group-claims
+- speculative-neurobiology-claims
 - subjective-time-model
 - succession-report\_attributed
 - succession-rules\_attributed
@@ -3111,9 +3307,11 @@ Related topics: [Holistic society](holistic-society.md).
 - technology\_claims
 - temporal-lore-attributed
 - time-travel-claims
+- timeline-model-variant:personal-vs-collective
 - translated\_source
 - translation-counterpart-unconfirmed
 - translation-counterpart:none-identified
+- translation-counterpart:src-06a1e5437c02-close-full
 - translation-counterpart:src-cb985947b0e5-english-adds-p21-p22
 - translation\_approximation\_navajo\_inuit
 - unverified-contact-claims
@@ -3128,4 +3326,5 @@ Related topics: [Holistic society](holistic-society.md).
 - unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims
 - unverified\_temporal\_claims
+- venus-physical-description-differs-from-earth-science
 - weather\_claims

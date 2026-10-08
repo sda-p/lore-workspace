@@ -1,0 +1,59 @@
+{
+  "source_id": "src-e29710d91597",
+  "snapshot_sha256": "5ffe7459347032eb731b6f2db2f0c0d16e665e5e650a1aea2ba7f74d4501f838",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says Viera informed her group that a quadrant-level Federation delegation would audit Earth affairs in late 2023 or early 2024, reviewing orbiting races and terrestrial governments.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "higher-federation-councils",
+      "topics": [
+        "higher-federation-councils",
+        "galactic-federation",
+        "viera"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The planned visit is dated in the 2023 source.",
+      "id": "src-e29710d91597-c01"
+    },
+    {
+      "assertion": "Mari says past Federation visits appeared near major Earth events, but acknowledges some dates may be coincidental; she speculates the next visit could precede further upheaval.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0027",
+        "p0033",
+        "p0034",
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "false-alien-invasion"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Time-bound forecast from 2023; Mari notes some listed events may be coincidental.",
+      "id": "src-e29710d91597-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "time-bound-2023-forecast"
+  ],
+  "coverage_gaps": [
+    "broader-federation-ethics-omitted"
+  ]
+}

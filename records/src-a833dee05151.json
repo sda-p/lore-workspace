@@ -1,0 +1,71 @@
+{
+  "source_id": "src-a833dee05151",
+  "snapshot_sha256": "e864c23a83ecda258e807ec6350eb9f224ea92c493e87de19d1f74a4ad44cb13",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari describes Urmah as large felines with complex hands and hips adapted for upright walking, while retaining the ability to run and fight on four legs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-a833dee05151-c01"
+    },
+    {
+      "assertion": "Arishah says Urmah value directness, self-respect, loyalty, and honor; they first secure personal stability, then help others without self-harm.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0022",
+        "p0023",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Interview translated and narrated by Mari.",
+      "id": "src-a833dee05151-c02"
+    },
+    {
+      "assertion": "Arishah says Urmah do not fear death, recall many past lives, and expect to be reborn to fight again.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Interview translated and narrated by Mari.",
+      "id": "src-a833dee05151-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translated-interview-may-affect-wording"
+  ],
+  "coverage_gaps": [
+    "other-urmah-ethics-omitted"
+  ]
+}

@@ -3072,6 +3072,96 @@ Source: [Es Cultura Extraterrestre Similar a la Humana? (Contacto Extraterrestre
 
 Related topics: [Energy generation technology](energy-generation.md).
 
+### src-c0e9038718b3-c03
+
+She says ships use counter-rotating plasma turbines powered by zero-point reactors.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Escudos de Energía - Ingeniería y Navegación de Naves Espaciales-Yazhi con Dale Harder (Pleyades)](https://swaruu.org/transcripts/escudos-de-energia-ingenieria-y-navegacion-de-naves-espaciales-yazhi-con-dale-harder-pleyades) (2021-03-09; es); passages p0047, p0159. [Structured record](../../records/src-c0e9038718b3.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-c0e9038718b3-c05
+
+Yazhi says polymorphic turbine alloys can self-heal and reshape through controlled frequency harmonics.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Escudos de Energía - Ingeniería y Navegación de Naves Espaciales-Yazhi con Dale Harder (Pleyades)](https://swaruu.org/transcripts/escudos-de-energia-ingenieria-y-navegacion-de-naves-espaciales-yazhi-con-dale-harder-pleyades) (2021-03-09; es); passages p0128, p0130, p0137. [Structured record](../../records/src-c0e9038718b3.json).
+
+Related topics: [Nanotechnology and implants](nanotechnology.md).
+
+### src-c0e9038718b3-c06
+
+Yazhi says ships travel by matching their toroidal frequency to a destination.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Escudos de Energía - Ingeniería y Navegación de Naves Espaciales-Yazhi con Dale Harder (Pleyades)](https://swaruu.org/transcripts/escudos-de-energia-ingenieria-y-navegacion-de-naves-espaciales-yazhi-con-dale-harder-pleyades) (2021-03-09; es); passages p0164, p0166, p0167. [Structured record](../../records/src-c0e9038718b3.json).
+
+Related topics: [Ether field](ether-field.md).
+
+### src-41f6dbd41e06-c03
+
+Taygetan Scimitar and Suzy craft reportedly spoof US Navy IFF/transponders for safer transit.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA VERDAD SOBRE LOS \#UAP U \#OVNIS DE EL \#PENTÁGONO AL DESCUBIERTO - ATHENA SWARUU \#Exopolitica](https://swaruu.org/transcripts/la-verdad-sobre-los-uap-u-ovnis-de-el-pentagono-al-descubierto-athena-swaruu-exopolitica) (2021-08-16; es); passages p0052, p0055, p0057. [Structured record](../../records/src-41f6dbd41e06.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-6ee50082e97e-c02
+
+She says advanced ships use energy shields and convert accumulated hull heat into electricity, yet still face cooling problems.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [SATÉLITES Y SU TEMPERATURA EN EL ESPACIO – \#ANÉEKA DE TEMMER - CONVERSACION \#EXTRATERRESTRE](https://swaruu.org/transcripts/satelites-y-su-temperatura-en-el-espacio-aneeka-de-temmer-conversacion-extraterrestre) (2021-10-10; es); passages p0009, p0015, p0016, p0017. [Structured record](../../records/src-6ee50082e97e.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-3f3c87a05939-c01
+
+Yázhi says the computer assigns gravity-based, base-12 frequencies to sand-sized quartz; AI controls the field in a 12-layer toroid.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte Final - Yazhi con Dale Harder](https://swaruu.org/transcripts/tecnologia-extraterrestre-cristales-y-reactores-punto-zero-parte-final-yazhi-con-dale-harder) (2021-04-07; es); passages p0008, p0010, p0011. [Structured record](../../records/src-3f3c87a05939.json).
+
+### src-3f3c87a05939-c03
+
+Crystal data may require sustained power like RAM or persist as self-oscillating storage.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte Final - Yazhi con Dale Harder](https://swaruu.org/transcripts/tecnologia-extraterrestre-cristales-y-reactores-punto-zero-parte-final-yazhi-con-dale-harder) (2021-04-07; es); passages p0027. [Structured record](../../records/src-3f3c87a05939.json).
+
+### src-3f3c87a05939-c05
+
+Yázhi says harmonic or gravity-control failures can shut reactors down; rare cohesion loss leaves crystals floating in zero gravity.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte Final - Yazhi con Dale Harder](https://swaruu.org/transcripts/tecnologia-extraterrestre-cristales-y-reactores-punto-zero-parte-final-yazhi-con-dale-harder) (2021-04-07; es); passages p0093, p0095, p0099. [Structured record](../../records/src-3f3c87a05939.json).
+
+### src-eb8d5c381779-c01
+
+Yazhi says minerals can be atomically replicated, while living matter cannot.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Glandula Pineal, Armas Nucleares y Federacion, y mas Temas - Informacion Extraterrestre](https://swaruu.org/transcripts/glandula-pineal-armas-nucleares-y-federacion-y-mas-temas-informacion-extraterrestre) (2021-10-03; es); passages p0003. [Structured record](../../records/src-eb8d5c381779.json).
+
+### src-06841218e937-c03
+
+Anéeka describes Avyon-1 as a crewed Urmah flagship twice Toleka’s size, accompanied by smaller craft.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-urmah-sin-video) (2021-02-01; es); passages p0028. [Structured record](../../records/src-06841218e937.json).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -3286,6 +3376,15 @@ Related topics: [Energy generation technology](energy-generation.md).
 - [src-2c51b741eabb-c03](frequency-map-navigation.md#src-2c51b741eabb-c03) — Frequency-map navigation
 - [src-1422880235ff-c02](harmonic-shields.md#src-1422880235ff-c02) — Harmonic shields
 - [src-95bb43e551f3-c03](taygetans.md#src-95bb43e551f3-c03) — Taygetans
+- [src-d5ad0f7ed082-c02](immersion-pods.md#src-d5ad0f7ed082-c02) — Immersion pods
+- [src-c0e9038718b3-c02](harmonic-shields.md#src-c0e9038718b3-c02) — Harmonic shields
+- [src-c0e9038718b3-c04](harmonic-shields.md#src-c0e9038718b3-c04) — Harmonic shields
+- [src-41f6dbd41e06-c04](galactic-federation.md#src-41f6dbd41e06-c04) — Galactic Federation
+- [src-6ee50082e97e-c04](terrestrial-science.md#src-6ee50082e97e-c04) — Terrestrial science
+- [src-220efa38c406-c02](crystal-core-zero-point-reactors.md#src-220efa38c406-c02) — Crystal-core zero-point reactors
+- [src-220efa38c406-c04](crystal-core-zero-point-reactors.md#src-220efa38c406-c04) — Crystal-core zero-point reactors
+- [src-ee1516c33ac1-c04](natural-portals.md#src-ee1516c33ac1-c04) — Natural and artificial portals
+- [src-e62c02d313c5-c03](stellar-navigation.md#src-e62c02d313c5-c03) — Stellar navigation
 
 ## Review flags
 
@@ -3293,16 +3392,20 @@ Related topics: [Energy generation technology](energy-generation.md).
 - Alcohol claims and spiritual effects are Mari’s assertions; avoid generalizing to all Alfratans
 - Alenym-retirement-not-decided
 - Athena-interview-original-English
+- Avyon-1 orbit and crew-size details omitted.
 - Billy\_Meier\_photo\_authenticity\_uncertain
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- Core technology described as extraterrestrial; source offers no engineering measurements.
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
 - Federation-infiltration\_theory
+- ISS-and-station-fabrication-allegation
 - Maitre\_relationship\_with\_Reptilians
 - No English counterpart found in the cached sources.
+- Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified.
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - Senetre-diagnosed-weapon-route-suspected
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
@@ -3372,6 +3475,7 @@ Related topics: [Energy generation technology](energy-generation.md).
 - food\_and\_health\_claims\_unverified
 - frequency-and-harm-claims
 - frequency-gravity-model
+- frequency-navigation-model
 - frequency\_map\_model
 - gravity-propulsion-attributed
 - header-and-segmentation-variation
@@ -3403,6 +3507,7 @@ Related topics: [Energy generation technology](energy-generation.md).
 - nonstandard\_astrophysics\_claims
 - particle-vs-carrier-speed-distinction
 - pathogen-claim\_attributed
+- pentagon-disclosure-motive-speculation
 - personal-childhood-anecdote
 - personal\_accusations
 - personal\_metaphysics
@@ -3410,6 +3515,7 @@ Related topics: [Energy generation technology](energy-generation.md).
 - political-claims
 - political\_structure\_claims
 - politically\_contested
+- polymorphic-alloy-claims
 - portal-energy-estimates-attributed
 - portal-mechanics-overlap-src-6abed4268d57
 - portal-technology-claims-unverified
@@ -3417,20 +3523,25 @@ Related topics: [Energy generation technology](energy-generation.md).
 - possible-overlap-with-src-cd1fcaa78711
 - procedure-description
 - radiation-causation-allegations
+- reactor-mechanism-attributed
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related-frequency-navigation-source
 - same-language-near-duplicate-src-6a5223076196
 - same-language-near-duplicate-src-735f991fe169
 - second-contact-stoppage-attributed-to-yazhi
+- secret-aircraft-identification-uncertain
 - secret-space-program-claims
 - secret\_ship\_capability\_claims
+- shield-mechanics-claims
 - ship-specifications\_attributed
 - sirian-group-includes-distinct-species
 - solar-and-black-hole-portal-model
+- source distinguishes historical nonexistence in this timeline from a belief-generated egregore
 - source includes conflicting publication and event dates; claims retain stated dates
 - source-mixed-origin-en-reactor-and-spanish-engine-sections
 - source-speaker-shift-dhor-to-yazhi
 - space\_suit\_claims\_unverified
+- spaceflight-science-misinformation-claims
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker: interviewer prompts excluded as claims
 - species-description\_attributed

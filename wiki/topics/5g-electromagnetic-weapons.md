@@ -6,6 +6,12 @@ Aliases: Gwen towers, 5G weapon claims
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Gwen towers](gwen-towers.md)
+
 ## Collected claims
 
 ### src-3aad979502f8-c01

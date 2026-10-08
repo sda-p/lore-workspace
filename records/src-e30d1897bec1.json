@@ -1,0 +1,35 @@
+{
+  "source_id": "src-e30d1897bec1",
+  "snapshot_sha256": "7f9504d350d916c98ca43e7a053d98e9144ad2845e68b3e10192fbc211122a7f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e30d1897bec1-c01",
+      "assertion": "Dale distinguishes the EMP cylinder for removing bio- and nanodevices from a separate healing bed; after Yazhi recommends matching resonance frequency to the subject’s tissues or cells, Dale confirms the device supports modulation.",
+      "speaker": "Dale Harder; Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0029",
+        "p0031",
+        "p0033",
+        "p0034",
+        "p0038"
+      ],
+      "primary_topic": "medical-pods",
+      "topics": [
+        "medical-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Yazhi says field frequency should be matched to the subject's tissues or cells."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "prototype-design-discussion-not-established-taygetan-system"
+  ],
+  "coverage_gaps": [
+    "treatment-efficacy-claims-omitted",
+    "cancer-claims-omitted"
+  ]
+}

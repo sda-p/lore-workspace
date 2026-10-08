@@ -1,0 +1,52 @@
+{
+  "source_id": "src-ccffbaeef82b",
+  "snapshot_sha256": "2d4bb20475ed0dbdba75b624ae8ac0a0f10233f0e6ab9f82b7c27d735cbcc119",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says star humans are largely omitted from public alien disclosures because acknowledging them would challenge accepted human origins and the terrestrial Matrix.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari’s interpretation of disclosure coverage.",
+      "id": "src-ccffbaeef82b-c01"
+    },
+    {
+      "assertion": "Mari argues official disclosure would validate a government-controlled narrative while marginalizing independent researchers, preserving control over what the public accepts as real.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "false-alien-invasion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as Mari’s analysis, not a confirmed disclosure plan.",
+      "id": "src-ccffbaeef82b-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "disclosure-control-theory"
+  ],
+  "coverage_gaps": []
+}

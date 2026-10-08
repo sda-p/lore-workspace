@@ -1,0 +1,86 @@
+{
+  "source_id": "src-8888db924950",
+  "snapshot_sha256": "6837adeded28e34cc3124e2a1311750a57b0f2383e7932f315970b7243986603",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8888db924950-c01",
+      "assertion": "Mari says human controllers enforce public science as dogma through universities, ostracism and accepted hierarchies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0044"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8888db924950-c02",
+      "assertion": "She says a hidden Cabal science works with advanced nonhuman species and releases technology publicly only when useful to controllers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8888db924950-c03",
+      "assertion": "Mari says internet information overload obscures truth and pushes people toward official sources for stability.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8888db924950-c04",
+      "assertion": "She says public science excludes consciousness and telepathy by treating reality as material and mechanistic.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0045",
+        "p0046",
+        "p0049"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "worldview-claims-attributed-to-Mari"
+  ],
+  "coverage_gaps": [
+    "scientific-constant-claims",
+    "religion-history"
+  ]
+}

@@ -46,9 +46,20 @@ Source: [ABANDONAR LA TIERRA EN UNA NAVE ESPACIAL - Anéeka de Temmer](https://s
 
 Related topics: [Starseeds](starseeds.md).
 
+### src-ed3c8805562b-c03
+
+First Contact had no formal preparation; face-to-face teams carry defensive gear expecting human hostility, though their aim is simply to announce contact.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [DE LAS PLÉYADES A LA TIERRA - EXPERIENCIA DE UNA EXTRATERRESTRE - ANEEKA DE TEMMER \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/de-las-pleyades-a-la-tierra-experiencia-de-una-extraterrestre-aneeka-de-temmer-sin-video) (2021-10-01; es); passages p0005, p0006, p0008. [Structured record](../../records/src-ed3c8805562b.json).
+
+Related topics: [Taygetan flight suits and boots](taygetan-flight-suits.md).
+
 ## Review flags
 
 - computer-throughput-claim-attributed
 - contact-readiness-generalization
+- federation-briefing-vs-earth-experience
 - incarnation-and-extraction-claims
 - prime-directive-attributed

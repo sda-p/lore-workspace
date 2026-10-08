@@ -6,6 +6,12 @@ Aliases: exo-gen, secreciones celulares exo-gen
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Exo-gen cellular signaling model](exo-gen.md)
+
 ## Collected claims
 
 ### src-61643191f2a5-c01

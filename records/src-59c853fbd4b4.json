@@ -1,0 +1,84 @@
+{
+  "source_id": "src-59c853fbd4b4",
+  "snapshot_sha256": "cc76a0c480c4f9696c36397f6a1d27d4aebc8f96790a8a5341e1f2c710da1ef4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-59c853fbd4b4-c01",
+      "assertion": "Anéeka says her ship orbited at 505 km and 7.9 km/s; its designed equatorial route gradually overflew most of Earth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0012",
+        "p0016"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "2020 account."
+    },
+    {
+      "id": "src-59c853fbd4b4-c02",
+      "assertion": "She describes Taygeta’s flagship as dual-command, with Alenym civil and Eridania Yelena military.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0072"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59c853fbd4b4-c03",
+      "assertion": "Anéeka directs a small intelligence team using quantum holographic AI to filter terrestrial public, government, military, and transport communications for command.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0074",
+        "p0075",
+        "p0076",
+        "p0077"
+      ],
+      "primary_topic": "taygetan-cic",
+      "topics": [
+        "taygetan-cic"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59c853fbd4b4-c04",
+      "assertion": "Federation rules require text-only contact; Anéeka preferred vetted-group video calls, while direct landings remained dangerous.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0087",
+        "p0089",
+        "p0090",
+        "p0091"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "2020 account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Contact directives are described from Anéeka’s 2020 perspective."
+  ],
+  "coverage_gaps": [
+    "Taygetan education",
+    "first-contact program size",
+    "AI processing capacity"
+  ]
+}

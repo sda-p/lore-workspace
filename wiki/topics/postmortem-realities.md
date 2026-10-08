@@ -1244,6 +1244,92 @@ Source: [LA COSECHA DE LAS ALMAS - SEMILLAS ESTELARES - ENTES EN LA TIERRA - YAZ
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-4a19348a3734-c02
+
+Athena says the dead carry beliefs into an etheric world mirroring life; some spirits can interact with living people when frequencies align. She says this varies by individual.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL MAGO MERLIN EL ULTIMO DRUIDA - EL MUNDO DE LOS ESPIRITUS - ATHENA SWARUU - X](https://swaruu.org/transcripts/el-mago-merlin-el-ultimo-druida-el-mundo-de-los-espiritus-athena-swaruu-x) (2021-08-27; es); passages p0052, p0053, p0054, p0058. [Structured record](../../records/src-4a19348a3734.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4dc58e9bd766-c03
+
+Yazhi says post-death experience manifests from a person’s own frequency and expectations, so each encounters what they anticipate. Her metaphysical account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Libera tu mente y te liberarás de TODA \#MATRIX - ATHENA \#SWARUU -SOPHIA SWARUU . \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/libera-tu-mente-y-te-liberaras-de-toda-matrix-athena-swaruu-sophia-swaruu-aneeka-de-temmer) (2021-10-07; es); passages p0027, p0028, p0029, p0033, p0034. [Structured record](../../records/src-4dc58e9bd766.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-cb51273860c3-c01
+
+Yazhi says regressive entities harvest human and animal suffering and souls, seeking to return the dead to physical lives for further exploitation; she locates most activity in the UK. Her account of current events and afterlife.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA COSECHA DE LAS ALMAS - SEMILLAS ESTELARES - ENTES EN LA TIERRA - YAZHI SWARUU](https://swaruu.org/transcripts/la-cosecha-de-las-almas-semillas-estelares-entes-en-la-tierra-yazhi-swaruu) (2020-11-22; es); passages p0003, p0007. [Structured record](../../records/src-cb51273860c3.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-cb51273860c3-c02
+
+She says awakened souls can refuse or escape through higher frequency; otherwise they may be trapped in low-astral realms shaped by their worst fears. She says few people are prepared to resist.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA COSECHA DE LAS ALMAS - SEMILLAS ESTELARES - ENTES EN LA TIERRA - YAZHI SWARUU](https://swaruu.org/transcripts/la-cosecha-de-las-almas-semillas-estelares-entes-en-la-tierra-yazhi-swaruu) (2020-11-22; es); passages p0008. [Structured record](../../records/src-cb51273860c3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-cb51273860c3-c03
+
+Yazhi distinguishes consent at higher planes from the nonconsensual suffering and atrocity experienced by embodied humans.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA COSECHA DE LAS ALMAS - SEMILLAS ESTELARES - ENTES EN LA TIERRA - YAZHI SWARUU](https://swaruu.org/transcripts/la-cosecha-de-las-almas-semillas-estelares-entes-en-la-tierra-yazhi-swaruu) (2020-11-22; es); passages p0005, p0006. [Structured record](../../records/src-cb51273860c3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2997017bfd28-c03
+
+Yazhi says death is transformation, not cosmic cessation, though loss remains real to bereaved observers. She distinguishes expanded and limited viewpoints.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO HAY MUERTE - METAFISICA AVANZADA - YAZHI SWARUU -ATHENA SWARUU](https://swaruu.org/transcripts/no-hay-muerte-metafisica-avanzada-yazhi-swaruu-athena-swaruu) (2021-08-07; es); passages p0042, p0045, p0046, p0047. [Structured record](../../records/src-2997017bfd28.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-2997017bfd28-c04
+
+She says beliefs can manifest individualized afterlife worlds, including religious figures and collective shadow realms. Her framework.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO HAY MUERTE - METAFISICA AVANZADA - YAZHI SWARUU -ATHENA SWARUU](https://swaruu.org/transcripts/no-hay-muerte-metafisica-avanzada-yazhi-swaruu-athena-swaruu) (2021-08-07; es); passages p0049, p0050, p0051, p0052, p0053. [Structured record](../../records/src-2997017bfd28.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-67fd28e50273-c03
+
+Swaruu X says the self remains embodied until bodily death, after which it may return to Source or awaken in its pod.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [Vacunas - Efectos en el Cuerpo y Alma - Swaruu X - Informacion Extraterrestre](https://swaruu.org/transcripts/vacunas-efectos-en-el-cuerpo-y-alma-swaruu-x-informacion-extraterrestre) (2021-07-19; es); passages p0025, p0026, p0028. [Structured record](../../records/src-67fd28e50273.json).
+
+### src-5573254c0ef6-c02
+
+Yazhi says souls are never created or destroyed and exist beyond time, while lower-density minds experience linear lives.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [El Alma - consciencia - mente - Yazhi Swaruu](https://swaruu.org/transcripts/el-alma-consciencia-mente-yazhi-swaruu) (2021-05-25; es); passages p0005, p0006. [Structured record](../../records/src-5573254c0ef6.json).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c01](consciousness-metaphysics.md#src-331beeab2088-c01) — Consciousness and metaphysics
@@ -1281,6 +1367,7 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Consciousness an
 - [src-de139e50d05b-c03](taygetans.md#src-de139e50d05b-c03) — Taygetans
 - [src-d5687a897b3a-c02](consciousness-metaphysics.md#src-d5687a897b3a-c02) — Consciousness and metaphysics
 - [src-9e56879471e5-c06](consciousness-metaphysics.md#src-9e56879471e5-c06) — Consciousness and metaphysics
+- [src-ba1c5a843ad1-c03](immersion-pods.md#src-ba1c5a843ad1-c03) — Immersion pods
 
 ## Review flags
 
@@ -1289,6 +1376,8 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Consciousness an
 - Federation-arguments\_reported
 - Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
+- Vaccine causation and medical claims omitted.
+- Yazhi notes possible linguistic ambiguity in her terminology.
 - afterlife-claims-are-source-model
 - afterlife-model-attributed
 - agenda\_term\_varies
@@ -1300,10 +1389,12 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Consciousness an
 - discriminatory-sexuality-theory-attributed-to-speaker
 - english-counterpart-adds-july-2020-suicide-discussion
 - entertainment-disclaimer
+- expanded-and-bereaved-perspectives-attributed
 - gender-reincarnation\_views\_attributed
 - gender\_role\_generalization
 - historical-doctrine-origin-claim
 - human-agency-and-federation-oversight
+- immersion-metaphysics-claims
 - incarnation-afterlife-metaphysics
 - metaphysical-claims\_attributed
 - metaphysical-model
@@ -1313,6 +1404,7 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Consciousness an
 - pathogen-claim\_attributed
 - personal\_metaphysics
 - perspective-variation
+- pod-failure-outcomes
 - post-eclipse-causal-attribution
 - postmortem-consciousness-doctrine-attributed
 - postmortem-identity-ambiguity

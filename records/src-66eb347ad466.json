@@ -1,0 +1,109 @@
+{
+  "source_id": "src-66eb347ad466",
+  "snapshot_sha256": "53854202da913821a2e18cacafb1318a54fc7f849d4f6edeaf866a3d5d12a05d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-66eb347ad466-c01",
+      "assertion": "Dhor distinguishes a friendly Federation information network from a smaller invasive Borg-associated coalition.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-66eb347ad466-c02",
+      "assertion": "He describes Borg intelligence as nonlocal software distributed across computers and memory media, including crystals or black goo.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0072",
+        "p0074",
+        "p0079",
+        "p0081"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "artificial-intelligence",
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-66eb347ad466-c03",
+      "assertion": "Dhor says Borg infiltration alters minds and civilizational values gradually rather than using open warfare.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0029",
+        "p0031",
+        "p0035"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-66eb347ad466-c04",
+      "assertion": "He says assimilation may progress through cyborg forms toward societies that discard organic components.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0058",
+        "p0064",
+        "p0071"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "artificial-intelligence"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-66eb347ad466-c05",
+      "assertion": "Dhor considers data and experience a likely motive for assimilation, while the entity’s origin and exact purpose remain unknown.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0085",
+        "p0087",
+        "p0091"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "artificial-intelligence"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified-entity",
+    "origin-unknown",
+    "source-distinguishes-invasive-AI-from-galactic-network"
+  ],
+  "coverage_gaps": [
+    "known affected civilizations",
+    "countermeasures"
+  ]
+}

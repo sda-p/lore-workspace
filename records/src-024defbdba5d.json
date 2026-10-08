@@ -1,0 +1,75 @@
+{
+  "source_id": "src-024defbdba5d",
+  "snapshot_sha256": "1516dc3eb13a84180399accb32960ee374c561ef726ffffaa803acfbe8d5af7c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-024defbdba5d-c01",
+      "assertion": "Yazhi defines pre-incarnation contracts as self-chosen settings for physical experience and spiritual growth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0015"
+      ],
+      "primary_topic": "soul-contracts",
+      "topics": [
+        "soul-contracts",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says their contents are not fully knowable."
+    },
+    {
+      "id": "src-024defbdba5d-c02",
+      "assertion": "Yazhi says hardship can aid less-developed souls, while advanced souls may progress without suffering.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "soul-contracts"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She ties this to developmental level."
+    },
+    {
+      "id": "src-024defbdba5d-c03",
+      "assertion": "Gosia says unfulfilled self-made contracts bring no punishment or required return; consequences are self-imposed.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "soul-contracts"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Gosia’s view differs from Yazhi’s."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "soul-contracts",
+      "name": "Pre-incarnation soul contracts",
+      "kind": "cosmology",
+      "aliases": [
+        "contratos del alma",
+        "prenatal contracts"
+      ]
+    }
+  ],
+  "review_flags": [
+    "speaker-views-differ"
+  ],
+  "coverage_gaps": [
+    "contract-knowledge-limits",
+    "suffering-and-soul-development"
+  ]
+}

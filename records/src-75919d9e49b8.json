@@ -1,0 +1,12 @@
+{
+  "source_id": "src-75919d9e49b8",
+  "snapshot_sha256": "164bf49476d9668d652028522d0f8f00044e0f8fa258f3dc62d127ec81ff6c2b",
+  "language": "es",
+  "claims": [
+    {"id":"src-75919d9e49b8-c01","assertion":"Anéeka says DNA encodes individual and past-life memory, with latent genes activated by expanded consciousness regardless of bodily location.","speaker":"Anéeka","paragraph_ids":["p0002","p0003"],"primary_topic":"dna-metaphysics","topics":["dna-metaphysics","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"She says DNA changes accompany consciousness awakening."},
+    {"id":"src-75919d9e49b8-c02","assertion":"Anéeka says humans were not laboratory-created but comprise nested lineages of 22 races, with invasive genetic alterations reverting over generations without mind control.","speaker":"Anéeka","paragraph_ids":["p0004","p0005"],"primary_topic":"primary-secondary-species","topics":["primary-secondary-species","dna-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"She describes the 22-race figure as a simplified account of a much larger nested ancestry."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["speaker-distinction-preserved"],
+  "coverage_gaps": ["van-allen-frequency-model-omitted", "memory-translation-details-omitted"]
+}

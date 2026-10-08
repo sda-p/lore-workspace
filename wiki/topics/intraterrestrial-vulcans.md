@@ -31,6 +31,7 @@ Related topics: [Reptilians](reptilians.md), [Moon and terrestrial Matrix](moon-
 ## Claims filed under other topics
 
 - [src-ba6a1792fd69-c04](agarthians.md#src-ba6a1792fd69-c04) — Agarthians
+- [src-5c6ca52aaabd-c01](intraterrestrial-civilizations.md#src-5c6ca52aaabd-c01) — Intraterrestrial civilizations
 
 ## Review flags
 

@@ -1,0 +1,92 @@
+{
+  "source_id": "src-85df30bab80f",
+  "snapshot_sha256": "defb2f969c0e991fc15ed56ad2bd6ace0b1a3fe29babf576fc0de070cfcff69d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-85df30bab80f-c01",
+      "assertion": "Yazhi says holistic society emerges from a population’s shared consciousness; imposing it turns it into an oppressive system.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0031",
+        "p0041",
+        "p0045"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-85df30bab80f-c02",
+      "assertion": "She says transitional political models can prepare a population but remain temporary patches, reflecting local consciousness and remaining prone to regression.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0056",
+        "p0070",
+        "p0071",
+        "p0072"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-85df30bab80f-c03",
+      "assertion": "Yazhi links scarcity and materialism to money, arguing money could be removed if people stop relying on material acquisition for fulfillment.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0023",
+        "p0027",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-85df30bab80f-c04",
+      "assertion": "Yazhi proposes nonhuman mentors from holistic societies as outside help to redirect Earth’s self-reinforcing social cycle, possibly covertly.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0060",
+        "p0061",
+        "p0068"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "cooperative service norms and exploitation risk",
+    "plural definitions of ethics and spirituality",
+    "population learning and information access"
+  ]
+}

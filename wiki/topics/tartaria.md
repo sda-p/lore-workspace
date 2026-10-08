@@ -86,6 +86,22 @@ Source: [You are Experiencing the last stages of a total Cultural and Social Res
 
 Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 
+### src-40a206133712-c01
+
+Anéeka says Tartaria was a regional part of Atlantis, which she describes as a planet-wide civilization rather than one city or continent.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TARTARIA ATLANTIDA y LEMURIA CIVILIZACION ANÉEKA DE TEMMER](https://swaruu.org/transcripts/tartaria-atlantida-y-lemuria-civilizacion-aneeka-de-temmer) (2020-11-13; es); passages p0004, p0005, p0006. [Structured record](../../records/src-40a206133712.json).
+
+### src-40a206133712-c02
+
+Anéeka places Tartaria across Siberia, northern China, and Mongolia, within Atlantis’s wider regional network.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TARTARIA ATLANTIDA y LEMURIA CIVILIZACION ANÉEKA DE TEMMER](https://swaruu.org/transcripts/tartaria-atlantida-y-lemuria-civilizacion-aneeka-de-temmer) (2020-11-13; es); passages p0006. [Structured record](../../records/src-40a206133712.json).
+
 ## Claims filed under other topics
 
 - [src-5f504bef5a30-c01](terrestrial-science.md#src-5f504bef5a30-c01) — Terrestrial science
@@ -95,6 +111,7 @@ Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 
 ## Review flags
 
+- Anéeka says surviving Tartaria evidence is regional and does not appear in offworld archives.
 - conspiracy\_claims
 - internal-date-tension
 - speaker-speculation

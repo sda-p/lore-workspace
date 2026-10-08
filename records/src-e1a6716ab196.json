@@ -1,0 +1,118 @@
+{
+  "source_id": "src-e1a6716ab196",
+  "snapshot_sha256": "9994d97497e43b45b123a2d06968f57e37aedd5d5eb3d4893d04cb444115130a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e1a6716ab196-c01",
+      "assertion": "Yazhi describes species ranging from human-like Alfrateans to nonhuman Xenomorphs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1a6716ab196-c02",
+      "assertion": "She says hybrids may be temporary; lasting artificial changes require consciousness aligned with the hybrid signal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1a6716ab196-c03",
+      "assertion": "Andromedans reportedly regard humans as genetically stable, adaptable and compatible with many souls and habitats.",
+      "speaker": "Yazhi (attributing assessment to Andromedans)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1a6716ab196-c04",
+      "assertion": "She rejects Grey-human future ancestry and says Greys are biologically distinct from humans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0036",
+        "p0039",
+        "p0042",
+        "p0045"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1a6716ab196-c05",
+      "assertion": "Yazhi says Reptilian shifting is mental; observers may perceive human aspects depending on frequency.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0051",
+        "p0080"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1a6716ab196-c06",
+      "assertion": "She says some Reptilians are positive and oppressed; they should not be generalized.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0097",
+        "p0098",
+        "p0100"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "species-variation-within-reptilians",
+    "Grey-ancestry-uncertainty"
+  ],
+  "coverage_gaps": [
+    "hybridization-purpose",
+    "lunar-activity"
+  ]
+}

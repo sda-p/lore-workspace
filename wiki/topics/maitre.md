@@ -144,6 +144,46 @@ Source: [ABDUCCIONES EXTRATERRESTRES - DE GANADO - DE PLANTAS - DE HUMANOS - REG
 
 Related topics: [Kingu](kingu.md), [Tall Whites](tall-whites.md).
 
+### src-36de59341f2c-c01
+
+Yazhi says the Maitré are outside the Federation and seek total control and enslavement.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Análisis de las Pruebas PCR - Laboratorio Taygeta / Maitre - Altos Grises (Yazhi - Comunicación Extraterrestre)](https://swaruu.org/transcripts/analisis-de-las-pruebas-pcr-laboratorio-taygeta-maitre-altos-grises-yazhi-comunicacion-extraterrestr) (2021-02-24; es); passages p0026, p0027. [Structured record](../../records/src-36de59341f2c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-36de59341f2c-c02
+
+Yazhi describes the Maitré as tall Greys genetically altered by reptilians; she says they reproduce artificially. She calls them a secondary species.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Análisis de las Pruebas PCR - Laboratorio Taygeta / Maitre - Altos Grises (Yazhi - Comunicación Extraterrestre)](https://swaruu.org/transcripts/analisis-de-las-pruebas-pcr-laboratorio-taygeta-maitre-altos-grises-yazhi-comunicacion-extraterrestr) (2021-02-24; es); passages p0054, p0055, p0056, p0057, p0058, p0059. [Structured record](../../records/src-36de59341f2c.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+### src-36de59341f2c-c03
+
+Yazhi contrasts reptilian covert control with Maitré enslavement, but says the evidence cannot identify a responsible species with certainty. She presents Maitré involvement as a possibility.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Análisis de las Pruebas PCR - Laboratorio Taygeta / Maitre - Altos Grises (Yazhi - Comunicación Extraterrestre)](https://swaruu.org/transcripts/analisis-de-las-pruebas-pcr-laboratorio-taygeta-maitre-altos-grises-yazhi-comunicacion-extraterrestr) (2021-02-24; es); passages p0039, p0053, p0076. [Structured record](../../records/src-36de59341f2c.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+### src-c57cf7f12530-c03
+
+Swaruu says Maitré were Draconian-engineered Grey hybrids that reproduce by cloning; they use portals and propulsion but lack warp or hyperspace travel. She describes them as an escaped experiment.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Marte&Tierra - Que hay en Marte? - Información Extraterrestre - Swaruu de Erra (Taygeta - Pleyades)](https://swaruu.org/transcripts/marte-tierra-que-hay-en-marte-informacion-extraterrestre-swaruu-de-erra-taygeta-pleyades) (2021-11-03; es); passages p0040, p0042, p0043, p0054, p0055, p0059. [Structured record](../../records/src-c57cf7f12530.json).
+
+Related topics: [Alpha Draconians](alpha-draconians.md), [Mars](mars.md).
+
 ## Claims filed under other topics
 
 - [src-72696c075fca-c04](galactic-federation.md#src-72696c075fca-c04) — Galactic Federation
@@ -151,16 +191,28 @@ Related topics: [Kingu](kingu.md), [Tall Whites](tall-whites.md).
 - [src-59c43e8ab96d-c04](mars.md#src-59c43e8ab96d-c04) — Mars
 - [src-1c7b74567865-c02](karistus.md#src-1c7b74567865-c02) — Karistus
 - [src-1c7b74567865-c03](reptilians.md#src-1c7b74567865-c03) — Reptilians
+- [src-cc4e6a95114d-c02](mars.md#src-cc4e6a95114d-c02) — Mars
+- [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
+- [src-f692b0750026-c05](galactic-federation.md#src-f692b0750026-c05) — Galactic Federation
+- [src-7e10fbdcd1c5-c04](mars.md#src-7e10fbdcd1c5-c04) — Mars
+- [src-c57cf7f12530-c02](mars.md#src-c57cf7f12530-c02) — Mars
 
 ## Review flags
 
+- Claims-about-PCR-swab-nanotechnology-conflict-with-later-human-origin-possibility
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Species summaries are broad and based on accounts attributed to orbital sources
 - abduction-mutilation-claims
+- antarctic-base-conspiracy-claims
 - faction-taxonomy-and-levels-attributed
+- federation-level-claims-attributed
+- hidden-inner-earth-entrance-claim
 - historical-contact-attributed
+- pandemic-claims-excluded
+- planetary-control-and-liberation-claims
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - reported arrival date conflicts with article chronology
 - source includes conflicting publication and event dates; claims retain stated dates
 - species-labels-uncertain
 - uncertain-human-versus-nonhuman-mutilation-cause
+- venus-physical-description-differs-from-earth-science

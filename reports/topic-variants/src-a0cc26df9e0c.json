@@ -1,0 +1,21 @@
+[
+  {
+    "proposed": {
+      "id": "pyramid-network",
+      "name": "Planetary pyramid network",
+      "kind": "technology network",
+      "aliases": [
+        "pyramid energy grid"
+      ]
+    },
+    "canonical": {
+      "id": "pyramid-network",
+      "name": "Pyramid energy and portal network",
+      "kind": "technology network",
+      "aliases": [
+        "pyramids",
+        "red de pirámides"
+      ]
+    }
+  }
+]

@@ -16,6 +16,16 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [SISTEMA SOLAR - PLANETA MERCURIO - EL SOL 13 - SWARUU DE ERRA](https://swaruu.org/transcripts/sistema-solar-planeta-mercurio-el-sol-13-swaruu-de-erra) (2019-05-28; es); passages p0018, p0019, p0024. [Structured record](../../records/src-83d10afd7959.json).
 
+### src-ee1516c33ac1-c01
+
+Swaruu calls the system Sol-13, with 13 planets; Mercury has signal relays but no biological life or bases.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Mercurio, Venus y Guerra de Vietnam - Que Hay en Venus? Información Directa Extraterrestre](https://swaruu.org/transcripts/mercurio-venus-y-guerra-de-vietnam-que-hay-en-venus-informacion-directa-extraterrestre) (2021-07-23; es); passages p0002, p0005, p0011, p0013. [Structured record](../../records/src-ee1516c33ac1.json).
+
+Related topics: [Mercury](mercury.md).
+
 ## Claims filed under other topics
 
 - [src-1422880235ff-c04](sunspot-portals.md#src-1422880235ff-c04) — Sunspot portals

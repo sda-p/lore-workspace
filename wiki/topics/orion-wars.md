@@ -132,6 +132,7 @@ Related topics: [Lyran expansion](lyran-expansion.md), [Reptilians](reptilians.m
 - [src-f3a1e4326731-c02](galactic-federation.md#src-f3a1e4326731-c02) — Galactic Federation
 - [src-ec0774773c92-c02](tiamat.md#src-ec0774773c92-c02) — Tiamat
 - [src-51b930d00866-c02](galactic-federation.md#src-51b930d00866-c02) — Galactic Federation
+- [src-791b660d5229-c01](alpha-draconians.md#src-791b660d5229-c01) — Alpha Draconians
 
 ## Review flags
 
@@ -143,10 +144,12 @@ Related topics: [Lyran expansion](lyran-expansion.md), [Reptilians](reptilians.m
 - conflicting\_faction\_accounts
 - conflicting\_origin\_accounts
 - directive-rules-not-in-transcript
+- exopolitical-faction-claims
 - extraordinary\_history\_claims
 - faction\_tension
 - federation-history-attributed
 - internal-date-tension
+- metaphysical-collective-reality-model
 - no-parallel-source-in-batch
 - nonstandard-biology-claims
 - political-claims\_attributed

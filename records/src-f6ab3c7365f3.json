@@ -1,0 +1,79 @@
+{
+  "source_id": "src-f6ab3c7365f3",
+  "snapshot_sha256": "300c266a263e24e43dd5cae4ebfb90b18c9ca70172fa01b8539ea200c1447d6e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f6ab3c7365f3-c01",
+      "assertion": "Anéeka says Taygeta and Sadicleya form a binary; Sadicleya lights planetary nights and shapes animal and plant cycles.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6ab3c7365f3-c02",
+      "assertion": "Anéeka says dying stars may become brown dwarfs and collapse into “gravity holes,” which function as portals distinct from black holes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0043"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6ab3c7365f3-c03",
+      "assertion": "Anéeka says mapped gravity wells can disorient ship sensors during propulsion, but pose no problem during superluminal flight.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f6ab3c7365f3-c04",
+      "assertion": "Anéeka describes stars as having multiple frequency-dependent portal exits; M45 stars connect through Alcyone, then Aldebaran and Betelgeuse.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Not a fixed-entry, fixed-exit wormhole."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Anéeka explicitly distinguishes “gravity holes” from black holes."
+  ],
+  "coverage_gaps": [
+    "stellar dating claims",
+    "human astronomy critique",
+    "cluster-wide stellar count"
+  ]
+}

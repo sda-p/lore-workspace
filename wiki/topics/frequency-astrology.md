@@ -38,7 +38,41 @@ Source: [Akashic Records, Part 1 (English)](https://swaruu.org/transcripts/akash
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-d3e73f956099-c03
+
+Anéeka says Taygetan astrology maps individual frequency from the galactic center through local constellations, M45 and Taygeta. Her account.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pleyades - Taygeta - Preguntas del Público para Anéeka de Temmer (Contacto Extraterrestre)](https://swaruu.org/transcripts/pleyades-taygeta-preguntas-del-publico-para-aneeka-de-temmer-contacto-extraterrestre) (2020-11-11; es); passages p0081, p0082, p0083, p0084, p0085. [Structured record](../../records/src-d3e73f956099.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-417359a5f6a0-c01
+
+Anéeka says Taygetan astrology treats a person’s pre-incarnation frequency and character as selecting their astrological influences; stars do not determine the person’s life.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ASTROLOGÍA TAYGETEANA - PLEYADES M45 - TAYGETA TAU-19 -ANEEKA DE TEMMER](https://swaruu.org/transcripts/astrologia-taygeteana-pleyades-m45-taygeta-tau-19-aneeka-de-temmer) (2020-11-07; es); passages p0005, p0006, p0008. [Structured record](../../records/src-417359a5f6a0.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-417359a5f6a0-c02
+
+She says Taygetan astrological calculations begin at the galactic center, then include local constellations, the Pleiades, and the Taygeta Tau-19 system. She contrasts this sequence with terrestrial astrology.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [ASTROLOGÍA TAYGETEANA - PLEYADES M45 - TAYGETA TAU-19 -ANEEKA DE TEMMER](https://swaruu.org/transcripts/astrologia-taygeteana-pleyades-m45-taygeta-tau-19-aneeka-de-temmer) (2020-11-07; es); passages p0007. [Structured record](../../records/src-417359a5f6a0.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-6d89e231f729-c05](moon-matrix.md#src-6d89e231f729-c05) — Moon and terrestrial Matrix
 - [src-bfaf065e0281-c02](archons-and-demons.md#src-bfaf065e0281-c02) — Archons and demons
+
+## Review flags
+
+- medical-and-abduction-claims-excluded

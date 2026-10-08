@@ -32,6 +32,22 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politics (English)](https://swaruu.org/transcripts/taygeta-space-news-37-galactic-federation-update-taygetan-exo-politics-english) (2024-08-24; en); passages p0018, p0022, p0023. [Structured record](../../records/src-679ef96054ba.json).
 
+### src-ba55ed53f560-c02
+
+She says no one formally rules, though Andromedans head Federation councils; Arcturians follow closely, while Lyrians are few and third-ranked.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Los Simbolos de la Federacion de Planetas Unidos - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/los-simbolos-de-la-federacion-de-planetas-unidos-sin-video) (2021-01-11; es); passages p0014, p0015, p0018. [Structured record](../../records/src-ba55ed53f560.json).
+
+### src-579729ae37cb-c02
+
+Yazhi describes Alcyone Council as serving M45, while Andromeda Council includes Andromedan factions, Sirians, and three Arcturian variants.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EL CONSEJO DE ANDRÓMEDA Y LA FEDERACIÓN DE PLANETAS UNIDOS YAZHI SWARUU](https://swaruu.org/transcripts/el-consejo-de-andromeda-y-la-federacion-de-planetas-unidos-yazhi-swaruu) (2021-07-22; es); passages p0004. [Structured record](../../records/src-579729ae37cb.json).
+
 ## Claims filed under other topics
 
 - [src-22d5f1e26b59-c01](alcyone-council.md#src-22d5f1e26b59-c01) — Alcyone Council
@@ -43,10 +59,13 @@ Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politi
 - [src-543fe68707e6-c03](andromedans.md#src-543fe68707e6-c03) — Andromedans
 - [src-ae20e2d2296b-c02](neptune.md#src-ae20e2d2296b-c02) — Neptune and Triton
 - [src-40614df19d52-c04](astrotheology.md#src-40614df19d52-c04) — Astrotheology
+- [src-29ae7cdf0163-c01](galactic-federation.md#src-29ae7cdf0163-c01) — Galactic Federation
 
 ## Review flags
 
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
+- Anéeka says Andromedans dominate councils but denies formal rulership.
+- Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - ancient-history-claim
 - astronomical-claims-unverified
 - conflicting\_faction\_accounts

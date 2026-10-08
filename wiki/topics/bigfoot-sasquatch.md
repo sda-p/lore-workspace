@@ -6,6 +6,12 @@ Aliases: Bigfoot, Sasquatch, Yeti, Menk
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Sasquatch](sasquatch.md)
+
 ## Collected claims
 
 ### src-0a2dec346e2d-c01

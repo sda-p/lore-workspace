@@ -1,0 +1,105 @@
+{
+  "source_id": "src-769b9ad6be07",
+  "snapshot_sha256": "d9f046ac17dc96d086c5f2069e19b4b2aa053d4c2f557b917383ee868faf7c41",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-769b9ad6be07-c01",
+      "assertion": "Athena says Toleka detected no Starlink-like objects in low orbit, but cannot verify their absence elsewhere.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0017",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-769b9ad6be07-c02",
+      "assertion": "She describes a satellite corridor below Van Allen belts but above atmospheric drag, with a clear access route needed.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0046",
+        "p0047",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-769b9ad6be07-c03",
+      "assertion": "She speculates observed light trains may be nonhuman craft; common Taygetan spheres are 110 cm across.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0032",
+        "p0044",
+        "p0062"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-769b9ad6be07-c04",
+      "assertion": "She says these surveillance drones use small zero-point reactors, plasma engines, and gravity cancellation, enabling interstellar travel.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0061"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-769b9ad6be07-c05",
+      "assertion": "Athena accepts satellite internet but suspects Starlink claims may mask other space operations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0064",
+        "p0065",
+        "p0067"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights"
+  ],
+  "coverage_gaps": [
+    "satellite identification",
+    "drone deployment purpose"
+  ]
+}

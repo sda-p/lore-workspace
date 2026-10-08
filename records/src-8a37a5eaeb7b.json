@@ -1,0 +1,82 @@
+{
+  "source_id": "src-8a37a5eaeb7b",
+  "snapshot_sha256": "5ac3660413fc3882dc54e640da3c7c8d0e22edba481a03252af9a113746f833d",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Anéeka says Scimitar A ships are light interceptors; B assault variants carry troops and up to two armored vehicles or a human-style helicopter. Athena says one pilot or onboard AI can fly either.",
+      "speaker": "Anéeka; Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0033",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "scimitar-class-craft",
+      "topics": [
+        "scimitar-class-craft",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-8a37a5eaeb7b-c01"
+    },
+    {
+      "assertion": "Athena says ship synthetic telepathy can detect and receive thoughts; crews usually listen, but may answer with light flashes because other responses are invasive.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0041",
+        "p0042",
+        "p0044"
+      ],
+      "primary_topic": "aggressive-telepathy",
+      "topics": [
+        "aggressive-telepathy",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-8a37a5eaeb7b-c02"
+    },
+    {
+      "assertion": "Athena says fighter-class hyperspace trips still have perceived SIT, reduced from about seven hours on a Toleka to minutes; technically, she describes travel as instantaneous.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0070",
+        "p0071",
+        "p0073",
+        "p0074",
+        "p0075"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "suzy-class-starships"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-8a37a5eaeb7b-c03"
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "scimitar-class-craft",
+      "name": "Scimitar-class craft",
+      "kind": "technology",
+      "aliases": [
+        "Scimitar",
+        "Scimitar A",
+        "Scimitar B"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other-starship-systems-omitted"
+  ]
+}

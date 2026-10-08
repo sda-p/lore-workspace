@@ -8,7 +8,15 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
-Primary assertions are filed under the linked topics below.
+### src-0229a552cea2-c01
+
+Anéeka says Ummites have two brain hemispheres and appear more human internally than Taygetans.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES - EL CEREBRO UMMITA EL CEREBRO TAYGETEANO BIOLOGIA - ANEEKA - SWARUU](https://swaruu.org/transcripts/extraterrestres-el-cerebro-ummita-el-cerebro-taygeteano-biologia-aneeka-swaruu) (2020-11-18; es); passages p0003, p0005. [Structured record](../../records/src-0229a552cea2.json).
+
+Related topics: [Taygetans](taygetans.md).
 
 ## Claims filed under other topics
 
@@ -18,4 +26,6 @@ Primary assertions are filed under the linked topics below.
 ## Review flags
 
 - causal-attribution-tension
+- non-darwinian-consciousness-evolution-model
+- speculative-neurobiology-claims
 - time-travel-claims

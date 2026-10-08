@@ -1,0 +1,104 @@
+{
+  "source_id": "src-8d5449505ff0",
+  "snapshot_sha256": "a5dd3b0e0bdf0bd4eae6768c9e806caf875792f5c2fb22c5feeb0a63e172683d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8d5449505ff0-c01",
+      "assertion": "Yazhi says each planet’s collective consciousness shapes a fluctuating frequency field and shared reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d5449505ff0-c02",
+      "assertion": "She links perceived time to collective consciousness; stellar navigation can use local frequency patterns.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0012"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d5449505ff0-c03",
+      "assertion": "Yazhi says Earth is already ascended; human collective perception determines whether inhabitants experience its ascent.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0025",
+        "p0028"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d5449505ff0-c04",
+      "assertion": "She says higher-frequency surroundings can raise Earth by dominant-frequency influence, while regressive entities tend toward self-destruction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d5449505ff0-c05",
+      "assertion": "Yazhi says souls enter Earth experiences through prior choice and compatibility, making determinism an intended experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0039"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "planetary ascension is framed as perspective-dependent perception"
+  ],
+  "coverage_gaps": [
+    "frequency measurement",
+    "other planetary collectives"
+  ]
+}

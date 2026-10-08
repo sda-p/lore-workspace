@@ -1,0 +1,80 @@
+{
+  "source_id": "src-06841218e937",
+  "snapshot_sha256": "e81a062fefa4e9e43e4d59048aa926aa5df0d670df9e61ed79782510b55e8ffe",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-06841218e937-c01",
+      "assertion": "Anéeka says Urmah royalty holds political power and represents its civilization; sages guide young King Ruhr, who retains decision authority.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06841218e937-c02",
+      "assertion": "Anéeka says Urmah forces came to deter Federation abuses against humans and escort Taygetans, ignoring requests to withdraw.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "urmah-federation",
+      "topics": [
+        "urmah-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06841218e937-c03",
+      "assertion": "Anéeka describes Avyon-1 as a crewed Urmah flagship twice Toleka’s size, accompanied by smaller craft.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0028"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06841218e937-c04",
+      "assertion": "Anéeka says Urmah fighters resemble advanced aircraft; their cockpits are about 30% larger, with biological adaptations and comparable technology.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Avyon-1 orbit and crew-size details omitted."
+  ],
+  "coverage_gaps": [
+    "named personnel",
+    "orbital positions",
+    "telepathic contact"
+  ]
+}

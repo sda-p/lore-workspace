@@ -1,0 +1,55 @@
+{
+  "source_id": "src-c79c521e2617",
+  "snapshot_sha256": "370cd2b9822e93897224fbfbf626763fe1682160d76a22b36ce0052eedfe70e5",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari presents a deliberately imagined alter ego as a way to bypass subconscious triggers and limiting patterns: define an ideal self, then act from that identity when facing challenges.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "shadow-work",
+      "topics": [
+        "shadow-work",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as Mari’s self-development method.",
+      "id": "src-c79c521e2617-c01"
+    },
+    {
+      "assertion": "She advises creating an original persona rather than copying a fictional hero or celebrity; leaving familiar surroundings may help, but she says this is optional.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "shadow-work",
+      "topics": [
+        "shadow-work"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-c79c521e2617-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "specific-family-dynamics-omitted"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "source_id": "src-621113b9af49",
+  "snapshot_sha256": "081a2b6046c4fc74beb19d4cbd43f19dff38fa9463b2cf3b56c7b7c61da953a2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-621113b9af49-c01",
+      "assertion": "Cyndriel is a desert at 0.7g with about 80% oxygen; Earth arrivals need acclimation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-621113b9af49-c02",
+      "assertion": "Anéeka says Aldebaran’s nebula filters its intense radiation; near-perpetual daylight supports adapted red-orange flora.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0018",
+        "p0036",
+        "p0037",
+        "p0041"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-621113b9af49-c03",
+      "assertion": "Some cactus-like plants float on unexplained antigravity cores and spread spores through lakes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-621113b9af49-c04",
+      "assertion": "Native Amélie are 6D-plus energy beings who communicate telepathically and appear in observer-suited forms.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0064",
+        "p0065",
+        "p0066",
+        "p0067"
+      ],
+      "primary_topic": "amelie",
+      "topics": [
+        "amelie"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-621113b9af49-c05",
+      "assertion": "Taygeta’s long-standing Cyndriel colony serves as an Alcyone Council wayport, shared mainly with Engans and Solatians.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0071",
+        "p0074"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-621113b9af49-c06",
+      "assertion": "Taygetans grow imported crops underground under controlled conditions to avoid disrupting Cyndriel’s native ecosystem.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0082",
+        "p0083"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Cyndriel’s surface–orbit time discrepancy is unexplained."
+  ],
+  "coverage_gaps": [
+    "Aldebaran system layout",
+    "native animal varieties",
+    "Amélie boundaries"
+  ]
+}

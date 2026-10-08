@@ -1,0 +1,51 @@
+{
+  "source_id": "src-5d9ef87c7059",
+  "snapshot_sha256": "38e547d426caf360e631aa19098f9047bfe97859b5401d640cc9506b7fd09eea",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5d9ef87c7059-c01",
+      "assertion": "Za’el suggests unresolved trauma may originate in childhood, later experiences, or past lives, within his non-linear model of time.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "He presents multiple explanations as possibilities for individuals to assess."
+    },
+    {
+      "id": "src-5d9ef87c7059-c02",
+      "assertion": "Za’el describes an “inner child” as a persistent aspect of consciousness associated with past hurt; he says thought patterns shape the unconscious and can be addressed through shadow work.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is his proposed self-reflection framework."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "trauma-origin-model",
+    "inner-child-framework"
+  ]
+}

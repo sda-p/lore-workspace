@@ -1076,6 +1076,32 @@ Source: [RAZAS EXTRATERRESTRES en 5D (4) - URMAH Raza Felina (Mensaje Pleyadiano
 
 Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
 
+### src-d9a04b018638-c02
+
+Anéeka says Urmah have a unified, cat-like brain; Alfrateans and Ummitas retain two lobes with stronger interhemispheric connections than humans.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Sistema nervioso y los celebros - Taygeteano, de otras razas, y de los humanos \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/sistema-nervioso-y-los-celebros-taygeteano-de-otras-razas-y-de-los-humanos-sin-video) (2021-02-16; es); passages p0009, p0010, p0011. [Structured record](../../records/src-d9a04b018638.json).
+
+Related topics: [Alfrata (Phaeton)](alfrata.md).
+
+### src-06841218e937-c01
+
+Anéeka says Urmah royalty holds political power and represents its civilization; sages guide young King Ruhr, who retains decision authority.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-urmah-sin-video) (2021-02-01; es); passages p0003, p0004, p0005. [Structured record](../../records/src-06841218e937.json).
+
+### src-06841218e937-c04
+
+Anéeka says Urmah fighters resemble advanced aircraft; their cockpits are about 30% larger, with biological adaptations and comparable technology.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Equipo Urmah \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/equipo-urmah-sin-video) (2021-02-01; es); passages p0034, p0036. [Structured record](../../records/src-06841218e937.json).
+
 ## Claims filed under other topics
 
 - [src-1461dd27e63f-c08](alien-species.md#src-1461dd27e63f-c08) — Alien species and distinctions
@@ -1106,6 +1132,7 @@ Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
 - [src-84a31dbc8140-c01](alpha-draconians.md#src-84a31dbc8140-c01) — Alpha Draconians
 - [src-cfb8d4ba70e4-c01](galactic-federation.md#src-cfb8d4ba70e4-c01) — Galactic Federation
 - [src-33c7243bf8a8-c01](galactic-federation.md#src-33c7243bf8a8-c01) — Galactic Federation
+- [src-25df1865ec2d-c05](giza-labyrinth.md#src-25df1865ec2d-c05) — Giza Labyrinth
 
 ## Review flags
 
@@ -1114,6 +1141,7 @@ Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
 - Alenym-attack-culprit-unknown
 - Ari-interview-translated-from-German-by-Mari
 - Athena-interview-original-English
+- Avyon-1 orbit and crew-size details omitted.
 - Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Federation-policy\_claims\_attributed
@@ -1125,6 +1153,7 @@ Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - Yazhi-interview-report
 - attack-theory\_speculative
+- conflicting-pyramid-dates
 - conflicting\_faction\_accounts
 - conspiracy\_claims
 - dietary-claims\_attributed
@@ -1135,6 +1164,7 @@ Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
 - federation-role-speaker-contrast
 - federation-role-variation
 - genetic-weapon-causation-speculative
+- giza-base-account
 - historical-claims-unverified
 - historical-conspiracy-claims
 - historical-date-ambiguity
@@ -1146,6 +1176,7 @@ Related topics: [Taygetans](taygetans.md), [Ancient Egypt](ancient-egypt.md).
 - personal\_metaphysics
 - political-claims\_attributed
 - political-narrative\_attributed
+- pyramid-technology-claims
 - reported-claims\_by\_Ari
 - ritual\_effect\_claimed
 - second-contact-stoppage-attributed-to-yazhi

@@ -1,0 +1,95 @@
+{
+  "source_id": "src-6850059194ff",
+  "snapshot_sha256": "dc8bbe7875b8a8230cad38cdb30fd689912e29d7667080e60e506a61df8bbbf4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6850059194ff-c01",
+      "assertion": "Yazhi says vampire lore includes 100+ types; black-eyed children are one variant, though adults occur.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0014",
+        "p0027"
+      ],
+      "primary_topic": "vampires",
+      "topics": [
+        "vampires"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6850059194ff-c02",
+      "assertion": "Yazhi says many vampires are corpses animated by low-astral entities; others possess victims and displace souls.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "vampires",
+      "topics": [
+        "vampires"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6850059194ff-c03",
+      "assertion": "Yazhi says terror and attention nourish these tulpas or egregores; Anéeka describes a corpse animated by a regressive astral tulpa.",
+      "speaker": "Yazhi Swaruu and Anéeka",
+      "paragraph_ids": [
+        "p0043",
+        "p0063",
+        "p0103",
+        "p0104"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "vampires"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6850059194ff-c04",
+      "assertion": "Anéeka says garlic provokes allergies, mirrors reveal the animated corpse, and stakes pin rather than kill it; vampires last only as host bodies.",
+      "speaker": "Anéeka de Temmer",
+      "paragraph_ids": [
+        "p0107",
+        "p0108",
+        "p0109"
+      ],
+      "primary_topic": "vampires",
+      "topics": [
+        "vampires"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "vampires",
+      "name": "Vampires",
+      "kind": "parasitic entity group",
+      "aliases": [
+        "vampirism",
+        "upirólogo entities",
+        "upirismo"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "regional vampire variants",
+    "Carpathian nesting grounds",
+    "additional containment methods"
+  ]
+}

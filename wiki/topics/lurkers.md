@@ -52,6 +52,32 @@ Source: [RAZAS EXTRATERRESTRES en 5D (1) - Informacion Directa Extraterrestre](h
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-7037a2d38c7d-c02
+
+Swaruu X says Lurkers are silicon-based, unlike carbon-based Lyrians such as Taygetans; this is a difference, not an upgrade.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [Información Extraterrestre - Datos y Cuentos - Mini Temas con Gosia](https://swaruu.org/transcripts/informacion-extraterrestre-datos-y-cuentos-mini-temas-con-gosia) (2021-08-10; es); passages p0037, p0039, p0041, p0042, p0043. [Structured record](../../records/src-7037a2d38c7d.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-748a1e239668-c01
+
+Anéeka describes lurkers as widespread, carnivorous insectoids; some reach three metres, reproduce through hosts, and can devastate local fauna before hibernating. She knows them from computer data, not firsthand encounters.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [EXOBIOLOGÍA - LURKERS - LARVAS ENERGÉTICAS - POD MÉDICO \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/exobiologia-lurkers-larvas-energeticas-pod-medico-sin-video) (2021-01-12; es); passages p0005, p0007, p0017, p0018, p0023, p0024, p0027, p0030. [Structured record](../../records/src-748a1e239668.json).
+
+### src-748a1e239668-c02
+
+She says lurkers are carbon-silicon hybrids, with silicon concentrated in the exoskeleton and teeth. She describes this as her current understanding.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [EXOBIOLOGÍA - LURKERS - LARVAS ENERGÉTICAS - POD MÉDICO \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/exobiologia-lurkers-larvas-energeticas-pod-medico-sin-video) (2021-01-12; es); passages p0032, p0036. [Structured record](../../records/src-748a1e239668.json).
+
 ## Claims filed under other topics
 
 - [src-e96e8067e205-c03](taygetan-ecosystems.md#src-e96e8067e205-c03) — Taygetan ecosystems

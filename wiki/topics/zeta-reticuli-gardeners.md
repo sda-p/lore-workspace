@@ -92,14 +92,35 @@ Source: [CABALLOS MUTILADOS EN FRANCIA - PARTE 1 - \*\*SIN VIDEO\*\*](https://sw
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-3902c9520a94-c01
+
+Anéeka says any race may abduct, but small Grey “gardeners” are the most frequent abductors.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Abducciones Extraterrestres - Porque se Producen? Anéeka de Temmer (Taygeta - Pleyades)](https://swaruu.org/transcripts/abducciones-extraterrestres-porque-se-producen-aneeka-de-temmer-taygeta-pleyades) (2020-12-01; es); passages p0003. [Structured record](../../records/src-3902c9520a94.json).
+
+### src-3902c9520a94-c05
+
+Anéeka describes Gardeners as efficient, unemotional, telepathic beings; some are biologically plant-like.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Abducciones Extraterrestres - Porque se Producen? Anéeka de Temmer (Taygeta - Pleyades)](https://swaruu.org/transcripts/abducciones-extraterrestres-porque-se-producen-aneeka-de-temmer-taygeta-pleyades) (2020-12-01; es); passages p0084, p0088, p0090, p0098. [Structured record](../../records/src-3902c9520a94.json).
+
 ## Claims filed under other topics
 
 - [src-03651da1738e-c02](orion-grays.md#src-03651da1738e-c02) — Orion Grays
 - [src-a6f1977b24ac-c06](alien-species.md#src-a6f1977b24ac-c06) — Alien species and distinctions
+- [src-3902c9520a94-c02](alien-abduction-practices.md#src-3902c9520a94-c02) — Alien abduction practices
+- [src-3902c9520a94-c03](alien-abduction-practices.md#src-3902c9520a94-c03) — Alien abduction practices
+- [src-3902c9520a94-c04](alien-abduction-practices.md#src-3902c9520a94-c04) — Alien abduction practices
 
 ## Review flags
 
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
+- abduction-and-medical-claims
 - claims-attributed-to-source-narrators
 - factional-threat-interpretation-attributed-to-urmah
+- grey-gardener-biological-classification
 - uncertain-human-versus-nonhuman-mutilation-cause

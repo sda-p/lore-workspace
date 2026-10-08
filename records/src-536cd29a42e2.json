@@ -1,0 +1,55 @@
+{
+  "source_id": "src-536cd29a42e2",
+  "snapshot_sha256": "94b013932c05c6fecfe889d343df889d43579fda9e83c8614df260713bbdb0f1",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari’s group claims Maui and Tenerife fires were deliberately started with incendiary drones and directed-energy weapons, citing aligned origins and their own alleged forensic assessment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari says videos cannot be verified with certainty and bases the claim on her group’s analysis.",
+      "id": "src-536cd29a42e2-c01"
+    },
+    {
+      "assertion": "Mari says Tenerife’s smart-island and redevelopment plans predated the fire, and speculates the destruction supports planned tourism redevelopment and half-hour-city programs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "engineered-social-unrest",
+      "topics": [
+        "engineered-social-unrest",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Mari presents the connection as her interpretation.",
+      "id": "src-536cd29a42e2-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "real-world-disaster-causation-allegation"
+  ],
+  "coverage_gaps": [
+    "event-response-details-omitted"
+  ]
+}

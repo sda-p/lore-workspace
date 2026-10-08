@@ -62,13 +62,22 @@ Related topics: [Secret Space Program](secret-space-program.md).
 - [src-9fa59ea635de-c01](weather-control.md#src-9fa59ea635de-c01) — Weather control systems
 - [src-5d0fdcdc4f0b-c01](starship-systems.md#src-5d0fdcdc4f0b-c01) — Starship systems
 - [src-06c80561b461-c04](natural-portals.md#src-06c80561b461-c04) — Natural and artificial portals
+- [src-a788b48954ec-c01](bucegi-underground-base.md#src-a788b48954ec-c01) — Bucegi underground base
+- [src-9524a72ff653-c02](earth-dna-arks.md#src-9524a72ff653-c02) — Earth DNA Arks
+- [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
+- [src-de22732f48f1-c02](antarctica.md#src-de22732f48f1-c02) — Antarctica
 
 ## Review flags
 
 - ancient-site-claims-attributed
+- antarctic-base-conspiracy-claims
+- ark-status-uncertainty
+- biological-restoration-technology
+- earth-ark-location-claims
 - factional-war-and-quarantine-conflicting-accounts
 - federation-seizure-claim
 - frequency-and-harm-claims
+- hidden-inner-earth-entrance-claim
 - rescue-count-uncertain
 - secret-space-program-claims
 - security-claims-attributed

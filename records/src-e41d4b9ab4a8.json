@@ -1,0 +1,82 @@
+{
+  "source_id": "src-e41d4b9ab4a8",
+  "snapshot_sha256": "c4543c05c6704edc731f859f6fda67317790cf0509fb3aa8e44ca4b75ef2bace",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e41d4b9ab4a8-c01",
+      "assertion": "Dhor Káal’el describes Nazca figures as star maps and approach vectors for interstellar ships.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e41d4b9ab4a8-c02",
+      "assertion": "He says the lines encode distances, timing, geometry and frequency-based routes for an ancient spaceport.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e41d4b9ab4a8-c03",
+      "assertion": "He says broad lines served as ship parking areas and approach guides, not runways.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0021",
+        "p0046"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e41d4b9ab4a8-c04",
+      "assertion": "He describes buried multi-level cities beneath Nazca as abandoned facilities of multiple nonhuman races.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0032",
+        "p0048",
+        "p0060",
+        "p0062"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "He cites records and remote investigation; he says he has not visited."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "attribution:reported-from-records"
+  ],
+  "coverage_gaps": [
+    "constellation-identifications",
+    "erosion-history",
+    "temporal-navigation"
+  ]
+}

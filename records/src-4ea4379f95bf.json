@@ -1,0 +1,105 @@
+{
+  "source_id": "src-4ea4379f95bf",
+  "snapshot_sha256": "6fb74acb404877e9811797d2a678e70bf895d24c7a724c7a2e3782ae0693898f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4ea4379f95bf-c01",
+      "assertion": "Yazhi’s model treats existence as ideas in a timeless, nonlocal Source-mind; minerals and energy are conscious.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ea4379f95bf-c02",
+      "assertion": "She says simple consciousnesses combine into complex beings, from cells and bodies to individual universes and the Source.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ea4379f95bf-c03",
+      "assertion": "She says idea-attachments define identity and filter the world each person experiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ea4379f95bf-c04",
+      "assertion": "After death, attachments shape one’s world: some realms mirror material life, others are peaceful.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4ea4379f95bf-c05",
+      "assertion": "Yazhi says perceptual realms overlap through shared agreements, allowing spirits and other entities to interact with embodied beings.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0065",
+        "p0068",
+        "p0070",
+        "p0071",
+        "p0072"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi frames these as a limited explanatory viewpoint.",
+    "Contradictory descriptions may be valid from different perspectives."
+  ],
+  "coverage_gaps": [
+    "death’s experiential framing",
+    "perceptual bubbles",
+    "dense versus expanded consciousness"
+  ]
+}

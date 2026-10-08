@@ -382,6 +382,52 @@ Source: [Swaruu - Mapeando Espacios Desconocidos (Navegación Estelar 7) Comunic
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-4209c9213382-c03
+
+From a higher-dimensional perspective, she frames interstellar travel as changing frequency rather than crossing distance; planets are separate worlds only from lower-density perspectives. She says the description depends on perspective.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA IDEA ES QUE ESTÉ CONTENIDA LA CIVILIZACIÓN HUMANA - EXOPOLITICA - YAZHI SWARUU](https://swaruu.org/transcripts/la-idea-es-que-este-contenida-la-civilizacion-humana-exopolitica-yazhi-swaruu) (2021-08-10; es); passages p0021, p0023, p0024, p0025. [Structured record](../../records/src-4209c9213382.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9143cd103af6-c01
+
+Yazhi says starship navigation uses numeric frequency gradients; 3D and 5D are arbitrary bands rather than physical boundaries. Her model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [3D - 5D son Estados Mentales - Somos Seres en Varias Densidades a la vez - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/3d-5d-son-estados-mentales-somos-seres-en-varias-densidades-a-la-vez-yazhi-y-athena-swaruu) (2021-08-17; es); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-9143cd103af6.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-2ad850d76eda-c01
+
+Anéeka says Taygetans encode starship destinations as musical sequences whose harmonics convey mathematical routes.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MÚSICA EN EL UNIVERSO - GRAVEDAD, ETER, Y CONCIENCIA \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/musica-en-el-universo-gravedad-eter-y-conciencia-sin-video) (2020-11-13; es); passages p0002, p0004, p0005. [Structured record](../../records/src-2ad850d76eda.json).
+
+### src-8d4ade03c4a5-c01
+
+Yazhi says ships reach interstellar destinations by modulating craft and contents, using frequency maps rather than long-distance travel.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [No Localidad - No Hay Espacio - Todo esta AQUI - Yazhi Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/no-localidad-no-hay-espacio-todo-esta-aqui-yazhi-swaruu-contacto-extraterrestre) (2021-10-17; es); passages p0011, p0012, p0034. [Structured record](../../records/src-8d4ade03c4a5.json).
+
+### src-ae3ec238fe23-c03
+
+Yazhi says interstellar cultures navigate chiefly with frequency maps, reserving distance measures for short-range locations. She gives a star system or cluster as examples.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#GALAXIA - Sophia \#Swaruu](https://swaruu.org/transcripts/principio-de-no-localidad-la-navegacion-de-naves-estelares-por-la-galaxia-sophia-swaruu) (2021-10-19; es); passages p0023, p0024. [Structured record](../../records/src-ae3ec238fe23.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c01](stellar-navigation.md#src-426ea469937a-c01) — Stellar navigation
@@ -404,14 +450,19 @@ Related topics: [Stellar navigation](stellar-navigation.md).
 - [src-349f835aa3ef-c03](starship-systems.md#src-349f835aa3ef-c03) — Starship systems
 - [src-ca24d8041f8f-c01](moon-matrix.md#src-ca24d8041f8f-c01) — Moon and terrestrial Matrix
 - [src-e1b812564c1f-c02](starship-systems.md#src-e1b812564c1f-c02) — Starship systems
+- [src-df0b18054ec1-c04](stellar-navigation.md#src-df0b18054ec1-c04) — Stellar navigation
 
 ## Review flags
 
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
+- No-locality is presented as an empirically used navigation principle and a metaphysical model.
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
+- ancient-symbol-interpretations-attributed
 - author-personal-philosophical-analysis
 - conspiracy\_claims
 - contested\_historical\_claims
+- distinct-speaker-models-attributed
 - entertainment-disclaimer
 - ethical\_use\_limits
 - frequency-mechanics-attributed

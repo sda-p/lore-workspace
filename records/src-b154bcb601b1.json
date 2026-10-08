@@ -1,0 +1,28 @@
+{
+  "source_id": "src-b154bcb601b1",
+  "snapshot_sha256": "45790d7ed378e3138d430956674ade13ee62ff17e3144632abc8a0b91e8fce5f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b154bcb601b1-c01",
+      "assertion": "Gosia calls Earth starseeds an elite “special forces” group and says their individual soul qualities are gifts they bring to humanity; she urges them to recognize their worth while alive.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Framed as Gosia’s encouragement to readers."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

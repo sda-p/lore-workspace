@@ -1,0 +1,72 @@
+{
+  "source_id": "src-86a4669c182d",
+  "snapshot_sha256": "7edf5813b9a7f5af1a7f0372fd6b1b3009312dc55d0b506ce36cb4cdbeb7439e",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says advanced interstellar science models time as three-dimensional expansion alongside three spatial dimensions, rather than humanity’s linear single time dimension.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari’s account of nonhuman science.",
+      "id": "src-86a4669c182d-c01"
+    },
+    {
+      "assertion": "She says terrestrial day-night clocks coordinate collective time perception, while time itself depends on observer consciousness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-86a4669c182d-c02"
+    },
+    {
+      "assertion": "Mari says timelines exist only as conscious experience; changing attitude and frequency can shift outcomes, and starships can emulate target patterns.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "frequency-map-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari’s metaphysical model.",
+      "id": "src-86a4669c182d-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "numeric-base-claims-omitted"
+  ]
+}

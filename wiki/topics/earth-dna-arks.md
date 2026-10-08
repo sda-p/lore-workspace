@@ -6,6 +6,12 @@ Aliases: Arks of the Covenant, planetary DNA arks
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Planetary DNA Arks](planetary-dna-arks.md)
+
 ## Collected claims
 
 ### src-914c88ed3e7a-c01
@@ -28,6 +34,59 @@ Source: [QUIEN FUE MOISÉS – QUE ERA LA ARCA DE LA ALIANZA – LOS LYRIANOS](h
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-9524a72ff653-c01
+
+Yazhi says Taygetans built three redundant arks under Federation direction to preserve Earth’s genetic library after Tiamat.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Arca de la Alianza - Tecnología Extraterrestre - Información de Yazhi Swaruu (Pléyades)](https://swaruu.org/transcripts/arca-de-la-alianza-tecnologia-extraterrestre-informacion-de-yazhi-swaruu-pleyades) (2021-06-02; es); passages p0018, p0020, p0022, p0071. [Structured record](../../records/src-9524a72ff653.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Taygetans](taygetans.md).
+
+### src-9524a72ff653-c02
+
+She gives intended locations Giza, Alt-Ur and Taygetan custody, then names a U.S. DUMB, Vostok and her ship. She marks some recovery details as uncertain.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Arca de la Alianza - Tecnología Extraterrestre - Información de Yazhi Swaruu (Pléyades)](https://swaruu.org/transcripts/arca-de-la-alianza-tecnologia-extraterrestre-informacion-de-yazhi-swaruu-pleyades) (2021-06-02; es); passages p0010, p0022. [Structured record](../../records/src-9524a72ff653.json).
+
+Related topics: [Deep underground military bases](deep-underground-military-bases.md), [Taygetans](taygetans.md).
+
+### src-9524a72ff653-c03
+
+Yazhi describes the arks as AI-defended devices that read identity through DNA and frequency.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Arca de la Alianza - Tecnología Extraterrestre - Información de Yazhi Swaruu (Pléyades)](https://swaruu.org/transcripts/arca-de-la-alianza-tecnologia-extraterrestre-informacion-de-yazhi-swaruu-pleyades) (2021-06-02; es); passages p0030, p0031, p0163, p0165. [Structured record](../../records/src-9524a72ff653.json).
+
+Related topics: [Sentient starship AI](sentient-starship-ai.md).
+
+### src-9524a72ff653-c04
+
+She says ark samples can restore species by imprinting genetic data into cells or lab-grown embryos.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Arca de la Alianza - Tecnología Extraterrestre - Información de Yazhi Swaruu (Pléyades)](https://swaruu.org/transcripts/arca-de-la-alianza-tecnologia-extraterrestre-informacion-de-yazhi-swaruu-pleyades) (2021-06-02; es); passages p0147, p0148, p0149, p0151. [Structured record](../../records/src-9524a72ff653.json).
+
+Related topics: [Planetary DNA Arks](planetary-dna-arks.md).
+
+### src-9524a72ff653-c05
+
+She says Karistus controls the Russian ark and Taygeta the other surviving one.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Arca de la Alianza - Tecnología Extraterrestre - Información de Yazhi Swaruu (Pléyades)](https://swaruu.org/transcripts/arca-de-la-alianza-tecnologia-extraterrestre-informacion-de-yazhi-swaruu-pleyades) (2021-06-02; es); passages p0181, p0183. [Structured record](../../records/src-9524a72ff653.json).
+
+Related topics: [Karistus](karistus.md), [Taygetans](taygetans.md).
+
 ## Review flags
 
 - ark-locations-and-status
+- ark-status-uncertainty
+- biological-restoration-technology
+- earth-ark-location-claims

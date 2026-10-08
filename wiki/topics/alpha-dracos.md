@@ -6,6 +6,12 @@ Aliases: Alpha Draconians
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Alpha Draconians](alpha-draconians.md)
+
 ## Collected claims
 
 Primary assertions are filed under the linked topics below.

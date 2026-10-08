@@ -1,0 +1,11 @@
+{
+  "source_id": "src-0a8abe9de1b2",
+  "snapshot_sha256": "e3ea9be7c198816113f4bc45a19054ef14894d442fd5be9f33aafac0f495f06c",
+  "language": "es",
+  "claims": [
+    {"id":"src-0a8abe9de1b2-c01","assertion":"Swaruu X (Athena) characterizes the Ukraine conflict as beginning as an internal civil war before NATO became involved.","speaker":"Swaruu X (Athena)","paragraph_ids":["p0004","p0023","p0025"],"primary_topic":"ukraine","topics":["ukraine"],"modality":"asserted","confidence":"high","qualifiers":"This is her account of the conflict's origins."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["contested-geopolitical-history"],
+  "coverage_gaps": ["territorial-and-civilian-claims-omitted", "current-war-assessments-omitted"]
+}

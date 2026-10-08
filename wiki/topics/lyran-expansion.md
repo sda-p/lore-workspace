@@ -196,6 +196,34 @@ Source: [Anéeka habla de la lengua Taygeteana - \*\*SIN VIDEO\*\*](https://swar
 
 Related topics: [Reptilians](reptilians.md), [Taygetans](taygetans.md).
 
+### src-d886f4bf6787-c01
+
+Anéeka says two planets orbiting Vega are central to Lyran history and humanlike expansion, though other species cite Triangulum origins.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA ESTRELLA VEGA LAS RAZAS LLAMADAS LYRIANAS ANÉEKA DE TEMMER](https://swaruu.org/transcripts/la-estrella-vega-las-razas-llamadas-lyrianas-aneeka-de-temmer) (2020-11-15; es); passages p0002, p0003. [Structured record](../../records/src-d886f4bf6787.json).
+
+Related topics: [Alien species and distinctions](alien-species.md), [Triangulum portal](triangulum.md).
+
+### src-f692b0750026-c03
+
+She describes humans as a Lyran-derived biological suit enabling multiple species to share an Earth experience.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica - Buenos o Malos? Su Manejo de la Tierra (Comunicación Extraterrestre-Pléyades)](https://swaruu.org/transcripts/federacion-galactica-buenos-o-malos-su-manejo-de-la-tierra-comunicacion-extraterrestre-pleyades) (2021-06-25; es); passages p0110, p0111. [Structured record](../../records/src-f692b0750026.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-4b86c5c36df0-c02
+
+Yazhi says Evas and Adanes later merged into modern Homo sapiens, displacing a proto-Lyrian Neanderthal population.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guerras de Orión - PARTE 5 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-batalla-antigua-la-rebelion-del-jardin-del-eden-las-guerras-de-orion-parte-5-sin-video) (2021-05-29; es); passages p0015. [Structured record](../../records/src-4b86c5c36df0.json).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c08](stellar-navigation.md#src-03f88504384a-c08) — Stellar navigation
@@ -219,11 +247,14 @@ Related topics: [Reptilians](reptilians.md), [Taygetans](taygetans.md).
 - [src-a02207051534-c02](orion-wars.md#src-a02207051534-c02) — Orion Wars
 - [src-a02207051534-c03](atlantis-lemuria.md#src-a02207051534-c03) — Atlantis and Lemuria
 - [src-848430840164-c02](taygetans.md#src-848430840164-c02) — Taygetans
+- [src-29ae7cdf0163-c01](galactic-federation.md#src-29ae7cdf0163-c01) — Galactic Federation
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
+- Alternative ancient-history narrative; no independent corroboration in source.
 - Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
+- Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
@@ -237,11 +268,15 @@ Related topics: [Reptilians](reptilians.md), [Taygetans](taygetans.md).
 - density-morality-qualification
 - extraordinary\_history\_claims
 - extraterrestrial-claims
+- federation-level-claims-attributed
 - federation-role-variation
 - historical-conspiracy-claims-attributed
 - human-origin-model
 - intra-source-policy-tension
+- multiple-lyrian-origin-traditions
+- nonlinear-human-origin-model
 - nonstandard-biology-claims
+- pandemic-claims-excluded
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - simulation-and-AI-claims
 - solar-system-history-attributed

@@ -18,6 +18,15 @@ Source: [LAS PLEYADES – SISTEMA ESTELAR JOVEN - PROYECTO SETI - ANÉEKA DE TEM
 
 Related topics: [Gravity harmonics](gravity-harmonics.md).
 
+### src-e6f92afe177d-c05
+
+Swaruu X describes long-range internet relayed through Muon, human satellites, and Federation-controlled servers.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu Responde Preguntas del Publico en Vivo - TEXTO SOLAMENTE](https://swaruu.org/transcripts/athena-swaruu-responde-preguntas-del-publico-en-vivo-texto-solamente) (2021-11-07; es); passages p0050, p0051. [Structured record](../../records/src-e6f92afe177d.json).
+
 ## Review flags
 
+- Meteor-intervention and Earth-consciousness claims are source-attributed.
 - attributed-seti-military-purpose-claim

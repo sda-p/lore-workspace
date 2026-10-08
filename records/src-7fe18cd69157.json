@@ -1,0 +1,52 @@
+{
+  "source_id": "src-7fe18cd69157",
+  "snapshot_sha256": "cd9f5e852721e15429664ccacfb2f02a289ace38ec89f24a164b8841e84d84ee",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says lower-astral entities seek starseeds’ creative energy by provoking fear; maintaining high frequency makes a person less useful to them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed to Mari’s metaphysical account.",
+      "id": "src-7fe18cd69157-c01"
+    },
+    {
+      "assertion": "Mari says these entities may manipulate relatives, friends, or coworkers to trigger negative emotions; she advises resolving conflicts or distancing from persistent antagonists.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She notes individual cases vary.",
+      "id": "src-7fe18cd69157-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "direct-technology-attacks-omitted"
+  ]
+}

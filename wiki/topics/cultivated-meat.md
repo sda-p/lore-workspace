@@ -40,6 +40,7 @@ Source: [Extraterrestrial races and Humans - Intercultural Exchanges in Interste
 
 - [src-7ec4f5ba6415-c03](economics.md#src-7ec4f5ba6415-c03) — Economics and resources
 - [src-d75dca329107-c04](urmah.md#src-d75dca329107-c04) — Urmah
+- [src-a962ed4b5139-c03](taygetan-ecosystems.md#src-a962ed4b5139-c03) — Taygetan ecosystems
 
 ## Review flags
 

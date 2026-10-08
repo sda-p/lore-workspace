@@ -1,0 +1,88 @@
+{
+  "source_id": "src-9c291a69384d",
+  "snapshot_sha256": "0f6fac9233ddc8952ac0d85d911480f97311ee3baaa5958ccb22bf8546a38887",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9c291a69384d-c01",
+      "assertion": "Yazhi says she teleports through trance, altered time perception, and destination visualization, arriving instantly; carrying cargo exhausts her.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0046",
+        "p0048",
+        "p0085",
+        "p0088"
+      ],
+      "primary_topic": "teleportation",
+      "topics": [
+        "teleportation",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c291a69384d-c02",
+      "assertion": "Yazhi says wall-phasing shifts her perceived density, causing matter to repel rather than trap her.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0024",
+        "p0027"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "teleportation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9c291a69384d-c03",
+      "assertion": "Yazhi reports transporting objects and plants; living plants cling to her field, once trapping her in a thorn bush.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0135",
+        "p0136",
+        "p0140"
+      ],
+      "primary_topic": "teleportation",
+      "topics": [
+        "teleportation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She had not tried animals or people."
+    },
+    {
+      "id": "src-9c291a69384d-c04",
+      "assertion": "Yazhi describes temporal jumps to remembered places, including revisiting a detailed childhood setting and meeting her younger self.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0144",
+        "p0148",
+        "p0150",
+        "p0156"
+      ],
+      "primary_topic": "teleportation",
+      "topics": [
+        "teleportation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "frequency-and-consciousness model",
+    "training practice",
+    "teleportation limits"
+  ]
+}

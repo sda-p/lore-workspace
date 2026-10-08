@@ -1,0 +1,56 @@
+{
+  "source_id": "src-d719aa2d7aad",
+  "snapshot_sha256": "bdf5a115bcc62fccb31f3087b01fd80bed9971a99bbc51fc6d408cf81374cf02",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Athena says incarnated partners are compatible variants of a shared higher consciousness, not necessarily a fixed exclusive pair; different variants may retain different past-life memories.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0010",
+        "p0012",
+        "p0015",
+        "p0017",
+        "p0025",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "soulmates",
+      "topics": [
+        "soulmates",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-d719aa2d7aad-c01"
+    },
+    {
+      "assertion": "Athena says attachments can sustain repetitive reincarnation loops; releasing them dissolves the loop, while unremembered lives may conceal its causes and constrain perceived agency.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0044",
+        "p0045",
+        "p0046",
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-d719aa2d7aad-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

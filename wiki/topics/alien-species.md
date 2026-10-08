@@ -3348,6 +3348,74 @@ Source: [Las personas son seres espirituales teniendo una experiencia física - 
 
 Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 
+### src-4209c9213382-c02
+
+Yazhi says humans live about one-tenth as long as other Lyrian races.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA IDEA ES QUE ESTÉ CONTENIDA LA CIVILIZACIÓN HUMANA - EXOPOLITICA - YAZHI SWARUU](https://swaruu.org/transcripts/la-idea-es-que-este-contenida-la-civilizacion-humana-exopolitica-yazhi-swaruu) (2021-08-10; es); passages p0006, p0007. [Structured record](../../records/src-4209c9213382.json).
+
+### src-dc304babfddc-c03
+
+Anéeka says sulfuric atmospheres may host advanced silicon-based, insectoid or mollusk-like beings with exoskeletons; she describes them as mutually respectful but poorly compatible. She says the societies do not understand each other well.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Procionianos - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/procionianos-sin-video) (2021-02-24; es); passages p0016, p0018, p0020, p0021. [Structured record](../../records/src-dc304babfddc.json).
+
+### src-a11e19988b9a-c05
+
+She says Rh− marks neither starseed nor Reptilian identity, though Reptilians are Rh− and affinity may be higher.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [GRUPOS SANGUÍNEOS - RH - LOS SENTIDOS Y ÓRGANOS INTERNOS - LA RAZA TAYGETEANA \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/grupos-sanguineos-rh-los-sentidos-y-organos-internos-la-raza-taygeteana-sin-video) (2021-02-28; es); passages p0028, p0029, p0030, p0031. [Structured record](../../records/src-a11e19988b9a.json).
+
+Related topics: [Taygetans](taygetans.md), [Reptilians](reptilians.md).
+
+### src-4a65be032f34-c02
+
+She confirms humans have one-tenth Lyran lifespans, alongside discussion of longevity, wisdom, and 5D awareness.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ASCENSIÓN PLANETARIA – SEMILLAS ESTELARES – EL GRAN EVENTO YAZHI SWARUU](https://swaruu.org/transcripts/ascension-planetaria-semillas-estelares-el-gran-evento-yazhi-swaruu) (2021-04-04; es); passages p0006, p0007. [Structured record](../../records/src-4a65be032f34.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-74df7085bcef-c02
+
+Anéeka describes human bodies as shared biological suits used by multiple distinct races.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-creacion-del-cabal-reptiles-y-manifestaciones-humanas) (2021-10-10; es); passages p0004. [Structured record](../../records/src-74df7085bcef.json).
+
+### src-4b86c5c36df0-c05
+
+Yazhi names Taygeteans, Engan, Arcturians, Reptilians, and Maitré among involved groups; Andromedans reportedly observed.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guerras de Orión - PARTE 5 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-batalla-antigua-la-rebelion-del-jardin-del-eden-las-guerras-de-orion-parte-5-sin-video) (2021-05-29; es); passages p0031, p0032. [Structured record](../../records/src-4b86c5c36df0.json).
+
+### src-e6f92afe177d-c01
+
+Swaruu X says beings across densities coexist as human vessels or astral forms, some inspiring or whispering to people.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu Responde Preguntas del Publico en Vivo - TEXTO SOLAMENTE](https://swaruu.org/transcripts/athena-swaruu-responde-preguntas-del-publico-en-vivo-texto-solamente) (2021-11-07; es); passages p0004. [Structured record](../../records/src-e6f92afe177d.json).
+
+### src-ef24a86c3200-c04
+
+She characterizes humanity as a secondary, mentally modified species based on Lyrian biology.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/mujer-extraterrestre-me-habla-de-exopolitica-para-adultos-aneeka-de-temmer) (2021-08-29; es); passages p0030. [Structured record](../../records/src-ef24a86c3200.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -3563,12 +3631,28 @@ Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 - [src-3901bf7c1489-c01](naki-bideetaaii.md#src-3901bf7c1489-c01) — Naki bide’taa’ii
 - [src-68b07316b2f9-c03](galactic-federation.md#src-68b07316b2f9-c03) — Galactic Federation
 - [src-89c87eaf0e6d-c02](consciousness-metaphysics.md#src-89c87eaf0e6d-c02) — Consciousness and metaphysics
+- [src-aac42554ceb6-c02](tulpas.md#src-aac42554ceb6-c02) — Tulpas
+- [src-8a02bd099c08-c02](moon-matrix.md#src-8a02bd099c08-c02) — Moon and terrestrial Matrix
+- [src-a0cc26df9e0c-c02](elohim.md#src-a0cc26df9e0c-c02) — Elohim groups
+- [src-a11e19988b9a-c01](taygetans.md#src-a11e19988b9a-c01) — Taygetans
+- [src-a11e19988b9a-c03](taygetans.md#src-a11e19988b9a-c03) — Taygetans
+- [src-a11e19988b9a-c04](taygetans.md#src-a11e19988b9a-c04) — Taygetans
+- [src-3c4f875317e3-c01](total-immersion-simulations.md#src-3c4f875317e3-c01) — Total-immersion simulations
+- [src-3c4f875317e3-c05](moon-matrix.md#src-3c4f875317e3-c05) — Moon and terrestrial Matrix
+- [src-791b660d5229-c03](consciousness-metaphysics.md#src-791b660d5229-c03) — Consciousness and metaphysics
+- [src-d886f4bf6787-c01](lyran-expansion.md#src-d886f4bf6787-c01) — Lyran expansion
+- [src-f692b0750026-c03](lyran-expansion.md#src-f692b0750026-c03) — Lyran expansion
+- [src-1e6c72c7fff5-c01](galactic-federation.md#src-1e6c72c7fff5-c01) — Galactic Federation
+- [src-cf34095b8042-c02](galactic-federation.md#src-cf34095b8042-c02) — Galactic Federation
+- [src-7e10fbdcd1c5-c04](mars.md#src-7e10fbdcd1c5-c04) — Mars
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - 3d\_5d\_dna\_comparison
 - Alcohol claims and spiritual effects are Mari’s assertions; avoid generalizing to all Alfratans
+- Alternative ancient-history narrative; no independent corroboration in source.
+- Anéeka says Reptilian exploitation is partial, not a complete account of Earth events.
 - Australian-traffic-purpose-unknown
 - Billy\_Meier\_photo\_authenticity\_uncertain
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
@@ -3579,7 +3663,9 @@ Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 - Higher-level free-will explanation is challenged by Gosia
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Maitre\_relationship\_with\_Reptilians
+- Meteor-intervention and Earth-consciousness claims are source-attributed.
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
+- Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Proposed intervention remains conditional and internally qualified
 - Species summaries are broad and based on accounts attributed to orbital sources
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
@@ -3593,6 +3679,7 @@ Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 - ai-clone-claims-attributed
 - alternate-interpretation-of-ancient-texts-attributed
 - alternative-biology-claim
+- ancient-history-reinterpretation
 - ancient-solar-system-density-and-polity-claims
 - approximate-age-estimate
 - approximate\_dates
@@ -3644,6 +3731,7 @@ Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 - egregor-vs-species-levels
 - emotion-and-integration-doctrine-attributed
 - entertainment-disclaimer
+- exopolitical-faction-claims
 - extraordinary-contact-claims
 - extraordinary\_ai\_claims
 - extraordinary\_archaeological\_claims
@@ -3667,9 +3755,12 @@ Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 - factional\_viewpoint\_conflict
 - false-invasion-not-prediction
 - fauna\_and\_ecology\_claims
+- federation-level-claims-attributed
 - federation-level-perspective-difference
+- federation-noninterference-tension
 - federation-purpose-disputed
 - federation-role-speaker-contrast
+- federation-role:uncertain-human-propaganda-vs-permissive-oversight
 - federation\_control\_claims\_unverified
 - federation\_dispute
 - fence-control-theory-unconfirmed
@@ -3689,6 +3780,7 @@ Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 - historical-interpretation
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
+- human-civilization-containment-claim
 - human-gravity-design-claim
 - human-origin-model
 - humanomorph-is-source-specific-term
@@ -3719,19 +3811,24 @@ Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 - medical\_claims\_unverified
 - memory-suppression-imperfect
 - metaphysical-claims
+- metaphysical-collective-reality-model
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
 - miranda-no-bases-versus-other-moon-bases
+- multiple-lyrian-origin-traditions
 - multiple\_futures\_claim
 - name-variant-review
 - named\_government\_and\_secret\_base\_claims
 - nanotechnology-claims
+- nonhuman-human-boundary-claims
+- nonlinear-human-origin-model
 - nonstandard-biology-claims
 - nonstandard-genetics-claims
 - nonstandard-planetary-model
 - occult\_claims
 - ontological-scope-varies
 - paleontology\_claims\_unverified
+- pandemic-claims-excluded
 - pandemic-control-claims
 - personal-reflection-not-taygetan-report
 - personal\_advice
@@ -3740,12 +3837,16 @@ Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 - political-allegation
 - politically\_contested
 - population-control-allegations
+- procyon-proceon-name-distinction
+- pyramid-portal-claims
 - quoted-speaker-attribution:NaiShara-quotes-Yazhi
+- reincarnation-and-catholic-control-claim
 - reincarnation-model-metaphysical
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
 - reported\_plan
 - reptile-race-vs-egregor-distinction
+- rh-negative-identity-caveat
 - same-language-near-duplicate-src-735f991fe169
 - scenario-not-prediction
 - security-claims-attributed
@@ -3769,10 +3870,12 @@ Related topics: [Taygetans](taygetans.md), [Andromedans](andromedans.md).
 - species-emotional-ranges-attributed
 - species-labels-uncertain
 - species-origin-model-attributed
+- species-taxonomy-ambiguous
 - species-taxonomy-contradiction
 - species-threat-description
 - species-trait-generalizations-attributed
 - species\_specific\_reproduction
+- speculative-biology-and-blood-group-claims
 - starlink-observation-scope-ambiguity
 - suffering\_causality
 - technology\_claims

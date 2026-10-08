@@ -56,6 +56,36 @@ Source: [Llamarada Solar - Olas Galácticas - Anéeka y Dale Harder (Pléyades -
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-5f6db4196608-c01
+
+Yazhi attributes iron’s protective effect to retaining an organism’s original frequency, which she says hinders astral entities from imposing their frequency or establishing possession. This is her metaphysical model.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Hierro - Bajos Niveles - Porque? Agenda Covid - 5G - Hierro Protege contra Entidades Astrales Negativas August 20th, 2021](https://swaruu.org/transcripts/hierro-bajos-niveles-porque-agenda-covid-5g-hierro-protege-contra-entidades-astrales-negativas-augus) (2021-08-20; es); passages p0022, p0023, p0028. [Structured record](../../records/src-5f6db4196608.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c0e9038718b3-c02
+
+She describes nested toroidal shields that disperse impacts and grow stronger as incoming energy feeds them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Escudos de Energía - Ingeniería y Navegación de Naves Espaciales-Yazhi con Dale Harder (Pleyades)](https://swaruu.org/transcripts/escudos-de-energia-ingenieria-y-navegacion-de-naves-espaciales-yazhi-con-dale-harder-pleyades) (2021-03-09; es); passages p0011, p0018, p0020, p0066. [Structured record](../../records/src-c0e9038718b3.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-c0e9038718b3-c04
+
+She says shield harmonics must be changed because attackers can disrupt them with an opposing frequency sequence.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Escudos de Energía - Ingeniería y Navegación de Naves Espaciales-Yazhi con Dale Harder (Pleyades)](https://swaruu.org/transcripts/escudos-de-energia-ingenieria-y-navegacion-de-naves-espaciales-yazhi-con-dale-harder-pleyades) (2021-03-09; es); passages p0098, p0100, p0108. [Structured record](../../records/src-c0e9038718b3.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-8a20bf02262a-c04](hashmallim.md#src-8a20bf02262a-c04) — Hashmallim
@@ -69,7 +99,11 @@ Related topics: [Starship systems](starship-systems.md).
 ## Review flags
 
 - astral-perception-and-protection-claims
+- frequency-navigation-model
+- high-content-overlap-with-src-9b7bf8d19d78
 - matrix-technology-attributed
 - military-claims\_attributed
 - nanotechnology-claim-in-vaccine-context
+- polymorphic-alloy-claims
+- shield-mechanics-claims
 - source-speaker-shift-dhor-to-yazhi

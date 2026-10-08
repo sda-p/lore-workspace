@@ -1,0 +1,105 @@
+{
+  "source_id": "src-f47ad5f1276b",
+  "snapshot_sha256": "b412eb22d0cc2e1995a5d0bf4c65b6632662d157f0007f76e9dfae93f27a7023",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f47ad5f1276b-c01",
+      "assertion": "Athena describes Ether as a universal high-frequency potential-energy field with fluid-like flow; she identifies gravity with its flow and denies separate material and spiritual realms.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0009",
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f47ad5f1276b-c02",
+      "assertion": "She says consciousness generates perceived time and distance; starship computers map energetic frequencies rather than physical locations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0024",
+        "p0030",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f47ad5f1276b-c03",
+      "assertion": "Athena says computers direct magnetic motors or tractor beams to alter Matrix values; insertion requires resonant links to the receiving field.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0036",
+        "p0064",
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "matrix-energy-insertion",
+      "topics": [
+        "matrix-energy-insertion",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f47ad5f1276b-c04",
+      "assertion": "She says 5D-to-3D insertion requires a local rationale, normalizing the imported object within 3D and obscuring its origin.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0068",
+        "p0069",
+        "p0070",
+        "p0072",
+        "p0074"
+      ],
+      "primary_topic": "matrix-energy-insertion",
+      "topics": [
+        "matrix-energy-insertion",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "matrix-energy-insertion",
+      "name": "Matrix energy insertion",
+      "kind": "technology",
+      "aliases": [
+        "inserting matter into the Matrix",
+        "frequency-engine insertion"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "toroidal vortex model of matter",
+    "nonlocal time and free will",
+    "observer-relative density structure"
+  ]
+}

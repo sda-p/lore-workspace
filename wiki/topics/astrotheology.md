@@ -256,6 +256,82 @@ Source: [Existo Realmente JESÚS DE NAZARET - ASTROTEOLOGÍA - Swaruu de Erra](h
 
 Related topics: [Flavian Jesus narrative](flavian-jesus-claim.md).
 
+### src-d53c3bf86f18-c02
+
+She describes “Lion’s Gate” as coded symbolism for summer’s Leo onset, not an August 8 or galactic-new-year portal; she says a real portal opens near the summer solstice. These are her interpretations of the named event and portal.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [EL \#KARMA EL PORTAL DE LA PUERTA DEL LEÓN EL AÑO NUEVO \#GALÁCTICO ATHENA \#SWARUU](https://swaruu.org/transcripts/el-karma-el-portal-de-la-puerta-del-leon-el-ano-nuevo-galactico-athena-swaruu) (2021-08-18; es); passages p0040, p0042, p0047, p0051, p0053. [Structured record](../../records/src-d53c3bf86f18.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-f3ee24d30a02-c01
+
+Swaruu interprets Egypt’s Virgo new year and Leo year-end as the zodiac symbolism behind the Sphinx.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Jesús (Parte 3) - Astroteología - Zodiaco y Culto Solar - Swaruu de Erra (Contacto Extraterrestre)](https://swaruu.org/transcripts/jesus-parte-3-astroteologia-zodiaco-y-culto-solar-swaruu-de-erra-contacto-extraterrestre) (2021-02-21; es); passages p0017, p0018, p0020. [Structured record](../../records/src-f3ee24d30a02.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
+### src-f3ee24d30a02-c02
+
+She identifies Horus as a solar figure and treats Jesus narratives as solar and zodiacal symbolism.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Jesús (Parte 3) - Astroteología - Zodiaco y Culto Solar - Swaruu de Erra (Contacto Extraterrestre)](https://swaruu.org/transcripts/jesus-parte-3-astroteologia-zodiaco-y-culto-solar-swaruu-de-erra-contacto-extraterrestre) (2021-02-21; es); passages p0023, p0024, p0031, p0072, p0079. [Structured record](../../records/src-f3ee24d30a02.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
+### src-f3ee24d30a02-c03
+
+Swaruu links the cross to equinoxes and twelve zodiac signs, with winter solstice myths describing solar death and rebirth.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Jesús (Parte 3) - Astroteología - Zodiaco y Culto Solar - Swaruu de Erra (Contacto Extraterrestre)](https://swaruu.org/transcripts/jesus-parte-3-astroteologia-zodiaco-y-culto-solar-swaruu-de-erra-contacto-extraterrestre) (2021-02-21; es); passages p0044, p0046, p0052, p0058. [Structured record](../../records/src-f3ee24d30a02.json).
+
+### src-f3ee24d30a02-c04
+
+She says Roman authorities shaped and compiled Gospel narratives under Vespasian and Constantine.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Jesús (Parte 3) - Astroteología - Zodiaco y Culto Solar - Swaruu de Erra (Contacto Extraterrestre)](https://swaruu.org/transcripts/jesus-parte-3-astroteologia-zodiaco-y-culto-solar-swaruu-de-erra-contacto-extraterrestre) (2021-02-21; es); passages p0089, p0091, p0101, p0103. [Structured record](../../records/src-f3ee24d30a02.json).
+
+### src-6221e4d4f8ff-c01
+
+Swaruu alleges the Flavian rulers reshaped existing regional religions into Christianity and Judaism as Roman population-control tools. Her alternative-history account.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Jesús - Quien Era? Existió? Titus y Vespasiano - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/jesus-quien-era-existio-titus-y-vespasiano-swaruu-de-erra-comunicacion-extraterrestre) (2021-02-03; es); passages p0039, p0041, p0042, p0044, p0063. [Structured record](../../records/src-6221e4d4f8ff.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Ancient Egypt](ancient-egypt.md).
+
+### src-71496b122bfb-c04
+
+She says Jesus narratives combine astrological and pagan motifs with altered episodes from Titus’s military campaigns.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Arsinoe (Hermana de Cleopatra) y María Magdalena - Historia que No Has Escuchado (Swaruu de Erra)](https://swaruu.org/transcripts/arsinoe-hermana-de-cleopatra-y-maria-magdalena-historia-que-no-has-escuchado-swaruu-de-erra) (2021-03-04; es); passages p0081, p0082. [Structured record](../../records/src-71496b122bfb.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-e62c02d313c5-c04
+
+Swaruu portrays organized religion as spirituality weaponized to make populations defer to external authority.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [Jesús (Parte 2) - Manipulación de las Masas - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/jesus-mecanismo-de-control-de-masas-swaruu-de-erra-taygeta-pleyades) (2021-02-19; es); passages p0059, p0060, p0066, p0068. [Structured record](../../records/src-e62c02d313c5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-8889af167782-c03](natural-portals.md#src-8889af167782-c03) — Natural and artificial portals
@@ -274,18 +350,23 @@ Related topics: [Flavian Jesus narrative](flavian-jesus-claim.md).
 - [src-35ef7583ec87-c01](flavian-jesus-claim.md#src-35ef7583ec87-c01) — Flavian Jesus narrative
 - [src-35ef7583ec87-c03](flavian-jesus-claim.md#src-35ef7583ec87-c03) — Flavian Jesus narrative
 - [src-35ef7583ec87-c06](flavian-jesus-claim.md#src-35ef7583ec87-c06) — Flavian Jesus narrative
+- [src-71496b122bfb-c01](arsinoe-magdalene.md#src-71496b122bfb-c01) — Arsinoe–Mary Magdalene
+- [src-e62c02d313c5-c03](stellar-navigation.md#src-e62c02d313c5-c03) — Stellar navigation
 
 ## Review flags
 
 - No English translation counterpart identified; this source contains sweeping counter-historical claims, preserved here only as Swaruu’s attributed lore.
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - alternate-interpretation-of-ancient-texts-attributed
+- alternative-history-claims-attributed
 - astronomical-claims-unverified
+- astronomical-symbolism-claims
 - conspiracy\_claims
 - definition\_varies
 - disputed-scriptural-history
 - extraordinary-contact-claims
 - extraordinary\_astronomical\_claims
+- highly-contested-history-claims-attributed
 - historical-doctrine-origin-claim
 - historical-uncertainty
 - ideological-commentary
@@ -294,6 +375,9 @@ Related topics: [Flavian Jesus narrative](flavian-jesus-claim.md).
 - pluto-classification-esoteric-claim
 - postmortem-perception-and-reincarnation-model
 - related\_series\_part
+- religious-history-reinterpretation
+- secret-society-name-uncertain
+- source distinguishes historical nonexistence in this timeline from a belief-generated egregore
 - speaker-attribution-inferred-from-robert-transcript
 - speaker-perspective-model
 - symbolic\_interpretations

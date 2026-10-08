@@ -1,0 +1,81 @@
+{
+  "source_id": "src-8d4ade03c4a5",
+  "snapshot_sha256": "f8bb43db290da1caaf14b47c1d359d2e855400eb6b49ebc4779783515cf62680",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8d4ade03c4a5-c01",
+      "assertion": "Yazhi says ships reach interstellar destinations by modulating craft and contents, using frequency maps rather than long-distance travel.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0034"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d4ade03c4a5-c02",
+      "assertion": "Yazhi says portal technology reverses starship travel: the machine stays put while its payload passes through an energy vortex.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d4ade03c4a5-c03",
+      "assertion": "Yazhi’s no-locality model treats distance and time as observer-dependent ideas, with all locations contained in consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0035"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d4ade03c4a5-c04",
+      "assertion": "Yazhi links remote viewing to shifting mental frequency and refusing distance or barriers as real.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "No-locality is presented as an empirically used navigation principle and a metaphysical model."
+  ],
+  "coverage_gaps": [
+    "frequency-discordance syndrome",
+    "light-speed claims",
+    "subjective timeline claims"
+  ]
+}

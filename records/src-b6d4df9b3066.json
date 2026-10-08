@@ -1,0 +1,87 @@
+{
+  "source_id": "src-b6d4df9b3066",
+  "snapshot_sha256": "3db61f1a5308dd840b37aa019a5a3c5f149f25a678b0c3758d59cc9e9ef00691",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b6d4df9b3066-c01",
+      "assertion": "Anéeka says the Matrix’s shared perceptual agreements set rules that can limit abilities such as telepathy or faster-than-light travel.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6d4df9b3066-c02",
+      "assertion": "Athena says time depends on consciousness; Temmer’s day equals nearly five Earth days, with measured galactic drift reaching 4.7–4.8:1 by 2021.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0024",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6d4df9b3066-c03",
+      "assertion": "Anéeka says ship gravity comes from a high-frequency electromagnetic field set to 0.8g for Lyrian bodies, rather than centrifugal force.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0075",
+        "p0078",
+        "p0080",
+        "p0084"
+      ],
+      "primary_topic": "gravitic-generators",
+      "topics": [
+        "gravitic-generators",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b6d4df9b3066-c04",
+      "assertion": "Anéeka says muon-gravitational signals can traverse any distance but affect only brains concordant with the signal.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0091",
+        "p0092",
+        "p0093"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "gravity–mass and Earth interior model",
+    "collective consciousness and Schumann resonance",
+    "gravity and frequency navigation"
+  ]
+}

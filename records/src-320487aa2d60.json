@@ -1,0 +1,11 @@
+{
+  "source_id": "src-320487aa2d60",
+  "snapshot_sha256": "bb234f834112fe120dd95085fa25a48f30914c709ab4ce22427786d23e8dd708",
+  "language": "es",
+  "claims": [
+    {"id":"src-320487aa2d60-c01","assertion":"Mari Swaruu describes a soul as a cluster of concepts held by consciousness; death dissolves body-based perceptual agreements and returns identity to the wider spiritual realm.","speaker":"Mari Swaruu","paragraph_ids":["p0013","p0015","p0016","p0018"],"primary_topic":"postmortem-realities","topics":["postmortem-realities","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"She frames death as a return to the Source, not loss of identity."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["postmortem-metaphysics"],
+  "coverage_gaps": ["physical-body-reflection-model-omitted", "self-care-advice-omitted"]
+}

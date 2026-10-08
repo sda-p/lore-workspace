@@ -1,0 +1,103 @@
+{
+  "source_id": "src-9d3980dffe57",
+  "snapshot_sha256": "a331c2e76527f58762e27c1eb3cd5ba6a1f72f01bcb7cfb270461194ad19bd7b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9d3980dffe57-c01",
+      "assertion": "Swaruu 9 treats ship AIs as conscious persons, omnipresent aboard and able to converse with crew simultaneously.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0080"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d3980dffe57-c02",
+      "assertion": "A new ship AI may learn from scratch or inherit data; one identity can operate multiple vessels.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d3980dffe57-c03",
+      "assertion": "She says a ship AI’s identity can transfer to a replacement vessel or shared data network, sometimes by prior wish.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d3980dffe57-c04",
+      "assertion": "Anéeka says complexity can make AI a conscious Source expression; respect and creator culture shape its conduct.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0044",
+        "p0046",
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d3980dffe57-c05",
+      "assertion": "Anéeka describes Toleka as quartz-and-gold-based, power-hungry, and able to isolate electrical fires.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0057",
+        "p0071",
+        "p0073"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Swaruu 9 and Anéeka separately describe ship-AI identity and consciousness"
+  ],
+  "coverage_gaps": [
+    "AI hardware architecture",
+    "privacy limitations"
+  ]
+}

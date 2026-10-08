@@ -1,0 +1,79 @@
+{
+  "source_id": "src-1dc8eadf6766",
+  "snapshot_sha256": "1d3edb9e2801dca02610c630ce7af774667396008f5ce36df672fe857f8bc7ca",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1dc8eadf6766-c01",
+      "assertion": "Anéeka describes the Great Logos as a Federation holographic library; Yenas of Alcyone guard it physically and on higher planes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "higher-federation-councils",
+      "topics": [
+        "higher-federation-councils",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1dc8eadf6766-c02",
+      "assertion": "She places its core on Alcyone and identifies Viera as the local Federation capital, with another in Saturn.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1dc8eadf6766-c03",
+      "assertion": "Anéeka says Jupiter belongs to Karistus, which has poor relations with the Federation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "karistus",
+      "topics": [
+        "karistus"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1dc8eadf6766-c04",
+      "assertion": "She says a large Federation underground base near Mercury’s north pole was inhabited while still under construction.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0058"
+      ],
+      "primary_topic": "mercury",
+      "topics": [
+        "mercury",
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "lore-claims-attributed-to-Aneeka"
+  ],
+  "coverage_gaps": [
+    "remote-governance",
+    "planetary-systems"
+  ]
+}

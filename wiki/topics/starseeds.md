@@ -6,6 +6,12 @@ Aliases: None recorded
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Starseed guides](starseed-guides.md)
+
 ## Collected claims
 
 ### src-99cac8b36f12-c03
@@ -218,6 +224,74 @@ Source: [CONVERTIRTE EN UNA SEMILLA ESTELAR- ANÉEKA DE TEMMER](https://swaruu.o
 
 Related topics: [Total-immersion simulations](total-immersion-simulations.md).
 
+### src-2aeaa7622c61-c01
+
+Yazhi says starseeds need not form a numerical majority to change reality; focused, united groups can shape a shared collective. She says one starseed may have a large effect.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares - Que Debemos Hacer Ahora? Conversacion con Yazhi Swaruu - Niña Extraterrestre](https://swaruu.org/transcripts/semillas-estelares-que-debemos-hacer-ahora-conversacion-con-yazhi-swaruu-nina-extraterrestre) (2021-09-07; es); passages p0016, p0021, p0023, p0030. [Structured record](../../records/src-2aeaa7622c61.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-a01b8e851bc2-c02
+
+She says species monitor especially conscious starseeds and may guide them with direct information or telepathic downloads, depending on their life plans.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LAS FRECUENCIAS DE LAS PERSONAS AURA - ESPECTRÓMETRO ALMICO - descargas telepáticas - ANEEKA](https://swaruu.org/transcripts/las-frecuencias-de-las-personas-aura-espectrometro-almico-descargas-telepaticas-aneeka) (2020-11-05; es); passages p0004, p0005. [Structured record](../../records/src-a01b8e851bc2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4a65be032f34-c03
+
+Robert says humans are ETs experiencing human lives; Yazhi links starseeds to reincarnation, challenging Catholic afterlife doctrine.
+
+Attributed to **Robert; Yazhi**; asserted; extraction confidence: high.
+
+Source: [ASCENSIÓN PLANETARIA – SEMILLAS ESTELARES – EL GRAN EVENTO YAZHI SWARUU](https://swaruu.org/transcripts/ascension-planetaria-semillas-estelares-el-gran-evento-yazhi-swaruu) (2021-04-04; es); passages p0014, p0015, p0017, p0018. [Structured record](../../records/src-4a65be032f34.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-d3e73f956099-c02
+
+She says conscious, technology-assisted Earth immersion has no regulator; entrants bear responsibility and may consult elders. She distinguishes this from other incarnations.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pleyades - Taygeta - Preguntas del Público para Anéeka de Temmer (Contacto Extraterrestre)](https://swaruu.org/transcripts/pleyades-taygeta-preguntas-del-publico-para-aneeka-de-temmer-contacto-extraterrestre) (2020-11-11; es); passages p0063, p0064, p0068. [Structured record](../../records/src-d3e73f956099.json).
+
+Related topics: [Total-immersion simulations](total-immersion-simulations.md).
+
+### src-78ab0bda1cd0-c03
+
+Yazhi says expanded beings may return as starseeds or guides when seeking further experience. Her model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Podemos Ser Libres en Mas Alla si Otros Sufren? Yazhi Swaruu - Comunicación Extraterrestre](https://swaruu.org/transcripts/podemos-ser-libres-en-mas-alla-si-otros-sufren-yazhi-swaruu-comunicacion-extraterrestre) (2021-02-26; es); passages p0054, p0055, p0056. [Structured record](../../records/src-78ab0bda1cd0.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-2a6863e625a6-c03
+
+Yazhi identifies positive tulpa-egregors chiefly with starseeds and also describes helpful collective and spirit forms.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [La Terrible \#Batalla en EL MUNDO ASTRAL - \#Metafisica - \#Yazhi - Sophia \#Swaruu XII \#Exopolitica](https://swaruu.org/transcripts/la-terrible-batalla-en-el-mundo-astral-metafisica-yazhi-sophia-swaruu-xii-exopolitica) (2021-10-15; es); passages p0032, p0033, p0034. [Structured record](../../records/src-2a6863e625a6.json).
+
+### src-9ac9cc0d3fef-c02
+
+Anéeka says extraterrestrial allies mainly guide starseeds and influence society through ideas, while humans must take responsibility for Earth’s problems. She rejects waiting passively for outside rescue.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA FEDERACIÓN GALÁCTICA DE AMOR Y LUZ – ANEEKA DE TEMMER - SEMILLAS ESTELARES \#Exopolitica](https://swaruu.org/transcripts/la-federacion-galactica-de-amor-y-luz-aneeka-de-temmer-semillas-estelares-exopolitica) (2021-10-17; es); passages p0008, p0012, p0021, p0023, p0027. [Structured record](../../records/src-9ac9cc0d3fef.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-10009bbe55a5-c01](lyran-expansion.md#src-10009bbe55a5-c01) — Lyran expansion
@@ -230,10 +304,14 @@ Related topics: [Total-immersion simulations](total-immersion-simulations.md).
 - [src-aa6e0d670c42-c04](earth-cabal.md#src-aa6e0d670c42-c04) — Earth Cabal and power structures
 - [src-1b04c8518bf7-c02](reincarnation-cycles.md#src-1b04c8518bf7-c02) — Reincarnation and karmic cycles
 - [src-22febda7e5c0-c04](higher-federation-councils.md#src-22febda7e5c0-c04) — Higher Federation councils
+- [src-a01b8e851bc2-c01](aura-spectrometry.md#src-a01b8e851bc2-c01) — Aura spectrometry
+- [src-f692b0750026-c04](galactic-federation.md#src-f692b0750026-c04) — Galactic Federation
 
 ## Review flags
 
+- Source also contains unextracted real-world political and health claims.
 - agenda21-assertion
+- collective-self-perspective-attributed
 - contested-chromosome-and-ability-claims
 - contested-genetic-surveillance-claim
 - contested-vaccine-technology-allegations
@@ -242,15 +320,21 @@ Related topics: [Total-immersion simulations](total-immersion-simulations.md).
 - disability-spiritualization
 - factional-claims-attributed
 - federation-control-allegations-versus-collective-consent-model
+- federation-intervention:influence-without-rescue
+- federation-level-claims-attributed
 - federation-role-variation
 - higher-and-human-conflict-levels-distinguished
+- human-civilization-containment-claim
 - human-gravity-design-claim
 - human-origin-model
 - humanomorph-is-source-specific-term
 - incarnation-and-extraction-claims
 - intra-source-policy-tension
+- medical-and-abduction-claims-excluded
 - medical-causation-claims
 - nonstandard-genetics-claims
+- pandemic-claims-excluded
+- reincarnation-and-catholic-control-claim
 - related-starseed-material-overlap
 - starseed-identity-and-mission-attributed
 - translation-counterpart: src-d0398aec7731; close full translation; similar-title source src-ba29b281f533 is a distinct later essay

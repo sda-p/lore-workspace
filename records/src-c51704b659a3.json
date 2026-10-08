@@ -1,0 +1,95 @@
+{
+  "source_id": "src-c51704b659a3",
+  "snapshot_sha256": "903a71b72ca75aad0daa8acd52a237a3a77f29af30179b3c7717a2932ae59f5c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c51704b659a3-c01",
+      "assertion": "Swaruu 9 interprets Ishtar as bearing symbols of eternal life and temporal control.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c51704b659a3-c02",
+      "assertion": "She reads Ishtar’s wings as flight and achievement, while flanking owls signify wormhole portals.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c51704b659a3-c03",
+      "assertion": "Swaruu says Ishtar’s nine head-serpents represent Pleiades stars and wisdom; serpents signify ships or DNA, not Reptilians.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0008",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c51704b659a3-c04",
+      "assertion": "She says Ishtar’s hand-held objects are ship controls governing life.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c51704b659a3-c05",
+      "assertion": "Swaruu interprets Osiris as “all-seeing” and says the eye sees through a ship.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "symbolic-interpretation-attributed-to-Swaruu9",
+    "two-sphinx-vs-two-kingdom-symbolism"
+  ],
+  "coverage_gaps": [
+    "Egyptian-calendar-symbolism"
+  ]
+}

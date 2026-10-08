@@ -1,0 +1,95 @@
+{
+  "source_id": "src-e62c02d313c5",
+  "snapshot_sha256": "168ead45ae76fd9dd7d923c5d557bf2ad6aea914d3a7ff832963aea301d8447c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e62c02d313c5-c01",
+      "assertion": "Swaruu says no historical Jesus appears in this timeline, framing the figure as a Flavian Roman fabrication for population control.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0024",
+        "p0025",
+        "p0028"
+      ],
+      "primary_topic": "flavian-jesus-claim",
+      "topics": [
+        "flavian-jesus-claim",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e62c02d313c5-c02",
+      "assertion": "Swaruu says collective belief can form a Jesus egregore that feels real to believers, without proving historical existence.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0040",
+        "p0046",
+        "p0074",
+        "p0082"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "flavian-jesus-claim",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e62c02d313c5-c03",
+      "assertion": "Swaruu says religious cosmology limits faster-than-light navigation because frequency-based ship systems emulate the pilot’s consciousness.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0050",
+        "p0052",
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "astrotheology",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e62c02d313c5-c04",
+      "assertion": "Swaruu portrays organized religion as spirituality weaponized to make populations defer to external authority.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0059",
+        "p0060",
+        "p0066",
+        "p0068"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source distinguishes historical nonexistence in this timeline from a belief-generated egregore"
+  ],
+  "coverage_gaps": [
+    "Roman political chronology",
+    "social effects and personal value of belief",
+    "religious institutional actors"
+  ]
+}

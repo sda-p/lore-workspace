@@ -1,0 +1,84 @@
+{
+  "source_id": "src-59758ad652fa",
+  "snapshot_sha256": "14559c879a218e79b6f8c291d245f33ece738095e2d8ea27042f1a9d193978f6",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Yazhi says Polaris only appears fixed because Earth’s axis points toward it; it wobbles slightly.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-59758ad652fa-c01"
+    },
+    {
+      "assertion": "Yazhi says immersive-avatar memories become the experiencer’s own; their original owner may be clear, uncertain, or impossible to identify.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-59758ad652fa-c02"
+    },
+    {
+      "assertion": "Athena says Faraday shielding must enclose all six sides; head coverings leave openings and cannot fully block electromagnetic signals.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-59758ad652fa-c03"
+    },
+    {
+      "assertion": "Yazhi attributes Roswell-area craft crashes to radar-frequency microwaves disrupting sensors and gravity control; she says Taygetan combat ships are immune.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed account.",
+      "id": "src-59758ad652fa-c04"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other-multitopic-sections-omitted"
+  ]
+}

@@ -1,11 +1,187 @@
 {
-  "checked_at": "2026-10-08T17:10:43+00:00",
+  "checked_at": "2026-10-08T17:56:36+00:00",
   "collisions": [
+    {
+      "normalized_label": "alphadraconians",
+      "topic_ids": [
+        "alpha-draconians",
+        "alpha-dracos"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "alphadracos",
+      "topic_ids": [
+        "alpha-draconians",
+        "alpha-dracos"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "arsinoeiv",
+      "topic_ids": [
+        "arsinoe-iv",
+        "arsinoe-magdalene"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "bigfoot",
+      "topic_ids": [
+        "bigfoot-sasquatch",
+        "sasquatch"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "elohi",
+      "topic_ids": [
+        "elohi",
+        "elohim"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "elohim",
+      "topic_ids": [
+        "elohi",
+        "elohim"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "exogen",
+      "topic_ids": [
+        "exo-gen",
+        "exo-gen-signals"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "exogensignals",
+      "topic_ids": [
+        "exo-gen",
+        "exo-gen-signals"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "gardeners",
+      "topic_ids": [
+        "grey-gardeners",
+        "zeta-reticuli-gardeners"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "gwentowers",
+      "topic_ids": [
+        "5g-electromagnetic-weapons",
+        "gwen-towers"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "marymagdalene",
+      "topic_ids": [
+        "arsinoe-magdalene",
+        "mary-magdalene"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "menk",
+      "topic_ids": [
+        "bigfoot-sasquatch",
+        "sasquatch"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "moghyay",
+      "topic_ids": [
+        "mogh-yay",
+        "moghyay"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "planetarydnaarks",
+      "topic_ids": [
+        "earth-dna-arks",
+        "planetary-dna-arks"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "reptilians",
+      "topic_ids": [
+        "reptilian-invaders",
+        "reptilians"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "rx111ab",
+      "topic_ids": [
+        "black-raven-uav",
+        "black-raven-uavs"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "sasquatch",
+      "topic_ids": [
+        "bigfoot-sasquatch",
+        "sasquatch"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "starseeds",
+      "topic_ids": [
+        "starseed-guides",
+        "starseeds"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "sumeriantablets",
+      "topic_ids": [
+        "sumerian-tablet-interpretations",
+        "sumerian-tablets"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
     {
       "normalized_label": "sunspotportals",
       "topic_ids": [
         "solar-portal-transit",
         "sunspot-portals"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "taygetanflightsuits",
+      "topic_ids": [
+        "smart-flight-suits",
+        "taygetan-flight-suits"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "taygetanlanguage",
+      "topic_ids": [
+        "taygetan-holographic-language",
+        "taygetan-language"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "yeti",
+      "topic_ids": [
+        "bigfoot-sasquatch",
+        "sasquatch"
       ],
       "status": "overlap-awaiting-reconciliation"
     }

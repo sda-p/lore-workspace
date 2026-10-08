@@ -66,6 +66,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-bdc9959237c9-c04](galactic-federation.md#src-bdc9959237c9-c04) — Galactic Federation
 - [src-89c87eaf0e6d-c02](consciousness-metaphysics.md#src-89c87eaf0e6d-c02) — Consciousness and metaphysics
 - [src-89c87eaf0e6d-c03](alien-species.md#src-89c87eaf0e6d-c03) — Alien species and distinctions
+- [src-56668c63592b-c01](galactic-federation.md#src-56668c63592b-c01) — Galactic Federation
 
 ## Review flags
 

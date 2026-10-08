@@ -1,0 +1,53 @@
+{
+  "source_id": "src-792d96d276c2",
+  "snapshot_sha256": "9ef57710ff340bfad8b01b45db803a7fb81e36a33d9c7fd706a9b64226e48493",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Za’el says perceptions and densities shape what people consider sensible; people can modify, create, or dissolve shared agreements by discussing differing viewpoints.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed to Za’el’s model.",
+      "id": "src-792d96d276c2-c01"
+    },
+    {
+      "assertion": "Za’el says repeated discouragement can reinforce unconscious beliefs and a disappointment loop; changing shared reality rules is difficult, requiring patience, study, and persistence.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as Za’el’s advice and metaphysical account.",
+      "id": "src-792d96d276c2-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "motivational-examples-omitted"
+  ]
+}

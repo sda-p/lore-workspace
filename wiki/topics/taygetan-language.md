@@ -6,6 +6,12 @@ Aliases: Taygetan speech
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Taygetan holographic language](taygetan-holographic-language.md)
+
 ## Collected claims
 
 ### src-829579bed3c5-c04

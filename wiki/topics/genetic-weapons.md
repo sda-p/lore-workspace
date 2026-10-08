@@ -38,11 +38,22 @@ Source: [Clones, Almas Artificiales, Inteligencia Artificial y Chips: Mensaje Pl
 
 Related topics: [DNA and metaphysical patterns](dna-metaphysics.md), [Total-immersion simulations](total-immersion-simulations.md).
 
+### src-da49b1ecdb2a-c03
+
+Anéeka claims remotely altered genes could create a new human species with body and mind traits selected by controllers. These are her allegations, not established findings.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vacunas y Nanotecnología - Respuestas de Aneeka a las preguntas de dr Alex y otras](https://swaruu.org/transcripts/vacunas-y-nanotecnologia-respuestas-de-aneeka-a-las-preguntas-de-dr-alex-y-otras) (2021-11-08; es); passages p0046, p0047, p0048, p0051, p0052. [Structured record](../../records/src-da49b1ecdb2a.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
 ## Claims filed under other topics
 
 - [src-b4123d146ba9-c01](dna-metaphysics.md#src-b4123d146ba9-c01) — DNA and metaphysical patterns
 - [src-a49c04fc44dc-c04](human-clones.md#src-a49c04fc44dc-c04) — Human clones and manufactured persons
 - [src-8a805d3bcc25-c04](taygetans.md#src-8a805d3bcc25-c04) — Taygetans
+- [src-da49b1ecdb2a-c01](vaccine-inoculation-claims.md#src-da49b1ecdb2a-c01) — Inoculation and genetic alteration claims
 
 ## Review flags
 
@@ -50,3 +61,5 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md), [Total-imme
 - Senetre-diagnosed-weapon-route-suspected
 - claims-attributed-to-source-narrators
 - clone-technology-attributed
+- medical-claims:unverified
+- nanotech-mechanism:remote-activation

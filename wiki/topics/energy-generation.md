@@ -728,6 +728,24 @@ Source: [Energía Punto Cero - Energía Libre - Espiritualidad y Conciencia - Es
 
 Related topics: [Ether field](ether-field.md).
 
+### src-220efa38c406-c03
+
+Yázhi says base-12 toroidal mathematics balances material and etheric flows to enable self-sustaining zero-point energy. Her proposed model.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Tecnologia Extraterrestre: Reactores Punto Cero a Base de Nucleo de Cristales - Yazhi y Dale Harder](https://swaruu.org/transcripts/tecnologia-extraterrestre-reactores-punto-cero-a-base-de-nucleo-de-cristales-yazhi-y-dale-harder) (2021-04-02; es); passages p0055, p0057, p0059, p0060, p0097, p0112, p0114. [Structured record](../../records/src-220efa38c406.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md), [Crystal-core zero-point reactors](crystal-core-zero-point-reactors.md).
+
+### src-3f3c87a05939-c04
+
+Yázhi says a captive stellar reactor yields electricity through induction and heat conversion; heat is a ship concern.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Tecnología Extraterrestre - Cristales y Reactores Punto Zero - Parte Final - Yazhi con Dale Harder](https://swaruu.org/transcripts/tecnologia-extraterrestre-cristales-y-reactores-punto-zero-parte-final-yazhi-con-dale-harder) (2021-04-07; es); passages p0064, p0065, p0069. [Structured record](../../records/src-3f3c87a05939.json).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -793,22 +811,36 @@ Related topics: [Ether field](ether-field.md).
 - [src-61a0b9a71122-c02](starship-systems.md#src-61a0b9a71122-c02) — Starship systems
 - [src-44f7a105a538-c02](ether-field.md#src-44f7a105a538-c02) — Ether field
 - [src-18ebdb1cca3c-c02](earth-cabal.md#src-18ebdb1cca3c-c02) — Earth Cabal and power structures
+- [src-8a02bd099c08-c03](moon-matrix.md#src-8a02bd099c08-c03) — Moon and terrestrial Matrix
+- [src-a0cc26df9e0c-c05](pyramid-network.md#src-a0cc26df9e0c-c05) — Pyramid energy and portal network
+- [src-25df1865ec2d-c02](pyramid-network.md#src-25df1865ec2d-c02) — Pyramid energy and portal network
+- [src-25df1865ec2d-c03](pyramid-network.md#src-25df1865ec2d-c03) — Pyramid energy and portal network
+- [src-c0e9038718b3-c01](smart-flight-suits.md#src-c0e9038718b3-c01) — Smart flight suits
+- [src-c0e9038718b3-c03](starship-systems.md#src-c0e9038718b3-c03) — Starship systems
+- [src-0df30c50e267-c02](taygetan-base-12-mathematics.md#src-0df30c50e267-c02) — Taygetan Base-12 Mathematics
+- [src-10e30f8707ef-c04](taygetan-ecosystems.md#src-10e30f8707ef-c04) — Taygetan ecosystems
+- [src-6ee50082e97e-c02](starship-systems.md#src-6ee50082e97e-c02) — Starship systems
+- [src-220efa38c406-c04](crystal-core-zero-point-reactors.md#src-220efa38c406-c04) — Crystal-core zero-point reactors
 
 ## Review flags
 
 - Compared English candidate src-622099cec238; article substantially matches but has paragraph segmentation/translation differences.
+- Core technology described as extraterrestrial; source offers no engineering measurements.
 - EMP-intervention-field-unknown
+- ISS-and-station-fabrication-allegation
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - aircraft-identity-ambiguity
 - alternative-weapons-claims
+- ancient-history-reinterpretation
 - ancient-site-claims-attributed
 - ancient-texts-as-racial-symbolism-attributed
 - apollo-denial-claims
 - author-signature-attribution
 - biology-claim
 - climate-claims
+- conflicting-pyramid-dates
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
 - conspiracy\_claims
@@ -818,6 +850,7 @@ Related topics: [Ether field](ether-field.md).
 - directed-energy-attack-claims
 - earth\_science\_claims\_unverified
 - entertainment-disclaimer
+- ether-field-model
 - extraordinary\_astronomical\_claims
 - extraordinary\_civilization\_claims
 - extraordinary\_economic\_claims
@@ -828,6 +861,8 @@ Related topics: [Ether field](ether-field.md).
 - extraordinary\_technology\_claims
 - federation\_dispute
 - flight-19-explanation-uncertain
+- frequency-navigation-model
+- giza-base-account
 - giza-underground-base-claim
 - historical and technological interpretations are attributed to Athena
 - historical-claims-unverified
@@ -844,16 +879,25 @@ Related topics: [Ether field](ether-field.md).
 - nonstandard-planetary-model
 - nuclear\_science\_misinformation
 - pandemic-timeline-claims
+- polymorphic-alloy-claims
 - portal-technology-claims-unverified
 - prior\_statement\_conflict
 - pyramid-age-and-function-unverified
+- pyramid-portal-claims
+- pyramid-technology-claims
+- quantum-mechanics-reinterpretation
+- reactor-mechanism-attributed
 - reported\_plan
 - same-language-near-duplicate-src-7872bc2f2c04
 - second-contact-stoppage-attributed-to-yazhi
 - segmentation-diff
+- shield-mechanics-claims
 - source-mixed-origin-en-reactor-and-spanish-engine-sections
+- spaceflight-science-misinformation-claims
 - speaker-header-diff
 - species-description\_attributed
+- species-taxonomy-ambiguous
+- speculative-ecosystem-biology
 - starlink-observation-scope-ambiguity
 - suzy-thrust-rating-variant-review
 - taygetan-society-claims-attributed
@@ -879,3 +923,4 @@ Related topics: [Ether field](ether-field.md).
 - vaccine-nanotech-claim-model-tested-only
 - wartime-conspiracy-claims
 - yemen-portal-claim
+- zero-point-watercraft-technology

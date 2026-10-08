@@ -68,14 +68,47 @@ Source: [EL VERDADERO SIGNIFICADO DE COVID-19 – Significa una operación Milit
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-7a1af96e9fb5-c01
+
+Yazhi frames this as perception warfare, using deception and planted clues against audiences.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Arte de la Guerra- Trump, Alianza, Sombreros Blancos, Inauguración, Arrestos-Opinion de Yazhi Swaruu](https://swaruu.org/transcripts/arte-de-la-guerra-trump-alianza-sombreros-blancos-inauguracion-arrestos-opinion-de-yazhi-swaruu) (2021-01-21; es); passages p0004, p0005, p0006, p0008. [Structured record](../../records/src-7a1af96e9fb5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-7a1af96e9fb5-c03
+
+She separates Trump’s observable acts from QAnon narratives, which she says lack evidence.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Arte de la Guerra- Trump, Alianza, Sombreros Blancos, Inauguración, Arrestos-Opinion de Yazhi Swaruu](https://swaruu.org/transcripts/arte-de-la-guerra-trump-alianza-sombreros-blancos-inauguracion-arrestos-opinion-de-yazhi-swaruu) (2021-01-21; es); passages p0012, p0013, p0014, p0029. [Structured record](../../records/src-7a1af96e9fb5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-7a1af96e9fb5-c04
+
+She speculates private operations might later be edited or staged publicly for legitimacy.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Arte de la Guerra- Trump, Alianza, Sombreros Blancos, Inauguración, Arrestos-Opinion de Yazhi Swaruu](https://swaruu.org/transcripts/arte-de-la-guerra-trump-alianza-sombreros-blancos-inauguracion-arrestos-opinion-de-yazhi-swaruu) (2021-01-21; es); passages p0018, p0019, p0021, p0026, p0031, p0033. [Structured record](../../records/src-7a1af96e9fb5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-ad9dbfd43650-c01](earth-cabal.md#src-ad9dbfd43650-c01) — Earth Cabal and power structures
+- [src-7a1af96e9fb5-c05](earth-cabal.md#src-7a1af96e9fb5-c05) — Earth Cabal and power structures
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - attributed-political-conspiracy-claims
+- competing-cabal-scenarios
+- dated-political-predictions
 - internal-contradiction:virus-presence
 - medical-lore
 - translation-counterpart-unconfirmed

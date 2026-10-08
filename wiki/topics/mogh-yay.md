@@ -6,6 +6,12 @@ Aliases: Mogh yay, Mogh-yays
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Moghyay](moghyay.md)
+
 ## Collected claims
 
 ### src-1da40cd3aac1-c01

@@ -191,15 +191,21 @@ Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (Engl
 - [src-680909ec608a-c03](starship-systems.md#src-680909ec608a-c03) — Starship systems
 - [src-dc53d4326450-c01](taygetans.md#src-dc53d4326450-c01) — Taygetans
 - [src-7ea3539f3fa4-c01](taygetans.md#src-7ea3539f3fa4-c01) — Taygetans
+- [src-cddf1937a380-c02](sentient-starship-ai.md#src-cddf1937a380-c02) — Sentient starship AI
+- [src-cddf1937a380-c03](sentient-starship-ai.md#src-cddf1937a380-c03) — Sentient starship AI
+- [src-940f9935241e-c04](planetary-dna-arks.md#src-940f9935241e-c04) — Planetary DNA Arks
 
 ## Review flags
 
+- AI-sentience-claims
 - Alenym-retirement-not-decided
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
+- cataclysm-history-attributed
 - fleet-status\_as-reported
 - identity-uncertainty
 - narrator\_claims
+- online-AI-control-conspiracy-claims
 - serious\_allegations\_attributed
 - succession-report\_attributed
 - succession-rules\_attributed

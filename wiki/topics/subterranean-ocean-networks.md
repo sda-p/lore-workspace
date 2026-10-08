@@ -24,6 +24,10 @@ Attributed to **Yazhi**; reported; extraction confidence: medium.
 
 Source: [BERMUDA TRIANGLE - YAZHI \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/bermuda-triangle-yazhi) (2020-09-23; en); passages p0002, p0003, p0004. [Structured record](../../records/src-529014e2b199.json).
 
+## Claims filed under other topics
+
+- [src-5c6ca52aaabd-c02](intraterrestrial-civilizations.md#src-5c6ca52aaabd-c02) — Intraterrestrial civilizations
+
 ## Review flags
 
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic

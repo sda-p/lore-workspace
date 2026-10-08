@@ -34,6 +34,66 @@ Source: [ACTUALIZACIÓN PLANETARIA 2020 - 5G NO ES UN ANCHO DE BANDA DE TELECOMU
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+### src-8ed812c6e261-c01
+
+The Toleka laboratory report claims graphene-like particles can activate in living tissue and respond to programmed electromagnetic frequencies.
+
+Attributed to **Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el**; reported; extraction confidence: high.
+
+Source: [Vacunas - Informe de Laboratorio de Taygeta - Tecnología No-Humana Transhumanista](https://swaruu.org/transcripts/vacunas-informe-de-laboratorio-de-taygeta-tecnologia-no-humana-transhumanista) (2021-10-28; es); passages p0004, p0005, p0006, p0022, p0028, p0030. [Structured record](../../records/src-8ed812c6e261.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-8ed812c6e261-c03
+
+It claims remote signals can regulate these particles, transmit biological data, and alter neural activity.
+
+Attributed to **Toleka laboratory report by Anéeka, Senetre, and Dhor Kaal’el**; reported; extraction confidence: high.
+
+Source: [Vacunas - Informe de Laboratorio de Taygeta - Tecnología No-Humana Transhumanista](https://swaruu.org/transcripts/vacunas-informe-de-laboratorio-de-taygeta-tecnologia-no-humana-transhumanista) (2021-10-28; es); passages p0036, p0047, p0049. [Structured record](../../records/src-8ed812c6e261.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-ca31fe5ca6c3-c01
+
+Anéeka says lab samples contained encoded RNA in nonhuman nanographene, made by frequency replication.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Nueva Analisis - Vacunas - Pruebas Analizadas - Aneeka de Temmer comparte los descubrimientos](https://swaruu.org/transcripts/nueva-analisis-vacunas-pruebas-analizadas-aneeka-de-temmer-comparte-los-descubrimientos) (2021-10-15; es); passages p0013, p0015, p0016. [Structured record](../../records/src-ca31fe5ca6c3.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-ca31fe5ca6c3-c02
+
+She says nanographene could enter cells and replace DNA using RNA payloads.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Nueva Analisis - Vacunas - Pruebas Analizadas - Aneeka de Temmer comparte los descubrimientos](https://swaruu.org/transcripts/nueva-analisis-vacunas-pruebas-analizadas-aneeka-de-temmer-comparte-los-descubrimientos) (2021-10-15; es); passages p0017, p0019, p0020. [Structured record](../../records/src-ca31fe5ca6c3.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-ca31fe5ca6c3-c03
+
+She says microwave activation was planned; nanobot replication remained uncertain and limited.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Nueva Analisis - Vacunas - Pruebas Analizadas - Aneeka de Temmer comparte los descubrimientos](https://swaruu.org/transcripts/nueva-analisis-vacunas-pruebas-analizadas-aneeka-de-temmer-comparte-los-descubrimientos) (2021-10-15; es); passages p0038, p0039, p0065, p0067. [Structured record](../../records/src-ca31fe5ca6c3.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
+### src-da49b1ecdb2a-c02
+
+She says graphene serves as polymorphic nanotech whose structure can change; electromagnetic pulses only temporarily interrupt its operation. She calls the effect temporary.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Vacunas y Nanotecnología - Respuestas de Aneeka a las preguntas de dr Alex y otras](https://swaruu.org/transcripts/vacunas-y-nanotecnologia-respuestas-de-aneeka-a-las-preguntas-de-dr-alex-y-otras) (2021-11-08; es); passages p0038, p0039, p0040, p0055, p0058, p0059. [Structured record](../../records/src-da49b1ecdb2a.json).
+
+Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
+
 ## Claims filed under other topics
 
 - [src-d7432fcef312-c02](black-goo.md#src-d7432fcef312-c02) — Black goo
@@ -41,12 +101,31 @@ Related topics: [Terrestrial science](terrestrial-science.md).
 - [src-4ce32a647c50-c05](vaccine-inoculation-claims.md#src-4ce32a647c50-c05) — Inoculation and genetic alteration claims
 - [src-632cb43a7536-c02](terrestrial-science.md#src-632cb43a7536-c02) — Terrestrial science
 - [src-632cb43a7536-c03](vaccine-inoculation-claims.md#src-632cb43a7536-c03) — Inoculation and genetic alteration claims
+- [src-d2225df469c1-c02](ahcs-computers.md#src-d2225df469c1-c02) — Advanced Holographic Computer Systems (AHCS)
+- [src-c0e9038718b3-c05](starship-systems.md#src-c0e9038718b3-c05) — Starship systems
+- [src-8ed812c6e261-c02](vaccine-inoculation-claims.md#src-8ed812c6e261-c02) — Inoculation and genetic alteration claims
+- [src-8ed812c6e261-c04](vaccine-inoculation-claims.md#src-8ed812c6e261-c04) — Inoculation and genetic alteration claims
+- [src-8ed812c6e261-c05](vaccine-inoculation-claims.md#src-8ed812c6e261-c05) — Inoculation and genetic alteration claims
+- [src-ca31fe5ca6c3-c04](galactic-federation.md#src-ca31fe5ca6c3-c04) — Galactic Federation
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - attributed-medical-conspiracy-claims
+- document-caveat-incomplete-data
+- forecast-limitations
+- frequency-navigation-model
+- medical-claims:unverified
+- medical-conspiracy-claims
 - medical-lore
+- medical-misinformation-claims
+- nanotech-mechanism:remote-activation
 - nanotechnology-claim-in-vaccine-context
+- nonhuman-lab-report
+- polymorphic-alloy-claims
+- quantum-computing-claims
+- sentient-ai-ethics
+- shield-mechanics-claims
 - translation-counterpart-unconfirmed
+- unverified-nonhuman-intervention-narrative
 - vaccine-and-pandemic-claims-excluded

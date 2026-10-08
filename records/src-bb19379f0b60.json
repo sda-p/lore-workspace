@@ -1,0 +1,87 @@
+{
+  "source_id": "src-bb19379f0b60",
+  "snapshot_sha256": "a2b50c040d5e67078a1c908ad652dfccfdb41134bae57ad1d7d4f35187972e34",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bb19379f0b60-c01",
+      "assertion": "Athena says humanity can be both victimized by circumstances and collectively responsible for outcomes, depending on perspective.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb19379f0b60-c02",
+      "assertion": "She says collective social dynamics can drag conscious minorities into outcomes they reject.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0020",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb19379f0b60-c03",
+      "assertion": "Athena argues external rescue can reproduce self-generated problems, comparing self-resolution to learning to fish.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bb19379f0b60-c04",
+      "assertion": "She says people should study broadly and build their own reality framework rather than delegate judgment.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "perspective-dependent-responsibility"
+  ],
+  "coverage_gaps": [
+    "specific intervention policies",
+    "collective mechanisms"
+  ]
+}

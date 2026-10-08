@@ -207,6 +207,15 @@
       "origin": "continuous-014 extractor4 comparison",
       "status": "retain-variants",
       "comparison_note": "Alternate Spanish versions use differing descriptors for hospital staff (regressive versus aggressive). Retain source wording distinctions."
+    },
+    {
+      "source_ids": [
+        "src-2d6710ddd4d1",
+        "src-1917bcf83880"
+      ],
+      "origin": "continuous-018 extractor1 full comparison",
+      "status": "retain-variants",
+      "comparison_note": "Spanish snapshots substantially overlap on synthetic telepathy, ship interfaces, Federation restrictions and beam limits. The first adds a Costa Rica 2011 voice anecdote and differs in passage grouping."
     }
   ]
 }

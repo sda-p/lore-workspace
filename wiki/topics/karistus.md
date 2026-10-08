@@ -62,8 +62,27 @@ Source: [Armas en el Espacio - Karistus-Anunnaki -COHETE SPACE X – ANEEKA DE T
 
 Related topics: [Vlash, Vlad and Vrill clans](vlash-vlad-vrill-clans.md), [Maitre](maitre.md), [Taygetans](taygetans.md).
 
+### src-c190fb308eb0-c01
+
+Anéeka says Karistus claim Earth as their former home and regard humanlike spacefarers as Karistus. She attributes this to Karistus belief.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [EXTRATERRESTRES RECLAMAN LA TIERRA - EXOPOLITICA - MUJER EXTRATERRESTRE -ANEEKA DE TEMMER](https://swaruu.org/transcripts/extraterrestres-reclaman-la-tierra-exopolitica-mujer-extraterrestre-aneeka-de-temmer) (2021-07-29; es); passages p0003, p0004, p0005. [Structured record](../../records/src-c190fb308eb0.json).
+
+Related topics: [Lyrians](lyrians.md).
+
+## Claims filed under other topics
+
+- [src-9524a72ff653-c05](earth-dna-arks.md#src-9524a72ff653-c05) — Earth DNA Arks
+- [src-c190fb308eb0-c02](galactic-federation.md#src-c190fb308eb0-c02) — Galactic Federation
+
 ## Review flags
 
 - Compared English translation candidate src-a2a5bfc5daf9 and Spanish version src-f94fd5d77808; bodies closely align with paragraph shifts and added explanatory material in English.
 - ancient-solar-system-density-and-polity-claims
+- ark-status-uncertainty
+- biological-restoration-technology
+- earth-ark-location-claims
 - faction-taxonomy-and-levels-attributed
+- human-agency-model:external-control-and-human-authorship

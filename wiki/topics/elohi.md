@@ -6,6 +6,12 @@ Aliases: Elohim
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Elohim groups](elohim.md)
+
 ## Collected claims
 
 ### src-2a1b375479ef-c04

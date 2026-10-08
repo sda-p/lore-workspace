@@ -18,6 +18,12 @@ Source: [Existo Realmente JESÚS DE NAZARET - ASTROTEOLOGÍA - Swaruu de Erra](h
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+## Claims filed under other topics
+
+- [src-6221e4d4f8ff-c04](earth-cabal.md#src-6221e4d4f8ff-c04) — Earth Cabal and power structures
+
 ## Review flags
 
+- highly-contested-history-claims-attributed
+- secret-society-name-uncertain
 - translation-counterpart:src-476c3db82f6f-partial-overlap; English adds religious attachment and egregor discussion

@@ -1,0 +1,93 @@
+{
+  "source_id": "src-6d8ed766cc58",
+  "snapshot_sha256": "54a78605d3eb95261ce32575e3255eb080e4015e4fdaffa0e123acc031402f0e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6d8ed766cc58-c01",
+      "assertion": "Yazhi says the Andromeda and Alcyone councils group allied races; their higher councils represent them in Federation councils within jurisdiction.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "higher-federation-councils",
+      "topics": [
+        "higher-federation-councils",
+        "andromeda-council",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d8ed766cc58-c02",
+      "assertion": "She says negative alien alliances exist, but Earth’s versions are humanized and distorted by its collective unconscious, producing race-specific egregores.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "tulpas",
+      "topics": [
+        "tulpas",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d8ed766cc58-c03",
+      "assertion": "Yazhi says Lyra-based nonhuman brains lack a physical cortical split, enabling efficient cross-hemisphere communication and a different experiential reality.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "lyran-unified-brain",
+      "topics": [
+        "lyran-unified-brain"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d8ed766cc58-c04",
+      "assertion": "Athena identifies CIC as a ship’s intelligence department within Taygetan Intelligence (IT).",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "taygetan-cic",
+      "topics": [
+        "taygetan-cic"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "lyran-unified-brain",
+      "name": "Lyra-based unified brain",
+      "kind": "species biology",
+      "aliases": [
+        "cerebro unificado de Lyra",
+        "unified nonhuman brain"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "CIA-infiltration-claims-omitted",
+    "collective-human-reality-details"
+  ]
+}

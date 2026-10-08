@@ -105,14 +105,17 @@ Source: [Space News, 29, June 24, 2024, Hurricane in Temmer, Fluffy Cotton in th
 - [src-f6a0faeb1f8f-c02](taygetans.md#src-f6a0faeb1f8f-c02) — Taygetans
 - [src-3e85a1ca7a28-c01](human-clones.md#src-3e85a1ca7a28-c01) — Human clones and manufactured persons
 - [src-3e85a1ca7a28-c04](human-clones.md#src-3e85a1ca7a28-c04) — Human clones and manufactured persons
+- [src-ba1c5a843ad1-c02](immersion-pods.md#src-ba1c5a843ad1-c02) — Immersion pods
 
 ## Review flags
 
 - Alenym-retirement-not-decided
 - Senetre-diagnosed-weapon-route-suspected
 - clone-technology-attributed
+- immersion-metaphysics-claims
 - medical-claims-unverified
 - nonhuman-technology\_claims\_attributed
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
+- pod-failure-outcomes
 - population-control-allegations
 - technology\_claims

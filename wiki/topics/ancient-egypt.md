@@ -252,6 +252,34 @@ Source: [Existio realmente Jesus - Arsinoe y Cleopatra - Maria Magdalena - Ishta
 
 Related topics: [Arsinoe IV](arsinoe-iv.md).
 
+### src-6221e4d4f8ff-c02
+
+She claims Josephus served Vespasian and that Titus’s campaigns were repurposed as the narrative of Jesus. Her historical interpretation.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Jesús - Quien Era? Existió? Titus y Vespasiano - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/jesus-quien-era-existio-titus-y-vespasiano-swaruu-de-erra-comunicacion-extraterrestre) (2021-02-03; es); passages p0032, p0045, p0047, p0093, p0094, p0132. [Structured record](../../records/src-6221e4d4f8ff.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-df0b18054ec1-c02
+
+Swaruu describes pyramid-era Egypt as a multicultural spaceport where nonhuman builders encoded portal locations. Her account.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Egipto Antiguo - Simbologia - Historia Antigua - Swaruu y Dhor Káal'el (Perspectiva Extaterrestre)](https://swaruu.org/transcripts/egipto-antiguo-simbologia-historia-antigua-swaruu-y-dhor-kaal-el-perspectiva-extaterrestre) (2020-12-09; es); passages p0044, p0045, p0064. [Structured record](../../records/src-df0b18054ec1.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Solar portal transit](solar-portal-transit.md).
+
+### src-b68856d8a0e1-c03
+
+Swaruu 9 interprets the Eye of Horus as recording a ship’s portal exit, route, observation point, planet, and elliptical orbit.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Significado del Ojo de Horus - Swaruu de Erra - Portales Espacio Temporales](https://swaruu.org/transcripts/significado-del-ojo-de-horus-swaruu-de-erra-portales-espacio-temporales) (2021-03-30; es); passages p0008, p0009. [Structured record](../../records/src-b68856d8a0e1.json).
+
 ## Claims filed under other topics
 
 - [src-45ef563e0d5a-c03](prime-directive.md#src-45ef563e0d5a-c03) — Prime Directive
@@ -271,19 +299,32 @@ Related topics: [Arsinoe IV](arsinoe-iv.md).
 - [src-c7d61405393c-c02](arsinoe-iv.md#src-c7d61405393c-c02) — Arsinoe IV
 - [src-c7d61405393c-c03](arsinoe-iv.md#src-c7d61405393c-c03) — Arsinoe IV
 - [src-c7d61405393c-c04](mary-magdalene.md#src-c7d61405393c-c04) — Mary Magdalene
+- [src-a0cc26df9e0c-c01](enki-enlil-factions.md#src-a0cc26df9e0c-c01) — Enki and Enlil factions
+- [src-f3ee24d30a02-c01](astrotheology.md#src-f3ee24d30a02-c01) — Astrotheology
+- [src-f3ee24d30a02-c02](astrotheology.md#src-f3ee24d30a02-c02) — Astrotheology
+- [src-6221e4d4f8ff-c01](astrotheology.md#src-6221e4d4f8ff-c01) — Astrotheology
+- [src-71496b122bfb-c01](arsinoe-magdalene.md#src-71496b122bfb-c01) — Arsinoe–Mary Magdalene
+- [src-6e66e9328bac-c01](natural-portals.md#src-6e66e9328bac-c01) — Natural and artificial portals
+- [src-6e66e9328bac-c02](sumerian-tablet-interpretations.md#src-6e66e9328bac-c02) — Sumerian tablet interpretations
 
 ## Review flags
 
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
+- Eye of Horus interpretation is attributed to Swaruu 9.
 - Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- alternative-history-claims-attributed
+- ancient-history-reinterpretation
 - ancient-site-claims-attributed
+- ancient-symbol-interpretations-attributed
 - ark-locations-and-status
+- astronomical-symbolism-claims
 - contested-claims
 - disputed-scriptural-history
 - giza-underground-base-claim
+- highly-contested-history-claims-attributed
 - historical and technological interpretations are attributed to Athena
 - historical-claim
 - historical-date-ambiguity
@@ -291,7 +332,11 @@ Related topics: [Arsinoe IV](arsinoe-iv.md).
 - internal\_tension
 - nonstandard-physics-claims
 - pyramid-age-and-function-unverified
+- pyramid-portal-claims
+- religious-history-reinterpretation
 - reported-comparison-not-speaker-endorsement
+- secret-society-name-uncertain
 - speaker-attribution-inferred-from-robert-transcript
+- species-taxonomy-ambiguous
 - speculative-ancient-history-reconstruction
 - translated-originally-Spanish

@@ -1,0 +1,81 @@
+{
+  "source_id": "src-2d6710ddd4d1",
+  "snapshot_sha256": "4cb5c9cc91d65682302dc42099a43f59ead943c1697d77709cc49fc04a0877f1",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Athena says synthetic telepathy uses mind-range microwaves to transmit ideas, feelings, or inner voices; she says it can implant false memories and affect crowds.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0014",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "aggressive-telepathy",
+      "topics": [
+        "aggressive-telepathy",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed to Athena’s account.",
+      "id": "src-2d6710ddd4d1-c01"
+    },
+    {
+      "assertion": "Athena says ship interfaces deliver spoken in-head instructions, but Federation rules bar Taygetans from using transmitters on people; localized beams need line of sight and are detectable.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0036",
+        "p0038",
+        "p0040",
+        "p0042",
+        "p0046",
+        "p0053",
+        "p0054",
+        "p0056",
+        "p0058",
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "aggressive-telepathy",
+      "topics": [
+        "aggressive-telepathy",
+        "starship-systems",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-2d6710ddd4d1-c02"
+    },
+    {
+      "assertion": "Asked about a one-time voice Gosia heard in Costa Rica in 2011, Athena says it may have been synthetic telepathy or a paranormal event.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0047",
+        "p0049",
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "aggressive-telepathy",
+      "topics": [
+        "aggressive-telepathy",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Athena offers two possible explanations.",
+      "id": "src-2d6710ddd4d1-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "possible-near-duplicate-src-1917bcf83880"
+  ],
+  "coverage_gaps": [
+    "concert-incident-claims-omitted"
+  ]
+}

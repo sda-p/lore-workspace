@@ -2970,6 +2970,196 @@ Source: [DESCLASIFICACIÓN DEL FENÓMENO EXTRATERRESTRE CONSECUENCIAS -ANEEKA DE
 
 Related topics: [Energy generation technology](energy-generation.md), [Economics and resources](economics.md).
 
+### src-8bdab4413323-c01
+
+Yazhi describes secret power structures as compartmentalized layers, with deeper groups controlling shallower ones and limiting what each knows. She says exact participants and mechanisms are difficult to determine.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Jesuitas - Cabal - Federación - Estructura del Poder Secreto en la Tierra - PARTE 2 - Yazhi Swaruu](https://swaruu.org/transcripts/jesuitas-cabal-federacion-estructura-del-poder-secreto-en-la-tierra-parte-2-yazhi-swaruu) (2021-08-30; es); passages p0029, p0031, p0032. [Structured record](../../records/src-8bdab4413323.json).
+
+### src-3dd31a924503-c01
+
+Anéeka alleges Democrats used “The Hammer,” an Obama-commissioned intelligence and counterintelligence computer, to manipulate elections, including the 2020 vote. She presents this as intelligence from her sources.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [EXCLUSIVA MUNDIAL - PRIMICIA - ACTUALIDAD - ULTIMA HORA - EEUUA](https://swaruu.org/transcripts/exclusiva-mundial-primicia-actualidad-ultima-hora-eeuua) (2020-11-09; es); passages p0019, p0020, p0021. [Structured record](../../records/src-3dd31a924503.json).
+
+### src-e3c4c3592419-c01
+
+Yazhi portrays secret societies as layered power networks with nonhuman elements shaping Earth’s hierarchy.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA PRINCIPAL ORGANIZACION DE PODER Y CONTROL DEL MUNDO - SOPHIA SWARUU](https://swaruu.org/transcripts/la-principal-organizacion-de-poder-y-control-del-mundo-sophia-swaruu) (2021-09-11; es); passages p0003, p0004, p0005. [Structured record](../../records/src-e3c4c3592419.json).
+
+### src-e3c4c3592419-c02
+
+She says public religions simplify deeper beliefs and channel collective attention toward controllers’ preferred realities.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA PRINCIPAL ORGANIZACION DE PODER Y CONTROL DEL MUNDO - SOPHIA SWARUU](https://swaruu.org/transcripts/la-principal-organizacion-de-poder-y-control-del-mundo-sophia-swaruu) (2021-09-11; es); passages p0012, p0014, p0017. [Structured record](../../records/src-e3c4c3592419.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f2d7d797c8f4-c01
+
+Yazhi casts Vatican and Rome as visible control centers, with London and Washington directing economic and military power.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LOS ADORADORES DE SATANAS Y DUEÑOS DEL MUNDO - SOPHIA SWARUU XII -P1](https://swaruu.org/transcripts/los-adoradores-de-satanas-y-duenos-del-mundo-sophia-swaruu-xii-p1) (2021-09-01; es); passages p0002, p0003, p0009. [Structured record](../../records/src-f2d7d797c8f4.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-f2d7d797c8f4-c02
+
+She describes a compartmentalized Jesuit-Illuminati hierarchy: middle tiers trade gold; top tiers dispense with money.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LOS ADORADORES DE SATANAS Y DUEÑOS DEL MUNDO - SOPHIA SWARUU XII -P1](https://swaruu.org/transcripts/los-adoradores-de-satanas-y-duenos-del-mundo-sophia-swaruu-xii-p1) (2021-09-01; es); passages p0011, p0014, p0015. [Structured record](../../records/src-f2d7d797c8f4.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-b85ee8ec9a41-c05
+
+She says small trained groups can defeat larger forces through asymmetric warfare.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [MENSAJE A LAS SEMILLAS ESTELARES - \#YAZHI SOPHIA SWARUU - \#EXOPOLITICA](https://swaruu.org/transcripts/mensaje-a-las-semillas-estelares-yazhi-sophia-swaruu-exopolitica) (2021-09-14; es); passages p0029. [Structured record](../../records/src-b85ee8ec9a41.json).
+
+### src-7a1af96e9fb5-c02
+
+She says Trump–Biden conflict was real on the surface but directed by a hidden Saturnian Cabal.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Arte de la Guerra- Trump, Alianza, Sombreros Blancos, Inauguración, Arrestos-Opinion de Yazhi Swaruu](https://swaruu.org/transcripts/arte-de-la-guerra-trump-alianza-sombreros-blancos-inauguracion-arrestos-opinion-de-yazhi-swaruu) (2021-01-21; es); passages p0009, p0010. [Structured record](../../records/src-7a1af96e9fb5.json).
+
+Related topics: [Saturnian orbital bases](saturn-bases.md).
+
+### src-7a1af96e9fb5-c05
+
+She considers staged failure a dark-Cabal tactic to demoralize opposition.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Arte de la Guerra- Trump, Alianza, Sombreros Blancos, Inauguración, Arrestos-Opinion de Yazhi Swaruu](https://swaruu.org/transcripts/arte-de-la-guerra-trump-alianza-sombreros-blancos-inauguracion-arrestos-opinion-de-yazhi-swaruu) (2021-01-21; es); passages p0028. [Structured record](../../records/src-7a1af96e9fb5.json).
+
+Related topics: [Engineered social unrest](engineered-social-unrest.md).
+
+### src-f469530b91ab-c01
+
+Yázhi alleges Earth’s controllers consider mass elimination ecologically necessary, though they know alternatives exist.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Mensaje a los Controladores de la Tierra - Yazhi (Sophia) Swaruu - Mensaje Extraterrestre](https://swaruu.org/transcripts/mensaje-a-los-controladores-de-la-tierra-yazhi-sophia-swaruu-mensaje-extraterrestre) (2021-09-25; es); passages p0005, p0006, p0007, p0011, p0012. [Structured record](../../records/src-f469530b91ab.json).
+
+### src-791b660d5229-c04
+
+She says Cabal information control shapes UFO researchers’ narratives, contributing to human and nonhuman accounts conflicting.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [El Imperio Draconiano y La Alianza de Orion Yazhi Swaruu](https://swaruu.org/transcripts/el-imperio-draconiano-y-la-alianza-de-orion-yazhi-swaruu) (2021-07-21; es); passages p0010, p0011. [Structured record](../../records/src-791b660d5229.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-6221e4d4f8ff-c04
+
+Swaruu describes Gahonam as a hidden group behind Jesuits and high-degree Masons, directing planetary status quo from Rome. The name is phonetic and uncertain.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Jesús - Quien Era? Existió? Titus y Vespasiano - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/jesus-quien-era-existio-titus-y-vespasiano-swaruu-de-erra-comunicacion-extraterrestre) (2021-02-03; es); passages p0144, p0145, p0146, p0147. [Structured record](../../records/src-6221e4d4f8ff.json).
+
+Related topics: [Gahonam](gahonam.md).
+
+### src-87d412699e7d-c01
+
+Yazhi presents Vatican, London City, and Washington, D.C. as a control structure for spirituality, finance, and military power.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Vaticano - Jesuitas - Cabal - Federación - Estructura del Poder Secreto en la Tierra - Yazhi Swaruu](https://swaruu.org/transcripts/vaticano-jesuitas-cabal-federacion-estructura-del-poder-secreto-en-la-tierra-yazhi-swaruu) (2021-08-25; es); passages p0009. [Structured record](../../records/src-87d412699e7d.json).
+
+### src-87d412699e7d-c02
+
+Yazhi equates Jesuits and Illuminati, saying they work through compartmentalized Masonic lodges and secret societies.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Vaticano - Jesuitas - Cabal - Federación - Estructura del Poder Secreto en la Tierra - Yazhi Swaruu](https://swaruu.org/transcripts/vaticano-jesuitas-cabal-federacion-estructura-del-poder-secreto-en-la-tierra-yazhi-swaruu) (2021-08-25; es); passages p0011. [Structured record](../../records/src-87d412699e7d.json).
+
+### src-b0eb7ba14903-c01
+
+Yazhi says media control shapes public reality, making advanced technology seem impossible.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Pruebas de PCR, Nanotecnologia y Q Anon - Peligros de Pruebas PCR - Advertencia a la Humanidad - Aneeka y Yazhi](https://swaruu.org/transcripts/pruebas-de-pcr-nanotecnologia-y-q-anon-peligros-de-pruebas-pcr-advertencia-a-la-humanidad-aneeka-y-y) (2021-02-13; es); passages p0009, p0010. [Structured record](../../records/src-b0eb7ba14903.json).
+
+### src-ef24a86c3200-c02
+
+She says ET treat official leaders as puppets and negotiate with secret societies and nonhuman powers behind them.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/mujer-extraterrestre-me-habla-de-exopolitica-para-adultos-aneeka-de-temmer) (2021-08-29; es); passages p0009, p0018. [Structured record](../../records/src-ef24a86c3200.json).
+
+### src-482490d8772a-c01
+
+In a 5 October 2021 communiqué, Anéeka interpreted the prior day’s social-platform outage as a digital false-flag rehearsal like Event 201.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Desconexion de Redes Sociales - Solo texto](https://swaruu.org/transcripts/desconexion-de-redes-sociales-solo-texto) (2021-10-07; es); passages p0002, p0003, p0004. [Structured record](../../records/src-482490d8772a.json).
+
+### src-1e6c72c7fff5-c02
+
+Yazhi alleges CIA-linked groups promote pro-Federation narratives in UFO circles; she is unsure of Federation involvement. Her account is uncertain.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Federación Galáctica, CIA Infiltrando en Comunidad OVNI, Falsa Bandera Extraterrestre](https://swaruu.org/transcripts/federacion-galactica-cia-infiltrando-en-comunidad-ovni-falsa-bandera-extraterrestre) (2021-07-04; es); passages p0026, p0028, p0030, p0061, p0062. [Structured record](../../records/src-1e6c72c7fff5.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0a7a9d2fed72-c03
+
+Yazhi portrays the Cabal as a destructive role sustained by creator consciousness within the Matrix’s contrast-driven game.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Si Todo es el Plan de Planos Superiores - Que Hacemos? - Yazhi Swaruu - Comunicación Extraterrestre \*\*CENSURADO EN YOUTUBE\*\*](https://swaruu.org/transcripts/si-todo-es-el-plan-de-planos-superiores-que-hacemos-yazhi-swaruu-comunicacion-extraterrestre) (2020-11-25; es); passages p0048, p0049. [Structured record](../../records/src-0a7a9d2fed72.json).
+
+Related topics: [Original Matrix](original-matrix.md).
+
+### src-74e20b846c5e-c01
+
+Yazhi describes secret meetings as compartmentalized layers, from Bilderberg to nonhuman and Federation representatives; each level receives need-to-know information. She says exact participants and locations are difficult to establish.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [LOS AMOS DEL MUNDO - \#SATANISTAS - SOPHIA SWARUU - X -P2 -\#EXOPOLITICA](https://swaruu.org/transcripts/los-amos-del-mundo-satanistas-sophia-swaruu-x-p2-exopolitica) (2021-09-07; es); passages p0026, p0027. [Structured record](../../records/src-74e20b846c5e.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-74e20b846c5e-c03
+
+Yazhi portrays the Vatican as the Cabal’s central node and says both popes communicate with Federation representatives. She says the Vatican comprises multiple levels.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [LOS AMOS DEL MUNDO - \#SATANISTAS - SOPHIA SWARUU - X -P2 -\#EXOPOLITICA](https://swaruu.org/transcripts/los-amos-del-mundo-satanistas-sophia-swaruu-x-p2-exopolitica) (2021-09-07; es); passages p0005, p0038, p0040, p0029. [Structured record](../../records/src-74e20b846c5e.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -3143,6 +3333,40 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - [src-632cb43a7536-c03](vaccine-inoculation-claims.md#src-632cb43a7536-c03) — Inoculation and genetic alteration claims
 - [src-632cb43a7536-c04](engineered-social-unrest.md#src-632cb43a7536-c04) — Engineered social unrest
 - [src-18ebdb1cca3c-c01](false-alien-invasion.md#src-18ebdb1cca3c-c01) — False alien invasion scenarios
+- [src-8a02bd099c08-c01](false-alien-invasion.md#src-8a02bd099c08-c01) — False alien invasion scenarios
+- [src-6e854bde7448-c01](galactic-federation.md#src-6e854bde7448-c01) — Galactic Federation
+- [src-e3c4c3592419-c03](secret-society-hierarchy.md#src-e3c4c3592419-c03) — Secret-society hierarchy
+- [src-e3c4c3592419-c05](galactic-federation.md#src-e3c4c3592419-c05) — Galactic Federation
+- [src-f2d7d797c8f4-c03](reptilian-invaders.md#src-f2d7d797c8f4-c03) — Reptilian invaders
+- [src-f2d7d797c8f4-c04](galactic-federation.md#src-f2d7d797c8f4-c04) — Galactic Federation
+- [src-a554af026ae2-c04](consciousness-metaphysics.md#src-a554af026ae2-c04) — Consciousness and metaphysics
+- [src-b85ee8ec9a41-c04](consciousness-metaphysics.md#src-b85ee8ec9a41-c04) — Consciousness and metaphysics
+- [src-7a1af96e9fb5-c01](engineered-social-unrest.md#src-7a1af96e9fb5-c01) — Engineered social unrest
+- [src-7a1af96e9fb5-c03](engineered-social-unrest.md#src-7a1af96e9fb5-c03) — Engineered social unrest
+- [src-7a1af96e9fb5-c04](engineered-social-unrest.md#src-7a1af96e9fb5-c04) — Engineered social unrest
+- [src-f469530b91ab-c02](egregors.md#src-f469530b91ab-c02) — Egregors
+- [src-f469530b91ab-c03](reincarnation-cycles.md#src-f469530b91ab-c03) — Reincarnation and karmic cycles
+- [src-f469530b91ab-c04](vaccine-inoculation-claims.md#src-f469530b91ab-c04) — Inoculation and genetic alteration claims
+- [src-cc4e6a95114d-c02](mars.md#src-cc4e6a95114d-c02) — Mars
+- [src-cc4e6a95114d-c03](venus.md#src-cc4e6a95114d-c03) — Venus
+- [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
+- [src-de22732f48f1-c04](antarctica.md#src-de22732f48f1-c04) — Antarctica
+- [src-6221e4d4f8ff-c01](astrotheology.md#src-6221e4d4f8ff-c01) — Astrotheology
+- [src-6221e4d4f8ff-c02](ancient-egypt.md#src-6221e4d4f8ff-c02) — Ancient Egypt
+- [src-6221e4d4f8ff-c03](atlantis-lemuria.md#src-6221e4d4f8ff-c03) — Atlantis and Lemuria
+- [src-484a3e354961-c02](galactic-federation.md#src-484a3e354961-c02) — Galactic Federation
+- [src-71496b122bfb-c02](arsinoe-magdalene.md#src-71496b122bfb-c02) — Arsinoe–Mary Magdalene
+- [src-71496b122bfb-c03](arsinoe-magdalene.md#src-71496b122bfb-c03) — Arsinoe–Mary Magdalene
+- [src-71496b122bfb-c04](astrotheology.md#src-71496b122bfb-c04) — Astrotheology
+- [src-1e6c72c7fff5-c03](false-alien-invasion.md#src-1e6c72c7fff5-c03) — False alien invasion scenarios
+- [src-e62c02d313c5-c01](flavian-jesus-claim.md#src-e62c02d313c5-c01) — Flavian Jesus narrative
+- [src-e62c02d313c5-c04](astrotheology.md#src-e62c02d313c5-c04) — Astrotheology
+- [src-cf34095b8042-c04](galactic-federation.md#src-cf34095b8042-c04) — Galactic Federation
+- [src-c57cf7f12530-c02](mars.md#src-c57cf7f12530-c02) — Mars
+- [src-00bbf49a9a01-c02](venus.md#src-00bbf49a9a01-c02) — Venus
+- [src-82157eb532ca-c01](ritual-symbolism-in-media.md#src-82157eb532ca-c01) — Ritual symbolism in toys and media
+- [src-82157eb532ca-c02](ritual-symbolism-in-media.md#src-82157eb532ca-c02) — Ritual symbolism in toys and media
+- [src-2431d292ceb2-c02](terrestrial-science.md#src-2431d292ceb2-c02) — Terrestrial science
 
 ## Review flags
 
@@ -3155,21 +3379,31 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - EMP-intervention-field-unknown
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
+- Federation alternately described as Earth controller and nonultimate authority.
 - Federation and New Age claims are Mari’s allegations and interpretations
+- Federation-involvement-in-Earth-politics-varies-across-source-claims
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Higher-level free-will explanation is challenged by Gosia
+- Internet-blackout prediction is explicitly uncertain.
 - Leader-contact claim is attributed to Asket in this transcript.
 - Maitre\_relationship\_with\_Reptilians
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
+- PCR and vaccine medical claims omitted.
+- Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Proposed intervention remains conditional and internally qualified
 - Related Spanish and English articles cover overlapping material but have different scopes; translation equivalence is unconfirmed.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
+- Time-bound 2021 prediction; no outcome asserted.
 - agenda21-assertion
 - agenda\_term\_varies
 - aircraft-identity-ambiguity
 - alleged-pandemic-cabal-plot
 - alternate-interpretation-of-ancient-texts-attributed
+- alternative-history-claims-attributed
+- antarctic-base-conspiracy-claims
+- anti-vaccine-conspiracy-claims
+- apocalyptic-political-framing
 - ark\_location\_and\_war\_claims\_unverified
 - artificial-intelligence-attributed
 - attack-theory\_speculative
@@ -3198,6 +3432,8 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - claims-about-suppressed-contact-evidence
 - climate-claims
 - clone-personhood-variation
+- competing-cabal-scenarios
+- competing-human-and-federation-perspectives-attributed
 - competing\_attributions
 - conceptual-revision:mind-reading-vs-perception
 - conditional\_forecast
@@ -3205,6 +3441,7 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - conflicting-pandemic-origin-claims
 - conflicting\_intelligence\_accounts
 - conflicting\_war\_reports
+- conspiracy-allegations
 - conspiracy-claims
 - conspiracy\_claims
 - conspiracy\_claims\_unverified
@@ -3225,8 +3462,10 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - coverage: psychic-function claims
 - coverage: reincarnation detail
 - dangerous-health-advice
+- dated-2020-election-claim
 - dated-non-deterministic-prediction
 - dated-pandemic-scenario-predictions
+- dated-political-predictions
 - dated\_claims
 - dated\_prediction
 - diet\_claim\_omitted
@@ -3240,11 +3479,13 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - earth-consciousness\_claim\_omitted
 - earth-control-claim-attributed
 - earth-population-claims
+- earth-reset-control-claim
 - earthquake-causation-unverified
 - eclipse-portal-claims-unverified
 - egregor-vs-species-levels
 - entertainment-disclaimer
 - ethical\_perspective\_conflict
+- exopolitical-faction-claims
 - extraordinary-contact-claims
 - extraordinary-technology-claims
 - extraordinary\_astronomical\_claims
@@ -3264,12 +3505,18 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - factional-war-and-quarantine-conflicting-accounts
 - factional\_viewpoint\_conflict
 - false-invasion-not-prediction
+- federation-alcyone-policy-conflict
 - federation-control-allegations-versus-collective-consent-model
 - federation-control-and-nonintervention-tension
 - federation-intentions-and-collective-choice-tension
+- federation-intervention-rationale
+- federation-nonintervention-rationale
 - federation-purpose-disputed
+- federation-role-contradiction
 - federation-role-speaker-contrast
 - federation-role-variation
+- federation-role:involvement-vs-permissiveness
+- federation-role:uncertain-human-propaganda-vs-permissive-oversight
 - federation-unity-and-factional-conflict
 - fence-control-theory-unconfirmed
 - flight-19-explanation-uncertain
@@ -3277,11 +3524,14 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - forecast\_predictions\_not\_confirmed
 - frequency-and-harm-claims
 - genetic-surveillance-allegations
+- genocide-and-elite-conspiracy-allegations
 - geopolitical-allegation
 - health-conspiracy-claims
 - health\_claims
+- hidden-inner-earth-entrance-claim
 - high-content-overlap-with-src-e9f782478883
 - higher-and-human-conflict-levels-distinguished
+- highly-contested-history-claims-attributed
 - historical-allegations
 - historical-claims-unverified
 - historical-conspiracy-claims
@@ -3320,7 +3570,10 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - medical\_claims\_omitted
 - medical\_claims\_unverified
 - metaphysical-claims
+- metaphysical-collective-reality-model
+- metaphysical-entity-origin-claims
 - metaphysical-model
+- metaphysical-self-identity-claim
 - metaphysical-social-commentary
 - metaphysical\_model
 - meteorite\_claim\_omitted
@@ -3344,6 +3597,7 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - personal\_accusations
 - personal\_cosmology
 - personal\_metaphysics
+- planetary-control-and-liberation-claims
 - pluto-classification-esoteric-claim
 - policy-claims-unverified
 - political-allegation
@@ -3359,6 +3613,7 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - reincarnation-cosmology
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
+- religious-control-claims
 - reported-comparison-not-speaker-endorsement
 - rescue-count-uncertain
 - review: claims on sexual orientation and depopulation
@@ -3366,9 +3621,13 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - scenario-not-prediction
 - science\_claims\_unverified\_in\_source
 - second\_hand\_claims
+- secret-society-name-uncertain
+- secret-society-power-claims
 - security-claims-attributed
 - segmentation-diff
 - soulless-people-claim
+- source distinguishes historical nonexistence in this timeline from a belief-generated egregore
+- source frames vaccine-related mass death as a hypothetical soul-level exit while explicitly opposing genocide; avoid treating it as endorsed policy
 - speaker-header-diff
 - speaker-label-ambiguity
 - speaker-perspective-model
@@ -3425,6 +3684,8 @@ Related topics: [Energy generation technology](energy-generation.md), [Economics
 - vaccine-and-pandemic-claims-excluded
 - vaccine-harm-allegations
 - vaccine-nanotech-claim-model-tested-only
+- venus-physical-description-differs-from-earth-science
+- venus-population:indigenous-and-imported-humans
 - virus-account-internal-tension
 - virus-presence-uncertain
 - visitors-identified-as-key-returners

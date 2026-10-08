@@ -1,0 +1,80 @@
+{
+  "source_id": "src-b68856d8a0e1",
+  "snapshot_sha256": "c5fcb5721bfde566f54567bc5cc102f56bbe6d8a573202f89631615b7d2e710e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b68856d8a0e1-c01",
+      "assertion": "Swaruu 9 says artificial portals use starship-like controlled-frequency toroids, moving payloads while the machine stays fixed.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b68856d8a0e1-c02",
+      "assertion": "Swaruu 9 describes portal entry and exit as adjacent, without tunnel-like transit.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b68856d8a0e1-c03",
+      "assertion": "Swaruu 9 interprets the Eye of Horus as recording a ship’s portal exit, route, observation point, planet, and elliptical orbit.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b68856d8a0e1-c04",
+      "assertion": "Swaruu 9 says spirals may mark portals or artificial exits; fixed natural portals form where frequencies recur, such as ley lines.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0014"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Eye of Horus interpretation is attributed to Swaruu 9."
+  ],
+  "coverage_gaps": [
+    "portal marker stones",
+    "portal mobility conditions",
+    "CERN comparison"
+  ]
+}

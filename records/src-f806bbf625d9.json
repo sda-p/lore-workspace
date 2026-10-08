@@ -1,0 +1,113 @@
+{
+  "source_id": "src-f806bbf625d9",
+  "snapshot_sha256": "9f61e1fb1340ba171d9ab6f39443b5c450df9ef472e541a020073de7005695f0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f806bbf625d9-c01",
+      "assertion": "Minerva says ascended DNA trends toward crystalline proto-silicon, not known terrestrial silicon.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "crystalline-dna",
+      "topics": [
+        "crystalline-dna",
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f806bbf625d9-c02",
+      "assertion": "She reports human DNA as 23 chromosomes/two strands and Taygetan as 24/12; Swaruunians as 24/24, with 48 chromosomes in a combined crystalline mass.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0025",
+        "p0029"
+      ],
+      "primary_topic": "crystalline-dna",
+      "topics": [
+        "crystalline-dna",
+        "taygetans",
+        "swaruunians"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f806bbf625d9-c03",
+      "assertion": "She says crystalline DNA conducts energy and permits physical-state shifts perceived as teleportation or phasing.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "crystalline-dna",
+      "topics": [
+        "crystalline-dna",
+        "teleportation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f806bbf625d9-c04",
+      "assertion": "Minerva says advanced science reads matter as energy-frequency variants and can form materials from energy.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "ether-field"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f806bbf625d9-c05",
+      "assertion": "She distinguishes conscious crystalline silicon from Lurker silicon, which she describes as noncrystalline and mechanically strong.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0042",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "lurkers",
+      "topics": [
+        "lurkers",
+        "crystalline-dna"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "crystalline-dna",
+      "name": "Crystalline DNA and proto-silicon biology",
+      "kind": "biology",
+      "aliases": [
+        "crystalline DNA",
+        "proto-silicon DNA"
+      ]
+    }
+  ],
+  "review_flags": [
+    "internal-count-conflict:swaruwnian-chromosomes"
+  ],
+  "coverage_gaps": [
+    "proto-silicon composition",
+    "Lurker species capabilities"
+  ]
+}

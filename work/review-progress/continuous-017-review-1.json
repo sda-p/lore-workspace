@@ -1,28 +1,40 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:44:01+00:00",
+  "checkpointed_at": "2026-10-08T17:57:14+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-017",
     "reviewer": 1,
     "reviewed_source_ids": [
+      "src-0a8abe9de1b2",
       "src-0c79139fd20c",
+      "src-0eb13f79d3c3",
       "src-2e44af6cf865",
+      "src-320487aa2d60",
       "src-509a0d643adf",
       "src-607024b7b198",
       "src-690730c29818",
       "src-756b0758c451",
+      "src-75919d9e49b8",
       "src-773f342a04a2",
       "src-8035db074017",
       "src-828dc82b2ca2",
+      "src-940c7e2fa72b",
       "src-9d897870bbf8",
       "src-b01e12100c02",
+      "src-b154bcb601b1",
+      "src-b313da868dad",
       "src-b5be7120aaf2",
       "src-b6f00e97482c",
+      "src-c3edb79b5f6c",
       "src-e296ebcd3f46",
+      "src-e30d1897bec1",
       "src-f10960087bcd",
+      "src-f135e721d9ac",
       "src-f3083d830387",
-      "src-fc83e68676a4"
+      "src-fc83e68676a4",
+      "src-85324cf8988c",
+      "src-be4d6a42f7c2"
     ],
     "corrections": [
       {
@@ -64,27 +76,60 @@
           "p0005",
           "p0007"
         ]
+      },
+      {
+        "source_id": "src-e30d1897bec1",
+        "claim_id": "src-e30d1897bec1-c01",
+        "problem": "Claim attributed Yazhi’s frequency-modulation recommendation to Dale and omitted its passage.",
+        "action": "Separated speaker attribution and added Yazhi’s direct passage, retaining Dale’s subsequent agreement.",
+        "paragraph_ids": [
+          "p0026",
+          "p0032",
+          "p0034"
+        ]
+      },
+      {
+        "source_id": "src-be4d6a42f7c2",
+        "claim_id": "src-be4d6a42f7c2-c02",
+        "problem": "Claim summarized two machine-reading methods but cited only the overview and conclusion, omitting their operational descriptions.",
+        "action": "Added the passages on neural-signal mapping and behavioral/profile inputs.",
+        "paragraph_ids": [
+          "p0056",
+          "p0057"
+        ]
       }
     ],
     "unresolved": []
   },
   "record_sha256": {
+    "src-0a8abe9de1b2": "9bcc85087aa14c7ff493ef99f9c0d77e733f541f8b58e47397baf8b29e670c08",
     "src-0c79139fd20c": "88190fe784df85fdd3c6931ebd9724208303432e84ef5d2840bf65c1a765cbb5",
+    "src-0eb13f79d3c3": "8ecf252c4ee2c67a93f5a173b4d7491731106fda4d7a0cfc709e8d6f1520a92e",
     "src-2e44af6cf865": "317018691e460880daab15402352315c6086439d562ca47ffdb509a6c9d364e6",
+    "src-320487aa2d60": "1395104885ce4d817db30a277e25ac92b9fe95903a54f98aa4ec6a9203996a64",
     "src-509a0d643adf": "f885817a6b9c70e3dca4287c055d9e4e63d73ee3db48520feb553688ac9cec18",
     "src-607024b7b198": "2e59154b333d3f72cd6e820870d29352c7a440ba3a8aaab7387aa5c18b8c1bba",
     "src-690730c29818": "6d61176a25886884762eae315e54e43bd884f3725133c9067e398052808230d0",
     "src-756b0758c451": "2074a84ff11067b02a8741d0d6464231f8b827af6b19e808f9695ace37101101",
+    "src-75919d9e49b8": "422773d42b79806963fce9ee654f435edbaad83a0bd601727c694b6f744dd126",
     "src-773f342a04a2": "3778901fc8bee008da155978f129e3f29942b3b5a331f2e1ee41578a34800f30",
     "src-8035db074017": "68942d2e30ba2f8481c5443dd29dd571aedd2dda82aa7b81ea0024cbe650d925",
     "src-828dc82b2ca2": "8c28842203b6641e0af83f126df2ffd1f5bce381b7cda6fb7303ecf338f72337",
+    "src-940c7e2fa72b": "5d340d799ebc6b5ef36c3a749503c76217b7b782571cb69d788d7171275bcc70",
     "src-9d897870bbf8": "67aebfd27407e3a29ca15153daec7e911296f2ff3d4cb61b6cee76cefdd0d682",
     "src-b01e12100c02": "40d0d7ce7384b42884e7ed68ca668741cb62dd7bea0b3ebf8b3bc02ec8a21c75",
+    "src-b154bcb601b1": "9a4be67badf0f52d79b7578ac4427a0d85da3ba9f48d6d7af5a3eb97c5a70e21",
+    "src-b313da868dad": "9c2a7def25fa039858be2132228910fbdfbb0e57d93f87b2a1ae12a727647980",
     "src-b5be7120aaf2": "4b3328db28871bb320c97836bf34323b2963775fb281bbf50df1c03e6fbd00d4",
     "src-b6f00e97482c": "edae7f92d1fa66aa6454c560b9cad9a7626e699ba30e509f36605a9cd6b1b959",
+    "src-c3edb79b5f6c": "dba55d8e200e9eb4371b1bf0bca7d57ae42aa755e6fdd0dbe7e912ca7a1a2558",
     "src-e296ebcd3f46": "1e4e47d0d9e3abb550352c6b6205695a1dae9231aa4c4eba04cc32db5990e642",
+    "src-e30d1897bec1": "a562ba93a6187e7629cb8a86b190a27596709ff2cc053a5a4cb3d91071443511",
     "src-f10960087bcd": "8eb6c6314836e0997d02ea7d76a77ad760b0f110ece58f1b7c59316c0a0cdcf6",
+    "src-f135e721d9ac": "797fead3c64ce050f3eed8d1c625664bc9e53c65f34887512a284ca7b0b681d0",
     "src-f3083d830387": "d5c6dc0e1d4045fc013094c0fb2d8d1b551599e0d4bd2b978b92774dd548bede",
-    "src-fc83e68676a4": "0e8eaa230757eccda7dba88136f4c154641d0ace91a1148dbdf9bf648ca740e1"
+    "src-fc83e68676a4": "0e8eaa230757eccda7dba88136f4c154641d0ace91a1148dbdf9bf648ca740e1",
+    "src-85324cf8988c": "7afa9ba873b0208b6ef9d625ea6ccaeda41733bcc4cdfa97841f3c6e625cea56",
+    "src-be4d6a42f7c2": "15f459ffdf93279dd1fc734d88e913b53c15434224fe0d51c70743e15f9ea209"
   }
 }

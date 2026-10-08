@@ -84,12 +84,24 @@ Source: [Existo Realmente JESÚS DE NAZARET - ASTROTEOLOGÍA - Swaruu de Erra](h
 
 Related topics: [Astrotheology](astrotheology.md).
 
+### src-e62c02d313c5-c01
+
+Swaruu says no historical Jesus appears in this timeline, framing the figure as a Flavian Roman fabrication for population control.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [Jesús (Parte 2) - Manipulación de las Masas - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/jesus-mecanismo-de-control-de-masas-swaruu-de-erra-taygeta-pleyades) (2021-02-19; es); passages p0002, p0007, p0024, p0025, p0028. [Structured record](../../records/src-e62c02d313c5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-35ef7583ec87-c02](earth-cabal.md#src-35ef7583ec87-c02) — Earth Cabal and power structures
 - [src-35ef7583ec87-c04](astrotheology.md#src-35ef7583ec87-c04) — Astrotheology
+- [src-e62c02d313c5-c02](tulpas.md#src-e62c02d313c5-c02) — Tulpas
 
 ## Review flags
 
 - No English translation counterpart identified; this source contains sweeping counter-historical claims, preserved here only as Swaruu’s attributed lore.
+- source distinguishes historical nonexistence in this timeline from a belief-generated egregore
 - translation-counterpart:src-476c3db82f6f-partial-overlap; English adds religious attachment and egregor discussion

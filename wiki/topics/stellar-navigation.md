@@ -1332,6 +1332,80 @@ Source: [Energía Punto Cero - Energía Libre - Espiritualidad y Conciencia - Es
 
 Related topics: [Ether field](ether-field.md).
 
+### src-0ca2007b25fa-c02
+
+Anéeka says interstellar groups standardize frequency using a hydrogen-molecule vibration cycle measured near absolute zero. She says time is variable rather than a constant.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Taygeta (Pleyades) - Mezcla de Preguntas Científicas - Información Extraterrestre](https://swaruu.org/transcripts/taygeta-pleyades-mezcla-de-preguntas-cientificas-informacion-extraterrestre) (2021-10-21; es); passages p0082, p0083, p0084, p0085. [Structured record](../../records/src-0ca2007b25fa.json).
+
+### src-4cc1ee1cc7ec-c02
+
+Yazhi says a place’s shifting frequency can guide stellar navigation; she links planetary time perception to collective consciousness. She says frequencies vary with external stimuli.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ascensión Planetaria – Parasitación del bajo astral - Sophia Swaruu \#Yazhi \#Consciencia \#Metafisica](https://swaruu.org/transcripts/ascension-planetaria-parasitacion-del-bajo-astral-sophia-swaruu-yazhi-consciencia-metafisica) (2021-10-24; es); passages p0041, p0047. [Structured record](../../records/src-4cc1ee1cc7ec.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-2c3f3e20fe69-c01
+
+Yazhi says starships can map locations as a numeric frequency gradient, but that model cannot capture non-linear conscious perception. She treats the gradient as a navigation tool.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO HAY ALMA COMO TAL NI DENSIDADES COMO TALES -YAZHI SWARUU](https://swaruu.org/transcripts/no-hay-alma-como-tal-ni-densidades-como-tales-yazhi-swaruu) (2021-08-03; es); passages p0003, p0006, p0007, p0011, p0012. [Structured record](../../records/src-2c3f3e20fe69.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-df0b18054ec1-c01
+
+Swaruu says cave paintings encode star maps, routes and portals left by interstellar refugees fleeing reptilians. Her interpretation.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Egipto Antiguo - Simbologia - Historia Antigua - Swaruu y Dhor Káal'el (Perspectiva Extaterrestre)](https://swaruu.org/transcripts/egipto-antiguo-simbologia-historia-antigua-swaruu-y-dhor-kaal-el-perspectiva-extaterrestre) (2020-12-09; es); passages p0009, p0010, p0012, p0017. [Structured record](../../records/src-df0b18054ec1.json).
+
+Related topics: [Reptilian invaders](reptilian-invaders.md).
+
+### src-df0b18054ec1-c04
+
+Swaruu describes a cross-shaped sextant for star navigation; modern versions project holographic maps.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Egipto Antiguo - Simbologia - Historia Antigua - Swaruu y Dhor Káal'el (Perspectiva Extaterrestre)](https://swaruu.org/transcripts/egipto-antiguo-simbologia-historia-antigua-swaruu-y-dhor-kaal-el-perspectiva-extaterrestre) (2020-12-09; es); passages p0195, p0204, p0210, p0218, p0220, p0226. [Structured record](../../records/src-df0b18054ec1.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-f6ab3c7365f3-c03
+
+Anéeka says mapped gravity wells can disorient ship sensors during propulsion, but pose no problem during superluminal flight.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Estrellas y Pleyades - "su edad" - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/estrellas-y-pleyades-su-edad) (2021-07-19; es); passages p0044, p0045. [Structured record](../../records/src-f6ab3c7365f3.json).
+
+### src-e62c02d313c5-c03
+
+Swaruu says religious cosmology limits faster-than-light navigation because frequency-based ship systems emulate the pilot’s consciousness.
+
+Attributed to **Swaruu de Erra**; asserted; extraction confidence: high.
+
+Source: [Jesús (Parte 2) - Manipulación de las Masas - Swaruu de Erra (Comunicación Extraterrestre)](https://swaruu.org/transcripts/jesus-mecanismo-de-control-de-masas-swaruu-de-erra-taygeta-pleyades) (2021-02-19; es); passages p0050, p0052, p0056, p0057. [Structured record](../../records/src-e62c02d313c5.json).
+
+Related topics: [Astrotheology](astrotheology.md), [Starship systems](starship-systems.md).
+
+### src-ae3ec238fe23-c01
+
+Yazhi says starships cross interstellar distances by shifting their molecular frequency to match the destination, rather than using propulsion.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#GALAXIA - Sophia \#Swaruu](https://swaruu.org/transcripts/principio-de-no-localidad-la-navegacion-de-naves-estelares-por-la-galaxia-sophia-swaruu) (2021-10-19; es); passages p0008, p0009, p0010. [Structured record](../../records/src-ae3ec238fe23.json).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -1423,9 +1497,20 @@ Related topics: [Ether field](ether-field.md).
 - [src-1422880235ff-c05](sunspot-portals.md#src-1422880235ff-c05) — Sunspot portals
 - [src-06c80561b461-c01](natural-portals.md#src-06c80561b461-c01) — Natural and artificial portals
 - [src-9b690db81851-c05](natural-portals.md#src-9b690db81851-c05) — Natural and artificial portals
+- [src-0ca2007b25fa-c01](solar-portal-transit.md#src-0ca2007b25fa-c01) — Solar portal transit
+- [src-7037a2d38c7d-c03](solar-portal-transit.md#src-7037a2d38c7d-c03) — Solar portal transit
+- [src-528175452786-c01](natural-portals.md#src-528175452786-c01) — Natural and artificial portals
+- [src-528175452786-c02](sand-clock.md#src-528175452786-c02) — Sand Clock
+- [src-4a65be032f34-c04](perceptual-density.md#src-4a65be032f34-c04) — Perceptual density
+- [src-df0b18054ec1-c03](solar-portal-transit.md#src-df0b18054ec1-c03) — Solar portal transit
+- [src-d3e73f956099-c04](ship-internal-time.md#src-d3e73f956099-c04) — Ship internal time
+- [src-ae3ec238fe23-c02](artificial-portals.md#src-ae3ec238fe23-c02) — Artificial portals
+- [src-ae3ec238fe23-c03](frequency-map-navigation.md#src-ae3ec238fe23-c03) — Frequency-map navigation
 
 ## Review flags
 
+- Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age
+- Anéeka explicitly distinguishes “gravity holes” from black holes.
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Federation-policy\_claims\_attributed
@@ -1438,6 +1523,7 @@ Related topics: [Ether field](ether-field.md).
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- ancient-symbol-interpretations-attributed
 - attribution\_scope
 - cern-portal-claim
 - comparative\_technology\_claims
@@ -1451,6 +1537,7 @@ Related topics: [Ether field](ether-field.md).
 - coverage: propulsion engineering details
 - coverage: ship-class specifications
 - crop\_circle\_interpretation
+- cross-timeline-travel-restriction
 - ether\_and\_manifestation\_model
 - ether\_model
 - ethical\_use\_limits
@@ -1463,13 +1550,16 @@ Related topics: [Ether field](ether-field.md).
 - extraordinary\_metaphysical\_claims
 - frequency-gravity-model
 - frequency-mechanics-attributed
+- frequency-portal-physics-claims
 - frequency\_map\_model
 - gravity-propulsion-attributed
 - historical-event-identified-from-painting
+- human-civilization-containment-claim
 - hyperspace\_model
 - intelligence-report-unverified
 - jumper\_vs\_origin\_line
 - mass-explanation-variation
+- medical-and-abduction-claims-excluded
 - metaphysical-claims
 - military-claims\_attributed
 - multiple\_futures\_claim
@@ -1484,11 +1574,13 @@ Related topics: [Ether field](ether-field.md).
 - phenomenon\_not\_fully\_understood
 - portal-location-and-destination-vary
 - procedure-description
+- reincarnation-and-catholic-control-claim
 - related-frequency-navigation-source
 - related\_series\_part
 - royal-selection-and-symbolism-attributed
 - same-language-near-duplicate-src-6a5223076196
 - secret\_ship\_capability\_claims
+- source distinguishes historical nonexistence in this timeline from a belief-generated egregore
 - space\_suit\_claims\_unverified
 - speaker-speculation
 - species\_specific\_reproduction

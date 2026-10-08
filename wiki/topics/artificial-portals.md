@@ -48,10 +48,29 @@ Source: [Portales Artificiales - Tecnología Extraterrestre (Swaruu de Erra, Tay
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-b68856d8a0e1-c01
+
+Swaruu 9 says artificial portals use starship-like controlled-frequency toroids, moving payloads while the machine stays fixed.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Significado del Ojo de Horus - Swaruu de Erra - Portales Espacio Temporales](https://swaruu.org/transcripts/significado-del-ojo-de-horus-swaruu-de-erra-portales-espacio-temporales) (2021-03-30; es); passages p0002, p0003. [Structured record](../../records/src-b68856d8a0e1.json).
+
+### src-ae3ec238fe23-c02
+
+She says portal technology uses the same frequency-shift principle in reverse: the portal machine remains in place while cargo passes through its energy vortex.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PRINCIPIO DE NO LOCALIDAD - LA NAVEGACIÓN DE NAVES ESTELARES POR LA \#GALAXIA - Sophia \#Swaruu](https://swaruu.org/transcripts/principio-de-no-localidad-la-navegacion-de-naves-estelares-por-la-galaxia-sophia-swaruu) (2021-10-19; es); passages p0017. [Structured record](../../records/src-ae3ec238fe23.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-a67fb92e8975-c04](starship-systems.md#src-a67fb92e8975-c04) — Starship systems
 
 ## Review flags
 
+- Eye of Horus interpretation is attributed to Swaruu 9.
 - translation-counterpart: src-bfb4094468eb; close full translation; English p0075-p0079 adds detail about carved stone markers and remote portal control

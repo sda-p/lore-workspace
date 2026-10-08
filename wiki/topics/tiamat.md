@@ -298,6 +298,50 @@ Source: [NIBIRU Y NÉMESIS – NO EXISTEN](https://swaruu.org/transcripts/nibiru
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+### src-0ca2007b25fa-c03
+
+Yazhi says polar reversals require a major cause; she attributes Earth’s last reversal to Tiamat’s water impact. She contrasts this with Earth’s official timeline.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Taygeta (Pleyades) - Mezcla de Preguntas Científicas - Información Extraterrestre](https://swaruu.org/transcripts/taygeta-pleyades-mezcla-de-preguntas-cientificas-informacion-extraterrestre) (2021-10-21; es); passages p0087, p0091. [Structured record](../../records/src-0ca2007b25fa.json).
+
+### src-940f9935241e-c01
+
+Yazhi says reptilians lured the Federation into attacking Tiamat with a false base; blasts destabilized the water world and broke it into asteroid-belt fragments. Her account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Gran Inundacion y Guerras de Tiamat - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/gran-inundacion-y-guerras-de-tiamat-sin-video) (2021-08-13; es); passages p0003, p0004, p0006. [Structured record](../../records/src-940f9935241e.json).
+
+Related topics: [Reptilian invaders](reptilian-invaders.md), [Galactic Federation](galactic-federation.md).
+
+### src-4b86c5c36df0-c04
+
+Yazhi attributes Tiamat’s destruction and Mars surface devastation to nuclear space warfare involving flying craft.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guerras de Orión - PARTE 5 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-batalla-antigua-la-rebelion-del-jardin-del-eden-las-guerras-de-orion-parte-5-sin-video) (2021-05-29; es); passages p0020, p0024, p0026. [Structured record](../../records/src-4b86c5c36df0.json).
+
+### src-045ad55a01dd-c01
+
+Yazhi attributes the last magnetic-pole reversal to Tiamat’s water influx, which she says could disrupt Earth’s energy dynamics.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [CAMBIO DEL EJE MAGNETICO PLANETARIO NO HUBO GLACIACION](https://swaruu.org/transcripts/cambio-del-eje-magnetico-planetario-no-hubo-glaciacion) (2021-09-02; es); passages p0002, p0005. [Structured record](../../records/src-045ad55a01dd.json).
+
+### src-7e10fbdcd1c5-c01
+
+Yazhi says water-rich Tiamat was destroyed, leaving the asteroid belt and contributing to the present 3D world.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Atlantida y Lemuria - Invasion de Venus - Preguntas y Respuestas - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/atlantida-y-lemuria-invasion-de-venus-preguntas-y-respuestas-sin-video) (2021-10-14; es); passages p0033, p0034, p0073. [Structured record](../../records/src-7e10fbdcd1c5.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c02](black-goo.md#src-d47faace954b-c02) — Black goo
@@ -320,14 +364,20 @@ Related topics: [Terrestrial science](terrestrial-science.md).
 - [src-59c43e8ab96d-c01](mars.md#src-59c43e8ab96d-c01) — Mars
 - [src-fba00f670b62-c02](terrestrial-science.md#src-fba00f670b62-c02) — Terrestrial science
 - [src-fba00f670b62-c04](reptilians.md#src-fba00f670b62-c04) — Reptilians
+- [src-940f9935241e-c02](global-deluge.md#src-940f9935241e-c02) — Global deluge
+- [src-c57cf7f12530-c01](mars.md#src-c57cf7f12530-c01) — Mars
 
 ## Review flags
 
+- Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age
+- Alternative ancient-history narrative; no independent corroboration in source.
+- Different trauma explanations are attributed separately to Swaruu and Yazhi.
 - Nibiru\_claim\_conflicts\_with\_other\_sources
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - approximate\_dates
 - attributed-medical-conspiracy-claims
+- cataclysm-history-attributed
 - contested-claims
 - contested-history
 - earth-control-claim-attributed

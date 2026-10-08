@@ -1,0 +1,95 @@
+{
+  "source_id": "src-2bf76cf1cd2e",
+  "snapshot_sha256": "f16bfd94be141ce19c42c955681ca680c83a252a2b7b84c9c1e45fefc5ac7f08",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2bf76cf1cd2e-c01",
+      "assertion": "Swaruu X reports nearly five Earth days per Temmer day; she gives the gap as 4.5:1 in 2019 and 4.7–4.8:1 in 2021.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0013"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bf76cf1cd2e-c02",
+      "assertion": "Swaruu X links planetary time perception to consciousness and says Earth’s collective consciousness regressed.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bf76cf1cd2e-c03",
+      "assertion": "Swaruu X says Van Allen belts set Earth’s baseline existential frequency, but consciousness may transcend their effect.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0026"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her frequency scale is illustrative."
+    },
+    {
+      "id": "src-2bf76cf1cd2e-c04",
+      "assertion": "Swaruu X says the brain translates nonphysical experiences into memories; offworld memories may remain unprocessed.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2bf76cf1cd2e-c05",
+      "assertion": "Swaruu X says DNA encodes a life plan linked to between-life agreements.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0042"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Van Allen belts both set a baseline and can be transcended; preserve distinction."
+  ],
+  "coverage_gaps": [
+    "Schumann resonance",
+    "galactic waves",
+    "space-storm mechanics",
+    "astrological ages"
+  ]
+}

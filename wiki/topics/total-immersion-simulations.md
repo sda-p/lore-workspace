@@ -126,6 +126,16 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https://swaruu.org/transcripts/mensaje-extraterrestre-de-taygeta-pleyades-quienes-somos-1) (2018-05-28; es); passages p0031, p0032, p0033. [Structured record](../../records/src-a0a1d364e89f.json).
 
+### src-3c4f875317e3-c01
+
+Anéeka says some humans are nonhuman visitors using immersion technology or compatible bodies.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [INFLUENCIA CULTURAL EXTRATERRESTRES Y HUMANOS – UFÓLOGOS – ANEEKA DE TEMMER 2021](https://swaruu.org/transcripts/influencia-cultural-extraterrestres-y-humanos-ufologos-aneeka-de-temmer-2021) (2021-04-02; es); passages p0007, p0008, p0010, p0012. [Structured record](../../records/src-3c4f875317e3.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-03ea45d7d724-c03](spherical-drones.md#src-03ea45d7d724-c03) — Spherical drones
@@ -134,6 +144,7 @@ Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https
 - [src-a49c04fc44dc-c01](genetic-weapons.md#src-a49c04fc44dc-c01) — Genetic weapons
 - [src-9b3780bf7fb6-c02](memory-implants.md#src-9b3780bf7fb6-c02) — Memory implants
 - [src-1b04c8518bf7-c01](starseeds.md#src-1b04c8518bf7-c01) — Starseeds
+- [src-d3e73f956099-c02](starseeds.md#src-d3e73f956099-c02) — Starseeds
 
 ## Review flags
 
@@ -142,7 +153,10 @@ Source: [Mensaje Extraterrestre de Taygeta (Pleyades): Quienes Somos? (1)](https
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - claims-attributed-to-source-narrators
 - clone-technology-attributed
+- federation-noninterference-tension
 - genetic-weapon-causation-speculative
 - machine-versus-etheric-implant-mechanisms
+- medical-and-abduction-claims-excluded
+- nonhuman-human-boundary-claims
 - technology-described-by-mari
 - technology-description-unverified

@@ -282,19 +282,121 @@ Source: [Swaruu de Erra: Varias Conversaciones (Mensaje Extraterrestre Pleyadian
 
 Related topics: [Holographic computers](holographic-computers.md).
 
+### src-d5ad0f7ed082-c01
+
+Anéeka says dry pods support short immersions; wet pods sustain suspended bodies for years or decades, with fluid supplying nutrients. She knows no cases lasting thousands of years.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods de Inmersiones 2 - Tecnología Extraterrestre Avanzada - Anéeka de Temmer y Yazhi Swaruu](https://swaruu.org/transcripts/pods-de-inmersiones-2-tecnologia-extraterrestre-avanzada-aneeka-de-temmer-y-yazhi-swaruu) (2021-01-20; es); passages p0011, p0012, p0013, p0015, p0017. [Structured record](../../records/src-d5ad0f7ed082.json).
+
+### src-d5ad0f7ed082-c02
+
+Anéeka says pods maintain the body while computers divert sensory attention by frequencies; electrical stimulation prevents muscle atrophy. Immersion can also work without a pod.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods de Inmersiones 2 - Tecnología Extraterrestre Avanzada - Anéeka de Temmer y Yazhi Swaruu](https://swaruu.org/transcripts/pods-de-inmersiones-2-tecnologia-extraterrestre-avanzada-aneeka-de-temmer-y-yazhi-swaruu) (2021-01-20; es); passages p0008, p0014, p0016, p0029, p0038. [Structured record](../../records/src-d5ad0f7ed082.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-d5ad0f7ed082-c03
+
+Anéeka says pod failure or danger wakes the user; immersion users return to their original bodies and retain most immersion memories. Memory is not perfectly retained.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods de Inmersiones 2 - Tecnología Extraterrestre Avanzada - Anéeka de Temmer y Yazhi Swaruu](https://swaruu.org/transcripts/pods-de-inmersiones-2-tecnologia-extraterrestre-avanzada-aneeka-de-temmer-y-yazhi-swaruu) (2021-01-20; es); passages p0042, p0043, p0100, p0105. [Structured record](../../records/src-d5ad0f7ed082.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ba1c5a843ad1-c01
+
+Anéeka says immersion is common among interstellar races and can use multiple avatars or timelines.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Pods de Inmersiones 3 - Preguntas de Directo de Robert- Aneeka de Temmer (Pleyades)](https://swaruu.org/transcripts/tecnologia-de-pods-de-inmersiones-3-preguntas-de-directo-de-robert-aneeka-de-temmer-pleyades) (2021-02-01; es); passages p0007, p0003, p0044. [Structured record](../../records/src-ba1c5a843ad1.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-ba1c5a843ad1-c02
+
+She describes wet pods as circulating nutrient- and gas-bearing fluid; medical pods also use stem cells.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Pods de Inmersiones 3 - Preguntas de Directo de Robert- Aneeka de Temmer (Pleyades)](https://swaruu.org/transcripts/tecnologia-de-pods-de-inmersiones-3-preguntas-de-directo-de-robert-aneeka-de-temmer-pleyades) (2021-02-01; es); passages p0009, p0072, p0126. [Structured record](../../records/src-ba1c5a843ad1.json).
+
+Related topics: [Maternal medical pods](maternal-med-pods.md).
+
+### src-ba1c5a843ad1-c03
+
+She says immersion memory varies and multiple avatars may be prepared.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Pods de Inmersiones 3 - Preguntas de Directo de Robert- Aneeka de Temmer (Pleyades)](https://swaruu.org/transcripts/tecnologia-de-pods-de-inmersiones-3-preguntas-de-directo-de-robert-aneeka-de-temmer-pleyades) (2021-02-01; es); passages p0028, p0054, p0056. [Structured record](../../records/src-ba1c5a843ad1.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-ba1c5a843ad1-c04
+
+She says pod failures disrupt the signal; total pod destruction may also kill the stored body.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Pods de Inmersiones 3 - Preguntas de Directo de Robert- Aneeka de Temmer (Pleyades)](https://swaruu.org/transcripts/tecnologia-de-pods-de-inmersiones-3-preguntas-de-directo-de-robert-aneeka-de-temmer-pleyades) (2021-02-01; es); passages p0048, p0062, p0103, p0104. [Structured record](../../records/src-ba1c5a843ad1.json).
+
+### src-ba1c5a843ad1-c05
+
+Anéeka says immersion time is subjective and may pass far more slowly than the 3D lifetime.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tecnología de Pods de Inmersiones 3 - Preguntas de Directo de Robert- Aneeka de Temmer (Pleyades)](https://swaruu.org/transcripts/tecnologia-de-pods-de-inmersiones-3-preguntas-de-directo-de-robert-aneeka-de-temmer-pleyades) (2021-02-01; es); passages p0067, p0068, p0098. [Structured record](../../records/src-ba1c5a843ad1.json).
+
+Related topics: [Ship internal time](ship-internal-time.md).
+
+### src-a6ebb6326b6a-c01
+
+Anéeka says immersion uses holographic computing for simulations, training, communication, entertainment, and therapy; consciousness can shift to a virtual or cloned avatar while the original body sleeps.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods de Inmersiones 1 - Tecnología Extraterrestre Avanzada de Multi Uso - Anéeka de Temmer / Taygeta](https://swaruu.org/transcripts/pods-de-inmersiones-1-tecnologia-extraterrestre-avanzada-de-multi-uso-aneeka-de-temmer-taygeta) (2021-01-16; es); passages p0004, p0005, p0006, p0007. [Structured record](../../records/src-a6ebb6326b6a.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-a6ebb6326b6a-c02
+
+Pods map neural electrochemical activity and transmit its signal by muon-gravity to a frequency-matched brain, suspending and sensory-isolating the original body. The avatar may be a prepared or modified body.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods de Inmersiones 1 - Tecnología Extraterrestre Avanzada de Multi Uso - Anéeka de Temmer / Taygeta](https://swaruu.org/transcripts/pods-de-inmersiones-1-tecnologia-extraterrestre-avanzada-de-multi-uso-aneeka-de-temmer-taygeta) (2021-01-16; es); passages p0060, p0061, p0062, p0063, p0064, p0065, p0066. [Structured record](../../records/src-a6ebb6326b6a.json).
+
+Related topics: [Muon-triggered gravity communications](muon-gravity-communications.md).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c02](urmah.md#src-5e6c8ea2cb2c-c02) — Urmah
 - [src-48549c0d0a4c-c02](extraterrestrial-stepdowns.md#src-48549c0d0a4c-c02) — Extraterrestrial step-downs
+- [src-cddf1937a380-c03](sentient-starship-ai.md#src-cddf1937a380-c03) — Sentient starship AI
+- [src-a6ebb6326b6a-c03](muon-gravity-communications.md#src-a6ebb6326b6a-c03) — Muon-triggered gravity communications
 
 ## Review flags
 
+- AI-sentience-claims
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - attribution\_scope
+- immersion-metaphysics-claims
 - metaphysical-claims-unverified
 - metaphysical\_claims\_attributed
 - nonhuman-medical-claims-unverified
+- online-AI-control-conspiracy-claims
 - personal\_metaphysics
+- pod-failure-outcomes
 - translated-from-Spanish-original-not-available
 - unverified\_extraterrestrial\_claims
 - unverified\_technology\_claims

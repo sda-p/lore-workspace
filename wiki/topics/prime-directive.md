@@ -593,6 +593,7 @@ Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://s
 - [src-bebc8e2161ed-c03](alfrata.md#src-bebc8e2161ed-c03) — Alfrata (Phaeton)
 - [src-bfae5ca72b24-c03](galactic-federation.md#src-bfae5ca72b24-c03) — Galactic Federation
 - [src-96c91cbdd54c-c04](galactic-federation.md#src-96c91cbdd54c-c04) — Galactic Federation
+- [src-3c4f875317e3-c03](galactic-federation.md#src-3c4f875317e3-c03) — Galactic Federation
 
 ## Review flags
 
@@ -617,6 +618,7 @@ Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://s
 - faction\_claims
 - federation-authority-critique
 - federation-history-attributed
+- federation-noninterference-tension
 - historical-allegations
 - historical-claims-unverified
 - internal\_tension
@@ -624,6 +626,7 @@ Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://s
 - medical\_claims
 - metaphysical-claims
 - metaphysical\_worldview
+- nonhuman-human-boundary-claims
 - personal\_accusations
 - personal\_metaphysics
 - planetary-lore-unverified

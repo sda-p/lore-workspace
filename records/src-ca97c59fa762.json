@@ -1,0 +1,89 @@
+{
+  "source_id": "src-ca97c59fa762",
+  "snapshot_sha256": "58a15accebfaddf2cdb10b20ec0904f250d54892b0afa8cef881d5fe867f02bb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ca97c59fa762-c01",
+      "assertion": "Yazhi says past timelines converge in conscious presence, which opens into infinitely many possible futures.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-singularity",
+      "topics": [
+        "consciousness-singularity",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca97c59fa762-c02",
+      "assertion": "Swaruu X says parallel pasts form the observer and thoughts or frequency influence which possible future is consciously experienced.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca97c59fa762-c03",
+      "assertion": "Yazhi says parallel selves shape present identity, while individuals have limited control over themselves.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0037",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ca97c59fa762-c04",
+      "assertion": "Yazhi says death is transcended from an expanded perspective but remains real for survivors; beliefs can shape postmortem worlds.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0051",
+        "p0054",
+        "p0057"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "consciousness-frequency model",
+    "individual and collective timeline selection",
+    "belief-shaped afterlife environments"
+  ]
+}

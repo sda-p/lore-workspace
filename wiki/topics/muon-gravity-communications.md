@@ -78,6 +78,20 @@ Source: [TRANSMISIONES COMUNICACIONES CON LAS RAZAS EXTRATERRESTRES – ANEEKA D
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-a6ebb6326b6a-c03
+
+Anéeka says the signal can reach any compatible receiver regardless of distance and uses neither radio nor microwaves.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods de Inmersiones 1 - Tecnología Extraterrestre Avanzada de Multi Uso - Anéeka de Temmer / Taygeta](https://swaruu.org/transcripts/pods-de-inmersiones-1-tecnologia-extraterrestre-avanzada-de-multi-uso-aneeka-de-temmer-taygeta) (2021-01-16; es); passages p0034, p0035, p0036, p0037. [Structured record](../../records/src-a6ebb6326b6a.json).
+
+Related topics: [Immersion pods](immersion-pods.md).
+
+## Claims filed under other topics
+
+- [src-a6ebb6326b6a-c02](immersion-pods.md#src-a6ebb6326b6a-c02) — Immersion pods
+
 ## Review flags
 
 - communication-tech-claims-attributed

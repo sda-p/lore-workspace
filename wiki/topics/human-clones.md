@@ -209,6 +209,7 @@ Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 - [src-a49c04fc44dc-c03](artificial-intelligence.md#src-a49c04fc44dc-c03) — Artificial intelligence
 - [src-1efac2564f96-c02](red-queen-ai.md#src-1efac2564f96-c02) — Red Queen AI
 - [src-55aa4da20352-c02](alien-species.md#src-55aa4da20352-c02) — Alien species and distinctions
+- [src-ed934b122dbc-c01](taygetan-parthenogenesis.md#src-ed934b122dbc-c01) — Taygetan parthenogenesis
 
 ## Review flags
 
@@ -221,4 +222,7 @@ Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 - clone-personhood-variation
 - clone-technology-attributed
 - cryonics-outcomes-speculative
+- death-account:medical-cause-and-ether-dissolution
 - species-labels-uncertain
+- timeline-model-variant:personal-vs-collective
+- translation-counterpart:src-06a1e5437c02-close-full

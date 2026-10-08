@@ -1,0 +1,103 @@
+{
+  "source_id": "src-a18d1af875eb",
+  "snapshot_sha256": "bc2e13f8cb6eaf6d9f68d5f918adbe3c3e9017fe28b0f228f166dd6ee6439944",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a18d1af875eb-c01",
+      "assertion": "Tiamat’s destruction shifted solar-system orbits; Saturn captured debris that formed its rings.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a18d1af875eb-c02",
+      "assertion": "She says Saturn’s moons host colonies and relay stations for many species; the region passed from Sauroid to Federation-aligned control.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0026",
+        "p0036",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "saturn-bases",
+      "topics": [
+        "saturn-bases"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a18d1af875eb-c03",
+      "assertion": "Saturn’s rings are mined for essential metals, especially gold, and support passing-ship resupply.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a18d1af875eb-c04",
+      "assertion": "Swaruu 9 says a destroyed 5-km Sauroid cube once served as a Saturn-region base; Saturn itself is not inherently evil.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0054",
+        "p0059",
+        "p0061"
+      ],
+      "primary_topic": "saturn-bases",
+      "topics": [
+        "saturn-bases"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a18d1af875eb-c05",
+      "assertion": "She says natural portals occur on every celestial body; artificial portals can strand users if exit control is lost.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0100",
+        "p0101",
+        "p0103",
+        "p0106"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012."
+  ],
+  "coverage_gaps": [
+    "Titan and Enceladus development",
+    "gas-giant life",
+    "Saturn symbolism"
+  ]
+}

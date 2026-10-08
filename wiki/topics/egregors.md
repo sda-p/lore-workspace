@@ -342,6 +342,102 @@ Source: [Miedos, Virus, Situacion Global - ENFOCATE (Mensaje Extraterrestre Pley
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-7ee742c5e8d8-c01
+
+Yazhi says fear and collective attention can manifest material egregors reflecting their creators.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Conciencia](https://swaruu.org/transcripts/conciencia) (2021-11-07; es); passages p0003, p0028, p0047. [Structured record](../../records/src-7ee742c5e8d8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7ee742c5e8d8-c02
+
+She describes Earth’s invasive-reptile threat as a collective fear egregor, not necessarily a species. She discusses Earth 3D perceptions.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Conciencia](https://swaruu.org/transcripts/conciencia) (2021-11-07; es); passages p0009, p0015, p0025, p0086. [Structured record](../../records/src-7ee742c5e8d8.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+### src-7ee742c5e8d8-c05
+
+Yazhi says egregors may become self-sustaining and sentient through collective attention.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Conciencia](https://swaruu.org/transcripts/conciencia) (2021-11-07; es); passages p0107. [Structured record](../../records/src-7ee742c5e8d8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a554af026ae2-c01
+
+Yazhi says collective unconscious can manifest tulpa-egregors that inhabit humanlike bodies and form clans. This is her metaphysical account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Guerra Astral-Controladores de Sombra del Cabal - Charla con Yazhi Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/guerra-astral-controladores-de-sombra-del-cabal-charla-con-yazhi-swaruu-contacto-extraterrestre) (2021-10-14; es); passages p0009, p0010, p0017. [Structured record](../../records/src-a554af026ae2.json).
+
+Related topics: [Tulpas](tulpas.md), [Matrix-generated persons](matrix-generated-persons.md).
+
+### src-a554af026ae2-c02
+
+She says dark entities depend on human suffering, fear, and attention; withdrawing fear weakens them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Guerra Astral-Controladores de Sombra del Cabal - Charla con Yazhi Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/guerra-astral-controladores-de-sombra-del-cabal-charla-con-yazhi-swaruu-contacto-extraterrestre) (2021-10-14; es); passages p0018, p0019, p0021, p0024, p0027. [Structured record](../../records/src-a554af026ae2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f469530b91ab-c02
+
+She says elites manipulate human perception, creating suffering that feeds dark egregors they themselves manifested.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Mensaje a los Controladores de la Tierra - Yazhi (Sophia) Swaruu - Mensaje Extraterrestre](https://swaruu.org/transcripts/mensaje-a-los-controladores-de-la-tierra-yazhi-sophia-swaruu-mensaje-extraterrestre) (2021-09-25; es); passages p0008, p0009, p0015, p0017. [Structured record](../../records/src-f469530b91ab.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-791b660d5229-c02
+
+She says collective human fears generate Earth-specific egregors and interpretations; tulpas participate in reality formation, not fantasy.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [El Imperio Draconiano y La Alianza de Orion Yazhi Swaruu](https://swaruu.org/transcripts/el-imperio-draconiano-y-la-alianza-de-orion-yazhi-swaruu) (2021-07-21; es); passages p0004, p0005, p0006. [Structured record](../../records/src-791b660d5229.json).
+
+Related topics: [Tulpas](tulpas.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7de827628fae-c01
+
+Yazhi describes hostile entities as tulpa or egregor manifestations of personal or collective fear, sustained by attention. Her model.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ENERGÍAS NEGATIVAS COMO COMBATIRLAS Proteccion Espiritual - Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/energias-negativas-como-combatirlas-proteccion-espiritual-sophia-swaruu-yazhi) (2021-11-01; es); passages p0019, p0020. [Structured record](../../records/src-7de827628fae.json).
+
+Related topics: [Tulpas](tulpas.md).
+
+### src-2a6863e625a6-c04
+
+Yazhi frames astral conflict as egregors and tulpas opposing one another, reflecting disorder in the human collective.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [La Terrible \#Batalla en EL MUNDO ASTRAL - \#Metafisica - \#Yazhi - Sophia \#Swaruu XII \#Exopolitica](https://swaruu.org/transcripts/la-terrible-batalla-en-el-mundo-astral-metafisica-yazhi-sophia-swaruu-xii-exopolitica) (2021-10-15; es); passages p0037, p0038. [Structured record](../../records/src-2a6863e625a6.json).
+
+### src-74df7085bcef-c03
+
+Anéeka says collective human attention can manifest threatening concepts as real experiences without creating matching physical creatures.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-creacion-del-cabal-reptiles-y-manifestaciones-humanas) (2021-10-10; es); passages p0019, p0021. [Structured record](../../records/src-74df7085bcef.json).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c03](postmortem-realities.md#src-331beeab2088-c03) — Postmortem realities
@@ -359,21 +455,43 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-04f196994778-c05](archons-and-demons.md#src-04f196994778-c05) — Archons and demons
 - [src-9c1661abc463-c02](consciousness-metaphysics.md#src-9c1661abc463-c02) — Consciousness and metaphysics
 - [src-d575fee8efe8-c02](reptilians.md#src-d575fee8efe8-c02) — Reptilians
+- [src-7ee742c5e8d8-c03](reptilians.md#src-7ee742c5e8d8-c03) — Reptilians
+- [src-f2d7d797c8f4-c05](consciousness-metaphysics.md#src-f2d7d797c8f4-c05) — Consciousness and metaphysics
+- [src-a554af026ae2-c03](tulpas.md#src-a554af026ae2-c03) — Tulpas
+- [src-7e3952095f4b-c01](tulpas.md#src-7e3952095f4b-c01) — Tulpas
+- [src-2997017bfd28-c04](postmortem-realities.md#src-2997017bfd28-c04) — Postmortem realities
 
 ## Review flags
 
+- Anéeka says Reptilian exploitation is partial, not a complete account of Earth events.
+- Source also contains unextracted real-world political and health claims.
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
+- anti-vaccine-conspiracy-claims
 - attributed-virus-and-vaccine-claims
 - collective-egregor-metaphysics
+- conspiracy-allegations
 - conspiracy-claims
 - conspiracy\_claims
+- contextual-contradictions
+- egregor-versus-species-distinction
+- exopolitical-faction-claims
+- expanded-and-bereaved-perspectives-attributed
+- federation-infiltration-allegations
+- federation-role-contradiction
+- genocide-and-elite-conspiracy-allegations
 - medical-virus claims are attributed lore, not independently substantiated
+- mental-health-and-protection-advice-excluded
 - metaphysical-claims-attributed
 - metaphysical-claims\_attributed
+- metaphysical-collective-reality-model
+- metaphysical-entity-origin-claims
 - metaphysical-model
+- metaphysical-self-identity-claim
 - paranormal-claims-unverified
+- paranormal-entity-claims-attributed
 - personal\_metaphysics
+- reptilian-soul-claims
 - reptilian-species-versus-reptile-egregor
 - soulless-people-claim
 - translated-originally-Spanish

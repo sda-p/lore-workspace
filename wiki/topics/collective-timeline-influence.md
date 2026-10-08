@@ -148,6 +148,44 @@ Source: [MANIPULACION TEMPORAL - Cambiar el Pasado - Viajes Temporales - Swaruu 
 
 Related topics: [Timeline branching](timeline-branching.md).
 
+### src-b3613644793e-c02
+
+Yazhi says 3D and 5D realities mutually influence; 3D can constrain Federation action more than 5D can shape Earth. Her model treats realities as perception agreements.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Federación y Problemas Terrestres - Humanos son la Clave (Charla Grupal con Yazhi/Extraterrestre)](https://swaruu.org/transcripts/federacion-y-problemas-terrestres-humanos-son-la-clave-charla-grupal-con-yazhi-extraterrestre) (2021-03-21; es); passages p0081, p0087, p0091. [Structured record](../../records/src-b3613644793e.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Taygetans](taygetans.md).
+
+### src-d96ec8429f2c-c03
+
+Yázhi says shared beliefs can alter a collective timeline; Swaruu 9 held that time jumps change only the traveler’s branch. Yázhi presents this as her reinterpretation.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Swaruu y Yazhi: Las Diferencias - PARTE 2 - Comunicación Extraterrestre (Taygeta - Pléyades)](https://swaruu.org/transcripts/swaruu-y-yazhi-las-diferencias-parte-2-comunicacion-extraterrestre-taygeta-pleyades) (2021-05-04; es); passages p0054, p0055, p0056, p0063, p0065, p0066. [Structured record](../../records/src-d96ec8429f2c.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-1916a1ff5c00-c03
+
+Swaruu X says collective agreements hinder manifestation; purposeful action toward a clear goal can overcome them, while frequency alignment alone is insufficient.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [LA REALIDAD ARTIFICIAL - EL MUNDO DONDE VIVES – SWARUU X](https://swaruu.org/transcripts/la-realidad-artificial-el-mundo-donde-vives-swaruu-x) (2021-06-14; es); passages p0012, p0014, p0015, p0016, p0017. [Structured record](../../records/src-1916a1ff5c00.json).
+
+### src-ca97c59fa762-c03
+
+Yazhi says parallel selves shape present identity, while individuals have limited control over themselves.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conciencia - Individuo - Singularidad - Somos Múltiples Pasados y Múltiples Futuros - Yazhi Swaruu](https://swaruu.org/transcripts/conciencia-individuo-singularidad-somos-multiples-pasados-y-multiples-futuros-yazhi-swaruu) (2021-08-04; es); passages p0031, p0037, p0041, p0042. [Structured record](../../records/src-ca97c59fa762.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-775d18ade5d9-c04](timeline-branching.md#src-775d18ade5d9-c04) — Timeline branching
@@ -161,11 +199,18 @@ Related topics: [Timeline branching](timeline-branching.md).
 - [src-fed215817d92-c03](perceptual-density.md#src-fed215817d92-c03) — Perceptual density
 - [src-54359f164bb6-c05](timeline-branching.md#src-54359f164bb6-c05) — Timeline branching
 - [src-057efbcdf1b8-c01](holistic-society.md#src-057efbcdf1b8-c01) — Holistic society
+- [src-1a5deaf584db-c02](galactic-federation.md#src-1a5deaf584db-c02) — Galactic Federation
+- [src-4cc1ee1cc7ec-c02](stellar-navigation.md#src-4cc1ee1cc7ec-c02) — Stellar navigation
+- [src-2aeaa7622c61-c01](starseeds.md#src-2aeaa7622c61-c01) — Starseeds
+- [src-2997017bfd28-c01](timeline-branching.md#src-2997017bfd28-c01) — Timeline branching
+- [src-ca97c59fa762-c02](timeline-branching.md#src-ca97c59fa762-c02) — Timeline branching
 
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
+- Different-models-of-time-and-density-are-explicitly-contrasted
+- Earth’s purpose is explicitly undetermined.
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - ascension-model-attributed
 - claims about fabricated histories and public events are attributed lore, not independently substantiated
@@ -173,6 +218,7 @@ Related topics: [Timeline branching](timeline-branching.md).
 - contested-genetic-surveillance-claim
 - cosmology-claims-attributed
 - dated-non-deterministic-prediction
+- expanded-and-bereaved-perspectives-attributed
 - human-agency-and-federation-oversight
 - numerical influence comparisons are illustrative, not fixed ratios
 - psychological memory-rewriting discussion could be confused with clinical guidance

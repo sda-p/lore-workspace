@@ -84,6 +84,26 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 44, Galactic Federation and Earth Situation Update (English)](https://swaruu.org/transcripts/space-news-44-galactic-federation-and-earth-situation-update-english) (2024-09-28; en); passages p0008, p0009, p0010, p0016. [Structured record](../../records/src-cebafb0193ca.json).
 
+### src-5c6ca52aaabd-c01
+
+Yazhi describes Earth as containing vast illuminated caverns inhabited by animal and humanoid species; she says subterranean Vulcans near Antarctica face Kingu incursions. She says little is known about Vulcan society.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Es Tierra hueca? - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/es-tierra-hueca-sin-video) (2021-07-03; es); passages p0002, p0003, p0005, p0007. [Structured record](../../records/src-5c6ca52aaabd.json).
+
+Related topics: [Intraterrestrial Vulcans](intraterrestrial-vulcans.md), [Kingu](kingu.md).
+
+### src-5c6ca52aaabd-c02
+
+Yazhi says Earth is not hollow: internal cavities surround a glowing magmatic core that supplies heat and light; polar openings do not connect as a through-route. She likens Earth’s internal systems to circulation in a living body.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Es Tierra hueca? - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/es-tierra-hueca-sin-video) (2021-07-03; es); passages p0017, p0020, p0021, p0022, p0024, p0027. [Structured record](../../records/src-5c6ca52aaabd.json).
+
+Related topics: [Subterranean ocean networks](subterranean-ocean-networks.md).
+
 ## Claims filed under other topics
 
 - [src-0a2dec346e2d-c01](bigfoot-sasquatch.md#src-0a2dec346e2d-c01) — Bigfoot, Sasquatch and Yeti

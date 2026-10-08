@@ -1,0 +1,14 @@
+{
+  "source_id": "src-c3edb79b5f6c",
+  "snapshot_sha256": "000efabec8278bd87966899c76191ff6d55175ec7a46e2354e776e2fc5923d50",
+  "language": "es",
+  "claims": [
+    {"id":"src-c3edb79b5f6c-c01","assertion":"Yazhi describes each galaxy as a conscious being, with its central supermassive black hole as an attention center and its stars and planets as cells.","speaker":"Yazhi","paragraph_ids":["p0007","p0008","p0010","p0014"],"primary_topic":"galactic-consciousness","topics":["galactic-consciousness","black-holes"],"modality":"asserted","confidence":"high","qualifiers":"She presents the body-and-cells comparison as explanatory metaphor."},
+    {"id":"src-c3edb79b5f6c-c02","assertion":"Yazhi says galaxy collisions combine their energy to form larger galaxies, describing the process as reproduction rather than destruction.","speaker":"Yazhi","paragraph_ids":["p0029","p0031","p0037","p0038"],"primary_topic":"galactic-consciousness","topics":["galactic-consciousness","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"She says the process is extremely slow from Earth's perspective but rapid for the galaxy."}
+  ],
+  "proposed_topics": [
+    {"id":"galactic-consciousness","name":"Galactic consciousness","kind":"cosmology","aliases":["galaxies as conscious beings"]}
+  ],
+  "review_flags": ["galactic-metaphor-and-timescale-account"],
+  "coverage_gaps": ["earth-effects-omitted", "timeline-convergence-details-omitted"]
+}

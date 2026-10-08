@@ -1,0 +1,93 @@
+{
+  "source_id": "src-ee1516c33ac1",
+  "snapshot_sha256": "9f8e78de76ce469b4d93a7356b3cef8fd955217b6ab87dec16d476b3eaf2d450",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ee1516c33ac1-c01",
+      "assertion": "Swaruu calls the system Sol-13, with 13 planets; Mercury has signal relays but no biological life or bases.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "sol-13",
+      "topics": [
+        "sol-13",
+        "mercury"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ee1516c33ac1-c02",
+      "assertion": "Swaruu describes Venus as a tropical ocean world with human inhabitants, a Cabal resort, Federation blockade, and portal-only access.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "venus",
+      "topics": [
+        "venus",
+        "operation-venus-haven",
+        "galactic-federation",
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ee1516c33ac1-c03",
+      "assertion": "Swaruu says the SSP invaded Venus under Operation Venus Haven and that the Vietnam War partly covered it through 1972–75.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "operation-venus-haven",
+      "topics": [
+        "operation-venus-haven",
+        "secret-space-program",
+        "venus"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She gives the end date as approximate."
+    },
+    {
+      "id": "src-ee1516c33ac1-c04",
+      "assertion": "Anéeka attributes deaths and partial USS Eldridge displacement to chaotic electromagnetic portal experiments.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0147",
+        "p0151",
+        "p0152",
+        "p0153",
+        "p0154"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Venus invasion factions and population history",
+    "Mars military sectors",
+    "gravity and frequency transit"
+  ]
+}

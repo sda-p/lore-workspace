@@ -5,11 +5,12 @@
   "claims": [
     {
       "id": "src-4e74e1caea83-c01",
-      "assertion": "Yazhi says humans and other humanoid species share Lyrian ancestry, but humans have distinct brain and nervous-system development and lack telepathy and extrasensory perception.",
+      "assertion": "Yazhi says humans, Taygetans, and Engans are Lyrian in origin, but humans have distinct brain and nervous-system development and lack telepathy and extrasensory perception.",
       "speaker": "Yazhi",
       "paragraph_ids": [
         "p0031",
         "p0032",
+        "p0033",
         "p0034"
       ],
       "primary_topic": "primary-secondary-species",

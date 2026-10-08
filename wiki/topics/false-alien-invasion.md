@@ -214,6 +214,36 @@ Source: [DESCLASIFICACIÓN DEL FENÓMENO EXTRATERRESTRE CONSECUENCIAS -ANEEKA DE
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-8a02bd099c08-c01
+
+Anéeka doubts full UFO disclosure will occur; she says revelations will serve controllers’ agendas and could include a staged invasion using Blue Beam technology. This is Anéeka’s forecast.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DEL FENOMENO OVNI – EXTRATERRESTRE -ANEEKA DE TEMMER](https://swaruu.org/transcripts/desclasificacion-del-fenomeno-ovni-extraterrestre-aneeka-de-temmer) (2021-04-18; es); passages p0004, p0005. [Structured record](../../records/src-8a02bd099c08.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-41f6dbd41e06-c05
+
+She speculates Pentagon UAP disclosures hide drone tests and distract from genuine nonhuman craft.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [LA VERDAD SOBRE LOS \#UAP U \#OVNIS DE EL \#PENTÁGONO AL DESCUBIERTO - ATHENA SWARUU \#Exopolitica](https://swaruu.org/transcripts/la-verdad-sobre-los-uap-u-ovnis-de-el-pentagono-al-descubierto-athena-swaruu-exopolitica) (2021-08-16; es); passages p0067, p0069, p0073. [Structured record](../../records/src-41f6dbd41e06.json).
+
+Related topics: [Black Raven UAV](black-raven-uav.md).
+
+### src-1e6c72c7fff5-c03
+
+Swaruu X speculates a false invasion could be hostile or benevolent; she expects rescue-themed intervention imposing New World Order rules. She calls this a likely scenario, not certain.
+
+Attributed to **Swaruu X**; speculative; extraction confidence: high.
+
+Source: [Federación Galáctica, CIA Infiltrando en Comunidad OVNI, Falsa Bandera Extraterrestre](https://swaruu.org/transcripts/federacion-galactica-cia-infiltrando-en-comunidad-ovni-falsa-bandera-extraterrestre) (2021-07-04; es); passages p0073, p0074, p0076, p0085, p0088, p0094. [Structured record](../../records/src-1e6c72c7fff5.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-19b9c2bb57a1-c04](earth-cabal.md#src-19b9c2bb57a1-c04) — Earth Cabal and power structures
@@ -226,6 +256,9 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - conspiracy\_claims
 - disclosure-agenda-speculative
 - disputed\_specimen
+- federation-role:uncertain-human-propaganda-vs-permissive-oversight
+- pentagon-disclosure-motive-speculation
+- secret-aircraft-identification-uncertain
 - unverified\_conspiracy\_claims
 - unverified\_extraordinary\_claims
 - unverified\_extraterrestrial\_claims

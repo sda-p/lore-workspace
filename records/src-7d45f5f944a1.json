@@ -1,0 +1,106 @@
+{
+  "source_id": "src-7d45f5f944a1",
+  "snapshot_sha256": "842c2719afc365eb65511f4de00586987d4569d985ea2fa8e123f5128b46408a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7d45f5f944a1-c01",
+      "assertion": "Yazhi defines holistic society as an emergent reflection of people’s ethical, moral, and spiritual development, not an imposed model.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0030",
+        "p0031",
+        "p0045"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d45f5f944a1-c02",
+      "assertion": "She says governance mirrors collective mentality; disengagement lets self-interested elites recreate tyranny.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0013",
+        "p0042"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d45f5f944a1-c03",
+      "assertion": "She says service to others must include self-care; imposed altruism can exploit sincere people.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d45f5f944a1-c04",
+      "assertion": "Yazhi says holistic development needs unrestricted information, diverse perspectives, and independent judgment rather than truth monopolies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0046",
+        "p0047",
+        "p0050",
+        "p0053"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d45f5f944a1-c05",
+      "assertion": "She says money could disappear if scarcity thinking shifts toward inner fulfillment, while warning transitions can repeat old hierarchies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0058",
+        "p0062",
+        "p0063",
+        "p0064"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi proposes nonhuman tutoring, then says people should not wait for outside help."
+  ],
+  "coverage_gaps": [
+    "historical political examples",
+    "transition models",
+    "definitions of ethics and morality"
+  ]
+}

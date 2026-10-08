@@ -1,0 +1,48 @@
+{
+  "source_id": "src-4297ae6b09e2",
+  "snapshot_sha256": "effc97b45e12ccffe166a3325c2fe8461043d63c79c3252b866eb3f6a9b6f7d7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4297ae6b09e2-c01",
+      "assertion": "Yazhi says Taygetan magnetic-impulse craft can condense suspended atmospheric silicates into fragile borosilicate fibers through controlled plasma-jet frequencies and heat; particulates must be present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4297ae6b09e2-c02",
+      "assertion": "Yazhi distinguishes weak, touch-dissolving silicate fibers from stronger web-like fibers, which she says are probably graphene; she says laboratory analysis is needed to distinguish them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

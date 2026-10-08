@@ -1,0 +1,95 @@
+{
+  "source_id": "src-ef24a86c3200",
+  "snapshot_sha256": "948f8004612f1a4e215dc66dc6ed572ee69436e432002ef2edaae1f800df5fdd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ef24a86c3200-c01",
+      "assertion": "Anéeka says terrestrial exopolitics projects human political structures onto ET relations and misreads elected leaders as authorities.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ef24a86c3200-c02",
+      "assertion": "She says ET treat official leaders as puppets and negotiate with secret societies and nonhuman powers behind them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ef24a86c3200-c03",
+      "assertion": "She says ordinary humans do not meet Federation leaders, who communicate with those they regard as Earth’s controllers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0028",
+        "p0031"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ef24a86c3200-c04",
+      "assertion": "She characterizes humanity as a secondary, mentally modified species based on Lyrian biology.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0030"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ef24a86c3200-c05",
+      "assertion": "Anéeka says holographic society requires population-wide ethics and that humans are not ready for it.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Political authority claims are Anéeka’s account of extraterrestrial relations."
+  ],
+  "coverage_gaps": [
+    "public exopolitics frameworks",
+    "Federation membership structure",
+    "human preparation criteria"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "source_id": "src-0d554c77905f",
+  "snapshot_sha256": "2e26cfc8550e82c364eeb8ffea548000ce8f567bbdd1bfff9b85d5b2e634527a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0d554c77905f-c01",
+      "assertion": "Yazhi says temporal events are understood from one’s own timeline; external timelines may not align with that sequence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0020"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d554c77905f-c02",
+      "assertion": "Yazhi says revisiting a date through time travel creates different events because observation and memory add new variables.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d554c77905f-c03",
+      "assertion": "Yazhi describes time as expanding across multiple dimensions, with higher consciousness able to understand more temporal planes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d554c77905f-c04",
+      "assertion": "Yazhi says causal sequences can remain coherent across nonlinear jumps because each person follows a distinct timeline from the collective.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Timeline travel described as branching/lateral; source does not quantify coordinates."
+  ],
+  "coverage_gaps": [
+    "spatial-time dimensions",
+    "peace-focused advice",
+    "graph examples"
+  ]
+}

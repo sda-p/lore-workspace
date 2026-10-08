@@ -18,6 +18,10 @@ Source: [EXPLOTARA LA ESTRELLA BETELGEUSE UN PELIGRO PARA LA TIERRA\_ - MANCHAS 
 
 Related topics: [Stellar navigation](stellar-navigation.md), [Natural and artificial portals](natural-portals.md).
 
+## Claims filed under other topics
+
+- [src-8253dcdfe3e7-c01](galactic-high-energy-arms.md#src-8253dcdfe3e7-c01) — Galactic high-energy arms
+
 ## Review flags
 
 - starspot-portal-model-spans-two-speakers

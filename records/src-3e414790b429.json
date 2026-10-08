@@ -1,0 +1,70 @@
+{
+  "source_id": "src-3e414790b429",
+  "snapshot_sha256": "43f5448757c81655ac884588e11391d25d699d96edc805da0126c1402316bdf0",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Athena and Swaruu (9) describe physical laws as perception agreements that vary by density; in a more expansive view, no universal cosmic laws apply.",
+      "speaker": "Swaruu X (Athena); Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-3e414790b429-c01"
+    },
+    {
+      "assertion": "Athena says the Federation’s First Directive has imprecise, inconsistent application; her group views it as selectively used to control other groups.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0045",
+        "p0048",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is Athena’s group’s interpretation.",
+      "id": "src-3e414790b429-c02"
+    },
+    {
+      "assertion": "Athena says life plans are flexible ranges of potential paths, formed before incarnation and changing with a person’s interests; their broader aim is soul development.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-3e414790b429-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "health-topics-omitted"
+  ]
+}

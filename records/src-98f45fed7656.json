@@ -1,0 +1,97 @@
+{
+  "source_id": "src-98f45fed7656",
+  "snapshot_sha256": "2084c0bf9bb95cbfc668c466726244d5d81b15c5d3c919447648c6edbddfa36f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-98f45fed7656-c01",
+      "assertion": "Yazhi says holistic society rests on a population’s overall mindset; ethics and spirituality vary by group and resist fixed definitions.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-98f45fed7656-c02",
+      "assertion": "She says gradual transition systems can improve life without genocide, while genuine holistic society requires consciousness evolution and cannot be imposed.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0031",
+        "p0034",
+        "p0050",
+        "p0051",
+        "p0062"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-98f45fed7656-c03",
+      "assertion": "Yazhi describes controllers preparing a preconditioned population for a highly controlled society after current social structures are destroyed.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-98f45fed7656-c04",
+      "assertion": "She says the Cabal is a mass-thought egregore, sustained by collective attention and unable to persist if humanity changes its mindset.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0068",
+        "p0069",
+        "p0087",
+        "p0091"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "tulpas",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "same-language transcript counterpart: src-8636b4bb3446; all 92 paragraph texts match except title",
+    "p0027 says most inhabitants must die; p0051–53 clarify social change need not mean killing or genocide"
+  ],
+  "coverage_gaps": [
+    "controlled-replacement society mechanics",
+    "population evolution timeline",
+    "Federation policy dispute"
+  ]
+}

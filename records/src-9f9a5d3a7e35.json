@@ -1,0 +1,79 @@
+{
+  "source_id": "src-9f9a5d3a7e35",
+  "snapshot_sha256": "7f04f476ef34cbe9efd826c44d11130e3e6affe721c465f38f8cbad1e5ccd2ed",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9f9a5d3a7e35-c01",
+      "assertion": "Yazhi says material reality and temporal or dimensional categories are perception agreements, not independent containers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9f9a5d3a7e35-c02",
+      "assertion": "She says expanded understanding increases perceived complexity and can change a being’s experienced density.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9f9a5d3a7e35-c03",
+      "assertion": "Yazhi describes deceased beings attached to material life as overlapping the living and astral perceptions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9f9a5d3a7e35-c04",
+      "assertion": "She says universal consciousness underlies perceived worlds, with each creature its own timeline and reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "lore-claims-attributed-to-Yazhi"
+  ],
+  "coverage_gaps": [
+    "perception-agreement-examples",
+    "postmortem-entity-types"
+  ]
+}

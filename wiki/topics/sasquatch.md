@@ -6,6 +6,12 @@ Aliases: Yeti, Bigfoot, Menk, Pie Grande
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Bigfoot, Sasquatch and Yeti](bigfoot-sasquatch.md)
+
 ## Collected claims
 
 ### src-2bc9fdeb3e80-c01

@@ -1,0 +1,57 @@
+{
+  "source_id": "src-9922a742f77a",
+  "snapshot_sha256": "32af88931e7944f18ae8703c34901070f27f283ae6d75c63b85fe27d262937d9",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Za’el says nothing is impossible at the highest metaphysical level, but current realities have agreements; changing densities requires gradual frequency alignment and prudent action.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Za’el distinguishes metaphysical possibility from local reality rules.",
+      "id": "src-9922a742f77a-c01"
+    },
+    {
+      "assertion": "She says shared manifestations are harder because they must align with many people’s agreements; achieving goals requires action, adapting strategies, and distinguishing caution from fear.",
+      "speaker": "Za’el of Erra",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0024",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as Za’el’s advice.",
+      "id": "src-9922a742f77a-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "motivational-story-examples-omitted"
+  ]
+}

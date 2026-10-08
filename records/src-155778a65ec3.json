@@ -1,0 +1,12 @@
+{
+  "source_id": "src-155778a65ec3",
+  "snapshot_sha256": "7fa5140ab31d22fa5c3b59fbc38974cac28aa80dc7002bc4e4a6cc6f8c28b30e",
+  "language": "es",
+  "claims": [
+    {"id":"src-155778a65ec3-c01","assertion":"Yazhi says advanced Lyrian-human civilizations on Earth repeatedly rise, flourish, and collapse in cycles of roughly 5,000–10,000 years.","speaker":"Yazhi","paragraph_ids":["p0002","p0003"],"primary_topic":"lyran-expansion","topics":["lyran-expansion","timeline-branching"],"modality":"asserted","confidence":"high","qualifiers":"She says Earth and human history are far older than conventional estimates and chronology is difficult because time is nonlinear."},
+    {"id":"src-155778a65ec3-c02","assertion":"Yazhi says historical records can reflect multiple timelines rather than one linear past, complicating agreement about chronology.","speaker":"Yazhi","paragraph_ids":["p0007","p0008"],"primary_topic":"timeline-branching","topics":["timeline-branching","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"She contrasts this with a simple arrow-like model of time."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["nonlinear-history-claims"],
+  "coverage_gaps": ["historical-manipulation-claims-omitted", "building-and-archive-claims-omitted"]
+}

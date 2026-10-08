@@ -1,0 +1,47 @@
+{
+  "source_id": "src-e2289d05d7a8",
+  "snapshot_sha256": "708050f277bbbe14aa41e0c225e61fe0ebd9c4b1dd376562872c12c47ef9a7e8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e2289d05d7a8-c01",
+      "assertion": "Yazhi says Viera's space-traffic center reported no unusual arrivals, despite routine traffic that includes many Orion and Reptilian vessels.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "reptilians"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says many Reptilian vessels are nonhostile and some belong to the Federation."
+    },
+    {
+      "id": "src-e2289d05d7a8-c02",
+      "assertion": "Yazhi says hostile regressive groups use large portals and needle-nosed Draconian fighters; smaller Reptilian and non-Alpha-Draconian craft also move within Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes these hostile elements from routine Reptilian traffic."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "species-and-hostility-distinctions-preserved"
+  ],
+  "coverage_gaps": [
+    "human-manifestation-theory-omitted",
+    "earth-historical-claims-omitted"
+  ]
+}

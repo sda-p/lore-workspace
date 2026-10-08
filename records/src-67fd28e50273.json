@@ -1,0 +1,66 @@
+{
+  "source_id": "src-67fd28e50273",
+  "snapshot_sha256": "5c8dd8a43240219662209970708d916324f8d9bb82816181e73998fa84568946",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-67fd28e50273-c01",
+      "assertion": "Swaruu X says consciousness is Source itself and cannot be trapped or separated; perceived separation arises from ideas.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67fd28e50273-c02",
+      "assertion": "In Swaruu X’s model, body memory can sustain limited function as the body’s translation of consciousness weakens.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0012",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67fd28e50273-c03",
+      "assertion": "Swaruu X says the self remains embodied until bodily death, after which it may return to Source or awaken in its pod.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Vaccine causation and medical claims omitted."
+  ],
+  "coverage_gaps": [
+    "body signal-loss mechanism",
+    "entity possession claims",
+    "individual afterlife destinations"
+  ]
+}

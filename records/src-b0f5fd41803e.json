@@ -1,0 +1,73 @@
+{
+  "source_id": "src-b0f5fd41803e",
+  "snapshot_sha256": "036bc8c9624a5075b55b30741386943e8e56427007ef4c909e6bfc7bb20b7caf",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says Federation records describe the Moon as a damaged biosphere ship from the Tiamat war, later used as an orbital counterweight; she notes conflicting reports.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0009",
+        "p0010",
+        "p0021"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-b0f5fd41803e-c01"
+    },
+    {
+      "assertion": "Mari reports 12 lunar reactors, eight PWR and four fast-neutron, possibly powering Van Allen belts and lowering Earth’s frequency; she says their age and origin conflict.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "energy-generation",
+        "moon-matrix"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-b0f5fd41803e-c02"
+    },
+    {
+      "assertion": "She says Moon access requires special permits, despite Federation military traffic, limiting other species’ inspection.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-b0f5fd41803e-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "lunar-data-inconsistent"
+  ],
+  "coverage_gaps": [
+    "other-lunar-theories-omitted"
+  ]
+}

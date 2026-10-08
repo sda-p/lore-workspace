@@ -1,0 +1,80 @@
+{
+  "source_id": "src-daa6375b23e6",
+  "snapshot_sha256": "2a398b4c971e1cdb6f1264fd6662e48ef953b61bf073b6feabc460326dd49d98",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-daa6375b23e6-c01",
+      "assertion": "Athena says she, Yazhi and Minerva recall vivid memories tied to the house where Swaruu 2 grew up, despite not visiting it.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daa6375b23e6-c02",
+      "assertion": "Athena describes past and present as simultaneous; the house remains emotionally marked even before the death recalled there.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daa6375b23e6-c03",
+      "assertion": "Yazhi says expanded awareness treats past and future as ideas; fear concerns imagined futures.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daa6375b23e6-c04",
+      "assertion": "Yazhi says changing one’s interpretation of the past can shift present mindset and future; multiple pasts converge on the present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-switch:Athena-to-Yazhi",
+    "reported-shared-memory"
+  ],
+  "coverage_gaps": [
+    "house-history",
+    "past-life-mechanism"
+  ]
+}

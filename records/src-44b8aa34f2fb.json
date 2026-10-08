@@ -1,0 +1,59 @@
+{
+  "source_id": "src-44b8aa34f2fb",
+  "snapshot_sha256": "ea1082aa6730844a0cdae261e48783ee000c3d2c172262d8ba3afdd1f3893520",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari describes time as a sequence of thought and a timeline as events experienced by an individual or group; it cannot be moved independently of their changing perception and intentions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari’s metaphysical model.",
+      "id": "src-44b8aa34f2fb-c01"
+    },
+    {
+      "assertion": "Mari says ships use numerical mass-energy-frequency maps and toroidal plasma fields to match a destination’s pattern, enabling space-time travel without treating distance or dates as physical spans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "temporal-skipping",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari’s account of the navigation method.",
+      "id": "src-44b8aa34f2fb-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "detailed-engine-description-omitted"
+  ]
+}

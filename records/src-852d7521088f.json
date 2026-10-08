@@ -1,0 +1,69 @@
+{
+  "source_id": "src-852d7521088f",
+  "snapshot_sha256": "2066ca80245436a2e02eeb2fe29b175400abc212324ab7989d404fcad0d03bbf",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says biological, humanlike Shadow People come from Mensa and exist three-quarters in the lower astral, one-quarter physical, causing their ghostlike appearance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "shadow-people",
+      "topics": [
+        "shadow-people",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari presents this as information from her group.",
+      "id": "src-852d7521088f-c01"
+    },
+    {
+      "assertion": "Mari says the Federation classifies them as low-danger regressives outside its membership; they are interstellar and often invade less advanced cultures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "shadow-people",
+      "topics": [
+        "shadow-people",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed to Mari’s account.",
+      "id": "src-852d7521088f-c02"
+    },
+    {
+      "assertion": "Mari says they may be hostile or peaceful in homes; low or red light and infrared cameras can reveal them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "shadow-people",
+      "topics": [
+        "shadow-people",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed to Mari’s account.",
+      "id": "src-852d7521088f-c03"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "threat-rating-vs-local-aggression"
+  ],
+  "coverage_gaps": [
+    "other-shadow-people-claims-omitted"
+  ]
+}

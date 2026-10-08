@@ -1,0 +1,68 @@
+{
+  "source_id": "src-045ad55a01dd",
+  "snapshot_sha256": "9a44b51c34dcd5276b48410b292b60968b331275e582b3f2c9250331310b4649",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-045ad55a01dd-c01",
+      "assertion": "Yazhi attributes the last magnetic-pole reversal to Tiamat’s water influx, which she says could disrupt Earth’s energy dynamics.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0005"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-045ad55a01dd-c02",
+      "assertion": "Yazhi describes magnetic reversals as catastrophic for biology, causing mass extinctions; she says they are unrelated to ascension.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "global-deluge",
+      "topics": [
+        "global-deluge"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-045ad55a01dd-c03",
+      "assertion": "Anéeka contrasts Swaruu’s lunar Matrix separation of physical and astral bodies around 12,500 years ago with Yazhi’s self-reinforcing collective-trauma model.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Different trauma explanations are attributed separately to Swaruu and Yazhi."
+  ],
+  "coverage_gaps": [
+    "glaciation chronology",
+    "Van Allen relevance",
+    "future polarity forecast"
+  ]
+}

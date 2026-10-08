@@ -1444,6 +1444,60 @@ Source: [MUJER PLEYADIANA TAYGETEANA - ANÉEKA DE TEMMER](https://swaruu.org/tra
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-29ae7cdf0163-c02
+
+The Federation uses tiered holographic councils, escalating unresolved matters from local to larger regional, planetary and stellar councils.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica - Que es? Taygeta (Pléyades) y Federación - Acusaciones Mutuas (Swaruu X)](https://swaruu.org/transcripts/federacion-galactica-que-es-taygeta-pleyades-y-federacion-acusaciones-mutuas-swaruu-x) (2021-06-18; es); passages p0017. [Structured record](../../records/src-29ae7cdf0163.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-2aeaa7622c61-c02
+
+Yazhi describes holographic society as adaptable and rooted in small communities that coordinate and provide mutual aid. She says it can begin with two people.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares - Que Debemos Hacer Ahora? Conversacion con Yazhi Swaruu - Niña Extraterrestre](https://swaruu.org/transcripts/semillas-estelares-que-debemos-hacer-ahora-conversacion-con-yazhi-swaruu-nina-extraterrestre) (2021-09-07; es); passages p0031, p0033, p0034. [Structured record](../../records/src-2aeaa7622c61.json).
+
+### src-eb16750d6a08-c01
+
+Anéeka says Taygetans use a nonintrusive planetary information network linked to Alcyone and Federation networks; citizens can post news without YouTube-like censorship. Users choose what information to seek.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MEDIOS DE COMUNICACIÓN EN TAYGETA - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/medios-de-comunicacion-en-taygeta-sin-video) (2021-04-19; es); passages p0003, p0004. [Structured record](../../records/src-eb16750d6a08.json).
+
+Related topics: [Alcyone Council](alcyone-council.md), [Galactic Federation](galactic-federation.md).
+
+### src-eb16750d6a08-c02
+
+She says entertainment is designed to teach and expand collective consciousness by encouraging independent thought and sharing personal philosophy.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MEDIOS DE COMUNICACIÓN EN TAYGETA - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/medios-de-comunicacion-en-taygeta-sin-video) (2021-04-19; es); passages p0005, p0006. [Structured record](../../records/src-eb16750d6a08.json).
+
+### src-d3e73f956099-c01
+
+Anéeka says Taygetan orphans live in functional, age-scaled homes under noninvasive supervision; stoves have child-safe training limits. Her description.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pleyades - Taygeta - Preguntas del Público para Anéeka de Temmer (Contacto Extraterrestre)](https://swaruu.org/transcripts/pleyades-taygeta-preguntas-del-publico-para-aneeka-de-temmer-contacto-extraterrestre) (2020-11-11; es); passages p0008, p0009, p0013, p0015. [Structured record](../../records/src-d3e73f956099.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-ef24a86c3200-c05
+
+Anéeka says holographic society requires population-wide ethics and that humans are not ready for it.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MUJER \#EXTRATERRESTRE ME HABLA DE \#EXOPOLITICA PARA ADULTOS - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/mujer-extraterrestre-me-habla-de-exopolitica-para-adultos-aneeka-de-temmer) (2021-08-29; es); passages p0022. [Structured record](../../records/src-ef24a86c3200.json).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -1507,6 +1561,11 @@ Related topics: [Taygetans](taygetans.md).
 - [src-7364ad45d63b-c01](taygetans.md#src-7364ad45d63b-c01) — Taygetans
 - [src-7364ad45d63b-c02](taygetans.md#src-7364ad45d63b-c02) — Taygetans
 - [src-95bb43e551f3-c04](taygetans.md#src-95bb43e551f3-c04) — Taygetans
+- [src-9d6a70cdb1fa-c01](taygetans.md#src-9d6a70cdb1fa-c01) — Taygetans
+- [src-dc304babfddc-c02](procyon.md#src-dc304babfddc-c02) — Planet Procyon
+- [src-eb16750d6a08-c03](holographic-computers.md#src-eb16750d6a08-c03) — Holographic computers
+- [src-6e854bde7448-c04](alcyone-council.md#src-6e854bde7448-c04) — Alcyone Council
+- [src-78ab0bda1cd0-c04](consciousness-metaphysics.md#src-78ab0bda1cd0-c04) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -1516,7 +1575,9 @@ Related topics: [Taygetans](taygetans.md).
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
+- Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-arguments\_reported
+- Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Senetre-diagnosed-weapon-route-suspected
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - agenda\_term\_varies
@@ -1524,6 +1585,7 @@ Related topics: [Taygetans](taygetans.md).
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - attack-theory\_speculative
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
+- collective-self-perspective-attributed
 - conditional\_forecast
 - conflicting\_primary\_purpose\_claims
 - conspiracy\_claims
@@ -1534,6 +1596,7 @@ Related topics: [Taygetans](taygetans.md).
 - dialogue-perspectives-distinguished
 - disability-spiritualization
 - earth-consciousness\_claim\_omitted
+- earth-reset-control-claim
 - ethical\_use\_limits
 - extraordinary\_economic\_claims
 - extraordinary\_exopolitical\_claims
@@ -1542,6 +1605,8 @@ Related topics: [Taygetans](taygetans.md).
 - extraordinary\_medical\_claims
 - extraordinary\_metaphysical\_claims
 - family-dynamics-generalization
+- federation-alcyone-policy-conflict
+- federation-intervention-rationale
 - federation-name-level-ambiguity
 - federation-nonintervention
 - federation\_dispute
@@ -1556,6 +1621,7 @@ Related topics: [Taygetans](taygetans.md).
 - intervention\_tension
 - manifestation\_mechanics
 - matrix\_scope
+- medical-and-abduction-claims-excluded
 - medical-causation-claims
 - medical\_claims\_omitted
 - metaphysical-claims
@@ -1573,6 +1639,7 @@ Related topics: [Taygetans](taygetans.md).
 - political\_structure\_claims
 - politically\_contested
 - prior\_statement\_conflict
+- procyon-proceon-name-distinction
 - related\_series\_part
 - reported\_plan
 - royal-selection-and-symbolism-attributed

@@ -622,6 +622,30 @@ Source: [Sociedad Pleyadiana (Taygeta) PARTE 1: Mensaje Extraterrestre (17)](htt
 
 Related topics: [Holistic society](holistic-society.md), [Taygetan ecosystems](taygetan-ecosystems.md).
 
+### src-87d412699e7d-c03
+
+Yazhi says middle Cabal ranks transact in gold, while the highest ranks own assets and need no ordinary economy.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Vaticano - Jesuitas - Cabal - Federación - Estructura del Poder Secreto en la Tierra - Yazhi Swaruu](https://swaruu.org/transcripts/vaticano-jesuitas-cabal-federacion-estructura-del-poder-secreto-en-la-tierra-yazhi-swaruu) (2021-08-25; es); passages p0015, p0016. [Structured record](../../records/src-87d412699e7d.json).
+
+### src-e6f92afe177d-c03
+
+Swaruu X says interstellar exchange shares ideas and technology; original art remains valuable while material goods are shared.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu Responde Preguntas del Publico en Vivo - TEXTO SOLAMENTE](https://swaruu.org/transcripts/athena-swaruu-responde-preguntas-del-publico-en-vivo-texto-solamente) (2021-11-07; es); passages p0038, p0040. [Structured record](../../records/src-e6f92afe177d.json).
+
+### src-b0eb7ba14903-c03
+
+Anéeka says a concurrent economic reset could favor banks and large corporations.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Pruebas de PCR, Nanotecnologia y Q Anon - Peligros de Pruebas PCR - Advertencia a la Humanidad - Aneeka y Yazhi](https://swaruu.org/transcripts/pruebas-de-pcr-nanotecnologia-y-q-anon-peligros-de-pruebas-pcr-advertencia-a-la-humanidad-aneeka-y-y) (2021-02-13; es); passages p0005. [Structured record](../../records/src-b0eb7ba14903.json).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -676,17 +700,29 @@ Related topics: [Holistic society](holistic-society.md), [Taygetan ecosystems](t
 - [src-49447d1539c8-c02](earth-cabal.md#src-49447d1539c8-c02) — Earth Cabal and power structures
 - [src-45f2406866f4-c01](earth-cabal.md#src-45f2406866f4-c01) — Earth Cabal and power structures
 - [src-18ebdb1cca3c-c02](earth-cabal.md#src-18ebdb1cca3c-c02) — Earth Cabal and power structures
+- [src-eb16750d6a08-c03](holographic-computers.md#src-eb16750d6a08-c03) — Holographic computers
+- [src-8a02bd099c08-c03](moon-matrix.md#src-8a02bd099c08-c03) — Moon and terrestrial Matrix
+- [src-f2d7d797c8f4-c01](earth-cabal.md#src-f2d7d797c8f4-c01) — Earth Cabal and power structures
+- [src-f2d7d797c8f4-c02](earth-cabal.md#src-f2d7d797c8f4-c02) — Earth Cabal and power structures
+- [src-f2d7d797c8f4-c03](reptilian-invaders.md#src-f2d7d797c8f4-c03) — Reptilian invaders
+- [src-484a3e354961-c03](galactic-federation.md#src-484a3e354961-c03) — Galactic Federation
 
 ## Review flags
 
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
+- Federation alternately described as Earth controller and nonultimate authority.
 - Federation-infiltration\_theory
 - Federation-sanctions\_reported
+- Internet-blackout prediction is explicitly uncertain.
+- Meteor-intervention and Earth-consciousness claims are source-attributed.
+- PCR and vaccine medical claims omitted.
 - approximate-age-estimate
 - attack-theory\_speculative
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
 - care-access-claims
+- competing-human-and-federation-perspectives-attributed
+- conspiracy-allegations
 - conspiracy-claims
 - contested-claims
 - coverage: climate and architecture
@@ -702,6 +738,7 @@ Related topics: [Holistic society](holistic-society.md), [Taygetan ecosystems](t
 - extraordinary\_economic\_claims
 - extraordinary\_exopolitical\_claims
 - faction\_tension
+- federation-role-contradiction
 - field-procedure-account-attributed-to-mari
 - first-person claims reflect Gosia’s account in a dispute
 - fleet-status\_as-reported

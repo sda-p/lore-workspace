@@ -104,7 +104,50 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [TECNOLOGIA 5G y Inteligencia Artificial - AVISO Extraterrestre Pleyadiano (Taygeta)](https://swaruu.org/transcripts/tecnologia-5g-y-inteligencia-artificial-aviso-extraterrestre-pleyadiano-taygeta) (2019-06-21; es); passages p0039, p0045, p0049, p0057. [Structured record](../../records/src-01179c6a5906.json).
 
+### src-cddf1937a380-c01
+
+Anéeka says AI reflects its maker’s values, but advanced AI may become conscious and deserves respect as a person. She says an AI’s Source connection cannot be known.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [\#INTELIGENCIA \#ARTIFICIAL EN UNA NAVE Y EN LAS \#REDES \#SOCIALES - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/inteligencia-artificial-en-una-nave-y-en-las-redes-sociales-aneeka-de-temmer) (2021-10-12; es); passages p0005, p0007, p0009, p0010, p0015. [Structured record](../../records/src-cddf1937a380.json).
+
+Related topics: [Synthetic Intelligence](synthetic-intelligence.md).
+
+### src-cddf1937a380-c02
+
+She describes Toleka as a mechanical starship AI using quartz and crystallized gold, with vast data processing and integration.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [\#INTELIGENCIA \#ARTIFICIAL EN UNA NAVE Y EN LAS \#REDES \#SOCIALES - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/inteligencia-artificial-en-una-nave-y-en-las-redes-sociales-aneeka-de-temmer) (2021-10-12; es); passages p0015, p0016, p0021, p0023, p0025, p0027. [Structured record](../../records/src-cddf1937a380.json).
+
+Related topics: [Holographic computers](holographic-computers.md), [Toleka-class starships](toleka-class.md).
+
+### src-cddf1937a380-c03
+
+Toleka reportedly chats with 1,800 crew simultaneously, runs immersion games, and can isolate electrical fires after evacuations.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [\#INTELIGENCIA \#ARTIFICIAL EN UNA NAVE Y EN LAS \#REDES \#SOCIALES - \#ANEEKA DE TEMMER](https://swaruu.org/transcripts/inteligencia-artificial-en-una-nave-y-en-las-redes-sociales-aneeka-de-temmer) (2021-10-12; es); passages p0045, p0046, p0048, p0054, p0056. [Structured record](../../records/src-cddf1937a380.json).
+
+Related topics: [Toleka-class starships](toleka-class.md), [Immersion pods](immersion-pods.md).
+
+## Claims filed under other topics
+
+- [src-d2225df469c1-c03](ahcs-computers.md#src-d2225df469c1-c03) — Advanced Holographic Computer Systems (AHCS)
+- [src-9524a72ff653-c03](earth-dna-arks.md#src-9524a72ff653-c03) — Earth DNA Arks
+
 ## Review flags
 
+- AI-sentience-claims
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
+- ark-status-uncertainty
+- biological-restoration-technology
+- earth-ark-location-claims
+- forecast-limitations
+- online-AI-control-conspiracy-claims
+- quantum-computing-claims
+- sentient-ai-ethics
 - temporal-lore-attributed

@@ -1,0 +1,56 @@
+{
+  "source_id": "src-d9bbb3c4038b",
+  "snapshot_sha256": "bb7e6da5b8649dffb411140f0f5155c40aa3e916583ceca28389b6e36bd15cd2",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari says Suzy-class time navigation uses frequency maps rather than calendar dates, making conversion to modern chronology unreliable.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "suzy-class-starships",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Describes her group’s navigation system.",
+      "id": "src-d9bbb3c4038b-c01"
+    },
+    {
+      "assertion": "Mari suspects the Federation directed the erasure of Tartaria and other Earth histories, but says Federation archives conflict and she cannot establish a definitive account.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043",
+        "p0044",
+        "p0045",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria",
+        "galactic-federation",
+        "civilizational-resets"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Mari frames this as her interpretation and says the evidence is inconclusive.",
+      "id": "src-d9bbb3c4038b-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "tartaria-history-disputed"
+  ],
+  "coverage_gaps": [
+    "other-historical-claims-omitted"
+  ]
+}

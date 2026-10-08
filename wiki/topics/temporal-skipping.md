@@ -540,6 +540,42 @@ Source: [VIAJES EN EL ESPACIO TIEMPO - RESPUESTAS A TUS PREGUNTAS - LO QUE NO TE
 
 Related topics: [Sand Clock](sand-clock.md).
 
+### src-a16662523ccb-c03
+
+Yázhi says shared time is a collective agreement, while each observer retains a distinct personal perception.
+
+Attributed to **Yázhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL TIEMPO COMO FUNCIONA - LA FUENTE - YAZHI SWARRU](https://swaruu.org/transcripts/el-tiempo-como-funciona-la-fuente-yazhi-swarru) (2021-05-05; es); passages p0010, p0011, p0034, p0057. [Structured record](../../records/src-a16662523ccb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a16662523ccb-c04
+
+She contrasts linear 3D time with multidirectional time perception associated with broader consciousness.
+
+Attributed to **Yázhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL TIEMPO COMO FUNCIONA - LA FUENTE - YAZHI SWARRU](https://swaruu.org/transcripts/el-tiempo-como-funciona-la-fuente-yazhi-swarru) (2021-05-05; es); passages p0063, p0065, p0083, p0087, p0091. [Structured record](../../records/src-a16662523ccb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2bf76cf1cd2e-c01
+
+Swaruu X reports nearly five Earth days per Temmer day; she gives the gap as 4.5:1 in 2019 and 4.7–4.8:1 in 2021.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Bandas Van Allen, Resonancia Schumann, Memorias - Athena Swaruu - Contacto Extraterrestre](https://swaruu.org/transcripts/bandas-van-allen-resonancia-schumann-memorias-athena-swaruu-contacto-extraterrestre) (2021-10-25; es); passages p0004, p0013. [Structured record](../../records/src-2bf76cf1cd2e.json).
+
+### src-0d554c77905f-c02
+
+Yazhi says revisiting a date through time travel creates different events because observation and memory add new variables.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EL TIEMPO - SALTOS TEMPORALES \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/el-tiempo-saltos-temporales-sin-video) (2021-06-27; es); passages p0006, p0007, p0009. [Structured record](../../records/src-0d554c77905f.json).
+
 ## Claims filed under other topics
 
 - [src-c72b629726c7-c01](stellar-navigation.md#src-c72b629726c7-c01) — Stellar navigation
@@ -567,6 +603,12 @@ Related topics: [Sand Clock](sand-clock.md).
 - [src-3fe6ca238068-c02](frequency-map-navigation.md#src-3fe6ca238068-c02) — Frequency-map navigation
 - [src-3fe6ca238068-c03](timeline-branching.md#src-3fe6ca238068-c03) — Timeline branching
 - [src-2c51b741eabb-c05](stellar-navigation.md#src-2c51b741eabb-c05) — Stellar navigation
+- [src-74fefae75775-c01](swaruunians.md#src-74fefae75775-c01) — Swaruunians
+- [src-d2225df469c1-c01](ahcs-computers.md#src-d2225df469c1-c01) — Advanced Holographic Computer Systems (AHCS)
+- [src-d2225df469c1-c05](ahcs-computers.md#src-d2225df469c1-c05) — Advanced Holographic Computer Systems (AHCS)
+- [src-a16662523ccb-c01](consciousness-metaphysics.md#src-a16662523ccb-c01) — Consciousness and metaphysics
+- [src-ed934b122dbc-c02](sand-clock.md#src-ed934b122dbc-c02) — Sand Clock
+- [src-ed934b122dbc-c03](timeline-branching.md#src-ed934b122dbc-c03) — Timeline branching
 
 ## Review flags
 
@@ -574,11 +616,17 @@ Related topics: [Sand Clock](sand-clock.md).
 - English source src-dd0d7340a655 closely translates the complete Spanish article; paragraph segmentation differs, with no substantive additions found.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
+- Timeline travel described as branching/lateral; source does not quantify coordinates.
+- Van Allen belts both set a baseline and can be transcended; preserve distinction.
 - black-hole-ether-model
+- consciousness-gravity-model
 - conspiracy\_claims
 - dated-non-deterministic-prediction
+- death-account:medical-cause-and-ether-dissolution
+- deliberate-contradiction-note
 - extraordinary-ability-claims
 - flight-19-explanation-uncertain
+- forecast-limitations
 - integration-vs-personal-identity
 - internal-date-tension
 - long conversation contains disputed health claims not included in core extraction
@@ -589,17 +637,22 @@ Related topics: [Sand Clock](sand-clock.md).
 - personal\_metaphysics
 - portal-time-travel-risk
 - psychological memory-rewriting discussion could be confused with clinical guidance
+- quantum-computing-claims
 - same-language-near-duplicate-src-6a5223076196
 - self-described-species-transition
+- sentient-ai-ethics
 - speaker-shift-in-source
 - speaker\_attribution
+- subjective-time-model
 - temporal-branching-does-not-alter-observers' timelines
 - temporal-duplicate-theory
 - temporal-lore-attributed
 - timeline-as-mind-model
+- timeline-model-variant:personal-vs-collective
 - timeline-model-varies-from-linear-view
 - title-metadata-diff
 - translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448
+- translation-counterpart:src-06a1e5437c02-close-full
 - translation-counterpart:src-ce6ea4ce1c3c-close
 - translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
 - unproven-historical-speculation

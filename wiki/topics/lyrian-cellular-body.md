@@ -91,6 +91,8 @@ Source: [Biogenética trans-dimensional. Secretos - SWARUU - Sistema Taygeta - P
 - [src-7ea3539f3fa4-c03](alien-species.md#src-7ea3539f3fa4-c03) — Alien species and distinctions
 - [src-6a1113ff029c-c03](taygetans.md#src-6a1113ff029c-c03) — Taygetans
 - [src-6a1113ff029c-c04](taygetans.md#src-6a1113ff029c-c04) — Taygetans
+- [src-d9a04b018638-c01](taygetans.md#src-d9a04b018638-c01) — Taygetans
+- [src-d9a04b018638-c03](taygetans.md#src-d9a04b018638-c03) — Taygetans
 
 ## Review flags
 

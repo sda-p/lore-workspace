@@ -1,0 +1,95 @@
+{
+  "source_id": "src-e6f92afe177d",
+  "snapshot_sha256": "147f2c1850f9afae5dbb97a333b67da8dfe5ab077b54d275ce3d6b678c12dc23",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e6f92afe177d-c01",
+      "assertion": "Swaruu X says beings across densities coexist as human vessels or astral forms, some inspiring or whispering to people.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e6f92afe177d-c02",
+      "assertion": "Swaruu X says sentient Earth reflects human, plant, animal, and stellar consciousness; Earth and humans affect each other.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e6f92afe177d-c03",
+      "assertion": "Swaruu X says interstellar exchange shares ideas and technology; original art remains valuable while material goods are shared.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e6f92afe177d-c04",
+      "assertion": "Swaruu X says Taygetans and other races prevent meteor impacts, which she calls uncommon.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "solar-system-objects",
+      "topics": [
+        "solar-system-objects"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e6f92afe177d-c05",
+      "assertion": "Swaruu X describes long-range internet relayed through Muon, human satellites, and Federation-controlled servers.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "muonic-gravitational-communications",
+      "topics": [
+        "muonic-gravitational-communications"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Meteor-intervention and Earth-consciousness claims are source-attributed."
+  ],
+  "coverage_gaps": [
+    "Federation politics",
+    "food systems",
+    "parallel-self cosmology"
+  ]
+}

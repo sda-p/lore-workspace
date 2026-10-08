@@ -6,6 +6,12 @@ Aliases: Alpha Dracos, Alpha Draconian
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Alpha Dracos](alpha-dracos.md)
+
 ## Collected claims
 
 ### src-84a31dbc8140-c01
@@ -54,8 +60,31 @@ Source: [SUBMARINOS NAVES ESPACIALES - PROGRAMA ESPACIAL SECRETO - DONALD TRUMP]
 
 Related topics: [Galactic Federation](galactic-federation.md), [Secret Space Program](secret-space-program.md).
 
+### src-791b660d5229-c01
+
+Yazhi says the Draconian Empire and Orion Alliance exist beyond Earth, but human accounts distort and humanize them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [El Imperio Draconiano y La Alianza de Orion Yazhi Swaruu](https://swaruu.org/transcripts/el-imperio-draconiano-y-la-alianza-de-orion-yazhi-swaruu) (2021-07-21; es); passages p0002, p0003, p0004. [Structured record](../../records/src-791b660d5229.json).
+
+Related topics: [Orion Wars](orion-wars.md).
+
+## Claims filed under other topics
+
+- [src-7ee742c5e8d8-c03](reptilians.md#src-7ee742c5e8d8-c03) — Reptilians
+- [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
+- [src-c57cf7f12530-c03](maitre.md#src-c57cf7f12530-c03) — Maitre
+
 ## Review flags
 
+- antarctic-base-conspiracy-claims
+- contextual-contradictions
+- egregor-versus-species-distinction
+- exopolitical-faction-claims
 - federation-seizure-claim
+- hidden-inner-earth-entrance-claim
+- metaphysical-collective-reality-model
+- reptilian-soul-claims
 - secret-space-program-claims
 - uncertain-origin

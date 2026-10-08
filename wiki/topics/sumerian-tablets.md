@@ -6,6 +6,12 @@ Aliases: Sumerian tablets
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Sumerian tablet interpretations](sumerian-tablet-interpretations.md)
+
 ## Collected claims
 
 ### src-fdf4bfc8aa32-c01

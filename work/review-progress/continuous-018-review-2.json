@@ -1,0 +1,53 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-08T17:57:14+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-018",
+    "reviewer": 2,
+    "reviewed_source_ids": [
+      "src-c95dc974c9ea",
+      "src-3e51d50bca48",
+      "src-d719aa2d7aad",
+      "src-5bb94203be11",
+      "src-73fc78d38b70",
+      "src-a833dee05151",
+      "src-ccffbaeef82b",
+      "src-852d7521088f",
+      "src-3b1c05f31acd",
+      "src-b0f5fd41803e",
+      "src-e29710d91597",
+      "src-2c81dcc2e671",
+      "src-1917bcf83880",
+      "src-44b8aa34f2fb",
+      "src-2d6710ddd4d1",
+      "src-c79c521e2617",
+      "src-720349fd0c8e",
+      "src-792d96d276c2",
+      "src-9922a742f77a"
+    ],
+    "corrections": [],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-c95dc974c9ea": "57910b62deedd9c56ec8f30a3168947f03ed0131f5d7f1d6587114d7d8b961a9",
+    "src-3e51d50bca48": "59a4df09cd7ddd63a53fdf558ded534ea777a16a19e480650a74f793d797fe8d",
+    "src-d719aa2d7aad": "f1056dfcb8608119b1f9f1279bde1c4ba2c602b4b59c66828b7260eaffd43b27",
+    "src-5bb94203be11": "fb673d24286718cb0fc654d1dda1b66fb6819a3a0a083d98497585565fc0d61d",
+    "src-73fc78d38b70": "383776ca7af198a30588d5cac6d5c2f2f265f993b99db64c8daec538ceb21765",
+    "src-a833dee05151": "fb794f2c2d1fc042f9297319780d41d015b98104084022c4934590fd6c437475",
+    "src-ccffbaeef82b": "a9abf7ca24d4c26f7acad0f54028bc0abcada3ed55c31c19d1c685daead01c9d",
+    "src-852d7521088f": "98a6bc1e89a3ac7c8963845e1d9eb30aafa309f29509041d330ff77ae7a08e4d",
+    "src-3b1c05f31acd": "f6bdd558a4a6e3f0b6b75376a8ef7eb77a7e529e2023bc3eb7540f133e64842d",
+    "src-b0f5fd41803e": "28ad019374238c70c0eeb32c20dc0d1874f5b2054a9bfb83459aab729a2ff478",
+    "src-e29710d91597": "54cf822dc49caa132588423a0332e420c10cd3c7af6f4f9e75fbf7e930ef0c83",
+    "src-2c81dcc2e671": "65f494273d0b8e8e52f6193515911d1ba3b73f06674e2c71ac980184063d11fe",
+    "src-1917bcf83880": "11002b1d705608e9285832ce169022cf620da18c7dd23f0150958ee6388391ff",
+    "src-44b8aa34f2fb": "09128eb7badc3c7b9fb7efd1374966ea74cfabf5b70161a7f88fae19194a313a",
+    "src-2d6710ddd4d1": "6b6c0c3b496a2188918de3fd30d51913ca1185e63f75f1c8712c07ddb54315ea",
+    "src-c79c521e2617": "701fc76d2eb93f6834b7e0e217dde2c94341139f19cefbc28a6e14616789f1c1",
+    "src-720349fd0c8e": "5a42fb238f076a62f9cde2a158403d962181906f651b439917b5ba2c769ddb01",
+    "src-792d96d276c2": "c7086753ef873134213d0e269339ca17f9ab7ad8c75b6e462caffb5288b24619",
+    "src-9922a742f77a": "d17d80375690ba31a02d443e14dfbd711273eee6e2cabc7b862231d38e24e105"
+  }
+}

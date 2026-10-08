@@ -1,0 +1,68 @@
+{
+  "source_id": "src-3e51d50bca48",
+  "snapshot_sha256": "13cd0d1dec18b78e503a3ff903d06564bf39d8c87386b540ee0be49291110a2e",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Yazhi defines a katra as a consciousness bounded by its perceptual ideas and says its identity persists beyond bodily death; each remains a fragment of Source.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-3e51d50bca48-c01"
+    },
+    {
+      "assertion": "Yazhi says katras may fragment or merge through ideas and experiences: identical twins can diverge from one katra, while similar-frequency katras share experiences and form new paths between lives, beyond linear time.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021",
+        "p0025",
+        "p0026",
+        "p0028",
+        "p0029",
+        "p0036",
+        "p0037",
+        "p0042",
+        "p0044",
+        "p0047"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Yazhi calls this process admatic fragmentation; the article also describes fusion.",
+      "id": "src-3e51d50bca48-c02"
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "admatic-soul-fragmentation",
+      "name": "Admatic soul fragmentation",
+      "kind": "cosmological mechanism",
+      "aliases": [
+        "fragmentación admática",
+        "admatic fragmentation"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": []
+}

@@ -126,6 +126,14 @@ Source: [EL VERDADERO SIGNIFICADO DE COVID-19 – Significa una operación Milit
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+### src-4077e2cdca7d-c03
+
+Swaruu X says most UFO reports are ordinary objects, though nonhuman craft are still reported several times each hour. She gives an estimate, not a confirmed count.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: medium.
+
+Source: [Divulgación "Ovni" de Pentágono - Mentiras del Gobierno - Origen de la Nave](https://swaruu.org/transcripts/divulgacion-ovni-de-pentagono-mentiras-del-gobierno-origen-de-la-nave) (2021-08-14; es); passages p0041, p0042, p0043. [Structured record](../../records/src-4077e2cdca7d.json).
+
 ## Claims filed under other topics
 
 - [src-270ba8d9da62-c03](frequency-map-navigation.md#src-270ba8d9da62-c03) — Frequency-map navigation

@@ -6,6 +6,12 @@ Aliases: starseeds, guides
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Starseeds](starseeds.md)
+
 ## Collected claims
 
 ### src-336f7353bbdf-c03

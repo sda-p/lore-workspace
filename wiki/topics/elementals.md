@@ -55,3 +55,34 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 Source: [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Higher Consciousness (PART 1)](https://swaruu.org/transcripts/athena-swaruu-spiritual-chat-with-dale-rich-2021-higher-consciousness-part-1) (2025-08-20; en); passages p0060, p0062, p0064, p0067. [Structured record](../../records/src-b13379b319a5.json).
 
 Related topics: [Starship systems](starship-systems.md).
+
+### src-9143cd103af6-c03
+
+Swaruu X says beings outside an observer’s framework may be unseen; ship gravity sensors render elementals as images and detect their mass. Her account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [3D - 5D son Estados Mentales - Somos Seres en Varias Densidades a la vez - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/3d-5d-son-estados-mentales-somos-seres-en-varias-densidades-a-la-vez-yazhi-y-athena-swaruu) (2021-08-17; es); passages p0083, p0085, p0086, p0087. [Structured record](../../records/src-9143cd103af6.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+### src-7de827628fae-c04
+
+Yazhi says ship gravity sensors detect goblins as mass anomalies and enhance images, while step-downs’ direct perception varies. Her account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ENERGÍAS NEGATIVAS COMO COMBATIRLAS Proteccion Espiritual - Sophia Swaruu - Yazhi](https://swaruu.org/transcripts/energias-negativas-como-combatirlas-proteccion-espiritual-sophia-swaruu-yazhi) (2021-11-01; es); passages p0055, p0056, p0061. [Structured record](../../records/src-7de827628fae.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
+## Claims filed under other topics
+
+- [src-4a19348a3734-c01](druidic-traditions.md#src-4a19348a3734-c01) — Druidic traditions
+- [src-7de827628fae-c03](interdimensional-parasites.md#src-7de827628fae-c03) — Interdimensional parasites
+
+## Review flags
+
+- distinct-speaker-models-attributed
+- mental-health-and-protection-advice-excluded
+- paranormal-entity-claims-attributed

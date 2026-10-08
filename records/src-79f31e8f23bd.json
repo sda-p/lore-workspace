@@ -1,0 +1,90 @@
+{
+  "source_id": "src-79f31e8f23bd",
+  "snapshot_sha256": "06f446d7b600e77e363d20c2bdfbdcdce25d0b25f8acbfb5d6b0c371ed811123",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-79f31e8f23bd-c01",
+      "assertion": "Yazhi says lower-density souls use duality and suffering as contrast for learning and experiencing opposites.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0029"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-79f31e8f23bd-c02",
+      "assertion": "She says souls are equally eternal; apparent age and advancement reflect attention within lower-density perspectives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-79f31e8f23bd-c03",
+      "assertion": "Yazhi describes greater integration as broadening identity while reducing individual particularity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0053",
+        "p0057",
+        "p0061",
+        "p0065"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-79f31e8f23bd-c04",
+      "assertion": "She says complete unity removes contrast and the distinct self, while creation resumes through renewed identity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0036",
+        "p0038",
+        "p0067",
+        "p0074"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi presents several perspective-dependent formulations of identity and integration"
+  ],
+  "coverage_gaps": [
+    "density mechanics",
+    "stages of learning"
+  ]
+}

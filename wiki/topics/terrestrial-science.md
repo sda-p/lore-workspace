@@ -2212,6 +2212,86 @@ Source: [EL VERDADERO SIGNIFICADO DE COVID-19 – Significa una operación Milit
 
 Related topics: [Nanotechnology and implants](nanotechnology.md).
 
+### src-838da06df0a1-c02
+
+Anéeka describes Earth as an irregular geoid; she links its uneven shape to surface gravity and magnetic anomalies. She calls it potato-shaped as a rough analogy.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tierra Plana - Conversación con Athena Swaruu y Aneeka - Contacto Extraterrestre](https://swaruu.org/transcripts/tierra-plana-conversacion-con-athena-swaruu-y-aneeka-contacto-extraterrestre) (2021-09-29; es); passages p0024, p0047. [Structured record](../../records/src-838da06df0a1.json).
+
+### src-838da06df0a1-c03
+
+Anéeka says atmospheric layers move in different directions but rotate with Earth; the atmosphere fades gradually, with no physical boundary to space. She says the boundary is set by convention.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Tierra Plana - Conversación con Athena Swaruu y Aneeka - Contacto Extraterrestre](https://swaruu.org/transcripts/tierra-plana-conversacion-con-athena-swaruu-y-aneeka-contacto-extraterrestre) (2021-09-29; es); passages p0078, p0079, p0080. [Structured record](../../records/src-838da06df0a1.json).
+
+### src-a233d8d37765-c01
+
+Anéeka says flat-Earth narratives confuse people and weaken belief in extraterrestrial life by denying other planets. She says the Federation has no obvious direct link.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [El \#Terraplanismo - La Tierra Plana - Anéeka de Temmer](https://swaruu.org/transcripts/el-terraplanismo-la-tierra-plana-aneeka-de-temmer) (2021-11-11; es); passages p0006, p0012, p0065, p0067. [Structured record](../../records/src-a233d8d37765.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a233d8d37765-c03
+
+Anéeka describes Earth as an irregular geoid whose uneven surface produces measurable gravity and magnetic anomalies. She calls it potato-shaped as an analogy.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [El \#Terraplanismo - La Tierra Plana - Anéeka de Temmer](https://swaruu.org/transcripts/el-terraplanismo-la-tierra-plana-aneeka-de-temmer) (2021-11-11; es); passages p0038, p0042, p0061. [Structured record](../../records/src-a233d8d37765.json).
+
+### src-6ee50082e97e-c01
+
+Anéeka argues orbital vacuum itself has no temperature; temperatures describe exposed surfaces and radiation-driven heat transfer. This is her account of orbital thermal physics.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [SATÉLITES Y SU TEMPERATURA EN EL ESPACIO – \#ANÉEKA DE TEMMER - CONVERSACION \#EXTRATERRESTRE](https://swaruu.org/transcripts/satelites-y-su-temperatura-en-el-espacio-aneeka-de-temmer-conversacion-extraterrestre) (2021-10-10; es); passages p0002, p0003, p0004, p0005, p0006, p0031. [Structured record](../../records/src-6ee50082e97e.json).
+
+### src-6ee50082e97e-c03
+
+She estimates active satellites are far fewer than thousands claimed, with the exact number unknown.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [SATÉLITES Y SU TEMPERATURA EN EL ESPACIO – \#ANÉEKA DE TEMMER - CONVERSACION \#EXTRATERRESTRE](https://swaruu.org/transcripts/satelites-y-su-temperatura-en-el-espacio-aneeka-de-temmer-conversacion-extraterrestre) (2021-10-10; es); passages p0019, p0020, p0021. [Structured record](../../records/src-6ee50082e97e.json).
+
+### src-6ee50082e97e-c04
+
+She claims the ISS and Chinese station are empty CGI, arguing heat accumulation makes habitation impossible.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [SATÉLITES Y SU TEMPERATURA EN EL ESPACIO – \#ANÉEKA DE TEMMER - CONVERSACION \#EXTRATERRESTRE](https://swaruu.org/transcripts/satelites-y-su-temperatura-en-el-espacio-aneeka-de-temmer-conversacion-extraterrestre) (2021-10-10; es); passages p0023, p0024, p0025, p0026, p0028, p0030. [Structured record](../../records/src-6ee50082e97e.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-2431d292ceb2-c01
+
+Swaruu 9 characterizes terrestrial science as materialist, reductionist, and deterministic, discounting consciousness, intuition, and nonphysical realms. This is her critique of Earth science.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [La ciencia Humana - Swaruu de Erra](https://swaruu.org/transcripts/la-ciencia-humana-swaruu-de-erra) (2021-04-06; es); passages p0002, p0003, p0004, p0005, p0007. [Structured record](../../records/src-2431d292ceb2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2431d292ceb2-c02
+
+She argues determinism encourages people to surrender agency to authorities and says controllers deliberately constrain science to direct human perception and preserve power. She presents this as intentional social control.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [La ciencia Humana - Swaruu de Erra](https://swaruu.org/transcripts/la-ciencia-humana-swaruu-de-erra) (2021-04-06; es); passages p0008, p0009, p0010, p0011. [Structured record](../../records/src-2431d292ceb2.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -2327,11 +2407,22 @@ Related topics: [Nanotechnology and implants](nanotechnology.md).
 - [src-a4e3084ce97a-c05](moon-matrix.md#src-a4e3084ce97a-c05) — Moon and terrestrial Matrix
 - [src-ad9dbfd43650-c02](engineered-social-unrest.md#src-ad9dbfd43650-c02) — Engineered social unrest
 - [src-632cb43a7536-c01](nonhuman-surveillance-drones.md#src-632cb43a7536-c01) — Nonhuman surveillance drones
+- [src-1a5deaf584db-c03](galactic-federation.md#src-1a5deaf584db-c03) — Galactic Federation
+- [src-838da06df0a1-c01](moon-matrix.md#src-838da06df0a1-c01) — Moon and terrestrial Matrix
+- [src-a233d8d37765-c02](moon-matrix.md#src-a233d8d37765-c02) — Moon and terrestrial Matrix
+- [src-41f6dbd41e06-c01](black-raven-uav.md#src-41f6dbd41e06-c01) — Black Raven UAV
+- [src-41f6dbd41e06-c02](black-raven-uav.md#src-41f6dbd41e06-c02) — Black Raven UAV
+- [src-26233e98795b-c02](cetaceans.md#src-26233e98795b-c02) — Cetaceans
+- [src-ef805e314080-c01](c-17-globemaster.md#src-ef805e314080-c01) — C-17 Globemaster
+- [src-ef805e314080-c02](c-17-globemaster.md#src-ef805e314080-c02) — C-17 Globemaster
+- [src-ef805e314080-c03](c-17-globemaster.md#src-ef805e314080-c03) — C-17 Globemaster
+- [src-ef805e314080-c04](c-17-globemaster.md#src-ef805e314080-c04) — C-17 Globemaster
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
+- ISS-and-station-fabrication-allegation
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
 - Nibiru\_claim\_conflicts\_with\_other\_sources
 - These are attributed dialogue claims; terminology for Hyades varies by convention
@@ -2347,6 +2438,7 @@ Related topics: [Nanotechnology and implants](nanotechnology.md).
 - attributed-vaccine-claims
 - attributed-virus-and-vaccine-claims
 - author-signature-attribution
+- aviation-footage-fraud-allegation
 - biological-claims-unverified
 - biomedical-claims-not-independently-supported
 - black-hole-ether-model
@@ -2399,6 +2491,7 @@ Related topics: [Nanotechnology and implants](nanotechnology.md).
 - health-claims-unverified
 - health-misinformation
 - health\_claims
+- high-content-overlap-with-src-838da06df0a1
 - historical-claims-unverified
 - historical-conspiracy-claims-attributed
 - historical\_and\_nuclear\_claims\_unverified
@@ -2425,6 +2518,7 @@ Related topics: [Nanotechnology and implants](nanotechnology.md).
 - paleontology\_claims\_unverified
 - pandemic-and-vaccine-conspiracy-claims
 - pandemic-hospital-claims-unverified
+- pentagon-disclosure-motive-speculation
 - personal\_cosmology
 - personal\_metaphysics
 - planet\_count\_internal\_inconsistency
@@ -2435,11 +2529,15 @@ Related topics: [Nanotechnology and implants](nanotechnology.md).
 - related\_series\_part
 - same-language-near-duplicate-src-7872bc2f2c04
 - science\_claims\_unverified\_in\_source
+- secret-aircraft-identification-uncertain
 - segmentation-diff
+- sonar-weapon-capabilities
 - space\_suit\_claims\_unverified
+- spaceflight-science-misinformation-claims
 - speaker-header-diff
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker-speculation
+- speculative-cetacean-cognition-claims
 - technology\_claims
 - terrestrial-history-claims-unverified
 - terrestrial-science-claims
@@ -2458,6 +2556,7 @@ Related topics: [Nanotechnology and implants](nanotechnology.md).
 - ufo\_researcher\_critique
 - unsupported\_planetary\_claims
 - unverified-current-events
+- unverified-event-interpretation
 - unverified-reset-claims
 - unverified-technology-claims
 - unverified\_aerospace\_claims

@@ -1,0 +1,89 @@
+{
+  "source_id": "src-b0c5455056ea",
+  "snapshot_sha256": "3583505ad3a4ca88ff125c6c9d9855ddbb035622b179e033d481ef61d19221e1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b0c5455056ea-c01",
+      "assertion": "Yazhi says the Ishtar plan aimed to heal collective trauma from Tiamat’s flood and polar shift.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "ishtar-genetic-project",
+      "topics": [
+        "ishtar-genetic-project",
+        "tiamat"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0c5455056ea-c02",
+      "assertion": "She says priesthoods could guide a new collective unconscious without mass media when populations were small.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "ishtar-genetic-project",
+      "topics": [
+        "ishtar-genetic-project"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0c5455056ea-c03",
+      "assertion": "Yazhi says Druids and Celtic bards were to restore stellar truth, until Rome’s Cabal-linked destruction stopped the plan.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "ishtar-genetic-project",
+      "topics": [
+        "ishtar-genetic-project",
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b0c5455056ea-c04",
+      "assertion": "She frames shared genes as physical memory and a species as one soul expressed collectively.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "ishtar-genetic-project",
+      "name": "Ishtar genetic project",
+      "kind": "historical project",
+      "aliases": [
+        "Ishtar healer plan"
+      ]
+    }
+  ],
+  "review_flags": [
+    "lore-claims-attributed-to-Yazhi"
+  ],
+  "coverage_gaps": [
+    "genetic-process-details",
+    "Ishtar-identity"
+  ]
+}

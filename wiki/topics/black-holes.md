@@ -88,6 +88,22 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Agujeros Negros - Preguntas del Público - Anéeka (Contacto Extraterrestre - Taygeta - Pleiades)](https://swaruu.org/transcripts/agujeros-negros-preguntas-del-publico-aneeka-contacto-extraterrestre-taygeta-pleiades) (2020-10-20; es); passages p0010, p0011, p0012. [Structured record](../../records/src-26d9d32c0ca8.json).
 
+### src-f6ab3c7365f3-c02
+
+Anéeka says dying stars may become brown dwarfs and collapse into “gravity holes,” which function as portals distinct from black holes.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Estrellas y Pleyades - "su edad" - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/estrellas-y-pleyades-su-edad) (2021-07-19; es); passages p0043. [Structured record](../../records/src-f6ab3c7365f3.json).
+
+### src-2ede2b39ce16-c04
+
+Swaruu 9 describes black holes as concentrated gravity or attention, like an entire universe compressed into an observer’s point.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [MECÁNICA CUÁNTICA - LA TEORÍA DE LA RELATIVIDAD DE EINSTEIN - Swaruu - Yazhi](https://swaruu.org/transcripts/mecanica-cuantica-la-teoria-de-la-relatividad-de-einstein-swaruu-yazhi) (2021-04-08; es); passages p0021, p0022. [Structured record](../../records/src-2ede2b39ce16.json).
+
 ## Claims filed under other topics
 
 - [src-424a779240f3-c01](natural-portals.md#src-424a779240f3-c01) — Natural and artificial portals
@@ -99,15 +115,20 @@ Source: [Agujeros Negros - Preguntas del Público - Anéeka (Contacto Extraterre
 - [src-4f5b82f333ba-c01](sunspot-portals.md#src-4f5b82f333ba-c01) — Sunspot portals
 - [src-630d64c41a85-c01](natural-portals.md#src-630d64c41a85-c01) — Natural and artificial portals
 - [src-9b690db81851-c03](sunspot-portals.md#src-9b690db81851-c03) — Sunspot portals
+- [src-528175452786-c05](sunspot-portals.md#src-528175452786-c05) — Sunspot portals
 
 ## Review flags
 
+- Anéeka explicitly distinguishes “gravity holes” from black holes.
+- Time model rejects fixed linear time; do not reconcile with other accounts.
 - black-hole-ether-model
 - conspiracy-claims
 - contested-claims
 - cosmology-claims-attributed
+- cross-timeline-travel-restriction
 - extraordinary\_astronomical\_claims
 - extraordinary\_cosmology\_claims
+- frequency-portal-physics-claims
 - internal-date-tension
 - metaphysical-claims
 - portal-time-travel-risk

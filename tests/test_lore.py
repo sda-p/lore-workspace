@@ -112,4 +112,25 @@ class IntegrityTests(unittest.TestCase):
                     lore.build()
             self.assertEqual(index.read_text(),'Previous approved wiki')
 
+    def test_restore_only_preserves_existing_assignments_and_ledger(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory);(root/'.git').mkdir()
+            snapshot=copy.deepcopy(self.snapshot)
+            snapshot['url']=lore.BASE+'restore-source'
+            fixtures={
+                'sources/manifest.json':{'sources':[{'id':snapshot['source_id'],'url':snapshot['url'],'title':'Restore source','language':'en','snapshot_sha256':snapshot['snapshot_sha256']}]},
+                'selection.json':[{'slug':'restore-source'}],
+                f"cache/{snapshot['source_id']}.json":snapshot,
+                'work/ledger.json':{'jobs':{snapshot['source_id']:{'status':'duplicate-exact'}}},
+                'work/batches/test-batch/worker-1.json':{'worker':1,'source_ids':[]},
+            }
+            for name,value in fixtures.items():
+                path=root/name;path.parent.mkdir(parents=True,exist_ok=True);path.write_text(json.dumps(value))
+            preserved={name:(root/name).read_bytes() for name in ['work/ledger.json','work/batches/test-batch/worker-1.json']}
+            with patch.object(lore,'ROOT',root):
+                lore.prepare(root/'cache',root/'selection.json','test-batch',restore_only=True)
+            for name,content in preserved.items():
+                self.assertEqual((root/name).read_bytes(),content)
+            self.assertFalse((root/'work/batches/worker-1.json').exists())
+
 if __name__=='__main__': unittest.main()

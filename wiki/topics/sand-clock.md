@@ -66,6 +66,26 @@ Source: [Manipulación temporal - Cambia tu pasado- Viajes en el Tiempo - Swaruu
 
 Related topics: [Temporal skipping](temporal-skipping.md).
 
+### src-528175452786-c02
+
+She says hyperspace travel entails timeline travel, restricted to trained elite Sand Clock squads for ethical reasons.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PORTALES ESPACIO TEMPORALES – PREGUNTAS Y RESPUESTAS – ANÉEKA DE TEMMER](https://swaruu.org/transcripts/portales-espacio-temporales-preguntas-y-respuestas-aneeka-de-temmer) (2020-11-20; es); passages p0013, p0014, p0015. [Structured record](../../records/src-528175452786.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-ed934b122dbc-c02
+
+Swaruu 2 became a Sand Clock time-jumper, altering Earth-history nexuses before reincarnating into the same Erra life.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Swaruu y Yazhi - Quienes Son? Historia que Nunca Fue Contada - Contacto Extraterrestre (Pléyades)](https://swaruu.org/transcripts/swaruu-y-yazhi-quienes-son-historia-que-nunca-fue-contada-contacto-extraterrestre-pleyades) (2021-04-25; es); passages p0015, p0016, p0030, p0031, p0033, p0034. [Structured record](../../records/src-ed934b122dbc.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md), [Suzy-class starships](suzy-class-starships.md).
+
 ## Claims filed under other topics
 
 - [src-4f2bc7f73ac1-c01](frequency-map-navigation.md#src-4f2bc7f73ac1-c01) — Frequency-map navigation
@@ -77,5 +97,10 @@ Related topics: [Temporal skipping](temporal-skipping.md).
 
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - contested\_historical\_claims
+- cross-timeline-travel-restriction
+- death-account:medical-cause-and-ether-dissolution
+- frequency-portal-physics-claims
 - temporal-branching-does-not-alter-observers' timelines
 - time\_travel\_lore
+- timeline-model-variant:personal-vs-collective
+- translation-counterpart:src-06a1e5437c02-close-full

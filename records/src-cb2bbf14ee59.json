@@ -1,0 +1,47 @@
+{
+  "source_id": "src-cb2bbf14ee59",
+  "snapshot_sha256": "01cb5072621bb6d728cf8c2fd4e8b2785d6209bd6c75584dc9fcf0ed070a3408",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cb2bbf14ee59-c01",
+      "assertion": "Yazhi says the universe responds to intended meaning, so direct, clear refusal statements are preferable.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb2bbf14ee59-c02",
+      "assertion": "She says anti-consent videos address the human Cabal directly, rather than manifesting outcomes through the universe.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-perspective-distinct-from-Gosia"
+  ],
+  "coverage_gaps": [
+    "collective-manifestation-model"
+  ]
+}

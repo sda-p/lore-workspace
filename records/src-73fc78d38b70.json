@@ -1,0 +1,52 @@
+{
+  "source_id": "src-73fc78d38b70",
+  "snapshot_sha256": "be03edaffdfc8ba9229b2118110817a00808b701259edcbb207ba020830dfff4",
+  "language": "es",
+  "claims": [
+    {
+      "assertion": "Mari warns that alien disclosure or a staged invasion could justify new censorship and persecution of starseeds, echoing panic-driven social division.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0019",
+        "p0022",
+        "p0024",
+        "p0026",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "starseeds",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Mari presents this as a possible future scenario, not a prediction; she says awareness could make it less likely.",
+      "id": "src-73fc78d38b70-c01"
+    },
+    {
+      "assertion": "Mari says starseeds can influence or guide large groups and shift collective timelines through their presence, even without speaking.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0035"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "",
+      "id": "src-73fc78d38b70-c02"
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "hypothetical-future-scenario"
+  ],
+  "coverage_gaps": []
+}

@@ -468,6 +468,112 @@ Source: [Realidad artificial - SERES DE DENSIDADES MÁS ALTAS - DENSIDADES EXIST
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-c6659bce620e-c03
+
+Yazhí says nearly all biological incarnations occur in 5D rather than 3D; 3D offers a different set of experiences. She frames this as a broad tendency.
+
+Attributed to **Yazhí**; asserted; extraction confidence: high.
+
+Source: [Porque Ayudamos? Es Necesario? Charlas Metafisicas con Swaruu y Yazhi (Contacto Extraterrestre)](https://swaruu.org/transcripts/porque-ayudamos-es-necesario-charlas-metafisicas-con-swaruu-y-yazhi-contacto-extraterrestre) (2021-06-10; es); passages p0120, p0123. [Structured record](../../records/src-c6659bce620e.json).
+
+### src-4cc1ee1cc7ec-c03
+
+Yazhi says Earth is already ascended; human collective perception determines whether people experience it as changed.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ascensión Planetaria – Parasitación del bajo astral - Sophia Swaruu \#Yazhi \#Consciencia \#Metafisica](https://swaruu.org/transcripts/ascension-planetaria-parasitacion-del-bajo-astral-sophia-swaruu-yazhi-consciencia-metafisica) (2021-10-24; es); passages p0055, p0061, p0064. [Structured record](../../records/src-4cc1ee1cc7ec.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d96ec8429f2c-c02
+
+Yázhi defines densities as personal perception and understanding, contrasting Swaruu 9’s model of fixed 3D–5D layers. She rejects universal numerical levels.
+
+Attributed to **Yázhi**; asserted; extraction confidence: high.
+
+Source: [Swaruu y Yazhi: Las Diferencias - PARTE 2 - Comunicación Extraterrestre (Taygeta - Pléyades)](https://swaruu.org/transcripts/swaruu-y-yazhi-las-diferencias-parte-2-comunicacion-extraterrestre-taygeta-pleyades) (2021-05-04; es); passages p0039, p0040, p0041, p0042, p0045. [Structured record](../../records/src-d96ec8429f2c.json).
+
+### src-2c3f3e20fe69-c03
+
+Yazhi says shared reality is partial agreements; individual consciousness filters can make people perceive different aspects of other worlds. She rejects fixed frequency rankings for direct perception.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NO HAY ALMA COMO TAL NI DENSIDADES COMO TALES -YAZHI SWARUU](https://swaruu.org/transcripts/no-hay-alma-como-tal-ni-densidades-como-tales-yazhi-swaruu) (2021-08-03; es); passages p0013, p0018, p0019, p0020. [Structured record](../../records/src-2c3f3e20fe69.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-26f786757cae-c01
+
+Yazhi says stars and living beings exist across all densities at once; density is the observer’s perception, not a separate location. Her model treats densities as perceptions.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Densidades vs Dimensiones - Como Aumentamos la Conciencia - Yazhi Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/densidades-vs-dimensiones-como-aumentamos-la-conciencia-yazhi-swaruu-contacto-extraterrestre) (2021-05-27; es); passages p0002, p0003, p0004, p0044. [Structured record](../../records/src-26f786757cae.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-26f786757cae-c02
+
+She describes dimensions as increasing complexity or data perceived with consciousness; broader perspectives can encompass simpler ones, and knowledge broadens perception.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Densidades vs Dimensiones - Como Aumentamos la Conciencia - Yazhi Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/densidades-vs-dimensiones-como-aumentamos-la-conciencia-yazhi-swaruu-contacto-extraterrestre) (2021-05-27; es); passages p0007, p0017, p0018, p0022. [Structured record](../../records/src-26f786757cae.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-26f786757cae-c03
+
+Yazhi links density-frequency with perceived physical dimensions, saying expanded understanding changes what people perceive; becoming 5D is an individual shift, not an awaited event. She distinguishes earlier explanations by perspective.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Densidades vs Dimensiones - Como Aumentamos la Conciencia - Yazhi Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/densidades-vs-dimensiones-como-aumentamos-la-conciencia-yazhi-swaruu-contacto-extraterrestre) (2021-05-27; es); passages p0024, p0025, p0029, p0031, p0032, p0047, p0048, p0049. [Structured record](../../records/src-26f786757cae.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4a65be032f34-c04
+
+She says high-density travel is interdimensional and nonlocal, while lower-density observers experience planets as distant places.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ASCENSIÓN PLANETARIA – SEMILLAS ESTELARES – EL GRAN EVENTO YAZHI SWARUU](https://swaruu.org/transcripts/ascension-planetaria-semillas-estelares-el-gran-evento-yazhi-swaruu) (2021-04-04; es); passages p0020, p0021, p0022, p0023. [Structured record](../../records/src-4a65be032f34.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-9143cd103af6-c02
+
+She describes consciousness as scalar and fragmented across levels; people share only part of a common perceptual reality. Her account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [3D - 5D son Estados Mentales - Somos Seres en Varias Densidades a la vez - Yazhi y Athena Swaruu](https://swaruu.org/transcripts/3d-5d-son-estados-mentales-somos-seres-en-varias-densidades-a-la-vez-yazhi-y-athena-swaruu) (2021-08-17; es); passages p0007, p0008, p0012, p0014, p0017, p0019. [Structured record](../../records/src-9143cd103af6.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a024d1720df9-c03
+
+She says advanced races model three time axes alongside three spatial dimensions; Earth convention uses one time dimension. Her account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Robert Charlando con Yazhi sobre Tiempo y Conciencia - Comunicación Extraterrestre (Pléyades)](https://swaruu.org/transcripts/robert-charlando-con-yazhi-sobre-tiempo-y-conciencia-comunicacion-extraterrestre-pleyades) (2021-05-19; es); passages p0100, p0101, p0102, p0103, p0106. [Structured record](../../records/src-a024d1720df9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9c291a69384d-c02
+
+Yazhi says wall-phasing shifts her perceived density, causing matter to repel rather than trap her.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [Teleportacion - Poderes Mentales - Como lo Hago? Yazhi Swaruu Comparte su Experiencia (Pleyades)](https://swaruu.org/transcripts/teleportacion-poderes-mentales-como-lo-hago-yazhi-swaruu-comparte-su-experiencia-pleyades) (2021-01-13; es); passages p0021, p0022, p0024, p0027. [Structured record](../../records/src-9c291a69384d.json).
+
+Related topics: [Teleportation](teleportation.md).
+
 ## Claims filed under other topics
 
 - [src-bd13d89221e8-c04](consciousness-metaphysics.md#src-bd13d89221e8-c04) — Consciousness and metaphysics
@@ -546,6 +652,18 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-4f593a08df69-c01](individual-ascension.md#src-4f593a08df69-c01) — Individual ascension
 - [src-3901bf7c1489-c03](consciousness-metaphysics.md#src-3901bf7c1489-c03) — Consciousness and metaphysics
 - [src-057efbcdf1b8-c02](timeline-branching.md#src-057efbcdf1b8-c02) — Timeline branching
+- [src-1a5deaf584db-c01](moon-matrix.md#src-1a5deaf584db-c01) — Moon and terrestrial Matrix
+- [src-3cfcc923505e-c01](soul-loop-reincarnation.md#src-3cfcc923505e-c01) — Soul-loop reincarnation
+- [src-4cc1ee1cc7ec-c01](consciousness-metaphysics.md#src-4cc1ee1cc7ec-c01) — Consciousness and metaphysics
+- [src-2c3f3e20fe69-c01](stellar-navigation.md#src-2c3f3e20fe69-c01) — Stellar navigation
+- [src-0df30c50e267-c03](consciousness-metaphysics.md#src-0df30c50e267-c03) — Consciousness and metaphysics
+- [src-7e3952095f4b-c03](tulpas.md#src-7e3952095f4b-c03) — Tulpas
+- [src-4a65be032f34-c05](consciousness-metaphysics.md#src-4a65be032f34-c05) — Consciousness and metaphysics
+- [src-9143cd103af6-c01](frequency-map-navigation.md#src-9143cd103af6-c01) — Frequency-map navigation
+- [src-9143cd103af6-c04](consciousness-metaphysics.md#src-9143cd103af6-c04) — Consciousness and metaphysics
+- [src-9c291a69384d-c01](teleportation.md#src-9c291a69384d-c01) — Teleportation
+- [src-ce8bc803191b-c02](human-biosuit-model.md#src-ce8bc803191b-c02) — Humanity as a shared biological suit
+- [src-6d32076d9fb4-c01](galactic-federation.md#src-6d32076d9fb4-c01) — Galactic Federation
 
 ## Review flags
 
@@ -553,6 +671,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- Different-models-of-time-and-density-are-explicitly-contrasted
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - These are Mari’s metaphysical positions, not externally verified cosmology
@@ -564,15 +683,21 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - biology-claim
 - contested-claim
 - cosmology-claims-attributed
+- density-dimension-explanation-framed-as-perspective-dependent
+- distinct-speaker-models-attributed
 - dyatlov-claim-reversed-in-later-anéeka-account
 - entertainment-disclaimer
+- ether-field-model
 - extraordinary-ability-claims
+- federation-infiltration-allegations
 - federation-intentions-and-collective-choice-tension
 - historical-doctrine-origin-claim
 - historical-event-identified-from-painting
 - historical-uncertainty
+- human-civilization-containment-claim
 - matrix-collapse-and-human-choice
 - matrix-reset-and-density-doctrine-attributed
+- metaphysical-entity-origin-claims
 - metaphysical-model
 - numerical influence comparisons are illustrative, not fixed ratios
 - objective-versus-personal-reality-framing
@@ -581,12 +706,16 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - perspective-dependent-claims
 - planetary-reset-cycle-attributed
 - psychological memory-rewriting discussion could be confused with clinical guidance
+- quantum-mechanics-reinterpretation
+- reincarnation-and-catholic-control-claim
 - reincarnation-cosmology
 - related-starseed-material-overlap
 - self-described-species-transition
 - soul-and-density-doctrine-attributed
+- speaker-perspective-and-contradictions-attributed
 - starseed-identity-and-mission-attributed
 - starspot-portal-model-spans-two-speakers
+- time-direction-model-varies-with-context
 - translation-counterpart-src-0a2dec346e2d-expanded-later-account
 - translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448
 - translation-counterpart: src-d0398aec7731; close full translation; similar-title source src-ba29b281f533 is a distinct later essay

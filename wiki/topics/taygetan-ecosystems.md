@@ -276,6 +276,60 @@ Source: [Anéeka habla de la lengua Taygeteana - \*\*SIN VIDEO\*\*](https://swar
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-a962ed4b5139-c01
+
+Anéeka says Taygetan pets are family members and keeping one creates responsibility; companionship is reciprocal, with animals sometimes choosing families or being adopted when they need homes.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Mascotas en Taygeta - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/mascotas-en-taygeta-sin-video) (2021-04-26; es); passages p0004, p0007, p0009. [Structured record](../../records/src-a962ed4b5139.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-a962ed4b5139-c03
+
+Aboard Toleka, Anéeka says animal reproduction is controlled with twice-monthly hormone drops for both sexes; cat food uses cultured-tissue protein.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Mascotas en Taygeta - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/mascotas-en-taygeta-sin-video) (2021-04-26; es); passages p0021, p0023, p0027. [Structured record](../../records/src-a962ed4b5139.json).
+
+Related topics: [Cultivated meat](cultivated-meat.md).
+
+### src-10e30f8707ef-c01
+
+Anéeka describes Temmer and Erra as symbiotic worlds with fewer predators and gentler ecosystems than Earth.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Ecosistemas en Taygeta \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/ecosistemas-en-taygeta-sin-video) (2021-07-22; es); passages p0002, p0006, p0007, p0017. [Structured record](../../records/src-10e30f8707ef.json).
+
+### src-10e30f8707ef-c03
+
+She says Temmer is a mild tropical waterworld with few storms and abundant cetaceans.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Ecosistemas en Taygeta \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/ecosistemas-en-taygeta-sin-video) (2021-07-22; es); passages p0005, p0007, p0008, p0009, p0010. [Structured record](../../records/src-10e30f8707ef.json).
+
+### src-10e30f8707ef-c04
+
+Temmer boats use magnetic waterjets instead of propellers to protect marine life, powered mainly by zero-point energy.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Ecosistemas en Taygeta \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/ecosistemas-en-taygeta-sin-video) (2021-07-22; es); passages p0011, p0012. [Structured record](../../records/src-10e30f8707ef.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-f6ab3c7365f3-c01
+
+Anéeka says Taygeta and Sadicleya form a binary; Sadicleya lights planetary nights and shapes animal and plant cycles.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Estrellas y Pleyades - "su edad" - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/estrellas-y-pleyades-su-edad) (2021-07-19; es); passages p0034, p0036. [Structured record](../../records/src-f6ab3c7365f3.json).
+
 ## Claims filed under other topics
 
 - [src-8ca54257f6a4-c03](cyndriel.md#src-8ca54257f6a4-c03) — Cyndriel
@@ -293,18 +347,30 @@ Related topics: [Taygetans](taygetans.md).
 - [src-3f4799b0281c-c01](venus.md#src-3f4799b0281c-c01) — Venus
 - [src-3f4799b0281c-c03](venus.md#src-3f4799b0281c-c03) — Venus
 - [src-9b8c545032b0-c05](temporal-skipping.md#src-9b8c545032b0-c05) — Temporal skipping
+- [src-a962ed4b5139-c02](moghyay.md#src-a962ed4b5139-c02) — Moghyay
+- [src-a11e19988b9a-c02](taygetans.md#src-a11e19988b9a-c02) — Taygetans
+- [src-10e30f8707ef-c02](procyon.md#src-10e30f8707ef-c02) — Planet Procyon
+- [src-10e30f8707ef-c05](taygetan-mobile-plants.md#src-10e30f8707ef-c05) — Mobile Plants of Taygeta
+- [src-d3e73f956099-c01](holistic-society.md#src-d3e73f956099-c01) — Holistic society
+- [src-d3e73f956099-c03](frequency-astrology.md#src-d3e73f956099-c03) — Frequency-based astrology
+- [src-d3e73f956099-c04](ship-internal-time.md#src-d3e73f956099-c04) — Ship internal time
 
 ## Review flags
 
+- Anéeka explicitly distinguishes “gravity holes” from black holes.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Senetre-diagnosed-weapon-route-suspected
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - conflicting\_origin\_accounts
 - field-procedure-account-attributed-to-mari
+- medical-and-abduction-claims-excluded
 - miranda-no-bases-versus-other-moon-bases
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
 - pathogen-claim\_attributed
+- rh-negative-identity-caveat
 - species-description\_attributed
+- speculative-biology-and-blood-group-claims
+- speculative-ecosystem-biology
 - taygetan-society-claims-attributed
 - time-travel-claims
 - translation-counterpart: src-30ad5c1df3fd; close English translation adds mind-generated portal claims at p0424-p0448
@@ -312,3 +378,4 @@ Related topics: [Taygetans](taygetans.md).
 - translation-equivalence-unverified
 - unverified\_extraterrestrial\_claims
 - venus-habitable-world-model
+- zero-point-watercraft-technology

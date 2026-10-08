@@ -6,6 +6,12 @@ Aliases: exo-gen, exo-gen signals
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Exo-gen cellular signals](exo-gen-signals.md)
+
 ## Collected claims
 
 ### src-7df1df339f89-c01
