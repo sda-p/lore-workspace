@@ -127,5 +127,31 @@
     "name": "Economics and resources",
     "kind": "economics",
     "aliases": []
+  },
+  {
+    "id": "terrestrial-science",
+    "name": "Terrestrial science",
+    "kind": "institution",
+    "aliases": [
+      "Earth science"
+    ]
+  },
+  {
+    "id": "energy-generation",
+    "name": "Energy generation technology",
+    "kind": "technology",
+    "aliases": [
+      "free energy",
+      "power generation"
+    ]
+  },
+  {
+    "id": "original-matrix",
+    "name": "Original Matrix",
+    "kind": "cosmology",
+    "aliases": [
+      "Initial Matrix",
+      "Primordial Matrix"
+    ]
   }
 ]

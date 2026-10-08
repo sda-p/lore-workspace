@@ -1,0 +1,100 @@
+{
+  "source_id": "src-657d23bb2d0f",
+  "snapshot_sha256": "a99a81daa990d3349fc489bbb3c627dd0a975e1ef49a8f9784968bd1a559f155",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-657d23bb2d0f-c01",
+      "assertion": "Swaruu claims 5G is used for behavioral control and biological harm, not merely communications.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0020"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-657d23bb2d0f-c02",
+      "assertion": "She says 5G affects people differently according to individual frequency.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-657d23bb2d0f-c03",
+      "assertion": "Synthetic telepathy is described as technology that can transmit instructions to individuals or populations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-657d23bb2d0f-c04",
+      "assertion": "She attributes control of Earth to an invasive AI beyond the Moon system, while saying the Moon AI is Federation-controlled.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0045",
+        "p0047",
+        "p0049"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-657d23bb2d0f-c05",
+      "assertion": "The invasive AI is said to seek civilization-wide assimilation and lack access to higher dimensions without human consciousness.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0051",
+        "p0055",
+        "p0057",
+        "p0059"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "protection-claims",
+    "synthetic-telepathy"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "source_id": "src-8a16125ce61c",
+  "snapshot_sha256": "94277fc9a878c070e345279c8c60f94b22e7bc323d20efa9bf9fd031cafa7647",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8a16125ce61c-c01",
+      "assertion": "The editor notes this older non-meat advice was later revised; newer findings allow meat if the body needs it.",
+      "speaker": "Editor note",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a16125ce61c-c02",
+      "assertion": "She describes emotions and thoughts as affecting personal frequency and awareness.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a16125ce61c-c03",
+      "assertion": "She says attention and interpretation shape perceived reality through frequency matching.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a16125ce61c-c04",
+      "assertion": "She presents imagination as creative consciousness that precedes and guides future creation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8a16125ce61c-c05",
+      "assertion": "Taygetan meditation is described as comfortable stillness, often aided by music and crystals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0083",
+        "p0084",
+        "p0085",
+        "p0087"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "frequency-practices",
+    "later-diet-correction"
+  ]
+}

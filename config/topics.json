@@ -1,21 +1,157 @@
 [
-  {"id":"galactic-federation","name":"Galactic Federation","kind":"faction","aliases":["Federation of United Planets"]},
-  {"id":"prime-directive","name":"Prime Directive","kind":"institution","aliases":[]},
-  {"id":"taygetans","name":"Taygetans","kind":"civilization","aliases":["Taygeteans","Taygeta"]},
-  {"id":"urmah","name":"Urmah","kind":"species","aliases":["Urmahs"]},
-  {"id":"orion-wars","name":"Orion Wars","kind":"history","aliases":[]},
-  {"id":"lyran-expansion","name":"Lyran expansion","kind":"history","aliases":["Expansion of Lyra"]},
-  {"id":"tiamat","name":"Tiamat","kind":"location","aliases":[]},
-  {"id":"atlantis-lemuria","name":"Atlantis and Lemuria","kind":"history","aliases":[]},
-  {"id":"earth-cabal","name":"Earth Cabal and power structures","kind":"faction","aliases":["Cabal"]},
-  {"id":"moon-matrix","name":"Moon and terrestrial Matrix","kind":"technology","aliases":["3D Matrix"]},
-  {"id":"black-goo","name":"Black goo","kind":"technology","aliases":[]},
-  {"id":"stellar-navigation","name":"Stellar navigation","kind":"technology","aliases":[]},
-  {"id":"consciousness-metaphysics","name":"Consciousness and metaphysics","kind":"cosmology","aliases":[]},
-  {"id":"holistic-society","name":"Holistic society","kind":"institution","aliases":["Holographic society"]},
-  {"id":"starship-systems","name":"Starship systems","kind":"technology","aliases":[]},
-  {"id":"holographic-computers","name":"Holographic computers","kind":"technology","aliases":[]},
-  {"id":"alcyone-council","name":"Alcyone Council","kind":"institution","aliases":[]},
-  {"id":"alien-species","name":"Alien species and distinctions","kind":"species","aliases":[]},
-  {"id":"economics","name":"Economics and resources","kind":"economics","aliases":[]}
+  {
+    "id": "galactic-federation",
+    "name": "Galactic Federation",
+    "kind": "faction",
+    "aliases": [
+      "Federation of United Planets"
+    ]
+  },
+  {
+    "id": "prime-directive",
+    "name": "Prime Directive",
+    "kind": "institution",
+    "aliases": []
+  },
+  {
+    "id": "taygetans",
+    "name": "Taygetans",
+    "kind": "civilization",
+    "aliases": [
+      "Taygeteans",
+      "Taygeta"
+    ]
+  },
+  {
+    "id": "urmah",
+    "name": "Urmah",
+    "kind": "species",
+    "aliases": [
+      "Urmahs"
+    ]
+  },
+  {
+    "id": "orion-wars",
+    "name": "Orion Wars",
+    "kind": "history",
+    "aliases": []
+  },
+  {
+    "id": "lyran-expansion",
+    "name": "Lyran expansion",
+    "kind": "history",
+    "aliases": [
+      "Expansion of Lyra"
+    ]
+  },
+  {
+    "id": "tiamat",
+    "name": "Tiamat",
+    "kind": "location",
+    "aliases": []
+  },
+  {
+    "id": "atlantis-lemuria",
+    "name": "Atlantis and Lemuria",
+    "kind": "history",
+    "aliases": []
+  },
+  {
+    "id": "earth-cabal",
+    "name": "Earth Cabal and power structures",
+    "kind": "faction",
+    "aliases": [
+      "Cabal"
+    ]
+  },
+  {
+    "id": "moon-matrix",
+    "name": "Moon and terrestrial Matrix",
+    "kind": "technology",
+    "aliases": [
+      "3D Matrix"
+    ]
+  },
+  {
+    "id": "black-goo",
+    "name": "Black goo",
+    "kind": "technology",
+    "aliases": []
+  },
+  {
+    "id": "stellar-navigation",
+    "name": "Stellar navigation",
+    "kind": "technology",
+    "aliases": []
+  },
+  {
+    "id": "consciousness-metaphysics",
+    "name": "Consciousness and metaphysics",
+    "kind": "cosmology",
+    "aliases": []
+  },
+  {
+    "id": "holistic-society",
+    "name": "Holistic society",
+    "kind": "institution",
+    "aliases": [
+      "Holographic society"
+    ]
+  },
+  {
+    "id": "starship-systems",
+    "name": "Starship systems",
+    "kind": "technology",
+    "aliases": []
+  },
+  {
+    "id": "holographic-computers",
+    "name": "Holographic computers",
+    "kind": "technology",
+    "aliases": []
+  },
+  {
+    "id": "alcyone-council",
+    "name": "Alcyone Council",
+    "kind": "institution",
+    "aliases": []
+  },
+  {
+    "id": "alien-species",
+    "name": "Alien species and distinctions",
+    "kind": "species",
+    "aliases": []
+  },
+  {
+    "id": "economics",
+    "name": "Economics and resources",
+    "kind": "economics",
+    "aliases": []
+  },
+  {
+    "id": "terrestrial-science",
+    "name": "Terrestrial science",
+    "kind": "institution",
+    "aliases": [
+      "Earth science"
+    ]
+  },
+  {
+    "id": "energy-generation",
+    "name": "Energy generation technology",
+    "kind": "technology",
+    "aliases": [
+      "free energy",
+      "power generation"
+    ]
+  },
+  {
+    "id": "original-matrix",
+    "name": "Original Matrix",
+    "kind": "cosmology",
+    "aliases": [
+      "Initial Matrix",
+      "Primordial Matrix"
+    ]
+  }
 ]

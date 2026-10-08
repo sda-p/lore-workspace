@@ -1,0 +1,114 @@
+{
+  "source_id": "src-4d3b6a9c0642",
+  "snapshot_sha256": "83ac6760b2d2694dd7273ce4c65ea56b17f57b4e1a9adbc3424ea287972b897f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4d3b6a9c0642-c01",
+      "assertion": "Swaruu says Taygeta has no homosexual people and links incarnated gender to soul preference.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d3b6a9c0642-c02",
+      "assertion": "She attributes Earth sexual-orientation experiences to varied reincarnation and Matrix dynamics.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d3b6a9c0642-c03",
+      "assertion": "She says each person’s reasons differ and declines to judge them as right or wrong.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d3b6a9c0642-c04",
+      "assertion": "Swaruu alleges the Cabal weaponizes sexual identity for depopulation and social control.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d3b6a9c0642-c05",
+      "assertion": "She says being gay does not prevent ascension and people may remain gay in their current bodies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d3b6a9c0642-c06",
+      "assertion": "She says same-sex attraction is not observed in 5D incarnations, while framing this as her account.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "attribution-care: source claims about sexuality are speaker-specific",
+    "review: claims on sexual orientation and depopulation",
+    "coverage: reincarnation detail"
+  ],
+  "coverage_gaps": []
+}

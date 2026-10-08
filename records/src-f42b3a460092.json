@@ -1,0 +1,126 @@
+{
+  "source_id": "src-f42b3a460092",
+  "snapshot_sha256": "d4f4067c817d40a283daf36863bb23e8418b00d3f709f5b843d9e081315cd882",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f42b3a460092-c01",
+      "assertion": "Anéeka says neutrinos trigger coded gravity pulses that carry transmissions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0044"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f42b3a460092-c02",
+      "assertion": "Anéeka says coded gravity can reach distant receivers without signal loss.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0019",
+        "p0045"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f42b3a460092-c03",
+      "assertion": "Anéeka describes holographic codes as carrying many mathematical encodings simultaneously.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f42b3a460092-c04",
+      "assertion": "Anéeka says confidential portals constrain transmission paths and receiver access.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0052"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f42b3a460092-c05",
+      "assertion": "Anéeka says ship transmitters use nano-scale particle accelerators.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0045",
+        "p0047",
+        "p0055"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f42b3a460092-c06",
+      "assertion": "Anéeka claims Russian and US programs possess partial versions of this technology.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f42b3a460092-c07",
+      "assertion": "Anéeka says neutrinos are triggers; gravity carries the encoded signal.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0040",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

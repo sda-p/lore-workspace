@@ -1,0 +1,110 @@
+{
+  "source_id": "src-0490a8f59cf5",
+  "snapshot_sha256": "82a9cd02c6ba61f2b952ff61f463d6a9d3b2d6bafc9c4d3aad44d892f6c97a3e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0490a8f59cf5-c01",
+      "assertion": "She describes Earth’s regressive Reptiles and archons as fear-created egregors in a human psyche model.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0032",
+        "p0033",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0490a8f59cf5-c02",
+      "assertion": "She says egregores are sustained by creative attention; fear concentrates it, and without that attention they dissolve.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0041",
+        "p0044",
+        "p0046",
+        "p0403",
+        "p0407"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0490a8f59cf5-c03",
+      "assertion": "She distinguishes positive, soulful Reptilian races such as Alpha Dracos from an imagined terrestrial Reptile egregor.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0419",
+        "p0425",
+        "p0432",
+        "p0437"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0490a8f59cf5-c04",
+      "assertion": "At a conspiracy-level account, she describes invasive Kingu and Dracos, while positive Alpha Dracos oppose Earth’s problem.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0462",
+        "p0464",
+        "p0466",
+        "p0469"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0490a8f59cf5-c05",
+      "assertion": "She says higher-density integration makes fear-based Reptilian conflict increasingly irrelevant.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0165",
+        "p0167",
+        "p0171"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "egregor-vs-species-levels"
+  ],
+  "coverage_gaps": [
+    "fear-model",
+    "earth-co-creation",
+    "faction-detail"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-849bfaf22a97",
+  "snapshot_sha256": "9133ce161a399c9a9d382ab8e632b0fcba723bcfe89afca712c16ace4c5edc3b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-849bfaf22a97-c01",
+      "assertion": "Yazhi says Atlantean pyramids formed an energy grid; some also served as portals or consciousness centers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-849bfaf22a97-c02",
+      "assertion": "She says mercury pyramids were compact but toxic, while water-based reactors needed environmental flows.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-849bfaf22a97-c03",
+      "assertion": "She dates Reptilian experiments on enslaved Lyrians to about 15,000 years ago and says mind control produced the Adamic human race.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0030",
+        "p0031",
+        "p0034"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Dates approximate."
+    },
+    {
+      "id": "src-849bfaf22a97-c04",
+      "assertion": "She describes Lemuria as founded by escaped Lyrians aided by Taygetan and other matriarchal societies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-849bfaf22a97-c05",
+      "assertion": "She says the Sphinx was Atlantean and predates Giza’s pyramids by millennia.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_history_claims"
+  ],
+  "coverage_gaps": []
+}

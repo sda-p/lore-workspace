@@ -1,0 +1,96 @@
+{
+  "source_id": "src-42b5dd47359c",
+  "snapshot_sha256": "08284aaedd5458b6a0a4393667336d22f93ae0f5eab94afacc4413b6b4fc1904",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-42b5dd47359c-c01",
+      "assertion": "Yazhi says souls have emotions; love integrates the self with Source, while painful feelings signal separation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42b5dd47359c-c02",
+      "assertion": "She cautions that positive feelings may mislead in lower-density contexts because interpretation varies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42b5dd47359c-c03",
+      "assertion": "She links anger and irritation to perceived inability to change events.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42b5dd47359c-c04",
+      "assertion": "She says Andromedans have a narrower emotional range, while Taygetans retain a human-like or stronger range.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-42b5dd47359c-c05",
+      "assertion": "She recommends understanding and accepting negative emotions rather than suppressing them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0034",
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

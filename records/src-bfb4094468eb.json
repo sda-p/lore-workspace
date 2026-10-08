@@ -1,0 +1,107 @@
+{
+  "source_id": "src-bfb4094468eb",
+  "snapshot_sha256": "452e1a9f7bb0a8b76b3034446f8f70c2a4f1d354abad5badb4fd7f9f750e331e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bfb4094468eb-c01",
+      "assertion": "A portal is described as a toroidal device that changes entrants’ frequency to match an encoded destination.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0024",
+        "p0027"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfb4094468eb-c02",
+      "assertion": "She says a ship tractor beam functions as a portal, transporting people without a destination-side machine.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0124",
+        "p0131",
+        "p0135"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfb4094468eb-c03",
+      "assertion": "Portal capacity depends on opening size and power relative to an object’s mass and density.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0225",
+        "p0235",
+        "p0255",
+        "p0270"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfb4094468eb-c04",
+      "assertion": "She says Taygeta logs portal destinations and detects use through residual energetic signatures.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0386",
+        "p0390",
+        "p0392"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bfb4094468eb-c05",
+      "assertion": "She alleges CERN is retro-engineered portal technology intended to bring reinforcements through Federation blockades.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0055",
+        "p0059",
+        "p0105",
+        "p0109"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "cern-portal-claim"
+  ],
+  "coverage_gaps": [
+    "portal-origin",
+    "natural-portals",
+    "site-list"
+  ]
+}

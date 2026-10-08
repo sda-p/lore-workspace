@@ -1,0 +1,125 @@
+{
+  "source_id": "src-1db159fdbe8d",
+  "snapshot_sha256": "4758b8b3e5999e4f983df44997e7ab1087123311eaf78cd793a0a5634219e39d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1db159fdbe8d-c01",
+      "assertion": "Swaruu describes the Matrix as a frequency-suppression machine.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1db159fdbe8d-c02",
+      "assertion": "She says the Matrix hack combines technology, mind control, and imposed beliefs.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0027"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1db159fdbe8d-c03",
+      "assertion": "She alleges Reptilians accessed lunar computers around 1960 and Taygetans took control in 2008.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0054"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1db159fdbe8d-c04",
+      "assertion": "She links religious and state institutions to a three-part control structure.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0036"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1db159fdbe8d-c05",
+      "assertion": "Swaruu says the system exploits people through reincarnation and imposed karma beliefs.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1db159fdbe8d-c06",
+      "assertion": "She names media, microwave mind control, and SSP spaceflight as later hacking milestones.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0042"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1db159fdbe8d-c07",
+      "assertion": "She attributes the system’s unattended period to Federation losses after Tiamat’s destruction.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0050",
+        "p0052",
+        "p0054"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "coverage: Atonism details",
+    "coverage: labor and media"
+  ],
+  "coverage_gaps": []
+}

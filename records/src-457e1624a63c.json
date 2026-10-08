@@ -1,0 +1,106 @@
+{
+  "source_id": "src-457e1624a63c",
+  "snapshot_sha256": "1c016fc7fb6e52b2c297ee871075c6f8741fe95e3ee5bea494b3a1c2b57bf53a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-457e1624a63c-c01",
+      "assertion": "An unlabeled speaker describes rival Cabal factions manipulating unrest and military action.",
+      "speaker": "Unlabeled speaker",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-457e1624a63c-c02",
+      "assertion": "Anéeka reports intelligence alleging a Wuhan weapon strain, while her tests found ordinary SARS-like flu.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0025",
+        "p0027",
+        "p0030"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The transcript preserves conflicting source accounts."
+    },
+    {
+      "id": "src-457e1624a63c-c03",
+      "assertion": "Anéeka claims an engineered virus reverted toward its original genetic pattern.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0041",
+        "p0045"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-457e1624a63c-c04",
+      "assertion": "Anéeka says quarantine was justified by a feared return of virulence; arrests were secondary.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-457e1624a63c-c05",
+      "assertion": "Anéeka says public Cabal figures are proxies for hidden controllers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0052"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical_claims_unverified",
+    "speaker_identity_unclear_p0002_p0019",
+    "conflicting_intelligence_accounts"
+  ],
+  "coverage_gaps": [
+    "faction_identities",
+    "military_operations",
+    "economic_reset"
+  ]
+}

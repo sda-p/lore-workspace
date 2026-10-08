@@ -1,0 +1,110 @@
+{
+  "source_id": "src-41bb739bf46d",
+  "snapshot_sha256": "5a21cc38d26e190013b7081207d6b57f8952d78c8eb59335983c7ccde04b42cf",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-41bb739bf46d-c01",
+      "assertion": "She describes matter as nodes and standing waves generated through consciousness and potential energy.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41bb739bf46d-c02",
+      "assertion": "She says unattended matter progressively dissolves back into potential energy.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41bb739bf46d-c03",
+      "assertion": "A compact reactor is said to combine rotating quartz merkabahs and piezoelectric discharges.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0052",
+        "p0054",
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41bb739bf46d-c04",
+      "assertion": "She says shared attention with conflicting intentions can create destructive interference.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0062",
+        "p0064",
+        "p0066"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41bb739bf46d-c05",
+      "assertion": "She describes a Rodin coil as an energy device that amplifies electricity but still needs an external source.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0106",
+        "p0107",
+        "p0109"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "energy-generation",
+      "name": "Energy generation technology",
+      "kind": "technology",
+      "aliases": [
+        "free energy",
+        "power generation"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "standing-wave-mechanics",
+    "gravity-claims"
+  ]
+}

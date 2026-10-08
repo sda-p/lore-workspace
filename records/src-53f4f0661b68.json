@@ -1,0 +1,112 @@
+{
+  "source_id": "src-53f4f0661b68",
+  "snapshot_sha256": "554981e20ef68f488e2a0ce94d063393aea7e826c8fcd896401fe3d312611536",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-53f4f0661b68-c01",
+      "assertion": "Swaruu says Centauri survivors descend from Lyrians displaced by reptilian invaders.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "lyrian-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53f4f0661b68-c02",
+      "assertion": "Swaruu describes Phaethon as a human farming prison until Federation intervention.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0014"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53f4f0661b68-c03",
+      "assertion": "Swaruu says the Federation liberated Phaethon around 1560-1570.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53f4f0661b68-c04",
+      "assertion": "Swaruu says Earth remained under the Prime Directive because humans believed themselves free.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53f4f0661b68-c05",
+      "assertion": "Swaruu says Phaethon survivors formed a Federation-mentored holographic society.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53f4f0661b68-c06",
+      "assertion": "Swaruu says Centauri now lead Earth operations with a fighter fleet.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

@@ -1,0 +1,105 @@
+{
+  "source_id": "src-4386f9a28119",
+  "snapshot_sha256": "34aeefc886d8663db6418b285268ca2df7c338ee9188d11660225d53faf48a56",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4386f9a28119-c01",
+      "assertion": "She says an individual can change their perceived past through intention and consciousness, not by changing others’ memories.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0101",
+        "p0104"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4386f9a28119-c02",
+      "assertion": "Her method is to face a painful event, imagine a credible alternative and repeatedly associate it with that context.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4386f9a28119-c03",
+      "assertion": "She frames alternate memories as drawn from parallel timeline variants, not fabricated from nothing.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0038",
+        "p0041",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4386f9a28119-c04",
+      "assertion": "She says memory changes alter only the individual’s perception; even ship-based time jumps cannot change another person’s past.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0101",
+        "p0104",
+        "p0112"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4386f9a28119-c05",
+      "assertion": "She says reframing negative thoughts can loosen attachment to unwanted patterns.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0118",
+        "p0124",
+        "p0130"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "past-editing-metaphysical-claim"
+  ],
+  "coverage_gaps": [
+    "shadow-work-detail",
+    "identity-effects",
+    "time-jump-claims"
+  ]
+}

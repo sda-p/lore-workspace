@@ -1,0 +1,103 @@
+{
+  "source_id": "src-552d43bf3802",
+  "snapshot_sha256": "216e1c8a1815948ce0193b15e3979e5e715e0c857882fe4e918e7312ce3fe1af",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-552d43bf3802-c01",
+      "assertion": "Swaruu says physical DNA projects a higher-plane soul or energy pattern.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-552d43bf3802-c02",
+      "assertion": "Swaruu describes DNA as a limited reflection of a higher-dimensional genetic map.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0010",
+        "p0019"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She contrasts claimed 5D and 3D chromosome structures."
+    },
+    {
+      "id": "src-552d43bf3802-c03",
+      "assertion": "Swaruu says attention and standing waves form molecules through dominant frequencies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-552d43bf3802-c04",
+      "assertion": "Swaruu says lasting biological change requires altering the higher-plane source pattern.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents perception or mind influence as a route."
+    },
+    {
+      "id": "src-552d43bf3802-c05",
+      "assertion": "Swaruu describes densities as perceptual ranges within one continuous whole.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "higher_plane_genetics_claims",
+    "3d_5d_dna_comparison"
+  ],
+  "coverage_gaps": [
+    "medical_pod_mechanics",
+    "tesseract_model",
+    "consciousness_geometry"
+  ]
+}

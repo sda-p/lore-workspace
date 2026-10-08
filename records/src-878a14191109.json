@@ -1,0 +1,96 @@
+{
+  "source_id": "src-878a14191109",
+  "snapshot_sha256": "716b4bba0c1059f6bb61ab1f0de128412aad8855ace9b1eee3f917b1bf34bad1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-878a14191109-c01",
+      "assertion": "Yazhi defines density as an individual’s perceptual range, shaped by knowledge and interpretation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878a14191109-c02",
+      "assertion": "She says practice lets her enter lucid waking-dream states and alter apparent reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878a14191109-c03",
+      "assertion": "She says ships change frequency to match a destination, appearing there instantly without propulsion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878a14191109-c04",
+      "assertion": "She says Earth’s clock and walking outdoors help her maintain temporal orientation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878a14191109-c05",
+      "assertion": "She says some crop circles are temporary spacecraft position markers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

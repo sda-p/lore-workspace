@@ -1,0 +1,150 @@
+{
+  "source_id": "src-62f745a4f503",
+  "snapshot_sha256": "45256932f9d35801181da9128e931d16859b6ed834bcb7a89249ddc64327c628",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-62f745a4f503-c01",
+      "assertion": "Swaruu says temporal destinations are ship-matched frequency addresses.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0022",
+        "p0073",
+        "p0079",
+        "p0089",
+        "p0093"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62f745a4f503-c02",
+      "assertion": "Swaruu treats time as consciousness sequencing events, not an external substance.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0028",
+        "p0034",
+        "p0041"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62f745a4f503-c03",
+      "assertion": "Swaruu says decisions move observers among already-existing timeline variants.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0107",
+        "p0114",
+        "p0115",
+        "p0123"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62f745a4f503-c04",
+      "assertion": "Swaruu says a changed past creates a future perceived by the jumper; the origin line remains.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0130",
+        "p0145",
+        "p0149",
+        "p0191",
+        "p0210"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62f745a4f503-c05",
+      "assertion": "Swaruu says timeline changes benefit the traveler, not people left in the origin line.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0155",
+        "p0160",
+        "p0304",
+        "p0313",
+        "p0513",
+        "p0518"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62f745a4f503-c06",
+      "assertion": "Swaruu says event harmonics resist alteration; changing oneself changes compatibility.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0317",
+        "p0331",
+        "p0338",
+        "p0345"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62f745a4f503-c07",
+      "assertion": "Swaruu rejects strategic time travel, allowing only limited tactical jumps.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0373",
+        "p0380"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "timeline_model",
+    "jumper_vs_origin_line"
+  ],
+  "coverage_gaps": [
+    "ship_limits",
+    "mission_protocol",
+    "time_perception"
+  ]
+}

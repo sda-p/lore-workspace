@@ -94,11 +94,86 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [Swaruu - Sociedad Holografica (Modelo Extraterrestre) - Mensaje Pleyadiano (Taygeta)](https://swaruu.org/transcripts/swaruu-sociedad-holografica-modelo-extraterrestre-mensaje-pleyadiano-taygeta) (2019-04-29; es); passages p0011, p0012, p0013. [Structured record](../../records/src-9329a4009c63.json).
 
+### src-5caa1f35b1e4-c04
+
+Swaruu says homes are built free; giving is voluntary, though everyone eventually contributes.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Taygetan Pleiadian Civilization (Part 1) - Extraterrestrial Life (17)](https://swaruu.org/transcripts/taygetean-pleiadian-civilization-part-1-extraterrestrial-life-17) (2019-03-24; en); passages p0033, p0039, p0041, p0043. [Structured record](../../records/src-5caa1f35b1e4.json).
+
+### src-7b903f929540-c03
+
+Swaruu says abundance and telepathy reduce crime; conflicts receive therapy.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Taygetan Pleiadian Civilization (Part 2) - Extraterrestrial Life](https://swaruu.org/transcripts/taygetean-pleiadian-civilization-part-2-extraterrestrial-life) (2019-03-31; en); passages p0015, p0023, p0031, p0033. [Structured record](../../records/src-7b903f929540.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-622099cec238-c05
+
+She claims Earth’s Cabal suppresses zero-point technology and that oil naturally replenishes.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: medium.
+
+Source: [Free Energy (Zero Point): Mechanics of Manifestation - Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/free-energy-zero-point-direct-message-from-pleiadian-taygetean-swaruu) (2018-11-16; en); passages p0038, p0044. [Structured record](../../records/src-622099cec238.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-d9ac63440a2c-c01
+
+She describes ordinary Earth life as a cycle of work needed to pay for necessities, limiting free time.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Swaruu and Taygetan Pleiadian Curiosity in Humans - Direct Extraterrestrial Communication](https://swaruu.org/transcripts/swaruu-and-taygetean-pleiadian-curiosity-in-humans-direct-extraterrestrial-communication) (2019-05-30; en); passages p0025, p0026, p0030. [Structured record](../../records/src-d9ac63440a2c.json).
+
+### src-d9ac63440a2c-c05
+
+She says Taygetans build large ships without payment constraints.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Swaruu and Taygetan Pleiadian Curiosity in Humans - Direct Extraterrestrial Communication](https://swaruu.org/transcripts/swaruu-and-taygetean-pleiadian-curiosity-in-humans-direct-extraterrestrial-communication) (2019-05-30; en); passages p0061. [Structured record](../../records/src-d9ac63440a2c.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-4d0d25a69602-c02
+
+She says alternative energy requires first addressing mechanisms that suppress it.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Frequently Asked Questions: Extraterrestrial Information from Pleiades (Taygeta)](https://swaruu.org/transcripts/frequently-asked-questions-extraterrestrial-message-from-pleiades-taygeta) (2018-12-04; en); passages p0004. [Structured record](../../records/src-4d0d25a69602.json).
+
+### src-8a16125ce61c-c01
+
+The editor notes this older non-meat advice was later revised; newer findings allow meat if the body needs it.
+
+Attributed to **Editor note**; reported; extraction confidence: high.
+
+Source: [How to Raise Your Frequency: Direct Message from the Pleiadian Contact (8)](https://swaruu.org/transcripts/how-to-raise-your-frequency-direct-message-from-the-pleiadian-contact-8) (2018-11-07; en); passages p0002. [Structured record](../../records/src-8a16125ce61c.json).
+
+## Claims filed under other topics
+
+- [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
+- [src-d9ac63440a2c-c02](holistic-society.md#src-d9ac63440a2c-c02) — Holistic society
+
 ## Review flags
 
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
+- coverage: climate and architecture
+- coverage: interspecies compatibility
+- crime\_and\_abundance\_claims
+- dialogue-perspectives-distinguished
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
+- manifestation\_mechanics
+- matrix\_scope
+- political\_structure\_claims
 - speaker-attribution-swaruu-x-athena
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- zero-point-mechanics

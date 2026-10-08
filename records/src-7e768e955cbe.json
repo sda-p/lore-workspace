@@ -1,0 +1,97 @@
+{
+  "source_id": "src-7e768e955cbe",
+  "snapshot_sha256": "a4ceead698c82dc2a173a8c03d492bccd49933b4e7e09355b5c904e493a41787",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7e768e955cbe-c01",
+      "assertion": "Family and soul-group bonds are described as frequency matches and agreements that may change over time.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e768e955cbe-c02",
+      "assertion": "She says souls recognize and may meet one another between incarnations, but reunion is voluntary.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0019",
+        "p0048"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e768e955cbe-c03",
+      "assertion": "The afterlife is described as immediate manifestation shaped by attention and frequency.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e768e955cbe-c04",
+      "assertion": "She says Earth souls often wait about two generations before reincarnating, though this is not a law.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0055",
+        "p0056"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e768e955cbe-c05",
+      "assertion": "She advises offering spiritual views to family only when they show interest.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0062",
+        "p0063",
+        "p0065"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "soul-groups",
+    "family-advice"
+  ]
+}

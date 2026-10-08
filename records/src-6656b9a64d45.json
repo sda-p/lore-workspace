@@ -1,0 +1,112 @@
+{
+  "source_id": "src-6656b9a64d45",
+  "snapshot_sha256": "b03ee56f8e2d3b59c6196bc0810f6fe879c050c9011dcef2c12ffb518e05957b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6656b9a64d45-c01",
+      "assertion": "She defines gravity as etheric flow forming matter, rather than a force produced by mass.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6656b9a64d45-c02",
+      "assertion": "She describes nested counter-rotating alloy spheres filled with mercury and computer-controlled holographic lenses.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0035",
+        "p0038",
+        "p0040",
+        "p0049",
+        "p0058"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6656b9a64d45-c03",
+      "assertion": "She says the beam can move objects and imprint frequency matrices that manifest solid matter.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0069",
+        "p0075",
+        "p0097",
+        "p0107",
+        "p0118"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6656b9a64d45-c04",
+      "assertion": "She says tractor-beam geometry can reshape crops into circles; leftover energy may cause weak radiation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0126",
+        "p0139",
+        "p0145",
+        "p0148"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6656b9a64d45-c05",
+      "assertion": "She describes magnetic sensors and superconducting quantum devices for mapping local gravity frequencies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0150",
+        "p0159",
+        "p0180",
+        "p0182",
+        "p0189"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "frequency-gravity-model"
+  ],
+  "coverage_gaps": [
+    "tractor-beam-variants",
+    "sensor-limits",
+    "energy-source"
+  ]
+}

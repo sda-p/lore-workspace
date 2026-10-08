@@ -1,0 +1,93 @@
+{
+  "source_id": "src-2f11a645b19b",
+  "snapshot_sha256": "dc2340e263246c6dfc1a022d69d249c6d4d1b550b758e94292a4ba9ceb8cacf0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2f11a645b19b-c01",
+      "assertion": "She defines cognitive dissonance as retreat to familiar beliefs when new ideas exceed one’s framework.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f11a645b19b-c02",
+      "assertion": "She says evidence may trigger a second stage: abandoning prior beliefs and adopting new ones.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f11a645b19b-c03",
+      "assertion": "She interprets ancient gods as ordinary people later magnified through limited understanding.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f11a645b19b-c04",
+      "assertion": "She uses a Star Trek example to describe how advanced technology can be mistaken for divinity.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2f11a645b19b-c05",
+      "assertion": "She advises keeping some openness to new ideas so the mind can process unfamiliar information.",
+      "speaker": "Nai'Shara",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "cognitive-dissonance-concept"
+  ],
+  "coverage_gaps": [
+    "deity-example",
+    "prime-directive-context"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_id": "src-7454e687009f",
+  "snapshot_sha256": "192f8e571abb773c65c3c9b0e12bd18ad67faf29db4c94701f89a48c2b705238",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7454e687009f-c01",
+      "assertion": "She says animal lifespans are difficult to compare because time is relative; a cat might exceed 1,000 years.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7454e687009f-c02",
+      "assertion": "Animal death is described as energetic fatigue or loss of purpose rather than bodily decay alone.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7454e687009f-c03",
+      "assertion": "He says animals may not share human “soul trap” concepts and that Ringo likely returned to Source.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0093",
+        "p0098",
+        "p0101",
+        "p0104",
+        "p0105"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7454e687009f-c04",
+      "assertion": "He describes souls as nonlocal and suggests a frequency spectrometer could track a soul’s mirrors across incarnations.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0116",
+        "p0120",
+        "p0124",
+        "p0130",
+        "p0134"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7454e687009f-c05",
+      "assertion": "He says received love remains part of an animal’s soul, which experiences loved ones as present.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0139",
+        "p0140",
+        "p0156",
+        "p0157",
+        "p0160"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "animal-incarnation",
+    "soul-mirrors",
+    "grief"
+  ]
+}

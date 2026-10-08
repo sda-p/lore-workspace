@@ -1,0 +1,96 @@
+{
+  "source_id": "src-3dc3867de787",
+  "snapshot_sha256": "7d5caff29319bd86589ce7026b6de9615c8f75e6f9c60cfdc955676ede81b900",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3dc3867de787-c01",
+      "assertion": "Yazhi says the Solar System once had 13 planets, including the now-destroyed water world Tiamat.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The interviewer says dates are approximate."
+    },
+    {
+      "id": "src-3dc3867de787-c02",
+      "assertion": "She says the Federation classifies planets partly by their role in sustaining life.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3dc3867de787-c03",
+      "assertion": "She describes Ohalum’s Mantis Council as a queen-led hive polity and says it had a Mars colony.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3dc3867de787-c04",
+      "assertion": "She says Orion Council Reptilians persecuted Lyrians for enslavement and exploitation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3dc3867de787-c05",
+      "assertion": "She says Lyrian refugees settled on Earth and hid underground, leaving star-map messages in some cave art.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "lyrian-expansion",
+      "topics": [
+        "lyrian-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translated_source",
+    "approximate_dates"
+  ],
+  "coverage_gaps": []
+}

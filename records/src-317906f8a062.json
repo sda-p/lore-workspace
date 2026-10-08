@@ -1,0 +1,110 @@
+{
+  "source_id": "src-317906f8a062",
+  "snapshot_sha256": "eca9bba6972ad0482d57b93cb92cf3e63b95b3c841c53b4cd489b7a2b57db6df",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-317906f8a062-c01",
+      "assertion": "Swaruu lists gravity control, plasma propulsion, and toroidal immersion among Taygetan flight modes.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0009"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-317906f8a062-c02",
+      "assertion": "She contrasts fuel-based Earth plasma rockets with reactor-powered Taygetan engines.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-317906f8a062-c03",
+      "assertion": "Taygetan plasma drives use counter-rotating turbines with computer-controlled frequencies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-317906f8a062-c04",
+      "assertion": "She says the drives need cryogenic cooling and produce a distinctive roar.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-317906f8a062-c05",
+      "assertion": "Swaruu says gravitational manipulators steer ships instead of aerodynamic control surfaces.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-317906f8a062-c06",
+      "assertion": "She says magnetic charges can ionize nearby atmosphere and create visible UFO glow.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "coverage: technical descriptions are speaker claims"
+  ],
+  "coverage_gaps": []
+}

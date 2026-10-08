@@ -1,0 +1,103 @@
+{
+  "source_id": "src-919dc7641045",
+  "snapshot_sha256": "024db7878e4c45f6c6dcfcafe08d95a33306edc9c55d54f22408b5a0454a09f2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-919dc7641045-c01",
+      "assertion": "Taygetans classify them as primary species; humans are secondary, adaptable bodies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-919dc7641045-c02",
+      "assertion": "She says human genetic change is shaped by consciousness and beliefs, not solely laboratory alteration.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-919dc7641045-c03",
+      "assertion": "She rejects the claim humans were assembled from 21 alien species, citing broad shared carbon-based genetics.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-919dc7641045-c04",
+      "assertion": "She describes starseeds as mental or conscious hybrids, usually without mixed extraterrestrial parentage.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0074",
+        "p0076",
+        "p0078"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-919dc7641045-c05",
+      "assertion": "She says dog lineages may revert over generations, depending on dominant traits and ongoing breeding.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0063",
+        "p0065",
+        "p0067",
+        "p0071",
+        "p0072"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "species-taxonomy",
+    "hybridization",
+    "animal-genetics"
+  ]
+}

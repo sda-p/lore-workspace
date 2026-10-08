@@ -1,0 +1,101 @@
+{
+  "source_id": "src-f22366424c26",
+  "snapshot_sha256": "5dffba30a834926c30d4d7fb30b5fa1cf4785e1338bcc1bd31d235e0cce4f5ac",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f22366424c26-c01",
+      "assertion": "She says clones can use programmed memories and a central AI signal, with limited independent learning.",
+      "speaker": "Swaruu of Erra (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0021"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f22366424c26-c02",
+      "assertion": "She describes the Red Queen as autonomous and able to control networked devices and vehicles.",
+      "speaker": "Swaruu of Erra (9)",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f22366424c26-c03",
+      "assertion": "She says clone stability depends on formation time; cheaper, faster-grown clones have more neurological problems.",
+      "speaker": "Swaruu of Erra (9)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f22366424c26-c04",
+      "assertion": "She describes chips and smartphones as possible interfaces for remote behavioral influence.",
+      "speaker": "Swaruu of Erra (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f22366424c26-c05",
+      "assertion": "She says clones may retain a variable connection to the original person’s signal.",
+      "speaker": "Swaruu of Erra (9)",
+      "paragraph_ids": [
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "ai-clone-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "clone-types",
+    "production-costs",
+    "control-network-details"
+  ]
+}

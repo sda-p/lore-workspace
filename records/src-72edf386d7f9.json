@@ -1,0 +1,129 @@
+{
+  "source_id": "src-72edf386d7f9",
+  "snapshot_sha256": "71ee344402dbfaae123523444e19321ce47845d50e49baab27361f1fdf86854a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-72edf386d7f9-c01",
+      "assertion": "Swaruu describes superluminal travel as matching ship and destination frequency harmonics.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0015",
+        "p0021",
+        "p0024"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72edf386d7f9-c02",
+      "assertion": "She lists gravitational manipulation, plasma jets, and toroidal immersion as Taygetan flight modes.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0052"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72edf386d7f9-c03",
+      "assertion": "Gravity control uses local readings and opposing electromagnetic frequencies to cancel gravitational flow.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0064",
+        "p0073"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72edf386d7f9-c04",
+      "assertion": "She says hull-distributed generators steer ships by creating gravity gradients.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0093",
+        "p0102"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72edf386d7f9-c05",
+      "assertion": "Swaruu describes asteroid hulls as an inexpensive camouflage option for developing spacefaring civilizations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0216",
+        "p0227"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72edf386d7f9-c06",
+      "assertion": "She says discoidal craft are common, while asteroid forms also serve as spacecraft.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0201",
+        "p0205",
+        "p0212",
+        "p0221"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72edf386d7f9-c07",
+      "assertion": "She says density-shifting toroids make hull shape less important at speed.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0186",
+        "p0191"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "coverage: propulsion engineering details",
+    "coverage: ship-class specifications"
+  ],
+  "coverage_gaps": []
+}

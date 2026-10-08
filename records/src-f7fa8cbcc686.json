@@ -1,0 +1,126 @@
+{
+  "source_id": "src-f7fa8cbcc686",
+  "snapshot_sha256": "07ed67db511f8943b903ea1d50b01672fd23128490b837a67eb03ba09ce9441e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f7fa8cbcc686-c01",
+      "assertion": "Yazhi says contrast and duality help inexperienced souls form meaning.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0029",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f7fa8cbcc686-c02",
+      "assertion": "Yazhi says suffering can teach, but souls can learn without suffering.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f7fa8cbcc686-c03",
+      "assertion": "Yazhi says complete integration removes self through loss of contrast.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0052",
+        "p0058",
+        "p0091"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f7fa8cbcc686-c04",
+      "assertion": "Yazhi describes souls as equal points of attention within Source.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f7fa8cbcc686-c05",
+      "assertion": "Yazhi says an infant’s self-awareness generates a perceived external universe.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0075",
+        "p0076"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f7fa8cbcc686-c06",
+      "assertion": "Yazhi says expansion broadens identity while reducing individual precision.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0081",
+        "p0087",
+        "p0089"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f7fa8cbcc686-c07",
+      "assertion": "Yazhi describes herself as a composite remembering multiple Swaruu identities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0104",
+        "p0106"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

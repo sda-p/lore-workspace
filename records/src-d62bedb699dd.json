@@ -1,0 +1,112 @@
+{
+  "source_id": "src-d62bedb699dd",
+  "snapshot_sha256": "05a937b6a9ced059966dfbd065e54656e04af1aa0d2f579800bb56a707d1c7fc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d62bedb699dd-c01",
+      "assertion": "Anéeka says two aircraft caused the Argentina–Uruguay blackout and a Black Knight intercepted them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d62bedb699dd-c02",
+      "assertion": "Swaruu identifies an EA-18G Growler as the likely EMP source and TR3Bs as distractors.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d62bedb699dd-c03",
+      "assertion": "She says the blackout was intended to create chaos and symbolically target civilians.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d62bedb699dd-c04",
+      "assertion": "Swaruu portrays the Cabal as dividing populations to preserve control.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d62bedb699dd-c05",
+      "assertion": "She distinguishes the larger Cabal from the Illuminati as a human elite tier within it.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d62bedb699dd-c06",
+      "assertion": "Swaruu says the Cabal views humans as a farm and Kingu Reptilians as servants.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-split: Anéeka initial claim; Swaruu follow-up explanation",
+    "coverage: aircraft technical details"
+  ],
+  "coverage_gaps": []
+}

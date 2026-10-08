@@ -168,12 +168,12 @@ def discover(index):
     write(manifest_path, {'schema_version':1, 'index_url':BASE, 'discovered_at':now(), 'index_sha256':sha(path.read_text()), 'record_count':len(sources), 'sources':sources})
     print(f'Discovered {len(sources)} distinct article URLs; translation equivalence remains to be reviewed.', flush=True)
 
-def prepare(cache):
+def prepare(cache, selection_path=None, batch_id='pilot-001'):
     cache = Path(cache).resolve()
     cache.mkdir(parents=True, exist_ok=True)
     manifest = read(ROOT / 'sources/manifest.json')
     by_url = {s['url']:s for s in manifest['sources']}
-    selections = read(ROOT / 'config/pilot.json')
+    selections = read(selection_path or ROOT / 'config/pilot.json')
     selected = []
     for selection in selections:
         url = BASE + selection['slug']
@@ -205,7 +205,8 @@ def prepare(cache):
             raise ValueError(f"Cached source identity mismatch: {source['id']}")
         source.update({k:snapshot.get(k) for k in ('snapshot_sha256','html_sha256','retrieved_at','published_date','author','word_count')})
         source['paragraph_count'] = len(snapshot['paragraphs'])
-        source['passage_hashes'] = {p['id']:p['sha256'] for p in snapshot['paragraphs']}
+        source.pop('passage_hashes',None)
+        source['parser_version'] = snapshot.get('parser_version','line-passages-v1')
         source['rights_notice'] = 'Source displays a notice prohibiting commercial publication of its information; adaptation permission not established.'
         print(f"Cached {source['id']}: {source['word_count']} words, {source['paragraph_count']} passages", flush=True)
         return source
@@ -235,10 +236,12 @@ def prepare(cache):
     jobs = retain_jobs(previous)
     for i, ids in enumerate(batches,1):
         write(ROOT / f'work/batches/worker-{i}.json', {'worker':i,'source_ids':ids,'source_word_count':totals[i-1]})
+        write(ROOT / f'work/batches/{batch_id}/worker-{i}.json', {'worker':i,'batch_id':batch_id,'source_ids':ids,'source_word_count':totals[i-1]})
         for source_id in ids:
             jobs[source_id] = previous.get(source_id, {'status':'pending','attempts':0})
             jobs[source_id]['worker'] = i
-    write(ledger_path, {'batch':'pilot-001','updated_at':now(),'active_source_ids':[s['id'] for s in selected],'jobs':jobs})
+            jobs[source_id]['batch_id'] = batch_id
+    write(ledger_path, {'batch':batch_id,'updated_at':now(),'active_source_ids':[s['id'] for s in selected],'jobs':jobs})
     print(f'Prepared {len(selected)} records across four batches, {sum(totals)} source words.', flush=True)
 
 def validate_record(record, snapshot, known_topics):
@@ -258,7 +261,8 @@ def validate_record(record, snapshot, known_topics):
     for topic in record['proposed_topics']:
         if not isinstance(topic,dict) or set(topic) != {'id','name','kind','aliases'} or not isinstance(topic['id'],str) or not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',topic['id']):
             raise ValueError('Invalid proposed topic')
-        if topic['id'] in topics or topic['id'] in proposed:
+        identical_known = isinstance(known_topics,dict) and known_topics.get(topic['id'])==topic
+        if (topic['id'] in topics and not identical_known) or topic['id'] in proposed:
             raise ValueError('Proposed topic ID collides with an existing topic')
         if any(not isinstance(topic[field],str) or not topic[field].strip() for field in ('name','kind')) or not isinstance(topic['aliases'],list) or any(not isinstance(alias,str) or not alias.strip() for alias in topic['aliases']):
             raise ValueError('Invalid topic metadata')
@@ -340,13 +344,11 @@ def build():
     topics = {t['id']:t for t in read(ROOT / 'config/topics.json')}
     records = []
     for source_id,job in ledger['jobs'].items():
-        if job['status'] not in ('validated','reviewed'):
+        if job['status'] != 'reviewed':
             continue
         record = read(ROOT / f'records/{source_id}.json')
         records.append(record)
         for topic in record['proposed_topics']:
-            if topic['id'] in topics and topics[topic['id']] != topic:
-                raise ValueError(f"Conflicting proposed topic metadata: {topic['id']}")
             topics.setdefault(topic['id'],topic)
     wiki = ROOT / 'wiki'
     (wiki / 'topics').mkdir(parents=True,exist_ok=True)
@@ -385,13 +387,14 @@ def build():
     for record in sorted(records,key=lambda r:sources[r['source_id']].get('published_date') or ''):
         source = sources[record['source_id']]
         lines.append(f"| [{md(source['title'])}]({source_url(source['url'])}) | {source['language']} | {source.get('published_date') or 'Unknown'} | {len(record['claims'])} |")
-    lines += ['','See [pilot review](../reports/pilot.md), [reconciliation](../reports/reconciliation.md), and [original game design](../design/README.md).','']
+    lines += ['','See [continuous collection progress](../reports/collection.md), [pilot review](../reports/pilot.md), [reconciliation](../reports/reconciliation.md), and [original game design](../design/README.md).','']
     (wiki / 'index.md').write_text('\n'.join(lines),encoding='utf-8')
     count = sum(len(r['claims']) for r in records)
     work_count = len({sources[r['source_id']].get('work_group_id',r['source_id']) for r in records})
     pending = sum(j['status'] not in ('validated','reviewed') for j in ledger['jobs'].values())
     report = ['# Collection pilot','','## Current checkpoint','',f"- Discovered article URLs: {manifest['record_count']}",f'- Batch records validated: {len(records)}',f'- Reviewed underlying work groups in this batch: {work_count}',f'- Source-specific claims collected: {count}',f'- Topic pages: {len(linked)}',f'- Batch records pending or needing correction: {pending}',f"- Catalogued URLs outside this batch: {manifest['record_count']-len(records)}",'','Validation checks identities, recomputed source hashes, passage references, topic references, IDs, and compact paraphrase budgets. Structural validation does not establish factual truth or semantic accuracy. This batch is a compact core extraction, with omissions retained as coverage tags.','','## Review outcome','','Four Luna workers extracted the initial records. A separate Luna reviewed 131 claims; the coordinator applied five evidence/scope corrections and one regional refinement. Full-language comparison identified material omitted from one English counterpart; one additional Spanish-specific claim was added and independently checked, bringing the checkpoint to 132 claims. Both translation pairs remain separate source snapshots grouped for deduplication.','','The engineering review led to hash revalidation, stronger format/type checks, retained inactive ledger history, and safer Markdown output. Sixteen integrity tests pass. Line-break passage segmentation remains an explicit documented limitation.','','Coverage recall was not measured against a full human extraction. Compact records do not claim to capture all available lore.','','## Resume','', 'Start from `work/ledger.json`. Recreate the source cache with `prepare`, compare retained hashes, and assign only uncompleted or explicitly expanded jobs. Candidate translations require review before one record is skipped. Do not report the entire inventory as processed.','']
-    (ROOT / 'reports/pilot.md').write_text('\n'.join(report),encoding='utf-8')
+    if not (ROOT / 'reports/pilot.md').exists() or ledger.get('batch')=='pilot-001':
+        (ROOT / 'reports/pilot.md').write_text('\n'.join(report),encoding='utf-8')
     write(ROOT / 'reports/topic-registry.json',list(topics.values()))
     print(f'Built {len(linked)} topic pages from {count} claims.')
 
@@ -402,12 +405,14 @@ def main():
     discover_parser.add_argument('--index',default='../source-cache/index.html')
     prepare_parser = sub.add_parser('prepare')
     prepare_parser.add_argument('--cache',default='../source-cache')
+    prepare_parser.add_argument('--selection')
+    prepare_parser.add_argument('--batch',default='pilot-001')
     validate_parser = sub.add_parser('validate')
     validate_parser.add_argument('--cache',default='../source-cache')
     sub.add_parser('build')
     args = parser.parse_args()
     if args.command=='discover': discover(args.index)
-    elif args.command=='prepare': prepare(args.cache)
+    elif args.command=='prepare': prepare(args.cache,args.selection,args.batch)
     elif args.command=='validate': validate(args.cache)
     else: build()
 

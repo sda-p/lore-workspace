@@ -1,0 +1,129 @@
+{
+  "source_id": "src-bc845f80345f",
+  "snapshot_sha256": "0203f427db4180ea873ef6d4952c23dc9589319480137cfe2872e70d1fff70c1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bc845f80345f-c01",
+      "assertion": "Swaruu describes ether as unified consciousness whose standing waves form matter.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0021",
+        "p0034",
+        "p0048"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc845f80345f-c02",
+      "assertion": "Swaruu says objects dissolve toward potential energy when creative attention fades.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0052",
+        "p0058",
+        "p0064"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc845f80345f-c03",
+      "assertion": "Swaruu describes Taygetan computers as nanoscale accelerators modeling quantum probabilities.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0028",
+        "p0032"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc845f80345f-c04",
+      "assertion": "Swaruu says ships use toroidal frequency fields to match destinations without traversing distance.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0081",
+        "p0089",
+        "p0094"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc845f80345f-c05",
+      "assertion": "Swaruu says ship technology accesses etheric possibilities through quantum computation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0175",
+        "p0178",
+        "p0180",
+        "p0194",
+        "p0202"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc845f80345f-c06",
+      "assertion": "Swaruu says inner work integrates body and astral self to alter manifestation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0206",
+        "p0219",
+        "p0235",
+        "p0243",
+        "p0246"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "ether_model",
+    "technology_and_mind_interface"
+  ],
+  "coverage_gaps": [
+    "standing_wave_math",
+    "matter_dissolution",
+    "toroid_navigation"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source_id": "src-707b90949bfa",
+  "snapshot_sha256": "7b2ac237cbce781ebbeea246d29ac4027c0e4dda15cc9549bfe103178c7c1b72",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-707b90949bfa-c01",
+      "assertion": "Swaruu says “Sirian” covers many distinct species, not one race.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0033",
+        "p0041"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-707b90949bfa-c02",
+      "assertion": "Swaruu identifies dolphins and whales as mostly Sirian-souled.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-707b90949bfa-c03",
+      "assertion": "Swaruu describes Sirius A humanoids as amphibious, blue-tinted, and sexually reproducing.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0037"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-707b90949bfa-c04",
+      "assertion": "Swaruu says some humanoid Sirians favor close communal living and organic architecture.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-707b90949bfa-c05",
+      "assertion": "Swaruu attributes a fatal ship collision to close maneuvering and magnetic attraction.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-707b90949bfa-c06",
+      "assertion": "Swaruu says identities above 5D are universal rather than localized races.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-707b90949bfa-c07",
+      "assertion": "Swaruu distinguishes aquatic Sirian civilizations from humanoid ship crews.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

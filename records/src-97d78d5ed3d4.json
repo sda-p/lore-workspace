@@ -1,0 +1,107 @@
+{
+  "source_id": "src-97d78d5ed3d4",
+  "snapshot_sha256": "a819d737c0e4889446b6b017462c0999b654e90286cf4618825afdb0695d57bf",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-97d78d5ed3d4-c01",
+      "assertion": "Anéeka presents the unicorn as a symbol of striving for unattainable perfection.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "unicorn-symbolism",
+      "topics": [
+        "unicorn-symbolism"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-97d78d5ed3d4-c02",
+      "assertion": "Yazhi links unicorn symbolism to major change, a messianic figure and possible deception around a new agenda.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0012"
+      ],
+      "primary_topic": "unicorn-symbolism",
+      "topics": [
+        "unicorn-symbolism"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-97d78d5ed3d4-c03",
+      "assertion": "She associates the unicorn with the third eye, Horus, solar worship and transformation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "unicorn-symbolism",
+      "topics": [
+        "unicorn-symbolism"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-97d78d5ed3d4-c04",
+      "assertion": "She casts Shiva-Pluto symbolism as positive transformation and the unicorn as having positive and negative aspects.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "unicorn-symbolism",
+      "topics": [
+        "unicorn-symbolism"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-97d78d5ed3d4-c05",
+      "assertion": "She says Celtic unicorn symbolism links its spiral horn with genetics and reproductive imagery.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "unicorn-symbolism",
+      "topics": [
+        "unicorn-symbolism"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "unicorn-symbolism",
+      "name": "Unicorn symbolism",
+      "kind": "symbolism",
+      "aliases": [
+        "unicorn"
+      ]
+    }
+  ],
+  "review_flags": [
+    "translated-compilation",
+    "symbolic-claims"
+  ],
+  "coverage_gaps": [
+    "mass-culture-use",
+    "gender-agenda-claims",
+    "source-attribution"
+  ]
+}

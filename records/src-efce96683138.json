@@ -1,0 +1,125 @@
+{
+  "source_id": "src-efce96683138",
+  "snapshot_sha256": "807e71923bbccd29283280fb781da29a683d8e649967ce145c1d818b7e4ff249",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-efce96683138-c01",
+      "assertion": "Swaruu says afterlife experience follows a soul’s expectations and beliefs.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0024",
+        "p0044",
+        "p0049"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-efce96683138-c02",
+      "assertion": "Swaruu describes astral environments as consciousness-generated, not fixed places.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0116",
+        "p0123",
+        "p0130",
+        "p0133"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-efce96683138-c03",
+      "assertion": "Swaruu says attachments can keep dead people repeating memories or remaining in astral groups.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0110",
+        "p0115",
+        "p0117",
+        "p0122"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-efce96683138-c04",
+      "assertion": "Swaruu says religious beliefs may shape repeated afterlife and reincarnation experiences.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0167",
+        "p0173",
+        "p0180",
+        "p0193"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-efce96683138-c05",
+      "assertion": "Swaruu says prayers may reinforce a dead person’s beliefs; spoken guidance can also reach them.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0203",
+        "p0219",
+        "p0235",
+        "p0250"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-efce96683138-c06",
+      "assertion": "Swaruu says the dead evolve with or without bodies and remain within experiences shaped by their own intention.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0284",
+        "p0289",
+        "p0320",
+        "p0324"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "afterlife_model",
+    "belief_and_attachment_mechanics"
+  ],
+  "coverage_gaps": [
+    "death_transition",
+    "animal_souls",
+    "astral_communication"
+  ]
+}

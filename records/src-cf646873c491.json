@@ -1,0 +1,101 @@
+{
+  "source_id": "src-cf646873c491",
+  "snapshot_sha256": "f656be67c51bf96815c69e56b8711e24dd3f744305dd0e8e6e812180a96aefdc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cf646873c491-c01",
+      "assertion": "She says mass contact lacks a viable channel because humans are unprepared and governments or media will not cooperate.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf646873c491-c02",
+      "assertion": "She portrays regressive visitors as opportunistic, while saying human and other-race dynamics jointly sustain the problem.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0015",
+        "p0018",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf646873c491-c03",
+      "assertion": "The First Contact project reportedly ended around November 2016 after its goal was met; command later shifted to Centauri.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0039"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf646873c491-c04",
+      "assertion": "She says Taygetan presence near Earth had been reduced to one ship and two active communicators.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf646873c491-c05",
+      "assertion": "Ascension is described as individual understanding; galactic energy may promote but does not determine it.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0049",
+        "p0050",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "contact-policy",
+    "fleet-deployment",
+    "planetary-mission"
+  ]
+}

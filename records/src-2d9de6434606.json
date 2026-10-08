@@ -1,0 +1,109 @@
+{
+  "source_id": "src-2d9de6434606",
+  "snapshot_sha256": "46606e13cf0f964f19991edce37c2db83abfc687a26582a1dc6fa4d0ff32dd4d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2d9de6434606-c01",
+      "assertion": "Swaruu describes ether travel as changing a ship’s frequency filter to a destination.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0008",
+        "p0011",
+        "p0027",
+        "p0043"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d9de6434606-c02",
+      "assertion": "Swaruu says time is animated through an observer’s conscious sequencing of fixed moments.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0045",
+        "p0051",
+        "p0056",
+        "p0062"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d9de6434606-c03",
+      "assertion": "Swaruu says apparent density depends on awareness and the amount of data processed.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0083",
+        "p0089",
+        "p0095",
+        "p0104"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d9de6434606-c04",
+      "assertion": "Swaruu says Taygetan ships combine gravitational, plasma, and toroidal flight modes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0140",
+        "p0145",
+        "p0159",
+        "p0165"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2d9de6434606-c05",
+      "assertion": "Swaruu describes Suzy ships as capable of stationary hyperspace operations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0167",
+        "p0175",
+        "p0177",
+        "p0183"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this mode permits undetectable, invulnerable extraction and attacks."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "hyperspace_model",
+    "secret_ship_capability_claims"
+  ],
+  "coverage_gaps": [
+    "ship_class_variants",
+    "specific_frequency_maps",
+    "density_time_ratio"
+  ]
+}

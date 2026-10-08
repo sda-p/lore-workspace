@@ -1,0 +1,109 @@
+{
+  "source_id": "src-e7846dbe6a6c",
+  "snapshot_sha256": "a243596f03f5d7db67a75e0cccf052333231c1dbb64f7e0bf1709e34176d317f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e7846dbe6a6c-c01",
+      "assertion": "Swaruu says Taygetan presence around Earth resumed in 2008, with later arrivals including herself.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e7846dbe6a6c-c02",
+      "assertion": "She describes First Contact as a 550-plus-person social-media project running from 2009 to 2016.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e7846dbe6a6c-c03",
+      "assertion": "She says few recipients accepted the outreach, leading Taygetans to judge mass contact premature.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e7846dbe6a6c-c04",
+      "assertion": "Swaruu says the Prime Directive protects free will, including prenatal intentions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0021",
+        "p0027"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e7846dbe6a6c-c05",
+      "assertion": "She argues direct intervention could obstruct human growth, while Federation groups remove outside regressive influence.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e7846dbe6a6c-c06",
+      "assertion": "She frames Earth’s collective mental state as contributing to its conditions and urges personal agency.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0035",
+        "p0038"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "coverage: quoted Jung and Tsarion passages"
+  ],
+  "coverage_gaps": []
+}

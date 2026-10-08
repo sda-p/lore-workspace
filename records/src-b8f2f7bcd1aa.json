@@ -1,0 +1,125 @@
+{
+  "source_id": "src-b8f2f7bcd1aa",
+  "snapshot_sha256": "8b1a0c712249532f28c2604eb845c5c3837828ee708d733bfff553d65bff19ef",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b8f2f7bcd1aa-c01",
+      "assertion": "Swaruu says 5D deaths can produce low astral worlds through personal attachments.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0015",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b8f2f7bcd1aa-c02",
+      "assertion": "Swaruu says a child’s soul may retain earlier identity despite a young body.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0053",
+        "p0058",
+        "p0063",
+        "p0072"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b8f2f7bcd1aa-c03",
+      "assertion": "Swaruu says after-death imagery varies with cultural expectations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0077",
+        "p0085"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She attributes the comparison to near-death research."
+    },
+    {
+      "id": "src-b8f2f7bcd1aa-c04",
+      "assertion": "Swaruu says natural Taygetan death is usually voluntary and peaceful, while euthanasia is rare.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0112",
+        "p0115",
+        "p0118",
+        "p0121"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She excludes accidents from the account."
+    },
+    {
+      "id": "src-b8f2f7bcd1aa-c05",
+      "assertion": "Swaruu says attachment may keep disembodied people in 3D-like experience.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0140",
+        "p0144",
+        "p0153",
+        "p0166"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b8f2f7bcd1aa-c06",
+      "assertion": "Swaruu says awakening and raised frequency allow souls to leave Earth’s frequency range.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0253",
+        "p0258",
+        "p0271",
+        "p0277"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "afterlife_model",
+    "culturally_variable_nde_claim"
+  ],
+  "coverage_gaps": [
+    "funeral_customs",
+    "reincarnation_traits",
+    "twin_attachments"
+  ]
+}

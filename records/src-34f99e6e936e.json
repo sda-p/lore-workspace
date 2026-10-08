@@ -1,0 +1,107 @@
+{
+  "source_id": "src-34f99e6e936e",
+  "snapshot_sha256": "6eb892090aa6db60d5253407a8a02152ca75c23c6c4690a12bc048eaecdade33",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-34f99e6e936e-c01",
+      "assertion": "Fear is described as an ego-protective mechanism and a contrast that helps consciousness recognize love.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0028",
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34f99e6e936e-c02",
+      "assertion": "She describes shadow work as confronting fear; avoiding it reinforces recurring patterns.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0093",
+        "p0097",
+        "p0104",
+        "p0108"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34f99e6e936e-c03",
+      "assertion": "She says collective fear concentrates attention and sustains a viral egregor that may dissolve when attention shifts.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0226",
+        "p0230",
+        "p0240",
+        "p0265",
+        "p0270"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34f99e6e936e-c04",
+      "assertion": "She says viruses depend on hosts, and claims healthy organisms will not contract them.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0321",
+        "p0326",
+        "p0332",
+        "p0333"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34f99e6e936e-c05",
+      "assertion": "She gives two accounts of COVID: no virus or propaganda, yet a bioweapon that remitted after spreading in China.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0303",
+        "p0307",
+        "p0318"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "virus-account-internal-tension"
+  ],
+  "coverage_gaps": [
+    "fear-ethic",
+    "viral-mechanism",
+    "health-claims"
+  ]
+}

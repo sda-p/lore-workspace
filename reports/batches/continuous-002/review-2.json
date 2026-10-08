@@ -1,0 +1,36 @@
+{
+  "batch_id": "continuous-002",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-4c109f1e384a",
+    "src-6cb948e85e67",
+    "src-8a16125ce61c",
+    "src-94e81a148bdb",
+    "src-6322a8053a11",
+    "src-5e22584bfff4",
+    "src-41bb739bf46d",
+    "src-d16fe289eee6",
+    "src-7e768e955cbe",
+    "src-d9ac63440a2c",
+    "src-cf1c5d793a02",
+    "src-7b903f929540",
+    "src-eda7efcdb3ec",
+    "src-657d23bb2d0f",
+    "src-e13c1b9390c0",
+    "src-abb9772e4516",
+    "src-c9ef4c4d5b13",
+    "src-71d40c73482b",
+    "src-c0711593e91d",
+    "src-2f11a645b19b"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-eda7efcdb3ec",
+      "claim_id": "src-eda7efcdb3ec-c03",
+      "problem": "The original wording could imply Taygetan ships were among the losses; the cited source states that none were Taygetan.",
+      "action": "Clarified that Rashell links Taygeta’s 1952 arrival to atomic tests amid wider ship losses, and explicitly states no downed ships were Taygetan.",
+      "paragraph_ids": ["p0016", "p0018", "p0020", "p0024"]
+    }
+  ],
+  "unresolved": []
+}

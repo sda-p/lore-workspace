@@ -1,0 +1,107 @@
+{
+  "source_id": "src-526c2f26de59",
+  "snapshot_sha256": "f0fca24e45f563eb065d7facb8762fbf8d3f2ad2f772456c45c8b7747a6003c4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-526c2f26de59-c01",
+      "assertion": "His preflight routine includes checking the hull, intakes, landing gear, leaks and secured cargo.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0002",
+        "p0009",
+        "p0010",
+        "p0014"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-526c2f26de59-c02",
+      "assertion": "He says onboard systems boot by command; engines ignite sequentially and pilots monitor their distinct sounds.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0051",
+        "p0065",
+        "p0079",
+        "p0089",
+        "p0095",
+        "p0091"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-526c2f26de59-c03",
+      "assertion": "He describes adjustable inertia dampeners and gravity cancellation for high-acceleration atmospheric flight.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0096",
+        "p0103",
+        "p0109",
+        "p0118"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-526c2f26de59-c04",
+      "assertion": "He says plasma drives create a frequency-controlled toroid for supraluminal travel.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0148",
+        "p0156",
+        "p0174",
+        "p0195"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-526c2f26de59-c05",
+      "assertion": "He describes Suzy-class ships as zero-point powered, needing no fuel or refueling and having unlimited range.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0197",
+        "p0203"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "procedure-description"
+  ],
+  "coverage_gaps": [
+    "craft-variants",
+    "destination-computing",
+    "ship-ai"
+  ]
+}

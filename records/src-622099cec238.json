@@ -1,0 +1,99 @@
+{
+  "source_id": "src-622099cec238",
+  "snapshot_sha256": "2d946e05c304d4d49174ec8d048fdf6e3fc2738386e122059ae34681574c12a0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-622099cec238-c01",
+      "assertion": "She describes matter as standing-wave nodes in an etheric medium shaped by consciousness.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-622099cec238-c02",
+      "assertion": "She attributes zero-point energy to etheric depolarization in a specific toroidal geometry.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-622099cec238-c03",
+      "assertion": "She says advanced societies wirelessly transmit energy to power buildings, industry and vehicles.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-622099cec238-c04",
+      "assertion": "She describes ship reactors using controlled quartz-crystal toroids within gravitational fields.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0049",
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-622099cec238-c05",
+      "assertion": "She claims Earth’s Cabal suppresses zero-point technology and that oil naturally replenishes.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0038",
+        "p0044"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "zero-point-mechanics"
+  ],
+  "coverage_gaps": [
+    "toroid-numerology",
+    "reactor-scale",
+    "energy-transmission-limits"
+  ]
+}

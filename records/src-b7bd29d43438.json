@@ -1,0 +1,98 @@
+{
+  "source_id": "src-b7bd29d43438",
+  "snapshot_sha256": "9e591140c38894cf1f2d67a4828dc4a83b9f1ee672a7bd5cd47b52406c248586",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b7bd29d43438-c01",
+      "assertion": "She lists three sources of sky sounds, describing HAARP-like frequencies as widespread.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7bd29d43438-c02",
+      "assertion": "She describes “Men in Black” as human law enforcement, covert human agents, and nonhuman intimidators.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7bd29d43438-c03",
+      "assertion": "She characterizes the UN as a Cabal vehicle for world government and says Taygetans briefly contacted it in the late 1950s.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7bd29d43438-c04",
+      "assertion": "She says Taygetan air has about 78% oxygen and 20% nitrogen, the reverse of Earth’s proportions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7bd29d43438-c05",
+      "assertion": "She says open contact should leave Earth’s liberation credit to its inhabitants, partly to avoid outside savior status.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "sky-sound-causes",
+    "blockade",
+    "historical-records"
+  ]
+}

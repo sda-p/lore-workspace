@@ -15,7 +15,8 @@ SNAPSHOT=ROOT.parent/'publication-snapshot'
 
 parser=argparse.ArgumentParser()
 sub=parser.add_subparsers(dest='command',required=True)
-sub.add_parser('list')
+lister=sub.add_parser('list')
+lister.add_argument('--changed',action='store_true')
 reader=sub.add_parser('read')
 reader.add_argument('--path',required=True)
 reader.add_argument('--offset',type=int,default=0)
@@ -23,9 +24,14 @@ reader.add_argument('--length',type=int,default=12000)
 args=parser.parse_args()
 
 if args.command=='list':
-    result=subprocess.run(['git','ls-files','--cached','--others','--exclude-standard','-z'],cwd=ROOT,capture_output=True,check=True)
+    if args.changed:
+        tracked=subprocess.run(['git','diff','--name-only','--diff-filter=ACMRT','HEAD','-z'],cwd=ROOT,capture_output=True,check=True)
+        untracked=subprocess.run(['git','ls-files','--others','--exclude-standard','-z'],cwd=ROOT,capture_output=True,check=True)
+        names=tracked.stdout+untracked.stdout
+    else:
+        names=subprocess.run(['git','ls-files','--cached','--others','--exclude-standard','-z'],cwd=ROOT,capture_output=True,check=True).stdout
     files=[]
-    for name in sorted(set(result.stdout.decode().split('\0'))- {''}):
+    for name in sorted(set(names.decode().split('\0'))- {''}):
         path=ROOT/name
         if not path.is_file(): continue
         if path.is_symlink(): raise ValueError('Refusing to publish symlinks')

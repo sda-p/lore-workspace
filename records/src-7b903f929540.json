@@ -1,0 +1,121 @@
+{
+  "source_id": "src-7b903f929540",
+  "snapshot_sha256": "2f7b804b56c2fe851f046a28bb37ac27cfac8d56a102ab203050f4458ec8e1df",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7b903f929540-c01",
+      "assertion": "Swaruu describes Taygetan governance as nested regional and planetary councils.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0006"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7b903f929540-c02",
+      "assertion": "Swaruu says citizens may join councils and leaders serve without coercive power.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0017",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7b903f929540-c03",
+      "assertion": "Swaruu says abundance and telepathy reduce crime; conflicts receive therapy.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0015",
+        "p0023",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7b903f929540-c04",
+      "assertion": "Swaruu says Taygetan education adapts to interests and emphasizes practical learning.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0052",
+        "p0054",
+        "p0064",
+        "p0066"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7b903f929540-c05",
+      "assertion": "Swaruu says many remember past lives by age thirteen.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0052"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7b903f929540-c06",
+      "assertion": "Swaruu says Taygetan ships also serve as practical schools for cadets.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0060",
+        "p0062"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political_structure_claims",
+    "crime_and_abundance_claims"
+  ],
+  "coverage_gaps": [
+    "interracial_residency",
+    "judiciary",
+    "arts_and_music"
+  ]
+}

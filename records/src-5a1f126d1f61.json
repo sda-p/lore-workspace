@@ -1,0 +1,99 @@
+{
+  "source_id": "src-5a1f126d1f61",
+  "snapshot_sha256": "37826fcf1645a7334f8c087f4cce24903d267f03b66fecdddfda39eeaba6fdfa",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5a1f126d1f61-c01",
+      "assertion": "She describes viral particles as cellular alarm/excretion signals produced under toxicity, rather than primary pathogens.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a1f126d1f61-c02",
+      "assertion": "She says receiving cells interpret those signals; shared stress may trigger symptoms, while healthy cells may not.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a1f126d1f61-c03",
+      "assertion": "She says such signals are receptor-specific to species or cell groups.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a1f126d1f61-c04",
+      "assertion": "She describes planetary organisms as cells of a larger being, exchanging signals into collective consciousness.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a1f126d1f61-c05",
+      "assertion": "She claims common COVID tests detect exo-gene shell proteins and stress makes positive results likely.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0043"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "viral-model-claims-attributed"
+  ],
+  "coverage_gaps": [
+    "cellular-signals",
+    "cross-species-compatibility",
+    "tests-and-vaccines"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source_id": "src-eda7efcdb3ec",
+  "snapshot_sha256": "9e0245dc67a26ec0d2be8bc21401bc72f76e70ea6d50cd6bd64ce710b77ee867",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-eda7efcdb3ec-c01",
+      "assertion": "Rashell says she officially represents Taygeta on its High Council and before the Federation.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eda7efcdb3ec-c02",
+      "assertion": "She says many factions operate; Federation and Sphere groups are largest, and she distinguishes them by frequency.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eda7efcdb3ec-c03",
+      "assertion": "Rashell says Taygeta arrived in 1952 after atomic tests amid ship losses; microwaves could disable some ships, but none were Taygetan.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0020",
+        "p0024"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eda7efcdb3ec-c04",
+      "assertion": "She says Taygetan crews used time-travel-capable ships to hinder Nazi nuclear research, with partial success.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0049",
+        "p0051",
+        "p0056",
+        "p0058"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eda7efcdb3ec-c05",
+      "assertion": "She distinguishes positive Zeta Reticuli Gardeners from Orion Grays, which she describes as negative.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "historical-claims-uncorroborated"
+  ],
+  "coverage_gaps": [
+    "treaties",
+    "species-counts",
+    "diplomatic-disputes"
+  ]
+}

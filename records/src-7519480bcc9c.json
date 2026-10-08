@@ -1,0 +1,111 @@
+{
+  "source_id": "src-7519480bcc9c",
+  "snapshot_sha256": "c153e81e703731d0ebbf4aa9ae9ed8c41480f5133b517065bf6eeae773bfbca2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7519480bcc9c-c01",
+      "assertion": "Gosia frames her Federation reflections as personal, separate from Taygetan transmissions.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0002",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7519480bcc9c-c02",
+      "assertion": "She feels growth need not require suffering, while wondering whether humans still seek it.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0032",
+        "p0038",
+        "p0072",
+        "p0089"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7519480bcc9c-c03",
+      "assertion": "Gosia quotes Anéeka as saying Earth confinement is meant to help humans outgrow negative manifestation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050",
+        "p0054"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7519480bcc9c-c04",
+      "assertion": "She describes starseeds as choosing to come support humanity’s development.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0132",
+        "p0146"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7519480bcc9c-c05",
+      "assertion": "Gosia says starseeds try to maintain frequency while accompanying human transition.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0077",
+        "p0082"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7519480bcc9c-c06",
+      "assertion": "She says she may later withdraw from the project to rest, depending on wellbeing.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0157",
+        "p0185"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-split: Gosia reflection; Anéeka statement at p0050-p0054",
+    "coverage: full metaphysical questions"
+  ],
+  "coverage_gaps": []
+}

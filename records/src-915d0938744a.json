@@ -1,0 +1,94 @@
+{
+  "source_id": "src-915d0938744a",
+  "snapshot_sha256": "6708226a87e28c84604acf5577782106265ab22e55ad9ba87b1e7c14c09bf30f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-915d0938744a-c01",
+      "assertion": "Anéeka warned that a major US false flag might target protesters and be blamed on Trump.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as intelligence, not certainty."
+    },
+    {
+      "id": "src-915d0938744a-c02",
+      "assertion": "She said Trump had direct Federation contact and worked with Putin.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-915d0938744a-c03",
+      "assertion": "She said her sources linked protest payments to Gates and Soros; she expressed doubt about Rockefeller.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-915d0938744a-c04",
+      "assertion": "She relayed Yazhi-derived information that an asteroid false flag might distract from election turmoil.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Second-hand forecast; the speaker says asteroids would be ships."
+    },
+    {
+      "id": "src-915d0938744a-c05",
+      "assertion": "She urged passive resistance, warning that demonstrations exposed participants to danger.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "dated_prediction",
+    "second_hand_claims"
+  ],
+  "coverage_gaps": []
+}

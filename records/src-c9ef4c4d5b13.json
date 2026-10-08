@@ -1,0 +1,133 @@
+{
+  "source_id": "src-c9ef4c4d5b13",
+  "snapshot_sha256": "3c46994c95cac1ff9ea5951a07ea3617eb09980a313952ea8f6247c898f5e8a2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c9ef4c4d5b13-c01",
+      "assertion": "Swaruu says Taygeta has an ethical time-travel squadron called Sand Clock.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9ef4c4d5b13-c02",
+      "assertion": "Swaruu says time jumps are reserved for important missions and carry risks.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9ef4c4d5b13-c03",
+      "assertion": "Swaruu describes supraluminal travel as changing a ship’s frequency to its destination.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9ef4c4d5b13-c04",
+      "assertion": "Swaruu says private wormholes distinguish Taygetan ships from limited rival travel.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9ef4c4d5b13-c05",
+      "assertion": "Swaruu says unknown destinations are reached by repeated frequency mapping and jumps.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9ef4c4d5b13-c06",
+      "assertion": "Swaruu says ships need origin data to return reliably after time jumps.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9ef4c4d5b13-c07",
+      "assertion": "Swaruu says location frequencies can be represented as harmonic musical structures.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0045",
+        "p0046",
+        "p0048"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "time_travel_risks",
+    "comparative_technology_claims"
+  ],
+  "coverage_gaps": [
+    "frequency_calculation",
+    "navigation_computers",
+    "unknown_space_protocol"
+  ]
+}

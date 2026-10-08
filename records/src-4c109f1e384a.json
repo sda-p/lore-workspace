@@ -1,0 +1,135 @@
+{
+  "source_id": "src-4c109f1e384a",
+  "snapshot_sha256": "3b7831732d45700cadb81069ae05fa0c032a9e7a219732522c806e50dd97f8c2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4c109f1e384a-c01",
+      "assertion": "Swaruu presents 5D Earth as holistic, connected, and resource-abundant.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c109f1e384a-c02",
+      "assertion": "Swaruu says 5D senses and telepathy are heightened.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c109f1e384a-c03",
+      "assertion": "Swaruu says 5D awareness includes 3D, while ordinary 3D perception cannot grasp 5D.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c109f1e384a-c04",
+      "assertion": "Swaruu describes the 3D Matrix as a hack that shapes perception and reactions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0033"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c109f1e384a-c05",
+      "assertion": "Swaruu says focused attention manifests experience faster in denser 3D.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c109f1e384a-c06",
+      "assertion": "Swaruu says people can alter their frequency through inner work and chosen focus.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0062",
+        "p0064",
+        "p0065"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c109f1e384a-c07",
+      "assertion": "Swaruu says consciousness controls whether genes are expressed.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0070",
+        "p0071"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "matrix_scope",
+    "manifestation_mechanics"
+  ],
+  "coverage_gaps": [
+    "5d_material_culture",
+    "matrix_escape_practices"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "source_id": "src-d9ac63440a2c",
+  "snapshot_sha256": "16b555ba1c6b88c4045a897daa5fb51c87f70ecd822d1f17ef5d1333a68cb780",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d9ac63440a2c-c01",
+      "assertion": "She describes ordinary Earth life as a cycle of work needed to pay for necessities, limiting free time.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0030"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d9ac63440a2c-c02",
+      "assertion": "She says Taygetan society encourages people to pursue what they enjoy and considers its economic problems solved.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0053",
+        "p0057"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d9ac63440a2c-c03",
+      "assertion": "She says Lyrian-descended people tend toward cooperation and empathy when other species do not interfere.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0063"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d9ac63440a2c-c04",
+      "assertion": "She respects caregiving as service when freely chosen, while rejecting sacrifice imposed on women.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0075",
+        "p0077",
+        "p0079"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d9ac63440a2c-c05",
+      "assertion": "She says Taygetans build large ships without payment constraints.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0061"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "dialogue-perspectives-distinguished"
+  ],
+  "coverage_gaps": [
+    "gender-generalizations",
+    "human-work-experience",
+    "taygetan-economy"
+  ]
+}

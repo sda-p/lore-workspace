@@ -1,0 +1,96 @@
+{
+  "source_id": "src-8565a7cf5926",
+  "snapshot_sha256": "887c1b96f91cc848e73ade4eaa7603e987422ee6b48132e562ca59b33135b11a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8565a7cf5926-c01",
+      "assertion": "Yazhi says each consciousness has a relative reality shaped by perception and shared agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8565a7cf5926-c02",
+      "assertion": "She says higher-density consciousness can manifest ideas more readily through focused attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8565a7cf5926-c03",
+      "assertion": "She describes time as less linear at higher densities, with events linking across timelines.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8565a7cf5926-c04",
+      "assertion": "She says people delegate authority over reality to governments in exchange for protection.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0044",
+        "p0045",
+        "p0050"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8565a7cf5926-c05",
+      "assertion": "She advises expanding understanding by considering alternatives and revising beliefs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0038"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

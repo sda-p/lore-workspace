@@ -1,0 +1,127 @@
+{
+  "source_id": "src-ba6cbff6aab6",
+  "snapshot_sha256": "af02e7d9ca4f427a3a37513cd172716ffdd7ac512a0d83609c274300670917a2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ba6cbff6aab6-c01",
+      "assertion": "Swaruu says lunar computers project a 3D hologram over Earth’s 5D.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6cbff6aab6-c02",
+      "assertion": "She says Federation forces installed it to contain Reptilians after Tiamat.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6cbff6aab6-c03",
+      "assertion": "She says Reptilians hack it through perception control and imposed beliefs.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6cbff6aab6-c04",
+      "assertion": "She describes Van Allen belts as the 3D escape boundary.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6cbff6aab6-c05",
+      "assertion": "Swaruu says only four of the original twelve lunar reactors still operate.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0054",
+        "p0058"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6cbff6aab6-c06",
+      "assertion": "She says shutdown would cause chaos because people are unready for 5D.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0059",
+        "p0060"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba6cbff6aab6-c07",
+      "assertion": "She describes Reptilians as divided between cooperative and fighting factions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0068",
+        "p0070"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)",
+    "coverage: 5D transition forecast"
+  ],
+  "coverage_gaps": []
+}

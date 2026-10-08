@@ -1,0 +1,126 @@
+{
+  "source_id": "src-0d1463b8ea85",
+  "snapshot_sha256": "6cbb982e92c6861c617b0d7c380198c386b68d6c9b57ef3bb6b75e952025eb4b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0d1463b8ea85-c01",
+      "assertion": "Swaruu groups Dieslentiplex, Devonians, and Korendians as ancient non-Lyrian species.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d1463b8ea85-c02",
+      "assertion": "Swaruu describes these species as single-sex, asexually self-cloning, and marsupial-like.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d1463b8ea85-c03",
+      "assertion": "Swaruu says offspring inherit the progenitor’s continuing awareness and memory.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d1463b8ea85-c04",
+      "assertion": "Swaruu says individuals remain distinct despite strong telepathic connection.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d1463b8ea85-c05",
+      "assertion": "Swaruu describes their bodies as 5D, compatible with their claimed spiritual advancement.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d1463b8ea85-c06",
+      "assertion": "Swaruu says they lack romantic couples but express non-romantic love.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0061",
+        "p0062",
+        "p0064"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d1463b8ea85-c07",
+      "assertion": "Swaruu says the species belong to the Federation and co-founded Andromeda Council.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0057",
+        "p0058"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

@@ -1,0 +1,133 @@
+{
+  "source_id": "src-7f7f62c9391c",
+  "snapshot_sha256": "511a778c33d085a19f82c395bdf04f057015f809e08e59cdd5058ac40bd8412c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7f7f62c9391c-c01",
+      "assertion": "Yazhi describes Atlantis as a planetary, multi-racial civilization ruled by reptilians.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0038"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f7f62c9391c-c02",
+      "assertion": "Yazhi describes Lemuria as a Lyrian resistance civilization centered at Mu.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0039"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f7f62c9391c-c03",
+      "assertion": "Yazhi says reptilian forces enslaved Lyrians to mine gold.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0049"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f7f62c9391c-c04",
+      "assertion": "Yazhi says Alpha Dracos interacted with Atlantis but kept a closed society.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f7f62c9391c-c05",
+      "assertion": "Yazhi describes gold as scarce, widely mined, and useful in superconducting cables.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f7f62c9391c-c06",
+      "assertion": "Yazhi says Nazca figures encoded star routes and ship-parking guidance.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0052",
+        "p0053",
+        "p0060",
+        "p0066"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7f7f62c9391c-c07",
+      "assertion": "Yazhi says ancient starports used underground holographic traffic control.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0063",
+        "p0064",
+        "p0065"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

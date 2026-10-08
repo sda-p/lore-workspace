@@ -1,0 +1,100 @@
+{
+  "source_id": "src-485b66a6a83b",
+  "snapshot_sha256": "f95f27b5e6fbc19f14c67352ef7a2bbd9f74abe1853e4b6fe2a4b260d9cf3eea",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-485b66a6a83b-c01",
+      "assertion": "The Red Queen is described as a terrestrial internet-spanning AI designed under DARPA and still serving Cabal interests.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-485b66a6a83b-c02",
+      "assertion": "She says Federation computers interfere with the Red Queen, whose independence remains uncertain.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-485b66a6a83b-c03",
+      "assertion": "The account says some clones retain a partial connection to the original’s soul signal.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-485b66a6a83b-c04",
+      "assertion": "She distinguishes connected clones as real from clones lacking a Source connection, which she calls false.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0045",
+        "p0046",
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-485b66a6a83b-c05",
+      "assertion": "She says higher frequency and intention can shift people away from negative timelines.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0052",
+        "p0053",
+        "p0055",
+        "p0058"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "clone-claims",
+    "device-protection"
+  ]
+}

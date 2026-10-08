@@ -1,0 +1,92 @@
+{
+  "source_id": "src-4d0d25a69602",
+  "snapshot_sha256": "922caffea826e0c24faf31486f41cb8e553cc7a95c34e715fed977c38f715f4c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4d0d25a69602-c01",
+      "assertion": "The speaker links lower government needs to higher collective consciousness.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d0d25a69602-c02",
+      "assertion": "She says alternative energy requires first addressing mechanisms that suppress it.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d0d25a69602-c03",
+      "assertion": "Earth is framed as both a difficult incarnation and, from some perspectives, a school rather than prison.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d0d25a69602-c04",
+      "assertion": "The speaker says Federation rules limit direct action, while assistance continues without taking credit from humans.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4d0d25a69602-c05",
+      "assertion": "She names Andromedans, Antarians, Centauri, Sirians, Arcturians, Engan, Alpha Draconians, and Urmah among helpers.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "implant-details",
+    "earth-geopolitics"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_id": "src-86a79633dca1",
+  "snapshot_sha256": "bd05e55e9e6913119bf724c3f96060b4e5b277d76b32265b00ae13346af3cc6b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-86a79633dca1-c01",
+      "assertion": "A soul is built through experience; accumulated ideas and values shape its later point of attention.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-86a79633dca1-c02",
+      "assertion": "She says reincarnation follows a soul’s own beliefs and unresolved ideas, rather than requiring an external jailer.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0021",
+        "p0033",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-86a79633dca1-c03",
+      "assertion": "Animals are described as people with souls; she says pets may reincarnate and follow familiar people.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-86a79633dca1-c04",
+      "assertion": "She describes body and soul as integrated, with the pineal gland the strongest detectable interface.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0073",
+        "p0083"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-86a79633dca1-c05",
+      "assertion": "She describes plants as souls and quartz crystals as simple one-dimensional beings.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "soul-model-metaphysical"
+  ],
+  "coverage_gaps": [
+    "walk-ins",
+    "plant-and-mineral-awareness",
+    "death-ethics"
+  ]
+}

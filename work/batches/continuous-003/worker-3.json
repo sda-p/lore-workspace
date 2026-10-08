@@ -1,0 +1,17 @@
+{
+  "worker": 3,
+  "batch_id": "continuous-003",
+  "source_ids": [
+    "src-0490a8f59cf5",
+    "src-bfb4094468eb",
+    "src-34f99e6e936e",
+    "src-878283338eea",
+    "src-5a1f126d1f61",
+    "src-526c2f26de59",
+    "src-6656b9a64d45",
+    "src-97d78d5ed3d4",
+    "src-4386f9a28119",
+    "src-876a1cb1e277"
+  ],
+  "source_word_count": 30930
+}

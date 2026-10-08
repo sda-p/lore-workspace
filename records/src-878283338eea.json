@@ -1,0 +1,113 @@
+{
+  "source_id": "src-878283338eea",
+  "snapshot_sha256": "ba4bc2691f47893e0bec9e7dc47e2d91e399494d4115dd4aeea1655dd478c508",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-878283338eea-c01",
+      "assertion": "He says fighter pilots need navigation, engineering, ethics and survival skills, and may work alone without rescue.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0016",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878283338eea-c02",
+      "assertion": "He describes Suzy-class craft as agile, self-maintaining fighters with advanced AI and heavy armaments.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878283338eea-c03",
+      "assertion": "He says scalar weapons can blind gravity sensors; Taygetan ships add plasma engines as backup lift.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0082",
+        "p0088",
+        "p0090",
+        "p0096"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878283338eea-c04",
+      "assertion": "He describes ship shields as high-frequency energy toroids, with sonic weapons and threat-vector reversal.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0099",
+        "p0105",
+        "p0108",
+        "p0112"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878283338eea-c05",
+      "assertion": "He says cloaking can alter ship frequency or bend light; pilots may also simulate civilian aircraft returns.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0161",
+        "p0165",
+        "p0188",
+        "p0198",
+        "p0202"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "pilot-account-attributed"
+  ],
+  "coverage_gaps": [
+    "suzy-specifications",
+    "federation-missions",
+    "aircraft-mimicry"
+  ]
+}

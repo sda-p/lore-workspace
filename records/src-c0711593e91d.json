@@ -1,0 +1,96 @@
+{
+  "source_id": "src-c0711593e91d",
+  "snapshot_sha256": "f07072a8df102360505c043406db569244be395ad014ae21b5889e0e798fe1d3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c0711593e91d-c01",
+      "assertion": "Swaruu says each consciousness experiences its own timeline, where beings may exist or not exist for that observer.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c0711593e91d-c02",
+      "assertion": "She rejects an objective material world, describing reality as subjective interpretation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c0711593e91d-c03",
+      "assertion": "She says apparently contradictory perspectives may both be valid from different viewpoints.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0020",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c0711593e91d-c04",
+      "assertion": "She describes each consciousness as a timeline and a fractal of the universe.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c0711593e91d-c05",
+      "assertion": "She characterizes broader awareness of multiple perspectives as transcending duality.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0023",
+        "p0025",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "timeline-claims",
+    "subjective-reality"
+  ]
+}

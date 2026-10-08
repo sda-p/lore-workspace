@@ -1,0 +1,96 @@
+{
+  "source_id": "src-6322a8053a11",
+  "snapshot_sha256": "e0bb69fe3c2fa795c5a5e3bdd6bacef16614d07d61b227a594563713fbaed0aa",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6322a8053a11-c01",
+      "assertion": "Swaruu treats karma as a Matrix rule that has no authority beyond the game.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6322a8053a11-c02",
+      "assertion": "She says guilt and karma beliefs can prompt souls to reincarnate.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6322a8053a11-c03",
+      "assertion": "She says dissolving karma requires spiritual work and transcending duality while incarnated.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6322a8053a11-c04",
+      "assertion": "She attributes the widespread karma model to Andromedans, while describing Taygetan views as more flexible.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0053",
+        "p0055",
+        "p0058"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6322a8053a11-c05",
+      "assertion": "She says beliefs shape postmortem experience and that souls may choose to return to Source.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0080",
+        "p0083"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "reincarnation-process",
+    "afterlife-claims"
+  ]
+}

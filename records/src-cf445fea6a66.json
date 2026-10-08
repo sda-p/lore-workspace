@@ -1,0 +1,114 @@
+{
+  "source_id": "src-cf445fea6a66",
+  "snapshot_sha256": "1d4b3352f4f8f8963c49e8c59cc079f2bea336434d7dd5f46d7656d2ce84fb03",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cf445fea6a66-c01",
+      "assertion": "Swaruu names cats, ferrets, and moghyay as common Taygetan pets.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf445fea6a66-c02",
+      "assertion": "Swaruu describes moghyay as feathered, tree-climbing fruit eaters.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf445fea6a66-c03",
+      "assertion": "Swaruu says Earth dogs are invasive and dangerous to native species.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf445fea6a66-c04",
+      "assertion": "Swaruu describes Taygetan fauna as varying across tropical, woodland, jungle, and tundra worlds.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0027"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf445fea6a66-c05",
+      "assertion": "Swaruu says animal species are seeded across planets without a clear beginning.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf445fea6a66-c06",
+      "assertion": "Swaruu says advanced interstellar races are vegan, while regressive races are carnivorous.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "fauna_and_ecology_claims",
+    "dog_import_exception_is_uncertain"
+  ],
+  "coverage_gaps": [
+    "moghyay_behavior",
+    "planetary_hazards",
+    "animal_consciousness"
+  ]
+}

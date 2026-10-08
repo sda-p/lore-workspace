@@ -1,0 +1,93 @@
+{
+  "source_id": "src-deac39f68d91",
+  "snapshot_sha256": "a3098260ba0313610d12fbf14cf4328b109b1f1795294ef164e2f3d1dffd7d9a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-deac39f68d91-c01",
+      "assertion": "She says integrating new information into the subconscious frees conscious attention for further learning.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0016",
+        "p0017",
+        "p0030",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-deac39f68d91-c02",
+      "assertion": "She contrasts integrated learning with information overload, which she associates with mental strain.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-deac39f68d91-c03",
+      "assertion": "She describes 5D-to-3D frequency mismatch as overloading an extraterrestrial’s nervous system.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0055",
+        "p0058",
+        "p0062",
+        "p0064",
+        "p0069"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-deac39f68d91-c04",
+      "assertion": "A toroidal belt device is said to technologically slow temporal frequency during 5D-to-3D immersion.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0071",
+        "p0072",
+        "p0073",
+        "p0077",
+        "p0078",
+        "p0080"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "frequency-dissonance",
+    "temporal-devices"
+  ]
+}

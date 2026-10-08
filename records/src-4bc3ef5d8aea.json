@@ -1,0 +1,112 @@
+{
+  "source_id": "src-4bc3ef5d8aea",
+  "snapshot_sha256": "f690df5553b8799dd3b9c9defe270c626cc546b4df934f7ee73aec5aadefabfc",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4bc3ef5d8aea-c01",
+      "assertion": "Swaruu says some encountered people are Matrix-generated roles, though they cannot initially be distinguished from real people.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bc3ef5d8aea-c02",
+      "assertion": "She advises treating everyone with equal respect despite her real/unreal distinction.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bc3ef5d8aea-c03",
+      "assertion": "She describes unreal people as scripted by a lunar mainframe and mimicking emotions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0034",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bc3ef5d8aea-c04",
+      "assertion": "Swaruu says attention can expand a person’s role without determining whether they are real.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0054",
+        "p0056",
+        "p0058"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bc3ef5d8aea-c05",
+      "assertion": "She later says most people in the Matrix are real, but influenced by archons.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0097",
+        "p0098"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4bc3ef5d8aea-c06",
+      "assertion": "She describes unreal people as background constructs projected through attention and the Matrix.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0099",
+        "p0100",
+        "p0102"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conceptual-tension: real/unreal distinctions are context-dependent",
+    "coverage: Matrix scripts"
+  ],
+  "coverage_gaps": []
+}

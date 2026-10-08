@@ -1,0 +1,109 @@
+{
+  "source_id": "src-ffa5ee8fb668",
+  "snapshot_sha256": "ee1b1d181b7e0ad1453c71ca8a64d965a3cb4e678908e84f66b08701ce6184df",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ffa5ee8fb668-c01",
+      "assertion": "Dhor estimates his chronological age at about 10,000 years, while appearing roughly 21–25.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffa5ee8fb668-c02",
+      "assertion": "He says his work is preparing Earth’s population for withdrawal of the artificial 3D Matrix.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0091",
+        "p0092",
+        "p0093",
+        "p0094"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffa5ee8fb668-c03",
+      "assertion": "He describes Taygeta as matriarchal, while men may take command roles as equals if they choose.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0118",
+        "p0123",
+        "p0132",
+        "p0133",
+        "p0135",
+        "p0136"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffa5ee8fb668-c04",
+      "assertion": "He rejects military takeover as counterproductive, while describing defensive coordination against regressive forces.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0160",
+        "p0161",
+        "p0163",
+        "p0166",
+        "p0167"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ffa5ee8fb668-c05",
+      "assertion": "He says about ten crew members speak human languages, limiting personal contact with thousands of people.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0259",
+        "p0260",
+        "p0261",
+        "p0265",
+        "p0266"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "pilot-profile",
+    "taygetan-gender-roles",
+    "contact-capacity"
+  ]
+}

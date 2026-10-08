@@ -1,0 +1,127 @@
+{
+  "source_id": "src-5e22584bfff4",
+  "snapshot_sha256": "9645ad79d84fffd686ec044449922842c7f5795a3edc5e5e99f4a552f6b3d413",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5e22584bfff4-c01",
+      "assertion": "Swaruu describes Taygetans as explorers who also maintain a warrior tradition.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e22584bfff4-c02",
+      "assertion": "Swaruu says Taygetan navigation blends mathematics, music, and harmonic tones.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e22584bfff4-c03",
+      "assertion": "Swaruu says interplanetary signals use muon-neutrino transmissions instead of radio.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e22584bfff4-c04",
+      "assertion": "Swaruu describes Taygetan words as telepathically loaded with contextual meaning.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0029"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e22584bfff4-c05",
+      "assertion": "Swaruu says Taygetan suits provide armor, impact response, telemetry, and temperature control.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0033"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5e22584bfff4-c06",
+      "assertion": "Swaruu says Taygetan females can self-conceive female genetic copies.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0045",
+        "p0049"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this capacity is not shared by all humanoid races."
+    },
+    {
+      "id": "src-5e22584bfff4-c07",
+      "assertion": "Swaruu says rabbits and squirrels are shared by Erra and Earth.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0069"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "species_specific_reproduction",
+    "technology_claims"
+  ],
+  "coverage_gaps": [
+    "political_structure",
+    "historical_origins",
+    "interplanetary_transport"
+  ]
+}

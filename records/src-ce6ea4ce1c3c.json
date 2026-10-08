@@ -1,0 +1,124 @@
+{
+  "source_id": "src-ce6ea4ce1c3c",
+  "snapshot_sha256": "d50c8673b9f7945f0379755b49156335aafeed28fde8aa8429fa45f4ecb17b62",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ce6ea4ce1c3c-c01",
+      "assertion": "Swaruu says a ship toroid reduces mass drag, enabling plasma propulsion near one-third light speed.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0041",
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce6ea4ce1c3c-c02",
+      "assertion": "Swaruu says jet propulsion is too slow for interstellar travel, so ships jump through ether.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0049",
+        "p0052",
+        "p0057"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce6ea4ce1c3c-c03",
+      "assertion": "Swaruu says ships map unknown space by measuring gravitational frequencies and inferring adjacent values.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0070",
+        "p0075",
+        "p0077",
+        "p0103",
+        "p0107"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce6ea4ce1c3c-c04",
+      "assertion": "Swaruu describes frequency harmonics as musical patterns defining locations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0121",
+        "p0126",
+        "p0137",
+        "p0145"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce6ea4ce1c3c-c05",
+      "assertion": "Swaruu says explored corridors are mapped, while other galaxies remain poorly charted.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0187",
+        "p0190",
+        "p0193",
+        "p0197"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce6ea4ce1c3c-c06",
+      "assertion": "Swaruu says timeline variation adds navigation variables and can strand ships.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0198",
+        "p0202"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "frequency_map_model",
+    "unmapped_regions_and_return_risk"
+  ],
+  "coverage_gaps": [
+    "reactor_types",
+    "temporal_frequency_layers",
+    "crew_sit_time"
+  ]
+}

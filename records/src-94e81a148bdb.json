@@ -1,0 +1,118 @@
+{
+  "source_id": "src-94e81a148bdb",
+  "snapshot_sha256": "c3c23265d99eb4eca0f770005b0d7a7575c9ce202daf46187ac88982823eca32",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-94e81a148bdb-c01",
+      "assertion": "Swaruu says real incarnates enter with self-designed scripts limiting suffering.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94e81a148bdb-c02",
+      "assertion": "Swaruu links suffering to misalignment and to contrast that can spur growth.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94e81a148bdb-c03",
+      "assertion": "Swaruu says negative forces hacked the Matrix to shape focus and suffering.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94e81a148bdb-c04",
+      "assertion": "Swaruu attributes some childhood suffering to prior-life focus and reincarnation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94e81a148bdb-c05",
+      "assertion": "Swaruu distinguishes accepting feelings from allowing harm and urges helping animals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94e81a148bdb-c06",
+      "assertion": "Swaruu identifies self-forgiveness as key to escaping harmful reincarnation patterns.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0061"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "suffering_causality",
+    "speaker_qualifies_script_claims",
+    "sensitive_claims"
+  ],
+  "coverage_gaps": [
+    "frequency_change",
+    "physical_pain",
+    "source_of_bodies"
+  ]
+}

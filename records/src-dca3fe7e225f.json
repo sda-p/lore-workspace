@@ -1,0 +1,97 @@
+{
+  "source_id": "src-dca3fe7e225f",
+  "snapshot_sha256": "ca6aaaa4042803f3938600c76370a5fe1f994e28e15a07831f02214694a3a9ec",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-dca3fe7e225f-c01",
+      "assertion": "She frames the confinement and media cycle as fear-generating manipulation, and urges starseeds to maintain focus.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dca3fe7e225f-c02",
+      "assertion": "She advises reducing media exposure and using meditation, hobbies, exercise, and hands-on activities.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dca3fe7e225f-c03",
+      "assertion": "She says positive intention should be paired with practical action to change circumstances.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dca3fe7e225f-c04",
+      "assertion": "She defines starseed identity as self-known, without requiring external confirmation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dca3fe7e225f-c05",
+      "assertion": "She tells starseeds to sustain a positive timeline through personal focus and action.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "dated-message-claims",
+    "starseed-advice"
+  ]
+}

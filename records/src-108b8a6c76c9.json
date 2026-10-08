@@ -1,0 +1,108 @@
+{
+  "source_id": "src-108b8a6c76c9",
+  "snapshot_sha256": "b163fc9f301d857931f3db3fceb08f295b7b0501fd2772e7a80f1e4c868ea410",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-108b8a6c76c9-c01",
+      "assertion": "Swaruu says natural portals form temporarily when local gravitational harmonics align with another location.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-108b8a6c76c9-c02",
+      "assertion": "She says portals recur at energetic nodes; technology can amplify a node into a stronger portal.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0026"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-108b8a6c76c9-c03",
+      "assertion": "She distinguishes natural portals as bubbles from artificial portals that may appear flat or vortex-like.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-108b8a6c76c9-c04",
+      "assertion": "She says portal transit can displace travelers across places or times, while ships favor supraluminal travel to avoid hazards.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0039",
+        "p0041",
+        "p0047",
+        "p0049"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-108b8a6c76c9-c05",
+      "assertion": "She says the Bermuda Triangle is an energetic node where portals may open, not a portal at all times.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "natural-portals",
+      "name": "Natural and artificial portals",
+      "kind": "technology",
+      "aliases": [
+        "portals",
+        "natural portals",
+        "wormholes"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "named_portal_sites_omitted"
+  ]
+}

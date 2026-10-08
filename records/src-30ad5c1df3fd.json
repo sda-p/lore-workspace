@@ -1,0 +1,108 @@
+{
+  "source_id": "src-30ad5c1df3fd",
+  "snapshot_sha256": "c4d6a4a649da877d0f3482203b4e74aa32e89a0616303a377b95e9b925112533",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-30ad5c1df3fd-c01",
+      "assertion": "Time is described as consciousness sequencing perceived events, rather than an external process.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30ad5c1df3fd-c02",
+      "assertion": "Her navigation model assigns a frequency address to a place and uses progression factors to specify arrival time.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0053",
+        "p0058",
+        "p0075",
+        "p0082",
+        "p0087"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30ad5c1df3fd-c03",
+      "assertion": "She describes past, present, and future as fixed snapshots that observers animate through attention.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0223",
+        "p0228",
+        "p0229",
+        "p0251",
+        "p0256"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30ad5c1df3fd-c04",
+      "assertion": "A personal timeline is defined as one consciousness’s event sequence; group timelines reflect shared perceptual agreements.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0314",
+        "p0315",
+        "p0325",
+        "p0329",
+        "p0332"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30ad5c1df3fd-c05",
+      "assertion": "She says feelings and emotions guide frequency-based choices among timelines.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0376",
+        "p0378",
+        "p0380",
+        "p0415",
+        "p0418"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "time-perception",
+    "timeline-navigation",
+    "frequency-choice"
+  ]
+}

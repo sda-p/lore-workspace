@@ -1,0 +1,91 @@
+{
+  "source_id": "src-488e913b4ae2",
+  "snapshot_sha256": "fff85c7b6588931f5ee19dd66355e021c90ebc6834a1d4bc88b4c391cba9530b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-488e913b4ae2-c01",
+      "assertion": "Swaruu says cultures share ideas through migration, starseeds, and exchange across civilizations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-488e913b4ae2-c02",
+      "assertion": "She says advanced societies may favor handmade art while keeping technology subordinate to people.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-488e913b4ae2-c03",
+      "assertion": "She says Taygeta has about 38 million people across four planets, with sparse settlement and few cities.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0038"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-488e913b4ae2-c04",
+      "assertion": "She says Taygetans meet socially through academies and chosen work; schooling is mostly home-based.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0040"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-488e913b4ae2-c05",
+      "assertion": "She says piano exists in Taygetan, Engan, and Solatian cultures but not among three-fingered Korendians.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

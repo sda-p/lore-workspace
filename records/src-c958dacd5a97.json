@@ -1,0 +1,117 @@
+{
+  "source_id": "src-c958dacd5a97",
+  "snapshot_sha256": "b883f4e014f3c99443e0b577ea8e2430bd199bf2eb6670e0f0216e835a20f12d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c958dacd5a97-c01",
+      "assertion": "Anéeka predicts repeated pandemic waves would collapse food distribution and economies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She attributes the forecast to controllers and sources."
+    },
+    {
+      "id": "src-c958dacd5a97-c02",
+      "assertion": "Anéeka alleges a bacteriological weapon could target opposition regions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes it as a contingency and says she has unresolved questions."
+    },
+    {
+      "id": "src-c958dacd5a97-c03",
+      "assertion": "Anéeka predicts vaccination credentials could become prerequisites for services.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She predicts formally voluntary vaccination would carry practical restrictions."
+    },
+    {
+      "id": "src-c958dacd5a97-c04",
+      "assertion": "Anéeka alleges masks were promoted as obedience indicators rather than protection.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c958dacd5a97-c05",
+      "assertion": "Anéeka predicts vaccine harms and fertility effects would increase dependence on pharmaceuticals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c958dacd5a97-c06",
+      "assertion": "Anéeka reports conflicting forecasts: her sources expect October-November events; Yazhi sees September-November.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0044",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_medical_claims",
+    "forecast_predictions_not_confirmed"
+  ],
+  "coverage_gaps": []
+}

@@ -46,6 +46,17 @@ Source: [INVASIVE BLACK GOO and AI: Biggest THREAT to the PLANET EARTH (Extrater
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-fe653fa2e8b2-c06
+
+She calls Black Goo a planetary life-form that reached Earth twice.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
+
+Source: [Reptilian-Cabal Experiments: Swaruu of Erra, Extraterrestrial Woman from Pleiades, Speaks Out (Biology 2)](https://swaruu.org/transcripts/reptilian-cabal-experiments-swaruu-extraterrestrial-woman-from-pleiades-speaks-out-biology-2) (2018-10-28; en); passages p0061, p0063. [Structured record](../../records/src-fe653fa2e8b2.json).
+
 ## Review flags
 
+- claim: extraordinary abduction and biology account
+- coverage: gardener-procedures
+- coverage: primary-secondary taxonomy
 - speaker-label-ambiguity

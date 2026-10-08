@@ -1,0 +1,130 @@
+{
+  "source_id": "src-f2e581c027ec",
+  "snapshot_sha256": "ec19e1ab2c8b086073650b360e229313b065925a119f487913615acf6e837cce",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f2e581c027ec-c01",
+      "assertion": "They exit superluminal flight far away, then coast to destination using plasma propulsion.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0010",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2e581c027ec-c02",
+      "assertion": "He attributes whole-craft glow to atmosphere heated into plasma by an electromagnetic bubble.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0021",
+        "p0024"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2e581c027ec-c03",
+      "assertion": "Taygetan ships use gravity manipulation, plasma jets, and frequency-controlled toroids.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0041",
+        "p0052"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2e581c027ec-c04",
+      "assertion": "Dhor says ships can jump from rest; velocity helps coordinate and clear traffic.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2e581c027ec-c05",
+      "assertion": "He says navigation can fail when spatial and time-frequency maps change.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0150",
+        "p0154",
+        "p0386",
+        "p0394"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2e581c027ec-c06",
+      "assertion": "He describes polymorphic alloy as forming a self-healing hull under computer-managed frequencies.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0253",
+        "p0257",
+        "p0264",
+        "p0277"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f2e581c027ec-c07",
+      "assertion": "Ships support manual, mental, and automatic flight; crew perception determines internal travel time.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0103",
+        "p0104",
+        "p0328",
+        "p0339"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

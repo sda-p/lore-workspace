@@ -1,0 +1,95 @@
+{
+  "source_id": "src-faf343e773ca",
+  "snapshot_sha256": "1073b75e4bfaa3765af3b048f0eab00d8dfea33885830040509ef0de8aa57196",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-faf343e773ca-c01",
+      "assertion": "Yazhi urges doctors to organize and challenge official health measures.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-faf343e773ca-c02",
+      "assertion": "Yazhi accuses most doctors of silence motivated by professional and financial interests.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-faf343e773ca-c03",
+      "assertion": "Yazhi says resistance need not be violent and should reflect individual judgment.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-faf343e773ca-c04",
+      "assertion": "Yazhi says Federation intervention will not arrive to expose the alleged scheme.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-faf343e773ca-c05",
+      "assertion": "Yazhi frames doctors as pivotal to exposing what she calls systemic abuse.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical_claims_unverified"
+  ],
+  "coverage_gaps": []
+}

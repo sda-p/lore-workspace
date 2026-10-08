@@ -1,0 +1,110 @@
+{
+  "source_id": "src-562d6e44284f",
+  "snapshot_sha256": "05c6e8015b646853374a63c80664f0671090ee4123f6dba88389c71749b01807",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-562d6e44284f-c01",
+      "assertion": "Swaruu defines shadow work as introspection into learned programming, trauma, and automatic reactions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562d6e44284f-c02",
+      "assertion": "She says shadows are repressed traits that conflict with a person’s self-concept and cause resistance.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0032",
+        "p0039",
+        "p0052"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562d6e44284f-c03",
+      "assertion": "She distinguishes unwanted shadows from programming that simply defines identity.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562d6e44284f-c04",
+      "assertion": "Her suggested process is to trace a problem’s origin, then repeatedly re-associate it.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0072",
+        "p0078",
+        "p0081"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562d6e44284f-c05",
+      "assertion": "Swaruu says some resistance may originate in earlier incarnations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0069",
+        "p0070"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-562d6e44284f-c06",
+      "assertion": "She adds that a higher self may choose a difficult shadow for growth; this is her view, not Jung’s.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0054"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "attribution: higher-self interpretation explicitly distinguished from Jung (p0054)",
+    "coverage: personal example"
+  ],
+  "coverage_gaps": []
+}

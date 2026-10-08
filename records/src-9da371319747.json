@@ -1,0 +1,93 @@
+{
+  "source_id": "src-9da371319747",
+  "snapshot_sha256": "3a293e03c9079317742d5029b960aaeb2d0974a6978fb475fe5269e74e61b6a2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9da371319747-c01",
+      "assertion": "Yazhi says Earth civilizations repeatedly rise and fall in cycles of roughly 5,000–10,000 years.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9da371319747-c02",
+      "assertion": "She says human-like Lyrian civilizations predate accepted terrestrial chronology, which she considers indeterminate.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "lyrian-expansion",
+      "topics": [
+        "lyrian-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9da371319747-c03",
+      "assertion": "She alleges controllers destroy historical buildings and manipulate books to sever links with the past.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9da371319747-c04",
+      "assertion": "She says timelines undermine a single linear account of history.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9da371319747-c05",
+      "assertion": "She claims many Alexandria Library records survive in the Vatican after public copies were burned.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "low",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_history_claims"
+  ],
+  "coverage_gaps": []
+}

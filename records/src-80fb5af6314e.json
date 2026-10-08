@@ -1,0 +1,113 @@
+{
+  "source_id": "src-80fb5af6314e",
+  "snapshot_sha256": "4f247c4f1a37a68f1be20704429ec6ae8fc8b887a1e62795502e279f16907381",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-80fb5af6314e-c01",
+      "assertion": "Swaruu urges people to enact desired ascension as present action, not await an event.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-80fb5af6314e-c02",
+      "assertion": "She describes positronic waves as high-frequency energy from the galactic center, arriving several times monthly.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0034",
+        "p0039",
+        "p0050",
+        "p0058"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-80fb5af6314e-c03",
+      "assertion": "She says the Sun and Alcyone amplify the wave rather than originate it.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0066",
+        "p0074"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-80fb5af6314e-c04",
+      "assertion": "Swaruu distinguishes Earth’s 3D-to-5D shift from wider galactic ascension.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0075",
+        "p0086"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-80fb5af6314e-c05",
+      "assertion": "She says ascension varies by region and depends on collective and external factors.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0087",
+        "p0095",
+        "p0100",
+        "p0103"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-80fb5af6314e-c06",
+      "assertion": "She says higher frequencies alter lower-frequency systems through dominant-frequency effects.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0106",
+        "p0112"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "terminology: “positronic” is a human-language approximation (p0002)",
+    "coverage: frequency-wave mechanism"
+  ],
+  "coverage_gaps": []
+}

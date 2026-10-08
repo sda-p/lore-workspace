@@ -1,0 +1,115 @@
+{
+  "source_id": "src-6b41f329ba76",
+  "snapshot_sha256": "8692dd3d7eb62514ac1ddbc99cdfa608babccb1ae3462aa6f8625060fd51a6ee",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6b41f329ba76-c01",
+      "assertion": "She says electrogravitic coils need gravity-frequency sensing and modulation to avoid wasted output.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b41f329ba76-c02",
+      "assertion": "She identifies copper resistance and fixed frequency as major limits; nested tunable coils may help.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0064",
+        "p0068",
+        "p0072",
+        "p0073",
+        "p0076",
+        "p0079",
+        "p0080",
+        "p0082"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b41f329ba76-c03",
+      "assertion": "She says the proposed Rodin-coil setup consumes more energy than it produces and cannot provide zero-point power.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0087",
+        "p0088",
+        "p0096",
+        "p0097",
+        "p0098"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b41f329ba76-c04",
+      "assertion": "She describes counter-rotating magnetic pulse turbines as a starship-engine principle.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0215",
+        "p0216",
+        "p0217",
+        "p0218",
+        "p0219",
+        "p0220"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b41f329ba76-c05",
+      "assertion": "She says these engines require unavailable high-temperature alloys, ideally smelted in zero gravity.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0229",
+        "p0230",
+        "p0231",
+        "p0239",
+        "p0240",
+        "p0245"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "coil-materials",
+    "turbine-principles",
+    "zero-point-limits"
+  ]
+}

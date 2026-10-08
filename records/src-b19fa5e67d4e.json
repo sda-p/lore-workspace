@@ -1,0 +1,95 @@
+{
+  "source_id": "src-b19fa5e67d4e",
+  "snapshot_sha256": "5a61a59c13f5d03c5e21e59563b42cbb56a7cfc43d03e5631b5c284609d72c69",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b19fa5e67d4e-c01",
+      "assertion": "Yazhi describes reality as consciousness-generated and says matter is not independently real.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b19fa5e67d4e-c02",
+      "assertion": "She says lower-level rules preserve chosen life experiences and are accepted from a higher perspective.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b19fa5e67d4e-c03",
+      "assertion": "She says souls implant memories etherically before incarnation through intention and imagination.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0042",
+        "p0044",
+        "p0046"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b19fa5e67d4e-c04",
+      "assertion": "She says implanted memories provide interpretive references for a planned life.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0093",
+        "p0094",
+        "p0096"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b19fa5e67d4e-c05",
+      "assertion": "She presents past lives as experiences from one view and memory implants from another.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0107",
+        "p0108"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

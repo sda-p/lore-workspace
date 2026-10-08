@@ -1,0 +1,112 @@
+{
+  "source_id": "src-4893f240f040",
+  "snapshot_sha256": "2c54ec8fc1e77c0502debc994aeb7eebcdb56bffb4827f1f50cb7ead2b3998ba",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4893f240f040-c01",
+      "assertion": "Swaruu treats densities as frequency ranges, not mathematical dimensions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0010",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4893f240f040-c02",
+      "assertion": "She describes densities as a continuous gradient without hard boundaries.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4893f240f040-c03",
+      "assertion": "She calls 4D a buffer between 3D and 5D, associated with lower astral phenomena.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4893f240f040-c04",
+      "assertion": "She says 4D beings can perceive 3D, while 5D beings perceive lower densities.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0020",
+        "p0031"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4893f240f040-c05",
+      "assertion": "Swaruu links density to both perception and consciousness state.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0055",
+        "p0061",
+        "p0063"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4893f240f040-c06",
+      "assertion": "She describes higher realms as increasingly energetic, with matter manifesting through intention.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0065",
+        "p0079",
+        "p0081"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "coverage: density examples and species",
+    "terminology-tension: densities called concepts and frequency ranges"
+  ],
+  "coverage_gaps": []
+}

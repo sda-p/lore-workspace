@@ -1,0 +1,147 @@
+{
+  "source_id": "src-2a03cea64461",
+  "snapshot_sha256": "9f918cc94884453acb370794982e9fac28d777f4601be550a280dfec0d431dd3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2a03cea64461-c01",
+      "assertion": "Anéeka says Alcyone Council backed her ship to monitor Federation activity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2a03cea64461-c02",
+      "assertion": "Anéeka says Federation ascension messaging helped keep crews assisting its agenda.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2a03cea64461-c03",
+      "assertion": "Anéeka says Taygeta no longer views Earth operations as liberation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2a03cea64461-c04",
+      "assertion": "Anéeka describes rival Federation and Satanist versions of planetary government.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0072"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Both envision one government, religion, and currency."
+    },
+    {
+      "id": "src-2a03cea64461-c05",
+      "assertion": "Anéeka says the Federation filters information and uses layered oversight councils.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2a03cea64461-c06",
+      "assertion": "Anéeka says Phaethon survivors received guided manifestation training for centuries.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0044",
+        "p0046"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says Federation forces liberated the former Earth-derived slave world."
+    },
+    {
+      "id": "src-2a03cea64461-c07",
+      "assertion": "Anéeka reports Federation awakening estimates near 51%, disputed by four races.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2a03cea64461-c08",
+      "assertion": "Anéeka says a 32-person Taygetan crew cannot expand without Federation permission.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0102",
+        "p0103"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "reptile_conflicts",
+    "density_questions",
+    "moon_matrix"
+  ]
+}
