@@ -1,0 +1,112 @@
+{
+  "source_id": "src-db55ee8f9480",
+  "snapshot_sha256": "fbf9fa03f294dea04e3cdfde241c52b5a950c7ce014516ed96637faa5877c8d2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-db55ee8f9480-c01",
+      "assertion": "Yazhi calls each observer a singularity where many possible past timelines converge into the present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0006",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-singularity",
+      "topics": [
+        "consciousness-singularity",
+        "black-holes"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db55ee8f9480-c02",
+      "assertion": "She says possible futures branch from the present and depend partly on an observer’s thoughts and frequency.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-singularity",
+      "topics": [
+        "consciousness-singularity",
+        "black-holes"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db55ee8f9480-c03",
+      "assertion": "Yazhi says parallel-life variations can influence one another and collectively shape an individual’s personality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db55ee8f9480-c04",
+      "assertion": "She says predictions become less reliable as more variables enter over longer time spans.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db55ee8f9480-c05",
+      "assertion": "Yazhi describes death as a limited viewpoint, with consciousness continuing across other timelines.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0044",
+        "p0045",
+        "p0048",
+        "p0051"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "consciousness-singularity",
+      "name": "Consciousness singularity",
+      "kind": "cosmology",
+      "aliases": [
+        "observer singularity"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "alternate-timeline-model"
+  ]
+}

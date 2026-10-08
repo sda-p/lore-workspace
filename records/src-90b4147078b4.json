@@ -1,0 +1,99 @@
+{
+  "source_id": "src-90b4147078b4",
+  "snapshot_sha256": "9abae56342aae2b18733c1eb6c45295ea007d4051ad01e4677f65d42a68ddf3c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-90b4147078b4-c01",
+      "assertion": "She says Taygetan craft display two black bulls and a silver sun as an emblem.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0014",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90b4147078b4-c02",
+      "assertion": "She interprets the emblem as Taurus and the Pleiades, with the sun representing Taygeta.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0025"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90b4147078b4-c03",
+      "assertion": "She alleges Earth’s Cabal appropriated the emblem from Taygetan craft and adapted it.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90b4147078b4-c04",
+      "assertion": "She says elite societies use gold and internal supply chains rather than ordinary currency.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90b4147078b4-c05",
+      "assertion": "She describes symbols as communication among low-level groups and also as public distraction.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0041"
+      ],
+      "primary_topic": "unicorn-symbolism",
+      "topics": [
+        "unicorn-symbolism"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "symbolic-conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "additional-source-topics"
+  ]
+}

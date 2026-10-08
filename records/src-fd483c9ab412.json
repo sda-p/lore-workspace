@@ -1,0 +1,97 @@
+{
+  "source_id": "src-fd483c9ab412",
+  "snapshot_sha256": "a072e0c726b84aa86ea99b5d108baba5f8543938f6450983b361c34fe553075d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fd483c9ab412-c01",
+      "assertion": "She describes the Taygetan flagship as a 1,734-meter heavy cruiser with 33 people aboard in February 2022.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd483c9ab412-c02",
+      "assertion": "She says Taygetan visits expanded from missions in 1919 and 1952 to a fleet arrival in 2008.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0015"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd483c9ab412-c03",
+      "assertion": "She says the First Contact social-media project ran 2008–2016 and found little public readiness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd483c9ab412-c04",
+      "assertion": "She says Taygeta reduced its Earth presence to one ship by 2017, focused on information and starseed support.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0027"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fd483c9ab412-c05",
+      "assertion": "She says starseeds and immersion-avatar technology can influence cultures while observing nonintervention rules.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "additional-source-details"
+  ]
+}

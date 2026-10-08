@@ -1,0 +1,102 @@
+{
+  "source_id": "src-da5b68843247",
+  "snapshot_sha256": "bd89441f275a9af459904ba0cc3392586adaec648f80abb8ed5cc229f0aa8780",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-da5b68843247-c01",
+      "assertion": "Sav’el says individual and regional consciousness contributes to Earth’s collective frequency.",
+      "speaker": "Sav’el",
+      "paragraph_ids": [
+        "p0006",
+        "p0019",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified measurement claim."
+    },
+    {
+      "id": "src-da5b68843247-c02",
+      "assertion": "He says starseeds can exert much larger influence than average humans on local fields.",
+      "speaker": "Sav’el",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0034"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-da5b68843247-c03",
+      "assertion": "Sav’el estimates 5,000 awakened starseeds per million, but says this count is not definitive.",
+      "speaker": "Sav’el",
+      "paragraph_ids": [
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Tentative estimate."
+    },
+    {
+      "id": "src-da5b68843247-c04",
+      "assertion": "He says starseeds cluster in Sedona, parts of Latin America, South Asia, and Buenos Aires.",
+      "speaker": "Sav’el",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified demographic claim."
+    },
+    {
+      "id": "src-da5b68843247-c05",
+      "assertion": "Sav’el says a starseed’s influence can rise through connection, but collective pressure may also lower it.",
+      "speaker": "Sav’el",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0045",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_measurement_claims",
+    "unverified_demographics"
+  ],
+  "coverage_gaps": [
+    "full_methodology"
+  ]
+}

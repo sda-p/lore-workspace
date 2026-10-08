@@ -5,12 +5,10 @@
   "claims": [
     {
       "id": "src-d6a0ac260f57-c01",
-      "assertion": "Anéeka contrasts Swaruu 9 as an adult fighter with Swaruu 12/Yázhi as a child perceived to have an unusually expanded mind.",
+      "assertion": "Anéeka contrasts adult Swaruu 9, who fought evil, with child Swaruu 12/Yázhi, whom she describes as having an expanded mind.",
       "speaker": "Anéeka",
       "paragraph_ids": [
-        "p0003",
-        "p0006",
-        "p0009"
+        "p0003"
       ],
       "primary_topic": "taygetans",
       "topics": [

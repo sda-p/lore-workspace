@@ -1,0 +1,115 @@
+{
+  "source_id": "src-65c110e0589e",
+  "snapshot_sha256": "aa3e0145aa1d75915b60eba4a94a77cd1ccb09c7edbe0ce1c8db476bde4c9392",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-65c110e0589e-c01",
+      "assertion": "Athena describes Hanáre/Scimitar fighters as 50–60-meter craft in interceptor and assault variants.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0009",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65c110e0589e-c02",
+      "assertion": "Scimitar A interceptors prioritize speed; B assault craft carry troops and up to two armored vehicles.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0020",
+        "p0065"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65c110e0589e-c03",
+      "assertion": "Athena says Scimitars provide fleet cover, support larger ships, and serve extraction missions.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0014",
+        "p0019"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65c110e0589e-c04",
+      "assertion": "She says toroidal stealth phases Scimitars outside human visible, infrared, and microwave-radar detection.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65c110e0589e-c05",
+      "assertion": "Athena describes Scimitars as aging but reliable, though some engine components are difficult to service.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-65c110e0589e-c06",
+      "assertion": "One person can pilot a Scimitar, or its onboard AI can fly it.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0084",
+        "p0086"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_technology_claims"
+  ],
+  "coverage_gaps": [
+    "shield_systems",
+    "engine_performance"
+  ]
+}

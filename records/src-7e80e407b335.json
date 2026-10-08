@@ -1,0 +1,89 @@
+{
+  "source_id": "src-7e80e407b335",
+  "snapshot_sha256": "caa1a9afa139caa1f3750d6363651e3503f4a0595552e8cf816ea6b6fe73f0ea",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7e80e407b335-c01",
+      "assertion": "Yazhi says clear, direct wording helps communicate non-consent to the unconscious mind.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e80e407b335-c02",
+      "assertion": "Yazhi says “no” is a clear, powerful boundary in adult psychology.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e80e407b335-c03",
+      "assertion": "Gosia says intention and emotional charge matter more than exact words in addressing the universe.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e80e407b335-c04",
+      "assertion": "Gosia says affirmative-statement advice applies to “I am rich” versus “I am not poor.”",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e80e407b335-c05",
+      "assertion": "Gosia and Yazhi say non-consent videos address the Cabal as people, not the universe.",
+      "speaker": "Gosia and Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": []
+}

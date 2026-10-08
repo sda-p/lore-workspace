@@ -1,0 +1,106 @@
+{
+  "source_id": "src-af0d62c105e6",
+  "snapshot_sha256": "9ae9a1a684f6053a1b7616a9df226c085d8ea3a34174f90e8c2856d165b54ab0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-af0d62c105e6-c01",
+      "assertion": "Mari says dogma discourages questioning and can make dissent socially risky.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af0d62c105e6-c02",
+      "assertion": "Mari alleges controllers shaped religion and science to guide public perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af0d62c105e6-c03",
+      "assertion": "Mari alleges public science is dogmatic while controllers possess more advanced science with off-world cooperation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af0d62c105e6-c04",
+      "assertion": "Mari says internet information overload obscures truth and pushes people toward official sources.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af0d62c105e6-c05",
+      "assertion": "Mari advocates open-minded inquiry and replacing ideas when better information appears.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "constants",
+    "medicine",
+    "consciousness"
+  ]
+}

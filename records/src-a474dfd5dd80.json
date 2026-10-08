@@ -1,0 +1,104 @@
+{
+  "source_id": "src-a474dfd5dd80",
+  "snapshot_sha256": "7735c9ab2b2df9d017d227027e20a5b026b82e6b59a564d49ec51c02590254de",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a474dfd5dd80-c01",
+      "assertion": "Mari Swaruu describes timelines as frequency-coded sequences shaped by observers and perception agreements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0014",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a474dfd5dd80-c02",
+      "assertion": "She says thoughts and interpretations shape personal timelines and shared realities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a474dfd5dd80-c03",
+      "assertion": "Mari says a starship can use a toroidal field and frequency map to reach a destination in space or time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a474dfd5dd80-c04",
+      "assertion": "She says time travel and hyperspace travel are equivalent, with ethical risks from timeline changes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a474dfd5dd80-c05",
+      "assertion": "Mari says conscious beings may theoretically shift timelines through sustained focus and frequency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_time_travel_claims",
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "full_navigation_mechanism"
+  ]
+}

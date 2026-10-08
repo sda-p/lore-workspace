@@ -848,6 +848,584 @@ Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/antarctica-extraterrestrial-bases-no-video) (2021-01-04; en); passages p0005, p0006. [Structured record](../../records/src-c2b7cd1441d7.json).
 
+### src-dfc9fc4ab7f0-c01
+
+Anéeka says immersion technology manages frequencies for space travel and brain-wave manipulation.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Immersion Pods 3 - Extraterrestrial Technology - Anéeka of Temmer Responds Questions - Robert´s Live](https://swaruu.org/transcripts/immersion-pods-3-extraterrestrial-technology-aneeka-of-temmer-responds-questions-robert-s-live) (2021-02-01; en); passages p0007. [Structured record](../../records/src-dfc9fc4ab7f0.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-dfc9fc4ab7f0-c02
+
+She describes pod fluid as computer-controlled artificial amniotic fluid supplying nutrients and oxygen/CO₂; medical pods may include stem cells.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Immersion Pods 3 - Extraterrestrial Technology - Anéeka of Temmer Responds Questions - Robert´s Live](https://swaruu.org/transcripts/immersion-pods-3-extraterrestrial-technology-aneeka-of-temmer-responds-questions-robert-s-live) (2021-02-01; en); passages p0009. [Structured record](../../records/src-dfc9fc4ab7f0.json).
+
+### src-dfc9fc4ab7f0-c03
+
+Pods are kept on home planets or orbiting craft and maintained by crew, family, or friends, she says.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Immersion Pods 3 - Extraterrestrial Technology - Anéeka of Temmer Responds Questions - Robert´s Live](https://swaruu.org/transcripts/immersion-pods-3-extraterrestrial-technology-aneeka-of-temmer-responds-questions-robert-s-live) (2021-02-01; en); passages p0034. [Structured record](../../records/src-dfc9fc4ab7f0.json).
+
+### src-dfc9fc4ab7f0-c04
+
+Redundant systems mitigate failures, though catastrophic failure would wake the immersed person, Anéeka says.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Immersion Pods 3 - Extraterrestrial Technology - Anéeka of Temmer Responds Questions - Robert´s Live](https://swaruu.org/transcripts/immersion-pods-3-extraterrestrial-technology-aneeka-of-temmer-responds-questions-robert-s-live) (2021-02-01; en); passages p0048. [Structured record](../../records/src-dfc9fc4ab7f0.json).
+
+### src-e0bf43728ed8-c01
+
+Nested toroidal shield layers disperse incoming kinetic and energy impacts.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Force Shields - Starship Engineering and Navigation-Yazhi With Dale Harder (Extraterrestial Contact)](https://swaruu.org/transcripts/force-shields-starship-engineering-and-navigation-yazhi-with-dale-harder-extraterrestial-contact) (2021-03-02; en); passages p0015, p0024. [Structured record](../../records/src-e0bf43728ed8.json).
+
+### src-e0bf43728ed8-c02
+
+Shield harmonics combine magnetic and electromagnetic fields to form protective plasma.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Force Shields - Starship Engineering and Navigation-Yazhi With Dale Harder (Extraterrestial Contact)](https://swaruu.org/transcripts/force-shields-starship-engineering-and-navigation-yazhi-with-dale-harder-extraterrestial-contact) (2021-03-02; en); passages p0062, p0064. [Structured record](../../records/src-e0bf43728ed8.json).
+
+### src-e0bf43728ed8-c03
+
+Yazhi says attacks feed shields; Dale infers gravity can penetrate them, and Yazhi confirms gravity weapons can be concentrated into beams.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Force Shields - Starship Engineering and Navigation-Yazhi With Dale Harder (Extraterrestial Contact)](https://swaruu.org/transcripts/force-shields-starship-engineering-and-navigation-yazhi-with-dale-harder-extraterrestial-contact) (2021-03-02; en); passages p0072, p0075, p0076, p0078, p0080. [Structured record](../../records/src-e0bf43728ed8.json).
+
+### src-e0bf43728ed8-c04
+
+Counter-rotating turbines generate toroidal plasma for shields or propulsion.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Force Shields - Starship Engineering and Navigation-Yazhi With Dale Harder (Extraterrestial Contact)](https://swaruu.org/transcripts/force-shields-starship-engineering-and-navigation-yazhi-with-dale-harder-extraterrestial-contact) (2021-03-02; en); passages p0101. [Structured record](../../records/src-e0bf43728ed8.json).
+
+### src-483a15bb82a2-c02
+
+She places arks at Area 51, Russia’s Vostok station, and the Toleka; one was destroyed.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Ark of the Covenant - Yazhi Reveals its Meaning and Location (Extraterrestrial Contact - Pleiades)](https://swaruu.org/transcripts/ark-of-the-covenant-yazhi-reveals-its-meaning-and-location-extraterrestrial-contact-pleiades) (2021-06-03; en); passages p0010, p0065, p0066, p0067, p0183. [Structured record](../../records/src-483a15bb82a2.json).
+
+### src-483a15bb82a2-c03
+
+Arks read frequency and DNA and may use lethal force against unauthorized approaches.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ark of the Covenant - Yazhi Reveals its Meaning and Location (Extraterrestrial Contact - Pleiades)](https://swaruu.org/transcripts/ark-of-the-covenant-yazhi-reveals-its-meaning-and-location-extraterrestrial-contact-pleiades) (2021-06-03; en); passages p0031, p0165. [Structured record](../../records/src-483a15bb82a2.json).
+
+### src-483a15bb82a2-c05
+
+She distinguishes Ethiopia’s ceremonial object from her three Taygetan arks.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ark of the Covenant - Yazhi Reveals its Meaning and Location (Extraterrestrial Contact - Pleiades)](https://swaruu.org/transcripts/ark-of-the-covenant-yazhi-reveals-its-meaning-and-location-extraterrestrial-contact-pleiades) (2021-06-03; en); passages p0115, p0117, p0120. [Structured record](../../records/src-483a15bb82a2.json).
+
+### src-476c3db82f6f-c04
+
+Swaruu says ship engines emulate the pilot’s beliefs, limiting their capabilities.
+
+Attributed to **Swaruu**; reported; extraction confidence: medium.
+
+Source: [Jesus - Mechanism of Population Control - Swaruu of Erra (Taygeta, Pleiades) (Part 2)](https://swaruu.org/transcripts/jesus-mechanism-of-population-control-swaruu-of-erra-taygeta-pleiades-part-2) (2021-02-08; en); passages p0057. [Structured record](../../records/src-476c3db82f6f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-792e153c2f4a-c04
+
+She says excess heat is a major starship hazard managed through thermoelectric cells, plates, and steam.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Technology directly from Extraterrestrials-Quartz and Reactors -Yazhi - Dale Harder](https://swaruu.org/transcripts/extraterrestrial-technology-directly-from-extraterrestrials-quartz-and-reactors-yazhi-dale-harder) (2021-04-03; en); passages p0069, p0083. [Structured record](../../records/src-792e153c2f4a.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-792e153c2f4a-c05
+
+Yazhi says harmonic or gravity-control failures can shut down the reactor or disperse its crystal toroid.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Technology directly from Extraterrestrials-Quartz and Reactors -Yazhi - Dale Harder](https://swaruu.org/transcripts/extraterrestrial-technology-directly-from-extraterrestrials-quartz-and-reactors-yazhi-dale-harder) (2021-04-03; en); passages p0093, p0095, p0099. [Structured record](../../records/src-792e153c2f4a.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-412d2cb274cb-c05
+
+Yazhi says plasma weapons could destroy underground bases without nuclear radiation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [First Ancient Battle - The rebellion in the Garden of Eden - Orion Wars - PART 5 \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/first-ancient-battle-the-rebellion-in-the-garden-of-eden-orion-wars-part-5-text-only-translated-orig) (2021-05-29; en); passages p0028, p0029, p0030. [Structured record](../../records/src-412d2cb274cb.json).
+
+### src-01afc3489faf-c05
+
+Anéeka says protective suits regulate temperature, harden on impact, and can provide pressure and telemetry.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Meeting in Viera - Description and Uniforms - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/meeting-in-viera-description-and-uniforms-text-only-translated-originally-from-spanish) (2021-03-02; en); passages p0046, p0047. [Structured record](../../records/src-01afc3489faf.json).
+
+### src-3be9eb3ebf33-c05
+
+Anéeka says ship green areas support food planting and house pets.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Pets in Taygeta - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/pets-in-taygeta-text-only-translated-originally-from-spanish) (2021-04-26; en); passages p0036, p0038. [Structured record](../../records/src-3be9eb3ebf33.json).
+
+### src-e6b511e336b3-c04
+
+Anéeka says unregistered 110-cm drones near the UFO event were not from the Toleka and lacked declared flight plans.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Infiltration from Beyond Earth - This is Bigger than you Imagine - We Reveal the Facts](https://swaruu.org/transcripts/infiltration-from-beyond-earth-this-is-bigger-than-you-imagine-we-reveal-the-facts) (2022-06-08; en); passages p0124, p0130. [Structured record](../../records/src-e6b511e336b3.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-426ea469937a-c06
+
+Private tractor-beam access is limited; total automation may erode quality of life.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 3 - Inserting Objects and Situations into the Matrix - Athena Swaruu](https://swaruu.org/transcripts/stellar-navigation-3-inserting-objects-and-situations-into-the-matrix-athena-swaruu) (2022-06-28; en); passages p0106, p0107, p0109. [Structured record](../../records/src-426ea469937a.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-15de60dedc59-c03
+
+Anéeka describes long-term pods as maintaining bodies while attention inhabits another life through frequency matching.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Immersion Pods - Entertainment and Entry to Earth](https://swaruu.org/transcripts/immersion-pods-entertainment-and-entry-to-earth) (2023-01-19; en); passages p0013, p0014, p0015, p0016, p0017. [Structured record](../../records/src-15de60dedc59.json).
+
+### src-15de60dedc59-c05
+
+Anéeka says starseeds dying on Earth in immersion should awaken at home; extracting an immersed person can leave them managing two lives.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Immersion Pods - Entertainment and Entry to Earth](https://swaruu.org/transcripts/immersion-pods-entertainment-and-entry-to-earth) (2023-01-19; en); passages p0027, p0030. [Structured record](../../records/src-15de60dedc59.json).
+
+### src-15de60dedc59-c06
+
+She says recreational immersions use incomplete data and can cause trauma.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Immersion Pods - Entertainment and Entry to Earth](https://swaruu.org/transcripts/immersion-pods-entertainment-and-entry-to-earth) (2023-01-19; en); passages p0035, p0037, p0039, p0040, p0044. [Structured record](../../records/src-15de60dedc59.json).
+
+### src-5681d8f124b3-c06
+
+She says counter-rotating engines generate a toroidal shield; gravity devices help propel or maneuver ships.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation, Basic principles (English)](https://swaruu.org/transcripts/stellar-navigation-basic-principles-english) (2022-12-22; en); passages p0029, p0031, p0032, p0034, p0036. [Structured record](../../records/src-5681d8f124b3.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-2ae7279588b3-c05
+
+Mari says long-term Earth operations gradually fill ships with human-made goods.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extra-terrestrials living among you, video 2 (English)](https://swaruu.org/transcripts/extra-terrestrials-living-among-you-video-2-english) (2023-01-08; en); passages p0029. [Structured record](../../records/src-2ae7279588b3.json).
+
+### src-e7cd6772cb35-c03
+
+Swaruu says Taygetan craft use false identities and transponders to move among human aircraft.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [Pentagon "UFO" Disclosure - Government Lies - Origin of the Craft - Taygetan Pleiadian Information](https://swaruu.org/transcripts/pentagon-ufo-disclosure-government-lies-origin-of-the-craft-taygetan-pleiadian-information) (2021-08-13; en); passages p0032, p0034, p0035, p0039, p0040. [Structured record](../../records/src-e7cd6772cb35.json).
+
+### src-7ec4f5ba6415-c04
+
+Anéeka says large starship aquaponics gardens supplement, but cannot feed, the crew.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Veganism - Agendas - Taygetan Investigation - We do NOT Recommend a Vegan Diet](https://swaruu.org/transcripts/veganism-agendas-taygetan-investigation-we-do-not-recommend-a-vegan-diet) (2022-10-02; en); passages p0132. [Structured record](../../records/src-7ec4f5ba6415.json).
+
+### src-cb6267c7760f-c03
+
+She describes matter as frequency harmonics forming standing waves and particles.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 3 - PART 2 - Ether - Inserting Objects in the Matrix - Athena Swaruu](https://swaruu.org/transcripts/stellar-navigation-3-part-2-ether-inserting-objects-in-the-matrix-athena-swaruu) (2022-07-06; en); passages p0036, p0037, p0038. [Structured record](../../records/src-cb6267c7760f.json).
+
+### src-cb6267c7760f-c04
+
+She says tractor beams insert objects by imposing their energy patterns and generating a local causal history.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 3 - PART 2 - Ether - Inserting Objects in the Matrix - Athena Swaruu](https://swaruu.org/transcripts/stellar-navigation-3-part-2-ether-inserting-objects-in-the-matrix-athena-swaruu) (2022-07-06; en); passages p0056, p0058, p0066. [Structured record](../../records/src-cb6267c7760f.json).
+
+Related topics: [Tractor beams](tractor-beams.md).
+
+### src-235efae6057f-c02
+
+She says contact crew wear armored suits with communicators, trackers, and remote ship controls.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [FROM PLEIADES TO EARTH - EXPERIENCE OF AN EXTRATERRESTRIAL - ANEEKA OF TEMMER \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/from-pleiades-to-earth-experience-of-an-extraterrestrial-aneeka-of-temmer-no-video) (2021-10-01; en); passages p0005. [Structured record](../../records/src-235efae6057f.json).
+
+### src-1ff13e4ddd37-c02
+
+She says an electromagnetic toroidal cocoon is needed to bridge the Van Allen bands.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Apollo Moon Missions - Fake or Real? PART 1 - Conversation with Swaruu of Erra](https://swaruu.org/transcripts/apollo-moon-missions-fake-or-real-part-1-conversation-with-swaruu-of-erra) (2022-08-15; en); passages p0004, p0005. [Structured record](../../records/src-1ff13e4ddd37.json).
+
+### src-0cb029f25b3b-c03
+
+She says gravity beams can ionize air and create visible atmospheric glows.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [MiniTopics - Variety of Information - Reptiles and Extraterrestrials among Humans and more](https://swaruu.org/transcripts/minitopics-variety-of-information-reptiles-and-extraterrestrials-among-humans-and-more) (2022-10-13; en); passages p0036, p0038. [Structured record](../../records/src-0cb029f25b3b.json).
+
+### src-90f8716ad12b-c04
+
+She says the Bucegi complex contained maglev transport, recovery chambers, and robotic guards.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vasectomy, Mount Bucegi, and More - MiniTopics with Gosia (Taygeta - Pleiades)](https://swaruu.org/transcripts/vasectomy-mount-bucegi-and-more-minitopics-with-gosia-taygeta-pleiades) (2021-11-14; en); passages p0053. [Structured record](../../records/src-90f8716ad12b.json).
+
+### src-992c1a01bd09-c04
+
+She identifies German Nazi-era “Die Glocke” as a gravity-distortion engine test platform.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Nuclear Bombs - Energy Bombs that Fake to be Nuclear - Yazhi Swaruu](https://swaruu.org/transcripts/nuclear-bombs-energy-bombs-that-fake-to-be-nuclear-yazhi-swaruu) (2022-11-24; en); passages p0057, p0062, p0064. [Structured record](../../records/src-992c1a01bd09.json).
+
+### src-d871754e2d44-c01
+
+Spherical drones use electromagnetic toroids for lift; atmospheric heating can make them glow.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan spherical drones (English)](https://swaruu.org/transcripts/taygetan-spherical-drones-english) (2022-12-29; en); passages p0008, p0009. [Structured record](../../records/src-d871754e2d44.json).
+
+### src-d871754e2d44-c02
+
+Drones survey and follow targets, collect samples, and may carry tractor beams or weapons.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan spherical drones (English)](https://swaruu.org/transcripts/taygetan-spherical-drones-english) (2022-12-29; en); passages p0017, p0018. [Structured record](../../records/src-d871754e2d44.json).
+
+### src-d871754e2d44-c03
+
+She says crop circles can serve as temporary time-space markers for ships.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan spherical drones (English)](https://swaruu.org/transcripts/taygetan-spherical-drones-english) (2022-12-29; en); passages p0021, p0022. [Structured record](../../records/src-d871754e2d44.json).
+
+### src-d871754e2d44-c04
+
+Taygetan spherical drones use zero-point reactors, AI, and frequency shifts for hyperspace travel.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygetan spherical drones (English)](https://swaruu.org/transcripts/taygetan-spherical-drones-english) (2022-12-29; en); passages p0029, p0030, p0033, p0034. [Structured record](../../records/src-d871754e2d44.json).
+
+Related topics: [Spherical drones](spherical-drones.md).
+
+### src-cbd6e9d4a95d-c01
+
+Yazhi says three arks are at the Pentagon, Russia’s Vostok base, and her ship.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Ark of the Covenant behind the war in Ukraine? Short chat with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/ark-of-the-covenant-behind-the-war-in-ukraine-short-chat-with-sophia-swaruu-yazhi) (2022-03-15; en); passages p0003, p0004. [Structured record](../../records/src-cbd6e9d4a95d.json).
+
+### src-cbd6e9d4a95d-c02
+
+Yazhi says arks safeguard biology and can serve as weapons.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Ark of the Covenant behind the war in Ukraine? Short chat with Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/ark-of-the-covenant-behind-the-war-in-ukraine-short-chat-with-sophia-swaruu-yazhi) (2022-03-15; en); passages p0004. [Structured record](../../records/src-cbd6e9d4a95d.json).
+
+### src-41d95366bce3-c01
+
+Yazhi says identified genetic defects can be addressed by mapping and correcting the DNA sequence in the pod.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Med Pods in Taygeta - Questions and Answers - Yazhi Swaruu](https://swaruu.org/transcripts/med-pods-in-taygeta-questions-and-answers-yazhi-swaruu) (2023-01-12; en); passages p0007, p0015. [Structured record](../../records/src-41d95366bce3.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-41d95366bce3-c02
+
+She says wet pods are not generally light-therapy devices; dry pods use computer-controlled wavelengths tailored to individual tissues.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Med Pods in Taygeta - Questions and Answers - Yazhi Swaruu](https://swaruu.org/transcripts/med-pods-in-taygeta-questions-and-answers-yazhi-swaruu) (2023-01-12; en); passages p0018, p0019. [Structured record](../../records/src-41d95366bce3.json).
+
+### src-41d95366bce3-c03
+
+Yazhi says genetic tweaks may increase IQ, though she considers the results dubious.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Med Pods in Taygeta - Questions and Answers - Yazhi Swaruu](https://swaruu.org/transcripts/med-pods-in-taygeta-questions-and-answers-yazhi-swaruu) (2023-01-12; en); passages p0020, p0021. [Structured record](../../records/src-41d95366bce3.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-41d95366bce3-c04
+
+Yazhi says cancer may recur after pod treatment if its underlying mental cause remains unresolved.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Med Pods in Taygeta - Questions and Answers - Yazhi Swaruu](https://swaruu.org/transcripts/med-pods-in-taygeta-questions-and-answers-yazhi-swaruu) (2023-01-12; en); passages p0005, p0033, p0034. [Structured record](../../records/src-41d95366bce3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ccf895d60978-c01
+
+Yazhi says dry pods replace mapped tissue with gravity-imprinted material, while wet pods use patient-derived stem cells.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Med Pods - Taygeta (Pleiades) - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestrial-med-pods-taygeta-pleiades-yazhi-swaruu) (2023-01-09; en); passages p0003, p0004, p0007, p0014. [Structured record](../../records/src-ccf895d60978.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-ccf895d60978-c02
+
+She says wet-pod holograms guide stem cells to form the patient’s needed tissues.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Med Pods - Taygeta (Pleiades) - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestrial-med-pods-taygeta-pleiades-yazhi-swaruu) (2023-01-09; en); passages p0015, p0016, p0017. [Structured record](../../records/src-ccf895d60978.json).
+
+### src-ccf895d60978-c03
+
+Yazhi says stable patients may regrow limbs and repair organs; full renewal takes about three ship months.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Med Pods - Taygeta (Pleiades) - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestrial-med-pods-taygeta-pleiades-yazhi-swaruu) (2023-01-09; en); passages p0018, p0019, p0044, p0051. [Structured record](../../records/src-ccf895d60978.json).
+
+### src-ccf895d60978-c04
+
+She says an exact clone could be produced from stem cells and a computer-generated hologram.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Med Pods - Taygeta (Pleiades) - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestrial-med-pods-taygeta-pleiades-yazhi-swaruu) (2023-01-09; en); passages p0056. [Structured record](../../records/src-ccf895d60978.json).
+
+### src-ccf895d60978-c05
+
+Yazhi says pods address physical illness, but recurring thought patterns may restore illness.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Med Pods - Taygeta (Pleiades) - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestrial-med-pods-taygeta-pleiades-yazhi-swaruu) (2023-01-09; en); passages p0064, p0067. [Structured record](../../records/src-ccf895d60978.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8cab3b6d93eb-c01
+
+Yazhi says resonance treatment must match each tissue’s frequency and remove the cause of damage.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Med Pods and Med Beds - Yazhi Swaruu talks to Dale Harder about his design](https://swaruu.org/transcripts/med-pods-and-med-beds-yazhi-swaruu-talks-to-dale-harder-about-his-design) (2023-01-06; en); passages p0011, p0013, p0026. [Structured record](../../records/src-8cab3b6d93eb.json).
+
+### src-8cab3b6d93eb-c02
+
+Dale’s separate upright device is intended to destroy alleged biological or nano devices with focused electromagnetic pulses.
+
+Attributed to **Dale**; reported; extraction confidence: high.
+
+Source: [Med Pods and Med Beds - Yazhi Swaruu talks to Dale Harder about his design](https://swaruu.org/transcripts/med-pods-and-med-beds-yazhi-swaruu-talks-to-dale-harder-about-his-design) (2023-01-06; en); passages p0029, p0030, p0033. [Structured record](../../records/src-8cab3b6d93eb.json).
+
+### src-8cab3b6d93eb-c03
+
+Dale says the horizontal bed uses modulated resonance fields for healing.
+
+Attributed to **Dale**; reported; extraction confidence: high.
+
+Source: [Med Pods and Med Beds - Yazhi Swaruu talks to Dale Harder about his design](https://swaruu.org/transcripts/med-pods-and-med-beds-yazhi-swaruu-talks-to-dale-harder-about-his-design) (2023-01-06; en); passages p0031, p0032, p0037. [Structured record](../../records/src-8cab3b6d93eb.json).
+
+### src-8cab3b6d93eb-c05
+
+Yazhi says unmodulated fields can harm subjects, citing her account of the Philadelphia experiment.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Med Pods and Med Beds - Yazhi Swaruu talks to Dale Harder about his design](https://swaruu.org/transcripts/med-pods-and-med-beds-yazhi-swaruu-talks-to-dale-harder-about-his-design) (2023-01-06; en); passages p0038, p0039. [Structured record](../../records/src-8cab3b6d93eb.json).
+
+### src-36eda34f8346-c01
+
+Anéeka says maternal pods gestate babies in nutrient liquid using genetic holograms and stem cells.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Maternal Med Pods - Taygeta (Pleiades) - Extraterrestrial Information](https://swaruu.org/transcripts/maternal-med-pods-taygeta-pleiades-extraterrestrial-information) (2023-01-14; en); passages p0019, p0020, p0021. [Structured record](../../records/src-36eda34f8346.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-36eda34f8346-c02
+
+She says pod gestation lasts about three months and yields a physically older but behaviorally newborn infant.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Maternal Med Pods - Taygeta (Pleiades) - Extraterrestrial Information](https://swaruu.org/transcripts/maternal-med-pods-taygeta-pleiades-extraterrestrial-information) (2023-01-14; en); passages p0022, p0025, p0027. [Structured record](../../records/src-36eda34f8346.json).
+
+### src-36eda34f8346-c03
+
+Anéeka says maternal pods use blood-filtering and nutrient systems unlike tissue-repair pods.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Maternal Med Pods - Taygeta (Pleiades) - Extraterrestrial Information](https://swaruu.org/transcripts/maternal-med-pods-taygeta-pleiades-extraterrestrial-information) (2023-01-14; en); passages p0023. [Structured record](../../records/src-36eda34f8346.json).
+
+### src-36eda34f8346-c05
+
+Anéeka says pod-raised infants receive foster care, laboratory-produced breast milk, and physical contact.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Maternal Med Pods - Taygeta (Pleiades) - Extraterrestrial Information](https://swaruu.org/transcripts/maternal-med-pods-taygeta-pleiades-extraterrestrial-information) (2023-01-14; en); passages p0027, p0028. [Structured record](../../records/src-36eda34f8346.json).
+
+### src-8d48b13d52fc-c01
+
+Yazhi says some falling “angel hair” is inert borosilicate fibers formed when ship plasma interacts with atmospheric dust.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Angel Hair Phenomenon - Mysterious Fibers Falling from the Sky Explained](https://swaruu.org/transcripts/angel-hair-phenomenon-mysterious-fibers-falling-from-the-sky-explained) (2022-12-10; en); passages p0005, p0006, p0007, p0009. [Structured record](../../records/src-8d48b13d52fc.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-13b03653ca01-c02
+
+She claims inoculations alter cells genetically and cannot be reversed by an ordinary Med Pod.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Vaccines, Covid, Viruses - Information Mix - Anéeka of Temmer](https://swaruu.org/transcripts/vaccines-covid-viruses-information-mix-aneeka-of-temmer) (2021-10-08; en); passages p0058, p0060, p0061. [Structured record](../../records/src-13b03653ca01.json).
+
+### src-13b03653ca01-c03
+
+Anéeka proposes rebuilding a person from unaffected cells through cloning and consciousness transfer.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Vaccines, Covid, Viruses - Information Mix - Anéeka of Temmer](https://swaruu.org/transcripts/vaccines-covid-viruses-information-mix-aneeka-of-temmer) (2021-10-08; en); passages p0034, p0035, p0036. [Structured record](../../records/src-13b03653ca01.json).
+
+### src-1f3a3984c56e-c03
+
+Anéeka says shuttles are noncombat craft; larger ships use gravity drives and may add plasma turbines.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Alfratan (Centauri) Ship Attacked - Weapons - Aneeka of Temmer explains the Incident](https://swaruu.org/transcripts/alfratan-centauri-ship-attacked-weapons-aneeka-of-temmer-explains-the-incident) (2022-02-25; en); passages p0030, p0032. [Structured record](../../records/src-1f3a3984c56e.json).
+
+### src-b2a7560246ee-c03
+
+Anéeka says spacecraft in vacuum accumulate heat from radiation and internal systems, requiring heat-conversion cooling.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [MiniTopics with Gosia - Extraterrestrial Information - Yazhi, Aneeka, Athena Swaruu](https://swaruu.org/transcripts/minitopics-with-gosia-extraterrestrial-information-yazhi-aneeka-athena-swaruu) (2022-01-06; en); passages p0042, p0045, p0049, p0051. [Structured record](../../records/src-b2a7560246ee.json).
+
+### src-829579bed3c5-c05
+
+Yazhi describes shipboard machines that customize, print and refill cosmetics from natural ingredients.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Minitopics with Gosia - Extraterrestrial Information (Taygeta, Pleiades)](https://swaruu.org/transcripts/minitopics-with-gosia-extraterrestrial-information-taygeta-pleiades) (2022-06-20; en); passages p0066, p0067, p0071, p0073, p0075, p0077. [Structured record](../../records/src-829579bed3c5.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-c9a55dfb135f-c01
+
+Yazhi says Med Pods can print inorganic monatomic gold but cannot replicate organic material.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Pineal Gland, Nuclear Bombs, Federation, and much more - MINITOPICS - Extraterrestrial Information](https://swaruu.org/transcripts/pineal-gland-nuclear-bombs-federation-and-much-more-minitopics-extraterrestrial-information) (2021-10-05; en); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-c9a55dfb135f.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-5898037c825f-c03
+
+Athena says electromagnetic plasma engines form a toroid around the ship and navigation computers apply its dominant frequency.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 4 (Part 1) - SIT Time - Spaceships in Hyperspace (Athena Swaruu)](https://swaruu.org/transcripts/stellar-navigation-4-part-1-sit-time-spaceships-in-hyperspace-athena-swaruu) (2022-07-22; en); passages p0022, p0023, p0024, p0025, p0026. [Structured record](../../records/src-5898037c825f.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-5898037c825f-c04
+
+Athena says the apparent hyperdrive tunnel is recirculating plasma, not passing stars.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 4 (Part 1) - SIT Time - Spaceships in Hyperspace (Athena Swaruu)](https://swaruu.org/transcripts/stellar-navigation-4-part-1-sit-time-spaceships-in-hyperspace-athena-swaruu) (2022-07-22; en); passages p0030, p0031, p0032, p0033, p0034. [Structured record](../../records/src-5898037c825f.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-0f4f8d997259-c01
+
+Mari describes Toleka as a 1,734-meter former battle cruiser converted into a multipurpose yacht.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Yazhi and child’s play (English)](https://swaruu.org/transcripts/yazhi-and-child-s-play-english) (2023-01-02; en); passages p0003, p0005. [Structured record](../../records/src-0f4f8d997259.json).
+
+### src-0f4f8d997259-c02
+
+Mari says Toleka was designed for 1,800 crew but carries about 30, with a museum and central garden.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Yazhi and child’s play (English)](https://swaruu.org/transcripts/yazhi-and-child-s-play-english) (2023-01-02; en); passages p0005, p0006, p0007, p0008. [Structured record](../../records/src-0f4f8d997259.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -872,16 +1450,51 @@ Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.or
 - [src-2dfa9a963602-c04](terrestrial-science.md#src-2dfa9a963602-c04) — Terrestrial science
 - [src-6bfffa79183e-c02](energy-generation.md#src-6bfffa79183e-c02) — Energy generation technology
 - [src-34b645daba8c-c03](stellar-navigation.md#src-34b645daba8c-c03) — Stellar navigation
+- [src-d7f1a0a20d89-c01](holographic-computers.md#src-d7f1a0a20d89-c01) — Holographic computers
+- [src-d7f1a0a20d89-c02](energy-generation.md#src-d7f1a0a20d89-c02) — Energy generation technology
+- [src-d7f1a0a20d89-c04](energy-generation.md#src-d7f1a0a20d89-c04) — Energy generation technology
+- [src-d7f1a0a20d89-c05](energy-generation.md#src-d7f1a0a20d89-c05) — Energy generation technology
+- [src-dfc9fc4ab7f0-c05](energy-generation.md#src-dfc9fc4ab7f0-c05) — Energy generation technology
+- [src-792e153c2f4a-c03](energy-generation.md#src-792e153c2f4a-c03) — Energy generation technology
+- [src-426ea469937a-c02](stellar-navigation.md#src-426ea469937a-c02) — Stellar navigation
+- [src-426ea469937a-c03](stellar-navigation.md#src-426ea469937a-c03) — Stellar navigation
+- [src-426ea469937a-c05](holistic-society.md#src-426ea469937a-c05) — Holistic society
+- [src-424a779240f3-c04](natural-portals.md#src-424a779240f3-c04) — Natural and artificial portals
+- [src-67f9e11f45a4-c02](taygetans.md#src-67f9e11f45a4-c02) — Taygetans
+- [src-24f9c49da9cd-c02](energy-generation.md#src-24f9c49da9cd-c02) — Energy generation technology
+- [src-24f9c49da9cd-c05](terrestrial-science.md#src-24f9c49da9cd-c05) — Terrestrial science
+- [src-2ae7279588b3-c01](taygetans.md#src-2ae7279588b3-c01) — Taygetans
+- [src-e7cd6772cb35-c02](terrestrial-science.md#src-e7cd6772cb35-c02) — Terrestrial science
+- [src-20cb9d5c4075-c02](stellar-navigation.md#src-20cb9d5c4075-c02) — Stellar navigation
+- [src-6af7853b713e-c06](galactic-federation.md#src-6af7853b713e-c06) — Galactic Federation
+- [src-aa04d431ff67-c02](black-goo.md#src-aa04d431ff67-c02) — Black goo
+- [src-06cf2b3b68e8-c04](taygetans.md#src-06cf2b3b68e8-c04) — Taygetans
+- [src-0d8c0f4f7056-c04](alien-species.md#src-0d8c0f4f7056-c04) — Alien species and distinctions
+- [src-41d95366bce3-c05](energy-generation.md#src-41d95366bce3-c05) — Energy generation technology
+- [src-1bc17042f317-c05](terrestrial-science.md#src-1bc17042f317-c05) — Terrestrial science
+- [src-36eda34f8346-c04](alien-species.md#src-36eda34f8346-c04) — Alien species and distinctions
+- [src-c826a25c1a7d-c01](sentient-starship-ai.md#src-c826a25c1a7d-c01) — Sentient starship AI
+- [src-c826a25c1a7d-c02](sentient-starship-ai.md#src-c826a25c1a7d-c02) — Sentient starship AI
+- [src-c826a25c1a7d-c04](sentient-starship-ai.md#src-c826a25c1a7d-c04) — Sentient starship AI
+- [src-c826a25c1a7d-c05](sentient-starship-ai.md#src-c826a25c1a7d-c05) — Sentient starship AI
+- [src-a315a2d9fccb-c03](temporal-skipping.md#src-a315a2d9fccb-c03) — Temporal skipping
+- [src-9dba344806dc-c04](moon-matrix.md#src-9dba344806dc-c04) — Moon and terrestrial Matrix
+- [src-21a9a4dacb59-c03](stellar-navigation.md#src-21a9a4dacb59-c03) — Stellar navigation
 
 ## Review flags
 
 - 3d-to-5d-transition
 - Maitre\_relationship\_with\_Reptilians
 - Weapon and defense capabilities are source-attributed technical claims
+- alternative-weapons-claims
+- ark\_location\_and\_war\_claims\_unverified
 - blockade-and-biology-attributed
 - cern-portal-claim
 - comparative\_technology\_claims
 - conflicting\_primary\_purpose\_claims
+- conspiracy-claims
+- contested\_archaeology
+- contested\_intelligence\_claims
 - coverage: 5D transition forecast
 - coverage: aircraft technical details
 - coverage: climate and architecture
@@ -891,17 +1504,35 @@ Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.or
 - coverage: ship-class specifications
 - coverage: technical descriptions are speaker claims
 - crime\_and\_abundance\_claims
+- design\_discussion
 - dialogue-perspectives-distinguished
+- earth-consciousness\_claim\_omitted
 - ether\_model
+- ethical\_use\_limits
+- extraordinary\_astronomical\_claims
+- extraordinary\_biotechnology\_claims
+- extraordinary\_history\_claims
+- extraordinary\_material\_claims
+- extraordinary\_materials\_claims
+- extraordinary\_medical\_claims
+- extraordinary\_technology\_claims
 - frequency-gravity-model
 - frequency\_map\_model
+- health-claims-unverified
+- health-conspiracy-claims
 - historical-claims-uncorroborated
+- historical-claims-unverified
 - historical\_account\_unverified
 - hyperspace\_model
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - medical-misinformation-claims
+- medical\_claims\_omitted
+- metaphysical-claims
+- meteorite\_claim\_omitted
+- moon-conspiracy-claims
 - named\_government\_and\_secret\_base\_claims
 - nonstandard\_astrophysics\_claims
+- personal\_accusations
 - pilot-account-attributed
 - political\_structure\_claims
 - procedure-description
@@ -914,8 +1545,20 @@ Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.or
 - technology\_and\_mind\_interface
 - technology\_claims
 - time\_travel\_risks
+- translated\_source
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - unmapped\_regions\_and\_return\_risk
+- unverified-cabinet-claims
+- unverified\_aerospace\_claims
+- unverified\_ancient\_technology\_claims
+- unverified\_biological\_and\_metaphysical\_claims
+- unverified\_cosmology\_and\_technology
+- unverified\_extraterrestrial\_claims
+- unverified\_extraterrestrial\_technology\_claims
+- unverified\_laboratory\_report
+- unverified\_political\_claims
+- unverified\_technical\_claims
 - vaccine-harm-allegations
+- weather\_claims
 - zero-point-mechanics

@@ -1,0 +1,98 @@
+{
+  "source_id": "src-26e1f4c9155e",
+  "snapshot_sha256": "3f9f4065e29bbe61cf7830ddbafaeafcc158c3e3597b4274feb3cac86035cda1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-26e1f4c9155e-c01",
+      "speaker": "Yazhi",
+      "assertion": "Yazhi alleges Vatican officials communicate with Saturn-based Federation representatives.",
+      "paragraph_ids": [
+        "p0004",
+        "p0099",
+        "p0100"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-26e1f4c9155e-c02",
+      "speaker": "Yazhi",
+      "assertion": "She describes Earth’s secret societies as compartmentalized layers, each controlled by deeper groups.",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-26e1f4c9155e-c03",
+      "speaker": "Yazhi",
+      "assertion": "She says Federation nonintervention follows its belief that Earth events express inhabitants’ choices.",
+      "paragraph_ids": [
+        "p0104",
+        "p0105"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-26e1f4c9155e-c04",
+      "speaker": "Yazhi",
+      "assertion": "She says deep secret societies include nonhuman participants, especially Reptilians and Tall Grays.",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-26e1f4c9155e-c05",
+      "speaker": "Yazhi",
+      "assertion": "She says the Pope is a public-facing official below deeper Vatican power structures.",
+      "paragraph_ids": [
+        "p0044",
+        "p0107",
+        "p0108"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "alleged-contact-details",
+    "religious-claims"
+  ]
+}

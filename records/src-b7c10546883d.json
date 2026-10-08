@@ -1,0 +1,99 @@
+{
+  "source_id": "src-b7c10546883d",
+  "snapshot_sha256": "6306a55af2f511b285b0805f4d3aed91644a8995876b692f975c9790061eabe1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b7c10546883d-c01",
+      "assertion": "Za’el says people experience both constructive and destructive emotions.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7c10546883d-c02",
+      "assertion": "He distinguishes learning from trauma by whether fear overrides reasoned decisions.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7c10546883d-c03",
+      "assertion": "Za’el recommends boundaries and self-protection when facing abusive behavior.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7c10546883d-c04",
+      "assertion": "He says integrating flaws and darker emotions can support self-acceptance and resilience.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b7c10546883d-c05",
+      "assertion": "Za’el says relationships may need to change if others reject a person’s authentic self.",
+      "speaker": "Za´el",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_philosophy"
+  ],
+  "coverage_gaps": [
+    "later_topics"
+  ]
+}

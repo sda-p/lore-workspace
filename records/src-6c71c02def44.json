@@ -1,0 +1,81 @@
+{
+  "source_id": "src-6c71c02def44",
+  "snapshot_sha256": "1911f2d5d672147b31888b6588ec1374ff8807cd5cd71daf68825787c597e8e2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6c71c02def44-c01",
+      "assertion": "Anéeka says laboratory data suggest graphene binds to body tissues rather than degrading.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified medical claim."
+    },
+    {
+      "id": "src-6c71c02def44-c02",
+      "assertion": "She alleges repeated vaccine doses accelerate DNA alteration and select people for controllers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Dangerous medical misinformation."
+    },
+    {
+      "id": "src-6c71c02def44-c03",
+      "assertion": "Anéeka claims vaccines are intended to remove starseeds and favor Reptilian-aligned hybrids.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified conspiracy claim."
+    },
+    {
+      "id": "src-6c71c02def44-c04",
+      "assertion": "She warns that saying the body eliminates graphene is irresponsible and rejects vaccination.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Dangerous medical misinformation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "dangerous_medical_misinformation",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "underlying_lab_data"
+  ]
+}

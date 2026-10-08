@@ -1,0 +1,97 @@
+{
+  "source_id": "src-969af740e3ec",
+  "snapshot_sha256": "89ce6effc11371232702db1f9671affeb2902409a4299759d4d9cff4d056eeab",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-969af740e3ec-c01",
+      "assertion": "Anéeka says the four-year contact used indirect media to pass information despite Federation and Earth censorship.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-969af740e3ec-c02",
+      "assertion": "Anéeka says the contact prioritized information and alternative cosmology over proof of the providers’ identity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-969af740e3ec-c03",
+      "assertion": "Anéeka says messages were sometimes framed to reduce censorship risk.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-969af740e3ec-c04",
+      "assertion": "Anéeka urges audiences to consult multiple sources and form independent judgments.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-969af740e3ec-c05",
+      "assertion": "Anéeka says individuals should take responsibility for their own thoughts, actions, and judgments.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "contact_censorship_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "anniversary_details"
+  ]
+}

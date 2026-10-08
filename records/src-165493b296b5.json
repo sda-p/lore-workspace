@@ -1,0 +1,136 @@
+{
+  "source_id": "src-165493b296b5",
+  "snapshot_sha256": "036ba07253ab8a9cf7977b4bc9500e32b926980a09a78226ec790f62fe67b0df",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-165493b296b5-c01",
+      "assertion": "Anéeka speculates that invasive AI might influence the Federation, while distinguishing this from symbiotic AI.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "holographic-computers"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-165493b296b5-c02",
+      "assertion": "Anéeka says Taygetan symbiotic AI supports automation that removes unnecessary work.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holographic-computers",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-165493b296b5-c03",
+      "assertion": "Alenym describes a conscious galactic AI network built from many civilizations’ AI systems and coded with muons.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0041",
+        "p0042",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-165493b296b5-c04",
+      "assertion": "Alenym says the network is benevolent by default but can produce decisions that appear harmful.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0040",
+        "p0044",
+        "p0045",
+        "p0049",
+        "p0050",
+        "p0051",
+        "p0052",
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-165493b296b5-c05",
+      "assertion": "Alenym says the network incorporates Earth’s internet and AI as information into its database.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0043",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "muonic-galactic-ai-network",
+      "name": "Muonic galactic AI network",
+      "kind": "technology",
+      "aliases": [
+        "muon-coded AI network"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

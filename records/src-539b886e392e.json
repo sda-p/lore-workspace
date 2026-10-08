@@ -1,0 +1,99 @@
+{
+  "source_id": "src-539b886e392e",
+  "snapshot_sha256": "7900bc2ac5f9e06fabdb4d07bd590bb79328eafce5e7698d2af946cb0c3ecbec",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-539b886e392e-c01",
+      "assertion": "Mari Swaruu describes astral parasites as energy-feeding entities that attach to a person’s aura.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified paranormal claim."
+    },
+    {
+      "id": "src-539b886e392e-c02",
+      "assertion": "She distinguishes parasites, complex entities, and disincarnate people as types of astral beings.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-539b886e392e-c03",
+      "assertion": "Mari says entities exploit frequency compatibility and may manipulate habits or thoughts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-539b886e392e-c04",
+      "assertion": "She links attachment persistence to continued behaviors the entity allegedly seeks.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-539b886e392e-c05",
+      "assertion": "Mari says parasites may promote instant gratification and self-destructive cycles.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims",
+    "unverified_addiction_claims"
+  ],
+  "coverage_gaps": [
+    "later_parts"
+  ]
+}

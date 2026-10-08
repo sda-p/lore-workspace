@@ -1,0 +1,118 @@
+{
+  "source_id": "src-daa336304762",
+  "snapshot_sha256": "eec7e03d14f846b8ea8488a7f194a1c7e2cf51d4fb598f4451ae860253060960",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-daa336304762-c01",
+      "assertion": "Athena claims underground passages connect cities and bases worldwide, alongside natural cavities and subterranean civilizations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daa336304762-c02",
+      "assertion": "She says her records and sensors show an advanced Tartarian civilization across Siberia and adjoining regions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0021",
+        "p0023",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daa336304762-c03",
+      "assertion": "Athena attributes Tartaria’s destruction to wars and genocide, but says timing and causes remain uncertain.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0040",
+        "p0046"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daa336304762-c04",
+      "assertion": "She describes Tartaria as technologically advanced with zero-point power but no interstellar capability.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daa336304762-c05",
+      "assertion": "Athena interprets the Great Wall as a Tartarian defense against China.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0048",
+        "p0050",
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "tartaria",
+      "name": "Tartaria",
+      "kind": "history",
+      "aliases": [
+        "Tartarian civilization"
+      ]
+    },
+    {
+      "id": "intraterrestrial-civilizations",
+      "name": "Intraterrestrial civilizations",
+      "kind": "civilization",
+      "aliases": [
+        "subterranean civilizations"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "historical-claims"
+  ]
+}

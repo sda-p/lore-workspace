@@ -1,0 +1,92 @@
+{
+  "source_id": "src-f54c2949c1ea",
+  "snapshot_sha256": "f22d1233829b8b23024fb31e217f011410e628305e4b736b65e0efe6fb5919f7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f54c2949c1ea-c01",
+      "assertion": "Athena alleges Greer’s apparent opposition is negative priming that supports a planned false-invasion narrative.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f54c2949c1ea-c02",
+      "assertion": "Athena says public extraterrestrial disclosures can test reactions while preserving official deniability.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f54c2949c1ea-c03",
+      "assertion": "Athena says layered control obscures real witnesses; no single witness reveals the whole account.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0024",
+        "p0027",
+        "p0028",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f54c2949c1ea-c04",
+      "assertion": "Athena says awareness and independent evidence-linking help people identify Cabal agendas.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-allegation"
+  ],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

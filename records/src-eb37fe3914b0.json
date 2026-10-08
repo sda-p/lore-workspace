@@ -1,0 +1,116 @@
+{
+  "source_id": "src-eb37fe3914b0",
+  "snapshot_sha256": "4ff4f52cfc5cacbdb3ab386549931f8710c12fb53644d30ec34239f245eb921f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-eb37fe3914b0-c01",
+      "assertion": "Anéeka describes Temmer and Erra as mostly symbiotic ecosystems, while Procyon is highly hostile and Dakote cold.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0013",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb37fe3914b0-c02",
+      "assertion": "Anéeka says Temmer has mild seas with abundant cetaceans and rare destructive storms.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb37fe3914b0-c03",
+      "assertion": "Anéeka says Taygetan boats use magnetic water jets powered by zero-point energy to reduce harm to wildlife.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb37fe3914b0-c04",
+      "assertion": "Anéeka describes some Erra plants as moving rapidly on retractable roots and Taygetan trees as slowly relocating.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb37fe3914b0-c05",
+      "assertion": "Anéeka says some plants emit clicks or light seasonally to attract or repel insects.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-ecosystems",
+      "name": "Taygetan ecosystems",
+      "kind": "geography",
+      "aliases": [
+        "Temmer and Erra ecosystems"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

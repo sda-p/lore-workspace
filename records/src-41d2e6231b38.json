@@ -1,0 +1,108 @@
+{
+  "source_id": "src-41d2e6231b38",
+  "snapshot_sha256": "216aa186c30051267844e393f8ac51b1721d7b830457a6f081bfed7ed86fb3bb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-41d2e6231b38-c01",
+      "assertion": "Yazhi describes Earth’s interior as many cavities rather than one hollow sphere.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d2e6231b38-c02",
+      "assertion": "She says poorly documented intraterrestrial species inhabit deep cavities, including Vulcans and Reptilian variants.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0007"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d2e6231b38-c03",
+      "assertion": "Yazhi says she lacks corroboration for reports of cannibalistic semi-human beings in deep caverns.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d2e6231b38-c04",
+      "assertion": "She says an incandescent magmatic core and rising magma provide heat and light to inner layers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d2e6231b38-c05",
+      "assertion": "Yazhi portrays Earth as a dynamic system with circulating magma, water, and petroleum-like material.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "intraterrestrial-vulcans",
+      "name": "Intraterrestrial Vulcans",
+      "kind": "species",
+      "aliases": [
+        "Vulcans"
+      ]
+    }
+  ],
+  "review_flags": [
+    "extraordinary_geological_claims",
+    "translated_source"
+  ],
+  "coverage_gaps": [
+    "inner_earth_details"
+  ]
+}

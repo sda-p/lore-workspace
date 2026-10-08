@@ -1,0 +1,127 @@
+{
+  "source_id": "src-d98ff6da8694",
+  "snapshot_sha256": "17f0c0f53bcdb9cbaa8fbf0252bd8bd2bf739ffc6a06e29bc6c67df30968ae2f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d98ff6da8694-c01",
+      "assertion": "Yazhi calls DNA a frequency record of identity and past lives.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Metaphysical model."
+    },
+    {
+      "id": "src-d98ff6da8694-c02",
+      "assertion": "She says DNA changes with experience and links cells to the etheric field.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Metaphysical model."
+    },
+    {
+      "id": "src-d98ff6da8694-c03",
+      "assertion": "She says DNA readings require reference data and reveal salient memories.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0068",
+        "p0070",
+        "p0072",
+        "p0094",
+        "p0096"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified technology claim."
+    },
+    {
+      "id": "src-d98ff6da8694-c04",
+      "assertion": "She says DNA can indicate frequency compatibility, not ancestry.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0142",
+        "p0144",
+        "p0148",
+        "p0150"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d98ff6da8694-c05",
+      "assertion": "Yazhi says hosts’ DNA may be shifted to fit a Walk-in.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0176",
+        "p0177",
+        "p0179",
+        "p0181"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified claim."
+    },
+    {
+      "id": "src-d98ff6da8694-c06",
+      "assertion": "She says unconsented DNA changes can disrupt identity; personal plans vary.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0033",
+        "p0034",
+        "p0106",
+        "p0108"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_metaphysical_biology",
+    "unverified_cloning_claims"
+  ],
+  "coverage_gaps": [
+    "stem_cell_harvesting_claim",
+    "readout_methods"
+  ]
+}

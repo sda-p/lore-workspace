@@ -1,0 +1,246 @@
+{
+  "batch_id": "continuous-007",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-121438ec9343",
+    "src-cb6267c7760f",
+    "src-e6b511e336b3",
+    "src-8cdc7fa3049e",
+    "src-826f0e981319",
+    "src-426ea469937a",
+    "src-09eef8905c88",
+    "src-94f4998a0616",
+    "src-331a2b9f1d40",
+    "src-4f2bc7f73ac1",
+    "src-ddec92826b38",
+    "src-8d887f066350",
+    "src-13b03653ca01",
+    "src-b2a7560246ee",
+    "src-30fbc888024d",
+    "src-db55ee8f9480",
+    "src-7daaf5b6ec28",
+    "src-e70e93e16a66",
+    "src-0d8c0f4f7056",
+    "src-77d0952ec3b4",
+    "src-8236c8661af7",
+    "src-0cb029f25b3b",
+    "src-73fc8cfce106",
+    "src-8fceb6353c22",
+    "src-3527c85bcb1a",
+    "src-c69f565b7611",
+    "src-992c1a01bd09",
+    "src-90b4147078b4",
+    "src-fcdd1fc45e3e",
+    "src-6590ff021376",
+    "src-e1b4f8c5afc0",
+    "src-1bc17042f317",
+    "src-de3a42e7909f",
+    "src-2375eaf5ea50",
+    "src-a32b47777c67",
+    "src-6bb3f5207f8d",
+    "src-9440df7f5243",
+    "src-424a779240f3",
+    "src-296acf10ba20",
+    "src-db615763165f",
+    "src-53caaa836d6a",
+    "src-67f9e11f45a4",
+    "src-edda680af7b5",
+    "src-90d5823bf8d3",
+    "src-f931a225ebf9",
+    "src-64f8a17cdfdc",
+    "src-36eda34f8346",
+    "src-41d2e6231b38",
+    "src-4b4fb9a7101a",
+    "src-a750cb52cbee",
+    "src-63a2efae9b5b",
+    "src-165493b296b5",
+    "src-15de60dedc59",
+    "src-5681d8f124b3",
+    "src-a1f21cc9bfb3",
+    "src-24f9c49da9cd",
+    "src-f5f1c1027d6f",
+    "src-e7cd6772cb35",
+    "src-7aa352395e9f",
+    "src-791dff0093a7",
+    "src-0b537b7804f0",
+    "src-e5d97bfc06c7",
+    "src-57f5f4019195",
+    "src-c5e6117394fd",
+    "src-917b60c556bc",
+    "src-d8abcaa43fd8",
+    "src-7c0508c9dc45",
+    "src-70fb5038443a",
+    "src-073f7818f594",
+    "src-b155c1320661",
+    "src-e2148b96d9aa",
+    "src-d29c0faaec77",
+    "src-21a9a4dacb59",
+    "src-695836837d0e",
+    "src-824e57e2355d",
+    "src-78f6779f9011",
+    "src-aeb1859f925a",
+    "src-8889af167782",
+    "src-cbd6e9d4a95d",
+    "src-8398afe625a8"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-826f0e981319",
+      "claim_id": "src-826f0e981319-c03",
+      "problem": "Citation set did not support the Cabal-control component.",
+      "action": "Added direct Venus-as-Cabal-resort passage.",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0028"
+      ]
+    },
+    {
+      "source_id": "src-e6b511e336b3",
+      "claim_id": "src-e6b511e336b3-c04",
+      "problem": "The cited passage said drones were not from the Toleka, which does not establish they were not Taygetan.",
+      "action": "Narrowed the assertion to Toleka origin and added the direct no-flight-plan evidence.",
+      "paragraph_ids": [
+        "p0124",
+        "p0130"
+      ]
+    },
+    {
+      "source_id": "src-7daaf5b6ec28",
+      "claim_id": "src-7daaf5b6ec28-c05",
+      "problem": "Citations did not directly support the iron-amulet components of the advice.",
+      "action": "Added the passages specifying iron types and magnetite; retained the cleansing and music evidence.",
+      "paragraph_ids": [
+        "p0110",
+        "p0112",
+        "p0146",
+        "p0147",
+        "p0148",
+        "p0151",
+        "p0153"
+      ]
+    },
+    {
+      "source_id": "src-90b4147078b4",
+      "claim_id": "src-90b4147078b4-c02",
+      "problem": "Citation set omitted the answer specifying what the emblem’s sun means to Taygeta.",
+      "action": "Added the direct answer passage.",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0025"
+      ]
+    },
+    {
+      "source_id": "src-fcdd1fc45e3e",
+      "claim_id": "src-fcdd1fc45e3e-c03",
+      "problem": "The record omitted the source’s later clarification that the Swaruunean crystalline mass forms 48 chromosomes.",
+      "action": "Retained the reported 24/24 statement and added the later 48-chromosome qualification.",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-db615763165f",
+      "claim_id": "src-db615763165f-c01",
+      "problem": "The claim linked low-sodium zombie lore without citing the direct passage describing the low-sodium diet.",
+      "action": "Added the direct account of the diet alongside the sodium/nerve passages.",
+      "paragraph_ids": [
+        "p0005",
+        "p0009",
+        "p0012",
+        "p0013",
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-90d5823bf8d3",
+      "claim_id": "src-90d5823bf8d3-c04",
+      "problem": "“Protective” was not explicit in the cited Urmah passage.",
+      "action": "Narrowed the paraphrase to the direct warrior/affection characterization.",
+      "paragraph_ids": [
+        "p0045"
+      ]
+    },
+    {
+      "source_id": "src-165493b296b5",
+      "claim_id": "src-165493b296b5-c04",
+      "problem": "The benevolent-by-default qualifier was supported by p0040, omitted from the citations.",
+      "action": "Added direct qualifier passage p0040 to the citations.",
+      "paragraph_ids": [
+        "p0040"
+      ]
+    },
+    {
+      "source_id": "src-165493b296b5",
+      "claim_id": "src-165493b296b5-c04",
+      "problem": "A directly supporting passage was omitted from the cited evidence.",
+      "action": "Added p0040 to the citation set.",
+      "paragraph_ids": [
+        "p0040"
+      ]
+    },
+    {
+      "source_id": "src-15de60dedc59",
+      "claim_id": "src-15de60dedc59-c03",
+      "problem": "A directly supporting passage was omitted from the cited evidence.",
+      "action": "Added p0017 to the citation set.",
+      "paragraph_ids": [
+        "p0017"
+      ]
+    },
+    {
+      "source_id": "src-15de60dedc59",
+      "claim_id": "src-15de60dedc59-c05",
+      "problem": "The wording could obscure the source’s specific scope/context.",
+      "action": "Clarified the claim to match the source’s stated scope.",
+      "paragraph_ids": [
+        "p0027",
+        "p0030"
+      ]
+    },
+    {
+      "source_id": "src-e7cd6772cb35",
+      "claim_id": "src-e7cd6772cb35-c02",
+      "problem": "A directly supporting passage was omitted from the cited evidence.",
+      "action": "Added p0027 to the citation set.",
+      "paragraph_ids": [
+        "p0027"
+      ]
+    },
+    {
+      "source_id": "src-24f9c49da9cd",
+      "claim_id": "src-24f9c49da9cd-c06",
+      "problem": "A directly supporting passage was omitted from the cited evidence.",
+      "action": "Added p0033 to the citation set.",
+      "paragraph_ids": [
+        "p0033"
+      ]
+    },
+    {
+      "source_id": "src-073f7818f594",
+      "claim_id": "src-073f7818f594-c02",
+      "problem": "The source assigns the hollow/ship inference to the interviewer, not Swaruu; Swaruu separately describes a metal surface and holographic appearance.",
+      "action": "Removed the unsupported ship attribution and aligned the claim with Swaruu’s statements.",
+      "paragraph_ids": [
+        "p0019",
+        "p0021"
+      ]
+    },
+    {
+      "source_id": "src-70fb5038443a",
+      "claim_id": "src-70fb5038443a-c04",
+      "problem": "The cited passage describes two-sun images as mirages and denies a binary Sun; it does not describe sensor results.",
+      "action": "Recast the claim to match the cited mirage passage.",
+      "paragraph_ids": [
+        "p0019"
+      ]
+    }
+  ],
+  "unresolved": []
+}

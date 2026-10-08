@@ -1,0 +1,93 @@
+{
+  "source_id": "src-98431ca1f2e1",
+  "snapshot_sha256": "6449185ae80b9c39126c80e3eda01f88a534b612a6e757cbabf7d3a2f7b64e5b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-98431ca1f2e1-c01",
+      "assertion": "Mari says future outcomes are difficult to predict and describes a false-invasion scenario as a possibility.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-98431ca1f2e1-c02",
+      "assertion": "Mari warns that disclosure could lead governments to restrict extraterrestrial discussion and censor dissent.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-98431ca1f2e1-c03",
+      "assertion": "Mari says starseeds could face persecution if governments cast them as threats during disclosure or invasion.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-98431ca1f2e1-c04",
+      "assertion": "Mari says individual starseeds can influence collective timelines and that awareness could reduce the scenario’s likelihood.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "scenario-not-prediction"
+  ],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

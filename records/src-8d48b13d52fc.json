@@ -1,0 +1,100 @@
+{
+  "source_id": "src-8d48b13d52fc",
+  "snapshot_sha256": "06fd960a09f6350e9342717a4f7fd993ac18561e8108e6de6d842bea2b8de444",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8d48b13d52fc-c01",
+      "assertion": "Yazhi says some falling “angel hair” is inert borosilicate fibers formed when ship plasma interacts with atmospheric dust.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d48b13d52fc-c02",
+      "assertion": "She says the fibers depend on suspended atmospheric material such as Saharan sand.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d48b13d52fc-c03",
+      "assertion": "Yazhi says some angel hair is graphene associated with chemtrails, separate from the ship-related fibers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d48b13d52fc-c04",
+      "assertion": "She says only laboratory testing can reliably distinguish the two fiber types.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d48b13d52fc-c05",
+      "assertion": "Yazhi says the weak borosilicate fibers are usually inert, with effects depending on their components.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_materials_claims"
+  ],
+  "coverage_gaps": [
+    "laboratory_identification"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_id": "src-2ad2f1b21fd3",
+  "snapshot_sha256": "2435459d591c3003c42ec799cfab6d4b36fc98e8dc3097f926f0dba4f17715c7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2ad2f1b21fd3-c01",
+      "assertion": "Athena says Hashmallim visited Ukraine and described the conflict as heavily shaped by media narratives.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ad2f1b21fd3-c02",
+      "assertion": "She says their ground team found burned villages near borders but little visible fighting farther inland.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ad2f1b21fd3-c03",
+      "assertion": "Athena reports seeing film crews, staged props, and journalists in Kyiv.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ad2f1b21fd3-c04",
+      "assertion": "She allows that brief local clashes may have occurred, while saying the scale remained uncertain.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0025",
+        "p0031",
+        "p0034"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ad2f1b21fd3-c05",
+      "assertion": "Athena says her observations do not establish the full conflict picture and leave many questions unresolved.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0027",
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_conflict_claims",
+    "war_scale_uncertainty"
+  ],
+  "coverage_gaps": [
+    "independent_verification"
+  ]
+}

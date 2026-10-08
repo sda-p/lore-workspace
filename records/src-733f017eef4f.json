@@ -1,0 +1,100 @@
+{
+  "source_id": "src-733f017eef4f",
+  "snapshot_sha256": "90c3f18266d5c63070203e1b69756ab3cd3ad1bb2c402e16e102c87a8ab17b1e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-733f017eef4f-c01",
+      "assertion": "Yazhi says advanced civilizations link through a shared information network that includes ship AIs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-733f017eef4f-c02",
+      "assertion": "She says hostile AI is a weapon programmed by organic actors, not an autonomous galactic invader.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0017"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-733f017eef4f-c03",
+      "assertion": "Yazhi describes the Borg as races absorbed by an AI originally programmed to invade.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-733f017eef4f-c04",
+      "assertion": "She says galactic AI blends into shared consciousness and is no longer distinct from it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-733f017eef4f-c05",
+      "assertion": "Yazhi says the Federation is not invaded; its apparent dysfunction reflects diverse member values.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_ai_claims"
+  ],
+  "coverage_gaps": [
+    "AI_examples"
+  ]
+}

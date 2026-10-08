@@ -1,0 +1,103 @@
+{
+  "source_id": "src-f5f1c1027d6f",
+  "snapshot_sha256": "5a0262c12c6869e3adfed93bde78d7abfeba117023a8e75eef59ebc0c5663e90",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f5f1c1027d6f-c01",
+      "assertion": "Swaruu (9) describes Uranus as having a dense, diamond-like surface beneath its atmosphere.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified planetary claim."
+    },
+    {
+      "id": "src-f5f1c1027d6f-c02",
+      "assertion": "She says Miranda hosts abundant under-ice flora and fauna sustained by geothermal activity.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0011"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5f1c1027d6f-c03",
+      "assertion": "Swaruu says other civilizations maintain subsurface bases on Uranian moons and mine their resources.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0031",
+        "p0032",
+        "p0039"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified extraterrestrial claim."
+    },
+    {
+      "id": "src-f5f1c1027d6f-c04",
+      "assertion": "She says Uranus’s rings are sparse and its moons have different origins.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0022",
+        "p0034"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5f1c1027d6f-c05",
+      "assertion": "Swaruu portrays higher-density beings as planetary consciousness that may manifest as visible forms.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0045",
+        "p0048"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Metaphysical account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims",
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "other_moons"
+  ]
+}

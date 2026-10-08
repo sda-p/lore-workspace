@@ -1,0 +1,100 @@
+{
+  "source_id": "src-c5c91a2194a4",
+  "snapshot_sha256": "3716c17307bd6ac08904c35e2c4cf58f21102815175b4ec39d7baccb20a415c4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c5c91a2194a4-c01",
+      "assertion": "Gosia says disclosure efforts could expose some government secrecy but miss deeper extraterrestrial control.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified political framing."
+    },
+    {
+      "id": "src-c5c91a2194a4-c02",
+      "assertion": "She worries disclosures may be controlled to promote a false-invasion narrative.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5c91a2194a4-c03",
+      "assertion": "Athena calls Greer’s project a likely psyop and alleges he is controlled opposition.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified allegations about a public figure."
+    },
+    {
+      "id": "src-c5c91a2194a4-c04",
+      "assertion": "Athena says the group withholds proof because overt evidence could expose them to suppression.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5c91a2194a4-c05",
+      "assertion": "Gosia says disclosure could still prompt public questioning, while acknowledging this is only their perspective.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_public_figure_claims",
+    "unverified_political_claims"
+  ],
+  "coverage_gaps": [
+    "event_outcomes"
+  ]
+}

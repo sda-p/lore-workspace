@@ -1,0 +1,88 @@
+{
+  "source_id": "src-6bb3f5207f8d",
+  "snapshot_sha256": "c4392cb86d0a882cb246e30d7acd2fa355912595f0dba86ba3e4ff6305bc49d5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6bb3f5207f8d-c01",
+      "assertion": "Anéeka alleges vaccine samples contain graphene-based nanotechnology carrying RNA and modifying cells.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unsupported vaccine allegation."
+    },
+    {
+      "id": "src-6bb3f5207f8d-c02",
+      "assertion": "She says the alleged technology is nonhuman and violates Orion and Federation agreements.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0044",
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bb3f5207f8d-c03",
+      "assertion": "Anéeka attributes the samples to Reptiloids, while acknowledging uncertainty about the actors.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6bb3f5207f8d-c04",
+      "assertion": "She reports that the Federation was presented with results and says it had not previously known them.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0050"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_medical_claims",
+    "conspiracy_claims"
+  ],
+  "coverage_gaps": [
+    "detailed_mechanism",
+    "transmission_claims"
+  ]
+}

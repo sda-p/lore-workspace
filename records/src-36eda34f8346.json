@@ -1,0 +1,109 @@
+{
+  "source_id": "src-36eda34f8346",
+  "snapshot_sha256": "6c06e54b278539e98d6b3ce16bab1f1c37ef9b30450b1a03cd8e5f2f3f753abe",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-36eda34f8346-c01",
+      "assertion": "Anéeka says maternal pods gestate babies in nutrient liquid using genetic holograms and stem cells.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36eda34f8346-c02",
+      "assertion": "She says pod gestation lasts about three months and yields a physically older but behaviorally newborn infant.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36eda34f8346-c03",
+      "assertion": "Anéeka says maternal pods use blood-filtering and nutrient systems unlike tissue-repair pods.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36eda34f8346-c04",
+      "assertion": "She claims abductors implant chips and alter mothers’ frequencies to sustain alleged starseed pregnancies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36eda34f8346-c05",
+      "assertion": "Anéeka says pod-raised infants receive foster care, laboratory-produced breast milk, and physical contact.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "maternal-med-pods",
+      "name": "Maternal medical pods",
+      "kind": "technology",
+      "aliases": [
+        "maternal pods"
+      ]
+    }
+  ],
+  "review_flags": [
+    "extraordinary_biotechnology_claims",
+    "translated_source"
+  ],
+  "coverage_gaps": [
+    "maternal_pod_types"
+  ]
+}

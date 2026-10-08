@@ -1,0 +1,95 @@
+{
+  "source_id": "src-235efae6057f",
+  "snapshot_sha256": "64f1077b85e11dccb4b8ac70700aefcb03ce804ba51ded0f45dd80b4b4ca5844",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-235efae6057f-c01",
+      "assertion": "She says Taygetan crews receive detailed Earth briefings and learn cultures at academies before contact missions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-235efae6057f-c02",
+      "assertion": "She says contact crew wear armored suits with communicators, trackers, and remote ship controls.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-235efae6057f-c03",
+      "assertion": "She describes Taygetan education as interest-led, with few required subjects beyond survival skills.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0022"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-235efae6057f-c04",
+      "assertion": "She says Taygeta sent a battle fleet to Earth in 2008–09, then withdrew it by 2017.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-235efae6057f-c05",
+      "assertion": "She says she expected human liberation but found Earth’s problems largely self-generated, leaving her frustrated.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "additional-source-claims"
+  ]
+}

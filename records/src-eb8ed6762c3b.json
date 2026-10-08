@@ -1,0 +1,96 @@
+{
+  "source_id": "src-eb8ed6762c3b",
+  "snapshot_sha256": "08a638d927e3d8d1d863226202da79d6ddb231d634ddd6e2e1ae90d983aa052e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-eb8ed6762c3b-c01",
+      "assertion": "Athena reports dense NATO and Russian military activity around Ukraine, but says she could not observe inside the country.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0015"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb8ed6762c3b-c02",
+      "assertion": "She says reports available to her described large refugee flows and many villages burning.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb8ed6762c3b-c03",
+      "assertion": "Athena says there was combat and deaths on both sides, but disputes the media-reported scale.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0029"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb8ed6762c3b-c04",
+      "assertion": "She speculates a false-flag event could widen the conflict into a NATO–Russia war.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eb8ed6762c3b-c05",
+      "assertion": "Athena says she cannot confirm US or NATO special forces are present, but believes they and Ukrainian forces are involved in atrocities.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0046"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_conflict_claims",
+    "conflicting_war_reports"
+  ],
+  "coverage_gaps": [
+    "military_details"
+  ]
+}

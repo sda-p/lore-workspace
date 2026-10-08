@@ -1,0 +1,100 @@
+{
+  "source_id": "src-2ae7279588b3",
+  "snapshot_sha256": "b0d31619695b6d31ea90ab3fc6c8fda8640216261b8ccba2c505df7763aa7857",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2ae7279588b3-c01",
+      "assertion": "Mari Swaruu recounts traveling from Temmer to Earth with her mother as a child.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Autobiographical account."
+    },
+    {
+      "id": "src-2ae7279588b3-c02",
+      "assertion": "She says her mother concealed their nonhuman identity while Mari attended human schools.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ae7279588b3-c03",
+      "assertion": "Mari says human-looking crews use registered vehicles and identities to obtain Earth supplies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ae7279588b3-c04",
+      "assertion": "She says crews sometimes steal goods and leave compensation, while banking hacks became harder.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ae7279588b3-c05",
+      "assertion": "Mari says long-term Earth operations gradually fill ships with human-made goods.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "other_childhood_accounts"
+  ]
+}

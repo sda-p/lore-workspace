@@ -1,0 +1,113 @@
+{
+  "source_id": "src-1e8728b1466f",
+  "snapshot_sha256": "9402ba33394ff8969d9f9a1fcb84e3f4fb74baf1baa5c04aa3af9907759d4480",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1e8728b1466f-c01",
+      "assertion": "Dhor Káal’el says Nazca figures encode star positions, portal locations, and ship approach vectors.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0005",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1e8728b1466f-c02",
+      "assertion": "He describes the lines as a ground-based spaceport map, not runways, with parking zones for ships.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0014",
+        "p0019",
+        "p0020",
+        "p0044"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1e8728b1466f-c03",
+      "assertion": "Dhor says multiple ancient civilizations built the site, with buried facilities and cities beneath Nazca.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0022",
+        "p0030",
+        "p0046",
+        "p0058"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1e8728b1466f-c04",
+      "assertion": "He says time-jumping ships can use the maps because their computers may not prevent navigational disorientation.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0053",
+        "p0055"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1e8728b1466f-c05",
+      "assertion": "Dhor says several lines still function as star maps, though much of the site has been lost.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0037",
+        "p0048",
+        "p0060",
+        "p0064"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "nazca-spaceport",
+      "name": "Nazca spaceport",
+      "kind": "location",
+      "aliases": [
+        "Nazca lines"
+      ]
+    }
+  ],
+  "review_flags": [
+    "extraordinary_archaeological_claims",
+    "translated_source"
+  ],
+  "coverage_gaps": [
+    "site_details"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source_id": "src-da9a37ad94e4",
+  "snapshot_sha256": "3ab6549296071499a8629be5c6f2b4d4ce8f5ce63ab47b2605e80278dba7abf7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-da9a37ad94e4-c01",
+      "assertion": "Mari calls Shadow People a biological race partly in the lower astral.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified paranormal claim."
+    },
+    {
+      "id": "src-da9a37ad94e4-c02",
+      "assertion": "She says they originate in Mensa and inhabit multiple planets there.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-da9a37ad94e4-c03",
+      "assertion": "Mari says they are invasive, low-danger, and outside the Federation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-da9a37ad94e4-c04",
+      "assertion": "She says they enter some homes, while other residents coexist peacefully.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-da9a37ad94e4-c05",
+      "assertion": "Mari says they can move objects and appear on infrared cameras.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-da9a37ad94e4-c06",
+      "assertion": "She cites a 1985 handbook describing their smell and animals’ reactions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her translation of a claimed document."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "shadow-people",
+      "name": "Shadow People",
+      "kind": "species",
+      "aliases": [
+        "shadow people",
+        "shadow figures"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unverified_extraterrestrial_claims",
+    "unverified_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "specific_detection_methods"
+  ]
+}

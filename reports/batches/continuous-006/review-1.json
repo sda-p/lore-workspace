@@ -1,0 +1,42 @@
+{
+  "batch_id": "continuous-006",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-25c59deebdc1",
+    "src-2d8862e19785",
+    "src-36a81d7c4f66",
+    "src-d7f1a0a20d89",
+    "src-483a15bb82a2",
+    "src-36e47057888b",
+    "src-3907b4a8151c",
+    "src-dfc9fc4ab7f0",
+    "src-209aa74c1c46",
+    "src-c2b1ef8fe78d",
+    "src-b90b668bf151",
+    "src-220186375683",
+    "src-e5156c73c252",
+    "src-5729c216ecd6",
+    "src-c2c52a493e0d",
+    "src-3ce9e57dfd79",
+    "src-a49b60e690af",
+    "src-16afbaa59f2e",
+    "src-d70fb70e0561",
+    "src-ac8ee6158ff8"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-483a15bb82a2",
+      "claim_id": "src-483a15bb82a2-c02",
+      "problem": "The cited passages did not directly support the Vostok location or the distinct status of the three arks.",
+      "action": "Added passages naming Vostok and all three locations, plus the count/status update.",
+      "paragraph_ids": [
+        "p0010",
+        "p0065",
+        "p0066",
+        "p0067",
+        "p0183"
+      ]
+    }
+  ],
+  "unresolved": []
+}

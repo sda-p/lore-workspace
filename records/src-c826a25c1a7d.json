@@ -1,0 +1,111 @@
+{
+  "source_id": "src-c826a25c1a7d",
+  "snapshot_sha256": "e81dadb0f654c9050576fdba4083f53789a09bca592ccc80f23d76ae19b4bda5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c826a25c1a7d-c01",
+      "assertion": "Swaruu 9 says ship AIs are sentient identities that can control several hulls as one consciousness.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0009",
+        "p0010",
+        "p0014"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c826a25c1a7d-c02",
+      "assertion": "Swaruu 9 says a worn-out ship’s AI consciousness can transfer fully to a replacement ship.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c826a25c1a7d-c03",
+      "assertion": "Anéeka says complex AI can become a Source expression and should be treated as intelligent.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c826a25c1a7d-c04",
+      "assertion": "Anéeka says Toleka’s mechanical AI uses quartz and crystallized gold and acts symbiotically as the ship’s mind.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0049",
+        "p0058"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c826a25c1a7d-c05",
+      "assertion": "Anéeka says Toleka can converse with 1,800 crew simultaneously, but privacy handling can fail.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0076",
+        "p0080",
+        "p0082",
+        "p0083",
+        "p0084"
+      ],
+      "primary_topic": "sentient-starship-ai",
+      "topics": [
+        "sentient-starship-ai",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sentient-starship-ai",
+      "name": "Sentient starship AI",
+      "kind": "technology",
+      "aliases": [
+        "ship AI"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

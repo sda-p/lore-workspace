@@ -1,0 +1,61 @@
+{
+  "source_id": "src-a49b60e690af",
+  "snapshot_sha256": "d295c878a6366343e7192ae17b8392fdbcdacf237b48b694e6b5d0578c1df5a9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a49b60e690af-c01",
+      "assertion": "Anéeka alleges PCR swabs contain pathogens and genetic-altering substances.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a49b60e690af-c02",
+      "assertion": "She alleges PCR tests contain tracking nanotechnology monitoring speech and thought.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a49b60e690af-c03",
+      "assertion": "She claims test contents vary by region, so one result does not generalize.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-claims-unverified",
+    "health-misinformation"
+  ],
+  "coverage_gaps": [
+    "vaccine-claims"
+  ]
+}

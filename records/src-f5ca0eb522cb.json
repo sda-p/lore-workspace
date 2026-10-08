@@ -1,0 +1,124 @@
+{
+  "source_id": "src-f5ca0eb522cb",
+  "snapshot_sha256": "ee300f22e861e77685b67cc73723f3f62ec9c1f27c5b999257e10bbc9b786905",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f5ca0eb522cb-c01",
+      "assertion": "Anéeka and Yazhi call the Moon an artificial ship named Creiddylad.",
+      "speaker": "Anéeka; Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0010",
+        "p0021"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified claim."
+    },
+    {
+      "id": "src-f5ca0eb522cb-c02",
+      "assertion": "Yazhi says Federation factions control its orbit; its hologram faces Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5ca0eb522cb-c03",
+      "assertion": "She says lunar reactors power a composite hologram and alter Earth’s magnetosphere.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0034",
+        "p0037"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified scientific claim."
+    },
+    {
+      "id": "src-f5ca0eb522cb-c04",
+      "assertion": "Yazhi says portals or density-shifting ships can cross the radiation bands.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0042",
+        "p0045"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified scientific claim."
+    },
+    {
+      "id": "src-f5ca0eb522cb-c05",
+      "assertion": "She attributes women’s cycles to lunar frequencies and says sunlight benefits cells.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0049",
+        "p0050",
+        "p0052",
+        "p0056"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unsupported biological claims."
+    },
+    {
+      "id": "src-f5ca0eb522cb-c06",
+      "assertion": "Yazhi says lunar reactors are failing and eventual Moon removal may be feasible or necessary.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_lunar_claims",
+    "unverified_biological_claims"
+  ],
+  "coverage_gaps": [
+    "full_lunar_history"
+  ]
+}

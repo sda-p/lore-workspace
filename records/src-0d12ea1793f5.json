@@ -1,0 +1,106 @@
+{
+  "source_id": "src-0d12ea1793f5",
+  "snapshot_sha256": "107005d240ff838fd2b1f8e238799679e81bb79c978824c4f1517d524abd12b7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0d12ea1793f5-c01",
+      "assertion": "Mari says the Federation treats Earth as an isolated school and playground for incarnates and visiting stellar races.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d12ea1793f5-c02",
+      "assertion": "Mari says the Federation invokes the Prime Directive selectively while monitoring Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0009",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d12ea1793f5-c03",
+      "assertion": "Mari claims the Federation controls Earth’s money supply and assigns its regional amounts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d12ea1793f5-c04",
+      "assertion": "Mari says Federation grants regulate visiting races’ Earth operations; Taygetans get little and Swaruunians none.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d12ea1793f5-c05",
+      "assertion": "Mari says the Federation permits many other races to operate on Earth almost freely, outside its grant system.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

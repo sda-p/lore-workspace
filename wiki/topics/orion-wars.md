@@ -36,11 +36,22 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Expansion of Lyra - Orion Wars - Part 2 \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/expansion-of-lyra-orion-wars-part-2-text-only-translated-originally-from-spanish) (2020-07-09; en); passages p0022, p0023. [Structured record](../../records/src-3dc3867de787.json).
 
+### src-412d2cb274cb-c03
+
+Yazhi says the conflict escalated into a multi-century interstellar war between mostly Lyrian and Reptilian-backed sides.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [First Ancient Battle - The rebellion in the Garden of Eden - Orion Wars - PART 5 \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/first-ancient-battle-the-rebellion-in-the-garden-of-eden-orion-wars-part-5-text-only-translated-orig) (2021-05-29; en); passages p0019, p0020. [Structured record](../../records/src-412d2cb274cb.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md), [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c01](lyran-expansion.md#src-03f88504384a-c01) — Lyran expansion
 - [src-03f88504384a-c03](galactic-federation.md#src-03f88504384a-c03) — Galactic Federation
 - [src-7d64347f0d71-c02](galactic-federation.md#src-7d64347f0d71-c02) — Galactic Federation
+- [src-58967db24dfa-c02](lyran-expansion.md#src-58967db24dfa-c02) — Lyran expansion
 
 ## Review flags
 
@@ -48,6 +59,7 @@ Source: [Expansion of Lyra - Orion Wars - Part 2 \*\*Text only / Translated orig
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - approximate\_dates
 - directive-rules-not-in-transcript
+- extraordinary\_history\_claims
 - no-parallel-source-in-batch
 - translated-from-spanish
 - translated\_source

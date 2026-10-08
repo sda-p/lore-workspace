@@ -530,6 +530,286 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Mutilated Horses, Abductions, and More - \*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/mutilated-horses-abductions-and-more-text-only-translated-originally-from-spanish) (2020-11-01; en); passages p0038. [Structured record](../../records/src-f19cc02f6e0a.json).
 
+### src-06a1e5437c02-c02
+
+Swaruu 2–9 repeatedly served as Sand Clock time-jump pilots altering Earth events.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Swaruu and Yazhi - Who Are They? Never Shared Story - Extraterrestrial Contact (Pleiades) - PART 1](https://swaruu.org/transcripts/swaruu-and-yazhi-who-are-they-never-shared-story-extraterrestrial-contact-pleiades-part-1) (2021-04-21; en); passages p0032, p0035, p0037. [Structured record](../../records/src-06a1e5437c02.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-06a1e5437c02-c03
+
+Swaruu 9 stopped time-jumping after concluding changes affected only her own timeline.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Swaruu and Yazhi - Who Are They? Never Shared Story - Extraterrestrial Contact (Pleiades) - PART 1](https://swaruu.org/transcripts/swaruu-and-yazhi-who-are-they-never-shared-story-extraterrestrial-contact-pleiades-part-1) (2021-04-21; en); passages p0039. [Structured record](../../records/src-06a1e5437c02.json).
+
+### src-426ea469937a-c01
+
+Athena says ships navigate using mathematical frequency maps.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 3 - Inserting Objects and Situations into the Matrix - Athena Swaruu](https://swaruu.org/transcripts/stellar-navigation-3-inserting-objects-and-situations-into-the-matrix-athena-swaruu) (2022-06-28; en); passages p0021, p0022, p0023. [Structured record](../../records/src-426ea469937a.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-426ea469937a-c02
+
+She describes hyperspace as a jump: emulated destination frequencies make the origin incompatible.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 3 - Inserting Objects and Situations into the Matrix - Athena Swaruu](https://swaruu.org/transcripts/stellar-navigation-3-inserting-objects-and-situations-into-the-matrix-athena-swaruu) (2022-06-28; en); passages p0024, p0027, p0028. [Structured record](../../records/src-426ea469937a.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Starship systems](starship-systems.md).
+
+### src-426ea469937a-c03
+
+Navigation depends on map detail and engine emulation, she says.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 3 - Inserting Objects and Situations into the Matrix - Athena Swaruu](https://swaruu.org/transcripts/stellar-navigation-3-inserting-objects-and-situations-into-the-matrix-athena-swaruu) (2022-06-28; en); passages p0042, p0043, p0044, p0045. [Structured record](../../records/src-426ea469937a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-5681d8f124b3-c01
+
+Mari Swaruu says starships navigate interstellar distances with mathematical frequency maps.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation, Basic principles (English)](https://swaruu.org/transcripts/stellar-navigation-basic-principles-english) (2022-12-22; en); passages p0012, p0013, p0014. [Structured record](../../records/src-5681d8f124b3.json).
+
+### src-5681d8f124b3-c02
+
+She describes jumps as matching a ship’s frequency to its destination rather than traversing distance.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation, Basic principles (English)](https://swaruu.org/transcripts/stellar-navigation-basic-principles-english) (2022-12-22; en); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-5681d8f124b3.json).
+
+### src-5681d8f124b3-c03
+
+Mari says arrival protocols require advance notice and heavy ships exit jumps far from planets.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation, Basic principles (English)](https://swaruu.org/transcripts/stellar-navigation-basic-principles-english) (2022-12-22; en); passages p0021, p0022. [Structured record](../../records/src-5681d8f124b3.json).
+
+### src-5681d8f124b3-c04
+
+She says jump events leave detectable gamma-ray wakes that can reveal departure and destination.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation, Basic principles (English)](https://swaruu.org/transcripts/stellar-navigation-basic-principles-english) (2022-12-22; en); passages p0023, p0024, p0025. [Structured record](../../records/src-5681d8f124b3.json).
+
+### src-5681d8f124b3-c05
+
+Mari describes space skipping as a combat method for obscuring a ship’s trail.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation, Basic principles (English)](https://swaruu.org/transcripts/stellar-navigation-basic-principles-english) (2022-12-22; en); passages p0026, p0027. [Structured record](../../records/src-5681d8f124b3.json).
+
+### src-cb6267c7760f-c02
+
+She says navigation computers map energy patterns rather than locations.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 3 - PART 2 - Ether - Inserting Objects in the Matrix - Athena Swaruu](https://swaruu.org/transcripts/stellar-navigation-3-part-2-ether-inserting-objects-in-the-matrix-athena-swaruu) (2022-07-06; en); passages p0019, p0031, p0032. [Structured record](../../records/src-cb6267c7760f.json).
+
+### src-016bae2e1ff8-c01
+
+She says Earth–Temmer time slip increased from 2.5:1 in 2009 to nearly 5:1.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Van Allen Belts, Shumann Resonance, Memories - Athena Swaruu - Extraterrestrial Contact](https://swaruu.org/transcripts/van-allen-belts-shumann-resonance-memories-athena-swaruu-extraterrestrial-contact) (2021-10-24; en); passages p0004, p0007, p0013. [Structured record](../../records/src-016bae2e1ff8.json).
+
+### src-73fc8cfce106-c02
+
+She says her predecessor entered it by reversing a ship’s frequency map and died during the return.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Reverse World and Future Influencing the Past - Metaphysical Chats with Yazhi Swaruu](https://swaruu.org/transcripts/reverse-world-and-future-influencing-the-past-metaphysical-chats-with-yazhi-swaruu) (2022-12-18; en); passages p0012, p0013, p0032. [Structured record](../../records/src-73fc8cfce106.json).
+
+### src-20cb9d5c4075-c01
+
+Yazhi says interstellar cultures use non-locality mainly for stellar navigation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NON LOCALITY - There is no Space - Everything is HERE - Yazhi Swaruu (Extraterrestrial Contact)](https://swaruu.org/transcripts/non-locality-there-is-no-space-everything-is-here-yazhi-swaruu-extraterrestrial-contact) (2021-10-17; en); passages p0003, p0004. [Structured record](../../records/src-20cb9d5c4075.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-20cb9d5c4075-c02
+
+Yazhi says starships match ship and cargo frequencies to a destination instead of traversing long distances by propulsion.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NON LOCALITY - There is no Space - Everything is HERE - Yazhi Swaruu (Extraterrestrial Contact)](https://swaruu.org/transcripts/non-locality-there-is-no-space-everything-is-here-yazhi-swaruu-extraterrestrial-contact) (2021-10-17; en); passages p0012, p0013, p0015, p0016. [Structured record](../../records/src-20cb9d5c4075.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-20cb9d5c4075-c04
+
+Yazhi says interstellar cultures map by frequency, using distance only for short ranges. Short ranges include a solar system or star cluster.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NON LOCALITY - There is no Space - Everything is HERE - Yazhi Swaruu (Extraterrestrial Contact)](https://swaruu.org/transcripts/non-locality-there-is-no-space-everything-is-here-yazhi-swaruu-extraterrestrial-contact) (2021-10-17; en); passages p0035, p0036. [Structured record](../../records/src-20cb9d5c4075.json).
+
+### src-8889af167782-c04
+
+Yazhi interprets the Ankh as a spaceship joystick indicating an off-world being.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [HIDDEN SYMBOLOGY - TIAHUANACO - SUMER - EGYPT \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/hidden-symbology-tiahuanaco-sumer-egypt-text-only-translated-originally-from-spanish) (2021-09-19; en); passages p0018, p0019, p0020, p0021. [Structured record](../../records/src-8889af167782.json).
+
+Related topics: [Astrotheology](astrotheology.md).
+
+### src-bcef9325e4a2-c01
+
+Anéeka says solar systems move within galactic arms, which also contain faster high-energy regions.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Galaxies - Information provided by Extraterrestrial Women](https://swaruu.org/transcripts/galaxies-information-provided-by-extraterrestrial-women) (2022-12-06; en); passages p0007, p0012, p0013, p0014. [Structured record](../../records/src-bcef9325e4a2.json).
+
+### src-471bc503a9e6-c03
+
+Anéeka says she joined an Earth-bound ship crew at 17 and arrived in Earth orbit in May 2016.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Aneeka of Temmer - Why did she Arrive to Earth? Her Work and Our Gratitude](https://swaruu.org/transcripts/aneeka-of-temmer-why-did-she-arrive-to-earth-her-work-and-our-gratitude) (2022-12-02; en); passages p0011, p0013. [Structured record](../../records/src-471bc503a9e6.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-1e8728b1466f-c02
+
+He describes the lines as a ground-based spaceport map, not runways, with parking zones for ships.
+
+Attributed to **Dhor Káal’el**; reported; extraction confidence: high.
+
+Source: [Nazca Lines - What Are They? Extraterrestrial Pilot Explains - Dhor K´aal´el (Taygeta)](https://swaruu.org/transcripts/nazca-lines-what-are-they-extraterrestrial-pilot-explains-dhor-k-aal-el-taygeta) (2022-08-31; en); passages p0014, p0019, p0020, p0044. [Structured record](../../records/src-1e8728b1466f.json).
+
+### src-1e8728b1466f-c04
+
+He says time-jumping ships can use the maps because their computers may not prevent navigational disorientation.
+
+Attributed to **Dhor Káal’el**; reported; extraction confidence: high.
+
+Source: [Nazca Lines - What Are They? Extraterrestrial Pilot Explains - Dhor K´aal´el (Taygeta)](https://swaruu.org/transcripts/nazca-lines-what-are-they-extraterrestrial-pilot-explains-dhor-k-aal-el-taygeta) (2022-08-31; en); passages p0053, p0055. [Structured record](../../records/src-1e8728b1466f.json).
+
+### src-1e8728b1466f-c05
+
+Dhor says several lines still function as star maps, though much of the site has been lost.
+
+Attributed to **Dhor Káal’el**; reported; extraction confidence: high.
+
+Source: [Nazca Lines - What Are They? Extraterrestrial Pilot Explains - Dhor K´aal´el (Taygeta)](https://swaruu.org/transcripts/nazca-lines-what-are-they-extraterrestrial-pilot-explains-dhor-k-aal-el-taygeta) (2022-08-31; en); passages p0037, p0048, p0060, p0064. [Structured record](../../records/src-1e8728b1466f.json).
+
+### src-15eedd9ca49d-c03
+
+Yazhi says each planetary or stellar system has a changing frequency used in navigation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Planetary Ascension - Chat with Yazhi Swaruu (Sophia) - Extraterrestrial Contact](https://swaruu.org/transcripts/planetary-ascension-chat-with-yazhi-swaruu-sophia-extraterrestrial-contact) (2022-08-05; en); passages p0011, p0012, p0014. [Structured record](../../records/src-15eedd9ca49d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a32b47777c67-c01
+
+Athena says time travel can access multiple possible futures, which must be compared rather than treated as one outcome.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [5D Mind - Why are we Different and Why we don´t believe in Timelines? - Athena Swaruu](https://swaruu.org/transcripts/5d-mind-why-are-we-different-and-why-we-don-t-believe-in-timelines-athena-swaruu) (2022-06-24; en); passages p0003, p0004, p0005. [Structured record](../../records/src-a32b47777c67.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ee623e3e520c-c01
+
+Athena first says her navigation system did not identify Starlink, then clarifies that satellites exist but none showed Starlink characteristics in her scans.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Starlink Satellites - Are they Really Up There? Athena Swaruu Informs of her Findings](https://swaruu.org/transcripts/starlink-satellites-are-they-really-up-there-athena-swaruu-informs-of-her-findings) (2022-03-07; en); passages p0004, p0012, p0014, p0029, p0030. [Structured record](../../records/src-ee623e3e520c.json).
+
+### src-ee623e3e520c-c02
+
+Athena says satellite trains might be other satellite systems, Blue Beam, or nonhuman craft formations; she lacks a definite answer.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Starlink Satellites - Are they Really Up There? Athena Swaruu Informs of her Findings](https://swaruu.org/transcripts/starlink-satellites-are-they-really-up-there-athena-swaruu-informs-of-her-findings) (2022-03-07; en); passages p0031, p0032, p0033. [Structured record](../../records/src-ee623e3e520c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-5898037c825f-c01
+
+Athena says portals make direct jumps, while large ships use staged frequency jumps to avoid traffic and collisions.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 4 (Part 1) - SIT Time - Spaceships in Hyperspace (Athena Swaruu)](https://swaruu.org/transcripts/stellar-navigation-4-part-1-sit-time-spaceships-in-hyperspace-athena-swaruu) (2022-07-22; en); passages p0005, p0006, p0007, p0008, p0009, p0010, p0011. [Structured record](../../records/src-5898037c825f.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-073f7818f594-c04
+
+Swaruu 9 says a secret space program reached Saturn and militarily occupied another planet.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
+
+Source: [Swaruu of Erra and ex NASA engineer discuss Moon Landings/Interview with Dale Harder](https://swaruu.org/transcripts/swaruu-of-erra-and-ex-nasa-engineer-discuss-moon-landings-interview-with-dale-harder) (2022-08-19; en); passages p0026. [Structured record](../../records/src-073f7818f594.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-21a9a4dacb59-c02
+
+Swaruu 9 says some circles encode ideas, while others mark a crew’s return to a timeline.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Crop Circles - Main Purpose - Short Chat with Swaruu of Erra](https://swaruu.org/transcripts/crop-circles-main-purpose-short-chat-with-swaruu-of-erra) (2023-01-03; en); passages p0004, p0006, p0008. [Structured record](../../records/src-21a9a4dacb59.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-21a9a4dacb59-c03
+
+Swaruu 9 says crews make circles with tractor beams as finite navigation markers.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Crop Circles - Main Purpose - Short Chat with Swaruu of Erra](https://swaruu.org/transcripts/crop-circles-main-purpose-short-chat-with-swaruu-of-erra) (2023-01-03; en); passages p0008, p0011. [Structured record](../../records/src-21a9a4dacb59.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-21a9a4dacb59-c05
+
+Swaruu 9 says marker designs are crew-specific and may also convey other messages.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Crop Circles - Main Purpose - Short Chat with Swaruu of Erra](https://swaruu.org/transcripts/crop-circles-main-purpose-short-chat-with-swaruu-of-erra) (2023-01-03; en); passages p0013, p0015, p0017, p0019. [Structured record](../../records/src-21a9a4dacb59.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -542,6 +822,28 @@ Source: [Mutilated Horses, Abductions, and More - \*Text only / Translated origi
 - [src-4386f9a28119-c03](consciousness-metaphysics.md#src-4386f9a28119-c03) — Consciousness and metaphysics
 - [src-4386f9a28119-c04](consciousness-metaphysics.md#src-4386f9a28119-c04) — Consciousness and metaphysics
 - [src-6bfffa79183e-c03](consciousness-metaphysics.md#src-6bfffa79183e-c03) — Consciousness and metaphysics
+- [src-424a779240f3-c02](natural-portals.md#src-424a779240f3-c02) — Natural and artificial portals
+- [src-424a779240f3-c05](black-holes.md#src-424a779240f3-c05) — Black holes
+- [src-5681d8f124b3-c06](starship-systems.md#src-5681d8f124b3-c06) — Starship systems
+- [src-24f9c49da9cd-c01](terrestrial-science.md#src-24f9c49da9cd-c01) — Terrestrial science
+- [src-20cb9d5c4075-c03](natural-portals.md#src-20cb9d5c4075-c03) — Natural and artificial portals
+- [src-8889af167782-c02](natural-portals.md#src-8889af167782-c02) — Natural and artificial portals
+- [src-63c8f1bd575e-c04](energy-generation.md#src-63c8f1bd575e-c04) — Energy generation technology
+- [src-5c53f31c4600-c02](galactic-federation.md#src-5c53f31c4600-c02) — Galactic Federation
+- [src-1e8728b1466f-c01](natural-portals.md#src-1e8728b1466f-c01) — Natural and artificial portals
+- [src-64f8a17cdfdc-c01](consciousness-metaphysics.md#src-64f8a17cdfdc-c01) — Consciousness and metaphysics
+- [src-d7d90a56bb44-c05](aethien-mantis.md#src-d7d90a56bb44-c05) — Aethien Mantis
+- [src-ee623e3e520c-c03](alien-species.md#src-ee623e3e520c-c03) — Alien species and distinctions
+- [src-a315a2d9fccb-c01](temporal-skipping.md#src-a315a2d9fccb-c01) — Temporal skipping
+- [src-a315a2d9fccb-c02](temporal-skipping.md#src-a315a2d9fccb-c02) — Temporal skipping
+- [src-a315a2d9fccb-c04](temporal-skipping.md#src-a315a2d9fccb-c04) — Temporal skipping
+- [src-5898037c825f-c02](ship-internal-time.md#src-5898037c825f-c02) — Ship internal time
+- [src-5898037c825f-c03](starship-systems.md#src-5898037c825f-c03) — Starship systems
+- [src-5898037c825f-c04](starship-systems.md#src-5898037c825f-c04) — Starship systems
+- [src-c07ce04540a6-c01](terrestrial-science.md#src-c07ce04540a6-c01) — Terrestrial science
+- [src-c07ce04540a6-c02](terrestrial-science.md#src-c07ce04540a6-c02) — Terrestrial science
+- [src-21a9a4dacb59-c04](natural-portals.md#src-21a9a4dacb59-c04) — Natural and artificial portals
+- [src-78f6779f9011-c03](taygetans.md#src-78f6779f9011-c03) — Taygetans
 
 ## Review flags
 
@@ -550,6 +852,8 @@ Source: [Mutilated Horses, Abductions, and More - \*Text only / Translated origi
 - cern-portal-claim
 - comparative\_technology\_claims
 - conflicting\_primary\_purpose\_claims
+- contested-space-history-allegation
+- contested\_archaeology
 - coverage: climate and architecture
 - coverage: interspecies compatibility
 - coverage: propulsion engineering details
@@ -557,10 +861,18 @@ Source: [Mutilated Horses, Abductions, and More - \*Text only / Translated origi
 - crop\_circle\_interpretation
 - ether\_and\_manifestation\_model
 - ether\_model
+- ethical\_use\_limits
+- extraordinary\_archaeological\_claims
+- extraordinary\_civilization\_claims
+- extraordinary\_claims
+- extraordinary\_cosmology\_claims
+- extraordinary\_exopolitical\_claims
+- extraordinary\_metaphysical\_claims
 - frequency-gravity-model
 - frequency\_map\_model
 - hyperspace\_model
 - jumper\_vs\_origin\_line
+- metaphysical-claims
 - multiple\_futures\_claim
 - nonstandard\_astrophysics\_claims
 - past-editing-metaphysical-claim
@@ -568,8 +880,15 @@ Source: [Mutilated Horses, Abductions, and More - \*Text only / Translated origi
 - secret\_ship\_capability\_claims
 - space\_suit\_claims\_unverified
 - species\_specific\_reproduction
+- starlink-observation-scope-ambiguity
+- symbolic\_interpretations
 - technology\_and\_mind\_interface
 - technology\_claims
 - time\_travel\_risks
 - timeline\_model
+- translated\_source
 - unmapped\_regions\_and\_return\_risk
+- unverified\_ancient\_technology\_claims
+- unverified\_cosmology\_and\_technology
+- unverified\_extraterrestrial\_technology\_claims
+- unverified\_technical\_claims

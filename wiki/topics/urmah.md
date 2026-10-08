@@ -164,6 +164,40 @@ Source: [EXTRATERRESTRIAL RACES in 5D(3) - ALPHA DRACONIANS (Pleiadian Message -
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-228725f2ab65-c01
+
+Urmah royalty shares authority with a High Council and receives guidance from elder advisers.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka talks about the Urmah crew \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/aneeka-talks-about-the-urmah-crew-text-only-translated-originally-from-spanish) (2021-02-01; en); passages p0003, p0004, p0005. [Structured record](../../records/src-228725f2ab65.json).
+
+### src-228725f2ab65-c02
+
+She estimates 3,500 Urmah in orbit and says Avyon-1 is twice Toleka’s size.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Aneeka talks about the Urmah crew \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/aneeka-talks-about-the-urmah-crew-text-only-translated-originally-from-spanish) (2021-02-01; en); passages p0010, p0011, p0027, p0028. [Structured record](../../records/src-228725f2ab65.json).
+
+### src-228725f2ab65-c03
+
+Urmah ships share Taygetan technology, with larger interiors and tail-adapted seats.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka talks about the Urmah crew \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/aneeka-talks-about-the-urmah-crew-text-only-translated-originally-from-spanish) (2021-02-01; en); passages p0034, p0036, p0038. [Structured record](../../records/src-228725f2ab65.json).
+
+### src-90d5823bf8d3-c04
+
+Yazhi portrays the Urmah as both fierce warriors and affectionate “fluffy big kittens.”
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Yazhi Swaruu - Wisdom of the Extraterrestrial "Child" - Metaphysical Chat](https://swaruu.org/transcripts/yazhi-swaruu-wisdom-of-the-extraterrestrial-child-metaphysical-chat) (2022-08-22; en); passages p0045. [Structured record](../../records/src-90d5823bf8d3.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-1461dd27e63f-c08](alien-species.md#src-1461dd27e63f-c08) — Alien species and distinctions
@@ -172,6 +206,8 @@ Related topics: [Alien species and distinctions](alien-species.md).
 
 - 3D containment rationale shifts across speakers and passages
 - Federation-as-controller claim conflicts with mentor framing within transcript
+- personal\_metaphysics
 - self-reported-traits
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- warrior\_symbolism

@@ -1,16 +1,11 @@
 {
   "worker": 2,
   "source_ids": [
-    "src-ae446f3f0257",
-    "src-e0bf43728ed8",
-    "src-483a15bb82a2",
-    "src-3907b4a8151c",
-    "src-209aa74c1c46",
-    "src-b90b668bf151",
-    "src-e5156c73c252",
-    "src-228725f2ab65",
-    "src-a49b60e690af",
-    "src-d70fb70e0561"
+    "src-69ad8dca8c41",
+    "src-ac71d59738c3",
+    "src-3dfabad0c315",
+    "src-7f611c295824",
+    "src-d088ff3491c4"
   ],
-  "source_word_count": 34006
+  "source_word_count": 18668
 }

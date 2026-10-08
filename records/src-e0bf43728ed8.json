@@ -1,0 +1,78 @@
+{
+  "source_id": "src-e0bf43728ed8",
+  "snapshot_sha256": "bb15c97b59c65e2adff6d465ed3b50d5221e4480858a0576f8321e1e4e37db44",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e0bf43728ed8-c01",
+      "assertion": "Nested toroidal shield layers disperse incoming kinetic and energy impacts.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0024"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0bf43728ed8-c02",
+      "assertion": "Shield harmonics combine magnetic and electromagnetic fields to form protective plasma.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0062",
+        "p0064"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0bf43728ed8-c03",
+      "assertion": "Yazhi says attacks feed shields; Dale infers gravity can penetrate them, and Yazhi confirms gravity weapons can be concentrated into beams.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0072",
+        "p0075",
+        "p0076",
+        "p0078",
+        "p0080"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0bf43728ed8-c04",
+      "assertion": "Counter-rotating turbines generate toroidal plasma for shields or propulsion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0101"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "shield-vulnerabilities"
+  ]
+}

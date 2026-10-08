@@ -1,0 +1,97 @@
+{
+  "source_id": "src-471bc503a9e6",
+  "snapshot_sha256": "c3aa624e316bb052ef7e433339e45b7dc9056e94222f5eece1dc91299add7030",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-471bc503a9e6-c01",
+      "assertion": "Anéeka says Temmer is a tropical ocean planet whose largest island hosts Toleka, Taygeta’s capital.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-471bc503a9e6-c02",
+      "assertion": "She describes Taygeta as moneyless, materially abundant, and powered mainly by zero-point reactors.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-471bc503a9e6-c03",
+      "assertion": "Anéeka says she joined an Earth-bound ship crew at 17 and arrived in Earth orbit in May 2016.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-471bc503a9e6-c04",
+      "assertion": "She says the First Contact project used internet infiltration to assess public readiness for contact.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-471bc503a9e6-c05",
+      "assertion": "Anéeka says she led Taygetan Earth information gathering from 2019, relaying reports to ship leaders and Temmer.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_civilization_claims"
+  ],
+  "coverage_gaps": [
+    "personal_biography"
+  ]
+}

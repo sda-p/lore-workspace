@@ -1,0 +1,92 @@
+{
+  "source_id": "src-8398afe625a8",
+  "snapshot_sha256": "00af3f4a7f3eead9e2e70cdf16fa75b8e0f02e85c96fc661681565c5e689dfb4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8398afe625a8-c01",
+      "assertion": "Yazhi alleges vaccines alter bodily frequency and DNA through graphene.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her claim."
+    },
+    {
+      "id": "src-8398afe625a8-c02",
+      "assertion": "Yazhi alleges these changes enable astral entities to parasitize or use vaccinated bodies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her asserted spiritual mechanism."
+    },
+    {
+      "id": "src-8398afe625a8-c03",
+      "assertion": "Yazhi speculates a baby could receive an astral entity through maternal graphene-related frequency changes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She makes this conditional."
+    },
+    {
+      "id": "src-8398afe625a8-c04",
+      "assertion": "Yazhi speculates controllers could switch sterility and enable entities to incarnate as psychopaths.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents this as a feeling and possibility."
+    },
+    {
+      "id": "src-8398afe625a8-c05",
+      "assertion": "Yazhi says an original soul may remain trapped in a vaccinated, parasitized body.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical claim."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical_claims_unverified",
+    "reproductive_claims_unverified"
+  ],
+  "coverage_gaps": []
+}

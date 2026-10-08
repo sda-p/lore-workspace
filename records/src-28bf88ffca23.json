@@ -1,0 +1,91 @@
+{
+  "source_id": "src-28bf88ffca23",
+  "snapshot_sha256": "8ab28af2fbe299a34716cd5524599bb352d7a812355fce205fc66e974c863514",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-28bf88ffca23-c01",
+      "assertion": "Athena says Russia–Ukraine narratives are manipulated by both blocs, with Western media reaching more globally.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28bf88ffca23-c02",
+      "assertion": "Athena speculates that the Cabal seeks to weaken Russia’s image and BRICS, restoring Western influence.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28bf88ffca23-c03",
+      "assertion": "Athena says Russia’s possible defeat would reflect agenda-setting rather than its military capacity.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0013",
+        "p0019",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28bf88ffca23-c04",
+      "assertion": "Athena says global sensational news distracts people while rights are reduced.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "geopolitical-allegation",
+    "time-bound-prediction"
+  ],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

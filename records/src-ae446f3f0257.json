@@ -1,0 +1,81 @@
+{
+  "source_id": "src-ae446f3f0257",
+  "snapshot_sha256": "41df896ea53db4439b5ec4455cedb697be1e28ce4c2d247fff201a65cd7f1f2a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ae446f3f0257-c01",
+      "assertion": "Enki and Enlil are described as peoples or factions, not single gods.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0028"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae446f3f0257-c02",
+      "assertion": "She frames them as opposing Egyptian-derived groups containing multiple species.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0140",
+        "p0141"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae446f3f0257-c03",
+      "assertion": "She also identifies Enlil with the Elohim people from Asterope.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0035"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae446f3f0257-c04",
+      "assertion": "Her moral roles shift: Enki is both liberating and deceptive, while Enlil’s role also varies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0016",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "internal-contradictions",
+    "historical-interpretation"
+  ],
+  "coverage_gaps": [
+    "anunnaki-terminology"
+  ]
+}

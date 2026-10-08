@@ -1,0 +1,118 @@
+{
+  "source_id": "src-5681d8f124b3",
+  "snapshot_sha256": "8022eee0d3675b219e93c18b28bebf4e1c4e10ba8a273b1f5cb5a2cf8e1b984b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5681d8f124b3-c01",
+      "assertion": "Mari Swaruu says starships navigate interstellar distances with mathematical frequency maps.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5681d8f124b3-c02",
+      "assertion": "She describes jumps as matching a ship’s frequency to its destination rather than traversing distance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5681d8f124b3-c03",
+      "assertion": "Mari says arrival protocols require advance notice and heavy ships exit jumps far from planets.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5681d8f124b3-c04",
+      "assertion": "She says jump events leave detectable gamma-ray wakes that can reveal departure and destination.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5681d8f124b3-c05",
+      "assertion": "Mari describes space skipping as a combat method for obscuring a ship’s trail.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5681d8f124b3-c06",
+      "assertion": "She says counter-rotating engines generate a toroidal shield; gravity devices help propel or maneuver ships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0031",
+        "p0032",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_extraterrestrial_technology_claims"
+  ],
+  "coverage_gaps": [
+    "full_drive_configuration"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "source_id": "src-304dba3fd59c",
+  "snapshot_sha256": "416fdb7c9c41c9f323d899e400f03acb531d30c6b821f8c03230f4c6a1d24591",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-304dba3fd59c-c01",
+      "assertion": "Athena says physical laws vary with agreements of perception and existential level.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-304dba3fd59c-c02",
+      "assertion": "She describes karma or cause-and-effect as a consequence, not a universal regulatory agency.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-304dba3fd59c-c03",
+      "assertion": "Athena frames depression as disrupted life purpose and recommends addressing personal needs and environment.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-304dba3fd59c-c04",
+      "assertion": "She says starseed life plans are flexible ranges of possibilities rather than fixed missions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-304dba3fd59c-c05",
+      "assertion": "Athena says Federation nonintervention rules are imprecise and inconsistently applied to Earth.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0044",
+        "p0045",
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-304dba3fd59c-c06",
+      "assertion": "She describes “Christic grid” as shared spiritual awakening, with no required number of starseeds.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0056",
+        "p0057",
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical_claims",
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "remaining_q_and_a"
+  ]
+}

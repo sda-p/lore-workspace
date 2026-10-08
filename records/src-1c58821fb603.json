@@ -1,0 +1,108 @@
+{
+  "source_id": "src-1c58821fb603",
+  "snapshot_sha256": "d032fcd6285a0be3d0c35849c550abb754169adf91d0e68eee2d2800c3109f2f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1c58821fb603-c01",
+      "assertion": "Mari identifies Sophia Meritaten Tasherit as the 12th linear Swaruu incarnation; she chose the name Yazhi.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c58821fb603-c02",
+      "assertion": "Mari says Sophia was born aboard a starship in hyperspace, outside planetary social agreements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c58821fb603-c03",
+      "assertion": "She says Sophia recalls at least twelve past incarnations and can access their experiences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c58821fb603-c04",
+      "assertion": "Mari attributes Sophia’s claimed control of bodily functions and passage through walls to this memory.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c58821fb603-c05",
+      "assertion": "Mari emphasizes that Sophia remains a child who plays, makes mistakes, and needs rest.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0025",
+        "p0032",
+        "p0034"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sophia-swaruu",
+      "name": "Sophia Swaruu",
+      "kind": "character",
+      "aliases": [
+        "Yazhi",
+        "Sophia Meritaten Tasherit Swaruu"
+      ]
+    }
+  ],
+  "review_flags": [
+    "extraordinary_personal_ability_claims"
+  ],
+  "coverage_gaps": [
+    "developmental_details"
+  ]
+}

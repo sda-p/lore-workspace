@@ -1,0 +1,98 @@
+{
+  "source_id": "src-5da11e309cca",
+  "snapshot_sha256": "413eefac97cd68d9735e657166670544c4ae03fb10256f2ac3af3b00b2f393ea",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5da11e309cca-c01",
+      "assertion": "Athena says the Ukraine war creates suffering and economic disruption beyond the country.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5da11e309cca-c02",
+      "assertion": "She claims Putin serves the Deep State and that the war is controlled on both sides.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified political claim."
+    },
+    {
+      "id": "src-5da11e309cca-c03",
+      "assertion": "Athena alleges nonhuman Reptilian groups influence hidden power structures and use portals.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified extraterrestrial claim."
+    },
+    {
+      "id": "src-5da11e309cca-c04",
+      "assertion": "Yazhi describes Vlash as Reptilian forces in Ukraine, partly aligned with NATO factions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified geopolitical claim."
+    },
+    {
+      "id": "src-5da11e309cca-c05",
+      "assertion": "Yazhi frames the conflict as overlapping political and nonhuman territorial struggles.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified geopolitical claim."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_geopolitical_claims",
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "specific_groups"
+  ]
+}

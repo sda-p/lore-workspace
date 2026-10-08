@@ -1,0 +1,77 @@
+{
+  "source_id": "src-3907b4a8151c",
+  "snapshot_sha256": "e3a878411a13b16af423b8efdcce9fcdbc41d3e74c0616aeb74723aacf3c68bb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3907b4a8151c-c01",
+      "assertion": "The Federation is described as a multi-planet organization founded by Andromedans, Arcturians, and Lyrians.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3907b4a8151c-c02",
+      "assertion": "Its councils scale from local communities to regions and planets, escalating unresolved problems upward.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3907b4a8151c-c03",
+      "assertion": "Alenym withdrew Taygeta from joint Federation military operations, including around Earth.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0040",
+        "p0045",
+        "p0046"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3907b4a8151c-c04",
+      "assertion": "Taygeta accused the Federation of neglecting humans; the Federation accused Taygetans of violating the Prime Directive.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0050",
+        "p0054",
+        "p0059"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "federation-structure"
+  ]
+}

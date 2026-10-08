@@ -1,0 +1,133 @@
+{
+  "source_id": "src-73847cacada2",
+  "snapshot_sha256": "89bad26184c6b59ac780b5e6283945d81e09511493c0735392731d5ad170f992",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-73847cacada2-c01",
+      "assertion": "Mari identifies herself as a nonhuman Swaruunian, a Taygetan genetic variant based on Erra.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73847cacada2-c02",
+      "assertion": "She says her expedition group monitors Earth and she lived there five years as a human-looking Step Down.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73847cacada2-c03",
+      "assertion": "Mari claims hundreds of thousands of humanlike civilizations inhabit other planets.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She estimates at least 400,000."
+    },
+    {
+      "id": "src-73847cacada2-c04",
+      "assertion": "She says the Prime Directive limits sharing technology above Earth’s level and prevents public evidence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73847cacada2-c05",
+      "assertion": "Mari says her channel draws on terrestrial research, Taygetan sources, and Federation information.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73847cacada2-c06",
+      "assertion": "She says she publishes mostly daily in English and Spanish without human channel staff.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73847cacada2-c07",
+      "assertion": "Mari invites viewers to treat her claims as science fiction and says she does not seek to impose them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_exopolitical_claims",
+    "self_description"
+  ],
+  "coverage_gaps": [
+    "publication_routine"
+  ]
+}

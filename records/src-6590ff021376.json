@@ -1,0 +1,98 @@
+{
+  "source_id": "src-6590ff021376",
+  "snapshot_sha256": "55d11578cbaa25f28b295a60aa4697c9563cbd08610d76588f4280fe7fb4cffd",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6590ff021376-c01",
+      "assertion": "She describes Karistus as mostly six-dimensional beings associated with angel imagery.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6590ff021376-c02",
+      "assertion": "Karistus mythology casts Lyrian peoples as their hybrids and Earth as their ancestral territory.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6590ff021376-c03",
+      "assertion": "Yazhi says Karistus reject Federation Earth policy and support Taygetans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6590ff021376-c04",
+      "assertion": "Anéeka says Karistus are outside the Federation and claim ancient ties to Earth predating Lyrians.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6590ff021376-c05",
+      "assertion": "She says Karistus and Federation cooperation ruptured over Earth policy, though Karistus still fight regressive agents.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0042"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "factional-perspective-difference"
+  ],
+  "coverage_gaps": [
+    "additional-source-topics"
+  ]
+}

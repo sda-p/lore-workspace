@@ -1,0 +1,98 @@
+{
+  "source_id": "src-73fc8cfce106",
+  "snapshot_sha256": "7aef9efba6d210a0c67a41b01e373819a98bb7e3bf0dcfc58b8e033d60c984d0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-73fc8cfce106-c01",
+      "assertion": "She describes a reverse-energy counterpart where stars absorb what stars here emit.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73fc8cfce106-c02",
+      "assertion": "She says her predecessor entered it by reversing a ship’s frequency map and died during the return.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0032"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73fc8cfce106-c03",
+      "assertion": "She says future events can influence present events through shared timelines.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73fc8cfce106-c04",
+      "assertion": "She describes timelines as converging from multiple directions into a person’s present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0067",
+        "p0068",
+        "p0069"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-73fc8cfce106-c05",
+      "assertion": "She says focused thoughts may shift a person’s alignment with future events.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0045",
+        "p0046",
+        "p0073"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "additional-topics"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "source_id": "src-1a5a72595f76",
+  "snapshot_sha256": "60d3426cf2dfcecaef6083e1871bcd60c81de0bf30c1e06a1256dba46f13a977",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1a5a72595f76-c01",
+      "assertion": "Athena says an old interstellar alliance sought to aid Earth mainly through incarnated starseeds.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1a5a72595f76-c02",
+      "assertion": "She says the Federation removed hostile extraterrestrial forces from the solar system, concentrating them on Earth.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1a5a72595f76-c03",
+      "assertion": "Athena says Mars contains human, Reptilian, SSP, Mantis, and Maitre sectors under treaty protections.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1a5a72595f76-c04",
+      "assertion": "She says Federation space law prevents expelling treaty-backed groups from Mars.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1a5a72595f76-c05",
+      "assertion": "Athena says claims of liberation are old or distorted and should be judged by visible effects on Earth.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_exopolitical_claims"
+  ],
+  "coverage_gaps": [
+    "alliance_identity"
+  ]
+}

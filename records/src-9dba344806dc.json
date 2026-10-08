@@ -1,0 +1,106 @@
+{
+  "source_id": "src-9dba344806dc",
+  "snapshot_sha256": "7ecd23415b97895e2ba9362ec662e75eb28417d1a306fd41c0b900bfeaf074c0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9dba344806dc-c01",
+      "assertion": "Swaruu 9 says the Van Allen bands result from an imposed high-energy electromagnetic frequency using Earth’s magnetosphere.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9dba344806dc-c02",
+      "assertion": "Swaruu 9 says the bands concentrate toroidal energy at the poles and cannot be represented as NASA diagrams show.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9dba344806dc-c03",
+      "assertion": "Swaruu 9 says astral passage beyond the bands depends on an individual’s frequency.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9dba344806dc-c04",
+      "assertion": "Swaruu 9 says physical passage requires a portal or ship with toroidal electromagnetic immersion.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "natural-portals",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9dba344806dc-c05",
+      "assertion": "Swaruu 9 predicts magnetic reversal would disrupt power grids, migration and climate, but says it is not imminent.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

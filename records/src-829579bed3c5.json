@@ -1,0 +1,113 @@
+{
+  "source_id": "src-829579bed3c5",
+  "snapshot_sha256": "e68d8c269a33b297689ac4c8c5f5f0efcc63aeb7dbae2eee623c12c4c9a1c91a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-829579bed3c5-c01",
+      "assertion": "Dhor Káal’él says Antarctic nonhuman bases cooperate with Cabal-linked military groups; he names several resident species.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-829579bed3c5-c02",
+      "assertion": "Athena says HAARP-type emissions may come from mobile military platforms rather than fixed antenna sites.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-829579bed3c5-c03",
+      "assertion": "Athena describes aircraft using opposing-frequency beams or pulsed EMP to disable electrical equipment.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-829579bed3c5-c04",
+      "assertion": "Yazhi says Taygetan writing is phonetic and variable; Navajo served as a human-readable stabilizer.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0060",
+        "p0063"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-829579bed3c5-c05",
+      "assertion": "Yazhi describes shipboard machines that customize, print and refill cosmetics from natural ingredients.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0066",
+        "p0067",
+        "p0071",
+        "p0073",
+        "p0075",
+        "p0077"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-language",
+      "name": "Taygetan language",
+      "kind": "language",
+      "aliases": [
+        "Taygetan speech"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

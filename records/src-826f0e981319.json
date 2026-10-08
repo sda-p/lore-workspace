@@ -1,0 +1,148 @@
+{
+  "source_id": "src-826f0e981319",
+  "snapshot_sha256": "9c9a22d8ae8088f632478983333505a475626c2e006bc8e45b959b57f0701e8d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-826f0e981319-c01",
+      "assertion": "Swaruu says Federation maps label a 13-planet system Sun-13; Earth omits four planets and Pluto.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-826f0e981319-c02",
+      "assertion": "She describes Venus as a warm oceanic world with abundant life and human-like inhabitants.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0026"
+      ],
+      "primary_topic": "venus",
+      "topics": [
+        "venus",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-826f0e981319-c03",
+      "assertion": "Swaruu says Venus is an Earth-linked 5D world under Federation isolation and Cabal control.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0028"
+      ],
+      "primary_topic": "venus",
+      "topics": [
+        "venus",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-826f0e981319-c04",
+      "assertion": "She alleges Pentagon Operation Venus Haven invaded Venus from 1959 through the 1970s.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0045",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "operation-venus-haven",
+      "topics": [
+        "operation-venus-haven",
+        "venus",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-826f0e981319-c05",
+      "assertion": "She says the invasion killed most of about 60 million Venusians.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0051",
+        "p0053",
+        "p0055"
+      ],
+      "primary_topic": "venus",
+      "topics": [
+        "venus",
+        "operation-venus-haven"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-826f0e981319-c06",
+      "assertion": "She says Mars is divided into three militarized sectors associated with Earth Cabal, Mantis, and Maitré forces.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0088"
+      ],
+      "primary_topic": "mars",
+      "topics": [
+        "mars",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "venus",
+      "name": "Venus",
+      "kind": "location",
+      "aliases": [
+        "Venus"
+      ]
+    },
+    {
+      "id": "operation-venus-haven",
+      "name": "Operation Venus Haven",
+      "kind": "historical event",
+      "aliases": [
+        "Venus Haven"
+      ]
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "kind": "location",
+      "aliases": [
+        "Mars"
+      ]
+    }
+  ],
+  "review_flags": [
+    "contested_extraterrestrial_history",
+    "unsupported_planetary_claims"
+  ],
+  "coverage_gaps": [
+    "other_solar_system_claims",
+    "Venus_present_day"
+  ]
+}

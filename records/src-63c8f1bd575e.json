@@ -1,0 +1,104 @@
+{
+  "source_id": "src-63c8f1bd575e",
+  "snapshot_sha256": "21eaa52050f989ef646d08183429425dd71e87d041764aa9d6e222cc707e1792",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-63c8f1bd575e-c01",
+      "assertion": "Yazhi says advanced off-world groups seek consciousness and experiential control more than raw materials.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0010",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63c8f1bd575e-c02",
+      "assertion": "Anéeka says resource-seeking actors are lower-tech groups tied to Earth power structures.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021",
+        "p0024",
+        "p0027",
+        "p0040"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63c8f1bd575e-c03",
+      "assertion": "She says “hybrid” includes starseeds, altered bodies, and natural cross-species descendants.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63c8f1bd575e-c04",
+      "assertion": "Anéeka says spacefaring ability and matter-from-energy technology mark advanced civilizations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63c8f1bd575e-c05",
+      "assertion": "Athena describes Earth as offering varied incarnational and observational experiences to nonhumans too.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0056",
+        "p0057",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_exopolitical_claims"
+  ],
+  "coverage_gaps": [
+    "specific_resource_conflicts"
+  ]
+}

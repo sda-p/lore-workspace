@@ -1,0 +1,100 @@
+{
+  "source_id": "src-9440df7f5243",
+  "snapshot_sha256": "db364de736615864662c523fd76069dbda545cb8eeb01e3537b663ddce008b7f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9440df7f5243-c01",
+      "assertion": "Yazhi says the Alcyone and Andromeda Councils group friendly races and have representation in Federation councils.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9440df7f5243-c02",
+      "assertion": "She says Earth’s collective ideas distort its picture of extraterrestrial alliances.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9440df7f5243-c03",
+      "assertion": "Athena alleges agencies infiltrate movements and steer them toward Cabal interests.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified political allegation."
+    },
+    {
+      "id": "src-9440df7f5243-c04",
+      "assertion": "Athena says Ummo contact began genuinely, then agencies allegedly redirected it.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9440df7f5243-c05",
+      "assertion": "Yazhi advises hearing multiple sources and forming one’s own provisional model.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0057",
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_agency_claims"
+  ],
+  "coverage_gaps": [
+    "specific_groups",
+    "historical_examples"
+  ]
+}

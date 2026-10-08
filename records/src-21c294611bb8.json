@@ -1,0 +1,117 @@
+{
+  "source_id": "src-21c294611bb8",
+  "snapshot_sha256": "b7646018b8d3b965400b77b9bc660d0c36dcf41565cdcfb0ecc7a1b2a5e96ae4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-21c294611bb8-c01",
+      "assertion": "Mari describes the lower astral as a hidden, co-located layer perceived according to consciousness and frequency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21c294611bb8-c02",
+      "assertion": "Mari says demons depend on people’s fear and attention to manifest and persist.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21c294611bb8-c03",
+      "assertion": "Mari distinguishes archons as powerful, organized lower-astral entities above demons.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0031"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21c294611bb8-c04",
+      "assertion": "Mari says lower-astral entities feed through living people and may use soulless organic portals.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21c294611bb8-c05",
+      "assertion": "Mari says high-frequency people resist manipulation, though entities may use indirect misfortune.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "archons-and-demons",
+      "name": "Archons and demons",
+      "kind": "astral-entity",
+      "aliases": [
+        "lower astral entities"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "source_id": "src-d7d90a56bb44",
+  "snapshot_sha256": "d197c7f9707e2591a656a6ebf3cbd4e2f867963a5f4af576f06fe7c3f1748a71",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d7d90a56bb44-c01",
+      "assertion": "Swaruu identifies Kingu as Earth’s dominant reptilian species and names controlling clans Vlash, Vlad and Vrill.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "vlash-vlad-vrill-clans",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d7d90a56bb44-c02",
+      "assertion": "Swaruu says Mars’s earlier Lyrian civilization was destroyed in Tiamat wars 12,500 years ago.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d7d90a56bb44-c03",
+      "assertion": "Swaruu says Mars is divided among three militarized species and its native population was exterminated.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0043",
+        "p0044",
+        "p0064"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d7d90a56bb44-c04",
+      "assertion": "Swaruu says Maitre were engineered from Draconian and Zeta Reticuli genes and reproduce by cloning or test tubes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d7d90a56bb44-c05",
+      "assertion": "Swaruu says Aethien Mantis have a queen-led hive mind and use portals but lack warp travel.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0056",
+        "p0058"
+      ],
+      "primary_topic": "aethien-mantis",
+      "topics": [
+        "aethien-mantis",
+        "alien-species",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "kingu",
+      "name": "Kingu",
+      "kind": "species",
+      "aliases": []
+    },
+    {
+      "id": "vlash-vlad-vrill-clans",
+      "name": "Vlash, Vlad and Vrill clans",
+      "kind": "faction",
+      "aliases": [
+        "Vlash",
+        "Vlad",
+        "Vrill"
+      ]
+    },
+    {
+      "id": "maitre",
+      "name": "Maitre",
+      "kind": "species",
+      "aliases": [
+        "Tall Greys"
+      ]
+    },
+    {
+      "id": "aethien-mantis",
+      "name": "Aethien Mantis",
+      "kind": "species",
+      "aliases": [
+        "Mantis"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

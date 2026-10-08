@@ -1,0 +1,78 @@
+{
+  "source_id": "src-78f6779f9011",
+  "snapshot_sha256": "64b383d746130c90ab6174dd33f0d5869a28f5b1701f5725f7d0e3ced13dcb7e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-78f6779f9011-c01",
+      "assertion": "Mari says Taygetans are human-morphology Lyrians and have maintained intermittent Earth contact for millennia.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0005"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78f6779f9011-c02",
+      "assertion": "Mari describes Swaruunians as a genetically distinct Taygetan variant with 24 chromosomes and all-female members.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78f6779f9011-c03",
+      "assertion": "Mari says a Taygetan expedition began an internet-based First Contact program in 2016.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-78f6779f9011-c04",
+      "assertion": "Mari says this channel publishes direct conversations after prior publishers allegedly distorted material.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

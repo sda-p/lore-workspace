@@ -72,6 +72,183 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Black Holes - Questions from the Public - Anéeka (Extraterrestrial Contact - Taygeta, Pleiades)](https://swaruu.org/transcripts/black-holes-questions-from-the-public-aneeka-extraterrestrial-contact-taygeta-pleiades) (2020-10-20; en); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-40d144c1675f.json).
 
+### src-424a779240f3-c01
+
+Athena says natural portals link routes through gravity flows.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ETs navigating Natural Portals - Sun and Wormholes - Athena Swaruu - Extraterrestrial Information](https://swaruu.org/transcripts/ets-navigating-natural-portals-sun-and-wormholes-athena-swaruu-extraterrestrial-information) (2022-02-22; en); passages p0010, p0011, p0026. [Structured record](../../records/src-424a779240f3.json).
+
+Related topics: [Black holes](black-holes.md).
+
+### src-424a779240f3-c02
+
+She says ships modulate frequency to steer in portal networks; dominant flows otherwise carry them.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ETs navigating Natural Portals - Sun and Wormholes - Athena Swaruu - Extraterrestrial Information](https://swaruu.org/transcripts/ets-navigating-natural-portals-sun-and-wormholes-athena-swaruu-extraterrestrial-information) (2022-02-22; en); passages p0012, p0013, p0014. [Structured record](../../records/src-424a779240f3.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-424a779240f3-c03
+
+Athena says advanced Federation civilizations can create precise artificial wormholes instead.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ETs navigating Natural Portals - Sun and Wormholes - Athena Swaruu - Extraterrestrial Information](https://swaruu.org/transcripts/ets-navigating-natural-portals-sun-and-wormholes-athena-swaruu-extraterrestrial-information) (2022-02-22; en); passages p0016. [Structured record](../../records/src-424a779240f3.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-424a779240f3-c04
+
+She says massive biosphere ships use portal currents to reduce their own energy use.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ETs navigating Natural Portals - Sun and Wormholes - Athena Swaruu - Extraterrestrial Information](https://swaruu.org/transcripts/ets-navigating-natural-portals-sun-and-wormholes-athena-swaruu-extraterrestrial-information) (2022-02-22; en); passages p0018, p0019. [Structured record](../../records/src-424a779240f3.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-424a779240f3-c06
+
+She says portal direction depends on frequency and flow, with some suns and black holes serving as entry or exit points.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ETs navigating Natural Portals - Sun and Wormholes - Athena Swaruu - Extraterrestrial Information](https://swaruu.org/transcripts/ets-navigating-natural-portals-sun-and-wormholes-athena-swaruu-extraterrestrial-information) (2022-02-22; en); passages p0042, p0043, p0044. [Structured record](../../records/src-424a779240f3.json).
+
+Related topics: [Black holes](black-holes.md).
+
+### src-9ae514ab9585-c01
+
+She says star portals are entered through sunspots and exits depend on frequency matching.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Taygeta (Pleiades) - Mix of Scientific Questions and Answers - Extraterrestrial Contact](https://swaruu.org/transcripts/taygeta-pleiades-mix-of-scientific-questions-and-answers-extraterrestrial-contact) (2021-10-20; en); passages p0007, p0008, p0009. [Structured record](../../records/src-9ae514ab9585.json).
+
+Related topics: [Sunspot portals](sunspot-portals.md).
+
+### src-20cb9d5c4075-c03
+
+Yazhi says portal machines stay put while their vortex moves what enters.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [NON LOCALITY - There is no Space - Everything is HERE - Yazhi Swaruu (Extraterrestrial Contact)](https://swaruu.org/transcripts/non-locality-there-is-no-space-everything-is-here-yazhi-swaruu-extraterrestrial-contact) (2021-10-17; en); passages p0026, p0027. [Structured record](../../records/src-20cb9d5c4075.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-8889af167782-c01
+
+Yazhi says Tiahuanaco’s Sun Gate marks a portal opening at solstices. According to her information.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [HIDDEN SYMBOLOGY - TIAHUANACO - SUMER - EGYPT \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/hidden-symbology-tiahuanaco-sumer-egypt-text-only-translated-originally-from-spanish) (2021-09-19; en); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-8889af167782.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
+### src-8889af167782-c02
+
+Yazhi links Owl Nebula symbols in Tiahuanaco and Sumer to a double portal and ships. She doubts the chip interpretation.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [HIDDEN SYMBOLOGY - TIAHUANACO - SUMER - EGYPT \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/hidden-symbology-tiahuanaco-sumer-egypt-text-only-translated-originally-from-spanish) (2021-09-19; en); passages p0006, p0007, p0008, p0009. [Structured record](../../records/src-8889af167782.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-8889af167782-c03
+
+Yazhi interprets the Sumerian Tree of Life as a portal in its namesake constellation.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [HIDDEN SYMBOLOGY - TIAHUANACO - SUMER - EGYPT \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/hidden-symbology-tiahuanaco-sumer-egypt-text-only-translated-originally-from-spanish) (2021-09-19; en); passages p0010, p0011, p0012, p0013, p0014. [Structured record](../../records/src-8889af167782.json).
+
+Related topics: [Astrotheology](astrotheology.md).
+
+### src-8889af167782-c06
+
+Yazhi says Ishtar’s bull imagery depicts passage from Taurus through a portal to Earth.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [HIDDEN SYMBOLOGY - TIAHUANACO - SUMER - EGYPT \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/hidden-symbology-tiahuanaco-sumer-egypt-text-only-translated-originally-from-spanish) (2021-09-19; en); passages p0023, p0024. [Structured record](../../records/src-8889af167782.json).
+
+Related topics: [Astrotheology](astrotheology.md).
+
+### src-0d8c0f4f7056-c05
+
+Swaruu says Saturn has natural and artificial portals; their destinations may be unknown until explored.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: high.
+
+Source: [Saturn - Solar System - Information from Swaruu of Erra (Extraterrestrial Information - Taygeta)](https://swaruu.org/transcripts/saturn-solar-system-information-from-swaruu-of-erra-extraterrestrial-information-taygeta) (2022-08-01; en); passages p0095, p0104, p0107, p0108. [Structured record](../../records/src-0d8c0f4f7056.json).
+
+Related topics: [Monoliths](monoliths.md).
+
+### src-5c53f31c4600-c05
+
+Swaruu X says solar portals open cyclically and are used by passing ships, including an Arcturian biosphere ship.
+
+Attributed to **Swaruu X**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Data and Fun Facts - Mini Topics with Gosia](https://swaruu.org/transcripts/extraterrestrial-information-data-and-fun-facts-mini-topics-with-gosia) (2021-08-10; en); passages p0080, p0081, p0082, p0084. [Structured record](../../records/src-5c53f31c4600.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-1e8728b1466f-c01
+
+Dhor Káal’el says Nazca figures encode star positions, portal locations, and ship approach vectors.
+
+Attributed to **Dhor Káal’el**; reported; extraction confidence: high.
+
+Source: [Nazca Lines - What Are They? Extraterrestrial Pilot Explains - Dhor K´aal´el (Taygeta)](https://swaruu.org/transcripts/nazca-lines-what-are-they-extraterrestrial-pilot-explains-dhor-k-aal-el-taygeta) (2022-08-31; en); passages p0005, p0011, p0012. [Structured record](../../records/src-1e8728b1466f.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-21a9a4dacb59-c04
+
+Swaruu 9 says Britain and Montserrat are known ship-navigation points associated with portals.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Crop Circles - Main Purpose - Short Chat with Swaruu of Erra](https://swaruu.org/transcripts/crop-circles-main-purpose-short-chat-with-swaruu-of-erra) (2023-01-03; en); passages p0010, p0011. [Structured record](../../records/src-21a9a4dacb59.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+## Claims filed under other topics
+
+- [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
+- [src-424a779240f3-c05](black-holes.md#src-424a779240f3-c05) — Black holes
+- [src-24f9c49da9cd-c03](consciousness-metaphysics.md#src-24f9c49da9cd-c03) — Consciousness and metaphysics
+- [src-5da11e309cca-c03](alien-species.md#src-5da11e309cca-c03) — Alien species and distinctions
+- [src-bcef9325e4a2-c03](black-holes.md#src-bcef9325e4a2-c03) — Black holes
+- [src-3151bfa9585e-c03](moon-matrix.md#src-3151bfa9585e-c03) — Moon and terrestrial Matrix
+- [src-5898037c825f-c01](stellar-navigation.md#src-5898037c825f-c01) — Stellar navigation
+- [src-e5d97bfc06c7-c04](consciousness-metaphysics.md#src-e5d97bfc06c7-c04) — Consciousness and metaphysics
+- [src-9dba344806dc-c04](moon-matrix.md#src-9dba344806dc-c04) — Moon and terrestrial Matrix
+
 ## Review flags
 
+- contested\_archaeology
+- ethical\_use\_limits
+- extraordinary\_archaeological\_claims
+- extraordinary\_astronomical\_claims
+- extraordinary\_claims
+- extraordinary\_cosmology\_claims
 - extraordinary\_history\_claims
+- medical-misinformation-allegation
+- metaphysical-claims
+- symbolic\_interpretations
+- translated\_source
+- unverified\_ancient\_technology\_claims
+- unverified\_cosmology\_and\_technology
+- unverified\_extraterrestrial\_claims
+- unverified\_geopolitical\_claims
+- unverified\_technical\_claims

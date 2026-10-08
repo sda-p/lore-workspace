@@ -1,0 +1,132 @@
+{
+  "source_id": "src-31e1b41b8c15",
+  "snapshot_sha256": "1cb75a6a7e5b396eb1d3a3bb49bbe4d62f230988c2a4ab6178b872ea36a23bd6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-31e1b41b8c15-c01",
+      "assertion": "Yazhi says dormant DNA holds inaccessible memories, including past lives; consciousness may reveal some.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31e1b41b8c15-c02",
+      "assertion": "She says DNA complexity reflects katra, not race, and does not limit people.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31e1b41b8c15-c03",
+      "assertion": "She describes DNA as katra’s physical manifestation and reflection, not cause, of abilities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31e1b41b8c15-c04",
+      "assertion": "She says 528/432 Hz audio does not repair DNA directly, though it may improve mood; med pods can.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31e1b41b8c15-c05",
+      "assertion": "She says Gardeners can restore damaged DNA to reconnect it with katra.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31e1b41b8c15-c06",
+      "assertion": "She says crystalline DNA lets light reach and activate internal components.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0048",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "dna-metaphysics",
+      "name": "DNA and metaphysical patterns",
+      "kind": "cosmology",
+      "aliases": [
+        "DNA"
+      ]
+    }
+  ],
+  "review_flags": [
+    "medical_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "genetic_inheritance",
+    "dna_crystalline_model"
+  ]
+}

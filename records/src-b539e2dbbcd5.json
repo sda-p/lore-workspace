@@ -1,0 +1,118 @@
+{
+  "source_id": "src-b539e2dbbcd5",
+  "snapshot_sha256": "542fdfd62db8911fb79cac0b77bf853953ba90a29205f75120e2e562d0c41bc1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b539e2dbbcd5-c01",
+      "assertion": "Yazhi defines a soul as a boundary of ideas and experiences, with forgetting sustaining individual identity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b539e2dbbcd5-c02",
+      "assertion": "Yazhi says memories of earlier lives shape current identity and frequency, rather than zodiac signs determining personality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b539e2dbbcd5-c03",
+      "assertion": "Yazhi says identical twins begin as one katra and fragment as distinct experiences develop.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b539e2dbbcd5-c04",
+      "assertion": "Yazhi says afterlife katras share experiences and may merge through empathy outside linear time.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0036",
+        "p0037",
+        "p0042",
+        "p0043",
+        "p0044",
+        "p0045",
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b539e2dbbcd5-c05",
+      "assertion": "Yazhi says conflicting desired paths can create multiple soul fragments from a nexus identity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0041",
+        "p0042",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

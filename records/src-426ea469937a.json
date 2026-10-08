@@ -1,0 +1,145 @@
+{
+  "source_id": "src-426ea469937a",
+  "snapshot_sha256": "d04f88c21d35c9310a3af31b71f1065139efc2188f52137a21ea24dad5ddbeae",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-426ea469937a-c01",
+      "assertion": "Athena says ships navigate using mathematical frequency maps.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-426ea469937a-c02",
+      "assertion": "She describes hyperspace as a jump: emulated destination frequencies make the origin incompatible.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0024",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "frequency-map-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-426ea469937a-c03",
+      "assertion": "Navigation depends on map detail and engine emulation, she says.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-426ea469937a-c04",
+      "assertion": "Athena says gravity beams can alter maps to insert objects or change events.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0038",
+        "p0082",
+        "p0085"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Athena calls this Sand Clock manipulation."
+    },
+    {
+      "id": "src-426ea469937a-c05",
+      "assertion": "She says High Council rules limit insertion; Taygetans prefer craftsmanship.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0092",
+        "p0094",
+        "p0098",
+        "p0100",
+        "p0101"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-426ea469937a-c06",
+      "assertion": "Private tractor-beam access is limited; total automation may erode quality of life.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0106",
+        "p0107",
+        "p0109"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "frequency-map-navigation",
+      "name": "Frequency-map navigation",
+      "kind": "technology",
+      "aliases": [
+        "frequency maps"
+      ]
+    },
+    {
+      "id": "sand-clock",
+      "name": "Sand Clock",
+      "kind": "institution",
+      "aliases": [
+        "Sand Clock expeditions"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unverified_technical_claims",
+    "ethical_use_limits"
+  ],
+  "coverage_gaps": [
+    "mapping_accuracy",
+    "Sand_Clock_operations"
+  ]
+}

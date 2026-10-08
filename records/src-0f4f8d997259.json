@@ -1,0 +1,87 @@
+{
+  "source_id": "src-0f4f8d997259",
+  "snapshot_sha256": "48e247a1493c4c0c21a83841aa90129cc7020db0a9d7aaee2044b43d119dbf7c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0f4f8d997259-c01",
+      "assertion": "Mari describes Toleka as a 1,734-meter former battle cruiser converted into a multipurpose yacht.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f4f8d997259-c02",
+      "assertion": "Mari says Toleka was designed for 1,800 crew but carries about 30, with a museum and central garden.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f4f8d997259-c03",
+      "assertion": "Mari says Yazhi remembers many past lives and the memories burden her emotionally.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f4f8d997259-c04",
+      "assertion": "Yazhi says she plays in order to forget.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

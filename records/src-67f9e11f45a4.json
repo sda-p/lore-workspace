@@ -1,0 +1,138 @@
+{
+  "source_id": "src-67f9e11f45a4",
+  "snapshot_sha256": "d9822a373189cc5d22cddf990c03df0f19ef7f20a1449bf34a5321dbac33fb01",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-67f9e11f45a4-c01",
+      "assertion": "Anéeka says Taygetans are blood type O and Swaruus A+.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67f9e11f45a4-c02",
+      "assertion": "She says Taygetan blood growth systems can produce replacement blood from prepared stem cells.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67f9e11f45a4-c03",
+      "assertion": "Anéeka says transfusions create metaphysical links but lifesaving need takes priority.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67f9e11f45a4-c04",
+      "assertion": "She identifies Cyndriel as Taygeta’s only colony outside the Pleiades and a transit base and tourist site.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0048"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67f9e11f45a4-c05",
+      "assertion": "Anéeka describes Cyndriel as a desert world with strange terrain and floating magnetic plants.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0052",
+        "p0058",
+        "p0059",
+        "p0060"
+      ],
+      "primary_topic": "cyndriel",
+      "topics": [
+        "cyndriel",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-67f9e11f45a4-c06",
+      "assertion": "She says ancient Amelie transcended rather than collapsed, leaving cave ruins.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0063",
+        "p0064",
+        "p0066",
+        "p0069"
+      ],
+      "primary_topic": "amelie",
+      "topics": [
+        "amelie",
+        "cyndriel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "cyndriel",
+      "name": "Cyndriel",
+      "kind": "location",
+      "aliases": [
+        "Cyndriel"
+      ]
+    },
+    {
+      "id": "amelie",
+      "name": "Amelie",
+      "kind": "species",
+      "aliases": [
+        "Amelie"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unverified_biological_and_metaphysical_claims",
+    "weather_claims"
+  ],
+  "coverage_gaps": [
+    "photon_belt",
+    "climate_control_ranges"
+  ]
+}

@@ -188,5 +188,388 @@
     "aliases": [
       "solid portals"
     ]
+  },
+  {
+    "id": "astrotheology",
+    "name": "Astrotheology",
+    "kind": "cosmology",
+    "aliases": [
+      "astral theology"
+    ]
+  },
+  {
+    "id": "false-alien-invasion",
+    "name": "False alien invasion scenarios",
+    "kind": "history",
+    "aliases": [
+      "false alien intervention"
+    ]
+  },
+  {
+    "id": "intraterrestrial-vulcans",
+    "name": "Intraterrestrial Vulcans",
+    "kind": "species",
+    "aliases": [
+      "Vulcans"
+    ]
+  },
+  {
+    "id": "taygetan-ecosystems",
+    "name": "Taygetan ecosystems",
+    "kind": "geography",
+    "aliases": [
+      "Temmer and Erra ecosystems"
+    ]
+  },
+  {
+    "id": "venus",
+    "name": "Venus",
+    "kind": "location",
+    "aliases": [
+      "Venus"
+    ]
+  },
+  {
+    "id": "operation-venus-haven",
+    "name": "Operation Venus Haven",
+    "kind": "historical event",
+    "aliases": [
+      "Venus Haven"
+    ]
+  },
+  {
+    "id": "mars",
+    "name": "Mars",
+    "kind": "location",
+    "aliases": [
+      "Mars"
+    ]
+  },
+  {
+    "id": "consciousness-singularity",
+    "name": "Consciousness singularity",
+    "kind": "cosmology",
+    "aliases": [
+      "observer singularity"
+    ]
+  },
+  {
+    "id": "perceptual-density",
+    "name": "Perceptual density",
+    "kind": "cosmology",
+    "aliases": [
+      "private density"
+    ]
+  },
+  {
+    "id": "elementals",
+    "name": "Elementals",
+    "kind": "species",
+    "aliases": [
+      "elemental beings"
+    ]
+  },
+  {
+    "id": "pineal-interface",
+    "name": "Pineal interface",
+    "kind": "biology",
+    "aliases": [
+      "pineal gland interface"
+    ]
+  },
+  {
+    "id": "vaccine-inoculation-claims",
+    "name": "Inoculation and genetic alteration claims",
+    "kind": "technology",
+    "aliases": [
+      "vaccine claims"
+    ]
+  },
+  {
+    "id": "sunspot-portals",
+    "name": "Sunspot portals",
+    "kind": "technology",
+    "aliases": [
+      "stellar portals"
+    ]
+  },
+  {
+    "id": "kingu",
+    "name": "Kingu",
+    "kind": "species",
+    "aliases": []
+  },
+  {
+    "id": "vlash-vlad-vrill-clans",
+    "name": "Vlash, Vlad and Vrill clans",
+    "kind": "faction",
+    "aliases": [
+      "Vlash",
+      "Vlad",
+      "Vrill"
+    ]
+  },
+  {
+    "id": "maitre",
+    "name": "Maitre",
+    "kind": "species",
+    "aliases": [
+      "Tall Greys"
+    ]
+  },
+  {
+    "id": "aethien-mantis",
+    "name": "Aethien Mantis",
+    "kind": "species",
+    "aliases": [
+      "Mantis"
+    ]
+  },
+  {
+    "id": "soulmates",
+    "name": "Soulmates",
+    "kind": "cosmology",
+    "aliases": [
+      "soul mates",
+      "twin flames"
+    ]
+  },
+  {
+    "id": "postmortem-realities",
+    "name": "Postmortem realities",
+    "kind": "cosmology",
+    "aliases": [
+      "afterlife realms"
+    ]
+  },
+  {
+    "id": "subterranean-ocean-networks",
+    "name": "Subterranean ocean networks",
+    "kind": "location",
+    "aliases": [
+      "underground seas"
+    ]
+  },
+  {
+    "id": "cyndriel",
+    "name": "Cyndriel",
+    "kind": "location",
+    "aliases": [
+      "Cyndriel"
+    ]
+  },
+  {
+    "id": "amelie",
+    "name": "Amelie",
+    "kind": "species",
+    "aliases": [
+      "Amelie"
+    ]
+  },
+  {
+    "id": "harmonic-shields",
+    "name": "Harmonic shields",
+    "kind": "technology",
+    "aliases": [
+      "layered frequency shields"
+    ]
+  },
+  {
+    "id": "nonhuman-surveillance-drones",
+    "name": "Nonhuman surveillance drones",
+    "kind": "technology",
+    "aliases": [
+      "orb drones"
+    ]
+  },
+  {
+    "id": "egregors",
+    "name": "Egregors",
+    "kind": "cosmology",
+    "aliases": [
+      "egregor entities"
+    ]
+  },
+  {
+    "id": "human-clones",
+    "name": "Human clones and manufactured persons",
+    "kind": "technology",
+    "aliases": [
+      "clones"
+    ]
+  },
+  {
+    "id": "andromeda-council",
+    "name": "Andromeda Council",
+    "kind": "institution",
+    "aliases": []
+  },
+  {
+    "id": "sentient-starship-ai",
+    "name": "Sentient starship AI",
+    "kind": "technology",
+    "aliases": [
+      "ship AI"
+    ]
+  },
+  {
+    "id": "borg",
+    "name": "Borg",
+    "kind": "faction",
+    "aliases": [
+      "Borg group"
+    ]
+  },
+  {
+    "id": "muonic-galactic-ai-network",
+    "name": "Muonic galactic AI network",
+    "kind": "technology",
+    "aliases": [
+      "muon-coded AI network"
+    ]
+  },
+  {
+    "id": "starlette",
+    "name": "Starlette",
+    "kind": "person",
+    "aliases": [
+      "Starlette"
+    ]
+  },
+  {
+    "id": "taygetan-language",
+    "name": "Taygetan language",
+    "kind": "language",
+    "aliases": [
+      "Taygetan speech"
+    ]
+  },
+  {
+    "id": "frequency-map-navigation",
+    "name": "Frequency-map navigation",
+    "kind": "technology",
+    "aliases": [
+      "frequency maps"
+    ]
+  },
+  {
+    "id": "sand-clock",
+    "name": "Sand Clock",
+    "kind": "institution",
+    "aliases": [
+      "Sand Clock expeditions"
+    ]
+  },
+  {
+    "id": "tractor-beams",
+    "name": "Tractor beams",
+    "kind": "technology",
+    "aliases": [
+      "magnetic engine"
+    ]
+  },
+  {
+    "id": "ship-internal-time",
+    "name": "Ship internal time",
+    "kind": "technology",
+    "aliases": [
+      "SIT"
+    ]
+  },
+  {
+    "id": "nazca-spaceport",
+    "name": "Nazca spaceport",
+    "kind": "location",
+    "aliases": [
+      "Nazca lines"
+    ]
+  },
+  {
+    "id": "tartaria",
+    "name": "Tartaria",
+    "kind": "history",
+    "aliases": [
+      "Tartarian civilization"
+    ]
+  },
+  {
+    "id": "intraterrestrial-civilizations",
+    "name": "Intraterrestrial civilizations",
+    "kind": "civilization",
+    "aliases": [
+      "subterranean civilizations"
+    ]
+  },
+  {
+    "id": "cultivated-meat",
+    "name": "Cultivated meat",
+    "kind": "technology",
+    "aliases": [
+      "artificial meat"
+    ]
+  },
+  {
+    "id": "intra-terrestrial-agartha",
+    "name": "Agartha resistance network",
+    "kind": "faction",
+    "aliases": [
+      "Agartha"
+    ]
+  },
+  {
+    "id": "gravity-harmonics",
+    "name": "Gravity harmonics",
+    "kind": "cosmology",
+    "aliases": [
+      "harmonics of frequency"
+    ]
+  },
+  {
+    "id": "moldavite",
+    "name": "Moldavite",
+    "kind": "resource",
+    "aliases": [
+      "tektite"
+    ]
+  },
+  {
+    "id": "spherical-drones",
+    "name": "Spherical drones",
+    "kind": "technology",
+    "aliases": [
+      "Taygetan spherical drones"
+    ]
+  },
+  {
+    "id": "extraterrestrial-stepdowns",
+    "name": "Extraterrestrial step-downs",
+    "kind": "phenomenon",
+    "aliases": [
+      "step-down"
+    ]
+  },
+  {
+    "id": "temporal-skipping",
+    "name": "Temporal skipping",
+    "kind": "technology",
+    "aliases": [
+      "time jump"
+    ]
+  },
+  {
+    "id": "maternal-med-pods",
+    "name": "Maternal medical pods",
+    "kind": "technology",
+    "aliases": [
+      "maternal pods"
+    ]
+  },
+  {
+    "id": "immersion-pods",
+    "name": "Immersion pods",
+    "kind": "technology",
+    "aliases": [
+      "immersion"
+    ]
   }
 ]

@@ -1,0 +1,83 @@
+{
+  "source_id": "src-7aa352395e9f",
+  "snapshot_sha256": "4921aaed9a8f6c4fcae9e929c3fb6e2360e70560eb4f8398637c0fa1d374764f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7aa352395e9f-c01",
+      "assertion": "Mari says objects correspond to frequency harmonics, while gravity is attention flowing through consciousness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7aa352395e9f-c02",
+      "assertion": "Mari says sentient beings’ awareness and agreements shape their experienced worlds and shared environment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0012",
+        "p0013",
+        "p0018",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7aa352395e9f-c03",
+      "assertion": "Mari says dominant frequencies influence surrounding ones, while like-minded groups reinforce shared agreements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7aa352395e9f-c04",
+      "assertion": "Mari describes souls as standing waves maintained by ideas and attachments.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "portal_mechanics"
+  ]
+}

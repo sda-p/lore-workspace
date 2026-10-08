@@ -1,0 +1,101 @@
+{
+  "source_id": "src-f8571fb0c3c0",
+  "snapshot_sha256": "5e7b4d1465fd06797b067c11c94edd81cc9d713eed1c90fd30cbf85613140f1b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f8571fb0c3c0-c01",
+      "assertion": "Mari Swaruu says advanced sensors detect subtle energies and entities sharing physical space.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f8571fb0c3c0-c02",
+      "assertion": "She says beings interact across realms when their frequencies sufficiently match.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f8571fb0c3c0-c03",
+      "assertion": "Mari links emotional states to encounters with hostile or benevolent entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f8571fb0c3c0-c04",
+      "assertion": "She describes ghosts as limited manifestations shaped by a person’s ideas and attachments.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f8571fb0c3c0-c05",
+      "assertion": "Mari says locations may retain low vibrations and entities may parasitize people with matching habits.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified paranormal and medical claims."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims",
+    "dangerous_medical_misinformation"
+  ],
+  "coverage_gaps": [
+    "later_video_parts"
+  ]
+}

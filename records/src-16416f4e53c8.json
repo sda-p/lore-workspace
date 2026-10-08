@@ -1,0 +1,104 @@
+{
+  "source_id": "src-16416f4e53c8",
+  "snapshot_sha256": "f71c17dbed657b8c19c5ea47eb65c4ec8d8836f39ed0f85a0ff8fbfb3d9dc0d6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-16416f4e53c8-c01",
+      "assertion": "She defines zero-point energy as a spark from an energetic imbalance between poles.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0012",
+        "p0019"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-16416f4e53c8-c02",
+      "assertion": "She says Taygetan mathematics uses base twelve, with a distinct number system and no written zero.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-16416f4e53c8-c03",
+      "assertion": "She says advanced species use base twelve mathematics for reactors and navigation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0093",
+        "p0095"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-16416f4e53c8-c04",
+      "assertion": "She describes a superconducting toroidal merkaba as a reactor tuner that draws etheric energy.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0104",
+        "p0106",
+        "p0109",
+        "p0111"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-16416f4e53c8-c05",
+      "assertion": "She says a toroidal wave recycles energy into matter, with base-twelve dynamics governing the reactor.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0149",
+        "p0150",
+        "p0151",
+        "p0156",
+        "p0159",
+        "p0161"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "additional-source-claims"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_id": "src-6c1d61adc74b",
+  "snapshot_sha256": "ec4fd269578e7013e256e0bc71d667bd78928b29e9c1cefc7469f508d9928ef3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6c1d61adc74b-c01",
+      "assertion": "Anéeka says laboratory observations found programmable graphene-like nanotechnology in vaccine samples.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c1d61adc74b-c02",
+      "assertion": "She says the particles could transmit between vaccinated and unvaccinated people, with an estimated direct range of two metres.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0037"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c1d61adc74b-c03",
+      "assertion": "Anéeka alleges prolonged electromagnetic exposure can cause illness and activate the technology; she says electromagnetic pulses deactivate it only temporarily.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0041"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c1d61adc74b-c04",
+      "assertion": "She says the technology uses graphene with metals and can alter genes remotely.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6c1d61adc74b-c05",
+      "assertion": "Anéeka says she cannot explain every severe respiratory case and recommends case-by-case investigation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0027"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_medical_claims",
+    "unverified_claims"
+  ],
+  "coverage_gaps": [
+    "clinical_evidence"
+  ]
+}

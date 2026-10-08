@@ -1,0 +1,114 @@
+{
+  "source_id": "src-05f9464ebebc",
+  "snapshot_sha256": "bf685946dab98ba257ef699eb1efa3bd68e502316f6ac1b41b55c2e9aac410fb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-05f9464ebebc-c01",
+      "assertion": "Mari says churches and temples can act as portals and feeding grounds for lower-astral entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05f9464ebebc-c02",
+      "assertion": "She attributes low-frequency conditions to sites associated with suffering, death, or control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05f9464ebebc-c03",
+      "assertion": "Mari warns compatible low-frequency visitors may attract entities, with children especially vulnerable.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05f9464ebebc-c04",
+      "assertion": "She says alcohol lowers willpower and makes people more compatible with lower-astral entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05f9464ebebc-c05",
+      "assertion": "Mari recommends maintaining a strong aura and says crystals may help in low-frequency places.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05f9464ebebc-c06",
+      "assertion": "She says advanced civilizations can detect entities with interferometers and gravity or mass-displacement readings.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "location_types",
+    "protective_measures"
+  ]
+}

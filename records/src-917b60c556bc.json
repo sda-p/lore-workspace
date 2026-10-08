@@ -1,0 +1,100 @@
+{
+  "source_id": "src-917b60c556bc",
+  "snapshot_sha256": "7f340e10d814300b7bef1bbeda9329a372ca6f08bdc3fec62e814fcee5f79688",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-917b60c556bc-c01",
+      "assertion": "Yazhi alleges Ukraine’s conflict is a limited Cabal power struggle amplified by media for geopolitical and economic aims.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0010",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her account of events."
+    },
+    {
+      "id": "src-917b60c556bc-c02",
+      "assertion": "Yazhi claims Cabal factions control both Russia and the West and use opposing sides in a managed conflict.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-917b60c556bc-c03",
+      "assertion": "Yazhi says media manipulation and repeating historical narratives help controllers shape public perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-917b60c556bc-c04",
+      "assertion": "Yazhi says controllers seek a human reset as public awareness threatens their control.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-917b60c556bc-c05",
+      "assertion": "Yazhi urges audiences to think independently rather than follow her or others.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conflict_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "specific_historical_claims"
+  ]
+}

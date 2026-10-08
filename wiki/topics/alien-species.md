@@ -1024,6 +1024,666 @@ Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/antarctica-extraterrestrial-bases-no-video) (2021-01-04; en); passages p0002. [Structured record](../../records/src-c2b7cd1441d7.json).
 
+### src-c2b1ef8fe78d-c02
+
+She says Maitré are outside the Federation and seek control through infiltration and enslavement.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PCR Tests, Maitre - Tall Greys (Yazhi - Taygetan Pleiadian Communication)](https://swaruu.org/transcripts/pcr-tests-maitre-tall-greys-yazhi-taygetan-pleiadian-communication) (2021-02-23; en); passages p0026, p0027. [Structured record](../../records/src-c2b1ef8fe78d.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-c2b1ef8fe78d-c03
+
+Yazhi contrasts Maitré direct slavery with reptilian covert control, alleging both are involved.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PCR Tests, Maitre - Tall Greys (Yazhi - Taygetan Pleiadian Communication)](https://swaruu.org/transcripts/pcr-tests-maitre-tall-greys-yazhi-taygetan-pleiadian-communication) (2021-02-23; en); passages p0030, p0039. [Structured record](../../records/src-c2b1ef8fe78d.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-c2b1ef8fe78d-c04
+
+She says Maitré are tall greys derived through reptilian modification of plant-based greys.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PCR Tests, Maitre - Tall Greys (Yazhi - Taygetan Pleiadian Communication)](https://swaruu.org/transcripts/pcr-tests-maitre-tall-greys-yazhi-taygetan-pleiadian-communication) (2021-02-23; en); passages p0055, p0059. [Structured record](../../records/src-c2b1ef8fe78d.json).
+
+### src-5729c216ecd6-c01
+
+Anéeka says human and extraterrestrial identities lack clear boundaries; human-like beings enter by immersion or physically.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrials and Humans - We Import and Export Ideas - Aneeka of Temmer (Taygeta-Pleiades)](https://swaruu.org/transcripts/extraterrestrials-and-humans-we-import-and-export-ideas-aneeka-of-temmer-taygeta-pleiades) (2021-05-25; en); passages p0007, p0010. [Structured record](../../records/src-5729c216ecd6.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5729c216ecd6-c04
+
+She says nonhuman visitors have long exchanged customs, technology, art, and fashions with Earth cultures.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrials and Humans - We Import and Export Ideas - Aneeka of Temmer (Taygeta-Pleiades)](https://swaruu.org/transcripts/extraterrestrials-and-humans-we-import-and-export-ideas-aneeka-of-temmer-taygeta-pleiades) (2021-05-25; en); passages p0022, p0026, p0027. [Structured record](../../records/src-5729c216ecd6.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ae446f3f0257-c01
+
+Enki and Enlil are described as peoples or factions, not single gods.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Enki, Enlil, Elohim, Anunnaki - WHO ARE THEY? Taygetan Pleiadian Extraterrestrial Direct Contact](https://swaruu.org/transcripts/enki-enlil-elohim-anunnaki-who-are-they-taygetan-pleiadian-extraterrestrial-direct-contact) (2021-04-12; en); passages p0002, p0028. [Structured record](../../records/src-ae446f3f0257.json).
+
+### src-ae446f3f0257-c02
+
+She frames them as opposing Egyptian-derived groups containing multiple species.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Enki, Enlil, Elohim, Anunnaki - WHO ARE THEY? Taygetan Pleiadian Extraterrestrial Direct Contact](https://swaruu.org/transcripts/enki-enlil-elohim-anunnaki-who-are-they-taygetan-pleiadian-extraterrestrial-direct-contact) (2021-04-12; en); passages p0140, p0141. [Structured record](../../records/src-ae446f3f0257.json).
+
+### src-ae446f3f0257-c03
+
+She also identifies Enlil with the Elohim people from Asterope.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Enki, Enlil, Elohim, Anunnaki - WHO ARE THEY? Taygetan Pleiadian Extraterrestrial Direct Contact](https://swaruu.org/transcripts/enki-enlil-elohim-anunnaki-who-are-they-taygetan-pleiadian-extraterrestrial-direct-contact) (2021-04-12; en); passages p0022, p0035. [Structured record](../../records/src-ae446f3f0257.json).
+
+### src-ae446f3f0257-c04
+
+Her moral roles shift: Enki is both liberating and deceptive, while Enlil’s role also varies.
+
+Attributed to **Swaruu**; asserted; extraction confidence: high.
+
+Source: [Enki, Enlil, Elohim, Anunnaki - WHO ARE THEY? Taygetan Pleiadian Extraterrestrial Direct Contact](https://swaruu.org/transcripts/enki-enlil-elohim-anunnaki-who-are-they-taygetan-pleiadian-extraterrestrial-direct-contact) (2021-04-12; en); passages p0011, p0016, p0045, p0046. [Structured record](../../records/src-ae446f3f0257.json).
+
+### src-483a15bb82a2-c04
+
+Stored DNA can support laboratory-grown animals for planetary reseeding.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Ark of the Covenant - Yazhi Reveals its Meaning and Location (Extraterrestrial Contact - Pleiades)](https://swaruu.org/transcripts/ark-of-the-covenant-yazhi-reveals-its-meaning-and-location-extraterrestrial-contact-pleiades) (2021-06-03; en); passages p0149, p0151. [Structured record](../../records/src-483a15bb82a2.json).
+
+### src-ce9c92fd3b4e-c01
+
+Anéeka says Venus remains under regressive control, while Mars is divided among Cabal, Maitre, and Ojalu’s Mantis.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Invaded Planets - Earth, Mars and Venus - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/invaded-planets-earth-mars-and-venus-text-only-translated-originally-from-spanish) (2021-02-19; en); passages p0015, p0021. [Structured record](../../records/src-ce9c92fd3b4e.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-ce9c92fd3b4e-c03
+
+She describes 5D Venus as a low-population water world with a stable, gentle climate.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Invaded Planets - Earth, Mars and Venus - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/invaded-planets-earth-mars-and-venus-text-only-translated-originally-from-spanish) (2021-02-19; en); passages p0033. [Structured record](../../records/src-ce9c92fd3b4e.json).
+
+### src-01afc3489faf-c03
+
+Anéeka lists numerous attending civilizations, including Andromedans, Arcturians, Sirians, Taygetans, and Urmah.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Meeting in Viera - Description and Uniforms - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/meeting-in-viera-description-and-uniforms-text-only-translated-originally-from-spanish) (2021-03-02; en); passages p0022, p0023, p0025, p0028, p0029. [Structured record](../../records/src-01afc3489faf.json).
+
+### src-01afc3489faf-c04
+
+She distinguishes Proceonians from Procyon star from Proceon, a planet in Taygeta.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Meeting in Viera - Description and Uniforms - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/meeting-in-viera-description-and-uniforms-text-only-translated-originally-from-spanish) (2021-03-02; en); passages p0027. [Structured record](../../records/src-01afc3489faf.json).
+
+### src-c2c52a493e0d-c01
+
+Yazhi says cetaceans share mind-created worlds through powerful telepathy and need few external tools.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Consciousness of the Cetaceans - Dolphins and Whales \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/consciousness-of-the-cetaceans-dolphins-and-whales-no-video) (2021-04-08; en); passages p0004, p0005, p0007. [Structured record](../../records/src-c2c52a493e0d.json).
+
+### src-c2c52a493e0d-c02
+
+She characterizes dolphins as highly empathic and says they may help humans in danger.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Consciousness of the Cetaceans - Dolphins and Whales \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/consciousness-of-the-cetaceans-dolphins-and-whales-no-video) (2021-04-08; en); passages p0009, p0011, p0012. [Structured record](../../records/src-c2c52a493e0d.json).
+
+### src-c2c52a493e0d-c04
+
+She claims trained military dolphins stopped cooperating with handlers.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Consciousness of the Cetaceans - Dolphins and Whales \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/consciousness-of-the-cetaceans-dolphins-and-whales-no-video) (2021-04-08; en); passages p0016. [Structured record](../../records/src-c2c52a493e0d.json).
+
+### src-c2c52a493e0d-c05
+
+Yazhi says cetaceans exchange far more information telepathically than through sound.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Consciousness of the Cetaceans - Dolphins and Whales \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/consciousness-of-the-cetaceans-dolphins-and-whales-no-video) (2021-04-08; en); passages p0022, p0024. [Structured record](../../records/src-c2c52a493e0d.json).
+
+### src-3be9eb3ebf33-c02
+
+She lists cats, ferrets, otters, weasels, Moghyay, canines, and big cats among Taygetan pets.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Pets in Taygeta - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/pets-in-taygeta-text-only-translated-originally-from-spanish) (2021-04-26; en); passages p0017, p0019. [Structured record](../../records/src-3be9eb3ebf33.json).
+
+### src-3be9eb3ebf33-c03
+
+Anéeka says prolific Moghyay raid food supplies and can be temporarily deterred with sound.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Pets in Taygeta - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/pets-in-taygeta-text-only-translated-originally-from-spanish) (2021-04-26; en); passages p0013, p0015. [Structured record](../../records/src-3be9eb3ebf33.json).
+
+### src-ac8ee6158ff8-c02
+
+She claims sulfuric atmospheres may host silicon-based insectoid or mollusk-like beings.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Procionians - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/procionians-text-only-translated-originally-from-spanish) (2021-02-24; en); passages p0018, p0020. [Structured record](../../records/src-ac8ee6158ff8.json).
+
+### src-ac8ee6158ff8-c03
+
+Anéeka distinguishes human-looking Federation members from Procion from Taygetans on Procyon, a planet in their system.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Procionians - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/procionians-text-only-translated-originally-from-spanish) (2021-02-24; en); passages p0023, p0024, p0026. [Structured record](../../records/src-ac8ee6158ff8.json).
+
+### src-ac8ee6158ff8-c04
+
+She describes Procion A and B as a binary system with seven planets, two inhabited.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Procionians - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/procionians-text-only-translated-originally-from-spanish) (2021-02-24; en); passages p0028, p0029. [Structured record](../../records/src-ac8ee6158ff8.json).
+
+### src-94f4998a0616-c04
+
+She says some Orion personnel, including Alpha Draco, are described by the Federation as cooperative. She says she cannot confirm broader Moon-incident claims.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [ET/UFO Contacts "Experts" Community is a HUMAN organization - MiniTopics with Gosia](https://swaruu.org/transcripts/et-ufo-contacts-experts-community-is-a-human-organization-minitopics-with-gosia) (2022-11-05; en); passages p0021, p0023. [Structured record](../../records/src-94f4998a0616.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-6bb3f5207f8d-c03
+
+Anéeka attributes the samples to Reptiloids, while acknowledging uncertainty about the actors.
+
+Attributed to **Anéeka**; speculative; extraction confidence: medium.
+
+Source: [New Analysis - Vaccines - Samples Analyzed - Aneeka of Temmer shares the findings](https://swaruu.org/transcripts/new-analysis-vaccines-samples-analyzed-aneeka-of-temmer-shares-the-findings) (2021-10-15; en); passages p0051, p0052. [Structured record](../../records/src-6bb3f5207f8d.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-9440df7f5243-c04
+
+Athena says Ummo contact began genuinely, then agencies allegedly redirected it.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [UFO and Exopolitics Groups and CIA - Infiltrations - Athena and Yazhi Swaruu](https://swaruu.org/transcripts/ufo-and-exopolitics-groups-and-cia-infiltrations-athena-and-yazhi-swaruu) (2022-04-22; en); passages p0022. [Structured record](../../records/src-9440df7f5243.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-f5f1c1027d6f-c02
+
+She says Miranda hosts abundant under-ice flora and fauna sustained by geothermal activity.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [URANUS - Solar System - Information from Swaruu of Erra (Extraterrestrial Information)](https://swaruu.org/transcripts/uranus-solar-system-information-from-swaruu-of-erra-extraterrestrial-information) (2022-12-26; en); passages p0006, p0007, p0008, p0011. [Structured record](../../records/src-f5f1c1027d6f.json).
+
+### src-5da11e309cca-c03
+
+Athena alleges nonhuman Reptilian groups influence hidden power structures and use portals. Unverified extraterrestrial claim.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Is Putin Fighting Deep State in Ukraine? Levels of Cabal and Vlash - Athena Swaruu and Yazhi](https://swaruu.org/transcripts/is-putin-fighting-deep-state-in-ukraine-levels-of-cabal-and-vlash-athena-swaruu-and-yazhi) (2022-03-03; en); passages p0006. [Structured record](../../records/src-5da11e309cca.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-5da11e309cca-c04
+
+Yazhi describes Vlash as Reptilian forces in Ukraine, partly aligned with NATO factions. Unverified geopolitical claim.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Is Putin Fighting Deep State in Ukraine? Levels of Cabal and Vlash - Athena Swaruu and Yazhi](https://swaruu.org/transcripts/is-putin-fighting-deep-state-in-ukraine-levels-of-cabal-and-vlash-athena-swaruu-and-yazhi) (2022-03-03; en); passages p0018, p0019, p0020. [Structured record](../../records/src-5da11e309cca.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-6c71c02def44-c03
+
+Anéeka claims vaccines are intended to remove starseeds and favor Reptilian-aligned hybrids. Unverified conspiracy claim.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Graphene Does not Degrade - it Assimilates - Aneeka of Temmer](https://swaruu.org/transcripts/graphene-does-not-degrade-it-assimilates-aneeka-of-temmer) (2022-01-16; en); passages p0010, p0011. [Structured record](../../records/src-6c71c02def44.json).
+
+Related topics: [Black goo](black-goo.md).
+
+### src-26e1f4c9155e-c04
+
+She says deep secret societies include nonhuman participants, especially Reptilians and Tall Grays.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Vatican - Federation - Cabal - Questions (Part 2) - Yazhi Swaruu and Aneeka](https://swaruu.org/transcripts/vatican-federation-cabal-questions-part-2-yazhi-swaruu-and-aneeka) (2021-08-28; en); passages p0022, p0023. [Structured record](../../records/src-26e1f4c9155e.json).
+
+### src-74e890f5b7d3-c04
+
+She says Navajo medicine people share an ancient source of knowledge with Celtic Druids, not direct descent.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Druids, Merlin, Shamans, and prohibited knowledge destroyed by the Cabal - Athena Swaruu](https://swaruu.org/transcripts/druids-merlin-shamans-and-prohibited-knowledge-destroyed-by-the-cabal-athena-swaruu) (2021-11-27; en); passages p0052, p0053, p0059. [Structured record](../../records/src-74e890f5b7d3.json).
+
+### src-90318213f446-c05
+
+She says Venus was invaded in 1965–75 and became a Cabal colony; Mars has three controlling populations.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Atlantis and Lemuria - Invasion of Venus - Questions and Answers - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/atlantis-and-lemuria-invasion-of-venus-questions-and-answers-text-only-translated-originally-from-sp) (2021-10-14; en); passages p0104, p0110, p0116. [Structured record](../../records/src-90318213f446.json).
+
+### src-a2a5bfc5daf9-c01
+
+She describes Karistus as a Jupiter-based civilization associated with angel imagery.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Jupiter - Solar System - Information from Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/jupiter-solar-system-information-from-swaruu-of-erra-taygeta-pleiades) (2022-01-13; en); passages p0005, p0008, p0009. [Structured record](../../records/src-a2a5bfc5daf9.json).
+
+### src-a2a5bfc5daf9-c02
+
+She says Jupiter contains layered aerial ecosystems, including buoyant jellyfish-like creatures and predators.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Jupiter - Solar System - Information from Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/jupiter-solar-system-information-from-swaruu-of-erra-taygeta-pleiades) (2022-01-13; en); passages p0018, p0019, p0020, p0021. [Structured record](../../records/src-a2a5bfc5daf9.json).
+
+### src-a2a5bfc5daf9-c03
+
+She says Jupiter’s red spot is a toroidal storm and that its cities are visible only at higher frequencies.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Jupiter - Solar System - Information from Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/jupiter-solar-system-information-from-swaruu-of-erra-taygeta-pleiades) (2022-01-13; en); passages p0023, p0024, p0035, p0036. [Structured record](../../records/src-a2a5bfc5daf9.json).
+
+### src-a2a5bfc5daf9-c05
+
+She says Europa has an under-ice ocean and early Sirian-based life, but no advanced civilization.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Jupiter - Solar System - Information from Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/jupiter-solar-system-information-from-swaruu-of-erra-taygeta-pleiades) (2022-01-13; en); passages p0067, p0068, p0076. [Structured record](../../records/src-a2a5bfc5daf9.json).
+
+### src-016bae2e1ff8-c05
+
+She says DNA encodes life plans and that off-world memories may be downloaded when compatible.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Van Allen Belts, Shumann Resonance, Memories - Athena Swaruu - Extraterrestrial Contact](https://swaruu.org/transcripts/van-allen-belts-shumann-resonance-memories-athena-swaruu-extraterrestrial-contact) (2021-10-24; en); passages p0036, p0040, p0042. [Structured record](../../records/src-016bae2e1ff8.json).
+
+### src-0cb029f25b3b-c02
+
+She says some Reptilians project human appearances through mind and technology rather than bodily transformation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [MiniTopics - Variety of Information - Reptiles and Extraterrestrials among Humans and more](https://swaruu.org/transcripts/minitopics-variety-of-information-reptiles-and-extraterrestrials-among-humans-and-more) (2022-10-13; en); passages p0017, p0025, p0027. [Structured record](../../records/src-0cb029f25b3b.json).
+
+### src-8fceb6353c22-c03
+
+She distinguishes physical Reptilian exploiters from astral entities she describes as human-generated egregores.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Creation of the Cabal - Reptiles and Human Manifestation - Control system on Earth \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/creation-of-the-cabal-reptiles-and-human-manifestation-control-system-on-earth-no-video) (2021-10-10; en); passages p0026, p0027, p0029. [Structured record](../../records/src-8fceb6353c22.json).
+
+### src-fcdd1fc45e3e-c01
+
+She says carbon-to-silicon change is a simplified analogy for increasing DNA complexity across perception levels.
+
+Attributed to **Swaruu Minerva (11)**; asserted; extraction confidence: high.
+
+Source: [Transformation into Crystalline Silicon Based Bodies - True? Minerva Swaruu - Extraterrestrial View](https://swaruu.org/transcripts/transformation-into-crystalline-silicon-based-bodies-true-minerva-swaruu-extraterrestrial-view) (2022-01-25; en); passages p0006, p0009, p0017. [Structured record](../../records/src-fcdd1fc45e3e.json).
+
+### src-fcdd1fc45e3e-c03
+
+She reports human, Taygetan, and Swaruunean DNA as 23/2, 24/12, and 24/24 chromosome/strand counts; she later describes the Swaruunean crystalline mass as 48 chromosomes.
+
+Attributed to **Swaruu Minerva (11)**; reported; extraction confidence: high.
+
+Source: [Transformation into Crystalline Silicon Based Bodies - True? Minerva Swaruu - Extraterrestrial View](https://swaruu.org/transcripts/transformation-into-crystalline-silicon-based-bodies-true-minerva-swaruu-extraterrestrial-view) (2022-01-25; en); passages p0027, p0028, p0029, p0030, p0031. [Structured record](../../records/src-fcdd1fc45e3e.json).
+
+### src-fcdd1fc45e3e-c04
+
+She says Swaruunean crystalline DNA enables unusual state changes, including dematerialization and wall passage.
+
+Attributed to **Swaruu Minerva (11)**; asserted; extraction confidence: high.
+
+Source: [Transformation into Crystalline Silicon Based Bodies - True? Minerva Swaruu - Extraterrestrial View](https://swaruu.org/transcripts/transformation-into-crystalline-silicon-based-bodies-true-minerva-swaruu-extraterrestrial-view) (2022-01-25; en); passages p0033, p0034. [Structured record](../../records/src-fcdd1fc45e3e.json).
+
+### src-fcdd1fc45e3e-c05
+
+She says silicon-based life can be non-crystalline and need not imply greater consciousness.
+
+Attributed to **Swaruu Minerva (11)**; asserted; extraction confidence: high.
+
+Source: [Transformation into Crystalline Silicon Based Bodies - True? Minerva Swaruu - Extraterrestrial View](https://swaruu.org/transcripts/transformation-into-crystalline-silicon-based-bodies-true-minerva-swaruu-extraterrestrial-view) (2022-01-25; en); passages p0039, p0041. [Structured record](../../records/src-fcdd1fc45e3e.json).
+
+### src-6590ff021376-c01
+
+She describes Karistus as mostly six-dimensional beings associated with angel imagery.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Karistus - Enigmatic Race from Jupiter - Information from Yazhi Swaruu and Aneeka of Temmer](https://swaruu.org/transcripts/karistus-enigmatic-race-from-jupiter-information-from-yazhi-swaruu-and-aneeka-of-temmer) (2022-01-18; en); passages p0003. [Structured record](../../records/src-6590ff021376.json).
+
+### src-6590ff021376-c02
+
+Karistus mythology casts Lyrian peoples as their hybrids and Earth as their ancestral territory.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Karistus - Enigmatic Race from Jupiter - Information from Yazhi Swaruu and Aneeka of Temmer](https://swaruu.org/transcripts/karistus-enigmatic-race-from-jupiter-information-from-yazhi-swaruu-and-aneeka-of-temmer) (2022-01-18; en); passages p0004, p0005, p0006. [Structured record](../../records/src-6590ff021376.json).
+
+### src-6590ff021376-c04
+
+Anéeka says Karistus are outside the Federation and claim ancient ties to Earth predating Lyrians.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Karistus - Enigmatic Race from Jupiter - Information from Yazhi Swaruu and Aneeka of Temmer](https://swaruu.org/transcripts/karistus-enigmatic-race-from-jupiter-information-from-yazhi-swaruu-and-aneeka-of-temmer) (2022-01-18; en); passages p0024, p0027, p0029. [Structured record](../../records/src-6590ff021376.json).
+
+### src-e1b4f8c5afc0-c01
+
+She says Earth hosts full extraterrestrials who can pass as human, including Taygetans and other Lyrian races.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extra-terrestrials living among you. (English)](https://swaruu.org/transcripts/extra-terrestrials-living-among-you-english) (2023-01-06; en); passages p0005, p0006. [Structured record](../../records/src-e1b4f8c5afc0.json).
+
+### src-e1b4f8c5afc0-c02
+
+She distinguishes crawl-ins, step-ins, and step-downs as three ways extraterrestrials enter Earth.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extra-terrestrials living among you. (English)](https://swaruu.org/transcripts/extra-terrestrials-living-among-you-english) (2023-01-06; en); passages p0007, p0008, p0010. [Structured record](../../records/src-e1b4f8c5afc0.json).
+
+### src-e1b4f8c5afc0-c03
+
+Step-downs leave starships, adopt human identities, and may stay from hours to years.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extra-terrestrials living among you. (English)](https://swaruu.org/transcripts/extra-terrestrials-living-among-you-english) (2023-01-06; en); passages p0012, p0013. [Structured record](../../records/src-e1b4f8c5afc0.json).
+
+Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
+
+### src-59816f3eae2d-c04
+
+Mari describes most extraterrestrials as ordinary people with their own needs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Important thoughts after 5 years of contact (English)](https://swaruu.org/transcripts/important-thoughts-after-5-years-of-contact-english) (2022-12-25; en); passages p0016, p0017. [Structured record](../../records/src-59816f3eae2d.json).
+
+### src-6af7853b713e-c01
+
+Athena says beings among humans may use human vessels or remain astral, inspiring people.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Ufo Conference Finland - Mini Report - Live Online Connection with Athena Swaruu](https://swaruu.org/transcripts/ufo-conference-finland-mini-report-live-online-connection-with-athena-swaruu) (2021-11-07; en); passages p0003, p0004. [Structured record](../../records/src-6af7853b713e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6af7853b713e-c04
+
+Athena identifies Roswell’s 1947 beings as friendly Zeta Grays.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Ufo Conference Finland - Mini Report - Live Online Connection with Athena Swaruu](https://swaruu.org/transcripts/ufo-conference-finland-mini-report-live-online-connection-with-athena-swaruu) (2021-11-07; en); passages p0019, p0020. [Structured record](../../records/src-6af7853b713e.json).
+
+### src-9ea1c99a4dc1-c04
+
+Yazhi says radiation could favor some nonhuman low-frequency organisms.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Yazhi Swaruu is back in contact - Updates - Live with Gosia](https://swaruu.org/transcripts/yazhi-swaruu-is-back-in-contact-updates-live-with-gosia) (2022-10-04; en); passages p0017. [Structured record](../../records/src-9ea1c99a4dc1.json).
+
+### src-e4117599a861-c04
+
+Swaruu X says the Federation does not classify humanity as a species, but as a Lyrian-derived biological suit.
+
+Attributed to **Swaruu X**; reported; extraction confidence: high.
+
+Source: [Galactic Federation - Good Guys? Their Management of Earth (Yazhi, Swaruu, Aneeka-Taygeta- Pleiades)](https://swaruu.org/transcripts/galactic-federation-good-guys-their-management-of-earth-yazhi-swaruu-aneeka-taygeta-pleiades) (2021-06-24; en); passages p0109, p0110. [Structured record](../../records/src-e4117599a861.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-7daaf5b6ec28-c03
+
+Yazhi describes shamans as using altered states and bargains with spirits to affect physical targets.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Spiritual Protection - Astral and other Negative Influences - Yazhi Swaruu Talks to Matias and I](https://swaruu.org/transcripts/spiritual-protection-astral-and-other-negative-influences-yazhi-swaruu-talks-to-matias-and-i) (2021-10-02; en); passages p0069, p0070, p0071. [Structured record](../../records/src-7daaf5b6ec28.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0d8c0f4f7056-c04
+
+She says a five-kilometre Sauroid cube base was destroyed and its occupants released.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: high.
+
+Source: [Saturn - Solar System - Information from Swaruu of Erra (Extraterrestrial Information - Taygeta)](https://swaruu.org/transcripts/saturn-solar-system-information-from-swaruu-of-erra-extraterrestrial-information-taygeta) (2022-08-01; en); passages p0054, p0059. [Structured record](../../records/src-0d8c0f4f7056.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-9ad5026019b6-c01
+
+Yazhi says some Reptilians maintain humanlike appearance mentally and may revert when relaxed.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Reptiles, Moldavite, and more - Mini Topics with Gosia - Extraterrestrial Information](https://swaruu.org/transcripts/reptiles-moldavite-and-more-mini-topics-with-gosia-extraterrestrial-information) (2022-12-23; en); passages p0021, p0022. [Structured record](../../records/src-9ad5026019b6.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9ad5026019b6-c02
+
+She says Reptilian influence may also shape human behavior, complicating identification.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Reptiles, Moldavite, and more - Mini Topics with Gosia - Extraterrestrial Information](https://swaruu.org/transcripts/reptiles-moldavite-and-more-mini-topics-with-gosia-extraterrestrial-information) (2022-12-23; en); passages p0032, p0034, p0038. [Structured record](../../records/src-9ad5026019b6.json).
+
+### src-63c8f1bd575e-c03
+
+She says “hybrid” includes starseeds, altered bodies, and natural cross-species descendants.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Extraterrestrials and Earth´s Resources - Direct Extraterrestrial Perspective](https://swaruu.org/transcripts/extraterrestrials-and-earth-s-resources-direct-extraterrestrial-perspective) (2022-02-13; en); passages p0030, p0031, p0033. [Structured record](../../records/src-63c8f1bd575e.json).
+
+### src-733f017eef4f-c03
+
+Yazhi describes the Borg as races absorbed by an AI originally programmed to invade.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Artificial Intelligence - Galactic - Merged with Consciousness Field - Yazhi Swaruu](https://swaruu.org/transcripts/artificial-intelligence-galactic-merged-with-consciousness-field-yazhi-swaruu) (2022-05-25; en); passages p0027, p0029. [Structured record](../../records/src-733f017eef4f.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-3527c85bcb1a-c01
+
+Anéeka says “22 races” is a simplified way to describe the many ancestral identities she associates with human DNA.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [22 Extraterrestrial Races Forming a Human Being? - Aneeka of Temmer Responds](https://swaruu.org/transcripts/22-extraterrestrial-races-forming-a-human-being-aneeka-of-temmer-responds) (2021-12-17; en); passages p0008, p0011, p0030, p0043. [Structured record](../../records/src-3527c85bcb1a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3527c85bcb1a-c04
+
+She gives Taygetans 24 chromosomes and 12 strands, and Swaruunians 24 and 24.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [22 Extraterrestrial Races Forming a Human Being? - Aneeka of Temmer Responds](https://swaruu.org/transcripts/22-extraterrestrial-races-forming-a-human-being-aneeka-of-temmer-responds) (2021-12-17; en); passages p0027. [Structured record](../../records/src-3527c85bcb1a.json).
+
+### src-c69f565b7611-c02
+
+She describes some entities as humanlike bodies inhabited by collectively manifested souls.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Astral War over Humans - Cabal Shadow Operators - Chat with Yazhi Swaruu (Extraterrestrial Contact)](https://swaruu.org/transcripts/astral-war-over-humans-cabal-shadow-operators-chat-with-yazhi-swaruu-extraterrestrial-contact) (2021-10-13; en); passages p0009, p0010, p0017. [Structured record](../../records/src-c69f565b7611.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5c53f31c4600-c03
+
+Swaruu X says silicon-based bodies differ materially from carbon-based Lyrian bodies.
+
+Attributed to **Swaruu X**; reported; extraction confidence: high.
+
+Source: [Extraterrestrial Information - Data and Fun Facts - Mini Topics with Gosia](https://swaruu.org/transcripts/extraterrestrial-information-data-and-fun-facts-mini-topics-with-gosia) (2021-08-10; en); passages p0037, p0039, p0041. [Structured record](../../records/src-5c53f31c4600.json).
+
+### src-36eda34f8346-c04
+
+She claims abductors implant chips and alter mothers’ frequencies to sustain alleged starseed pregnancies.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Maternal Med Pods - Taygeta (Pleiades) - Extraterrestrial Information](https://swaruu.org/transcripts/maternal-med-pods-taygeta-pleiades-extraterrestrial-information) (2023-01-14; en); passages p0011, p0013, p0014, p0016. [Structured record](../../records/src-36eda34f8346.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-41d2e6231b38-c02
+
+She says poorly documented intraterrestrial species inhabit deep cavities, including Vulcans and Reptilian variants.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Is Earth hollow? - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/is-earth-hollow-text-only-translated-originally-from-spanish) (2021-07-03; en); passages p0002, p0003, p0007. [Structured record](../../records/src-41d2e6231b38.json).
+
+### src-41d2e6231b38-c03
+
+Yazhi says she lacks corroboration for reports of cannibalistic semi-human beings in deep caverns.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Is Earth hollow? - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/is-earth-hollow-text-only-translated-originally-from-spanish) (2021-07-03; en); passages p0004. [Structured record](../../records/src-41d2e6231b38.json).
+
+### src-4b4fb9a7101a-c01
+
+Gosia calls Earth-incarnated starseeds a special force working to awaken humanity.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Short Message from Gosia to all the Starseeds](https://swaruu.org/transcripts/short-message-from-gosia-to-all-the-starseeds) (2022-12-03; en); passages p0004. [Structured record](../../records/src-4b4fb9a7101a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-4b4fb9a7101a-c03
+
+Gosia describes starseeds as a diverse group whose distinct traits enrich humanity.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Short Message from Gosia to all the Starseeds](https://swaruu.org/transcripts/short-message-from-gosia-to-all-the-starseeds) (2022-12-03; en); passages p0006, p0008. [Structured record](../../records/src-4b4fb9a7101a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1f3a3984c56e-c01
+
+Anéeka says a directed-energy attack pierced the Alfratan Valery’s shields and damaged its hull and systems.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Alfratan (Centauri) Ship Attacked - Weapons - Aneeka of Temmer explains the Incident](https://swaruu.org/transcripts/alfratan-centauri-ship-attacked-weapons-aneeka-of-temmer-explains-the-incident) (2022-02-25; en); passages p0005, p0006, p0007, p0014. [Structured record](../../records/src-1f3a3984c56e.json).
+
+### src-b2a7560246ee-c05
+
+Anéeka says she considers XX chromosomes genetically dominant and notes all Swaruu are female.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [MiniTopics with Gosia - Extraterrestrial Information - Yazhi, Aneeka, Athena Swaruu](https://swaruu.org/transcripts/minitopics-with-gosia-extraterrestrial-information-yazhi-aneeka-athena-swaruu) (2022-01-06; en); passages p0099, p0100, p0101, p0102. [Structured record](../../records/src-b2a7560246ee.json).
+
+### src-22d5f1e26b59-c03
+
+Yazhi says many Lyrian-based nonhuman races lack a divided cortical groove, which she links to different perception.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Exopolitics and Ufology Circles and CIA - Infiltrations - Yazhi and Athena Swaruu](https://swaruu.org/transcripts/exopolitics-and-ufology-circles-and-cia-infiltrations-yazhi-and-athena-swaruu) (2022-04-25; en); passages p0011, p0012, p0013. [Structured record](../../records/src-22d5f1e26b59.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d7d90a56bb44-c03
+
+Swaruu says Mars is divided among three militarized species and its native population was exterminated.
+
+Attributed to **Swaruu**; reported; extraction confidence: medium.
+
+Source: [Mars & Earth - What´s on Mars? - Extraterrestrial Information - Swaruu of Erra (Taygeta - Pleiades)](https://swaruu.org/transcripts/mars-earth-what-s-on-mars-extraterrestrial-information-swaruu-of-erra-taygeta-pleiades) (2021-10-29; en); passages p0036, p0037, p0038, p0043, p0044, p0064. [Structured record](../../records/src-d7d90a56bb44.json).
+
+Related topics: [Tiamat](tiamat.md).
+
+### src-ee623e3e520c-c03
+
+Athena says some bright moving lights are reflecting satellites, while she attributes many others to nonhuman craft.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Starlink Satellites - Are they Really Up There? Athena Swaruu Informs of her Findings](https://swaruu.org/transcripts/starlink-satellites-are-they-really-up-there-athena-swaruu-informs-of-her-findings) (2022-03-07; en); passages p0035, p0036. [Structured record](../../records/src-ee623e3e520c.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-21a9a4dacb59-c01
+
+Swaruu 9 says crop circles may be pranks, but attributes many complex formations to named extraterrestrial groups.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Crop Circles - Main Purpose - Short Chat with Swaruu of Erra](https://swaruu.org/transcripts/crop-circles-main-purpose-short-chat-with-swaruu-of-erra) (2023-01-03; en); passages p0002. [Structured record](../../records/src-21a9a4dacb59.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -1055,6 +1715,49 @@ Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.or
 - [src-869bb2b811fe-c01](atlantis-lemuria.md#src-869bb2b811fe-c01) — Atlantis and Lemuria
 - [src-74db11a41c73-c02](galactic-federation.md#src-74db11a41c73-c02) — Galactic Federation
 - [src-74db11a41c73-c04](galactic-federation.md#src-74db11a41c73-c04) — Galactic Federation
+- [src-220186375683-c01](taygetans.md#src-220186375683-c01) — Taygetans
+- [src-220186375683-c02](taygetans.md#src-220186375683-c02) — Taygetans
+- [src-220186375683-c03](taygetans.md#src-220186375683-c03) — Taygetans
+- [src-220186375683-c04](taygetans.md#src-220186375683-c04) — Taygetans
+- [src-220186375683-c05](taygetans.md#src-220186375683-c05) — Taygetans
+- [src-3ce9e57dfd79-c01](taygetans.md#src-3ce9e57dfd79-c01) — Taygetans
+- [src-3ce9e57dfd79-c02](taygetans.md#src-3ce9e57dfd79-c02) — Taygetans
+- [src-412d2cb274cb-c03](orion-wars.md#src-412d2cb274cb-c03) — Orion Wars
+- [src-826f0e981319-c02](venus.md#src-826f0e981319-c02) — Venus
+- [src-826f0e981319-c06](mars.md#src-826f0e981319-c06) — Mars
+- [src-331a2b9f1d40-c02](terrestrial-science.md#src-331a2b9f1d40-c02) — Terrestrial science
+- [src-9440df7f5243-c02](consciousness-metaphysics.md#src-9440df7f5243-c02) — Consciousness and metaphysics
+- [src-9440df7f5243-c03](earth-cabal.md#src-9440df7f5243-c03) — Earth Cabal and power structures
+- [src-db615763165f-c02](consciousness-metaphysics.md#src-db615763165f-c02) — Consciousness and metaphysics
+- [src-67f9e11f45a4-c01](taygetans.md#src-67f9e11f45a4-c01) — Taygetans
+- [src-67f9e11f45a4-c05](cyndriel.md#src-67f9e11f45a4-c05) — Cyndriel
+- [src-edda680af7b5-c01](borg.md#src-edda680af7b5-c01) — Borg
+- [src-90d5823bf8d3-c04](urmah.md#src-90d5823bf8d3-c04) — Urmah
+- [src-5da11e309cca-c05](earth-cabal.md#src-5da11e309cca-c05) — Earth Cabal and power structures
+- [src-48ce581921b0-c04](galactic-federation.md#src-48ce581921b0-c04) — Galactic Federation
+- [src-59816f3eae2d-c05](moon-matrix.md#src-59816f3eae2d-c05) — Moon and terrestrial Matrix
+- [src-7c0508c9dc45-c05](taygetans.md#src-7c0508c9dc45-c05) — Taygetans
+- [src-0d8c0f4f7056-c02](galactic-federation.md#src-0d8c0f4f7056-c02) — Galactic Federation
+- [src-9ad5026019b6-c03](consciousness-metaphysics.md#src-9ad5026019b6-c03) — Consciousness and metaphysics
+- [src-3527c85bcb1a-c03](terrestrial-science.md#src-3527c85bcb1a-c03) — Terrestrial science
+- [src-3527c85bcb1a-c05](consciousness-metaphysics.md#src-3527c85bcb1a-c05) — Consciousness and metaphysics
+- [src-5c53f31c4600-c01](galactic-federation.md#src-5c53f31c4600-c01) — Galactic Federation
+- [src-5c53f31c4600-c05](natural-portals.md#src-5c53f31c4600-c05) — Natural and artificial portals
+- [src-0defad89a757-c01](galactic-federation.md#src-0defad89a757-c01) — Galactic Federation
+- [src-d076cfbaef4c-c01](galactic-federation.md#src-d076cfbaef4c-c01) — Galactic Federation
+- [src-1e8728b1466f-c03](atlantis-lemuria.md#src-1e8728b1466f-c03) — Atlantis and Lemuria
+- [src-de3a42e7909f-c01](galactic-federation.md#src-de3a42e7909f-c01) — Galactic Federation
+- [src-0d91bb4e0e59-c04](atlantis-lemuria.md#src-0d91bb4e0e59-c04) — Atlantis and Lemuria
+- [src-1a5a72595f76-c01](galactic-federation.md#src-1a5a72595f76-c01) — Galactic Federation
+- [src-1a5a72595f76-c03](galactic-federation.md#src-1a5a72595f76-c03) — Galactic Federation
+- [src-829579bed3c5-c01](earth-cabal.md#src-829579bed3c5-c01) — Earth Cabal and power structures
+- [src-d7d90a56bb44-c01](kingu.md#src-d7d90a56bb44-c01) — Kingu
+- [src-d7d90a56bb44-c04](maitre.md#src-d7d90a56bb44-c04) — Maitre
+- [src-d7d90a56bb44-c05](aethien-mantis.md#src-d7d90a56bb44-c05) — Aethien Mantis
+- [src-c5e6117394fd-c01](terrestrial-science.md#src-c5e6117394fd-c01) — Terrestrial science
+- [src-58967db24dfa-c01](lyran-expansion.md#src-58967db24dfa-c01) — Lyran expansion
+- [src-21a9a4dacb59-c05](stellar-navigation.md#src-21a9a4dacb59-c05) — Stellar navigation
+- [src-78f6779f9011-c02](taygetans.md#src-78f6779f9011-c02) — Taygetans
 
 ## Review flags
 
@@ -1071,9 +1774,14 @@ Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.or
 - ai-clone-claims-attributed
 - approximate\_dates
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
+- biological-claims-unverified
 - blockade-and-biology-attributed
 - claim: extraordinary abduction and biology account
+- competing\_attributions
 - conflicting\_intelligence\_accounts
+- conspiracy-claims
+- conspiracy\_claims
+- contested\_extraterrestrial\_history
 - coverage: 5D transition forecast
 - coverage: aircraft technical details
 - coverage: clone mechanics
@@ -1085,19 +1793,44 @@ Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.or
 - coverage: psychic-function claims
 - coverage: six-parameter space-time model
 - crop\_circle\_interpretation
+- dangerous\_medical\_misinformation
 - dated\_claims
 - dialogue-perspectives-distinguished
+- diet\_claim\_omitted
 - dog\_import\_exception\_is\_uncertain
+- earth-consciousness\_claim\_omitted
 - egregor-vs-species-levels
+- extraordinary\_ai\_claims
+- extraordinary\_archaeological\_claims
+- extraordinary\_astronomical\_claims
+- extraordinary\_biotechnology\_claims
+- extraordinary\_claims
+- extraordinary\_conflict\_claims
+- extraordinary\_exopolitical\_claims
+- extraordinary\_extraction\_claims
 - extraordinary\_genetics\_claims
+- extraordinary\_geological\_claims
+- extraordinary\_history\_claims
+- extraordinary\_paranormal\_claims
+- extraordinary\_species\_claims
+- faction\_claims
+- factional-perspective-difference
 - factional\_viewpoint\_conflict
 - fauna\_and\_ecology\_claims
 - genetic-surveillance-allegations
+- health\_claims
 - higher\_plane\_genetics\_claims
 - historical-claims-uncorroborated
+- historical-conspiracy-claims
+- historical-interpretation
 - historical\_account\_unverified
+- historical\_and\_nuclear\_claims\_unverified
+- identity-claims-unverified
+- inter-speaker-distinction
+- internal-contradictions
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
+- internal\_scope\_tension
 - internal\_tension
 - logo\_identity\_claim\_unverified
 - manifestation\_mechanics
@@ -1105,9 +1838,16 @@ Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.or
 - matrix\_scope
 - medical-conspiracy-claims
 - medical-misinformation-claims
+- medical\_claims\_omitted
 - medical\_claims\_unverified
+- metaphysical-claims
+- metaphysical\_worldview
+- meteorite\_claim\_omitted
 - multiple\_futures\_claim
 - named\_government\_and\_secret\_base\_claims
+- occult\_claims
+- personal\_metaphysics
+- planetary-lore-unverified
 - reincarnation-model-metaphysical
 - self-reported-traits
 - sensitive\_claims
@@ -1118,11 +1858,23 @@ Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.or
 - speaker\_identity\_unclear\_p0002\_p0019
 - speaker\_qualifies\_script\_claims
 - species\_specific\_reproduction
+- starlink-observation-scope-ambiguity
 - suffering\_causality
 - technology\_claims
 - terminology-tension: densities called concepts and frequency ranges
 - translated\_source
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - translation\_approximation\_navajo\_inuit
+- unsupported\_planetary\_claims
+- unverified\_agency\_claims
+- unverified\_biological\_and\_metaphysical\_claims
+- unverified\_biological\_claims
+- unverified\_extraterrestrial\_claims
+- unverified\_extraterrestrial\_threat\_claims
+- unverified\_geopolitical\_claims
+- unverified\_medical\_advice
+- unverified\_medical\_claims
 - viral-model-claims-attributed
 - virus-account-internal-tension
+- warrior\_symbolism
+- weather\_claims

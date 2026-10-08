@@ -226,6 +226,98 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [Quantum Computers, 12 Based Math, Metaphysics - Yazhi - Extraterrestrial Communication](https://swaruu.org/transcripts/quantum-computers-12-based-math-metaphysics-yazhi-extraterrestrial-communication) (2021-01-02; en); passages p0006, p0010, p0012, p0014. [Structured record](../../records/src-eb1147b4877c.json).
 
+### src-d7f1a0a20d89-c01
+
+Quartz stores frequency maps as vibration and encodes binary or holographic data in molecular bonds, Yazhi says.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Knowledge: Advanced Zero Point Crystal Core Based Reactors - Yazhi and Dale Harder](https://swaruu.org/transcripts/extraterrestrial-knowledge-advanced-zero-point-crystal-core-based-reactors-yazhi-and-dale-harder) (2021-03-30; en); passages p0004, p0008. [Structured record](../../records/src-d7f1a0a20d89.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-792e153c2f4a-c01
+
+Yazhi says crystal data can be encoded in molecular rearrangements or mapped frequency grids.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Technology directly from Extraterrestrials-Quartz and Reactors -Yazhi - Dale Harder](https://swaruu.org/transcripts/extraterrestrial-technology-directly-from-extraterrestrials-quartz-and-reactors-yazhi-dale-harder) (2021-04-03; en); passages p0023, p0024, p0026. [Structured record](../../records/src-792e153c2f4a.json).
+
+### src-792e153c2f4a-c02
+
+She says mapped crystals retain data while frequencies are imposed or as persistent oscillations.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Technology directly from Extraterrestrials-Quartz and Reactors -Yazhi - Dale Harder](https://swaruu.org/transcripts/extraterrestrial-technology-directly-from-extraterrestrials-quartz-and-reactors-yazhi-dale-harder) (2021-04-03; en); passages p0027. [Structured record](../../records/src-792e153c2f4a.json).
+
+### src-01afc3489faf-c02
+
+The Viera meeting uses interactive three-dimensional holographic displays.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Meeting in Viera - Description and Uniforms - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/meeting-in-viera-description-and-uniforms-text-only-translated-originally-from-spanish) (2021-03-02; en); passages p0010, p0011. [Structured record](../../records/src-01afc3489faf.json).
+
+### src-4d572ab9d611-c04
+
+Anéeka says citizens have immersive holographic computers and can request what they need.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Media communication in Taygeta - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/media-communication-in-taygeta-text-only-translated-originally-from-spanish) (2021-04-19; en); passages p0008, p0010. [Structured record](../../records/src-4d572ab9d611.json).
+
+### src-15de60dedc59-c01
+
+Anéeka says holographic computers create responsive characters and tactile game effects.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Immersion Pods - Entertainment and Entry to Earth](https://swaruu.org/transcripts/immersion-pods-entertainment-and-entry-to-earth) (2023-01-19; en); passages p0003, p0004. [Structured record](../../records/src-15de60dedc59.json).
+
+### src-7c0508c9dc45-c01
+
+Anéeka says holographic and digital systems are incompatible and can overload digital devices.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Taygetan Pleiadians Communicating Online - Why and How is it Done?](https://swaruu.org/transcripts/taygetan-pleiadians-communicating-online-why-and-how-is-it-done) (2022-09-03; en); passages p0003, p0004. [Structured record](../../records/src-7c0508c9dc45.json).
+
+### src-9ad5026019b6-c04
+
+She describes mind-reading systems that infer thoughts from neural activity or behavioral profiles.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Reptiles, Moldavite, and more - Mini Topics with Gosia - Extraterrestrial Information](https://swaruu.org/transcripts/reptiles-moldavite-and-more-mini-topics-with-gosia-extraterrestrial-information) (2022-12-23; en); passages p0055, p0056, p0057. [Structured record](../../records/src-9ad5026019b6.json).
+
+### src-733f017eef4f-c01
+
+Yazhi says advanced civilizations link through a shared information network that includes ship AIs.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Artificial Intelligence - Galactic - Merged with Consciousness Field - Yazhi Swaruu](https://swaruu.org/transcripts/artificial-intelligence-galactic-merged-with-consciousness-field-yazhi-swaruu) (2022-05-25; en); passages p0004, p0005. [Structured record](../../records/src-733f017eef4f.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-733f017eef4f-c02
+
+She says hostile AI is a weapon programmed by organic actors, not an autonomous galactic invader.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Artificial Intelligence - Galactic - Merged with Consciousness Field - Yazhi Swaruu](https://swaruu.org/transcripts/artificial-intelligence-galactic-merged-with-consciousness-field-yazhi-swaruu) (2022-05-25; en); passages p0006, p0007, p0017. [Structured record](../../records/src-733f017eef4f.json).
+
+### src-1f3a3984c56e-c04
+
+Taygetan holographic controls adapt to pilots and use telepathic interfaces.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Alfratan (Centauri) Ship Attacked - Weapons - Aneeka of Temmer explains the Incident](https://swaruu.org/transcripts/alfratan-centauri-ship-attacked-weapons-aneeka-of-temmer-explains-the-incident) (2022-02-25; en); passages p0040, p0043, p0044, p0046. [Structured record](../../records/src-1f3a3984c56e.json).
+
 ## Claims filed under other topics
 
 - [src-f22366424c26-c01](moon-matrix.md#src-f22366424c26-c01) — Moon and terrestrial Matrix
@@ -234,13 +326,33 @@ Source: [Quantum Computers, 12 Based Math, Metaphysics - Yazhi - Extraterrestria
 - [src-878283338eea-c05](starship-systems.md#src-878283338eea-c05) — Starship systems
 - [src-6656b9a64d45-c02](starship-systems.md#src-6656b9a64d45-c02) — Starship systems
 - [src-6656b9a64d45-c03](starship-systems.md#src-6656b9a64d45-c03) — Starship systems
+- [src-5a5946c015e8-c02](taygetans.md#src-5a5946c015e8-c02) — Taygetans
+- [src-aa04d431ff67-c03](black-goo.md#src-aa04d431ff67-c03) — Black goo
+- [src-733f017eef4f-c03](alien-species.md#src-733f017eef4f-c03) — Alien species and distinctions
+- [src-36eda34f8346-c01](starship-systems.md#src-36eda34f8346-c01) — Starship systems
+- [src-3151bfa9585e-c04](moon-matrix.md#src-3151bfa9585e-c04) — Moon and terrestrial Matrix
+- [src-165493b296b5-c01](galactic-federation.md#src-165493b296b5-c01) — Galactic Federation
+- [src-165493b296b5-c02](taygetans.md#src-165493b296b5-c02) — Taygetans
+- [src-165493b296b5-c03](muonic-galactic-ai-network.md#src-165493b296b5-c03) — Muonic galactic AI network
+- [src-165493b296b5-c05](muonic-galactic-ai-network.md#src-165493b296b5-c05) — Muonic galactic AI network
+- [src-073f7818f594-c02](moon-matrix.md#src-073f7818f594-c02) — Moon and terrestrial Matrix
 
 ## Review flags
 
 - ai-clone-claims-attributed
 - blockade-and-biology-attributed
+- contested-space-history-allegation
 - ether\_and\_manifestation\_model
 - ether\_model
+- extraordinary\_ai\_claims
+- extraordinary\_biotechnology\_claims
+- extraordinary\_medical\_claims
+- extraordinary\_species\_claims
+- extraordinary\_technology\_claims
 - frequency-gravity-model
 - pilot-account-attributed
 - technology\_and\_mind\_interface
+- translated\_source
+- unverified\_extraterrestrial\_technology\_claims
+- unverified\_laboratory\_report
+- unverified\_technical\_claims

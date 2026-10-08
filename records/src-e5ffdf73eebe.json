@@ -1,0 +1,109 @@
+{
+  "source_id": "src-e5ffdf73eebe",
+  "snapshot_sha256": "3b028443fdc7e41e87efe0e78e9d2100be25a3617876fc1415d065a9fabdef84",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e5ffdf73eebe-c01",
+      "assertion": "Yazhi says a holistic society depends on a population’s shared mentality, not fixed moral rules.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5ffdf73eebe-c02",
+      "assertion": "She says current human society cannot be shifted directly into a holistic society, but a gradual transition is possible.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0029",
+        "p0030",
+        "p0032",
+        "p0035"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5ffdf73eebe-c03",
+      "assertion": "Yazhi says she views the Cabal as an egregor formed by mass mentality and sustained by human attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0069",
+        "p0070",
+        "p0072"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5ffdf73eebe-c04",
+      "assertion": "Yazhi theorizes removing negative interference could move humanity toward a holistic society.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0060",
+        "p0063",
+        "p0064"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5ffdf73eebe-c05",
+      "assertion": "Yazhi says Taygeta’s proposal for a gradual Earth transition was denied by the local Federation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "egregors",
+      "name": "Egregors",
+      "kind": "cosmology",
+      "aliases": [
+        "egregor entities"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "political-forecast"
+  ]
+}

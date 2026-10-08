@@ -1,0 +1,101 @@
+{
+  "source_id": "src-0d8c0f4f7056",
+  "snapshot_sha256": "af45c62e906712eda72f4df6868f0a1b8f807e50c1d0687525b189598aea9e65",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0d8c0f4f7056-c01",
+      "assertion": "Swaruu says Tiamat’s destruction altered planetary orbits and sent debris that formed Saturn’s rings.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0014"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "black-holes"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d8c0f4f7056-c02",
+      "assertion": "She says Saturn’s moons host Federation-aligned colonies and relay stations after Sauroid control ended.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0026",
+        "p0036"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d8c0f4f7056-c03",
+      "assertion": "Swaruu says Saturn’s rings are mined for materials, including gold.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0037",
+        "p0042"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d8c0f4f7056-c04",
+      "assertion": "She says a five-kilometre Sauroid cube base was destroyed and its occupants released.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0054",
+        "p0059"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d8c0f4f7056-c05",
+      "assertion": "Swaruu says Saturn has natural and artificial portals; their destinations may be unknown until explored.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0095",
+        "p0104",
+        "p0107",
+        "p0108"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "monoliths"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_astronomical_claims"
+  ],
+  "coverage_gaps": [
+    "Saturn_history"
+  ]
+}

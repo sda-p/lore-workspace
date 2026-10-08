@@ -1,0 +1,98 @@
+{
+  "source_id": "src-3931f215ab3a",
+  "snapshot_sha256": "bb0e3c72b1516dce17d3ee116a398a1ba5037bedad24c66657fa1a46452c89f8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3931f215ab3a-c01",
+      "assertion": "Yazhi says awareness of past-life memories may help loosen unconscious perception agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3931f215ab3a-c02",
+      "assertion": "She says strong conviction can release perceived contracts; written rituals serve mainly as personal supports.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3931f215ab3a-c03",
+      "assertion": "Yazhi explains perceived solidity as electromagnetic repulsion between similarly charged matter.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3931f215ab3a-c04",
+      "assertion": "She says unconscious attachments shape perception, while imagination reflects Source’s creative attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3931f215ab3a-c05",
+      "assertion": "Yazhi says letting go and integrating experiences matters more than forcing extraordinary abilities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0041",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "perception_exercises"
+  ]
+}

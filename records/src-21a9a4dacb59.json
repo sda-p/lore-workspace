@@ -1,0 +1,98 @@
+{
+  "source_id": "src-21a9a4dacb59",
+  "snapshot_sha256": "e1bc19503672eaa5ffb93ce1d9f9b47cb7a949592370a2595d675e81266563e7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-21a9a4dacb59-c01",
+      "assertion": "Swaruu 9 says crop circles may be pranks, but attributes many complex formations to named extraterrestrial groups.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21a9a4dacb59-c02",
+      "assertion": "Swaruu 9 says some circles encode ideas, while others mark a crew’s return to a timeline.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21a9a4dacb59-c03",
+      "assertion": "Swaruu 9 says crews make circles with tractor beams as finite navigation markers.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0011"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21a9a4dacb59-c04",
+      "assertion": "Swaruu 9 says Britain and Montserrat are known ship-navigation points associated with portals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21a9a4dacb59-c05",
+      "assertion": "Swaruu 9 says marker designs are crew-specific and may also convey other messages.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

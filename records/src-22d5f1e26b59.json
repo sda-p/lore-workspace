@@ -1,0 +1,106 @@
+{
+  "source_id": "src-22d5f1e26b59",
+  "snapshot_sha256": "1392e25ebd39502d3f5109faddff709855ff27654d63b169b1cb6f7ec3a95970",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-22d5f1e26b59-c01",
+      "assertion": "Yazhi describes regional councils as groupings of friendly races with jurisdictional voices in Federation councils.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation",
+        "andromeda-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22d5f1e26b59-c02",
+      "assertion": "Yazhi says Earth’s collective unconscious distorts concepts of external hostile alliances.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22d5f1e26b59-c03",
+      "assertion": "Yazhi says many Lyrian-based nonhuman races lack a divided cortical groove, which she links to different perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22d5f1e26b59-c04",
+      "assertion": "Athena says movements may begin spontaneously and later be redirected by infiltrators.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22d5f1e26b59-c05",
+      "assertion": "Yazhi advises hearing multiple sources and revising personal models, including her own claims.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0057",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "andromeda-council",
+      "name": "Andromeda Council",
+      "kind": "institution",
+      "aliases": []
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

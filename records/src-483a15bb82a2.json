@@ -1,0 +1,97 @@
+{
+  "source_id": "src-483a15bb82a2",
+  "snapshot_sha256": "6ed7888ebcf7cd1e96c85e4c2011bfe69c1e74a86a2cbe6da4263b4463e69721",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-483a15bb82a2-c01",
+      "assertion": "Three Taygetan-built arks stored Earth DNA samples against post-Tiamat catastrophe.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0070"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-483a15bb82a2-c02",
+      "assertion": "She places arks at Area 51, Russia’s Vostok station, and the Toleka; one was destroyed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0065",
+        "p0066",
+        "p0067",
+        "p0183"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-483a15bb82a2-c03",
+      "assertion": "Arks read frequency and DNA and may use lethal force against unauthorized approaches.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0165"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-483a15bb82a2-c04",
+      "assertion": "Stored DNA can support laboratory-grown animals for planetary reseeding.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0149",
+        "p0151"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-483a15bb82a2-c05",
+      "assertion": "She distinguishes Ethiopia’s ceremonial object from her three Taygetan arks.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0115",
+        "p0117",
+        "p0120"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "reported-locations",
+    "destruction-account"
+  ]
+}

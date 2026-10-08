@@ -1,0 +1,102 @@
+{
+  "source_id": "src-0cf58b16e1d2",
+  "snapshot_sha256": "d4f00b35e5e288fbc1c5a4e8e45f67f5f6ff5836fec8ce2d5b8f7761d431dc05",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0cf58b16e1d2-c01",
+      "assertion": "Mari Swaruu says starseeds may struggle with conventional jobs and seek income from meaningful work.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cf58b16e1d2-c02",
+      "assertion": "She alleges institutions stigmatize paid spiritual and extraterrestrial services to monopolize these fields.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified political claim."
+    },
+    {
+      "id": "src-0cf58b16e1d2-c03",
+      "assertion": "Mari says money is necessary on Earth but is a tool whose effects depend on its use.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cf58b16e1d2-c04",
+      "assertion": "She says starseeds may associate money with exploitation and resist earning it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cf58b16e1d2-c05",
+      "assertion": "Mari recommends accepting compensation for valuable work while treating free service as a choice.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_social_claims"
+  ],
+  "coverage_gaps": [
+    "other_money_problems"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "source_id": "src-41d95366bce3",
+  "snapshot_sha256": "cd1d6735498bca5390461f889d0ec710c8073fb39b2b009f9bdfb6968d720be6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-41d95366bce3-c01",
+      "assertion": "Yazhi says identified genetic defects can be addressed by mapping and correcting the DNA sequence in the pod.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0015"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d95366bce3-c02",
+      "assertion": "She says wet pods are not generally light-therapy devices; dry pods use computer-controlled wavelengths tailored to individual tissues.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d95366bce3-c03",
+      "assertion": "Yazhi says genetic tweaks may increase IQ, though she considers the results dubious.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d95366bce3-c04",
+      "assertion": "Yazhi says cancer may recur after pod treatment if its underlying mental cause remains unresolved.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-41d95366bce3-c05",
+      "assertion": "Yazhi says pods need a reliable power supply, not necessarily zero-point energy.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0069",
+        "p0070"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_technology_claims"
+  ],
+  "coverage_gaps": [
+    "pod_variants"
+  ]
+}

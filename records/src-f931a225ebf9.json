@@ -1,0 +1,103 @@
+{
+  "source_id": "src-f931a225ebf9",
+  "snapshot_sha256": "3f1dc93cad9a1bd7d0b8dabfb2d61c50e16ef55883cbf92398c4a39376fc7706",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f931a225ebf9-c01",
+      "assertion": "Yazhi says outsiders may perceive Roman and Renaissance periods simultaneously.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0028"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f931a225ebf9-c02",
+      "assertion": "She describes shared agreements as synchronizing what groups manifest as reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f931a225ebf9-c03",
+      "assertion": "Yazhi says controllers fracture collective realities and use religion and ideology to divide populations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f931a225ebf9-c04",
+      "assertion": "She says Earth’s history is altered, and missing past-life memory helps people repeat mistakes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f931a225ebf9-c05",
+      "assertion": "Yazhi describes time as semi-linear for outsiders and timelines as manifesting together in the now.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "contested_historical_claims",
+    "personal_cosmology"
+  ],
+  "coverage_gaps": [
+    "additional_social_examples"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source_id": "src-695836837d0e",
+  "snapshot_sha256": "600d110842822ba37f9507c70f445730cea8f7e3d48d81bb86d9b318f9f29bc7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-695836837d0e-c01",
+      "assertion": "Gosia and Robert claim images implicating Taygetans may be altered or inserted to discredit them.",
+      "speaker": "Gosia and Robert",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified allegation."
+    },
+    {
+      "id": "src-695836837d0e-c02",
+      "assertion": "They say critics omit a broader extraterrestrial context and misinterpret the contact.",
+      "speaker": "Gosia and Robert",
+      "paragraph_ids": [
+        "p0005",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-695836837d0e-c03",
+      "assertion": "They urge readers to judge the contact by the content and complexity of its information.",
+      "speaker": "Gosia and Robert",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-695836837d0e-c04",
+      "assertion": "They claim contact with Taygetans has been harmonious for many private participants.",
+      "speaker": "Gosia and Robert",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_disinformation_claims"
+  ],
+  "coverage_gaps": [
+    "specific_evidence_for_allegations"
+  ]
+}

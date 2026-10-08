@@ -1,0 +1,79 @@
+{
+  "source_id": "src-aeb1859f925a",
+  "snapshot_sha256": "e64a74673c26a4c58ae70a9e649dfa75a87bf043a540f153d59c89d2290e31d3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-aeb1859f925a-c01",
+      "assertion": "Mari says leaving the Matrix requires independent criteria and protecting personal values, even amid family disagreement.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aeb1859f925a-c02",
+      "assertion": "Mari says social agreement does not make a collective belief true for every person.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aeb1859f925a-c03",
+      "assertion": "Mari says people can participate in social life while maintaining their own values and integrity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aeb1859f925a-c04",
+      "assertion": "Mari identifies personal cosmic consciousness as the enduring reality behind the Matrix experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

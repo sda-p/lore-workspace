@@ -384,6 +384,240 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [Extraterrestrial Races: Andromedans (Swaruu - Extraterrestrial Pleiadian Communication)](https://swaruu.org/transcripts/extraterrestrial-races-andromedans-swaruu-extraterrestrial-pleiadian-communication) (2020-09-20; en); passages p0010, p0023. [Structured record](../../records/src-6a52659ee34e.json).
 
+### src-25c59deebdc1-c05
+
+She says most 5D cultures use tailored societies grounded in union.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Federation and Earth Problems - Humans are the Key (Group Chat with Yazhi-Extraterrestrial Contact)](https://swaruu.org/transcripts/federation-and-earth-problems-humans-are-the-key-group-chat-with-yazhi-extraterrestrial-contact) (2021-03-19; en); passages p0231, p0232. [Structured record](../../records/src-25c59deebdc1.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-3907b4a8151c-c02
+
+Its councils scale from local communities to regions and planets, escalating unresolved problems upward.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation - What Is It? Taygeta (Pleiades) and Federation - Mutual Accusations (Swaruu X)](https://swaruu.org/transcripts/galactic-federation-what-is-it-taygeta-pleiades-and-federation-mutual-accusations-swaruu-x) (2021-06-16; en); passages p0017. [Structured record](../../records/src-3907b4a8151c.json).
+
+### src-9cfb205107c3-c05
+
+Yazhi says service to others aligns with self-interest because others are also oneself.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Can We Be Free In Higher Densities when Others Suffer? - Metaphysical Chat with Yazhi (ET Contact)](https://swaruu.org/transcripts/can-we-be-free-in-higher-densities-when-others-suffer-metaphysical-chat-with-yazhi-et-contact) (2021-02-11; en); passages p0087, p0089. [Structured record](../../records/src-9cfb205107c3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-412d2cb274cb-c02
+
+She describes Lemuria as a holographic matriarchy aided mainly by Taygeta, with Solatian and Engan cooperation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [First Ancient Battle - The rebellion in the Garden of Eden - Orion Wars - PART 5 \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/first-ancient-battle-the-rebellion-in-the-garden-of-eden-orion-wars-part-5-text-only-translated-orig) (2021-05-29; en); passages p0009. [Structured record](../../records/src-412d2cb274cb.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-2d8862e19785-c04
+
+Yazhi says to help when one is in a position to do so.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Why Do We Help? Do We Have To? Metaphysical Chats with Swaruu and Yazhi (Extraterrestrial Contact)](https://swaruu.org/transcripts/why-do-we-help-do-we-have-to-metaphysical-chats-with-swaruu-and-yazhi-extraterrestrial-contact) (2021-06-06; en); passages p0103, p0104, p0108. [Structured record](../../records/src-2d8862e19785.json).
+
+### src-4d572ab9d611-c01
+
+Anéeka says Taygeta’s planetary network connects with Alcyone Council and Federation networks.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Media communication in Taygeta - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/media-communication-in-taygeta-text-only-translated-originally-from-spanish) (2021-04-19; en); passages p0003, p0004. [Structured record](../../records/src-4d572ab9d611.json).
+
+### src-4d572ab9d611-c02
+
+Anéeka says any citizen can upload news to a connected planetary network with searchable public updates.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Media communication in Taygeta - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/media-communication-in-taygeta-text-only-translated-originally-from-spanish) (2021-04-19; en); passages p0003, p0004. [Structured record](../../records/src-4d572ab9d611.json).
+
+### src-4d572ab9d611-c03
+
+She says Taygetan entertainment aims to expand collective consciousness and wisdom.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Media communication in Taygeta - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/media-communication-in-taygeta-text-only-translated-originally-from-spanish) (2021-04-19; en); passages p0005, p0006. [Structured record](../../records/src-4d572ab9d611.json).
+
+### src-426ea469937a-c05
+
+She says High Council rules limit insertion; Taygetans prefer craftsmanship.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 3 - Inserting Objects and Situations into the Matrix - Athena Swaruu](https://swaruu.org/transcripts/stellar-navigation-3-inserting-objects-and-situations-into-the-matrix-athena-swaruu) (2022-06-28; en); passages p0092, p0094, p0098, p0100, p0101. [Structured record](../../records/src-426ea469937a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-09eef8905c88-c01
+
+Yazhi says Holistic Society emerges from a people’s mentality and cannot be imposed.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: ["Holographic" - HOLISTIC Society - Spiritual and Ethical Preparation is the First Step - Yazhi](https://swaruu.org/transcripts/holographic-holistic-society-spiritual-and-ethical-preparation-is-the-first-step-yazhi) (2022-03-18; en); passages p0007, p0008, p0012, p0031. [Structured record](../../records/src-09eef8905c88.json).
+
+### src-09eef8905c88-c02
+
+She says collective ethics, spirituality, and morality shape society.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: ["Holographic" - HOLISTIC Society - Spiritual and Ethical Preparation is the First Step - Yazhi](https://swaruu.org/transcripts/holographic-holistic-society-spiritual-and-ethical-preparation-is-the-first-step-yazhi) (2022-03-18; en); passages p0030, p0034, p0035. [Structured record](../../records/src-09eef8905c88.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-09eef8905c88-c03
+
+Yazhi warns service to others can exploit people without reciprocal care.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: ["Holographic" - HOLISTIC Society - Spiritual and Ethical Preparation is the First Step - Yazhi](https://swaruu.org/transcripts/holographic-holistic-society-spiritual-and-ethical-preparation-is-the-first-step-yazhi) (2022-03-18; en); passages p0038, p0039, p0040. [Structured record](../../records/src-09eef8905c88.json).
+
+### src-09eef8905c88-c04
+
+She recommends broad learning and personal responsibility for ethical development.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: ["Holographic" - HOLISTIC Society - Spiritual and Ethical Preparation is the First Step - Yazhi](https://swaruu.org/transcripts/holographic-holistic-society-spiritual-and-ethical-preparation-is-the-first-step-yazhi) (2022-03-18; en); passages p0047, p0048, p0051, p0054. [Structured record](../../records/src-09eef8905c88.json).
+
+### src-09eef8905c88-c06
+
+She proposes nonhuman mentorship while saying imposed models fail. The transcript leaves tension between mentorship and non-imposition.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: ["Holographic" - HOLISTIC Society - Spiritual and Ethical Preparation is the First Step - Yazhi](https://swaruu.org/transcripts/holographic-holistic-society-spiritual-and-ethical-preparation-is-the-first-step-yazhi) (2022-03-18; en); passages p0061, p0062, p0071, p0073. [Structured record](../../records/src-09eef8905c88.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-121438ec9343-c05
+
+She defines civilization level mainly by ethical and spiritual influence, not energy use.
+
+Attributed to **Swaruu X**; asserted; extraction confidence: high.
+
+Source: [Federation and Earth - Extraterrestrial Reality vs Humanity - Direct Extraterrestial Information](https://swaruu.org/transcripts/federation-and-earth-extraterrestrial-reality-vs-humanity-direct-extraterrestial-information) (2021-07-08; en); passages p0089, p0090. [Structured record](../../records/src-121438ec9343.json).
+
+### src-235efae6057f-c03
+
+She describes Taygetan education as interest-led, with few required subjects beyond survival skills.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [FROM PLEIADES TO EARTH - EXPERIENCE OF AN EXTRATERRESTRIAL - ANEEKA OF TEMMER \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/from-pleiades-to-earth-experience-of-an-extraterrestrial-aneeka-of-temmer-no-video) (2021-10-01; en); passages p0015, p0016, p0017, p0022. [Structured record](../../records/src-235efae6057f.json).
+
+### src-59816f3eae2d-c03
+
+Mari says service to others can become exploitative on Earth, unlike reciprocal holistic societies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Important thoughts after 5 years of contact (English)](https://swaruu.org/transcripts/important-thoughts-after-5-years-of-contact-english) (2022-12-25; en); passages p0012, p0013, p0014, p0015. [Structured record](../../records/src-59816f3eae2d.json).
+
+### src-6af7853b713e-c03
+
+Athena says Earth’s universal laws should emerge with awareness, not force.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Ufo Conference Finland - Mini Report - Live Online Connection with Athena Swaruu](https://swaruu.org/transcripts/ufo-conference-finland-mini-report-live-online-connection-with-athena-swaruu) (2021-11-07; en); passages p0008, p0009, p0010. [Structured record](../../records/src-6af7853b713e.json).
+
+### src-e5ffdf73eebe-c01
+
+Yazhi says a holistic society depends on a population’s shared mentality, not fixed moral rules.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: ["Holographic" - HOLISTIC Society - Transitional Societies are Possible - Yazhi Swaruu](https://swaruu.org/transcripts/holographic-holistic-society-transitional-societies-are-possible-yazhi-swaruu) (2022-03-25; en); passages p0003, p0006, p0008, p0009. [Structured record](../../records/src-e5ffdf73eebe.json).
+
+### src-e5ffdf73eebe-c02
+
+She says current human society cannot be shifted directly into a holistic society, but a gradual transition is possible.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: ["Holographic" - HOLISTIC Society - Transitional Societies are Possible - Yazhi Swaruu](https://swaruu.org/transcripts/holographic-holistic-society-transitional-societies-are-possible-yazhi-swaruu) (2022-03-25; en); passages p0025, p0029, p0030, p0032, p0035. [Structured record](../../records/src-e5ffdf73eebe.json).
+
+### src-e5ffdf73eebe-c04
+
+Yazhi theorizes removing negative interference could move humanity toward a holistic society.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: ["Holographic" - HOLISTIC Society - Transitional Societies are Possible - Yazhi Swaruu](https://swaruu.org/transcripts/holographic-holistic-society-transitional-societies-are-possible-yazhi-swaruu) (2022-03-25; en); passages p0060, p0063, p0064. [Structured record](../../records/src-e5ffdf73eebe.json).
+
+### src-8236c8661af7-c01
+
+Gosia’s manifesto portrays people acting collectively as the only force capable of resisting oppression.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Yazhi Swaruu and Gosia - JOAN MANIFESTO - Message for the Starseeds in the Times of Crisis](https://swaruu.org/transcripts/yazhi-swaruu-and-gosia-joan-manifesto-message-for-the-starseeds-in-the-times-of-crisis) (2021-09-13; en); passages p0003, p0005, p0006, p0007. [Structured record](../../records/src-8236c8661af7.json).
+
+### src-8236c8661af7-c04
+
+She says spiritual focus alone is insufficient on Earth; people must pair it with practical action.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Yazhi Swaruu and Gosia - JOAN MANIFESTO - Message for the Starseeds in the Times of Crisis](https://swaruu.org/transcripts/yazhi-swaruu-and-gosia-joan-manifesto-message-for-the-starseeds-in-the-times-of-crisis) (2021-09-13; en); passages p0032, p0033, p0034, p0035. [Structured record](../../records/src-8236c8661af7.json).
+
+### src-a750cb52cbee-c04
+
+Athena says isolated transition communities remain vulnerable and cannot transform Earth alone.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Holisitic Society - Questions for Athena and Yazhi - Main Points - Live with Gosia](https://swaruu.org/transcripts/holisitic-society-questions-for-athena-and-yazhi-main-points-live-with-gosia) (2022-03-27; en); passages p0056, p0057, p0058, p0059. [Structured record](../../records/src-a750cb52cbee.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-a750cb52cbee-c05
+
+Athena says holistic society reflects collective mindset; automation reduces necessary work.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Holisitic Society - Questions for Athena and Yazhi - Main Points - Live with Gosia](https://swaruu.org/transcripts/holisitic-society-questions-for-athena-and-yazhi-main-points-live-with-gosia) (2022-03-27; en); passages p0064, p0066. [Structured record](../../records/src-a750cb52cbee.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-63a2efae9b5b-c03
+
+Yazhi describes holographic governance as locally tailored and workable even in two-person communities.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Starseeds - What should we DO and how should we BE now? Conversation with Yazhi Swaruu](https://swaruu.org/transcripts/starseeds-what-should-we-do-and-how-should-we-be-now-conversation-with-yazhi-swaruu) (2021-09-07; en); passages p0032, p0033, p0035. [Structured record](../../records/src-63a2efae9b5b.json).
+
+### src-63a2efae9b5b-c04
+
+Yazhi presents mutual aid for members in hardship as a basis for community survival.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Starseeds - What should we DO and how should we BE now? Conversation with Yazhi Swaruu](https://swaruu.org/transcripts/starseeds-what-should-we-do-and-how-should-we-be-now-conversation-with-yazhi-swaruu) (2021-09-07; en); passages p0033, p0034. [Structured record](../../records/src-63a2efae9b5b.json).
+
+Related topics: [Economics and resources](economics.md).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -394,6 +628,15 @@ Source: [Extraterrestrial Races: Andromedans (Swaruu - Extraterrestrial Pleiadia
 - [src-d9ac63440a2c-c03](alien-species.md#src-d9ac63440a2c-c03) — Alien species and distinctions
 - [src-fc319f4029d5-c01](taygetans.md#src-fc319f4029d5-c01) — Taygetans
 - [src-fc319f4029d5-c02](taygetans.md#src-fc319f4029d5-c02) — Taygetans
+- [src-3ce9e57dfd79-c05](taygetans.md#src-3ce9e57dfd79-c05) — Taygetans
+- [src-5a5946c015e8-c03](taygetans.md#src-5a5946c015e8-c03) — Taygetans
+- [src-426ea469937a-c06](starship-systems.md#src-426ea469937a-c06) — Starship systems
+- [src-09eef8905c88-c05](economics.md#src-09eef8905c88-c05) — Economics and resources
+- [src-06cf2b3b68e8-c02](taygetans.md#src-06cf2b3b68e8-c02) — Taygetans
+- [src-22d5f1e26b59-c04](earth-cabal.md#src-22d5f1e26b59-c04) — Earth Cabal and power structures
+- [src-63a2efae9b5b-c02](consciousness-metaphysics.md#src-63a2efae9b5b-c02) — Consciousness and metaphysics
+- [src-0f4f8d997259-c02](starship-systems.md#src-0f4f8d997259-c02) — Starship systems
+- [src-01c3c72a675d-c03](earth-cabal.md#src-01c3c72a675d-c03) — Earth Cabal and power structures
 
 ## Review flags
 
@@ -403,12 +646,27 @@ Source: [Extraterrestrial Races: Andromedans (Swaruu - Extraterrestrial Pleiadia
 - coverage: interspecies compatibility
 - crime\_and\_abundance\_claims
 - dialogue-perspectives-distinguished
+- earth-consciousness\_claim\_omitted
+- ethical\_use\_limits
+- extraordinary\_history\_claims
+- extraordinary\_medical\_claims
+- intervention\_tension
 - manifestation\_mechanics
 - matrix\_scope
+- medical\_claims\_omitted
+- metaphysical-claims
+- metaphysical\_worldview
+- meteorite\_claim\_omitted
+- personal\_social\_theory
+- political-allegation
+- political\_claims
 - political\_structure\_claims
 - self-reported-traits
 - speaker: interviewer questions excluded as claims
 - species\_specific\_reproduction
 - technology\_claims
+- translated\_source
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- unverified\_biological\_claims
+- unverified\_technical\_claims

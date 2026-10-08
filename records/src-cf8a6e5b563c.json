@@ -1,0 +1,97 @@
+{
+  "source_id": "src-cf8a6e5b563c",
+  "snapshot_sha256": "045b3b9247cea8fa46191e1c49c3949077a29b843228f40bf7f8a2eb360ef0c0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cf8a6e5b563c-c01",
+      "assertion": "Athena says the Swaruu group experiences vivid shared memories linked to Swaruu Ananda’s former home.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf8a6e5b563c-c02",
+      "assertion": "Yazhi says past and future are ideas experienced through present consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf8a6e5b563c-c03",
+      "assertion": "She advises changing one’s interpretation of the past to shift present attitudes and future expectations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf8a6e5b563c-c04",
+      "assertion": "Yazhi says multiple imagined pasts converge to shape an individual present.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cf8a6e5b563c-c05",
+      "assertion": "She says reality has no fixed objective form beyond relative viewpoints and agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_metaphysical_claims",
+    "translated_source"
+  ],
+  "coverage_gaps": [
+    "past_life_mechanism"
+  ]
+}

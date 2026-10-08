@@ -1,0 +1,114 @@
+{
+  "source_id": "src-50c08119afee",
+  "snapshot_sha256": "2b033e44910a71918367ed124c9467ac4a3c29add355c36bab3b4feb982a2f2e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-50c08119afee-c01",
+      "assertion": "Mari says Earth’s electromagnetic environment hinders telepathy but does not make it impossible.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50c08119afee-c02",
+      "assertion": "She says telepathy is strongest between people who know each other well and share similar frequencies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50c08119afee-c03",
+      "assertion": "Mari says Lyrians use verbal telepathic language, with Taygetan words carrying extensive meaning.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50c08119afee-c04",
+      "assertion": "She says clear intention can act as a mental firewall that limits thought transmission.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50c08119afee-c05",
+      "assertion": "Mari says her group sends telepathic messages to Earth but cannot identify most recipients.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-50c08119afee-c06",
+      "assertion": "She warns that some alleged channeling claims are hoaxes and they cannot identify most receivers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_telepathy_claims"
+  ],
+  "coverage_gaps": [
+    "telepathic-contact-verification"
+  ]
+}

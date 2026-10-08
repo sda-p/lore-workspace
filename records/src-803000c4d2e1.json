@@ -1,0 +1,113 @@
+{
+  "source_id": "src-803000c4d2e1",
+  "snapshot_sha256": "5f6f5272d43d84cb6980608e889a2efd18c4e9235d61a23df0102b294257d5ba",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-803000c4d2e1-c01",
+      "assertion": "Mari says truth, good, and evil are viewpoint-relative, not absolute.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-803000c4d2e1-c02",
+      "assertion": "She defines timelines as personal or collective agreements about event sequences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-803000c4d2e1-c03",
+      "assertion": "Mari says expanded awareness can integrate contradictory timelines without adopting both accounts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-803000c4d2e1-c04",
+      "assertion": "She says opposing groups during a global illness crisis both entered fear and survival modes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This summarizes her account of their reactions."
+    },
+    {
+      "id": "src-803000c4d2e1-c05",
+      "assertion": "Mari advises examining beliefs, understanding opposing views, and replacing ideas when better ones arise.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-803000c4d2e1-c06",
+      "assertion": "She says broader awareness can bring greater understanding and peace alongside social isolation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_metaphysical_claims"
+  ],
+  "coverage_gaps": [
+    "timeline_examples"
+  ]
+}

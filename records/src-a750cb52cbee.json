@@ -1,0 +1,110 @@
+{
+  "source_id": "src-a750cb52cbee",
+  "snapshot_sha256": "ff103133c7c2ca9de9fceca390dde500fe45816ea9ddba16bb3c78a58564cee8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a750cb52cbee-c01",
+      "assertion": "Yazhi says human cloning has occurred since the 1930s; some prepared people are not clones.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0021"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a750cb52cbee-c02",
+      "assertion": "Yazhi attributes crowd manipulation to artificial telepathy and stadium egregors.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a750cb52cbee-c03",
+      "assertion": "Yazhi says Cabal power depends on human attention and collective creative activity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0040",
+        "p0041",
+        "p0044"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a750cb52cbee-c04",
+      "assertion": "Athena says isolated transition communities remain vulnerable and cannot transform Earth alone.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0056",
+        "p0057",
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a750cb52cbee-c05",
+      "assertion": "Athena says holistic society reflects collective mindset; automation reduces necessary work.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0064",
+        "p0066"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "human-clones",
+      "name": "Human clones and manufactured persons",
+      "kind": "technology",
+      "aliases": [
+        "clones"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-5a5b37e4325b",
+  "snapshot_sha256": "8f704dc2f9d54bccc55f0b984ea2b9d01bcb8a4cf2aedf53071afc98d7b4b297",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5a5b37e4325b-c01",
+      "assertion": "She says humans can be both victims of injustice and contributors to collective conditions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5b37e4325b-c02",
+      "assertion": "She says reliance on authorities and avoidance of decisions enables mass manipulation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5b37e4325b-c03",
+      "assertion": "She says starseeds may be victims of collective pressures despite prior life plans.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5b37e4325b-c04",
+      "assertion": "She says many starseeds lack economic resources because they reject debt-based work systems.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5a5b37e4325b-c05",
+      "assertion": "She says people need prior knowledge to understand unfamiliar frameworks and form independent views.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "additional-source-details"
+  ]
+}

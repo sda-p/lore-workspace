@@ -1,0 +1,76 @@
+{
+  "source_id": "src-4b4fb9a7101a",
+  "snapshot_sha256": "03e6824df39991ec86a32904d8c02c9409c4be07c7114736bd98d783997ad94d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4b4fb9a7101a-c01",
+      "assertion": "Gosia calls Earth-incarnated starseeds a special force working to awaken humanity.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4b4fb9a7101a-c02",
+      "assertion": "She says people need not die to recognize their talents and contributions.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4b4fb9a7101a-c03",
+      "assertion": "Gosia describes starseeds as a diverse group whose distinct traits enrich humanity.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4b4fb9a7101a-c04",
+      "assertion": "She says few souls choose Earth’s experience and encourages them to value it.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "motivational_message"
+  ]
+}

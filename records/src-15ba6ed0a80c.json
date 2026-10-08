@@ -1,0 +1,107 @@
+{
+  "source_id": "src-15ba6ed0a80c",
+  "snapshot_sha256": "294547f9cc67de28910890435195b449bac9d8be01337e605339568c5fe147ea",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-15ba6ed0a80c-c01",
+      "assertion": "Anéeka describes Puma Punku as a multi-race Federation starbase with sound- and gravity-cut stones.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified archaeological claim."
+    },
+    {
+      "id": "src-15ba6ed0a80c-c02",
+      "assertion": "She says its Solar Gate encodes instructions and timing for a solar portal.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0010",
+        "p0038"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15ba6ed0a80c-c03",
+      "assertion": "Anéeka dates the extraterrestrial structure to 12,000 years and links Machu Picchu to Atlantis.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "atlantis-lemuria"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Conflicts with official dates; unverified."
+    },
+    {
+      "id": "src-15ba6ed0a80c-c04",
+      "assertion": "She attributes Machu Picchu’s construction to Usungal Reptilians and rejects a single “Anunnaki” creator race.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15ba6ed0a80c-c05",
+      "assertion": "Anéeka says solar portals connect through the Sun and ships travel by frequency jumps, not warped space.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0052",
+        "p0054",
+        "p0055",
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified cosmology."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_archaeology",
+    "unverified_extraterrestrial_claims"
+  ],
+  "coverage_gaps": [
+    "elongated_skull_and_humanoid_claims"
+  ]
+}

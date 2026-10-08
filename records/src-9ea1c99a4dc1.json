@@ -1,0 +1,99 @@
+{
+  "source_id": "src-9ea1c99a4dc1",
+  "snapshot_sha256": "ff13e2bd5fed35c04d23728e1953f5f800e03aad317eea10681993da6a8386b3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9ea1c99a4dc1-c01",
+      "assertion": "Yazhi says the local Federation does not control Earth; who does is unclear.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ea1c99a4dc1-c02",
+      "assertion": "Yazhi says Alcyone and Alenym are not in charge of this sector.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ea1c99a4dc1-c03",
+      "assertion": "Yazhi speculates nuclear threats could be staged with conventional explosives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ea1c99a4dc1-c04",
+      "assertion": "Yazhi says radiation could favor some nonhuman low-frequency organisms.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ea1c99a4dc1-c05",
+      "assertion": "Yazhi says Hiroshima may not have been nuclear but cannot confirm this.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "historical_and_nuclear_claims_unverified",
+    "diet_claim_omitted"
+  ],
+  "coverage_gaps": [
+    "insect_diet"
+  ]
+}

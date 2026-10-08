@@ -1,0 +1,98 @@
+{
+  "source_id": "src-8fceb6353c22",
+  "snapshot_sha256": "1b2389ef74a510cc61c3acdc4fdeaa6b3f69a8134609e864c3037dae1bc531c7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8fceb6353c22-c01",
+      "assertion": "She says many extraterrestrials incarnate on Earth to test themselves and return with experience.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8fceb6353c22-c02",
+      "assertion": "She traces the Cabal’s origin to Nefertiti and Akhenaten’s monotheist rule in Egypt.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8fceb6353c22-c03",
+      "assertion": "She distinguishes physical Reptilian exploiters from astral entities she describes as human-generated egregores.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8fceb6353c22-c04",
+      "assertion": "She says collective fear sustains egregores by concentrating attention on threatening ideas.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8fceb6353c22-c05",
+      "assertion": "She says mind control arises from human power structures, collective entities, and outside races.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "additional-topics"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "source_id": "src-fcdd1fc45e3e",
+  "snapshot_sha256": "fa76df9d0b5c4bab860be928588981c6bcc474b6af042c24d71c9366729b3fdb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fcdd1fc45e3e-c01",
+      "assertion": "She says carbon-to-silicon change is a simplified analogy for increasing DNA complexity across perception levels.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fcdd1fc45e3e-c02",
+      "assertion": "She says extraterrestrial science treats elements as frequency variants rather than separate boxes.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fcdd1fc45e3e-c03",
+      "assertion": "She reports human, Taygetan, and Swaruunean DNA as 23/2, 24/12, and 24/24 chromosome/strand counts; she later describes the Swaruunean crystalline mass as 48 chromosomes.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fcdd1fc45e3e-c04",
+      "assertion": "She says Swaruunean crystalline DNA enables unusual state changes, including dematerialization and wall passage.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fcdd1fc45e3e-c05",
+      "assertion": "She says silicon-based life can be non-crystalline and need not imply greater consciousness.",
+      "speaker": "Swaruu Minerva (11)",
+      "paragraph_ids": [
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "biological-claims-unverified",
+    "inter-speaker-distinction"
+  ],
+  "coverage_gaps": [
+    "additional-source-topics"
+  ]
+}

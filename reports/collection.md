@@ -1,24 +1,32 @@
 # Continuous collection progress
 
-Updated: 2026-10-08T14:44:22+00:00
+Updated: 2026-10-08T15:11:57+00:00
 
 - Inventoried URLs: 2207
-- Independently reviewed source records: 180
-- Source-specific claims: 1024
+- Independently reviewed source records: 380
+- Source-specific claims: 1999
+- Reviewed record languages: {'en': 378, 'es': 2}
+- Released records awaiting completed independent review/integration: 47
 - Exact duplicate URLs skipped: 0
-- Unassigned URLs: 1987
-- Assigned records still needing work: 40
+- Unassigned URLs: 1297
+- Assigned records still needing work: 530
 
-Source-record counts include retained language/revision variants and are not counts of independent corroborating accounts. Each record is a compact core extraction, not exhaustive coverage. English-first selection uses title heuristics; other languages remain available for later comparisons.
+Source-record counts include retained language/revision variants and are not counts of independent corroborating accounts. Each record is a compact core extraction, not exhaustive coverage. English-first selection uses title heuristics plus coordinator review of ambiguous titles. Later cohorts process Spanish and remaining records; extracts are written in English, with original source language retained.
 
-| Cohort | Records selected | Status | Review corrections |
-| --- | ---: | --- | ---: |
-| continuous-002 | 40 | reviewed | 3 |
-| continuous-003 | 40 | reviewed | 18 |
-| continuous-004 | 40 | reviewed | 2 |
-| continuous-005 | 40 | reviewed | 1 |
-| continuous-006 | 40 | running | 0 |
-| continuous-007 | 160 | selected | 0 |
+| Cohort | Records selected | Records released | Records reviewed | Status | Review corrections |
+| --- | ---: | ---: | ---: | --- | ---: |
+| continuous-002 | 40 | 40 | 40 | reviewed | 3 |
+| continuous-003 | 40 | 40 | 40 | reviewed | 18 |
+| continuous-004 | 40 | 40 | 40 | reviewed | 2 |
+| continuous-005 | 40 | 40 | 40 | reviewed | 1 |
+| continuous-006 | 40 | 40 | 40 | reviewed | 7 |
+| continuous-007 | 160 | 160 | 160 | reviewed | 35 |
+| continuous-008 | 160 | 47 | 0 | running | 0 |
+| continuous-009 | 160 | 0 | 0 | running | 0 |
+| continuous-010 | 160 | 0 | 0 | running | 0 |
+| continuous-011 | 20 | 0 | 0 | running | 0 |
+| continuous-012 | 30 | 0 | 0 | running | 0 |
+| continuous-013 | 160 | 0 | 0 | selected | 0 |
 
 ## Resume
 

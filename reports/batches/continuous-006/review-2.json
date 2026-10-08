@@ -1,0 +1,93 @@
+{
+  "batch_id": "continuous-006",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-ae446f3f0257",
+    "src-06a1e5437c02",
+    "src-d5451f641c29",
+    "src-e0bf43728ed8",
+    "src-6405efb50124",
+    "src-476c3db82f6f",
+    "src-a8f8b6f4e217",
+    "src-19035581527f",
+    "src-9cfb205107c3",
+    "src-d6a0ac260f57",
+    "src-792e153c2f4a",
+    "src-b29b0f8556c0",
+    "src-01afc3489faf",
+    "src-412d2cb274cb",
+    "src-09e26ee299cd",
+    "src-228725f2ab65",
+    "src-ce9c92fd3b4e",
+    "src-3be9eb3ebf33",
+    "src-5a5946c015e8",
+    "src-4d572ab9d611"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-476c3db82f6f",
+      "claim_id": "src-476c3db82f6f-c01",
+      "problem": "The citation did not support the specific Flavian and population-control attribution.",
+      "action": "Reworded the attribution and cited the explicit Flavian-fabrication and Roman-population-control passages.",
+      "paragraph_ids": [
+        "p0002",
+        "p0007",
+        "p0014"
+      ]
+    },
+    {
+      "source_id": "src-476c3db82f6f",
+      "claim_id": "src-476c3db82f6f-c02",
+      "problem": "The assertion overstated that gospel accounts derive from Roman/Flavian sources; cited text instead says proposed corroboration comes from the Gospels and attributes fabrication to Flavians.",
+      "action": "Narrowed the assertion to those source-specific claims and cited the supporting passages.",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ]
+    },
+    {
+      "source_id": "src-a8f8b6f4e217",
+      "claim_id": "src-a8f8b6f4e217-c01",
+      "problem": "The assertion named Isis, but its cited passages did not contain that identification.",
+      "action": "Added the passage explicitly linking Isis, Virgo, and Horus.",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0018",
+        "p0019"
+      ]
+    },
+    {
+      "source_id": "src-e0bf43728ed8",
+      "claim_id": "src-e0bf43728ed8-c03",
+      "problem": "The claim attributed Dale\u2019s gravity-penetration inference to Yazhi and omitted her direct answer about gravity weapons.",
+      "action": "Distinguished Dale\u2019s inference from Yazhi\u2019s confirmation and cited her beam explanation.",
+      "paragraph_ids": [
+        "p0072",
+        "p0075",
+        "p0076",
+        "p0078",
+        "p0080"
+      ]
+    },
+    {
+      "source_id": "src-d6a0ac260f57",
+      "claim_id": "src-d6a0ac260f57-c01",
+      "problem": "\u201cAdult fighter\u201d could overstate a military role; cited text contrasts an adult woman who fought evil with a child described as having an expanded mind.",
+      "action": "Reworded to match the source\u2019s explicit contrast and removed unrelated citations.",
+      "paragraph_ids": [
+        "p0003"
+      ]
+    },
+    {
+      "source_id": "src-ce9c92fd3b4e",
+      "claim_id": "src-ce9c92fd3b4e-c03",
+      "problem": "The assertion omitted the source\u2019s \u201cin 5D\u201d restriction for its description of Venus.",
+      "action": "Added the density qualifier.",
+      "paragraph_ids": [
+        "p0033"
+      ]
+    }
+  ],
+  "unresolved": []
+}

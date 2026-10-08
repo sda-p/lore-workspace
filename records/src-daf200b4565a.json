@@ -1,0 +1,103 @@
+{
+  "source_id": "src-daf200b4565a",
+  "snapshot_sha256": "a4a514d35f9b58b38ed07b8c9baa5a5e78d0fc9cc0f7a281069d9b31fbff3947",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-daf200b4565a-c01",
+      "assertion": "Mari says extraterrestrial knowledge can expand consciousness and challenge Earth’s Matrix by revealing humans live among the stars.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daf200b4565a-c02",
+      "assertion": "Mari says disclosures omit space humans because their existence challenges accepted accounts of human origins.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daf200b4565a-c03",
+      "assertion": "Mari says governments may control disclosure narratives, validating official information while marginalizing independent researchers.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daf200b4565a-c04",
+      "assertion": "Mari says official disclosure may frame extraterrestrials through existing religious narratives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-daf200b4565a-c05",
+      "assertion": "Mari warns that people impersonate her group online, which she says is not openly using social media.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "disclosure_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "narrative_examples"
+  ]
+}

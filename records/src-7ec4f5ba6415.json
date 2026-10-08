@@ -1,0 +1,104 @@
+{
+  "source_id": "src-7ec4f5ba6415",
+  "snapshot_sha256": "f9a78c4f17aad8ee314a69de7d9c60375de64fa9731e3db06c736e5364e6f6a8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7ec4f5ba6415-c01",
+      "speaker": "Swaruu (9)",
+      "assertion": "Swaruu (9) alleges vegan diets harm most humans, while presenting her conclusion as research-based.",
+      "paragraph_ids": [
+        "p0003",
+        "p0051"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ec4f5ba6415-c02",
+      "speaker": "Swaruu (9)",
+      "assertion": "She says humans may require animal foods under current conditions, but stresses she is nonhuman.",
+      "paragraph_ids": [
+        "p0014",
+        "p0045"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ec4f5ba6415-c03",
+      "speaker": "Swaruu (9)",
+      "assertion": "She proposes cultured meat as an alternative that avoids raising conscious animals.",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "cultivated-meat"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ec4f5ba6415-c04",
+      "speaker": "Anéeka",
+      "assertion": "Anéeka says large starship aquaponics gardens supplement, but cannot feed, the crew.",
+      "paragraph_ids": [
+        "p0132"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7ec4f5ba6415-c05",
+      "speaker": "Swaruu (9)",
+      "assertion": "Swaruu says her diet claims caused diplomatic friction among Federation species.",
+      "paragraph_ids": [
+        "p0226",
+        "p0228"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "cultivated-meat",
+      "name": "Cultivated meat",
+      "kind": "technology",
+      "aliases": [
+        "artificial meat"
+      ]
+    }
+  ],
+  "review_flags": [
+    "health-claims-unverified",
+    "conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "diet-details",
+    "animal-ethics"
+  ]
+}

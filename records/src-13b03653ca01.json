@@ -1,0 +1,108 @@
+{
+  "source_id": "src-13b03653ca01",
+  "snapshot_sha256": "1198f166ea2e30696fbf8ab6e0df7dfd1dee2d4a884745248df5c009ea457262",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-13b03653ca01-c01",
+      "assertion": "Anéeka alleges vaccine formulations vary by age, region, and population group.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0013",
+        "p0015",
+        "p0089"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-13b03653ca01-c02",
+      "assertion": "She claims inoculations alter cells genetically and cannot be reversed by an ordinary Med Pod.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-13b03653ca01-c03",
+      "assertion": "Anéeka proposes rebuilding a person from unaffected cells through cloning and consciousness transfer.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-13b03653ca01-c04",
+      "assertion": "She describes viruses as cellular exosomes that signal between cells, rather than independently living agents.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0128",
+        "p0147",
+        "p0149",
+        "p0153"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-13b03653ca01-c05",
+      "assertion": "Anéeka distinguishes viral change across people from a virus mutating autonomously.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0159",
+        "p0172",
+        "p0178"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "vaccine-inoculation-claims",
+      "name": "Inoculation and genetic alteration claims",
+      "kind": "technology",
+      "aliases": [
+        "vaccine claims"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "medical-claims"
+  ]
+}

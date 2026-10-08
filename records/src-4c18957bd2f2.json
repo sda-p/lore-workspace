@@ -1,0 +1,169 @@
+{
+  "source_id": "src-4c18957bd2f2",
+  "snapshot_sha256": "2b2c8a78e9f61c0c03bda98c72c2d64cf159c2d93edcf287a4434a7a609e7020",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4c18957bd2f2-c01",
+      "assertion": "Yazhi says other civilizations share isolated Earth-like events, not Earth’s full Matrix experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c18957bd2f2-c02",
+      "assertion": "Yazhi says public AI is controlled to shape perception, unlike non-invasive Taygetan AI.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c18957bd2f2-c03",
+      "assertion": "Yazhi describes a tube device that draws atmospheric charge to heat or cool homes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "etheric-load-heaters",
+      "topics": [
+        "etheric-load-heaters",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c18957bd2f2-c04",
+      "assertion": "Yazhi says Taygeta was settled by interstellar migrants during the Great Expansion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0039",
+        "p0041",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c18957bd2f2-c05",
+      "assertion": "Yazhi says soul fragmentation lets multiple people share one past-life identity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c18957bd2f2-c06",
+      "assertion": "Yazhi says extraterrestrial navigation uses frequency maps, not light-year distances.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0111",
+        "p0112",
+        "p0114",
+        "p0116",
+        "p0117",
+        "p0120"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4c18957bd2f2-c07",
+      "assertion": "Yazhi says goblins occupy a different vibration and leave detectable footprints.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0079",
+        "p0080",
+        "p0081",
+        "p0088",
+        "p0096",
+        "p0099",
+        "p0100"
+      ],
+      "primary_topic": "goblins",
+      "topics": [
+        "goblins",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "etheric-load-heaters",
+      "name": "Etheric load heaters",
+      "kind": "technology",
+      "aliases": [
+        "etheric bombs"
+      ]
+    },
+    {
+      "id": "goblins",
+      "name": "Goblins",
+      "kind": "species",
+      "aliases": []
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

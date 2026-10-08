@@ -1,0 +1,103 @@
+{
+  "source_id": "src-3151bfa9585e",
+  "snapshot_sha256": "bb4b1a230d98e9ded659db61e0262efa8895e6b4dd4c986a134f7e72589db68f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3151bfa9585e-c01",
+      "assertion": "Athena says the Moon’s mass was added to stabilize Earth and the solar system after Tiamat’s destruction.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3151bfa9585e-c02",
+      "assertion": "Athena says low lunar frequencies fostered Earth regressive egregors, but disputes that this was intended to contain Reptilians.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0021"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3151bfa9585e-c03",
+      "assertion": "Athena says Van Allen bands destroy organic tissue unless beings use toroidal immersion technology.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3151bfa9585e-c04",
+      "assertion": "Swaruu 9 says thousands of lunar surface projectors combine to create the Moon hologram and can fail.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0053",
+        "p0054",
+        "p0055",
+        "p0056"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3151bfa9585e-c05",
+      "assertion": "Anéeka says twelve lunar nuclear reactors power Matrix frequencies and the hologram, not engines.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0069",
+        "p0071",
+        "p0073"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

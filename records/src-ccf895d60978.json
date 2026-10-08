@@ -1,0 +1,100 @@
+{
+  "source_id": "src-ccf895d60978",
+  "snapshot_sha256": "8aa63301d39e0505d2d4b2bd4b39c90412057ff5a23a2f22d73648a5d602c735",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ccf895d60978-c01",
+      "assertion": "Yazhi says dry pods replace mapped tissue with gravity-imprinted material, while wet pods use patient-derived stem cells.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007",
+        "p0014"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ccf895d60978-c02",
+      "assertion": "She says wet-pod holograms guide stem cells to form the patient’s needed tissues.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ccf895d60978-c03",
+      "assertion": "Yazhi says stable patients may regrow limbs and repair organs; full renewal takes about three ship months.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0044",
+        "p0051"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ccf895d60978-c04",
+      "assertion": "She says an exact clone could be produced from stem cells and a computer-generated hologram.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0056"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ccf895d60978-c05",
+      "assertion": "Yazhi says pods address physical illness, but recurring thought patterns may restore illness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0064",
+        "p0067"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_technology_claims"
+  ],
+  "coverage_gaps": [
+    "pod_procedures"
+  ]
+}

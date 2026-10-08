@@ -162,17 +162,89 @@ Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [Antarctica - Extraterrestrial bases \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/antarctica-extraterrestrial-bases-no-video) (2021-01-04; en); passages p0003. [Structured record](../../records/src-c2b7cd1441d7.json).
 
+### src-412d2cb274cb-c01
+
+Yazhi says Lemurian Evas freed Adamic people held by Atlantean controllers in Turkey.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [First Ancient Battle - The rebellion in the Garden of Eden - Orion Wars - PART 5 \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/first-ancient-battle-the-rebellion-in-the-garden-of-eden-orion-wars-part-5-text-only-translated-orig) (2021-05-29; en); passages p0003, p0007, p0011. [Structured record](../../records/src-412d2cb274cb.json).
+
+### src-74e890f5b7d3-c01
+
+She says Merlin was likely a Druid with advanced knowledge, while the Arthurian accounts mix history and fiction.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Druids, Merlin, Shamans, and prohibited knowledge destroyed by the Cabal - Athena Swaruu](https://swaruu.org/transcripts/druids-merlin-shamans-and-prohibited-knowledge-destroyed-by-the-cabal-athena-swaruu) (2021-11-27; en); passages p0003, p0005, p0006. [Structured record](../../records/src-74e890f5b7d3.json).
+
+### src-90318213f446-c01
+
+She links the name Lemuria to Irish traditions of a sunken ancestral land.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Atlantis and Lemuria - Invasion of Venus - Questions and Answers - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/atlantis-and-lemuria-invasion-of-venus-questions-and-answers-text-only-translated-originally-from-sp) (2021-10-14; en); passages p0012, p0013, p0015. [Structured record](../../records/src-90318213f446.json).
+
+### src-90318213f446-c03
+
+She says Lemuria was founded by Atlantis separatists and later supported by Pleiadian colonies.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Atlantis and Lemuria - Invasion of Venus - Questions and Answers - \*\*Text only / Translated originally from Spanish\*\*](https://swaruu.org/transcripts/atlantis-and-lemuria-invasion-of-venus-questions-and-answers-text-only-translated-originally-from-sp) (2021-10-14; en); passages p0063, p0065, p0067. [Structured record](../../records/src-90318213f446.json).
+
+### src-1e8728b1466f-c03
+
+Dhor says multiple ancient civilizations built the site, with buried facilities and cities beneath Nazca.
+
+Attributed to **Dhor Káal’el**; reported; extraction confidence: high.
+
+Source: [Nazca Lines - What Are They? Extraterrestrial Pilot Explains - Dhor K´aal´el (Taygeta)](https://swaruu.org/transcripts/nazca-lines-what-are-they-extraterrestrial-pilot-explains-dhor-k-aal-el-taygeta) (2022-08-31; en); passages p0022, p0030, p0046, p0058. [Structured record](../../records/src-1e8728b1466f.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-0d91bb4e0e59-c04
+
+Athena describes an old DUMB beneath southern Crimea, linked to Bucegi and Giza.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Conflict in Ukraine - Direct Extraterrestrial Perspective - Athena Swaruu](https://swaruu.org/transcripts/conflict-in-ukraine-direct-extraterrestrial-perspective-athena-swaruu) (2022-02-18; en); passages p0023, p0024. [Structured record](../../records/src-0d91bb4e0e59.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-c5e6117394fd-c04
+
+Yazhi says Druids and Bards were meant to restore cosmic awareness, but Rome and the Atonist Cabal suppressed them.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Yazhi Swaruu and the Issues of Human Past - Perceptual and Laboratory Influences](https://swaruu.org/transcripts/yazhi-swaruu-and-the-issues-of-human-past-perceptual-and-laboratory-influences) (2021-12-20; en); passages p0030, p0031. [Structured record](../../records/src-c5e6117394fd.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-4edf6c848c69-c03](tiamat.md#src-4edf6c848c69-c03) — Tiamat
 - [src-7f7f62c9391c-c04](alien-species.md#src-7f7f62c9391c-c04) — Alien species and distinctions
 - [src-7f7f62c9391c-c06](stellar-navigation.md#src-7f7f62c9391c-c06) — Stellar navigation
 - [src-7f7f62c9391c-c07](holographic-computers.md#src-7f7f62c9391c-c07) — Holographic computers
+- [src-412d2cb274cb-c03](orion-wars.md#src-412d2cb274cb-c03) — Orion Wars
+- [src-412d2cb274cb-c04](tiamat.md#src-412d2cb274cb-c04) — Tiamat
+- [src-8889af167782-c01](natural-portals.md#src-8889af167782-c01) — Natural and artificial portals
+- [src-c07ce04540a6-c03](tiamat.md#src-c07ce04540a6-c03) — Tiamat
 
 ## Review flags
 
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- competing\_attributions
+- extraordinary\_archaeological\_claims
+- extraordinary\_conflict\_claims
 - extraordinary\_history\_claims
+- historical-conspiracy-claims
 - no-parallel-source-in-batch
+- symbolic\_interpretations
 - translated-from-spanish
+- translated\_source

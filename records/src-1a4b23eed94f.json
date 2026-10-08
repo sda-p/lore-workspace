@@ -1,0 +1,106 @@
+{
+  "source_id": "src-1a4b23eed94f",
+  "snapshot_sha256": "51d70e9052f92d81128a18be70c8210a5b1b1366164b575ce821a5f164f423c0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1a4b23eed94f-c01",
+      "assertion": "Yazhi says Yautijas, Kingu, and Usungal look reptilian but are mammals; Draco are true reptiles.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1a4b23eed94f-c02",
+      "assertion": "She describes Lyrian bodies as cell communities, with individual cells holding consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0041"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1a4b23eed94f-c03",
+      "assertion": "Swaruu says consciousness leaves at clinical death while some living cells retain a residual signal.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0044",
+        "p0047",
+        "p0050"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1a4b23eed94f-c04",
+      "assertion": "Athena says unusual combustion cases may involve astral beings or nonhuman energy weapons.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starship-systems"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "She says she lacks details."
+    },
+    {
+      "id": "src-1a4b23eed94f-c05",
+      "assertion": "Swaruu says a Med Pod can grow replacement organs within the body rather than separately for transplant.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "lyrian-cellular-body",
+      "name": "Lyrian cellular-body model",
+      "kind": "biology",
+      "aliases": [
+        "Lyrian body"
+      ]
+    }
+  ],
+  "review_flags": [
+    "extraordinary_biological_claims",
+    "extraordinary_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "other_body_topics"
+  ]
+}

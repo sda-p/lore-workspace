@@ -1,0 +1,102 @@
+{
+  "source_id": "src-5c53f31c4600",
+  "snapshot_sha256": "80ab223600574645c4184f564c123c4148369db437fcfd33662a5ea7ef7bee4c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5c53f31c4600-c01",
+      "assertion": "Yazhi says Alfratan and Antarian ships enforce a Federation blockade around Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c53f31c4600-c02",
+      "assertion": "She says visible orbital lights include Federation craft as well as satellites and space debris.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c53f31c4600-c03",
+      "assertion": "Swaruu X says silicon-based bodies differ materially from carbon-based Lyrian bodies.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0037",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c53f31c4600-c04",
+      "assertion": "She says Federation delegates consult Earth’s controllers rather than surface humans.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0054",
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5c53f31c4600-c05",
+      "assertion": "Swaruu X says solar portals open cyclically and are used by passing ships, including an Arcturian biosphere ship.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0080",
+        "p0081",
+        "p0082",
+        "p0084"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_claims"
+  ],
+  "coverage_gaps": [
+    "other_mini_topics"
+  ]
+}

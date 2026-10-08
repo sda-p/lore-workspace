@@ -1,0 +1,117 @@
+{
+  "source_id": "src-cb796b9370e8",
+  "snapshot_sha256": "94f54195ac7ee87792d3a76939355f9b9a85b7cc845ea2e8524e37493e5316db",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cb796b9370e8-c01",
+      "assertion": "Yazhi says HAARP works continuously through aggregated fixed and mobile units; she saw no unusual activity on December 27.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb796b9370e8-c02",
+      "assertion": "Yazhi says Earth cannot hold a large natural moon; Phobos and Deimos are hollow artificial rocks.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb796b9370e8-c03",
+      "assertion": "Yazhi says the asteroid belt is debris from Tiamat; she describes the Kuiper Belt as incoming deep-space debris.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb796b9370e8-c04",
+      "assertion": "Yazhi says Ouija rituals open portals that persist at an energetic location after buildings are removed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0059",
+        "p0061",
+        "p0068",
+        "p0070",
+        "p0071"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb796b9370e8-c05",
+      "assertion": "Yazhi says her engine fluid is toxic and only resembles what humans call Red Mercury.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0122",
+        "p0123",
+        "p0124"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "weather-control",
+      "name": "Weather control systems",
+      "kind": "technology",
+      "aliases": [
+        "HAARP"
+      ]
+    }
+  ],
+  "review_flags": [
+    "earth_science_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "astrology",
+    "crystal_skulls"
+  ]
+}

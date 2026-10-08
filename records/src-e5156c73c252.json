@@ -1,0 +1,77 @@
+{
+  "source_id": "src-e5156c73c252",
+  "snapshot_sha256": "6265e4fb8787354fc4a8d43a3a19df7c8a25505050d37565b7c6789ae69c9790",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e5156c73c252-c01",
+      "assertion": "Individual souls are bounded viewpoints within a shared consciousness field.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5156c73c252-c02",
+      "assertion": "Memory defines apparent individual identity, while consciousness ultimately comprises Source.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5156c73c252-c03",
+      "assertion": "Soul loops involve reincarnation among people who have all been one another, often skipping generations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5156c73c252-c04",
+      "assertion": "Attachment to a limited self-concept may perpetuate reincarnation; she calls this an idea.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "afterlife-model"
+  ]
+}

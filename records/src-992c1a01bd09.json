@@ -1,0 +1,99 @@
+{
+  "source_id": "src-992c1a01bd09",
+  "snapshot_sha256": "700cb176e9a21894dc65a12b4d050f843caa6c49b1c6cc124b5c8be8af91e176",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-992c1a01bd09-c01",
+      "assertion": "She disputes nuclear-weapon chain reactions and says gravity prevents the claimed energy release.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0041",
+        "p0044"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-992c1a01bd09-c02",
+      "assertion": "She says energy weapons may be misrepresented as nuclear, including weapons powered by zero-point reactors.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0053",
+        "p0055"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-992c1a01bd09-c03",
+      "assertion": "She says such weapons can be scalar depending on operating frequency.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0035"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-992c1a01bd09-c04",
+      "assertion": "She identifies German Nazi-era “Die Glocke” as a gravity-distortion engine test platform.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0057",
+        "p0062",
+        "p0064"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-992c1a01bd09-c05",
+      "assertion": "She says radioactive power plants monitor scalar effects and may serve terraforming functions.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "alternative-weapons-claims"
+  ],
+  "coverage_gaps": [
+    "additional-source-topics"
+  ]
+}

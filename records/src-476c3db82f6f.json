@@ -5,12 +5,12 @@
   "claims": [
     {
       "id": "src-476c3db82f6f-c01",
-      "assertion": "Swaruu denies Jesus existed historically in this timeline and attributes the narrative to Flavian population control.",
+      "assertion": "Swaruu denies Jesus existed in this timeline and attributes the story to Flavian fabrication and Roman population control.",
       "speaker": "Swaruu",
       "paragraph_ids": [
         "p0002",
-        "p0003",
-        "p0005"
+        "p0007",
+        "p0014"
       ],
       "primary_topic": "earth-cabal",
       "topics": [
@@ -22,12 +22,11 @@
     },
     {
       "id": "src-476c3db82f6f-c02",
-      "assertion": "She says Gospel accounts derive from Roman/Flavian sources and lack independent confirmation.",
+      "assertion": "She says proposed corroboration comes from the Gospels themselves and argues Flavians fabricated the account.",
       "speaker": "Swaruu",
       "paragraph_ids": [
-        "p0008",
-        "p0010",
-        "p0012"
+        "p0007",
+        "p0008"
       ],
       "primary_topic": "terrestrial-science",
       "topics": [

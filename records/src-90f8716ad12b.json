@@ -1,0 +1,99 @@
+{
+  "source_id": "src-90f8716ad12b",
+  "snapshot_sha256": "e3179855bd98337048ba2486811fadba45260bcc54a2dc603c8fabf349d620d4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-90f8716ad12b-c01",
+      "assertion": "Anéeka says Hashmallims seized three vaccine samples after Federation restrictions blocked ship access.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90f8716ad12b-c02",
+      "assertion": "She claims the Federation accepts a plan to eliminate over 95% of humanity, which she rejects.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90f8716ad12b-c03",
+      "assertion": "She describes a 5,000-year-old underground base beneath Mount Bucegi, linked by tunnels to Giza and Crimea.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0046",
+        "p0053",
+        "p0055"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90f8716ad12b-c04",
+      "assertion": "She says the Bucegi complex contained maglev transport, recovery chambers, and robotic guards.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0053"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90f8716ad12b-c05",
+      "assertion": "She describes trees as planetary consciousness networks that sustain ecosystems and material life.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0073",
+        "p0075",
+        "p0078",
+        "p0082"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "health-conspiracy-claims",
+    "unverified-cabinet-claims"
+  ],
+  "coverage_gaps": [
+    "additional-topics"
+  ]
+}

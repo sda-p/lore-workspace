@@ -1,0 +1,78 @@
+{
+  "source_id": "src-824e57e2355d",
+  "snapshot_sha256": "557709c0184d0622355024641554a0217e623c130a18ea0d10ffafc56e1e7864",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-824e57e2355d-c01",
+      "assertion": "Yazhi says telepathy cannot be developed reliably through isolated exercises in Earth’s 3D experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-824e57e2355d-c02",
+      "assertion": "She says useful telepathy follows broader spiritual development and expanded perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-824e57e2355d-c03",
+      "assertion": "Yazhi attributes faster telepathy development off Earth to changed perceptions and evidence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-824e57e2355d-c04",
+      "assertion": "She says exercises may help but are insufficient without wider personal change.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "specific_exercises"
+  ]
+}

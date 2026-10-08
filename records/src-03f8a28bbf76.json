@@ -1,0 +1,101 @@
+{
+  "source_id": "src-03f8a28bbf76",
+  "snapshot_sha256": "3a23d579221e03f41c84acc8f3e24851fe036d435b223fcf506c578e997db82a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-03f8a28bbf76-c01",
+      "assertion": "Yazhi says Earth is roughly spherical and rejects flat-Earth models as deliberate confusion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03f8a28bbf76-c02",
+      "assertion": "She says individual NPC status cannot be known for sure, despite proposing behavioral indicators.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified metaphysical claim."
+    },
+    {
+      "id": "src-03f8a28bbf76-c03",
+      "assertion": "Yazhi calls Trump controlled opposition and says disclosure could be manipulated as false invasion.",
+      "speaker": "Yazhi; Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified political claims."
+    },
+    {
+      "id": "src-03f8a28bbf76-c04",
+      "assertion": "Athena rejects expected star-family disclosure and says no Federation plan exists for it.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03f8a28bbf76-c05",
+      "assertion": "Athena calls quantum-finance promises and government transitions possible control mechanisms.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0035"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified political claims."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_political_claims",
+    "unverified_metaphysical_claims"
+  ],
+  "coverage_gaps": [
+    "remaining_declassification_discussion"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "source_id": "src-8cab3b6d93eb",
+  "snapshot_sha256": "70aeba23e6826ad422320ccff232eb6f58968ef8e6436e83c0d9259140b00350",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8cab3b6d93eb-c01",
+      "assertion": "Yazhi says resonance treatment must match each tissue’s frequency and remove the cause of damage.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0026"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cab3b6d93eb-c02",
+      "assertion": "Dale’s separate upright device is intended to destroy alleged biological or nano devices with focused electromagnetic pulses.",
+      "speaker": "Dale",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0033"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cab3b6d93eb-c03",
+      "assertion": "Dale says the horizontal bed uses modulated resonance fields for healing.",
+      "speaker": "Dale",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0037"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cab3b6d93eb-c04",
+      "assertion": "Yazhi agrees consent is required and attributes illness to ideas rooted in the unconscious.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cab3b6d93eb-c05",
+      "assertion": "Yazhi says unmodulated fields can harm subjects, citing her account of the Philadelphia experiment.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_medical_claims",
+    "design_discussion"
+  ],
+  "coverage_gaps": [
+    "device_performance"
+  ]
+}

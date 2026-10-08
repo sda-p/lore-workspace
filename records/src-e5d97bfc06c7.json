@@ -1,0 +1,88 @@
+{
+  "source_id": "src-e5d97bfc06c7",
+  "snapshot_sha256": "fb994d5c15107bbaf441edf3d20dfb20fef979629822a6395486de853703e7ee",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e5d97bfc06c7-c01",
+      "assertion": "Swaruu X says Source cannot lose an individual soul; she says a body may lose its Source-linked signal.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5d97bfc06c7-c02",
+      "assertion": "Swaruu X describes bodily disconnection as gradual, with self-awareness remaining until bodily death.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0018",
+        "p0019",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5d97bfc06c7-c03",
+      "assertion": "Swaruu X attributes reported emotional numbness to the alleged disconnection process.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e5d97bfc06c7-c04",
+      "assertion": "Swaruu X claims a disconnected body can become a portal for entity possession.",
+      "speaker": "Swaruu X",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical-misinformation-allegation"
+  ],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

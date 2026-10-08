@@ -1,0 +1,100 @@
+{
+  "source_id": "src-2125b87df068",
+  "snapshot_sha256": "17778307b6ff0ae1aef631fff5ff05bd8edb8421a5fe76edde3682cb259bc678",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2125b87df068-c01",
+      "assertion": "Swaruu 9 says some dinosaur-like species existed, but famous large taxa were inventions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2125b87df068-c02",
+      "assertion": "She says dinosaur skeletons are incomplete or assembled from plaster and other animals’ bones.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2125b87df068-c03",
+      "assertion": "Yazhi says smaller dinosaur-like species may have existed; interstellar species are seeded, not evolved.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0040"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2125b87df068-c04",
+      "assertion": "She says famous giant dinosaurs were implausible at Earth gravity and may be 19th-century fabrications.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0029"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2125b87df068-c05",
+      "assertion": "Yazhi says available methods cannot reliably date periods such as the Jurassic.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "paleontology_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "species_detail",
+    "evolution_model"
+  ]
+}

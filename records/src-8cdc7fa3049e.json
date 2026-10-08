@@ -1,0 +1,117 @@
+{
+  "source_id": "src-8cdc7fa3049e",
+  "snapshot_sha256": "6833de99618fb7811d26e403b03b20576f135ee32559ed27d24a9fff7e743bbf",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8cdc7fa3049e-c01",
+      "assertion": "Yazhi presents reality as one timeless mind whose simpler consciousnesses compose more complex beings.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cdc7fa3049e-c02",
+      "assertion": "She rejects separate material and spiritual worlds, describing matter, space, and time as ideas.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cdc7fa3049e-c03",
+      "assertion": "Yazhi says an individual’s attachments shape the perceived self and environment.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cdc7fa3049e-c04",
+      "assertion": "She says a person’s attachments shape the afterlife they experience after death.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cdc7fa3049e-c05",
+      "assertion": "Yazhi describes living and dead worlds as overlapping; perception limits determine whether beings interact.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0068",
+        "p0071",
+        "p0074"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cdc7fa3049e-c06",
+      "assertion": "She attributes ghosts and entities to overlapping perception agreements and frequency.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0075",
+        "p0077"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_cosmology",
+    "explicit_viewpoint_qualification"
+  ],
+  "coverage_gaps": [
+    "examples",
+    "individual_variations"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_id": "src-d8391970fc4d",
+  "snapshot_sha256": "7691f07710fea179162f3adca26df7268a24eca3481d1b396613ddc4b101eb8a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d8391970fc4d-c01",
+      "assertion": "Athena says news coverage of the conflict uses old footage, staged images, and a simplified narrative.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d8391970fc4d-c02",
+      "assertion": "She says Western outlets censor Russian reporting more than Russian outlets censor Western reporting.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d8391970fc4d-c03",
+      "assertion": "Athena says her observations from flight and ship sensors matched Russian coverage and showed conflict exaggeration.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d8391970fc4d-c04",
+      "assertion": "She says Putin and Russia serve controller interests rather than being straightforward allies or adversaries.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0005",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d8391970fc4d-c05",
+      "assertion": "Athena advises distrust of both sides’ war narratives and urges caution toward media claims.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_conflict_claims",
+    "translated_source"
+  ],
+  "coverage_gaps": [
+    "independent_media_evidence"
+  ]
+}

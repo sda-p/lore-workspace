@@ -1,0 +1,114 @@
+{
+  "source_id": "src-1afd7588a669",
+  "snapshot_sha256": "bcc11ffed0393db2fbe735e4782f59f9a189fd47a6e82adf9096e0ed499e75c6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1afd7588a669-c01",
+      "assertion": "Athena says Earth matters chiefly for its population and souls, with many stellar species sharing human experience there.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1afd7588a669-c02",
+      "assertion": "Athena says souls learn about Earth through libraries and other souls, but may receive misleading Matrix narratives.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1afd7588a669-c03",
+      "assertion": "Athena says the Federation headquarters is an Andromedan biosphere ship orbiting Saturn in this timeline.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1afd7588a669-c04",
+      "assertion": "Athena says the Federation monitors Earth within vague limits and does not directly remove its problems.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1afd7588a669-c05",
+      "assertion": "Yazhi says souls enter Earth voluntarily and ET groups can guide them but cannot impose a Matrix overthrow.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0046",
+        "p0068",
+        "p0071",
+        "p0073",
+        "p0074"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

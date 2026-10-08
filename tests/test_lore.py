@@ -69,6 +69,11 @@ class IntegrityTests(unittest.TestCase):
         self.record['proposed_topics']=[{'id':'politics','name':'Different','kind':'faction','aliases':[]}]
         with self.assertRaises(ValueError): lore.validate_record(self.record,self.snapshot,{'politics'})
 
+    def test_previously_promoted_topic_can_be_revalidated(self):
+        topic={'id':'politics','name':'Politics','kind':'institution','aliases':[]}
+        self.record['proposed_topics']=[topic.copy()]
+        self.assertEqual(lore.validate_record(self.record,self.snapshot,{'politics':topic})['claim_count'],1)
+
     def test_markdown_link_text_is_escaped(self):
         self.assertEqual(lore.md('[label](https://unexpected.example)'),r'\[label\](https://unexpected.example)')
 

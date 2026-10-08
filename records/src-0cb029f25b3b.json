@@ -1,0 +1,96 @@
+{
+  "source_id": "src-0cb029f25b3b",
+  "snapshot_sha256": "e57a766f3c534f6f892d6fad50f7f9e81f7f86cd8d9348084b59100e73f3aac2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0cb029f25b3b-c01",
+      "assertion": "She says density ranges are personal awareness states, not fixed measurable frequencies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cb029f25b3b-c02",
+      "assertion": "She says some Reptilians project human appearances through mind and technology rather than bodily transformation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cb029f25b3b-c03",
+      "assertion": "She says gravity beams can ionize air and create visible atmospheric glows.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cb029f25b3b-c04",
+      "assertion": "She says Taygetans influence Earth through covert contact and technology, including disguised craft.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0041",
+        "p0044",
+        "p0048"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cb029f25b3b-c05",
+      "assertion": "She says the Federation keeps Earth isolated so humans resolve their own conflicts.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0057",
+        "p0059"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conspiracy-claims"
+  ],
+  "coverage_gaps": [
+    "additional-topics"
+  ]
+}

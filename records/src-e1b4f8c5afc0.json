@@ -1,0 +1,107 @@
+{
+  "source_id": "src-e1b4f8c5afc0",
+  "snapshot_sha256": "a5c33ab91b0b9a12d9771baab7fcaee6e8dc16f5c9d5da07984c2bc9d93e9ae0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e1b4f8c5afc0-c01",
+      "assertion": "She says Earth hosts full extraterrestrials who can pass as human, including Taygetans and other Lyrian races.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1b4f8c5afc0-c02",
+      "assertion": "She distinguishes crawl-ins, step-ins, and step-downs as three ways extraterrestrials enter Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1b4f8c5afc0-c03",
+      "assertion": "Step-downs leave starships, adopt human identities, and may stay from hours to years.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1b4f8c5afc0-c04",
+      "assertion": "She says Swaruunians are genetically distinct Taygetans who often live on Earth as step-downs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1b4f8c5afc0-c05",
+      "assertion": "She says Earth experience makes Swaruunians cultural intermediaries whom Taygetans consult.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0031"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "extraterrestrial-stepdowns",
+      "name": "Extraterrestrial step-downs",
+      "kind": "phenomenon",
+      "aliases": [
+        "step-down"
+      ]
+    }
+  ],
+  "review_flags": [
+    "identity-claims-unverified"
+  ],
+  "coverage_gaps": [
+    "additional-source-details"
+  ]
+}

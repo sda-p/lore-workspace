@@ -1,0 +1,100 @@
+{
+  "source_id": "src-bcef9325e4a2",
+  "snapshot_sha256": "67ef18a5f1f1d38ca179ed7caff80278f84edac7a0b2291df01a53ec97a92c06",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-bcef9325e4a2-c01",
+      "assertion": "Anéeka says solar systems move within galactic arms, which also contain faster high-energy regions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bcef9325e4a2-c02",
+      "assertion": "She says passing high-energy arms temporarily raise planetary frequencies, including Earth’s.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bcef9325e4a2-c03",
+      "assertion": "Anéeka describes black holes as toroidal gateways whose destination is uncertain.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes",
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bcef9325e4a2-c04",
+      "assertion": "Yazhi describes a galaxy as a conscious being, with stars and planets as its constituent cells.",
+      "speaker": "Swaruu X (Athena); Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0041",
+        "p0058",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bcef9325e4a2-c05",
+      "assertion": "Yazhi says galaxy mergers unfold over vast human timescales and form larger systems.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0081",
+        "p0087",
+        "p0088"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_cosmology_claims"
+  ],
+  "coverage_gaps": [
+    "galactic_dynamics"
+  ]
+}

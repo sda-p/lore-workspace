@@ -1,0 +1,92 @@
+{
+  "source_id": "src-01c3c72a675d",
+  "snapshot_sha256": "e5d8909b74e0dfff849e0a1c2f14a4c321cea3a1937a9c7e9af2ae175914a010",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-01c3c72a675d-c01",
+      "assertion": "Athena alleges the Canadian truck convoy was CIA-organized controlled opposition.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01c3c72a675d-c02",
+      "assertion": "Athena speculates the convoy could be blamed for later supply shortages and tighter restrictions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0019"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01c3c72a675d-c03",
+      "assertion": "Athena says the convoy’s scale and focus could channel dissent into one permitted protest.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01c3c72a675d-c04",
+      "assertion": "Athena says the Illuminati card connection informs her suspicion, but acknowledges the account remains speculative.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "political-allegation"
+  ],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

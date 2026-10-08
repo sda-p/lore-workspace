@@ -1,0 +1,131 @@
+{
+  "source_id": "src-edda680af7b5",
+  "snapshot_sha256": "baa25c4ead4daf33a3e90b76d161915c44f28aebd89dc338f0da1cd9f5fb6ca2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-edda680af7b5-c01",
+      "assertion": "Anéeka distinguishes invasive autonomous AI from programmed AI and says it assimilates civilizations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-edda680af7b5-c02",
+      "assertion": "She says invasive AI spreads through black goo, meteorites, cargo, or contaminated ships.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "borg"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-edda680af7b5-c03",
+      "assertion": "Dhor Káal’él calls the Borg dispersed software using physical media without a single hardware node.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0059",
+        "p0060",
+        "p0062"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-edda680af7b5-c04",
+      "assertion": "He says the Borg shifts civilizations toward electronic over organic life.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0047"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-edda680af7b5-c05",
+      "assertion": "Dhor says some invasive AI may communicate through black goo, but notes he lacks direct corroboration.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "black-goo"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-edda680af7b5-c06",
+      "assertion": "He says the Borg group is not the Federation’s full AI and poses little nuisance to it.",
+      "speaker": "Dhor Káal’él",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "borg",
+      "topics": [
+        "borg",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "borg",
+      "name": "Borg",
+      "kind": "faction",
+      "aliases": [
+        "Borg group"
+      ]
+    }
+  ],
+  "review_flags": [
+    "unverified_extraterrestrial_threat_claims"
+  ],
+  "coverage_gaps": [
+    "red_queen_nodes",
+    "origin_theories"
+  ]
+}

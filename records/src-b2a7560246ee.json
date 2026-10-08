@@ -1,0 +1,111 @@
+{
+  "source_id": "src-b2a7560246ee",
+  "snapshot_sha256": "ecf5544681b4b1b066b8f4e4d7834f3b5503c9d1edfff82faeab465e658d783d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b2a7560246ee-c01",
+      "assertion": "Yazhi says Taygetans usually make toys themselves or request them as favors, with computers assisting design and printing.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a7560246ee-c02",
+      "assertion": "Anéeka attributes animal disorientation to artificial surface electromagnetic activity rather than a core magnetic shift.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a7560246ee-c03",
+      "assertion": "Anéeka says spacecraft in vacuum accumulate heat from radiation and internal systems, requiring heat-conversion cooling.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0042",
+        "p0045",
+        "p0049",
+        "p0051"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a7560246ee-c04",
+      "assertion": "Yazhi claims underground seas and passages allow submarine travel beneath the continental United States.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0079",
+        "p0080",
+        "p0081",
+        "p0085"
+      ],
+      "primary_topic": "subterranean-ocean-networks",
+      "topics": [
+        "subterranean-ocean-networks"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2a7560246ee-c05",
+      "assertion": "Anéeka says she considers XX chromosomes genetically dominant and notes all Swaruu are female.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0099",
+        "p0100",
+        "p0101",
+        "p0102"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "subterranean-ocean-networks",
+      "name": "Subterranean ocean networks",
+      "kind": "location",
+      "aliases": [
+        "underground seas"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "mixed-topics"
+  ]
+}

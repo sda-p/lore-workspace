@@ -1,0 +1,109 @@
+{
+  "source_id": "src-1f3a3984c56e",
+  "snapshot_sha256": "a7649334acf116f0269a9f95f1dbb384b1c38fdcaa426059df66ab8a374eb4b0",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-1f3a3984c56e-c01",
+      "assertion": "Anéeka says a directed-energy attack pierced the Alfratan Valery’s shields and damaged its hull and systems.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0014"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1f3a3984c56e-c02",
+      "assertion": "She says the beam combined multiple differently tuned shots and suspects rival Cabal factions targeted the Alfratans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1f3a3984c56e-c03",
+      "assertion": "Anéeka says shuttles are noncombat craft; larger ships use gravity drives and may add plasma turbines.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1f3a3984c56e-c04",
+      "assertion": "Taygetan holographic controls adapt to pilots and use telepathic interfaces.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0040",
+        "p0043",
+        "p0044",
+        "p0046"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1f3a3984c56e-c05",
+      "assertion": "Anéeka describes layered harmonic shields that absorb impacts and admit identified craft at low speed.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0050",
+        "p0058",
+        "p0123",
+        "p0124",
+        "p0126",
+        "p0127"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "harmonic-shields",
+      "name": "Harmonic shields",
+      "kind": "technology",
+      "aliases": [
+        "layered frequency shields"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "incident-circumstances"
+  ]
+}

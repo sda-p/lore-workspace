@@ -1,0 +1,101 @@
+{
+  "source_id": "src-77d0952ec3b4",
+  "snapshot_sha256": "81e65be950fc6c92649e2958a1e1f432cd444021a10a055a0a2ed88db87ab0b8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-77d0952ec3b4-c01",
+      "assertion": "Athena says flat-Earth narratives create confusion and conflict that obscure other claims.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77d0952ec3b4-c02",
+      "assertion": "Anéeka describes Earth as an irregular, geode-like body rather than a perfect sphere.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0026",
+        "p0038"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77d0952ec3b4-c03",
+      "assertion": "Anéeka says the Van Allen belts are not a solid dome and can reflect waves by atmospheric interaction.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77d0952ec3b4-c04",
+      "assertion": "She says Antarctica is militarized and airlines avoid it partly because of emergency-landing risks.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0045"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-77d0952ec3b4-c05",
+      "assertion": "Anéeka says stellar parallax is slight because the solar system moves with its galactic arm.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0078",
+        "p0079",
+        "p0094"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_scientific_claims",
+    "translated_source"
+  ],
+  "coverage_gaps": [
+    "flat_earth_arguments"
+  ]
+}

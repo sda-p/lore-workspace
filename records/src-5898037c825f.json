@@ -1,0 +1,107 @@
+{
+  "source_id": "src-5898037c825f",
+  "snapshot_sha256": "5e349d484c2d8594cbe080a9c48211c2fc0a87ae271f6734dd33bdadaee3157c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5898037c825f-c01",
+      "assertion": "Athena says portals make direct jumps, while large ships use staged frequency jumps to avoid traffic and collisions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5898037c825f-c02",
+      "assertion": "Athena says large ships use staged internal time because molecular resistance makes sudden jumps unsafe.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5898037c825f-c03",
+      "assertion": "Athena says electromagnetic plasma engines form a toroid around the ship and navigation computers apply its dominant frequency.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5898037c825f-c04",
+      "assertion": "Athena says the apparent hyperdrive tunnel is recirculating plasma, not passing stars.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "ship-internal-time",
+      "name": "Ship internal time",
+      "kind": "technology",
+      "aliases": [
+        "SIT"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

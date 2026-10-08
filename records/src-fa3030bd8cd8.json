@@ -1,0 +1,102 @@
+{
+  "source_id": "src-fa3030bd8cd8",
+  "snapshot_sha256": "3c5e63c6959ceee31404a93030fffe26bc530052192fd119096245e21b26d277",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fa3030bd8cd8-c01",
+      "assertion": "Mari Swaruu says psychological triggers can make anyone act against self-interest.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa3030bd8cd8-c02",
+      "assertion": "She defines stupidity as harmful action without apparent benefit and distinguishes it from bullying.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Using a cited definition."
+    },
+    {
+      "id": "src-fa3030bd8cd8-c03",
+      "assertion": "Mari links such behavior to ego, overconfidence, and defending identity-linked beliefs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa3030bd8cd8-c04",
+      "assertion": "She says helping others requires personal stability and boundaries to avoid exploitation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa3030bd8cd8-c05",
+      "assertion": "Mari recommends humility, meditation, and willingness to revise ideas.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_philosophy"
+  ],
+  "coverage_gaps": [
+    "other_triggers"
+  ]
+}

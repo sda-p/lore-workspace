@@ -1,0 +1,125 @@
+{
+  "source_id": "src-6490421f0db7",
+  "snapshot_sha256": "6f0667daed9f1f0a47506ac6eb8cc6a1a5606b229345739133a6496dad1ccfd5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6490421f0db7-c01",
+      "assertion": "Mari says sensors detected a portal along a 50-meter street segment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The account describes the crew’s interpretation."
+    },
+    {
+      "id": "src-6490421f0db7-c02",
+      "assertion": "She says lower-astral entities match frequencies and feed on fear.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6490421f0db7-c03",
+      "assertion": "Mari attributes accidents to entities exploiting the portal.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "Unverified paranormal explanation."
+    },
+    {
+      "id": "src-6490421f0db7-c04",
+      "assertion": "She says neighbors blamed a hostile family for the portal field.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0033"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified account based on reports."
+    },
+    {
+      "id": "src-6490421f0db7-c05",
+      "assertion": "Mari says stress lowers place frequencies; positive places form high-frequency bubbles.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0037",
+        "p0038",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6490421f0db7-c06",
+      "assertion": "She says personal resilience and attention can affect one’s experience of harmful events.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0044",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_paranormal_claims",
+    "third_party_allegations"
+  ],
+  "coverage_gaps": [
+    "sensor_data_details"
+  ]
+}

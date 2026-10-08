@@ -3,3 +3,7 @@ __pycache__/
 .cache/
 source-cache/
 *.sqlite
+
+.tmp-*/
+*.json.tmp
+build_continuous_*.py

@@ -32,22 +32,32 @@ if args.command=='list':
     else:
         names=subprocess.run(['git','ls-files','--cached','--others','--exclude-standard','-z'],cwd=ROOT,capture_output=True,check=True).stdout
     files=[]
+    elements=[]
+    deleted=[]
+    if args.changed:
+        result=subprocess.run(['git','diff','--name-only','--diff-filter=D','HEAD','-z'],cwd=ROOT,capture_output=True,check=True)
+        deleted=sorted(set(result.stdout.decode().split('\0'))-{''})
+        elements.extend({'path':name,'mode':'100644','type':'blob','sha':None} for name in deleted)
     for name in sorted(set(names.decode().split('\0'))- {''}):
         path=ROOT/name
-        if not path.is_file(): continue
+        if not path.is_file() or name.endswith('.tmp'): continue
+        if any(part.startswith('.tmp-') for part in Path(name).parts): continue
         if path.is_symlink(): raise ValueError('Refusing to publish symlinks')
         content=path.read_text(encoding='utf-8')
         target=SNAPSHOT/name
         target.parent.mkdir(parents=True,exist_ok=True)
         target.write_text(content,encoding='utf-8')
         files.append({'path':name,'characters':len(content)})
+        elements.append({'path':name,'mode':'100644','type':'blob','content':content})
     parent=subprocess.run(['git','rev-parse','HEAD'],cwd=ROOT,capture_output=True,text=True,check=True).stdout.strip()
     tree=subprocess.run(['git','rev-parse','HEAD^{tree}'],cwd=ROOT,capture_output=True,text=True,check=True).stdout.strip()
-    metadata={'parent_sha':parent,'base_tree_sha':tree,'files':files}
+    metadata={'parent_sha':parent,'base_tree_sha':tree,'files':files,'deleted':deleted}
     if args.summary:
         value=json.dumps(metadata)
         (SNAPSHOT/'.checkpoint-index.json').write_text(value,encoding='utf-8')
-        print(json.dumps({'parent_sha':parent,'base_tree_sha':tree,'file_count':len(files),'index_characters':len(value),'total_characters':sum(f['characters'] for f in files)}))
+        bundle=json.dumps({'parent_sha':parent,'base_tree_sha':tree,'elements':elements})
+        (SNAPSHOT/'.checkpoint-bundle.json').write_text(bundle,encoding='utf-8')
+        print(json.dumps({'parent_sha':parent,'base_tree_sha':tree,'file_count':len(files),'index_characters':len(value),'bundle_characters':len(bundle),'total_characters':sum(f['characters'] for f in files)}))
     else:
         print(json.dumps(metadata))
 else:

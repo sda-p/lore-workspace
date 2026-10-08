@@ -1,0 +1,97 @@
+{
+  "source_id": "src-64f8a17cdfdc",
+  "snapshot_sha256": "fa6eef50ddd556442132a9681a29f3b66e9307885c34166366586fb76569aed5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-64f8a17cdfdc-c01",
+      "assertion": "Yazhi says multiple Swaruu identities are versions of one consciousness recurring through time-jumping and reincarnation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64f8a17cdfdc-c02",
+      "assertion": "She identifies Swaruu 9 as a nexus point whose later incarnation includes Athena Swaruu.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64f8a17cdfdc-c03",
+      "assertion": "Yazhi says consciousness exists in an etheric field while the body and brain act as receivers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64f8a17cdfdc-c04",
+      "assertion": "She says related Swaruu bodies can share experiences through a common consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-64f8a17cdfdc-c05",
+      "assertion": "Yazhi says mental firewalls can preserve some individuality between these bodies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_metaphysical_claims"
+  ],
+  "coverage_gaps": [
+    "identity_model"
+  ]
+}

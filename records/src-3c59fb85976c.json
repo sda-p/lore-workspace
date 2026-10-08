@@ -1,0 +1,106 @@
+{
+  "source_id": "src-3c59fb85976c",
+  "snapshot_sha256": "dcff7a2f3d1d3fac43e8346be763908f47f8f6f8aa7659feb26e84a2ce4c2731",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3c59fb85976c-c01",
+      "assertion": "Mari says Earth-bound communications from space are routed through Federation hub Viera and the Internet.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c59fb85976c-c02",
+      "assertion": "She says Federation rules restrict ship crews from speaking or using video with Earth contacts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0017"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c59fb85976c-c03",
+      "assertion": "Mari says crew members on Earth are treated as human and limited to human-level communication technology.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3c59fb85976c-c04",
+      "assertion": "She says some Reptilian, inner-Earth, and small Gray groups may operate inside the Matrix under different rules.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "moon-matrix",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Reported rationale."
+    },
+    {
+      "id": "src-3c59fb85976c-c05",
+      "assertion": "Mari argues the Federation applies its Prime Directive unevenly to preserve Earth’s existing status quo.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_exopolitical_claims"
+  ],
+  "coverage_gaps": [
+    "additional_restrictions"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "source_id": "src-8d576793d53d",
+  "snapshot_sha256": "df7df1d741bee9f658cdfaeb4958bdf71c4aba1cb7b19bfe6c2c20e8685626e2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8d576793d53d-c01",
+      "assertion": "Yazhi says higher planes are nonlocal and coexist with the physical world rather than being destinations elsewhere.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d576793d53d-c02",
+      "assertion": "She describes death as ego dissolution into a unified field, experienced as love from beyond bodily perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d576793d53d-c03",
+      "assertion": "Yazhi says attachments may persist after death and shape a world resembling the deceased person’s former reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0060",
+        "p0062",
+        "p0063",
+        "p0067"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d576793d53d-c04",
+      "assertion": "She says disembodied beings form shared afterlife realms through compatible beliefs and perception agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0064",
+        "p0068",
+        "p0070"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8d576793d53d-c05",
+      "assertion": "Yazhi describes incarnation memory as frequency-incompatible with earthly bodily perception.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "postmortem-realities",
+      "name": "Postmortem realities",
+      "kind": "cosmology",
+      "aliases": [
+        "afterlife realms"
+      ]
+    }
+  ],
+  "review_flags": [
+    "postmortem-identity-ambiguity"
+  ],
+  "coverage_gaps": [
+    "perspective-dependent-account"
+  ]
+}

@@ -231,7 +231,12 @@ def prepare(cache, selection_path=None, batch_id='pilot-001'):
                 future.result()
             except Exception as exc:
                 errors.append({'source_id':futures[future]['id'], 'error':str(exc)})
-    write(ROOT / 'sources/manifest.json', manifest)
+    with coordinator_lock():
+        current_manifest = read(ROOT / 'sources/manifest.json')
+        current_sources = {s['id']:s for s in current_manifest['sources']}
+        for source in selected:
+            current_sources[source['id']].update(source)
+        write(ROOT / 'sources/manifest.json', current_manifest)
     if errors:
         write(ROOT / 'reports/download-errors.json', errors)
         raise ValueError(f'{len(errors)} source downloads failed; retry prepare')
@@ -310,7 +315,7 @@ def validate_record(record, snapshot, known_topics):
 def validate(cache):
     cache = Path(cache)
     ledger = read(ROOT / 'work/ledger.json')
-    topics = {t['id'] for t in read(ROOT / 'config/topics.json')}
+    topics = {t['id']:t for t in read(ROOT / 'config/topics.json')}
     sources = {s['id']:s for s in read(ROOT / 'sources/manifest.json')['sources']}
     results, failed = [], []
     for source_id, job in ledger['jobs'].items():

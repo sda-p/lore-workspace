@@ -430,6 +430,284 @@ Attributed to **Swaruu**; reported; extraction confidence: high.
 
 Source: [Atlantis, Lemuria, Reptilians, Adam and Eve, Tiamat - Taygetean Pleiadian Role in Ancient History](https://swaruu.org/transcripts/atlantis-lemuria-reptilians-adam-and-eve-tiamat-taygetean-pleiadian-role-in-ancient-history) (2020-11-02; en); passages p0051, p0052, p0053. [Structured record](../../records/src-f6f7bd5646db.json).
 
+### src-e6b511e336b3-c06
+
+Anéeka says an Earth mirror may retain a Starlette imprint after immersion ends.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Infiltration from Beyond Earth - This is Bigger than you Imagine - We Reveal the Facts](https://swaruu.org/transcripts/infiltration-from-beyond-earth-this-is-bigger-than-you-imagine-we-reveal-the-facts) (2022-06-08; en); passages p0164, p0165, p0166. [Structured record](../../records/src-e6b511e336b3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-94f4998a0616-c03
+
+Yazhi reports plans to rehabilitate Moon areas for ships and resources, including recycling existing materials.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [ET/UFO Contacts "Experts" Community is a HUMAN organization - MiniTopics with Gosia](https://swaruu.org/transcripts/et-ufo-contacts-experts-community-is-a-human-organization-minitopics-with-gosia) (2022-11-05; en); passages p0025, p0027, p0031. [Structured record](../../records/src-94f4998a0616.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-121438ec9343-c01
+
+Yazhi says Earth is isolated within a controlled Matrix realm distinct from extraterrestrial reality.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Federation and Earth - Extraterrestrial Reality vs Humanity - Direct Extraterrestial Information](https://swaruu.org/transcripts/federation-and-earth-extraterrestrial-reality-vs-humanity-direct-extraterrestial-information) (2021-07-08; en); passages p0004, p0010, p0060. [Structured record](../../records/src-121438ec9343.json).
+
+### src-cb6267c7760f-c05
+
+She says importing higher-density objects can distort their appearance in Earth’s lower-density Matrix.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Stellar Navigation 3 - PART 2 - Ether - Inserting Objects in the Matrix - Athena Swaruu](https://swaruu.org/transcripts/stellar-navigation-3-part-2-ether-inserting-objects-in-the-matrix-athena-swaruu) (2022-07-06; en); passages p0069, p0081, p0082. [Structured record](../../records/src-cb6267c7760f.json).
+
+### src-ea763acc62b9-c01
+
+She describes Earth’s reality rules as a contained Matrix shaped by local information agreements.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Galactic Federation - False ET realities in UFO circles - Direct Extraterrestrial Communication](https://swaruu.org/transcripts/galactic-federation-false-et-realities-in-ufo-circles-direct-extraterrestrial-communication) (2021-07-14; en); passages p0008, p0009, p0010. [Structured record](../../records/src-ea763acc62b9.json).
+
+### src-1ff13e4ddd37-c03
+
+She calls the Moon an abandoned artificial metal structure with a projected surface and ruined interior.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Apollo Moon Missions - Fake or Real? PART 1 - Conversation with Swaruu of Erra](https://swaruu.org/transcripts/apollo-moon-missions-fake-or-real-part-1-conversation-with-swaruu-of-erra) (2022-08-15; en); passages p0072, p0073, p0074, p0075, p0077. [Structured record](../../records/src-1ff13e4ddd37.json).
+
+### src-1ff13e4ddd37-c04
+
+She dates installation of the Moon’s hologram and artificial bands to about 12,500 years ago.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Apollo Moon Missions - Fake or Real? PART 1 - Conversation with Swaruu of Erra](https://swaruu.org/transcripts/apollo-moon-missions-fake-or-real-part-1-conversation-with-swaruu-of-erra) (2022-08-15; en); passages p0081, p0082. [Structured record](../../records/src-1ff13e4ddd37.json).
+
+### src-1ff13e4ddd37-c05
+
+She warns lunar corridors may contain traps and hazardous reactors.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Apollo Moon Missions - Fake or Real? PART 1 - Conversation with Swaruu of Erra](https://swaruu.org/transcripts/apollo-moon-missions-fake-or-real-part-1-conversation-with-swaruu-of-erra) (2022-08-15; en); passages p0083, p0085. [Structured record](../../records/src-1ff13e4ddd37.json).
+
+### src-59816f3eae2d-c05
+
+Mari says other humans live in space and calls Earth’s closed perception the Earth Matrix.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Important thoughts after 5 years of contact (English)](https://swaruu.org/transcripts/important-thoughts-after-5-years-of-contact-english) (2022-12-25; en); passages p0025, p0026. [Structured record](../../records/src-59816f3eae2d.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-e2148b96d9aa-c01
+
+Mari says Earth’s Matrix is nested within larger matrices with distinct rules and shared elements.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escape from the matrix video number 2 (English)](https://swaruu.org/transcripts/escape-from-the-matrix-video-number-2-english) (2023-01-03; en); passages p0003, p0004. [Structured record](../../records/src-e2148b96d9aa.json).
+
+Related topics: [Original Matrix](original-matrix.md).
+
+### src-e2148b96d9aa-c02
+
+Mari defines a Matrix as shared perception agreements and describes matrices as mental creations of consciousness.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escape from the matrix video number 2 (English)](https://swaruu.org/transcripts/escape-from-the-matrix-video-number-2-english) (2023-01-03; en); passages p0005. [Structured record](../../records/src-e2148b96d9aa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e2148b96d9aa-c04
+
+Mari says escaping the Matrix requires questioning accepted beliefs and developing independent critical judgment.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escape from the matrix video number 2 (English)](https://swaruu.org/transcripts/escape-from-the-matrix-video-number-2-english) (2023-01-03; en); passages p0007, p0008, p0009, p0010. [Structured record](../../records/src-e2148b96d9aa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e2148b96d9aa-c05
+
+Mari says people should function within Earth’s rules while maintaining personal realities and beliefs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escape from the matrix video number 2 (English)](https://swaruu.org/transcripts/escape-from-the-matrix-video-number-2-english) (2023-01-03; en); passages p0014. [Structured record](../../records/src-e2148b96d9aa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e4117599a861-c03
+
+Yazhi says collective beliefs shape the terrestrial Matrix and inform the Federation’s reading of group wants.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Galactic Federation - Good Guys? Their Management of Earth (Yazhi, Swaruu, Aneeka-Taygeta- Pleiades)](https://swaruu.org/transcripts/galactic-federation-good-guys-their-management-of-earth-yazhi-swaruu-aneeka-taygeta-pleiades) (2021-06-24; en); passages p0047, p0050, p0055. [Structured record](../../records/src-e4117599a861.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-0defad89a757-c04
+
+Yazhi says no replacement planet is needed because people carry their Matrix beliefs with them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Evacuation of Humans to other Planets - Yazhi Swaruu´s Opinion](https://swaruu.org/transcripts/evacuation-of-humans-to-other-planets-yazhi-swaruu-s-opinion) (2022-11-08; en); passages p0032, p0033, p0040. [Structured record](../../records/src-0defad89a757.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d076cfbaef4c-c05
+
+Alenym says the Moon has seen increased Federation-authorized traffic, possibly for equipment or operations.
+
+Attributed to **Alenym**; reported; extraction confidence: high.
+
+Source: [Exopolitics with Alenym of Temmer - Liberation of the Earth does NOT work as people expect](https://swaruu.org/transcripts/exopolitics-with-alenym-of-temmer-liberation-of-the-earth-does-not-work-as-people-expect) (2022-04-29; en); passages p0036, p0037, p0039, p0041. [Structured record](../../records/src-d076cfbaef4c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-de3a42e7909f-c05
+
+Anéeka says the Moon has increased Federation-authorized traffic and may host equipment or operations.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Exopolitics - "Space News" for JeanClaude´s Show - Conversation with Aneeka of Temmer](https://swaruu.org/transcripts/exopolitics-space-news-for-jeanclaude-s-show-conversation-with-aneeka-of-temmer) (2021-11-22; en); passages p0036, p0037, p0039, p0041. [Structured record](../../records/src-de3a42e7909f.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-3151bfa9585e-c02
+
+Athena says low lunar frequencies fostered Earth regressive egregors, but disputes that this was intended to contain Reptilians.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Moon - Installed to Stabilize the Earth - Athena Swaruu Exlains (Extraterrestrial Contact)](https://swaruu.org/transcripts/moon-installed-to-stabilize-the-earth-athena-swaruu-exlains-extraterrestrial-contact) (2022-06-15; en); passages p0015, p0016, p0018, p0021. [Structured record](../../records/src-3151bfa9585e.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-3151bfa9585e-c03
+
+Athena says Van Allen bands destroy organic tissue unless beings use toroidal immersion technology.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Moon - Installed to Stabilize the Earth - Athena Swaruu Exlains (Extraterrestrial Contact)](https://swaruu.org/transcripts/moon-installed-to-stabilize-the-earth-athena-swaruu-exlains-extraterrestrial-contact) (2022-06-15; en); passages p0023. [Structured record](../../records/src-3151bfa9585e.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-3151bfa9585e-c04
+
+Swaruu 9 says thousands of lunar surface projectors combine to create the Moon hologram and can fail.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Moon - Installed to Stabilize the Earth - Athena Swaruu Exlains (Extraterrestrial Contact)](https://swaruu.org/transcripts/moon-installed-to-stabilize-the-earth-athena-swaruu-exlains-extraterrestrial-contact) (2022-06-15; en); passages p0053, p0054, p0055, p0056. [Structured record](../../records/src-3151bfa9585e.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-3151bfa9585e-c05
+
+Anéeka says twelve lunar nuclear reactors power Matrix frequencies and the hologram, not engines.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Moon - Installed to Stabilize the Earth - Athena Swaruu Exlains (Extraterrestrial Contact)](https://swaruu.org/transcripts/moon-installed-to-stabilize-the-earth-athena-swaruu-exlains-extraterrestrial-contact) (2022-06-15; en); passages p0069, p0071, p0073. [Structured record](../../records/src-3151bfa9585e.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-c07ce04540a6-c04
+
+Athena calls the Van Allen bands a stabilizing byproduct that also lowers frequency and enables regressive egregors.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Nebulae, Precession of the Equinoxes, and More - Extraterrestrial Woman Explains - Athena Swaruu](https://swaruu.org/transcripts/nebulae-precession-of-the-equinoxes-and-more-extraterrestrial-woman-explains-athena-swaruu) (2022-05-09; en); passages p0043, p0044, p0045, p0046, p0047. [Structured record](../../records/src-c07ce04540a6.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-58967db24dfa-c03
+
+Mari says Earth’s scientific method is limited by its agreed perceptual framework, called the terrestrial Matrix.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Origins of the Lyran / Human race (English)](https://swaruu.org/transcripts/origins-of-the-lyran-human-race-english) (2022-12-17; en); passages p0008, p0009, p0010, p0011. [Structured record](../../records/src-58967db24dfa.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-073f7818f594-c01
+
+Swaruu 9 says Saturn V payload, Van Allen radiation and lunar-module instability prevent the official Moon-landing account.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu of Erra and ex NASA engineer discuss Moon Landings/Interview with Dale Harder](https://swaruu.org/transcripts/swaruu-of-erra-and-ex-nasa-engineer-discuss-moon-landings-interview-with-dale-harder) (2022-08-19; en); passages p0007, p0008, p0009, p0010, p0013, p0014, p0016, p0018. [Structured record](../../records/src-073f7818f594.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-073f7818f594-c02
+
+Swaruu 9 says there is no Moon surface to land on; its surface is metal and what people see is a hologram.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu of Erra and ex NASA engineer discuss Moon Landings/Interview with Dale Harder](https://swaruu.org/transcripts/swaruu-of-erra-and-ex-nasa-engineer-discuss-moon-landings-interview-with-dale-harder) (2022-08-19; en); passages p0019, p0021. [Structured record](../../records/src-073f7818f594.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-073f7818f594-c03
+
+Swaruu 9 says compartmentalization lets most NASA staff believe the landings occurred while astronauts acted.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu of Erra and ex NASA engineer discuss Moon Landings/Interview with Dale Harder](https://swaruu.org/transcripts/swaruu-of-erra-and-ex-nasa-engineer-discuss-moon-landings-interview-with-dale-harder) (2022-08-19; en); passages p0022, p0023. [Structured record](../../records/src-073f7818f594.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-9dba344806dc-c01
+
+Swaruu 9 says the Van Allen bands result from an imposed high-energy electromagnetic frequency using Earth’s magnetosphere.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Magnetosphere and Van Allen Bands - Short Chat with Swaruu of Erra](https://swaruu.org/transcripts/magnetosphere-and-van-allen-bands-short-chat-with-swaruu-of-erra) (2022-06-15; en); passages p0002, p0003, p0004, p0005. [Structured record](../../records/src-9dba344806dc.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-9dba344806dc-c02
+
+Swaruu 9 says the bands concentrate toroidal energy at the poles and cannot be represented as NASA diagrams show.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Magnetosphere and Van Allen Bands - Short Chat with Swaruu of Erra](https://swaruu.org/transcripts/magnetosphere-and-van-allen-bands-short-chat-with-swaruu-of-erra) (2022-06-15; en); passages p0005, p0006, p0007. [Structured record](../../records/src-9dba344806dc.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-9dba344806dc-c04
+
+Swaruu 9 says physical passage requires a portal or ship with toroidal electromagnetic immersion.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Magnetosphere and Van Allen Bands - Short Chat with Swaruu of Erra](https://swaruu.org/transcripts/magnetosphere-and-van-allen-bands-short-chat-with-swaruu-of-erra) (2022-06-15; en); passages p0017, p0018, p0019, p0020, p0021, p0025. [Structured record](../../records/src-9dba344806dc.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -446,6 +724,13 @@ Source: [Atlantis, Lemuria, Reptilians, Adam and Eve, Tiamat - Taygetean Pleiadi
 - [src-29a795acd121-c03](consciousness-metaphysics.md#src-29a795acd121-c03) — Consciousness and metaphysics
 - [src-29a795acd121-c08](prime-directive.md#src-29a795acd121-c08) — Prime Directive
 - [src-42e3f0afcb4a-c01](consciousness-metaphysics.md#src-42e3f0afcb4a-c01) — Consciousness and metaphysics
+- [src-c2b1ef8fe78d-c01](terrestrial-science.md#src-c2b1ef8fe78d-c01) — Terrestrial science
+- [src-2375eaf5ea50-c03](earth-cabal.md#src-2375eaf5ea50-c03) — Earth Cabal and power structures
+- [src-3151bfa9585e-c01](tiamat.md#src-3151bfa9585e-c01) — Tiamat
+- [src-c07ce04540a6-c03](tiamat.md#src-c07ce04540a6-c03) — Tiamat
+- [src-9dba344806dc-c03](consciousness-metaphysics.md#src-9dba344806dc-c03) — Consciousness and metaphysics
+- [src-aeb1859f925a-c01](consciousness-metaphysics.md#src-aeb1859f925a-c01) — Consciousness and metaphysics
+- [src-aeb1859f925a-c03](consciousness-metaphysics.md#src-aeb1859f925a-c03) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -458,6 +743,9 @@ Source: [Atlantis, Lemuria, Reptilians, Adam and Eve, Tiamat - Taygetean Pleiadi
 - blockade-and-biology-attributed
 - claim: extraordinary abduction and biology account
 - conceptual-tension: real/unreal distinctions are context-dependent
+- conspiracy\_claims
+- contested-space-history-allegation
+- contested\_intelligence\_claims
 - coverage: 5D transition forecast
 - coverage: Atonism details
 - coverage: Matrix scripts
@@ -472,12 +760,19 @@ Source: [Atlantis, Lemuria, Reptilians, Adam and Eve, Tiamat - Taygetean Pleiadi
 - earth-population-claims
 - ether\_model
 - ethical\_perspective\_conflict
+- extraordinary\_cosmology\_claims
+- extraordinary\_exopolitical\_claims
+- extraordinary\_extraction\_claims
+- historical-claims-unverified
 - internal-tension: technological suppression vs limitation by beliefs (p0060-p0064)
 - manifestation\_mechanics
 - matrix\_layers
 - matrix\_scope
 - medical-misinformation: pandemic, testing, and vaccine claims
 - medical-misinformation: virus, vaccine, and nanopowder claims
+- metaphysical-claims
+- moon-conspiracy-claims
+- personal\_accusations
 - reincarnation-model-metaphysical
 - sensitive\_claims
 - soul-model-metaphysical
@@ -489,4 +784,6 @@ Source: [Atlantis, Lemuria, Reptilians, Adam and Eve, Tiamat - Taygetean Pleiadi
 - technology\_and\_mind\_interface
 - terminology: “positronic” is a human-language approximation (p0002)
 - uncertainty-shift: 5G moves from possible explanation to formal position
+- unverified\_geopolitical\_claims
 - unverified\_medical\_allegations
+- unverified\_medical\_claims

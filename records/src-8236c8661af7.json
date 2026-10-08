@@ -1,0 +1,100 @@
+{
+  "source_id": "src-8236c8661af7",
+  "snapshot_sha256": "acca9ebf54d97cfa84beb38229808ad47e7f416e29abcc624b4b18d2e6be1d3a",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8236c8661af7-c01",
+      "assertion": "Gosia’s manifesto portrays people acting collectively as the only force capable of resisting oppression.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8236c8661af7-c02",
+      "assertion": "Yazhi says information control can combine censorship with overload designed to obscure truth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8236c8661af7-c03",
+      "assertion": "Yazhi says the Federation is not inherently negative or infiltrated, but will not rescue humanity because of its complex operating rules.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8236c8661af7-c04",
+      "assertion": "She says spiritual focus alone is insufficient on Earth; people must pair it with practical action.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8236c8661af7-c05",
+      "assertion": "Yazhi says collective thoughts and actions shape reality, and no future outcome is fixed.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0036",
+        "p0041",
+        "p0043"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "advocacy-context"
+  ]
+}

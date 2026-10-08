@@ -1,0 +1,111 @@
+{
+  "source_id": "src-30fbc888024d",
+  "snapshot_sha256": "f2a1a72419324aaaf9153c4494b7cb7a6194fe2ed571bb3158a420486911655d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-30fbc888024d-c01",
+      "assertion": "Swaruu describes soulmates as souls repeatedly drawn together, appearing as one soul from an expanded perspective.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0011",
+        "p0016"
+      ],
+      "primary_topic": "soulmates",
+      "topics": [
+        "soulmates"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30fbc888024d-c02",
+      "assertion": "She says partners may form a soulmate bond through mutual willingness to adapt and become compatible.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0033",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "soulmates",
+      "topics": [
+        "soulmates"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30fbc888024d-c03",
+      "assertion": "Swaruu distinguishes a numerous soul family from a soulmate viewed as part of oneself.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0050",
+        "p0053",
+        "p0054",
+        "p0055",
+        "p0057"
+      ],
+      "primary_topic": "soulmates",
+      "topics": [
+        "soulmates"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30fbc888024d-c04",
+      "assertion": "She says soulmate partners may not meet in every incarnation and may reunite in later lives.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0031"
+      ],
+      "primary_topic": "soulmates",
+      "topics": [
+        "soulmates"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-30fbc888024d-c05",
+      "assertion": "Swaruu says higher planes integrate gendered identities and diminish romantic-sexual separation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0051",
+        "p0091"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "soulmates",
+      "name": "Soulmates",
+      "kind": "cosmology",
+      "aliases": [
+        "soul mates",
+        "twin flames"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "conceptual-variation"
+  ]
+}

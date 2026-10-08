@@ -1,0 +1,85 @@
+{
+  "source_id": "src-58967db24dfa",
+  "snapshot_sha256": "1562ed568ed499549e0979b42b897b53f2702ce7f77de0e9955a1bc7ddb0ec67",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-58967db24dfa-c01",
+      "assertion": "Mari says Lyrian human civilizations are widespread and share human morphology, with some nearly identical to Earth humans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0024"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-58967db24dfa-c02",
+      "assertion": "Mari says nonterrestrial humans generally trace their origins to Vega in Lyra and migrated during the Great Expansion.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-58967db24dfa-c03",
+      "assertion": "Mari says Earth’s scientific method is limited by its agreed perceptual framework, called the terrestrial Matrix.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-58967db24dfa-c04",
+      "assertion": "Mari says Taygetan and Swaruunian accounts attribute most Earth human genetic alteration to reversible mind control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

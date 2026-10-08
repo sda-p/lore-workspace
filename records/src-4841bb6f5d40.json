@@ -1,0 +1,101 @@
+{
+  "source_id": "src-4841bb6f5d40",
+  "snapshot_sha256": "8b92dc3843c20e7bac888660dbd77ebcd8065e6f9e3d72c836298148d7dbf251",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4841bb6f5d40-c01",
+      "assertion": "Mari says the Prime Directive bars direct ship images, so she can show only approved areas.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0016"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4841bb6f5d40-c02",
+      "assertion": "Mari describes Toleka as a 1,734-meter steel-and-titanium ship with 180-minute days and simulated day-night cycles.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0010"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4841bb6f5d40-c03",
+      "assertion": "Seven crew members built a walkable Minecraft map of Toleka for recreation; the full map was later classified sensitive.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4841bb6f5d40-c04",
+      "assertion": "Toleka’s living areas include gyms, dance rooms, pools, a park, and windows overlooking space.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021",
+        "p0023",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4841bb6f5d40-c05",
+      "assertion": "Mari says ship lighting and generators simulate sunlight, day cycles, wind, rain, and fog for people and plants.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0021",
+        "p0032"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "engineering_decks"
+  ]
+}

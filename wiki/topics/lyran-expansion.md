@@ -70,10 +70,42 @@ Attributed to **Swaruu**; reported; extraction confidence: high.
 
 Source: [Ancient Egypt - Symbology - Ancient History - Swaruu and Dhor Káal'el (Extraterrestrial Perspective)](https://swaruu.org/transcripts/ancient-egypt-symbology-ancient-history-swaruu-and-dhor-kaal-el-extraterrestrial-perspective) (2020-12-14; en); passages p0010, p0011, p0013. [Structured record](../../records/src-00120f7d1b1a.json).
 
+### src-58967db24dfa-c01
+
+Mari says Lyrian human civilizations are widespread and share human morphology, with some nearly identical to Earth humans.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Origins of the Lyran / Human race (English)](https://swaruu.org/transcripts/origins-of-the-lyran-human-race-english) (2022-12-17; en); passages p0012, p0013, p0014, p0015, p0024. [Structured record](../../records/src-58967db24dfa.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-58967db24dfa-c02
+
+Mari says nonterrestrial humans generally trace their origins to Vega in Lyra and migrated during the Great Expansion.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Origins of the Lyran / Human race (English)](https://swaruu.org/transcripts/origins-of-the-lyran-human-race-english) (2022-12-17; en); passages p0016, p0017. [Structured record](../../records/src-58967db24dfa.json).
+
+Related topics: [Orion Wars](orion-wars.md).
+
+### src-58967db24dfa-c04
+
+Mari says Taygetan and Swaruunian accounts attribute most Earth human genetic alteration to reversible mind control.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
+
+Source: [Origins of the Lyran / Human race (English)](https://swaruu.org/transcripts/origins-of-the-lyran-human-race-english) (2022-12-17; en); passages p0019, p0020. [Structured record](../../records/src-58967db24dfa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c08](stellar-navigation.md#src-03f88504384a-c08) — Stellar navigation
 - [src-53f4f0661b68-c01](alien-species.md#src-53f4f0661b68-c01) — Alien species and distinctions
+- [src-d7d90a56bb44-c02](tiamat.md#src-d7d90a56bb44-c02) — Tiamat
+- [src-78f6779f9011-c01](taygetans.md#src-78f6779f9011-c01) — Taygetans
 
 ## Review flags
 

@@ -1,0 +1,105 @@
+{
+  "source_id": "src-06cf2b3b68e8",
+  "snapshot_sha256": "c8e451e1fa8be5e1454b9052249b32f5168ade9f062af77eb08fa153e52dd295",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-06cf2b3b68e8-c01",
+      "assertion": "Swaruu says Taygetan medicine targets causes through lifestyle change, diet, and mental state.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06cf2b3b68e8-c02",
+      "assertion": "Anéeka describes broad medical training with mentored practice and limited specialization.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0028"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06cf2b3b68e8-c03",
+      "assertion": "Anéeka says Taygetans commonly use rest, fasting, herbs, and frequency-based therapies.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06cf2b3b68e8-c04",
+      "assertion": "Anéeka says most Taygetan births occur at home and underwater, with remote non-invasive assistance available.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0055",
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06cf2b3b68e8-c05",
+      "assertion": "Swaruu says Taygetan abortion is permitted before the soul enters the body, estimated at two to three weeks.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": [
+        "p0061",
+        "p0063"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_medical_claims"
+  ],
+  "coverage_gaps": [
+    "healthcare_and_birth"
+  ]
+}

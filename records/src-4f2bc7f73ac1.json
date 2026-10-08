@@ -1,0 +1,141 @@
+{
+  "source_id": "src-4f2bc7f73ac1",
+  "snapshot_sha256": "2f46660160d7e46bcc7fd094508e442d7dc6650e26575e2a1f4dc0800a925fb2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4f2bc7f73ac1-c01",
+      "assertion": "Athena says Sand Clock ships locate historical moments by frequency and gravity maps, not dates.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "sand-clock"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f2bc7f73ac1-c02",
+      "assertion": "She says incomplete maps cause misdating unless crews compare journeys and references.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0015",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "sand-clock"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f2bc7f73ac1-c03",
+      "assertion": "Athena claims Roman construction in Britain coincided with Renaissance France.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0029",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "sand-clock",
+      "topics": [
+        "sand-clock",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f2bc7f73ac1-c04",
+      "assertion": "She says rulers altered history, citing an alleged 300-year calendar addition.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0046",
+        "p0048"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f2bc7f73ac1-c05",
+      "assertion": "Athena says Federation historical maps lack detail for reliable dating.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0051",
+        "p0052"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4f2bc7f73ac1-c06",
+      "assertion": "She frames time as perception; past timelines converge in a present singularity.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0064",
+        "p0069"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "frequency-map-navigation",
+      "name": "Frequency-map navigation",
+      "kind": "technology",
+      "aliases": [
+        "frequency maps"
+      ]
+    },
+    {
+      "id": "sand-clock",
+      "name": "Sand Clock",
+      "kind": "institution",
+      "aliases": [
+        "Sand Clock expeditions"
+      ]
+    }
+  ],
+  "review_flags": [
+    "contested_historical_claims",
+    "time_travel_lore"
+  ],
+  "coverage_gaps": [
+    "other_timeline_examples",
+    "historical_sources"
+  ]
+}

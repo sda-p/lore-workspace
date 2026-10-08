@@ -1,0 +1,117 @@
+{
+  "source_id": "src-fead5e292474",
+  "snapshot_sha256": "258d17ca99bcf3c04b63910c590141501f09b7903183a44447c452598c9173ef",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-fead5e292474-c01",
+      "assertion": "Yazhi treats terrestrial dark matter as a label for unmeasured effects of other perceptual densities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0025",
+        "p0096"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fead5e292474-c02",
+      "assertion": "She says gravity is a variable etheric flow and causes mass concentrations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fead5e292474-c03",
+      "assertion": "Yazhi says matter arises from gravity and creative consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fead5e292474-c04",
+      "assertion": "She describes antimatter as normal matter with reversed charge values that annihilates on contact.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fead5e292474-c05",
+      "assertion": "Yazhi says nonhuman reactors use controlled antimatter releases but require refueling.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fead5e292474-c06",
+      "assertion": "She says antimatter is stored in vacuum under artificial gravity; dark matter cannot remain dark once manipulated.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0040",
+        "p0112"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_physics_claims"
+  ],
+  "coverage_gaps": [
+    "density_explanation",
+    "reactor_details"
+  ]
+}

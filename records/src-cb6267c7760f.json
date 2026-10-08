@@ -1,0 +1,109 @@
+{
+  "source_id": "src-cb6267c7760f",
+  "snapshot_sha256": "ec47256d85269935256b453ccf7760914ff9eabbe9a4472a147b0f39b2d36cd9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cb6267c7760f-c01",
+      "assertion": "She describes ether as a universal field whose flows correspond to gravity and consciousness.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb6267c7760f-c02",
+      "assertion": "She says navigation computers map energy patterns rather than locations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0019",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb6267c7760f-c03",
+      "assertion": "She describes matter as frequency harmonics forming standing waves and particles.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb6267c7760f-c04",
+      "assertion": "She says tractor beams insert objects by imposing their energy patterns and generating a local causal history.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0056",
+        "p0058",
+        "p0066"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cb6267c7760f-c05",
+      "assertion": "She says importing higher-density objects can distort their appearance in Earth’s lower-density Matrix.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0069",
+        "p0081",
+        "p0082"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "tractor-beams",
+      "name": "Tractor beams",
+      "kind": "technology",
+      "aliases": [
+        "magnetic engine"
+      ]
+    }
+  ],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "additional-physics-claims"
+  ]
+}

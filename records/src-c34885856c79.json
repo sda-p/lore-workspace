@@ -1,0 +1,114 @@
+{
+  "source_id": "src-c34885856c79",
+  "snapshot_sha256": "94ede0575034b9d6fb8e3a73c1b116fb192650ec62d86e8b916ba7e1c64e9a23",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c34885856c79-c01",
+      "assertion": "Athena says Federation races view Earth as an isolated educational realm, not an invaded crisis world.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0002",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c34885856c79-c02",
+      "assertion": "Athena attributes pro-Federation propaganda to human organizations, while Yazhi says direct Federation involvement is uncertain.",
+      "speaker": "Swaruu X (Athena); Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0019",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c34885856c79-c03",
+      "assertion": "Yazhi speculates that a Cabal-backed false alien event may appear as either military invasion or benevolent rescue.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0039",
+        "p0043",
+        "p0049",
+        "p0050",
+        "p0051",
+        "p0075",
+        "p0076"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c34885856c79-c04",
+      "assertion": "Athena says a false intervention could impose New World Order rules under a helpful-alien narrative.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0075",
+        "p0076",
+        "p0078",
+        "p0083"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c34885856c79-c05",
+      "assertion": "Athena describes the Federation as a vast, multi-level organization whose rules and ethics vary by level.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0120",
+        "p0123",
+        "p0124",
+        "p0125"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "false-alien-invasion",
+      "name": "False alien invasion scenarios",
+      "kind": "history",
+      "aliases": [
+        "false alien intervention"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "agency-attribution"
+  ]
+}

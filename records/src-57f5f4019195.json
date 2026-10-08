@@ -1,0 +1,88 @@
+{
+  "source_id": "src-57f5f4019195",
+  "snapshot_sha256": "cfa4281097c4eddfdd7286a358a36c8fe9a4bf6c9491c225cadfb098d3a10fd9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-57f5f4019195-c01",
+      "assertion": "Yazhi says supposed White Hat groups are controlled opposition within the same Cabal system.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0021",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-57f5f4019195-c02",
+      "assertion": "Yazhi says such groups create hopes of rescue while withholding information they could publicize.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0023",
+        "p0024",
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-57f5f4019195-c03",
+      "assertion": "Yazhi says public collective participation is necessary for the Cabal to operate.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-57f5f4019195-c04",
+      "assertion": "Yazhi says lived experience is real while other accounts of reality are individually interpreted.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

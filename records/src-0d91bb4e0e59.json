@@ -1,0 +1,99 @@
+{
+  "source_id": "src-0d91bb4e0e59",
+  "snapshot_sha256": "7d32830ad58b5638f39c7147309388399d43926e6460527ee5c56cea98a40928",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0d91bb4e0e59-c01",
+      "assertion": "Athena calls the conflict a distraction from vaccine protests, while acknowledging reported fighting and deaths.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d91bb4e0e59-c02",
+      "assertion": "She says her observations show limited border clashes and heavy military activity, but not a full-scale war.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d91bb4e0e59-c03",
+      "assertion": "Athena reports that 5G antennas interfered with aircraft radio altimeters and navigation during her flight.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d91bb4e0e59-c04",
+      "assertion": "Athena describes an old DUMB beneath southern Crimea, linked to Bucegi and Giza.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0d91bb4e0e59-c05",
+      "assertion": "Athena says Karistus defended Putin’s constraints, while her own assessment placed him closer to Cabal interests.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_conflict_claims",
+    "competing_attributions"
+  ],
+  "coverage_gaps": [
+    "war_intentions"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "source_id": "src-c69f565b7611",
+  "snapshot_sha256": "b59de58cbc0d0633db7721d104a7d4623c146fdd85f8cfa6b0b7773868deca95",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c69f565b7611-c01",
+      "assertion": "Yazhi says collective fear and attention sustain negative tulpa-egregor entities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c69f565b7611-c02",
+      "assertion": "She describes some entities as humanlike bodies inhabited by collectively manifested souls.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c69f565b7611-c03",
+      "assertion": "Yazhi says positive egregors include starseeds and other collectives oriented toward integration.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c69f565b7611-c04",
+      "assertion": "She says astral conflict reflects divisions within humanity’s collective mind.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c69f565b7611-c05",
+      "assertion": "Yazhi says coordinated non-consent and reduced fear would weaken entities sustained by human attention.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0041",
+        "p0047"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "entity_identity"
+  ]
+}

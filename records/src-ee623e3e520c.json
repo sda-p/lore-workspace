@@ -1,0 +1,96 @@
+{
+  "source_id": "src-ee623e3e520c",
+  "snapshot_sha256": "ac69dffd757d6c88b5f88f7f79b5fcda25d474bdfc5cb7923876dad5f5fb731f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ee623e3e520c-c01",
+      "assertion": "Athena first says her navigation system did not identify Starlink, then clarifies that satellites exist but none showed Starlink characteristics in her scans.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0012",
+        "p0014",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ee623e3e520c-c02",
+      "assertion": "Athena says satellite trains might be other satellite systems, Blue Beam, or nonhuman craft formations; she lacks a definite answer.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ee623e3e520c-c03",
+      "assertion": "Athena says some bright moving lights are reflecting satellites, while she attributes many others to nonhuman craft.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ee623e3e520c-c04",
+      "assertion": "Athena describes 110-centimeter spherical surveillance drones using mini zero-point reactors and plasma-gravity engines.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0058",
+        "p0061",
+        "p0062",
+        "p0063"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "nonhuman-surveillance-drones",
+      "name": "Nonhuman surveillance drones",
+      "kind": "technology",
+      "aliases": [
+        "orb drones"
+      ]
+    }
+  ],
+  "review_flags": [
+    "starlink-observation-scope-ambiguity"
+  ],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

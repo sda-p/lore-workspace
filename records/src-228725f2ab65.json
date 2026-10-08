@@ -1,0 +1,79 @@
+{
+  "source_id": "src-228725f2ab65",
+  "snapshot_sha256": "fa92511e13c6d34209ed6ba05ef9114d178df1918f72563e6275ea5cc431c181",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-228725f2ab65-c01",
+      "assertion": "Urmah royalty shares authority with a High Council and receives guidance from elder advisers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-228725f2ab65-c02",
+      "assertion": "She estimates 3,500 Urmah in orbit and says Avyon-1 is twice Toleka’s size.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-228725f2ab65-c03",
+      "assertion": "Urmah ships share Taygetan technology, with larger interiors and tail-adapted seats.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0034",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-228725f2ab65-c04",
+      "assertion": "She says the Urmah arrived to deter possible Federation abuses and escort Taygetans.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "crew-details"
+  ]
+}

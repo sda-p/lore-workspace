@@ -1,0 +1,103 @@
+{
+  "source_id": "src-94f4998a0616",
+  "snapshot_sha256": "4d9cdbefbd2b2792ec99f411452a931d224f3f2a5475e4c4badde9a72692cda1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-94f4998a0616-c01",
+      "assertion": "Yazhi says Earth’s quarantine is officially total but not fully enforced; restrictions vary by activity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94f4998a0616-c02",
+      "assertion": "She says Hashmallim intervene covertly in limited cases, sometimes altering one person’s life course.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94f4998a0616-c03",
+      "assertion": "Yazhi reports plans to rehabilitate Moon areas for ships and resources, including recycling existing materials.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0031"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-94f4998a0616-c04",
+      "assertion": "She says some Orion personnel, including Alpha Draco, are described by the Federation as cooperative.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She says she cannot confirm broader Moon-incident claims."
+    },
+    {
+      "id": "src-94f4998a0616-c05",
+      "assertion": "Yazhi characterizes established ufology experts as a human organization that copies Federation structures.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0068",
+        "p0069",
+        "p0072"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_geopolitical_claims"
+  ],
+  "coverage_gaps": [
+    "nutrition",
+    "race_and_ethnicity",
+    "current_affairs"
+  ]
+}

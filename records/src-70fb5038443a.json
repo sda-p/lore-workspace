@@ -1,0 +1,94 @@
+{
+  "source_id": "src-70fb5038443a",
+  "snapshot_sha256": "f5228b4cceb2358e49a804aaeda32345260bb6af58c6313aa3df8b134d80f717",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-70fb5038443a-c01",
+      "assertion": "Eridania says no Nibiru, Hercubulus, or Planet X threatens Earth; their mapped space contains no such object.",
+      "speaker": "Eridania",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70fb5038443a-c02",
+      "assertion": "Swaruu 9 says Tiamat was a water planet about 80% Neptune’s size, destroyed about 12,500 years ago.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70fb5038443a-c03",
+      "assertion": "Swaruu 9 says Tiamat’s reflected sunlight inspired myths of two suns.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-70fb5038443a-c04",
+      "assertion": "Swaruu 9 says reported two-sun images are mirages and the Sun is not binary.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She cannot explain Alex Collier’s contrary claim."
+    },
+    {
+      "id": "src-70fb5038443a-c05",
+      "assertion": "Swaruu 9 says her model has 13 planets: Pluto, three outer planets, and Tiamat.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The parenthetical gives inconsistent arithmetic."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "planet_count_internal_inconsistency",
+    "Nibiru_claim_conflicts_with_other_sources"
+  ],
+  "coverage_gaps": [
+    "Nemesis"
+  ]
+}

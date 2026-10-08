@@ -1,0 +1,79 @@
+{
+  "source_id": "src-cbd6e9d4a95d",
+  "snapshot_sha256": "7644c2d19fbadba5f5870db96ecad3cca1bbdae9b87a3e09ea2fad244eeab36c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-cbd6e9d4a95d-c01",
+      "assertion": "Yazhi says three arks are at the Pentagon, Russia’s Vostok base, and her ship.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cbd6e9d4a95d-c02",
+      "assertion": "Yazhi says arks safeguard biology and can serve as weapons.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cbd6e9d4a95d-c03",
+      "assertion": "Yazhi says Ukraine may hold ancient bases that could be looted under the metaphorical “ark” label.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She is unsure whether a literal ark exists."
+    },
+    {
+      "id": "src-cbd6e9d4a95d-c04",
+      "assertion": "Yazhi says the ark story may distract from broader war causes and foster hopes of rescue.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says an ark may exist but is not the war’s sole cause."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "ark_location_and_war_claims_unverified"
+  ],
+  "coverage_gaps": [
+    "ark_variants"
+  ]
+}

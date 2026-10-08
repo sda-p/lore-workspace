@@ -1,0 +1,104 @@
+{
+  "source_id": "src-e70e93e16a66",
+  "snapshot_sha256": "fc15f8a807374e2c3f5452ee1e763ac899e18d21689ad7c883b96bc37471fb75",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e70e93e16a66-c01",
+      "assertion": "Yazhi and Anéeka attribute weight gain mainly to insulin response, especially from wheat and refined carbohydrates.",
+      "speaker": "Yazhi; Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0010",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e70e93e16a66-c02",
+      "assertion": "Yazhi advises replacing wheat products with vegetables, fruit, eggs, and cheese.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e70e93e16a66-c03",
+      "assertion": "Yazhi says coffee sustains stress and suppresses extrasensory awareness; Anéeka adds black tea has similar effects.",
+      "speaker": "Yazhi; Anéeka",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0045",
+        "p0047"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e70e93e16a66-c04",
+      "assertion": "Anéeka says diet should vary by person because human digestive capacity differs.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0085",
+        "p0086"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e70e93e16a66-c05",
+      "assertion": "Yazhi says Taygetans digest plants differently from humans and cautions against imposing one diet.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0123",
+        "p0124",
+        "p0126",
+        "p0127"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_health_claims",
+    "dietary_advice"
+  ],
+  "coverage_gaps": [
+    "food_claims"
+  ]
+}

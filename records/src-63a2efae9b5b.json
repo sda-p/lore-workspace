@@ -1,0 +1,99 @@
+{
+  "source_id": "src-63a2efae9b5b",
+  "snapshot_sha256": "c3637badfb09d4a0a751b3deb32e333d5e1b061c22a3cbe74473a4e5bcf05d0f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-63a2efae9b5b-c01",
+      "assertion": "Yazhi says Earth’s Cabal reflects collective human desires and cannot reset society without collective cooperation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63a2efae9b5b-c02",
+      "assertion": "Yazhi says focused groups can alter collective reality without numerical majority.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63a2efae9b5b-c03",
+      "assertion": "Yazhi describes holographic governance as locally tailored and workable even in two-person communities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63a2efae9b5b-c04",
+      "assertion": "Yazhi presents mutual aid for members in hardship as a basis for community survival.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-63a2efae9b5b-c05",
+      "assertion": "Yazhi says people’s adopted beliefs and minds shape their perceived limits.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

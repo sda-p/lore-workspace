@@ -1,0 +1,108 @@
+{
+  "source_id": "src-9ae514ab9585",
+  "snapshot_sha256": "59417148e504193b5e81801aa93d592475d105c61b70b5337b7fcf7e05e95a7f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-9ae514ab9585-c01",
+      "assertion": "She says star portals are entered through sunspots and exits depend on frequency matching.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "sunspot-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ae514ab9585-c02",
+      "assertion": "She says black holes provide entry but prevent communications, so Taygeta no longer uses them for transit.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ae514ab9585-c03",
+      "assertion": "She describes black holes as gravitational concentration points shaped by observer consciousness.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ae514ab9585-c04",
+      "assertion": "She says Earth’s magnetic reversal is not imminent, though a reversal would disrupt biology and infrastructure.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0047",
+        "p0049",
+        "p0091"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ae514ab9585-c05",
+      "assertion": "Yazhi links pole reversal to Tiamat water; separately, she dates an Ice Age-driven catastrophic pole shift to 12,500–12,000 years ago.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0085",
+        "p0098",
+        "p0099"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "sunspot-portals",
+      "name": "Sunspot portals",
+      "kind": "technology",
+      "aliases": [
+        "stellar portals"
+      ]
+    }
+  ],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "additional-physics-claims"
+  ]
+}

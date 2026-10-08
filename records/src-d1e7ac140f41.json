@@ -1,0 +1,97 @@
+{
+  "source_id": "src-d1e7ac140f41",
+  "snapshot_sha256": "edcf3ccee0b5a7c93cfe081e04a88bc8ec200d010b8ef3121c78579b331e5fca",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d1e7ac140f41-c01",
+      "assertion": "She says forgetting is intrinsic to limited selfhood, though technology may worsen amnesia.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d1e7ac140f41-c02",
+      "assertion": "She says incarnation obscures memory through frequency mismatch, not a universal death-time machine.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d1e7ac140f41-c03",
+      "assertion": "Yazhi says memory signals reside in an etheric field and require brain translation for recall.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d1e7ac140f41-c04",
+      "assertion": "She says a soul cannot literally be trapped, though beliefs can create perceived confinement.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d1e7ac140f41-c05",
+      "assertion": "Swaruu (9) separately describes frequency containers that can hold a soul-signal until it recognizes the trap.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source-internal-contradictions"
+  ],
+  "coverage_gaps": [
+    "additional-source-details"
+  ]
+}

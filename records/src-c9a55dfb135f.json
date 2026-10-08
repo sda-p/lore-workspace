@@ -1,0 +1,121 @@
+{
+  "source_id": "src-c9a55dfb135f",
+  "snapshot_sha256": "d1f0a163a9f52a917ecdb5b7959c26c0abeea06e695e7a97e3237b5cc1b36fc7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c9a55dfb135f-c01",
+      "assertion": "Yazhi says Med Pods can print inorganic monatomic gold but cannot replicate organic material.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9a55dfb135f-c02",
+      "assertion": "Yazhi says nuclear detonations prompt Federation concern and alleged intervention, but she is unsure whether all were stopped.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9a55dfb135f-c03",
+      "assertion": "Anéeka describes the pineal gland as an interface translating Source-linked awareness and memory into bodily experience.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9a55dfb135f-c04",
+      "assertion": "Anéeka says Taygetans’ pineal glands are about four times human size and linked to telepathy.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "pineal-interface",
+      "topics": [
+        "pineal-interface",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c9a55dfb135f-c05",
+      "assertion": "Anéeka says Taygeta relates to the Federation through Alcyone and withdrew from direct Federation control.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049",
+        "p0050",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "pineal-interface",
+      "name": "Pineal interface",
+      "kind": "biology",
+      "aliases": [
+        "pineal gland interface"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "source_id": "src-b155c1320661",
+  "snapshot_sha256": "4648e7f420cc52e62705571ed474a968df328fc96f05ef64a278a3cb2b3bcd75",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b155c1320661-c01",
+      "assertion": "Anéeka says observed nanotechnology deactivated only during electromagnetic pulses and reactivated within seconds.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b155c1320661-c02",
+      "assertion": "Anéeka says destructive frequencies temporarily stop communication between alleged nanographene and 5G, with transmission resuming afterward.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b155c1320661-c03",
+      "assertion": "Anéeka says alleged nanographene activates from communications signals using the inoculated person’s bioelectric field, not external energy charging.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b155c1320661-c04",
+      "assertion": "Anéeka alleges an emitted ID and active transmissions could include location, biomedical data, microphone functions, and cellular processes.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents these as laboratory observations."
+    },
+    {
+      "id": "src-b155c1320661-c05",
+      "assertion": "Anéeka alleges related synthetic telepathy could transmit perceived voices or remotely alter behavior.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical_claims_unverified",
+    "unsafe_experiment_questions_omitted"
+  ],
+  "coverage_gaps": [
+    "pulse_parameters",
+    "social_control"
+  ]
+}

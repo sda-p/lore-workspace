@@ -48,6 +48,11 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Monoliths Explained - Real or False? Extraterrestrial Communication (Taygeta - Pleiades)](https://swaruu.org/transcripts/monoliths-explained-real-or-false-extraterrestrial-communication-taygeta-pleiades) (2020-12-16; en); passages p0026, p0027, p0050, p0051, p0053. [Structured record](../../records/src-1ffb05bafb88.json).
 
+## Claims filed under other topics
+
+- [src-0d8c0f4f7056-c05](natural-portals.md#src-0d8c0f4f7056-c05) — Natural and artificial portals
+
 ## Review flags
 
+- extraordinary\_astronomical\_claims
 - speaker\_shift\_anekea\_to\_yazhi

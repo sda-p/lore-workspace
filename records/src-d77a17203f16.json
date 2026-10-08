@@ -1,0 +1,115 @@
+{
+  "source_id": "src-d77a17203f16",
+  "snapshot_sha256": "427db2fe53c42e06b039d648ea910a5e83a55d56dd268511e44ea6c46b7ec776",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d77a17203f16-c01",
+      "assertion": "Athena says the report draws on observation and anonymous sources.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Unverified wartime intelligence."
+    },
+    {
+      "id": "src-d77a17203f16-c02",
+      "assertion": "She says the West seeks to weaken Russia through a proxy war.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified geopolitical claim."
+    },
+    {
+      "id": "src-d77a17203f16-c03",
+      "assertion": "She says 2022 ceasefire talks failed amid Western support for Ukraine.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0014"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified wartime account."
+    },
+    {
+      "id": "src-d77a17203f16-c04",
+      "assertion": "She cites Ukrainian population-loss estimates of 30–45%.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Source gives differing estimates."
+    },
+    {
+      "id": "src-d77a17203f16-c05",
+      "assertion": "Athena says Putin faces internal opposition and remains untrusted.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0030"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d77a17203f16-c06",
+      "assertion": "She sees no winner, but says Russia has military supremacy and strength limits escalation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0041",
+        "p0043"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Report is expressly pro-Putin."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_wartime_claims",
+    "internal_qualification"
+  ],
+  "coverage_gaps": [
+    "full_source_evidence"
+  ]
+}

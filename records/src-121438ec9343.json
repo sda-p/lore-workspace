@@ -1,0 +1,97 @@
+{
+  "source_id": "src-121438ec9343",
+  "snapshot_sha256": "afc75a1e05cb68ed29523242759a2398b2f0ad7d61987afa4a0fd3b3dca18e53",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-121438ec9343-c01",
+      "speaker": "Yazhi",
+      "assertion": "Yazhi says Earth is isolated within a controlled Matrix realm distinct from extraterrestrial reality.",
+      "paragraph_ids": [
+        "p0004",
+        "p0010",
+        "p0060"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-121438ec9343-c02",
+      "speaker": "Yazhi",
+      "assertion": "She says former Earth incarnations influence Federation decisions about Earth’s rules.",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-121438ec9343-c03",
+      "speaker": "Yazhi",
+      "assertion": "She says souls may repeatedly incarnate on Earth through attachment to human identity.",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-121438ec9343-c04",
+      "speaker": "Swaruu X",
+      "assertion": "Swaruu X says the Federation limits public technology to preserve chosen Earth life experiences.",
+      "paragraph_ids": [
+        "p0084",
+        "p0085"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-121438ec9343-c05",
+      "speaker": "Swaruu X",
+      "assertion": "She defines civilization level mainly by ethical and spiritual influence, not energy use.",
+      "paragraph_ids": [
+        "p0089",
+        "p0090"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "earth-time-perception",
+    "specific-civilization-levels"
+  ]
+}

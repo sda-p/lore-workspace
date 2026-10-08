@@ -1,0 +1,112 @@
+{
+  "source_id": "src-59816f3eae2d",
+  "snapshot_sha256": "a31f44334787337d557f759cf86b5f418160f72c23386d1294f457457f63f7bb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-59816f3eae2d-c01",
+      "assertion": "Mari says Taygetans and Swaruu of Erra shared online for five years, after earlier private contact.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59816f3eae2d-c02",
+      "assertion": "Mari says earlier contacts exhausted themselves trying to please interviewers without healthy limits.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Her account of her predecessors."
+    },
+    {
+      "id": "src-59816f3eae2d-c03",
+      "assertion": "Mari says service to others can become exploitative on Earth, unlike reciprocal holistic societies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59816f3eae2d-c04",
+      "assertion": "Mari describes most extraterrestrials as ordinary people with their own needs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59816f3eae2d-c05",
+      "assertion": "Mari says other humans live in space and calls Earth’s closed perception the Earth Matrix.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-59816f3eae2d-c06",
+      "assertion": "Mari declines direct audience contact as unhealthy and too demanding.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "publishing_process"
+  ]
+}

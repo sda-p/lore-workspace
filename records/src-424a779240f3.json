@@ -1,0 +1,121 @@
+{
+  "source_id": "src-424a779240f3",
+  "snapshot_sha256": "14259e17a85535f51cf46adadf477eb2eecccc0acf83cfe749cb7749b01fbebb",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-424a779240f3-c01",
+      "assertion": "Athena says natural portals link routes through gravity flows.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0026"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-424a779240f3-c02",
+      "assertion": "She says ships modulate frequency to steer in portal networks; dominant flows otherwise carry them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-424a779240f3-c03",
+      "assertion": "Athena says advanced Federation civilizations can create precise artificial wormholes instead.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-424a779240f3-c04",
+      "assertion": "She says massive biosphere ships use portal currents to reduce their own energy use.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-424a779240f3-c05",
+      "assertion": "Athena describes suns as toroidal nodes linked by ether-side navigation routes.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0032",
+        "p0035",
+        "p0039"
+      ],
+      "primary_topic": "black-holes",
+      "topics": [
+        "black-holes",
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-424a779240f3-c06",
+      "assertion": "She says portal direction depends on frequency and flow, with some suns and black holes serving as entry or exit points.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0042",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "black-holes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_cosmology_and_technology"
+  ],
+  "coverage_gaps": [
+    "portal_routes",
+    "illustrative_diagrams"
+  ]
+}

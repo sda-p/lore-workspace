@@ -1,0 +1,101 @@
+{
+  "source_id": "src-791dff0093a7",
+  "snapshot_sha256": "da969a70dea2a256c2cf91efe6e843c7ed6978dc28b36692fdfdf534cfa32a62",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-791dff0093a7-c01",
+      "assertion": "Yazhi first attributes circling animals to alleged frequency-based mind control.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified allegation later revised."
+    },
+    {
+      "id": "src-791dff0093a7-c02",
+      "assertion": "She initially says species-specific frequencies make some animals vulnerable.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified claim later revised."
+    },
+    {
+      "id": "src-791dff0093a7-c03",
+      "assertion": "Yazhi later says videos are likely compilations; sensors found no animal-directed signals.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Later correction supersedes initial explanation."
+    },
+    {
+      "id": "src-791dff0093a7-c04",
+      "assertion": "She says the same alleged technology may target human populations through towers and induced thoughts.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified allegation."
+    },
+    {
+      "id": "src-791dff0093a7-c05",
+      "assertion": "Yazhi describes katra as an individual spiritual essence and says the term is used among Federation civilizations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified lore."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_mind_control_claims",
+    "internal_revision"
+  ],
+  "coverage_gaps": [
+    "other_examples"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "source_id": "src-43267390c72b",
+  "snapshot_sha256": "4657653029266d1558a872c1150b605b4f7ef2d069949e2a4b04ddda8a04c4d5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-43267390c72b-c01",
+      "assertion": "Yazhi says time travelers perceive personal timelines whose events change with each return.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43267390c72b-c02",
+      "assertion": "She models time as expanding sideways and in multiple dimensions, beyond a single temporal axis.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0008",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43267390c72b-c03",
+      "assertion": "Yazhi says timeline jumpers can organize events only within their own experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43267390c72b-c04",
+      "assertion": "She advises focusing on daily life when seeking peace rather than time travel.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43267390c72b-c05",
+      "assertion": "Yazhi says cause and effect may be understood without ordering events by time.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics",
+    "unverified_time_travel_claims"
+  ],
+  "coverage_gaps": [
+    "missing_images"
+  ]
+}

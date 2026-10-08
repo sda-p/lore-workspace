@@ -1,0 +1,62 @@
+{
+  "source_id": "src-d70fb70e0561",
+  "snapshot_sha256": "63f38b9c3105fd7f4e235e83d48af839fa2ec82d5ed354c27d61554023c55c94",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d70fb70e0561-c01",
+      "assertion": "Yazhi interprets toy imagery as coded MK Ultra, satanic, and sexual symbolism.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "unicorn-symbolism",
+      "topics": [
+        "unicorn-symbolism"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d70fb70e0561-c02",
+      "assertion": "She reads an owl as sacrificial imagery when grouped with other symbols.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "unicorn-symbolism",
+      "topics": [
+        "unicorn-symbolism"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d70fb70e0561-c03",
+      "assertion": "She interprets unicorns beside feminine figures as phallic symbolism.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "unicorn-symbolism",
+      "topics": [
+        "unicorn-symbolism"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "symbolic-conspiracy-interpretation"
+  ],
+  "coverage_gaps": [
+    "symbol-details"
+  ]
+}

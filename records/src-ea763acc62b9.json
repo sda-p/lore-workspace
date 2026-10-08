@@ -1,0 +1,98 @@
+{
+  "source_id": "src-ea763acc62b9",
+  "snapshot_sha256": "f5a73ee7c1c886dad75df3e0eb101eb9935fea42816ec74982fe21315a780003",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ea763acc62b9-c01",
+      "assertion": "She describes Earth’s reality rules as a contained Matrix shaped by local information agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ea763acc62b9-c02",
+      "assertion": "She says Alfratans and Antarians act as Federation guardians but follow rules that block Earth liberation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0044",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ea763acc62b9-c03",
+      "assertion": "She says the Federation protects Earth from outside threats while maintaining its isolation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ea763acc62b9-c04",
+      "assertion": "She says Federation interests differ from human expectations and do not prioritize ending Earth suffering.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0062",
+        "p0064"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ea763acc62b9-c05",
+      "assertion": "She says human interpretations of evil and alien invaders differ from Federation frameworks.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0050",
+        "p0053"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "metaphysical-claims"
+  ],
+  "coverage_gaps": [
+    "additional-source-claims"
+  ]
+}

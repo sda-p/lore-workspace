@@ -20,17 +20,17 @@ def language(title):
     a,b=len(words & EN),len(words & ES)
     return 'en' if a>=1 and a>b else 'es' if b>a else None
 
-def select(batch,size):
+def select(batch,size,mode='en'):
     manifest=lore.read(ROOT/'sources/manifest.json')
     ledger=lore.read(ROOT/'work/ledger.json')
-    available=[s for s in manifest['sources'] if s['id'] not in ledger['jobs'] and language(s['title'])=='en']
+    available=[s for s in manifest['sources'] if s['id'] not in ledger['jobs'] and (mode=='remaining' or language(s['title'])==mode)]
     selected=available[:size]
-    if not selected: raise ValueError('No unassigned likely-English records remain; review other languages next.')
+    if not selected: raise ValueError(f'No unassigned records remain for selection mode {mode}.')
     path=ROOT/f'config/selections/{batch}.json'
-    lore.write(path,[{'slug':s['url'].rsplit('/',1)[-1],'language':'en'} for s in selected])
+    lore.write(path,[{'slug':s['url'].rsplit('/',1)[-1],'language':language(s['title']) or 'es'} for s in selected])
     ids=[s['id'] for s in selected]
-    lore.write(ROOT/f'work/cohorts/{batch}.json',{'batch_id':batch,'source_ids':ids,'status':'selected','selected_at':lore.now(),'selection_method':'title-language heuristic; language verified during source reading'})
-    print(f'Selected {len(ids)} new records for {batch}; {len(available)-len(ids)} other likely-English URLs remain.')
+    lore.write(ROOT/f'work/cohorts/{batch}.json',{'batch_id':batch,'source_ids':ids,'status':'selected','selected_at':lore.now(),'selection_method':f'{mode}: title-language heuristic; language verified during source reading'})
+    print(f'Selected {len(ids)} new records for {batch}; {len(available)-len(ids)} other {mode} URLs remain.')
 
 def ready(batch):
     cohort=lore.read(ROOT/f'work/cohorts/{batch}.json')
@@ -73,12 +73,17 @@ def integrate(batch,cache):
         report_path=ROOT/f'reports/batches/{batch}/review-{i}.json'
         if not report_path.exists(): errors.append({'reviewer':i,'error':'Review report missing'}); continue
         report=lore.read(report_path)
+        if report.get('batch_id')!=batch or report.get('reviewer')!=i:
+            raise ValueError('Review report identity does not match its assigned cohort/shard')
         assigned=set(lore.read(ROOT/f'work/batches/{batch}/review-{i}.json')['source_ids'])
         reviewed=set(report.get('reviewed_source_ids',[]))
         if not reviewed<=assigned: raise ValueError('Review includes unassigned sources')
         blocked={item.get('source_id') for item in report.get('unresolved',[]) if item.get('severity') in ('high','medium')}
         approved.update(reviewed-blocked)
         corrections+=len(report.get('corrections',[]))
+    active=set(cohort.get('active_source_ids',cohort['source_ids']))
+    if errors or not active<=approved:
+        raise ValueError('Independent review reports incomplete or blocked; shared ledger unchanged')
     for sid in cohort.get('active_source_ids',cohort['source_ids']):
         try:
             if sid not in approved: raise ValueError('Independent review incomplete or blocked')
@@ -112,9 +117,15 @@ def progress():
     counts=Counter(j['status'] for j in ledger['jobs'].values())
     reviewed=[sid for sid,j in ledger['jobs'].items() if j['status']=='reviewed']
     claims=sum(ledger['jobs'][sid].get('claim_count',0) for sid in reviewed)
+    by_source={source['id']:source for source in manifest['sources']}
+    languages=Counter(by_source[sid].get('language','unknown') for sid in reviewed)
+    released_pending=sum(job['status']!='reviewed' and (ROOT/f'work/completed/{sid}.json').exists() for sid,job in ledger['jobs'].items())
     cohorts=[lore.read(p) for p in sorted((ROOT/'work/cohorts').glob('*.json'))] if (ROOT/'work/cohorts').exists() else []
-    lines=['# Continuous collection progress','',f'Updated: {lore.now()}','',f'- Inventoried URLs: {manifest["record_count"]}',f'- Independently reviewed source records: {len(reviewed)}',f'- Source-specific claims: {claims}',f'- Exact duplicate URLs skipped: {counts["duplicate-exact"]}',f'- Unassigned URLs: {manifest["record_count"]-len(ledger["jobs"])}',f'- Assigned records still needing work: {len(ledger["jobs"])-len(reviewed)-counts["duplicate-exact"]}','','Source-record counts include retained language/revision variants and are not counts of independent corroborating accounts. Each record is a compact core extraction, not exhaustive coverage. English-first selection uses title heuristics; other languages remain available for later comparisons.','','| Cohort | Records selected | Status | Review corrections |','| --- | ---: | --- | ---: |']
-    for c in cohorts: lines.append(f'| {c["batch_id"]} | {len(c["source_ids"])} | {c["status"]} | {c.get("review_corrections",0)} |')
+    lines=['# Continuous collection progress','',f'Updated: {lore.now()}','',f'- Inventoried URLs: {manifest["record_count"]}',f'- Independently reviewed source records: {len(reviewed)}',f'- Source-specific claims: {claims}',f'- Reviewed record languages: {dict(languages)}',f'- Released records awaiting completed independent review/integration: {released_pending}',f'- Exact duplicate URLs skipped: {counts["duplicate-exact"]}',f'- Unassigned URLs: {manifest["record_count"]-len(ledger["jobs"])}',f'- Assigned records still needing work: {len(ledger["jobs"])-len(reviewed)-counts["duplicate-exact"]}','','Source-record counts include retained language/revision variants and are not counts of independent corroborating accounts. Each record is a compact core extraction, not exhaustive coverage. English-first selection uses title heuristics plus coordinator review of ambiguous titles. Later cohorts process Spanish and remaining records; extracts are written in English, with original source language retained.','','| Cohort | Records selected | Records released | Records reviewed | Status | Review corrections |','| --- | ---: | ---: | ---: | --- | ---: |']
+    for c in cohorts:
+        released=sum((ROOT/f'work/completed/{sid}.json').exists() for sid in c['source_ids'])
+        approved=sum(ledger['jobs'].get(sid,{}).get('status')=='reviewed' for sid in c['source_ids'])
+        lines.append(f'| {c["batch_id"]} | {len(c["source_ids"])} | {released} | {approved} | {c["status"]} | {c.get("review_corrections",0)} |')
     lines += ['','## Resume','', 'Select a new cohort with `continuous.py select --batch <id> --size 40`, prepare its selection with `lore.py prepare --selection config/selections/<id>.json --batch <id>`, then run `continuous.py ready --batch <id>`. Assign four extraction shards and two independent review shards. Integrate completed reviews, build the wiki, and checkpoint. Completed ledger jobs are retained across cohorts.','','Review reports and integration errors are retained under `reports/batches/`. Failed downloads and records remain retryable; suspected translations are never skipped solely because their titles resemble another article.','']
     (ROOT/'reports/collection.md').write_text('\n'.join(lines),encoding='utf-8')
     print(dict(counts),'claims:',claims,'unassigned:',manifest['record_count']-len(ledger['jobs']))
@@ -139,7 +150,7 @@ def wait_ready(batch,reviewer,excluded):
         time.sleep(1)
 
 parser=argparse.ArgumentParser(); sub=parser.add_subparsers(dest='command',required=True)
-s=sub.add_parser('select'); s.add_argument('--batch',required=True); s.add_argument('--size',type=int,default=40)
+s=sub.add_parser('select'); s.add_argument('--batch',required=True); s.add_argument('--size',type=int,default=40); s.add_argument('--language',choices=('en','es','remaining'),default='en')
 r=sub.add_parser('ready'); r.add_argument('--batch',required=True)
 i=sub.add_parser('integrate'); i.add_argument('--batch',required=True); i.add_argument('--cache',default='../source-cache')
 sub.add_parser('progress')
@@ -151,7 +162,7 @@ if args.command in ('extracted','wait-ready'):
     else: wait_ready(args.batch,args.reviewer,set(filter(None,args.exclude.split(','))))
 else:
     with lore.coordinator_lock():
-        if args.command=='select': select(args.batch,args.size)
+        if args.command=='select': select(args.batch,args.size,args.language)
         elif args.command=='ready': ready(args.batch)
         elif args.command=='integrate': integrate(args.batch,args.cache)
         else: progress()

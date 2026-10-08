@@ -174,6 +174,78 @@ Attributed to **Yazhi**; reported; extraction confidence: high.
 
 Source: [If Everything is Souls´ Plan from Above Anyway- What Do We Do? - Yazhi Swaruu - Pleiadian Contact](https://swaruu.org/transcripts/if-everything-is-souls-plan-from-above-anyway-what-do-we-do-yazhi-swaruu-pleiadian-contact) (2020-11-26; en); passages p0062, p0063. [Structured record](../../records/src-42e3f0afcb4a.json).
 
+### src-25c59deebdc1-c06
+
+Yazhi contrasts a reported Federation view that Maitré introduced money with her view that it grew from barter and scarcity.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Federation and Earth Problems - Humans are the Key (Group Chat with Yazhi-Extraterrestrial Contact)](https://swaruu.org/transcripts/federation-and-earth-problems-humans-are-the-key-group-chat-with-yazhi-extraterrestrial-contact) (2021-03-19; en); passages p0239, p0240. [Structured record](../../records/src-25c59deebdc1.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-09eef8905c88-c05
+
+Yazhi says money abolition is possible if people change scarcity values.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: ["Holographic" - HOLISTIC Society - Spiritual and Ethical Preparation is the First Step - Yazhi](https://swaruu.org/transcripts/holographic-holistic-society-spiritual-and-ethical-preparation-is-the-first-step-yazhi) (2022-03-18; en); passages p0060, p0063, p0064. [Structured record](../../records/src-09eef8905c88.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-7ec4f5ba6415-c03
+
+She proposes cultured meat as an alternative that avoids raising conscious animals.
+
+Attributed to **Swaruu (9)**; speculative; extraction confidence: high.
+
+Source: [Veganism - Agendas - Taygetan Investigation - We do NOT Recommend a Vegan Diet](https://swaruu.org/transcripts/veganism-agendas-taygetan-investigation-we-do-not-recommend-a-vegan-diet) (2022-10-02; en); passages p0011. [Structured record](../../records/src-7ec4f5ba6415.json).
+
+Related topics: [Cultivated meat](cultivated-meat.md).
+
+### src-90b4147078b4-c04
+
+She says elite societies use gold and internal supply chains rather than ordinary currency.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Apis Bull, Red Bull, and Illuminati Symbolism - They Steal Symbols that are NOT theirs](https://swaruu.org/transcripts/apis-bull-red-bull-and-illuminati-symbolism-they-steal-symbols-that-are-not-theirs) (2022-05-06; en); passages p0042, p0043. [Structured record](../../records/src-90b4147078b4.json).
+
+### src-5a5b37e4325b-c04
+
+She says many starseeds lack economic resources because they reject debt-based work systems.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Humans and Responsibility - Chat with Athena Swaruu (Extraterrestrial Communication)](https://swaruu.org/transcripts/humans-and-responsibility-chat-with-athena-swaruu-extraterrestrial-communication) (2022-07-28; en); passages p0021, p0023, p0024. [Structured record](../../records/src-5a5b37e4325b.json).
+
+### src-6af7853b713e-c05
+
+Athena says interstellar exchange shares ideas, technology, and art; goods are shared when needs are met.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Ufo Conference Finland - Mini Report - Live Online Connection with Athena Swaruu](https://swaruu.org/transcripts/ufo-conference-finland-mini-report-live-online-connection-with-athena-swaruu) (2021-11-07; en); passages p0037, p0038, p0039, p0040, p0041. [Structured record](../../records/src-6af7853b713e.json).
+
+### src-0d8c0f4f7056-c03
+
+Swaruu says Saturn’s rings are mined for materials, including gold.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: high.
+
+Source: [Saturn - Solar System - Information from Swaruu of Erra (Extraterrestrial Information - Taygeta)](https://swaruu.org/transcripts/saturn-solar-system-information-from-swaruu-of-erra-extraterrestrial-information-taygeta) (2022-08-01; en); passages p0037, p0042. [Structured record](../../records/src-0d8c0f4f7056.json).
+
+### src-471bc503a9e6-c02
+
+She describes Taygeta as moneyless, materially abundant, and powered mainly by zero-point reactors.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Aneeka of Temmer - Why did she Arrive to Earth? Her Work and Our Gratitude](https://swaruu.org/transcripts/aneeka-of-temmer-why-did-she-arrive-to-earth-her-work-and-our-gratitude) (2022-12-02; en); passages p0008, p0009. [Structured record](../../records/src-471bc503a9e6.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -181,24 +253,53 @@ Source: [If Everything is Souls´ Plan from Above Anyway- What Do We Do? - Yazhi
 - [src-ed3d8dd11109-c03](galactic-federation.md#src-ed3d8dd11109-c03) — Galactic Federation
 - [src-7f7f62c9391c-c03](atlantis-lemuria.md#src-7f7f62c9391c-c03) — Atlantis and Lemuria
 - [src-c958dacd5a97-c01](earth-cabal.md#src-c958dacd5a97-c01) — Earth Cabal and power structures
+- [src-25c59deebdc1-c05](holistic-society.md#src-25c59deebdc1-c05) — Holistic society
+- [src-5a5946c015e8-c01](taygetans.md#src-5a5946c015e8-c01) — Taygetans
+- [src-94f4998a0616-c03](moon-matrix.md#src-94f4998a0616-c03) — Moon and terrestrial Matrix
+- [src-63c8f1bd575e-c02](earth-cabal.md#src-63c8f1bd575e-c02) — Earth Cabal and power structures
+- [src-a750cb52cbee-c04](holistic-society.md#src-a750cb52cbee-c04) — Holistic society
+- [src-a750cb52cbee-c05](holistic-society.md#src-a750cb52cbee-c05) — Holistic society
+- [src-63a2efae9b5b-c04](holistic-society.md#src-63a2efae9b5b-c04) — Holistic society
+- [src-829579bed3c5-c05](starship-systems.md#src-829579bed3c5-c05) — Starship systems
+- [src-165493b296b5-c02](taygetans.md#src-165493b296b5-c02) — Taygetans
+- [src-28bf88ffca23-c02](earth-cabal.md#src-28bf88ffca23-c02) — Earth Cabal and power structures
+- [src-01c3c72a675d-c02](earth-cabal.md#src-01c3c72a675d-c02) — Earth Cabal and power structures
 
 ## Review flags
 
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
+- conspiracy-claims
 - coverage: climate and architecture
 - coverage: interspecies compatibility
 - crime\_and\_abundance\_claims
 - dialogue-perspectives-distinguished
+- earth-consciousness\_claim\_omitted
 - ethical\_perspective\_conflict
+- extraordinary\_astronomical\_claims
+- extraordinary\_civilization\_claims
+- extraordinary\_exopolitical\_claims
 - forecast\_predictions\_not\_confirmed
+- geopolitical-allegation
+- health-claims-unverified
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
+- intervention\_tension
 - manifestation\_mechanics
 - matrix\_scope
+- medical\_claims\_omitted
+- metaphysical-claims
+- metaphysical\_worldview
+- meteorite\_claim\_omitted
+- personal\_social\_theory
+- political-allegation
+- political\_claims
 - political\_structure\_claims
 - speaker-attribution-swaruu-x-athena
+- symbolic-conspiracy-claims
+- time-bound-prediction
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
+- unverified\_geopolitical\_claims
 - unverified\_medical\_allegations
 - unverified\_medical\_claims
 - zero-point-mechanics

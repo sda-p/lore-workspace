@@ -1,0 +1,97 @@
+{
+  "source_id": "src-2ccd6a89a072",
+  "snapshot_sha256": "49201525b22c8994a9cbd31ea2d694ef98d4f78cb8699491d25edbdf558a61e4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-2ccd6a89a072-c01",
+      "assertion": "Yazhi says Earth’s material world is a mental game whose obstacles are created by souls experiencing it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ccd6a89a072-c02",
+      "assertion": "She says individuals can offer alternatives but cannot impose views or defeat the Cabal without becoming it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ccd6a89a072-c03",
+      "assertion": "She says starseed waves respond to increased difficulty and seek challenges for personal expansion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ccd6a89a072-c04",
+      "assertion": "She says souls choose whether to perceive changes as positive or negative; she describes a perceived split in realities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2ccd6a89a072-c05",
+      "assertion": "She says military operations may be psyops or factional, and she needs facts before judging them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0046",
+        "p0047",
+        "p0048",
+        "p0049"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "starseed_genetics"
+  ]
+}

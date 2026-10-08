@@ -1,0 +1,104 @@
+{
+  "source_id": "src-3527c85bcb1a",
+  "snapshot_sha256": "f0f30ebdb455546eb8bf63e94d4e832d7a347e28e570445703c4061549bd175d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3527c85bcb1a-c01",
+      "assertion": "Anéeka says “22 races” is a simplified way to describe the many ancestral identities she associates with human DNA.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0030",
+        "p0043"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3527c85bcb1a-c02",
+      "assertion": "She frames DNA as materialized soul-memory and shared identity agreements.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3527c85bcb1a-c03",
+      "assertion": "Anéeka rejects humans being created from 22 races in a laboratory, while allowing historical genetic alterations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0036",
+        "p0044"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3527c85bcb1a-c04",
+      "assertion": "She gives Taygetans 24 chromosomes and 12 strands, and Swaruunians 24 and 24.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3527c85bcb1a-c05",
+      "assertion": "Anéeka says awakening may activate latent DNA memories through expanded consciousness and attention.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0046",
+        "p0047",
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_genetics_claims"
+  ],
+  "coverage_gaps": [
+    "race_count_interpretation"
+  ]
+}

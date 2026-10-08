@@ -1,0 +1,120 @@
+{
+  "source_id": "src-ac42c9b16234",
+  "snapshot_sha256": "1935fbded2c48a988edf8bccdb44024b58b9649e0db2fffad6d824deb8cd68d4",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-ac42c9b16234-c01",
+      "assertion": "Yazhi describes density labels as a frequency-map convention, not boundaries between physical realms.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0012"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac42c9b16234-c02",
+      "assertion": "She says Source-connected beings can perceive several densities at once rather than occupy one fixed range.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac42c9b16234-c03",
+      "assertion": "Yazhi says shared density arises from overlapping agreements of perception, not an external separation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac42c9b16234-c04",
+      "assertion": "Yazhi says a Taygetan immersed in Earth Matrix might undergo DNA degradation after years; strong ET mindset can prevent it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0047",
+        "p0048",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac42c9b16234-c05",
+      "assertion": "Athena says ship gravity sensors can detect elementals outside ordinary human perception.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0085",
+        "p0087",
+        "p0088",
+        "p0089"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "perceptual-density",
+      "name": "Perceptual density",
+      "kind": "cosmology",
+      "aliases": [
+        "private density"
+      ]
+    },
+    {
+      "id": "elementals",
+      "name": "Elementals",
+      "kind": "species",
+      "aliases": [
+        "elemental beings"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "viewpoint-variation"
+  ]
+}

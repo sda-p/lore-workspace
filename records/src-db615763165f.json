@@ -1,0 +1,91 @@
+{
+  "source_id": "src-db615763165f",
+  "snapshot_sha256": "66eabb8f65c157f2ff1db4312711700b786efcc973362c3df4e1d36574522152",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-db615763165f-c01",
+      "assertion": "Yazhi links Haitian “living dead” lore to alleged low-sodium states that weaken nerve transmission.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0009",
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Unverified health and occult claims."
+    },
+    {
+      "id": "src-db615763165f-c02",
+      "assertion": "She says these beings are not movie-style corpses but living bodies with severely reduced consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db615763165f-c03",
+      "assertion": "Yazhi claims salt can restore consciousness and describes sorcerers withholding it to maintain control.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Unsupported medical claim."
+    },
+    {
+      "id": "src-db615763165f-c04",
+      "assertion": "She attributes mass control to black magic, altered sodium, and electromagnetic influence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "unverified_medical_claims",
+    "occult_claims"
+  ],
+  "coverage_gaps": [
+    "ritual_details",
+    "individual_cases"
+  ]
+}

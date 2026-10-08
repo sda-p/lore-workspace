@@ -1,0 +1,105 @@
+{
+  "source_id": "src-c5e6117394fd",
+  "snapshot_sha256": "bd16255c89c422ffbd59f8aa1710ba6447b1884b5ab7cb33c8a3db5f204f136e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c5e6117394fd-c01",
+      "assertion": "Yazhi says laboratory genetic changes persist in one body but usually revert in descendants unless reinforced.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5e6117394fd-c02",
+      "assertion": "Yazhi says perception control can reinforce artificial genetic changes and shape a collective unconscious.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0026",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5e6117394fd-c03",
+      "assertion": "Yazhi says a few priests in different cultures could establish a collective belief without mass media.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5e6117394fd-c04",
+      "assertion": "Yazhi says Druids and Bards were meant to restore cosmic awareness, but Rome and the Atonist Cabal suppressed them.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5e6117394fd-c05",
+      "assertion": "Yazhi says vaccine-related trauma would carry across later incarnations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

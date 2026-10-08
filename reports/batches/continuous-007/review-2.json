@@ -1,0 +1,318 @@
+{
+  "batch_id": "continuous-007",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-7ec4f5ba6415",
+    "src-26e1f4c9155e",
+    "src-9ae514ab9585",
+    "src-74e890f5b7d3",
+    "src-90318213f446",
+    "src-ea763acc62b9",
+    "src-16416f4e53c8",
+    "src-235efae6057f",
+    "src-1ff13e4ddd37",
+    "src-a2a5bfc5daf9",
+    "src-016bae2e1ff8",
+    "src-fd483c9ab412",
+    "src-e4117599a861",
+    "src-c34885856c79",
+    "src-e5ffdf73eebe",
+    "src-aa04d431ff67",
+    "src-ac42c9b16234",
+    "src-06cf2b3b68e8",
+    "src-daa336304762",
+    "src-1f3a3984c56e",
+    "src-41d95366bce3",
+    "src-8d576793d53d",
+    "src-6c1d61adc74b",
+    "src-9ad5026019b6",
+    "src-63c8f1bd575e",
+    "src-733f017eef4f",
+    "src-eb8ed6762c3b",
+    "src-bcef9325e4a2",
+    "src-22d5f1e26b59",
+    "src-3151bfa9585e",
+    "src-ccf895d60978",
+    "src-829579bed3c5",
+    "src-90f8716ad12b",
+    "src-c826a25c1a7d",
+    "src-5c53f31c4600",
+    "src-d7d90a56bb44",
+    "src-ee623e3e520c",
+    "src-0defad89a757",
+    "src-c9a55dfb135f",
+    "src-3931f215ab3a",
+    "src-a315a2d9fccb",
+    "src-471bc503a9e6",
+    "src-5898037c825f",
+    "src-d076cfbaef4c",
+    "src-d871754e2d44",
+    "src-c07ce04540a6",
+    "src-d1e7ac140f41",
+    "src-2ad2f1b21fd3",
+    "src-648aec90f934",
+    "src-1e8728b1466f",
+    "src-15eedd9ca49d",
+    "src-5a5b37e4325b",
+    "src-2ae7279588b3",
+    "src-20cb9d5c4075",
+    "src-839bb1d93820",
+    "src-59816f3eae2d",
+    "src-0d91bb4e0e59",
+    "src-6af7853b713e",
+    "src-28bf88ffca23",
+    "src-f8571fb0c3c0",
+    "src-8cab3b6d93eb",
+    "src-58967db24dfa",
+    "src-cf8a6e5b563c",
+    "src-43267390c72b",
+    "src-5cc85f614658",
+    "src-5e154cdece92",
+    "src-d0dd311d0a58",
+    "src-eb37fe3914b0",
+    "src-5da11e309cca",
+    "src-9dba344806dc",
+    "src-0f4f8d997259",
+    "src-9ea1c99a4dc1",
+    "src-1a5a72595f76",
+    "src-01c3c72a675d",
+    "src-8d48b13d52fc",
+    "src-969af740e3ec",
+    "src-6c71c02def44",
+    "src-d8391970fc4d",
+    "src-48ce581921b0",
+    "src-7e80e407b335"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-9ae514ab9585",
+      "claim_id": "src-9ae514ab9585-c05",
+      "problem": "Conflated separate Tiamat-water and later Ice-Age pole-shift explanations.",
+      "action": "Separated causal accounts and preserved dates.",
+      "paragraph_ids": [
+        "p0085",
+        "p0098",
+        "p0099"
+      ]
+    },
+    {
+      "source_id": "src-16416f4e53c8",
+      "claim_id": "src-16416f4e53c8-c05",
+      "problem": "Omitted relevant passages supporting wave-to-matter and base-12 dynamics.",
+      "action": "Added missing evidence passages.",
+      "paragraph_ids": [
+        "p0149",
+        "p0150",
+        "p0151",
+        "p0156",
+        "p0159",
+        "p0161"
+      ]
+    },
+    {
+      "source_id": "src-1ff13e4ddd37",
+      "claim_id": "src-1ff13e4ddd37-c03",
+      "problem": "Cited projected lunar surface without the interviewer prompt and answer context.",
+      "action": "Added answer passages that establish the projected surface claim.",
+      "paragraph_ids": [
+        "p0072",
+        "p0073",
+        "p0074",
+        "p0075",
+        "p0077"
+      ]
+    },
+    {
+      "source_id": "src-e4117599a861",
+      "claim_id": "src-e4117599a861-c05",
+      "problem": "Generalized distinct stances of other groups as resisting Earth policies.",
+      "action": "Restored distinctions among orchestrating, permitting, manipulated, and wishing to help.",
+      "paragraph_ids": [
+        "p0144",
+        "p0168"
+      ]
+    },
+    {
+      "source_id": "src-c34885856c79",
+      "claim_id": "src-c34885856c79-c03",
+      "problem": "False-alien contact claim lacked passages for military and benevolent possibilities.",
+      "action": "Added supporting passages.",
+      "paragraph_ids": [
+        "p0075",
+        "p0076"
+      ]
+    },
+    {
+      "source_id": "src-aa04d431ff67",
+      "claim_id": "src-aa04d431ff67-c03",
+      "problem": "Cellular-network phrasing added a detail unsupported by source.",
+      "action": "Rephrased to the alleged gene alteration and returned genome/mutation data on 5G-range signals.",
+      "paragraph_ids": [
+        "p0037",
+        "p0041",
+        "p0047"
+      ]
+    },
+    {
+      "source_id": "src-41d95366bce3",
+      "claim_id": "src-41d95366bce3-c01..c04",
+      "problem": "All four claims were cross-contaminated from another source and unsupported by this source passages.",
+      "action": "Replaced with four source-supported claims on mapped genetic defects, wet/dry pod use, IQ changes, and recurrence.",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0015",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0033",
+        "p0034"
+      ]
+    },
+    {
+      "source_id": "src-6c1d61adc74b",
+      "claim_id": "src-6c1d61adc74b-c03",
+      "problem": "Overstated electromagnetic pulse deactivation as permanent.",
+      "action": "Specified claimed deactivation is temporary.",
+      "paragraph_ids": [
+        "p0025",
+        "p0041"
+      ]
+    },
+    {
+      "source_id": "src-eb8ed6762c3b",
+      "claim_id": "src-eb8ed6762c3b-c02",
+      "problem": "Cross-source contamination: Hashmallim and Kyiv absent from the source.",
+      "action": "Removed unsupported topic and rewrote claim to refugee-flow/burning-villages reports.",
+      "paragraph_ids": [
+        "p0015",
+        "p0017"
+      ]
+    },
+    {
+      "source_id": "src-eb8ed6762c3b",
+      "claim_id": "src-eb8ed6762c3b-c05",
+      "problem": "Uncertainty around US/NATO special forces not preserved.",
+      "action": "Restored that Athena cannot confirm presence but believes it based on her reasoning.",
+      "paragraph_ids": [
+        "p0021",
+        "p0046"
+      ]
+    },
+    {
+      "source_id": "src-bcef9325e4a2",
+      "claim_id": "src-bcef9325e4a2-c03",
+      "problem": "Speaker assigned to Yazhi though passage explicitly labels Anéeka.",
+      "action": "Corrected speaker attribution.",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ]
+    },
+    {
+      "source_id": "src-eb8ed6762c3b",
+      "claim_id": "src-eb8ed6762c3b-c03",
+      "problem": "Understated source’s claim of combat and deaths as merely possible.",
+      "action": "Reworded to state combat and deaths on both sides, preserving dispute over media-reported scale.",
+      "paragraph_ids": [
+        "p0025",
+        "p0029"
+      ]
+    },
+    {
+      "source_id": "src-829579bed3c5",
+      "claim_id": "src-829579bed3c5-c04",
+      "problem": "One cited passage was unrelated to the claim.",
+      "action": "Removed unrelated passage.",
+      "paragraph_ids": [
+        "p0060",
+        "p0063"
+      ]
+    },
+    {
+      "source_id": "src-5c53f31c4600",
+      "claim_id": "src-5c53f31c4600-c05",
+      "problem": "Attribution named Yazhi although cited passages are Swaruu X.",
+      "action": "Corrected speaker and assertion attribution.",
+      "paragraph_ids": [
+        "p0080",
+        "p0081",
+        "p0082",
+        "p0084"
+      ]
+    },
+    {
+      "source_id": "src-d076cfbaef4c",
+      "claim_id": "src-d076cfbaef4c-c01..c05",
+      "problem": "All five claims assigned Anéeka despite the source identifying the speaker as Alenym.",
+      "action": "Corrected speaker names and claim attributions to Alenym.",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0021",
+        "p0023",
+        "p0024",
+        "p0026",
+        "p0027",
+        "p0029",
+        "p0030",
+        "p0036",
+        "p0037",
+        "p0039",
+        "p0041"
+      ]
+    },
+    {
+      "source_id": "src-d1e7ac140f41",
+      "claim_id": "src-d1e7ac140f41-c03",
+      "problem": "Memory-field claim attributed to Athena although the cited section is explicitly introduced as Yazhi.",
+      "action": "Corrected speaker and assertion attribution to Yazhi.",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ]
+    },
+    {
+      "source_id": "src-0d91bb4e0e59",
+      "claim_id": "src-0d91bb4e0e59-c04",
+      "problem": "Gosia’s question premise about a Taygetan colony was converted into an affirmative claim.",
+      "action": "Rephrased to state only Athena’s supported description of the southern Crimea DUMB and its links.",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-5e154cdece92",
+      "claim_id": "src-5e154cdece92-c04",
+      "problem": "Athena’s relay of Yazhi’s estimate attributed the estimate directly to Athena.",
+      "action": "Restored that Athena is relaying Yazhi’s estimate.",
+      "paragraph_ids": [
+        "p0023"
+      ]
+    },
+    {
+      "source_id": "src-d0dd311d0a58",
+      "claim_id": "src-d0dd311d0a58-c02",
+      "problem": "Assertion added a factual judgment (“falsely”) outside the source and review scope.",
+      "action": "Removed judgment and paraphrased the source’s attributed claim.",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008"
+      ]
+    },
+    {
+      "source_id": "src-8cab3b6d93eb",
+      "claim_id": "src-8cab3b6d93eb-c04",
+      "problem": "Consent premise appears first in Dale’s passage, then is explicitly affirmed by Yazhi.",
+      "action": "Clarified that Yazhi agrees with the consent point and attributes illness to unconscious ideas.",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ]
+    }
+  ],
+  "unresolved": []
+}

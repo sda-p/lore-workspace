@@ -1,0 +1,125 @@
+{
+  "source_id": "src-6af7853b713e",
+  "snapshot_sha256": "b8ddf12b2ff4549877b3ec0248a3cfb11bc9af65654996f07111df0bec74c559",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-6af7853b713e-c01",
+      "assertion": "Athena says beings among humans may use human vessels or remain astral, inspiring people.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6af7853b713e-c02",
+      "assertion": "Athena estimates Finland Cabal control at 20%, versus 100% in Spain and Argentina.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Relative estimate."
+    },
+    {
+      "id": "src-6af7853b713e-c03",
+      "assertion": "Athena says Earth’s universal laws should emerge with awareness, not force.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6af7853b713e-c04",
+      "assertion": "Athena identifies Roswell’s 1947 beings as friendly Zeta Grays.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6af7853b713e-c05",
+      "assertion": "Athena says interstellar exchange shares ideas, technology, and art; goods are shared when needs are met.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6af7853b713e-c06",
+      "assertion": "Athena describes Taygetan internet access via converter, Muon, satellite, and Federation server.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0050",
+        "p0051",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Separate long- and short-range paths."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "medical_claims_omitted",
+    "earth-consciousness_claim_omitted",
+    "meteorite_claim_omitted"
+  ],
+  "coverage_gaps": [
+    "diet",
+    "medical_claims",
+    "parallel_timelines"
+  ]
+}

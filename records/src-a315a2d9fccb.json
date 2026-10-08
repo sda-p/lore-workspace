@@ -1,0 +1,104 @@
+{
+  "source_id": "src-a315a2d9fccb",
+  "snapshot_sha256": "72281e6a50a8e1803e40b6c1bb5b61ebb27b02a31c8490b5504b3560f46b7a93",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a315a2d9fccb-c01",
+      "assertion": "Mari says frequency jumps can leave trackable disturbances, while temporal jumps shift both time and location.",
+      "speaker": "Mari",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a315a2d9fccb-c02",
+      "assertion": "Mari says failing to record jump sequences can leave a traveler lost in space and time.",
+      "speaker": "Mari",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a315a2d9fccb-c03",
+      "assertion": "Mari recounts entering an alternate timeline where she met a younger Athena and linked their ships’ computers.",
+      "speaker": "Mari",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a315a2d9fccb-c04",
+      "assertion": "Mari says Athena captured the rogue pilot there, and Mari has not returned to her original timeline.",
+      "speaker": "Mari",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0034",
+        "p0036",
+        "p0039",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "temporal-skipping",
+      "name": "Temporal skipping",
+      "kind": "technology",
+      "aliases": [
+        "time jump"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "uncovered-subtopics"
+  ]
+}

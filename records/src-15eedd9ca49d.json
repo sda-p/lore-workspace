@@ -1,0 +1,100 @@
+{
+  "source_id": "src-15eedd9ca49d",
+  "snapshot_sha256": "76dad6dcdeb719dbc31f05c7b351ac3ece7c540b0900908a8b9cd08d615c09a5",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-15eedd9ca49d-c01",
+      "assertion": "Yazhi says collective beliefs create shared reality frequencies and shape each planet’s unconscious field.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15eedd9ca49d-c02",
+      "assertion": "She describes time as consciousness itself, varying with collective perception between planets.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15eedd9ca49d-c03",
+      "assertion": "Yazhi says each planetary or stellar system has a changing frequency used in navigation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15eedd9ca49d-c04",
+      "assertion": "She says Earth is already ascended; humans perceive change according to their collective consciousness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0020",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-15eedd9ca49d-c05",
+      "assertion": "Yazhi says planetary collective agreements shape which life experiences souls enter.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_cosmology_claims"
+  ],
+  "coverage_gaps": [
+    "collective_frequency_theory"
+  ]
+}

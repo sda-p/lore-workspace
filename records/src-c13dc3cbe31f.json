@@ -1,0 +1,103 @@
+{
+  "source_id": "src-c13dc3cbe31f",
+  "snapshot_sha256": "429d9a23cce015bac6481f4a4035978d808522843f5e815fe88a1c00281c76b7",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-c13dc3cbe31f-c01",
+      "assertion": "Mari Swaruu says bodily perception and memory limits form an ego identity and fear of death.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c13dc3cbe31f-c02",
+      "assertion": "She says unresolved psychological pain may persist after death and motivate reincarnation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c13dc3cbe31f-c03",
+      "assertion": "Mari says afterlife outcomes vary with each individual’s perception and outlook.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c13dc3cbe31f-c04",
+      "assertion": "She describes ghosts as possible self-focused manifestations or temporal echoes, not necessarily lost souls.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c13dc3cbe31f-c05",
+      "assertion": "Mari says identity is built through experience and interprets heaven or hell as states one manifests.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "personal_metaphysics"
+  ],
+  "coverage_gaps": [
+    "other_afterlife_models"
+  ]
+}

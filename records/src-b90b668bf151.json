@@ -1,0 +1,78 @@
+{
+  "source_id": "src-b90b668bf151",
+  "snapshot_sha256": "3461871d85b4ae45a6b356b412224991e3c4e640d3625330e5527e9c0d6ee47f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-b90b668bf151-c01",
+      "assertion": "Taygetan brains are said to process faster and integrate analytic with artistic thought.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b90b668bf151-c02",
+      "assertion": "Unified brains support ambidexterity but can cause dyslexia in Earth languages.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b90b668bf151-c03",
+      "assertion": "Their denser nervous systems support stronger signals and endurance but increase stress vulnerability.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0044"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b90b668bf151-c04",
+      "assertion": "She says the whole body, not only the pineal gland, connects with the etheric field.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "species-comparisons"
+  ]
+}

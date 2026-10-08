@@ -1,0 +1,103 @@
+{
+  "source_id": "src-7daaf5b6ec28",
+  "snapshot_sha256": "0ced948e079f6d42e2e117ed8a0faa863e2074abca7ef915eb6f9674871ee3c1",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7daaf5b6ec28-c01",
+      "assertion": "Yazhi says strong spells can affect people through physical objects and lower-astral agents, even without belief.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7daaf5b6ec28-c02",
+      "assertion": "She says personal intention and fearlessness are the main defenses against paranormal influence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0037",
+        "p0045"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7daaf5b6ec28-c03",
+      "assertion": "Yazhi describes shamans as using altered states and bargains with spirits to affect physical targets.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0069",
+        "p0070",
+        "p0071"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7daaf5b6ec28-c04",
+      "assertion": "She says fear and focused attention sustain tulpa or egregor entities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0095",
+        "p0096"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7daaf5b6ec28-c05",
+      "assertion": "Yazhi says magnetite, iron, cleansing, and music may support protection, while intent remains central.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0110",
+        "p0112",
+        "p0146",
+        "p0147",
+        "p0148",
+        "p0151",
+        "p0153"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_paranormal_claims"
+  ],
+  "coverage_gaps": [
+    "protective_practices"
+  ]
+}

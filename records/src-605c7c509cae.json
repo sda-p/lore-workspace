@@ -1,0 +1,101 @@
+{
+  "source_id": "src-605c7c509cae",
+  "snapshot_sha256": "8b2308bee9502e5fbb583f4398e6de7d630d27c27816a039f05140195c2bee3b",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-605c7c509cae-c01",
+      "assertion": "Mari says Federation extractions are generally irreversible because returnees may lose identities and family ties.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-605c7c509cae-c02",
+      "assertion": "She says extraction can intensify empathy and regret over loved ones left on Earth.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-605c7c509cae-c03",
+      "assertion": "Mari says prioritizing a stellar identity can devalue one’s human life and motivate escape-seeking.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-605c7c509cae-c04",
+      "assertion": "She says people in despair are not usually the best extraction candidates, though distress may justify exceptions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-605c7c509cae-c05",
+      "assertion": "Mari advises repairing or releasing relationships on Earth instead of treating extraction as escape.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "extraordinary_extraction_claims"
+  ],
+  "coverage_gaps": [
+    "extraction_procedure",
+    "family_separation"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_id": "src-f188068e31d4",
+  "snapshot_sha256": "2400ab6a11f973d1a19d11a537af0307432ff8a19bca98d4ddfaee37445a6222",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f188068e31d4-c01",
+      "assertion": "Yazhi says souls split to experience multiple lives; a higher self benefits.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f188068e31d4-c02",
+      "assertion": "She says imagination and knowledge support expansion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f188068e31d4-c03",
+      "assertion": "She says past-life recall is unnecessary; experience still shapes the present self.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f188068e31d4-c04",
+      "assertion": "Yazhi says Swaruu outgrew Taygeta and, since Athena, are born in deep space.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f188068e31d4-c05",
+      "assertion": "She calls herself, Mari, and Ékatá nexus beings, rated 1/10 danger by Federation for altering realities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0057"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f188068e31d4-c06",
+      "assertion": "She describes Ékatá as a nonbinary telepathic slug in Viera that spans timelines mentally.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0060",
+        "p0062",
+        "p0064",
+        "p0068",
+        "p0070",
+        "p0072"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "nexus-beings",
+      "name": "Nexus beings",
+      "kind": "species",
+      "aliases": []
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "afterlife_fusion"
+  ]
+}

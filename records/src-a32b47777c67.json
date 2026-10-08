@@ -1,0 +1,99 @@
+{
+  "source_id": "src-a32b47777c67",
+  "snapshot_sha256": "9fcfa9188d7fb253d6b338dcb0cc22451d90335db31022f1aba9a63231f757d6",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a32b47777c67-c01",
+      "assertion": "Athena says time travel can access multiple possible futures, which must be compared rather than treated as one outcome.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a32b47777c67-c02",
+      "assertion": "She compares 3D time perception to a linear house and 5D perception to interconnected floors and rooms.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a32b47777c67-c03",
+      "assertion": "Athena says densities and parallel worlds describe differing ranges of perception, not separate fixed places.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a32b47777c67-c04",
+      "assertion": "She says events reflect averages of many interacting timelines or variants.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a32b47777c67-c05",
+      "assertion": "Athena says “timeline” is an imperfect term for variants observed from a limited point of view.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "terminology_limits"
+  ]
+}
