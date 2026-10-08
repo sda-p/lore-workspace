@@ -1,0 +1,138 @@
+{
+  "source_id": "src-167f70192bac",
+  "snapshot_sha256": "0b6917d0b648c37671612a675e6760beb7adee7d14a466bce13a9d0bede17e9c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-167f70192bac-c01",
+      "assertion": "Anéeka says scalar pulses can breach shields during 3D interaction.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Minor damage; shields redesigned."
+    },
+    {
+      "id": "src-167f70192bac-c02",
+      "assertion": "Anéeka describes layered engine shields and a thick titanium hull.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-167f70192bac-c03",
+      "assertion": "Anéeka says computers route through converters and shared Federation satellites.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0017",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-167f70192bac-c04",
+      "assertion": "Dhor Káal’el describes fighter toroid shields and vector-reversing defense.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-167f70192bac-c05",
+      "assertion": "Yazhi says Toleka plasma cannons can destroy buried bases.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says it is non-nuclear."
+    },
+    {
+      "id": "src-167f70192bac-c06",
+      "assertion": "Anéeka says confiscated Reptilian ships go to Alpha Dracos.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0070",
+        "p0072",
+        "p0073",
+        "p0074",
+        "p0075"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-167f70192bac-c07",
+      "assertion": "Swaruu says crew psychology limits otherwise long ship endurance.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0124",
+        "p0125",
+        "p0126",
+        "p0127"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Holograms help; isolation wears crews down."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Weapon and defense capabilities are source-attributed technical claims"
+  ],
+  "coverage_gaps": [
+    "ship classes and appearance",
+    "logistics",
+    "other species’ craft"
+  ]
+}

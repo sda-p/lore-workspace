@@ -1,0 +1,143 @@
+{
+  "source_id": "src-1461dd27e63f",
+  "snapshot_sha256": "9ec74295ab74b3987404e9cc7e2c87920ab58d10304df6c41916225c86e912b7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1461dd27e63f-c01",
+      "assertion": "Anéeka identifica Avyon como mundo principal Urmah y describe colonias extendidas.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0020"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1461dd27e63f-c02",
+      "assertion": "Los Urmah son felinos grandes que caminan erguidos o a cuatro patas.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1461dd27e63f-c03",
+      "assertion": "Estima unos 950 años de vida, aunque señala que el tiempo 5D no es lineal.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1461dd27e63f-c04",
+      "assertion": "Su Alto Consejo tiene una persona organizadora sin autoridad adicional.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0035"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1461dd27e63f-c05",
+      "assertion": "Rurh representa Avyon; la realeza simboliza a la civilización.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1461dd27e63f-c06",
+      "assertion": "Cultivan tejido cárnico en vez de cazar y también consumen vegetales.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1461dd27e63f-c07",
+      "assertion": "Usan principalmente transporte aéreo y trenes maglev.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0069",
+        "p0071"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1461dd27e63f-c08",
+      "assertion": "Alpha Dracos rival Urmah dominance despite stark size differences.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025"
+  ],
+  "coverage_gaps": [
+    "culture-detail",
+    "architecture",
+    "language",
+    "leisure"
+  ]
+}

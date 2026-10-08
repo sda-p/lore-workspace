@@ -1,0 +1,132 @@
+{
+  "source_id": "src-3b62ba7f3f8f",
+  "snapshot_sha256": "ae1fdb1f96beea7ff543eac0fe3390de5c4ddc207c7855505fcc1d88fc69a8d2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3b62ba7f3f8f-c01",
+      "assertion": "Yazhi portrays the Vatican as the visible hub of Earth’s control structure.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b62ba7f3f8f-c02",
+      "assertion": "She describes Vatican, London, and Washington as religious, economic, and military “horns.”",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b62ba7f3f8f-c03",
+      "assertion": "Yazhi equates Jesuits and Illuminati, describing compartmentalized societies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b62ba7f3f8f-c04",
+      "assertion": "She says mid-level associates transact in gold; higher tiers bypass ordinary economies.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b62ba7f3f8f-c05",
+      "assertion": "Yazhi says upper Cabal members regard ordinary people as inferior.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b62ba7f3f8f-c06",
+      "assertion": "She alleges Cabal members coordinate with Reptilian groups over human resources.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3b62ba7f3f8f-c07",
+      "assertion": "Yazhi calls the Federation an Earth controller, yet says humans ultimately govern their experience.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0058",
+        "p0059",
+        "p0060",
+        "p0065"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "Her account leaves this relationship unresolved."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)",
+    "attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)"
+  ],
+  "coverage_gaps": [
+    "secret-codes",
+    "historical-dates",
+    "federation-policy"
+  ]
+}

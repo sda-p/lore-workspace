@@ -1,0 +1,74 @@
+{
+  "reviewed_at": "2026-10-08",
+  "scope": [
+    "scripts/lore.py",
+    "schema/article.schema.json",
+    "tests/test_lore.py",
+    "cached source snapshot structure"
+  ],
+  "tests": {
+    "command": "python3 -m unittest discover -s tests -v",
+    "passed": 7,
+    "failed": 0
+  },
+  "findings": [
+    {
+      "id": "PIPE-01",
+      "severity": "high",
+      "area": "hashes and version checks",
+      "title": "Cached snapshot contents are not rehashed during validation or reuse",
+      "evidence": "prepare() trusts an existing cache JSON and compares only its stored snapshot_sha256 to an optional manifest value. validate_record() also compares record.snapshot_sha256 to the snapshot's stored value without recomputing hashes from paragraph text. A read-only probe altered a cached paragraph text while retaining the stored snapshot_sha256 and paragraph sha256; the modified paragraph hash no longer matched its text, yet the current validation path has no check that detects this.",
+      "impact": "A modified or corrupted cache can be treated as the same source version and evidence IDs can resolve to text different from the hashed content. This breaks the core source-integrity guarantee.",
+      "recommended_fix": "Add a cache validator that verifies paragraph IDs/order, recomputes each paragraph sha256, recomputes snapshot_sha256 from the canonical newline-joined paragraph texts, and checks word_count. Run it whenever loading cache entries in prepare() and validate(). Fail closed on mismatch; retain an independently recorded expected hash for version checks.",
+      "resolution": "Fixed: cached passage and snapshot hashes are recomputed, word counts checked, and the independent manifest hash enforced."
+    },
+    {
+      "id": "PIPE-02",
+      "severity": "medium",
+      "area": "paragraph parsing",
+      "title": "BR boundaries always split speaker turns into separate evidence passages",
+      "evidence": "Node.text() emits newline for every <br>. In the test-shaped input `<p>Gosia: Question?<br><br>Swaruu: Answer.</p>`, parse_article() returns three passages for the paragraph: `Gosia: Question?`, `Swaruu: Answer.` and the following paragraph. A single <br> inside a speaker turn is also split.",
+      "impact": "Paragraph IDs no longer correspond to source paragraphs and can fragment speaker turns or sentences. This weakens attribution and complicates citations, especially if a claim depends on multiple turns in one source paragraph.",
+      "recommended_fix": "Preserve paragraph boundaries separately from line breaks, or define and test a deliberate rule for <br><br> turn separators versus single <br> line wraps. Keep speaker labels attached to their full turns and document the resulting passage granularity.",
+      "resolution": "Documented limitation: line-passages-v1 intentionally uses block/BR boundaries; citations must include surrounding passages when needed. No pilot passage IDs changed."
+    },
+    {
+      "id": "PIPE-03",
+      "severity": "medium",
+      "area": "validation completeness and schema",
+      "title": "Validation checks field presence but omits several type, format, and semantic constraints",
+      "evidence": "validate_record() does not enforce the schema's source_id/language/hash formats or JSON types for key values such as speaker, primary_topic, and modality before membership checks; does not validate proposed topic name/kind types, aliases entries, or collision with canonical topic IDs; and accepts claim suffix c00. Arrays review_flags and coverage_gaps are only checked as lists, with no item types. The JSON Schema likewise leaves claim IDs unrestricted and most topic/assertion metadata weakly constrained. Existing tests cover only seven basic cases.",
+      "impact": "Malformed records can pass structural validation, and malformed values may fail later in less clear ways or produce incorrect output. The schema and executable validator can drift while both appear to validate the same contract.",
+      "recommended_fix": "Make JSON Schema authoritative and invoke a standards-compliant validator from the pipeline, or keep equivalent explicit checks. Constrain claim ID suffixes to the allowed range/nonzero sequence, enforce field types and formats, ensure topic IDs are unique and do not conflict with canonical IDs, and validate tag item types. Add negative tests for wrong types, invalid language/hash/source ID, c00, malformed proposed topics, and topic collisions.",
+      "resolution": "Fixed: explicit type, identity, sequence, tag, topic metadata and collision checks added; schema tightened and negative tests added."
+    },
+    {
+      "id": "PIPE-04",
+      "severity": "medium",
+      "area": "resumability and version checks",
+      "title": "prepare() silently resets ledger jobs that are no longer selected",
+      "evidence": "prepare() constructs a fresh jobs object from current batches and only carries forward previous entries for source IDs still selected. If pilot.json is narrowed or a selected source is removed, its prior job state disappears from work/ledger.json, despite the stated resume workflow.",
+      "impact": "Work history, completed statuses, and correction state for temporarily excluded sources are lost, making later resumption ambiguous and potentially causing already completed work to be repeated or overlooked.",
+      "recommended_fix": "Preserve previous ledger jobs outside the current selection, mark them excluded/inactive for this batch if appropriate, and keep active assignment data separate from durable processing state. Add a test that removes a selected source and confirms its prior job remains recoverable.",
+      "resolution": "Fixed: previous jobs are retained and current assignments separated with active_source_ids."
+    },
+    {
+      "id": "PIPE-05",
+      "severity": "medium",
+      "area": "wiki generation",
+      "title": "Wiki output inserts unescaped record text and unvalidated URL/path components into Markdown",
+      "evidence": "md() escapes only pipe characters and newlines. build() inserts assertion, qualifiers, review flags, topic names/kinds/aliases, source URLs, and topic IDs into Markdown headings, links, or file paths without context-specific escaping or path validation. For example, Markdown link syntax in a title or assertion can alter the rendered link structure; a proposed topic id can include slash or dot segments under the validator's loose topic validation and influence the output path.",
+      "impact": "Generated pages may be malformed, links can point somewhere other than intended, and invalid topic identifiers can write files outside wiki/topics. All record content is untrusted input, so this is a publication and file-integrity risk.",
+      "recommended_fix": "Validate topic IDs against the same strict canonical slug pattern as the schema and resolve output paths beneath wiki/topics. Escape or safely render Markdown text and URLs by context; validate schemes/hosts for source links. Add tests with Markdown metacharacters and traversal-like topic IDs.",
+      "resolution": "Markdown escaping and source URL validation added. The original claim that proposed topic IDs accepted traversal was incorrect: the existing regex already rejected it. Explicit build-time slug checks and regression tests reinforce that boundary."
+    }
+  ],
+  "notes": [
+    "Review was limited to engineering behavior and did not assess the truth of transcript claims.",
+    "No scripts, configuration, records, wiki output, ledger, or Git state were changed."
+  ],
+  "post_fix_tests": {
+    "passed": 16,
+    "failed": 0
+  }
+}

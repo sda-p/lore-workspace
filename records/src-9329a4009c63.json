@@ -1,0 +1,132 @@
+{
+  "source_id": "src-9329a4009c63",
+  "snapshot_sha256": "b5a98a674a31492f1f7e1dc226fd2d360e5c31fa69908777a3a97bcf343ee794",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9329a4009c63-c01",
+      "assertion": "Taygeta’s model steps councils from local levels to a High Council.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9329a4009c63-c02",
+      "assertion": "Council participation is open; local residents have priority.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9329a4009c63-c03",
+      "assertion": "The account links community resources and empathy with less government.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9329a4009c63-c04",
+      "assertion": "Taygeta is described as sharing work, with minimal council imposition.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9329a4009c63-c05",
+      "assertion": "Taygeta reportedly uses multipurpose rescue services instead of police.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9329a4009c63-c06",
+      "assertion": "People may live alone and dissent if they do not harm others.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9329a4009c63-c07",
+      "assertion": "The speaker says the model may be offered to Earth, not imposed.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge"
+  ],
+  "coverage_gaps": [
+    "language-history",
+    "royalty",
+    "implementation"
+  ]
+}

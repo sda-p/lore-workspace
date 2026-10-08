@@ -1,0 +1,170 @@
+{
+  "source_id": "src-a5811312e55c",
+  "snapshot_sha256": "30bc94d5a4fc68ad5481379185831cbd32feb482d34e944ef86c61bae9255a67",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-a5811312e55c-c01",
+      "assertion": "Alenym accuses the 5D Federation of controlling Earth.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a5811312e55c-c02",
+      "assertion": "Alenym reports Urmah and Engans withdrawing from Federation participation.",
+      "speaker": "Alenym",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a5811312e55c-c03",
+      "assertion": "Swaruu calls Earth a bounded school for humanity.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0071",
+        "p0083",
+        "p0087",
+        "p0088"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Nuclear war barred; other wars allowed."
+    },
+    {
+      "id": "src-a5811312e55c-c04",
+      "assertion": "Swaruu says humans must resolve problems before interstellar entry.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0150",
+        "p0151",
+        "p0153",
+        "p0154"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a5811312e55c-c05",
+      "assertion": "Swaruu traces Earth’s Reptilians to Lyrian manifestation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0201",
+        "p0202",
+        "p0203",
+        "p0204",
+        "p0205"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a5811312e55c-c06",
+      "assertion": "Swaruu says humanity is Lyrian-derived and reshaped by 3D Earth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0245",
+        "p0246",
+        "p0247",
+        "p0248",
+        "p0249"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a5811312e55c-c07",
+      "assertion": "Swaruu casts starseeds as guides for human development.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0542",
+        "p0543",
+        "p0544",
+        "p0545",
+        "p0546"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a5811312e55c-c08",
+      "assertion": "Swaruu describes Federation councils overseeing Earth.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0663",
+        "p0664",
+        "p0665",
+        "p0689",
+        "p0694"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alcyone-council"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "High council placed at Alcyone."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Federation-as-controller claim conflicts with mentor framing within transcript",
+    "3D containment rationale shifts across speakers and passages"
+  ],
+  "coverage_gaps": [
+    "detailed council structure",
+    "withdrawal chronology",
+    "species roster"
+  ]
+}

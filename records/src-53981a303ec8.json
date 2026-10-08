@@ -1,0 +1,97 @@
+{
+  "source_id": "src-53981a303ec8",
+  "snapshot_sha256": "5c0192939f2c7f2a20344f80f381ae6bcf02f4c63167296e5dbf985cc084cb05",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-53981a303ec8-c01",
+      "assertion": "She claims nonhuman Federation actors control Earth’s money flows by financial region.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0014"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53981a303ec8-c02",
+      "assertion": "She says allocations follow population and geoengineering agendas, framed as chosen incarnation conditions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53981a303ec8-c03",
+      "assertion": "She describes markets as partly active but ultimately guided from above.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53981a303ec8-c04",
+      "assertion": "She says inflation, lawsuits or bans can suppress regions exceeding desired economic output.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53981a303ec8-c05",
+      "assertion": "She claims Centauri receive millions while Taygetans received under 500 euros.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-attribution-swaruu-x-athena"
+  ],
+  "coverage_gaps": [
+    "currency-period",
+    "allocation-mechanism",
+    "centauri-identity"
+  ]
+}

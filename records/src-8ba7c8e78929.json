@@ -1,0 +1,129 @@
+{
+  "source_id": "src-8ba7c8e78929",
+  "snapshot_sha256": "34e8281999d720926619b282c6c6a8069142f159804c0358a145d1399c302f5d",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-8ba7c8e78929-c01",
+      "assertion": "Anéeka says direct Federation contact has no fixed channel; meditation and mental requests may be used.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ba7c8e78929-c02",
+      "assertion": "She links contact to frequency compatibility and prenatal agreements.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ba7c8e78929-c03",
+      "assertion": "Stepped councils address local issues first and escalate unresolved problems upward.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ba7c8e78929-c04",
+      "assertion": "Citizens can join any council level; information is freely shared.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ba7c8e78929-c05",
+      "assertion": "Councils seek congruent agreement rather than majority voting.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ba7c8e78929-c06",
+      "assertion": "Advisors coordinate councils while subject experts join when relevant.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ba7c8e78929-c07",
+      "assertion": "She frames ethical conduct as necessary for this model and calls ascended masters a terrestrial concept.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0028",
+        "p0031"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker: interviewer questions excluded as claims"
+  ],
+  "coverage_gaps": [
+    "council-minutes",
+    "decision-examples",
+    "contact-outcomes"
+  ]
+}

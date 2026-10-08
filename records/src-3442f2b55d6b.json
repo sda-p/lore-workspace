@@ -1,0 +1,134 @@
+{
+  "source_id": "src-3442f2b55d6b",
+  "snapshot_sha256": "8c4b322ca49c1113799ea48a6b8f3162f2d5cce13873c79631ee3a9b36225342",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3442f2b55d6b-c01",
+      "assertion": "Taygetan subluminal travel uses gravity or plasma engines for short-range maneuvers.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3442f2b55d6b-c02",
+      "assertion": "Interstellar flight uses total-toroidal-immersion plasma engines.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3442f2b55d6b-c03",
+      "assertion": "Muon signals reportedly enable near-instant interstellar communication.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3442f2b55d6b-c04",
+      "assertion": "Supra-luminal navigation uses location frequencies instead of 3D coordinates.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0031",
+        "p0033",
+        "p0034",
+        "p0042",
+        "p0044"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3442f2b55d6b-c05",
+      "assertion": "Navigation encodes where (Bil’h), when (Na’al), and approach direction (Ho’dee’zá).",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0058",
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3442f2b55d6b-c06",
+      "assertion": "The speaker equates supra-luminal travel with time travel, requiring moral responsibility.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0059",
+        "p0062"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3442f2b55d6b-c07",
+      "assertion": "Supra-luminal travel is said to require spiritual development.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0063",
+        "p0064",
+        "p0065"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "frequency-technical-detail",
+    "engine-operation"
+  ]
+}

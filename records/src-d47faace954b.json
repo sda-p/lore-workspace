@@ -1,0 +1,101 @@
+{
+  "source_id": "src-d47faace954b",
+  "snapshot_sha256": "ec7b9da80dbf44a38789d04db5672af6cb1024c23ba336b0aeba9faaeee7828c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d47faace954b-c01",
+      "assertion": "Planetary black goo is described as magnetic, crystal-bearing and tied to life formation and DNA repair.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0033",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d47faace954b-c02",
+      "assertion": "She attributes invading negative black goo to Tiamat’s destruction about 12,500 years ago.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0044",
+        "p0046"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d47faace954b-c03",
+      "assertion": "Negative goo is said to lower nearby beings’ frequencies and foster fear or aggression.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0053",
+        "p0055"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "High-empathy, self-directed beings are described as resistant."
+    },
+    {
+      "id": "src-d47faace954b-c04",
+      "assertion": "An invasive AI network is described as independent, manipulating the Cabal while appearing subordinate.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0068",
+        "p0071"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d47faace954b-c05",
+      "assertion": "She says the AI uses sprayed metals, nanofibers and programmed goo to interface with planetary biology.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0072",
+        "p0073"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "speaker-label-ambiguity"
+  ],
+  "coverage_gaps": [
+    "goo-uses",
+    "ai-countermeasures",
+    "geography"
+  ]
+}

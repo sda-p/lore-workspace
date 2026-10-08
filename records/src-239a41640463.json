@@ -1,0 +1,159 @@
+{
+  "source_id": "src-239a41640463",
+  "snapshot_sha256": "433db52fb2e64b7cba9f3bf6c50b936391213b6f4f03a75fd97678d8d4ed6774",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-239a41640463-c01",
+      "assertion": "Swaruu says higher Federation levels supervise the 5D Federation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-239a41640463-c02",
+      "assertion": "Swaruu describes higher Federation members as operating without physical bodies.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-239a41640463-c03",
+      "assertion": "Swaruu blames some controlling 5D members, not whole races, for harmful policy.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-239a41640463-c04",
+      "assertion": "Swaruu objects to non-emotional races mentoring an emotional young species.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-239a41640463-c05",
+      "assertion": "Swaruu says higher levels influence 5D through guides and consequences.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0049",
+        "p0053",
+        "p0061"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-239a41640463-c06",
+      "assertion": "Swaruu proposes intervention against key actors, while leaving human accountability intact.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0063",
+        "p0064"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-239a41640463-c07",
+      "assertion": "Swaruu says higher intervention may change perception without technology.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0059",
+        "p0065",
+        "p0066",
+        "p0068"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-239a41640463-c08",
+      "assertion": "Swaruu portrays Federation ethics as contested across densities and factions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0041",
+        "p0049"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Proposed intervention remains conditional and internally qualified",
+    "Higher-level free-will explanation is challenged by Gosia"
+  ],
+  "coverage_gaps": [
+    "named council hierarchy",
+    "operational outcomes",
+    "faction membership"
+  ]
+}

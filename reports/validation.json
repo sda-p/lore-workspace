@@ -1,0 +1,106 @@
+{
+  "checked_at": "2026-10-08T12:35:28+00:00",
+  "valid": [
+    {
+      "source_id": "src-3f43b3d5ca1a",
+      "claim_count": 8,
+      "paraphrase_words": 83
+    },
+    {
+      "source_id": "src-1461dd27e63f",
+      "claim_count": 8,
+      "paraphrase_words": 84
+    },
+    {
+      "source_id": "src-3b62ba7f3f8f",
+      "claim_count": 7,
+      "paraphrase_words": 85
+    },
+    {
+      "source_id": "src-8ba7c8e78929",
+      "claim_count": 7,
+      "paraphrase_words": 79
+    },
+    {
+      "source_id": "src-a5811312e55c",
+      "claim_count": 8,
+      "paraphrase_words": 76
+    },
+    {
+      "source_id": "src-239a41640463",
+      "claim_count": 8,
+      "paraphrase_words": 81
+    },
+    {
+      "source_id": "src-167f70192bac",
+      "claim_count": 7,
+      "paraphrase_words": 81
+    },
+    {
+      "source_id": "src-03f88504384a",
+      "claim_count": 8,
+      "paraphrase_words": 83
+    },
+    {
+      "source_id": "src-d47faace954b",
+      "claim_count": 5,
+      "paraphrase_words": 80
+    },
+    {
+      "source_id": "src-d0398aec7731",
+      "claim_count": 5,
+      "paraphrase_words": 75
+    },
+    {
+      "source_id": "src-4edf6c848c69",
+      "claim_count": 5,
+      "paraphrase_words": 73
+    },
+    {
+      "source_id": "src-7d64347f0d71",
+      "claim_count": 5,
+      "paraphrase_words": 74
+    },
+    {
+      "source_id": "src-53981a303ec8",
+      "claim_count": 5,
+      "paraphrase_words": 60
+    },
+    {
+      "source_id": "src-89cfcddab709",
+      "claim_count": 5,
+      "paraphrase_words": 73
+    },
+    {
+      "source_id": "src-0fee7d796019",
+      "claim_count": 7,
+      "paraphrase_words": 76
+    },
+    {
+      "source_id": "src-3442f2b55d6b",
+      "claim_count": 7,
+      "paraphrase_words": 62
+    },
+    {
+      "source_id": "src-04363d1ddca1",
+      "claim_count": 7,
+      "paraphrase_words": 72
+    },
+    {
+      "source_id": "src-9329a4009c63",
+      "claim_count": 7,
+      "paraphrase_words": 72
+    },
+    {
+      "source_id": "src-e05fe8eb1116",
+      "claim_count": 7,
+      "paraphrase_words": 62
+    },
+    {
+      "source_id": "src-30de3b7385d4",
+      "claim_count": 6,
+      "paraphrase_words": 68
+    }
+  ],
+  "errors": []
+}

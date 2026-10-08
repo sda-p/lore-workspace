@@ -1,0 +1,12 @@
+{
+  "worker": 3,
+  "source_ids": [
+    "src-d47faace954b",
+    "src-d0398aec7731",
+    "src-4edf6c848c69",
+    "src-7d64347f0d71",
+    "src-53981a303ec8",
+    "src-89cfcddab709"
+  ],
+  "source_word_count": 18664
+}

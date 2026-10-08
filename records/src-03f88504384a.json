@@ -1,0 +1,151 @@
+{
+  "source_id": "src-03f88504384a",
+  "snapshot_sha256": "5c87bd85076d3301d3c6f07c3f448433e3590717a7b77e1dd805f8e0adad0475",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-03f88504384a-c01",
+      "assertion": "Narration dates Lyrian flight to one million years ago.",
+      "speaker": "Transcript narration",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03f88504384a-c02",
+      "assertion": "Yazhi says sauroid Orion Council coordinated the invasion.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03f88504384a-c03",
+      "assertion": "Narration dates Federation formation to 900,000 years ago.",
+      "speaker": "Transcript narration",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mutual defense prompted it."
+    },
+    {
+      "id": "src-03f88504384a-c04",
+      "assertion": "Yazhi says Lyrians reached a 13-planet system 40,000 years ago.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Earth among them."
+    },
+    {
+      "id": "src-03f88504384a-c05",
+      "assertion": "Yazhi says Tiamat was inhabited before destruction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0017"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Remnants identified as asteroid belt."
+    },
+    {
+      "id": "src-03f88504384a-c06",
+      "assertion": "Yazhi says five former Earth continents are submerged.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03f88504384a-c07",
+      "assertion": "Yazhi presents Stonehenge as an antigravity star observatory.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03f88504384a-c08",
+      "assertion": "Yazhi interprets cave paintings as disguised Lyrian star maps.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0041",
+        "p0046"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "lyran-expansion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Origins and route encoded."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Text-only English translation from Spanish; no paired Spanish candidate in assigned batch",
+    "Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements"
+  ],
+  "coverage_gaps": [
+    "solar-system species",
+    "Earth chronology",
+    "paintings and dating claims"
+  ]
+}

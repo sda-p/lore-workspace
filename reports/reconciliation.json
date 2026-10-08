@@ -1,0 +1,196 @@
+{
+  "reviewed_source_ids": [
+    "src-03f88504384a",
+    "src-04363d1ddca1",
+    "src-0fee7d796019",
+    "src-1461dd27e63f",
+    "src-167f70192bac",
+    "src-239a41640463",
+    "src-30de3b7385d4",
+    "src-3442f2b55d6b",
+    "src-3b62ba7f3f8f",
+    "src-3f43b3d5ca1a",
+    "src-4edf6c848c69",
+    "src-53981a303ec8",
+    "src-7d64347f0d71",
+    "src-89cfcddab709",
+    "src-8ba7c8e78929",
+    "src-9329a4009c63",
+    "src-a5811312e55c",
+    "src-d0398aec7731",
+    "src-d47faace954b",
+    "src-e05fe8eb1116"
+  ],
+  "issues": [
+    {
+      "severity": "high",
+      "source_id": "src-0fee7d796019",
+      "claim_id": "src-0fee7d796019-c05",
+      "problem": "The cited p0031–p0032 discuss Reptilian/Maitré feeding and environmental limits, not Malakak, and do not support cooperation with U.S. authorities or restricted Earth travel.",
+      "correction": "Retain the Malakak claim, attributed to Swaruu (9), but cite the Malakak section: cooperation for access to U.S. Navy bases and current movement restrictions (p0071–p0074).",
+      "paragraph_ids": [
+        "p0071",
+        "p0072",
+        "p0073",
+        "p0074"
+      ],
+      "resolution": "Applied citation/scope correction",
+      "status": "resolved"
+    },
+    {
+      "severity": "high",
+      "source_id": "src-0fee7d796019",
+      "claim_id": "src-0fee7d796019-c06",
+      "problem": "The current p0071–p0073 are Malakak passages; they do not explain the two meanings of “Procionian.”",
+      "correction": "Keep the distinction claim, attributed to Anéeka, and cite the Procionians heading and her clarification distinguishing Procion-system Federation members from Taygetans of Procyon (p0097–p0099).",
+      "paragraph_ids": [
+        "p0097",
+        "p0098",
+        "p0099"
+      ],
+      "resolution": "Applied citation/scope correction",
+      "status": "resolved"
+    },
+    {
+      "severity": "high",
+      "source_id": "src-0fee7d796019",
+      "claim_id": "src-0fee7d796019-c07",
+      "problem": "The current p0073–p0074 describe Malakak genetic problems and are unrelated to Procion-system membership or Alcyone ties.",
+      "correction": "Use Anéeka’s Procionian description: active Federation members and positive relations with the Council of Alcyone (p0101–p0102); the cited claim’s substance is otherwise supported.",
+      "paragraph_ids": [
+        "p0101",
+        "p0102"
+      ],
+      "resolution": "Applied citation/scope correction",
+      "status": "resolved"
+    },
+    {
+      "severity": "medium",
+      "source_id": "src-04363d1ddca1",
+      "claim_id": "src-04363d1ddca1-c07",
+      "problem": "p0030–p0032 include the question about offering the model but omit Swaruu’s answer. As cited, the claim is unsupported.",
+      "correction": "Cite p0033, where Swaruu says they will not introduce it because that would impose it and can only offer it.",
+      "paragraph_ids": [
+        "p0033"
+      ],
+      "resolution": "Applied citation/scope correction",
+      "status": "resolved"
+    },
+    {
+      "severity": "medium",
+      "source_id": "src-8ba7c8e78929",
+      "claim_id": "src-8ba7c8e78929-c04",
+      "problem": "“Qualified citizens” suggests a qualification gate. The cited account says every citizen is trained and educated to participate at any council level at will.",
+      "correction": "Change to “Anéeka says citizens can participate at any council level, with information freely shared,” retaining the source’s training/education condition as context; cite p0018.",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "resolution": "Applied citation/scope correction",
+      "status": "resolved"
+    },
+    {
+      "severity": "low",
+      "source_id": "src-3f43b3d5ca1a",
+      "claim_id": "src-3f43b3d5ca1a-c08",
+      "problem": "The broad claim that Urmah influence is “present in virtually all civilizations” compresses the source’s explicit scope limitation: virtually all civilizations, especially those in the speaker’s quadrant.",
+      "correction": "Preserve “especially in this quadrant” in the assertion or qualifier.",
+      "paragraph_ids": [
+        "p0117"
+      ],
+      "resolution": "Added explicit regional qualifier; original assertion was already narrower than the reviewer description",
+      "status": "resolved"
+    }
+  ],
+  "translation_pairs": [
+    {
+      "source_ids": [
+        "src-04363d1ddca1",
+        "src-9329a4009c63"
+      ],
+      "verdict": "same underlying conversation; translation/revision pair, high confidence",
+      "evidence_ids": [
+        "p0003-p0045",
+        "p0001-p0044"
+      ],
+      "notes": "Claim scope and sequence align across full bodies. English explicitly records the editorial change from “holographic” to “holistic” (English p0002); Spanish retains “holográfica.” Paragraph boundaries differ, and some details are combined/split, but no material topic-level omission found. Keep both source records and preserve the terminology/revision note."
+    },
+    {
+      "source_ids": [
+        "src-3f43b3d5ca1a",
+        "src-1461dd27e63f"
+      ],
+      "verdict": "same underlying conversation with material language/revision differences; retain both",
+      "evidence_ids": [
+        "English p0023-p0025",
+        "Spanish p0023-p0027"
+      ],
+      "notes": "Coordinator comparison found Spanish p0024-p0025 absent between corresponding English p0023-p0024. Preserve the added passages; src-1461dd27e63f-c08 records an additional source-specific claim. The initial reviewer missed this difference."
+    }
+  ],
+  "topic_findings": [
+    {
+      "topic_id": "galactic-federation",
+      "claim_ids": [
+        "src-a5811312e55c-c01",
+        "src-239a41640463-c05",
+        "src-239a41640463-c06",
+        "src-d0398aec7731-c02",
+        "src-3b62ba7f3f8f-c07"
+      ],
+      "relationship": "perspective conflict",
+      "notes": "Accounts disagree on the 5D Federation’s role toward Earth: Alenym calls it controlling (a581…c01); Swaruu describes higher levels as guiding/intervening through influence and selected actors (239…c05–c06; d039…c02). Another account calls the Federation an Earth controller while also assigning humans ultimate responsibility (3b62…c07). Retain speaker and source distinctions; do not normalize into one position."
+    },
+    {
+      "topic_id": "galactic-federation",
+      "claim_ids": [
+        "src-03f88504384a-c03",
+        "src-7d64347f0d71-c01",
+        "src-03f88504384a-c02",
+        "src-7d64347f0d71-c02"
+      ],
+      "relationship": "compatible timeline and related origin accounts",
+      "notes": "Federation founding is dated about 900,000 years ago in narration and 850,000–900,000 years ago by Swaruu, a compatible range. Both associate formation with wider conflict/Orion expansion, but remain distinct accounts and attributions."
+    },
+    {
+      "topic_id": "urmah",
+      "claim_ids": [
+        "src-3f43b3d5ca1a-c04",
+        "src-1461dd27e63f-c04",
+        "src-89cfcddab709-c04",
+        "src-0fee7d796019-c02",
+        "src-3f43b3d5ca1a-c08"
+      ],
+      "relationship": "perspective and scope variation",
+      "notes": "Urmah governance is described as holographic with an experienced council organizer and royalty as a representative/symbol (3f43…c04–c05; translated counterpart 1461…c04–c05), while another account labels the political model patriarchal/matriarchal (89…c04). Claims of dominant or leading military status vary by speaker and scope; retain attribution."
+    },
+    {
+      "topic_id": "tiamat",
+      "claim_ids": [
+        "src-4edf6c848c69-c01",
+        "src-4edf6c848c69-c02",
+        "src-4edf6c848c69-c03",
+        "src-d47faace954b-c02",
+        "src-03f88504384a-c05"
+      ],
+      "relationship": "overlapping accounts with different event emphases",
+      "notes": "Tiamat’s aquatic nature, destruction/remnants, and flood recur across accounts. d47…c02 specifically attributes a major negative-goo arrival to the destruction; 4edf…c01–c05 centers war/flood consequences. Treat as overlapping narrative, not proof of identical causal details."
+    }
+  ],
+  "proposed_topic_aliases": [
+    {
+      "alias": "holographic society",
+      "canonical_topic_id": "holistic-society",
+      "basis": "Existing topic registry already lists “Holographic society” as an alias; the English paired transcript documents the editorial shift to “holistic” (src-04363d1ddca1 p0002). No new topic ID needed."
+    }
+  ],
+  "integration_claim_count": 132,
+  "coordinator_additions": [
+    {
+      "claim_id": "src-1461dd27e63f-c08",
+      "paragraph_ids": [
+        "p0025"
+      ],
+      "reason": "Retain substantive material found only in the Spanish version of the candidate pair."
+    }
+  ]
+}

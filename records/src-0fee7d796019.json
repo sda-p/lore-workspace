@@ -1,0 +1,131 @@
+{
+  "source_id": "src-0fee7d796019",
+  "snapshot_sha256": "66332a8e39704ab316984d96c1b8f48e59ff8dc40e1b6605b8e36536c1b99590",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-0fee7d796019-c01",
+      "assertion": "Hyadean felines are identified with Urmah, but remain independent within their commonwealth.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0fee7d796019-c02",
+      "assertion": "Urmah are described as a leading military, friendly with Alpha Draconians.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0fee7d796019-c03",
+      "assertion": "Maitré are described as Reptilian-Draco/Gray hybrids, sometimes controlled by Reptilians.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0034"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0fee7d796019-c04",
+      "assertion": "Maitré and Reptilians cooperate but are codependent and sometimes fight fatally.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0fee7d796019-c05",
+      "assertion": "Malakak reportedly cooperate with U.S. authorities for base access; Earth movement is restricted.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0072",
+        "p0073"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0fee7d796019-c06",
+      "assertion": "“Procionian” distinguishes Procion-system Federation members from Taygetans of Procyon.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0098",
+        "p0099"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0fee7d796019-c07",
+      "assertion": "Procion-system inhabitants are described as Federation members, with Alcyone ties.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0101",
+        "p0102"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "galactic-federation",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "species-physiology",
+    "federation-access",
+    "reptilian-taxonomy"
+  ]
+}

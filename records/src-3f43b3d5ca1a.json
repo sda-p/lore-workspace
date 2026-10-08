@@ -1,0 +1,142 @@
+{
+  "source_id": "src-3f43b3d5ca1a",
+  "snapshot_sha256": "5b508ba509cd4b2dda686cde1229412cfc94d8f14fe0223eecaed7d64a4e5eb9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-3f43b3d5ca1a-c01",
+      "assertion": "Anéeka identifies Avyon as the Urmah homeworld, with colonies across the quadrant.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0020"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f43b3d5ca1a-c02",
+      "assertion": "Urmah are large feline beings who move bipedally or quadrupedally.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f43b3d5ca1a-c03",
+      "assertion": "She estimates a 950-year lifespan; 5D time is non-linear.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f43b3d5ca1a-c04",
+      "assertion": "Their High Council has an experienced organizer without extra authority over members.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0033"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f43b3d5ca1a-c05",
+      "assertion": "Rurh represents Avyon; royal figures symbolize their civilization.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f43b3d5ca1a-c06",
+      "assertion": "Urmah grow meat tissue for food rather than hunting, and also eat plants.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f43b3d5ca1a-c07",
+      "assertion": "Their main transport includes aircraft and maglev trains.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0067",
+        "p0069"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f43b3d5ca1a-c08",
+      "assertion": "Urmah influence reflects colonies and military reach.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0117"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "Especially in their quadrant."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025"
+  ],
+  "coverage_gaps": [
+    "culture-detail",
+    "architecture",
+    "language",
+    "leisure"
+  ]
+}

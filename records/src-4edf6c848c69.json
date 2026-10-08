@@ -1,0 +1,101 @@
+{
+  "source_id": "src-4edf6c848c69",
+  "snapshot_sha256": "9a17e20d2aaa27e1d18468d4fbd8eecbda94414e2e152f1d63d9eb1f8218c768",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-4edf6c848c69-c01",
+      "assertion": "Tiamat was mostly aquatic; she says Federation forces attacked a Reptilian decoy base there.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0025"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4edf6c848c69-c02",
+      "assertion": "She attributes Tiamat’s breakup to planetary shock waves; its fragments became the asteroid belt.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4edf6c848c69-c03",
+      "assertion": "She links Tiamat’s dispersed water to a catastrophic flood on Earth and Venus.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "atlantis-lemuria"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4edf6c848c69-c04",
+      "assertion": "She says the flood disrupted Earth’s rotation and magnetosphere, followed by pole movement and mass biological loss.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4edf6c848c69-c05",
+      "assertion": "She describes the event as a system-wide war’s collateral damage; Mars’s surface civilizations were devastated.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translated-from-spanish",
+    "no-parallel-source-in-batch"
+  ],
+  "coverage_gaps": [
+    "survivor-migrations",
+    "later-legacy",
+    "moon-role"
+  ]
+}

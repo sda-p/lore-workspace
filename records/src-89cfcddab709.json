@@ -1,0 +1,98 @@
+{
+  "source_id": "src-89cfcddab709",
+  "snapshot_sha256": "23cec86886d542c9aa5fdbb411413d70eb49a34e86ce76285f5624e6c905890e",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-89cfcddab709-c01",
+      "assertion": "Urmah are described as feline-dominant, originating from Vega, Lyra and Avalon, with a major Sirius colony.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89cfcddab709-c02",
+      "assertion": "She describes Urmah as Federation members, formerly invasive but now peaceful and spiritual, yet fierce warriors.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89cfcddab709-c03",
+      "assertion": "Urmah are said to use telepathy, eat synthetic meat and maintain Roman-inspired homes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89cfcddab709-c04",
+      "assertion": "She describes their political model as patriarchal/matriarchal and holographic.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-89cfcddab709-c05",
+      "assertion": "She says Taygeta introduced domestic cats to Earth in ancient Egypt; Urmah visited but had no known major colony.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "self-reported-traits"
+  ],
+  "coverage_gaps": [
+    "ship-capabilities",
+    "spiritual-practice",
+    "colony-network"
+  ]
+}
