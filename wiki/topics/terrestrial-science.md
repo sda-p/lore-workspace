@@ -1580,6 +1580,42 @@ Source: [Pleiades are NOT too Young to Support Organic Life - Extraterrestrial C
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-5faa731bafee-c01
+
+Swaruu denies global warming but recognizes ecosystem destruction, attributing weather variation to cycles and HAARP.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Global Warming, Climate Change, Greta Thumberg? Swaruu (Taygeta-Pleiades) Responds](https://swaruu.org/transcripts/global-warming-climate-change-greta-thumberg-swaruu-taygeta-pleiades-responds) (2019-10-15; en); passages p0002, p0005, p0046, p0048, p0013, p0017. [Structured record](../../records/src-5faa731bafee.json).
+
+Related topics: [Weather control systems](weather-control.md).
+
+### src-87bd832ea105-c02
+
+She says an invasion objective is seizing Chernobyl, whose cracked reactor containment is leaking radiation.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ucranian Conflict - Why? Athena Swaruu´s Short Commentary](https://swaruu.org/transcripts/ucranian-conflict-why-athena-swaruu-s-short-commentary) (2022-02-27; en); passages p0006. [Structured record](../../records/src-87bd832ea105.json).
+
+Related topics: [Ukraine](ukraine.md).
+
+### src-5ebe6d00850b-c01
+
+Athena says volcanoes vent planetary pressure and nearby earthquakes can raise magma pressure, contributing to eruptions.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Popocatépetl Volcano Eruption - Mexico - Military Activity - Athena Swaruu](https://swaruu.org/transcripts/popocatepetl-volcano-eruption-mexico-military-activity-athena-swaruu) (2023-06-20; en); passages p0013, p0018, p0019. [Structured record](../../records/src-5ebe6d00850b.json).
+
+### src-5ebe6d00850b-c03
+
+Athena suspects Popocatépetl’s eruption was triggered or enhanced artificially, citing shallow pressurized magma, surface electromagnetism, and explosives. She presents circumstantial indicators, not confirmation.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Popocatépetl Volcano Eruption - Mexico - Military Activity - Athena Swaruu](https://swaruu.org/transcripts/popocatepetl-volcano-eruption-mexico-military-activity-athena-swaruu) (2023-06-20; en); passages p0006, p0007. [Structured record](../../records/src-5ebe6d00850b.json).
+
 ### src-5f504bef5a30-c01
 
 Mari argues official histories are shaped by victors and political interests.
@@ -1972,6 +2008,7 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - [src-88ba599fa614-c04](earth-cabal.md#src-88ba599fa614-c04) — Earth Cabal and power structures
 - [src-c147ae1148dd-c01](earth-cabal.md#src-c147ae1148dd-c01) — Earth Cabal and power structures
 - [src-c147ae1148dd-c02](earth-cabal.md#src-c147ae1148dd-c02) — Earth Cabal and power structures
+- [src-5faa731bafee-c05](earth-cabal.md#src-5faa731bafee-c05) — Earth Cabal and power structures
 - [src-af4500c882ec-c04](tartaria.md#src-af4500c882ec-c04) — Tartaria
 - [src-5ee43e47632e-c01](sunspot-portals.md#src-5ee43e47632e-c01) — Sunspot portals
 - [src-c868ee942b53-c05](false-alien-invasion.md#src-c868ee942b53-c05) — False alien invasion scenarios
@@ -2002,6 +2039,7 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - biological-claims-unverified
 - chronology\_conflict
 - claimed\_observation
+- climate-claims
 - competing\_attributions
 - conflicting\_war\_reports
 - conspiracy-claims
@@ -2019,6 +2057,7 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - dietary\_advice
 - disputed\_specimen
 - earth\_science\_claims\_unverified
+- entertainment-disclaimer
 - extraordinary\_biological\_claims
 - extraordinary\_conflict\_claims
 - extraordinary\_cosmology\_claims
@@ -2076,7 +2115,9 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - time-bound-prediction
 - time\_travel\_lore
 - translated-from-Spanish-original-not-available
+- translated-originally-Spanish
 - translated\_source
+- translation-equivalence-unverified
 - translation-not-applicable
 - transport\_safety\_and\_policy\_claims\_unverified
 - ufo\_researcher\_critique
@@ -2117,4 +2158,5 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - unverified\_wartime\_claims
 - vaccine-harm-allegations
 - war\_scale\_uncertainty
+- wartime-conspiracy-claims
 - weather\_claims

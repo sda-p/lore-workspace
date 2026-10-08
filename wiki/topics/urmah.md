@@ -1020,12 +1020,21 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (English)](https://swaruu.org/transcripts/space-news-49-new-spaceport-more-on-australia-my-health-birthday-english) (2024-10-26; en); passages p0006, p0008, p0009. [Structured record](../../records/src-6b5449860d14.json).
 
+### src-c1f323f128a9-c05
+
+Urmah are feline Federation members who may reject Federation policies.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0081, p0082. [Structured record](../../records/src-c1f323f128a9.json).
+
 ## Claims filed under other topics
 
 - [src-1461dd27e63f-c08](alien-species.md#src-1461dd27e63f-c08) — Alien species and distinctions
 - [src-5e07dce47a23-c01](tractor-beams.md#src-5e07dce47a23-c01) — Tractor beams
 - [src-5e07dce47a23-c02](vaccine-inoculation-claims.md#src-5e07dce47a23-c02) — Inoculation and genetic alteration claims
 - [src-5e07dce47a23-c03](prime-directive.md#src-5e07dce47a23-c03) — Prime Directive
+- [src-331f8bef4748-c03](galactic-federation.md#src-331f8bef4748-c03) — Galactic Federation
 - [src-2c37577fd6a4-c05](orion-wars.md#src-2c37577fd6a4-c05) — Orion Wars
 - [src-b7b4119e55e3-c03](taygetans.md#src-b7b4119e55e3-c03) — Taygetans
 - [src-6f4237eb135e-c01](consciousness-metaphysics.md#src-6f4237eb135e-c01) — Consciousness and metaphysics
@@ -1042,6 +1051,9 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - [src-924330cd4b6f-c04](alcyone-council.md#src-924330cd4b6f-c04) — Alcyone Council
 - [src-722b52946af6-c04](taygetan-language.md#src-722b52946af6-c04) — Taygetan language
 - [src-234bba72765f-c01](orion-council.md#src-234bba72765f-c01) — Orion Council
+- [src-1d29aea5b394-c02](taygetans.md#src-1d29aea5b394-c02) — Taygetans
+- [src-d088ff3491c4-c02](alien-species.md#src-d088ff3491c4-c02) — Alien species and distinctions
+- [src-d088ff3491c4-c05](alien-species.md#src-d088ff3491c4-c05) — Alien species and distinctions
 
 ## Review flags
 
@@ -1056,6 +1068,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - Federation-sanctions\_reported
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Medical recovery and spiritual causation are Mari’s personal report, not independently established; do not generalize or present as treatment guidance
+- Species summaries are broad and based on accounts attributed to orbital sources
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - Yazhi-interview-report
@@ -1069,6 +1082,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - genetic-weapon-causation-speculative
 - historical-claims-unverified
 - historical-conspiracy-claims
+- identity-of-hidden-faction-unknown
 - incomplete-investigation
 - intercultural-claims
 - medical\_claims
@@ -1084,6 +1098,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - species-cosmology\_attributed
 - spiritual-warfare-claims
 - translated-from-Spanish-original-not-available
+- translated-originally-Spanish
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - unverified-astral-causation

@@ -1808,6 +1808,148 @@ Attributed to **Yazhi**; reported; extraction confidence: high.
 
 Source: [Orion Mothership entering Earth? NOTHING is happening - Yazhi Swaruu](https://swaruu.org/transcripts/orion-mothership-entering-earth-nothing-is-happening-yazhi-swaruu) (2023-02-16; en); passages p0003, p0004, p0005, p0007. [Structured record](../../records/src-c06b74035df0.json).
 
+### src-bd13d89221e8-c02
+
+Yazhi says 5D societies also have racial divisions and fallible councils that impose their own perspectives on Earth.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Planetary Reset, 3D Matrix - Federation - Human Civilization (Yazhi Swaruu)](https://swaruu.org/transcripts/planetary-reset-3d-matrix-federation-human-civilization-yazhi-swaruu) (2020-08-16; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-bd13d89221e8.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-1c425730a068-c02
+
+Gosia says Galactic Federation-level actors are portrayed by her sources as gatekeepers maintaining Earth’s closed Matrix.
+
+Attributed to **Gosia, relaying Taygetan accounts**; reported; extraction confidence: high.
+
+Source: [UFO/UAP Hearings at US Congress - Alien Disclosure? MY OPINION](https://swaruu.org/transcripts/ufo-uap-hearings-at-us-congress-alien-disclosure-my-opinion) (2024-11-22; en); passages p0013, p0015, p0016. [Structured record](../../records/src-1c425730a068.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-c72b629726c7-c03
+
+Gosia says Federation fleets include many ships from multiple races on Solar System missions, making any one craft an unremarkable possibility.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Comet 3I/Atlas or Alien/ET Spaceship? My Thoughts](https://swaruu.org/transcripts/comet-3i-atlas-or-alien-et-spaceship-my-thoughts) (2025-10-10; en); passages p0017, p0019, p0020. [Structured record](../../records/src-c72b629726c7.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-50afee47b8a2-c01
+
+Anéeka says political and military leaders communicate with Federation races by holographic or conventional videoconference, with advanced AI controlling evidence.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [NEWS - OUTBREAKS - TRUMP - CHINA \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/news-outbreaks-trump-china-no-video) (2020-10-18; en); passages p0009, p0011, p0013. [Structured record](../../records/src-50afee47b8a2.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-50afee47b8a2-c02
+
+Anéeka says Federation races control events on Earth and that she lacks knowledge of their internal decisions.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [NEWS - OUTBREAKS - TRUMP - CHINA \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/news-outbreaks-trump-china-no-video) (2020-10-18; en); passages p0015. [Structured record](../../records/src-50afee47b8a2.json).
+
+### src-331f8bef4748-c01
+
+Gosia describes the Federation as complex, mostly benevolent and nonmilitary, but containing hidden darker elements.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Clarification regarding Galactic Federation - Gosia](https://swaruu.org/transcripts/clarification-regarding-galactic-federation-gosia) (2023-12-21; en); passages p0004, p0005, p0006. [Structured record](../../records/src-331f8bef4748.json).
+
+### src-331f8bef4748-c02
+
+Athena says Taygetan readiness means hypothetical self-defense; she expects no war and names peaceful member races.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Clarification regarding Galactic Federation - Gosia](https://swaruu.org/transcripts/clarification-regarding-galactic-federation-gosia) (2023-12-21; en); passages p0003, p0009. [Structured record](../../records/src-331f8bef4748.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-331f8bef4748-c03
+
+Gosia says some hidden members oppose Toleka; Urmah and Taygetans are ready if Earth management worsens.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Clarification regarding Galactic Federation - Gosia](https://swaruu.org/transcripts/clarification-regarding-galactic-federation-gosia) (2023-12-21; en); passages p0005, p0007. [Structured record](../../records/src-331f8bef4748.json).
+
+Related topics: [Urmah](urmah.md), [Taygetans](taygetans.md).
+
+### src-7c1f9d5dcb76-c02
+
+Mari says the Galactic Federation controls Earth and would prevent total destruction, including nuclear catastrophe. She distinguishes Tiamat’s earlier destruction as a different case.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Nuclear scare, don’t worry](https://swaruu.org/transcripts/nuclear-scare-don-t-worry) (2023-02-27; en); passages p0022, p0024, p0025, p0026. [Structured record](../../records/src-7c1f9d5dcb76.json).
+
+Related topics: [Tiamat](tiamat.md).
+
+### src-a656b1fed73d-c03
+
+She says Federation intervention requires mass suicide or lethal pandemic; nuclear war is improbable.
+
+Attributed to **Swaruu**; reported; extraction confidence: medium.
+
+Source: [FOCUS: NOW OR NEVER (Swaruu D´Jedi - Taygeta, Pleiades)](https://swaruu.org/transcripts/focus-now-or-never-swaruu-d-jedi-taygeta-pleiades) (2020-03-29; en); passages p0044, p0046, p0047, p0048. [Structured record](../../records/src-a656b1fed73d.json).
+
+### src-c4d11e2bcd3f-c04
+
+Yazhi confirms ET craft neutralize the described weapons but disputes Earth’s nuclear explanation.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Nuclear Bombs - Energy Bombs - Part 2 - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/nuclear-bombs-energy-bombs-part-2-yazhi-swaruu-sophia) (2022-11-29; en); passages p0045, p0046. [Structured record](../../records/src-c4d11e2bcd3f.json).
+
+### src-c1b972dbf490-c03
+
+Federation leaves Earth to learn its own lessons and isolates it to contain low-frequency influence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [Positive Twist, Part One, Galactic Federation Part 5](https://swaruu.org/transcripts/positive-twist-part-one-galactic-federation-part-5) (2023-03-28; en); passages p0012, p0013, p0014. [Structured record](../../records/src-c1b972dbf490.json).
+
+### src-db310bb876f5-c01
+
+Yazhi says her small Taygetan/Swaruunians group recognized Federation deception, while Urmahs apparently knew already; she cannot say who knew earlier.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Galactic Federation - Why didn´t Taygetans know before?](https://swaruu.org/transcripts/galactic-federation-why-didn-t-taygetans-know-before) (2023-07-01; en); passages p0004, p0006, p0013. [Structured record](../../records/src-db310bb876f5.json).
+
+### src-db310bb876f5-c03
+
+Yazhi says Federation-influenced fleet cadets were taught to expect liberating oppressed planets.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Galactic Federation - Why didn´t Taygetans know before?](https://swaruu.org/transcripts/galactic-federation-why-didn-t-taygetans-know-before) (2023-07-01; en); passages p0016, p0017. [Structured record](../../records/src-db310bb876f5.json).
+
+### src-db310bb876f5-c05
+
+Athena says predecessors accepted Federation “love and light” claims and lacked motive to investigate.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Galactic Federation - Why didn´t Taygetans know before?](https://swaruu.org/transcripts/galactic-federation-why-didn-t-taygetans-know-before) (2023-07-01; en); passages p0032, p0033, p0034. [Structured record](../../records/src-db310bb876f5.json).
+
+### src-529014e2b199-c04
+
+She says the Federation monitors rather than deactivates them; their output may be weak or sporadic.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [BERMUDA TRIANGLE - YAZHI \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/bermuda-triangle-yazhi) (2020-09-23; en); passages p0010, p0011, p0012. [Structured record](../../records/src-529014e2b199.json).
+
 ### src-5e6c8ea2cb2c-c01
 
 Athena says Earth is the only Federation world officially reported to have Earth-like wars and conflict.
@@ -3066,6 +3208,70 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (English)](https://swaruu.org/transcripts/space-news-49-new-spaceport-more-on-australia-my-health-birthday-english) (2024-10-26; en); passages p0011, p0012, p0013. [Structured record](../../records/src-6b5449860d14.json).
 
+### src-7935e066946e-c02
+
+Aneeka says the real Federation may treat an Earth-only staged encounter as part of humanity’s learning; Ari suspects Federation involvement but says the plan’s origin is unclear.
+
+Attributed to **Aneeka of Temmer and Ari, as quoted by Gosia**; speculative; extraction confidence: high.
+
+Source: [UFO Disclosure and Project Blue Beam: Is False Alien Invasion Next? - CLASS 012](https://swaruu.org/transcripts/ufo-disclosure-and-project-blue-beam-is-false-alien-invasion-next-class-012) (2026-03-05; en); passages p0033, p0034, p0035. [Structured record](../../records/src-7935e066946e.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-110eac9645cb-c01
+
+Yazhi attributed months-long ship internet outages to Federation efforts to contain Earth during critical times. The ship had briefly reconnected and disconnected again.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Yazhi and Gosia - Gosia´s Doubts](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-yazhi-and-gosia-gosia-s-doubts) (2026-03-28; en); passages p0107, p0134, p0136. [Structured record](../../records/src-110eac9645cb.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-3ab615820cb8-c01
+
+Gosia describes a physical, multiracial Federation founded by Andromedans, Arcturians, and Lyrians after Lyra’s Great Expansion. It coordinates alliances.
+
+Attributed to **Gosia (lesson)**; reported; extraction confidence: high.
+
+Source: [CLASS 009 - Galactic Federation - Top Managers of Planet Earth](https://swaruu.org/transcripts/class-009-galactic-federation-top-managers-of-planet-earth) (2025-12-06; en); passages p0008, p0009, p0010. [Structured record](../../records/src-3ab615820cb8.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md).
+
+### src-3ab615820cb8-c02
+
+Gosia says Federation authority is layered: local Earth politics center at Andromedan Viera behind the Moon, with higher decisions extending to Saturn. Lower levels may not know higher-level activity.
+
+Attributed to **Gosia (lesson)**; reported; extraction confidence: high.
+
+Source: [CLASS 009 - Galactic Federation - Top Managers of Planet Earth](https://swaruu.org/transcripts/class-009-galactic-federation-top-managers-of-planet-earth) (2025-12-06; en); passages p0017, p0022, p0023. [Structured record](../../records/src-3ab615820cb8.json).
+
+Related topics: [Viera](viera.md), [Saturnian orbital bases](saturn-bases.md).
+
+### src-3ab615820cb8-c03
+
+Gosia portrays the Federation as non-monolithic: many local members are benevolent, while hidden upper levels lack transparency and may conflict. She resists a simple good-or-bad judgment.
+
+Attributed to **Gosia (lesson)**; reported; extraction confidence: high.
+
+Source: [CLASS 009 - Galactic Federation - Top Managers of Planet Earth](https://swaruu.org/transcripts/class-009-galactic-federation-top-managers-of-planet-earth) (2025-12-06; en); passages p0025, p0035, p0036, p0038. [Structured record](../../records/src-3ab615820cb8.json).
+
+### src-c3560b8010b9-c03
+
+Gosia says the Federation may allow conflict to spur human development despite harm to immediate human interests.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) (2026-07-07; en); passages p0026, p0027. [Structured record](../../records/src-c3560b8010b9.json).
+
+### src-cdc00e8b66c4-c04
+
+Swaruu (9) describes South America as a Federation patrol route for targets of opportunity.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
+
+Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0024, p0025, p0026. [Structured record](../../records/src-cdc00e8b66c4.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c02](urmah.md#src-a5811312e55c-c02) — Urmah
@@ -3163,6 +3369,10 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - [src-ac1ba0859491-c01](moon-matrix.md#src-ac1ba0859491-c01) — Moon and terrestrial Matrix
 - [src-ac1ba0859491-c05](moon-matrix.md#src-ac1ba0859491-c05) — Moon and terrestrial Matrix
 - [src-c06b74035df0-c02](alien-species.md#src-c06b74035df0-c02) — Alien species and distinctions
+- [src-bd13d89221e8-c01](moon-matrix.md#src-bd13d89221e8-c01) — Moon and terrestrial Matrix
+- [src-45ef563e0d5a-c01](ancient-egypt.md#src-45ef563e0d5a-c01) — Ancient Egypt
+- [src-dbf603b5173d-c01](earth-cabal.md#src-dbf603b5173d-c01) — Earth Cabal and power structures
+- [src-7c1f9d5dcb76-c03](consciousness-metaphysics.md#src-7c1f9d5dcb76-c03) — Consciousness and metaphysics
 - [src-5e6c8ea2cb2c-c05](urmah.md#src-5e6c8ea2cb2c-c05) — Urmah
 - [src-56d295c20b53-c02](earth-cabal.md#src-56d295c20b53-c02) — Earth Cabal and power structures
 - [src-2c37577fd6a4-c02](alien-species.md#src-2c37577fd6a4-c02) — Alien species and distinctions
@@ -3244,6 +3454,8 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - [src-a7b0b8bf878c-c03](project-second-contact.md#src-a7b0b8bf878c-c03) — Project Second Contact
 - [src-a7b0b8bf878c-c04](project-second-contact.md#src-a7b0b8bf878c-c04) — Project Second Contact
 - [src-a7b0b8bf878c-c05](project-second-contact.md#src-a7b0b8bf878c-c05) — Project Second Contact
+- [src-7935e066946e-c01](false-alien-invasion.md#src-7935e066946e-c01) — False alien invasion scenarios
+- [src-7935e066946e-c03](false-alien-invasion.md#src-7935e066946e-c03) — False alien invasion scenarios
 
 ## Review flags
 
@@ -3251,6 +3463,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
+- Claims describe Mari’s spiritual model of the Federation and reincarnation
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
 - Federation-arguments\_reported
@@ -3261,11 +3474,17 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Higher-level free-will explanation is challenged by Gosia
+- Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
 - Maitre\_relationship\_with\_Reptilians
+- Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Proposed intervention remains conditional and internally qualified
+- Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
+- Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
+- These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
+- These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - Weapon and defense capabilities are source-attributed technical claims
 - alternate-history\_claims\_attributed
 - approximate\_dates
@@ -3305,8 +3524,10 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - diet\_claim\_omitted
 - directive-rules-not-in-transcript
 - disaster claims are source allegations; no corroboration in snapshot
+- disclosure-agenda-speculative
 - disclosure\_claims\_unverified
 - earth-consciousness\_claim\_omitted
+- earth-control-claim-attributed
 - earth-population-claims
 - earthquake-causation-unverified
 - eclipse-portal-claims-unverified
@@ -3341,6 +3562,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - historical-conspiracy-claims
 - historical\_account\_unverified
 - historical\_and\_nuclear\_claims\_unverified
+- identity-of-hidden-faction-unknown
 - incomplete-investigation
 - intercultural-claims
 - internal-tension: Federation-control vs human-ultimate-control (p0058-p0065)
@@ -3406,6 +3628,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - technology\_claims
 - time\_travel\_lore
 - translated-from-spanish
+- translated-originally-Spanish
 - translated\_source
 - uncertainty-shift: 5G moves from possible explanation to formal position
 - unsupported\_planetary\_claims

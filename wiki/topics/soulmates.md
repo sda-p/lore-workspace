@@ -50,6 +50,22 @@ Source: [Soul Fragmentation - Metaphysical Contemplations - Live with Gosia](htt
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-14eefc81eb26-c01
+
+Athena says partners meet by frequency compatibility, not compulsory soul contracts.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Soulmates changing among their Variants? Soul Loops - Athena Swaruu](https://swaruu.org/transcripts/soulmates-changing-among-their-variants-soul-loops-athena-swaruu) (2023-05-10; en); passages p0006, p0007, p0010. [Structured record](../../records/src-14eefc81eb26.json).
+
+### src-14eefc81eb26-c06
+
+Swaruu (9) defines soulmates as close-frequency fragments of one soul.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: medium.
+
+Source: [Soulmates changing among their Variants? Soul Loops - Athena Swaruu](https://swaruu.org/transcripts/soulmates-changing-among-their-variants-soul-loops-athena-swaruu) (2023-05-10; en); passages p0057, p0058, p0061. [Structured record](../../records/src-14eefc81eb26.json).
+
 ### src-682e0b02c3c5-c06
 
 Anéeka says Taygetan partners connect through telepathy and past-life memories.
@@ -62,4 +78,5 @@ Related topics: [Taygetans](taygetans.md).
 
 ## Review flags
 
+- Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
 - nonhuman-technology\_claims\_attributed

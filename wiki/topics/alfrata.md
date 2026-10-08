@@ -98,6 +98,14 @@ Source: [How is Athena Swaruu? Flight Missions, Asterope, and Grays](https://swa
 
 Related topics: [Orion Council](orion-council.md).
 
+### src-c1f323f128a9-c03
+
+Alfratans are the most active and numerous Federation race near Earth.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0037, p0038, p0039. [Structured record](../../records/src-c1f323f128a9.json).
+
 ## Claims filed under other topics
 
 - [src-19300029508e-c05](urmah.md#src-19300029508e-c05) — Urmah
@@ -108,6 +116,7 @@ Related topics: [Orion Council](orion-council.md).
 
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
+- Species summaries are broad and based on accounts attributed to orbital sources
 - black-knight-loss-details-provisional
 - eclipse-portal-claims-unverified
 - fence-control-theory-unconfirmed

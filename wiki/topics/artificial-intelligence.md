@@ -173,6 +173,9 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 ## Claims filed under other topics
 
 - [src-0f147c12d0ce-c03](earth-cabal.md#src-0f147c12d0ce-c03) — Earth Cabal and power structures
+- [src-50afee47b8a2-c01](galactic-federation.md#src-50afee47b8a2-c01) — Galactic Federation
+- [src-d24ef904f63a-c01](earth-cabal.md#src-d24ef904f63a-c01) — Earth Cabal and power structures
+- [src-d24ef904f63a-c02](earth-cabal.md#src-d24ef904f63a-c02) — Earth Cabal and power structures
 - [src-41aeba88905d-c01](starship-systems.md#src-41aeba88905d-c01) — Starship systems
 - [src-f4849bf7aa2d-c03](suzy-fighter-craft.md#src-f4849bf7aa2d-c03) — Suzy fighter craft
 - [src-f4849bf7aa2d-c07](suzy-fighter-craft.md#src-f4849bf7aa2d-c07) — Suzy fighter craft

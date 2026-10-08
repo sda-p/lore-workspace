@@ -16,6 +16,16 @@ Attributed to **Yazhi**; speculative; extraction confidence: high.
 
 Source: [Human Genome and DNA Storage - Yazhi Swaruu](https://swaruu.org/transcripts/human-genome-and-dna-storage-yazhi-swaruu) (2023-04-01; en); passages p0014. [Structured record](../../records/src-3e583159a50e.json).
 
+### src-e96e8067e205-c04
+
+Anéeka says medical pods treat energetic larvae and support healing; interruption is safe in many cases, but not during limb regeneration.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [EXOBIOLOGY - LURKERS - ENERGY LARVAE - MEDICAL POD \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/exobiology-lurkers-energy-larvae-medical-pod-no-video) (2021-01-12; en); passages p0048, p0049, p0052. [Structured record](../../records/src-e96e8067e205.json).
+
+Related topics: [Interdimensional parasites](interdimensional-parasites.md).
+
 ### src-28ddf6479cea-c05
 
 Yazhi says medical pods could cure most diseases but require prior changes to society’s power and financial structures.

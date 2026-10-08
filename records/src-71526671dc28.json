@@ -1,0 +1,99 @@
+{
+  "source_id": "src-71526671dc28",
+  "snapshot_sha256": "5a6ad7046bc96c25cc5d02f1d917f59af4a6c00b677e2ffa4fc9941c04affec9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-71526671dc28-c01",
+      "assertion": "Yazhi says “non-real” is relative: strangers may not recognize each other, so she rejects categorically labeling specific people.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "matrix-generated-persons",
+      "topics": [
+        "matrix-generated-persons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71526671dc28-c02",
+      "assertion": "Yazhi describes Matrix-generated persons as following socially formed reaction programs; she says real people collectively shape the Matrix that generates them.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0021"
+      ],
+      "primary_topic": "matrix-generated-persons",
+      "topics": [
+        "matrix-generated-persons",
+        "original-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71526671dc28-c03",
+      "assertion": "Yazhi says a walk-in soul may enter a Matrix-generated body, changing its status from that point onward.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "matrix-generated-persons"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-71526671dc28-c04",
+      "assertion": "Yazhi says terrestrial and offworld Matrices overlap as one system; Gosia instead describes Earth’s added digital-manipulation layer.",
+      "speaker": "Yazhi Swaruu; Gosia",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "matrix-generated-persons",
+      "name": "Matrix-generated persons",
+      "kind": "metaphysical population",
+      "aliases": [
+        "non-real people"
+      ]
+    }
+  ],
+  "review_flags": [
+    "matrix-scope-differing-views",
+    "translated-originally-Spanish"
+  ],
+  "coverage_gaps": [
+    "personhood-mechanics"
+  ]
+}

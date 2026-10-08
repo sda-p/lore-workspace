@@ -88,14 +88,36 @@ Source: [Full Immersion Communication Technology, Part One, Applications (Englis
 
 Related topics: [Holistic society](holistic-society.md).
 
+### src-69ad8dca8c41-c03
+
+Swaruu describes full immersion as computerized Matrix entry, possible at birth or later. She calls later entry a walk-in.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST - "You are in a Taygetan Immersion" - Does Cosmic Identity Matter?](https://swaruu.org/transcripts/blast-from-the-past-you-are-in-a-taygetan-immersion-does-cosmic-identity-matter) (2025-11-19; en); passages p0090, p0092, p0101, p0104. [Structured record](../../records/src-69ad8dca8c41.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Walk-in phenomenon](walk-in-phenomenon.md).
+
+### src-69ad8dca8c41-c04
+
+Anéeka says this starseed chose the best frequency match; Swaruu says only awareness enters while the soul remains higher.
+
+Attributed to **Anéeka; Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST - "You are in a Taygetan Immersion" - Does Cosmic Identity Matter?](https://swaruu.org/transcripts/blast-from-the-past-you-are-in-a-taygetan-immersion-does-cosmic-identity-matter) (2025-11-19; en); passages p0203, p0205, p0207. [Structured record](../../records/src-69ad8dca8c41.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-03ea45d7d724-c03](spherical-drones.md#src-03ea45d7d724-c03) — Spherical drones
 - [src-f4085f32044d-c04](taygetans.md#src-f4085f32044d-c04) — Taygetans
+- [src-69ad8dca8c41-c05](taygetans.md#src-69ad8dca8c41-c05) — Taygetans
 
 ## Review flags
 
 - Alenym-attack-culprit-unknown
+- Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - genetic-weapon-causation-speculative
 - technology-described-by-mari
 - technology-description-unverified

@@ -1,0 +1,137 @@
+{
+  "source_id": "src-7d0050d7c04a",
+  "snapshot_sha256": "58281b4ce4b5e004dd4d7325a4d992b64eb8fd3253f9e0fd6fe3457b9aa5200e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7d0050d7c04a-c01",
+      "assertion": "Consciousness generates ether waves; harmonics produce stationary waves and matter.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d0050d7c04a-c02",
+      "assertion": "Neglected matter progressively dissolves into potential energy.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d0050d7c04a-c03",
+      "assertion": "All matter is toroidal; large planets, stars, and galaxies manifest as spheres.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0077",
+        "p0079"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d0050d7c04a-c04",
+      "assertion": "Rotating quartz merkabas generate piezoelectricity; Swaruu calls this compact reactor nearly 100% efficient.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0047",
+        "p0049",
+        "p0051"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d0050d7c04a-c05",
+      "assertion": "Gravity is magnetosphere-linked electromagnetic flow at the ether boundary.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0089",
+        "p0091"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d0050d7c04a-c06",
+      "assertion": "Pyramids used gravity cancellation and were planetary free-energy plants.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0084",
+        "p0085",
+        "p0087"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7d0050d7c04a-c07",
+      "assertion": "Rodin coils amplify electricity but need external power and better conductors.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0093",
+        "p0095"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "nonstandard-physics-claims"
+  ],
+  "coverage_gaps": [
+    "energy-reactor-mechanics",
+    "interference-shields",
+    "sacred-geometry-details"
+  ]
+}

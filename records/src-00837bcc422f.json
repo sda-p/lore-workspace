@@ -1,0 +1,87 @@
+{
+  "source_id": "src-00837bcc422f",
+  "snapshot_sha256": "78e074464cc2f88811f3454c706b04af4486cf1d57bfbc36f660cd341cab2573",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-00837bcc422f-c01",
+      "assertion": "Yazhi says Atlantean pyramids were zero-point reactors feeding a wireless energy grid; some also served as portals or consciousness amplifiers, while others generated no usable electricity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0006"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "atlantis-lemuria",
+        "natural-portals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-00837bcc422f-c02",
+      "assertion": "She describes enriched mercury as a turbine material whose spin and tuned gravitational frequencies can cancel gravity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "red-mercury-gravity-turbines",
+      "topics": [
+        "red-mercury-gravity-turbines",
+        "gravity-harmonics",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account."
+    },
+    {
+      "id": "src-00837bcc422f-c03",
+      "assertion": "Yazhi interprets Adam and Eve as peoples: Reptile-controlled Atlantis created the Adamic humans through mental conditioning, while Lemurian Evas escaped and received Taygetan knowledge.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0034",
+        "p0035",
+        "p0036",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "lyran-expansion",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Yazhi’s interpretation."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "red-mercury-gravity-turbines",
+      "name": "Red-mercury gravity turbines",
+      "kind": "technology",
+      "aliases": [
+        "enriched mercury turbines",
+        "red mercury"
+      ]
+    }
+  ],
+  "review_flags": [
+    "ancient-texts-as-racial-symbolism-attributed"
+  ],
+  "coverage_gaps": [
+    "mercury-pyramid-hazards",
+    "subterranean-city-ventilation"
+  ]
+}

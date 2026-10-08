@@ -48,6 +48,36 @@ Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
 
 Source: [About all the UFO rumbling in the media (English)](https://swaruu.org/transcripts/about-all-the-ufo-rumbling-in-the-media-english) (2023-02-15; en); passages p0006, p0007. [Structured record](../../records/src-c972fa5ca890.json).
 
+### src-1c425730a068-c01
+
+Gosia argues that official disclosure could channel public interest into a controller-shaped ET narrative or staged invasion scenario.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [UFO/UAP Hearings at US Congress - Alien Disclosure? MY OPINION](https://swaruu.org/transcripts/ufo-uap-hearings-at-us-congress-alien-disclosure-my-opinion) (2024-11-22; en); passages p0019, p0021, p0023. [Structured record](../../records/src-1c425730a068.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-dbf603b5173d-c02
+
+Gosia says internet access, recording devices, and widespread sharing make ET evidence harder for governments to deny.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [UFO/UAP Disclosure - Truth, Psyop, or Damage Control?? - CLASS 011](https://swaruu.org/transcripts/ufo-uap-disclosure-truth-psyop-or-damage-control-class-011) (2026-02-11; en); passages p0035, p0037. [Structured record](../../records/src-dbf603b5173d.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-dbf603b5173d-c03
+
+Gosia suspects authorities may steer disclosure as controlled opposition, potentially preparing a false-alien-invasion scenario. She says the agenda and outcome remain uncertain.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [UFO/UAP Disclosure - Truth, Psyop, or Damage Control?? - CLASS 011](https://swaruu.org/transcripts/ufo-uap-disclosure-truth-psyop-or-damage-control-class-011) (2026-02-11; en); passages p0040, p0042, p0051, p0057. [Structured record](../../records/src-dbf603b5173d.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ### src-c868ee942b53-c05
 
 Athena and Yazhi claim flat-Earth narratives divert attention from extraterrestrial topics.
@@ -144,14 +174,37 @@ Source: [Eclipse, April 8th, 2024 (English)](https://swaruu.org/transcripts/ecli
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-7935e066946e-c01
+
+Gosia presents a staged benevolent Federation encounter as a possible false-invasion scenario that could trade aid for imposed rules.
+
+Attributed to **Gosia, relaying Aneeka of Temmer and Yazhi Swaruu**; speculative; extraction confidence: high.
+
+Source: [UFO Disclosure and Project Blue Beam: Is False Alien Invasion Next? - CLASS 012](https://swaruu.org/transcripts/ufo-disclosure-and-project-blue-beam-is-false-alien-invasion-next-class-012) (2026-03-05; en); passages p0027, p0028, p0029. [Structured record](../../records/src-7935e066946e.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-7935e066946e-c03
+
+Ari describes a false invasion as a last resort after other agendas; Gosia reports no near-term face-to-face contact plans from Mari.
+
+Attributed to **Ari and Mari, as quoted by Gosia**; reported; extraction confidence: high.
+
+Source: [UFO Disclosure and Project Blue Beam: Is False Alien Invasion Next? - CLASS 012](https://swaruu.org/transcripts/ufo-disclosure-and-project-blue-beam-is-false-alien-invasion-next-class-012) (2026-03-05; en); passages p0042, p0045. [Structured record](../../records/src-7935e066946e.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-19b9c2bb57a1-c04](earth-cabal.md#src-19b9c2bb57a1-c04) — Earth Cabal and power structures
 - [src-55eec113b537-c03](galactic-federation.md#src-55eec113b537-c03) — Galactic Federation
+- [src-7935e066946e-c02](galactic-federation.md#src-7935e066946e-c02) — Galactic Federation
+- [src-6d9b90ab765b-c02](consciousness-metaphysics.md#src-6d9b90ab765b-c02) — Consciousness and metaphysics
 
 ## Review flags
 
 - conspiracy\_claims
+- disclosure-agenda-speculative
 - disputed\_specimen
 - unverified\_conspiracy\_claims
 - unverified\_extraordinary\_claims

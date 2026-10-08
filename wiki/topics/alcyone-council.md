@@ -354,11 +354,32 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 42, Galactic Federation And Alcyone Council Update](https://swaruu.org/transcripts/space-news-42-galactic-federation-and-alcyone-council-update) (2024-09-19; en); passages p0012, p0014, p0015, p0016, p0018. [Structured record](../../records/src-83397d1d698c.json).
 
+### src-1d29aea5b394-c01
+
+Athena says Alcyone Council recognizes Alenym as the Pleiades’ legal representative; other Pleiadian ships are unofficial, few, and mainly monitor their starseeds.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Random Conversations with the Taygetan Pleiadians - Mini Topics](https://swaruu.org/transcripts/random-conversations-with-the-taygetan-pleiadians-mini-topics) (2025-12-21; en); passages p0012. [Structured record](../../records/src-1d29aea5b394.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-69ad8dca8c41-c02
+
+Swaruu says Yenas mostly inhabit 7D, guide Taygetans, and share the Alcyone Council.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST - "You are in a Taygetan Immersion" - Does Cosmic Identity Matter?](https://swaruu.org/transcripts/blast-from-the-past-you-are-in-a-taygetan-immersion-does-cosmic-identity-matter) (2025-11-19; en); passages p0010, p0020, p0021. [Structured record](../../records/src-69ad8dca8c41.json).
+
+Related topics: [Taygetans](taygetans.md), [Perceptual density](perceptual-density.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c08](galactic-federation.md#src-a5811312e55c-c08) — Galactic Federation
 - [src-0fee7d796019-c07](alien-species.md#src-0fee7d796019-c07) — Alien species and distinctions
 - [src-6bb3f5207f8d-c04](galactic-federation.md#src-6bb3f5207f8d-c04) — Galactic Federation
+- [src-7ced6b157e35-c06](cyndriel.md#src-7ced6b157e35-c06) — Cyndriel
 - [src-97cfd0c56ade-c04](taygetans.md#src-97cfd0c56ade-c04) — Taygetans
 - [src-555d02ebcd4e-c01](solatians.md#src-555d02ebcd4e-c01) — Solatians
 - [src-f9789939fb7e-c05](starship-systems.md#src-f9789939fb7e-c05) — Starship systems
@@ -377,10 +398,12 @@ Source: [Space News 42, Galactic Federation And Alcyone Council Update](https://
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
 - Alenym-attack-culprit-unknown
 - Athena-interview-original-English
+- Cyndriel time-difference mechanism remains unknown.
 - Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Federation-infiltration\_theory
 - Federation-sanctions\_reported
+- Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Senetre-diagnosed-weapon-route-suspected
 - Yazhi-interview-report

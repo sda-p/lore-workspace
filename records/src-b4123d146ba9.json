@@ -1,0 +1,113 @@
+{
+  "source_id": "src-b4123d146ba9",
+  "snapshot_sha256": "2a7ebba013cbeab2e9941126201f28a0d447d80147ec68be19f97d0714760fbf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b4123d146ba9-c01",
+      "assertion": "Swaruu de Erra says engineered DNA misaligned with an adma imprint becomes unstable, causing health and reproductive failures.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "genetic-weapons"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b4123d146ba9-c02",
+      "assertion": "Swaruu 9 names Reptilian Kingu, Naga Draco, and archontic factions seeking a controllable engineered species without free will.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0069",
+        "p0070"
+      ],
+      "primary_topic": "genetic-weapons",
+      "topics": [
+        "genetic-weapons",
+        "kingu",
+        "archons-and-demons",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b4123d146ba9-c03",
+      "assertion": "Swaruu 9 says frequency containers simulate separate sensory lives for captives; she estimates over 100,000 underground.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0072",
+        "p0074",
+        "p0076",
+        "p0082",
+        "p0084",
+        "p0092"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "human-clones",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b4123d146ba9-c04",
+      "assertion": "Swaruu de Erra says laser aura scanners on aircraft, drones, or handhelds can match offworld origins to databases.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "nonhuman-surveillance-drones",
+      "topics": [
+        "nonhuman-surveillance-drones",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b4123d146ba9-c05",
+      "assertion": "She distinguishes benevolent Grey Gardeners repairing genetics from robotic Grey imitations supervised by other factions.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "claims-attributed-to-source-narrators"
+  ],
+  "coverage_gaps": [
+    "density-transition-model"
+  ]
+}

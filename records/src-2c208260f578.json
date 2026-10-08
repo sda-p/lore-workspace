@@ -1,0 +1,127 @@
+{
+  "source_id": "src-2c208260f578",
+  "snapshot_sha256": "d2b6afce3f32e8843a9ceb33dcc526512894f089a8c57d9d83217ec1bd3d7a56",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2c208260f578-c01",
+      "assertion": "Family choice follows pre-incarnation frequency and agreements with evolving soul groups.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "soul-family-groups"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c208260f578-c02",
+      "assertion": "The afterlife manifests experiences immediately; attention shifts among them without a single density.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c208260f578-c03",
+      "assertion": "Reunions after death depend on mutual desire; presence manifests immediately.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c208260f578-c04",
+      "assertion": "Family roles recur across lives; a person may become their own great-grandparent after two generations.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0057"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "soul-family-groups"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Swaruu says this is a flexible pattern, not a rule."
+    },
+    {
+      "id": "src-2c208260f578-c05",
+      "assertion": "Swaruu says remorse can drive reincarnation loops, especially after suicide, until release.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "soul-family-groups"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2c208260f578-c06",
+      "assertion": "Soul families may have unlimited fragments sharing many interconnected, similar timelines.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0074",
+        "p0076",
+        "p0080",
+        "p0084"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "soul-family-groups"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "soul-family-groups",
+      "name": "Soul-family groups",
+      "kind": "cosmology",
+      "aliases": [
+        "soul families",
+        "grupos de almas"
+      ]
+    }
+  ],
+  "review_flags": [
+    "incarnation-afterlife-metaphysics"
+  ],
+  "coverage_gaps": [
+    "family-boundaries",
+    "past-life-memory"
+  ]
+}

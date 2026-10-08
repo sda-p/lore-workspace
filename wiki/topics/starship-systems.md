@@ -2620,6 +2620,64 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfratans, Alcyone (English)](https://swaruu.org/transcripts/space-news-41-pleiadian-urmah-treaty-and-now-antaria-alcohol-and-alfratans-alcyone-english) (2024-09-07; en); passages p0024. [Structured record](../../records/src-620ccccce34a.json).
 
+### src-d088ff3491c4-c01
+
+Alenym says the ship museum keeps relics from visited worlds, including many terrestrial objects.
+
+Attributed to **Alenym**; reported; extraction confidence: high.
+
+Source: [Do Extraterrestrials Value the Past? Taygetan Pleiadian Museum](https://swaruu.org/transcripts/do-extraterrestrials-value-the-past-taygetan-pleiadian-museum) (2025-12-13; en); passages p0004, p0005. [Structured record](../../records/src-d088ff3491c4.json).
+
+### src-d088ff3491c4-c03
+
+Anéeka describes four linked 10-by-6-meter rooms with sealed, climate-controlled cases and low lighting.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Do Extraterrestrials Value the Past? Taygetan Pleiadian Museum](https://swaruu.org/transcripts/do-extraterrestrials-value-the-past-taygetan-pleiadian-museum) (2025-12-13; en); passages p0012, p0013, p0016. [Structured record](../../records/src-d088ff3491c4.json).
+
+### src-d088ff3491c4-c04
+
+Anéeka says collecting is common among crews; a ship designed for 1,800 carries 30, leaving room for museums.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Do Extraterrestrials Value the Past? Taygetan Pleiadian Museum](https://swaruu.org/transcripts/do-extraterrestrials-value-the-past-taygetan-pleiadian-museum) (2025-12-13; en); passages p0012, p0040. [Structured record](../../records/src-d088ff3491c4.json).
+
+### src-110eac9645cb-c02
+
+Yazhi said she alone could connect from the ship through an unspecified system; her sessions lasted at most an hour daily. She withheld the system details, fearing renewed silencing.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Yazhi and Gosia - Gosia´s Doubts](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-yazhi-and-gosia-gosia-s-doubts) (2026-03-28; en); passages p0107, p0108, p0114. [Structured record](../../records/src-110eac9645cb.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-88e941a1512e-c02
+
+Athena distinguishes disguised spacecraft from real aircraft fitted with zero-point engines.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Interstellar Life 12 – Extraterrestrial Craft Posing as Human Aircraft Explained](https://swaruu.org/transcripts/interstellar-life-12-extraterrestrial-craft-posing-as-human-aircraft-explained) (2026-01-23; en); passages p0012, p0018, p0025. [Structured record](../../records/src-88e941a1512e.json).
+
+### src-88e941a1512e-c06
+
+Anéeka says heating or condensation can reveal cloaked ships; plasma trails may be shed or displayed.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [Interstellar Life 12 – Extraterrestrial Craft Posing as Human Aircraft Explained](https://swaruu.org/transcripts/interstellar-life-12-extraterrestrial-craft-posing-as-human-aircraft-explained) (2026-01-23; en); passages p0061, p0065, p0067. [Structured record](../../records/src-88e941a1512e.json).
+
+### src-cdc00e8b66c4-c06
+
+Athena distinguishes compact shuttles from liveable ships; science vessels add internal labs.
+
+Attributed to **Athena Swaruu (X)**; reported; extraction confidence: medium.
+
+Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0036, p0037, p0038, p0041, p0042. [Structured record](../../records/src-cdc00e8b66c4.json).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -2708,6 +2766,8 @@ Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfr
 - [src-ac1ba0859491-c04](moon-biosphere-ship.md#src-ac1ba0859491-c04) — The Moon as a biosphere ship
 - [src-2f9edb3af632-c03](immersion-pods.md#src-2f9edb3af632-c03) — Immersion pods
 - [src-2f9edb3af632-c04](immersion-pods.md#src-2f9edb3af632-c04) — Immersion pods
+- [src-e29461ec4748-c01](stellar-navigation.md#src-e29461ec4748-c01) — Stellar navigation
+- [src-e29461ec4748-c02](stellar-navigation.md#src-e29461ec4748-c02) — Stellar navigation
 - [src-30d632b02db6-c03](gravity-harmonics.md#src-30d632b02db6-c03) — Gravity harmonics
 - [src-56d295c20b53-c03](galactic-federation.md#src-56d295c20b53-c03) — Galactic Federation
 - [src-9f11dae98ad6-c04](temporal-skipping.md#src-9f11dae98ad6-c04) — Temporal skipping
@@ -2785,10 +2845,12 @@ Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfr
 - Alenym-retirement-not-decided
 - Athena-interview-original-English
 - Billy\_Meier\_photo\_authenticity\_uncertain
+- Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Federation-infiltration\_theory
 - Maitre\_relationship\_with\_Reptilians
 - Senetre-diagnosed-weapon-route-suspected
+- Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Weapon and defense capabilities are source-attributed technical claims
 - Yazhi-interview-report
 - alternate-history\_claims\_attributed
@@ -2892,7 +2954,9 @@ Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfr
 - technology\_claims
 - time\_travel\_risks
 - translated-from-Spanish-original-not-available
+- translated-originally-Spanish
 - translated\_source
+- translation-equivalence-unverified
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - unmapped\_regions\_and\_return\_risk

@@ -1,0 +1,79 @@
+{
+  "source_id": "src-872b05071e96",
+  "snapshot_sha256": "a9e521b9d61886b169f18d4590622ccfc2a3af7fa6ef04bf38086df39c256733",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-872b05071e96-c01",
+      "assertion": "Yazhi frames positive emotions as integration with the Source and negative emotions as separation; she calls emotion a compass but says logic must navigate obstacles.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0010",
+        "p0015",
+        "p0016",
+        "p0033",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Positive feelings still require perspective and logic."
+    },
+    {
+      "id": "src-872b05071e96-c02",
+      "assertion": "Yazhi says all souls have emotions, but Andromedan and Arcturian ranges are narrower than Lyrian; Taygetans may have emotional range comparable to or greater than humans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0024",
+        "p0025",
+        "p0049",
+        "p0050"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-872b05071e96-c03",
+      "assertion": "Yazhi says logic-focused Federation mentors may misread human emotional decisions; she names Taygetan, Engan, and Solatian societies as better-suited mentors.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0040",
+        "p0044",
+        "p0061",
+        "p0062",
+        "p0064"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "emotion-and-integration-doctrine-attributed",
+    "species-emotional-ranges-attributed"
+  ],
+  "coverage_gaps": [
+    "emotion-specific-examples",
+    "shadow-work-practice"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "src-773f5d590da3",
+  "snapshot_sha256": "4d3b701f8848fbef7acf2b143321cabd1bc31b9ee79432b4597ab40a0cd4efcc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-773f5d590da3-c01",
+      "assertion": "Swaruu describes collective timelines as shared perception agreements; when they fracture, people may experience many variants of several outcomes.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0034",
+        "p0038"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes roughly four broad lines, with individual variants."
+    },
+    {
+      "id": "src-773f5d590da3-c02",
+      "assertion": "She says mass meditation and shared focus alter the unified field from which collective reality manifests; thoughts shape it more than physical actions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0022",
+        "p0049"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-773f5d590da3-c03",
+      "assertion": "Swaruu presents direct positive nonhuman military intervention as a possible outcome, imposing a holographic society by force and causing deaths.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0017"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "A scenario, not a stated prediction; she says intervention depends on imminent mass violence."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "scenario-outcomes-and-intervention-threshold"
+  ],
+  "coverage_gaps": [
+    "four-outcome-list",
+    "astral-reality-interference"
+  ]
+}

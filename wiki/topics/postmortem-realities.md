@@ -126,6 +126,54 @@ Source: [Escape the matrix 3, your body and death. (English)](https://swaruu.org
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-270ba8d9da62-c05
+
+She warns entities can impersonate loved ones and says naming a ghost can grant passage.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Post Eclipse Entities](https://swaruu.org/transcripts/post-eclipse-entities) (2024-05-13; en); passages p0024. [Structured record](../../records/src-270ba8d9da62.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-270ba8d9da62-c06
+
+Mari says hateful, resentful souls may remain in lower astral; friendly ghosts are rare.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Post Eclipse Entities](https://swaruu.org/transcripts/post-eclipse-entities) (2024-05-13; en); passages p0022, p0023. [Structured record](../../records/src-270ba8d9da62.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-f9def33665f4-c01
+
+Mari says negative physical experiences may be reinterpreted positively after death, while positive experiences remain positive. She cautions that interpretation varies by soul.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Same events, different meanings - Physical or Spiritual side](https://swaruu.org/transcripts/same-events-different-meanings-physical-or-spiritual-side) (2023-03-07; en); passages p0004, p0005, p0006. [Structured record](../../records/src-f9def33665f4.json).
+
+### src-f9def33665f4-c02
+
+Mari rejects entities forcing reincarnation; she attributes return to personal attachments and perceived unfinished aims. She presents this as her belief.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Same events, different meanings - Physical or Spiritual side](https://swaruu.org/transcripts/same-events-different-meanings-physical-or-spiritual-side) (2023-03-07; en); passages p0029, p0030. [Structured record](../../records/src-f9def33665f4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f9def33665f4-c03
+
+Mari says possessions do not cross death; experience and learning do, making spiritual growth more important than accumulation. She says material objects can still serve individual experience.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Same events, different meanings - Physical or Spiritual side](https://swaruu.org/transcripts/same-events-different-meanings-physical-or-spiritual-side) (2023-03-07; en); passages p0024, p0025, p0026, p0027, p0028. [Structured record](../../records/src-f9def33665f4.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ### src-f28ef31d9222-c02
 
 She describes some vampires as lower-astral entities animating decaying bodies.
@@ -739,6 +787,9 @@ Source: [On Souls and Entities, Life and Death from the point of view of a Spiri
 ## Claims filed under other topics
 
 - [src-331beeab2088-c01](consciousness-metaphysics.md#src-331beeab2088-c01) — Consciousness and metaphysics
+- [src-270ba8d9da62-c03](frequency-map-navigation.md#src-270ba8d9da62-c03) — Frequency-map navigation
+- [src-270ba8d9da62-c04](consciousness-metaphysics.md#src-270ba8d9da62-c04) — Consciousness and metaphysics
+- [src-5aee7ebba0c5-c04](consciousness-metaphysics.md#src-5aee7ebba0c5-c04) — Consciousness and metaphysics
 - [src-f28ef31d9222-c01](alien-species.md#src-f28ef31d9222-c01) — Alien species and distinctions
 - [src-faff88963391-c02](consciousness-metaphysics.md#src-faff88963391-c02) — Consciousness and metaphysics
 - [src-c3fb6e0f8cde-c01](alien-species.md#src-c3fb6e0f8cde-c01) — Alien species and distinctions
@@ -769,6 +820,7 @@ Source: [On Souls and Entities, Life and Death from the point of view of a Spiri
 - agenda\_term\_varies
 - astral-warfare-claims-unverified
 - author-personal-philosophical-analysis
+- entertainment-disclaimer
 - gender-reincarnation\_views\_attributed
 - gender\_role\_generalization
 - metaphysical-claims\_attributed
@@ -778,6 +830,7 @@ Source: [On Souls and Entities, Life and Death from the point of view of a Spiri
 - mirror-identity-varies
 - pathogen-claim\_attributed
 - personal\_metaphysics
+- post-eclipse-causal-attribution
 - postmortem-identity-ambiguity
 - reincarnation-cosmology
 - reported-claims\_by\_Ari

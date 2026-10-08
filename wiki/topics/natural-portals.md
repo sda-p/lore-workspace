@@ -286,6 +286,24 @@ Source: [The Astral. (English)](https://swaruu.org/transcripts/the-astral-englis
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-270ba8d9da62-c02
+
+She describes portals as idea-based bridges, often hidden in underground military installations.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Post Eclipse Entities](https://swaruu.org/transcripts/post-eclipse-entities) (2024-05-13; en); passages p0010, p0017, p0018, p0020. [Structured record](../../records/src-270ba8d9da62.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-529014e2b199-c02
+
+She says the pyramid reactors discharge energy, causing magnetic disturbances and portals.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [BERMUDA TRIANGLE - YAZHI \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/bermuda-triangle-yazhi) (2020-09-23; en); passages p0005, p0006, p0011. [Structured record](../../records/src-529014e2b199.json).
+
 ### src-34a3e2e798ce-c05
 
 She says places associated with suffering can attract lower-astral activity.
@@ -572,6 +590,24 @@ Attributed to **Unattributed source narration**; reported; extraction confidence
 
 Source: [Osiris, Eye of Horus, Ancient Egyptian matters - Extraterrestrial People](https://swaruu.org/transcripts/osiris-eye-of-horus-ancient-egyptian-matters-extraterrestrial-people) (2025-04-13; en); passages p0009. [Structured record](../../records/src-959864c4fde8.json).
 
+### src-d892a9e298b1-c03
+
+Athena speculated that a massive solar coronal ejection during the conflict might have opened an energy portal for entities or thought patterns.
+
+Attributed to **Athena**; speculative; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Gosia´s Private Message to the Taygetans (2022)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-gosia-s-private-message-to-the-taygetans-2022) (2026-03-31; en); passages p0021, p0022. [Structured record](../../records/src-d892a9e298b1.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-88e941a1512e-c05
+
+Anéeka says regressives use underwater needle-nose ships to move cargo to portal entrances near Yemen and Los Angeles.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Interstellar Life 12 – Extraterrestrial Craft Posing as Human Aircraft Explained](https://swaruu.org/transcripts/interstellar-life-12-extraterrestrial-craft-posing-as-human-aircraft-explained) (2026-01-23; en); passages p0050, p0052. [Structured record](../../records/src-88e941a1512e.json).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -592,17 +628,22 @@ Source: [Osiris, Eye of Horus, Ancient Egyptian matters - Extraterrestrial Peopl
 - [src-ecee618ac78e-c03](moon-matrix.md#src-ecee618ac78e-c03) — Moon and terrestrial Matrix
 - [src-e2b6999b0e7f-c05](archons-and-demons.md#src-e2b6999b0e7f-c05) — Archons and demons
 - [src-03651da1738e-c02](orion-grays.md#src-03651da1738e-c02) — Orion Grays
+- [src-270ba8d9da62-c01](archons-and-demons.md#src-270ba8d9da62-c01) — Archons and demons
 - [src-8ca54257f6a4-c05](cyndriel.md#src-8ca54257f6a4-c05) — Cyndriel
 
 ## Review flags
 
+- Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
+- These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - black-knight-loss-details-provisional
+- conflict-causation-uncertain
 - conspiracy\_claims
 - contested\_archaeology
 - earth\_science\_claims\_unverified
 - eclipse-portal-claims-unverified
+- entertainment-disclaimer
 - ethical\_use\_limits
 - extraordinary-technology-claims
 - extraordinary\_archaeological\_claims
@@ -616,6 +657,7 @@ Source: [Osiris, Eye of Horus, Ancient Egyptian matters - Extraterrestrial Peopl
 - paranormal-claims-unverified
 - portal-mechanics-overlap-src-6abed4268d57
 - portal-technology-claims-unverified
+- post-eclipse-causal-attribution
 - related\_series\_part
 - secondhand-fleet-reports
 - speaker-shifts-Aneeka-Athena-Yazhi

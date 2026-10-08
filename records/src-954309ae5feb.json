@@ -1,0 +1,137 @@
+{
+  "source_id": "src-954309ae5feb",
+  "snapshot_sha256": "490b0b8354978321ccad9d9cf95b0366ba51a9f07c87d1160909686368bb2fe2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-954309ae5feb-c01",
+      "assertion": "Swaruu says she was born on Erra and reached Earth in October 2015.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-954309ae5feb-c02",
+      "assertion": "She says her people remember prior lives from birth, carrying knowledge forward.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-954309ae5feb-c03",
+      "assertion": "She shares personal views only; the Pleiades contains many distinct cultures.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-954309ae5feb-c04",
+      "assertion": "Years in high Earth orbit, 422 light-years from home, make contact spiritually demanding and unsustainable.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-954309ae5feb-c05",
+      "assertion": "Swaruu identifies 110-cm drones whose magnetic nuclear engines ionize air by overheating.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0031"
+      ],
+      "primary_topic": "nuclear-magnetic-engines",
+      "topics": [
+        "nuclear-magnetic-engines",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-954309ae5feb-c06",
+      "assertion": "She says technology must serve spirituality to prevent civilizational self-destruction.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-954309ae5feb-c07",
+      "assertion": "She says Taygetans use no money; her messages earn no payment.",
+      "speaker": "Swaruu de Erra",
+      "paragraph_ids": [
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "nuclear-magnetic-engines",
+      "name": "Nuclear-magnetic engines",
+      "kind": "technology",
+      "aliases": [
+        "magnetic nuclear engines"
+      ]
+    }
+  ],
+  "review_flags": [
+    "same-language-near-duplicate-src-735f991fe169",
+    "header-and-segmentation-variation"
+  ],
+  "coverage_gaps": [
+    "ship-identity",
+    "Taygetan-technology-details"
+  ]
+}

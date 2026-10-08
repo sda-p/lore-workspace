@@ -84,16 +84,26 @@ Source: [BLAST FROM THE PAST: Behind the Mission: Swaruu of Erra - Problems with
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-c1f323f128a9-c04
+
+Andromedans live aboard biosphere ships; Viera is Federation’s local headquarters.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0057, p0058. [Structured record](../../records/src-c1f323f128a9.json).
+
 ## Claims filed under other topics
 
 - [src-45558fcded2a-c01](galactic-federation.md#src-45558fcded2a-c01) — Galactic Federation
 - [src-45558fcded2a-c02](galactic-federation.md#src-45558fcded2a-c02) — Galactic Federation
 - [src-41d2f89260a5-c06](galactic-federation.md#src-41d2f89260a5-c06) — Galactic Federation
 - [src-fe82d1a07961-c02](galactic-federation.md#src-fe82d1a07961-c02) — Galactic Federation
+- [src-3ab615820cb8-c02](galactic-federation.md#src-3ab615820cb8-c02) — Galactic Federation
 
 ## Review flags
 
 - Federation-arguments\_reported
+- Species summaries are broad and based on accounts attributed to orbital sources
 - broad-exopolitical-allegations
 - forecast-in-retrospect
 - lunar-reactor-age-origin-uncertainty

@@ -186,8 +186,10 @@ Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (Engl
 
 ## Claims filed under other topics
 
+- [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation
 - [src-b0a69aaecc08-c01](stellar-navigation.md#src-b0a69aaecc08-c01) — Stellar navigation
 - [src-680909ec608a-c03](starship-systems.md#src-680909ec608a-c03) — Starship systems
+- [src-dc53d4326450-c01](taygetans.md#src-dc53d4326450-c01) — Taygetans
 
 ## Review flags
 
@@ -195,7 +197,9 @@ Source: [Taygeta Space News, 35, August 12, 2024, Good Bye Starship Toleka (Engl
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
 - fleet-status\_as-reported
+- identity-uncertainty
 - narrator\_claims
 - serious\_allegations\_attributed
 - succession-report\_attributed
 - succession-rules\_attributed
+- translation-equivalence-unverified

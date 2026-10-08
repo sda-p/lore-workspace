@@ -1,0 +1,90 @@
+{
+  "source_id": "src-5ebe6d00850b",
+  "snapshot_sha256": "2046e9e48e92b3235a0bc09d76f30f71b5da67a78a6bde9ec33d5cf5dfe0859f",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5ebe6d00850b-c01",
+      "assertion": "Athena says volcanoes vent planetary pressure and nearby earthquakes can raise magma pressure, contributing to eruptions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5ebe6d00850b-c02",
+      "assertion": "Athena describes Temmer as geologically stable, with no active volcanoes.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5ebe6d00850b-c03",
+      "assertion": "Athena suspects Popocatépetl’s eruption was triggered or enhanced artificially, citing shallow pressurized magma, surface electromagnetism, and explosives.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents circumstantial indicators, not confirmation."
+    },
+    {
+      "id": "src-5ebe6d00850b-c04",
+      "assertion": "Athena reports Reptilians were seen posing as military near evacuated villages by Popocatépetl.",
+      "speaker": "Swaruu X (Athena, relaying reports)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She says their origin is unknown."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "reptilians",
+      "name": "Reptilians",
+      "kind": "species",
+      "aliases": [
+        "lizard men"
+      ]
+    }
+  ],
+  "review_flags": [
+    "translation-equivalence-unverified"
+  ],
+  "coverage_gaps": [
+    "cabal-pressure-theory"
+  ]
+}

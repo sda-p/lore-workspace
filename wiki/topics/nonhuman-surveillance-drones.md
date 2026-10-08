@@ -86,12 +86,18 @@ Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
 
 Source: [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-past-anecdotes-life-on-the-ship-part-4) (2024-10-07; en); passages p0041, p0043, p0045, p0047, p0049, p0051. [Structured record](../../records/src-6825f8d595d8.json).
 
+## Claims filed under other topics
+
+- [src-270ba8d9da62-c03](frequency-map-navigation.md#src-270ba8d9da62-c03) — Frequency-map navigation
+
 ## Review flags
 
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - conspiracy\_claims
 - disaster-causation-unverified
+- entertainment-disclaimer
 - policy-claims-unverified
+- post-eclipse-causal-attribution
 - rescue-anecdotes-unverified
 - starlink-observation-scope-ambiguity
 - unverified-paranormal-claims

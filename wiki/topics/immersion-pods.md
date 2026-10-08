@@ -254,6 +254,16 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 50. Floods in Spain, Carrot, New Projects in Temmer (English)](https://swaruu.org/transcripts/space-news-50-floods-in-spain-carrot-new-projects-in-temmer-english) (2024-11-09; en); passages p0021. [Structured record](../../records/src-1f8d569d9e4f.json).
 
+### src-a37db4584b4c-c01
+
+Yazhi says an immersion pod can build an adult body in three months, but cannot mature the mind.
+
+Attributed to **Yazhi Swaruu, relaying Senetre**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Sophia Swaruu (Yazhi) - Issues with Age (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-sophia-swaruu-yazhi-issues-with-age-part-1) (2026-03-19; en); passages p0033, p0034, p0035. [Structured record](../../records/src-a37db4584b4c.json).
+
+Related topics: [Sophia Swaruu](sophia-swaruu.md).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c02](urmah.md#src-5e6c8ea2cb2c-c02) — Urmah

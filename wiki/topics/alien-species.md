@@ -2780,6 +2780,98 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfratans, Alcyone (English)](https://swaruu.org/transcripts/space-news-41-pleiadian-urmah-treaty-and-now-antaria-alcohol-and-alfratans-alcyone-english) (2024-09-07; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-620ccccce34a.json).
 
+### src-a37db4584b4c-c02
+
+Yazhi says she and the Taygetans are different species, so Taygetan behavior should not be expected of her.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Sophia Swaruu (Yazhi) - Issues with Age (PART 1)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-sophia-swaruu-yazhi-issues-with-age-part-1) (2026-03-19; en); passages p0062. [Structured record](../../records/src-a37db4584b4c.json).
+
+Related topics: [Taygetans](taygetans.md), [Sophia Swaruu](sophia-swaruu.md).
+
+### src-69ad8dca8c41-c01
+
+Swaruu’s reading suggests Gosia may be a 7D Ramyena from Rama.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST - "You are in a Taygetan Immersion" - Does Cosmic Identity Matter?](https://swaruu.org/transcripts/blast-from-the-past-you-are-in-a-taygetan-immersion-does-cosmic-identity-matter) (2025-11-19; en); passages p0008, p0009. [Structured record](../../records/src-69ad8dca8c41.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-3dfabad0c315-c05
+
+Gosia says extraterrestrial groups have conflicts; some manage Earth’s status quo while others want to help.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Life: How Would It Affect Humanity and You? - CLASS 010](https://swaruu.org/transcripts/extraterrestrial-life-how-would-it-affect-humanity-and-you-class-010) (2026-01-04; en); passages p0036, p0038. [Structured record](../../records/src-3dfabad0c315.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-7f611c295824-c02
+
+Swaruu says Taygetan bodies mature at 20 and then age slowly; she was 17. She gives ages in Earth-time reference.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu of Erra & Gosia – Private Conversation Before Public Contact (2018)](https://swaruu.org/transcripts/swaruu-of-erra-gosia-private-conversation-before-public-contact-2018) (2026-02-23; en); passages p0052, p0054, p0056. [Structured record](../../records/src-7f611c295824.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-d088ff3491c4-c02
+
+Anéeka describes fragile Sassani alloy figurines and Urmah armor among the cross-species collection.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Do Extraterrestrials Value the Past? Taygetan Pleiadian Museum](https://swaruu.org/transcripts/do-extraterrestrials-value-the-past-taygetan-pleiadian-museum) (2025-12-13; en); passages p0009, p0027, p0030. [Structured record](../../records/src-d088ff3491c4.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-d088ff3491c4-c05
+
+Objects come by direct collection, tractor beam, or gifts; Urmah give souvenirs, while Andromedans tend to hoard.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Do Extraterrestrials Value the Past? Taygetan Pleiadian Museum](https://swaruu.org/transcripts/do-extraterrestrials-value-the-past-taygetan-pleiadian-museum) (2025-12-13; en); passages p0037, p0038. [Structured record](../../records/src-d088ff3491c4.json).
+
+Related topics: [Urmah](urmah.md), [Andromeda Council](andromeda-council.md).
+
+### src-c1f323f128a9-c01
+
+The Pleiades has 11 main civilizations, not one uniform race.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0010, p0011. [Structured record](../../records/src-c1f323f128a9.json).
+
+### src-c3560b8010b9-c02
+
+Many stellar groups are benevolent; some remain passive toward Earth suffering.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) (2026-07-07; en); passages p0021, p0022, p0023, p0025. [Structured record](../../records/src-c3560b8010b9.json).
+
+### src-c3560b8010b9-c05
+
+Gosia says not all Reptilians or Greys are regressive.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) (2026-07-07; en); passages p0035, p0036. [Structured record](../../records/src-c3560b8010b9.json).
+
+### src-c3560b8010b9-c06
+
+Some Tall Whites are described as half-regressive and reportedly cooperate with Earth militaries.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) (2026-07-07; en); passages p0036. [Structured record](../../records/src-c3560b8010b9.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -2888,6 +2980,10 @@ Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfr
 - [src-cd1cd400e21c-c05](perceptual-density.md#src-cd1cd400e21c-c05) — Perceptual density
 - [src-3012390b7529-c02](extraterrestrial-stepdowns.md#src-3012390b7529-c02) — Extraterrestrial step-downs
 - [src-3012390b7529-c03](extraterrestrial-stepdowns.md#src-3012390b7529-c03) — Extraterrestrial step-downs
+- [src-5aee7ebba0c5-c05](nexus-souls.md#src-5aee7ebba0c5-c05) — Nexus souls
+- [src-45ef563e0d5a-c05](ancient-egypt.md#src-45ef563e0d5a-c05) — Ancient Egypt
+- [src-87bd832ea105-c04](ukraine.md#src-87bd832ea105-c04) — Ukraine
+- [src-5ebe6d00850b-c04](reptilians.md#src-5ebe6d00850b-c04) — Reptilians
 - [src-0e992795e982-c03](procyon.md#src-0e992795e982-c03) — Planet Procyon
 - [src-f28ef31d9222-c02](postmortem-realities.md#src-f28ef31d9222-c02) — Postmortem realities
 - [src-f28ef31d9222-c05](postmortem-realities.md#src-f28ef31d9222-c05) — Postmortem realities
@@ -2932,6 +3028,7 @@ Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfr
 - [src-a536d40b8707-c05](alfrata.md#src-a536d40b8707-c05) — Alfrata (Phaeton)
 - [src-42e3d8553c1f-c03](starship-systems.md#src-42e3d8553c1f-c03) — Starship systems
 - [src-1098d5d992f8-c04](moon-matrix.md#src-1098d5d992f8-c04) — Moon and terrestrial Matrix
+- [src-3dfabad0c315-c01](moon-matrix.md#src-3dfabad0c315-c01) — Moon and terrestrial Matrix
 
 ## Review flags
 
@@ -2945,10 +3042,14 @@ Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfr
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Higher-level free-will explanation is challenged by Gosia
+- Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Maitre\_relationship\_with\_Reptilians
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Proposed intervention remains conditional and internally qualified
+- Species summaries are broad and based on accounts attributed to orbital sources
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- The cloning and genetic-control statements are Swaruu’s claims.
+- These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - Weapon and defense capabilities are source-attributed technical claims
 - agency\_and\_noninterference
 - agenda\_term\_varies
@@ -2991,6 +3092,7 @@ Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfr
 - dog\_import\_exception\_is\_uncertain
 - earth-consciousness\_claim\_omitted
 - egregor-vs-species-levels
+- entertainment-disclaimer
 - extraordinary-contact-claims
 - extraordinary\_ai\_claims
 - extraordinary\_archaeological\_claims
@@ -3084,8 +3186,10 @@ Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfr
 - technology\_claims
 - terminology-tension: densities called concepts and frequency ranges
 - terrestrial-history-claims-unverified
+- translated-originally-Spanish
 - translated\_source
 - translation-equivalence-review
+- translation-equivalence-unverified
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025
 - translation\_approximation\_navajo\_inuit
 - ufo\_researcher\_critique
@@ -3105,5 +3209,6 @@ Source: [Space News 41, Pleiadian-Urmah Treaty and now Antaria, Alcohol and Alfr
 - viral-model-claims-attributed
 - virus-account-internal-tension
 - warrior\_symbolism
+- wartime-conspiracy-claims
 - weather\_claims
 - wreck-origin\_uncertain

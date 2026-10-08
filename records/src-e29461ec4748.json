@@ -1,0 +1,76 @@
+{
+  "source_id": "src-e29461ec4748",
+  "snapshot_sha256": "b2b44af4a26b19988616fdc416601c751189b0590f48492d5112ced0336922d3",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-e29461ec4748-c01",
+      "assertion": "Athena describes hyperspace as a frequency-state change: ship structure remains intact while its compatibility shifts from origin to destination.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says this is not propulsion through distance."
+    },
+    {
+      "id": "src-e29461ec4748-c02",
+      "assertion": "Athena says high-mass ships cannot shift frequency instantly; limited engine power relative to mass requires gradual jumps and creates perceived SIT delay.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0032",
+        "p0033",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Delay varies with each ship’s power-to-mass ratio."
+    },
+    {
+      "id": "src-e29461ec4748-c03",
+      "assertion": "Athena estimates Earth–Temmer travel at seven hours of SIT aboard Toleka versus 36 minutes aboard Suzy.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0038",
+        "p0039",
+        "p0042"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "toleka-class",
+        "suzy-fighter-craft"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The better power-to-mass ship makes larger frequency jumps."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-equivalence-unverified"
+  ],
+  "coverage_gaps": [
+    "frequency-model-details"
+  ]
+}

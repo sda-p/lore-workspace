@@ -86,11 +86,20 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Space News 11, Galactic Federation Update for January 17 2024 (English)](https://swaruu.org/transcripts/space-news-11-galactic-federation-update-for-january-17-2024-english) (2024-01-18; en); passages p0010, p0011, p0012. [Structured record](../../records/src-de6bce5d6310.json).
 
+### src-c1f323f128a9-c08
+
+Maitre are engineered hybrids whose low-frequency limits restrict where they live.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0110, p0111. [Structured record](../../records/src-c1f323f128a9.json).
+
 ## Claims filed under other topics
 
 - [src-72696c075fca-c04](galactic-federation.md#src-72696c075fca-c04) — Galactic Federation
 
 ## Review flags
 
+- Species summaries are broad and based on accounts attributed to orbital sources
 - reported arrival date conflicts with article chronology
 - source includes conflicting publication and event dates; claims retain stated dates

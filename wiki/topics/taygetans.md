@@ -1166,6 +1166,24 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Za'el and Arien, new friends in star ship Toleka](https://swaruu.org/transcripts/za-el-and-arien-new-friends-in-star-ship-toleka) (2023-03-01; en); passages p0003. [Structured record](../../records/src-3e47a84b5581.json).
 
+### src-7ced6b157e35-c05
+
+Cyndriel is Taygeta’s only long-term colony beyond M45, dating roughly 500,000 years. Dates are approximate references.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-no-video) (2021-11-21; en); passages p0071, p0074. [Structured record](../../records/src-7ced6b157e35.json).
+
+Related topics: [Cyndriel](cyndriel.md).
+
+### src-db310bb876f5-c02
+
+Taygeta once served as Federation’s military force; Alenym withdrew the fleet in 2018–19, leaving one representative ship.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Galactic Federation - Why didn´t Taygetans know before?](https://swaruu.org/transcripts/galactic-federation-why-didn-t-taygetans-know-before) (2023-07-01; en); passages p0014. [Structured record](../../records/src-db310bb876f5.json).
+
 ### src-0e992795e982-c01
 
 Mari says Procyon was first mapped by explorers from the Procyon star system, not Taygeta.
@@ -2026,6 +2044,94 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (English)](https://swaruu.org/transcripts/space-news-51-what-is-up-with-taygetans-my-youtube-channel-and-me-english) (2024-11-16; en); passages p0005, p0006, p0009. [Structured record](../../records/src-6313385e14d2.json).
 
+### src-1d29aea5b394-c02
+
+Athena says Engan military support is available to Taygeta if needed, while Urmah currently escort them and assistance is unnecessary.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Random Conversations with the Taygetan Pleiadians - Mini Topics](https://swaruu.org/transcripts/random-conversations-with-the-taygetan-pleiadians-mini-topics) (2025-12-21; en); passages p0014. [Structured record](../../records/src-1d29aea5b394.json).
+
+Related topics: [Urmah](urmah.md).
+
+### src-69ad8dca8c41-c05
+
+Swaruu identifies Gosia as part of Caroline’s ground team aboard the Alcyone-class Taygeta near Earth. Her reported prior knowledge changes.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST - "You are in a Taygetan Immersion" - Does Cosmic Identity Matter?](https://swaruu.org/transcripts/blast-from-the-past-you-are-in-a-taygetan-immersion-does-cosmic-identity-matter) (2025-11-19; en); passages p0114, p0116, p0118, p0120. [Structured record](../../records/src-69ad8dca8c41.json).
+
+Related topics: [Total-immersion simulations](total-immersion-simulations.md).
+
+### src-ac71d59738c3-c03
+
+Yazhi speculates Taygetan ships in orbit may deter threats, though their crew feel constrained.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Why Do I Continue? - Yazhi Swaruu](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-why-do-i-continue-yazhi-swaruu) (2026-04-07; en); passages p0030, p0032. [Structured record](../../records/src-ac71d59738c3.json).
+
+### src-ac71d59738c3-c05
+
+Yazhi says followers were hurt or killed in earlier campaigns and fears recruiting others into combat. She cites several past dates.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Why Do I Continue? - Yazhi Swaruu](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-why-do-i-continue-yazhi-swaruu) (2026-04-07; en); passages p0066, p0072, p0073. [Structured record](../../records/src-ac71d59738c3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-dc53d4326450-c01
+
+Gosia says contact became sporadic as Athena helped Mari take a Taygetan leadership role, the Toleka underwent maintenance, and the crew moved craft.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Taygetan Communication - Athena and Yazhi Gone for a Year - Where do I Stand?](https://swaruu.org/transcripts/taygetan-communication-athena-and-yazhi-gone-for-a-year-where-do-i-stand) (2025-12-26; en); passages p0003. [Structured record](../../records/src-dc53d4326450.json).
+
+Related topics: [Toleka-class starships](toleka-class.md).
+
+### src-dc53d4326450-c02
+
+Gosia says she severed ties with Taygetan CIC, which she describes as possibly partly or wholly Earth-run and manipulative.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Taygetan Communication - Athena and Yazhi Gone for a Year - Where do I Stand?](https://swaruu.org/transcripts/taygetan-communication-athena-and-yazhi-gone-for-a-year-where-do-i-stand) (2025-12-26; en); passages p0015, p0016, p0017. [Structured record](../../records/src-dc53d4326450.json).
+
+### src-d892a9e298b1-c01
+
+Athena says some crew wanted to stop human interaction because they considered its personal cost too high, not because it lacked value.
+
+Attributed to **Athena, reporting crew members**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Gosia´s Private Message to the Taygetans (2022)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-gosia-s-private-message-to-the-taygetans-2022) (2026-03-31; en); passages p0031. [Structured record](../../records/src-d892a9e298b1.json).
+
+### src-d892a9e298b1-c02
+
+Athena says advanced technology did not eliminate risks near Earth, though the crew could return home and chose not to.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Gosia´s Private Message to the Taygetans (2022)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-gosia-s-private-message-to-the-taygetans-2022) (2026-03-31; en); passages p0034, p0035. [Structured record](../../records/src-d892a9e298b1.json).
+
+### src-d892a9e298b1-c04
+
+Athena described Aneeka’s condition as systemic, affecting her whole body rather than only her eye.
+
+Attributed to **Athena**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Gosia´s Private Message to the Taygetans (2022)](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-gosia-s-private-message-to-the-taygetans-2022) (2026-03-31; en); passages p0017, p0018. [Structured record](../../records/src-d892a9e298b1.json).
+
+### src-c1f323f128a9-c02
+
+Taygetans occupy four planets and belong to the Federation through Alcyone.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0013, p0016. [Structured record](../../records/src-c1f323f128a9.json).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -2076,6 +2182,9 @@ Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (
 - [src-3182af03be61-c02](taygetan-wireless-power-grid.md#src-3182af03be61-c02) — Taygetan wireless power grid
 - [src-cd1cd400e21c-c04](terrestrial-science.md#src-cd1cd400e21c-c04) — Terrestrial science
 - [src-3e47a84b5581-c02](starship-systems.md#src-3e47a84b5581-c02) — Starship systems
+- [src-7ced6b157e35-c06](cyndriel.md#src-7ced6b157e35-c06) — Cyndriel
+- [src-331f8bef4748-c02](galactic-federation.md#src-331f8bef4748-c02) — Galactic Federation
+- [src-331f8bef4748-c03](galactic-federation.md#src-331f8bef4748-c03) — Galactic Federation
 - [src-5e6c8ea2cb2c-c04](urmah.md#src-5e6c8ea2cb2c-c04) — Urmah
 - [src-07494ef21f67-c01](ship-internal-time.md#src-07494ef21f67-c01) — Ship internal time
 - [src-8ca54257f6a4-c01](cyndriel.md#src-8ca54257f6a4-c01) — Cyndriel
@@ -2196,6 +2305,15 @@ Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (
 - [src-562516284299-c01](starship-systems.md#src-562516284299-c01) — Starship systems
 - [src-562516284299-c02](starship-systems.md#src-562516284299-c02) — Starship systems
 - [src-562516284299-c05](starship-systems.md#src-562516284299-c05) — Starship systems
+- [src-a37db4584b4c-c02](alien-species.md#src-a37db4584b4c-c02) — Alien species and distinctions
+- [src-1d29aea5b394-c01](alcyone-council.md#src-1d29aea5b394-c01) — Alcyone Council
+- [src-69ad8dca8c41-c02](alcyone-council.md#src-69ad8dca8c41-c02) — Alcyone Council
+- [src-7f611c295824-c02](alien-species.md#src-7f611c295824-c02) — Alien species and distinctions
+- [src-110eac9645cb-c01](galactic-federation.md#src-110eac9645cb-c01) — Galactic Federation
+- [src-110eac9645cb-c02](starship-systems.md#src-110eac9645cb-c02) — Starship systems
+- [src-110eac9645cb-c03](economics.md#src-110eac9645cb-c03) — Economics and resources
+- [src-dc53d4326450-c03](consciousness-metaphysics.md#src-dc53d4326450-c03) — Consciousness and metaphysics
+- [src-d892a9e298b1-c03](natural-portals.md#src-d892a9e298b1-c03) — Natural and artificial portals
 
 ## Review flags
 
@@ -2204,19 +2322,26 @@ Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
+- Cyndriel time-difference mechanism remains unknown.
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
+- Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Maitre\_relationship\_with\_Reptilians
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - Senetre-diagnosed-weapon-route-suspected
+- Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
+- Species summaries are broad and based on accounts attributed to orbital sources
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
+- The cloning and genetic-control statements are Swaruu’s claims.
+- The discussion presents competing views on whether nonhuman influence counts as invasion.
 - afterlife\_model
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - attack-theory\_speculative
 - attribution-care: source claims about sexuality are speaker-specific
 - attribution\_scope
 - blockade-and-biology-attributed
+- conflict-causation-uncertain
 - conflicting\_origin\_accounts
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
@@ -2267,6 +2392,8 @@ Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (
 - historical-conspiracy-claims
 - historical\_account\_unverified
 - identity-claims-unverified
+- identity-of-hidden-faction-unknown
+- identity-uncertainty
 - incomplete-investigation
 - intercultural-claims
 - logo\_identity\_claim\_unverified

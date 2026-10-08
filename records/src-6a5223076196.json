@@ -1,0 +1,102 @@
+{
+  "source_id": "src-6a5223076196",
+  "snapshot_sha256": "a14b4d5e9f4fa1c856a1ec0d0bc2666e259623d80290f2cd2bc57f94b48564b8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6a5223076196-c01",
+      "assertion": "Taygetans use coded Tau/anti-Tau muons for near-instant interstellar communication, including while ships travel supraluminally.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a5223076196-c02",
+      "assertion": "Short-range ships use gravity manipulation or plasma jets; interstellar travel uses total-immersion toroidal electromagnetic plasma-jet mode.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6a5223076196-c03",
+      "assertion": "For supraluminal navigation, unique location frequencies in Dz replace XYZ maps; more decimals identify finer locations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0032",
+        "p0037",
+        "p0038",
+        "p0040",
+        "p0041",
+        "p0042",
+        "p0047",
+        "p0048",
+        "p0049",
+        "p0050",
+        "p0051"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Dz units use shipboard time."
+    },
+    {
+      "id": "src-6a5223076196-c04",
+      "assertion": "FTL navigation specifies where (Bil’h), when (Na’al), and approach direction (Ho’dee’zá); it enables time travel and requires advanced spiritual and ethical development.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0070",
+        "p0071",
+        "p0072",
+        "p0073",
+        "p0075",
+        "p0076",
+        "p0077",
+        "p0078",
+        "p0079",
+        "p0080"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "temporal-skipping"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The author says crews can alter timelines and must respect non-intervention."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "numerical-navigation-examples"
+  ]
+}

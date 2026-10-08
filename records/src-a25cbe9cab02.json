@@ -1,0 +1,79 @@
+{
+  "source_id": "src-a25cbe9cab02",
+  "snapshot_sha256": "1b04ead71fcc590405851e8d5bd0c28be323b2a7502ae2d2284bccce6f6864f3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a25cbe9cab02-c01",
+      "assertion": "Swaruu says fear protects the ego; shadow work examines and faces fears, integrating them and supporting spiritual expansion.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0008",
+        "p0009",
+        "p0021",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical framework."
+    },
+    {
+      "id": "src-a25cbe9cab02-c02",
+      "assertion": "She says collective attention can manifest viruses as egregors; fear concentrates attention on them and sustains them.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0073",
+        "p0075",
+        "p0079",
+        "p0082",
+        "p0093"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attribution preserves her account."
+    },
+    {
+      "id": "src-a25cbe9cab02-c03",
+      "assertion": "Swaruu claims viruses revert to original patterns and says a Chinese bioweapon later became a cold; she describes viruses as host-dependent.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0035",
+        "p0037",
+        "p0077",
+        "p0078",
+        "p0096",
+        "p0099",
+        "p0100",
+        "p0103"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "vaccine-inoculation-claims"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are the speaker’s claims."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "attributed-virus-and-vaccine-claims",
+    "collective-egregor-metaphysics"
+  ],
+  "coverage_gaps": [
+    "distinctions-between-caution-and-fear",
+    "death-and-integration"
+  ]
+}

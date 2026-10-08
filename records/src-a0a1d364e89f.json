@@ -1,0 +1,110 @@
+{
+  "source_id": "src-a0a1d364e89f",
+  "snapshot_sha256": "220d4886eef00439e3e6e00df62c950831895730af617831eb1f04410a7a0e1e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a0a1d364e89f-c01",
+      "assertion": "Swaruu places Taygetans on Erra and Temmer around Taygeta in the Pleiades; nearly 18,000 serve aboard several ships.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0a1d364e89f-c02",
+      "assertion": "The blockade prevents unauthorized Earth traffic and trafficking, enforced by Taygetans, Alfratans, and Antarians.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0a1d364e89f-c03",
+      "assertion": "She identifies 19 Alfratan L-class Black Knights in low orbit, watching for Cabal, Reptilian, or other hostile ships.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0029"
+      ],
+      "primary_topic": "centauri-l-class-fighters",
+      "topics": [
+        "centauri-l-class-fighters",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0a1d364e89f-c04",
+      "assertion": "Swaruu says Van Allen belts mark Earth’s 3D boundary; everything outside Earth is 5D.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0a1d364e89f-c05",
+      "assertion": "Full-immersion technology is computerized virtual reality allowing nonhumans to appear and function as humans for missions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "centauri-l-class-fighters",
+      "name": "Centauri L-class fighters",
+      "kind": "technology",
+      "aliases": [
+        "Black Knight satellites",
+        "Black Knights",
+        "Caballeros Negros"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified."
+  ],
+  "coverage_gaps": [
+    "ship-class-tasks",
+    "Taygetan-physiology",
+    "Taygetan-language"
+  ]
+}

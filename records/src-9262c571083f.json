@@ -1,0 +1,149 @@
+{
+  "source_id": "src-9262c571083f",
+  "snapshot_sha256": "eacb8a528b2dfe1a6e9095c9435b670b3005b61145f6ee7ca8798a3de54faa86",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9262c571083f-c01",
+      "assertion": "Entrants choose bounded scripts, but can take manual control.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9262c571083f-c02",
+      "assertion": "Suffering signals misalignment and may spur growth, but is avoidable.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9262c571083f-c03",
+      "assertion": "Focus shapes experience; negative forces hacked the Matrix to obscure this.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0024"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9262c571083f-c04",
+      "assertion": "Trauma recurs across lives; self-forgiveness may release karmic cycles.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0050",
+        "p0052",
+        "p0056",
+        "p0062",
+        "p0064"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9262c571083f-c05",
+      "assertion": "Most sufferers are programs; extreme atrocities are Matrix events.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0060"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9262c571083f-c06",
+      "assertion": "Taygetans suffer too; density alone does not govern consciousness control.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0072",
+        "p0074",
+        "p0076"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9262c571083f-c07",
+      "assertion": "Aging and incomplete DNA worsen 3D pain; 5D pain is milder.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0082",
+        "p0084"
+      ],
+      "primary_topic": "lyrian-cellular-body",
+      "topics": [
+        "lyrian-cellular-body"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9262c571083f-c08",
+      "assertion": "Human-body origins predate Vega; million-year war erased records.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0092"
+      ],
+      "primary_topic": "lyrian-cellular-body",
+      "topics": [
+        "lyrian-cellular-body"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "counterfactual-metaphysics",
+    "extreme-atrocities-claim"
+  ],
+  "coverage_gaps": [
+    "incarnation-script-details",
+    "body-design-origin"
+  ]
+}

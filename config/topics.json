@@ -1007,5 +1007,96 @@
     "aliases": [
       "molecular frequency microscope"
     ]
+  },
+  {
+    "id": "aircraft-mimicry",
+    "name": "Aircraft Mimicry",
+    "kind": "technology",
+    "aliases": [
+      "aircraft-shaped spacecraft",
+      "aircraft disguise"
+    ]
+  },
+  {
+    "id": "starseeds",
+    "name": "Starseeds",
+    "kind": "metaphysical population",
+    "aliases": []
+  },
+  {
+    "id": "lurkers",
+    "name": "Lurkers",
+    "kind": "species",
+    "aliases": [
+      "insectoid lurkers"
+    ]
+  },
+  {
+    "id": "interdimensional-parasites",
+    "name": "Interdimensional parasites",
+    "kind": "species",
+    "aliases": [
+      "energetic larvae"
+    ]
+  },
+  {
+    "id": "tulpas",
+    "name": "Tulpas",
+    "kind": "cosmology",
+    "aliases": [
+      "thought-formed entities"
+    ]
+  },
+  {
+    "id": "ukraine",
+    "name": "Ukraine",
+    "kind": "location",
+    "aliases": [
+      "Ukraine"
+    ]
+  },
+  {
+    "id": "deep-underground-military-bases",
+    "name": "Deep underground military bases",
+    "kind": "infrastructure",
+    "aliases": [
+      "DUMB",
+      "DUMBs"
+    ]
+  },
+  {
+    "id": "matrix-generated-persons",
+    "name": "Matrix-generated persons",
+    "kind": "metaphysical population",
+    "aliases": [
+      "non-real people"
+    ]
+  },
+  {
+    "id": "reptilians",
+    "name": "Reptilians",
+    "kind": "species",
+    "aliases": [
+      "lizard men"
+    ]
+  },
+  {
+    "id": "bigfoot-sasquatch",
+    "name": "Bigfoot, Sasquatch and Yeti",
+    "kind": "species",
+    "aliases": [
+      "Bigfoot",
+      "Sasquatch",
+      "Yeti",
+      "Menk"
+    ]
+  },
+  {
+    "id": "dyatlov-pass-incident",
+    "name": "Dyatlov Pass Incident",
+    "kind": "historical event",
+    "aliases": [
+      "Dyatlov Pass"
+    ]
   }
 ]

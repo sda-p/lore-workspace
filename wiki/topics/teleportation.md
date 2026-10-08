@@ -8,6 +8,14 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
+### src-84449ec7c771-c01
+
+Mind-only teleportation drains energy and carries only what Yazhi can physically hold.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Sophia Swaruu (Yazhi) - Recent Conversations (PART 3)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-recent-conversations-part-3) (2024-09-09; en); passages p0025, p0027. [Structured record](../../records/src-84449ec7c771.json).
+
 ### src-6825f8d595d8-c01
 
 Yazhi says she teleports a few meters to her bathroom to avoid waking fully.
@@ -18,4 +26,5 @@ Source: [Sophia Swaruu (Yazhi) - Past Anecdotes - Life on the Ship (PART 4)](htt
 
 ## Review flags
 
+- Abilities, body control, and density model are Yazhi’s self-reports
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy

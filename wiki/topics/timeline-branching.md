@@ -8,6 +8,56 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
+### src-5aee7ebba0c5-c06
+
+Dreams connect parallel selves, whose experiences and values influence each other.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Akashic Records, Part 2](https://swaruu.org/transcripts/akashic-records-part-2) (2024-04-22; en); passages p0024, p0025. [Structured record](../../records/src-5aee7ebba0c5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-84449ec7c771-c03
+
+Yazhi stopped moving food between timelines after leaving others with empty pantries.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Sophia Swaruu (Yazhi) - Recent Conversations (PART 3)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-recent-conversations-part-3) (2024-09-09; en); passages p0085, p0087. [Structured record](../../records/src-84449ec7c771.json).
+
+### src-14eefc81eb26-c03
+
+Athena says apparent future memories can map events still to come.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Soulmates changing among their Variants? Soul Loops - Athena Swaruu](https://swaruu.org/transcripts/soulmates-changing-among-their-variants-soul-loops-athena-swaruu) (2023-05-10; en); passages p0037, p0039. [Structured record](../../records/src-14eefc81eb26.json).
+
+### src-14eefc81eb26-c04
+
+She says attachment sustains reincarnation loops; releasing attachments dissolves them.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Soulmates changing among their Variants? Soul Loops - Athena Swaruu](https://swaruu.org/transcripts/soulmates-changing-among-their-variants-soul-loops-athena-swaruu) (2023-05-10; en); passages p0041, p0043, p0046, p0048. [Structured record](../../records/src-14eefc81eb26.json).
+
+### src-a656b1fed73d-c01
+
+Earth’s war is informational; divergent perceptions fracture shared timelines.
+
+Attributed to **Swaruu**; asserted; extraction confidence: medium.
+
+Source: [FOCUS: NOW OR NEVER (Swaruu D´Jedi - Taygeta, Pleiades)](https://swaruu.org/transcripts/focus-now-or-never-swaruu-d-jedi-taygeta-pleiades) (2020-03-29; en); passages p0002, p0003, p0005, p0009, p0012, p0014. [Structured record](../../records/src-a656b1fed73d.json).
+
+### src-a656b1fed73d-c02
+
+Swaruu lists outcomes—control, debt reset, prosperity—plus separate alien intervention.
+
+Attributed to **Swaruu**; speculative; extraction confidence: medium.
+
+Source: [FOCUS: NOW OR NEVER (Swaruu D´Jedi - Taygeta, Pleiades)](https://swaruu.org/transcripts/focus-now-or-never-swaruu-d-jedi-taygeta-pleiades) (2020-03-29; en); passages p0015, p0016, p0024, p0029, p0034, p0038. [Structured record](../../records/src-a656b1fed73d.json).
+
 ### src-0a76aae844b1-c05
 
 Mari says imperfect maps and observation create alternate timelines on each jump, preventing fixed paradoxes.
@@ -122,6 +172,14 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu (2021)](https://swaruu.org/transcripts/tulpas-everything-is-a-tulpa-metaphysical-chat-with-yazhi-swaruu-2021) (2024-10-11; en); passages p0015, p0016, p0017, p0023, p0025. [Structured record](../../records/src-f8cf4e785330.json).
 
+### src-cdc00e8b66c4-c02
+
+Anéeka says crop circles began as ship-to-ship position or timeline markers and now signal humans.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-cdc00e8b66c4.json).
+
 ## Claims filed under other topics
 
 - [src-4d14ae46991f-c04](consciousness-metaphysics.md#src-4d14ae46991f-c04) — Consciousness and metaphysics
@@ -139,11 +197,16 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 
 ## Review flags
 
+- Abilities, body control, and density model are Yazhi’s self-reports
+- Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
+- Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
+- Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - attribution\_scope
 - author-personal-philosophical-analysis
 - conspiracy-claims
+- entertainment-disclaimer
 - historical-conspiracy-claims
 - incomplete-investigation
 - metaphysical-claims\_attributed

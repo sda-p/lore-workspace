@@ -1,0 +1,69 @@
+{
+  "source_id": "src-42e6137b02bd",
+  "snapshot_sha256": "36cdc658b29bca338ec1ac56cfa4d1ff069e0fa99080439f625d775d49afba59",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-42e6137b02bd-c01",
+      "assertion": "Swaruu (9) interprets Jesus as the Sun and his twelve disciples as zodiac signs, reading the cross as zodiacal symbolism.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her interpretation of Christian symbolism."
+    },
+    {
+      "id": "src-42e6137b02bd-c02",
+      "assertion": "She interprets the winter-solstice story as the Sun's symbolic death, three-day obscurity, and rebirth around December 24–25.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0020"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She clarifies that the Sun still rises during these days."
+    },
+    {
+      "id": "src-42e6137b02bd-c03",
+      "assertion": "Swaruu alleges the Gospels are astrotheological rather than biographical and that Josephus's scribes under Vespasian compiled and altered canonical and apocryphal texts.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0035",
+        "p0063",
+        "p0065",
+        "p0067"
+      ],
+      "primary_topic": "astrotheology",
+      "topics": [
+        "astrotheology",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed historical claims; Constantine is separately credited with official compilation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "disputed-scriptural-history",
+    "internal_tension"
+  ],
+  "coverage_gaps": [
+    "cross-adoption-history",
+    "named-figures-and-masonic-links"
+  ]
+}

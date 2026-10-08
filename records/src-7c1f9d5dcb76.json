@@ -1,0 +1,69 @@
+{
+  "source_id": "src-7c1f9d5dcb76",
+  "snapshot_sha256": "d660225cd575c4aed9c029c555668bb36c84d3b064dc3efcf8be989be148f2e2",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-7c1f9d5dcb76-c01",
+      "assertion": "Mari says controllers amplify isolated crises through coordinated media narratives but do not seek global destruction.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says isolated conflicts serve their interests."
+    },
+    {
+      "id": "src-7c1f9d5dcb76-c02",
+      "assertion": "Mari says the Galactic Federation controls Earth and would prevent total destruction, including nuclear catastrophe.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She distinguishes Tiamat’s earlier destruction as a different case."
+    },
+    {
+      "id": "src-7c1f9d5dcb76-c03",
+      "assertion": "Mari describes Earth as a school where Federation permits hardship and people shape personal outcomes through consciousness and manifestation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She gives individual and collective manifestation roles."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "earth-control-claim-attributed"
+  ],
+  "coverage_gaps": [
+    "global-conflict-mechanism"
+  ]
+}

@@ -259,6 +259,8 @@ Related topics: [Black holes](black-holes.md).
 - [src-c0c392776fd0-c01](moon-matrix.md#src-c0c392776fd0-c01) — Moon and terrestrial Matrix
 - [src-4667fff63537-c01](alien-species.md#src-4667fff63537-c01) — Alien species and distinctions
 - [src-691d121eef5a-c01](moon-matrix.md#src-691d121eef5a-c01) — Moon and terrestrial Matrix
+- [src-45ef563e0d5a-c01](ancient-egypt.md#src-45ef563e0d5a-c01) — Ancient Egypt
+- [src-7c1f9d5dcb76-c02](galactic-federation.md#src-7c1f9d5dcb76-c02) — Galactic Federation
 - [src-6ce55fb86338-c05](temporal-skipping.md#src-6ce55fb86338-c05) — Temporal skipping
 
 ## Review flags
@@ -267,6 +269,7 @@ Related topics: [Black holes](black-holes.md).
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - approximate\_dates
+- earth-control-claim-attributed
 - earth\_science\_claims\_unverified
 - extraordinary\_astronomical\_claims
 - extraordinary\_history\_claims
@@ -281,6 +284,7 @@ Related topics: [Black holes](black-holes.md).
 - related\_series\_part
 - speaker-label-ambiguity
 - translated-from-spanish
+- translated-originally-Spanish
 - translated\_source
 - translation-equivalence-review
 - unproven-historical-speculation

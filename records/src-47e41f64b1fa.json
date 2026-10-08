@@ -1,0 +1,71 @@
+{
+  "source_id": "src-47e41f64b1fa",
+  "snapshot_sha256": "0891a54254754c3424bf0eef29d2eb8c3f05dbc0facc6f4e4a2010b4458e4be2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-47e41f64b1fa-c01",
+      "assertion": "Swaruu (9) says portals form when changing gravitational-frequency harmonics briefly make two locations equivalent; the opening lasts only while that pattern holds.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-47e41f64b1fa-c02",
+      "assertion": "She says natural portals range from tiny, frequent bubbles to larger passages; many recur predictably at energetic nodes, and eclipses can trigger them.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0016",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says many, but not all, are predictable."
+    },
+    {
+      "id": "src-47e41f64b1fa-c03",
+      "assertion": "Swaruu says passage can lead to compatible places or times, with return possible while a portal remains open; spacefarers favor supraluminal flight to avoid portals.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0038",
+        "p0040",
+        "p0043"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Destinations depend on frequency compatibility."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "artificial-portal-construction",
+    "named-terrestrial-nodes"
+  ]
+}

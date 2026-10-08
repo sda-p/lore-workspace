@@ -384,6 +384,16 @@ Source: [Money and the Galactic Federation. (English)](https://swaruu.org/transc
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-45ef563e0d5a-c03
+
+Dhor says the Prime Directive exempted interstellar Egypt but governs contact with non-interstellar Earth.
+
+Attributed to **Dhor Káal'el**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (1) - Extraterrestrials among Humans](https://swaruu.org/transcripts/ancient-egypt-1-extraterrestrials-among-humans) (2025-01-17; en); passages p0015, p0016. [Structured record](../../records/src-45ef563e0d5a.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
 ### src-07331ba24627-c03
 
 Mari says Federation rules prohibit her from using her real voice in videos.
@@ -552,6 +562,7 @@ Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politi
 - social-media-project\_details\_speculative
 - time\_travel\_risks
 - translated-from-Spanish-original-not-available
+- translated-originally-Spanish
 - unverified-encounter
 - unverified\_extraterrestrial\_claims
 - unverified\_geopolitical\_claims

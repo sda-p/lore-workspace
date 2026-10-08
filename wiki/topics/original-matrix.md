@@ -146,6 +146,42 @@ Source: [Formation of a Matrix (English)](https://swaruu.org/transcripts/formati
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-5aee7ebba0c5-c02
+
+Each existential realm has collective unconscious or Records formed by shared ideas and frequencies.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Akashic Records, Part 2](https://swaruu.org/transcripts/akashic-records-part-2) (2024-04-22; en); passages p0007, p0008, p0009. [Structured record](../../records/src-5aee7ebba0c5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Perceptual density](perceptual-density.md).
+
+### src-71526671dc28-c04
+
+Yazhi says terrestrial and offworld Matrices overlap as one system; Gosia instead describes Earth’s added digital-manipulation layer.
+
+Attributed to **Yazhi Swaruu; Gosia**; reported; extraction confidence: high.
+
+Source: [Unreal People becoming all Real? Yazhi Swaruu shares her opinion](https://swaruu.org/transcripts/unreal-people-becoming-all-real-yazhi-swaruu-shares-her-opinion) (2022-12-30; en); passages p0019, p0021, p0023, p0024, p0025. [Structured record](../../records/src-71526671dc28.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-c1b972dbf490-c02
+
+Earth’s souls collectively manifest its Matrix; each person’s frequency shapes personal experience.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [Positive Twist, Part One, Galactic Federation Part 5](https://swaruu.org/transcripts/positive-twist-part-one-galactic-federation-part-5) (2023-03-28; en); passages p0009, p0010, p0011. [Structured record](../../records/src-c1b972dbf490.json).
+
+### src-db310bb876f5-c04
+
+Yazhi says such propaganda may be unintentional; Earth’s collective mind regenerates its apparent oppressors.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Galactic Federation - Why didn´t Taygetans know before?](https://swaruu.org/transcripts/galactic-federation-why-didn-t-taygetans-know-before) (2023-07-01; en); passages p0023, p0025, p0027. [Structured record](../../records/src-db310bb876f5.json).
+
 ### src-8609c7064ec9-c03
 
 Mari describes closed systems as limiting perception to their internal boundaries.
@@ -268,6 +304,7 @@ Related topics: [Dimensional mirroring](dimensional-mirroring.md).
 - [src-d8abcaa43fd8-c05](consciousness-metaphysics.md#src-d8abcaa43fd8-c05) — Consciousness and metaphysics
 - [src-6d89e231f729-c05](moon-matrix.md#src-6d89e231f729-c05) — Moon and terrestrial Matrix
 - [src-b539e2dbbcd5-c01](consciousness-metaphysics.md#src-b539e2dbbcd5-c01) — Consciousness and metaphysics
+- [src-71526671dc28-c02](matrix-generated-persons.md#src-71526671dc28-c02) — Matrix-generated persons
 - [src-af7fe8f320b2-c04](immersion-pods.md#src-af7fe8f320b2-c04) — Immersion pods
 - [src-b2a05f16c59d-c05](galactic-federation.md#src-b2a05f16c59d-c05) — Galactic Federation
 - [src-612967b691f8-c01](perceptual-density.md#src-612967b691f8-c01) — Perceptual density
@@ -275,10 +312,14 @@ Related topics: [Dimensional mirroring](dimensional-mirroring.md).
 
 ## Review flags
 
+- Claims describe Mari’s spiritual model of the Federation and reincarnation
+- Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
 - agency\_and\_noninterference
 - conspiracy\_claims
+- entertainment-disclaimer
 - federation-authority-critique
 - historical-uncertainty
+- matrix-scope-differing-views
 - matrix\_layers
 - medical-misinformation-allegation
 - metaphysical-model
@@ -288,6 +329,7 @@ Related topics: [Dimensional mirroring](dimensional-mirroring.md).
 - personal\_metaphysics
 - speaker-perspective-model
 - speaker-shift-in-source
+- translated-originally-Spanish
 - unverified\_historical\_claims
 - unverified\_physics\_claims
 - unverified\_technology\_claims

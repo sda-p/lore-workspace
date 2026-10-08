@@ -334,6 +334,46 @@ Source: [Taygetan Star Ship private rooms and Toilets](https://swaruu.org/transc
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-5faa731bafee-c03
+
+Swaruu portrays the Sun as relaying galactic-center positronic energy through solar wind and says its output is harmless.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Global Warming, Climate Change, Greta Thumberg? Swaruu (Taygeta-Pleiades) Responds](https://swaruu.org/transcripts/global-warming-climate-change-greta-thumberg-swaruu-taygeta-pleiades-responds) (2019-10-15; en); passages p0063, p0064, p0065, p0066, p0067. [Structured record](../../records/src-5faa731bafee.json).
+
+### src-c4d11e2bcd3f-c01
+
+Yazhi says weapons called nuclear on Earth use undisclosed energy methods, not the described fission mechanism.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Nuclear Bombs - Energy Bombs - Part 2 - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/nuclear-bombs-energy-bombs-part-2-yazhi-swaruu-sophia) (2022-11-29; en); passages p0007, p0009, p0015. [Structured record](../../records/src-c4d11e2bcd3f.json).
+
+### src-c4d11e2bcd3f-c02
+
+She accepts nuclear heat generation and radioactive decay, but questions bomb chain reactions.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Nuclear Bombs - Energy Bombs - Part 2 - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/nuclear-bombs-energy-bombs-part-2-yazhi-swaruu-sophia) (2022-11-29; en); passages p0025, p0026, p0027. [Structured record](../../records/src-c4d11e2bcd3f.json).
+
+### src-c4d11e2bcd3f-c03
+
+Yazhi proposes some blasts are zero-point/plasma expansions; she says their images may be staged.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [Nuclear Bombs - Energy Bombs - Part 2 - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/nuclear-bombs-energy-bombs-part-2-yazhi-swaruu-sophia) (2022-11-29; en); passages p0042, p0043, p0044. [Structured record](../../records/src-c4d11e2bcd3f.json).
+
+### src-c4d11e2bcd3f-c05
+
+A later passage describes uranium compression triggering a chain reaction, conflicting with her earlier critique.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Nuclear Bombs - Energy Bombs - Part 2 - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/nuclear-bombs-energy-bombs-part-2-yazhi-swaruu-sophia) (2022-11-29; en); passages p0008, p0032. [Structured record](../../records/src-c4d11e2bcd3f.json).
+
 ### src-3c7459286bbe-c05
 
 Yazhi says advanced replicators can form matter from ether, while some remain incomplete.
@@ -486,6 +526,8 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - [src-ac1ba0859491-c03](moon-biosphere-ship.md#src-ac1ba0859491-c03) — The Moon as a biosphere ship
 - [src-ac1ba0859491-c04](moon-biosphere-ship.md#src-ac1ba0859491-c04) — The Moon as a biosphere ship
 - [src-3182af03be61-c02](taygetan-wireless-power-grid.md#src-3182af03be61-c02) — Taygetan wireless power grid
+- [src-45ef563e0d5a-c02](ancient-egypt.md#src-45ef563e0d5a-c02) — Ancient Egypt
+- [src-87bd832ea105-c04](ukraine.md#src-87bd832ea105-c04) — Ukraine
 - [src-b781192c3a3d-c03](starship-systems.md#src-b781192c3a3d-c03) — Starship systems
 - [src-28ddf6479cea-c01](gravity-harmonics.md#src-28ddf6479cea-c01) — Gravity harmonics
 - [src-28ddf6479cea-c03](starship-systems.md#src-28ddf6479cea-c03) — Starship systems
@@ -499,12 +541,15 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 
 ## Review flags
 
+- Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - alternative-weapons-claims
+- climate-claims
 - conflicting\_primary\_purpose\_claims
 - conspiracy\_claims
 - contested\_archaeology
 - earth\_science\_claims\_unverified
+- entertainment-disclaimer
 - extraordinary\_astronomical\_claims
 - extraordinary\_civilization\_claims
 - extraordinary\_economic\_claims
@@ -530,6 +575,7 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - species-description\_attributed
 - starlink-observation-scope-ambiguity
 - technology\_claims
+- translated-originally-Spanish
 - transport\_safety\_and\_policy\_claims\_unverified
 - unverified\_ancient\_technology\_claims
 - unverified\_biological\_claims
@@ -539,3 +585,4 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - unverified\_lunar\_claims
 - unverified\_lunar\_technology
 - unverified\_technical\_claims
+- wartime-conspiracy-claims

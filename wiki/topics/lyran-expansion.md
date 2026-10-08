@@ -100,6 +100,22 @@ Source: [Origins of the Lyran / Human race (English)](https://swaruu.org/transcr
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-c4d11e2bcd3f-c06
+
+Yazhi says starseeds always entered Earth, not only after Hiroshima-era tests.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Nuclear Bombs - Energy Bombs - Part 2 - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/nuclear-bombs-energy-bombs-part-2-yazhi-swaruu-sophia) (2022-11-29; en); passages p0016, p0017, p0020. [Structured record](../../records/src-c4d11e2bcd3f.json).
+
+### src-127ebef75460-c04
+
+She says some awakened starseeds remember offworld lives while living in human bodies.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [24 CHROMOSOMES - SUPER POWERS - STARSEEDS \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/24-chromosomes-super-powers-starseeds-no-video) (2020-10-09; en); passages p0009, p0010, p0011. [Structured record](../../records/src-127ebef75460.json).
+
 ### src-42ef2a1bb92f-c01
 
 Mari says Federation accounts disagree whether humanlike Lyrians originated in Lyra or Triangulum.
@@ -128,18 +144,23 @@ Related topics: [Orion Wars](orion-wars.md).
 - [src-78f6779f9011-c01](taygetans.md#src-78f6779f9011-c01) — Taygetans
 - [src-4c18957bd2f2-c04](taygetans.md#src-4c18957bd2f2-c04) — Taygetans
 - [src-caf9efbd11f1-c04](alien-species.md#src-caf9efbd11f1-c04) — Alien species and distinctions
+- [src-45ef563e0d5a-c01](ancient-egypt.md#src-45ef563e0d5a-c01) — Ancient Egypt
 - [src-fe82d1a07961-c01](galactic-federation.md#src-fe82d1a07961-c01) — Galactic Federation
+- [src-3ab615820cb8-c01](galactic-federation.md#src-3ab615820cb8-c01) — Galactic Federation
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
+- Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
 - Federation-as-controller claim conflicts with mentor framing within transcript
+- Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - approximate\_dates
 - broad-exopolitical-allegations
 - conflicting\_origin\_accounts
 - extraordinary\_history\_claims
+- translated-originally-Spanish
 - translated\_source
 - translation\_approximation\_navajo\_inuit
 - unverified\_extraterrestrial\_claims

@@ -1,0 +1,67 @@
+{
+  "source_id": "src-dbf603b5173d",
+  "snapshot_sha256": "7c541ebda52fc8ffef619a9117fa61c56f588afb065bb73a48c8766192ea70a8",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-dbf603b5173d-c01",
+      "assertion": "Gosia says terrestrial governments are compartmentalized: lower officials may believe humanity is alone, while hidden upper levels know of extraterrestrials and contacts.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as her account of Earth’s power structure."
+    },
+    {
+      "id": "src-dbf603b5173d-c02",
+      "assertion": "Gosia says internet access, recording devices, and widespread sharing make ET evidence harder for governments to deny.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dbf603b5173d-c03",
+      "assertion": "Gosia suspects authorities may steer disclosure as controlled opposition, potentially preparing a false-alien-invasion scenario.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0040",
+        "p0042",
+        "p0051",
+        "p0057"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says the agenda and outcome remain uncertain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "disclosure-agenda-speculative"
+  ],
+  "coverage_gaps": [
+    "specific-disclosure-events"
+  ]
+}

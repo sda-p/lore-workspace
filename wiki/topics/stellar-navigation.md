@@ -860,6 +860,56 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Extraterrestrial Information - Minitopics with Gosia - Cosmic Agency](https://swaruu.org/transcripts/extraterrestrial-information-minitopics-with-gosia-cosmic-agency) (2023-03-14; en); passages p0111, p0112, p0114, p0116, p0117, p0120. [Structured record](../../records/src-4c18957bd2f2.json).
 
+### src-c72b629726c7-c01
+
+Gosia says advanced starships use hyperspace jumps and appear near planets only when using local propulsion.
+
+Attributed to **Gosia, relaying Taygetan explanations**; reported; extraction confidence: high.
+
+Source: [Comet 3I/Atlas or Alien/ET Spaceship? My Thoughts](https://swaruu.org/transcripts/comet-3i-atlas-or-alien-et-spaceship-my-thoughts) (2025-10-10; en); passages p0008. [Structured record](../../records/src-c72b629726c7.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md).
+
+### src-c72b629726c7-c02
+
+Swaruu of Erra describes low-tech civilizations hollowing metallic asteroids for propulsion, cabins, and hull protection.
+
+Attributed to **Swaruu of Erra, quoted by Gosia**; reported; extraction confidence: high.
+
+Source: [Comet 3I/Atlas or Alien/ET Spaceship? My Thoughts](https://swaruu.org/transcripts/comet-3i-atlas-or-alien-et-spaceship-my-thoughts) (2025-10-10; en); passages p0022. [Structured record](../../records/src-c72b629726c7.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-e29461ec4748-c01
+
+Athena describes hyperspace as a frequency-state change: ship structure remains intact while its compatibility shifts from origin to destination. She says this is not propulsion through distance.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Stellar Navigation 4 (Part 2) - Big Spaceships entering Hyperspace (Athena Swaruu)](https://swaruu.org/transcripts/stellar-navigation-4-part-2-big-spaceships-entering-hyperspace-athena-swaruu) (2022-07-25; en); passages p0006, p0011, p0012, p0013. [Structured record](../../records/src-e29461ec4748.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-e29461ec4748-c02
+
+Athena says high-mass ships cannot shift frequency instantly; limited engine power relative to mass requires gradual jumps and creates perceived SIT delay. Delay varies with each ship’s power-to-mass ratio.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Stellar Navigation 4 (Part 2) - Big Spaceships entering Hyperspace (Athena Swaruu)](https://swaruu.org/transcripts/stellar-navigation-4-part-2-big-spaceships-entering-hyperspace-athena-swaruu) (2022-07-25; en); passages p0016, p0018, p0019, p0020, p0032, p0033, p0035, p0036. [Structured record](../../records/src-e29461ec4748.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-e29461ec4748-c03
+
+Athena estimates Earth–Temmer travel at seven hours of SIT aboard Toleka versus 36 minutes aboard Suzy. The better power-to-mass ship makes larger frequency jumps.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Stellar Navigation 4 (Part 2) - Big Spaceships entering Hyperspace (Athena Swaruu)](https://swaruu.org/transcripts/stellar-navigation-4-part-2-big-spaceships-entering-hyperspace-athena-swaruu) (2022-07-25; en); passages p0035, p0038, p0039, p0042. [Structured record](../../records/src-e29461ec4748.json).
+
+Related topics: [Toleka-class starships](toleka-class.md), [Suzy fighter craft](suzy-fighter-craft.md).
+
 ### src-47a2e5f62aeb-c04
 
 She says ships can jump by matching destination frequency and use gravity modulation for flight.
@@ -1016,6 +1066,22 @@ Attributed to **Yazhi**; reported; extraction confidence: medium.
 
 Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) (2024-11-18; en); passages p0043, p0047. [Structured record](../../records/src-d3aa4459ae38.json).
 
+### src-9088ba16e8c6-c06
+
+Gosia says ships use toroidal frequency bubbles to manifest at destinations rather than traverse space.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Power of Your Mind - Reality Begins in Consciousness (PART 1) - CLASS 013](https://swaruu.org/transcripts/power-of-your-mind-reality-begins-in-consciousness-part-1-class-013) (2026-04-20; en); passages p0057, p0058, p0059. [Structured record](../../records/src-9088ba16e8c6.json).
+
+### src-cdc00e8b66c4-c05
+
+Swaruu (9) says visible light shifts beyond sight at light speed; hyperspace appears black.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
+
+Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0031, p0032, p0033. [Structured record](../../records/src-cdc00e8b66c4.json).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -1054,6 +1120,7 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - [src-4781604621b1-c02](dimensional-mirroring.md#src-4781604621b1-c02) — Dimensional mirroring
 - [src-0700efa54ddc-c03](natural-portals.md#src-0700efa54ddc-c03) — Natural and artificial portals
 - [src-6d89e231f729-c02](frequency-astrology.md#src-6d89e231f729-c02) — Frequency-based astrology
+- [src-c72b629726c7-c03](galactic-federation.md#src-c72b629726c7-c03) — Galactic Federation
 - [src-07494ef21f67-c04](ship-internal-time.md#src-07494ef21f67-c04) — Ship internal time
 - [src-0e992795e982-c01](taygetans.md#src-0e992795e982-c01) — Taygetans
 - [src-0a76aae844b1-c05](timeline-branching.md#src-0a76aae844b1-c05) — Timeline branching
@@ -1065,11 +1132,13 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 
 ## Review flags
 
+- Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
 - Federation-policy\_claims\_attributed
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
+- Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
 - These are attributed dialogue claims; terminology for Hyades varies by convention
@@ -1120,6 +1189,7 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - time\_travel\_risks
 - timeline\_model
 - translated\_source
+- translation-equivalence-unverified
 - unmapped\_regions\_and\_return\_risk
 - unverified-reset-claims
 - unverified\_ancient\_technology\_claims

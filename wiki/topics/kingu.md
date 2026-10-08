@@ -58,10 +58,20 @@ Source: [Reptiloids and how they view Earth and Humanity (English)](https://swar
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-c1f323f128a9-c07
+
+Reptilians vary widely; Kingu live underground, but not all are hostile.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0106, p0107, p0108. [Structured record](../../records/src-c1f323f128a9.json).
+
 ## Claims filed under other topics
 
 - [src-afa1873e4741-c02](alien-species.md#src-afa1873e4741-c02) — Alien species and distinctions
+- [src-073aba37af59-c01](tulpas.md#src-073aba37af59-c01) — Tulpas
 
 ## Review flags
 
+- Species summaries are broad and based on accounts attributed to orbital sources
 - definition\_varies

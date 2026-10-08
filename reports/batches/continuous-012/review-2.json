@@ -1,0 +1,75 @@
+{
+  "batch_id": "continuous-012",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-1c425730a068",
+    "src-c72b629726c7",
+    "src-e96e8067e205",
+    "src-073aba37af59",
+    "src-db310bb876f5",
+    "src-50afee47b8a2",
+    "src-127ebef75460",
+    "src-529014e2b199",
+    "src-7ced6b157e35",
+    "src-0a2dec346e2d",
+    "src-87bd832ea105",
+    "src-dbf603b5173d",
+    "src-f9def33665f4",
+    "src-e29461ec4748",
+    "src-71526671dc28"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-e96e8067e205",
+      "claim_id": "src-e96e8067e205-c04",
+      "problem": "The cited pod-treatment passage called parasites “bugs”; the “energetic larvae” description was in neighboring p0049.",
+      "action": "Added the precise energetic-larvae passage supporting the claim.",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0052"
+      ]
+    },
+    {
+      "source_id": "src-073aba37af59",
+      "claim_id": "src-073aba37af59-c01",
+      "problem": "Fear-generation was not stated in the cited reptilian-Tulpa/Kingu distinction.",
+      "action": "Removed the unsupported qualifier and kept the distinction between the Tulpa and physical Kingu.",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ]
+    },
+    {
+      "source_id": "src-073aba37af59",
+      "claim_id": "src-073aba37af59-c02",
+      "problem": "The source says one or more individuals can fear an idea; “collective fear” overstated a requirement.",
+      "action": "Changed to focused fear, consistent with the example and explanation.",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ]
+    },
+    {
+      "source_id": "src-db310bb876f5",
+      "claim_id": "src-db310bb876f5-c01",
+      "problem": "Original claim omitted the source’s exception that Urmahs apparently knew already.",
+      "action": "Added the Urmah caveat and preserved Yazhi’s uncertainty about who knew earlier.",
+      "paragraph_ids": [
+        "p0006",
+        "p0013"
+      ]
+    },
+    {
+      "source_id": "src-71526671dc28",
+      "claim_id": "src-71526671dc28-c01",
+      "problem": "Snapshot is English and record language was correct, but source p0002 identifies the transcript as originally Spanish.",
+      "action": "Added the categorical translated-originally-Spanish review flag.",
+      "paragraph_ids": [
+        "p0002"
+      ]
+    }
+  ],
+  "unresolved": []
+}

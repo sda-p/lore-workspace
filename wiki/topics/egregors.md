@@ -26,6 +26,16 @@ Source: [Fears, desires, thoughts and Manifestation (English)](https://swaruu.or
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-87bd832ea105-c05
+
+She frames war as distraction from pandemic protests and inoculation effects; fear and suffering feed lower egregores.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ucranian Conflict - Why? Athena Swaruu´s Short Commentary](https://swaruu.org/transcripts/ucranian-conflict-why-athena-swaruu-s-short-commentary) (2022-02-27; en); passages p0013, p0014, p0015. [Structured record](../../records/src-87bd832ea105.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Ukraine](ukraine.md).
+
 ### src-ff24151e015d-c03
 
 Mari claims heavy drinking may increase vulnerability to lower-astral entities. Unverified paranormal claim.
@@ -287,6 +297,7 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - [src-331beeab2088-c03](postmortem-realities.md#src-331beeab2088-c03) — Postmortem realities
 - [src-60e435f5d51b-c04](postmortem-realities.md#src-60e435f5d51b-c04) — Postmortem realities
 - [src-60e435f5d51b-c05](postmortem-realities.md#src-60e435f5d51b-c05) — Postmortem realities
+- [src-073aba37af59-c02](tulpas.md#src-073aba37af59-c02) — Tulpas
 - [src-f28ef31d9222-c02](postmortem-realities.md#src-f28ef31d9222-c02) — Postmortem realities
 - [src-c3fb6e0f8cde-c02](postmortem-realities.md#src-c3fb6e0f8cde-c02) — Postmortem realities
 - [src-c3fb6e0f8cde-c04](postmortem-realities.md#src-c3fb6e0f8cde-c04) — Postmortem realities
@@ -309,7 +320,9 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - paranormal-claims-unverified
 - personal\_metaphysics
 - soulless-people-claim
+- translated-originally-Spanish
 - unverified-current-events
 - unverified\_frequency\_claims
 - unverified\_health\_claims
 - unverified\_paranormal\_claims
+- wartime-conspiracy-claims

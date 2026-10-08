@@ -1,0 +1,89 @@
+{
+  "source_id": "src-336f7353bbdf",
+  "snapshot_sha256": "6731f285ff55aac0cb622545e67af431edf499706bc47118ceb04e7de0c51fa6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-336f7353bbdf-c01",
+      "assertion": "Yazhi says 5D is another Matrix of shared rules and agreements; moving Earth there would shift, not end, suffering.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0029",
+        "p0031",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    },
+    {
+      "id": "src-336f7353bbdf-c02",
+      "assertion": "She alleges the Federation seeks a more controlled Matrix with world government and two-way chips, while starseeds also lead people toward other Matrix worlds.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0019",
+        "p0021",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are Yazhi’s claims about Federation plans."
+    },
+    {
+      "id": "src-336f7353bbdf-c03",
+      "assertion": "Yazhi says humanity’s collective choices determine whether it moves toward 5D or remains in 3D; starseeds offer alternative perspectives and exit guidance.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0025",
+        "p0044",
+        "p0046",
+        "p0052",
+        "p0054"
+      ],
+      "primary_topic": "starseed-guides",
+      "topics": [
+        "starseed-guides",
+        "galactic-federation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames the outcome as collective choice."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "starseed-guides",
+      "name": "Starseed guides",
+      "kind": "group",
+      "aliases": [
+        "starseeds",
+        "guides"
+      ]
+    }
+  ],
+  "review_flags": [
+    "federation-intentions-and-collective-choice-tension"
+  ],
+  "coverage_gaps": [
+    "true-ascension-outside-matrix",
+    "individual-destination-options"
+  ]
+}

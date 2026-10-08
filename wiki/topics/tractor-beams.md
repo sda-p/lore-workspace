@@ -28,6 +28,22 @@ Source: [Sophia Swaruu (Yazhi) - Yazhi´s Early Life on Toleka (PART 1)](https:/
 
 Related topics: [Ship internal time](ship-internal-time.md).
 
+### src-88e941a1512e-c04
+
+Yazhi says Toleka tractor beams insert squadrons at atmospheric altitude; craft then fly on air-breathing engines.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Interstellar Life 12 – Extraterrestrial Craft Posing as Human Aircraft Explained](https://swaruu.org/transcripts/interstellar-life-12-extraterrestrial-craft-posing-as-human-aircraft-explained) (2026-01-23; en); passages p0038, p0040, p0042, p0048. [Structured record](../../records/src-88e941a1512e.json).
+
+### src-cdc00e8b66c4-c03
+
+Anéeka says tractor beams or 110-cm drones create crop designs.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0020, p0021. [Structured record](../../records/src-cdc00e8b66c4.json).
+
 ## Claims filed under other topics
 
 - [src-cb6267c7760f-c04](starship-systems.md#src-cb6267c7760f-c04) — Starship systems
@@ -38,6 +54,8 @@ Related topics: [Ship internal time](ship-internal-time.md).
 
 ## Review flags
 
+- Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
+- Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - extraordinary-ability-claims
 - medical\_claims
 - metaphysical-claims

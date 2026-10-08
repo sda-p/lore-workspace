@@ -38,6 +38,32 @@ Source: [Advanced Souls, and their hive mind (English)](https://swaruu.org/trans
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-5aee7ebba0c5-c05
+
+Starseeds channel higher-realm information because they belong to advanced civilizations and hold higher vibration.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Akashic Records, Part 2](https://swaruu.org/transcripts/akashic-records-part-2) (2024-04-22; en); passages p0022. [Structured record](../../records/src-5aee7ebba0c5.json).
+
+Related topics: [Alien species and distinctions](alien-species.md), [Perceptual density](perceptual-density.md).
+
+### src-14eefc81eb26-c02
+
+She says incarnated partner variants may differ in memories, though higher selves are one consciousness.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Soulmates changing among their Variants? Soul Loops - Athena Swaruu](https://swaruu.org/transcripts/soulmates-changing-among-their-variants-soul-loops-athena-swaruu) (2023-05-10; en); passages p0012, p0015, p0025, p0030. [Structured record](../../records/src-14eefc81eb26.json).
+
+### src-14eefc81eb26-c07
+
+Swaruu (9) says Taygetan identical twins may share one soul; Earth’s veil divides attention.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: medium.
+
+Source: [Soulmates changing among their Variants? Soul Loops - Athena Swaruu](https://swaruu.org/transcripts/soulmates-changing-among-their-variants-soul-loops-athena-swaruu) (2023-05-10; en); passages p0059, p0060. [Structured record](../../records/src-14eefc81eb26.json).
+
 ### src-c3f4e5261a9c-c01
 
 Yazhi says memory wipes permit identity change; some timeline variants forget, while others retain prior identities.
@@ -130,6 +156,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
 ## Claims filed under other topics
 
+- [src-5aee7ebba0c5-c01](consciousness-metaphysics.md#src-5aee7ebba0c5-c01) — Consciousness and metaphysics
 - [src-64665fcf10bc-c05](sophia-swaruu.md#src-64665fcf10bc-c05) — Sophia Swaruu
 - [src-c3f4e5261a9c-c04](urmah.md#src-c3f4e5261a9c-c04) — Urmah
 - [src-cea409311112-c01](postmortem-realities.md#src-cea409311112-c01) — Postmortem realities
@@ -140,3 +167,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-72e66bf3c62a-c03](perceptual-density.md#src-72e66bf3c62a-c03) — Perceptual density
 - [src-645493db4473-c01](consciousness-metaphysics.md#src-645493db4473-c01) — Consciousness and metaphysics
 - [src-645493db4473-c04](consciousness-metaphysics.md#src-645493db4473-c04) — Consciousness and metaphysics
+
+## Review flags
+
+- Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
+- entertainment-disclaimer

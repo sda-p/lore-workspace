@@ -1,0 +1,29 @@
+{
+  "batch_id": "continuous-011",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-a37db4584b4c",
+    "src-c1f323f128a9",
+    "src-c3560b8010b9",
+    "src-cdc00e8b66c4",
+    "src-ac71d59738c3",
+    "src-3dfabad0c315",
+    "src-7f611c295824",
+    "src-d088ff3491c4",
+    "src-3ab615820cb8",
+    "src-dc53d4326450"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-c1f323f128a9",
+      "claim_id": "src-c1f323f128a9-c03",
+      "problem": "“Dominate” overstates comparative rank as dominance.",
+      "action": "Narrowed to being the Federation’s most active and numerous race near Earth.",
+      "paragraph_ids": [
+        "p0037",
+        "p0038"
+      ]
+    }
+  ],
+  "unresolved": []
+}

@@ -36,6 +36,30 @@ Attributed to **Yazhi**; reported; extraction confidence: high.
 
 Source: [DNA - Registry of Who We Are - Questions from the Public - Yazhi Swaruu](https://swaruu.org/transcripts/dna-registry-of-who-we-are-questions-from-the-public-yazhi-swaruu) (2023-03-26; en); passages p0048, p0050, p0052. [Structured record](../../records/src-31e1b41b8c15.json).
 
+### src-127ebef75460-c01
+
+Anéeka says starseeds may have 22 or 23 active chromosomes plus inactive extras, potentially activating 24.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [24 CHROMOSOMES - SUPER POWERS - STARSEEDS \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/24-chromosomes-super-powers-starseeds-no-video) (2020-10-09; en); passages p0002, p0006. [Structured record](../../records/src-127ebef75460.json).
+
+### src-127ebef75460-c02
+
+She claims genetic databases seek nonhumans and doubts common three-letter tests detect them.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [24 CHROMOSOMES - SUPER POWERS - STARSEEDS \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/24-chromosomes-super-powers-starseeds-no-video) (2020-10-09; en); passages p0004. [Structured record](../../records/src-127ebef75460.json).
+
+### src-127ebef75460-c03
+
+Anéeka links 24-chromosome activation to advanced mental abilities and difficulty having human offspring.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [24 CHROMOSOMES - SUPER POWERS - STARSEEDS \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/24-chromosomes-super-powers-starseeds-no-video) (2020-10-09; en); passages p0006, p0007. [Structured record](../../records/src-127ebef75460.json).
+
 ### src-09dea9adfb59-c04
 
 She claims experience gradually alters DNA as a record or memory.
@@ -96,6 +120,16 @@ Source: [Is there a Gene of Spirituality? Brain and Consciousness - Aneeka of Te
 
 Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
 
+### src-7f611c295824-c03
+
+Swaruu attributes human limits to mind control, not DNA alteration; she calls telepathy mental. She says DNA alteration is real, but did not limit humans.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu of Erra & Gosia – Private Conversation Before Public Contact (2018)](https://swaruu.org/transcripts/swaruu-of-erra-gosia-private-conversation-before-public-contact-2018) (2026-02-23; en); passages p0099, p0101, p0103, p0105. [Structured record](../../records/src-7f611c295824.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-31e1b41b8c15-c01](consciousness-metaphysics.md#src-31e1b41b8c15-c01) — Consciousness and metaphysics
@@ -105,6 +139,8 @@ Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
 
 ## Review flags
 
+- Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
+- The cloning and genetic-control statements are Swaruu’s claims.
 - historical-uncertainty
 - medical\_claims\_unverified
 - metaphysical-genetics-unverified

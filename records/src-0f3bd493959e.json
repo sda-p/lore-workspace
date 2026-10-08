@@ -1,0 +1,116 @@
+{
+  "source_id": "src-0f3bd493959e",
+  "snapshot_sha256": "e403099061bb6a63d61860a5d01cfac3b375bc932b786747ad6ab73b89e31477",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0f3bd493959e-c01",
+      "assertion": "Náhást’Éí describes spirit realms as frequency ranges; consciousness determines where each spirit dwells.",
+      "speaker": "Náhást’Éí",
+      "paragraph_ids": [
+        "p0004",
+        "p0024"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f3bd493959e-c02",
+      "assertion": "The dead retain identity; material beliefs and attachments may keep them as ghosts.",
+      "speaker": "Náhást’Éí",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f3bd493959e-c03",
+      "assertion": "She cannot verify archon traps, saying Matrix mind control can prompt voluntary reincarnation.",
+      "speaker": "Náhást’Éí",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "archons-and-demons",
+        "moon-matrix"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f3bd493959e-c04",
+      "assertion": "Without linear time or space, spirits can contact loved ones after they reincarnate.",
+      "speaker": "Náhást’Éí",
+      "paragraph_ids": [
+        "p0022",
+        "p0026"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "soulmates"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f3bd493959e-c05",
+      "assertion": "Dreaming temporarily returns a person to spirit form, where thoughts shape experience.",
+      "speaker": "Náhást’Éí",
+      "paragraph_ids": [
+        "p0028"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0f3bd493959e-c06",
+      "assertion": "She says spirits can free themselves through introspection, forgiveness, and belief in their freedom.",
+      "speaker": "Náhást’Éí",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "fear-and-spirit-attacks",
+    "prayer",
+    "spirit-perception-of-time"
+  ]
+}

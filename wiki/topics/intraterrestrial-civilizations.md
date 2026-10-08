@@ -26,6 +26,16 @@ Source: [Nucleus of the Earth - Hollow Earth - Extraterrestrial Communication](h
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-5faa731bafee-c04
+
+She says Earth has continent-sized interior cavities and Van Allen belts suppress energy variations in its core.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Global Warming, Climate Change, Greta Thumberg? Swaruu (Taygeta-Pleiades) Responds](https://swaruu.org/transcripts/global-warming-climate-change-greta-thumberg-swaruu-taygeta-pleiades-responds) (2019-10-15; en); passages p0070, p0071, p0072, p0073, p0075, p0076. [Structured record](../../records/src-5faa731bafee.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ### src-3c54f1ef569a-c04
 
 Anéeka says Homo Capensis groups hide in underground bases and have treaties with Reptilians.
@@ -76,9 +86,17 @@ Source: [Space News 44, Galactic Federation and Earth Situation Update (English)
 
 ## Claims filed under other topics
 
+- [src-0a2dec346e2d-c01](bigfoot-sasquatch.md#src-0a2dec346e2d-c01) — Bigfoot, Sasquatch and Yeti
+- [src-0a2dec346e2d-c02](bigfoot-sasquatch.md#src-0a2dec346e2d-c02) — Bigfoot, Sasquatch and Yeti
+- [src-87bd832ea105-c03](deep-underground-military-bases.md#src-87bd832ea105-c03) — Deep underground military bases
 - [src-5ffe56780faa-c02](galactic-federation.md#src-5ffe56780faa-c02) — Galactic Federation
 
 ## Review flags
 
+- 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
+- climate-claims
+- entertainment-disclaimer
 - historical and technological interpretations are attributed to Athena
+- translated-originally-Spanish
+- wartime-conspiracy-claims

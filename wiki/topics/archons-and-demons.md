@@ -66,6 +66,24 @@ Source: [Attachments and Infestations, Part 4, Lower astral, Ideas and Programmi
 
 Related topics: [Natural and artificial portals](natural-portals.md).
 
+### src-270ba8d9da62-c01
+
+Mari reports lower-astral activity surged after the 2024 eclipse, which she attributes to rituals and portals.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Post Eclipse Entities](https://swaruu.org/transcripts/post-eclipse-entities) (2024-05-13; en); passages p0004, p0010. [Structured record](../../records/src-270ba8d9da62.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
+### src-c1b972dbf490-c04
+
+Fear can trap souls in reincarnation; entities exploit creative power but do not force return.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [Positive Twist, Part One, Galactic Federation Part 5](https://swaruu.org/transcripts/positive-twist-part-one-galactic-federation-part-5) (2023-03-28; en); passages p0015, p0016, p0017. [Structured record](../../records/src-c1b972dbf490.json).
+
 ### src-3b9cf6cc3db8-c02
 
 She describes entities as using vibration differences to exploit people, seeking to lower individuals’ or regions’ frequency.
@@ -285,6 +303,8 @@ Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (
 - [src-bc84d0e92778-c05](consciousness-metaphysics.md#src-bc84d0e92778-c05) — Consciousness and metaphysics
 - [src-e2b6999b0e7f-c02](consciousness-metaphysics.md#src-e2b6999b0e7f-c02) — Consciousness and metaphysics
 - [src-e2b6999b0e7f-c03](consciousness-metaphysics.md#src-e2b6999b0e7f-c03) — Consciousness and metaphysics
+- [src-270ba8d9da62-c05](postmortem-realities.md#src-270ba8d9da62-c05) — Postmortem realities
+- [src-270ba8d9da62-c06](postmortem-realities.md#src-270ba8d9da62-c06) — Postmortem realities
 - [src-92f31dcfc4f7-c04](artificial-intelligence.md#src-92f31dcfc4f7-c04) — Artificial intelligence
 - [src-ce90cae90fd1-c04](egregors.md#src-ce90cae90fd1-c04) — Egregors
 - [src-8eced7b30a4d-c01](postmortem-realities.md#src-8eced7b30a4d-c01) — Postmortem realities
@@ -299,16 +319,19 @@ Source: [Space News 51. What is up with Taygetans, My YouTube Channel, and Me? (
 
 ## Review flags
 
+- Claims describe Mari’s spiritual model of the Federation and reincarnation
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - astral-perception-and-protection-claims
 - astral-warfare-claims-unverified
 - conspiracy-claims
+- entertainment-disclaimer
 - extraordinary-cosmology-claims
 - family-dynamics-generalization
 - historical-allegations
 - metaphysical-claims\_attributed
 - metaphysical-model
 - portal-technology-claims-unverified
+- post-eclipse-causal-attribution
 - unverified-astral-causation
 - unverified-current-events

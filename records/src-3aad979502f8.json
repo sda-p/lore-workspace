@@ -1,0 +1,86 @@
+{
+  "source_id": "src-3aad979502f8",
+  "snapshot_sha256": "cc56640adb441af098eb559741ed6e0f477789309263b052cdbe9b12df55b80e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3aad979502f8-c01",
+      "assertion": "Anéeka alleges drones and balloons emit 5G over Latin America and predicts cases will rise where those signals appear.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "5g-electromagnetic-weapons",
+      "topics": [
+        "5g-electromagnetic-weapons",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her interpretation of the reported sightings."
+    },
+    {
+      "id": "src-3aad979502f8-c02",
+      "assertion": "She claims 60 MHz signals impair oxygen uptake and cause flu-like symptoms; military networks extend exposure beyond civilian 5G coverage.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0091",
+        "p0092",
+        "p0093"
+      ],
+      "primary_topic": "5g-electromagnetic-weapons",
+      "topics": [
+        "5g-electromagnetic-weapons",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her proposed explanation for respiratory illness."
+    },
+    {
+      "id": "src-3aad979502f8-c03",
+      "assertion": "Anéeka alleges 5G enables digital currency and microbot surveillance, while vaccine metals heighten electromagnetic sensitivity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0049",
+        "p0063"
+      ],
+      "primary_topic": "5g-electromagnetic-weapons",
+      "topics": [
+        "5g-electromagnetic-weapons",
+        "vaccine-inoculation-claims",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Attributed control and inoculation claims."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "5g-electromagnetic-weapons",
+      "name": "5G electromagnetic weapons",
+      "kind": "technology",
+      "aliases": [
+        "Gwen towers",
+        "5G weapon claims"
+      ]
+    }
+  ],
+  "review_flags": [
+    "attributed-covid-and-5g-conspiracy-claims",
+    "attributed-vaccine-claims"
+  ],
+  "coverage_gaps": [
+    "virus-denial-claims",
+    "proposed-respiratory-treatment"
+  ]
+}

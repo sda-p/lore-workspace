@@ -1,0 +1,66 @@
+{
+  "source_id": "src-f9def33665f4",
+  "snapshot_sha256": "f101ee36d05fa7f6d07b5ad38a49873ca789027571ab9bd811c17e8186edcfee",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-f9def33665f4-c01",
+      "assertion": "Mari says negative physical experiences may be reinterpreted positively after death, while positive experiences remain positive.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She cautions that interpretation varies by soul."
+    },
+    {
+      "id": "src-f9def33665f4-c02",
+      "assertion": "Mari rejects entities forcing reincarnation; she attributes return to personal attachments and perceived unfinished aims.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as her belief."
+    },
+    {
+      "id": "src-f9def33665f4-c03",
+      "assertion": "Mari says possessions do not cross death; experience and learning do, making spiritual growth more important than accumulation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says material objects can still serve individual experience."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "spirit-world-mechanics"
+  ]
+}

@@ -32,7 +32,7 @@
     "src-c72b629726c7",
     "src-dbf603b5173d"
   ],
-  "status": "running",
+  "status": "reviewed",
   "selection_method": "Coordinator review of ambiguous titles identified English titles missed by initial token heuristic; body language must be confirmed by extraction.",
   "active_source_ids": [
     "src-5faa731bafee",
@@ -67,5 +67,8 @@
     "src-dbf603b5173d"
   ],
   "exact_duplicate_count": 0,
-  "source_word_count": 62578
+  "source_word_count": 62578,
+  "reviewed_at": "2026-10-08T16:38:00+00:00",
+  "review_corrections": 5,
+  "integration_errors": []
 }

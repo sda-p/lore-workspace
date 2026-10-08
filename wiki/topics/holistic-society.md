@@ -1178,6 +1178,26 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 50. Floods in Spain, Carrot, New Projects in Temmer (English)](https://swaruu.org/transcripts/space-news-50-floods-in-spain-carrot-new-projects-in-temmer-english) (2024-11-09; en); passages p0016, p0017. [Structured record](../../records/src-1f8d569d9e4f.json).
 
+### src-3dfabad0c315-c02
+
+Gosia says most stellar societies use councils, voluntary participation, and freely distributed abundance without money. She presents multiple variants.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Life: How Would It Affect Humanity and You? - CLASS 010](https://swaruu.org/transcripts/extraterrestrial-life-how-would-it-affect-humanity-and-you-class-010) (2026-01-04; en); passages p0022, p0023. [Structured record](../../records/src-3dfabad0c315.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-3dfabad0c315-c03
+
+Anéeka says a holistic stepped model requires human readiness and must remain a human choice.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Life: How Would It Affect Humanity and You? - CLASS 010](https://swaruu.org/transcripts/extraterrestrial-life-how-would-it-affect-humanity-and-you-class-010) (2026-01-04; en); passages p0025. [Structured record](../../records/src-3dfabad0c315.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -1198,6 +1218,8 @@ Source: [Space News 50. Floods in Spain, Carrot, New Projects in Temmer (English
 - [src-0f4f8d997259-c02](starship-systems.md#src-0f4f8d997259-c02) — Starship systems
 - [src-01c3c72a675d-c03](earth-cabal.md#src-01c3c72a675d-c03) — Earth Cabal and power structures
 - [src-bc1f28760d1d-c01](economics.md#src-bc1f28760d1d-c01) — Economics and resources
+- [src-bd13d89221e8-c02](galactic-federation.md#src-bd13d89221e8-c02) — Galactic Federation
+- [src-45ef563e0d5a-c06](ancient-egypt.md#src-45ef563e0d5a-c06) — Ancient Egypt
 - [src-d9efe19e10ad-c05](earth-cabal.md#src-d9efe19e10ad-c05) — Earth Cabal and power structures
 - [src-7ffa03537463-c01](alien-species.md#src-7ffa03537463-c01) — Alien species and distinctions
 - [src-128ec3c824ca-c02](taygetans.md#src-128ec3c824ca-c02) — Taygetans
@@ -1227,6 +1249,7 @@ Source: [Space News 50. Floods in Spain, Carrot, New Projects in Temmer (English
 - [src-293f7dd241ff-c06](total-immersion-simulations.md#src-293f7dd241ff-c06) — Total-immersion simulations
 - [src-bb2e4f6bf652-c01](taygetans.md#src-bb2e4f6bf652-c01) — Taygetans
 - [src-a536d40b8707-c04](earth-cabal.md#src-a536d40b8707-c04) — Earth Cabal and power structures
+- [src-3dfabad0c315-c04](consciousness-metaphysics.md#src-3dfabad0c315-c04) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -1291,6 +1314,7 @@ Source: [Space News 50. Floods in Spain, Carrot, New Projects in Temmer (English
 - species\_specific\_reproduction
 - technology-described-by-mari
 - technology\_claims
+- translated-originally-Spanish
 - translated\_source
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025

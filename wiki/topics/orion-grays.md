@@ -46,6 +46,14 @@ Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
 
 Source: [Space News 44, Galactic Federation and Earth Situation Update (English)](https://swaruu.org/transcripts/space-news-44-galactic-federation-and-earth-situation-update-english) (2024-09-28; en); passages p0005, p0006, p0007. [Structured record](../../records/src-cebafb0193ca.json).
 
+### src-c1f323f128a9-c06
+
+Greys include 165 types; Zeta Gardeners differ from invasive Orion variants.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0099, p0100, p0101. [Structured record](../../records/src-c1f323f128a9.json).
+
 ## Claims filed under other topics
 
 - [src-03651da1738e-c03](zeta-reticuli-gardeners.md#src-03651da1738e-c03) — Zeta Reticuli Gardeners
@@ -56,5 +64,6 @@ Source: [Space News 44, Galactic Federation and Earth Situation Update (English)
 ## Review flags
 
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
+- Species summaries are broad and based on accounts attributed to orbital sources
 - forecast-in-retrospect
 - unverified-contact-claims

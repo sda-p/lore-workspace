@@ -31,7 +31,10 @@ python3 scripts/lore.py discover --index ../source-cache/index.html
 python3 scripts/lore.py prepare --cache ../source-cache
 python3 scripts/lore.py validate --cache ../source-cache
 python3 scripts/lore.py build
+python3 scripts/body_variants.py --cache ../source-cache
 python3 -m unittest discover -s tests
 ```
 
 If the index cache is missing, `discover` downloads it. `prepare` caches the selected source versions and creates assignments. A changed source hash must be reviewed before old evidence references are reused. Git checkpoints preserve the inventory, extraction records, wiki, and ledger; transcript snapshots can be refetched and compared with the retained hashes.
+
+If the private cache is lost, restore each needed continuous cohort with `python3 scripts/lore.py prepare --selection config/selections/<cohort>.json --batch <cohort> --cache ../source-cache` before resuming workers. This compares refetched bodies against retained hashes and preserves existing ledger states. Do not rerun `ready` for an already assigned or reviewed cohort. A changed live-source hash requires explicit version reconciliation before old passage citations can be reused.

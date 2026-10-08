@@ -52,6 +52,24 @@ Source: [Pleiades are NOT too Young to Support Organic Life - Extraterrestrial C
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-0a2dec346e2d-c03
+
+Swaruu analogizes Sasquatch and cetaceans to FM frequencies, less affected by lunar signals than humans.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [BigFoot/Sasquatch - Daniel James´ Real Encounters - Dyatlov Pass Incident](https://swaruu.org/transcripts/bigfoot-sasquatch-daniel-james-real-encounters-dyatlov-pass-incident) (2023-10-31; en); passages p0035, p0036, p0038, p0039. [Structured record](../../records/src-0a2dec346e2d.json).
+
+Related topics: [Bigfoot, Sasquatch and Yeti](bigfoot-sasquatch.md).
+
+### src-84449ec7c771-c06
+
+Yazhi says lower densities define higher ones, which she experiences together from timeless perspective.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Sophia Swaruu (Yazhi) - Recent Conversations (PART 3)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-recent-conversations-part-3) (2024-09-09; en); passages p0121, p0123, p0125, p0127. [Structured record](../../records/src-84449ec7c771.json).
+
 ### src-ca3e9f42fee8-c04
 
 She says people experience realities compatible with their vibration.
@@ -222,6 +240,10 @@ Source: [Unity - No Existential Realms, No Timelines, No Densities, No Dimension
 
 ## Claims filed under other topics
 
+- [src-bd13d89221e8-c04](consciousness-metaphysics.md#src-bd13d89221e8-c04) — Consciousness and metaphysics
+- [src-5aee7ebba0c5-c02](original-matrix.md#src-5aee7ebba0c5-c02) — Original Matrix
+- [src-5aee7ebba0c5-c03](consciousness-metaphysics.md#src-5aee7ebba0c5-c03) — Consciousness and metaphysics
+- [src-5aee7ebba0c5-c05](nexus-souls.md#src-5aee7ebba0c5-c05) — Nexus souls
 - [src-5ee43e47632e-c03](consciousness-metaphysics.md#src-5ee43e47632e-c03) — Consciousness and metaphysics
 - [src-c3fb6e0f8cde-c03](consciousness-metaphysics.md#src-c3fb6e0f8cde-c03) — Consciousness and metaphysics
 - [src-c3fb6e0f8cde-c05](consciousness-metaphysics.md#src-c3fb6e0f8cde-c05) — Consciousness and metaphysics
@@ -253,12 +275,19 @@ Source: [Unity - No Existential Realms, No Timelines, No Densities, No Dimension
 - [src-9947bada3803-c01](consciousness-metaphysics.md#src-9947bada3803-c01) — Consciousness and metaphysics
 - [src-e0b94245b234-c02](archons-and-demons.md#src-e0b94245b234-c02) — Archons and demons
 - [src-e0b94245b234-c03](consciousness-metaphysics.md#src-e0b94245b234-c03) — Consciousness and metaphysics
+- [src-1d29aea5b394-c03](extraterrestrial-syndrome.md#src-1d29aea5b394-c03) — Extraterrestrial syndrome
+- [src-69ad8dca8c41-c01](alien-species.md#src-69ad8dca8c41-c01) — Alien species and distinctions
+- [src-69ad8dca8c41-c02](alcyone-council.md#src-69ad8dca8c41-c02) — Alcyone Council
 
 ## Review flags
 
+- 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
+- Abilities, body control, and density model are Yazhi’s self-reports
+- Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - astral-perception-and-protection-claims
 - astral-warfare-claims-unverified
+- entertainment-disclaimer
 - extraordinary-ability-claims
 - historical-uncertainty
 - metaphysical-model

@@ -8,6 +8,56 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
+### src-45ef563e0d5a-c01
+
+Swaruu describes post-Tiamat Egypt as a Federation base where multiple races guided Lyrian natives.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (1) - Extraterrestrials among Humans](https://swaruu.org/transcripts/ancient-egypt-1-extraterrestrials-among-humans) (2025-01-17; en); passages p0003, p0004. [Structured record](../../records/src-45ef563e0d5a.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Tiamat](tiamat.md), [Lyran expansion](lyran-expansion.md).
+
+### src-45ef563e0d5a-c02
+
+She says pyramids powered lights in underground facilities and the city above.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (1) - Extraterrestrials among Humans](https://swaruu.org/transcripts/ancient-egypt-1-extraterrestrials-among-humans) (2025-01-17; en); passages p0004. [Structured record](../../records/src-45ef563e0d5a.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-45ef563e0d5a-c04
+
+Dhor links Egypt’s interstellar decline to Reptilian power gains under Akhenaton and Nefertiti.
+
+Attributed to **Dhor Káal'el**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (1) - Extraterrestrials among Humans](https://swaruu.org/transcripts/ancient-egypt-1-extraterrestrials-among-humans) (2025-01-17; en); passages p0021, p0022, p0024, p0026, p0030. [Structured record](../../records/src-45ef563e0d5a.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-45ef563e0d5a-c05
+
+Swaruu says Egyptian gods exaggerated stellar beings, with Horus representing a ship.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (1) - Extraterrestrials among Humans](https://swaruu.org/transcripts/ancient-egypt-1-extraterrestrials-among-humans) (2025-01-17; en); passages p0011, p0012. [Structured record](../../records/src-45ef563e0d5a.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-45ef563e0d5a-c06
+
+Swaruu portrays post-flood Egypt as peaceful, equitable, slave-free, and advanced in healing.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Ancient Egypt (1) - Extraterrestrials among Humans](https://swaruu.org/transcripts/ancient-egypt-1-extraterrestrials-among-humans) (2025-01-17; en); passages p0006. [Structured record](../../records/src-45ef563e0d5a.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
 ### src-fea991df8ac7-c04
 
 Athena says Egypt’s pyramids and Sphinx predate known Egyptian civilization, which reused existing infrastructure.
@@ -106,6 +156,7 @@ Source: [Osiris, Eye of Horus, Ancient Egyptian matters - Extraterrestrial Peopl
 
 ## Claims filed under other topics
 
+- [src-45ef563e0d5a-c03](prime-directive.md#src-45ef563e0d5a-c03) — Prime Directive
 - [src-fea991df8ac7-c01](energy-generation.md#src-fea991df8ac7-c01) — Energy generation technology
 - [src-fea991df8ac7-c02](energy-generation.md#src-fea991df8ac7-c02) — Energy generation technology
 - [src-fea991df8ac7-c03](energy-generation.md#src-fea991df8ac7-c03) — Energy generation technology
@@ -118,3 +169,4 @@ Source: [Osiris, Eye of Horus, Ancient Egyptian matters - Extraterrestrial Peopl
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - historical and technological interpretations are attributed to Athena
+- translated-originally-Spanish

@@ -1,0 +1,104 @@
+{
+  "source_id": "src-828b1cc9dc5c",
+  "snapshot_sha256": "63cd3f0f7ad0667a450d31a59ca8e2cef76cedcc562514b3d4b0c25696fcdaaa",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-828b1cc9dc5c-c01",
+      "assertion": "Yazhi says Atlantis and Lemuria belonged to a pre-3D Matrix spanning much of the solar system; only the latest reset occurred within the Van Allen-bounded 3D Matrix.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "planetary-matrix-resets",
+      "topics": [
+        "planetary-matrix-resets",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-828b1cc9dc5c-c02",
+      "assertion": "She says resets are abrupt forced changes, often accompanied by deaths, but advanced civilizations may progress without collapse.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0022",
+        "p0043",
+        "p0050"
+      ],
+      "primary_topic": "planetary-matrix-resets",
+      "topics": [
+        "planetary-matrix-resets",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-828b1cc9dc5c-c03",
+      "assertion": "Yazhi says each person’s frequency and thoughts select the perceived timeline; timelines are attention-sequences, not separate worlds.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0028",
+        "p0038",
+        "p0039",
+        "p0058"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-828b1cc9dc5c-c04",
+      "assertion": "She describes rising density as integrating other beings through empathy, with their thoughts becoming part of one’s identity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0059",
+        "p0060",
+        "p0061",
+        "p0062",
+        "p0065",
+        "p0066"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "planetary-matrix-resets",
+      "name": "Planetary Matrix resets",
+      "kind": "historical event",
+      "aliases": [
+        "civilization resets",
+        "Matrix reset"
+      ]
+    }
+  ],
+  "review_flags": [
+    "matrix-reset-and-density-doctrine-attributed"
+  ],
+  "coverage_gaps": [
+    "identity-of-earlier-civilizations",
+    "personal-exit-options"
+  ]
+}

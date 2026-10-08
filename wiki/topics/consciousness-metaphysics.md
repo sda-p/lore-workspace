@@ -6848,6 +6848,122 @@ Attributed to **Za’el**; asserted; extraction confidence: high.
 
 Source: [Presentation (Za'el) ENGLISH](https://swaruu.org/transcripts/presentation-za-el-english) (2023-03-01; en); passages p0003. [Structured record](../../records/src-3012390b7529.json).
 
+### src-bd13d89221e8-c04
+
+Yazhi says consciousness can shift density, time, and location by changing ideas.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Planetary Reset, 3D Matrix - Federation - Human Civilization (Yazhi Swaruu)](https://swaruu.org/transcripts/planetary-reset-3d-matrix-federation-human-civilization-yazhi-swaruu) (2020-08-16; en); passages p0100. [Structured record](../../records/src-bd13d89221e8.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-270ba8d9da62-c04
+
+Mari says such entities cannot manifest alone; they rely on soul-connected humans' creative capacity.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Post Eclipse Entities](https://swaruu.org/transcripts/post-eclipse-entities) (2024-05-13; en); passages p0006, p0007. [Structured record](../../records/src-270ba8d9da62.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-5aee7ebba0c5-c01
+
+Mari defines Akashic Records as Source-consciousness expressed in individual and collective levels.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Akashic Records, Part 2](https://swaruu.org/transcripts/akashic-records-part-2) (2024-04-22; en); passages p0003, p0004. [Structured record](../../records/src-5aee7ebba0c5.json).
+
+Related topics: [Nexus souls](nexus-souls.md).
+
+### src-5aee7ebba0c5-c03
+
+Bodies filter soul perception into material realms; broader Records require a frequency match.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Akashic Records, Part 2](https://swaruu.org/transcripts/akashic-records-part-2) (2024-04-22; en); passages p0012, p0015. [Structured record](../../records/src-5aee7ebba0c5.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-5aee7ebba0c5-c04
+
+Meditation can access expanded Records; Mari warns psychedelics may cause overwhelming, chaotic lower-astral perceptions.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Akashic Records, Part 2](https://swaruu.org/transcripts/akashic-records-part-2) (2024-04-22; en); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-5aee7ebba0c5.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-7c1f9d5dcb76-c03
+
+Mari describes Earth as a school where Federation permits hardship and people shape personal outcomes through consciousness and manifestation. She gives individual and collective manifestation roles.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Nuclear scare, don’t worry](https://swaruu.org/transcripts/nuclear-scare-don-t-worry) (2023-02-27; en); passages p0027, p0028, p0029. [Structured record](../../records/src-7c1f9d5dcb76.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-84449ec7c771-c05
+
+Yazhi describes her body as a manifested form among simultaneously accessible astral and physical states.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Sophia Swaruu (Yazhi) - Recent Conversations (PART 3)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-recent-conversations-part-3) (2024-09-09; en); passages p0111, p0115, p0117. [Structured record](../../records/src-84449ec7c771.json).
+
+### src-14eefc81eb26-c05
+
+Athena attributes present personality to unconscious influences from many past lives.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [Soulmates changing among their Variants? Soul Loops - Athena Swaruu](https://swaruu.org/transcripts/soulmates-changing-among-their-variants-soul-loops-athena-swaruu) (2023-05-10; en); passages p0050, p0051, p0052, p0053. [Structured record](../../records/src-14eefc81eb26.json).
+
+### src-a656b1fed73d-c06
+
+Review information critically and own beliefs, says Swaruu.
+
+Attributed to **Swaruu**; asserted; extraction confidence: medium.
+
+Source: [FOCUS: NOW OR NEVER (Swaruu D´Jedi - Taygeta, Pleiades)](https://swaruu.org/transcripts/focus-now-or-never-swaruu-d-jedi-taygeta-pleiades) (2020-03-29; en); passages p0151, p0157, p0158, p0159, p0160. [Structured record](../../records/src-a656b1fed73d.json).
+
+### src-a656b1fed73d-c08
+
+Swaruu says thought shapes reality more than external action.
+
+Attributed to **Swaruu**; asserted; extraction confidence: medium.
+
+Source: [FOCUS: NOW OR NEVER (Swaruu D´Jedi - Taygeta, Pleiades)](https://swaruu.org/transcripts/focus-now-or-never-swaruu-d-jedi-taygeta-pleiades) (2020-03-29; en); passages p0205, p0206, p0207, p0210, p0211. [Structured record](../../records/src-a656b1fed73d.json).
+
+### src-c1b972dbf490-c01
+
+Mari says astral is primary reality; physical worlds are restricted, agreed perceptions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [Positive Twist, Part One, Galactic Federation Part 5](https://swaruu.org/transcripts/positive-twist-part-one-galactic-federation-part-5) (2023-03-28; en); passages p0004, p0005. [Structured record](../../records/src-c1b972dbf490.json).
+
+### src-c1b972dbf490-c05
+
+Spirit guides are expanded aspects of the same souls, existing outside linear time.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [Positive Twist, Part One, Galactic Federation Part 5](https://swaruu.org/transcripts/positive-twist-part-one-galactic-federation-part-5) (2023-03-28; en); passages p0019, p0020. [Structured record](../../records/src-c1b972dbf490.json).
+
+### src-c1b972dbf490-c06
+
+Advanced souls may learn through empathy and observation without suffering.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: medium.
+
+Source: [Positive Twist, Part One, Galactic Federation Part 5](https://swaruu.org/transcripts/positive-twist-part-one-galactic-federation-part-5) (2023-03-28; en); passages p0021, p0022. [Structured record](../../records/src-c1b972dbf490.json).
+
 ### src-ff24151e015d-c02
 
 She says alcohol first disrupts higher cognitive and spiritual functions. Personal model.
@@ -8996,6 +9112,140 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu (2021)](https://swaruu.org/transcripts/tulpas-everything-is-a-tulpa-metaphysical-chat-with-yazhi-swaruu-2021) (2024-10-11; en); passages p0012, p0013. [Structured record](../../records/src-f8cf4e785330.json).
 
+### src-2618c8d0e230-c01
+
+Gosia teaches that manifestation reflects subconscious and unconscious beliefs as well as conscious intent, within this metaphysical model.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Power of Your Mind - The Subconscious/Unconscious Generates Your World (PART 2) - CLASS 014](https://swaruu.org/transcripts/power-of-your-mind-the-subconscious-unconscious-generates-your-world-part-2-class-014) (2026-05-02; en); passages p0011, p0015, p0018. [Structured record](../../records/src-2618c8d0e230.json).
+
+### src-2618c8d0e230-c02
+
+Swaruu of Erra compares conscious intent to a small share of a person’s total psyche and says unconscious patterns can contradict it.
+
+Attributed to **Swaruu of Erra**; asserted; extraction confidence: high.
+
+Source: [Power of Your Mind - The Subconscious/Unconscious Generates Your World (PART 2) - CLASS 014](https://swaruu.org/transcripts/power-of-your-mind-the-subconscious-unconscious-generates-your-world-part-2-class-014) (2026-05-02; en); passages p0017. [Structured record](../../records/src-2618c8d0e230.json).
+
+### src-2618c8d0e230-c03
+
+Gosia says physical manifestation is slower than in less dense spiritual realms and requires sustained focus plus compatible action.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Power of Your Mind - The Subconscious/Unconscious Generates Your World (PART 2) - CLASS 014](https://swaruu.org/transcripts/power-of-your-mind-the-subconscious-unconscious-generates-your-world-part-2-class-014) (2026-05-02; en); passages p0005. [Structured record](../../records/src-2618c8d0e230.json).
+
+### src-6d9b90ab765b-c02
+
+Gosia argues that idealizing ETs as superior reinforces separation; she frames starseeds as helping normalize contact and counter staged disclosure.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Starseeds and Awakening - Common Mistake when Embracing ET Reality](https://swaruu.org/transcripts/starseeds-and-awakening-common-mistake-when-embracing-et-reality) (2026-01-29; en); passages p0007, p0012, p0014. [Structured record](../../records/src-6d9b90ab765b.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-ac71d59738c3-c01
+
+Yazhi calls her influence an invasion because she has never been human; Gosia disputes this. They frame interference differently.
+
+Attributed to **Yazhi; Gosia**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Why Do I Continue? - Yazhi Swaruu](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-why-do-i-continue-yazhi-swaruu) (2026-04-07; en); passages p0011, p0014, p0015, p0019. [Structured record](../../records/src-ac71d59738c3.json).
+
+### src-ac71d59738c3-c02
+
+Gosia distinguishes offering ideas from coercion; Yazhi accepts information sharing as morally necessary.
+
+Attributed to **Gosia; Yazhi**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Why Do I Continue? - Yazhi Swaruu](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-why-do-i-continue-yazhi-swaruu) (2026-04-07; en); passages p0022, p0023, p0024. [Structured record](../../records/src-ac71d59738c3.json).
+
+### src-3dfabad0c315-c04
+
+Gosia says extraterrestrials cannot impose change; willing helpers say transformation must begin within humanity.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Life: How Would It Affect Humanity and You? - CLASS 010](https://swaruu.org/transcripts/extraterrestrial-life-how-would-it-affect-humanity-and-you-class-010) (2026-01-04; en); passages p0038, p0039. [Structured record](../../records/src-3dfabad0c315.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-7f611c295824-c04
+
+Swaruu says Earth’s problems need internal solutions; contacts should inform people and awaken a core.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Swaruu of Erra & Gosia – Private Conversation Before Public Contact (2018)](https://swaruu.org/transcripts/swaruu-of-erra-gosia-private-conversation-before-public-contact-2018) (2026-02-23; en); passages p0111. [Structured record](../../records/src-7f611c295824.json).
+
+### src-99cac8b36f12-c01
+
+Mari says collective unconscious beliefs can dampen individual manifestation on Earth.
+
+Attributed to **Mari (quoted by Gosia)**; reported; extraction confidence: high.
+
+Source: [Power of Your Mind - Collective Consciousness and Responsibility (PART 3) - CLASS 015](https://swaruu.org/transcripts/power-of-your-mind-collective-consciousness-and-responsibility-part-3-class-015) (2026-06-16; en); passages p0007, p0008. [Structured record](../../records/src-99cac8b36f12.json).
+
+### src-99cac8b36f12-c02
+
+Yazhi says greater awareness strengthens a being’s influence over the collective and brings greater responsibility.
+
+Attributed to **Yazhi Swaruu (quoted by Gosia)**; reported; extraction confidence: high.
+
+Source: [Power of Your Mind - Collective Consciousness and Responsibility (PART 3) - CLASS 015](https://swaruu.org/transcripts/power-of-your-mind-collective-consciousness-and-responsibility-part-3-class-015) (2026-06-16; en); passages p0021. [Structured record](../../records/src-99cac8b36f12.json).
+
+### src-dc53d4326450-c03
+
+Gosia reports no known telepathic or astral contact, but recalls a dream message she associated with Yazhi and Tina.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [Taygetan Communication - Athena and Yazhi Gone for a Year - Where do I Stand?](https://swaruu.org/transcripts/taygetan-communication-athena-and-yazhi-gone-for-a-year-where-do-i-stand) (2025-12-26; en); passages p0022. [Structured record](../../records/src-dc53d4326450.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-9088ba16e8c6-c01
+
+Swaruu of Erra describes conscious beings as Source fragments sharing its creative attributes.
+
+Attributed to **Swaruu of Erra**; asserted; extraction confidence: high.
+
+Source: [Power of Your Mind - Reality Begins in Consciousness (PART 1) - CLASS 013](https://swaruu.org/transcripts/power-of-your-mind-reality-begins-in-consciousness-part-1-class-013) (2026-04-20; en); passages p0009, p0010. [Structured record](../../records/src-9088ba16e8c6.json).
+
+### src-9088ba16e8c6-c02
+
+Mari’s model says thought creates etheric harmonics and standing waves that manifest matter.
+
+Attributed to **Mari**; asserted; extraction confidence: high.
+
+Source: [Power of Your Mind - Reality Begins in Consciousness (PART 1) - CLASS 013](https://swaruu.org/transcripts/power-of-your-mind-reality-begins-in-consciousness-part-1-class-013) (2026-04-20; en); passages p0021. [Structured record](../../records/src-9088ba16e8c6.json).
+
+### src-9088ba16e8c6-c03
+
+Gosia describes sustained attention as frequency matching that draws corresponding experiences.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Power of Your Mind - Reality Begins in Consciousness (PART 1) - CLASS 013](https://swaruu.org/transcripts/power-of-your-mind-reality-begins-in-consciousness-part-1-class-013) (2026-04-20; en); passages p0033, p0034. [Structured record](../../records/src-9088ba16e8c6.json).
+
+### src-9088ba16e8c6-c04
+
+Gosia says manifestation is not automatic; practical changes should support desired goals.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Power of Your Mind - Reality Begins in Consciousness (PART 1) - CLASS 013](https://swaruu.org/transcripts/power-of-your-mind-reality-begins-in-consciousness-part-1-class-013) (2026-04-20; en); passages p0053, p0054, p0067. [Structured record](../../records/src-9088ba16e8c6.json).
+
+### src-c3560b8010b9-c01
+
+Gosia says good and evil vary with perspective and human impact.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) (2026-07-07; en); passages p0011, p0012, p0018. [Structured record](../../records/src-c3560b8010b9.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c05](alien-species.md#src-a5811312e55c-c05) — Alien species and distinctions
@@ -9170,6 +9420,14 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - [src-a413a556fae4-c03](postmortem-realities.md#src-a413a556fae4-c03) — Postmortem realities
 - [src-c06b74035df0-c03](moon-matrix.md#src-c06b74035df0-c03) — Moon and terrestrial Matrix
 - [src-c06b74035df0-c04](moon-matrix.md#src-c06b74035df0-c04) — Moon and terrestrial Matrix
+- [src-073aba37af59-c03](tulpas.md#src-073aba37af59-c03) — Tulpas
+- [src-270ba8d9da62-c02](natural-portals.md#src-270ba8d9da62-c02) — Natural and artificial portals
+- [src-5aee7ebba0c5-c02](original-matrix.md#src-5aee7ebba0c5-c02) — Original Matrix
+- [src-5aee7ebba0c5-c06](timeline-branching.md#src-5aee7ebba0c5-c06) — Timeline branching
+- [src-5faa731bafee-c04](intraterrestrial-civilizations.md#src-5faa731bafee-c04) — Intraterrestrial civilizations
+- [src-f9def33665f4-c02](postmortem-realities.md#src-f9def33665f4-c02) — Postmortem realities
+- [src-f9def33665f4-c03](postmortem-realities.md#src-f9def33665f4-c03) — Postmortem realities
+- [src-71526671dc28-c01](matrix-generated-persons.md#src-71526671dc28-c01) — Matrix-generated persons
 - [src-af7fe8f320b2-c01](immersion-pods.md#src-af7fe8f320b2-c01) — Immersion pods
 - [src-af7fe8f320b2-c02](immersion-pods.md#src-af7fe8f320b2-c02) — Immersion pods
 - [src-af7fe8f320b2-c03](immersion-pods.md#src-af7fe8f320b2-c03) — Immersion pods
@@ -9321,18 +9579,36 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - [src-dbed5ac98466-c01](gravity-harmonics.md#src-dbed5ac98466-c01) — Gravity harmonics
 - [src-dbed5ac98466-c04](gravity-harmonics.md#src-dbed5ac98466-c04) — Gravity harmonics
 - [src-dbed5ac98466-c05](gravity-harmonics.md#src-dbed5ac98466-c05) — Gravity harmonics
+- [src-6d9b90ab765b-c01](moon-matrix.md#src-6d9b90ab765b-c01) — Moon and terrestrial Matrix
+- [src-6d9b90ab765b-c03](moon-matrix.md#src-6d9b90ab765b-c03) — Moon and terrestrial Matrix
+- [src-69ad8dca8c41-c04](total-immersion-simulations.md#src-69ad8dca8c41-c04) — Total-immersion simulations
+- [src-ac71d59738c3-c05](taygetans.md#src-ac71d59738c3-c05) — Taygetans
+- [src-3dfabad0c315-c03](holistic-society.md#src-3dfabad0c315-c03) — Holistic society
+- [src-7f611c295824-c01](human-clones.md#src-7f611c295824-c01) — Human clones and manufactured persons
+- [src-7f611c295824-c03](dna-metaphysics.md#src-7f611c295824-c03) — DNA and metaphysical patterns
+- [src-99cac8b36f12-c03](starseeds.md#src-99cac8b36f12-c03) — Starseeds
+- [src-99cac8b36f12-c04](starseeds.md#src-99cac8b36f12-c04) — Starseeds
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - 3d-to-5d-transition
 - 3d\_5d\_dna\_comparison
+- Abilities, body control, and density model are Yazhi’s self-reports
+- Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
+- Claims describe Mari’s spiritual model of the Federation and reincarnation
+- Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Higher-level free-will explanation is challenged by Gosia
+- Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Maitre\_relationship\_with\_Reptilians
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
+- Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Proposed intervention remains conditional and internally qualified
 - Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s
+- The cloning and genetic-control statements are Swaruu’s claims.
+- The discussion presents competing views on whether nonhuman influence counts as invasion.
+- These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
 - Yazhi-interview-report
@@ -9352,6 +9628,7 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - claim: extraordinary abduction and biology account
 - claims about current events and power structures are Mari’s interpretations
 - claims are attributed teachings from Space Academy, not independently verified
+- climate-claims
 - cognitive-dissonance-concept
 - comparative\_technology\_claims
 - conceptual-tension: real/unreal distinctions are context-dependent
@@ -9395,8 +9672,10 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - dietary\_advice
 - dog\_import\_exception\_is\_uncertain
 - earth-consciousness\_claim\_omitted
+- earth-control-claim-attributed
 - earth-population-claims
 - egregor-vs-species-levels
+- entertainment-disclaimer
 - ether\_and\_manifestation\_model
 - ether\_model
 - ethical\_perspective\_conflict
@@ -9442,6 +9721,7 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - historical-uncertainty
 - historical\_account\_unverified
 - hyperspace\_model
+- identity-uncertainty
 - institutional\_conspiracy\_claims
 - intercultural-claims
 - internal\_qualification
@@ -9454,6 +9734,7 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - long conversation contains disputed health claims not included in core extraction
 - lunar-reactor-age-origin-uncertainty
 - manifestation\_mechanics
+- matrix-scope-differing-views
 - matrix\_layers
 - matrix\_scope
 - media-control-allegation
@@ -9502,6 +9783,7 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - population-control-allegations
 - portal-mechanics-overlap-src-6abed4268d57
 - portal-technology-claims-unverified
+- post-eclipse-causal-attribution
 - postmortem-identity-ambiguity
 - project-guidance-attributed-to-mari
 - psychic-claims-unverified
@@ -9549,6 +9831,7 @@ Source: [Tulpas - "Everything is a Tulpa" - Metaphysical Chat with Yazhi Swaruu 
 - time\_travel\_risks
 - timeline\_model
 - translated-from-Spanish-original-not-available
+- translated-originally-Spanish
 - translated\_source
 - ufo\_researcher\_critique
 - unmapped\_regions\_and\_return\_risk

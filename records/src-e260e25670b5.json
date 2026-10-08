@@ -1,0 +1,92 @@
+{
+  "source_id": "src-e260e25670b5",
+  "snapshot_sha256": "ae4de2beaf87b8302ee78710c7dc20042eba580182f55c13e64a949fad995506",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e260e25670b5-c01",
+      "assertion": "Swaruu describes a soul as a Source fractal that accumulates life experience and retains identity after death.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Gender is not inherent."
+    },
+    {
+      "id": "src-e260e25670b5-c02",
+      "assertion": "Swaruu says each soul manifests its afterlife by frequency and beliefs; unresolved guilt or resentment can prompt reincarnation.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0035",
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "archons-and-demons"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "No guardian is needed."
+    },
+    {
+      "id": "src-e260e25670b5-c03",
+      "assertion": "Swaruu says animals have souls and pets may reincarnate and follow familiar people across lives.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0041",
+        "p0043",
+        "p0044",
+        "p0046"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Pets may return in new bodies."
+    },
+    {
+      "id": "src-e260e25670b5-c04",
+      "assertion": "Swaruu says sleep shifts soul attention to higher realms for rest; dreams are self-manifested realities where thoughts appear faster.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0107",
+        "p0109",
+        "p0111",
+        "p0120",
+        "p0126",
+        "p0127"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "afterlife-model-attributed"
+  ],
+  "coverage_gaps": [
+    "soul-body-interface"
+  ]
+}

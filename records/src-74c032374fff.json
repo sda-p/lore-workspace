@@ -1,0 +1,114 @@
+{
+  "source_id": "src-74c032374fff",
+  "snapshot_sha256": "d9f82d3fc5c5da6e7e7b425a4fd4f74009b60354fd6d5e39213f77d450845717",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-74c032374fff-c01",
+      "assertion": "The article uses Anunnaki for several reptilian groups controlling Earth, not one species.",
+      "speaker": "Article narrator",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "kingu"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74c032374fff-c02",
+      "assertion": "Asket says reptilian-run space operations use portals between Earth, Mars, and Venus.",
+      "speaker": "Asket, relayed by article narrator",
+      "paragraph_ids": [
+        "p0011",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "natural-portals",
+        "mars",
+        "venus"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74c032374fff-c03",
+      "assertion": "Asket says most captured craft belong to small Grey Gardeners, were downed by new energy weapons, and could permit reverse engineering.",
+      "speaker": "Asket, relayed by article narrator",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74c032374fff-c04",
+      "assertion": "The article identifies 19 Centauri L-class fighters as Black Knights; they disable US drones and intercept triangular craft.",
+      "speaker": "Article narrator",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "centauri-l-class-fighters",
+      "topics": [
+        "centauri-l-class-fighters"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-74c032374fff-c05",
+      "assertion": "Swaruu describes Taygetan society as voluntary councils without elections, money, or conventional government; residents contribute weekly communal work.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0034",
+        "p0035",
+        "p0037",
+        "p0038"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "centauri-l-class-fighters",
+      "name": "Centauri L-class fighters",
+      "kind": "technology",
+      "aliases": [
+        "Black Knight satellites",
+        "Black Knights",
+        "Caballeros Negros"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Anunnaki-subgroups",
+    "captured-craft-details",
+    "Taygetan-resource-system"
+  ]
+}

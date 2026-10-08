@@ -64,6 +64,14 @@ Attributed to **Za´el**; speculative; extraction confidence: high.
 
 Source: [What is Time and How It Works - Part 1: Your Context Data (ENGLISH)](https://swaruu.org/transcripts/what-is-time-and-how-it-works-part-1-your-context-data-english) (2023-03-05; en); passages p0002, p0013. [Structured record](../../records/src-89c62899ecb7.json).
 
+### src-529014e2b199-c03
+
+Yazhi says portal fluctuations may shift vessels to another location or only alter their temporal position.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [BERMUDA TRIANGLE - YAZHI \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/bermuda-triangle-yazhi) (2020-09-23; en); passages p0007, p0008. [Structured record](../../records/src-529014e2b199.json).
+
 ### src-30d632b02db6-c05
 
 Athena says time travel without an existing frequency map is inaccurate or unavailable.
@@ -364,6 +372,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 
 ## Claims filed under other topics
 
+- [src-c72b629726c7-c01](stellar-navigation.md#src-c72b629726c7-c01) — Stellar navigation
 - [src-07494ef21f67-c05](ship-internal-time.md#src-07494ef21f67-c05) — Ship internal time
 - [src-8ca54257f6a4-c04](cyndriel.md#src-8ca54257f6a4-c04) — Cyndriel
 - [src-b2a05f16c59d-c03](frequency-map-navigation.md#src-b2a05f16c59d-c03) — Frequency-map navigation
@@ -378,6 +387,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 ## Review flags
 
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
+- These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - conspiracy\_claims
 - extraordinary-ability-claims
 - internal-date-tension

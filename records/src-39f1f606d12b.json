@@ -1,0 +1,103 @@
+{
+  "source_id": "src-39f1f606d12b",
+  "snapshot_sha256": "e6cb659183aace0c77eb58c3731e6f4112022d9c84bf5d0111e36db0205f954e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-39f1f606d12b-c01",
+      "assertion": "Swaruu says ships tune internal consciousness to a destination’s frequency and time; time is another Ether coordinate.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "frequency-map-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-39f1f606d12b-c02",
+      "assertion": "She describes timelines as predictable frequency sequences, while observers can choose among countless prewritten lines.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0028",
+        "p0031",
+        "p0035"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-39f1f606d12b-c03",
+      "assertion": "Swaruu says mental control can steer populations toward selected timelines; people in one setting may inhabit different realities.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0040"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-39f1f606d12b-c04",
+      "assertion": "She says perfect clones may share one soul’s signal across bodies, while imperfect clones can differ in consciousness-link.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0042",
+        "p0044"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-39f1f606d12b-c05",
+      "assertion": "Swaruu characterizes clones as programmable biological machines, some lacking Source contact; tuned clones may host Walk-ins.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0045",
+        "p0048"
+      ],
+      "primary_topic": "human-clones",
+      "topics": [
+        "human-clones",
+        "walk-in-phenomenon"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "six-dimensional-map-model",
+    "clone-frequency-control",
+    "time-perception"
+  ]
+}

@@ -70,6 +70,11 @@ Source: [Interstellar Life 6C - Taygetan Pleiadian Advanced Fighter Crafts](http
 
 Related topics: [Artificial intelligence](artificial-intelligence.md).
 
+## Claims filed under other topics
+
+- [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation
+
 ## Review flags
 
 - classified-details
+- translation-equivalence-unverified

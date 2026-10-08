@@ -1,0 +1,80 @@
+{
+  "batch_id": "continuous-011",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-69ad8dca8c41",
+    "src-9088ba16e8c6",
+    "src-7935e066946e",
+    "src-2618c8d0e230",
+    "src-88e941a1512e",
+    "src-1d29aea5b394",
+    "src-6d9b90ab765b",
+    "src-110eac9645cb",
+    "src-99cac8b36f12",
+    "src-d892a9e298b1"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-69ad8dca8c41",
+      "claim_id": "src-69ad8dca8c41-c04",
+      "problem": "Source qualifies the body-selection account as specific to this starseed and includes exceptions for other starseeds.",
+      "action": "Narrowed the claim to this starseed and retained the separate awareness-versus-soul statement.",
+      "paragraph_ids": [
+        "p0203",
+        "p0205",
+        "p0207"
+      ]
+    },
+    {
+      "source_id": "src-69ad8dca8c41",
+      "claim_id": "src-69ad8dca8c41-c01",
+      "problem": "Assertion and qualifier were redundant within the 85-word source limit.",
+      "action": "Compressed the attribution while preserving the source’s uncertainty.",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ]
+    },
+    {
+      "source_id": "src-88e941a1512e",
+      "claim_id": "src-88e941a1512e-c05",
+      "problem": "A Draconian image caption was conflated with a separate needle-nose cargo ship; p0050 does not identify that vessel as Reptilian or Draconian.",
+      "action": "Removed unsupported species attribution and cited only the cargo-ship and portal passages.",
+      "paragraph_ids": [
+        "p0050",
+        "p0052"
+      ]
+    },
+    {
+      "source_id": "src-110eac9645cb",
+      "claim_id": "src-110eac9645cb-c03",
+      "problem": "Qualifier said food for everyone was rationed, but the cited discussion only explicitly says cat food was measured; preceding exchange is ambiguous about general rationing.",
+      "action": "Narrowed qualifier to the explicit cat-food measurement and early depletion.",
+      "paragraph_ids": [
+        "p0122",
+        "p0123",
+        "p0126",
+        "p0127"
+      ]
+    },
+    {
+      "source_id": "src-99cac8b36f12",
+      "claim_id": "src-99cac8b36f12-c02",
+      "problem": "Citations mixed Gosia narration and Mari’s quote into a claim attributed to Yazhi.",
+      "action": "Narrowed the paraphrase and citation to Yazhi’s quoted statement in p0021.",
+      "paragraph_ids": [
+        "p0021"
+      ]
+    },
+    {
+      "source_id": "src-99cac8b36f12",
+      "claim_id": "src-99cac8b36f12-c04",
+      "problem": "The claim was attributed to Sav’el but also cited Mari’s distinct supporting statement.",
+      "action": "Removed the cross-speaker citation; the claim is fully supported by Sav’el’s p0035 statement.",
+      "paragraph_ids": [
+        "p0035"
+      ]
+    }
+  ],
+  "unresolved": []
+}

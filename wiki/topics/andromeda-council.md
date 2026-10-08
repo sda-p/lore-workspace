@@ -38,6 +38,7 @@ Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politi
 - [src-c972fa5ca890-c01](nonhuman-surveillance-drones.md#src-c972fa5ca890-c01) — Nonhuman surveillance drones
 - [src-2c37577fd6a4-c01](galactic-federation.md#src-2c37577fd6a4-c01) — Galactic Federation
 - [src-dafa77b48f2e-c01](galactic-federation.md#src-dafa77b48f2e-c01) — Galactic Federation
+- [src-d088ff3491c4-c05](alien-species.md#src-d088ff3491c4-c05) — Alien species and distinctions
 
 ## Review flags
 
@@ -47,4 +48,5 @@ Source: [Taygeta Space News, 37, Galactic Federation Update, Taygetan exo-politi
 - conspiracy\_claims
 - political-structure-unverified
 - saturn-council-uncertainty
+- translated-originally-Spanish
 - unverified\_extraterrestrial\_claims

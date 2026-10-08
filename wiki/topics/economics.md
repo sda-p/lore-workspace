@@ -538,6 +538,16 @@ Attributed to **Gosia**; reported; extraction confidence: high.
 
 Source: [Gosia and Robert - Money & Fame, And True Intentions](https://swaruu.org/transcripts/gosia-and-robert-money-fame-and-true-intentions) (2025-07-29; en); passages p0040, p0041. [Structured record](../../records/src-3980f5f58d0b.json).
 
+### src-110eac9645cb-c03
+
+Yazhi said 22 cats contributed to crew conflict, while a past feline mess damaged critical equipment. Cats' portions were measured after they depleted supplies early.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Yazhi and Gosia - Gosia´s Doubts](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-yazhi-and-gosia-gosia-s-doubts) (2026-03-28; en); passages p0065, p0069, p0112, p0122, p0126, p0127. [Structured record](../../records/src-110eac9645cb.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -563,6 +573,7 @@ Source: [Gosia and Robert - Money & Fame, And True Intentions](https://swaruu.or
 - [src-4667fff63537-c03](galactic-federation.md#src-4667fff63537-c03) — Galactic Federation
 - [src-3182af03be61-c05](earth-cabal.md#src-3182af03be61-c05) — Earth Cabal and power structures
 - [src-3c70c40f1bbb-c04](earth-cabal.md#src-3c70c40f1bbb-c04) — Earth Cabal and power structures
+- [src-c72b629726c7-c02](stellar-navigation.md#src-c72b629726c7-c02) — Stellar navigation
 - [src-5759f6ed8a71-c05](starship-systems.md#src-5759f6ed8a71-c05) — Starship systems
 - [src-d9efe19e10ad-c03](holistic-society.md#src-d9efe19e10ad-c03) — Holistic society
 - [src-cff930fb7cbd-c04](holistic-society.md#src-cff930fb7cbd-c04) — Holistic society
@@ -581,6 +592,7 @@ Source: [Gosia and Robert - Money & Fame, And True Intentions](https://swaruu.or
 - [src-f9789939fb7e-c02](taygetans.md#src-f9789939fb7e-c02) — Taygetans
 - [src-f9789939fb7e-c04](starship-systems.md#src-f9789939fb7e-c04) — Starship systems
 - [src-3980f5f58d0b-c05](taygetans.md#src-3980f5f58d0b-c05) — Taygetans
+- [src-3dfabad0c315-c02](holistic-society.md#src-3dfabad0c315-c02) — Holistic society
 
 ## Review flags
 

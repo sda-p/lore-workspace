@@ -1,0 +1,134 @@
+{
+  "source_id": "src-54b7fc64a7de",
+  "snapshot_sha256": "36e802794cbd7d9cc898126622cf95098500bfd2b37ef5b44a5707ac77074103",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-54b7fc64a7de-c01",
+      "assertion": "Swaruu says Taygetan ships navigate with Muon/Tachyon factors; coded Muons enable near-instant interstellar communication.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "frequency-map-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-54b7fc64a7de-c02",
+      "assertion": "Sublight engines use gravity manipulation or plasma jets; interstellar flight uses toroidal plasma immersion.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-54b7fc64a7de-c03",
+      "assertion": "Supraluminal maps encode locations as unique Dz frequencies; more decimal detail narrows destinations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0041",
+        "p0042",
+        "p0047",
+        "p0051"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-54b7fc64a7de-c04",
+      "assertion": "Route harmonics plot courses; dissonance can eject ships early from hyperspace.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0058",
+        "p0059",
+        "p0060"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Usually in deep space, non-catastrophic."
+    },
+    {
+      "id": "src-54b7fc64a7de-c05",
+      "assertion": "FTL ships use Bil’h for where, Na’al for when, and Ho’dee’zá for approach direction.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0070",
+        "p0072",
+        "p0073",
+        "p0075"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-54b7fc64a7de-c06",
+      "assertion": "Swaruu says FTL is time travel, requiring ethical-spiritual maturity because interventions can alter timelines.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0071",
+        "p0076",
+        "p0077",
+        "p0078",
+        "p0079",
+        "p0080"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "same-language-near-duplicate-src-6a5223076196",
+    "title-metadata-diff"
+  ],
+  "coverage_gaps": [
+    "Dz unit definition",
+    "coordinate examples",
+    "Muon mechanics"
+  ]
+}

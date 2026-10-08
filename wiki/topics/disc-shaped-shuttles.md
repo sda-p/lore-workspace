@@ -68,6 +68,14 @@ Source: [Interstellar Life 6B - Taygetan Pleiadian Advanced Fighter Crafts - Yaz
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-cdc00e8b66c4-c01
+
+Yazhi says magnetic saucer engines create toroidal frequency shifts; disc shape distributes their weaker field, but interstellar use is impractical.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Interstellar Life 13 (Part 1) – Various Questions Related to Spaceships](https://swaruu.org/transcripts/interstellar-life-13-part-1-various-questions-related-to-spaceships) (2026-05-09; en); passages p0004, p0005, p0007. [Structured record](../../records/src-cdc00e8b66c4.json).
+
 ## Claims filed under other topics
 
 - [src-96581cc2ca29-c03](starship-systems.md#src-96581cc2ca29-c03) — Starship systems
@@ -76,3 +84,4 @@ Related topics: [Starship systems](starship-systems.md).
 ## Review flags
 
 - Billy\_Meier\_photo\_authenticity\_uncertain
+- Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available

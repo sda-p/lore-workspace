@@ -1624,6 +1624,80 @@ Source: [Conclusions 01, Galactic Federation. (English)](https://swaruu.org/tran
 
 Related topics: [Economics and resources](economics.md).
 
+### src-d24ef904f63a-c01
+
+Anéeka interprets a 2021 social-platform outage as a simulation for a possible later shutdown of major social networks, not the whole internet.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Social Networks Disconnection - Text only](https://swaruu.org/transcripts/social-networks-disconnection-text-only) (2021-10-07; en); passages p0004, p0006, p0008, p0009. [Structured record](../../records/src-d24ef904f63a.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-d24ef904f63a-c02
+
+Anéeka predicts such an outage could be used to justify identity checks for internet access, while emphasizing the scenario is uncertain.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [Social Networks Disconnection - Text only](https://swaruu.org/transcripts/social-networks-disconnection-text-only) (2021-10-07; en); passages p0012, p0017, p0019, p0020. [Structured record](../../records/src-d24ef904f63a.json).
+
+Related topics: [Artificial intelligence](artificial-intelligence.md).
+
+### src-5faa731bafee-c05
+
+Swaruu says Cabal climate messaging promotes carbon bonds, taxes, and regulations, citing Greta as a campaign figure.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Global Warming, Climate Change, Greta Thumberg? Swaruu (Taygeta-Pleiades) Responds](https://swaruu.org/transcripts/global-warming-climate-change-greta-thumberg-swaruu-taygeta-pleiades-responds) (2019-10-15; en); passages p0081, p0084, p0088, p0089, p0092, p0093. [Structured record](../../records/src-5faa731bafee.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-87bd832ea105-c01
+
+Athena says controllers orchestrate conflicts across sides to create civilian suffering and distraction.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ucranian Conflict - Why? Athena Swaruu´s Short Commentary](https://swaruu.org/transcripts/ucranian-conflict-why-athena-swaruu-s-short-commentary) (2022-02-27; en); passages p0003, p0004, p0013. [Structured record](../../records/src-87bd832ea105.json).
+
+Related topics: [Ukraine](ukraine.md).
+
+### src-dbf603b5173d-c01
+
+Gosia says terrestrial governments are compartmentalized: lower officials may believe humanity is alone, while hidden upper levels know of extraterrestrials and contacts. She presents this as her account of Earth’s power structure.
+
+Attributed to **Gosia**; reported; extraction confidence: high.
+
+Source: [UFO/UAP Disclosure - Truth, Psyop, or Damage Control?? - CLASS 011](https://swaruu.org/transcripts/ufo-uap-disclosure-truth-psyop-or-damage-control-class-011) (2026-02-11; en); passages p0012, p0013. [Structured record](../../records/src-dbf603b5173d.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-7c1f9d5dcb76-c01
+
+Mari says controllers amplify isolated crises through coordinated media narratives but do not seek global destruction. She says isolated conflicts serve their interests.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Nuclear scare, don’t worry](https://swaruu.org/transcripts/nuclear-scare-don-t-worry) (2023-02-27; en); passages p0016, p0017, p0019, p0021. [Structured record](../../records/src-7c1f9d5dcb76.json).
+
+### src-5b080090c62f-c01
+
+Athena theorizes controllers seek to exhaust Russia and NATO-West in a non-nuclear attrition war, leaving China dominant militarily and industrially. She presents this as her reading of current strategy and admits she could be wrong.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [China - Russia - Ucraine - New World Order - Athena Swaruu´s Thoughts](https://swaruu.org/transcripts/china-russia-ucraine-new-world-order-athena-swaruu-s-thoughts) (2022-03-02; en); passages p0013, p0014, p0015, p0020. [Structured record](../../records/src-5b080090c62f.json).
+
+### src-5b080090c62f-c02
+
+Athena says both wartime sides spread disinformation, so public media reports do not reveal battlefield reality.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [China - Russia - Ucraine - New World Order - Athena Swaruu´s Thoughts](https://swaruu.org/transcripts/china-russia-ucraine-new-world-order-athena-swaruu-s-thoughts) (2022-03-02; en); passages p0025, p0026. [Structured record](../../records/src-5b080090c62f.json).
+
 ### src-d9efe19e10ad-c05
 
 Mari portrays secret societies as influencing governments from behind the scenes. Conspiracy claim.
@@ -2294,6 +2368,30 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (English)](https://swaruu.org/transcripts/space-news-49-new-spaceport-more-on-australia-my-health-birthday-english) (2024-10-26; en); passages p0014, p0015. [Structured record](../../records/src-6b5449860d14.json).
 
+### src-ac71d59738c3-c04
+
+Yazhi says broadcasts shift minds indirectly, creating chains of influence against the Cabal.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [BLAST FROM THE PAST: Behind the Mission: Why Do I Continue? - Yazhi Swaruu](https://swaruu.org/transcripts/blast-from-the-past-behind-the-mission-why-do-i-continue-yazhi-swaruu) (2026-04-07; en); passages p0069, p0090, p0091. [Structured record](../../records/src-ac71d59738c3.json).
+
+### src-c3560b8010b9-c04
+
+Gosia alleges regressive Reptilian, Draco, and Grey factions manipulate Earth with secret societies.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) (2026-07-07; en); passages p0032, p0033, p0035. [Structured record](../../records/src-c3560b8010b9.json).
+
+### src-c3560b8010b9-c07
+
+Gosia says regressive groups prefer covert exploitation to overt invasion.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Are They Friendly? Extraterrestrials - Good or Bad? Class 016](https://swaruu.org/transcripts/are-they-friendly-extraterrestrials-good-or-bad-class-016) (2026-07-07; en); passages p0038, p0039, p0040. [Structured record](../../records/src-c3560b8010b9.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -2347,6 +2445,13 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - [src-88ba599fa614-c03](terrestrial-science.md#src-88ba599fa614-c03) — Terrestrial science
 - [src-c147ae1148dd-c03](original-matrix.md#src-c147ae1148dd-c03) — Original Matrix
 - [src-c147ae1148dd-c04](original-matrix.md#src-c147ae1148dd-c04) — Original Matrix
+- [src-1c425730a068-c01](false-alien-invasion.md#src-1c425730a068-c01) — False alien invasion scenarios
+- [src-270ba8d9da62-c02](natural-portals.md#src-270ba8d9da62-c02) — Natural and artificial portals
+- [src-0a2dec346e2d-c05](bigfoot-sasquatch.md#src-0a2dec346e2d-c05) — Bigfoot, Sasquatch and Yeti
+- [src-45ef563e0d5a-c04](ancient-egypt.md#src-45ef563e0d5a-c04) — Ancient Egypt
+- [src-87bd832ea105-c05](egregors.md#src-87bd832ea105-c05) — Egregors
+- [src-dbf603b5173d-c02](false-alien-invasion.md#src-dbf603b5173d-c02) — False alien invasion scenarios
+- [src-dbf603b5173d-c03](false-alien-invasion.md#src-dbf603b5173d-c03) — False alien invasion scenarios
 - [src-d9efe19e10ad-c04](holistic-society.md#src-d9efe19e10ad-c04) — Holistic society
 - [src-af4500c882ec-c02](terrestrial-science.md#src-af4500c882ec-c02) — Terrestrial science
 - [src-834f9cdfbb00-c04](galactic-federation.md#src-834f9cdfbb00-c04) — Galactic Federation
@@ -2396,9 +2501,11 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - [src-bddaa45917d5-c01](galactic-federation.md#src-bddaa45917d5-c01) — Galactic Federation
 - [src-bddaa45917d5-c03](galactic-federation.md#src-bddaa45917d5-c03) — Galactic Federation
 - [src-bddaa45917d5-c04](galactic-federation.md#src-bddaa45917d5-c04) — Galactic Federation
+- [src-3dfabad0c315-c05](alien-species.md#src-3dfabad0c315-c05) — Alien species and distinctions
 
 ## Review flags
 
+- 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
 - AI\_capability\_claims\_unverified
 - Australian-traffic-purpose-unknown
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
@@ -2408,6 +2515,8 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - Maitre\_relationship\_with\_Reptilians
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Proposed intervention remains conditional and internally qualified
+- The discussion presents competing views on whether nonhuman influence counts as invasion.
+- These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - agenda\_term\_varies
 - ark\_location\_and\_war\_claims\_unverified
 - attack-theory\_speculative
@@ -2421,6 +2530,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - claims are attributed teachings from Space Academy, not independently verified
 - claims are presented as attributed lore and quotations within a lesson
 - claims reflect Space Academy’s attributed lore
+- climate-claims
 - competing\_attributions
 - conditional\_forecast
 - conflict\_claims\_unverified
@@ -2445,13 +2555,16 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - diet\_claim\_omitted
 - disaster claims are source allegations; no corroboration in snapshot
 - disaster-causation-unverified
+- disclosure-agenda-speculative
 - disclosure\_claims\_unverified
 - disputed\_specimen
 - earth-consciousness\_claim\_omitted
+- earth-control-claim-attributed
 - earth-population-claims
 - earthquake-causation-unverified
 - eclipse-portal-claims-unverified
 - egregor-vs-species-levels
+- entertainment-disclaimer
 - ethical\_perspective\_conflict
 - extraordinary-contact-claims
 - extraordinary-technology-claims
@@ -2521,6 +2634,7 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - political-narrative\_attributed
 - political\_conspiracy\_claims
 - population-control-allegations
+- post-eclipse-causal-attribution
 - prior\_statement\_conflict
 - protest\_operation\_allegations
 - reincarnation-cosmology
@@ -2541,7 +2655,9 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - terrestrial-history-claims-unverified
 - time-bound-prediction
 - time\_travel\_lore
+- translated-originally-Spanish
 - translated\_source
+- translation-equivalence-unverified
 - translation-not-applicable
 - transport\_safety\_and\_policy\_claims\_unverified
 - ufo\_researcher\_critique
@@ -2577,4 +2693,5 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - virus-account-internal-tension
 - visitors-identified-as-key-returners
 - warrior\_symbolism
+- wartime-conspiracy-claims
 - zero-point-mechanics

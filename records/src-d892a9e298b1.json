@@ -1,0 +1,78 @@
+{
+  "source_id": "src-d892a9e298b1",
+  "snapshot_sha256": "9cc74972438bf971c10085f7ec68a07344c43db9ae47d1fc4a18e9251d3e57f9",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-d892a9e298b1-c01",
+      "assertion": "Athena says some crew wanted to stop human interaction because they considered its personal cost too high, not because it lacked value.",
+      "speaker": "Athena, reporting crew members",
+      "paragraph_ids": [
+        "p0031"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d892a9e298b1-c02",
+      "assertion": "Athena says advanced technology did not eliminate risks near Earth, though the crew could return home and chose not to.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d892a9e298b1-c03",
+      "assertion": "Athena speculated that a massive solar coronal ejection during the conflict might have opened an energy portal for entities or thought patterns.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "taygetans"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d892a9e298b1-c04",
+      "assertion": "Athena described Aneeka’s condition as systemic, affecting her whole body rather than only her eye.",
+      "speaker": "Athena",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "conflict-causation-uncertain"
+  ],
+  "coverage_gaps": [
+    "Yazhi-psychic-attack-claim"
+  ]
+}

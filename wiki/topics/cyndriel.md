@@ -28,6 +28,48 @@ Source: [Minitopics - Information from Taygetan Team (Pleiades) - Extraterrestri
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-7ced6b157e35-c01
+
+Cyndriel has 0.7g gravity and ~80% oxygen, toxic to unacclimatized Earth arrivals.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-no-video) (2021-11-21; en); passages p0004. [Structured record](../../records/src-7ced6b157e35.json).
+
+### src-7ced6b157e35-c02
+
+Desert, radiation, and sandstorms push settlements underground despite subterranean water.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-no-video) (2021-11-21; en); passages p0003, p0033. [Structured record](../../records/src-7ced6b157e35.json).
+
+### src-7ced6b157e35-c03
+
+Endemic flora and fauna adapt to constant daylight and Aldebaran radiation.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-no-video) (2021-11-21; en); passages p0036, p0037, p0061. [Structured record](../../records/src-7ced6b157e35.json).
+
+### src-7ced6b157e35-c06
+
+It hosts Alcyone Council spaceport work, research, retirement, and tourism.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-no-video) (2021-11-21; en); passages p0074, p0075. [Structured record](../../records/src-7ced6b157e35.json).
+
+Related topics: [Taygetans](taygetans.md), [Alcyone Council](alcyone-council.md).
+
+### src-7ced6b157e35-c07
+
+Underground farms control crops and cycles to protect native ecosystems.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-no-video) (2021-11-21; en); passages p0082, p0083. [Structured record](../../records/src-7ced6b157e35.json).
+
 ### src-07494ef21f67-c02
 
 She says Cyndriel’s bright Aldebaran sky prevents reliable solar timekeeping.
@@ -99,11 +141,13 @@ Related topics: [Starship systems](starship-systems.md).
 ## Claims filed under other topics
 
 - [src-67f9e11f45a4-c06](amelie.md#src-67f9e11f45a4-c06) — Amelie
+- [src-7ced6b157e35-c05](taygetans.md#src-7ced6b157e35-c05) — Taygetans
 - [src-cff930fb7cbd-c01](taygetans.md#src-cff930fb7cbd-c01) — Taygetans
 
 ## Review flags
 
 - Alenym-retirement-not-decided
+- Cyndriel time-difference mechanism remains unknown.
 - unverified\_biological\_and\_metaphysical\_claims
 - unverified\_extraterrestrial\_claims
 - unverified\_temporal\_claims

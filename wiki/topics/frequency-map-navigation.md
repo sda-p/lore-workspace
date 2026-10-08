@@ -58,6 +58,16 @@ Source: [The Astral. Part 02 (English)](https://swaruu.org/transcripts/the-astra
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-270ba8d9da62-c03
+
+Her ship and drone sensors map hotspots where lower-astral and material frequencies overlap.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Post Eclipse Entities](https://swaruu.org/transcripts/post-eclipse-entities) (2024-05-13; en); passages p0005, p0013, p0014. [Structured record](../../records/src-270ba8d9da62.json).
+
+Related topics: [Nonhuman surveillance drones](nonhuman-surveillance-drones.md), [Postmortem realities](postmortem-realities.md).
+
 ### src-30d632b02db6-c04
 
 Athena says gravity maps use sensors and formulas to predict changing spatial frequency addresses.
@@ -164,10 +174,12 @@ Source: [Athena Swaruu - Spiritual Chat with Dale & Rich (2021) - Galactic Feder
 - author-personal-philosophical-analysis
 - conspiracy\_claims
 - contested\_historical\_claims
+- entertainment-disclaimer
 - ethical\_use\_limits
 - long conversation contains disputed health claims not included in core extraction
 - nonhuman-technology\_claims\_attributed
 - portal-mechanics-overlap-src-6abed4268d57
+- post-eclipse-causal-attribution
 - speaker-shifts-Aneeka-Athena-Yazhi
 - time\_travel\_lore
 - translated-from-Spanish-original-not-available

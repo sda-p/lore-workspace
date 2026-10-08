@@ -398,6 +398,14 @@ Source: [Space News 21. April 25 2024, Kassia, Etorthans, Greys, Toleka, Asterop
 
 Related topics: [Artificial intelligence](artificial-intelligence.md).
 
+### src-1d29aea5b394-c04
+
+Athena says Taygetan photos can be 3D and touch-expandable; holographic formats are incompatible with digital ones.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Random Conversations with the Taygetan Pleiadians - Mini Topics](https://swaruu.org/transcripts/random-conversations-with-the-taygetan-pleiadians-mini-topics) (2025-12-21; en); passages p0049, p0050, p0052. [Structured record](../../records/src-1d29aea5b394.json).
+
 ## Claims filed under other topics
 
 - [src-f22366424c26-c01](moon-matrix.md#src-f22366424c26-c01) — Moon and terrestrial Matrix

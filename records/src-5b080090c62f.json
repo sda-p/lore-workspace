@@ -1,0 +1,48 @@
+{
+  "source_id": "src-5b080090c62f",
+  "snapshot_sha256": "2548e1e12cd55f9b036ca5ca2cad9d3231c72152b74ed346707023e758c5378c",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-5b080090c62f-c01",
+      "assertion": "Athena theorizes controllers seek to exhaust Russia and NATO-West in a non-nuclear attrition war, leaving China dominant militarily and industrially.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents this as her reading of current strategy and admits she could be wrong."
+    },
+    {
+      "id": "src-5b080090c62f-c02",
+      "assertion": "Athena says both wartime sides spread disinformation, so public media reports do not reveal battlefield reality.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "translation-equivalence-unverified"
+  ],
+  "coverage_gaps": [
+    "china-population-policy-details"
+  ]
+}

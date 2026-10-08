@@ -1,0 +1,104 @@
+{
+  "source_id": "src-349f835aa3ef",
+  "snapshot_sha256": "e4567a8fc85b8fe664d2663a624fc24c64d7871bfb6aec98b510bf8cf6a2b446",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-349f835aa3ef-c01",
+      "assertion": "Swaruu says plasma-turbine output frequency is controlled by relative speeds of counter-rotating layers.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-349f835aa3ef-c02",
+      "assertion": "Connecting the ship’s nose to rear plasma flow closes an electromagnetic circuit, forming a high-energy toroid.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-349f835aa3ef-c03",
+      "assertion": "The dominant-frequency toroid envelops ship and occupants, imposing its frequency and selectable density on them.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "frequency-map-navigation",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-349f835aa3ef-c04",
+      "assertion": "The computer matches toroid frequency to a mapped destination; the ship enters Ether and reappears there instantaneously.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-349f835aa3ef-c05",
+      "assertion": "She says this is frequency change, not physical movement; apparent travel time is occupants’ perception.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0024"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located."
+  ],
+  "coverage_gaps": [
+    "turbine-materials",
+    "plasma-jet-propulsion",
+    "distance-map-model"
+  ]
+}

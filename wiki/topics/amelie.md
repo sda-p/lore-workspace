@@ -18,7 +18,16 @@ Source: [Minitopics - Information from Taygetan Team (Pleiades) - Extraterrestri
 
 Related topics: [Cyndriel](cyndriel.md).
 
+### src-7ced6b157e35-c04
+
+Anéeka describes Amélie as high-density telepaths appearing as light or observer-suited forms.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [CYNDRIEL - ALDEBARAN \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-no-video) (2021-11-21; en); passages p0064, p0065, p0066, p0067. [Structured record](../../records/src-7ced6b157e35.json).
+
 ## Review flags
 
+- Cyndriel time-difference mechanism remains unknown.
 - unverified\_biological\_and\_metaphysical\_claims
 - weather\_claims

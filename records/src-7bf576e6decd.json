@@ -1,0 +1,86 @@
+{
+  "source_id": "src-7bf576e6decd",
+  "snapshot_sha256": "b309973ea76c546ae12e166b4ee71bf00f18b486b6c1a5b9f8f810d2fbb413fa",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7bf576e6decd-c01",
+      "assertion": "Yazhi says a soul is the Source’s attention, never created or destroyed; perception-frequency agreements shape density, dimension, and species compatibility.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7bf576e6decd-c02",
+      "assertion": "She says expanded souls may reincarnate in another species, remain astral, or form a new race; Taygetans can also reproduce by parthenogenesis.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "taygetan-parthenogenesis",
+      "topics": [
+        "taygetan-parthenogenesis",
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes cloned mother-daughter pairs as genetically identical."
+    },
+    {
+      "id": "src-7bf576e6decd-c03",
+      "assertion": "Yazhi says conscious time manipulation can alter frequency, density, and dimension without a ship; she describes shifting among her other identities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0052",
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-parthenogenesis",
+      "name": "Taygetan parthenogenesis",
+      "kind": "biology",
+      "aliases": [
+        "Taygetan self-cloning"
+      ]
+    }
+  ],
+  "review_flags": [
+    "soul-and-density-doctrine-attributed"
+  ],
+  "coverage_gaps": [
+    "Yazhi-identity-and-incarnation-details",
+    "time-travel-training"
+  ]
+}

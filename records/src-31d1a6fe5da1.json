@@ -1,0 +1,103 @@
+{
+  "source_id": "src-31d1a6fe5da1",
+  "snapshot_sha256": "df04f2adf88f0d40016fe4be7791825cb291c515e4cc4f8093568b07e2fba5b9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-31d1a6fe5da1-c01",
+      "assertion": "A ship’s computer-controlled toroid imposes destination frequency on ship and contents, enabling instantaneous space-time travel, says Swaruu.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0011"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31d1a6fe5da1-c02",
+      "assertion": "She says destinations coexist; matching frequencies changes perceived location, while time is another frequency parameter.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31d1a6fe5da1-c03",
+      "assertion": "Swaruu ties perceived time to consciousness and data processing; collective perceptions produce different apparent temporal rates across worlds.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31d1a6fe5da1-c04",
+      "assertion": "She says Earth 5D already exists at another frequency; inhabitants’ collective perception determines access.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31d1a6fe5da1-c05",
+      "assertion": "Swaruu withholds maps and materials; she reports Anéeka distinguishes their muon system from a terrestrial patent.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "frequency-map-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Anéeka is quoted through Swaruu."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "toroid-frequency-mechanics",
+    "time-perception-ratios",
+    "Earth-5D-claims"
+  ]
+}

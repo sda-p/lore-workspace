@@ -1092,6 +1092,16 @@ Source: [Orion Mothership entering Earth? NOTHING is happening - Yazhi Swaruu](h
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-bd13d89221e8-c01
+
+Yazhi describes 3D Earth as a controlled experiential Matrix overseen from 5D, which she says may be reset when awakening destabilizes it.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Planetary Reset, 3D Matrix - Federation - Human Civilization (Yazhi Swaruu)](https://swaruu.org/transcripts/planetary-reset-3d-matrix-federation-human-civilization-yazhi-swaruu) (2020-08-16; en); passages p0025, p0026, p0028, p0029. [Structured record](../../records/src-bd13d89221e8.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ### src-2d000b01da1d-c01
 
 Mari says religions shape collective beliefs and can reinforce an Earth Matrix.
@@ -1302,6 +1312,36 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu)](https://swaruu.org/transcripts/mini-mini-topics-quick-questions-and-answers-yazhi-and-athena-swaruu) (2024-11-18; en); passages p0015, p0016, p0017. [Structured record](../../records/src-d3aa4459ae38.json).
 
+### src-6d9b90ab765b-c01
+
+Gosia interprets Matrix withdrawal as people becoming self-reliant rather than awaiting external ET authority.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Starseeds and Awakening - Common Mistake when Embracing ET Reality](https://swaruu.org/transcripts/starseeds-and-awakening-common-mistake-when-embracing-et-reality) (2026-01-29; en); passages p0005, p0006. [Structured record](../../records/src-6d9b90ab765b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6d9b90ab765b-c03
+
+Gosia says lunar technology and long-term mental manipulation are presented as causes of humans’ perceived separation from cosmic identity.
+
+Attributed to **Gosia**; reported; extraction confidence: medium.
+
+Source: [Starseeds and Awakening - Common Mistake when Embracing ET Reality](https://swaruu.org/transcripts/starseeds-and-awakening-common-mistake-when-embracing-et-reality) (2026-01-29; en); passages p0010, p0013. [Structured record](../../records/src-6d9b90ab765b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3dfabad0c315-c01
+
+Gosia says Earth’s Matrix sustains itself by isolating humanity and suppressing awareness of extraterrestrial life.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Extraterrestrial Life: How Would It Affect Humanity and You? - CLASS 010](https://swaruu.org/transcripts/extraterrestrial-life-how-would-it-affect-humanity-and-you-class-010) (2026-01-04; en); passages p0007, p0008. [Structured record](../../records/src-3dfabad0c315.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -1337,6 +1377,9 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - [src-ac1ba0859491-c02](moon-biosphere-ship.md#src-ac1ba0859491-c02) — The Moon as a biosphere ship
 - [src-ac1ba0859491-c03](moon-biosphere-ship.md#src-ac1ba0859491-c03) — The Moon as a biosphere ship
 - [src-ac1ba0859491-c04](moon-biosphere-ship.md#src-ac1ba0859491-c04) — The Moon as a biosphere ship
+- [src-bd13d89221e8-c03](atlantis-lemuria.md#src-bd13d89221e8-c03) — Atlantis and Lemuria
+- [src-1c425730a068-c02](galactic-federation.md#src-1c425730a068-c02) — Galactic Federation
+- [src-71526671dc28-c04](original-matrix.md#src-71526671dc28-c04) — Original Matrix
 - [src-1aaa84ea5a0d-c01](earth-cabal.md#src-1aaa84ea5a0d-c01) — Earth Cabal and power structures
 - [src-1aaa84ea5a0d-c02](earth-cabal.md#src-1aaa84ea5a0d-c02) — Earth Cabal and power structures
 - [src-1aaa84ea5a0d-c03](earth-cabal.md#src-1aaa84ea5a0d-c03) — Earth Cabal and power structures
@@ -1359,12 +1402,14 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - [src-f624a9cc2d74-c05](galactic-federation.md#src-f624a9cc2d74-c05) — Galactic Federation
 - [src-dec092ce158f-c04](consciousness-metaphysics.md#src-dec092ce158f-c04) — Consciousness and metaphysics
 - [src-fe82d1a07961-c04](galactic-federation.md#src-fe82d1a07961-c04) — Galactic Federation
+- [src-69ad8dca8c41-c03](total-immersion-simulations.md#src-69ad8dca8c41-c03) — Total-immersion simulations
 
 ## Review flags
 
 - 3d-to-5d-transition
 - Federation-arguments\_reported
 - Federation-policy\_claims\_attributed
+- Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - afterlife\_model
 - agency\_and\_noninterference
@@ -1407,6 +1452,7 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - internal\_uncertainty
 - lunar-reactor-age-origin-uncertainty
 - manifestation\_mechanics
+- matrix-scope-differing-views
 - matrix\_layers
 - matrix\_scope
 - medical-misinformation: pandemic, testing, and vaccine claims
@@ -1428,6 +1474,7 @@ Source: [Mini-Mini Topics - Quick Questions and Answers (Yazhi and Athena Swaruu
 - technology\_and\_mind\_interface
 - terminology: “positronic” is a human-language approximation (p0002)
 - time\_and\_dimension\_claims\_unverified
+- translated-originally-Spanish
 - uncertainty-shift: 5G moves from possible explanation to formal position
 - unverified-astral-causation
 - unverified\_biological\_claims

@@ -224,6 +224,16 @@ Source: [Yazhi Swaruu and the Issues of Human Past - Perceptual and Laboratory I
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-bd13d89221e8-c03
+
+Yazhi says earlier Earth civilizations, including Atlantis and Lemuria, were among at least six prior Matrix resets.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [Planetary Reset, 3D Matrix - Federation - Human Civilization (Yazhi Swaruu)](https://swaruu.org/transcripts/planetary-reset-3d-matrix-federation-human-civilization-yazhi-swaruu) (2020-08-16; en); passages p0034, p0044. [Structured record](../../records/src-bd13d89221e8.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
 ### src-6c5c3b665064-c04
 
 Mari Swaruu claims six planetary resets erased advanced civilizations. Her data, without proof.

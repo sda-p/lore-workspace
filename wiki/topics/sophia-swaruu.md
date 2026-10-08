@@ -8,6 +8,22 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
+### src-84449ec7c771-c04
+
+Yazhi says she controls her body’s growth, remaining nine, though some growth may occur.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Sophia Swaruu (Yazhi) - Recent Conversations (PART 3)](https://swaruu.org/transcripts/sophia-swaruu-yazhi-recent-conversations-part-3) (2024-09-09; en); passages p0099, p0101. [Structured record](../../records/src-84449ec7c771.json).
+
+### src-127ebef75460-c05
+
+Anéeka says Yazhi repelled thrown toys with an invisible force field through mind-manifestation.
+
+Attributed to **Anéeka**; reported; extraction confidence: medium.
+
+Source: [24 CHROMOSOMES - SUPER POWERS - STARSEEDS \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/24-chromosomes-super-powers-starseeds-no-video) (2020-10-09; en); passages p0013, p0014, p0017. [Structured record](../../records/src-127ebef75460.json).
+
 ### src-64665fcf10bc-c03
 
 Athena describes Yazhi as a higher-density being using a girl’s body as an avatar.
@@ -84,9 +100,13 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-f853da2d0bcd-c02](timeline-branching.md#src-f853da2d0bcd-c02) — Timeline branching
 - [src-38b07e39e45a-c03](postmortem-realities.md#src-38b07e39e45a-c03) — Postmortem realities
 - [src-722b52946af6-c05](lyrian-cellular-body.md#src-722b52946af6-c05) — Lyrian cellular-body model
+- [src-a37db4584b4c-c01](immersion-pods.md#src-a37db4584b4c-c01) — Immersion pods
+- [src-a37db4584b4c-c02](alien-species.md#src-a37db4584b4c-c02) — Alien species and distinctions
 
 ## Review flags
 
+- Abilities, body control, and density model are Yazhi’s self-reports
+- Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - metaphysical-genetics-unverified
 - reincarnation-cosmology

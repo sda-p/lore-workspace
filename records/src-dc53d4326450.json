@@ -1,0 +1,63 @@
+{
+  "source_id": "src-dc53d4326450",
+  "snapshot_sha256": "14dd8b5fc67ddddff7b0fe9381bdf37bf5e5a685588a51b50c06f0e02cb69d06",
+  "language": "en",
+  "claims": [
+    {
+      "id": "src-dc53d4326450-c01",
+      "assertion": "Gosia says contact became sporadic as Athena helped Mari take a Taygetan leadership role, the Toleka underwent maintenance, and the crew moved craft.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "toleka-class"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dc53d4326450-c02",
+      "assertion": "Gosia says she severed ties with Taygetan CIC, which she describes as possibly partly or wholly Earth-run and manipulative.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dc53d4326450-c03",
+      "assertion": "Gosia reports no known telepathic or astral contact, but recalls a dream message she associated with Yazhi and Tina.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "identity-uncertainty"
+  ],
+  "coverage_gaps": [
+    "communication-interruption-cause"
+  ]
+}

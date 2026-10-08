@@ -18,6 +18,14 @@ Source: [Extraterrestrial Information - Mini Topics with Gosia - Cosmic Agency](
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+### src-5faa731bafee-c02
+
+She says HAARP can intensify or steer existing storms, but cannot create hurricanes from nothing.
+
+Attributed to **Swaruu**; reported; extraction confidence: high.
+
+Source: [Global Warming, Climate Change, Greta Thumberg? Swaruu (Taygeta-Pleiades) Responds](https://swaruu.org/transcripts/global-warming-climate-change-greta-thumberg-swaruu-taygeta-pleiades-responds) (2019-10-15; en); passages p0046, p0048, p0049, p0051, p0052. [Structured record](../../records/src-5faa731bafee.json).
+
 ### src-ff4973c6a444-c06
 
 Mari says Temmer climate-control systems were caught off guard by the cyclone.
@@ -34,8 +42,14 @@ Attributed to **Mari Swaruu**; speculative; extraction confidence: medium.
 
 Source: [Space News 50. Floods in Spain, Carrot, New Projects in Temmer (English)](https://swaruu.org/transcripts/space-news-50-floods-in-spain-carrot-new-projects-in-temmer-english) (2024-11-09; en); passages p0004, p0006, p0009. [Structured record](../../records/src-1f8d569d9e4f.json).
 
+## Claims filed under other topics
+
+- [src-5faa731bafee-c01](terrestrial-science.md#src-5faa731bafee-c01) — Terrestrial science
+
 ## Review flags
 
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
+- climate-claims
 - earth\_science\_claims\_unverified
+- entertainment-disclaimer
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain

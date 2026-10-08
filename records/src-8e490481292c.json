@@ -1,0 +1,102 @@
+{
+  "source_id": "src-8e490481292c",
+  "snapshot_sha256": "fa910f7e7307792ef4b0091c16a9666a5ddeaa3ce18b62c40417c8ca9b02e552",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8e490481292c-c01",
+      "assertion": "Rashell says the Federation Council contacted Eisenhower by radio and chose her as envoy.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8e490481292c-c02",
+      "assertion": "At Edwards in 1954, Rashell offered free power for nuclear disarmament; Eisenhower rejected it, citing Russia.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0006",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8e490481292c-c03",
+      "assertion": "At their second meeting, Eisenhower accused her of being Vril; Rashell says this suspicion undermined talks.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0034"
+      ],
+      "primary_topic": "vlash-vlad-vrill-clans",
+      "topics": [
+        "vlash-vlad-vrill-clans",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8e490481292c-c04",
+      "assertion": "She says Maitré offered weapons technology for human and animal access, demanded bases for missing components; the US complied, ending diplomacy.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8e490481292c-c05",
+      "assertion": "Rashell says Taygetans sought to infiltrate Nazi Germany to impede its nuclear and flying-disc programs.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0030",
+        "p0034"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "vlash-vlad-vrill-clans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected."
+  ],
+  "coverage_gaps": [
+    "second-meeting-details",
+    "Nazi-Antarctic-claims",
+    "Maitre-biology"
+  ]
+}

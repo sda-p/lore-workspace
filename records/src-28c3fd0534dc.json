@@ -1,0 +1,88 @@
+{
+  "source_id": "src-28c3fd0534dc",
+  "snapshot_sha256": "fd725d4cc9fb8c4617dccecc3738aa23fd15b8fa93b443dc617e315389d01a75",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-28c3fd0534dc-c01",
+      "assertion": "Swaruu frames ascension as personal: each person’s experience and timeline can differ, without one shared collective transition.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0026",
+        "p0027",
+        "p0072",
+        "p0073"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28c3fd0534dc-c02",
+      "assertion": "Swaruu says 5D time is malleable, aging stops, and bodies may change; full exit from 3D regeneration takes up to three months in a Med Pod or about two years naturally.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023",
+        "p0081"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "medical-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28c3fd0534dc-c03",
+      "assertion": "Swaruu claims Earth’s Moon is a hologram-covered, old damaged spherical ship; several similar craft remain in the Solar System.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0067",
+        "p0068",
+        "p0069",
+        "p0070"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "moon-matrix"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28c3fd0534dc-c04",
+      "assertion": "Swaruu says Taygeta’s population declines because many residents have transcended 5D and no longer reincarnate there.",
+      "speaker": "Swaruu",
+      "paragraph_ids": [
+        "p0122",
+        "p0123"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "perceptual-density",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "animal-ascension-details"
+  ]
+}

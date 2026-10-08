@@ -1,0 +1,129 @@
+{
+  "source_id": "src-af005c73ed53",
+  "snapshot_sha256": "32b79df23bde7cd0f601450aded0d959c0679a7b37e264e07e38688294ef303a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-af005c73ed53-c01",
+      "assertion": "Swaruu says pressurized seawater and crustal carbon form renewable oil, later crystallizing into black goo.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0018",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "energy-generation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af005c73ed53-c02",
+      "assertion": "Earth’s positive goo carries planetary life patterns, supporting new species and DNA repair.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0037",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af005c73ed53-c03",
+      "assertion": "She dates Tiamat-derived negative goo’s main arrival to 12,500 years ago; it is lower-frequency than Earth goo.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0048",
+        "p0049",
+        "p0055"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af005c73ed53-c04",
+      "assertion": "Negative goo alters genes and lowers frequency; high empathy and will may resist it.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0056",
+        "p0057",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo",
+        "dna-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af005c73ed53-c05",
+      "assertion": "A self-governing negative AI uses goo, nanofibers, and nanobots to interface with life.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0069",
+        "p0073",
+        "p0074",
+        "p0075"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "black-goo",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-af005c73ed53-c06",
+      "assertion": "Swaruu says chemtrails enable weather control and stealth-craft detection using metallic aerosols.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0064",
+        "p0067"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "same-language-near-duplicate-src-7872bc2f2c04",
+    "speaker-header-diff",
+    "segmentation-diff"
+  ],
+  "coverage_gaps": [
+    "black-goo effects on organisms",
+    "extraterrestrial deposits",
+    "chemtrail agendas"
+  ]
+}

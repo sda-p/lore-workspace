@@ -1,0 +1,43 @@
+{
+  "source_id": "src-ab31d90c192d",
+  "snapshot_sha256": "1fbf7642418eef2d5001f93a5b1e47e6f4fb8ddb46ed12341dcc5f47e3813f21",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ab31d90c192d-c01",
+      "assertion": "Swaruu models time as an additional coordinate, later expanding spacetime to three spatial and three temporal dimensions.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0003", "p0004", "p0027", "p0030"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "A model she offers to explain time."
+    },
+    {
+      "id": "src-ab31d90c192d-c02",
+      "assertion": "She describes the ether as consciousness waves and time as an observer's progression through frequency patterns.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0017", "p0019", "p0021", "p0044", "p0045"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "timeline-branching"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    },
+    {
+      "id": "src-ab31d90c192d-c03",
+      "assertion": "Swaruu says observers can shift among countless mathematically patterned timelines through consciousness, decisions, and frequency compatibility.",
+      "speaker": "Swaruu",
+      "paragraph_ids": ["p0025", "p0038", "p0042", "p0044", "p0049"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She reconciles patterned, predictable lines with observer choice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["predictable-patterns-and-free-choice"],
+  "coverage_gaps": ["cloning-and-frequency-claims", "emotional-frequency-effects"]
+}

@@ -58,6 +58,24 @@ Source: [Ecosystems in Taygeta \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-e96e8067e205-c03
+
+Anéeka says strict controls prevent introducing alien predators because Erra and Temmer ecosystems are vulnerable.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EXOBIOLOGY - LURKERS - ENERGY LARVAE - MEDICAL POD \*\*NO VIDEO\*\*](https://swaruu.org/transcripts/exobiology-lurkers-energy-larvae-medical-pod-no-video) (2021-01-12; en); passages p0027, p0028. [Structured record](../../records/src-e96e8067e205.json).
+
+Related topics: [Lurkers](lurkers.md).
+
+### src-5ebe6d00850b-c02
+
+Athena describes Temmer as geologically stable, with no active volcanoes.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Popocatépetl Volcano Eruption - Mexico - Military Activity - Athena Swaruu](https://swaruu.org/transcripts/popocatepetl-volcano-eruption-mexico-military-activity-athena-swaruu) (2023-06-20; en); passages p0014, p0015. [Structured record](../../records/src-5ebe6d00850b.json).
+
 ### src-42ef2a1bb92f-c03
 
 Mari describes Temmer as a low-gravity ocean planet with cooperative ecosystems.
@@ -190,4 +208,5 @@ Source: [Space News 49, New Spaceport, More on Australia, My health & Birthday (
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
 - pathogen-claim\_attributed
 - species-description\_attributed
+- translation-equivalence-unverified
 - unverified\_extraterrestrial\_claims
