@@ -1,0 +1,66 @@
+{
+  "source_id": "src-cdaa5ca8bec6",
+  "snapshot_sha256": "4b577d3619e1b720359da0ab31db5d35e8a279385af0ce87c31e812d3d47cb8d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cdaa5ca8bec6-c01",
+      "assertion": "Mari defines Akashic Records as Source consciousness spanning all realms, with a distinct level for each soul and collective state.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "akashic-records",
+      "topics": [
+        "akashic-records",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdaa5ca8bec6-c02",
+      "assertion": "Mari says meditation, focused intent, and mental clarity can align a person with broader Akashic levels and enable channeling.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0024"
+      ],
+      "primary_topic": "akashic-records",
+      "topics": [
+        "akashic-records",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdaa5ca8bec6-c03",
+      "assertion": "Mari says dreams may connect people with parallel versions of themselves, which can influence their values and personality.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Metaphysical claims are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Specific warnings about drugs and practices for accessing altered states"
+  ]
+}

@@ -122,6 +122,26 @@ Source: [Naves Nodrizas de Orión Entrando la Tierra? No esta pasando NADA - Yaz
 
 Related topics: [Reptilians](reptilians.md).
 
+### src-742d06b0c285-c01
+
+Athena describes Ekátá as a telepathic semi-amphibious slug in Viera; its origin is unknown. Reportedly the last of its species.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DE DONDE SURGIERON LOS INCAS? CONVERSACIONES SOBRE DIVERSOS TEMAS - Athena Swaruu](https://swaruu.org/transcripts/de-donde-surgieron-los-incas-conversaciones-sobre-diversos-temas-athena-swaruu) (2023-05-08; es); passages p0003. [Structured record](../../records/src-742d06b0c285.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-ea66ccbb5872-c02
+
+She says nonhuman flights file plans with Viera and Antarctic traffic control; permits can make human forces and radars ignore ships.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extracciones y sus problemas. Parte 1](https://swaruu.org/transcripts/extracciones-y-sus-problemas-parte-1) (2023-07-16; es); passages p0011, p0012, p0013. [Structured record](../../records/src-ea66ccbb5872.json).
+
+Related topics: [Antarctica](antarctica.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-45558fcded2a-c01](galactic-federation.md#src-45558fcded2a-c01) — Galactic Federation
@@ -130,9 +150,11 @@ Related topics: [Reptilians](reptilians.md).
 - [src-fe82d1a07961-c02](galactic-federation.md#src-fe82d1a07961-c02) — Galactic Federation
 - [src-3ab615820cb8-c02](galactic-federation.md#src-3ab615820cb8-c02) — Galactic Federation
 - [src-33c7243bf8a8-c03](galactic-federation.md#src-33c7243bf8a8-c03) — Galactic Federation
+- [src-e29710d91597-c01](higher-federation-councils.md#src-e29710d91597-c01) — Higher Federation councils
 
 ## Review flags
 
+- Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
 - Federation-arguments\_reported
 - Species summaries are broad and based on accounts attributed to orbital sources
 - broad-exopolitical-allegations
@@ -144,4 +166,5 @@ Related topics: [Reptilians](reptilians.md).
 - ship-specifications\_attributed
 - species-and-hostility-distinctions-preserved
 - speculative-false-invasion-scenario
+- time-bound-2023-forecast
 - unverified-contact-claims

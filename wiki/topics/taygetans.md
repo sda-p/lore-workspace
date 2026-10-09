@@ -2982,6 +2982,44 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/transcripts/za-el-y-arien-nuevos-companeros-en-la-toleka) (2023-02-25; es); passages p0006, p0007. [Structured record](../../records/src-b00522037437.json).
 
+### src-a602cffec533-c01
+
+Za’el says he lived on Erra in Taygeta and has incomplete past-life memories that give him affection for people he has not met in this incarnation. He says his memories are incomplete.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [¿Quién es Za'el? - Un poco más sobre mí](https://swaruu.org/transcripts/quien-es-za-el-un-poco-mas-sobre-mi) (2023-06-10; es); passages p0003, p0004, p0005, p0006. [Structured record](../../records/src-a602cffec533.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-60fae9fc5f22-c04
+
+Athena says Earth’s proposed world government would institutionalize exploitation, unlike Taygeta’s.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [OVNIs en el Congreso - Hablando mas del tema con Athena Swaruu](https://swaruu.org/transcripts/ovnis-en-el-congreso-hablando-mas-del-tema-con-athena-swaruu) (2023-08-17; es); passages p0021, p0022. [Structured record](../../records/src-60fae9fc5f22.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-2dc5849bd700-c02
+
+Mari Swaruu says she lived on Earth as a “Step Down” from ages eight to thirteen before returning to her family aboard an orbiting mothership. Her autobiographical account.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Presentación nueva del canal](https://swaruu.org/transcripts/presentacion-nueva-del-canal) (2023-06-22; es); passages p0008, p0009, p0010. [Structured record](../../records/src-2dc5849bd700.json).
+
+### src-70c1d437cf31-c01
+
+Yazhi says Taygeta served as the Federation's military force under Asket, until Alenym withdrew most of its fleet in 2018–19. She says one ship remained as a political representative.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica - Porque Taygeta no sabia antes de lo que es?](https://swaruu.org/transcripts/federacion-galactica-porque-taygeta-no-sabia-antes-de-lo-que-es) (2023-06-29; es); passages p0014. [Structured record](../../records/src-70c1d437cf31.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -3278,6 +3316,19 @@ Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/tran
 - [src-e54847d402e6-c01](swaruunians.md#src-e54847d402e6-c01) — Swaruunians
 - [src-dd739a4e04c6-c03](swaruunians.md#src-dd739a4e04c6-c03) — Swaruunians
 - [src-a688a6bed26b-c03](alien-species.md#src-a688a6bed26b-c03) — Alien species and distinctions
+- [src-c8d611b2d82a-c02](cyndriel.md#src-c8d611b2d82a-c02) — Cyndriel
+- [src-ebaafb2f5974-c02](telepathic-channeling.md#src-ebaafb2f5974-c02) — Telepathic channeling
+- [src-2e200138040b-c01](earth-cabal.md#src-2e200138040b-c01) — Earth Cabal and power structures
+- [src-2dc5849bd700-c01](swaruunians.md#src-2dc5849bd700-c01) — Swaruunians
+- [src-aa0d46c03756-c01](taygetan-scimitar-fighters.md#src-aa0d46c03756-c01) — Taygetan Hanáre/Scimitar fighters
+- [src-70c1d437cf31-c02](galactic-federation.md#src-70c1d437cf31-c02) — Galactic Federation
+- [src-70c1d437cf31-c03](galactic-federation.md#src-70c1d437cf31-c03) — Galactic Federation
+- [src-afe6e8af2447-c01](perceptual-density.md#src-afe6e8af2447-c01) — Perceptual density
+- [src-afbb59548515-c01](taygetan-language.md#src-afbb59548515-c01) — Taygetan language
+- [src-afbb59548515-c02](taygetan-first-contact-project.md#src-afbb59548515-c02) — Taygetan First Contact Project
+- [src-45654a10b21a-c03](holistic-society.md#src-45654a10b21a-c03) — Holistic society
+- [src-8582fea5414c-c03](galactic-federation.md#src-8582fea5414c-c03) — Galactic Federation
+- [src-2708f7850928-c03](atlantis-lemuria.md#src-2708f7850928-c03) — Atlantis and Lemuria
 
 ## Review flags
 
@@ -3287,6 +3338,7 @@ Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/tran
 - Anéeka says Andromedans dominate councils but denies formal rulership.
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
+- Claims about contemporary institutions or external events reflect the speaker’s interpretation.
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
@@ -3312,10 +3364,14 @@ Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/tran
 - Senetre-diagnosed-weapon-route-suspected
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
 - Species summaries are broad and based on accounts attributed to orbital sources
+- Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka.
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
+- The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore.
 - The author explicitly invited readers to treat the content as fiction or entertainment.
 - The cloning and genetic-control statements are Swaruu’s claims.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
+- The earlier speakers describe Pleiadian life as 5D and hidden from 3D perception; Yazhi's 2023 section says densities are only perceptions, presenting a chronological conceptual revision or tension.
+- The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims.
 - abduction-motive-varies
 - account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
 - afterlife-claims-are-source-model

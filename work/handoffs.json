@@ -620,6 +620,48 @@
       "previous_owner_relinquished": true,
       "recorded_at": "2026-10-08T23:06:08+00:00",
       "reason": "Balance remaining work using measured throughput; current owner explicitly relinquished untouched original block."
+    },
+    {
+      "batch_id": "continuous-019",
+      "from_worker": 3,
+      "to_worker": 1,
+      "source_ids": [
+        "src-f4f832e0b846",
+        "src-459adec9f429",
+        "src-30dde9581dd8",
+        "src-1e3db31a154c",
+        "src-6686d72d7b77",
+        "src-9d22c8ed0ce3",
+        "src-9111b6efe5ee",
+        "src-ecffdc685a7f",
+        "src-66fa7120be60",
+        "src-10384d9b6430",
+        "src-94a76cc92296",
+        "src-e50e737a17f6",
+        "src-bf51bc11a750",
+        "src-156e62aff826",
+        "src-e65d20a8cc55",
+        "src-44e5587f249c",
+        "src-4e95fb5ac87a",
+        "src-c51952aaa5b9",
+        "src-d40d0c81cfc7",
+        "src-bc06a6f6252f",
+        "src-88b1b2aa8184",
+        "src-321671be4604",
+        "src-9ce83f769cba",
+        "src-fcecbbc01e3e",
+        "src-44dc8e3179b9",
+        "src-087c933f7059",
+        "src-4653f0e2c815",
+        "src-0163d8ab9901",
+        "src-6b8c0befd4ce",
+        "src-c5264b384243"
+      ],
+      "source_word_count": 54978,
+      "confirmed_unstarted": true,
+      "previous_owner_relinquished": true,
+      "recorded_at": "2026-10-09T05:27:24+00:00",
+      "reason": "Worker 3 explicitly relinquished final 30 untouched IDs to worker 1 to balance resumed pass."
     }
   ]
 }

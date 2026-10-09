@@ -222,6 +222,36 @@ Source: [Mundo al Revés y el Futuro influenciando el Pasado - Charlas metafísi
 
 Related topics: [Gravity harmonics](gravity-harmonics.md).
 
+### src-e10c7ec1d27f-c01
+
+Mari Swaruu describes a “mirror effect” in which events, people, or objects may repeat across isolated existential realms, such as Earth and space. She says the mechanism is not fully understood.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Los extraños fenómenos trans-dimensionales del Efecto Espejo](https://swaruu.org/transcripts/los-extranos-fenomenos-trans-dimensionales-del-efecto-espejo) (2023-05-25; es); passages p0006, p0008, p0009, p0010, p0011. [Structured record](../../records/src-e10c7ec1d27f.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-e10c7ec1d27f-c02
+
+Mari Swaruu says closely connected people in different realms may experience parallel event sequences, and apparent doubles may reflect shared soul connections. This is her metaphysical explanation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Los extraños fenómenos trans-dimensionales del Efecto Espejo](https://swaruu.org/transcripts/los-extranos-fenomenos-trans-dimensionales-del-efecto-espejo) (2023-05-25; es); passages p0015, p0016, p0023, p0024. [Structured record](../../records/src-e10c7ec1d27f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e10c7ec1d27f-c03
+
+Mari Swaruu proposes frequency compatibility and quantum entanglement as possible explanations for mirrored events between realms. The proposed link to quantum mechanics is her speculation.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Los extraños fenómenos trans-dimensionales del Efecto Espejo](https://swaruu.org/transcripts/los-extranos-fenomenos-trans-dimensionales-del-efecto-espejo) (2023-05-25; es); passages p0027, p0028, p0031, p0032, p0033. [Structured record](../../records/src-e10c7ec1d27f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-e1ef5c3d2bef-c01](original-matrix.md#src-e1ef5c3d2bef-c01) — Original Matrix
@@ -235,6 +265,7 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 
 - Contradictory descriptions may be valid from different perspectives.
 - Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
+- The article connects metaphysical claims to quantum mechanics without establishing a scientific basis.
 - Yazhi frames these as a limited explanatory viewpoint.
 - metaphysical-model\_attributed
 - mirror-identity-varies

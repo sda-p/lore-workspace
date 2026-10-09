@@ -256,6 +256,56 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Extraterrestres viviendo entre humanos, parte 2](https://swaruu.org/transcripts/extraterrestres-viviendo-entre-humanos-parte-2) (2023-01-09; es); passages p0024, p0026. [Structured record](../../records/src-1976178fe747.json).
 
+### src-d1722a36e342-c01
+
+Mari says people choose Earth’s challenges for learning; extracting someone may interrupt their life plan and lead to a harder repeated incarnation. This is her perspective.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extracciones y sus problemas. Parte 2](https://swaruu.org/transcripts/extracciones-y-sus-problemas-parte-2) (2023-07-20; es); passages p0006, p0008, p0009, p0011, p0012. [Structured record](../../records/src-d1722a36e342.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d1722a36e342-c02
+
+She advises checking whether someone is fleeing a problem and waiting years to assess whether extraction fits their life plan; hardship alone is insufficient. She allows exceptions when clearly necessary.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extracciones y sus problemas. Parte 2](https://swaruu.org/transcripts/extracciones-y-sus-problemas-parte-2) (2023-07-20; es); passages p0010, p0013, p0014. [Structured record](../../records/src-d1722a36e342.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d1722a36e342-c03
+
+Mari says extraction permanently ends return to Earth, requiring major adaptation and careful review of the person’s needs, attachments, and resources. She compares it to ending an incarnation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extracciones y sus problemas. Parte 2](https://swaruu.org/transcripts/extracciones-y-sus-problemas-parte-2) (2023-07-20; es); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-d1722a36e342.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-b560693dd466-c02
+
+Mari Swaruu says the Federation uses secret societies and extraterrestrial “Step Downs” to influence politicians and public roles. These are attributed claims.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La política está siendo controlada desde fuera del planeta por la Federación Galáctica](https://swaruu.org/transcripts/la-politica-esta-siendo-controlada-desde-fuera-del-planeta-por-la-federacion-galactica) (2023-08-17; es); passages p0021, p0022, p0023, p0024, p0025, p0026. [Structured record](../../records/src-b560693dd466.json).
+
+Related topics: [Secret-society hierarchy](secret-society-hierarchy.md), [Galactic Federation](galactic-federation.md).
+
+### src-2b5e44407f31-c01
+
+Mari says extraction usually prevents return; one returnee in her account was rejected after DNA amplification changed his appearance.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extracciones y sus problemas. Parte 3](https://swaruu.org/transcripts/extracciones-y-sus-problemas-parte-3) (2023-07-22; es); passages p0006, p0007. [Structured record](../../records/src-2b5e44407f31.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-e1b4f8c5afc0-c03](alien-species.md#src-e1b4f8c5afc0-c03) — Alien species and distinctions
@@ -268,6 +318,10 @@ Source: [Extraterrestres viviendo entre humanos, parte 2](https://swaruu.org/tra
 - [src-6d9f789c718e-c04](consciousness-metaphysics.md#src-6d9f789c718e-c04) — Consciousness and metaphysics
 - [src-9d5476909933-c04](harmonic-shields.md#src-9d5476909933-c04) — Harmonic shields
 - [src-1976178fe747-c01](swaruunians.md#src-1976178fe747-c01) — Swaruunians
+- [src-2d6710ddd4d1-c03](aggressive-telepathy.md#src-2d6710ddd4d1-c03) — Aggressive telepathy
+- [src-5699fcba6376-c02](starseeds.md#src-5699fcba6376-c02) — Starseeds
+- [src-2b5e44407f31-c02](consciousness-metaphysics.md#src-2b5e44407f31-c02) — Consciousness and metaphysics
+- [src-2b5e44407f31-c04](consciousness-metaphysics.md#src-2b5e44407f31-c04) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -275,6 +329,7 @@ Source: [Extraterrestres viviendo entre humanos, parte 2](https://swaruu.org/tra
 - Extraterrestrial identity claims are Mari Swaruu’s perspective and are not independently verified.
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
+- The article presents an unverifiable extraterrestrial political-control narrative; claims are retained as attributed lore.
 - These are Mari Swaruu’s autobiographical and extraterrestrial claims, not independently verified.
 - aliens-removed-from-quadrant-claim
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
@@ -286,6 +341,7 @@ Source: [Extraterrestres viviendo entre humanos, parte 2](https://swaruu.org/tra
 - pathogen-claim\_attributed
 - personal-childhood-anecdote
 - political-narrative\_attributed
+- possible-near-duplicate-src-1917bcf83880
 - reported:pilot-encounters
 - rescue-anecdotes-unverified
 - speculation:federation-experiments

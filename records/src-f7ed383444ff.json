@@ -1,0 +1,52 @@
+{
+  "source_id": "src-f7ed383444ff",
+  "snapshot_sha256": "9eac6f32157bd727f60f63ccd4716305ead6c4ba1dcc170d87573843649af1d3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f7ed383444ff-c01",
+      "assertion": "Mari says popular music and lyrics can shape listeners’ moods and normalize emotional patterns; she attributes this to industry control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her claims about cultural influence."
+    },
+    {
+      "id": "src-f7ed383444ff-c02",
+      "assertion": "Mari favors 432 Hz music and quality speakers, claiming they promote spiritual well-being and repel lower-astral entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0019",
+        "p0021",
+        "p0024"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as her group’s view."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about audio frequencies, music effects, and astral entities are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Her claims about industry manipulation of audio equipment"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source_id": "src-fa37b3758308",
+  "snapshot_sha256": "9c1d7b36f1eb77316e0fe4b7a674eb5e835c7f69dda1b10e32e5ae8adeafc2e2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fa37b3758308-c01",
+      "assertion": "Mari advises starseeds to trust their own judgment and skip family gatherings that feel harmful when they can.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fa37b3758308-c02",
+      "assertion": "Mari recommends avoiding futile arguments, keeping some beliefs private, changing topics, and setting boundaries with difficult relatives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0031",
+        "p0032",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames this as protecting personal energy and values."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Advice and its premises are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Speaker’s claims about holiday origins and religion"
+  ]
+}

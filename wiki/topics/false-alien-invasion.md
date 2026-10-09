@@ -302,6 +302,144 @@ Source: [OVNIS DERRIBADOS INVESTIGADORES - YAZHI SWARUU](https://swaruu.org/tran
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-73fc78d38b70-c01
+
+Mari warns that alien disclosure or a staged invasion could justify new censorship and persecution of starseeds, echoing panic-driven social division. Mari presents this as a possible future scenario, not a prediction; she says awareness could make it less likely.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Falsa Invasión Alienígena, otra advertencia, especialmente para Las Semillas Estelares](https://swaruu.org/transcripts/falsa-invasion-alienigena-otra-advertencia-especialmente-para-las-semillas-estelares) (2023-07-10; es); passages p0008, p0019, p0022, p0024, p0026, p0028, p0029. [Structured record](../../records/src-73fc78d38b70.json).
+
+Related topics: [Starseeds](starseeds.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-d899310fae70-c02
+
+Athena says Greer helps prepare a false alien-invasion narrative by normalizing extraterrestrials; she rejects the claim that all extraterrestrials are benevolent. She says the plan’s eventual form is unknown.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DE LA DIVULGACIÓN DEL FENÓMENO OVNI - CONTACTO EXTRATERRESTRE - Athena 1/2](https://swaruu.org/transcripts/desclasificacion-de-la-divulgacion-del-fenomeno-ovni-contacto-extraterrestre-athena) (2023-06-28; es); passages p0007, p0015. [Structured record](../../records/src-d899310fae70.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-d899310fae70-c03
+
+Athena says her group’s own public contact may also support the false-invasion plan, while cautioning that they lack all the pieces.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DE LA DIVULGACIÓN DEL FENÓMENO OVNI - CONTACTO EXTRATERRESTRE - Athena 1/2](https://swaruu.org/transcripts/desclasificacion-de-la-divulgacion-del-fenomeno-ovni-contacto-extraterrestre-athena) (2023-06-28; es); passages p0016, p0019. [Structured record](../../records/src-d899310fae70.json).
+
+### src-3e6bb19f0b7f-c02
+
+Athena attributes false-invasion plans to a deep Cabal layer using fear to secure obedience and impose a world order; she calls the Federation permissive.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ES EL ASTRAL EN DONDE SE GENERAN LOS COMBATES MÁS DECISIVOS Y OTRAS PREGUNTAS](https://swaruu.org/transcripts/es-el-astral-en-donde-se-generan-los-combates-mas-decisivos-y-otras-preguntas) (2023-08-16; es); passages p0012, p0013, p0014. [Structured record](../../records/src-3e6bb19f0b7f.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Galactic Federation](galactic-federation.md).
+
+### src-6f1a8a7d6452-c02
+
+Athena alleges Greer is a CIA asset whose disclosure normalizes extraterrestrials and supports early false-invasion preparations. She cites Taygetan databases and behavior, while acknowledging uncertainty about the full plan.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Desclasificación OVNI - Preguntas - Conversación con Athena Swaruu](https://swaruu.org/transcripts/desclasificacion-ovni-preguntas-conversacion-con-athena-swaruu) (2023-06-27; es); passages p0006, p0008, p0014, p0016. [Structured record](../../records/src-6f1a8a7d6452.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-2f1a34ed22b2-c01
+
+Athena says prominent UFO advocates or generals may be scripted figures used to gauge public reaction and shape disclosure narratives. She says motives cannot be known with certainty.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DE LA DIVULGACIÓN DEL FENÓMENO OVNI - CONTACTO EXTRATERRESTRE - Athena 2/2](https://swaruu.org/transcripts/desclasificacion-de-la-divulgacion-del-fenomeno-ovni-contacto-extraterrestre-athena-2-2) (2023-06-29; es); passages p0002, p0004, p0014, p0017. [Structured record](../../records/src-2f1a34ed22b2.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-60fae9fc5f22-c01
+
+Athena calls US congressional UFO disclosure staged, with officials gauging public response through gradual disclosures. She says real power decisions occur elsewhere.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [OVNIs en el Congreso - Hablando mas del tema con Athena Swaruu](https://swaruu.org/transcripts/ovnis-en-el-congreso-hablando-mas-del-tema-con-athena-swaruu) (2023-08-17; es); passages p0004, p0005. [Structured record](../../records/src-60fae9fc5f22.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-60fae9fc5f22-c02
+
+Athena says disclosure may distract audiences, regulate UFO narratives, and prepare for a possible false invasion. She says the scenario may not occur.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [OVNIs en el Congreso - Hablando mas del tema con Athena Swaruu](https://swaruu.org/transcripts/ovnis-en-el-congreso-hablando-mas-del-tema-con-athena-swaruu) (2023-08-17; es); passages p0006, p0010, p0014. [Structured record](../../records/src-60fae9fc5f22.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-4ae11aa0469c-c03
+
+Swaruu X (Athena) says Reptilians participate in decisions behind a possible staged alien invasion. They are not sole actors; timing is uncertain.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [LA NARRATIVA SECRETA: CONTROL Y DESINFORMACIÓN SOBRE EL FENÓMENO EXTRATERRESTRE](https://swaruu.org/transcripts/la-narrativa-secreta-control-y-desinformacion-sobre-el-fenomeno-extraterrestre) (2023-06-24; es); passages p0037, p0038, p0039, p0041. [Structured record](../../records/src-4ae11aa0469c.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+### src-4a182e4f47a1-c02
+
+Athena says UFO disclosure may distract the public or precede a false alien invasion, though that outcome is uncertain. She allows the disclosure push could instead lose momentum.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [LA OTRA VERSIÓN SOBRE LAS AFIRMACIONES DE OVNIS / UAPS DE DAVID GRUSCH - Athena Swaruu](https://swaruu.org/transcripts/la-otra-version-sobre-las-afirmaciones-de-ovnis-uaps-de-david-grusch-athena-swaruu) (2023-07-31; es); passages p0014, p0023. [Structured record](../../records/src-4a182e4f47a1.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-a82352157b1a-c01
+
+Athena says the Federation has no full star-family disclosure plan; a controlled false invasion could imitate one but is not expected soon.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Desclasificación de los OVNIS? Preguntas para la entrevista con AJ Roberts](https://swaruu.org/transcripts/desclasificacion-de-los-ovnis-preguntas-para-la-entrevista-con-aj-roberts) (2023-06-03; es); passages p0020, p0021, p0022, p0024. [Structured record](../../records/src-a82352157b1a.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-518eb9044e55-c02
+
+Athena considers Greer-related disclosures likely to be a government psyop selecting what the public thinks and possibly serving a false-invasion agenda.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [National Press Club Event - "Proyecto Divulgación" de Steven Greer - NUESTRA OPINION](https://swaruu.org/transcripts/national-press-club-event-proyecto-divulgacion-de-steven-greer-nuestra-opinion) (2023-06-17; es); passages p0017, p0019, p0020, p0021. [Structured record](../../records/src-518eb9044e55.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-7fecc6636778-c02
+
+She outlines hostile-invasion and benevolent-Federation narratives, both used to justify restrictions and removal of civil rights.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Desclasificación extraterrestre, una advertencia](https://swaruu.org/transcripts/desclasificacion-extraterrestre-una-advertencia) (2023-07-06; es); passages p0020, p0021, p0022. [Structured record](../../records/src-7fecc6636778.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-7fecc6636778-c03
+
+She cautions the false-invasion scenarios may never occur; authorities may keep options open or use disclosure fears as a distraction.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Desclasificación extraterrestre, una advertencia](https://swaruu.org/transcripts/desclasificacion-extraterrestre-una-advertencia) (2023-07-06; es); passages p0015, p0017, p0018, p0024. [Structured record](../../records/src-7fecc6636778.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-19b9c2bb57a1-c04](earth-cabal.md#src-19b9c2bb57a1-c04) — Earth Cabal and power structures
@@ -310,18 +448,37 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-6d9b90ab765b-c02](consciousness-metaphysics.md#src-6d9b90ab765b-c02) — Consciousness and metaphysics
 - [src-a8d6c63dc563-c01](galactic-federation.md#src-a8d6c63dc563-c01) — Galactic Federation
 - [src-f9515d45df63-c01](alien-species.md#src-f9515d45df63-c01) — Alien species and distinctions
+- [src-ccffbaeef82b-c02](galactic-federation.md#src-ccffbaeef82b-c02) — Galactic Federation
+- [src-e29710d91597-c02](galactic-federation.md#src-e29710d91597-c02) — Galactic Federation
+- [src-6666d1d0f467-c03](galactic-federation.md#src-6666d1d0f467-c03) — Galactic Federation
+- [src-6f1a8a7d6452-c01](earth-cabal.md#src-6f1a8a7d6452-c01) — Earth Cabal and power structures
+- [src-06b35bd6dc5f-c01](earth-cabal.md#src-06b35bd6dc5f-c01) — Earth Cabal and power structures
+- [src-2f1a34ed22b2-c02](earth-cabal.md#src-2f1a34ed22b2-c02) — Earth Cabal and power structures
+- [src-60fae9fc5f22-c03](earth-cabal.md#src-60fae9fc5f22-c03) — Earth Cabal and power structures
+- [src-c1b0bd64ba3b-c01](extraterrestrial-contact.md#src-c1b0bd64ba3b-c01) — Extraterrestrial contact and disclosure
+- [src-518eb9044e55-c03](galactic-federation.md#src-518eb9044e55-c03) — Galactic Federation
+- [src-7fecc6636778-c01](earth-cabal.md#src-7fecc6636778-c01) — Earth Cabal and power structures
+- [src-7fecc6636778-c04](galactic-federation.md#src-7fecc6636778-c04) — Galactic Federation
 
 ## Review flags
 
 - Claims about alien craft, agencies, and political agendas are attributed speculation.
+- Claims about contemporary institutions or external events reflect the speaker’s interpretation.
+- Claims present the speakers’ allegations and forecasts, not independently established facts.
+- Invasion and government-control claims are attributed to Mari Swaruu.
+- The document also contains a separate 2021 Aneeka conversation; claims here are attributed only to the named speakers.
+- The source presents unverified allegations about Steven Greer, CIA ties, and government operations.
 - conspiracy\_claims
 - disclosure-agenda-speculative
+- disclosure-control-theory
 - disputed\_specimen
 - exopolitical and refugee claims are attributed to Alenym and not independently verified
 - federation-role:uncertain-human-propaganda-vs-permissive-oversight
+- hypothetical-future-scenario
 - pentagon-disclosure-motive-speculation
 - secret-aircraft-identification-uncertain
 - speculative-false-invasion-scenario
+- time-bound-2023-forecast
 - unverified\_conspiracy\_claims
 - unverified\_extraordinary\_claims
 - unverified\_extraterrestrial\_claims

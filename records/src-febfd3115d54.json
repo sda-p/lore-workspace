@@ -1,0 +1,50 @@
+{
+  "source_id": "src-febfd3115d54",
+  "snapshot_sha256": "88db5bd6bf3ec659f0fe68a270d80a1f02c658be7ae800506e3828b41600691b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-febfd3115d54-c01",
+      "assertion": "Yazhi says an empty Matrix avatar dies when disconnected, while an already conscious person continues with the experience.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0065",
+        "p0066",
+        "p0067",
+        "p0068"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She notes possible exceptions for empty avatars."
+    },
+    {
+      "id": "src-febfd3115d54-c02",
+      "assertion": "Athena says disconnected avatars may become empty NPCs and die if vital force is insufficient; empty avatars usually receive immersion.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0119",
+        "p0120",
+        "p0121",
+        "p0122"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says stronger NPCs may survive and outcomes vary."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other metaphysical and identity claims omitted"
+  ]
+}

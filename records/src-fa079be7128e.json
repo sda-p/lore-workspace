@@ -1,0 +1,36 @@
+{
+  "source_id": "src-fa079be7128e",
+  "snapshot_sha256": "e23787aecc4fc505da2bc8e3f55650da6778ad13a3e7a97d00ee0918bf0fc795",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fa079be7128e-c01",
+      "assertion": "Mari Swa reports about 977 large starships in Earth orbit and alleges some Orion Grey craft may use false transponder identities.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0003", "p0004", "p0005", "p0006", "p0008"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "high-greys"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She attributes the estimate to Taygetan intelligence and calls the identity concern speculative."
+    },
+    {
+      "id": "src-fa079be7128e-c02",
+      "assertion": "Mari says Federation rules restrict human and Reptilian travel between Earth and space, with some alleged exceptions.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0009", "p0010", "p0011", "p0019"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "prime-directive"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says underground portals may allow some groups to bypass the restriction."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source consists of unverified claims about extraterrestrial traffic and a Federation travel blockade."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss alleged Orion-Reptilian cooperation and Alcyone Council plans."
+  ]
+}

@@ -802,6 +802,104 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [Videntes - Podrian Decirme Que Debo Hacer? - Athena Swaruu responde](https://swaruu.org/transcripts/videntes-podrian-decirme-que-debo-hacer-athena-swaruu-responde) (2023-03-02; es); passages p0010, p0011, p0013, p0015. [Structured record](../../records/src-eec161aaadd2.json).
 
+### src-44b8aa34f2fb-c01
+
+Mari describes time as a sequence of thought and a timeline as events experienced by an individual or group; it cannot be moved independently of their changing perception and intentions. Mari’s metaphysical model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Viajes en el Tiempo y por qué las Líneas Temporales no existen realmente.](https://swaruu.org/transcripts/viajes-en-el-tiempo-y-por-que-las-lineas-temporales-no-existen-realmente) (2023-06-02; es); passages p0009, p0010, p0011, p0012, p0014, p0015. [Structured record](../../records/src-44b8aa34f2fb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-86a4669c182d-c03
+
+Mari says timelines exist only as conscious experience; changing attitude and frequency can shift outcomes, and starships can emulate target patterns. Mari’s metaphysical model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El tiempo y cómo funciona, Parte 2, Líneas temporales](https://swaruu.org/transcripts/el-tiempo-y-como-funciona-parte-2-lineas-temporales) (2023-05-04; es); passages p0023, p0024, p0025, p0026, p0027, p0028. [Structured record](../../records/src-86a4669c182d.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md), [Starship systems](starship-systems.md).
+
+### src-5d9ef87c7059-c01
+
+Za’el suggests unresolved trauma may originate in childhood, later experiences, or past lives, within his non-linear model of time. He presents multiple explanations as possibilities for individuals to assess.
+
+Attributed to **Za’el de Erra**; speculative; extraction confidence: high.
+
+Source: [Tu niño interior - Cómo curarlo y conectar con él/ella](https://swaruu.org/transcripts/tu-nino-interior-como-curarlo-y-conectar-con-el-ella) (2023-08-10; es); passages p0006, p0007, p0008. [Structured record](../../records/src-5d9ef87c7059.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-dc983dd82033-c02
+
+She defines a timeline as an agreed sequence of events; greater consciousness can integrate contradictory sequences as different realities. She says fewer people perceive more expansive timelines.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Existe una Verdad última?](https://swaruu.org/transcripts/existe-una-verdad-ultima) (2023-06-12; es); passages p0011, p0012, p0013, p0017, p0018. [Structured record](../../records/src-dc983dd82033.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9987cea5f9c3-c02
+
+Athena says timeline divisions reflect groups’ shared perceptions rather than physical boundaries; 5D awakening is a personal process that can form like-minded groups. She defines it as shared awakening.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA INFLUENCIA DE LA FEDERACIÓN GALÁCTICA EN LA TIERRA - LA TRANSICIÓN A LA 5D](https://swaruu.org/transcripts/la-influencia-de-la-federacion-galactica-en-la-tierra-la-transicion-a-la-5d) (2023-06-16; es); passages p0013, p0014, p0023, p0024, p0018. [Structured record](../../records/src-9987cea5f9c3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5747f0ef36c2-c02
+
+Swaruu (9) presents imagination as a way to tune into parallel versions of oneself, within a model where alternate timelines already exist. Her cosmological account.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Cómo cambiar tu pasado, con Swaruu de Erra](https://swaruu.org/transcripts/como-cambiar-tu-pasado-con-swaruu-de-erra) (2023-05-08; es); passages p0014, p0015, p0019, p0021. [Structured record](../../records/src-5747f0ef36c2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-eeb5d9cc4e85-c01
+
+Za’el says present identity and perception shape one’s path, and a single event may carry many possible meanings rather than one fixed purpose. She cautions against assigning a definite purpose to every event.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Miles de Significados - ¿Todo sucede por algo?](https://swaruu.org/transcripts/miles-de-significados-todo-sucede-por-algo) (2023-07-03; es); passages p0007, p0010, p0011, p0013. [Structured record](../../records/src-eeb5d9cc4e85.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-eeb5d9cc4e85-c02
+
+Za’el suggests difficult experiences can open alternative life paths, while acknowledging that outcomes may remain difficult or uncertain. She presents these as possibilities, not guaranteed outcomes.
+
+Attributed to **Za’el de Erra**; speculative; extraction confidence: high.
+
+Source: [Miles de Significados - ¿Todo sucede por algo?](https://swaruu.org/transcripts/miles-de-significados-todo-sucede-por-algo) (2023-07-03; es); passages p0008, p0015, p0016, p0017, p0018, p0019, p0020. [Structured record](../../records/src-eeb5d9cc4e85.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d98b08976c76-c02
+
+In her model, changing an event through time travel creates an alternate timeline; it does not alter the traveler’s remembered origin line. This is the Taygetan time-travel model she describes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Es realmente necesario cambiar tu pasado?](https://swaruu.org/transcripts/es-realmente-necesario-cambiar-tu-pasado) (2023-05-10; es); passages p0012, p0013, p0015, p0017. [Structured record](../../records/src-d98b08976c76.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d98b08976c76-c03
+
+She says decisions create timeline branches, events occur once within each line, and paradoxes therefore cannot form.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Es realmente necesario cambiar tu pasado?](https://swaruu.org/transcripts/es-realmente-necesario-cambiar-tu-pasado) (2023-05-10; es); passages p0013, p0016. [Structured record](../../records/src-d98b08976c76.json).
+
 ## Claims filed under other topics
 
 - [src-4d14ae46991f-c04](consciousness-metaphysics.md#src-4d14ae46991f-c04) — Consciousness and metaphysics
@@ -869,6 +967,11 @@ Source: [Videntes - Podrian Decirme Que Debo Hacer? - Athena Swaruu responde](ht
 - [src-155778a65ec3-c01](lyran-expansion.md#src-155778a65ec3-c01) — Lyran expansion
 - [src-e33e26096a8a-c01](collective-timeline-influence.md#src-e33e26096a8a-c01) — Collective timeline influence
 - [src-eba1fa9a8f38-c05](consciousness-metaphysics.md#src-eba1fa9a8f38-c05) — Consciousness and metaphysics
+- [src-7b4f6bfe2d36-c02](consciousness-metaphysics.md#src-7b4f6bfe2d36-c02) — Consciousness and metaphysics
+- [src-6f4abd2348fc-c03](nexus-beings.md#src-6f4abd2348fc-c03) — Nexus beings
+- [src-5747f0ef36c2-c03](memory-veil.md#src-5747f0ef36c2-c03) — Memory Veil
+- [src-52a4911db286-c02](collective-timeline-influence.md#src-52a4911db286-c02) — Collective timeline influence
+- [src-d98b08976c76-c04](consciousness-metaphysics.md#src-d98b08976c76-c04) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -885,6 +988,9 @@ Source: [Videntes - Podrian Decirme Que Debo Hacer? - Athena Swaruu responde](ht
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Spiritual interpretations and timeline claims are attributed to Za’el, not independently verified.
+- The author presents telepathy and thought-form manifestation as factual; these claims remain attributed.
+- The source also makes an unsupported cancer and dissociative-identity claim in p0052; it is omitted from the lore claims.
+- The source frames adversity through speculative metaphysical ideas; the author explicitly cautions that events need not have one definite purpose.
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
 - Time model rejects fixed linear time; do not reconcile with other accounts.
 - Timeline travel described as branching/lateral; source does not quantify coordinates.

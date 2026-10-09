@@ -1,0 +1,89 @@
+{
+  "source_id": "src-bc90a28d3260",
+  "snapshot_sha256": "dca40f7af97f990c7007ab656aeeb4c3e3044273346ff94faba037c5bf6dc8f0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bc90a28d3260-c01",
+      "assertion": "Athena estimates the Urmah Federation controls hundreds of thousands of systems, possibly matching the Galactic Federation in scale.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She does not give an exact count."
+    },
+    {
+      "id": "src-bc90a28d3260-c02",
+      "assertion": "Athena says Urmah, Taygeta, and Alcyone oppose Federation directives on Earth; Urmah avoid military action to prevent wider war.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0091",
+        "p0092",
+        "p0094",
+        "p0187",
+        "p0188"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans",
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc90a28d3260-c03",
+      "assertion": "Athena says Federation oversight is supposedly handled by higher levels, but she lacks proof that those levels exist.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0095",
+        "p0096",
+        "p0131",
+        "p0132"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bc90a28d3260-c04",
+      "assertion": "Athena says Taygeta’s effort to leave the Federation has stalled because Alcyone membership makes separation difficult.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0116",
+        "p0117"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "galactic-federation",
+        "alcyone-council"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims describe the speaker’s account of interstellar politics and are not independently verified."
+  ],
+  "coverage_gaps": [
+    "Species details, Earth history, technology, economics, and other Q&A topics"
+  ]
+}

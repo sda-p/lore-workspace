@@ -1,0 +1,64 @@
+{
+  "source_id": "src-0c76e94a437f",
+  "snapshot_sha256": "d87978cb43363fb5454323bd0eaf150e5cbb3bd4e3fa8ed4d13fa0cb0c53e267",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0c76e94a437f-c01",
+      "assertion": "Gosia describes the Federation as a physical, multiracial organization founded by Andromedans, Arcturians, and Lyrians to coordinate interstellar alliances.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This account is based on information shared by Taygetan sources."
+    },
+    {
+      "id": "src-0c76e94a437f-c02",
+      "assertion": "Gosia says Federation authority over Earth runs through local councils at Viera and higher councils associated with Saturn.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "saturn-bases"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c76e94a437f-c03",
+      "assertion": "Gosia reports Urmah suspicions that Etorthans seek influence within the Federation; she says the organization’s upper levels are opaque to local members.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0054",
+        "p0056"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "high-greys"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are reported suspicions, not resolved findings."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This essay is Gosia’s synthesis of Taygetan claims; political allegations are attributed and unverified."
+  ],
+  "coverage_gaps": [
+    "Claims concerning astral influence, intervention, and proposed solutions"
+  ]
+}

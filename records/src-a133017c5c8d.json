@@ -1,0 +1,71 @@
+{
+  "source_id": "src-a133017c5c8d",
+  "snapshot_sha256": "2253f6f364a0419bad63f673e153de4f98e5e5140234177d056467cdca9bfb12",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a133017c5c8d-c01",
+      "assertion": "Mari says Cabal-controlled media and entertainment guide public beliefs and behavior, helping oligarchs shape the human Matrix and maintain control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "ritual-symbolism-in-media",
+      "topics": [
+        "ritual-symbolism-in-media",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of media’s purpose."
+    },
+    {
+      "id": "src-a133017c5c8d-c02",
+      "assertion": "Mari says lower-astral entities can use empty human bodies as temporary portals, while other entities may possess living people.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "matrix-generated-persons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a133017c5c8d-c03",
+      "assertion": "Mari claims ritual-heavy films and games can normalize dark themes and grant entities access; knowingly rejecting their message may create an etheric barrier.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "ritual-symbolism-in-media",
+      "topics": [
+        "ritual-symbolism-in-media",
+        "interdimensional-parasites"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this barrier has limits."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "her discussion of karma and moral response omitted"
+  ]
+}

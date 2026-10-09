@@ -24,6 +24,9 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-d328a6c23916-c03](ship-internal-time.md#src-d328a6c23916-c03) — Ship internal time
 - [src-74cf1c7706e3-c04](ship-internal-time.md#src-74cf1c7706e3-c04) — Ship internal time
 - [src-0f5047c8c5f2-c02](ship-internal-time.md#src-0f5047c8c5f2-c02) — Ship internal time
+- [src-d9bbb3c4038b-c01](frequency-map-navigation.md#src-d9bbb3c4038b-c01) — Frequency-map navigation
+- [src-8a37a5eaeb7b-c03](ship-internal-time.md#src-8a37a5eaeb7b-c03) — Ship internal time
+- [src-1917bcf83880-c02](starship-systems.md#src-1917bcf83880-c02) — Starship systems
 
 ## Review flags
 
@@ -31,5 +34,7 @@ Related topics: [Starship systems](starship-systems.md).
 - death-account:medical-cause-and-ether-dissolution
 - navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
 - near-duplicate:src-d328a6c23916
+- tartaria-history-disputed
+- terrestrial-technology-claims-unverified
 - timeline-model-variant:personal-vs-collective
 - translation-counterpart:src-06a1e5437c02-close-full

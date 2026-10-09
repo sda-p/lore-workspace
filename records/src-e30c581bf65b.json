@@ -1,0 +1,61 @@
+{
+  "source_id": "src-e30c581bf65b",
+  "snapshot_sha256": "5153620986a831caeba6a384c6505964fb77ddc18bb8ec762584f93594dd0808",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e30c581bf65b-c01",
+      "assertion": "Athena calls India’s lunar landing broadcast a fabrication and interprets space-agency logos as signs of Federation influence.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her claims."
+    },
+    {
+      "id": "src-e30c581bf65b-c02",
+      "assertion": "Athena says the Federation founded the United Federation of Planets and associates its emblem with a pyramid and Saturn’s rings.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e30c581bf65b-c03",
+      "assertion": "Athena speculates India was selected to promote it in public perception, perhaps due to industrial strength or unknown agendas.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0036",
+        "p0040"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about contemporary institutions or external events reflect the speaker’s interpretation."
+  ],
+  "coverage_gaps": []
+}

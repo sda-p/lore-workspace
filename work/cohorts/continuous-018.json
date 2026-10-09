@@ -162,7 +162,7 @@
     "src-2e200138040b",
     "src-c95dc974c9ea"
   ],
-  "status": "running",
+  "status": "reviewed",
   "selected_at": "2026-10-08T15:44:08+00:00",
   "selection_method": "remaining: title-language heuristic; language verified during source reading",
   "active_source_ids": [
@@ -328,5 +328,8 @@
     "src-c95dc974c9ea"
   ],
   "exact_duplicate_count": 0,
-  "source_word_count": 292221
+  "source_word_count": 292221,
+  "reviewed_at": "2026-10-09T05:25:43+00:00",
+  "review_corrections": 29,
+  "integration_errors": []
 }

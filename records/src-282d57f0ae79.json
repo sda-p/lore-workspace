@@ -1,0 +1,63 @@
+{
+  "source_id": "src-282d57f0ae79",
+  "snapshot_sha256": "48eb66318c77afd7e04a768a86799d547c9ebce2827b6694f1429b41727999ca",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-282d57f0ae79-c01",
+      "assertion": "Anéeka says she continues the project voluntarily but will reduce online time and exhausting contacts to recover.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0091",
+        "p0092",
+        "p0115",
+        "p0116"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says Gosia and Robert do not pressure her."
+    },
+    {
+      "id": "src-282d57f0ae79-c02",
+      "assertion": "Anéeka describes negative online themes as destructive ideas that create recurring thoughts and drain health.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0219",
+        "p0225"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She attributes this to prolonged exposure to collective Matrix ideas."
+    },
+    {
+      "id": "src-282d57f0ae79-c03",
+      "assertion": "Anéeka says she cannot consult remotely without full patient information because errors could harm others.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0186",
+        "p0188"
+      ],
+      "primary_topic": "taygetan-medicine",
+      "topics": [
+        "taygetan-medicine"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Much of the transcript’s discussion of her illness and work arrangements omitted"
+  ]
+}

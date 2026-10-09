@@ -1,0 +1,36 @@
+{
+  "source_id": "src-9f732504c39c",
+  "snapshot_sha256": "e710a82f168bbf05d9d3feedfad890923f67d0deb60822b5256a2667e3f32274",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9f732504c39c-c01",
+      "assertion": "Mari Swa argues that the Federation resembles Earth’s Cabal in its alleged manipulation, secrecy, and compartmentalized power structure.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0010", "p0011", "p0012", "p0016", "p0017"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents these as her interpretations of Federation conduct."
+    },
+    {
+      "id": "src-9f732504c39c-c02",
+      "assertion": "Mari says hidden forces may control higher Federation levels and identifies Saturn as a suspected center of regressive influence.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0014", "p0015", "p0025", "p0026"],
+      "primary_topic": "saturn-bases",
+      "topics": ["saturn-bases", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes this as a likely theory, not a confirmed finding."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The video presents unverified conspiratorial claims and explicitly frames them as the speaker’s interpretation."
+  ],
+  "coverage_gaps": [
+    "Other passages discuss alleged propaganda, subordinate fleets, and New Age predictions of imminent liberation."
+  ]
+}

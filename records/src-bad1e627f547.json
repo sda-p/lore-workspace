@@ -1,0 +1,65 @@
+{
+  "source_id": "src-bad1e627f547",
+  "snapshot_sha256": "bfc521ae8753e1fd0c1260a519964ed4fe429d811f230cecac72b2a320759700",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bad1e627f547-c01",
+      "assertion": "Swaruu X (Athena) claims the Maui fires were deliberately started to displace residents and enable reconstruction under a 15-minute-city program by 2030.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0034",
+        "p0004"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributes the plan to the US government."
+    },
+    {
+      "id": "src-bad1e627f547-c02",
+      "assertion": "Swaruu X (Athena) describes 15-minute cities as confinement zones enforced by police and military, with costly, temporary permission to leave.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0008",
+        "p0018",
+        "p0030"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents climate policy as the stated rationale."
+    },
+    {
+      "id": "src-bad1e627f547-c03",
+      "assertion": "Swaruu X (Athena) says flamethrower-equipped drones were detected in Maui and Spain and used to ignite fires; she says only some reports involve energy weapons.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0036"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other projected cities and agricultural policy details",
+    "reported financing and reconstruction profits"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "src-aa29b86974f4",
+  "snapshot_sha256": "61ff031a015b4fea7ce42e46be0552cf6bdb0ae35dac76774f7f08277e45d5f6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-aa29b86974f4-c01",
+      "assertion": "Athena Swaruu claims the Federation controls Earth's regional money flows according to population and geoengineering agendas.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "economics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the Federation frames hardship as an incarnational challenge."
+    },
+    {
+      "id": "src-aa29b86974f4-c02",
+      "assertion": "Athena says authorities can constrain productive regions through inflation, restrictions, or other economic interventions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She argues markets do not operate independently of higher-level control."
+    },
+    {
+      "id": "src-aa29b86974f4-c03",
+      "assertion": "Athena alleges Centaurian operatives receive Federation funding and act as human-appearing agents in political and other institutions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "centaurians",
+      "topics": [
+        "centaurians",
+        "galactic-federation",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says identities are uncertain and declines to name suspected individuals."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript advances unverified claims of hidden control and infiltration; these are attributed to Athena."
+  ],
+  "coverage_gaps": [
+    "Athena's related claim that higher-level elections are predetermined"
+  ]
+}

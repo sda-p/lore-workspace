@@ -1,0 +1,54 @@
+{
+  "source_id": "src-169d506f3fbd",
+  "snapshot_sha256": "afe78c78a820165bbe1e3c528cadd63463765abc2e6fbd7b98fb11c3f050f3ae",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-169d506f3fbd-c01",
+      "assertion": "Swaruu (9) alleges the 2003 Iraq invasion sought Sumerian records, artifacts, and nonhuman technology, including portals held at Baghdad's museum.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "sumerian-tablets"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "She says the portal count was unverified and alleges records were seized or destroyed to suppress information."
+    },
+    {
+      "id": "src-169d506f3fbd-c02",
+      "assertion": "Swaruu (9) identifies the Baghdad museum portals as Elohi-made metal rings, reportedly several meters wide.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0025",
+        "p0026",
+        "p0037"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "elohi"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She says their current operation is unknown and claims authorities wanted to reverse-engineer and withhold them."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about the Iraq invasion and alleged portal transport rely on speaker assertion and cited witnesses."
+  ],
+  "coverage_gaps": [
+    "alleged portal origin at Alt Ur",
+    "possible locations of seized material"
+  ]
+}

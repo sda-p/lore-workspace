@@ -1,0 +1,70 @@
+{
+  "source_id": "src-f9552f88d23a",
+  "snapshot_sha256": "1c0c27b5b1608549188161a6ad0b56f7c3019735bde43b0800bb4ecf69fd1a6c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f9552f88d23a-c01",
+      "assertion": "Anéeka says tractor-beam portals target a room by mapping its location and frequency; each shipboard unit is a three-meter sphere using several gigawatts.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0008",
+        "p0012",
+        "p0014",
+        "p0020"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says opening one creates a detectable magnetic-energy node."
+    },
+    {
+      "id": "src-f9552f88d23a-c02",
+      "assertion": "Anéeka describes portal machinery as a computer-controlled electromagnetic toroid that shifts matter to a destination frequency.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0032",
+        "p0036",
+        "p0040",
+        "p0089"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "A complete room-to-room bridge uses about 150 gigawatts."
+    },
+    {
+      "id": "src-f9552f88d23a-c03",
+      "assertion": "Anéeka says hyperspace travel is technically time travel for frequency-manipulating interstellar ships.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0079",
+        "p0080"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "sand-clock-squadrons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says ethical risks require training and reserve it for elite Sand Clock squadrons."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "natural portal hazards",
+    "astral portal travel",
+    "portal visibility and sensory effects"
+  ]
+}

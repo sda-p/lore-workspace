@@ -7,9 +7,15 @@
       "id": "src-96743ca87fea-c01",
       "assertion": "Yazhi says each soul chooses its perceptions; she frames her Earth experience as a chosen challenge and role.",
       "speaker": "Yazhi",
-      "paragraph_ids": ["p0009", "p0015", "p0016"],
+      "paragraph_ids": [
+        "p0009",
+        "p0015",
+        "p0016"
+      ],
       "primary_topic": "consciousness-metaphysics",
-      "topics": ["consciousness-metaphysics"],
+      "topics": [
+        "consciousness-metaphysics"
+      ],
       "modality": "asserted",
       "confidence": "high",
       "qualifiers": ""
@@ -18,9 +24,14 @@
       "id": "src-96743ca87fea-c02",
       "assertion": "Yazhi presents her warnings as a perspective and urges people to decide what to believe for themselves; she says no outside source holds all truth.",
       "speaker": "Yazhi",
-      "paragraph_ids": ["p0019", "p0026"],
+      "paragraph_ids": [
+        "p0019",
+        "p0026"
+      ],
       "primary_topic": "consciousness-metaphysics",
-      "topics": ["consciousness-metaphysics"],
+      "topics": [
+        "consciousness-metaphysics"
+      ],
       "modality": "asserted",
       "confidence": "high",
       "qualifiers": ""
@@ -29,9 +40,14 @@
       "id": "src-96743ca87fea-c03",
       "assertion": "Yazhi describes the Cabal as layered to confuse and control, with further layers beneath any layer that is breached.",
       "speaker": "Yazhi",
-      "paragraph_ids": ["p0026"],
+      "paragraph_ids": [
+        "p0026",
+        "p0024"
+      ],
       "primary_topic": "earth-cabal",
-      "topics": ["earth-cabal"],
+      "topics": [
+        "earth-cabal"
+      ],
       "modality": "asserted",
       "confidence": "high",
       "qualifiers": ""
@@ -40,9 +56,15 @@
       "id": "src-96743ca87fea-c04",
       "assertion": "Yazhi suspects many purportedly benevolent military operations are psychological operations, while allowing limited factional conflicts.",
       "speaker": "Yazhi",
-      "paragraph_ids": ["p0024", "p0025", "p0027"],
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0027"
+      ],
       "primary_topic": "earth-cabal",
-      "topics": ["earth-cabal"],
+      "topics": [
+        "earth-cabal"
+      ],
       "modality": "speculative",
       "confidence": "high",
       "qualifiers": "She lacks facts about individual operations."
@@ -50,5 +72,8 @@
   ],
   "proposed_topics": [],
   "review_flags": [],
-  "coverage_gaps": ["new Earth and perception split", "starseed development"]
+  "coverage_gaps": [
+    "new Earth and perception split",
+    "starseed development"
+  ]
 }

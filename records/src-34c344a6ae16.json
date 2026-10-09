@@ -1,0 +1,55 @@
+{
+  "source_id": "src-34c344a6ae16",
+  "snapshot_sha256": "5742f621737d79bfc501794a0dc3c3a8d36165fb68cb518342db17adf8be7d1f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-34c344a6ae16-c01",
+      "assertion": "Mari reports that Etorthan Federation representatives met Earth Cabal members in Antarctica and left an undisclosed number of diplomats aboard the biosphere ship Viera on a continuing basis.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "galactic-federation",
+        "antarctica"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the meeting agenda and authority for the permanent posting were not disclosed."
+    },
+    {
+      "id": "src-34c344a6ae16-c02",
+      "assertion": "Mari distinguishes multiple Federation levels, saying the loving, noninterventionist version belongs to a lighter astral level, while lower levels include diverse groups and political complexity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She argues that permitting embodied suffering remains unethical from the individual perspective."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source chronology: title dates update 31 Jan 2024; p0004 says Etorthan arrived 31 Dec 2024 before meetings on 27–28 Jan 2024"
+  ],
+  "coverage_gaps": [
+    "alleged annual visits and Earth political developments"
+  ]
+}

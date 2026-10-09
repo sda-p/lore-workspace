@@ -118,6 +118,26 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Información Extraterrestre - Minitemas con Gosia de Agencia Cósmica](https://swaruu.org/transcripts/informacion-extraterrestre-minitemas-con-gosia-de-agencia-cosmica) (2023-02-14; es); passages p0004, p0005, p0006, p0008. [Structured record](../../records/src-cadb5ca8cdb8.json).
 
+### src-536cd29a42e2-c01
+
+Mari’s group claims Maui and Tenerife fires were deliberately started with incendiary drones and directed-energy weapons, citing aligned origins and their own alleged forensic assessment. Mari says videos cannot be verified with certainty and bases the claim on her group’s analysis.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Tenerife en Llamas, Reporte completo. Noticias Espaciales Número 02](https://swaruu.org/transcripts/tenerife-en-llamas-reporte-completo-noticias-espaciales-numero-02) (2023-08-21; es); passages p0024, p0025, p0038, p0039, p0040. [Structured record](../../records/src-536cd29a42e2.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-13154e3227fd-c04
+
+Swaruu X (Athena) says climate manipulation can cause shortages or rainfall and favors desalination over asteroid water.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA ESCASEZ DEL AGUA EL NEGOCIO OCULTO - Athena Swaruu](https://swaruu.org/transcripts/la-escasez-del-agua-el-negocio-oculto-athena-swaruu) (2023-05-18; es); passages p0009, p0019, p0021. [Structured record](../../records/src-13154e3227fd.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
 ## Claims filed under other topics
 
 - [src-5faa731bafee-c01](terrestrial-science.md#src-5faa731bafee-c01) — Terrestrial science
@@ -137,6 +157,7 @@ Source: [Información Extraterrestre - Minitemas con Gosia de Agencia Cósmica](
 - entertainment-disclaimer
 - frequency-and-harm-claims
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain
+- real-world-disaster-causation-allegation
 - same-language-near-duplicate-src-7872bc2f2c04
 - security-claims-attributed
 - segmentation-diff

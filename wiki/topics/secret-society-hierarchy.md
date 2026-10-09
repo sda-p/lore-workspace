@@ -51,11 +51,15 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 ## Claims filed under other topics
 
 - [src-598faa62de95-c01](galactic-federation.md#src-598faa62de95-c01) — Galactic Federation
+- [src-b560693dd466-c02](extraterrestrial-stepdowns.md#src-b560693dd466-c02) — Extraterrestrial step-downs
+- [src-7de438650c41-c01](earth-cabal.md#src-7de438650c41-c01) — Earth Cabal and power structures
 
 ## Review flags
 
 - Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
 - Claims about secret societies, media manipulation, and resets are attributed to Mari Swaruu.
+- The CIA and New Age infiltration statements are attributed allegations by the speakers.
+- The article presents an unverifiable extraterrestrial political-control narrative; claims are retained as attributed lore.
 - claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified
 - federation-nonintervention-rationale
 - religious-control-claims

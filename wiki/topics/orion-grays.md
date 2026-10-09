@@ -54,12 +54,23 @@ Attributed to **Gosia**; reported; extraction confidence: medium.
 
 Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0099, p0100, p0101. [Structured record](../../records/src-c1f323f128a9.json).
 
+### src-6d5ee8028d87-c01
+
+Mari describes Orion Greys as short, amoral contractors who serve factions for resources and cooperate with Reptilians from underground bases.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alienígenas Grises. Parte 2. Razas de Orión y Etórtans](https://swaruu.org/transcripts/alienigenas-grises-parte-2-razas-de-orion-y-etortans) (2023-08-01; es); passages p0004, p0006, p0007, p0009, p0010. [Structured record](../../records/src-6d5ee8028d87.json).
+
+Related topics: [Kingu](kingu.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-03651da1738e-c03](zeta-reticuli-gardeners.md#src-03651da1738e-c03) — Zeta Reticuli Gardeners
 - [src-45558fcded2a-c04](etorthans.md#src-45558fcded2a-c04) — Etorthans
 - [src-554b76780378-c02](zeta-reticuli-gardeners.md#src-554b76780378-c02) — Zeta Reticuli Gardeners
 - [src-554b76780378-c03](galactic-federation.md#src-554b76780378-c03) — Galactic Federation
+- [src-a69d54a0580b-c01](alien-species.md#src-a69d54a0580b-c01) — Alien species and distinctions
 
 ## Review flags
 

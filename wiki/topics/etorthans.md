@@ -56,6 +56,16 @@ Source: [Space News 18. April 6 2024, Eclipse, Starships, Meetings, Yazhi, and o
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-6d5ee8028d87-c02
+
+She describes Etortans as telepathic, genderless gardeners from Betelgeuse who terraform worlds, heal biology, and hold influence in Earth's Federation council. She calls them positive but warns their rigid logic can cause suffering.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alienígenas Grises. Parte 2. Razas de Orión y Etórtans](https://swaruu.org/transcripts/alienigenas-grises-parte-2-razas-de-orion-y-etortans) (2023-08-01; es); passages p0019, p0020, p0021, p0023, p0026. [Structured record](../../records/src-6d5ee8028d87.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-fd364b9ee561-c04](galactic-federation.md#src-fd364b9ee561-c04) — Galactic Federation

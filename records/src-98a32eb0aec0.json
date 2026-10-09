@@ -1,0 +1,60 @@
+{
+  "source_id": "src-98a32eb0aec0",
+  "snapshot_sha256": "12a350db21da3c961c95bc90c314c4b5678844cfa1f80ed742339bff47f1341d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-98a32eb0aec0-c01",
+      "assertion": "Gosia says the Federation is complex and mostly benevolent, with many open levels that are not militaristic, while warning against treating it as a single-minded organization.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-98a32eb0aec0-c02",
+      "assertion": "Gosia alleges darker, hidden Federation elements may be involved in troubling Earth affairs and says Taygeta and the Urmah are prepared for a critical confrontation.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "urmah",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She distinguishes these elements from the Federation’s generally positive majority."
+    },
+    {
+      "id": "src-98a32eb0aec0-c03",
+      "assertion": "Athena says Taygeta is prepared for a hypothetical conflict but does not expect war with the Federation, naming several member species as non-belligerent.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Gosia’s open questions about alleged actions against Taygeta omitted"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source_id": "src-e481b6dfc969",
+  "snapshot_sha256": "2bf63e653eb51b58fafc5090b7737fa7700287a51f2c3347c7c003374e8f1a5d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e481b6dfc969-c01",
+      "assertion": "Gosia says contact with Athena and Yazhi was already sporadic in 2024 and daily communication was unnecessary.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006",
+        "p0010"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her main concern was not knowing whether they were well."
+    },
+    {
+      "id": "src-e481b6dfc969-c02",
+      "assertion": "Gosia says she and Robert stopped backing the new group in July 2025 after unverifiable claims and troubling interactions.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says their conclusions might be wrong but they chose to be candid with the public."
+    },
+    {
+      "id": "src-e481b6dfc969-c03",
+      "assertion": "Gosia says future collaboration requires transparency and accountability; she prefers working alone to opaque or unethical conditions.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Speculation about the CIC and absent contacts omitted"
+  ]
+}

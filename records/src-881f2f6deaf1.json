@@ -1,0 +1,75 @@
+{
+  "source_id": "src-881f2f6deaf1",
+  "snapshot_sha256": "b194790b0b9ce4f3a35d3277989ce8fb7d69be35eebdbd7e8921ec8417dcc651",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-881f2f6deaf1-c01",
+      "assertion": "Mari recounts the official history that Lyrians fled an Orion invasion and founded a Taygetan settlement on Temmer after a 300-year search.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "lyran-expansion",
+      "topics": [
+        "lyran-expansion",
+        "orion-wars",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She questions the stated 850,000-year date and conflicting origins."
+    },
+    {
+      "id": "src-881f2f6deaf1-c02",
+      "assertion": "Mari describes Temmer as a water-covered, 0.8-g world with stable weather, warm climate, fertile islands, and few predators.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0021"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the Taygetan population is concentrated there."
+    },
+    {
+      "id": "src-881f2f6deaf1-c03",
+      "assertion": "Mari says Toleka uses underground zero-point reactors for a wireless power grid, electric vehicles, and elevated maglev trains.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "taygetan-wireless-power-grid",
+      "topics": [
+        "taygetan-wireless-power-grid",
+        "energy-generation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says vehicles draw power without batteries."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other Taygetan planets, including military outpost Dakote",
+    "Toleka's geography and architecture"
+  ]
+}

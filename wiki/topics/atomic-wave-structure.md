@@ -44,6 +44,16 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Conciencia, Unidad, Gravedad y el Universo Numérico.](https://swaruu.org/transcripts/conciencia-unidad-gravedad-y-el-universo-numerico) (2022-12-19; es); passages p0011, p0013, p0014, p0015, p0016, p0017, p0019, p0020. [Structured record](../../records/src-c1b49a077026.json).
 
+### src-426c28844e08-c02
+
+In her proposed model, calm consciousness creates potential ether; thought produces ether waves whose consistent harmonics form persistent standing waves.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Todo es mente, todo es conciencia.](https://swaruu.org/transcripts/todo-es-mente-todo-es-conciencia) (2023-05-02; es); passages p0011, p0012. [Structured record](../../records/src-426c28844e08.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-f5165a17d17e-c01](gravity-harmonics.md#src-f5165a17d17e-c01) — Gravity harmonics

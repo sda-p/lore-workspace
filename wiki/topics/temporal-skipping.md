@@ -690,6 +690,16 @@ Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
 
 Source: [Qué es el Tiempo y Cómo Funciona - Parte 1: Los datos de tu contexto](https://swaruu.org/transcripts/que-es-el-tiempo-y-como-funciona-parte-1-los-datos-de-tu-contexto) (2023-03-04; es); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-393a848bb064.json).
 
+### src-a58e748ec5c5-c04
+
+Mari equates hyperspace and time travel as navigation, with similar energy costs for spatial and temporal movement, but warns of ethical risks.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Tiempo, Líneas temporales, Naves estelares y tu Mente](https://swaruu.org/transcripts/tiempo-lineas-temporales-naves-estelares-y-tu-mente) (2023-05-27; es); passages p0029, p0030, p0031, p0032. [Structured record](../../records/src-a58e748ec5c5.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-c72b629726c7-c01](stellar-navigation.md#src-c72b629726c7-c01) — Stellar navigation
@@ -729,6 +739,8 @@ Source: [Qué es el Tiempo y Cómo Funciona - Parte 1: Los datos de tu contexto]
 - [src-d0de3dcb86df-c02](frequency-map-navigation.md#src-d0de3dcb86df-c02) — Frequency-map navigation
 - [src-9f9a5d3a7e35-c04](consciousness-metaphysics.md#src-9f9a5d3a7e35-c04) — Consciousness and metaphysics
 - [src-8372138cf73b-c03](sand-clock.md#src-8372138cf73b-c03) — Sand Clock
+- [src-d9bbb3c4038b-c01](frequency-map-navigation.md#src-d9bbb3c4038b-c01) — Frequency-map navigation
+- [src-44b8aa34f2fb-c02](frequency-map-navigation.md#src-44b8aa34f2fb-c02) — Frequency-map navigation
 
 ## Review flags
 
@@ -779,6 +791,7 @@ Source: [Qué es el Tiempo y Cómo Funciona - Parte 1: Los datos de tu contexto]
 - speaker\_attribution
 - speculation:federation-experiments
 - subjective-time-model
+- tartaria-history-disputed
 - temporal-branching-does-not-alter-observers' timelines
 - temporal-duplicate-theory
 - temporal-lore-attributed

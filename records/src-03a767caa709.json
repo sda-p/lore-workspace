@@ -1,0 +1,47 @@
+{
+  "source_id": "src-03a767caa709",
+  "snapshot_sha256": "57f517b4aea71dd81830b3138305255e4a38617f101de0fc90e60c2676f4e847",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-03a767caa709-c01",
+      "assertion": "Mari describes Saska 1 as a supply and repair station with engineers, spare parts, replicators, and workshops.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03a767caa709-c02",
+      "assertion": "Mari says the Orion Council and local Federation announced cooperation treaties, but she questions whether the agreement represents genuine peace.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the outcome remains uncertain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Statements about current faction activity are attributed to Mari Swaruu and are time-specific."
+  ],
+  "coverage_gaps": [
+    "Ship crew details and the speaker’s warnings about public agendas"
+  ]
+}

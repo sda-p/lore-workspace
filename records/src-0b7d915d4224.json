@@ -1,0 +1,53 @@
+{
+  "source_id": "src-0b7d915d4224",
+  "snapshot_sha256": "48a7f39cd2f69caab271bee78f0ee040c4ba64bfa5464e14a69e3c13f099ce72",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0b7d915d4224-c01",
+      "assertion": "Mari says ordinary manifestation requires focused action, while “super-manifesters” align their thoughts and vibration to desired outcomes and may bypass many practical steps.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0009",
+        "p0010",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames this as a spiritual model of reality."
+    },
+    {
+      "id": "src-0b7d915d4224-c02",
+      "assertion": "Mari says some incarnated beings retain memories of the astral and between-life state and guide others; she links release from reincarnation to self-forgiveness rather than external absolution.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents these as spiritual claims about souls and karma."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "proactive manifestation and belief alignment",
+    "claims about self-forgiveness and toxic dynamics"
+  ]
+}

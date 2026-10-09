@@ -1,0 +1,89 @@
+{
+  "source_id": "src-61c94d4f2880",
+  "snapshot_sha256": "fd9151097cd6abf7d530a0fa71c3852f12663781c27193ca3acdea0aeb62cbaa",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-61c94d4f2880-c01",
+      "assertion": "Mari describes an immersive room projecting distant locations so users can appear to visit without travel.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "remote-presence-technology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61c94d4f2880-c02",
+      "assertion": "Mari says a distant drone gathers sensory data and projects the user's avatar for interaction.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "remote-presence-technology",
+      "topics": [
+        "remote-presence-technology",
+        "spherical-drones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61c94d4f2880-c03",
+      "assertion": "Zai'kira says encoded muon-lepton vibrations transmit through the ether without particles traveling distance.",
+      "speaker": "Zai'kira, as reported by Mari",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "muon-gravity-communications",
+      "topics": [
+        "muon-gravity-communications",
+        "ether-field"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari says the mechanism supports remote immersion and FTL travel."
+    },
+    {
+      "id": "src-61c94d4f2880-c04",
+      "assertion": "Mari says the older system reproduces sound, temperature, wind, and smells but has noticeable flaws.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says it was obsolete aboard Toleka."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Technical descriptions and faster-than-light mechanism are attributed to the speakers."
+  ],
+  "coverage_gaps": [
+    "the projection room's gravity control and the newer system's greater realism"
+  ]
+}

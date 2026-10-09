@@ -1,0 +1,36 @@
+{
+  "source_id": "src-ec2a31d0bdb9",
+  "snapshot_sha256": "1067dff2ac47b246a515059138a1b3d7e9bea7281e159f0d5e7a4852a63d90f4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ec2a31d0bdb9-c01",
+      "assertion": "Swaruu says extensive one-to-one contact exhausts her, so she wants to limit individual messages and focus on shared work.",
+      "speaker": "Swaruu 9",
+      "paragraph_ids": ["p0010", "p0014", "p0022", "p0025"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are excerpts from private chats in 2018."
+    },
+    {
+      "id": "src-ec2a31d0bdb9-c02",
+      "assertion": "Alenym says Swaruu struggles to read men’s intentions and recommends she not meet unfamiliar people alone.",
+      "speaker": "Alenym",
+      "paragraph_ids": ["p0054", "p0056", "p0060", "p0067", "p0068"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The group discusses supervision and social boundaries for future contact."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript represents alleged private communications with extraterrestrial figures; the claims are unverified."
+  ],
+  "coverage_gaps": [
+    "Other passages discuss cross-cultural flirting norms and coordination among the contact group."
+  ]
+}

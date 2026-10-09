@@ -556,6 +556,36 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Navegación Estelar, Conceptos Básicos](https://swaruu.org/transcripts/navegacion-estelar-conceptos-basicos) (2022-12-23; es); passages p0010, p0011, p0013, p0014. [Structured record](../../records/src-877d9746441a.json).
 
+### src-d9bbb3c4038b-c01
+
+Mari says Suzy-class time navigation uses frequency maps rather than calendar dates, making conversion to modern chronology unreliable. Describes her group’s navigation system.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Historia Falsa, en el espacio y en la Tierra, Tartaria, Cabal, Mentiras y la Federación Galáctica](https://swaruu.org/transcripts/historia-falsa-en-el-espacio-y-en-la-tierra-tartaria-cabal-mentiras-y-la-federacion-galactica) (2023-09-02; es); passages p0038, p0039, p0040. [Structured record](../../records/src-d9bbb3c4038b.json).
+
+Related topics: [Suzy-class starships](suzy-class-starships.md), [Temporal skipping](temporal-skipping.md).
+
+### src-44b8aa34f2fb-c02
+
+Mari says ships use numerical mass-energy-frequency maps and toroidal plasma fields to match a destination’s pattern, enabling space-time travel without treating distance or dates as physical spans. Mari’s account of the navigation method.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Viajes en el Tiempo y por qué las Líneas Temporales no existen realmente.](https://swaruu.org/transcripts/viajes-en-el-tiempo-y-por-que-las-lineas-temporales-no-existen-realmente) (2023-06-02; es); passages p0017, p0018, p0019, p0020, p0021, p0022, p0023, p0025, p0026, p0027. [Structured record](../../records/src-44b8aa34f2fb.json).
+
+Related topics: [Temporal skipping](temporal-skipping.md), [Starship systems](starship-systems.md).
+
+### src-a58e748ec5c5-c03
+
+Mari says starships use navigation maps and high-energy toroidal fields to emulate minds and shift the ship’s frequencies to match a destination.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Tiempo, Líneas temporales, Naves estelares y tu Mente](https://swaruu.org/transcripts/tiempo-lineas-temporales-naves-estelares-y-tu-mente) (2023-05-27; es); passages p0027, p0028. [Structured record](../../records/src-a58e748ec5c5.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c01](stellar-navigation.md#src-426ea469937a-c01) — Stellar navigation
@@ -590,6 +620,8 @@ Source: [Navegación Estelar, Conceptos Básicos](https://swaruu.org/transcripts
 - [src-1c99be09ad1a-c02](perceptual-density.md#src-1c99be09ad1a-c02) — Perceptual density
 - [src-877d9746441a-c03](stellar-navigation.md#src-877d9746441a-c03) — Stellar navigation
 - [src-877d9746441a-c04](stellar-navigation.md#src-877d9746441a-c04) — Stellar navigation
+- [src-86a4669c182d-c03](timeline-branching.md#src-86a4669c182d-c03) — Timeline branching
+- [src-a58e748ec5c5-c01](consciousness-metaphysics.md#src-a58e748ec5c5-c01) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -627,6 +659,7 @@ Source: [Navegación Estelar, Conceptos Básicos](https://swaruu.org/transcripts
 - source-mixed-origin-en-reactor-and-spanish-engine-sections
 - speaker-shifts-Aneeka-Athena-Yazhi
 - suzy-thrust-rating-variant-review
+- tartaria-history-disputed
 - time\_travel\_lore
 - title-metadata-diff
 - translated-from-Spanish-original-not-available

@@ -1,0 +1,73 @@
+{
+  "source_id": "src-936377231cd6",
+  "snapshot_sha256": "e2547fa1def3dbf124902de821cfa163210c0f0e9e3ce90c616a3a2afc6fa518",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-936377231cd6-c01",
+      "assertion": "Mari says Reptiloids comprise thousands of species; subterranean Kingu include green workers, red military and white ruling castes, and cooperate with human officials.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0009",
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "kingu",
+      "topics": [
+        "kingu",
+        "reptilians",
+        "deep-underground-military-bases"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-936377231cd6-c02",
+      "assertion": "Mari says Kingu view the surface as a human resource farm and live in vast underground spaces and cities connected to human military bases.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations",
+        "kingu"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-936377231cd6-c03",
+      "assertion": "Mari says Reptiloids cannot biologically shapeshift but can distort human perception with psychic abilities and synthetic-telepathy devices; remote human influence requires genetic-frequency compatibility.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "synthetic-intelligence",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "p0007 gives contradictory Kingu–Usungal origin accounts."
+  ],
+  "coverage_gaps": [
+    "other claims about human portals and astral activity omitted"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "source_id": "src-eee7cda4be63",
+  "snapshot_sha256": "d9757e38d769ccb85dee3a3fd39517728f181e698245cc9829e8c8d2bed42954",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-eee7cda4be63-c01",
+      "assertion": "Gosia portrays starseeds and awakened humans as a collective shield against forces she describes as exploitative.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eee7cda4be63-c02",
+      "assertion": "Gosia praises the Urmah for guarding Earth from orbit and urges starseeds to maintain solidarity despite personal disagreements.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This is Gosia’s personal exhortation, not a report from an Urmah speaker."
+  ],
+  "coverage_gaps": [
+    "Further rhetoric about conflict with regressive forces"
+  ]
+}

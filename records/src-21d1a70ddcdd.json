@@ -1,0 +1,118 @@
+{
+  "source_id": "src-21d1a70ddcdd",
+  "snapshot_sha256": "bdaee2189b89e334058e412fd2eeff5a6df31c11cebc8354eeb73b3f715d546a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-21d1a70ddcdd-c01",
+      "assertion": "Mari alleges Earth politics divide a single power bloc into rival factions, though their conflicts are real.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0004",
+        "p0020",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21d1a70ddcdd-c02",
+      "assertion": "Mari claims Federation collective consciousness contributes to Earth conflicts and overlaps terrestrial and stellar collectives.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21d1a70ddcdd-c03",
+      "assertion": "Mari says souls manifest reality through embodied matter, an illusion shaped by a frequency filter.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21d1a70ddcdd-c04",
+      "assertion": "Mari says attention to unrelated news empowers negative events.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0018",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21d1a70ddcdd-c05",
+      "assertion": "Mari urges direct aid, alleging large government-backed organizations divert resources.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-21d1a70ddcdd-c06",
+      "assertion": "Mari claims Antarctica hosts planetary control and ports to the Federation.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "antarctica",
+      "topics": [
+        "antarctica",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The political and news-related claims are Mari's interpretations and allegations; preserve attribution and speculative modality."
+  ],
+  "coverage_gaps": [
+    "hierarchy of Earth secret societies",
+    "recommendations for local action and personal aid"
+  ]
+}

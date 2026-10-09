@@ -254,6 +254,16 @@ Source: [Ucrania - Que Han Visto los Hashmallim en la Tierra? Athena Swaruu Info
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-536cd29a42e2-c02
+
+Mari says Tenerife’s smart-island and redevelopment plans predated the fire, and speculates the destruction supports planned tourism redevelopment and half-hour-city programs. Mari presents the connection as her interpretation.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Tenerife en Llamas, Reporte completo. Noticias Espaciales Número 02](https://swaruu.org/transcripts/tenerife-en-llamas-reporte-completo-noticias-espaciales-numero-02) (2023-08-21; es); passages p0030, p0031, p0032, p0033, p0035, p0036. [Structured record](../../records/src-536cd29a42e2.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-ad9dbfd43650-c01](earth-cabal.md#src-ad9dbfd43650-c01) — Earth Cabal and power structures
@@ -263,6 +273,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-0f643414e014-c02](earth-cabal.md#src-0f643414e014-c02) — Earth Cabal and power structures
 - [src-026b0b5b32ce-c02](false-alien-invasion.md#src-026b0b5b32ce-c02) — False alien invasion scenarios
 - [src-e33e26096a8a-c02](holistic-society.md#src-e33e26096a8a-c02) — Holistic society
+- [src-3e6bb19f0b7f-c03](earth-cabal.md#src-3e6bb19f0b7f-c03) — Earth Cabal and power structures
 
 ## Review flags
 
@@ -283,6 +294,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - internal-contradiction:virus-presence
 - medical-and-vaccine-misinformation-omitted
 - medical-lore
+- real-world-disaster-causation-allegation
 - source makes disputed wartime claims based on an asserted brief observation; not independently verified
 - speculative-false-invasion-scenario
 - tension:planned-outcomes-vs-human-agency

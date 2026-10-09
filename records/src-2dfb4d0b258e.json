@@ -1,0 +1,66 @@
+{
+  "source_id": "src-2dfb4d0b258e",
+  "snapshot_sha256": "ade9c6d959b659454a0c6d49009278f819dbf1d5d967c93660c0325b042f9ba8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2dfb4d0b258e-c01",
+      "assertion": "Yazhi says attachments and interests create frequency matches that can lead a person to repeat experiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dfb4d0b258e-c02",
+      "assertion": "Yazhi describes physical matter as standing-wave nodes in potential energy, with harmonics determining particle formation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2dfb4d0b258e-c03",
+      "assertion": "Yazhi says consciousness and shared agreements shape perceived reality; precise harmonics could be emulated technologically.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0022",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Metaphysical and physical models are attributed to Yazhi."
+  ],
+  "coverage_gaps": [
+    "Her critique of dimensionality and soul concepts"
+  ]
+}

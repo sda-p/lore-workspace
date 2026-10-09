@@ -1,0 +1,32 @@
+{
+  "source_id": "src-e4d9d208cc31",
+  "snapshot_sha256": "36e2555ae029142b2768e3d8b4534d09ac47c70b0689b473b331375ba02d1932",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e4d9d208cc31-c01",
+      "assertion": "Swaruu (9) describes a full-immersion temporal-travel simulation from Toleka to Bronze Age Scotland, emphasizing that no actual journey occurred.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0054", "p0056", "p0064", "p0068"],
+      "primary_topic": "total-immersion-simulations",
+      "topics": ["total-immersion-simulations", "temporal-skipping", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the computer simulated events using historical data, while some outcomes remained unpredictable."
+    },
+    {
+      "id": "src-e4d9d208cc31-c02",
+      "assertion": "Swaruu (9) says participants remained awake in a sealed Toleka room, where gravity manipulation suspended their bodies during immersive movement.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": ["p0073", "p0074", "p0076", "p0078", "p0080", "p0083"],
+      "primary_topic": "total-immersion-simulations",
+      "topics": ["total-immersion-simulations", "gravity-harmonics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says participants felt like they were walking through the simulated destination."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["replicated bicycles and materials", "alleged astral rescue", "Svalbard escort reports", "shipboard pets"]
+}

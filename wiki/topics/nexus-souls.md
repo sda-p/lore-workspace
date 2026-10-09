@@ -154,6 +154,56 @@ Source: [High Frequency and Bad Events - Athena and Yazhi Swaruu](https://swaruu
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-6f4abd2348fc-c01
+
+Yazhi says a higher self can divide into multiple incarnated selves to experience different paths at once. The higher self receives both experiences.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿CÓMO SE FRAGMENTAN LAS ALMAS EN LA ENTREVIDA?](https://swaruu.org/transcripts/como-se-fragmentan-las-almas-en-la-entrevida) (2023-05-02; es); passages p0004, p0005, p0006, p0008, p0010. [Structured record](../../records/src-6f4abd2348fc.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0c64b4d8967b-c01
+
+Mari describes nexus souls as composites of multiple points of attention, with expansion measured by consciousness and understanding rather than stored facts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Almas avanzadas y su mente colmena.](https://swaruu.org/transcripts/almas-avanzadas-y-su-mente-colmena) (2023-04-28; es); passages p0004, p0005, p0006. [Structured record](../../records/src-0c64b4d8967b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0c64b4d8967b-c02
+
+She says advanced souls influence similar-frequency people and regions, potentially raising a planet’s energy through their presence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Almas avanzadas y su mente colmena.](https://swaruu.org/transcripts/almas-avanzadas-y-su-mente-colmena) (2023-04-28; es); passages p0015, p0016, p0017, p0018, p0019. [Structured record](../../records/src-0c64b4d8967b.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-0c64b4d8967b-c04
+
+She says connected group members can share emotions telepathically, influence is reciprocal, and some advanced souls isolate to manage these effects.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Almas avanzadas y su mente colmena.](https://swaruu.org/transcripts/almas-avanzadas-y-su-mente-colmena) (2023-04-28; es); passages p0027, p0028, p0029, p0030, p0031. [Structured record](../../records/src-0c64b4d8967b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-cdc082ef32a2-c01
+
+Athena says twins share an origin but become distinct souls through different life experiences; an “old soul” means wisdom gained, not many incarnations.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Fragmentación de Almas - Directo con Gosia](https://swaruu.org/transcripts/fragmentacion-de-almas-directo-con-gosia) (2023-05-05; es); passages p0006, p0007, p0008, p0019, p0021. [Structured record](../../records/src-cdc082ef32a2.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
 ## Claims filed under other topics
 
 - [src-5aee7ebba0c5-c01](consciousness-metaphysics.md#src-5aee7ebba0c5-c01) — Consciousness and metaphysics
@@ -168,8 +218,17 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-645493db4473-c01](consciousness-metaphysics.md#src-645493db4473-c01) — Consciousness and metaphysics
 - [src-645493db4473-c04](consciousness-metaphysics.md#src-645493db4473-c04) — Consciousness and metaphysics
 - [src-64966405e66f-c02](consciousness-metaphysics.md#src-64966405e66f-c02) — Consciousness and metaphysics
+- [src-6f4abd2348fc-c02](consciousness-metaphysics.md#src-6f4abd2348fc-c02) — Consciousness and metaphysics
+- [src-429d15872426-c01](soul-loop-reincarnation.md#src-429d15872426-c01) — Soul-loop reincarnation
+- [src-429d15872426-c03](nexus-beings.md#src-429d15872426-c03) — Nexus beings
+- [src-0c64b4d8967b-c03](reincarnation-cycles.md#src-0c64b4d8967b-c03) — Reincarnation and karmic cycles
+- [src-cdc082ef32a2-c03](soulmates.md#src-cdc082ef32a2-c03) — Soulmates
+- [src-18f0726037ac-c01](memory-veil.md#src-18f0726037ac-c01) — Memory Veil
 
 ## Review flags
 
 - Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
+- Claims about concurrent lives and nexus beings are attributed to Yazhi.
+- Kassia’s message is written and prepared for publication by Mari Swaruu.
+- The source combines separate April 2021 and 2023 excerpts; speakers are attributed by passage.
 - entertainment-disclaimer

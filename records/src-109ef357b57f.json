@@ -1,0 +1,65 @@
+{
+  "source_id": "src-109ef357b57f",
+  "snapshot_sha256": "3d6f89fb51b71aad2d67fdabeadacd9ae3f8f70fdbf767ee0a34a536feb462d1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-109ef357b57f-c01",
+      "assertion": "Mari describes a walk-in as a more evolved version of the same higher self replacing a less evolved incarnation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the two may appear to be different people from an earthly perspective."
+    },
+    {
+      "id": "src-109ef357b57f-c02",
+      "assertion": "Mari says a walk-in requires vibrational compatibility between the incoming soul and the body’s DNA.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0015",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-109ef357b57f-c03",
+      "assertion": "Mari distinguishes a walk-in as a meaningful soul exchange from possession as a hostile takeover.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about souls, DNA compatibility, and possession are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Proposed motives and examples of walk-ins"
+  ]
+}

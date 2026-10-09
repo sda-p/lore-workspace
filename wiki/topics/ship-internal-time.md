@@ -208,6 +208,16 @@ Source: [NAVEGACIÓN ESTELAR IV SALTO AL HIPERESPACIO - Athena Swaruu](https://s
 
 Related topics: [Suzy-class starships](suzy-class-starships.md), [Starship systems](starship-systems.md).
 
+### src-8a37a5eaeb7b-c03
+
+Athena says fighter-class hyperspace trips still have perceived SIT, reduced from about seven hours on a Toleka to minutes; technically, she describes travel as instantaneous.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [NAVES EXTRATERRESTRES PUEDEN ENVIAR MENSAJES DE LUZ EN FORMA DE DESTELLOS](https://swaruu.org/transcripts/naves-extraterrestres-pueden-enviar-mensajes-de-luz-en-forma-de-destellos) (2023-07-09; es); passages p0070, p0071, p0073, p0074, p0075. [Structured record](../../records/src-8a37a5eaeb7b.json).
+
+Related topics: [Suzy-class starships](suzy-class-starships.md).
+
 ## Claims filed under other topics
 
 - [src-07494ef21f67-c02](cyndriel.md#src-07494ef21f67-c02) — Cyndriel

@@ -1,0 +1,63 @@
+{
+  "source_id": "src-4a2d4df80743",
+  "snapshot_sha256": "9cd3b2dfbfd11a42e7462f46e0e40f305e35e193e793024fba7988accec802ba",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4a2d4df80743-c01",
+      "assertion": "Swaruu X (Athena) says the Maui fires were deliberately caused to displace residents and rebuild under a 15-minute-city program.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributes it to the US government and 2030 Agenda."
+    },
+    {
+      "id": "src-4a2d4df80743-c02",
+      "assertion": "Swaruu X (Athena) says these cities would restrict residents to assigned areas, with costly exits enforced by police and military under a climate rationale.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says Hawaii is an early target."
+    },
+    {
+      "id": "src-4a2d4df80743-c03",
+      "assertion": "Swaruu X (Athena) claims drones with flamethrowers were detected in Maui and Spain and used to start fires; only some cases involve energy weapons.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Substantial thematic overlap with src-bad1e627f547; this separate Spanish transcript has distinct provenance."
+  ],
+  "coverage_gaps": [
+    "city preparation examples and financing estimate",
+    "agricultural pressures and public communication"
+  ]
+}

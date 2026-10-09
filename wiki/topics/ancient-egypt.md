@@ -315,6 +315,9 @@ Source: [CONVERSACIONES EXTRATERRESTRES ARQUEOLOGÍA - Monte Bucegi - Sophia Swa
 - [src-6e66e9328bac-c01](natural-portals.md#src-6e66e9328bac-c01) — Natural and artificial portals
 - [src-6e66e9328bac-c02](sumerian-tablet-interpretations.md#src-6e66e9328bac-c02) — Sumerian tablet interpretations
 - [src-113e831d374d-c03](druidic-traditions.md#src-113e831d374d-c03) — Druidic traditions
+- [src-1b58a21e9def-c01](pyramid-network.md#src-1b58a21e9def-c01) — Pyramid energy and portal network
+- [src-1b58a21e9def-c02](artificial-portals.md#src-1b58a21e9def-c02) — Artificial portals
+- [src-1b58a21e9def-c03](atlantean-zero-point-pyramids.md#src-1b58a21e9def-c03) — Atlantean zero-point pyramids
 
 ## Review flags
 

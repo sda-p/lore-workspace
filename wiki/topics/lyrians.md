@@ -56,6 +56,26 @@ Source: [Orígenes de la Raza Lyriana / Humana](https://swaruu.org/transcripts/o
 
 Related topics: [Lyran expansion](lyran-expansion.md), [Orion Wars](orion-wars.md).
 
+### src-5699fcba6376-c03
+
+Mari describes a spectrum of Lyrian species, from outwardly human forms to increasingly distinctive morphologies, with varied internal anatomy. She distinguishes bodily appearance from the soul inhabiting a body.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Qué es un extraterrestre para ti?](https://swaruu.org/transcripts/que-es-un-extraterrestre-para-ti) (2023-05-18; es); passages p0031, p0032, p0033, p0034, p0035. [Structured record](../../records/src-5699fcba6376.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-e48edb1223b1-c03
+
+Athena says Reptiles most invasively altered human genetics, but identifies Lyrians—not Reptiles—as common human ancestors, except later spacecraft arrivals.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [HIBRIDACIÓN EXTRATERRESTRE Y ADN TERRESTRE - Athena Swaruu](https://swaruu.org/transcripts/hibridacion-extraterrestre-y-adn-terrestre-athena-swaruu) (2023-06-05; es); passages p0107, p0109. [Structured record](../../records/src-e48edb1223b1.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md), [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-c190fb308eb0-c01](karistus.md#src-c190fb308eb0-c01) — Karistus
@@ -63,12 +83,21 @@ Related topics: [Lyran expansion](lyran-expansion.md), [Orion Wars](orion-wars.m
 - [src-4bd203cbfe4d-c01](karistus.md#src-4bd203cbfe4d-c01) — Karistus
 - [src-7d76d15d2444-c01](dna-metaphysics.md#src-7d76d15d2444-c01) — DNA and metaphysical patterns
 - [src-07f9f86e1027-c01](humanity-multi-species-experiment.md#src-07f9f86e1027-c01) — Humanity as a multi-species experiment
+- [src-6666d1d0f467-c01](alfrata.md#src-6666d1d0f467-c01) — Alfrata (Phaeton)
+- [src-6666d1d0f467-c02](urmah.md#src-6666d1d0f467-c02) — Urmah
+- [src-e285065c4098-c03](moon-matrix.md#src-e285065c4098-c03) — Moon and terrestrial Matrix
+- [src-7ab85bafab6b-c03](moon-matrix.md#src-7ab85bafab6b-c03) — Moon and terrestrial Matrix
+- [src-2e200138040b-c02](holistic-society.md#src-2e200138040b-c02) — Holistic society
+- [src-e48edb1223b1-c01](dna-metaphysics.md#src-e48edb1223b1-c01) — DNA and metaphysical patterns
 
 ## Review flags
 
+- Claims about lunar construction, Van Allen radiation, and reproductive biology contradict established terrestrial science and are retained only as attributed lore.
 - DNA collection and nonhuman-identification claims are presented as Yazhi’s assertions.
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
+- Lunar, Van Allen, and reproductive-biology claims contradict established terrestrial science and are retained only as attributed lore.
 - Swaruu X presents multiple hybridization motives and acknowledges incomplete information about some groups.
+- The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore.
 - The author explicitly framed this material as entertainment or science fiction; claims are attributed to Mari.
 - account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
 - human-agency-model:external-control-and-human-authorship

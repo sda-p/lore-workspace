@@ -46,6 +46,16 @@ Source: [NOTICIAS ESPACIALES - Programa Espacial Secreto](https://swaruu.org/tra
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Mars](mars.md), [Galactic Federation](galactic-federation.md).
 
+### src-4ae11aa0469c-c01
+
+Swaruu X (Athena) describes Majestic 12 as a government paramilitary organization that controlled UFO information and public narratives. She also describes internal government messaging.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA NARRATIVA SECRETA: CONTROL Y DESINFORMACIÓN SOBRE EL FENÓMENO EXTRATERRESTRE](https://swaruu.org/transcripts/la-narrativa-secreta-control-y-desinformacion-sobre-el-fenomeno-extraterrestre) (2023-06-24; es); passages p0008, p0009, p0010, p0011. [Structured record](../../records/src-4ae11aa0469c.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
 ## Claims filed under other topics
 
 - [src-b2a52629b21d-c02](deep-underground-military-bases.md#src-b2a52629b21d-c02) — Deep underground military bases

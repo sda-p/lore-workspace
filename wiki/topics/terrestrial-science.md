@@ -2600,6 +2600,114 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [Anunnaki - Quienes son realmente? Perspectiva Extraterrestre](https://swaruu.org/transcripts/anunnaki-quienes-son-realmente-perspectiva-extraterrestre) (2023-03-09; es); passages p0012, p0013, p0014. [Structured record](../../records/src-a688a6bed26b.json).
 
+### src-59758ad652fa-c01
+
+Yazhi says Polaris only appears fixed because Earth’s axis points toward it; it wobbles slightly.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Mini Temas - Información de las Personas Extraterrestres - Taygeta, Pléyades](https://swaruu.org/transcripts/mini-temas-informacion-de-las-personas-extraterrestres-taygeta-pleyades) (2023-08-28; es); passages p0003, p0004. [Structured record](../../records/src-59758ad652fa.json).
+
+### src-59758ad652fa-c03
+
+Athena says Faraday shielding must enclose all six sides; head coverings leave openings and cannot fully block electromagnetic signals.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Mini Temas - Información de las Personas Extraterrestres - Taygeta, Pléyades](https://swaruu.org/transcripts/mini-temas-informacion-de-las-personas-extraterrestres-taygeta-pleyades) (2023-08-28; es); passages p0021, p0022, p0023. [Structured record](../../records/src-59758ad652fa.json).
+
+### src-aaf321b17830-c02
+
+Anéeka says understanding UAP requires connecting them with history, metaphysics, biology, and other subjects, beyond official accounts.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE OFICIALMENTE ACEPTADO - Aneeka](https://swaruu.org/transcripts/contacto-extraterrestre-oficialmente-aceptado-aneeka) (2023-08-08; es); passages p0008, p0009. [Structured record](../../records/src-aaf321b17830.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-af28174da547-c03
+
+Yazhi defines antimatter as ordinary matter with reversed charge values that annihilates on contact with its normal-matter equivalent. She distinguishes it from dark matter.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Materia Oscura y Antimateria - Informacion Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/materia-oscura-y-antimateria-informacion-extraterrestre-yazhi-swaruu) (2023-08-06; es); passages p0030, p0031, p0032, p0034. [Structured record](../../records/src-af28174da547.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-79f4ea058b24-c01
+
+Swaruu 9 and Yazhi say famous dinosaurs such as Tyrannosaurus and Triceratops were fabricated; Yazhi allows some smaller species may have existed. They say bones were mixed.
+
+Attributed to **Swaruu 9 and Yazhi**; asserted; extraction confidence: high.
+
+Source: [Dinosaurios - Existieron o No? Que dice nuestro equipo Taygeteano de las Pléyades?](https://swaruu.org/transcripts/dinosaurios-existieron-o-no-que-dice-nuestro-equipo-taygeteano-de-las-pleyades) (2023-05-17; es); passages p0004, p0007, p0018, p0030. [Structured record](../../records/src-79f4ea058b24.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-79f4ea058b24-c03
+
+Yazhi argues carbon dating and rock strata cannot reliably establish very ancient periods because readings vary and geological layers shift. Strata dating is somewhat better.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Dinosaurios - Existieron o No? Que dice nuestro equipo Taygeteano de las Pléyades?](https://swaruu.org/transcripts/dinosaurios-existieron-o-no-que-dice-nuestro-equipo-taygeteano-de-las-pleyades) (2023-05-17; es); passages p0024, p0025, p0026, p0027. [Structured record](../../records/src-79f4ea058b24.json).
+
+### src-742d06b0c285-c04
+
+Athena says Faraday cages need six-sided enclosure; hats leave heads incompletely shielded.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DE DONDE SURGIERON LOS INCAS? CONVERSACIONES SOBRE DIVERSOS TEMAS - Athena Swaruu](https://swaruu.org/transcripts/de-donde-surgieron-los-incas-conversaciones-sobre-diversos-temas-athena-swaruu) (2023-05-08; es); passages p0023. [Structured record](../../records/src-742d06b0c285.json).
+
+Related topics: [Aggressive telepathy](aggressive-telepathy.md).
+
+### src-e30c581bf65b-c03
+
+Athena speculates India was selected to promote it in public perception, perhaps due to industrial strength or unknown agendas.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [NAVE ESPACIAL INDIA ALUNIZA CERCA DEL POLO SUR DE LA LUNA - Athena Swaruu](https://swaruu.org/transcripts/nave-espacial-india-aluniza-cerca-del-polo-sur-de-la-luna-athena-swaruu) (2023-08-26; es); passages p0036, p0040. [Structured record](../../records/src-e30c581bf65b.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-182d149f48ed-c01
+
+Swaruu X (Athena) argues measured mass, gravity, mathematics, and geometry support a spherical Earth and flat-Earth models lack cosmology. She says the evidence is mathematical rather than photographic.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA TIERRA PLANA NO TIENE COSMOLOGÍA NI METAFÍSICA - Athena Swaruu](https://swaruu.org/transcripts/la-tierra-plana-no-tiene-cosmologia-ni-metafisica-athena-swaruu) (2023-07-06; es); passages p0005, p0034, p0039. [Structured record](../../records/src-182d149f48ed.json).
+
+### src-a4adffb6f3a6-c01
+
+Swaruu X (Athena) links volcanic and solar activity and describes volcanoes as pressure outlets during tectonic plate displacement. She gives little Popocatépetl-specific information.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Erupción del Popocatépetl México - Actividad Militar - Athena Swaruu](https://swaruu.org/transcripts/erupcion-del-popocatepetl-mexico-actividad-militar-athena-swaruu) (2023-06-18; es); passages p0004, p0013. [Structured record](../../records/src-a4adffb6f3a6.json).
+
+### src-a4adffb6f3a6-c03
+
+Swaruu X (Athena) says ash, earthquakes, and pyroclastic clouds could reach Mexico City, and links nearby earthquakes to eruptions through the magma chamber.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Erupción del Popocatépetl México - Actividad Militar - Athena Swaruu](https://swaruu.org/transcripts/erupcion-del-popocatepetl-mexico-actividad-militar-athena-swaruu) (2023-06-18; es); passages p0017, p0019. [Structured record](../../records/src-a4adffb6f3a6.json).
+
+### src-13154e3227fd-c03
+
+Swaruu X (Athena) says potable water can be scarce despite abundance because freshwater is limited and contaminated.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA ESCASEZ DEL AGUA EL NEGOCIO OCULTO - Athena Swaruu](https://swaruu.org/transcripts/la-escasez-del-agua-el-negocio-oculto-athena-swaruu) (2023-05-18; es); passages p0011, p0017. [Structured record](../../records/src-13154e3227fd.json).
+
+Related topics: [Economics and resources](economics.md).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -2738,11 +2846,26 @@ Source: [Anunnaki - Quienes son realmente? Perspectiva Extraterrestre](https://s
 - [src-93ba3a32ef40-c01](energy-generation.md#src-93ba3a32ef40-c01) — Energy generation technology
 - [src-901c303678fd-c03](taygetan-ecosystems.md#src-901c303678fd-c03) — Taygetan ecosystems
 - [src-901c303678fd-c05](consciousness-metaphysics.md#src-901c303678fd-c05) — Consciousness and metaphysics
+- [src-852d7521088f-c03](shadow-people.md#src-852d7521088f-c03) — Shadow People
+- [src-af28174da547-c01](perceptual-density.md#src-af28174da547-c01) — Perceptual density
+- [src-af28174da547-c02](consciousness-metaphysics.md#src-af28174da547-c02) — Consciousness and metaphysics
+- [src-af28174da547-c04](energy-generation.md#src-af28174da547-c04) — Energy generation technology
+- [src-ebaafb2f5974-c01](telepathic-channeling.md#src-ebaafb2f5974-c01) — Telepathic channeling
+- [src-06b35bd6dc5f-c02](earth-cabal.md#src-06b35bd6dc5f-c02) — Earth Cabal and power structures
+- [src-b39d4a7a2cd4-c03](moon-biosphere-ship.md#src-b39d4a7a2cd4-c03) — The Moon as a biosphere ship
+- [src-742d06b0c285-c05](aggressive-telepathy.md#src-742d06b0c285-c05) — Aggressive telepathy
+- [src-19104df37e32-c02](extraterrestrial-contact.md#src-19104df37e32-c02) — Extraterrestrial contact and disclosure
+- [src-19104df37e32-c03](van-allen-belts.md#src-19104df37e32-c03) — Van Allen belts
+- [src-182d149f48ed-c02](extraterrestrial-contact.md#src-182d149f48ed-c02) — Extraterrestrial contact and disclosure
+- [src-a4adffb6f3a6-c02](earth-cabal.md#src-a4adffb6f3a6-c02) — Earth Cabal and power structures
+- [src-13154e3227fd-c04](weather-control.md#src-13154e3227fd-c04) — Weather control systems
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
+- Claims about contemporary institutions or external events reflect the speaker’s interpretation.
+- Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
 - Conspiracy and UFO claims are attributed to Mari Swaruu and are not independently verified.
 - Contains disputed environmental, market, vehicle safety, and government-control claims; attribute to Yazhi, not established findings.
 - Contains extraordinary extraterrestrial and historical claims; attribute to speakers, not verified history.
@@ -2881,6 +3004,7 @@ Source: [Anunnaki - Quienes son realmente? Perspectiva Extraterrestre](https://s
 - technology\_claims
 - terrestrial-history-claims-unverified
 - terrestrial-science-claims
+- threat-rating-vs-local-aggression
 - time-bound-prediction
 - time\_travel\_lore
 - translated-from-Spanish-original-not-available

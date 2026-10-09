@@ -336,6 +336,96 @@ Source: [Zombificación de la humanidad y el Pulsa Denura - Zombies - Sophia Swa
 
 Related topics: [Haitian zombification](haitian-zombification.md).
 
+### src-bfdd0f4cda51-c01
+
+Mari defines an archon as a powerful, manipulative lower-astral entity with a crude hierarchy; she says archons are organized demons. She distinguishes this from broader religious descriptions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Apegos e Infestaciones, Parte 3 , Demonios y Arcontes](https://swaruu.org/transcripts/apegos-e-infestaciones-parte-3-demonios-y-arcontes) (2023-06-30; es); passages p0004, p0005, p0007, p0034. [Structured record](../../records/src-bfdd0f4cda51.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
+### src-bfdd0f4cda51-c02
+
+She says demons depend on living beings' attention and fear for manifestation energy, and can be created as individual or group egregors. She describes fear as concentrating attention.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Apegos e Infestaciones, Parte 3 , Demonios y Arcontes](https://swaruu.org/transcripts/apegos-e-infestaciones-parte-3-demonios-y-arcontes) (2023-06-30; es); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-bfdd0f4cda51.json).
+
+Related topics: [Egregors](egregors.md), [Interdimensional parasites](interdimensional-parasites.md).
+
+### src-bfdd0f4cda51-c03
+
+Mari suggests Earth controllers use demon beliefs and fear of eternal punishment to make populations obedient and dependent on religious systems. She frames this as a probable use.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Apegos e Infestaciones, Parte 3 , Demonios y Arcontes](https://swaruu.org/transcripts/apegos-e-infestaciones-parte-3-demonios-y-arcontes) (2023-06-30; es); passages p0003. [Structured record](../../records/src-bfdd0f4cda51.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-0c4c4d1e9b67-c02
+
+She defines demons as highly narcissistic lower-astral beings, often deceased people whose attachments or cruel traits persist after death. She says contact requires matching frequencies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Demonios y Entidades Malvadas del Bajo Astral y el Mundo de los Vivos, Parte 1](https://swaruu.org/transcripts/demonios-y-entidades-malvadas-del-bajo-astral-y-el-mundo-de-los-vivos-parte-1) (2023-08-23; es); passages p0011, p0012, p0013. [Structured record](../../records/src-0c4c4d1e9b67.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md), [Astral entities](astral-entities.md).
+
+### src-0c4c4d1e9b67-c03
+
+Mari says repeated negative thoughts and emotions can lower frequency and create vulnerability that demons exploit, especially through fear. She distinguishes persistent patterns from brief thoughts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Demonios y Entidades Malvadas del Bajo Astral y el Mundo de los Vivos, Parte 1](https://swaruu.org/transcripts/demonios-y-entidades-malvadas-del-bajo-astral-y-el-mundo-de-los-vivos-parte-1) (2023-08-23; es); passages p0015, p0017, p0018, p0020, p0021, p0025. [Structured record](../../records/src-0c4c4d1e9b67.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Astral entities](astral-entities.md).
+
+### src-51e0f08f8295-c01
+
+Yazhi says frequency pods raise a person’s vibration so they no longer match astral entities, but lasting removal requires inner work and sustained changes in thought and habits. Otherwise, she says, entities may return.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Desparasitación de las Entidades Astrales - Preguntas de las Entrevistadoras](https://swaruu.org/transcripts/desparasitacion-de-las-entidades-astrales-preguntas-de-las-entrevistadoras) (2023-05-30; es); passages p0009, p0013, p0019. [Structured record](../../records/src-51e0f08f8295.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d3b2c7f37ed1-c03
+
+Mari Swaruu says sustained high vibration keeps people beyond lower astral entities' reach. She says entities may target unresolved vulnerabilities to lower a person's vibration.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Demonios y Entidades Malignas del Bajo Astral. Parte 2](https://swaruu.org/transcripts/demonios-y-entidades-malignas-del-bajo-astral-parte-2) (2023-08-25; es); passages p0023, p0026, p0027. [Structured record](../../records/src-d3b2c7f37ed1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8f74656f7646-c01
+
+Yazhi says frequency pods raise a person’s vibration to break compatibility with astral entities; lasting removal requires inner work. Entities may return without sustained change.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [PROTOCOLOS DE DESPARASITACIÓN PSICOMENTAL Y BIOLÓGICO Yazhi Swaruu](https://swaruu.org/transcripts/protocolos-de-desparasitacion-psicomental-y-biologico-yazhi-swaruu) (2023-05-25; es); passages p0007, p0011, p0014. [Structured record](../../records/src-8f74656f7646.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c770aad74bc9-c04
+
+She says fear manifests demons and archons whose forms reflect collective imagination; awareness and self-direction can break this cycle.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Apegos e Infestaciones, Parte 4, Bajo Astral, Ideas y Programación](https://swaruu.org/transcripts/apegos-e-infestaciones-parte-4-bajo-astral-ideas-y-programacion) (2023-07-02; es); passages p0020, p0021, p0022. [Structured record](../../records/src-c770aad74bc9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bc84d0e92778-c03](consciousness-metaphysics.md#src-bc84d0e92778-c03) — Consciousness and metaphysics
@@ -370,6 +460,12 @@ Related topics: [Haitian zombification](haitian-zombification.md).
 - [src-cb51273860c3-c01](postmortem-realities.md#src-cb51273860c3-c01) — Postmortem realities
 - [src-374fd6a44ec4-c01](witchcraft-and-voodoo.md#src-374fd6a44ec4-c01) — Witchcraft and Voodoo
 - [src-374fd6a44ec4-c05](witchcraft-and-voodoo.md#src-374fd6a44ec4-c05) — Witchcraft and Voodoo
+- [src-720349fd0c8e-c01](egregors.md#src-720349fd0c8e-c01) — Egregors
+- [src-720349fd0c8e-c02](starseeds.md#src-720349fd0c8e-c02) — Starseeds
+- [src-d3b2c7f37ed1-c01](egregors.md#src-d3b2c7f37ed1-c01) — Egregors
+- [src-066afd308a37-c03](egregors.md#src-066afd308a37-c03) — Egregors
+- [src-4bf388da9fd3-c03](egregors.md#src-4bf388da9fd3-c03) — Egregors
+- [src-c770aad74bc9-c02](ritual-symbolism-in-media.md#src-c770aad74bc9-c02) — Ritual symbolism in toys and media
 
 ## Review flags
 
@@ -395,6 +491,7 @@ Related topics: [Haitian zombification](haitian-zombification.md).
 - internal-tension:population-change
 - lunar-artificial-structure-claims-attributed
 - metaphysical-claims\_attributed
+- metaphysical-entity-claims
 - metaphysical-model
 - portal-technology-claims-unverified
 - post-eclipse-causal-attribution

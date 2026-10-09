@@ -1,0 +1,49 @@
+{
+  "source_id": "src-26ffc134d92e",
+  "snapshot_sha256": "20eb714cfd055a079f45bc119dd96ee62004730d48c4eb982290157c258794d5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-26ffc134d92e-c01",
+      "assertion": "Mari alleges that news and media are designed to shape beliefs and keep audiences fearful, while mixing claims she considers true and false.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-26ffc134d92e-c02",
+      "assertion": "Mari advises discernment about media, saying consumed content shapes thought patterns and perceived reality.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about media control and reality formation are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Her discussion of collective behavior and paranormal responses"
+  ]
+}

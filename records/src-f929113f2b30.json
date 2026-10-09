@@ -1,0 +1,102 @@
+{
+  "source_id": "src-f929113f2b30",
+  "snapshot_sha256": "bba6080f311fe8a09210dd31f5b0fd941bf8311f5390c81cad6b716b0a0ded12",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f929113f2b30-c01",
+      "assertion": "Mari says ships sort waste with AI, disintegrate refuse molecularly, and convert released heat to electricity.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f929113f2b30-c02",
+      "assertion": "Mari says ships cannot dissipate heat in vacuum, so they convert excess heat to electricity.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f929113f2b30-c03",
+      "assertion": "A literal order released four tonnes of waste into orbit; debris clung to ship shields for days.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f929113f2b30-c04",
+      "assertion": "Mari says Federation rules bar ships over 3,000 tonnes from planetary hyperspace; large vessels exit around 500,000 km away.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f929113f2b30-c05",
+      "assertion": "Mari says telepathy is fast but imperfect, and messages can be distorted or falsified.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "taygetan-language",
+      "topics": [
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The disposal account and technical rules are Mari's narrated account; preserve this attribution."
+  ],
+  "coverage_gaps": [
+    "leadership transition and command responsibility",
+    "reported debris sightings at Earth's surface",
+    "some debris survives reentry, with potential ground impact risk"
+  ]
+}

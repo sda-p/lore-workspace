@@ -1,0 +1,75 @@
+{
+  "source_id": "src-e199916654ef",
+  "snapshot_sha256": "3441c2109280c4b88bf61351471ac3ed0a7a24fba373b3037bfaccaa22472ff8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e199916654ef-c01",
+      "assertion": "Mari describes Saska 1 and Toleka docking with gravity engines, a telescoping connector and clamps for supply transfer.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "gravitic-generators"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls it delicate and unshielded."
+    },
+    {
+      "id": "src-e199916654ef-c02",
+      "assertion": "A Scimitair jammed between the ships, lowering their orbit and preventing engine burns until they synchronized low-power burns.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The ships risked violating the First Directive if seen from Earth."
+    },
+    {
+      "id": "src-e199916654ef-c03",
+      "assertion": "Releasing the fighter caused a blast that damaged Toleka’s hangar and life-support lines; exterior shields retained pressure, and Saska 1 aided repairs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0037",
+        "p0038",
+        "p0040",
+        "p0041"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari says no one was injured."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "fighter replacement details and subsequent repair status omitted"
+  ]
+}

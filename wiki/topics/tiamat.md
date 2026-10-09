@@ -420,6 +420,16 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLARES](https://swaruu.org/transcripts/el-debilitamiento-del-campo-magnetico-de-la-tierra-y-los-cambios-polares) (2023-03-30; es); passages p0007. [Structured record](../../records/src-3f5e32e319ee.json).
 
+### src-2708f7850928-c02
+
+She links Sodom and Gomorrah to Tiamat-era ionizing nuclear wars; radioactive archaeological traces suggest about 12,000 years, though imprecisely. She says the dating is approximate.
+
+Attributed to **Anéeka**; speculative; extraction confidence: high.
+
+Source: [REVELACIONES DE UNA MUJER EXTRATERRESTRE DE TAYGETA - Aneeka de Temmer](https://swaruu.org/transcripts/revelaciones-de-una-mujer-extraterrestre-de-taygeta-aneeka-de-temmer) (2023-06-27; es); passages p0009, p0011. [Structured record](../../records/src-2708f7850928.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c02](black-goo.md#src-d47faace954b-c02) — Black goo
@@ -448,17 +458,23 @@ Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLAR
 - [src-b0c5455056ea-c01](ishtar-genetic-project.md#src-b0c5455056ea-c01) — Ishtar genetic project
 - [src-e296ebcd3f46-c01](antarctica-federation-bases.md#src-e296ebcd3f46-c01) — Antarctic Federation bases
 - [src-a02f81bbff4a-c01](geomagnetic-cycles.md#src-a02f81bbff4a-c01) — Earth magnetic field cycles
+- [src-b0f5fd41803e-c01](moon-biosphere-ship.md#src-b0f5fd41803e-c01) — The Moon as a biosphere ship
+- [src-2c81dcc2e671-c01](moon-biosphere-ship.md#src-2c81dcc2e671-c01) — The Moon as a biosphere ship
+- [src-c5820758bc75-c01](moon-biosphere-ship.md#src-c5820758bc75-c01) — The Moon as a biosphere ship
+- [src-742d06b0c285-c03](galactic-federation.md#src-742d06b0c285-c03) — Galactic Federation
 
 ## Review flags
 
 - Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age
 - Alternative ancient-history narrative; no independent corroboration in source.
+- Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
 - Contains unsupported geophysical, climate, and historical claims; attribute to Athena.
 - Different trauma explanations are attributed separately to Swaruu and Yazhi.
 - Geophysical claims and the Tiamat flood account are attributed to Athena.
 - Nibiru\_claim\_conflicts\_with\_other\_sources
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012.
+- Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka.
 - Swaruu X explicitly rejects the interpretation that the Moon was placed primarily to imprison regressive races.
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - Transcript combines several speakers and dates; claims preserve speaker attribution
@@ -480,9 +496,11 @@ Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLAR
 - historical-conspiracy-claims
 - internal-date-tension
 - lore-claims-attributed-to-Yazhi
+- lunar-data-inconsistent
 - lunar-reactor-age-origin-uncertainty
 - metaphysical-claims
 - miranda-no-bases-versus-other-moon-bases
+- moon-lore-conflicts-with-other-accounts
 - no-parallel-source-in-batch
 - planet\_count\_internal\_inconsistency
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation

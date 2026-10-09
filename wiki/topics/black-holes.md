@@ -163,6 +163,7 @@ Source: [Galaxias - Información Aportada por Mujeres Extraterrestres](https://s
 - [src-9b690db81851-c03](sunspot-portals.md#src-9b690db81851-c03) — Sunspot portals
 - [src-528175452786-c05](sunspot-portals.md#src-528175452786-c05) — Sunspot portals
 - [src-c3edb79b5f6c-c01](galactic-consciousness.md#src-c3edb79b5f6c-c01) — Galactic consciousness
+- [src-46f3bf392b0e-c04](solar-portal-transit.md#src-46f3bf392b0e-c04) — Solar portal transit
 
 ## Review flags
 

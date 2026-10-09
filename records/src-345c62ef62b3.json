@@ -1,0 +1,47 @@
+{
+  "source_id": "src-345c62ef62b3",
+  "snapshot_sha256": "ce70acd2a44b1ef47bfa676bb442544492a42eafe863d2dd225705744934bb21",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-345c62ef62b3-c01",
+      "assertion": "Mari Swa says extraterrestrial contact shapes Earth’s history, culture, and human ideas across successive incarnations.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0006", "p0007", "p0008"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this from a reincarnation-based galactic perspective."
+    },
+    {
+      "id": "src-345c62ef62b3-c02",
+      "assertion": "Mari alleges that Earth’s controllers suppress public awareness of extraterrestrials to preserve a limited terrestrial worldview.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0011", "p0012", "p0022"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal", "extraterrestrial-contact"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The video presents this as her account, not independently verified evidence."
+    },
+    {
+      "id": "src-345c62ef62b3-c03",
+      "assertion": "Mari says some extraterrestrial groups reject Federation rules and communicate publicly, challenging efforts to contain their claims.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0023", "p0024", "p0026"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "extraterrestrial-contact"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes them as rebellious groups opposing Federation restrictions."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents unverified extraterrestrial and conspiratorial claims as the speaker’s perspective."
+  ],
+  "coverage_gaps": [
+    "The video also discusses alleged information control through media and public-facing researchers."
+  ]
+}

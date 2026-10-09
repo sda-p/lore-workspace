@@ -1,0 +1,54 @@
+{
+  "source_id": "src-d9447e9bc7cb",
+  "snapshot_sha256": "5649f96c56ed982cc1e612452d46973e7051b0e1acc571c58024b886fc1f7c6b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d9447e9bc7cb-c01",
+      "assertion": "Mari recommends investigating paranormal claims with patient, neutral observation and independent research.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010",
+        "p0021"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d9447e9bc7cb-c02",
+      "assertion": "Mari argues Occam’s razor is unreliable when key context is unknown and says paranormal events may involve different realms with distinct rules.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about paranormal evidence are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Her conclusion that paranormal evidence is suppressed"
+  ]
+}

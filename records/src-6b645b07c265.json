@@ -1,0 +1,49 @@
+{
+  "source_id": "src-6b645b07c265",
+  "snapshot_sha256": "4dbb164e8f70d5956bc47f3be787f0a8e99e73dfa688d0adf187ae090c8f21cd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6b645b07c265-c01",
+      "assertion": "Mari says the Taygetan Alcyone-class battleship Asterope arrived near Earth on April 13, 2024, docking beside Toleka after a three-hour approach guided by Viera.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "toleka-class"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says large ships enter interplanetary space before approaching orbital traffic."
+    },
+    {
+      "id": "src-6b645b07c265-c02",
+      "assertion": "Mari says Asterope and Alcyone are assigned fleet defense and a long-term social-media mission, with trained crew posing as starseeds to raise planetary consciousness.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says about 3,000 Taygetan applicants were waitlisted after failing to qualify."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "missing Centauri pilots and rescue operation",
+    "ceremony and crew composition"
+  ]
+}

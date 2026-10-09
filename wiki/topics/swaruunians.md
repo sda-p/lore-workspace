@@ -106,6 +106,16 @@ Source: [Extraterrestres viviendo entre humanos, parte 2](https://swaruu.org/tra
 
 Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
 
+### src-2dc5849bd700-c01
+
+Mari Swaruu identifies herself as a Swaruunian, a Taygetan genetic variant, and names Erra as her home planet in the Pleiades system. Her self-description.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Presentación nueva del canal](https://swaruu.org/transcripts/presentacion-nueva-del-canal) (2023-06-22; es); passages p0003, p0004. [Structured record](../../records/src-2dc5849bd700.json).
+
+Related topics: [Taygetans](taygetans.md), [Taygetan ecosystems](taygetan-ecosystems.md).
+
 ## Claims filed under other topics
 
 - [src-74fefae75775-c03](consciousness-metaphysics.md#src-74fefae75775-c03) — Consciousness and metaphysics
@@ -118,6 +128,7 @@ Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
 - Extraterrestrial identity claims are Mari Swaruu’s perspective and are not independently verified.
 - Genetic and chromosome claims are attributed fictional-world assertions
 - The author explicitly invited readers to treat the content as fiction or entertainment.
+- The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims.
 - These are Mari Swaruu’s autobiographical and extraterrestrial claims, not independently verified.
 - internal-count-conflict:swaruwnian-chromosomes
 - species status is contested within Mari’s account; preserve her stated rationale

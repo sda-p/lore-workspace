@@ -1,0 +1,53 @@
+{
+  "source_id": "src-fb27b0048890",
+  "snapshot_sha256": "0456e5fb1af070fccdb5ea314169530bfa2162a80c5b3c0b5ebb87bc3823061e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fb27b0048890-c01",
+      "assertion": "Mari Swa describes Second Contact as a Taygetan-only project to seed social media with values and concepts from interstellar societies.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the operation was planned for later that year."
+    },
+    {
+      "id": "src-fb27b0048890-c02",
+      "assertion": "Mari says Federation authorization required Earth-made digital communications and that Taygetan participants would conceal their extraterrestrial identities.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "extraterrestrial-contact"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says private one-to-one contact was discouraged."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source describes an unverified alleged extraterrestrial social media operation."
+  ],
+  "coverage_gaps": [
+    "It also outlines the failed prior project and proposed staffing, platforms, and ships."
+  ]
+}

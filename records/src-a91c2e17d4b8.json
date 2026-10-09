@@ -1,0 +1,47 @@
+{
+  "source_id": "src-a91c2e17d4b8",
+  "snapshot_sha256": "a3fbbd33f33d61f2792980e7c5b825f0b381a332fab2b54977e67519e1881e90",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a91c2e17d4b8-c01",
+      "assertion": "Gosia describes Earth’s power structure as layered, with secret societies and elite networks behind public governments and the deep state.",
+      "speaker": "Gosia",
+      "paragraph_ids": ["p0004", "p0006", "p0007"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as an account based on Taygetan sources."
+    },
+    {
+      "id": "src-a91c2e17d4b8-c02",
+      "assertion": "Gosia says the cabal’s alleged control extends into public institutions, media, economics, and religious narratives.",
+      "speaker": "Gosia",
+      "paragraph_ids": ["p0012", "p0013", "p0014", "p0015"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The transcript attributes specific allegations to Swaruu sources."
+    },
+    {
+      "id": "src-a91c2e17d4b8-c03",
+      "assertion": "Gosia presents the Galactic Federation as the highest layer overseeing Earth affairs, to which the cabal answers.",
+      "speaker": "Gosia",
+      "paragraph_ids": ["p0038", "p0040", "p0041"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She attributes the direct statement to Aneeka de Temmer."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript advances conspiratorial and extraterrestrial claims as reported; they are not independently verified."
+  ],
+  "coverage_gaps": [
+    "Detailed allegations about cabal lineage, religious practices, karma, and nonhuman agreements are not separately captured."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source_id": "src-9486adf569be",
+  "snapshot_sha256": "a7231cac890f99c4fef78e66ea22b34df1b4e523c4f87971a2a64867d25d0f99",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9486adf569be-c01",
+      "assertion": "Mari Swa says souls may move among possible personal timelines, so a broadly planned life can still include practical free will.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0014", "p0015", "p0020"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as her perspective on life planning."
+    },
+    {
+      "id": "src-9486adf569be-c02",
+      "assertion": "Mari Swa argues that expecting a star-family extraction to solve one’s problems can encourage escapism and disappointment.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0023", "p0025", "p0033", "p0034"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says difficulties may persist outside Earth."
+    },
+    {
+      "id": "src-9486adf569be-c03",
+      "assertion": "Mari Swa says extraction should be offered rather than demanded, citing Federation rules and the possibility of refusal.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0036", "p0037", "p0038", "p0039"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is advice within her account of star-family contact."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The speaker frames these spiritual and extraterrestrial ideas as personal perspective and entertainment; they are unverified."
+  ],
+  "coverage_gaps": [
+    "The video also discusses regression hypnosis, incarnation, spiritual progress, and life beyond Earth."
+  ]
+}

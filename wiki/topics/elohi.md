@@ -48,9 +48,11 @@ Related topics: [Ancient Egypt](ancient-egypt.md).
 
 - [src-2a1b375479ef-c01](natural-portals.md#src-2a1b375479ef-c01) — Natural and artificial portals
 - [src-2a1b375479ef-c02](natural-portals.md#src-2a1b375479ef-c02) — Natural and artificial portals
+- [src-169d506f3fbd-c02](artificial-portals.md#src-169d506f3fbd-c02) — Artificial portals
 
 ## Review flags
 
+- Claims about the Iraq invasion and alleged portal transport rely on speaker assertion and cited witnesses.
 - Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - extraordinary-technology-claims
 - unverified-historical-claims

@@ -1,0 +1,36 @@
+{
+  "source_id": "src-6cdd5b495d4b",
+  "snapshot_sha256": "e8a4d30377d4c77b0723ce214b234a400514a461ed93ca7267ddd18af1deae1a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6cdd5b495d4b-c01",
+      "assertion": "Yazhi says the Solar System once had 13 life-bearing planets, including Tiamat, whose remains became the asteroid belt.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0004", "p0005", "p0006"],
+      "primary_topic": "tiamat",
+      "topics": ["tiamat", "atlantis-lemuria"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The interviewer says the chronology is approximate; this account is unverified."
+    },
+    {
+      "id": "src-6cdd5b495d4b-c02",
+      "assertion": "Yazhi claims modern humans originated in Lyra and that some cave paintings encode star maps left by Lyrian settlers.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0019", "p0026", "p0029", "p0033", "p0034"],
+      "primary_topic": "lyran-expansion",
+      "topics": ["lyran-expansion", "terrestrial-science"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She contrasts this account with terrestrial archaeology."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source advances unverified alternative-history claims about planetary history and human origins."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss ancient Earth geography, Stonehenge, and Orion conflicts."
+  ]
+}

@@ -186,6 +186,86 @@ Source: [Cómo ve la Federación Galáctica lo que sucede en la Tierra. Primera 
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-b0f5fd41803e-c01
+
+Mari says Federation records describe the Moon as a damaged biosphere ship from the Tiamat war, later used as an orbital counterweight; she notes conflicting reports.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [La Luna, parte 4, cómo influye y controla la Matrix de la Tierra, cosas turbias y conclusiones](https://swaruu.org/transcripts/la-luna-parte-4-como-influye-y-controla-la-matrix-de-la-tierra-cosas-turbias-y-conclusiones) (2023-07-14; es); passages p0004, p0005, p0009, p0010, p0021. [Structured record](../../records/src-b0f5fd41803e.json).
+
+Related topics: [Tiamat](tiamat.md).
+
+### src-2c81dcc2e671-c01
+
+Mari says the Federation moved a damaged Andromedan biosphere ship, destroyed in the Tiamat war, into Earth orbit as a stabilizing counterweight and military base.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [La Luna, Parte 1, (Con Audio Arreglado)](https://swaruu.org/transcripts/la-luna-parte-1-con-audio-arreglado) (2023-07-04; es); passages p0012, p0013, p0022, p0023, p0024, p0025. [Structured record](../../records/src-2c81dcc2e671.json).
+
+Related topics: [Tiamat](tiamat.md), [Galactic Federation](galactic-federation.md).
+
+### src-c5820758bc75-c01
+
+Mari says a damaged biosphere ship was placed in Earth's orbit after Tiamat's destruction to stabilize it and reflect sunlight; a hologram masks its surface.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Luna. Parte 3, cómo influye en la Tierra y su Matrix 3D](https://swaruu.org/transcripts/la-luna-parte-3-como-influye-en-la-tierra-y-su-matrix-3d) (2023-07-12; es); passages p0006, p0008, p0009, p0010. [Structured record](../../records/src-c5820758bc75.json).
+
+Related topics: [Tiamat](tiamat.md), [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-b39d4a7a2cd4-c01
+
+Mari describes the Moon as a hollow, damaged biosphere ship with 144 nested spherical hulls, hangars, gravity generators, and internal engines. She attributes its construction to Arcturians and Andromedans.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Luna, Parte 2. Estructura interna](https://swaruu.org/transcripts/la-luna-parte-2-estructura-interna) (2023-07-08; es); passages p0006, p0007, p0008, p0011. [Structured record](../../records/src-b39d4a7a2cd4.json).
+
+Related topics: [Starship systems](starship-systems.md), [Gravity harmonics](gravity-harmonics.md).
+
+### src-b39d4a7a2cd4-c02
+
+She says three inner biosphere levels once held varied ecosystems and settlements, but radiation damage has left much of the Moon ship ruined. Current ecology is unclear.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Luna, Parte 2. Estructura interna](https://swaruu.org/transcripts/la-luna-parte-2-estructura-interna) (2023-07-08; es); passages p0012, p0013, p0015, p0016, p0020, p0022. [Structured record](../../records/src-b39d4a7a2cd4.json).
+
+Related topics: [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-b39d4a7a2cd4-c03
+
+She says lunar surface facilities remain active; 8 or 12 malfunctioning nuclear reactors power systems that maintain Earth in 3D. She reports conflicting data on the count.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Luna, Parte 2. Estructura interna](https://swaruu.org/transcripts/la-luna-parte-2-estructura-interna) (2023-07-08; es); passages p0023, p0025, p0026, p0027. [Structured record](../../records/src-b39d4a7a2cd4.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-e285065c4098-c01
+
+Yazhi describes the Moon as an artificial, layered structure with habitable areas and central reactors. Her account conflicts with terrestrial astronomy.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Luna - Influencia en las Mujeres - Bandas van Allen, Holograma, y Mas - Yazhi Swaruu](https://swaruu.org/transcripts/luna-influencia-en-las-mujeres-bandas-van-allen-holograma-y-mas-yazhi-swaruu) (2023-07-16; es); passages p0021. [Structured record](../../records/src-e285065c4098.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-7ab85bafab6b-c01
+
+Yazhi describes the Moon as an artificial, layered vessel with central reactors and says the Federation oversees its orbit. Her account conflicts with terrestrial astronomy.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE OCULTA LA NASA NI LO SABEN LOS ASTRONAUTAS](https://swaruu.org/transcripts/lo-que-oculta-la-nasa-ni-lo-saben-los-astronautas) (2023-07-21; es); passages p0013, p0014, p0020. [Structured record](../../records/src-7ab85bafab6b.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-357c482522d2-c03](moon-matrix.md#src-357c482522d2-c03) — Moon and terrestrial Matrix
@@ -198,7 +278,9 @@ Related topics: [Galactic Federation](galactic-federation.md).
 ## Review flags
 
 - Claims about hidden councils and planetary bases are attributed to Mari Swaruu.
+- Claims about lunar construction, Van Allen radiation, and reproductive biology contradict established terrestrial science and are retained only as attributed lore.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- Lunar, Van Allen, and reproductive-biology claims contradict established terrestrial science and are retained only as attributed lore.
 - These are Mari Swaruu’s extraterrestrial claims and estimates, not independently verified.
 - Transcript combines several speakers and dates; claims preserve speaker attribution
 - alternative-cosmology-and-chronology-claims
@@ -208,8 +290,10 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - date-discrepancy
 - extraterrestrial-claims
 - lunar-artificial-structure-claims-attributed
+- lunar-data-inconsistent
 - lunar-vessel-account
 - metaphysical-claims
+- moon-lore-conflicts-with-other-accounts
 - nonstandard-planetary-model
 - speaker-attribution-inferred-from-transcript
 - terrestrial-history-contradiction

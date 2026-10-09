@@ -86,6 +86,16 @@ Source: [DENSIDADES CONVERSACIÓN METAFÍSICA – CONTACTO EXTRATERRESTRE- ATHEN
 
 Related topics: [Gravity harmonics](gravity-harmonics.md).
 
+### src-0aac3dd46daa-c02
+
+Athena says elementals straddle physical and spirit realms; sirens, fairies, dragons, and goblins can manipulate objects and affect people. She says people may be affected without seeing them.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DUENDES ADAS SIRENAS DRAGONES - PROTEGIENDO TU ENERGÍA CONTRA INFLUENCIAS NEGATIVAS](https://swaruu.org/transcripts/duendes-adas-sirenas-dragones-protegiendo-tu-energia-contra-influencias-negativas) (2023-06-26; es); passages p0011, p0012, p0013, p0014, p0015, p0016, p0018. [Structured record](../../records/src-0aac3dd46daa.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
 ## Claims filed under other topics
 
 - [src-4a19348a3734-c01](druidic-traditions.md#src-4a19348a3734-c01) — Druidic traditions

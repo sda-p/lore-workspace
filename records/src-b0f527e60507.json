@@ -1,0 +1,36 @@
+{
+  "source_id": "src-b0f527e60507",
+  "snapshot_sha256": "f42bdf509a9a839c61a9bd00f214cd1af43d8f4361916d7b2eddb0cc19af6ccb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b0f527e60507-c01",
+      "assertion": "Mari Swa says the Alcyone Council and Urmah signed a treaty extending mutual defense and cooperation across participating M45 and Urmah groups.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0003", "p0024", "p0033", "p0034", "p0036"],
+      "primary_topic": "urmah",
+      "topics": ["urmah", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the agreement covers military and other forms of aggression."
+    },
+    {
+      "id": "src-b0f527e60507-c02",
+      "assertion": "Mari says Taygetans expanded military defenses because they believed Federation authorities sought greater control over Taygeta and M45.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0025", "p0026", "p0031", "p0032"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as Taygetan intelligence and interpretation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This is an unverified extraterrestrial political and military account, explicitly framed as entertainment."
+  ],
+  "coverage_gaps": [
+    "The video lists treaty attendees and further criticizes Federation conduct."
+  ]
+}

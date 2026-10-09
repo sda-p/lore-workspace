@@ -1,0 +1,36 @@
+{
+  "source_id": "src-264d82b182bc",
+  "snapshot_sha256": "a4b2cc5c906d739435346f01b921aef2de1b9b5a0420e2c34507c031e99a301e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-264d82b182bc-c01",
+      "assertion": "Mari Swa claims some governments developed astral special-operations agents for espionage, sabotage, and conflict in nonphysical realms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0018", "p0019", "p0020", "p0021"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes these as secret government and military projects."
+    },
+    {
+      "id": "src-264d82b182bc-c02",
+      "assertion": "Mari says some people act as astral warriors while asleep and may not remember those experiences after waking.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0024", "p0025", "p0027"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She links this to prior-life agreements and unremembered dreams."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The video advances paranormal and secret-program claims without independent verification."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss astral perception, intergroup battles, and entities described as egregores."
+  ]
+}

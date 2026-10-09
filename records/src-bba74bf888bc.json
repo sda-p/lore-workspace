@@ -1,0 +1,76 @@
+{
+  "source_id": "src-bba74bf888bc",
+  "snapshot_sha256": "b05d67ff68c893d38fb6a5239a0afc426212c8154c623136ba7a8f120098a73f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bba74bf888bc-c01",
+      "assertion": "The joint letter accepts humans create their reality but alleges Federation intervention blocks starseeds’ chosen experiences and increases suffering.",
+      "speaker": "Joint Taygetan-Swaruunian letter, drafted mainly by Mari and team; approved by Queen Alenym",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starseeds"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bba74bf888bc-c02",
+      "assertion": "The authors allege manipulation of Earth’s elections and climate, and say the Federation provides nonhuman technology to the Cabal, undermining the First Directive.",
+      "speaker": "Joint Taygetan-Swaruunian letter",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal",
+        "prime-directive"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bba74bf888bc-c03",
+      "assertion": "The letter says Etorthan telepathy is invasive and demands non-telepathic meetings, permission to contact willing starseeds, and authority for allied crews to remain near Earth.",
+      "speaker": "Joint Taygetan-Swaruunian letter",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The document is signed by the Toleka and Saska 1 crews and approved by Alenym."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "authors’ additional demands and allegations omitted"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source_id": "src-1bea1cb4c06c",
+  "snapshot_sha256": "e1f1556ba6f87dc7ea3807bd550b9f641b028f9d7a91a73803248ab3e4d28182",
+  "language": "es",
+  "claims": [
+    {"id":"src-1bea1cb4c06c-c01","assertion":"The compilation claims Osiris was Taygetan and taught agriculture and Nile-water management to ancient people.","speaker":"Agencia Cósmica compilation","paragraph_ids":["p0003","p0005","p0006"],"primary_topic":"ancient-egypt","topics":["ancient-egypt","taygetans"],"modality":"asserted","confidence":"high","qualifiers":"It presents Egyptian gods as nonhuman historical people later mythologized."},
+    {"id":"src-1bea1cb4c06c-c02","assertion":"The compilation says the Galactic Federation built a space base at Giza, with pyramids serving as an energy source.","speaker":"Agencia Cósmica compilation","paragraph_ids":["p0004","p0006"],"primary_topic":"ancient-egypt","topics":["ancient-egypt","galactic-federation","pyramid-network"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-1bea1cb4c06c-c03","assertion":"The compilation identifies Horus as a Taygetan orbital spacecraft and the Eye of Horus as a low-orbit craft observed from Earth.","speaker":"Agencia Cósmica compilation","paragraph_ids":["p0008","p0009","p0010"],"primary_topic":"ancient-egypt","topics":["ancient-egypt","starship-systems","taygetans"],"modality":"asserted","confidence":"high","qualifiers":"It interprets the symbol's features as the craft's sensors, trajectory, and atmospheric glow."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["This brief compilation presents speculative historical identifications without identifying an individual speaker; claims are attributed to the source compilation."],
+  "coverage_gaps": ["the etymology of Osiris and the claim that the Cabal appropriated the symbol"]
+}

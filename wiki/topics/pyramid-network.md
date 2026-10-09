@@ -78,6 +78,16 @@ Source: [LOS GRANDES MISTERIOS DE LAS PIRÁMIDES EGIPCIAS Y LA GRAN ESFINGE DE G
 
 Related topics: [Energy generation technology](energy-generation.md), [Artificial portals](artificial-portals.md).
 
+### src-1b58a21e9def-c01
+
+She says Egyptian and Mesoamerican pyramids belonged to one planetary energy network; sacrifice did not define Egyptian culture but occurred regularly in Mesoamerica.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL TEMPLO DE KARNAK TECNOLOGÍA DE PORTALES ESTELARES ANTIGUOS - Athena Swaruu](https://swaruu.org/transcripts/el-templo-de-karnak-tecnologia-de-portales-estelares-antiguos-athena-swaruu) (2023-06-22; es); passages p0005, p0006, p0009. [Structured record](../../records/src-1b58a21e9def.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
 ## Review flags
 
 - ancient-history-reinterpretation

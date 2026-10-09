@@ -1,0 +1,245 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-09T05:27:43+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-019",
+    "reviewer": 2,
+    "reviewed_source_ids": [
+      "src-c87798fe694b",
+      "src-ae18b4263cf9",
+      "src-6b844dadcd54",
+      "src-b1f904754f52",
+      "src-e919f649c5d3",
+      "src-df8e53d808b9",
+      "src-89492330f9ab",
+      "src-e4d9d208cc31",
+      "src-85ac7d1ce798",
+      "src-5d854683ebbf",
+      "src-fa37b3758308",
+      "src-936377231cd6",
+      "src-183528b60334",
+      "src-cdaa5ca8bec6",
+      "src-33be47476bf1",
+      "src-f9552f88d23a",
+      "src-e5883b5b7a35",
+      "src-4d7d91264321",
+      "src-07e941b6d7c6",
+      "src-a89e2fb9fdce",
+      "src-d49c526b01a4",
+      "src-848c84c2deeb",
+      "src-e637f0a885a8"
+    ],
+    "corrections": [
+      {
+        "source_id": "src-ae18b4263cf9",
+        "claim_id": "src-ae18b4263cf9-c01",
+        "problem": "The qualifier that six Taygetan ships took part was unsupported by cited evidence.",
+        "action": "Added p0020 listing the six ships to the mission evidence.",
+        "paragraph_ids": [
+          "p0004",
+          "p0008",
+          "p0010",
+          "p0012",
+          "p0014",
+          "p0020"
+        ]
+      },
+      {
+        "source_id": "src-ae18b4263cf9",
+        "claim_id": "src-ae18b4263cf9-c02",
+        "problem": "The assertion included improved maneuvering but did not cite the comparative passage; it also summarized variant updates without the evidence for that advantage.",
+        "action": "Added p0070, which describes Block 3 balance and maneuverability, alongside the interchangeable parts and rear-sensor passages.",
+        "paragraph_ids": [
+          "p0067",
+          "p0070",
+          "p0071",
+          "p0076",
+          "p0077"
+        ]
+      },
+      {
+        "source_id": "src-ae18b4263cf9",
+        "claim_id": "src-ae18b4263cf9-c04",
+        "problem": "The record stopped at Yazhi’s uncertain plan and omitted the same source’s 2024 update that Suzy was gone.",
+        "action": "Reframed the claim to preserve the earlier uncertainty while including the 2024 status update.",
+        "paragraph_ids": [
+          "p0103",
+          "p0105",
+          "p0127",
+          "p0129",
+          "p0134",
+          "p0135"
+        ]
+      },
+      {
+        "source_id": "src-6b844dadcd54",
+        "claim_id": "src-6b844dadcd54-c03",
+        "problem": "The claim summarized extreme oppression driving the Cabal system to collapse, but its citations included a general animal-predator example and omitted the passages explaining the human oppression scenario and conclusion.",
+        "action": "Cited the passages on extreme slavery agendas, human collapse, and why the Cabal cannot succeed beyond a limit.",
+        "paragraph_ids": [
+          "p0021",
+          "p0022",
+          "p0023",
+          "p0024",
+          "p0025"
+        ]
+      },
+      {
+        "source_id": "src-89492330f9ab",
+        "claim_id": "src-89492330f9ab-c02",
+        "problem": "The source did not substantiate the claim that publication used intermediaries to reach millions of starseeds; it describes the decision to share and the channels where conversations were published.",
+        "action": "Removed unsupported reach/intermediary framing and cited the decision and publication passages.",
+        "paragraph_ids": [
+          "p0022",
+          "p0024"
+        ]
+      },
+      {
+        "source_id": "src-5d854683ebbf",
+        "claim_id": "src-5d854683ebbf-c01",
+        "problem": "The cited paragraphs did not include the explanation of resource limits, vulnerable settlements, or ships vulnerable while moving outside hyperspace.",
+        "action": "Added the specific supporting p0022–p0024 evidence.",
+        "paragraph_ids": [
+          "p0022",
+          "p0023",
+          "p0024"
+        ]
+      },
+      {
+        "source_id": "src-5d854683ebbf",
+        "claim_id": "src-5d854683ebbf-c02",
+        "problem": "Citations omitted the explicit alleged use of pirates and source attribution for the claim.",
+        "action": "Added passages on coercion, pirate factions, and Taygetan/Urmah information.",
+        "paragraph_ids": [
+          "p0027",
+          "p0028",
+          "p0030",
+          "p0031",
+          "p0033"
+        ]
+      },
+      {
+        "source_id": "src-5d854683ebbf",
+        "claim_id": "src-5d854683ebbf-c03",
+        "problem": "Citations did not identify each of the three sabotage events.",
+        "action": "Added the two incident-detail paragraphs and the Federation response paragraph.",
+        "paragraph_ids": [
+          "p0036",
+          "p0040",
+          "p0041",
+          "p0042",
+          "p0043"
+        ]
+      },
+      {
+        "source_id": "src-936377231cd6",
+        "claim_id": "src-936377231cd6-c03",
+        "problem": "Citation p0023 established psychic abilities but did not support the no-biological-shapeshifting, perception distortion, device, or genetic-frequency claims.",
+        "action": "Replaced it with paragraphs stating no physical shapeshifting, induced perception, synthetic telepathy devices, and genetic-frequency compatibility.",
+        "paragraph_ids": [
+          "p0025",
+          "p0026",
+          "p0029",
+          "p0030"
+        ]
+      },
+      {
+        "source_id": "src-c87798fe694b",
+        "claim_id": "src-c87798fe694b-c02",
+        "problem": "The released marker hash was 95c99be8af47c1c4932bb41ca883728227ddb25055eadb38f992b3ccbcf37805 but the record had been overwritten; the current draft also weakened the source’s conjunctive membership conditions to “or.”",
+        "action": "Re-reviewed the current draft against the full snapshot, recorded the overwrite event, and restored “awareness of, plus contact with” the source’s conjunctive rule.",
+        "paragraph_ids": [
+          "p0070",
+          "p0071"
+        ]
+      },
+      {
+        "source_id": "src-33be47476bf1",
+        "claim_id": "src-33be47476bf1-c01",
+        "problem": "This assigned record was edited after release; its marker hash a42d441e296900d03d30a0a235728bc56a98e45a09aea22fb1929582ac2fa7a2 differs from the current record.",
+        "action": "Independently re-reviewed the current draft and the post-release citation additions against the full source; p0017/p0019/p0021 directly support attention-based selection and identity.",
+        "paragraph_ids": [
+          "p0017",
+          "p0019",
+          "p0021"
+        ]
+      },
+      {
+        "source_id": "src-e5883b5b7a35",
+        "claim_id": "src-e5883b5b7a35-c03",
+        "problem": "The claim’s qualifier recommending self-analysis and emotional control was not covered by p0037–p0040.",
+        "action": "Added the passages where Athena advises self-analysis and responsibility/control of emotions.",
+        "paragraph_ids": [
+          "p0053",
+          "p0054"
+        ]
+      },
+      {
+        "source_id": "src-07e941b6d7c6",
+        "claim_id": "src-07e941b6d7c6-c03",
+        "problem": "The claim qualifier describing an experimental media role under the First Directive was not supported by p0024–p0025 alone.",
+        "action": "Added the paragraphs on social-media plans, experimental status, and First Directive requirements.",
+        "paragraph_ids": [
+          "p0026",
+          "p0027",
+          "p0028"
+        ]
+      },
+      {
+        "source_id": "src-a89e2fb9fdce",
+        "claim_id": "src-a89e2fb9fdce-c02",
+        "problem": "The qualifier that suffering itself is not required was not cited.",
+        "action": "Added p0033, where Mari explicitly distinguishes common suffering-triggered leaps from the claim that suffering is necessary.",
+        "paragraph_ids": [
+          "p0033"
+        ]
+      },
+      {
+        "source_id": "src-a89e2fb9fdce",
+        "claim_id": "src-a89e2fb9fdce-c03",
+        "problem": "The claim about balancing self-care with helping others and limiting who receives help was not adequately cited by p0028/p0032.",
+        "action": "Added p0030, which directly states the balance, priority of needs, and limits on helping.",
+        "paragraph_ids": [
+          "p0030",
+          "p0032"
+        ]
+      },
+      {
+        "source_id": "src-e637f0a885a8",
+        "claim_id": "src-e637f0a885a8-c03",
+        "problem": "The 150-year estimate and controllers’ off-planet status were absent from the cited evidence.",
+        "action": "Added p0028, which directly supports both qualifiers.",
+        "paragraph_ids": [
+          "p0028"
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-c87798fe694b": "87c59a0bc651dd3b06c4aa0957dd5702628a84594610db2aac9210595a53e583",
+    "src-ae18b4263cf9": "a7b263a857f20cb414a9f708146ca4f74ed1d27f411bae9591acc95a3e598481",
+    "src-6b844dadcd54": "92bb53999ae63274a87b99b9e7fb2a32707bf1ac7d7b06a83763894d08b13789",
+    "src-b1f904754f52": "b9cb4c6d98ef7626714e4761970aa35956cd96e9334724020bd5e0b3f068564e",
+    "src-e919f649c5d3": "9d5d5de210021b52c5b11b1a801f2a5e4b63593b8811bd913310663aa0e70547",
+    "src-df8e53d808b9": "34ec531a536446b8822b99d00d0b66090b6c9dc156f812233518196ceba3cdbe",
+    "src-89492330f9ab": "9935141750109f07c31ac20752e109cf18f69d1256a26020ea8a9ec10b2a1085",
+    "src-e4d9d208cc31": "f7845749616df10035ee35f0f19a45b048a227b8a547c04f1ad20f8184fd8cfb",
+    "src-85ac7d1ce798": "67a5b7d80893aee4f1cec3c94c57c289aa2dc7875ce8c347b07b78c5ac564dbb",
+    "src-5d854683ebbf": "c7abd2173f804f0d1f97671f20bdfe504ec2b406c4ee8d1dcb671ad30a4eabd9",
+    "src-fa37b3758308": "79bac29826e18795ef9ab12ed7f999c56b1aadda0bac4311e21b13b2afc181a0",
+    "src-936377231cd6": "e379997005b03ad8c8bb901ae4070e87111b9f937983c1459a9a84f8844b691c",
+    "src-183528b60334": "7328ec602b619fc2d049bdbb7ee85db7c9043ce90b39a3ff8ff0115e5dc348da",
+    "src-cdaa5ca8bec6": "c26b114a6963a689802494b69b2d739f67e06076d9789afeb6b0e2292153c933",
+    "src-33be47476bf1": "91e6602afad41f836ffdd7a48e8490b1b26d8f4a26ea9ff3aea4ca273e3b7692",
+    "src-f9552f88d23a": "3291d726e571600852a092bc0a9bb36f2d2e1dc578a8ecbaec764f766b949229",
+    "src-e5883b5b7a35": "ceecb20770b1499760d395aa02cc7e6aa5725cfdf0135eef0d7af207d933accd",
+    "src-4d7d91264321": "0995068892a1032e660f2201c3b27d9d523d41d4f88fcadca20394a9021ede1b",
+    "src-07e941b6d7c6": "ec80335f9e7bb3f54d77444a7b616e968a4280ccad2ec475e40470a888439cc3",
+    "src-a89e2fb9fdce": "9162d428e6e16a5ab40d63777ea30a3c913b4cba03e11b02b59d03e757c60009",
+    "src-d49c526b01a4": "2014a853d19c58d8ceacec8eb895e6efc909743d172faadb524b14eaa935cd37",
+    "src-848c84c2deeb": "f9b3d7aa83e3fd7260f58eecefe86f4572710b3c21968cd58997b49bb7f2f0de",
+    "src-e637f0a885a8": "2038d1193d743295c1d2f25dc4ac131fa78fc4140e880808511c776a2d2422cd"
+  }
+}

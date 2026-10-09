@@ -1,0 +1,52 @@
+{
+  "source_id": "src-104ec28109ef",
+  "snapshot_sha256": "0446c3fd9f108e6159d076c0a9d31d0a26ecdd0f397accd975922b30da211446",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-104ec28109ef-c01",
+      "assertion": "Za’el argues that religion and government education shape social ethics and can cultivate dependence, conformity, and a victim mentality.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0013",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He presents this as his critique of Earth society."
+    },
+    {
+      "id": "src-104ec28109ef-c02",
+      "assertion": "Za’el says advertising, self-presentation, and workplace communication reward exaggeration, disadvantaging people who aim to be fully candid.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He generalizes this as a pervasive social pattern."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "historical narrative and religious authority",
+    "gender and social complementarity claims"
+  ]
+}

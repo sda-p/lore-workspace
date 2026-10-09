@@ -1,0 +1,69 @@
+{
+  "source_id": "src-1a481912cd2c",
+  "snapshot_sha256": "fad7da90083d49f0e982872951cf546823a8899a5dc2297136dca54b19d11098",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1a481912cd2c-c01",
+      "assertion": "Mari says the body filters perception and individual vibratory ranges shape access to astral entities and phenomena.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says she is unsure how the cited estimate that humans perceive only about 3% was measured."
+    },
+    {
+      "id": "src-1a481912cd2c-c02",
+      "assertion": "Mari describes Earth’s lower astral as a mirror of collective unconsciousness, where fear-fed egregors reinforce fear and chaos.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1a481912cd2c-c03",
+      "assertion": "Mari claims controllers keep humanity fearful and divided to shape a low-vibration reality; starseeds can introduce more positive patterns.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0028"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about individual astral parasites and unconscious patterns omitted"
+  ]
+}

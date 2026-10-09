@@ -1,0 +1,107 @@
+{
+  "source_id": "src-1fea626a42d3",
+  "snapshot_sha256": "68ee9ff60893bc6282112474a7f6bba364ae48c3d3c044df2672502ce38fef26",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1fea626a42d3-c01",
+      "assertion": "Anéeka identifies Homo Capensis/Elohi as Asterope-descended extraterrestrials, with populations in Peru, Egypt, and the Carpathians.",
+      "speaker": "Anéeka; Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0060"
+      ],
+      "primary_topic": "elohi",
+      "topics": [
+        "elohi",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1fea626a42d3-c02",
+      "assertion": "Anéeka says Federation and M45 visitors helped rebuild post-Tiamat Egypt, with a Giza base and starport by 12,500 BCE.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "tiamat",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1fea626a42d3-c03",
+      "assertion": "Swaruu says Akhenaten and Nefertiti imposed solar monotheism; their expulsion inspired the Exodus story.",
+      "speaker": "Swaruu (9); Anéeka",
+      "paragraph_ids": [
+        "p0012",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1fea626a42d3-c04",
+      "assertion": "Yazhi calls Peru's Hayu Marca a ley-line portal used by Elohi, probably contemporary with Atlantis.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0046",
+        "p0050"
+      ],
+      "primary_topic": "natural-portals",
+      "topics": [
+        "natural-portals",
+        "elohi",
+        "atlantis-lemuria"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She describes Atlantean-era dating as probable."
+    },
+    {
+      "id": "src-1fea626a42d3-c05",
+      "assertion": "Anéeka describes Homo Capensis as more shock-resistant but not more intelligent than denser-brained Lyrians.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0024",
+        "p0057",
+        "p0058"
+      ],
+      "primary_topic": "elohi",
+      "topics": [
+        "elohi",
+        "lyrians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript gives several speculative ancient-history identifications; preserve speaker-specific attribution and uncertainty."
+  ],
+  "coverage_gaps": [
+    "Akhenaten/Nefertiti political role and exodus narrative details",
+    "Homo Capensis appearance and claimed elite lineages"
+  ]
+}

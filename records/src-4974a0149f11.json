@@ -1,0 +1,74 @@
+{
+  "source_id": "src-4974a0149f11",
+  "snapshot_sha256": "2c0a2369ffe350c94dbb3117c6fc18a70e73715e901734e22139805977102708",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4974a0149f11-c01",
+      "assertion": "Mari contrasts the Federation account of Etorthans leaving the Orion Council with the Urmah claim that they led attacks on Urmah settlements.",
+      "speaker": "Mari Swaruu, relaying Federation and Urmah accounts",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "galactic-federation",
+        "orion-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The accounts conflict; Mari does not resolve them."
+    },
+    {
+      "id": "src-4974a0149f11-c02",
+      "assertion": "The Urmah say they repelled an Orion invasion at Rigel 7, where Etorthans fought alongside a larger Orion alliance.",
+      "speaker": "Mari Swaruu, relaying Urmah account",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "orion-wars",
+      "topics": [
+        "orion-wars",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The Urmah describe this as a late Orion Wars battle."
+    },
+    {
+      "id": "src-4974a0149f11-c03",
+      "assertion": "Urmah leaders distrust Etorthans and reject their political authority; Avyon’s High Council has longstanding cooperation treaties with Alcyone and Taygetans.",
+      "speaker": "Mari Swaruu, relaying Urmah claims",
+      "paragraph_ids": [
+        "p0032",
+        "p0034",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "urmah-federation",
+      "topics": [
+        "urmah-federation",
+        "alcyone-council",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Contradictory Federation and Urmah accounts of Etorthan history and alignment."
+  ],
+  "coverage_gaps": [
+    "Etorthan biology and other claims omitted"
+  ]
+}

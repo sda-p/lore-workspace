@@ -152,6 +152,16 @@ Source: [TARTARIA UNA CIVILIZACIÓN BORRADA DE LA HISTORIA - Athena Swaruu](http
 
 Related topics: [Intraterrestrial civilizations](intraterrestrial-civilizations.md).
 
+### src-d9bbb3c4038b-c02
+
+Mari suspects the Federation directed the erasure of Tartaria and other Earth histories, but says Federation archives conflict and she cannot establish a definitive account. Mari frames this as her interpretation and says the evidence is inconclusive.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Historia Falsa, en el espacio y en la Tierra, Tartaria, Cabal, Mentiras y la Federación Galáctica](https://swaruu.org/transcripts/historia-falsa-en-el-espacio-y-en-la-tierra-tartaria-cabal-mentiras-y-la-federacion-galactica) (2023-09-02; es); passages p0041, p0042, p0043, p0044, p0045, p0046, p0047. [Structured record](../../records/src-d9bbb3c4038b.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Civilizational resets](civilizational-resets.md).
+
 ## Claims filed under other topics
 
 - [src-5f504bef5a30-c01](terrestrial-science.md#src-5f504bef5a30-c01) — Terrestrial science
@@ -169,6 +179,7 @@ Related topics: [Intraterrestrial civilizations](intraterrestrial-civilizations.
 - conspiracy\_claims
 - internal-date-tension
 - speaker-speculation
+- tartaria-history-disputed
 - unproven-historical-speculation
 - unverified-reset-claims
 - unverified\_historical\_claims

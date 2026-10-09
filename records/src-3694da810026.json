@@ -1,0 +1,67 @@
+{
+  "source_id": "src-3694da810026",
+  "snapshot_sha256": "7bb3b5a757c6d172995df384d61dee7683117051bdd706f69245f0db0271da3e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3694da810026-c01",
+      "assertion": "Gosia describes the Federation as a physical, multiracial organization founded by Andromedans, Arcturians, and Lyrians to coordinate interstellar alliances.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3694da810026-c02",
+      "assertion": "Gosia says the Federation’s local Earth councils operate from Viera, with higher Solar System authority associated with Saturn.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "viera",
+        "saturn-bases"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Saturn-level operations are opaque to lower levels."
+    },
+    {
+      "id": "src-3694da810026-c03",
+      "assertion": "Gosia portrays the Federation as internally diverse, while expressing concern that opaque upper levels make major Earth decisions.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She frames this as her group’s perception and says the deeper structure is unclear."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript presents Gosia’s extraterrestrial and political claims as reported information; they are not independently verified."
+  ],
+  "coverage_gaps": [
+    "Other sections detail alleged Earth control structures, soul-experience framing, interventions, and New Age messaging."
+  ]
+}

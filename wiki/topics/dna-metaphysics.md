@@ -626,6 +626,26 @@ Source: [TENEMOS ADN EXTRATERRESTRE - CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-e48edb1223b1-c01
+
+Athena says Earth humans carry mixed stellar DNA; Lyrian migrants can modify their own DNA for new environments without needing human DNA.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [HIBRIDACIÓN EXTRATERRESTRE Y ADN TERRESTRE - Athena Swaruu](https://swaruu.org/transcripts/hibridacion-extraterrestre-y-adn-terrestre-athena-swaruu) (2023-06-05; es); passages p0033, p0122, p0126. [Structured record](../../records/src-e48edb1223b1.json).
+
+Related topics: [Lyrians](lyrians.md).
+
+### src-e48edb1223b1-c04
+
+Athena claims transfusions alter recipients’ genetics and connect donor-recipient soul frequencies; medical pods sever bodily, not energetic, ties.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [HIBRIDACIÓN EXTRATERRESTRE Y ADN TERRESTRE - Athena Swaruu](https://swaruu.org/transcripts/hibridacion-extraterrestre-y-adn-terrestre-athena-swaruu) (2023-06-05; es); passages p0054, p0056, p0062, p0064, p0085, p0088. [Structured record](../../records/src-e48edb1223b1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-31e1b41b8c15-c01](consciousness-metaphysics.md#src-31e1b41b8c15-c01) — Consciousness and metaphysics
@@ -665,6 +685,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-97d1cf163a44-c01](humanity-multi-species-experiment.md#src-97d1cf163a44-c01) — Humanity as a multi-species experiment
 - [src-97d1cf163a44-c05](moon-matrix.md#src-97d1cf163a44-c05) — Moon and terrestrial Matrix
 - [src-b48ede308895-c04](medical-pods.md#src-b48ede308895-c04) — Medical regeneration pods
+- [src-e48edb1223b1-c03](lyrians.md#src-e48edb1223b1-c03) — Lyrians
 
 ## Review flags
 

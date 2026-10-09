@@ -1,0 +1,89 @@
+{
+  "source_id": "src-ce9740898436",
+  "snapshot_sha256": "83b8e67d4b15054ae7802fbcb7ee072a67a55c7f8a1d627ed12d90de026692fd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ce9740898436-c01",
+      "assertion": "Mari defines entities broadly as astral beings and demons specifically as dangerous, regressive entities.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes demons as hierarchical."
+    },
+    {
+      "id": "src-ce9740898436-c02",
+      "assertion": "Mari says religious beliefs can manifest shared realms and no religion holds universal truth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls religion a tool of social control."
+    },
+    {
+      "id": "src-ce9740898436-c03",
+      "assertion": "Mari says people carry identity and values after death; low-vibration souls remain in self-limited realms.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ce9740898436-c04",
+      "assertion": "Mari says high-vibration souls expand beyond embodied ego, then may remain astral or reincarnate.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Identity expands rather than disappears."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Afterlife and religious claims are attributed to Mari."
+  ],
+  "coverage_gaps": [
+    "her interpretation of near-death reports and possible motives for returning to embodied life"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "src-b0c08f43e491",
+  "snapshot_sha256": "9c9fd106ba25d89e9fd6860c23768abdfa36dfef5b83783d06cef0f230d96be1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b0c08f43e491-c01",
+      "assertion": "Mari Swa says Alcyone Council and Urmah members formed a cooperation treaty for mutual protection, trade, and technology.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0003", "p0008", "p0012"],
+      "primary_topic": "urmah",
+      "topics": ["urmah", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Antaria was also considering joining."
+    },
+    {
+      "id": "src-b0c08f43e491-c02",
+      "assertion": "Mari reports that Alfratean representatives challenged the treaty at a council meeting, which ended after King Ruhr ordered them to leave.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0013", "p0014", "p0015", "p0016"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "urmah"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes the representatives as Federation agents."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This is an unverified account of alleged extraterrestrial diplomacy and Federation interference."
+  ],
+  "coverage_gaps": [
+    "The video also discusses alleged spiritual entities and Federation permissiveness toward them."
+  ]
+}

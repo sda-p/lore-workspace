@@ -1,0 +1,66 @@
+{
+  "source_id": "src-a7f0d8917568",
+  "snapshot_sha256": "90ce20898e020bc5a5e18f9f0c9453112f8bb8eac573abaaed22997eb1308e3f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a7f0d8917568-c01",
+      "assertion": "Mari says some extraterrestrial ships are unfamiliar while Lyrian human ships resemble advanced aircraft and may share familiar components.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a7f0d8917568-c02",
+      "assertion": "Mari says interstellar ships use assigned corridors and arrival protocols, comparable to terrestrial air routes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a7f0d8917568-c03",
+      "assertion": "Mari says Earth’s isolation narrative hides a larger population of spacefaring humans and traffic near the planet.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about extraterrestrial populations and Earth’s isolation are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Artificial horizon instrument details"
+  ]
+}

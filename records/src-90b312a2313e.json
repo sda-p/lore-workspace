@@ -1,0 +1,51 @@
+{
+  "source_id": "src-90b312a2313e",
+  "snapshot_sha256": "c7aafacbcbc3810a6914cdddb5aa95713e4606c44889c9180c9796110cdea36f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-90b312a2313e-c01",
+      "assertion": "Mari claims Earth weather is altered at several levels, from acknowledged cloud seeding to alleged Federation control using modulated gravity beams.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0013",
+        "p0016",
+        "p0015"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are the speaker’s claims."
+    },
+    {
+      "id": "src-90b312a2313e-c02",
+      "assertion": "Mari claims large earthquakes can be induced using mapped fault weaknesses and directed shock waves or microwaves.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control",
+        "terrestrial-science"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about covert weather and earthquake control are attributed to Mari Swaruu and are not independently verified."
+  ],
+  "coverage_gaps": [
+    "Claims about jet trails, fertility, and biological effects"
+  ]
+}

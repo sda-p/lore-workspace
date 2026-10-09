@@ -1,0 +1,71 @@
+{
+  "source_id": "src-4603aaa764e8",
+  "snapshot_sha256": "eb5013f841a12f555b1fe096bcfceb0fe6f3f4148beb485fe7daf4935d463ab3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4603aaa764e8-c01",
+      "assertion": "Mari Swaruu says the woman renamed Ana was Anéeka's immediate previous incarnation and the same soul.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "nexus-souls",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The account says both siblings were Taygetan starseeds; names were changed."
+    },
+    {
+      "id": "src-4603aaa764e8-c02",
+      "assertion": "Mari Swaruu says Keta and Beth were successive lives of the same soul, repeating a maternal role.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0054",
+        "p0055",
+        "p0060"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes this as a harder repetition of the same family pattern."
+    },
+    {
+      "id": "src-4603aaa764e8-c03",
+      "assertion": "Mari Swaruu says reincarnation is non-linear, allowing different lives of a soul to overlap in time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0057",
+        "p0058"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "timeline-branching",
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She connects this to time being a perception rather than sequential."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source says names were changed; the identity claims are the narrator's account of private crew cases."
+  ],
+  "coverage_gaps": [
+    "family-history details",
+    "reincarnation and forgiveness teachings"
+  ]
+}

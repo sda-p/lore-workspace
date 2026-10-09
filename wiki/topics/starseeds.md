@@ -402,6 +402,216 @@ Source: [LA VERDADERA INFLUENCIA DE LAS SEMILLAS ESTELARES EN LA TIERRA](https:/
 
 Related topics: [Collective timeline influence](collective-timeline-influence.md).
 
+### src-c95dc974c9ea-c01
+
+Athena says starseeds undergo astral military abductions and related missions, but acknowledges no concrete evidence; she distinguishes astral from physical cases. Athena explicitly says there is no concrete evidence.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Fuerzas Militares en el Astral - MILABs - Mundo Astral - Athena Swaruu y Yazhi Swaruu (PARTE 1)](https://swaruu.org/transcripts/fuerzas-militares-en-el-astral-milabs-mundo-astral-athena-swaruu-y-yazhi-swaruu-parte-1) (2023-09-23; es); passages p0004, p0005, p0006. [Structured record](../../records/src-c95dc974c9ea.json).
+
+Related topics: [Astral military units](astral-military-units.md).
+
+### src-5bb94203be11-c02
+
+Mari says starseeds’ families guide them without interfering, while their strong frequencies can influence surrounding fields and help shift Earth’s collective reality.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Video motivacional Número 2, para Semillas Estelares y Gente Despierta](https://swaruu.org/transcripts/video-motivacional-numero-2-para-semillas-estelares-y-gente-despierta) (2023-06-10; es); passages p0035, p0036, p0037, p0038, p0043. [Structured record](../../records/src-5bb94203be11.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-3b1c05f31acd-c03
+
+Mari says starseeds can positively alter a realm’s energetic field through presence; stronger-frequency thoughts may influence thousands or more. Attributed to Mari’s model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Campos Telepáticos](https://swaruu.org/transcripts/campos-telepaticos) (2023-06-14; es); passages p0032, p0033. [Structured record](../../records/src-3b1c05f31acd.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-fb36af989f4a-c01
+
+Mari defines starseeds as souls with prior extraterrestrial incarnations; she distinguishes wanderers, who shift among species, from souls strongly attached to one star civilization. Classification attributed to Mari.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares y sus problemas, parte 2, Incompatibilidad de frecuencias](https://swaruu.org/transcripts/semillas-estelares-y-sus-problemas-parte-2-incompatibilidad-de-frecuencias) (2023-05-31; es); passages p0004, p0005, p0006. [Structured record](../../records/src-fb36af989f4a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-fb36af989f4a-c02
+
+Mari says a mismatch between starseeds’ higher-frequency origins and Earth’s collective field can cause discomfort; she says solitude or like-minded groups help them recharge. Mari’s metaphysical explanation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares y sus problemas, parte 2, Incompatibilidad de frecuencias](https://swaruu.org/transcripts/semillas-estelares-y-sus-problemas-parte-2-incompatibilidad-de-frecuencias) (2023-05-31; es); passages p0010, p0011, p0012, p0015, p0016, p0017, p0018, p0019, p0024. [Structured record](../../records/src-fb36af989f4a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-720349fd0c8e-c02
+
+Mari says spiritually strong, high-frequency people, especially starseeds, resist direct access; she says entities may instead trouble their loved ones to distress them indirectly. Attributed to Mari’s metaphysical model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Demonios y Entidades Malignas del Bajo Astral. Parte 3](https://swaruu.org/transcripts/demonios-y-entidades-malignas-del-bajo-astral-parte-3) (2023-08-27; es); passages p0022, p0023, p0024, p0025. [Structured record](../../records/src-720349fd0c8e.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
+### src-5699fcba6376-c02
+
+She distinguishes starseeds, whose souls originated elsewhere before Earth incarnation, from Step Downs who physically arrive from visiting starships. She says some starseeds recall past lives; others do not.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Qué es un extraterrestre para ti?](https://swaruu.org/transcripts/que-es-un-extraterrestre-para-ti) (2023-05-18; es); passages p0013, p0014, p0016, p0017, p0020. [Structured record](../../records/src-5699fcba6376.json).
+
+Related topics: [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
+
+### src-39d2bef39243-c01
+
+Mari says starseeds may remember prior lives or feel they belong elsewhere; she attributes memory gaps to frequency incompatibility, not technological erasure. She describes her own understanding.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Problemas de las Semillas Estelares, de los trabajadores de la luz y de la gente despierta. Parte 1](https://swaruu.org/transcripts/problemas-de-las-semillas-estelares-de-los-trabajadores-de-la-luz-y-de-la-gente-despierta-parte-1) (2023-05-29; es); passages p0009, p0010, p0011, p0012, p0015, p0016. [Structured record](../../records/src-39d2bef39243.json).
+
+Related topics: [Memory Veil](memory-veil.md), [Perceptual density](perceptual-density.md).
+
+### src-39d2bef39243-c02
+
+She says starseeds may face ridicule and self-denial, then learn to live privately by their values and connect with like-minded people. She says experiences vary.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Problemas de las Semillas Estelares, de los trabajadores de la luz y de la gente despierta. Parte 1](https://swaruu.org/transcripts/problemas-de-las-semillas-estelares-de-los-trabajadores-de-la-luz-y-de-la-gente-despierta-parte-1) (2023-05-29; es); passages p0018, p0019, p0021, p0022, p0023. [Structured record](../../records/src-39d2bef39243.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-39d2bef39243-c03
+
+Mari says a starseed’s presence may itself fulfill a life mission; each person must discover their own path and identity. She says others can guide but not identify it for them.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Problemas de las Semillas Estelares, de los trabajadores de la luz y de la gente despierta. Parte 1](https://swaruu.org/transcripts/problemas-de-las-semillas-estelares-de-los-trabajadores-de-la-luz-y-de-la-gente-despierta-parte-1) (2023-05-29; es); passages p0024, p0025, p0026, p0027. [Structured record](../../records/src-39d2bef39243.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
+### src-d6433743ab20-c01
+
+Mari urges starseeds not to make disclosure or social change their life’s sole purpose, but to live and learn through Earth’s challenges. She says outcomes are uncertain.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mi Mensaje para las Semillas - Cual es tu Propósito de estar Aquí?](https://swaruu.org/transcripts/mi-mensaje-para-las-semillas-cual-es-tu-proposito-de-estar-aqui) (2023-06-06; es); passages p0004, p0005, p0006, p0013, p0015. [Structured record](../../records/src-d6433743ab20.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d6433743ab20-c02
+
+She suggests starseeds may help by anchoring positive energy, guiding others, and making the Matrix less oppressive rather than ending it outright. She presents this as a possible role.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mi Mensaje para las Semillas - Cual es tu Propósito de estar Aquí?](https://swaruu.org/transcripts/mi-mensaje-para-las-semillas-cual-es-tu-proposito-de-estar-aqui) (2023-06-06; es); passages p0007, p0008, p0009, p0010, p0012. [Structured record](../../records/src-d6433743ab20.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-d6433743ab20-c03
+
+Mari says helping should come from one’s nature, not an expectation of saving humanity; she encourages living fully and caring for loved ones. She describes her own approach.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mi Mensaje para las Semillas - Cual es tu Propósito de estar Aquí?](https://swaruu.org/transcripts/mi-mensaje-para-las-semillas-cual-es-tu-proposito-de-estar-aqui) (2023-06-06; es); passages p0015, p0016, p0017. [Structured record](../../records/src-d6433743ab20.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5d73de03dc67-c01
+
+Mari Swaruu says starseeds may find conventional jobs incompatible and struggle to remain in them, so she recommends seeking income through enjoyable work. Her account of starseed experience.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares y sus Problemas, parte 4, Problemas de Dinero](https://swaruu.org/transcripts/semillas-estelares-y-sus-problemas-parte-4-problemas-de-dinero) (2023-06-08; es); passages p0005, p0006, p0009, p0011. [Structured record](../../records/src-5d73de03dc67.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-5d73de03dc67-c02
+
+Mari Swaruu argues that social attitudes stigmatize earning money from spiritual, healing, or extraterrestrial work, limiting starseeds’ income. Her social critique.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares y sus Problemas, parte 4, Problemas de Dinero](https://swaruu.org/transcripts/semillas-estelares-y-sus-problemas-parte-4-problemas-de-dinero) (2023-06-08; es); passages p0013, p0014, p0015, p0016, p0019, p0020. [Structured record](../../records/src-5d73de03dc67.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-97525be5bbfa-c01
+
+Mari Swaruu tells viewers that an inner sense of extraterrestrial identity may indicate they are starseeds, whose deeper memories can remain subconscious. Her spiritual belief and advice, not independently verifiable.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Video motivacional para las semillas estelares y los despiertos](https://swaruu.org/transcripts/video-motivacional-para-las-semillas-estelares-y-los-despiertos) (2023-04-30; es); passages p0007, p0009, p0011, p0012. [Structured record](../../records/src-97525be5bbfa.json).
+
+Related topics: [Memory Veil](memory-veil.md).
+
+### src-97525be5bbfa-c02
+
+Mari Swaruu says souls voluntarily choose Earth’s difficulties for growth and that empathy and sensitivity reflect connection to Source. Her metaphysical interpretation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Video motivacional para las semillas estelares y los despiertos](https://swaruu.org/transcripts/video-motivacional-para-las-semillas-estelares-y-los-despiertos) (2023-04-30; es); passages p0013, p0014, p0015, p0016, p0017, p0018. [Structured record](../../records/src-97525be5bbfa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-97525be5bbfa-c03
+
+Mari Swaruu advises starseeds to share spiritual information selectively and describes spiritual guides as expanded versions of oneself. Spiritual advice and belief attributed to the speaker.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Video motivacional para las semillas estelares y los despiertos](https://swaruu.org/transcripts/video-motivacional-para-las-semillas-estelares-y-los-despiertos) (2023-04-30; es); passages p0021, p0022, p0023, p0024. [Structured record](../../records/src-97525be5bbfa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-fec70c265b7c-c01
+
+Mari Swaruu calls someone a starseed if they are human on Earth after a recent life as another extraterrestrial species. Broadly, she says every soul is a starseed.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Recordando haber vivido en reinos superiores. Semillas estelares y sus problemas. Parte 5](https://swaruu.org/transcripts/recordando-haber-vivido-en-reinos-superiores-semillas-estelares-y-sus-problemas-parte-5) (2023-07-30; es); passages p0003, p0004. [Structured record](../../records/src-fec70c265b7c.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-fec70c265b7c-c03
+
+She says extraction to another planet may not resolve a starseed’s problems. That world remains material; the desired idyll belongs to astral afterlife realms.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Recordando haber vivido en reinos superiores. Semillas estelares y sus problemas. Parte 5](https://swaruu.org/transcripts/recordando-haber-vivido-en-reinos-superiores-semillas-estelares-y-sus-problemas-parte-5) (2023-07-30; es); passages p0013, p0014. [Structured record](../../records/src-fec70c265b7c.json).
+
+Related topics: [Extraterrestrial contact and disclosure](extraterrestrial-contact.md).
+
+### src-d834e6dbdec7-c03
+
+Yazhi says starseeds incarnate to model alternatives and take on a difficult challenge for personal growth. She says the Earth's increased difficulty motivated larger waves of advanced souls.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ROMPIENDO LAS CADENAS DEL JUEGO ABRAZANDO LA ALEGRÍA Y LA PLENITUD](https://swaruu.org/transcripts/rompiendo-las-cadenas-del-juego-abrazando-la-alegria-y-la-plenitud) (2023-06-12; es); passages p0018, p0019, p0021, p0022. [Structured record](../../records/src-d834e6dbdec7.json).
+
+Related topics: [Individual ascension](individual-ascension.md).
+
 ## Claims filed under other topics
 
 - [src-10009bbe55a5-c01](lyran-expansion.md#src-10009bbe55a5-c01) — Lyran expansion
@@ -424,6 +634,19 @@ Related topics: [Collective timeline influence](collective-timeline-influence.md
 - [src-8c403e396292-c01](human-biosuit-model.md#src-8c403e396292-c01) — Humanity as a shared biological suit
 - [src-8c403e396292-c02](alien-species.md#src-8c403e396292-c02) — Alien species and distinctions
 - [src-dd739a4e04c6-c01](extraterrestrial-stepdowns.md#src-dd739a4e04c6-c01) — Extraterrestrial step-downs
+- [src-3e414790b429-c03](consciousness-metaphysics.md#src-3e414790b429-c03) — Consciousness and metaphysics
+- [src-5bb94203be11-c01](consciousness-metaphysics.md#src-5bb94203be11-c01) — Consciousness and metaphysics
+- [src-73fc78d38b70-c01](false-alien-invasion.md#src-73fc78d38b70-c01) — False alien invasion scenarios
+- [src-73fc78d38b70-c02](collective-timeline-influence.md#src-73fc78d38b70-c02) — Collective timeline influence
+- [src-7fe18cd69157-c01](egregors.md#src-7fe18cd69157-c01) — Egregors
+- [src-7fe18cd69157-c02](egregors.md#src-7fe18cd69157-c02) — Egregors
+- [src-e62f2a423b11-c03](urmah.md#src-e62f2a423b11-c03) — Urmah
+- [src-e0d85326bb47-c01](astral-military-units.md#src-e0d85326bb47-c01) — Astral military units
+- [src-e0d85326bb47-c02](prime-directive.md#src-e0d85326bb47-c02) — Prime Directive
+- [src-fec70c265b7c-c02](postmortem-realities.md#src-fec70c265b7c-c02) — Postmortem realities
+- [src-afbb59548515-c02](taygetan-first-contact-project.md#src-afbb59548515-c02) — Taygetan First Contact Project
+- [src-0c64b4d8967b-c02](nexus-souls.md#src-0c64b4d8967b-c02) — Nexus souls
+- [src-8b87ad437fe7-c01](galactic-federation.md#src-8b87ad437fe7-c01) — Galactic Federation
 
 ## Review flags
 
@@ -431,6 +654,8 @@ Related topics: [Collective timeline influence](collective-timeline-influence.md
 - Numerical influence estimates and the measurement interpretation are attributed to Alahi.
 - Racial and archaeological claims are attributed to Yazhi and are not established findings.
 - Source also contains unextracted real-world political and health claims.
+- The author’s claims about starseeds and social economic control are unverified and attributed.
+- The source affirms extraterrestrial identities based on subjective feelings; preserve attribution as the author’s belief.
 - Yazhi’s account of higher-council governance and intervention is internally framed as perspective-dependent
 - agenda21-assertion
 - aliens-removed-from-quadrant-claim
@@ -452,10 +677,12 @@ Related topics: [Collective timeline influence](collective-timeline-influence.md
 - human-gravity-design-claim
 - human-origin-model
 - humanomorph-is-source-specific-term
+- hypothetical-future-scenario
 - incarnation-and-extraction-claims
 - intra-source-policy-tension
 - medical-and-abduction-claims-excluded
 - medical-causation-claims
+- metaphysical-entity-claims
 - nonstandard-genetics-claims
 - pandemic-claims-excluded
 - personal-responsibility-model-retains-victim-perspective

@@ -84,6 +84,40 @@ Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
 
 Source: [La Luz y la Oscuridad en tu interior / Traumas y Límites](https://swaruu.org/transcripts/la-luz-y-la-oscuridad-en-tu-interior-traumas-y-limites) (2023-04-03; es); passages p0022, p0024, p0027, p0032, p0033. [Structured record](../../records/src-ab88a977b658.json).
 
+### src-c79c521e2617-c01
+
+Mari presents a deliberately imagined alter ego as a way to bypass subconscious triggers and limiting patterns: define an ideal self, then act from that identity when facing challenges. Presented as Mari’s self-development method.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alter Egos, y cómo pueden ayudarnos a superarnos en nuestra vida diaria](https://swaruu.org/transcripts/alter-egos-y-como-pueden-ayudarnos-a-superarnos-en-nuestra-vida-diaria) (2023-05-12; es); passages p0011, p0012, p0017, p0018, p0019, p0020, p0021, p0022. [Structured record](../../records/src-c79c521e2617.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c79c521e2617-c02
+
+She advises creating an original persona rather than copying a fictional hero or celebrity; leaving familiar surroundings may help, but she says this is optional.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alter Egos, y cómo pueden ayudarnos a superarnos en nuestra vida diaria](https://swaruu.org/transcripts/alter-egos-y-como-pueden-ayudarnos-a-superarnos-en-nuestra-vida-diaria) (2023-05-12; es); passages p0024, p0025, p0026, p0029, p0030, p0031. [Structured record](../../records/src-c79c521e2617.json).
+
+### src-0aac3dd46daa-c04
+
+Athena recommends self-analysis, shadow work, emotional awareness, and willpower to resist moods she attributes to others.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DUENDES ADAS SIRENAS DRAGONES - PROTEGIENDO TU ENERGÍA CONTRA INFLUENCIAS NEGATIVAS](https://swaruu.org/transcripts/duendes-adas-sirenas-dragones-protegiendo-tu-energia-contra-influencias-negativas) (2023-06-26; es); passages p0059, p0060, p0062, p0064. [Structured record](../../records/src-0aac3dd46daa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+## Claims filed under other topics
+
+- [src-359fd1aab210-c03](individual-ascension.md#src-359fd1aab210-c03) — Individual ascension
+- [src-5dcb0e2a993c-c03](consciousness-metaphysics.md#src-5dcb0e2a993c-c03) — Consciousness and metaphysics
+
 ## Review flags
 
+- Contains speaker claims about illness causation and cancer; preserve attribution.
 - spiritual-psychology-attributed

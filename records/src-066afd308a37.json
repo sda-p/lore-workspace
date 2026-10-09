@@ -1,0 +1,69 @@
+{
+  "source_id": "src-066afd308a37",
+  "snapshot_sha256": "cc2e80a9a056e38785c914c3478482a6b175c11befa78ff0f3d3933df51d5e2c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-066afd308a37-c01",
+      "assertion": "Mari Swaruu defines a Matrix as shared ideas and rules shaped by limited biological perception; each culture may have its own.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "A physical super-Matrix contains many cultures."
+    },
+    {
+      "id": "src-066afd308a37-c02",
+      "assertion": "Mari Swaruu says souls in astral realms view physical incarnations as simulations or learning experiences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says this perspective contrasts with the seriousness and suffering experienced in physical life."
+    },
+    {
+      "id": "src-066afd308a37-c03",
+      "assertion": "Mari Swaruu says the lower astral is manifested by living souls' unconscious fears and collective attention.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "consciousness-metaphysics",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes dark entities as egregors sustained by creative attention, especially fear."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "telepathic collective agreements",
+    "personal shadow work"
+  ]
+}

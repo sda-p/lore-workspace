@@ -1,0 +1,61 @@
+{
+  "source_id": "src-33be47476bf1",
+  "snapshot_sha256": "78090116d2492fb6d8d657c39a9c3adc2c096d6064fa52d15784a9512592d625",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-33be47476bf1-c01",
+      "assertion": "Yazhi says attention determines which timeline a person chooses, with the selected timeline reflecting who they are.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-33be47476bf1-c02",
+      "assertion": "Yazhi says information from other timelines crosses through the unconscious and shapes choices; becoming aware of multiple timelines integrates them into a broader one.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-33be47476bf1-c03",
+      "assertion": "Yazhi says timeline feelings can filter into another as thoughts, and recommends understanding and accepting negative timelines before choosing another.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Further examples of timeline memory and learning omitted"
+  ]
+}

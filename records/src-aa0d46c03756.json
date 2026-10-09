@@ -1,0 +1,50 @@
+{
+  "source_id": "src-aa0d46c03756",
+  "snapshot_sha256": "3a37b5a784c1c1db6ae03d009c61ef98d7f4786480c18054e3c498e6e718aa32",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-aa0d46c03756-c01",
+      "assertion": "Swaruu X (Athena) describes Hanáre/Scimitar A as an interceptor and B as an assault and evacuation craft carrying troops and vehicles.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0008", "p0010", "p0011", "p0016", "p0018", "p0019", "p0022"],
+      "primary_topic": "taygetan-scimitar-fighters",
+      "topics": ["taygetan-scimitar-fighters", "starship-systems", "taygetans"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The A is faster; the B is heavier."
+    },
+    {
+      "id": "src-aa0d46c03756-c02",
+      "assertion": "Athena says toroidal high-energy stealth hides Scimitars from human visual, infrared, and microwave detection.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0032", "p0034"],
+      "primary_topic": "taygetan-scimitar-fighters",
+      "topics": ["taygetan-scimitar-fighters", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says gravitic-shift detectors could still detect them."
+    },
+    {
+      "id": "src-aa0d46c03756-c03",
+      "assertion": "Athena describes older Scimitars as reliable and durable, though their engine components are difficult to access and maintain.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0042", "p0043", "p0044"],
+      "primary_topic": "taygetan-scimitar-fighters",
+      "topics": ["taygetan-scimitar-fighters", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Despite age and maintenance demands, she says they remain in service."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "taygetan-scimitar-fighters",
+      "name": "Taygetan Hanáre/Scimitar fighters",
+      "kind": "starship class",
+      "aliases": ["Hanáre", "Scimitar"]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": ["recent operations in Ukraine", "deployment alongside larger ships"]
+}

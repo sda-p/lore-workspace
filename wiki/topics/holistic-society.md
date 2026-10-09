@@ -1754,6 +1754,82 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [La estupidez y el Ego, una perspectiva espiritual](https://swaruu.org/transcripts/la-estupidez-y-el-ego-una-perspectiva-espiritual) (2023-03-05; es); passages p0012, p0015. [Structured record](../../records/src-43d84fdc44fd.json).
 
+### src-c2bd4709b67f-c02
+
+He says words directed at others can encourage them or deepen distress, particularly when they feel mentally vulnerable. He says the impact depends on the listener.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [El Poder de las Palabras y la Congruencia de tus Expresiones](https://swaruu.org/transcripts/el-poder-de-las-palabras-y-la-congruencia-de-tus-expresiones) (2023-05-26; es); passages p0015, p0020. [Structured record](../../records/src-c2bd4709b67f.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-234d698c0f21-c01
+
+Athena says important knowledge should help people think independently and avoid dependence on political, spiritual, or other authorities.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [CUAL ES LA INFORMACIÓN MAS IMPORTANTE PARA LA HUMANIDAD - Athena Swaruu](https://swaruu.org/transcripts/cual-es-la-informacion-mas-importante-para-la-humanidad-athena-swaruu) (2023-08-28; es); passages p0003, p0006. [Structured record](../../records/src-234d698c0f21.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2e200138040b-c02
+
+Mari Swaruu argues that Earth would need transitional tutelage by advanced star societies, favoring empathic Lyrian peoples and the Urmah as mentors. This is her proposed political model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Es aconsejable eliminar el Cabal? Sociedad Holística, Parte 2](https://swaruu.org/transcripts/es-aconsejable-eliminar-el-cabal-sociedad-holistica-parte-2) (2023-09-22; es); passages p0016, p0018, p0024, p0025. [Structured record](../../records/src-2e200138040b.json).
+
+Related topics: [Urmah](urmah.md), [Lyrians](lyrians.md).
+
+### src-69f666d88c2e-c02
+
+In her account, advanced off-world societies use money only when needed; internally they share abundant resources without an economy. Remaining exchanges are friendly barter with little value compensation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El invento del dinero y su aplicación en diferentes sociedades.](https://swaruu.org/transcripts/el-invento-del-dinero-y-su-aplicacion-en-diferentes-sociedades) (2023-05-14; es); passages p0025, p0026, p0027. [Structured record](../../records/src-69f666d88c2e.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-45654a10b21a-c01
+
+Mari describes voluntary local councils, open to residents and experts, seeking reasoned consensus instead of votes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Holística, también llamada Sociedad Holográfica, y Realeza en el Espacio Exterior](https://swaruu.org/transcripts/sociedad-holistica-tambien-llamada-sociedad-holografica-y-realeza-en-el-espacio-exterior) (2023-09-20; es); passages p0007, p0008, p0009. [Structured record](../../records/src-45654a10b21a.json).
+
+### src-45654a10b21a-c02
+
+She says larger issues rise to cultural High Councils; despite official openness, she has seen practical participation restrictions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Holística, también llamada Sociedad Holográfica, y Realeza en el Espacio Exterior](https://swaruu.org/transcripts/sociedad-holistica-tambien-llamada-sociedad-holografica-y-realeza-en-el-espacio-exterior) (2023-09-20; es); passages p0010, p0011, p0013, p0014. [Structured record](../../records/src-45654a10b21a.json).
+
+### src-45654a10b21a-c03
+
+Mari says monarchs represent High Councils, whose approval is required; Taygeta’s queen may override them for unclear reasons.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Holística, también llamada Sociedad Holográfica, y Realeza en el Espacio Exterior](https://swaruu.org/transcripts/sociedad-holistica-tambien-llamada-sociedad-holografica-y-realeza-en-el-espacio-exterior) (2023-09-20; es); passages p0018, p0019, p0020. [Structured record](../../records/src-45654a10b21a.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-45654a10b21a-c04
+
+Mari says holistic societies require ethics and service, but scarcity and unpaid work can exploit helpers; meet needs before helping.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Sociedad Holística, también llamada Sociedad Holográfica, y Realeza en el Espacio Exterior](https://swaruu.org/transcripts/sociedad-holistica-tambien-llamada-sociedad-holografica-y-realeza-en-el-espacio-exterior) (2023-09-20; es); passages p0035, p0036, p0037, p0038, p0039, p0040, p0041. [Structured record](../../records/src-45654a10b21a.json).
+
+Related topics: [Economics and resources](economics.md).
+
 ## Claims filed under other topics
 
 - [src-89cfcddab709-c04](urmah.md#src-89cfcddab709-c04) — Urmah
@@ -1834,6 +1910,18 @@ Source: [La estupidez y el Ego, una perspectiva espiritual](https://swaruu.org/t
 - [src-f138a70a4ff8-c01](galactic-federation.md#src-f138a70a4ff8-c01) — Galactic Federation
 - [src-dcfd5493c3df-c03](soul-loop-reincarnation.md#src-dcfd5493c3df-c03) — Soul-loop reincarnation
 - [src-ddff20dff5fd-c02](original-matrix.md#src-ddff20dff5fd-c02) — Original Matrix
+- [src-97662b957563-c01](consciousness-metaphysics.md#src-97662b957563-c01) — Consciousness and metaphysics
+- [src-97662b957563-c02](consciousness-metaphysics.md#src-97662b957563-c02) — Consciousness and metaphysics
+- [src-97662b957563-c03](consciousness-metaphysics.md#src-97662b957563-c03) — Consciousness and metaphysics
+- [src-c2bd4709b67f-c01](consciousness-metaphysics.md#src-c2bd4709b67f-c01) — Consciousness and metaphysics
+- [src-c2bd4709b67f-c03](consciousness-metaphysics.md#src-c2bd4709b67f-c03) — Consciousness and metaphysics
+- [src-bac03b977073-c02](consciousness-metaphysics.md#src-bac03b977073-c02) — Consciousness and metaphysics
+- [src-a602cffec533-c03](consciousness-metaphysics.md#src-a602cffec533-c03) — Consciousness and metaphysics
+- [src-60fae9fc5f22-c04](taygetans.md#src-60fae9fc5f22-c04) — Taygetans
+- [src-8f1437f38d3a-c03](consciousness-metaphysics.md#src-8f1437f38d3a-c03) — Consciousness and metaphysics
+- [src-2e200138040b-c03](earth-cabal.md#src-2e200138040b-c03) — Earth Cabal and power structures
+- [src-5d73de03dc67-c03](economics.md#src-5d73de03dc67-c03) — Economics and resources
+- [src-d834e6dbdec7-c02](earth-cabal.md#src-d834e6dbdec7-c02) — Earth Cabal and power structures
 
 ## Review flags
 
@@ -1842,6 +1930,7 @@ Source: [La estupidez y el Ego, una perspectiva espiritual](https://swaruu.org/t
 - Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
 - Claims about Taygetan technology and Earth EV policy are attributed to Mari Swaruu.
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about contemporary institutions or external events reflect the speaker’s interpretation.
 - Claims about hidden councils and planetary bases are attributed to Mari Swaruu.
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
@@ -1853,8 +1942,11 @@ Source: [La estupidez y el Ego, una perspectiva espiritual](https://swaruu.org/t
 - Past-life memories are claims reported by Mari, not independently verified.
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Senetre-diagnosed-weapon-route-suspected
+- The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore.
+- The author’s claims about starseeds and social economic control are unverified and attributed.
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - Yazhi proposes nonhuman tutoring, then says people should not wait for outside help.
+- Yazhi said she saw photographs rather than the crystal skulls firsthand; the claims are attributed.
 - agenda\_term\_varies
 - approximate-age-estimate
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate

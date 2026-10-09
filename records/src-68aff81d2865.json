@@ -1,0 +1,64 @@
+{
+  "source_id": "src-68aff81d2865",
+  "snapshot_sha256": "03d219629e13dff2f3d256ef747c1121f74a4ec6be01863369a7a3762cf50384",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-68aff81d2865-c01",
+      "assertion": "Mari says there is no universal date; time is experienced as “now” within a consciousness and its contained realm.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68aff81d2865-c02",
+      "assertion": "Mari says a moment is physically distinguished by the arrangement and relations of objects within a location.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-68aff81d2865-c03",
+      "assertion": "Mari says advanced time navigation uses gravity-frequency maps to chart mass and object relations within a contained system.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0027"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about time, gravity, and navigation are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Examples of perceptual systems and spatial containment"
+  ]
+}

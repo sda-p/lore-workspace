@@ -1,0 +1,116 @@
+{
+  "source_id": "src-7507aaf9433f",
+  "snapshot_sha256": "15781903928fb02e9d3040c26da845fe44b55db63c49e4473cba488a68fca4a7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7507aaf9433f-c01",
+      "assertion": "Mari forecast Sadicleya would arrive in Earth orbit for Second Contact after tests; Eagle Watch might return to Temmer.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7507aaf9433f-c02",
+      "assertion": "Saska 1 aided Alcyone repairs after hyperspace strain broke engine mounts and cooling pipes.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7507aaf9433f-c03",
+      "assertion": "Mari says ships convert waste heat to electricity because space cannot readily dissipate it.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7507aaf9433f-c04",
+      "assertion": "Moghyay are feathered, wingless, warm-blooded Temmer fruit-eaters, pets but wild crop pests.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "moghyay",
+      "topics": [
+        "moghyay",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7507aaf9433f-c05",
+      "assertion": "CIC identified May’s fireball as a rocket component carrying a billionaire’s classified payload.",
+      "speaker": "Mari Swa (narrator, citing Toleka CIC)",
+      "paragraph_ids": [
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7507aaf9433f-c06",
+      "assertion": "Mari expected Federation discussions on Earth’s isolation within a month.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0032"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Fleet schedules are dated forecasts; the fireball identification is attributed to CIC rather than independent confirmation."
+  ],
+  "coverage_gaps": [
+    "Moghyay behavior on Toleka and its accidental death",
+    "ship status and class details for the wider fleet"
+  ]
+}

@@ -286,6 +286,16 @@ Source: [Bombas Nucleares - Bombas de Energia que Fingen ser Nucleares - Yazhi S
 
 Related topics: [Taygetan atomic wave structure](atomic-wave-structure.md).
 
+### src-8c823a56ddaf-c03
+
+Yazhi distinguishes subatomic vibration, mass-related frequency, and consciousness-generated harmonics, which she says transmit as gravity. She says interferometers can measure values, but interpretation gives them meaning.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE EL PODER DE LA CONSCIENCIA - Yazhi Swaruu](https://swaruu.org/transcripts/contacto-extraterrestre-el-poder-de-la-consciencia-yazhi-swaruu) (2023-06-01; es); passages p0051, p0052, p0053, p0056, p0057, p0058, p0066. [Structured record](../../records/src-8c823a56ddaf.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-30d632b02db6-c04](frequency-map-navigation.md#src-30d632b02db6-c04) — Frequency-map navigation
@@ -324,6 +334,9 @@ Related topics: [Taygetan atomic wave structure](atomic-wave-structure.md).
 - [src-d8bc3b414a4c-c04](solar-portal-transit.md#src-d8bc3b414a4c-c04) — Solar portal transit
 - [src-d778f32d51ae-c03](elementals.md#src-d778f32d51ae-c03) — Elementals
 - [src-eba1fa9a8f38-c01](dimensional-mirroring.md#src-eba1fa9a8f38-c01) — Dimensional mirroring
+- [src-8c823a56ddaf-c02](consciousness-metaphysics.md#src-8c823a56ddaf-c02) — Consciousness and metaphysics
+- [src-3535c43ff865-c03](consciousness-metaphysics.md#src-3535c43ff865-c03) — Consciousness and metaphysics
+- [src-b39d4a7a2cd4-c01](moon-biosphere-ship.md#src-b39d4a7a2cd4-c01) — The Moon as a biosphere ship
 
 ## Review flags
 

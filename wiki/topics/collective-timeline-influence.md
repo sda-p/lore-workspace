@@ -196,6 +196,36 @@ Source: [Historia - Romanos y Renacimiento a la Vez - Yazhi Swaruu (Sophia) Expl
 
 Related topics: [Timeline branching](timeline-branching.md).
 
+### src-73fc78d38b70-c02
+
+Mari says starseeds can influence or guide large groups and shift collective timelines through their presence, even without speaking.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Falsa Invasión Alienígena, otra advertencia, especialmente para Las Semillas Estelares](https://swaruu.org/transcripts/falsa-invasion-alienigena-otra-advertencia-especialmente-para-las-semillas-estelares) (2023-07-10; es); passages p0030, p0035. [Structured record](../../records/src-73fc78d38b70.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-9922a742f77a-c02
+
+She says shared manifestations are harder because they must align with many people’s agreements; achieving goals requires action, adapting strategies, and distinguishing caution from fear. Presented as Za’el’s advice.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [¿Existe lo Imposible?](https://swaruu.org/transcripts/existe-lo-imposible) (2023-05-09; es); passages p0012, p0013, p0015, p0016, p0018, p0019, p0020, p0024, p0030, p0031. [Structured record](../../records/src-9922a742f77a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-52a4911db286-c02
+
+Mari Swaruu claims collective fear concentrates attention and can steer individuals or groups toward matching timeline outcomes. Presented as her theory of manifestation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Campos Telepáticos y tus Egregores y Miedos.](https://swaruu.org/transcripts/campos-telepaticos-y-tus-egregores-y-miedos) (2023-06-16; es); passages p0012, p0013, p0014, p0015, p0016, p0022. [Structured record](../../records/src-52a4911db286.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
 ## Claims filed under other topics
 
 - [src-775d18ade5d9-c04](timeline-branching.md#src-775d18ade5d9-c04) — Timeline branching
@@ -216,6 +246,9 @@ Related topics: [Timeline branching](timeline-branching.md).
 - [src-ca97c59fa762-c02](timeline-branching.md#src-ca97c59fa762-c02) — Timeline branching
 - [src-800716c5fe32-c02](starseeds.md#src-800716c5fe32-c02) — Starseeds
 - [src-800716c5fe32-c03](starseeds.md#src-800716c5fe32-c03) — Starseeds
+- [src-5bb94203be11-c02](starseeds.md#src-5bb94203be11-c02) — Starseeds
+- [src-3b1c05f31acd-c03](starseeds.md#src-3b1c05f31acd-c03) — Starseeds
+- [src-792d96d276c2-c02](consciousness-metaphysics.md#src-792d96d276c2-c02) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -225,6 +258,7 @@ Related topics: [Timeline branching](timeline-branching.md).
 - Earth’s purpose is explicitly undetermined.
 - Numerical influence estimates and the measurement interpretation are attributed to Alahi.
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
+- The author presents telepathy and thought-form manifestation as factual; these claims remain attributed.
 - ascension-model-attributed
 - claims about fabricated histories and public events are attributed lore, not independently substantiated
 - consciousness-claims
@@ -233,6 +267,7 @@ Related topics: [Timeline branching](timeline-branching.md).
 - dated-non-deterministic-prediction
 - expanded-and-bereaved-perspectives-attributed
 - human-agency-and-federation-oversight
+- hypothetical-future-scenario
 - numerical influence comparisons are illustrative, not fixed ratios
 - psychological memory-rewriting discussion could be confused with clinical guidance
 - scenario-outcomes-and-intervention-threshold

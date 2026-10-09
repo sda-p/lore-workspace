@@ -1,0 +1,67 @@
+{
+  "source_id": "src-72bb3badacf6",
+  "snapshot_sha256": "eeeac1695ea09e82bbfae23fbd9eb1635732bdaa0d1776037927ed92a37754b3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-72bb3badacf6-c01",
+      "assertion": "Swaruu (9) describes Yeti and Bigfoot as the same semi-subterranean, telepathic creature, usually 3–4 meters tall.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0007"
+      ],
+      "primary_topic": "bigfoot-sasquatch",
+      "topics": [
+        "bigfoot-sasquatch",
+        "sasquatch"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-72bb3badacf6-c02",
+      "assertion": "Swaruu (9) says Sasquatch use hidden underground passages and may attack humans as habitat loss limits food.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0044",
+        "p0046",
+        "p0047"
+      ],
+      "primary_topic": "sasquatch",
+      "topics": [
+        "sasquatch"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says several varieties exist."
+    },
+    {
+      "id": "src-72bb3badacf6-c03",
+      "assertion": "Anéeka says the Dyatlov Pass deaths were probably a human attack by a hostile local tribe, with radioactive clothing linked to a nearby plant accident.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0016",
+        "p0018",
+        "p0021",
+        "p0027"
+      ],
+      "primary_topic": "dyatlov-pass-incident",
+      "topics": [
+        "dyatlov-pass-incident"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the evidence available to them was limited."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source contains contradictory explanations of the Dyatlov deaths: Swaruu (9) alleges a Yeti released by Reptilians (p0008), while Anéeka later favors a human tribal attack (p0013,p0021)."
+  ],
+  "coverage_gaps": [
+    "Sasquatch interactions with cetaceans and lunar frequencies"
+  ]
+}

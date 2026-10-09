@@ -1,0 +1,13 @@
+{
+  "source_id": "src-a608ed423baf",
+  "snapshot_sha256": "961d6f44f2452e0479a07a237c84e88b64c6000b7444f480cfea3d7bd15b4403",
+  "language": "es",
+  "claims": [
+    {"id":"src-a608ed423baf-c01","assertion":"Mari says Taygetan forces use ranks and command hierarchy but train personnel to lead, think ethically, and protect life.","speaker":"Mari Swa","paragraph_ids":["p0013","p0014","p0015","p0017"],"primary_topic":"combat-doctrine","topics":["combat-doctrine","taygetans"],"modality":"asserted","confidence":"high","qualifiers":"She says they may use lethal force when necessary."},
+    {"id":"src-a608ed423baf-c02","assertion":"Mari attributes the Saska 1–Alcyone collision to untested replacement sensors and communication failures between civilian maintenance and military crews.","speaker":"Mari Swa","paragraph_ids":["p0019","p0022","p0023","p0025","p0026"],"primary_topic":"starship-systems","topics":["starship-systems","combat-doctrine"],"modality":"asserted","confidence":"high","qualifiers":"She says Alcyone moved prematurely and its rear sensors had failed."},
+    {"id":"src-a608ed423baf-c03","assertion":"Mari says the civilian deep-space support ship Saska 1 had a close-knit crew of about 50 working with Taygetan military vessels.","speaker":"Mari Swa","paragraph_ids":["p0020","p0021"],"primary_topic":"starship-systems","topics":["starship-systems","taygetans"],"modality":"asserted","confidence":"high","qualifiers":""}
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["the author's comparisons of human and Taygetan military institutions"]
+}

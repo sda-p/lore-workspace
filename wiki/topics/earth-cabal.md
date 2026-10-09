@@ -3564,6 +3564,360 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLARES](https://swaruu.org/transcripts/el-debilitamiento-del-campo-magnetico-de-la-tierra-y-los-cambios-polares) (2023-03-30; es); passages p0003, p0004, p0008. [Structured record](../../records/src-3f5e32e319ee.json).
 
+### src-96743ca87fea-c03
+
+Yazhi describes the Cabal as layered to confuse and control, with further layers beneath any layer that is breached.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EL DESAFÍO DEL JUEGO ACEPTANDO LOS DESAFÍOS DE LA VIDA](https://swaruu.org/transcripts/el-desafio-del-juego-aceptando-los-desafios-de-la-vida) (2023-06-13; es); passages p0026, p0024. [Structured record](../../records/src-96743ca87fea.json).
+
+### src-96743ca87fea-c04
+
+Yazhi suspects many purportedly benevolent military operations are psychological operations, while allowing limited factional conflicts. She lacks facts about individual operations.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [EL DESAFÍO DEL JUEGO ACEPTANDO LOS DESAFÍOS DE LA VIDA](https://swaruu.org/transcripts/el-desafio-del-juego-aceptando-los-desafios-de-la-vida) (2023-06-13; es); passages p0024, p0025, p0027. [Structured record](../../records/src-96743ca87fea.json).
+
+### src-d899310fae70-c01
+
+Athena alleges Greer is a CIA asset using staged opposition to boost credibility; she defines negative priming as appearing opposed while cooperating with an alleged opponent. These are Athena’s allegations.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DE LA DIVULGACIÓN DEL FENÓMENO OVNI - CONTACTO EXTRATERRESTRE - Athena 1/2](https://swaruu.org/transcripts/desclasificacion-de-la-divulgacion-del-fenomeno-ovni-contacto-extraterrestre-athena) (2023-06-28; es); passages p0004, p0005, p0009, p0013. [Structured record](../../records/src-d899310fae70.json).
+
+### src-3e6bb19f0b7f-c03
+
+Athena says a proposed Earth world government would systematize human exploitation and suffering, despite ending wars.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ES EL ASTRAL EN DONDE SE GENERAN LOS COMBATES MÁS DECISIVOS Y OTRAS PREGUNTAS](https://swaruu.org/transcripts/es-el-astral-en-donde-se-generan-los-combates-mas-decisivos-y-otras-preguntas) (2023-08-16; es); passages p0015, p0016. [Structured record](../../records/src-3e6bb19f0b7f.json).
+
+Related topics: [Engineered social unrest](engineered-social-unrest.md).
+
+### src-aaf321b17830-c01
+
+Anéeka claims CIA agencies influence contactees and says some investigators underestimate Illuminati control. Her assessment of the cited investigator is opinion.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE OFICIALMENTE ACEPTADO - Aneeka](https://swaruu.org/transcripts/contacto-extraterrestre-oficialmente-aceptado-aneeka) (2023-08-08; es); passages p0002, p0003, p0005. [Structured record](../../records/src-aaf321b17830.json).
+
+### src-6f1a8a7d6452-c01
+
+Athena defines negative priming as making an audience believe someone opposes an operation while secretly cooperating with it. Her term for a psychological-operation tactic.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Desclasificación OVNI - Preguntas - Conversación con Athena Swaruu](https://swaruu.org/transcripts/desclasificacion-ovni-preguntas-conversacion-con-athena-swaruu) (2023-06-27; es); passages p0005, p0006, p0010. [Structured record](../../records/src-6f1a8a7d6452.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-6f1a8a7d6452-c03
+
+Athena says no single whistleblower reveals everything; audiences must connect evidence and improve their discernment to recognize Cabal tactics. She warns that some witnesses may be controlled opposition.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Desclasificación OVNI - Preguntas - Conversación con Athena Swaruu](https://swaruu.org/transcripts/desclasificacion-ovni-preguntas-conversacion-con-athena-swaruu) (2023-06-27; es); passages p0027, p0028, p0030, p0032, p0034. [Structured record](../../records/src-6f1a8a7d6452.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-06b35bd6dc5f-c01
+
+Mari says Earth’s controllers use controlled opposition and selective UFO disclosure to steer public understanding and retain control. This is her view.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Desclasificación OVNI en la actualidad. Parte 1](https://swaruu.org/transcripts/desclasificacion-ovni-en-la-actualidad-parte-1) (2023-06-24; es); passages p0014, p0016, p0018, p0026. [Structured record](../../records/src-06b35bd6dc5f.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-06b35bd6dc5f-c02
+
+She says authorities flood media with UFO narratives, making truth harder to distinguish, and regards large groups and official statements as less credible. She notes that many accounts are fabricated.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Desclasificación OVNI en la actualidad. Parte 1](https://swaruu.org/transcripts/desclasificacion-ovni-en-la-actualidad-parte-1) (2023-06-24; es); passages p0018, p0019, p0020, p0021, p0022. [Structured record](../../records/src-06b35bd6dc5f.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-2f1a34ed22b2-c02
+
+She says real witnesses exist but are obscured; no single whistleblower can establish the full truth, so audiences must connect evidence cautiously. Small sources may seem more credible.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DE LA DIVULGACIÓN DEL FENÓMENO OVNI - CONTACTO EXTRATERRESTRE - Athena 2/2](https://swaruu.org/transcripts/desclasificacion-de-la-divulgacion-del-fenomeno-ovni-contacto-extraterrestre-athena-2-2) (2023-06-29; es); passages p0007, p0008, p0014, p0015, p0017, p0018. [Structured record](../../records/src-2f1a34ed22b2.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-2f1a34ed22b2-c03
+
+Athena urges improving public discernment over trusting authorities; controlled opposition can steer narratives and make one true claim validate later claims. She says controlled opposition serves those in power.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DESCLASIFICACIÓN DE LA DIVULGACIÓN DEL FENÓMENO OVNI - CONTACTO EXTRATERRESTRE - Athena 2/2](https://swaruu.org/transcripts/desclasificacion-de-la-divulgacion-del-fenomeno-ovni-contacto-extraterrestre-athena-2-2) (2023-06-29; es); passages p0010, p0011, p0012, p0020, p0021. [Structured record](../../records/src-2f1a34ed22b2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-60fae9fc5f22-c03
+
+Athena attributes a false-invasion agenda to Cabal interests seeking fear and obedience. She calls the Federation’s role murky and permissive.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [OVNIs en el Congreso - Hablando mas del tema con Athena Swaruu](https://swaruu.org/transcripts/ovnis-en-el-congreso-hablando-mas-del-tema-con-athena-swaruu) (2023-08-17; es); passages p0019, p0020. [Structured record](../../records/src-60fae9fc5f22.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md), [Galactic Federation](galactic-federation.md).
+
+### src-8c52d17e6496-c01
+
+Za’el argues that authorities and mass media impose acceptable perceptions, while dissenters may be censored, ridiculed, or marginalized. Presented as the author’s analysis.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Control Mental, Adiestramiento y Programación de la Humanidad](https://swaruu.org/transcripts/control-mental-adiestramiento-y-programacion-de-la-humanidad) (2023-09-01; es); passages p0011, p0012, p0019, p0020. [Structured record](../../records/src-8c52d17e6496.json).
+
+### src-8c52d17e6496-c02
+
+Za’el says repeated campaigns in advertising, politics, and entertainment can normalize social values even when many people initially disagree. Her interpretation of societal change.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Control Mental, Adiestramiento y Programación de la Humanidad](https://swaruu.org/transcripts/control-mental-adiestramiento-y-programacion-de-la-humanidad) (2023-09-01; es); passages p0014, p0015, p0016. [Structured record](../../records/src-8c52d17e6496.json).
+
+### src-8c52d17e6496-c03
+
+Za’el cites Athena Swaruu as distinguishing legality from justice and arguing that laws protect corporate interests over individuals. Attributed by Za’el to Athena Swaruu.
+
+Attributed to **Za’el de Erra, citing Athena Swaruu**; reported; extraction confidence: high.
+
+Source: [Control Mental, Adiestramiento y Programación de la Humanidad](https://swaruu.org/transcripts/control-mental-adiestramiento-y-programacion-de-la-humanidad) (2023-09-01; es); passages p0017, p0018. [Structured record](../../records/src-8c52d17e6496.json).
+
+### src-2e200138040b-c01
+
+Mari Swaruu says Taygetans and Urmah have plans to remove the Earth Cabal, but argues its sudden elimination could cause chaos. Her political narrative.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Es aconsejable eliminar el Cabal? Sociedad Holística, Parte 2](https://swaruu.org/transcripts/es-aconsejable-eliminar-el-cabal-sociedad-holistica-parte-2) (2023-09-22; es); passages p0003, p0004, p0031. [Structured record](../../records/src-2e200138040b.json).
+
+Related topics: [Taygetans](taygetans.md), [Urmah](urmah.md).
+
+### src-2e200138040b-c03
+
+Mari Swaruu claims the Cabal could transform rather than disappear, since sudden removal would cause unnecessary human suffering. Her prediction about a gradual transition.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Es aconsejable eliminar el Cabal? Sociedad Holística, Parte 2](https://swaruu.org/transcripts/es-aconsejable-eliminar-el-cabal-sociedad-holistica-parte-2) (2023-09-22; es); passages p0030, p0031. [Structured record](../../records/src-2e200138040b.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-d834e6dbdec7-c02
+
+Yazhi says directly fighting the Cabal feeds it; she favors offering people alternatives instead. She says defeating it could impose one's views and create a new Cabal.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ROMPIENDO LAS CADENAS DEL JUEGO ABRAZANDO LA ALEGRÍA Y LA PLENITUD](https://swaruu.org/transcripts/rompiendo-las-cadenas-del-juego-abrazando-la-alegria-y-la-plenitud) (2023-06-12; es); passages p0008, p0013, p0014, p0016. [Structured record](../../records/src-d834e6dbdec7.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-531dd2c83cf3-c03
+
+Yazhi says fighting the Cabal feeds it and risks becoming a new Cabal; she favors offering alternatives.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares - Conversación con Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/semillas-estelares-conversacion-con-sophia-swaruu-yazhi) (2023-06-10; es); passages p0009, p0015, p0017. [Structured record](../../records/src-531dd2c83cf3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-531dd2c83cf3-c04
+
+Yazhi suspects military operations are psychological, says no source has all truth, and admits lacking facts on individual operations.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Semillas Estelares - Conversación con Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/semillas-estelares-conversacion-con-sophia-swaruu-yazhi) (2023-06-10; es); passages p0048, p0049, p0050. [Structured record](../../records/src-531dd2c83cf3.json).
+
+### src-a82352157b1a-c03
+
+Athena characterizes the “quantum financial system” as a sales pitch for more restrictive finance; she says economic change will digitize life without benefiting the public.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Desclasificación de los OVNIS? Preguntas para la entrevista con AJ Roberts](https://swaruu.org/transcripts/desclasificacion-de-los-ovnis-preguntas-para-la-entrevista-con-aj-roberts) (2023-06-03; es); passages p0031, p0032. [Structured record](../../records/src-a82352157b1a.json).
+
+### src-a82352157b1a-c04
+
+Athena says government-dissolution messaging sugarcoats a new world order; people retain power but cede it to authoritarianism.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Desclasificación de los OVNIS? Preguntas para la entrevista con AJ Roberts](https://swaruu.org/transcripts/desclasificacion-de-los-ovnis-preguntas-para-la-entrevista-con-aj-roberts) (2023-06-03; es); passages p0035, p0037. [Structured record](../../records/src-a82352157b1a.json).
+
+### src-518eb9044e55-c04
+
+Gosia warns authorities may steer change to retain power, though exposure could prompt people to think critically and demand more.
+
+Attributed to **Gosia**; speculative; extraction confidence: high.
+
+Source: [National Press Club Event - "Proyecto Divulgación" de Steven Greer - NUESTRA OPINION](https://swaruu.org/transcripts/national-press-club-event-proyecto-divulgacion-de-steven-greer-nuestra-opinion) (2023-06-17; es); passages p0027, p0028, p0029. [Structured record](../../records/src-518eb9044e55.json).
+
+### src-7fecc6636778-c01
+
+Mari argues government disclosure may be curated or falsified to steer public beliefs; she says official photos and videos are unreliable evidence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Desclasificación extraterrestre, una advertencia](https://swaruu.org/transcripts/desclasificacion-extraterrestre-una-advertencia) (2023-07-06; es); passages p0009, p0010, p0018, p0019, p0020. [Structured record](../../records/src-7fecc6636778.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-d0dc341815a0-c01
+
+Mari alleges the Maui wildfires were a false-flag attack, claiming conventional flamethrower drones and advanced energy-weapon drones caused them.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Maui, Informe sobre lo que está pasando. Noticias Espaciales 01](https://swaruu.org/transcripts/maui-informe-sobre-lo-que-esta-pasando-noticias-espaciales-01) (2023-08-20; es); passages p0014, p0015, p0016. [Structured record](../../records/src-d0dc341815a0.json).
+
+### src-d0dc341815a0-c02
+
+She says police and coast guard blocked residents fleeing and civilian aid, and cites FEMA’s early arrival as evidence of prior knowledge.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Maui, Informe sobre lo que está pasando. Noticias Espaciales 01](https://swaruu.org/transcripts/maui-informe-sobre-lo-que-esta-pasando-noticias-espaciales-01) (2023-08-20; es); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-d0dc341815a0.json).
+
+### src-d0dc341815a0-c03
+
+She alleges fires selectively destroyed working-class homes, museums and libraries while sparing elite properties; she links destruction to planned controlled-city rebuilding.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Maui, Informe sobre lo que está pasando. Noticias Espaciales 01](https://swaruu.org/transcripts/maui-informe-sobre-lo-que-esta-pasando-noticias-espaciales-01) (2023-08-20; es); passages p0023, p0024, p0025, p0026. [Structured record](../../records/src-d0dc341815a0.json).
+
+### src-d0dc341815a0-c04
+
+She alleges investors and government exploited the aftermath to acquire local property cheaply, and accuses the Federation of allowing known harm.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Maui, Informe sobre lo que está pasando. Noticias Espaciales 01](https://swaruu.org/transcripts/maui-informe-sobre-lo-que-esta-pasando-noticias-espaciales-01) (2023-08-20; es); passages p0028, p0029, p0031. [Structured record](../../records/src-d0dc341815a0.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-b2b1511e840d-c01
+
+Za’el argues that moral relativism and excessive tolerance can let more aggressive, authoritarian people impose rules on peaceful others.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [La Ventaja de quien Crea las Normas - El bien, ¿siempre gana?](https://swaruu.org/transcripts/la-ventaja-de-quien-crea-las-normas-el-bien-siempre-gana) (2023-08-19; es); passages p0008, p0009. [Structured record](../../records/src-b2b1511e840d.json).
+
+### src-b2b1511e840d-c02
+
+In his game analogy, the rule-setter determines who wins; powerful actors can similarly define or manipulate ethical rules and perceived reality.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [La Ventaja de quien Crea las Normas - El bien, ¿siempre gana?](https://swaruu.org/transcripts/la-ventaja-de-quien-crea-las-normas-el-bien-siempre-gana) (2023-08-19; es); passages p0011, p0012, p0013, p0014, p0015, p0017. [Structured record](../../records/src-b2b1511e840d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7de438650c41-c01
+
+Athena alleges intelligence services infiltrate spiritual and ufology movements, elevating trusted insiders and discrediting people whose claims conflict with their agenda.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [INFILTRACIÓN EN LOS CÍRCULOS UFOLÓGICOS Y ESPIRITUALES -Athena Swaruu](https://swaruu.org/transcripts/infiltracion-en-los-circulos-ufologicos-y-espirituales-athena-swaruu) (2023-08-07; es); passages p0003, p0004, p0007, p0008. [Structured record](../../records/src-7de438650c41.json).
+
+Related topics: [Secret-society hierarchy](secret-society-hierarchy.md).
+
+### src-7de438650c41-c02
+
+Anéeka says flat-Earth content creates confusion by flooding networks with conflicting explanations, sometimes using a true premise to support falsehoods.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [INFILTRACIÓN EN LOS CÍRCULOS UFOLÓGICOS Y ESPIRITUALES -Athena Swaruu](https://swaruu.org/transcripts/infiltracion-en-los-circulos-ufologicos-y-espirituales-athena-swaruu) (2023-08-07; es); passages p0013, p0014, p0015, p0018. [Structured record](../../records/src-7de438650c41.json).
+
+### src-7de438650c41-c03
+
+She says authorities use public metadata and interests to tailor messages and control groups; she characterizes New Age spirituality as controlled religion.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [INFILTRACIÓN EN LOS CÍRCULOS UFOLÓGICOS Y ESPIRITUALES -Athena Swaruu](https://swaruu.org/transcripts/infiltracion-en-los-circulos-ufologicos-y-espirituales-athena-swaruu) (2023-08-07; es); passages p0017. [Structured record](../../records/src-7de438650c41.json).
+
+### src-a4adffb6f3a6-c02
+
+Swaruu X (Athena) alleges foreign forces occupied evacuated villages near Popocatépetl and interprets shallow magma, surface electromagnetic points, and explosives as signs of artificial triggering or intensification. Her account is unverified; she says the public does not know.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Erupción del Popocatépetl México - Actividad Militar - Athena Swaruu](https://swaruu.org/transcripts/erupcion-del-popocatepetl-mexico-actividad-militar-athena-swaruu) (2023-06-18; es); passages p0005, p0006, p0007, p0011. [Structured record](../../records/src-a4adffb6f3a6.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-bad1e627f547-c01
+
+Swaruu X (Athena) claims the Maui fires were deliberately started to displace residents and enable reconstruction under a 15-minute-city program by 2030. She attributes the plan to the US government.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [QUE HAY DETRÁS DE LOS INCENDIOS DE LA ISLA DE MAUI - Athena Swaruu](https://swaruu.org/transcripts/que-hay-detras-de-los-incendios-de-la-isla-de-maui-athena-swaruu) (2023-08-18; es); passages p0003, p0034, p0004. [Structured record](../../records/src-bad1e627f547.json).
+
+### src-bad1e627f547-c02
+
+Swaruu X (Athena) describes 15-minute cities as confinement zones enforced by police and military, with costly, temporary permission to leave. She presents climate policy as the stated rationale.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [QUE HAY DETRÁS DE LOS INCENDIOS DE LA ISLA DE MAUI - Athena Swaruu](https://swaruu.org/transcripts/que-hay-detras-de-los-incendios-de-la-isla-de-maui-athena-swaruu) (2023-08-18; es); passages p0004, p0008, p0018, p0030. [Structured record](../../records/src-bad1e627f547.json).
+
+### src-bad1e627f547-c03
+
+Swaruu X (Athena) says flamethrower-equipped drones were detected in Maui and Spain and used to ignite fires; she says only some reports involve energy weapons. Unverified account.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [QUE HAY DETRÁS DE LOS INCENDIOS DE LA ISLA DE MAUI - Athena Swaruu](https://swaruu.org/transcripts/que-hay-detras-de-los-incendios-de-la-isla-de-maui-athena-swaruu) (2023-08-18; es); passages p0012, p0014, p0036. [Structured record](../../records/src-bad1e627f547.json).
+
+### src-4a2d4df80743-c01
+
+Swaruu X (Athena) says the Maui fires were deliberately caused to displace residents and rebuild under a 15-minute-city program. She attributes it to the US government and 2030 Agenda.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena Swaruu](https://swaruu.org/transcripts/que-esta-pasando-en-maui-hawai-porque-los-fuegos-charla-con-athena-swaruu) (2023-08-18; es); passages p0003, p0022. [Structured record](../../records/src-4a2d4df80743.json).
+
+### src-4a2d4df80743-c02
+
+Swaruu X (Athena) says these cities would restrict residents to assigned areas, with costly exits enforced by police and military under a climate rationale. She says Hawaii is an early target.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena Swaruu](https://swaruu.org/transcripts/que-esta-pasando-en-maui-hawai-porque-los-fuegos-charla-con-athena-swaruu) (2023-08-18; es); passages p0004, p0011. [Structured record](../../records/src-4a2d4df80743.json).
+
+### src-4a2d4df80743-c03
+
+Swaruu X (Athena) claims drones with flamethrowers were detected in Maui and Spain and used to start fires; only some cases involve energy weapons. Unverified.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Que esta pasando en Maui, Hawai? Porque los Fuegos? Charla con Athena Swaruu](https://swaruu.org/transcripts/que-esta-pasando-en-maui-hawai-porque-los-fuegos-charla-con-athena-swaruu) (2023-08-18; es); passages p0006, p0007. [Structured record](../../records/src-4a2d4df80743.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -3837,6 +4191,30 @@ Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLAR
 - [src-04de255f76ef-c03](ukraine.md#src-04de255f76ef-c03) — Ukraine
 - [src-04de255f76ef-c04](ukraine.md#src-04de255f76ef-c04) — Ukraine
 - [src-88d2f8fd434d-c03](pluto.md#src-88d2f8fd434d-c03) — Pluto
+- [src-73fc78d38b70-c01](false-alien-invasion.md#src-73fc78d38b70-c01) — False alien invasion scenarios
+- [src-536cd29a42e2-c01](weather-control.md#src-536cd29a42e2-c01) — Weather control systems
+- [src-536cd29a42e2-c02](engineered-social-unrest.md#src-536cd29a42e2-c02) — Engineered social unrest
+- [src-1917bcf83880-c01](aggressive-telepathy.md#src-1917bcf83880-c01) — Aggressive telepathy
+- [src-2d6710ddd4d1-c01](aggressive-telepathy.md#src-2d6710ddd4d1-c01) — Aggressive telepathy
+- [src-da87bb825247-c05](galactic-federation.md#src-da87bb825247-c05) — Galactic Federation
+- [src-79a34eaa59b0-c01](galactic-federation.md#src-79a34eaa59b0-c01) — Galactic Federation
+- [src-3e6bb19f0b7f-c02](false-alien-invasion.md#src-3e6bb19f0b7f-c02) — False alien invasion scenarios
+- [src-bfdd0f4cda51-c03](archons-and-demons.md#src-bfdd0f4cda51-c03) — Archons and demons
+- [src-e62f2a423b11-c01](galactic-federation.md#src-e62f2a423b11-c01) — Galactic Federation
+- [src-6f1a8a7d6452-c02](false-alien-invasion.md#src-6f1a8a7d6452-c02) — False alien invasion scenarios
+- [src-06b35bd6dc5f-c03](consciousness-metaphysics.md#src-06b35bd6dc5f-c03) — Consciousness and metaphysics
+- [src-d6433743ab20-c02](starseeds.md#src-d6433743ab20-c02) — Starseeds
+- [src-9987cea5f9c3-c01](galactic-federation.md#src-9987cea5f9c3-c01) — Galactic Federation
+- [src-2f1a34ed22b2-c01](false-alien-invasion.md#src-2f1a34ed22b2-c01) — False alien invasion scenarios
+- [src-a602cffec533-c02](consciousness-metaphysics.md#src-a602cffec533-c02) — Consciousness and metaphysics
+- [src-742d06b0c285-c02](consciousness-metaphysics.md#src-742d06b0c285-c02) — Consciousness and metaphysics
+- [src-b560693dd466-c01](galactic-federation.md#src-b560693dd466-c01) — Galactic Federation
+- [src-531dd2c83cf3-c02](starseed-guides.md#src-531dd2c83cf3-c02) — Starseed guides
+- [src-fc7b65e81f10-c04](galactic-federation.md#src-fc7b65e81f10-c04) — Galactic Federation
+- [src-518eb9044e55-c01](galactic-federation.md#src-518eb9044e55-c01) — Galactic Federation
+- [src-518eb9044e55-c02](false-alien-invasion.md#src-518eb9044e55-c02) — False alien invasion scenarios
+- [src-7fecc6636778-c03](false-alien-invasion.md#src-7fecc6636778-c03) — False alien invasion scenarios
+- [src-b2b1511e840d-c03](consciousness-metaphysics.md#src-b2b1511e840d-c03) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -3849,10 +4227,13 @@ Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLAR
 - COVID-and-vaccine-claims-omitted
 - Claims about alien craft, agencies, and political agendas are attributed speculation.
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about contemporary institutions or external events reflect the speaker’s interpretation.
 - Claims about hidden councils and planetary bases are attributed to Mari Swaruu.
 - Claims about secret societies, media manipulation, and resets are attributed to Mari Swaruu.
+- Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
 - Claims about the 2022 war and alleged false flags are attributed to Swaruu X (Athena); her account is not independently evidenced in the transcript.
 - Claims about the 2022 war and alleged media staging are attributed to Swaruu X (Athena); the transcript provides no independent evidence.
+- Claims present the speakers’ allegations and forecasts, not independently established facts.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
@@ -3870,6 +4251,7 @@ Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLAR
 - High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - Higher-level free-will explanation is challenged by Gosia
 - Internet-blackout prediction is explicitly uncertain.
+- Invasion and government-control claims are attributed to Mari Swaruu.
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - Leader-contact claim is attributed to Asket in this transcript.
 - Maitre\_relationship\_with\_Reptilians
@@ -3885,9 +4267,16 @@ Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLAR
 - Reptilian claims about a public figure are attributed to Yazhi and not independently verified.
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Resource-seeking distinction is level-dependent in Anéeka’s account
+- Substantial thematic overlap with src-bad1e627f547; this separate Spanish transcript has distinct provenance.
+- The CIA and New Age infiltration statements are attributed allegations by the speakers.
 - The alleged CIA organization is explicitly called speculation and unsupported by precise evidence in the interview.
+- The article contains conspiracy narratives about health policy and institutions; these are not included as factual claims.
+- The article presents an unverifiable extraterrestrial political-control narrative; claims are retained as attributed lore.
+- The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
+- The document also contains a separate 2021 Aneeka conversation; claims here are attributed only to the named speakers.
 - The report makes contested geopolitical allegations; claims are recorded as attributed statements, not verified facts.
+- The source’s allegations about the Maui disaster and named agencies are unverified and are recorded only as the speaker’s claims.
 - The two exchanges differ on the number of Federation bases on Pluto: p0003 says at least three, while p0009 describes one large base as the only physical feature; the discrepancy is unresolved.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - Time-bound 2021 prediction; no outcome asserted.
@@ -4054,6 +4443,7 @@ Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLAR
 - historical\_and\_nuclear\_claims\_unverified
 - human-gravity-design-claim
 - humanomorph-is-source-specific-term
+- hypothetical-future-scenario
 - ideological-commentary
 - incomplete-investigation
 - institutional\_conspiracy\_claims
@@ -4128,10 +4518,12 @@ Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLAR
 - political-narrative\_attributed
 - political\_conspiracy\_claims
 - population-control-allegations
+- possible-near-duplicate-src-1917bcf83880
 - post-eclipse-causal-attribution
 - prior\_statement\_conflict
 - protest\_operation\_allegations
 - quarantine-policy-vs-practice
+- real-world-disaster-causation-allegation
 - reincarnation-cosmology
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
@@ -4170,6 +4562,7 @@ Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLAR
 - tension:planned-outcomes-vs-human-agency
 - terrestrial-history-claims-unverified
 - terrestrial-science-claims
+- terrestrial-technology-claims-unverified
 - time-bound-prediction
 - time\_travel\_lore
 - timeline-branching-claims

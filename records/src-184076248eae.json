@@ -1,0 +1,36 @@
+{
+  "source_id": "src-184076248eae",
+  "snapshot_sha256": "90098a4f9502b0117880f2170e7a7d8f0a7e29248147b95f29d7b8ca5299b2ae",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-184076248eae-c01",
+      "assertion": "Mari Swa says forced reincarnation may be experienced by some souls but not others, depending on their beliefs and what they manifest.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0017", "p0018", "p0020"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "timeline-branching"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She explicitly presents this as her opinion and personal framework."
+    },
+    {
+      "id": "src-184076248eae-c02",
+      "assertion": "Mari also argues that controllers shape collective beliefs and perceptions, which can lead people to accept reincarnation-related belief systems.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0021", "p0022", "p0024"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her conspiratorial explanation of perceived coercion."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source frames spiritual and conspiratorial claims as opinion and entertainment; they are unverified."
+  ],
+  "coverage_gaps": [
+    "The talk also defines souls through ideas and discusses beliefs about postmortem experience."
+  ]
+}

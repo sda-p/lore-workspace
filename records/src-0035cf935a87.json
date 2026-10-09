@@ -1,0 +1,112 @@
+{
+  "source_id": "src-0035cf935a87",
+  "snapshot_sha256": "bcf99caac6e2e123dfdd2c0b1d6774a8b201338f2354445262394b3960c630bf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0035cf935a87-c01",
+      "assertion": "Rashell says Taygetan emotions manifest physically faster and links this to Swaruu’s heart and eye problems.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0035cf935a87-c02",
+      "assertion": "Rashell says a medical pod restores the body but not emotional causes without lifestyle changes.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0044"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0035cf935a87-c03",
+      "assertion": "Swaruu (9) calls 5D–7D distinctions human concepts within a continuous frequency gradient.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0173"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0035cf935a87-c04",
+      "assertion": "Rashell claims Swaruu jumps timelines by ship and remembers multiple timelines.",
+      "speaker": "Rashell",
+      "paragraph_ids": [
+        "p0187"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0035cf935a87-c05",
+      "assertion": "Khila says two Hashmallim units and four fighter ships arrived to protect and assess Swaruu.",
+      "speaker": "Khila",
+      "paragraph_ids": [
+        "p0241",
+        "p0242"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0035cf935a87-c06",
+      "assertion": "Swaruu (9) says Alenym cannot leave her ship while a threat endangers her life.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0230"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Source shifts among speakers, dates, and a partly English-origin conversation; preserve attribution by passage."
+  ],
+  "coverage_gaps": [
+    "Swaruu's timeline claims and esoteric importance are discussed at length",
+    "contact protocols and Hashmallim operational details"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_id": "src-d77843ceb7e2",
+  "snapshot_sha256": "d00ce76fd8a8231e9fb3e7d33707453fb4b3f97b8bde25ef341077513321fc47",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d77843ceb7e2-c01",
+      "assertion": "Mari says dreams are experiences in astral realms as biological filtering weakens during sleep; the brain still filters perception, while death removes that filter.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0014",
+        "p0016",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She treats dream experience as real to the dreamer."
+    },
+    {
+      "id": "src-d77843ceb7e2-c02",
+      "assertion": "Mari says dream experiences reflect the sleeper’s attention, emotions, desires, and frequency, which shape the realms and events experienced.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0023"
+      ],
+      "primary_topic": "astral-travel",
+      "topics": [
+        "astral-travel",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says waking-life concerns influence dreams but do not fully explain them."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "silver cord claims and astral encounters",
+    "dream control and interpretation"
+  ]
+}

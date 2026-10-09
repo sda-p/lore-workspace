@@ -1,0 +1,56 @@
+{
+  "source_id": "src-afe6e8af2447",
+  "snapshot_sha256": "158b1c28a6ec81af81d9c2ea3c163e7767482caba2a0a869b0cfb0517948945c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-afe6e8af2447-c01",
+      "assertion": "Anéeka and Swaruu (9) say Pleiadian life exists beyond Earth's perceptual range, and terrestrial time cannot determine its age.",
+      "speaker": "Anéeka; Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Swaruu (9) says her group recognizes nine Pleiades stars and describes time as relative."
+    },
+    {
+      "id": "src-afe6e8af2447-c02",
+      "assertion": "In 2023, Yazhi reframes 3D and 5D as observer-dependent perceptions rather than actual densities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this changes how one interprets claims that human instruments cannot perceive Pleiadian life."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The earlier speakers describe Pleiadian life as 5D and hidden from 3D perception; Yazhi's 2023 section says densities are only perceptions, presenting a chronological conceptual revision or tension."
+  ],
+  "coverage_gaps": [
+    "claims about stellar spectroscopy and the space medium",
+    "migration history in M45"
+  ]
+}

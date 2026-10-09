@@ -1,0 +1,104 @@
+{
+  "source_id": "src-4dbc0136de84",
+  "snapshot_sha256": "ef695c4ea599f61680e5a47a6e6442c76798f975254669a7c9b4c544a89d0722",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4dbc0136de84-c01",
+      "assertion": "Anéeka says Toleka was about 700,000 km from Earth and used muon communications.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4dbc0136de84-c02",
+      "assertion": "Anéeka reports Yazhi teleporting, passing through titanium, moving rapidly, and changing apparent age.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0021"
+      ],
+      "primary_topic": "teleportation",
+      "topics": [
+        "teleportation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4dbc0136de84-c03",
+      "assertion": "Yazhi says she uses a tractor beam and computer interface to restore pantry contents from an earlier time, not replicate food.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0075",
+        "p0081",
+        "p0083",
+        "p0085"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4dbc0136de84-c04",
+      "assertion": "Yazhi says time manipulation lets her avoid aging or growing like others in her current body.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0090",
+        "p0092",
+        "p0096"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4dbc0136de84-c05",
+      "assertion": "Anéeka and Nai'Shara describe time manipulation as the basis of Yazhi’s abilities and density control.",
+      "speaker": "Anéeka and Nai'Shara",
+      "paragraph_ids": [
+        "p0052",
+        "p0053",
+        "p0054",
+        "p0055"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "perceptual-density"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The crew's initial descriptions of anomalies and Yazhi's own tractor-beam explanation are distinct attributions."
+  ],
+  "coverage_gaps": [
+    "Yazhi's reported identity relation to Swaruu",
+    "tree communication and other anomalous abilities"
+  ]
+}

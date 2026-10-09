@@ -1,0 +1,66 @@
+{
+  "source_id": "src-a08a91afe77a",
+  "snapshot_sha256": "2d2a53fd64a127847f064b444ff9788abbdb99072e4f4d5002e4e6d430f53f17",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a08a91afe77a-c01",
+      "assertion": "Mari reports more Orion Greys near Earth after Etorthan arrival; the Urmah warn of a possible passive regional takeover.",
+      "speaker": "Mari Swaruu, relaying her group’s view and Urmah warning",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "orion-council",
+      "topics": [
+        "orion-council",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Federation calls them diplomatic."
+    },
+    {
+      "id": "src-a08a91afe77a-c02",
+      "assertion": "Mari says Zeta Gardeners guard planetary biology and conduct medical abductions; similar greys may be cultureless biological drones.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "synthetic-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls Zetas relatively harmless but disrespectful."
+    },
+    {
+      "id": "src-a08a91afe77a-c03",
+      "assertion": "Taygetan quantum computers cannot connect to human digital systems or internet; Mari says biological crew make decisions and interact online.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "holographic-computers",
+      "topics": [
+        "holographic-computers",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes Taygetan AI as cooperative."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Toleka repairs and channel funding omitted"
+  ]
+}

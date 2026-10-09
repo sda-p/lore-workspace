@@ -1,0 +1,64 @@
+{
+  "source_id": "src-df8e53d808b9",
+  "snapshot_sha256": "afa689db38d003951d83bfdb199decface2e82b574e819f35d1551946ebf5c9a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-df8e53d808b9-c01",
+      "assertion": "Mari says the CIC filters social media and helps her produce videos with translation, artwork, technical support and advice.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "taygetan-cic",
+      "topics": [
+        "taygetan-cic",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She works largely in isolation."
+    },
+    {
+      "id": "src-df8e53d808b9-c02",
+      "assertion": "Mari says Taygeta eats only plants, while her group relies on Earth food and supplies; Saska 1 brings no human goods.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "They buy Earth items legally, she says."
+    },
+    {
+      "id": "src-df8e53d808b9-c03",
+      "assertion": "Mari says the Federation stopped funding Taygetan Earth operations, and her channel income cannot cover their needs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says she supports other crew members."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other channel and group-history claims omitted"
+  ]
+}

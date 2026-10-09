@@ -1,0 +1,52 @@
+{
+  "source_id": "src-0ae97daa9913",
+  "snapshot_sha256": "922b0e6e00d428e840bf4b82b2e144efce4976dfce7b0ddfe15bb67c4c85d241",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0ae97daa9913-c01",
+      "assertion": "Mari says the Galactic Federation claims Earth and Reptilian societies must remain isolated for different reasons; it portrays Reptilians as aggressive and says it does not control them.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0009"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Reptilians are more aware of galactic society than Earth’s human population."
+    },
+    {
+      "id": "src-0ae97daa9913-c02",
+      "assertion": "Mari describes Reptilian groups as morally diverse, including positive, protective civilizations; she says some have representatives near Earth and may protect their starseeds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "alpha-draconians",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says positive Reptilians may avoid open contact because humans could fear their appearance."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Reptilian portal technology",
+    "reported abduction experiences"
+  ]
+}

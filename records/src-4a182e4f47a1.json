@@ -1,0 +1,66 @@
+{
+  "source_id": "src-4a182e4f47a1",
+  "snapshot_sha256": "2945c2c26354d75932bfd3ecd8958e4ab5227e03dba06c703e40e9981ec4c674",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4a182e4f47a1-c01",
+      "assertion": "Swaruu X (Athena) calls congressional UFO disclosures staged and says officials release basic details gradually to gauge public reaction.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says public testimony is treated as evidence without substantive material support."
+    },
+    {
+      "id": "src-4a182e4f47a1-c02",
+      "assertion": "Athena says UFO disclosure may distract the public or precede a false alien invasion, though that outcome is uncertain.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0023"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "extraterrestrial-contact"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She allows the disclosure push could instead lose momentum."
+    },
+    {
+      "id": "src-4a182e4f47a1-c03",
+      "assertion": "Athena says authorities seek to standardize information about extraterrestrials and regulate what others, including extraterrestrials, can say.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Robert summarizes this as narrative control, which Athena affirms."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Greer and Grusch comparisons",
+    "claimed disclosure source coordination"
+  ]
+}

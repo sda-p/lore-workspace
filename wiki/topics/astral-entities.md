@@ -86,11 +86,123 @@ Source: [Información Extraterrestre - Minitemas con Gosia de Agencia Cósmica](
 
 Related topics: [Natural and artificial portals](natural-portals.md).
 
+### src-3e6bb19f0b7f-c01
+
+Athena says decisive conflicts occur in the astral, with physical wars generating energy that feeds astral beings.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ES EL ASTRAL EN DONDE SE GENERAN LOS COMBATES MÁS DECISIVOS Y OTRAS PREGUNTAS](https://swaruu.org/transcripts/es-el-astral-en-donde-se-generan-los-combates-mas-decisivos-y-otras-preguntas) (2023-08-16; es); passages p0003, p0007, p0009. [Structured record](../../records/src-3e6bb19f0b7f.json).
+
+Related topics: [Astral Travel](astral-travel.md).
+
+### src-082f8780849b-c02
+
+She says low-astral groups exploit fearful living people and animals for energy and manifestation power. She describes these groups as including entities that were never embodied.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Fantasmas, Apariciones, Espíritus y Espectros, Parte 2](https://swaruu.org/transcripts/fantasmas-apariciones-espiritus-y-espectros-parte-2) (2023-09-18; es); passages p0027, p0028, p0029. [Structured record](../../records/src-082f8780849b.json).
+
+Related topics: [Interdimensional parasites](interdimensional-parasites.md).
+
+### src-082f8780849b-c03
+
+Mari says loving, recently deceased people may protect living relatives from negative astral entities. She attributes this to the deceased person's higher vibration.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Fantasmas, Apariciones, Espíritus y Espectros, Parte 2](https://swaruu.org/transcripts/fantasmas-apariciones-espiritus-y-espectros-parte-2) (2023-09-18; es); passages p0030, p0031, p0032. [Structured record](../../records/src-082f8780849b.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f22ac19341d2-c02
+
+She describes lower astral realms as low-frequency and aligned with separation and fear, while higher realms approach Source-like love and integration. She says entities match realms through compatible vibration.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Astral](https://swaruu.org/transcripts/el-astral) (2023-08-09; es); passages p0021, p0022, p0023. [Structured record](../../records/src-f22ac19341d2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-64deed76c0cf-c02
+
+She describes astral beings as including energy-feeding parasites, larger intelligent entities, and disembodied souls attached to earthly life. She notes ghostlike appearances may have multiple causes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Apegos e Infestaciones de Entidades Asrales, Parte 1](https://swaruu.org/transcripts/apegos-e-infestaciones-de-entidades-asrales-parte-1) (2023-06-18; es); passages p0017, p0018, p0020, p0022. [Structured record](../../records/src-64deed76c0cf.json).
+
+Related topics: [Interdimensional parasites](interdimensional-parasites.md), [Postmortem realities](postmortem-realities.md).
+
+### src-39a9c48cca4f-c01
+
+Mari says ghosts and apparitions exist; some are deceased people’s astral bodies, while others may be hostile entities or egregors. She acknowledges mysteries remain.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Fantasmas, apariciones, espíritus y espectros, Contexto Necesario. Parte 1](https://swaruu.org/transcripts/fantasmas-apariciones-espiritus-y-espectros-contexto-necesario-parte-1) (2023-09-16; es); passages p0003, p0004, p0007, p0009. [Structured record](../../records/src-39a9c48cca4f.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md), [Egregors](egregors.md).
+
+### src-f81260545800-c02
+
+Mari Swaruu warns that cemeteries may host lower-astral entities that can attach to living visitors, particularly children. This is her account, not established evidence.
+
+Attributed to **Swaruu de Erra (text read by Mari Swaruu)**; asserted; extraction confidence: high.
+
+Source: [Problemas de las Semillas Estelares, Parte 3, Lugares / Entidades Astrales, Alcohol y Más](https://swaruu.org/transcripts/problemas-de-las-semillas-estelares-parte-3-lugares-entidades-astrales-alcohol-y-mas) (2023-06-04; es); passages p0028, p0029, p0030, p0031. [Structured record](../../records/src-f81260545800.json).
+
+### src-f81260545800-c03
+
+Mari Swaruu says advanced civilizations can detect astral entities using interferometers, gravity and mass shifts, and advanced optical lenses; she suspects human systems can too. The human-technology claim is explicitly her suspicion.
+
+Attributed to **Swaruu de Erra (text read by Mari Swaruu)**; reported; extraction confidence: medium.
+
+Source: [Problemas de las Semillas Estelares, Parte 3, Lugares / Entidades Astrales, Alcohol y Más](https://swaruu.org/transcripts/problemas-de-las-semillas-estelares-parte-3-lugares-entidades-astrales-alcohol-y-mas) (2023-06-04; es); passages p0042, p0043. [Structured record](../../records/src-f81260545800.json).
+
+### src-0aac3dd46daa-c03
+
+Athena says low-frequency states invite negative entities that implant thoughts or manipulate energy, while higher-frequency connections may be supportive.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DUENDES ADAS SIRENAS DRAGONES - PROTEGIENDO TU ENERGÍA CONTRA INFLUENCIAS NEGATIVAS](https://swaruu.org/transcripts/duendes-adas-sirenas-dragones-protegiendo-tu-energia-contra-influencias-negativas) (2023-06-26; es); passages p0010, p0020, p0021. [Structured record](../../records/src-0aac3dd46daa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-70151b61ae43-c03](tulpas.md#src-70151b61ae43-c03) — Tulpas
 - [src-cadb5ca8cdb8-c05](consciousness-metaphysics.md#src-cadb5ca8cdb8-c05) — Consciousness and metaphysics
+- [src-082f8780849b-c01](consciousness-metaphysics.md#src-082f8780849b-c01) — Consciousness and metaphysics
+- [src-bfdd0f4cda51-c01](archons-and-demons.md#src-bfdd0f4cda51-c01) — Archons and demons
+- [src-e62f2a423b11-c03](urmah.md#src-e62f2a423b11-c03) — Urmah
+- [src-65222f668774-c01](interdimensional-parasites.md#src-65222f668774-c01) — Interdimensional parasites
+- [src-65222f668774-c02](interdimensional-parasites.md#src-65222f668774-c02) — Interdimensional parasites
+- [src-e0d85326bb47-c01](astral-military-units.md#src-e0d85326bb47-c01) — Astral military units
+- [src-64deed76c0cf-c01](perceptual-density.md#src-64deed76c0cf-c01) — Perceptual density
+- [src-64deed76c0cf-c03](interdimensional-parasites.md#src-64deed76c0cf-c03) — Interdimensional parasites
+- [src-39a9c48cca4f-c03](postmortem-realities.md#src-39a9c48cca4f-c03) — Postmortem realities
+- [src-d522bad591d5-c01](shadow-people.md#src-d522bad591d5-c01) — Shadow People
+- [src-d522bad591d5-c02](shadow-people.md#src-d522bad591d5-c02) — Shadow People
+- [src-0c4c4d1e9b67-c01](perceptual-density.md#src-0c4c4d1e9b67-c01) — Perceptual density
+- [src-0c4c4d1e9b67-c02](archons-and-demons.md#src-0c4c4d1e9b67-c02) — Archons and demons
+- [src-0c4c4d1e9b67-c03](archons-and-demons.md#src-0c4c4d1e9b67-c03) — Archons and demons
+- [src-f81260545800-c01](ley-line-energy-nodes.md#src-f81260545800-c01) — Ley-line energy nodes
+- [src-bd9e003dba4d-c03](lush-feeding-entities.md#src-bd9e003dba4d-c03) — Fear-fed egregore entities
+- [src-52a4911db286-c03](egregors.md#src-52a4911db286-c03) — Egregors
+- [src-0aac3dd46daa-c01](consciousness-metaphysics.md#src-0aac3dd46daa-c01) — Consciousness and metaphysics
+- [src-0aac3dd46daa-c02](elementals.md#src-0aac3dd46daa-c02) — Elementals
+- [src-ab60202e760e-c04](consciousness-metaphysics.md#src-ab60202e760e-c04) — Consciousness and metaphysics
+- [src-c770aad74bc9-c01](consciousness-metaphysics.md#src-c770aad74bc9-c01) — Consciousness and metaphysics
+- [src-1890fe5b32b8-c04](astral-travel.md#src-1890fe5b32b8-c04) — Astral Travel
+- [src-c504ffb5de14-c04](artificial-portals.md#src-c504ffb5de14-c04) — Artificial portals
 
 ## Review flags
 
+- Biological, medical, and paranormal claims are attributed to the named speakers and are not established facts.
 - Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
+- The author presents telepathy and thought-form manifestation as factual; these claims remain attributed.
+- The source presents spiritual and paranormal claims as fact; preserve attribution.

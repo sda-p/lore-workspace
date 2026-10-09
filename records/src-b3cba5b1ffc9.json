@@ -1,0 +1,106 @@
+{
+  "source_id": "src-b3cba5b1ffc9",
+  "snapshot_sha256": "28a277993cd7568072b09151811d17982b84ad2ef3f6d077e1026a6195a562bd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b3cba5b1ffc9-c01",
+      "assertion": "Anéeka says scalar pulses can briefly match shield harmonics; Taygetans switched to scalar shields.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "harmonic-shields",
+      "topics": [
+        "harmonic-shields",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Damage was slight."
+    },
+    {
+      "id": "src-b3cba5b1ffc9-c02",
+      "assertion": "Anéeka describes layered shields and polymorphic-titanium hulls up to 90 centimeters thick.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "harmonic-shields"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Critical areas reach two meters."
+    },
+    {
+      "id": "src-b3cba5b1ffc9-c03",
+      "assertion": "Anéeka says ship internet links devices via shared Federation satellites and muon transmission.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0022"
+      ],
+      "primary_topic": "muonic-galactic-ai-network",
+      "topics": [
+        "muonic-galactic-ai-network",
+        "muon-gravity-communications",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Holographic systems need conversion."
+    },
+    {
+      "id": "src-b3cba5b1ffc9-c04",
+      "assertion": "Athena says craft design depends on function; Suzy ships often use skis despite antigravity.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0103",
+        "p0104"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "suzy-class-starships"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b3cba5b1ffc9-c05",
+      "assertion": "Swaruu (9) says ships can last millennia, but crew fatigue and isolation limit missions.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0114",
+        "p0115",
+        "p0116",
+        "p0117"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "total-immersion-simulations"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Immersive simulations help."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "missile interception, plasma weapons, and Urmah and Centauri ship designs"
+  ]
+}

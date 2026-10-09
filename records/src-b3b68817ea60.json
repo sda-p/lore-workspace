@@ -1,0 +1,52 @@
+{
+  "source_id": "src-b3b68817ea60",
+  "snapshot_sha256": "3c97e9043f19c49c0d0a5b2be0f5ae282b3bc8ca4a5b63c77ac74dc66d0576dc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b3b68817ea60-c01",
+      "assertion": "Mari Swa says Taygetan investigators linked a pathogen allegedly used against Queen Alenym to a laboratory aboard a Saturn-orbiting Federation biosphere ship.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "saturn-bases",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The source presents an allegation and says evidence was submitted to local councils."
+    },
+    {
+      "id": "src-b3b68817ea60-c02",
+      "assertion": "Mari reports that the Toleka flagship would leave Earth orbit for repairs and that she would move her headquarters to Sadicleya.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0020",
+        "p0024",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She attributes the move to Toleka’s age and recurring system problems."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The video advances unverified claims about an assassination attempt, extraterrestrial actors, and alleged pathogen development."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss alleged timeline intervention and technical problems aboard the Toleka."
+  ]
+}

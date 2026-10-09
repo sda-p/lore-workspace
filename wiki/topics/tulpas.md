@@ -233,6 +233,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-72f8c6904500-c02](consciousness-metaphysics.md#src-72f8c6904500-c02) — Consciousness and metaphysics
 - [src-8636b4bb3446-c04](earth-cabal.md#src-8636b4bb3446-c04) — Earth Cabal and power structures
 - [src-98f45fed7656-c04](earth-cabal.md#src-98f45fed7656-c04) — Earth Cabal and power structures
+- [src-4bf388da9fd3-c03](egregors.md#src-4bf388da9fd3-c03) — Egregors
 
 ## Review flags
 

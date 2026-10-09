@@ -1,0 +1,51 @@
+{
+  "source_id": "src-3c6d31174c4d",
+  "snapshot_sha256": "ae8ebf3ae36af7764fd06cda578af36fdd59dd47fd73c9084f2efc4ec3ff2df7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3c6d31174c4d-c01",
+      "assertion": "Yazhi says Taygetan participants will anonymously share ideas across online spaces to influence society toward positive values.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0022",
+        "p0026",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The project is still in progress."
+    },
+    {
+      "id": "src-3c6d31174c4d-c02",
+      "assertion": "Yazhi says the project aims to influence culture without promoting extraterrestrial contact or advanced technology, under First Directive limits.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0038",
+        "p0042"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says these participants’ influence adds to that of incarnated starseeds."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Project details are attributed to Yazhi and described as still developing."
+  ],
+  "coverage_gaps": [
+    "Participant numbers and training plans"
+  ]
+}

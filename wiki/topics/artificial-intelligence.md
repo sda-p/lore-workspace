@@ -428,11 +428,13 @@ Source: [La inteligencia artificial en la Tierra.](https://swaruu.org/transcript
 - [src-66eb347ad466-c04](borg.md#src-66eb347ad466-c04) — Borg
 - [src-66eb347ad466-c05](borg.md#src-66eb347ad466-c05) — Borg
 - [src-66fb35352fc6-c01](spherical-drones.md#src-66fb35352fc6-c01) — Spherical drones
+- [src-97c055d470ab-c03](hanare-scimitar-fighters.md#src-97c055d470ab-c03) — Hanáre / Scimitar fighters
 
 ## Review flags
 
 - AI-infiltration-speculation-vs-no-invasion-conclusion
 - AI\_capability\_claims\_unverified
+- All spacecraft specifications and operational claims are attributed to Athena.
 - Claims about hidden AI capabilities and control are Mari Swaruu’s assertions.
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.

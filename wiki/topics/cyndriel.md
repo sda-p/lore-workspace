@@ -190,6 +190,36 @@ Source: [Mini Temas - Información Extraterrestre - Tertulia con Gosia](https://
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-c8d611b2d82a-c01
+
+Mari describes Cyndriel as a high-frequency world where stellar radiation supports life and its quiet environment encourages introspection.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Iluminación Espiritual y Cyndriel Aldebaran, un Planeta Místico](https://swaruu.org/transcripts/la-iluminacion-espiritual-y-cyndriel-aldebaran-un-planeta-mistico) (2023-09-10; es); passages p0013, p0015, p0016, p0024, p0027. [Structured record](../../records/src-c8d611b2d82a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c8d611b2d82a-c02
+
+Cyndriel is the only Taygetan colony outside the Pleiades and can be visited as a tourist destination with respect for its inhabitants. She calls them higher-density light beings.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Iluminación Espiritual y Cyndriel Aldebaran, un Planeta Místico](https://swaruu.org/transcripts/la-iluminacion-espiritual-y-cyndriel-aldebaran-un-planeta-mistico) (2023-09-10; es); passages p0028, p0033, p0034. [Structured record](../../records/src-c8d611b2d82a.json).
+
+Related topics: [Taygetans](taygetans.md), [Taygetan ecosystems](taygetan-ecosystems.md).
+
+### src-c8d611b2d82a-c03
+
+She says Cyndriel has an unstable time offset and cannot be reached by artificial portals; travel requires a starship and gradual frequency adjustment. Offset varies by observer.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Iluminación Espiritual y Cyndriel Aldebaran, un Planeta Místico](https://swaruu.org/transcripts/la-iluminacion-espiritual-y-cyndriel-aldebaran-un-planeta-mistico) (2023-09-10; es); passages p0038, p0039, p0042, p0043. [Structured record](../../records/src-c8d611b2d82a.json).
+
+Related topics: [Artificial portals](artificial-portals.md), [Stellar navigation](stellar-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-67f9e11f45a4-c06](amelie.md#src-67f9e11f45a4-c06) — Amelie

@@ -1,0 +1,15 @@
+{
+  "source_id": "src-fdd736de175d",
+  "snapshot_sha256": "aa67df9b22add8dc54128990be242910c6fd1cf244d85e4d977da38369843df5",
+  "language": "es",
+  "claims": [
+    {"id":"src-fdd736de175d-c01","assertion":"Mari says remote-presence computers synchronize data to simulate being in a distant place without physically traveling.","speaker":"Mari Swa (narrator)","paragraph_ids":["p0003","p0008"],"primary_topic":"holographic-computers","topics":["holographic-computers"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-fdd736de175d-c02","assertion":"Mari describes Toleka City's quiet electric vehicles as wirelessly powered with unlimited range, alongside aerial traffic.","speaker":"Mari Swa (narrator)","paragraph_ids":["p0016","p0018"],"primary_topic":"taygetan-wireless-power-grid","topics":["taygetan-wireless-power-grid","electric-vehicles"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-fdd736de175d-c03","assertion":"Residents used special glasses to identify that Mari was present remotely rather than physically in the city.","speaker":"Mari Swa (narrator)","paragraph_ids":["p0027","p0028"],"primary_topic":"holographic-computers","topics":["holographic-computers"],"modality":"reported","confidence":"high","qualifiers":""},
+    {"id":"src-fdd736de175d-c04","assertion":"Mari's two Shinonim guards followed her disguised as civilians and later collected her in a Taygetan armored vehicle.","speaker":"Mari Swa (narrator)","paragraph_ids":["p0007","p0029","p0031"],"primary_topic":"taygetans","topics":["taygetans"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-fdd736de175d-c05","assertion":"Mari describes Toleka City's leaf-shaped, wind-twisting skyscrapers and a coastline of quartz and amethyst rocks.","speaker":"Mari Swa (narrator)","paragraph_ids":["p0011","p0014"],"primary_topic":"taygetan-ecosystems","topics":["taygetan-ecosystems"],"modality":"asserted","confidence":"high","qualifiers":""}
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["social response and meeting residents", "remote-presence APC and details of the royal security team"]
+}

@@ -1,0 +1,68 @@
+{
+  "source_id": "src-2827f10aa2f1",
+  "snapshot_sha256": "3349a324809331d39ffbf9a03dc5d61339e99c0271f95da25958dab8b608d0c3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2827f10aa2f1-c01",
+      "assertion": "Gosia argues stellar-navigation lessons also illustrate manifestation: matching one’s vibration to a destination parallels a ship matching its frequency.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2827f10aa2f1-c02",
+      "assertion": "Gosia says Taygetans treat technical and spiritual learning as connected parts of holistic growth.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0009",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2827f10aa2f1-c03",
+      "assertion": "Gosia says sharing technical knowledge may help future specialists develop technologies for wider human benefit.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0018",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims in this essay are Gosia’s commentary about technical education and Taygetan material."
+  ],
+  "coverage_gaps": [
+    "Examples of future application and collective manifestation"
+  ]
+}

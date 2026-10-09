@@ -1,0 +1,84 @@
+{
+  "source_id": "src-53866cce2150",
+  "snapshot_sha256": "3705893018005c330e934234c04771c546ed5946ac67b22fca3c632f4b880f0e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-53866cce2150-c01",
+      "assertion": "Mari says Second Contact agents will pose as humans and seed information without publicly disclosing their origin.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010",
+        "p0016"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Medical science forums were excluded; some alternative-medicine forums were excepted."
+    },
+    {
+      "id": "src-53866cce2150-c02",
+      "assertion": "Mari estimates up to 500 agents worldwide, with encounters likeliest in forums linked to her group.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-53866cce2150-c03",
+      "assertion": "Mari says the project aims to raise humanity's collective vibration, not promote an alien-invasion plan.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "collective-timeline-influence",
+        "false-alien-invasion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She denies her group is connected to invasion plans."
+    },
+    {
+      "id": "src-53866cce2150-c04",
+      "assertion": "Mari says agents avoid confrontation and the Federation bars introducing technology beyond Earth's level.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "project-second-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "warnings about impostors and the risks of searching for agents"
+  ]
+}

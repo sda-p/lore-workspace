@@ -1,0 +1,71 @@
+{
+  "source_id": "src-46bf88241861",
+  "snapshot_sha256": "14c3089b8f39772eb74000fbd6ccb6a8dc18ab4ab128e8fca0d275cd2c6763e5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-46bf88241861-c01",
+      "assertion": "Mari treats time and space as consciousness-dependent perceptions, using a six-dimensional model with three spatial and three temporal dimensions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46bf88241861-c02",
+      "assertion": "Mari argues that history depends on memory and records, which controllers can manipulate; in her model, time jumps cannot revisit an identical past moment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "civilizational-resets",
+      "topics": [
+        "civilizational-resets",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46bf88241861-c03",
+      "assertion": "Mari claims a global reset occurred in the early 19th century, destroying Tartaria, which she describes as a powerful regional nation with global influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "tartaria",
+      "topics": [
+        "tartaria",
+        "civilizational-resets"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "additional proposed reset chronology omitted"
+  ]
+}

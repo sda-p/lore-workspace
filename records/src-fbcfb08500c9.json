@@ -1,0 +1,65 @@
+{
+  "source_id": "src-fbcfb08500c9",
+  "snapshot_sha256": "d07787a3209f82c772bba92a9f2347893b9f0f1dcc70159bfdd7b5183f2a317b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fbcfb08500c9-c01",
+      "assertion": "Mari reports increased Orion Gray activity near Earth and claims some ships used Zeta Gray identification codes.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "orion-grays",
+      "topics": [
+        "orion-grays",
+        "zeta-reticuli-gardeners"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She speculates this could enable abductions under Zeta permissions."
+    },
+    {
+      "id": "src-fbcfb08500c9-c02",
+      "assertion": "Mari says about 500 Taygetan cadets and veterans planned to reinforce Earth orbit, but their Toleka-class ship failed tests and delayed arrival.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fbcfb08500c9-c03",
+      "assertion": "Mari says Earth-based money is needed to support her and a roughly 30-person crew, including food and equipment unavailable aboard ship.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about alleged Federation conduct and communication omitted"
+  ]
+}

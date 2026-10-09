@@ -1,0 +1,48 @@
+{
+  "source_id": "src-9a0544accb20",
+  "snapshot_sha256": "d4aa2ad15f1eadddf1b53b99ca3f7e598ad3652e2fee15f05e2f4531ca29ea08",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9a0544accb20-c01",
+      "assertion": "Mari says a nighttime attack on Taygetan settlers on Procyon killed 45; three survived, and the disaster is taught as a colonization warning.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0042"
+      ],
+      "primary_topic": "procyon",
+      "topics": [
+        "procyon",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She blames poor biological study and a fragile camp."
+    },
+    {
+      "id": "src-9a0544accb20-c02",
+      "assertion": "Mari identifies the attackers as Gunabul, reptilian apex predators that hunt at night and remain a threat in restricted areas.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0036",
+        "p0039"
+      ],
+      "primary_topic": "procyon",
+      "topics": [
+        "procyon",
+        "taygetan-ecosystems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She speculates that Reptilians introduced them."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Procyon naming and colonization",
+    "Gunabul traits and origin",
+    "Taygetan plasma rifle technology"
+  ]
+}

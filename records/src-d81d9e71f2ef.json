@@ -1,0 +1,67 @@
+{
+  "source_id": "src-d81d9e71f2ef",
+  "snapshot_sha256": "5dd691cd3b720a2cecee4389636f43297d8e7ee84de14f7ff96f409b6e80b4d7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d81d9e71f2ef-c01",
+      "assertion": "Mari says Taygetans do not use standard clocks or weekdays at home; Toleka uses Earth-server time for coordination, while crew follows personal rhythms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d81d9e71f2ef-c02",
+      "assertion": "Mari writes daily scripts in English for CIC translation and studies exopolitics with Alenym plus practical ship engineering with chief engineer Zaikira.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0024",
+        "p0026",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "taygetan-cic",
+      "topics": [
+        "taygetan-cic",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d81d9e71f2ef-c03",
+      "assertion": "Mari describes Toleka as a small city orbiting Earth every three hours; the ship simulates night with blinds, dimmed lights and soft sounds.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "ship-internal-time"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says rapid day-night cycles conflict with crew biology."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "daily routine and ship layout details omitted"
+  ]
+}

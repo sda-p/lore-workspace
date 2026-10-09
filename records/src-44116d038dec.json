@@ -1,0 +1,68 @@
+{
+  "source_id": "src-44116d038dec",
+  "snapshot_sha256": "46cd0b53e82758336743af35a9840d1ae57416365cb9c0bb2f19fef8803ef165",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-44116d038dec-c01",
+      "assertion": "Mari says Toleka’s CIC combines internet monitoring with drone-gathered local radio and TV, plus information from the Federation and other species.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "taygetan-cic",
+      "topics": [
+        "taygetan-cic",
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says internet information is highly manipulated."
+    },
+    {
+      "id": "src-44116d038dec-c02",
+      "assertion": "Taygetan computers analyze linked Earth events and orbital activity; crew councils meet at least twice weekly to decide what the data means.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "taygetan-cic",
+      "topics": [
+        "taygetan-cic",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-44116d038dec-c03",
+      "assertion": "Mari says collective public action can redirect Earth’s future, while aligned starseeds share a collective unconscious that supports a more positive timeline.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "starseeds",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says starseeds are supported by their off-world families."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "claims about Agenda 2030, vehicles and agriculture omitted"
+  ]
+}

@@ -2094,6 +2094,204 @@ Source: [TENEMOS ADN EXTRATERRESTRE - CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER
 
 Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 
+### src-b0f5fd41803e-c03
+
+She says Moon access requires special permits, despite Federation military traffic, limiting other species’ inspection.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Luna, parte 4, cómo influye y controla la Matrix de la Tierra, cosas turbias y conclusiones](https://swaruu.org/transcripts/la-luna-parte-4-como-influye-y-controla-la-matrix-de-la-tierra-cosas-turbias-y-conclusiones) (2023-07-14; es); passages p0025, p0026, p0027. [Structured record](../../records/src-b0f5fd41803e.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-2c81dcc2e671-c02
+
+She says a metal lunar hull is hidden by synchronized hologram projectors, though telescopic glitches expose the projection.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Luna, Parte 1, (Con Audio Arreglado)](https://swaruu.org/transcripts/la-luna-parte-1-con-audio-arreglado) (2023-07-04; es); passages p0025, p0026, p0027. [Structured record](../../records/src-2c81dcc2e671.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-2c81dcc2e671-c03
+
+Mari says lunar low-frequency transmissions modulate Earth’s magnetosphere into Van Allen belts; spiritually awakened souls can transcend them.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Luna, Parte 1, (Con Audio Arreglado)](https://swaruu.org/transcripts/la-luna-parte-1-con-audio-arreglado) (2023-07-04; es); passages p0028, p0029. [Structured record](../../records/src-2c81dcc2e671.json).
+
+Related topics: [Van Allen belts](van-allen-belts.md).
+
+### src-86a4669c182d-c02
+
+She says terrestrial day-night clocks coordinate collective time perception, while time itself depends on observer consciousness.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El tiempo y cómo funciona, Parte 2, Líneas temporales](https://swaruu.org/transcripts/el-tiempo-y-como-funciona-parte-2-lineas-temporales) (2023-05-04; es); passages p0011, p0019, p0020, p0021, p0022. [Structured record](../../records/src-86a4669c182d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7b4f6bfe2d36-c01
+
+Za’el presents Earth’s artificial 3D experience as potentially strengthening but unnecessary; it may also compound trauma and suffering. He says this view is not shared by everyone supporting the Matrix.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [La Experiencia en la Tierra, ¿es Positiva?](https://swaruu.org/transcripts/la-experiencia-en-la-tierra-es-positiva) (2023-07-17; es); passages p0012, p0013, p0019, p0021. [Structured record](../../records/src-7b4f6bfe2d36.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c5820758bc75-c02
+
+She says lunar antennas alter Earth's magnetosphere and vibration; four of twelve reactors remain active. Their beams create the Van Allen belts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Luna. Parte 3, cómo influye en la Tierra y su Matrix 3D](https://swaruu.org/transcripts/la-luna-parte-3-como-influye-en-la-tierra-y-su-matrix-3d) (2023-07-12; es); passages p0015, p0016, p0017, p0020. [Structured record](../../records/src-c5820758bc75.json).
+
+Related topics: [Van Allen belts](van-allen-belts.md), [Energy generation technology](energy-generation.md).
+
+### src-05476d7782cb-c01
+
+Athena said the Moon rotates in synchronization with Earth, keeping the same side visible; its phases are real and its hologram is on the Earth-facing side.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL GRAN SECRETO OCULTO DE LA NASA SOBRE LA LUNA - Athena Swaruu](https://swaruu.org/transcripts/el-gran-secreto-oculto-de-la-nasa-sobre-la-luna-athena-swaruu) (2023-07-23; es); passages p0002, p0003, p0004, p0005, p0006, p0007, p0008, p0009. [Structured record](../../records/src-05476d7782cb.json).
+
+### src-05476d7782cb-c02
+
+Although Athena acknowledged earlier accounts of lunar computers inserting events, she said consciousness manifests Earth’s Matrix and lunar systems only condition it. She said their current view remains unclear.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL GRAN SECRETO OCULTO DE LA NASA SOBRE LA LUNA - Athena Swaruu](https://swaruu.org/transcripts/el-gran-secreto-oculto-de-la-nasa-sobre-la-luna-athena-swaruu) (2023-07-23; es); passages p0016, p0017, p0018, p0019, p0020, p0022, p0024, p0037. [Structured record](../../records/src-05476d7782cb.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e285065c4098-c02
+
+Yazhi says a group of surface lenses generates the lunar hologram and that four or fewer of twelve old ionizing reactors power it and the Van Allen belts. This is her attributed cosmology.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Luna - Influencia en las Mujeres - Bandas van Allen, Holograma, y Mas - Yazhi Swaruu](https://swaruu.org/transcripts/luna-influencia-en-las-mujeres-bandas-van-allen-holograma-y-mas-yazhi-swaruu) (2023-07-16; es); passages p0031, p0032. [Structured record](../../records/src-e285065c4098.json).
+
+Related topics: [Van Allen belts](van-allen-belts.md).
+
+### src-e285065c4098-c03
+
+Yazhi claims the Moon’s frequency affects human reproductive cycles and says some Lyrian women can control fertility mentally. Unverified biological claims; presented as lore.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Luna - Influencia en las Mujeres - Bandas van Allen, Holograma, y Mas - Yazhi Swaruu](https://swaruu.org/transcripts/luna-influencia-en-las-mujeres-bandas-van-allen-holograma-y-mas-yazhi-swaruu) (2023-07-16; es); passages p0050, p0051, p0053, p0054. [Structured record](../../records/src-e285065c4098.json).
+
+Related topics: [Lyrians](lyrians.md).
+
+### src-7ab85bafab6b-c02
+
+Yazhi says four or fewer of twelve old ionizing reactors power the lunar hologram and Van Allen belts, with surface lenses generating the hologram. Presented as her cosmology.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE OCULTA LA NASA NI LO SABEN LOS ASTRONAUTAS](https://swaruu.org/transcripts/lo-que-oculta-la-nasa-ni-lo-saben-los-astronautas) (2023-07-21; es); passages p0030, p0031. [Structured record](../../records/src-7ab85bafab6b.json).
+
+Related topics: [Van Allen belts](van-allen-belts.md).
+
+### src-7ab85bafab6b-c03
+
+Yazhi claims lunar frequencies affect human reproductive cycles and says some Lyrian women can control fertility mentally. Unverified biological claims, retained as attributed lore.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [LO QUE OCULTA LA NASA NI LO SABEN LOS ASTRONAUTAS](https://swaruu.org/transcripts/lo-que-oculta-la-nasa-ni-lo-saben-los-astronautas) (2023-07-21; es); passages p0049, p0050, p0052, p0053. [Structured record](../../records/src-7ab85bafab6b.json).
+
+Related topics: [Lyrians](lyrians.md).
+
+### src-a289684b19e5-c03
+
+Mari Swaruu says religious beliefs can be used to shape a group's existential realm through perception and mind control. She attributes this design and control to Earth's Matrix rulers.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Religiones, otra perspectiva, Falsa Historia, Realidad y Egregores](https://swaruu.org/transcripts/religiones-otra-perspectiva-falsa-historia-realidad-y-egregores) (2023-08-15; es); passages p0024. [Structured record](../../records/src-a289684b19e5.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-eb3d807278aa-c01
+
+Athena says consciousness manifests Earth’s Matrix; lunar systems shape, not directly create, its setting.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Reactores Humanos en la Luna - Examinando el Tema con Athena Swaruu](https://swaruu.org/transcripts/reactores-humanos-en-la-luna-examinando-el-tema-con-athena-swaruu) (2023-07-23; es); passages p0019, p0023, p0038. [Structured record](../../records/src-eb3d807278aa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-eb3d807278aa-c04
+
+Athena says Van Allen belts and lunar hologram are separate; removing the Moon itself would cause severe chaos.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Reactores Humanos en la Luna - Examinando el Tema con Athena Swaruu](https://swaruu.org/transcripts/reactores-humanos-en-la-luna-examinando-el-tema-con-athena-swaruu) (2023-07-23; es); passages p0065, p0066, p0073, p0074. [Structured record](../../records/src-eb3d807278aa.json).
+
+Related topics: [Van Allen belts](van-allen-belts.md).
+
+### src-c770aad74bc9-c03
+
+She presents Earth as a voluntary soul-school; souls experience the Matrix according to their frequency, including after death.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Apegos e Infestaciones, Parte 4, Bajo Astral, Ideas y Programación](https://swaruu.org/transcripts/apegos-e-infestaciones-parte-4-bajo-astral-ideas-y-programacion) (2023-07-02; es); passages p0008, p0018, p0019. [Structured record](../../records/src-c770aad74bc9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-a82352157b1a-c02
+
+Athena says genuine star-family disclosure would quickly dissolve the Earth 3D Matrix illusion, which she says the controllers do not want.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Desclasificación de los OVNIS? Preguntas para la entrevista con AJ Roberts](https://swaruu.org/transcripts/desclasificacion-de-los-ovnis-preguntas-para-la-entrevista-con-aj-roberts) (2023-06-03; es); passages p0022, p0023, p0024. [Structured record](../../records/src-a82352157b1a.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-c7881cf94a2e-c02
+
+She says shared but imperfect perceptions form realms; Earth clocks synchronize people by day-night cycles, reinforcing the Matrix’s concept of constant time.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Tiempo 01. Qué es el tiempo.](https://swaruu.org/transcripts/tiempo-01-que-es-el-tiempo) (2023-04-24; es); passages p0018, p0019, p0020, p0022. [Structured record](../../records/src-c7881cf94a2e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-71cb5bec1f23-c04
+
+She says the terrestrial Matrix normalizes unfamiliar things into socially acceptable explanations, which may fit its logic but not a broader perspective.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matemáticas básicas detras del Fenómeno de Reflejos Dimensionales](https://swaruu.org/transcripts/matematicas-basicas-detras-del-fenomeno-de-reflejos-dimensionales) (2023-06-06; es); passages p0023, p0024, p0025. [Structured record](../../records/src-71cb5bec1f23.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8b87ad437fe7-c03
+
+She suggests feeling alienated from Earth society may signal a soul moving beyond the 3D Matrix, while urging personal responsibility in discovering identity. This is her proposed interpretation of alienation.
+
+Attributed to **Arien de Erra**; speculative; extraction confidence: high.
+
+Source: [¿Qué es un Ser Humano para ti?](https://swaruu.org/transcripts/que-es-un-ser-humano-para-ti) (2023-06-01; es); passages p0016, p0018, p0019. [Structured record](../../records/src-8b87ad437fe7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -2209,6 +2407,20 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - [src-e9adfed45e60-c05](secret-space-program.md#src-e9adfed45e60-c05) — Secret Space Program
 - [src-375ee3e4cf1f-c04](druidic-traditions.md#src-375ee3e4cf1f-c04) — Druidic traditions
 - [src-9021de63c829-c03](astral-entities.md#src-9021de63c829-c03) — Astral entities
+- [src-ccffbaeef82b-c01](alien-species.md#src-ccffbaeef82b-c01) — Alien species and distinctions
+- [src-b0f5fd41803e-c02](van-allen-belts.md#src-b0f5fd41803e-c02) — Van Allen belts
+- [src-c5820758bc75-c01](moon-biosphere-ship.md#src-c5820758bc75-c01) — The Moon as a biosphere ship
+- [src-c5820758bc75-c03](soul-loop-reincarnation.md#src-c5820758bc75-c03) — Soul-loop reincarnation
+- [src-05476d7782cb-c03](van-allen-belts.md#src-05476d7782cb-c03) — Van Allen belts
+- [src-e285065c4098-c01](moon-biosphere-ship.md#src-e285065c4098-c01) — The Moon as a biosphere ship
+- [src-51e0f08f8295-c03](van-allen-belts.md#src-51e0f08f8295-c03) — Van Allen belts
+- [src-8f74656f7646-c03](van-allen-belts.md#src-8f74656f7646-c03) — Van Allen belts
+- [src-eb3d807278aa-c02](energy-generation.md#src-eb3d807278aa-c02) — Energy generation technology
+- [src-eb3d807278aa-c03](van-allen-belts.md#src-eb3d807278aa-c03) — Van Allen belts
+- [src-426c28844e08-c03](consciousness-metaphysics.md#src-426c28844e08-c03) — Consciousness and metaphysics
+- [src-71cb5bec1f23-c02](matrix-energy-insertion.md#src-71cb5bec1f23-c02) — Matrix energy insertion
+- [src-71cb5bec1f23-c03](matrix-energy-insertion.md#src-71cb5bec1f23-c03) — Matrix energy insertion
+- [src-8b87ad437fe7-c02](consciousness-metaphysics.md#src-8b87ad437fe7-c02) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -2216,6 +2428,7 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
 - COVID-and-vaccine-claims-omitted
 - Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
+- Claims about lunar construction, Van Allen radiation, and reproductive biology contradict established terrestrial science and are retained only as attributed lore.
 - Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
 - Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
@@ -2229,10 +2442,13 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - Federation-policy\_claims\_attributed
 - High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- Lunar, Van Allen, and reproductive-biology claims contradict established terrestrial science and are retained only as attributed lore.
 - Mari Swaruu distinguishes physical pain, which she says ends, from psychological pain that may persist after death.
 - Metaphysical genetics and the 22-lineage account are attributed claims; the speaker calls the lab-origin explanation simplistic.
 - Pluto-Shiva-identification-attributed-to-Federation-records
 - Swaruu X explicitly rejects the interpretation that the Moon was placed primarily to imprison regressive races.
+- The article repeatedly marks lunar reactor details as speculative or unknown and includes earlier conflicting accounts of computer manipulation.
+- The document also contains a separate 2021 Aneeka conversation; claims here are attributed only to the named speakers.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - Transcript combines several speakers and dates; claims preserve speaker attribution
 - Yazhi acknowledges some individuals may work in humanity’s favor but portrays White Hat organizations as part of the same structure.
@@ -2282,6 +2498,7 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - culturally\_variable\_nde\_claim
 - date-discrepancy
 - density-transition-vs-personal-state
+- disclosure-control-theory
 - disclosure\_claims\_unverified
 - dyatlov-claim-reversed-in-later-anéeka-account
 - earth-population-claims
@@ -2314,6 +2531,7 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - internal\_uncertainty
 - intra-source-policy-tension
 - lunar-artificial-structure-claims-attributed
+- lunar-data-inconsistent
 - lunar-reactor-age-origin-uncertainty
 - manifestation\_mechanics
 - matrix-collapse-and-human-choice
@@ -2328,6 +2546,7 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
 - metaphysical-claims-attributed
 - metaphysical-model\_attributed
 - moon-conspiracy-claims
+- moon-lore-conflicts-with-other-accounts
 - nested-matrix-cosmology
 - nonhuman-human-boundary-claims
 - nonphysical-memory-mechanism-claims

@@ -1,0 +1,277 @@
+{
+  "batch_id": "continuous-018",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-c95dc974c9ea",
+    "src-3e51d50bca48",
+    "src-d719aa2d7aad",
+    "src-5bb94203be11",
+    "src-73fc78d38b70",
+    "src-a833dee05151",
+    "src-ccffbaeef82b",
+    "src-852d7521088f",
+    "src-3b1c05f31acd",
+    "src-b0f5fd41803e",
+    "src-e29710d91597",
+    "src-2c81dcc2e671",
+    "src-1917bcf83880",
+    "src-44b8aa34f2fb",
+    "src-2d6710ddd4d1",
+    "src-c79c521e2617",
+    "src-720349fd0c8e",
+    "src-792d96d276c2",
+    "src-9922a742f77a",
+    "src-af28174da547",
+    "src-082f8780849b",
+    "src-c8d611b2d82a",
+    "src-e62f2a423b11",
+    "src-b4532dd6ab33",
+    "src-531dd2c83cf3",
+    "src-c5820758bc75",
+    "src-8582fea5414c",
+    "src-fc7b65e81f10",
+    "src-8c823a56ddaf",
+    "src-97c055d470ab",
+    "src-05476d7782cb",
+    "src-8f1437f38d3a",
+    "src-5747f0ef36c2",
+    "src-f81260545800",
+    "src-bd9e003dba4d",
+    "src-65222f668774",
+    "src-46f3bf392b0e",
+    "src-2dc5849bd700",
+    "src-dc983dd82033",
+    "src-f22ac19341d2",
+    "src-b560693dd466",
+    "src-a82352157b1a",
+    "src-518eb9044e55",
+    "src-97525be5bbfa",
+    "src-426c28844e08",
+    "src-a289684b19e5",
+    "src-c7881cf94a2e",
+    "src-69f666d88c2e",
+    "src-39a9c48cca4f",
+    "src-3535c43ff865",
+    "src-d0dc341815a0",
+    "src-1890fe5b32b8",
+    "src-d522bad591d5",
+    "src-d98b08976c76",
+    "src-0c4c4d1e9b67",
+    "src-c2bd4709b67f",
+    "src-b2b1511e840d",
+    "src-e1f1481fbc58",
+    "src-bac03b977073",
+    "src-9987cea5f9c3",
+    "src-8b87ad437fe7",
+    "src-96743ca87fea",
+    "src-da87bb825247",
+    "src-2708f7850928",
+    "src-a4adffb6f3a6",
+    "src-742d06b0c285",
+    "src-bad1e627f547",
+    "src-60fae9fc5f22",
+    "src-d3b2c7f37ed1",
+    "src-4ae11aa0469c",
+    "src-19104df37e32",
+    "src-4a2d4df80743",
+    "src-13154e3227fd",
+    "src-234d698c0f21",
+    "src-aa0d46c03756",
+    "src-182d149f48ed",
+    "src-70c1d437cf31",
+    "src-afe6e8af2447",
+    "src-d834e6dbdec7",
+    "src-4bf388da9fd3"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-b4532dd6ab33",
+      "claim_id": "src-b4532dd6ab33-c01",
+      "problem": "The original assertion presented self-destruction as a definite exception and did not preserve Mari’s framing of the model as non-absolute and imprecise.",
+      "action": "Restored her uncertainty and provisional framing, with concise edits preserving the 85-word article limit; validated full record.",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ]
+    },
+    {
+      "source_id": "src-c5820758bc75",
+      "claim_id": "src-c5820758bc75-c03",
+      "problem": "The qualifier overstated Mari’s partial disagreement as rejection of the Van Allen barrier account.",
+      "action": "Narrowed the qualifier to her stated doubt that Van Allen prevents souls from leaving; validated full record.",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-8c823a56ddaf",
+      "claim_id": "src-8c823a56ddaf-c03",
+      "problem": "The frequency distinctions cited response paragraphs without the questions specifying mass-related frequency and attention of consciousness.",
+      "action": "Added p0052 and p0056 to preserve the conceptual definitions being answered; validated full record.",
+      "paragraph_ids": [
+        "p0052",
+        "p0053",
+        "p0056",
+        "p0057",
+        "p0058"
+      ]
+    },
+    {
+      "source_id": "src-97c055d470ab",
+      "claim_id": "src-97c055d470ab-c03",
+      "problem": "The claim cited answers about hyperspace and pilot staffing without their questions.",
+      "action": "Added p0082 and p0086 so the interstellar capability and single-pilot answers retain context; validated full record.",
+      "paragraph_ids": [
+        "p0082",
+        "p0083",
+        "p0085",
+        "p0086",
+        "p0087"
+      ]
+    },
+    {
+      "source_id": "src-05476d7782cb",
+      "claim_id": "src-05476d7782cb-c01",
+      "problem": "The summarized responses about Moon rotation, hologram placement, and phases omitted the questions establishing their scope.",
+      "action": "Added p0002, p0004, p0006, and p0008 to retain the context for each answer; validated full record.",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ]
+    },
+    {
+      "source_id": "src-05476d7782cb",
+      "claim_id": "src-05476d7782cb-c02",
+      "problem": "The cited reference to event insertion did not include the question and the passage that recalled Anéeka’s earlier account.",
+      "action": "Added p0016–p0017 alongside Athena’s response and her later uncertainty; validated full record.",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0022",
+        "p0037"
+      ]
+    },
+    {
+      "source_id": "src-05476d7782cb",
+      "claim_id": "src-05476d7782cb-c03",
+      "problem": "The two-systems distinction was cited from answers without the question asking whether removing belts would affect the hologram.",
+      "action": "Added p0070 and p0072 to preserve the distinction’s context; validated full record.",
+      "paragraph_ids": [
+        "p0070",
+        "p0071",
+        "p0072",
+        "p0073"
+      ]
+    },
+    {
+      "source_id": "src-f81260545800",
+      "claim_id": "src-f81260545800-c01",
+      "problem": "The transcript introduction explicitly identifies the content as authored by Swaruu de Erra and read aloud by Mari; all claims were attributed to the presenter.",
+      "action": "Changed all claim speakers to “Swaruu de Erra (text read by Mari Swaruu)” to preserve authorship and presentation distinction.",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ]
+    },
+    {
+      "source_id": "src-f22ac19341d2",
+      "claim_id": "src-f22ac19341d2-c03",
+      "problem": "The assertion says awareness survives bodily death but cited paragraphs did not include that conclusion.",
+      "action": "Added the supporting conclusion at p0028; validated the full record and 85-word limit.",
+      "paragraph_ids": [
+        "p0024",
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030"
+      ]
+    },
+    {
+      "source_id": "src-a82352157b1a",
+      "claim_id": "src-a82352157b1a-c01",
+      "problem": "The time-bound question was not cited, and the summary overstated the timeframe certainty.",
+      "action": "Added the question and answer context, including Athena’s explicit uncertainty about whether a controlled imitation might occur soon.",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-a82352157b1a",
+      "claim_id": "src-a82352157b1a-c02",
+      "problem": "The claim combined Athena’s star-family disclosure answer with Anéeka’s separate 2021 discussion of free technology and economic effects.",
+      "action": "Removed the cross-speaker material and narrowed the assertion to Athena’s claim that genuine disclosure would dissolve the Earth 3D Matrix illusion, which controllers do not want.",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-c7881cf94a2e",
+      "claim_id": "src-c7881cf94a2e-c02",
+      "problem": "The claim that shared but imperfect perceptions form realms was unsupported by its citations.",
+      "action": "Added the relevant explanation paragraph p0018.",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-3535c43ff865",
+      "claim_id": "src-3535c43ff865-c03",
+      "problem": "The measurement interpretation and dimensionality summary omitted the question context at p0050 and p0052.",
+      "action": "Added both questions so the two answers remain in context.",
+      "paragraph_ids": [
+        "p0035",
+        "p0038",
+        "p0045",
+        "p0047",
+        "p0049",
+        "p0050",
+        "p0051",
+        "p0052",
+        "p0053"
+      ]
+    },
+    {
+      "source_id": "src-bad1e627f547",
+      "claim_id": "src-bad1e627f547-c01",
+      "problem": "The assertion attributes a 2030 deadline to the plan, but the cited paragraphs did not include the paragraph establishing that date.",
+      "action": "Added p0004, which states the city plan is to be imposed by 2030; validated the full record and word budget.",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0034"
+      ]
+    },
+    {
+      "source_id": "src-70c1d437cf31",
+      "claim_id": "src-70c1d437cf31-c02",
+      "problem": "The qualifier suggesting propaganda may reflect ignorance rather than deliberate deception was not supported by cited passages.",
+      "action": "Added p0023–p0025, where Yazhi offers ignorance as a possibility and says the propaganda is not deliberate.",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0023",
+        "p0024",
+        "p0025"
+      ]
+    }
+  ],
+  "unresolved": []
+}

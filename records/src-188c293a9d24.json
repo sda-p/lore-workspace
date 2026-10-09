@@ -1,0 +1,66 @@
+{
+  "source_id": "src-188c293a9d24",
+  "snapshot_sha256": "963429fe835eabfbcffbeb95e4aa135b93633ae6353b222a0915d9d5fedc3dad",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-188c293a9d24-c01",
+      "assertion": "Gosia says some UFO hearing witnesses may be sincere but could still be unwittingly steered by hidden actors controlling disclosure.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-188c293a9d24-c02",
+      "assertion": "Gosia claims nonhuman leaders within the Galactic Federation are the ultimate guardians of UFO secrecy and would limit what governments disclose.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-188c293a9d24-c03",
+      "assertion": "Gosia speculates official disclosure could shape a controlled narrative, including a possible false-alien-invasion agenda, and advises audiences to assess it cautiously.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "extraterrestrial-contact"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says some increased openness could still prompt useful questions."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other commentary on witness motives and disclosure policy omitted"
+  ]
+}

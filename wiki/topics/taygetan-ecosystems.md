@@ -384,6 +384,9 @@ Related topics: [Terrestrial science](terrestrial-science.md).
 - [src-d3e73f956099-c04](ship-internal-time.md#src-d3e73f956099-c04) — Ship internal time
 - [src-7d76d15d2444-c03](lyrians.md#src-7d76d15d2444-c03) — Lyrians
 - [src-7d76d15d2444-c04](lyrians.md#src-7d76d15d2444-c04) — Lyrians
+- [src-c8d611b2d82a-c02](cyndriel.md#src-c8d611b2d82a-c02) — Cyndriel
+- [src-b39d4a7a2cd4-c02](moon-biosphere-ship.md#src-b39d4a7a2cd4-c02) — The Moon as a biosphere ship
+- [src-2dc5849bd700-c01](swaruunians.md#src-2dc5849bd700-c01) — Swaruunians
 
 ## Review flags
 
@@ -393,6 +396,7 @@ Related topics: [Terrestrial science](terrestrial-science.md).
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Senetre-diagnosed-weapon-route-suspected
 - Swaruu X presents multiple hybridization motives and acknowledges incomplete information about some groups.
+- The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims.
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - conflicting\_origin\_accounts
 - field-procedure-account-attributed-to-mari

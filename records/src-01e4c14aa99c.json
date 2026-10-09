@@ -1,0 +1,63 @@
+{
+  "source_id": "src-01e4c14aa99c",
+  "snapshot_sha256": "2244dac670db4e83e46dc09922fb34ebe67b5205d0f45706dee9c5e5418ee583",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-01e4c14aa99c-c01",
+      "assertion": "Gosia presents the soul as an eternal fractal of Source, composed of ideas and attachments that persist beyond bodily death.",
+      "speaker": "Gosia, citing Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0022",
+        "p0023",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "soul-loop-reincarnation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01e4c14aa99c-c02",
+      "assertion": "Gosia says the body filters consciousness into a narrow material experience, while the brain, nervous system, and DNA translate it.",
+      "speaker": "Gosia, citing Mari Swa and Anéeka",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-01e4c14aa99c-c03",
+      "assertion": "Gosia relays Mari’s claim that memory is not stored in the brain but in an etheric or spiritual field.",
+      "speaker": "Gosia, citing Mari Swa",
+      "paragraph_ids": [
+        "p0041"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other ideas about science, body, and consciousness omitted"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "src-79e2266995cb",
+  "snapshot_sha256": "9d1ddbd49968a73f2c15e36b3cb2fa4b7b324ab5ea3dea0bbfae833ac83b6047",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-79e2266995cb-c01",
+      "assertion": "Athena Swaruu claims Giza’s major structures belonged to an older Federation-linked starport city, with extensive underground levels remaining beneath the plateau.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": ["p0004", "p0007", "p0008", "p0009"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "atlantis-lemuria"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She contrasts this with the conventional account of ancient Egypt."
+    },
+    {
+      "id": "src-79e2266995cb-c02",
+      "assertion": "Athena says the familiar Egyptian civilization inherited earlier structures and disputes the conventional accounts of pharaohs and mass slavery.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": ["p0004", "p0033", "p0035", "p0037"],
+      "primary_topic": "atlantis-lemuria",
+      "topics": ["atlantis-lemuria", "terrestrial-science"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is an alternative-history claim, not established archaeology."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source advances unverified alternative-history claims about Giza and ancient Egypt."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss alleged surviving spacecraft, ancient access routes, and reinterpretations of Egyptian figures."
+  ]
+}

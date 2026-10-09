@@ -1,0 +1,82 @@
+{
+  "source_id": "src-60fae9fc5f22",
+  "snapshot_sha256": "77b7f775532a2af6a7637b6e9cba8d7ad792e593c97d3703ac1227ed0ebb050b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-60fae9fc5f22-c01",
+      "assertion": "Athena calls US congressional UFO disclosure staged, with officials gauging public response through gradual disclosures.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says real power decisions occur elsewhere."
+    },
+    {
+      "id": "src-60fae9fc5f22-c02",
+      "assertion": "Athena says disclosure may distract audiences, regulate UFO narratives, and prepare for a possible false invasion.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0010",
+        "p0014"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says the scenario may not occur."
+    },
+    {
+      "id": "src-60fae9fc5f22-c03",
+      "assertion": "Athena attributes a false-invasion agenda to Cabal interests seeking fear and obedience.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She calls the Federation’s role murky and permissive."
+    },
+    {
+      "id": "src-60fae9fc5f22-c04",
+      "assertion": "Athena says Earth’s proposed world government would institutionalize exploitation, unlike Taygeta’s.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about contemporary institutions or external events reflect the speaker’s interpretation."
+  ],
+  "coverage_gaps": []
+}

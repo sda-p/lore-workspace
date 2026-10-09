@@ -1,0 +1,36 @@
+{
+  "source_id": "src-9fb3397b48c0",
+  "snapshot_sha256": "2a54e9122758e638762cbd6842d0516cf77487632b234564416f53234c38d2f4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9fb3397b48c0-c01",
+      "assertion": "Mari Swa says Taygetan queens are chosen to represent and serve their people, rather than inheriting a hereditary status.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0007", "p0008", "p0009"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "holistic-society"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She contrasts this with her view of earthly royalty."
+    },
+    {
+      "id": "src-9fb3397b48c0-c02",
+      "assertion": "Mari says Alenym was treated for an alleged genetic weapon and that Mari temporarily assumed Taygetan leadership during her recovery.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0012", "p0015", "p0016", "p0017", "p0021"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The source attributes the weapon diagnosis to the ship’s surgeon."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source makes unverified medical and extraterrestrial claims."
+  ],
+  "coverage_gaps": [
+    "It also describes security changes, fleet plans, and the planned Second Contact training."
+  ]
+}

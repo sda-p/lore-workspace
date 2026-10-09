@@ -1,0 +1,13 @@
+{
+  "source_id": "src-24efda7f42eb",
+  "snapshot_sha256": "e74ff1ea879b6d82989b76dd654c493dee0ce5699e0dd3dd936338f9b72e8321",
+  "language": "es",
+  "claims": [
+    {"id":"src-24efda7f42eb-c01","assertion":"Yazhi says influence is unavoidable, but coercion violates consent; she sees sharing knowledge as preferable to withholding it.","speaker":"Yazhi","paragraph_ids":["p0011","p0017","p0022","p0023","p0024"],"primary_topic":"consciousness-metaphysics","topics":["consciousness-metaphysics","holistic-society"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-24efda7f42eb-c02","assertion":"Yazhi says she continues to offer an alternative account of the Federation, motivated by personal integrity rather than guaranteed victory.","speaker":"Yazhi","paragraph_ids":["p0069","p0070","p0071","p0072","p0073"],"primary_topic":"galactic-federation","topics":["galactic-federation","extraterrestrial-contact"],"modality":"asserted","confidence":"high","qualifiers":"She says she does not want to draw others into a struggle against their will."},
+    {"id":"src-24efda7f42eb-c03","assertion":"Yazhi argues ideas can influence others indirectly, while the speakers acknowledge they cannot measure the project's impact.","speaker":"Yazhi","paragraph_ids":["p0085","p0088","p0090","p0091"],"primary_topic":"collective-timeline-influence","topics":["collective-timeline-influence","project-second-contact"],"modality":"asserted","confidence":"high","qualifiers":"She describes influence as a possible chain reaction, not a demonstrated outcome."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["This transcript compiles personal conversations across 2020–2022; claims reflect individual speakers' views and motives."],
+  "coverage_gaps": ["Yazhi's personal conflicts with the crew, time-jump plans, and Athena's observations"]
+}

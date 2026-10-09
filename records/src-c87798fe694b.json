@@ -1,0 +1,98 @@
+{
+  "source_id": "src-c87798fe694b",
+  "snapshot_sha256": "5bd82f549d9ee1a34ce6f6bfcb5f1e23a5926b5d72b69ec9d285df7dd7a583e4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c87798fe694b-c01",
+      "assertion": "Mari says Taygetans ally with M45 species and the Urmah Avyon council; other alliances are Federation-promoted cooperation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0091",
+        "p0092"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c87798fe694b-c02",
+      "assertion": "Mari says Federation membership requires a unified planetary culture and awareness of, plus contact with, off-world societies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0070",
+        "p0071"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes these as basic rules."
+    },
+    {
+      "id": "src-c87798fe694b-c03",
+      "assertion": "Mari identifies Etortians as a logical major race and original Federation founders, but says their expanded leadership role is unexplained.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0094",
+        "p0095"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c87798fe694b-c04",
+      "assertion": "Mari says Federation members gain cooperation and mutual-protection agreements.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0108",
+        "p0109"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c87798fe694b-c05",
+      "assertion": "Mari says small Federation ships can enter and leave Earth’s atmosphere directly from hyperspace.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0102",
+        "p0103"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "All claims are attributed to the speaker and reflect her account."
+  ],
+  "coverage_gaps": [
+    "Other Q&A topics in this compilation"
+  ]
+}

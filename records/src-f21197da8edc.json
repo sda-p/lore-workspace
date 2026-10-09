@@ -1,0 +1,70 @@
+{
+  "source_id": "src-f21197da8edc",
+  "snapshot_sha256": "fd84d0163580a85a4dd3bd833f3406072b79b28a15a0e8f707fbe0df2f7404e9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f21197da8edc-c01",
+      "assertion": "Mari says Etorthan auditors searched hundreds of orbital ships and scheduled Toleka and Saska 1 for inspection; Alenym and Nai’shara refused boarding.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0008",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Mari calls this invasive."
+    },
+    {
+      "id": "src-f21197da8edc-c02",
+      "assertion": "Alenym shut Taygetan muon communications to prevent pressure; internal ship links and internet remained. Muon pulses reportedly travel faster than light.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "muonic-gravitational-communications",
+      "topics": [
+        "muonic-gravitational-communications",
+        "muon-gravity-communications"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "They use coded muon-neutrino or gravity pulses."
+    },
+    {
+      "id": "src-f21197da8edc-c03",
+      "assertion": "Mari says the Federation restricts Taygetan travel and contact, suspended extractions pending approval, and withdrew funding, leaving her channel and donations to support the group.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of their situation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other disputes and Federation claims omitted"
+  ]
+}

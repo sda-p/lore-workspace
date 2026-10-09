@@ -1,0 +1,119 @@
+{
+  "source_id": "src-9b6c9c7ff268",
+  "snapshot_sha256": "b14110bb52170381c06f6ad59c82715861cba51b5aefbf14f18031e15d53e862",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9b6c9c7ff268-c01",
+      "assertion": "Anéeka says motor-generated electromagnetic holograms guide programmed nanodust into a ship hull.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b6c9c7ff268-c02",
+      "assertion": "Anéeka says polymorphic metal self-heals, avoids fatigue, and returns to its programmed shape.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0008",
+        "p0011",
+        "p0045",
+        "p0054"
+      ],
+      "primary_topic": "nanotechnology",
+      "topics": [
+        "nanotechnology",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b6c9c7ff268-c03",
+      "assertion": "Transparent hull sections retain its strength; layered energy shields protect against incoming objects.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b6c9c7ff268-c04",
+      "assertion": "Swaruu says Taygetan ships use electricity and magnetic levitation for frictionless moving parts.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b6c9c7ff268-c05",
+      "assertion": "Swaruu says ships self-repair but retain manual maintenance because diagnostic automation can fail.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9b6c9c7ff268-c06",
+      "assertion": "Anéeka says Toleka takes up to five years and thousands of workers to build modularly with a nanodust hull.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0069",
+        "p0070",
+        "p0072"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "nanotechnology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "material composition and specific strength and temperature limits",
+    "shield thickness and engine details"
+  ]
+}

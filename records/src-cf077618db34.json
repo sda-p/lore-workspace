@@ -1,0 +1,31 @@
+{
+  "source_id": "src-cf077618db34",
+  "snapshot_sha256": "c90092db579f51204764c659879356cf81024713ce7ea4d7e86ce4a3124174db",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cf077618db34-c01",
+      "assertion": "Mari says time travel complicates historical study because destinations may fall on alternate timelines; navigation uses mass and vibrational-frequency maps rather than dates.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says travelers may not know their location or the local calendar."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Mari’s claims about manipulated terrestrial and stellar histories"
+  ]
+}

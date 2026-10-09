@@ -3570,6 +3570,92 @@ Source: [Anunnaki - Quienes son realmente? Perspectiva Extraterrestre](https://s
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-59758ad652fa-c04
+
+Yazhi attributes Roswell-area craft crashes to radar-frequency microwaves disrupting sensors and gravity control; she says Taygetan combat ships are immune. Attributed account.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Mini Temas - Información de las Personas Extraterrestres - Taygeta, Pléyades](https://swaruu.org/transcripts/mini-temas-informacion-de-las-personas-extraterrestres-taygeta-pleyades) (2023-08-28; es); passages p0043, p0044, p0045, p0046. [Structured record](../../records/src-59758ad652fa.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-ccffbaeef82b-c01
+
+Mari says star humans are largely omitted from public alien disclosures because acknowledging them would challenge accepted human origins and the terrestrial Matrix. Mari’s interpretation of disclosure coverage.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Desclasificación OVNI en la actualidad. Parte 2, Profundizando](https://swaruu.org/transcripts/desclasificacion-ovni-en-la-actualidad-parte-2-profundizando) (2023-06-26; es); passages p0014, p0015, p0016. [Structured record](../../records/src-ccffbaeef82b.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-aaf321b17830-c03
+
+Anéeka advises evaluating contact claims by observing behavior, repeated clichés, context, and physical traces; she says fabricated accounts often mirror accepted UFO narratives. These are her proposed investigative criteria.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE OFICIALMENTE ACEPTADO - Aneeka](https://swaruu.org/transcripts/contacto-extraterrestre-oficialmente-aceptado-aneeka) (2023-08-08; es); passages p0010, p0011, p0013, p0017, p0019. [Structured record](../../records/src-aaf321b17830.json).
+
+### src-79f4ea058b24-c02
+
+Yazhi says species do not evolve from one another; advanced civilizations seed species on suitable planets, while some have always existed as Source expressions. Selection works within species.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Dinosaurios - Existieron o No? Que dice nuestro equipo Taygeteano de las Pléyades?](https://swaruu.org/transcripts/dinosaurios-existieron-o-no-que-dice-nuestro-equipo-taygeteano-de-las-pleyades) (2023-05-17; es); passages p0022, p0034, p0038, p0039, p0040, p0044. [Structured record](../../records/src-79f4ea058b24.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-5699fcba6376-c01
+
+Mari says humanity and extraterrestrial identity form a gradual continuum, with definitions depending on criteria and perspective. She rejects a fixed boundary between human and alien.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [¿Qué es un extraterrestre para ti?](https://swaruu.org/transcripts/que-es-un-extraterrestre-para-ti) (2023-05-18; es); passages p0003, p0004, p0011. [Structured record](../../records/src-5699fcba6376.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-6d5ee8028d87-c03
+
+Mari says bio-robotic Greys are engineered, soulless task-specific beings, but doubts they exist as a distinct species rather than fear egregors. She says abductees may confuse them with other Greys.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Alienígenas Grises. Parte 2. Razas de Orión y Etórtans](https://swaruu.org/transcripts/alienigenas-grises-parte-2-razas-de-orion-y-etortans) (2023-08-01; es); passages p0013, p0014, p0015, p0017. [Structured record](../../records/src-6d5ee8028d87.json).
+
+Related topics: [Egregors](egregors.md), [Maitre](maitre.md).
+
+### src-a69d54a0580b-c01
+
+Mari says gray aliens comprise at least 165 variants; she describes Orion groups as generally regressive and Zeta Reticuli groups as generally benign. Her account generalizes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alienígenas Grises. Parte 1, Jardineros pequeños y los Maitré](https://swaruu.org/transcripts/alienigenas-grises-parte-1-jardineros-pequenos-y-los-maitre) (2023-07-28; es); passages p0004, p0006. [Structured record](../../records/src-a69d54a0580b.json).
+
+Related topics: [Orion Grays](orion-grays.md), [Zeta Reticuli Gardeners](zeta-reticuli-gardeners.md).
+
+### src-7de438650c41-c04
+
+Anéeka defines “extraterrestrial” and “alien” as non-Earth biological origins with friendly versus hostile connotations; UAP is a formalized label for UFOs.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [INFILTRACIÓN EN LOS CÍRCULOS UFOLÓGICOS Y ESPIRITUALES -Athena Swaruu](https://swaruu.org/transcripts/infiltracion-en-los-circulos-ufologicos-y-espirituales-athena-swaruu) (2023-08-07; es); passages p0020, p0021, p0022, p0023. [Structured record](../../records/src-7de438650c41.json).
+
+### src-2708f7850928-c01
+
+Anéeka says extraterrestrials include both less-physical, telepathic beings and physical civilizations like hers; her group is only a few levels above Earth.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [REVELACIONES DE UNA MUJER EXTRATERRESTRE DE TAYGETA - Aneeka de Temmer](https://swaruu.org/transcripts/revelaciones-de-una-mujer-extraterrestre-de-taygeta-aneeka-de-temmer) (2023-06-27; es); passages p0003, p0004. [Structured record](../../records/src-2708f7850928.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -3816,6 +3902,22 @@ Related topics: [Taygetans](taygetans.md).
 - [src-a06f28bdaffd-c02](taygetans.md#src-a06f28bdaffd-c02) — Taygetans
 - [src-a06f28bdaffd-c03](taygetans.md#src-a06f28bdaffd-c03) — Taygetans
 - [src-a688a6bed26b-c02](taygetans.md#src-a688a6bed26b-c02) — Taygetans
+- [src-a833dee05151-c01](urmah.md#src-a833dee05151-c01) — Urmah
+- [src-852d7521088f-c01](shadow-people.md#src-852d7521088f-c01) — Shadow People
+- [src-d899310fae70-c02](false-alien-invasion.md#src-d899310fae70-c02) — False alien invasion scenarios
+- [src-ac04705c7e8d-c03](urmah.md#src-ac04705c7e8d-c03) — Urmah
+- [src-aaf321b17830-c02](terrestrial-science.md#src-aaf321b17830-c02) — Terrestrial science
+- [src-79f4ea058b24-c01](terrestrial-science.md#src-79f4ea058b24-c01) — Terrestrial science
+- [src-5699fcba6376-c03](lyrians.md#src-5699fcba6376-c03) — Lyrians
+- [src-6d5ee8028d87-c02](etorthans.md#src-6d5ee8028d87-c02) — Etorthans
+- [src-742d06b0c285-c01](viera.md#src-742d06b0c285-c01) — Viera
+- [src-fec70c265b7c-c01](starseeds.md#src-fec70c265b7c-c01) — Starseeds
+- [src-51e0f08f8295-c02](extraterrestrial-contact.md#src-51e0f08f8295-c02) — Extraterrestrial contact and disclosure
+- [src-8f74656f7646-c02](extraterrestrial-contact.md#src-8f74656f7646-c02) — Extraterrestrial contact and disclosure
+- [src-e48edb1223b1-c03](lyrians.md#src-e48edb1223b1-c03) — Lyrians
+- [src-b4532dd6ab33-c04](starseed-guides.md#src-b4532dd6ab33-c04) — Starseed guides
+- [src-8582fea5414c-c04](galactic-federation.md#src-8582fea5414c-c04) — Galactic Federation
+- [src-c504ffb5de14-c04](artificial-portals.md#src-c504ffb5de14-c04) — Artificial portals
 
 ## Review flags
 
@@ -3826,6 +3928,7 @@ Related topics: [Taygetans](taygetans.md).
 - Anéeka says Reptilian exploitation is partial, not a complete account of Earth events.
 - Australian-traffic-purpose-unknown
 - Billy\_Meier\_photo\_authenticity\_uncertain
+- Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts.
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Contains extraordinary extraterrestrial and historical claims; attribute to speakers, not verified history.
@@ -3845,7 +3948,9 @@ Related topics: [Taygetans](taygetans.md).
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - Species summaries are broad and based on accounts attributed to orbital sources
+- Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka.
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- The CIA and New Age infiltration statements are attributed allegations by the speakers.
 - The cloning and genetic-control statements are Swaruu’s claims.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - Weapon and defense capabilities are source-attributed technical claims
@@ -3902,6 +4007,7 @@ Related topics: [Taygetans](taygetans.md).
 - dialogue-perspectives-distinguished
 - diet\_claim\_omitted
 - dietary-claims\_attributed
+- disclosure-control-theory
 - disclosure\_claims\_unverified
 - disputed\_specimen
 - dog\_import\_exception\_is\_uncertain
@@ -4070,7 +4176,9 @@ Related topics: [Taygetans](taygetans.md).
 - terminology-tension: densities called concepts and frequency ranges
 - terrestrial-history-claims-unverified
 - terrestrial-history-contradiction
+- threat-rating-vs-local-aggression
 - time-travel-claims
+- translated-interview-may-affect-wording
 - translated-originally-Spanish
 - translated\_source
 - translation-counterpart-src-0a2dec346e2d-expanded-later-account

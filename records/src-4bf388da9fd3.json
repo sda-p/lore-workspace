@@ -1,0 +1,43 @@
+{
+  "source_id": "src-4bf388da9fd3",
+  "snapshot_sha256": "9571bf53b4961c8696c5c52522584af92847809a65706cdc5a6329f826042602",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4bf388da9fd3-c01",
+      "assertion": "Yazhi says renaming UFOs as UAPs manipulates public perception but does not change what they are.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0008", "p0009"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She portrays official disclosure as planned disinformation."
+    },
+    {
+      "id": "src-4bf388da9fd3-c02",
+      "assertion": "Yazhi says souls choose an oblivion veil to avoid karmic and past-life memories before beginning a new life.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0014"],
+      "primary_topic": "memory-veil",
+      "topics": ["memory-veil", "reincarnation-cycles"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She links it to the frequency distance between the astral and earthly life."
+    },
+    {
+      "id": "src-4bf388da9fd3-c03",
+      "assertion": "Yazhi says lower-astral entities exploit memory loss and are egregors of humanity's collective unconscious.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0015"],
+      "primary_topic": "egregors",
+      "topics": ["egregors", "archons-and-demons", "tulpas"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She includes archons and tulpas among these entities."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["official-source credibility claims", "the speaker's life-as-game perspective"]
+}

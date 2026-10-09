@@ -1,0 +1,186 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-09T05:27:43+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-019",
+    "reviewer": 1,
+    "reviewed_source_ids": [
+      "src-bc90a28d3260",
+      "src-febfd3115d54",
+      "src-e199916654ef",
+      "src-f21197da8edc",
+      "src-c59b5aacbe03",
+      "src-c3fbe6d57df9",
+      "src-27320216da18",
+      "src-3515c1d5e5af",
+      "src-9fe31867478a",
+      "src-65d76dd19e45",
+      "src-878fcdc382ad",
+      "src-f800679ac838",
+      "src-f7ed383444ff",
+      "src-b5287bde7dbd",
+      "src-36d1c2cc2b42",
+      "src-68aff81d2865",
+      "src-d9447e9bc7cb",
+      "src-ba636b6b0a32",
+      "src-90b312a2313e",
+      "src-4603aaa764e8",
+      "src-706e33985c24",
+      "src-410360813ac6",
+      "src-2dfb4d0b258e",
+      "src-5d1072c7f701",
+      "src-a08a91afe77a",
+      "src-48d158152f65",
+      "src-61705721c8a4",
+      "src-9ba9fd3c5196",
+      "src-dc11ccfaa156",
+      "src-23338fda8765",
+      "src-970412680838",
+      "src-d1946d4d6179",
+      "src-c4b9d7cc5da7",
+      "src-cc22fe9b0951",
+      "src-98a32eb0aec0",
+      "src-cf077618db34",
+      "src-6b93fc9acdf1",
+      "src-122cf2f1788a",
+      "src-844eb80ca26a"
+    ],
+    "corrections": [
+      {
+        "source_id": "src-36d1c2cc2b42",
+        "claim_id": "src-36d1c2cc2b42-c02",
+        "problem": "“Main executors” is not supported by the cited text, which says Centauri are most numerous near Earth; the Antarian patrol detail is supported.",
+        "action": "Rephrased to the documented relative numbers and patrol role.",
+        "paragraph_ids": [
+          "p0019",
+          "p0022"
+        ]
+      },
+      {
+        "source_id": "src-36d1c2cc2b42",
+        "claim_id": "src-36d1c2cc2b42-c03",
+        "problem": "The cited paragraphs do not support the claim about protecting starseeds or a cooperation treaty.",
+        "action": "Restricted the claim to Urmah’s continued Federation membership, disagreement, militarization, and directness about intentions.",
+        "paragraph_ids": [
+          "p0029",
+          "p0031"
+        ]
+      },
+      {
+        "source_id": "src-c3fbe6d57df9",
+        "claim_id": "src-c3fbe6d57df9-c03",
+        "problem": "The cited passages did not include the source’s explicit spiral-like timeline description.",
+        "action": "Added the direct passage describing repeated jumps as a spiral along other time axes.",
+        "paragraph_ids": [
+          "p0029",
+          "p0030",
+          "p0032"
+        ]
+      },
+      {
+        "source_id": "src-e199916654ef",
+        "claim_id": "src-e199916654ef-c03",
+        "problem": "The qualifier that no one was injured was uncited.",
+        "action": "Added Mari’s direct statement that no one was injured.",
+        "paragraph_ids": [
+          "p0041"
+        ]
+      },
+      {
+        "source_id": "src-b5287bde7dbd",
+        "claim_id": "src-b5287bde7dbd-c02",
+        "problem": "“Across communities and species” overstates the selected evidence, which focuses on groups and Lyrian telepathy.",
+        "action": "Reframed as collective ideas coordinated by a group field and ether-mediated contact independent of distance.",
+        "paragraph_ids": [
+          "p0016",
+          "p0019",
+          "p0023"
+        ]
+      },
+      {
+        "source_id": "src-b5287bde7dbd",
+        "claim_id": "src-b5287bde7dbd-c03",
+        "problem": "“Transmitting new interpretations” is not stated in the cited passages.",
+        "action": "Rephrased to the source’s claims that distinct vibration and actions affect the surrounding field.",
+        "paragraph_ids": [
+          "p0020",
+          "p0022",
+          "p0027"
+        ]
+      },
+      {
+        "source_id": "src-bc90a28d3260",
+        "claim_id": "src-bc90a28d3260-c02",
+        "problem": "The claim attributed avoiding military action only to preventing wider war and omitted Athena’s stated concern for Earth’s population.",
+        "action": "Added her answer explaining protection of Earth’s population as a reason Urmah avoid military action.",
+        "paragraph_ids": [
+          "p0092"
+        ]
+      },
+      {
+        "source_id": "src-d9447e9bc7cb",
+        "claim_id": "src-d9447e9bc7cb-c02",
+        "problem": "The paraphrase lacked cited context that Occam’s razor needs understanding of the event and that paranormal cases involve different realms with distinct rules.",
+        "action": "Added the supporting caveats and examples.",
+        "paragraph_ids": [
+          "p0024",
+          "p0025",
+          "p0026",
+          "p0027"
+        ]
+      },
+      {
+        "source_id": "src-90b312a2313e",
+        "claim_id": "src-90b312a2313e-c01",
+        "problem": "The gravity-beam method was not cited.",
+        "action": "Added the paragraph explicitly describing modulated gravity beams.",
+        "paragraph_ids": [
+          "p0015"
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-bc90a28d3260": "cfc7e3facfbdc5d90c2b3b4efa2e5a240c1a278ec7f1c95b75cb111f59bb4aa5",
+    "src-febfd3115d54": "94d0c55c82a5a1ea691f7038b3ab16635d9e7c86a283422594c4ff3740e59112",
+    "src-e199916654ef": "b2da221a9d38d88d00ee3dc7dcdd1a261d6625876beea4eb116843f3f6f73f83",
+    "src-f21197da8edc": "f80d0b1f6a96ae3ebbff797985f0d617fdeb4bb461b982ac2aa2fdd6fb7fc358",
+    "src-c59b5aacbe03": "590402d91deaed96126807d0a1bbe40161fdfe323c927d10e081c3f788a09e04",
+    "src-c3fbe6d57df9": "af950cc834cf2666efa31ecc05fad843f6b16652808b8636e13936dc976cec05",
+    "src-27320216da18": "f069d7d51b07af818071b0affd6543c444c72fbce1491cef42b7fa4f20645cc7",
+    "src-3515c1d5e5af": "b12c5939114b0444723976a30c72a165c55f8622f6ac031d4e56b8355abf6589",
+    "src-9fe31867478a": "832a2e81b246da46b3202b61eee0271dca967b4b8773087222b789e5c12660ad",
+    "src-65d76dd19e45": "0872dfd6d6a520c29c023cb0282ada4bf1307f700cf94416974def8dd77f765f",
+    "src-878fcdc382ad": "8c9af0484092b3260d04d9371443ae8c79ff6abb1cbec76dae2c22998597f0c5",
+    "src-f800679ac838": "75bc38dde8793aff7c4451fdddd4a7b69890782df0701da6242e4744c47d92dc",
+    "src-f7ed383444ff": "e3eb8ee05fb346676b32c4bfa07f25971ba9c895bc4ae3087de02a640700c641",
+    "src-b5287bde7dbd": "1cbf46efb72aa5902a7d2b53c7b2827fadb7d6d98380847aa501e11e426e0e61",
+    "src-36d1c2cc2b42": "a30792c1b38fabe7137bb5ea76c43280328d8921ff505c048730cb9fc138b3cf",
+    "src-68aff81d2865": "8a98a71583aba17e190da80c9912914184bd113fa8a6c8ffd9256a807b00da14",
+    "src-d9447e9bc7cb": "4c97da0455f7ad493a1dd5e8d95c5e117cbf5ce485d57168608878c5fd8afa8c",
+    "src-ba636b6b0a32": "470c4abb7bbede956cbb0fb151d401631ea86d3c4267e7d9ccf41032652dec9d",
+    "src-90b312a2313e": "c8ce162362ed4e9f064a40e7f6d41a44203aa3b5764756306052c17de760b850",
+    "src-4603aaa764e8": "d56486036862d0f9e7f5fb2def82aed3eb549f8519ddd2c7b9f9d8437cff813e",
+    "src-706e33985c24": "12dae0f0ffbe3650c0a2cdbee58180de4dd14dbaf23b88c76d672a9ad460bd3b",
+    "src-410360813ac6": "f4c45e5186e76fd00f991e1e363836ae03e9bf43110542abba71835f24b18da9",
+    "src-2dfb4d0b258e": "8b3d75d474de60b3c6926926a6e18ced630f3bfadf6faf3ca7eb15d127c984d9",
+    "src-5d1072c7f701": "186daaad6fe641fbf1730b912af5e9d9c82940d958b3b9ea011d15d01747fc51",
+    "src-a08a91afe77a": "5cb0a8fc83167a003f9cae3892d746943402ba4338ded40f681ff11051895d61",
+    "src-48d158152f65": "aa6601206d04fe73ead30006b96a7d1c439cef0e0df622d22e1b06517a359196",
+    "src-61705721c8a4": "ea0f8fd32839da0a6d9a9e7897d915f5b4226be77c9c9741d0ce418e8334ef6a",
+    "src-9ba9fd3c5196": "cb3c719fcd8967eebeba97ca3027883986757845c43831ef6dc6eb6a891b9c10",
+    "src-dc11ccfaa156": "87d0c5ce2c3b78f1785b42bb31ba6bac3155580d9d840e6bd54dd9dfdcc537d8",
+    "src-23338fda8765": "52dee597d277eb6a285d7ebf34effc2dfc83550a30beff07b8e8385367b4913a",
+    "src-970412680838": "bb4a3b839b47bb845ec3bb14dd9d2b594d9e1d545e7c98ab312c960bad14e4e4",
+    "src-d1946d4d6179": "d4c37e8682e35861c80e1fad269846112908653d24725b2fefaa6f9556c3ead2",
+    "src-c4b9d7cc5da7": "fb6b7970b38b1a220df716d2f4ccab5f3c6a215f3035a3e6a99d1aa798787c82",
+    "src-cc22fe9b0951": "89250aa085d5db378556f684993cb302f1562772d32f572be31452e218c48b3f",
+    "src-98a32eb0aec0": "ce3794e25b4f9d88aa3be0e27711f46e9dc64120b7406168371c885527db4b10",
+    "src-cf077618db34": "0e41c00560fd4ad89fb7b3aec218eedee6533e8d4dcede0446fd27058e32d5c1",
+    "src-6b93fc9acdf1": "92693d0da6dbfc4c7bcfcb77befc82c572b31f8a51228ac58cabfb6f93837b25",
+    "src-122cf2f1788a": "5787453d8fa464479896553164485c3ca08163633527275469ccb42fab712cea",
+    "src-844eb80ca26a": "f95e5add5903c55615dea3609a1979f96923fa4cf0e9a33cdcdd83b0bdb078ff"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source_id": "src-08d63a920baf",
+  "snapshot_sha256": "530590bfa2911d6cb08ddedf91f4bc6e2cd1cdeaba03919e2accb8fc9a29b75b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-08d63a920baf-c01",
+      "assertion": "Za’el says vivid dreams may reflect unconscious concerns and, when recalled, focus attention on outcomes that may later manifest.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-08d63a920baf-c02",
+      "assertion": "Za’el says premonitory dreams may be interpreted as nonlinear influence from a possible future, though he cautions against treating this as fixed destiny.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Dream and timeline interpretations are attributed to Za’el."
+  ],
+  "coverage_gaps": [
+    "Application of the model to memories and past lives"
+  ]
+}

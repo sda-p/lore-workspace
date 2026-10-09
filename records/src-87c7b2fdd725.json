@@ -1,0 +1,13 @@
+{
+  "source_id": "src-87c7b2fdd725",
+  "snapshot_sha256": "016970411fcf6eaf1a6f2d428bccf70e8cf0a607fa9424156a8262db1d1f7aeb",
+  "language": "es",
+  "claims": [
+    {"id":"src-87c7b2fdd725-c01","assertion":"Gosia proposes time is self-awareness experiencing successive thoughts, so each conscious identity experiences a linear sequence.","speaker":"Gosia","paragraph_ids":["p0008","p0009","p0010","p0012","p0021"],"primary_topic":"consciousness-metaphysics","topics":["consciousness-metaphysics","timeline-branching"],"modality":"speculative","confidence":"high","qualifiers":"She presents this as personal philosophical reasoning."},
+    {"id":"src-87c7b2fdd725-c02","assertion":"Gosia says Taygetan time travel uses frequency maps rather than movement through external time or calendar dates.","speaker":"Gosia","paragraph_ids":["p0015","p0016","p0017","p0018"],"primary_topic":"frequency-map-navigation","topics":["frequency-map-navigation","timeline-branching"],"modality":"reported","confidence":"high","qualifiers":"She frames travel as reaching recorded frequency points while carrying one's own subjective sequence."},
+    {"id":"src-87c7b2fdd725-c03","assertion":"Gosia allows that expanded collective souls may experience multiple moments simultaneously while component identities retain subjective sequences.","speaker":"Gosia","paragraph_ids":["p0020","p0021"],"primary_topic":"soul-family-groups","topics":["soul-family-groups","timeline-branching"],"modality":"speculative","confidence":"high","qualifiers":""}
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["the author's distinction between subjective sequence and collective chronology"]
+}

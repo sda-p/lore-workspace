@@ -1,0 +1,67 @@
+{
+  "source_id": "src-8f74656f7646",
+  "snapshot_sha256": "a83a059593b4d3da495fa0303f71d13c1024a6c942db85f48f22db7670530edf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8f74656f7646-c01",
+      "assertion": "Yazhi says frequency pods raise a person’s vibration to break compatibility with astral entities; lasting removal requires inner work.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Entities may return without sustained change."
+    },
+    {
+      "id": "src-8f74656f7646-c02",
+      "assertion": "Yazhi says personal frequency affects which extraterrestrial species or star people a human may contact.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says it affects compatibility and the likelihood of communication."
+    },
+    {
+      "id": "src-8f74656f7646-c03",
+      "assertion": "Yazhi rejects a literal solid dome over Earth and identifies the Van Allen belts as its closest physical analogue.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She claims the Moon enhances them by altering magnetosphere frequencies and describes a separate psychological dome."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "frequency-pod variants",
+    "time loss and abduction",
+    "spiritual evolution"
+  ]
+}

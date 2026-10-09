@@ -1,0 +1,70 @@
+{
+  "source_id": "src-410360813ac6",
+  "snapshot_sha256": "406d7660c81522c211990412c15c91e3f02c5e4c2aa88097d69066aed970d866",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-410360813ac6-c01",
+      "assertion": "Mari distinguishes smaller, humanoid Dracos from Alpha Draconians, a separate reptilian species divided into genetically similar positive and negative factions that often fight.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "alpha-draconians",
+      "topics": [
+        "alpha-draconians",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says their ethics and cultures differ sharply."
+    },
+    {
+      "id": "src-410360813ac6-c02",
+      "assertion": "Mari says negative Alpha Draconians ally with Dracos and other invasive groups, while positive factions cooperate especially with the Urmah.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "alpha-draconians",
+      "topics": [
+        "alpha-draconians",
+        "urmah",
+        "orion-grays"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes the negative alliance as historical."
+    },
+    {
+      "id": "src-410360813ac6-c03",
+      "assertion": "Mari describes Alpha Draconians as giant, winged, fire-breathing, strongly telepathic beings; their fire-breathing capacity is limited by supply and hydration.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0019"
+      ],
+      "primary_topic": "alpha-draconians",
+      "topics": [
+        "alpha-draconians",
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "appearance, homeworld and military details omitted"
+  ]
+}

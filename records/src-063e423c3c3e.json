@@ -1,0 +1,70 @@
+{
+  "source_id": "src-063e423c3c3e",
+  "snapshot_sha256": "f59340b6f662d3cd8b4b8597dc8f6f36552c9e569ce020652f062eb8f4f6895b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-063e423c3c3e-c01",
+      "assertion": "Mari says consciousness and interpretation define personal realms; shared realms arise from perceptual agreements, so physical laws are not universal.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical account."
+    },
+    {
+      "id": "src-063e423c3c3e-c02",
+      "assertion": "She says higher-realm beings of light may appear as ordinary people, animals or objects, guiding less perceptive beings and expanding their consciousness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-063e423c3c3e-c03",
+      "assertion": "Such beings can manifest across distances and through several bodies at once, treating physical rules as optional constraints they follow to be perceived.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "teleportation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other claims about ethics and selfhood omitted"
+  ]
+}

@@ -128,16 +128,58 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [LA TIERRA NO ES PROPICIA PARA TENER SATÉLITES NATURALES - Yazhi Swaruu](https://swaruu.org/transcripts/la-tierra-no-es-propicia-para-tener-satelites-naturales-yazhi-swaruu) (2023-03-03; es); passages p0011, p0013. [Structured record](../../records/src-5a2bf7cc12f6.json).
 
+### src-169d506f3fbd-c01
+
+Swaruu (9) alleges the 2003 Iraq invasion sought Sumerian records, artifacts, and nonhuman technology, including portals held at Baghdad's museum. She says the portal count was unverified and alleges records were seized or destroyed to suppress information.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: medium.
+
+Source: [Guerra de Irak - Causas Reales - Portales Extraterrestres - Swaruu de Erra](https://swaruu.org/transcripts/guerra-de-irak-causas-reales-portales-extraterrestres-swaruu-de-erra) (2023-08-20; es); passages p0010, p0013, p0014. [Structured record](../../records/src-169d506f3fbd.json).
+
+Related topics: [Sumerian tablets](sumerian-tablets.md).
+
+### src-169d506f3fbd-c02
+
+Swaruu (9) identifies the Baghdad museum portals as Elohi-made metal rings, reportedly several meters wide. She says their current operation is unknown and claims authorities wanted to reverse-engineer and withhold them.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: medium.
+
+Source: [Guerra de Irak - Causas Reales - Portales Extraterrestres - Swaruu de Erra](https://swaruu.org/transcripts/guerra-de-irak-causas-reales-portales-extraterrestres-swaruu-de-erra) (2023-08-20; es); passages p0014, p0015, p0016, p0025, p0026, p0037. [Structured record](../../records/src-169d506f3fbd.json).
+
+Related topics: [Elohi](elohi.md).
+
+### src-1b58a21e9def-c02
+
+She identifies a Karnak structure as a portal marker. Seven doors and keys may indicate preset destinations or security levels; travel matches origin and destination frequencies. Alternatives are offered for the seven-door function.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
+
+Source: [EL TEMPLO DE KARNAK TECNOLOGÍA DE PORTALES ESTELARES ANTIGUOS - Athena Swaruu](https://swaruu.org/transcripts/el-templo-de-karnak-tecnologia-de-portales-estelares-antiguos-athena-swaruu) (2023-06-22; es); passages p0017, p0021, p0023, p0025, p0026, p0027, p0029. [Structured record](../../records/src-1b58a21e9def.json).
+
+Related topics: [Ancient Egypt](ancient-egypt.md).
+
+### src-c504ffb5de14-c04
+
+She says extraterrestrials may be both nonterrestrial and interdimensional, but using a portal alone does not make a traveler interdimensional.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ASTROLOGÍA Y LA TIERRA PLANA CONTACTO EXTRATERRESTRE](https://swaruu.org/transcripts/astrologia-y-la-tierra-plana-contacto-extraterrestre) (2023-07-03; es); passages p0013, p0014, p0015, p0018, p0020. [Structured record](../../records/src-c504ffb5de14.json).
+
+Related topics: [Alien species and distinctions](alien-species.md), [Astral entities](astral-entities.md).
+
 ## Claims filed under other topics
 
 - [src-a67fb92e8975-c04](starship-systems.md#src-a67fb92e8975-c04) — Starship systems
 - [src-2ebd8e231c94-c01](sumerian-tablet-interpretations.md#src-2ebd8e231c94-c01) — Sumerian tablet interpretations
 - [src-a32bbe4fc74a-c05](van-allen-belts.md#src-a32bbe4fc74a-c05) — Van Allen belts
 - [src-e10b7b1c1712-c02](pyramid-network.md#src-e10b7b1c1712-c02) — Pyramid energy and portal network
+- [src-c8d611b2d82a-c03](cyndriel.md#src-c8d611b2d82a-c03) — Cyndriel
 
 ## Review flags
 
 - A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
+- Claims about the Iraq invasion and alleged portal transport rely on speaker assertion and cited witnesses.
 - Eye of Horus interpretation is attributed to Swaruu 9.
 - Yazhi distinguishes her portal-technology claim, which does not require alignment, from alignment used in rituals.
 - lore-claims-attributed

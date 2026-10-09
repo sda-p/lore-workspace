@@ -1,0 +1,43 @@
+{
+  "source_id": "src-5dcb0e2a993c",
+  "snapshot_sha256": "c58a03e205c1a717c8406e23ca84013bd13a61834f132dd0ae8840822121efa7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5dcb0e2a993c-c01",
+      "assertion": "Mari Swaruu says people manifest who they are rather than simply what they want; clarity and action help direct outcomes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0005", "p0007"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "individual-ascension"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says desires without focus remain unfinished plans."
+    },
+    {
+      "id": "src-5dcb0e2a993c-c02",
+      "assertion": "Mari Swaruu says concentrated fear can manifest an egregor, which forms faster and stronger when many people share the fear.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0008", "p0011", "p0012"],
+      "primary_topic": "egregors",
+      "topics": ["egregors", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She links this to fear's ability to focus attention."
+    },
+    {
+      "id": "src-5dcb0e2a993c-c03",
+      "assertion": "Mari Swaruu says subconscious programming shapes manifestation; positive outcomes require focused alignment with what one wants to become.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0017", "p0018", "p0019", "p0023"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "shadow-work"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She recommends shadow work to address unconscious programming."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["catastrophic thought and somatic reactions", "emotional regulation"]
+}

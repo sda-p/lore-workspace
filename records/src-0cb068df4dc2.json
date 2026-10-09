@@ -1,0 +1,112 @@
+{
+  "source_id": "src-0cb068df4dc2",
+  "snapshot_sha256": "e1a846a322674357da3f90a33629a0f8893c10d096963392a7d7444cb7d04b08",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0cb068df4dc2-c01",
+      "assertion": "Athena says MK-7 development stalled because its small hull might fail under powerful engines.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says the project may resume."
+    },
+    {
+      "id": "src-0cb068df4dc2-c02",
+      "assertion": "Vector-flow gravity-cancelers control Suzy yaw, pitch, and roll.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cb068df4dc2-c03",
+      "assertion": "Suzy weapons include plasma cannons, AI-guided zero-point missiles, and sonic shockwave generators.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cb068df4dc2-c04",
+      "assertion": "Suzy can mute sound, cloak, or fly using electromagnetic flow generators.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0030",
+        "p0034"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cb068df4dc2-c05",
+      "assertion": "Muon communications are encrypted; Suzy AI can correct course if pilots faint or sleep.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0064",
+        "p0066"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "muonic-galactic-ai-network"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0cb068df4dc2-c06",
+      "assertion": "Athena says development accelerated after Federation-Cabal hostility grew in 1933–45.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0037",
+        "p0041"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Suzy pilot training, aircraft tactics, and flight equipment",
+    "Suzy 7 prototype and threat designation details"
+  ]
+}

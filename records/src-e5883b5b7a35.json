@@ -1,0 +1,77 @@
+{
+  "source_id": "src-e5883b5b7a35",
+  "snapshot_sha256": "640bffe5b79a7fb8450526eefef07296ecd2f0e24ac94fe3e27f50580ace4c0b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e5883b5b7a35-c01",
+      "assertion": "Athena says positive higher-density beings influence people mainly through them, with little direct action.",
+      "speaker": "Swaruu X (Athena), relaying Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes balancing influence from the positive side."
+    },
+    {
+      "id": "src-e5883b5b7a35-c02",
+      "assertion": "Athena associates mermaids, fairies, dragons, and goblins with water, air, fire, and earth elementals.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She places them between material and astral realms, with perception shaped by frequency."
+    },
+    {
+      "id": "src-e5883b5b7a35-c03",
+      "assertion": "Athena says etheric beings influence choices through a shared field and frequency affinity.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040",
+        "p0053",
+        "p0054"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She recommends self-analysis and emotional control to resist outside moods."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The interview attributes emotional and physical effects to entities; these are presented as the speaker's claims."
+  ],
+  "coverage_gaps": [
+    "elemental behavior and local habitats",
+    "claims about schizophrenia"
+  ]
+}

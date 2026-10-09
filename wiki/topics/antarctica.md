@@ -97,6 +97,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 ## Claims filed under other topics
 
 - [src-de22732f48f1-c03](atlantis-lemuria.md#src-de22732f48f1-c03) — Atlantis and Lemuria
+- [src-ea66ccbb5872-c02](viera.md#src-ea66ccbb5872-c02) — Viera
 
 ## Review flags
 

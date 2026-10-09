@@ -1,0 +1,37 @@
+{
+  "source_id": "src-d1f6d4a06f3a",
+  "snapshot_sha256": "fbf7c423a1cb83ce9dfcd58220921f366dd79c9e215cef0f646869f229f74881",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d1f6d4a06f3a-c01",
+      "assertion": "Mari says alleged remote influence or possession by Reptilian and other astral minds depends on thought and vibrational compatibility, not fixed genetic markers.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "reptilians",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "This is her spiritual interpretation of possession and genetics."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source later labels people with mental-health conditions as demons and some people as soulless; avoid presenting these as facts"
+  ],
+  "coverage_gaps": [
+    "positive versus hostile Reptilian groups",
+    "source’s claims about bloodlines and agreements"
+  ]
+}

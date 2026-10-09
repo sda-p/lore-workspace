@@ -1,0 +1,50 @@
+{
+  "source_id": "src-ba636b6b0a32",
+  "snapshot_sha256": "ed96860e06c6064285b8dafb96199547d1122df8ecfab018b43cc6ba700740e9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ba636b6b0a32-c01",
+      "assertion": "Mari describes time as a personal perception shaped by sequential thoughts, with shared agreements creating synchronized social time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0012",
+        "p0014",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ba636b6b0a32-c02",
+      "assertion": "Mari says astral time lacks shared clocks and day-night references, so each soul experiences time according to its own thoughts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0025",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about time and astral experience are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Planetary time and time-jump examples"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source_id": "src-ef40f0e82ee3",
+  "snapshot_sha256": "ae848015fbd645170bb98448b95e3f055c6d39d892b830687a49cc29d40f0845",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ef40f0e82ee3-c01",
+      "assertion": "Arishah describes the Urmah as strong and independent, engaging the Galactic Federation mainly through diplomacy and rejecting its control over their actions.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "urmah-federation",
+      "topics": [
+        "urmah-federation",
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He says the Urmah respond forcefully when their friends or interests are threatened."
+    },
+    {
+      "id": "src-ef40f0e82ee3-c02",
+      "assertion": "Arishah says the Urmah suspect Federation concealment about Earth but will not intervene until they understand the situation or uncover a further agenda.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "urmah-federation",
+      "topics": [
+        "urmah-federation",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "He says the Federation’s claim that Earth’s inhabitants chose the experience is a restraint on intervention."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Federation rationale for Earth isolation",
+    "Urmah ethical limits and military posture"
+  ]
+}

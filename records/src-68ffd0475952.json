@@ -1,0 +1,51 @@
+{
+  "source_id": "src-68ffd0475952",
+  "snapshot_sha256": "788bcc36843bf19c9289fa935b46b8597e586db03ca7dad74ddfa7bd4689ab2b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-68ffd0475952-c01",
+      "assertion": "Mari presents time as a personal perception arising from consciousness, not an independently existing constant; she says it varies with the observer.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "temporal-skipping"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames this as a spiritual account of time."
+    },
+    {
+      "id": "src-68ffd0475952-c02",
+      "assertion": "Mari says time travel would work by changing the conscious traveler’s perception of time rather than directly altering the broader realm being experienced.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says consciousness and vibrational frequency underlie material reality."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Earth’s science and perception system claims",
+    "closed-room time example"
+  ]
+}

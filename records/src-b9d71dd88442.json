@@ -1,0 +1,60 @@
+{
+  "source_id": "src-b9d71dd88442",
+  "snapshot_sha256": "12452a1eb9687008c13b36092f8ffad2a4e209d965bfcb5d11d15be1d6306856",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b9d71dd88442-c01",
+      "assertion": "Gosia says her English channel stayed unmonetized for five years; later she sent half its revenue to Athena and Yazhi for two years.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the aid was unconditional."
+    },
+    {
+      "id": "src-b9d71dd88442-c02",
+      "assertion": "Gosia says videos and transcripts remained free, with no paid courses or merchandise, to share information publicly.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0043"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says they considered books to preserve the material."
+    },
+    {
+      "id": "src-b9d71dd88442-c03",
+      "assertion": "Robert declined a proposal to sell shirts with his and Gosia’s names or faces, saying their channels and website should be promoted instead.",
+      "speaker": "Robert, quoted by Dani and relayed by Gosia",
+      "paragraph_ids": [
+        "p0051"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other arguments about fame and personal intentions omitted"
+  ]
+}

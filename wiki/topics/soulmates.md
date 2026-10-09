@@ -76,6 +76,26 @@ Source: [Questions and Answers - Swaruu of Erra and Aneeka of Temmer](https://sw
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-d719aa2d7aad-c01
+
+Athena says incarnated partners are compatible variants of a shared higher consciousness, not necessarily a fixed exclusive pair; different variants may retain different past-life memories.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Almas Gemelas cambiando entre sus Variantes? Bucles de Almas - Athena Swaruu](https://swaruu.org/transcripts/almas-gemelas-cambiando-entre-sus-variantes-bucles-de-almas-athena-swaruu) (2023-05-09; es); passages p0006, p0007, p0010, p0012, p0015, p0017, p0025, p0030, p0031. [Structured record](../../records/src-d719aa2d7aad.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-cdc082ef32a2-c03
+
+Athena says partners are not predetermined; compatibility and mutual adjustment matter. If fragments want one partner, the closer frequency match prevails and the other withdraws.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Fragmentación de Almas - Directo con Gosia](https://swaruu.org/transcripts/fragmentacion-de-almas-directo-con-gosia) (2023-05-05; es); passages p0031, p0032, p0034, p0035, p0036. [Structured record](../../records/src-cdc082ef32a2.json).
+
+Related topics: [Nexus souls](nexus-souls.md).
+
 ## Claims filed under other topics
 
 - [src-63234070a0cd-c01](postmortem-realities.md#src-63234070a0cd-c01) — Postmortem realities
@@ -84,5 +104,6 @@ Related topics: [Taygetans](taygetans.md).
 ## Review flags
 
 - Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
+- The source combines separate April 2021 and 2023 excerpts; speakers are attributed by passage.
 - discriminatory-sexuality-theory-attributed-to-speaker
 - nonhuman-technology\_claims\_attributed

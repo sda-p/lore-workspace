@@ -630,6 +630,74 @@ Source: [Cómo la Federación de Planetas Unidos ve la Tierra, Parte 2, Primera 
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-3e414790b429-c02
+
+Athena says the Federation’s First Directive has imprecise, inconsistent application; her group views it as selectively used to control other groups. This is Athena’s group’s interpretation.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Athena Swaruu responde las preguntas - Entrevista de Lorena Martin con Robert](https://swaruu.org/transcripts/athena-swaruu-responde-las-preguntas-entrevista-de-lorena-martin-con-robert) (2023-07-09; es); passages p0043, p0044, p0045, p0048, p0049, p0050. [Structured record](../../records/src-3e414790b429.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-da87bb825247-c04
+
+Athena says intervention ethics vary by group and situation; the Prime Directive is not always followed.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA VERDADERA NATULAREZA DE LA CONFEDERACIÓN GALÁCTICA](https://swaruu.org/transcripts/la-verdadera-natulareza-de-la-confederacion-galactica) (2023-06-15; es); passages p0018, p0019. [Structured record](../../records/src-da87bb825247.json).
+
+### src-ac04705c7e8d-c02
+
+Athena says the Federation condemned the Urmah for violating the Prime Directive through direct intervention.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Tornado y Fabrica Pfizer - Que Paso Realmente? Athena Swaruu Informa](https://swaruu.org/transcripts/tornado-y-fabrica-pfizer-que-paso-realmente-athena-swaruu-informa) (2023-07-30; es); passages p0006, p0014. [Structured record](../../records/src-ac04705c7e8d.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Urmah](urmah.md).
+
+### src-e0d85326bb47-c02
+
+She says the Prime Directive limits direct intervention, so star races guide their Earth starseeds covertly or through inspiration, often using astral influence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares. Parte 8, Proyección y Abducciones Astrales, misiones nocturnas. Parte 2](https://swaruu.org/transcripts/semillas-estelares-parte-8-proyeccion-y-abducciones-astrales-misiones-nocturnas-parte-2) (2023-08-07; es); passages p0011, p0012, p0014, p0020, p0022. [Structured record](../../records/src-e0d85326bb47.json).
+
+Related topics: [Starseeds](starseeds.md), [Astral military units](astral-military-units.md).
+
+### src-2dc5849bd700-c03
+
+Mari Swaruu says the Prime Directive restricts nonhumans from sharing advanced technology or decisive evidence, while allowing indirect inspiration through communication and telepathy. Her account of contact rules.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Presentación nueva del canal](https://swaruu.org/transcripts/presentacion-nueva-del-canal) (2023-06-22; es); passages p0026, p0027, p0028. [Structured record](../../records/src-2dc5849bd700.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Telepathic channeling](telepathic-channeling.md).
+
+### src-8582fea5414c-c01
+
+Mari says the Federation applies the Prime Directive selectively on Earth, an isolated realm with at least 900 large ships nearby.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Federación Galáctica y el Dinero.](https://swaruu.org/transcripts/la-federacion-galactica-y-el-dinero) (2023-05-16; es); passages p0004, p0005, p0006. [Structured record](../../records/src-8582fea5414c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-ea66ccbb5872-c03
+
+She says human extraction requires a prior relationship, informed consent, no dependents left behind, and Federation oversight. She lists additional case-specific conditions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extracciones y sus problemas. Parte 1](https://swaruu.org/transcripts/extracciones-y-sus-problemas-parte-1) (2023-07-16; es); passages p0019, p0020, p0021, p0022, p0027. [Structured record](../../records/src-ea66ccbb5872.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Alien abduction practices](alien-abduction-practices.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c04](galactic-federation.md#src-a5811312e55c-c04) — Galactic Federation
@@ -674,6 +742,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-c6671f7e71b0-c03](starseeds.md#src-c6671f7e71b0-c03) — Starseeds
 - [src-f98eceaf4634-c03](starseeds.md#src-f98eceaf4634-c03) — Starseeds
 - [src-24baeece96cc-c02](galactic-federation.md#src-24baeece96cc-c02) — Galactic Federation
+- [src-9987cea5f9c3-c01](galactic-federation.md#src-9987cea5f9c3-c01) — Galactic Federation
 
 ## Review flags
 
@@ -683,6 +752,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Federation policies and Earth-intervention allegations are reported by Mari Swaruu, not independently verified.
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Leader-contact claim is attributed to Asket in this transcript.
+- The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims.
 - Yazhi-interview-report
 - account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
 - agency\_and\_noninterference

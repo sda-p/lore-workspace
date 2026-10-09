@@ -1,0 +1,50 @@
+{
+  "source_id": "src-9ba9fd3c5196",
+  "snapshot_sha256": "3ca34ae47dfa8da6864373889b5d094b0cd5d7a3c643b3ce4e45cd8c7b5b3a08",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9ba9fd3c5196-c01",
+      "assertion": "Athena says ascension is an individual process, not travel to a distinct 4D place or a universal transition wave.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9ba9fd3c5196-c02",
+      "assertion": "Athena says collective human frequency cannot be measured precisely and is becoming polarized, with high and low regions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the result depends on which people are measured."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about density, ascension, and collective frequency are attributed to Athena."
+  ],
+  "coverage_gaps": [
+    "Possible conditions for a higher collective average"
+  ]
+}

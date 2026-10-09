@@ -1,0 +1,68 @@
+{
+  "source_id": "src-848c84c2deeb",
+  "snapshot_sha256": "3cfc7b1de2ff850968757f19a0ba6fc4067113380684e1b68254b5cddbf80844",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-848c84c2deeb-c01",
+      "assertion": "Mari says Federation conferences defend keeping Earth isolated; she reports growing dissent, including from Alcyone Council and Urmah.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alcyone-council",
+        "urmah-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-848c84c2deeb-c02",
+      "assertion": "Mari reports a damaged, 2-km uncrewed ship, believed possibly Lemurian, was placed in high Earth orbit; it may have drifted there under automated return programming.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "ancient-egypt",
+      "topics": [
+        "ancient-egypt",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Its origin and history remain uncertain."
+    },
+    {
+      "id": "src-848c84c2deeb-c03",
+      "assertion": "Mari says Taygetan computers cannot interface with human digital systems, so they replicate human computers and use biological speakers, not Taygetan AI.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "details of conference attendance and Taygetan royalty omitted"
+  ]
+}

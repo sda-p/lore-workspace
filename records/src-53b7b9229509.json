@@ -1,0 +1,71 @@
+{
+  "source_id": "src-53b7b9229509",
+  "snapshot_sha256": "07b298dd644c7d345c641800f4c4a521e4aafc39aa0afa63f045764cfcbc4816",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-53b7b9229509-c01",
+      "assertion": "Ari says Urmah remain near Earth to monitor Urmah starseeds and escort Toleka under cooperation treaties; they suspect the Federation mismanages Earth.",
+      "speaker": "Ari (Arishah), Urmah communications officer",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "urmah-federation",
+      "topics": [
+        "urmah-federation",
+        "starseeds",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Ari presents these as Urmah motives and suspicions."
+    },
+    {
+      "id": "src-53b7b9229509-c02",
+      "assertion": "Ari claims Earth was fifth density before the Tiamat wars; the Federation trapped surviving enemies there, creating a low-frequency realm that feeds lower-astral entities.",
+      "speaker": "Ari (Arishah), Urmah communications officer",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "perceptual-density",
+        "interdimensional-parasites"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The account is attributed to the Urmah."
+    },
+    {
+      "id": "src-53b7b9229509-c03",
+      "assertion": "Ari says Urmah prefer diplomacy but use overwhelming military force when necessary; their presence near Earth is intended to deter Federation actions.",
+      "speaker": "Ari (Arishah), Urmah communications officer",
+      "paragraph_ids": [
+        "p0029",
+        "p0036",
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "combat-doctrine",
+      "topics": [
+        "combat-doctrine",
+        "urmah-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Urmah-Federation history and false-invasion claims omitted"
+  ]
+}

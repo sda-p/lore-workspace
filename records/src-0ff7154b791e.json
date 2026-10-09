@@ -1,0 +1,50 @@
+{
+  "source_id": "src-0ff7154b791e",
+  "snapshot_sha256": "6d38837d3478cddaf982d404e155c1f53919b2b75f58e989f4f6d31127cfa308",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0ff7154b791e-c01",
+      "assertion": "Mari says Taygeta has a near-even gender ratio, with women exceeding men by at most 10%; she attributes the difference to older women living longer.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0026"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She contrasts this with older claims of a large female majority."
+    },
+    {
+      "id": "src-0ff7154b791e-c02",
+      "assertion": "Mari describes Taygetan men and women as equal partners with distinct gender roles, while both may pursue any social role, including science or politics.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She notes Taygeta has a queen and says this does not exclude either gender."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source revises earlier claims about Taygetan gender ratios and social roles; compare against prior sources"
+  ],
+  "coverage_gaps": [
+    "origins of earlier gender-ratio claims",
+    "Taygetan manufacturing and household goods"
+  ]
+}

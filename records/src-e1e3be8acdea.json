@@ -1,0 +1,36 @@
+{
+  "source_id": "src-e1e3be8acdea",
+  "snapshot_sha256": "ebf388945a32a0e0db70541137e3a99da96f2feb76c49bd58ac824a206af0f74",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e1e3be8acdea-c01",
+      "assertion": "Mari Swa says humans are a Lyrian species found across many planets, with shared traits despite cultural differences.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0005", "p0006", "p0008", "p0018"],
+      "primary_topic": "lyran-expansion",
+      "topics": ["lyran-expansion", "extraterrestrial-contact"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She bases this on her claimed everyday experience."
+    },
+    {
+      "id": "src-e1e3be8acdea-c02",
+      "assertion": "Mari describes a shared collective unconscious through which incarnating souls carry ideas and values between planetary cultures.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0019", "p0020"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "lyran-expansion"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She frames this as a spiritual account of cultural similarities."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The video presents unverified extraterrestrial and metaphysical claims as the speaker’s perspective."
+  ],
+  "coverage_gaps": [
+    "Other passages discuss high-vibration states and common challenges across spacefaring cultures."
+  ]
+}

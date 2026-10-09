@@ -1,0 +1,70 @@
+{
+  "source_id": "src-e2c0340ba4de",
+  "snapshot_sha256": "e66e7d78bad7f595d8ce583a48d491f54a5af84bde34a4a0aed651cc09b9d088",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e2c0340ba4de-c01",
+      "assertion": "Anéeka says interstellar civilizations use coded muon-neutrino gravity pulses for real-time communication; SETI monitors alien craft.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0040",
+        "p0042",
+        "p0045",
+        "p0047"
+      ],
+      "primary_topic": "muonic-gravitational-communications",
+      "topics": [
+        "muonic-gravitational-communications",
+        "seti-surveillance"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e2c0340ba4de-c02",
+      "assertion": "Swaruu (9) places Reptiles and archons within the Cabal, with Illuminati as its human elite tier; Deep State actors control government, corporations and black operations.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0057",
+        "p0059",
+        "p0061"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "reptilians",
+        "secret-space-program"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e2c0340ba4de-c03",
+      "assertion": "Swaruu (9) says Zeta Gardeners monitor starseeds with telemetry and can read aura frequencies without implants.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0023",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "starseeds"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "In response to a questioner’s reported abduction."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other Q&A topics omitted"
+  ]
+}

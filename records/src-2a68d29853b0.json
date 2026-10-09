@@ -1,0 +1,15 @@
+{
+  "source_id": "src-2a68d29853b0",
+  "snapshot_sha256": "839490643d6968c41f7e625538433b61c0655e7c0c57c716113136d154ee2efb",
+  "language": "es",
+  "claims": [
+    {"id":"src-2a68d29853b0-c01","assertion":"Athena says collective human and Lyrian thoughts and fear manifest dark egregors, which gain attention when people focus on them.","speaker":"Swaruu X (Athena)","paragraph_ids":["p0006","p0008","p0010","p0012"],"primary_topic":"egregors","topics":["egregors","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-2a68d29853b0-c02","assertion":"Athena says people should recognize darkness without acting on it, rather than becoming blind to danger through positivity alone.","speaker":"Swaruu X (Athena)","paragraph_ids":["p0018","p0021","p0022","p0023"],"primary_topic":"consciousness-metaphysics","topics":["consciousness-metaphysics","astral-entities"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-2a68d29853b0-c03","assertion":"Yazhi says high vibration alone cannot prevent harm in physical life; awareness and practical protection still matter.","speaker":"Yazhi","paragraph_ids":["p0028","p0029","p0034","p0042","p0045"],"primary_topic":"perceptual-density","topics":["perceptual-density","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-2a68d29853b0-c04","assertion":"Yazhi says unresolved unconscious experience can override conscious intent and make people compatible with unwanted events.","speaker":"Yazhi","paragraph_ids":["p0036","p0048","p0050"],"primary_topic":"consciousness-metaphysics","topics":["consciousness-metaphysics","reincarnation-cycles"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-2a68d29853b0-c05","assertion":"Yazhi says reprogramming the unconscious requires repetition and self-knowledge, often taking a lifetime.","speaker":"Yazhi","paragraph_ids":["p0050","p0052"],"primary_topic":"consciousness-metaphysics","topics":["consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":""}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["The transcript discusses metaphysical explanations and illustrative invasion anecdotes; preserve attribution and avoid presenting them as established facts."],
+  "coverage_gaps": ["the unnamed invaded civilization and collective field context", "astral entities and manifestation details"]
+}

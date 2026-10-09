@@ -1,0 +1,68 @@
+{
+  "source_id": "src-27320216da18",
+  "snapshot_sha256": "fcffe9fb34e24112fa9b1c00c107242c5532b8a127ae9b0f1ff9a70141dc68bd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-27320216da18-c01",
+      "assertion": "Mari says Etorthans were scheduled to arrive in two stages to supervise and audit the Solar System’s Federation region.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "high-greys"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-27320216da18-c02",
+      "assertion": "Mari says the Federation includes thousands of civilizations, mostly benevolent, and that she does not expect hostilities over the audit.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0028"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes possible diplomatic friction."
+    },
+    {
+      "id": "src-27320216da18-c03",
+      "assertion": "Mari says repeated internet outages affected Toleka and Urmah links at Viera; she suspects some local officials may be deliberately obstructing them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0034",
+        "p0036"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says outages do not mean war is expected."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about arrival schedules, outages, and motives are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Other comments on rumors and alleged events"
+  ]
+}

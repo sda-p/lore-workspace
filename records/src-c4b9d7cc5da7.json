@@ -1,0 +1,63 @@
+{
+  "source_id": "src-c4b9d7cc5da7",
+  "snapshot_sha256": "02538e35623ed415c4e7dda7155c002e71f12cef0bada2d2d13e9f4575b1b2e2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c4b9d7cc5da7-c01",
+      "assertion": "Za’el argues that Earth science is constrained by reductionist materialism and claims some findings are deliberately distorted to steer public belief and attention.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4b9d7cc5da7-c02",
+      "assertion": "Za’el says social pressure and arrogance discourage people from questioning established knowledge, reinforcing direct and indirect censorship.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c4b9d7cc5da7-c03",
+      "assertion": "Za’el reasons that different perceptual ranges imply multiple levels of reality and that life exists in realms beyond human perception.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other arguments about compartmentalized knowledge and inquiry omitted"
+  ]
+}

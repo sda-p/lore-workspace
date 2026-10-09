@@ -1,0 +1,143 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-09T05:27:43+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-020",
+    "reviewer": 1,
+    "reviewed_source_ids": [
+      "src-0035cf935a87",
+      "src-4dbc0136de84",
+      "src-8bff2031cfbf",
+      "src-87c6a18876e9",
+      "src-fdd736de175d",
+      "src-ffe78a37d0f5",
+      "src-c5120a65216b",
+      "src-3694da810026",
+      "src-13a3aaa8e506",
+      "src-2a68d29853b0",
+      "src-9ddbc83ba873",
+      "src-df9f65c0c57e",
+      "src-6e7da028d2f1",
+      "src-ec2a31d0bdb9",
+      "src-b3b68817ea60",
+      "src-184076248eae",
+      "src-282d57f0ae79",
+      "src-345c62ef62b3",
+      "src-b0f527e60507",
+      "src-988926b6011b",
+      "src-9f732504c39c",
+      "src-01e4c14aa99c",
+      "src-1c4bd7958c2e",
+      "src-61375db7ccbc",
+      "src-8124b6b5da72",
+      "src-81bb400febf3",
+      "src-ce9740898436",
+      "src-dcb6d4751c4b",
+      "src-fb27b0048890",
+      "src-188c293a9d24",
+      "src-264d82b182bc",
+      "src-61c94d4f2880",
+      "src-8af1bf1e59b0",
+      "src-beec8fc2e8bd",
+      "src-e58c27053b29",
+      "src-1bea1cb4c06c",
+      "src-8cfcc037b641",
+      "src-aa29b86974f4",
+      "src-b353e2ebdf6f",
+      "src-9fb3397b48c0",
+      "src-e1e3be8acdea",
+      "src-e481b6dfc969",
+      "src-b0c08f43e491",
+      "src-d80b36b16b30"
+    ],
+    "corrections": [
+      {
+        "source_id": "src-ffe78a37d0f5",
+        "claim_id": "src-ffe78a37d0f5-c02",
+        "problem": "The claim states agency infiltration in the narrator’s voice as an assertion, while the source labels it as Space Academy’s belief.",
+        "action": "Attributed the belief to Space Academy and changed modality to reported.",
+        "paragraph_ids": [
+          "p0017",
+          "p0019",
+          "p0020"
+        ]
+      },
+      {
+        "source_id": "src-df9f65c0c57e",
+        "claim_id": "src-df9f65c0c57e-c02",
+        "problem": "The qualifier that manipulation can disrupt a person’s life plan was not supported by the claim’s citations.",
+        "action": "Added Mari’s paragraph describing victims being diverted from their life plan.",
+        "paragraph_ids": [
+          "p0031"
+        ]
+      },
+      {
+        "source_id": "src-81bb400febf3",
+        "claim_id": "src-81bb400febf3-c02",
+        "problem": "The account’s indoctrination and suppression of Lyrian language detail was not fully evidenced by the cited passages.",
+        "action": "Added the passages describing educational indoctrination and suppression of Lyrian traditions.",
+        "paragraph_ids": [
+          "p0031",
+          "p0032"
+        ]
+      },
+      {
+        "source_id": "src-fb27b0048890",
+        "claim_id": "src-fb27b0048890-c02",
+        "problem": "The Federation communication-rule claim omitted its source passage on private one-to-one communication.",
+        "action": "Added the passage specifying that private communication is strongly discouraged.",
+        "paragraph_ids": [
+          "p0026"
+        ]
+      }
+    ],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-0035cf935a87": "1b0b35cf4e102d631800a69eb0975f91e445dff2507e93499eaeedc9efe8b73c",
+    "src-4dbc0136de84": "e45e4aa8cf28be9cf1797e01103d447f1069057f09226b27c20446fbe7b2d7b3",
+    "src-8bff2031cfbf": "d2b6ebb50e3848f7525c97263ebd6492023ec299ccaab09b04e0fb1a1c989899",
+    "src-87c6a18876e9": "c869195dc52f36b392b7f0486420510419bf6677cd7bb911cb009b82a2777713",
+    "src-fdd736de175d": "86fceb2a0bfee9967794294795622e975002041767cf81e04f5bcd4f84f152a3",
+    "src-ffe78a37d0f5": "c9e7cb06f78e4675c07b513f4ad338c09071dea5574b6ac4a6f626d481b59fe3",
+    "src-c5120a65216b": "6718b5167472242c407f95b74cfe7dfc3faafb6eaa431b2126c7fe4b221b48c4",
+    "src-3694da810026": "0820c1d5a9e4414743283f4cd14ce72ccf7a018c53c719cbcf7f1976d71588df",
+    "src-13a3aaa8e506": "3bd3baffc99f53f04cb9bf1a877adfb86d176206cf80f86cdd08c15283d29608",
+    "src-2a68d29853b0": "752107110bffbb05010f58be4a9a30267ce79b170d6036ec06772ea8bf083926",
+    "src-9ddbc83ba873": "4257ef97568a47c592cfaf65635ad99391fe13206c9ab56d951636e38675617d",
+    "src-df9f65c0c57e": "6cac0fda79bf5e0fe31a4b9807787b699c9724940724a74999c261f76b71adfd",
+    "src-6e7da028d2f1": "39d4be0f7a62501021dfab64eb6a4eafe73648bbba23327275ca3f87752777a0",
+    "src-ec2a31d0bdb9": "b74e083a5b330f055819510bb1b2a1db7f92b97d949dc7be2046e2685bd83a11",
+    "src-b3b68817ea60": "ddb2f2f22f4b0a158f170ff127808750b4fbb798effdf90494391f3dbf82ffd2",
+    "src-184076248eae": "c8adee6b28c4c1231818f08512184505fa983025c1e9c9a620bc8e0e654a9597",
+    "src-282d57f0ae79": "02d75e918c34fdea0c29260768a02f2d9fb7744d45e451cf0455cc2fdd366be8",
+    "src-345c62ef62b3": "d03bb405a64974091ccf39b3bf2b8c8c7321012fe3a55b783f24595962e7ceea",
+    "src-b0f527e60507": "5127cdd672c24429406847abb85c35f02e37a3147b029c04bf629c682af5cb32",
+    "src-988926b6011b": "379869b409d0c797dfe433e664181592e5adcda03a5d7a6cf11aaab20acda9ae",
+    "src-9f732504c39c": "10b801f57665ef45284b6545f302dc2ec2aed3992771bbfbaee6bf236b632aa9",
+    "src-01e4c14aa99c": "aaf9f85ee622a2d138b705083f57e192b6a7bc557319f2c641f8c6438e04ef7f",
+    "src-1c4bd7958c2e": "9fd7f9a466e479189c990f8bf74b8e9821b91dbc18d4d104eba4324c2e566ef9",
+    "src-61375db7ccbc": "bbfd612a57d779c6c1ed3548102caaae330666f51ba61a15a1b2ded87ccecdba",
+    "src-8124b6b5da72": "7238c1db5fd5b8f8ab54eaf8d2ebc22a4021a14104fe546a02c098bf75a5c5b7",
+    "src-81bb400febf3": "b3dad4dc9ba3e4681309aacc262cda56506dae05354afa93618471913187fbe1",
+    "src-ce9740898436": "f6efd75c84bbc8daa1669849bcddb090fb6f12f080cd6c0a1daaece3d954d2fb",
+    "src-dcb6d4751c4b": "5a24204e4a73590d2e583c7bb8823f6431e1a26433c345994521287e2eec7478",
+    "src-fb27b0048890": "a50a26fdb84823bd20297af423d568ddc183ee9b359bee45fca91f19f4e6fdf1",
+    "src-188c293a9d24": "84bcdb8092287dc2ae1e7259ee7ad7179f0d33082186f267cc639a1099c900bb",
+    "src-264d82b182bc": "153d5338a4838ad17e6eff9f8ada21f904a07797bb4f55b64d716b78f9236230",
+    "src-61c94d4f2880": "3670c7d6abdf85bd375f334d6d7bf29a679d872d00e69d9a00c38b52ab50fb02",
+    "src-8af1bf1e59b0": "6a02b8453ccda128e934ab1ed354da8335815783d4c8e37ca7548c8f60beb94a",
+    "src-beec8fc2e8bd": "5d8878b8ed43ecc69c094d100d5178e52149a661e60c08e287fcbfbd73026a18",
+    "src-e58c27053b29": "497f340012e5fb92c76eb28c499b1793fc04c9d1457adac8f0acc824f83c7a62",
+    "src-1bea1cb4c06c": "c50139b8b096ba119cb982390fca65c06c22f298a4c004bd42095855abdfeb50",
+    "src-8cfcc037b641": "e215869ec91420679e7c3b87c56aeb8d77b6a09a1e387947d82aab7949a250ee",
+    "src-aa29b86974f4": "6104d39b95be898f51e6b73f2a9ef28905af20db5f398a149c931bfee2374882",
+    "src-b353e2ebdf6f": "80c94ab5813a2d5d36cdc08f47355b35fcf3751abb99c70feff227ac585530e6",
+    "src-9fb3397b48c0": "90830b138a48d9edb8cdeadf1bf50075daf8bf180f0453913a444d6dcffaebcd",
+    "src-e1e3be8acdea": "24ee8d8957e31a8937eb499b47504d1b119db443d821ba96f1d5f0f933ca79d6",
+    "src-e481b6dfc969": "6ab2c638b7ee543dc958a75c0d45984de22a87ef018a42fb1480b7e1a72b1e73",
+    "src-b0c08f43e491": "b651e331abdb05aa0f9379d1d0a07b9abadfba6d8d4e4d5913bbf9d0bbec030a",
+    "src-d80b36b16b30": "acf99411fa475863291c5e093f38744cf415458d2807e5cd05f42a3c5335ea6a"
+  }
+}

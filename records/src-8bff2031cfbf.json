@@ -1,0 +1,102 @@
+{
+  "source_id": "src-8bff2031cfbf",
+  "snapshot_sha256": "8d19ce801c890db4ee460c979a04abad5b4aab507a72c1e1f36991af8a453a3c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8bff2031cfbf-c01",
+      "assertion": "Swaruu (9) accuses Cinna of monopolizing Taygetan-human contact and manipulating council members via the Federation.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0021",
+        "p0024",
+        "p0072",
+        "p0086"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8bff2031cfbf-c02",
+      "assertion": "Swaruu (9) describes DUFES as a human-extraterrestrial mediation group, alleging covert control and extortion aims.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0074",
+        "p0075"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8bff2031cfbf-c03",
+      "assertion": "Swaruu (9) says DUFES collapsed March 21, 2019; Asket resigned and Swaruu assumed fleet command that day, coincidentally.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0076",
+        "p0078"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She denies a causal link."
+    },
+    {
+      "id": "src-8bff2031cfbf-c04",
+      "assertion": "Anéeka says DUFES publication violated the Prime Directive; holographic computers could not transfer directly to digital systems.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0098",
+        "p0099",
+        "p0100"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "holographic-computers"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8bff2031cfbf-c05",
+      "assertion": "Swaruu says she resumed contact after gaining authority to open ship computers; Asket previously led.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0108",
+        "p0109"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript contains extensive allegations about Cinna and DUFES; preserve attribution and do not treat accusations as established facts."
+  ],
+  "coverage_gaps": [
+    "accusations concerning mental influence, possession, and infiltration",
+    "disputed contact history and interpersonal conflict"
+  ]
+}

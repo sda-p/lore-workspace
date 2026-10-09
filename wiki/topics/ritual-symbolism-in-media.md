@@ -48,6 +48,16 @@ Source: [TORO APIS – SIMBOLISMO - PLEYADES – TAURO – EL OJO MORADO DE LOS 
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-c770aad74bc9-c02
+
+She says media promote dark imagery to program collective perception and manifestation, benefiting entities she calls astral parasites. This describes her account of the media agenda.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Apegos e Infestaciones, Parte 4, Bajo Astral, Ideas y Programación](https://swaruu.org/transcripts/apegos-e-infestaciones-parte-4-bajo-astral-ideas-y-programacion) (2023-07-02; es); passages p0009, p0011, p0012, p0013. [Structured record](../../records/src-c770aad74bc9.json).
+
+Related topics: [Archons and demons](archons-and-demons.md).
+
 ## Review flags
 
 - claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified

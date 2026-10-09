@@ -1,0 +1,36 @@
+{
+  "source_id": "src-d80b36b16b30",
+  "snapshot_sha256": "4dc597b08fe10b6a325f59c41eb3f9709b083f7e80722434939d2a68ff1fb61d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d80b36b16b30-c01",
+      "assertion": "Mari Swa reports heavy traffic of ships labeled Alfratean passing close to Taygetan vessels near Australia, triggering collision alerts.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0006", "p0007", "p0011", "p0012"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the ships’ identities were based on transponders."
+    },
+    {
+      "id": "src-d80b36b16b30-c02",
+      "assertion": "Mari suspects central Australia has Federation traffic, restricted zones, and Cabal facilities, but says the activity’s purpose is unknown.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0014", "p0017", "p0019", "p0023"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She explicitly describes the proposed meeting scenario as speculation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source gives an unverified account of extraterrestrial traffic and alleged Australian facilities."
+  ],
+  "coverage_gaps": [
+    "It also discusses long fences and their alleged role in restricting human movement."
+  ]
+}

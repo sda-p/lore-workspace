@@ -1,0 +1,66 @@
+{
+  "source_id": "src-88e9e60e1494",
+  "snapshot_sha256": "ebd819a020e48e4a90074a9ff6e0613c91426669b959009490653bcf345b5998",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-88e9e60e1494-c01",
+      "assertion": "Mari describes Vigilant Eagle as a 320-m destroyer with two zero-point reactors, four counter-rotating plasma turbines and 25 crew, stationed to protect Toleka.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "crystal-core-zero-point-reactors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88e9e60e1494-c02",
+      "assertion": "Mari reports an Etorthan deputy commander died after visiting Antarctica; cause was undisclosed, and his homeworld is in Nu Orionis.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "orion-council"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88e9e60e1494-c03",
+      "assertion": "The Federation says Etorthans found Orion Greys posing as Zetas in an abduction operation targeting youths; Mari suspects the announcement was publicity to gain support.",
+      "speaker": "Mari Swaruu, relaying Federation report and her assessment",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "orion-grays"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Toleka repairs and transhumanism claims omitted"
+  ]
+}

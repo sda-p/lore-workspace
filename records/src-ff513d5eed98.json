@@ -1,0 +1,49 @@
+{
+  "source_id": "src-ff513d5eed98",
+  "snapshot_sha256": "efb564eb7a81edd20fca921fe4a6c02cc1a795c3d98b616bdea2ec9443f800d8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ff513d5eed98-c01",
+      "assertion": "Za’el says bullying and cruelty toward innocent or vulnerable people often arise from fear and prior trauma.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff513d5eed98-c02",
+      "assertion": "Za’el describes starseeds as a source of positive influence who can choose to model a kinder way of living.",
+      "speaker": "Za’el",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Psychological and metaphysical interpretations are attributed to Za’el."
+  ],
+  "coverage_gaps": [
+    "His broader critique of Earth society and Federation influence"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "source_id": "src-7e2d3128e0af",
+  "snapshot_sha256": "6e188fc68a7344ec0fc1d1be172120d069af3fbab105a4e209c571b648d19322",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7e2d3128e0af-c01",
+      "assertion": "Athena says Suzy MK-3 is compact; MK-4 adds space and improved controls but keeps older engines.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e2d3128e0af-c02",
+      "assertion": "MK-5 tested near-double-power engines; MK-6 is the fastest, most powerful Suzy model.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e2d3128e0af-c03",
+      "assertion": "Athena says plasma flight may exceed half light-speed; jump mode shifts frequency, appearing instantaneous.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0041",
+        "p0042"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e2d3128e0af-c04",
+      "assertion": "Athena says Suzy fighters cloak, project false positions, or mimic aircraft under Federation protocols.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0049",
+        "p0052",
+        "p0054"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e2d3128e0af-c05",
+      "assertion": "Athena says AI obeys pilots but protects Taygeta; a rogue MK-1 was destroyed.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "suzy-class-starships",
+      "topics": [
+        "suzy-class-starships",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7e2d3128e0af-c06",
+      "assertion": "Athena says Hourglass jumps alter travelers’ timelines; collective influence can affect nontravelers.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "fleet numbers and detailed MK-1 through MK-6 specifications",
+    "underwater operations, tractor-beam capacity, and mission details"
+  ]
+}

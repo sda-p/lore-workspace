@@ -1,0 +1,68 @@
+{
+  "source_id": "src-9fe31867478a",
+  "snapshot_sha256": "c474df5c0cacd12a268ea43752c2d623f96f4b2981fcc352f3c0cb475009ef04",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9fe31867478a-c01",
+      "assertion": "Mari says the Federation’s First Directive restricts her group to written communication using Earth-level technology.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9fe31867478a-c02",
+      "assertion": "Mari says Taygetans come from a moneyless society but pay for food and supplies on Earth because taking or replicating goods would violate their ethics.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0017",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9fe31867478a-c03",
+      "assertion": "Mari says the Federation stopped funding Taygetan operations on Earth, so her group must raise funds or return home.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Federation policy and Taygetan circumstances are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Her claims about human-alien similarities and evidence"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source_id": "src-b77f8213e67a",
+  "snapshot_sha256": "d92bcf6ee4b4af045c987f6e7609e4a21ffce828e5fd1553d2cf5b4ba0a8d779",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b77f8213e67a-c01",
+      "assertion": "Mari says the Toleka was undergoing repairs to its twelve engines with support from the Saska 1 service ship.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b77f8213e67a-c02",
+      "assertion": "Mari says two new Super Suzy Mark 6 fighters arrived from Temmer to replace older craft; fleet vessels are being standardized for shared parts and maintenance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Operational details are attributed to Mari Swaruu and are time-specific."
+  ],
+  "coverage_gaps": [
+    "Other updates on diplomacy and mosquito investigations"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "source_id": "src-be1186902ee6",
+  "snapshot_sha256": "3e51922c885f88bb8b9aa92a802fb1863acdfb0a5922deaf7c51cce820f3877d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-be1186902ee6-c01",
+      "assertion": "Mari Swa says she dissolved the Swaruunian legal category, arguing its cited genetic traits occur among Taygetans and Lyrians.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0006",
+        "p0007",
+        "p0013"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "lyran-expansion"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-be1186902ee6-c02",
+      "assertion": "Mari says Taygetans accused higher-level Federation authorities of involvement in an attack on Queen Alenym, citing alleged genetic evidence from a Saturn-based laboratory.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "saturn-bases",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The local Federation denied involvement; the allegation remains unverified in the source."
+    },
+    {
+      "id": "src-be1186902ee6-c03",
+      "assertion": "Mari reports worsening diplomatic relations and says Taygetans would avoid future Federation meetings over security concerns.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents unverified allegations about extraterrestrial diplomacy and a targeted pathogen."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss fleet relocation, remote meetings, and claims about terrestrial political threats."
+  ]
+}

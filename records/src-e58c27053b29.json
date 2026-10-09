@@ -1,0 +1,88 @@
+{
+  "source_id": "src-e58c27053b29",
+  "snapshot_sha256": "169951a0532bb9941e64d7bfa63176587df354d386ab3392372c45092582007f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e58c27053b29-c01",
+      "assertion": "Mari says Alenym aligned Alcyone Council against Federation Earth policy and allied militarily with Urmah.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "urmah",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e58c27053b29-c02",
+      "assertion": "Mari reports Alenym became ill after eating fruit contaminated by Moghyay bird waste.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "genetic-weapons",
+      "topics": [
+        "genetic-weapons",
+        "moghyay"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She speculates a covert genetic weapon, but says this remained unconfirmed."
+    },
+    {
+      "id": "src-e58c27053b29-c03",
+      "assertion": "Mari says security rules separate the queens across ships; Alenym's illness made Mari assume active duties.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Advisers supported Mari's development."
+    },
+    {
+      "id": "src-e58c27053b29-c04",
+      "assertion": "Mari describes barter exchanging Temmer citrus surplus for Maya grains, cotton, and seeds.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents surplus exchange without money as a holistic-society practice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The alleged attack remains speculation in Mari's account."
+  ],
+  "coverage_gaps": [
+    "earlier historical allegations about Cabal activity and Alenym's approval rating"
+  ]
+}

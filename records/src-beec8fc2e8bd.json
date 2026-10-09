@@ -1,0 +1,36 @@
+{
+  "source_id": "src-beec8fc2e8bd",
+  "snapshot_sha256": "3c90b9de94a0758347f44f7e8f75ceda159d3e62cc8dd942006e7ed8e07a5646",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-beec8fc2e8bd-c01",
+      "assertion": "Yazhi says the Second Contact project was halted by Federation orders because it was considered too intrusive to Earth’s Matrix and development.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0062", "p0063", "p0066", "p0067"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the trainees continued other training and duties."
+    },
+    {
+      "id": "src-beec8fc2e8bd-c02",
+      "assertion": "Yazhi describes Sadicleya’s humanoid android as an interface linked to the ship’s AI rather than an independent system.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0024", "p0075", "p0093", "p0094"],
+      "primary_topic": "starship-systems",
+      "topics": ["starship-systems", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the crew had not yet activated it."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The conversation presents unverified claims about extraterrestrial projects and spacecraft technology."
+  ],
+  "coverage_gaps": [
+    "Other parts discuss diplomatic tensions, ship relocation, and the android’s appearance."
+  ]
+}

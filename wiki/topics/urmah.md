@@ -1122,6 +1122,112 @@ Source: [Yazhi Swaruu - Sabiduria de "Niña" Extraterrestre - Charla Metafísica
 
 Related topics: [Combat doctrine](combat-doctrine.md).
 
+### src-a833dee05151-c01
+
+Mari describes Urmah as large felines with complex hands and hips adapted for upright walking, while retaining the ability to run and fight on four legs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Urmah Ari, Segunda Entrevista. Ética, forma de vida Felina Interestelar, También Motivacional](https://swaruu.org/transcripts/urmah-ari-segunda-entrevista-etica-forma-de-vida-felina-interestelar-tambien-motivacional) (2023-09-12; es); passages p0003, p0004, p0005, p0008. [Structured record](../../records/src-a833dee05151.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-a833dee05151-c02
+
+Arishah says Urmah value directness, self-respect, loyalty, and honor; they first secure personal stability, then help others without self-harm. Interview translated and narrated by Mari.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Urmah Ari, Segunda Entrevista. Ética, forma de vida Felina Interestelar, También Motivacional](https://swaruu.org/transcripts/urmah-ari-segunda-entrevista-etica-forma-de-vida-felina-interestelar-tambien-motivacional) (2023-09-12; es); passages p0016, p0017, p0022, p0023, p0025, p0026, p0027. [Structured record](../../records/src-a833dee05151.json).
+
+### src-a833dee05151-c03
+
+Arishah says Urmah do not fear death, recall many past lives, and expect to be reborn to fight again. Interview translated and narrated by Mari.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Urmah Ari, Segunda Entrevista. Ética, forma de vida Felina Interestelar, También Motivacional](https://swaruu.org/transcripts/urmah-ari-segunda-entrevista-etica-forma-de-vida-felina-interestelar-tambien-motivacional) (2023-09-12; es); passages p0029, p0030. [Structured record](../../records/src-a833dee05151.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-ac04705c7e8d-c03
+
+Athena says Urmah follow their own agendas and represent Avyon Council, a feline confederation rivaling the Galactic Federation.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Tornado y Fabrica Pfizer - Que Paso Realmente? Athena Swaruu Informa](https://swaruu.org/transcripts/tornado-y-fabrica-pfizer-que-paso-realmente-athena-swaruu-informa) (2023-07-30; es); passages p0018, p0025, p0026. [Structured record](../../records/src-ac04705c7e8d.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Alien species and distinctions](alien-species.md).
+
+### src-ac04705c7e8d-c04
+
+Athena describes Avyon-uno as the Urmah fleet’s flagship, slightly larger than a Toleka, with its own intelligence network.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Tornado y Fabrica Pfizer - Que Paso Realmente? Athena Swaruu Informa](https://swaruu.org/transcripts/tornado-y-fabrica-pfizer-que-paso-realmente-athena-swaruu-informa) (2023-07-30; es); passages p0022, p0024. [Structured record](../../records/src-ac04705c7e8d.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-6666d1d0f467-c02
+
+Mari reports Urmah objections: they say nearby Avyon would have recorded a Lyra invasion and deny Orion bases in the region. These claims contradict the official Federation narrative.
+
+Attributed to **Mari Swaruu, reporting Arishah's Urmah perspective**; reported; extraction confidence: high.
+
+Source: [Alpha Centauri, Mentiras Históricas? Perspectiva de Mari y de Urmah](https://swaruu.org/transcripts/alpha-centauri-mentiras-historicas-perspectiva-de-mari-y-de-urmah) (2023-09-04; es); passages p0043, p0044, p0045, p0046. [Structured record](../../records/src-6666d1d0f467.json).
+
+Related topics: [Lyrians](lyrians.md), [Alfrata (Phaeton)](alfrata.md), [Galactic Federation](galactic-federation.md).
+
+### src-e62f2a423b11-c03
+
+Arishah says Urmah monitor human-bodied and feline-bodied Urmah starseeds; domestic cats help protect adoptive families from lower-astral entities. He says human-bodied starseeds are monitored telepathically without direct contact.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Entrevista a un Urmah. Arishah el Tigre. Parte 2](https://swaruu.org/transcripts/entrevista-a-un-urmah-arishah-el-tigre-parte-2) (2023-09-08; es); passages p0036, p0037, p0038, p0039, p0040. [Structured record](../../records/src-e62f2a423b11.json).
+
+Related topics: [Starseeds](starseeds.md), [Astral entities](astral-entities.md).
+
+### src-fc7b65e81f10-c01
+
+Arishah says Urmah follow only logical Federation rules, preserve autonomy, and maintain a feline federation the Federation avoids challenging.
+
+Attributed to **Arishah (interviewee; translated by Mari Swaruu)**; asserted; extraction confidence: high.
+
+Source: [Entrevista a un Urmah. Arishah el Tigre. Parte 1](https://swaruu.org/transcripts/entrevista-a-un-urmah-arishah-el-tigre-parte-1) (2023-09-06; es); passages p0007, p0008, p0023, p0024, p0025, p0026. [Structured record](../../records/src-fc7b65e81f10.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-fc7b65e81f10-c03
+
+Arishah says Urmah are at peace with Alpha Dracos and use military strength to deter aggressive species from their region.
+
+Attributed to **Arishah (interviewee; translated by Mari Swaruu)**; asserted; extraction confidence: high.
+
+Source: [Entrevista a un Urmah. Arishah el Tigre. Parte 1](https://swaruu.org/transcripts/entrevista-a-un-urmah-arishah-el-tigre-parte-1) (2023-09-06; es); passages p0035, p0036, p0038, p0040. [Structured record](../../records/src-fc7b65e81f10.json).
+
+Related topics: [Alpha Dracos](alpha-dracos.md).
+
+### src-e473d0c4d7a7-c01
+
+Yazhi describes Urmah flagship Avyon01 as a large, heavy U-shaped craft with a narrow opening and wraparound windows.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y NAVE URMAH](https://swaruu.org/transcripts/nave-extraterrestre-estrellada-en-el-mar-razas-extraterrestres-grises-y-nave-urmah) (2023-09-13; es); passages p0004, p0006, p0008, p0009, p0011. [Structured record](../../records/src-e473d0c4d7a7.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-e473d0c4d7a7-c03
+
+Yazhi describes Urmah forepaws as dexterous feline hands; Athena’s opinion is that a bipedal, Roman-dressed lion is the closest portrayal.
+
+Attributed to **Yazhi Swaruu and Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y NAVE URMAH](https://swaruu.org/transcripts/nave-extraterrestre-estrellada-en-el-mar-razas-extraterrestres-grises-y-nave-urmah) (2023-09-13; es); passages p0031, p0033. [Structured record](../../records/src-e473d0c4d7a7.json).
+
 ## Claims filed under other topics
 
 - [src-1461dd27e63f-c08](alien-species.md#src-1461dd27e63f-c08) — Alien species and distinctions
@@ -1154,6 +1260,10 @@ Related topics: [Combat doctrine](combat-doctrine.md).
 - [src-33c7243bf8a8-c01](galactic-federation.md#src-33c7243bf8a8-c01) — Galactic Federation
 - [src-25df1865ec2d-c05](giza-labyrinth.md#src-25df1865ec2d-c05) — Giza Labyrinth
 - [src-2e44af6cf865-c01](cultivated-meat.md#src-2e44af6cf865-c01) — Cultivated meat
+- [src-ac04705c7e8d-c01](tractor-beams.md#src-ac04705c7e8d-c01) — Tractor beams
+- [src-ac04705c7e8d-c02](prime-directive.md#src-ac04705c7e8d-c02) — Prime Directive
+- [src-2e200138040b-c01](earth-cabal.md#src-2e200138040b-c01) — Earth Cabal and power structures
+- [src-2e200138040b-c02](holistic-society.md#src-2e200138040b-c02) — Holistic society
 
 ## Review flags
 
@@ -1171,6 +1281,7 @@ Related topics: [Combat doctrine](combat-doctrine.md).
 - Medical recovery and spiritual causation are Mari’s personal report, not independently established; do not generalize or present as treatment guidance
 - Species summaries are broad and based on accounts attributed to orbital sources
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
+- The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore.
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - Yazhi-interview-report
 - attack-theory\_speculative
@@ -1210,6 +1321,7 @@ Related topics: [Combat doctrine](combat-doctrine.md).
 - species-cosmology\_attributed
 - spiritual-warfare-claims
 - translated-from-Spanish-original-not-available
+- translated-interview-may-affect-wording
 - translated-originally-Spanish
 - translation-pair-reviewed: es adds Alpha-Draco characterization at p0024-p0025
 - translation-pair-reviewed: es añade caracterización Alpha Draco en p0024-p0025

@@ -1,0 +1,65 @@
+{
+  "source_id": "src-36d1c2cc2b42",
+  "snapshot_sha256": "7bd8a9888cb9d070301cc307737a04edd1425d868c42b0ce0edf394fb1d522a1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-36d1c2cc2b42-c01",
+      "assertion": "Mari says the Federation’s Viera station serves as its local headquarters and flight-control center for Earth; ships must file plans to enter or leave.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "viera"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36d1c2cc2b42-c02",
+      "assertion": "Mari says Centauri are the most numerous star people around Earth, while Antarians patrol space around the planet.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0022"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36d1c2cc2b42-c03",
+      "assertion": "Mari says Urmah remain members of the local Federation despite disagreeing with it, and describes them as heavily militarized and direct about their intentions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This is a time-specific 2023 account of interstellar factions and operations, attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Other named species and disputed Etorthan presence"
+  ]
+}

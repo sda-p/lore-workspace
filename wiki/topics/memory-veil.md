@@ -86,6 +86,56 @@ Source: [Arien de Erra - Recuerdos, Saber Interno y responsabilidad propia](http
 
 Related topics: [Soul-loop reincarnation](soul-loop-reincarnation.md).
 
+### src-5747f0ef36c2-c03
+
+Swaruu (9) recommends vividly visualizing a desired alternate past to adopt its identity in the present, while incorporating rather than denying socially accepted memories. Advice based on her metaphysical claims.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Cómo cambiar tu pasado, con Swaruu de Erra](https://swaruu.org/transcripts/como-cambiar-tu-pasado-con-swaruu-de-erra) (2023-05-08; es); passages p0026, p0027, p0029, p0030, p0043. [Structured record](../../records/src-5747f0ef36c2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Timeline branching](timeline-branching.md).
+
+### src-4bf388da9fd3-c02
+
+Yazhi says souls choose an oblivion veil to avoid karmic and past-life memories before beginning a new life. She links it to the frequency distance between the astral and earthly life.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [DESCLASIFICACIONES Y DESINFORMACIÓN AGENDA DETRÁS DE LA DIVULGACIÓN OFICIAL EXTRATERRESTRE](https://swaruu.org/transcripts/desclasificaciones-y-desinformacion-agenda-detras-de-la-divulgacion-oficial-extraterrestre) (2023-06-19; es); passages p0014. [Structured record](../../records/src-4bf388da9fd3.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-06cd5c8d1a9d-c02
+
+She says forgetting enables distinct ego identity, which draws on present and past-life experiences.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Como se Fragmentan las Almas - Conocimiento Estelar - Yazhi Swaruu](https://swaruu.org/transcripts/como-se-fragmentan-las-almas-conocimiento-estelar-yazhi-swaruu) (2023-04-30; es); passages p0008, p0010, p0012, p0015. [Structured record](../../records/src-06cd5c8d1a9d.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-cdc082ef32a2-c02
+
+Yazhi says memory is not bodily; reduced Source connection on Earth creates a forgetting veil and separate ego identity.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Fragmentación de Almas - Directo con Gosia](https://swaruu.org/transcripts/fragmentacion-de-almas-directo-con-gosia) (2023-05-05; es); passages p0025, p0026, p0027, p0028, p0029. [Structured record](../../records/src-cdc082ef32a2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-18f0726037ac-c01
+
+Kassia says Earth’s forgetting veil can intensify soul fragmentation; someone recalling a 5D identity is a distinct person and does not inherit that being’s place.
+
+Attributed to **Kassia, message relayed by Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Las extracciones y sus problemas. Parte 4, Kassia habla directamente a las Semillas que recuerdan](https://swaruu.org/transcripts/las-extracciones-y-sus-problemas-parte-4-kassia-habla-directamente-a-las-semillas-que-recuerdan) (2023-07-26; es); passages p0005, p0006, p0008, p0012. [Structured record](../../records/src-18f0726037ac.json).
+
+Related topics: [Nexus souls](nexus-souls.md).
+
 ## Claims filed under other topics
 
 - [src-aec6c1a86364-c01](consciousness-metaphysics.md#src-aec6c1a86364-c01) — Consciousness and metaphysics
@@ -96,12 +146,20 @@ Related topics: [Soul-loop reincarnation](soul-loop-reincarnation.md).
 - [src-83e6eecc2c25-c02](total-immersion-simulations.md#src-83e6eecc2c25-c02) — Total-immersion simulations
 - [src-80f4a17fe00d-c01](soul-loop-reincarnation.md#src-80f4a17fe00d-c01) — Soul-loop reincarnation
 - [src-dcfd5493c3df-c02](soul-loop-reincarnation.md#src-dcfd5493c3df-c02) — Soul-loop reincarnation
+- [src-39d2bef39243-c01](starseeds.md#src-39d2bef39243-c01) — Starseeds
+- [src-97525be5bbfa-c01](starseeds.md#src-97525be5bbfa-c01) — Starseeds
+- [src-18f0726037ac-c02](reincarnation-cycles.md#src-18f0726037ac-c02) — Reincarnation and karmic cycles
+- [src-18f0726037ac-c03](reincarnation-cycles.md#src-18f0726037ac-c03) — Reincarnation and karmic cycles
 
 ## Review flags
 
+- Kassia’s message is written and prepared for publication by Mari Swaruu.
 - Mari Swaruu presents different possible outcomes after death as depending on the individual’s perception and outlook.
 - Past-life memories are claims reported by Mari, not independently verified.
 - Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved
+- The source affirms extraterrestrial identities based on subjective feelings; preserve attribution as the author’s belief.
+- The source also makes an unsupported cancer and dissociative-identity claim in p0052; it is omitted from the lore claims.
+- The source combines separate April 2021 and 2023 excerpts; speakers are attributed by passage.
 - astral-perception-agenda-claim
 - claims about memory, brain structure, consciousness, and Van Allen belts are attributed lore, not independently verified facts
 - claims about time, memory, history, and social control are attributed to Yazhi, not independently verified

@@ -146,6 +146,16 @@ Source: [RAZAS EXTRATERRESTRES en 5D (6) - CENTAURI (Mensaje Pleyadiano-TAYGETA)
 
 Related topics: [Galactic Federation](galactic-federation.md), [Holistic society](holistic-society.md).
 
+### src-6666d1d0f467-c01
+
+Mari recounts the Federation account that Orion forces enslaved Lyrians on Phaeton, later Alfrata, until Federation forces liberated it around 1560–1570. She says Federation guidance then introduced a council-based political system.
+
+Attributed to **Mari Swaruu, summarizing the Federation account**; reported; extraction confidence: high.
+
+Source: [Alpha Centauri, Mentiras Históricas? Perspectiva de Mari y de Urmah](https://swaruu.org/transcripts/alpha-centauri-mentiras-historicas-perspectiva-de-mari-y-de-urmah) (2023-09-04; es); passages p0021, p0023, p0033, p0034. [Structured record](../../records/src-6666d1d0f467.json).
+
+Related topics: [Alfrateans](alfrateans.md), [Galactic Federation](galactic-federation.md), [Lyrians](lyrians.md).
+
 ## Claims filed under other topics
 
 - [src-19300029508e-c05](urmah.md#src-19300029508e-c05) — Urmah
@@ -156,6 +166,8 @@ Related topics: [Galactic Federation](galactic-federation.md), [Holistic society
 - [src-d9a04b018638-c02](urmah.md#src-d9a04b018638-c02) — Urmah
 - [src-7037a2d38c7d-c01](galactic-federation.md#src-7037a2d38c7d-c01) — Galactic Federation
 - [src-7d76d15d2444-c03](lyrians.md#src-7d76d15d2444-c03) — Lyrians
+- [src-6666d1d0f467-c02](urmah.md#src-6666d1d0f467-c02) — Urmah
+- [src-e62f2a423b11-c02](civilizational-resets.md#src-e62f2a423b11-c02) — Civilizational resets
 
 ## Review flags
 

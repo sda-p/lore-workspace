@@ -1,0 +1,32 @@
+{
+  "source_id": "src-c1b0bd64ba3b",
+  "snapshot_sha256": "15abf3e4d473fead1025b8818a2b8f11309a93b10e4d2c7f6e4515ad79b45297",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c1b0bd64ba3b-c01",
+      "assertion": "Swaruu X (Athena) characterizes Greer's UFO material as likely government psychological operations, possibly linked to a staged alien invasion.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0002", "p0004", "p0005", "p0006"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact", "false-alien-invasion"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says Greer could be controlled opposition even if his intentions are genuine."
+    },
+    {
+      "id": "src-c1b0bd64ba3b-c02",
+      "assertion": "Athena says her group's refusal to provide evidence protects it from retaliation and may not persuade skeptics anyway.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0007", "p0008"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames the group's lack of proof as intentional."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["The source presents unverified allegations about Steven Greer, CIA ties, and government operations."],
+  "coverage_gaps": ["the reported Las Vegas incident"]
+}

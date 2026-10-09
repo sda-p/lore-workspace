@@ -1,0 +1,70 @@
+{
+  "source_id": "src-4b785d394c48",
+  "snapshot_sha256": "744672f4a99ad0b3ecf106f7286864add34c627057ce917e0b74db8cecdfa51d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4b785d394c48-c01",
+      "assertion": "Mari says Earth’s “veil of forgetting” results from frequency incompatibility and claims controllers exploit it to manipulate people and historical memory.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4b785d394c48-c02",
+      "assertion": "Mari says societies that remember past lives may be calmer but tend toward social and technological stasis until new threats spur development.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She cites Taygetan starship development as an example."
+    },
+    {
+      "id": "src-4b785d394c48-c03",
+      "assertion": "Mari says past-life memories vary, can shape present values and personality, and may be set aside when someone chooses a new identity.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0023",
+        "p0025",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes this as her own choice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about memory’s burdens and benefits omitted"
+  ]
+}

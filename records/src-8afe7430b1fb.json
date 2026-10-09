@@ -1,0 +1,16 @@
+{
+  "source_id": "src-8afe7430b1fb",
+  "snapshot_sha256": "3ce1400fd11f6b44710d9abcbf0ecfeaa08678953b841d8e2ff689ae555cfac5",
+  "language": "es",
+  "claims": [
+    {"id":"src-8afe7430b1fb-c01","assertion":"Yazhi describes Suzy TPT-155 as a 93-meter fighter with two decks.","speaker":"Yazhi","paragraph_ids":["p0003","p0004"],"primary_topic":"suzy-class-starships","topics":["suzy-class-starships"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-8afe7430b1fb-c02","assertion":"Its quartz zero-point reactors power counterrotating plasma turbines rated at 7 TEV combined.","speaker":"Yazhi","paragraph_ids":["p0031","p0034"],"primary_topic":"energy-generation","topics":["energy-generation","suzy-class-starships"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-8afe7430b1fb-c03","assertion":"A 2.6-meter tractor-beam receiver handles objects or people; Suzy carries two medical pods.","speaker":"Yazhi","paragraph_ids":["p0029","p0030"],"primary_topic":"tractor-beams","topics":["tractor-beams","suzy-class-starships"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-8afe7430b1fb-c04","assertion":"Suzy has a transparent polymorphic-titanium cockpit and holographic displays, with hydraulic loading ramps.","speaker":"Yazhi","paragraph_ids":["p0017","p0018","p0010","p0050"],"primary_topic":"suzy-class-starships","topics":["suzy-class-starships","holographic-computers"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-8afe7430b1fb-c05","assertion":"Athena says repairable simple parts complement advanced systems to improve reliability in deep space.","speaker":"Swaruu X (Athena)","paragraph_ids":["p0049","p0051"],"primary_topic":"suzy-class-starships","topics":["suzy-class-starships"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-8afe7430b1fb-c06","assertion":"Athena says Hourglass is an elite temporal-operations unit; Suzy craft use classified materials and are restricted to it.","speaker":"Swaruu X (Athena)","paragraph_ids":["p0057","p0059","p0061"],"primary_topic":"timeline-branching","topics":["timeline-branching","suzy-class-starships"],"modality":"asserted","confidence":"high","qualifiers":""}
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["detailed cabin layout and flight controls", "neutrino-muon data transfer and Suzy variants"]
+}

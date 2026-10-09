@@ -1,0 +1,50 @@
+{
+  "source_id": "src-a84a779862a2",
+  "snapshot_sha256": "8839dc034af62c6d34f7e12e2933a01c28cb943939b5be77c80fff1b3eeb247f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a84a779862a2-c01",
+      "assertion": "Athena describes higher selves as connected, nested beings or aspects that may influence groups as a collective; they have broader but still limited perspectives and may not share an incarnate person’s priorities.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says conscious avatar wishes can carry less weight in the higher self’s view."
+    },
+    {
+      "id": "src-a84a779862a2-c02",
+      "assertion": "Athena says accidents may also be provoked by lower-astral entities seeking suffering, with a person’s vibration affecting whether they align.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0034"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as an additional factor, not a complete explanation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "higher-self guidance and incarnation interests",
+    "practical meditation advice"
+  ]
+}

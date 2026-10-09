@@ -76,9 +76,20 @@ Source: [Formación de una matrix](https://swaruu.org/transcripts/formacion-de-u
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-e62f2a423b11-c02
+
+Arishah calls Alfrata's liberation a staged reset and says its past resembles Earth's, with both worlds repeatedly controlled by the Federation. He says Earth needs no liberation from anyone but the Federation.
+
+Attributed to **Arishah**; asserted; extraction confidence: high.
+
+Source: [Entrevista a un Urmah. Arishah el Tigre. Parte 2](https://swaruu.org/transcripts/entrevista-a-un-urmah-arishah-el-tigre-parte-2) (2023-09-08; es); passages p0027, p0028, p0029. [Structured record](../../records/src-e62f2a423b11.json).
+
+Related topics: [Alfrata (Phaeton)](alfrata.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-52d2d3f49000-c02](tartaria.md#src-52d2d3f49000-c02) — Tartaria
+- [src-d9bbb3c4038b-c02](tartaria.md#src-d9bbb3c4038b-c02) — Tartaria
 
 ## Review flags
 
@@ -86,3 +97,4 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Tartaria chronology and destruction are presented as disputed source claims
 - claims about time, memory, history, and social control are attributed to Yazhi, not independently verified
 - reset-sequence-and-dating-unclear
+- tartaria-history-disputed

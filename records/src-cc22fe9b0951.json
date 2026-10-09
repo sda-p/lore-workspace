@@ -1,0 +1,65 @@
+{
+  "source_id": "src-cc22fe9b0951",
+  "snapshot_sha256": "d4e1bc34860bdd04c9bd384bc483a20b9b65dadd8d0ead2a035ff54fad927e3a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cc22fe9b0951-c01",
+      "assertion": "Yazhi says people share a collective consciousness and perceptual agreements, so one awakened person may influence reality disproportionately to their understanding and capacity.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cc22fe9b0951-c02",
+      "assertion": "Yazhi describes influencing a group timeline as telepathically understanding people’s wants and shifting how they interpret memories and ideas toward a shared scenario.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this rearranges meanings rather than creating memories from nothing."
+    },
+    {
+      "id": "src-cc22fe9b0951-c03",
+      "assertion": "Yazhi says mental barriers can block telepathic intrusion, while ordinary speech and interaction also alter another person’s reality and timeline.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Claims about timeline as ideas and nonlocal distance omitted"
+  ]
+}

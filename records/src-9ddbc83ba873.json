@@ -1,0 +1,47 @@
+{
+  "source_id": "src-9ddbc83ba873",
+  "snapshot_sha256": "a453737c48c906bce93d130e153cfb3c496702f018e1c5960525552cb81b09cb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9ddbc83ba873-c01",
+      "assertion": "Yazhi says there is no positive agenda in the manipulative sense; she describes the positive side as supporting souls’ evolution.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0013", "p0034"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She distinguishes this from the lower-level view of events."
+    },
+    {
+      "id": "src-9ddbc83ba873-c02",
+      "assertion": "Yazhi argues that harmful agendas eventually undermine themselves and cannot advance indefinitely.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0021", "p0022", "p0036"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as a metaphysical claim."
+    },
+    {
+      "id": "src-9ddbc83ba873-c03",
+      "assertion": "Yazhi envisions Earth eventually becoming an interstellar civilization with a holistic society, while saying humans determine that outcome.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0054", "p0056", "p0058"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She calls this her interpretation, not necessarily humanity’s expressed preference."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This dialogue presents spiritual and conspiratorial perspectives as reported claims; it is not independently verified."
+  ],
+  "coverage_gaps": [
+    "Further discussion covers incarnation, astral memory, perceived suffering, and warnings about control agendas."
+  ]
+}

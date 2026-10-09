@@ -62,6 +62,36 @@ Source: [Presentación (Za'el)](https://swaruu.org/transcripts/presentacion-za-e
 
 Related topics: [Swaruunians](swaruunians.md).
 
+### src-b4532dd6ab33-c04
+
+She says all are universal starseeds with many possible past lineages, despite fixation on a few.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Despertar y Conciencia, ¿En qué nivel estás?](https://swaruu.org/transcripts/despertar-y-conciencia-en-que-nivel-estas) (2023-09-14; es); passages p0025, p0026. [Structured record](../../records/src-b4532dd6ab33.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-531dd2c83cf3-c02
+
+She says starseeds accept challenges and offer alternatives, but are not responsible for changing others or defeating the Cabal.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares - Conversación con Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/semillas-estelares-conversacion-con-sophia-swaruu-yazhi) (2023-06-10; es); passages p0015, p0017, p0019, p0020. [Structured record](../../records/src-531dd2c83cf3.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-ab60202e760e-c03
+
+Mari says distinct-frequency starseeds may separate from collectives; stronger ones can reshape shared reality telepathically.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Inconsciente Colectivo](https://swaruu.org/transcripts/el-inconsciente-colectivo) (2023-05-06; es); passages p0015, p0016, p0021, p0022. [Structured record](../../records/src-ab60202e760e.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-5e8b4d828ea6-c03](taygetans.md#src-5e8b4d828ea6-c03) — Taygetans

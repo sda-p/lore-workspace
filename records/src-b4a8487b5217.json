@@ -1,0 +1,69 @@
+{
+  "source_id": "src-b4a8487b5217",
+  "snapshot_sha256": "54f0b36e02b171073453021b6305c90559780f4d13dd462f02d856cd3cadbaba",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b4a8487b5217-c01",
+      "assertion": "Anéeka says local Federation officials report to a Saturn-based council whose members are inaccessible and unidentified.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0015",
+        "p0027"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "saturn-bases"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b4a8487b5217-c02",
+      "assertion": "Anéeka says Federation bases near Saturn are mainly underground on moons and in ring asteroids, with the rings used for mineral resources.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0038",
+        "p0041",
+        "p0044"
+      ],
+      "primary_topic": "saturn-bases",
+      "topics": [
+        "saturn-bases",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b4a8487b5217-c03",
+      "assertion": "Anéeka describes Saturn as hosting floating animal life, including giant jellyfish-like organisms and smaller prey in atmospheric ecosystems.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0043",
+        "p0046",
+        "p0048",
+        "p0050"
+      ],
+      "primary_topic": "saturn-fauna",
+      "topics": [
+        "saturn-fauna"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the planet has no advanced civilization there."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Federation hierarchy and Saturn environments are attributed to Anéeka."
+  ],
+  "coverage_gaps": [
+    "Species represented in the Sphere Alliance"
+  ]
+}

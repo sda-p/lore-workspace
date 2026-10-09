@@ -1,0 +1,65 @@
+{
+  "source_id": "src-6496ca50abb5",
+  "snapshot_sha256": "1f5f0e74b5e10f0fd4c33662f5205b35f311d631165763758619e6aa26096b9c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6496ca50abb5-c01",
+      "assertion": "Mari reports that a blood test found little or no insulin production, and a physician diagnosed type 1 diabetes under terrestrial medicine.",
+      "speaker": "Mari Swa, relaying physician Ana’s assessment",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "taygetan-medicine",
+      "topics": [
+        "taygetan-medicine"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6496ca50abb5-c02",
+      "assertion": "Mari says Senetre proposed a dry medical pod with holographic organ regeneration, followed if needed by stem cells; early results were insufficient.",
+      "speaker": "Mari Swa, relaying Senetre",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0024"
+      ],
+      "primary_topic": "resonance-medical-pods",
+      "topics": [
+        "resonance-medical-pods",
+        "taygetan-medicine"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says effects and their duration remained uncertain."
+    },
+    {
+      "id": "src-6496ca50abb5-c03",
+      "assertion": "Mari attributes her illness partly to stress, guilt, and heavy responsibilities, while saying she intends to remain queen and continue working.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "taygetan-medicine",
+      "topics": [
+        "taygetan-medicine",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other reported symptoms, treatment options, and personal reflections omitted"
+  ]
+}

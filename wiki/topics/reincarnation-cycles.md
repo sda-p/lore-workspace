@@ -250,6 +250,66 @@ Source: [¿Adónde vamos después de la muerte?](https://swaruu.org/transcripts/
 
 Related topics: [Postmortem realities](postmortem-realities.md).
 
+### src-d719aa2d7aad-c02
+
+Athena says attachments can sustain repetitive reincarnation loops; releasing them dissolves the loop, while unremembered lives may conceal its causes and constrain perceived agency.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Almas Gemelas cambiando entre sus Variantes? Bucles de Almas - Athena Swaruu](https://swaruu.org/transcripts/almas-gemelas-cambiando-entre-sus-variantes-bucles-de-almas-athena-swaruu) (2023-05-09; es); passages p0041, p0043, p0044, p0045, p0046, p0048, p0050. [Structured record](../../records/src-d719aa2d7aad.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-024defbdba5d-c03
+
+Gosia says unfulfilled self-made contracts bring no punishment or required return; consequences are self-imposed. Gosia’s view differs from Yazhi’s.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Contratos del Alma - Quiero Saber que Son - Charla casual con Yazhi, Matias, y Gosia](https://swaruu.org/transcripts/contratos-del-alma-quiero-saber-que-son-charla-casual-con-yazhi-matias-y-gosia) (2023-07-12; es); passages p0020. [Structured record](../../records/src-024defbdba5d.json).
+
+Related topics: [Pre-incarnation soul contracts](soul-contracts.md).
+
+### src-9987cea5f9c3-c03
+
+Athena says souls may naturally leave Earth after reaching high vibration; she attributes repeated incarnation to attachment and compatibility, not external imprisonment. She says this occurs by personal will.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA INFLUENCIA DE LA FEDERACIÓN GALÁCTICA EN LA TIERRA - LA TRANSICIÓN A LA 5D](https://swaruu.org/transcripts/la-influencia-de-la-federacion-galactica-en-la-tierra-la-transicion-a-la-5d) (2023-06-16; es); passages p0017, p0019, p0021. [Structured record](../../records/src-9987cea5f9c3.json).
+
+Related topics: [Perceptual density](perceptual-density.md), [Van Allen belts](van-allen-belts.md).
+
+### src-0c64b4d8967b-c03
+
+She proposes less advanced souls may have been advanced souls’ past incarnations; because time is non-linear, identities can coexist.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Almas avanzadas y su mente colmena.](https://swaruu.org/transcripts/almas-avanzadas-y-su-mente-colmena) (2023-04-28; es); passages p0020, p0021, p0022, p0023. [Structured record](../../records/src-0c64b4d8967b.json).
+
+Related topics: [Nexus souls](nexus-souls.md).
+
+### src-18f0726037ac-c02
+
+She warns fragmentary past-life memories may be misread: imagination fills gaps, and the brain may lack context to translate them accurately.
+
+Attributed to **Kassia, message relayed by Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Las extracciones y sus problemas. Parte 4, Kassia habla directamente a las Semillas que recuerdan](https://swaruu.org/transcripts/las-extracciones-y-sus-problemas-parte-4-kassia-habla-directamente-a-las-semillas-que-recuerdan) (2023-07-26; es); passages p0016, p0017, p0018. [Structured record](../../records/src-18f0726037ac.json).
+
+Related topics: [Memory Veil](memory-veil.md).
+
+### src-18f0726037ac-c03
+
+She urges people to keep their present identity and use memories of earlier selves as inspiration, not as a reason to replace themselves or claim another being’s life.
+
+Attributed to **Kassia, message relayed by Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Las extracciones y sus problemas. Parte 4, Kassia habla directamente a las Semillas que recuerdan](https://swaruu.org/transcripts/las-extracciones-y-sus-problemas-parte-4-kassia-habla-directamente-a-las-semillas-que-recuerdan) (2023-07-26; es); passages p0020, p0021, p0022, p0023. [Structured record](../../records/src-18f0726037ac.json).
+
+Related topics: [Memory Veil](memory-veil.md).
+
 ## Claims filed under other topics
 
 - [src-de139e50d05b-c02](postmortem-realities.md#src-de139e50d05b-c02) — Postmortem realities
@@ -281,6 +341,11 @@ Related topics: [Postmortem realities](postmortem-realities.md).
 - [src-cadb5ca8cdb8-c03](frequency-astrology.md#src-cadb5ca8cdb8-c03) — Frequency-based astrology
 - [src-97d1cf163a44-c02](dna-metaphysics.md#src-97d1cf163a44-c02) — DNA and metaphysical patterns
 - [src-eba1fa9a8f38-c04](soul-loop-reincarnation.md#src-eba1fa9a8f38-c04) — Soul-loop reincarnation
+- [src-a833dee05151-c03](urmah.md#src-a833dee05151-c03) — Urmah
+- [src-d1722a36e342-c01](extraterrestrial-stepdowns.md#src-d1722a36e342-c01) — Extraterrestrial step-downs
+- [src-a602cffec533-c01](taygetans.md#src-a602cffec533-c01) — Taygetans
+- [src-4bf388da9fd3-c02](memory-veil.md#src-4bf388da9fd3-c02) — Memory Veil
+- [src-cdc082ef32a2-c01](nexus-souls.md#src-cdc082ef32a2-c01) — Nexus souls
 
 ## Review flags
 
@@ -288,9 +353,11 @@ Related topics: [Postmortem realities](postmortem-realities.md).
 - Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
 - Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
 - DNA-consciousness-causality-claim
+- Kassia’s message is written and prepared for publication by Mari Swaruu.
 - Metaphysical genetics and the 22-lineage account are attributed claims; the speaker calls the lab-origin explanation simplistic.
 - Pluto-Shiva-identification-attributed-to-Federation-records
 - The article presents metaphysical DNA interpretations attributed to the speakers.
+- The source combines separate April 2021 and 2023 excerpts; speakers are attributed by passage.
 - The transcript makes spiritual claims about death and reincarnation; they are attributed to Za’el and not verified.
 - afterlife-claims-are-source-model
 - anti-vaccine-conspiracy-claims
@@ -315,6 +382,8 @@ Related topics: [Postmortem realities](postmortem-realities.md).
 - reincarnation-cosmology-attributed
 - same-language-counterpart:src-cb51273860c3-wording-diff-agresivos
 - speaker-model-divergence-Athena-vs-Swaruu9
+- speaker-views-differ
 - starseed-identity-and-mission-attributed
 - timeline-model-variant:personal-vs-collective
+- translated-interview-may-affect-wording
 - translation-counterpart:src-06a1e5437c02-close-full

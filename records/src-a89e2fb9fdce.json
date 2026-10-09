@@ -1,0 +1,66 @@
+{
+  "source_id": "src-a89e2fb9fdce",
+  "snapshot_sha256": "aed34e48ed5cc2708a0bd503f199e4a3bf6f85732100039a7b41b43deca47169",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a89e2fb9fdce-c01",
+      "assertion": "Mari describes the “law of mirrors” as experience reflecting the person; she says changing one’s values and circumstances supports desired outcomes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0010",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a89e2fb9fdce-c02",
+      "assertion": "Mari describes a “quantum leap” as rapid change after reaching bottom, often beginning with leaving harmful relationships and rebuilding one’s life.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0020",
+        "p0024",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says suffering itself is not required."
+    },
+    {
+      "id": "src-a89e2fb9fdce-c03",
+      "assertion": "Mari advises empaths to balance self-care with helping others, and set limits on whom they help.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Metaphysical claims and personal advice are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Detailed discussion of manifestation examples and relationships"
+  ]
+}

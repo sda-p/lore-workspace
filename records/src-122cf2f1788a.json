@@ -1,0 +1,52 @@
+{
+  "source_id": "src-122cf2f1788a",
+  "snapshot_sha256": "4614720f7baae554f04442f914825d366e05a4ca15f0de66010acd025231f0d4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-122cf2f1788a-c01",
+      "assertion": "Mari defines a higher self as a more evolved version of a person and says non-linear time may let it coexist with its incarnated self.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "reincarnation-cycles",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the incarnated person may not share that expanded identity perspective."
+    },
+    {
+      "id": "src-122cf2f1788a-c02",
+      "assertion": "Mari argues that a higher self should not use an incarnated person’s suffering to expand its own consciousness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes the light-being’s perspective from the embodied person’s."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "higher-self as a person’s past self",
+    "embodiment and biological limits"
+  ]
+}

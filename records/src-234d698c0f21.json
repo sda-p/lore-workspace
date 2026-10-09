@@ -1,0 +1,46 @@
+{
+  "source_id": "src-234d698c0f21",
+  "snapshot_sha256": "8a66bf639b633039e43d6ed623b77db42145d5ff668cabdca7545630debaf2d7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-234d698c0f21-c01",
+      "assertion": "Athena says important knowledge should help people think independently and avoid dependence on political, spiritual, or other authorities.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0006"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-234d698c0f21-c02",
+      "assertion": "Athena favors holistic learning, including advanced mathematics, non-pharmaceutical medicine, metaphysics, matter manipulation, stellar navigation, and cosmology.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents reality and truth as changing and perspective-dependent."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about contemporary institutions or external events reflect the speaker’s interpretation."
+  ],
+  "coverage_gaps": []
+}

@@ -126,6 +126,16 @@ Source: [Cómo la Federación de Planetas Unidos ve la Tierra, Parte 2, Primera 
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-afbb59548515-c02
+
+Anéeka says written-chat contact replaced one-to-one outreach because a 36-person crew could not meet millions of starseeds individually. They use human intermediaries to reach larger audiences.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA DESINTEGRACIÓN DE LA MATRIX EL DESPERTAR DE LA MATRIX](https://swaruu.org/transcripts/la-desintegracion-de-la-matrix-el-despertar-de-la-matrix) (2023-06-14; es); passages p0012, p0015, p0017. [Structured record](../../records/src-afbb59548515.json).
+
+Related topics: [Starseeds](starseeds.md), [Taygetans](taygetans.md).
+
 ## Review flags
 
 - Federation policies and Earth-intervention allegations are reported by Mari Swaruu, not independently verified.

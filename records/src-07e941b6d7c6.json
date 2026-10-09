@@ -1,0 +1,68 @@
+{
+  "source_id": "src-07e941b6d7c6",
+  "snapshot_sha256": "23e0fa3db32886aa29a2358f6fe3799ccf05e32fe923a670d7d39b38bd235e42",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-07e941b6d7c6-c01",
+      "assertion": "Mari relays Viera’s account that two Alfratean Class L fighters suffered engine incidents; both crews survived, the second with minor injuries.",
+      "speaker": "Mari Swaruu, relaying Viera flight-control account",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "centauri-l-class-fighters",
+      "topics": [
+        "centauri-l-class-fighters",
+        "alfrateans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She does not always trust Viera reports."
+    },
+    {
+      "id": "src-07e941b6d7c6-c02",
+      "assertion": "Mari says Saska 1 crews replaced Toleka’s four engines and upgraded Vigilant Eagle with human communications equipment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "suzy-class-starships"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07e941b6d7c6-c03",
+      "assertion": "Alcyone was to join Toleka in Earth orbit for a year, monitor starseeds and deter; its crew answers to Queen Alenym.",
+      "speaker": "Mari Swaruu, reporting Alenym’s declassification",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "starseeds",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari says its media role remains experimental under the First Directive."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other news items omitted"
+  ]
+}

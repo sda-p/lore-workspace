@@ -1,0 +1,53 @@
+{
+  "source_id": "src-844eb80ca26a",
+  "snapshot_sha256": "d70a6eca403a007601125774e66e8946b9c05cd8898cff27205fcdb04bee2d7d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-844eb80ca26a-c01",
+      "assertion": "Yazhi describes Taygetan gender roles as distinct but complementary, with women concentrated in engineering design and men also handling physical construction.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as a generalization about Taygetan social patterns."
+    },
+    {
+      "id": "src-844eb80ca26a-c02",
+      "assertion": "Athena says Taygetan science includes metaphysics and treats entities such as ghosts as detectable through advanced sensors, including interferometers.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "astral-entities",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She contrasts this with Earth’s scientific treatment of metaphysics."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source includes broad gender-essentialist and reproductive-control claims; not presented here as established facts"
+  ],
+  "coverage_gaps": [
+    "menopause and menstrual-cycle claims",
+    "claims about fallen angels and Anunnaki"
+  ]
+}

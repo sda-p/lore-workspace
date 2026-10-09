@@ -38,10 +38,34 @@ Source: [Como Cambiar mi Punto de Atención y ser un Ser Energético- Matías y 
 
 Related topics: [Witchcraft and Voodoo](witchcraft-and-voodoo.md).
 
+### src-1890fe5b32b8-c01
+
+Mari says astral planes cannot be comprehensively mapped; their levels are perspective-dependent, with no absolute boundaries between astral and material frequencies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Astral. Parte 2](https://swaruu.org/transcripts/el-astral-parte-2) (2023-08-11; es); passages p0003, p0009, p0011, p0012. [Structured record](../../records/src-1890fe5b32b8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1890fe5b32b8-c04
+
+She says astral thoughts manifest rapidly; during dreams or projection, visualizing protective powers can repel entities.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Astral. Parte 2](https://swaruu.org/transcripts/el-astral-parte-2) (2023-08-11; es); passages p0018, p0019, p0020. [Structured record](../../records/src-1890fe5b32b8.json).
+
+Related topics: [Astral entities](astral-entities.md).
+
 ## Claims filed under other topics
 
 - [src-9be5d7b8001c-c02](consciousness-metaphysics.md#src-9be5d7b8001c-c02) — Consciousness and metaphysics
 - [src-9be5d7b8001c-c03](consciousness-metaphysics.md#src-9be5d7b8001c-c03) — Consciousness and metaphysics
+- [src-3e6bb19f0b7f-c01](astral-entities.md#src-3e6bb19f0b7f-c01) — Astral entities
+- [src-e0d85326bb47-c03](immersion-pods.md#src-e0d85326bb47-c03) — Immersion pods
+- [src-1890fe5b32b8-c02](consciousness-metaphysics.md#src-1890fe5b32b8-c02) — Consciousness and metaphysics
+- [src-1890fe5b32b8-c03](supraluminal-hyperdrive.md#src-1890fe5b32b8-c03) — Supraluminal frequency hyperdrive
 
 ## Review flags
 

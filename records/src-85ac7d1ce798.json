@@ -1,0 +1,83 @@
+{
+  "source_id": "src-85ac7d1ce798",
+  "snapshot_sha256": "3045cfc0163c7561791f73b22441533bba983a73f865f83787ee763cd8406467",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-85ac7d1ce798-c01",
+      "assertion": "Mari says free will is constrained by circumstances, resources, prior choices, and unconscious conditioning.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0009",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-85ac7d1ce798-c02",
+      "assertion": "Mari says telepathic thought fields can shape decisions; recognizing borrowed thoughts may increase agency.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-85ac7d1ce798-c03",
+      "assertion": "Mari says an incarnate soul’s freedom depends on awareness, self-knowledge, and alignment with personal values; absolute freedom belongs only to Source.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-85ac7d1ce798-c04",
+      "assertion": "Mari describes reality as infinite existing timelines that consciousness experiences through vibrational resonance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Metaphysical assertions are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Detailed discussion of reincarnation planning and timeline mechanics"
+  ]
+}

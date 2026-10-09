@@ -166,6 +166,16 @@ Attributed to **Yazhi Swaruu**; reported; extraction confidence: medium.
 
 Source: [MiniTemas - Variedad de Información - Reptiles y Extraterrestres entre los Humanos y Mas](https://swaruu.org/transcripts/minitemas-variedad-de-informacion-reptiles-y-extraterrestres-entre-los-humanos-y-mas) (2022-10-12; es); passages p0010, p0011, p0012. [Structured record](../../records/src-4531380816aa.json).
 
+### src-ac04705c7e8d-c01
+
+Athena claims Urmah from Avyon-uno destroyed a Pfizer vaccine warehouse with a controlled-gravity tractor beam, believing it held phase-two pandemic vaccines. This is Athena’s account of the Urmah’s stated rationale.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Tornado y Fabrica Pfizer - Que Paso Realmente? Athena Swaruu Informa](https://swaruu.org/transcripts/tornado-y-fabrica-pfizer-que-paso-realmente-athena-swaruu-informa) (2023-07-30; es); passages p0003, p0005, p0008, p0012. [Structured record](../../records/src-ac04705c7e8d.json).
+
+Related topics: [Urmah](urmah.md), [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-cb6267c7760f-c04](starship-systems.md#src-cb6267c7760f-c04) — Starship systems

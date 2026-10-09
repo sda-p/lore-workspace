@@ -1,0 +1,43 @@
+{
+  "source_id": "src-4d7d91264321",
+  "snapshot_sha256": "6dbef5e4ef60172aea7b40291b3f1c3a9d1d68d978e938df9174c0f3fc1a63fb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4d7d91264321-c01",
+      "assertion": "Mari says most high-altitude contrails are ice formed as atmospheric water condenses around jet-exhaust hydrocarbons; they may persist and cloud skies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0010", "p0011", "p0012", "p0013", "p0014"],
+      "primary_topic": "terrestrial-science",
+      "topics": ["terrestrial-science", "weather-control"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says most are benign water crystals."
+    },
+    {
+      "id": "src-4d7d91264321-c02",
+      "assertion": "Mari alleges dedicated aircraft spray cloud-seeding chemicals and biological agents, while most passenger jets do not spray.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0020", "p0025", "p0026", "p0027"],
+      "primary_topic": "weather-control",
+      "topics": ["weather-control"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says engine heat would destroy many agents in commercial-jet fuel."
+    },
+    {
+      "id": "src-4d7d91264321-c03",
+      "assertion": "Mari claims nonhuman starships conduct most large-scale spraying and weather control from high altitudes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0031", "p0033", "p0035", "p0036", "p0037", "p0038"],
+      "primary_topic": "weather-control",
+      "topics": ["weather-control", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributes the operations to the Federation and says the craft are difficult to detect."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["The source makes unverified allegations about chemical and biological spraying and nonhuman weather control."],
+  "coverage_gaps": ["claimed graphene and metal additives", "claimed effects on biology"]
+}

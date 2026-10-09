@@ -1,0 +1,103 @@
+{
+  "source_id": "src-13a3aaa8e506",
+  "snapshot_sha256": "50174485ec09d815325499840fd64cd426762f15273a62c43a6927e069fe9979",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-13a3aaa8e506-c01",
+      "assertion": "Mari says Urmah see astral aspects as ordinary reality; they are feline, not Lyrian.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-13a3aaa8e506-c02",
+      "assertion": "She identifies as an Urmah starseed in a Lyrian body, with souls migrating across species.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-13a3aaa8e506-c03",
+      "assertion": "Mari says Urmah sounds induced trance; she interpreted a guide as exposing grief and guilt.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "astral-entities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The guide’s appearance may reflect her own interpretation."
+    },
+    {
+      "id": "src-13a3aaa8e506-c04",
+      "assertion": "Mari reports type 1 diabetes disappeared 22 days after dry-pod and stem-cell treatment failed.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "taygetan-medicine",
+      "topics": [
+        "taygetan-medicine",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-13a3aaa8e506-c05",
+      "assertion": "Her fungal lung infection remained; she says Urmah help only when they choose.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "taygetan-medicine"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Mari reports a personal medical experience; do not generalize it beyond her account."
+  ],
+  "coverage_gaps": [
+    "Urmah culture and the all-male ritual participants",
+    "the orange cat's role in ending her trance"
+  ]
+}

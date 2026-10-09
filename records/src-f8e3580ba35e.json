@@ -1,0 +1,50 @@
+{
+  "source_id": "src-f8e3580ba35e",
+  "snapshot_sha256": "08412faecfcdc45f903cdafcc16cf8c1c27dc6f0fc0bcea81ba02947b2059ea0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f8e3580ba35e-c01",
+      "assertion": "Mari reports a Centauri Black Knight fighter crashed in northern Mexico after disappearing; a cloaking or frequency-blocking device is her speculation, based on Centauri forces rather than Viera traffic control.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "centauri-l-class-fighters",
+      "topics": [
+        "centauri-l-class-fighters",
+        "centaurians",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the report could mask a more complex situation."
+    },
+    {
+      "id": "src-f8e3580ba35e-c02",
+      "assertion": "Mari says the fighter’s ejection pod was found empty about a mile away, leaving two pilots missing; Centauri requested help, and Queen Alenym sent Hashmallim special forces to search.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "centaurians",
+        "centauri-l-class-fighters"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She marks the suggestion that the pilots entered the desert as speculation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "eclipse observations",
+    "Asterope ship details",
+    "Black Knight incidents and blockade claims"
+  ]
+}

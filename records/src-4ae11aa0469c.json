@@ -1,0 +1,68 @@
+{
+  "source_id": "src-4ae11aa0469c",
+  "snapshot_sha256": "6351be4df887491e6f312521b7d643d5317515b28839ae652513ddfba5799758",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4ae11aa0469c-c01",
+      "assertion": "Swaruu X (Athena) describes Majestic 12 as a government paramilitary organization that controlled UFO information and public narratives.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "secret-space-program",
+      "topics": [
+        "secret-space-program",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She also describes internal government messaging."
+    },
+    {
+      "id": "src-4ae11aa0469c-c02",
+      "assertion": "Swaruu X (Athena) says Earth is already taken and lies in a high-traffic zone, accounting for many UFOs.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She rejects the need for an invasion."
+    },
+    {
+      "id": "src-4ae11aa0469c-c03",
+      "assertion": "Swaruu X (Athena) says Reptilians participate in decisions behind a possible staged alien invasion.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "reptilians"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "They are not sole actors; timing is uncertain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other alleged narrative-control actors",
+    "disclosure influence on starseeds"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_id": "src-d1946d4d6179",
+  "snapshot_sha256": "e3059f2d73c39748922e254539457ddb8ac87380dac146ac336e888bcccc42d4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d1946d4d6179-c01",
+      "assertion": "Anéeka describes Hashmallim and Shinonim as Taygetan special forces; she says Shinonim also serve as royal guards for Alenym.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0013"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "astral-military-units"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d1946d4d6179-c02",
+      "assertion": "Anéeka says “archangel” is a military rank based on skill, and Dhor Káal’el says Hashmallim are elite Taygetan forces holding that rank.",
+      "speaker": "Anéeka and Dhor Káal’el",
+      "paragraph_ids": [
+        "p0011",
+        "p0019"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "astral-military-units"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d1946d4d6179-c03",
+      "assertion": "Dhor Káal’el says a Hashmallim shield is a concealed toroidal force field that surrounds the warrior and makes them appear invulnerable.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "mind-generated-force-fields",
+      "topics": [
+        "mind-generated-force-fields",
+        "hashmallim"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Claims about historical deployments and ground equipment omitted"
+  ]
+}

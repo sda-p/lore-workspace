@@ -128,14 +128,49 @@ Source: [Mundo al Revés y el Futuro influenciando el Pasado - Charlas metafísi
 
 Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
 
+### src-c5820758bc75-c03
+
+Mari describes Earth as a challenging school; souls enter voluntarily and return by resonance, not prison-like barriers. She questions the claim that Van Allen prevents souls from leaving.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Luna. Parte 3, cómo influye en la Tierra y su Matrix 3D](https://swaruu.org/transcripts/la-luna-parte-3-como-influye-en-la-tierra-y-su-matrix-3d) (2023-07-12; es); passages p0024, p0025, p0027, p0029, p0031. [Structured record](../../records/src-c5820758bc75.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-429d15872426-c01
+
+Yazhi said an upper self can split attention into several concurrent experiences, such as different life paths, and be nourished by all of them.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Charla Metafísica sobre la Expansión del Alma - con Yazhi Swaruu](https://swaruu.org/transcripts/charla-metafisica-sobre-la-expansion-del-alma-con-yazhi-swaruu) (2023-05-02; es); passages p0004, p0005, p0008, p0010. [Structured record](../../records/src-429d15872426.json).
+
+Related topics: [Nexus souls](nexus-souls.md).
+
+### src-2b5e44407f31-c03
+
+Mari says identities vary by incarnation and density, so loved ones may not be the same person elsewhere.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extracciones y sus problemas. Parte 3](https://swaruu.org/transcripts/extracciones-y-sus-problemas-parte-3) (2023-07-22; es); passages p0014, p0015. [Structured record](../../records/src-2b5e44407f31.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-24baeece96cc-c03](astral-entities.md#src-24baeece96cc-c03) — Astral entities
 - [src-80f4a17fe00d-c02](memory-veil.md#src-80f4a17fe00d-c02) — Memory Veil
 - [src-80f4a17fe00d-c03](consciousness-metaphysics.md#src-80f4a17fe00d-c03) — Consciousness and metaphysics
+- [src-429d15872426-c02](consciousness-metaphysics.md#src-429d15872426-c02) — Consciousness and metaphysics
+- [src-06cd5c8d1a9d-c03](consciousness-metaphysics.md#src-06cd5c8d1a9d-c03) — Consciousness and metaphysics
+- [src-06cd5c8d1a9d-c04](consciousness-metaphysics.md#src-06cd5c8d1a9d-c04) — Consciousness and metaphysics
+- [src-06cd5c8d1a9d-c05](consciousness-metaphysics.md#src-06cd5c8d1a9d-c05) — Consciousness and metaphysics
 
 ## Review flags
 
+- Claims about concurrent lives and nexus beings are attributed to Yazhi.
 - Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
 - Mari Swaruu distinguishes physical pain, which she says ends, from psychological pain that may persist after death.
 - Mari Swaruu presents different possible outcomes after death as depending on the individual’s perception and outlook.

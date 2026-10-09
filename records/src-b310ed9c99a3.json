@@ -1,0 +1,104 @@
+{
+  "source_id": "src-b310ed9c99a3",
+  "snapshot_sha256": "24109c1edbaa7273d0c5a92707d4545f69cc847b9c4c0dbbb6bdcc3daf975088",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b310ed9c99a3-c01",
+      "assertion": "CIC says Swaruu 2–9 were reincarnation loops with memory; the loop ended after Swaruu 9.",
+      "speaker": "CIC team",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b310ed9c99a3-c02",
+      "assertion": "Mari describes Taygetan DNA as 12-stranded and Swaruunian as 24-stranded, with extra strands storing higher-density memory.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0019"
+      ],
+      "primary_topic": "crystalline-dna",
+      "topics": [
+        "crystalline-dna",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b310ed9c99a3-c03",
+      "assertion": "Mari says DNA manifests consciousness and stores soul experience; complexity reflects experience, not species or superiority.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0029"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "crystalline-dna"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b310ed9c99a3-c04",
+      "assertion": "Mari claims humans and Taygetans are Lyrians, sharing capacities shaped by consciousness rather than distinct species DNA.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0020",
+        "p0033",
+        "p0036"
+      ],
+      "primary_topic": "lyrians",
+      "topics": [
+        "lyrians",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b310ed9c99a3-c05",
+      "assertion": "Mari says radiation or genetic engineering can damage DNA, while high spirituality and consciousness can overwrite alterations.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0027",
+        "p0033"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "crystalline-dna"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The narrator distinguishes her metaphysical account from Earth science and says it lacks the evidence conventionally required; preserve attribution."
+  ],
+  "coverage_gaps": [
+    "Tina/Mari/Yazhi parentage and genetic lineage",
+    "12+12 strand interpretation and silicate-body hypothesis"
+  ]
+}

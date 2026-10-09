@@ -1,0 +1,36 @@
+{
+  "source_id": "src-d14132fc678e",
+  "snapshot_sha256": "e61d513eda948dedfe13fe35047d4f29ea27ed0799aac8ec4fd02ecf6e2c5fbf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d14132fc678e-c01",
+      "assertion": "Mari Swa claims humans with similar genetics live on many other planets, naming Antarians, Centauri, Engan, Taygetans, and Maya.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0004", "p0012", "p0023"],
+      "primary_topic": "lyran-expansion",
+      "topics": ["lyran-expansion", "extraterrestrial-contact"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She acknowledges she has no proof and presents this as her perspective."
+    },
+    {
+      "id": "src-d14132fc678e-c02",
+      "assertion": "Mari says at least six planetary resets erased advanced civilizations, after which surviving histories were reframed through imposed cosmologies.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0019", "p0020", "p0023"],
+      "primary_topic": "atlantis-lemuria",
+      "topics": ["atlantis-lemuria", "earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She attributes this claim to her data and describes the documents as control narratives."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The speaker explicitly says she has no proof and frames her claims as a perspective, not established history."
+  ],
+  "coverage_gaps": [
+    "The video also disputes terrestrial origins, religious texts, and mainstream cosmology."
+  ]
+}

@@ -45,6 +45,7 @@ Related topics: [Taygetans](taygetans.md), [Toleka-class starships](toleka-class
 ## Claims filed under other topics
 
 - [src-9524a72ff653-c04](earth-dna-arks.md#src-9524a72ff653-c04) — Earth DNA Arks
+- [src-a69d54a0580b-c02](zeta-reticuli-gardeners.md#src-a69d54a0580b-c02) — Zeta Reticuli Gardeners
 
 ## Review flags
 

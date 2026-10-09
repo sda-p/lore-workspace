@@ -1,0 +1,98 @@
+{
+  "source_id": "src-88b24c836599",
+  "snapshot_sha256": "dddfc61a5923f1b18d675a47cb50f18c46dc9faaffd605a8b4fa2247bfdeb0df",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-88b24c836599-c01",
+      "assertion": "Yazhi says she influences starseeds toward a harmonious timeline; the Federation rates her danger 10/10.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0040"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88b24c836599-c02",
+      "assertion": "Yazhi claims mental teleportation; she carries only what she can physically transport.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "teleportation",
+      "topics": [
+        "teleportation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88b24c836599-c03",
+      "assertion": "Yazhi calls a Polynesian island a ley-line node where thoughts spread planet-wide.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0072",
+        "p0078"
+      ],
+      "primary_topic": "ley-line-energy-nodes",
+      "topics": [
+        "ley-line-energy-nodes"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88b24c836599-c04",
+      "assertion": "Yazhi says a tractor beam brought food from another timeline; she stopped to spare its inhabitants.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0084",
+        "p0085",
+        "p0087"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "tractor-beams"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-88b24c836599-c05",
+      "assertion": "Yazhi says she mentally controls her body and remains nine, retaining a connection to Source.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0099",
+        "p0101"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "astral projection and entity perception",
+    "her account of embodiment across densities and timeless existence",
+    "Saska One supports the fleet and Alcyone repairs; Yazhi stopped ship repair due to mental exhaustion"
+  ]
+}

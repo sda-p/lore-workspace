@@ -2631,5 +2631,77 @@
     "aliases": [
       "Materia Oscura como otras densidades"
     ]
+  },
+  {
+    "id": "admatic-soul-fragmentation",
+    "name": "Admatic soul fragmentation",
+    "kind": "cosmological mechanism",
+    "aliases": [
+      "fragmentación admática",
+      "admatic fragmentation"
+    ]
+  },
+  {
+    "id": "wanderer-souls",
+    "name": "Wanderer souls",
+    "kind": "metaphysical population",
+    "aliases": [
+      "wanderers",
+      "almas errantes"
+    ]
+  },
+  {
+    "id": "crystal-skulls",
+    "name": "Crystal skulls",
+    "kind": "artifact claim",
+    "aliases": [
+      "extraterrestrial crystal skulls"
+    ]
+  },
+  {
+    "id": "hanare-scimitar-fighters",
+    "name": "Hanáre / Scimitar fighters",
+    "kind": "spacecraft class",
+    "aliases": [
+      "Hanáre",
+      "Scimitar A",
+      "Scimitar B"
+    ]
+  },
+  {
+    "id": "taygetan-scimitar-fighters",
+    "name": "Taygetan Hanáre/Scimitar fighters",
+    "kind": "starship class",
+    "aliases": [
+      "Hanáre",
+      "Scimitar"
+    ]
+  },
+  {
+    "id": "scimitar-class-craft",
+    "name": "Scimitar-class craft",
+    "kind": "technology",
+    "aliases": [
+      "Scimitar",
+      "Scimitar A",
+      "Scimitar B"
+    ]
+  },
+  {
+    "id": "soul-contracts",
+    "name": "Pre-incarnation soul contracts",
+    "kind": "cosmology",
+    "aliases": [
+      "contratos del alma",
+      "prenatal contracts"
+    ]
+  },
+  {
+    "id": "food-replicators",
+    "name": "Food replicators",
+    "kind": "technology",
+    "aliases": [
+      "replicated food"
+    ]
   }
 ]

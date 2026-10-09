@@ -1,0 +1,97 @@
+{
+  "source_id": "src-1be7c951727d",
+  "snapshot_sha256": "fa83bce6bc40558102be40f5d1647b52533f5b66cee69945bc003402a827a8fd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1be7c951727d-c01",
+      "assertion": "Gosia says the universe has intelligent life, including humanoid and nonhumanoid species with varied appearances and customs.",
+      "speaker": "Gosia (lesson narrator)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0025"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1be7c951727d-c02",
+      "assertion": "Gosia says Earth authorities conceal extraterrestrials through denial and associations with fiction, entertainment, or conspiracy theories.",
+      "speaker": "Gosia (lesson narrator)",
+      "paragraph_ids": [
+        "p0010",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1be7c951727d-c03",
+      "assertion": "Gosia says Earth humans are kept in an isolation narrative despite extraterrestrial visits over millennia.",
+      "speaker": "Gosia (lesson narrator)",
+      "paragraph_ids": [
+        "p0015",
+        "p0025"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1be7c951727d-c04",
+      "assertion": "Gosia interprets ancient deities and elongated-skull traditions as possible memories or imitations of extraterrestrial visitors.",
+      "speaker": "Gosia (lesson narrator)",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1be7c951727d-c05",
+      "assertion": "Tomek describes stars and planets as conscious life within a living universe that serves life.",
+      "speaker": "Tomek (community contributor)",
+      "paragraph_ids": [
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "humanoid extraterrestrials are reserved for a later lesson",
+    "community members' personal reactions and sightings"
+  ]
+}

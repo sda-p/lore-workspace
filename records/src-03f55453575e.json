@@ -1,0 +1,59 @@
+{
+  "source_id": "src-03f55453575e",
+  "snapshot_sha256": "ca73bf41a0379a16390419823ec021db2ba31ecb1d5179468bad1c155c15d7d1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-03f55453575e-c01",
+      "assertion": "Athena considers “light language” authentic, describing repeated phonemes as vehicles for telepathic messages rather than meaningless babbling.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says its source may be past-life memories, nonhuman lives, or direct channeling, and she cannot identify a specific language."
+    },
+    {
+      "id": "src-03f55453575e-c02",
+      "assertion": "Athena says light-language sounds may reactivate memories and provoke strong emotions, such as crying, depending on the listener.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-03f55453575e-c03",
+      "assertion": "Athena recommends listening only to speakers she considers clearly high-frequency, warning that other speech may contain dangerous spells.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about melody and verbalized channeling omitted"
+  ]
+}

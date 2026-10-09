@@ -126,11 +126,32 @@ Source: [Aneeka de Temmer - Puma Punku, Machu Pichu y mas - Bases Extraterrestre
 
 Related topics: [Starship systems](starship-systems.md), [Gravity harmonics](gravity-harmonics.md).
 
+### src-46f3bf392b0e-c02
+
+Anéeka says stones were cut using sound and gravity; Sun Gate portal use requires exact stellar timing, spacecraft, and powerful computers.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PUMA PUNKU ANTIGUA BASE ESTELAR Y SUS PORTALES ESTELARES - Aneeka de Temmer](https://swaruu.org/transcripts/puma-punku-antigua-base-estelar-y-sus-portales-estelares-aneeka-de-temmer) (2023-04-26; es); passages p0005, p0039, p0041. [Structured record](../../records/src-46f3bf392b0e.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md), [Stellar navigation](stellar-navigation.md).
+
+### src-46f3bf392b0e-c04
+
+Anéeka describes the Sun as a gravity-based portal transit hub; ships jump frequencies by manipulating gravity rather than bending space.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PUMA PUNKU ANTIGUA BASE ESTELAR Y SUS PORTALES ESTELARES - Aneeka de Temmer](https://swaruu.org/transcripts/puma-punku-antigua-base-estelar-y-sus-portales-estelares-aneeka-de-temmer) (2023-04-26; es); passages p0053, p0055, p0060. [Structured record](../../records/src-46f3bf392b0e.json).
+
+Related topics: [Black holes](black-holes.md), [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-df0b18054ec1-c02](ancient-egypt.md#src-df0b18054ec1-c02) — Ancient Egypt
 - [src-a6c6ae12245f-c03](black-holes.md#src-a6c6ae12245f-c03) — Black holes
 - [src-a6c6ae12245f-c04](stellar-navigation.md#src-a6c6ae12245f-c04) — Stellar navigation
+- [src-46f3bf392b0e-c01](natural-portals.md#src-46f3bf392b0e-c01) — Natural and artificial portals
 
 ## Review flags
 

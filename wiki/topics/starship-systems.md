@@ -3362,6 +3362,24 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: high.
 
 Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/transcripts/za-el-y-arien-nuevos-companeros-en-la-toleka) (2023-02-25; es); passages p0005. [Structured record](../../records/src-b00522037437.json).
 
+### src-1917bcf83880-c02
+
+Athena distinguishes ship mind-computer interfaces for pilot commands and in-head messages from Earth use; advanced Suzy systems can adjust message intensity.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [CONTACTO EXTRATERRESTRE - TELEPATIA SINTETICA - Athena Swaruu](https://swaruu.org/transcripts/contacto-extraterrestre-telepatia-sintetica-athena-swaruu) (2023-07-30; es); passages p0035, p0037, p0045, p0047, p0051, p0055, p0057, p0061, p0062. [Structured record](../../records/src-1917bcf83880.json).
+
+Related topics: [Suzy-class starships](suzy-class-starships.md).
+
+### src-e473d0c4d7a7-c02
+
+She says ship designs vary by purpose; counter-rotating plasma turbines can exceed gravity engines in technology, with newer versions solid-state.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [NAVE EXTRATERRESTRE ESTRELLADA EN EL MAR RAZAS EXTRATERRESTRES GRISES Y NAVE URMAH](https://swaruu.org/transcripts/nave-extraterrestre-estrellada-en-el-mar-razas-extraterrestres-grises-y-nave-urmah) (2023-09-13; es); passages p0016, p0025, p0027. [Structured record](../../records/src-e473d0c4d7a7.json).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -3627,6 +3645,24 @@ Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/tran
 - [src-0507724a6bee-c03](toleka-class.md#src-0507724a6bee-c03) — Toleka-class starships
 - [src-aabe7f4a77ff-c04](energy-generation.md#src-aabe7f4a77ff-c04) — Energy generation technology
 - [src-b00522037437-c01](taygetans.md#src-b00522037437-c01) — Taygetans
+- [src-59758ad652fa-c04](alien-species.md#src-59758ad652fa-c04) — Alien species and distinctions
+- [src-8a37a5eaeb7b-c01](scimitar-class-craft.md#src-8a37a5eaeb7b-c01) — Scimitar-class craft
+- [src-8a37a5eaeb7b-c02](aggressive-telepathy.md#src-8a37a5eaeb7b-c02) — Aggressive telepathy
+- [src-44b8aa34f2fb-c02](frequency-map-navigation.md#src-44b8aa34f2fb-c02) — Frequency-map navigation
+- [src-86a4669c182d-c03](timeline-branching.md#src-86a4669c182d-c03) — Timeline branching
+- [src-2d6710ddd4d1-c02](aggressive-telepathy.md#src-2d6710ddd4d1-c02) — Aggressive telepathy
+- [src-ac04705c7e8d-c01](tractor-beams.md#src-ac04705c7e8d-c01) — Tractor beams
+- [src-ac04705c7e8d-c04](urmah.md#src-ac04705c7e8d-c04) — Urmah
+- [src-b39d4a7a2cd4-c01](moon-biosphere-ship.md#src-b39d4a7a2cd4-c01) — The Moon as a biosphere ship
+- [src-97c055d470ab-c01](hanare-scimitar-fighters.md#src-97c055d470ab-c01) — Hanáre / Scimitar fighters
+- [src-97c055d470ab-c02](hanare-scimitar-fighters.md#src-97c055d470ab-c02) — Hanáre / Scimitar fighters
+- [src-aa0d46c03756-c01](taygetan-scimitar-fighters.md#src-aa0d46c03756-c01) — Taygetan Hanáre/Scimitar fighters
+- [src-aa0d46c03756-c02](taygetan-scimitar-fighters.md#src-aa0d46c03756-c02) — Taygetan Hanáre/Scimitar fighters
+- [src-aa0d46c03756-c03](taygetan-scimitar-fighters.md#src-aa0d46c03756-c03) — Taygetan Hanáre/Scimitar fighters
+- [src-a58e748ec5c5-c03](frequency-map-navigation.md#src-a58e748ec5c5-c03) — Frequency-map navigation
+- [src-a58e748ec5c5-c04](temporal-skipping.md#src-a58e748ec5c5-c04) — Temporal skipping
+- [src-46f3bf392b0e-c04](solar-portal-transit.md#src-46f3bf392b0e-c04) — Solar portal transit
+- [src-e473d0c4d7a7-c01](urmah.md#src-e473d0c4d7a7-c01) — Urmah
 
 ## Review flags
 
@@ -3635,6 +3671,7 @@ Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/tran
 - Accounts come from different speakers and conversations; claims remain attributed to each speaker.
 - Alcohol claims and spiritual effects are Mari’s assertions; avoid generalizing to all Alfratans
 - Alenym-retirement-not-decided
+- All spacecraft specifications and operational claims are attributed to Athena.
 - Athena-interview-original-English
 - Avyon-1 orbit and crew-size details omitted.
 - Billy\_Meier\_photo\_authenticity\_uncertain
@@ -3776,6 +3813,7 @@ Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/tran
 - portal-mechanics-overlap-src-6abed4268d57
 - portal-technology-claims-unverified
 - positronic-wave-source-disputed-with-alcyone-claims
+- possible-near-duplicate-src-1917bcf83880
 - possible-overlap-with-src-cd1fcaa78711
 - procedure-description
 - quarantine-policy-vs-practice
@@ -3816,6 +3854,7 @@ Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/tran
 - technology\_claims
 - temporal-branching-does-not-alter-observers' timelines
 - temporal-lore-attributed
+- terrestrial-technology-claims-unverified
 - time\_travel\_risks
 - title-metadata-diff
 - tractor-beam-technology-attributed

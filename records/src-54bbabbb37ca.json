@@ -1,0 +1,47 @@
+{
+  "source_id": "src-54bbabbb37ca",
+  "snapshot_sha256": "a9060435d25a86fb8fea8df2b75528fa0fcdcbee507b69ce5c5469b212dde21b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-54bbabbb37ca-c01",
+      "assertion": "Athena Swaruu says individual consciousness and perception determine the reality or frequency range a person experiences.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": ["p0032", "p0034"],
+      "primary_topic": "perceptual-density",
+      "topics": ["perceptual-density", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes this as her group’s perspective."
+    },
+    {
+      "id": "src-54bbabbb37ca-c02",
+      "assertion": "Athena frames physical and nonphysical realms as perception-based agreements, saying all experience may be considered astral from a broader viewpoint.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": ["p0023", "p0025", "p0042", "p0043"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "perceptual-density"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She acknowledges that practical viewpoints distinguish physical from astral."
+    },
+    {
+      "id": "src-54bbabbb37ca-c03",
+      "assertion": "Athena says elementals may be physically present yet outside ordinary human perception, and claims spacecraft gravity sensors can detect them.",
+      "speaker": "Athena Swaruu",
+      "paragraph_ids": ["p0060", "p0062", "p0064", "p0067"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "perceptual-density"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are her claims about perception and sensor readings."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The interview presents metaphysical and paranormal claims without independent verification."
+  ],
+  "coverage_gaps": [
+    "The discussion also covers astral identity, helping humanity, and the speakers’ individual affiliations."
+  ]
+}

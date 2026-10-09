@@ -1,0 +1,68 @@
+{
+  "source_id": "src-b5287bde7dbd",
+  "snapshot_sha256": "95944cccaa9278e9204808f6b42eb02e0a2d9838f040dbf3d98b96a46e3f95f8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b5287bde7dbd-c01",
+      "assertion": "Mari says shared cultural perceptions and values form a self-contained reality that shapes group behavior.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b5287bde7dbd-c02",
+      "assertion": "Mari describes collective unconscious as a telepathic field that coordinates group ideas, with distance irrelevant to ether-mediated communication.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0019",
+        "p0023"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b5287bde7dbd-c03",
+      "assertion": "She says a strongly grounded starseed can resist collective pressure and affect the surrounding field through its distinct vibration and actions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about telepathy and collective reality are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Social alienation and individual emotional influence"
+  ]
+}

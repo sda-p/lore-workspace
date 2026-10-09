@@ -806,6 +806,96 @@ Source: [DENSIDADES CONVERSACIÓN METAFÍSICA – CONTACTO EXTRATERRESTRE- ATHEN
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-792d96d276c2-c01
+
+Za’el says perceptions and densities shape what people consider sensible; people can modify, create, or dissolve shared agreements by discussing differing viewpoints. Attributed to Za’el’s model.
+
+Attributed to **Za’el of Erra**; asserted; extraction confidence: high.
+
+Source: [Mentalidad 3D y la Tendencia a Pensar en Pequeño](https://swaruu.org/transcripts/mentalidad-3d-y-la-tendencia-a-pensar-en-pequeno) (2023-06-18; es); passages p0007, p0008, p0009, p0010. [Structured record](../../records/src-792d96d276c2.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-af28174da547-c01
+
+Yazhi identifies terrestrial dark matter with unmeasured effects of other densities; she says interstellar civilizations instead describe these as densities. Her interpretation.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Materia Oscura y Antimateria - Informacion Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/materia-oscura-y-antimateria-informacion-extraterrestre-yazhi-swaruu) (2023-08-06; es); passages p0013, p0014, p0025, p0046, p0096. [Structured record](../../records/src-af28174da547.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-64deed76c0cf-c01
+
+Mari says beings with different frequencies can influence one another through shared compatible traits or thoughts. She illustrates this with human relationships.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Apegos e Infestaciones de Entidades Asrales, Parte 1](https://swaruu.org/transcripts/apegos-e-infestaciones-de-entidades-asrales-parte-1) (2023-06-18; es); passages p0011, p0012, p0014, p0016. [Structured record](../../records/src-64deed76c0cf.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Astral entities](astral-entities.md).
+
+### src-3535c43ff865-c01
+
+Yazhi says local frequency averages reflect inhabitants’ consciousness, though mixed-frequency pockets can coexist; interferometers can measure a field. Averages predominate.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Frecuencias, Estados de conciencia, Vibración - Charla con Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/frecuencias-estados-de-conciencia-vibracion-charla-con-sophia-swaruu-yazhi) (2023-06-13; es); passages p0005, p0006, p0011, p0013, p0014. [Structured record](../../records/src-3535c43ff865.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0c4c4d1e9b67-c01
+
+Mari says realms are defined by each soul’s perception; shared worlds arise from overlapping ideas, while physical embodiment filters astral experience. She says individual experiences still differ.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Demonios y Entidades Malvadas del Bajo Astral y el Mundo de los Vivos, Parte 1](https://swaruu.org/transcripts/demonios-y-entidades-malvadas-del-bajo-astral-y-el-mundo-de-los-vivos-parte-1) (2023-08-23; es); passages p0004, p0005, p0006, p0009. [Structured record](../../records/src-0c4c4d1e9b67.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md), [Astral entities](astral-entities.md).
+
+### src-bac03b977073-c01
+
+Arien says Earth’s frequency can influence outsiders through thought and shared ideas; trauma may make distant beings more compatible with Earth’s lower state. Physical proximity is unnecessary.
+
+Attributed to **Arien**; asserted; extraction confidence: high.
+
+Source: [La Matrix 3D y su Repercusión en las Almas](https://swaruu.org/transcripts/la-matrix-3d-y-su-repercusion-en-las-almas) (2023-04-29; es); passages p0004, p0005, p0006, p0007. [Structured record](../../records/src-bac03b977073.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ddb96d2b4f51-c01
+
+Mari Swaruu defines density as an individual or group’s level of consciousness and perception, rather than a physical location or measurable frequency. Her definition rejects fixed numbered locations.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [5D ¿Que significa vivir en 5D?](https://swaruu.org/transcripts/5d-que-significa-vivir-en-5d) (2023-05-23; es); passages p0003, p0007, p0008, p0011, p0012, p0017. [Structured record](../../records/src-ddb96d2b4f51.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-afe6e8af2447-c01
+
+Anéeka and Swaruu (9) say Pleiadian life exists beyond Earth's perceptual range, and terrestrial time cannot determine its age. Swaruu (9) says her group recognizes nine Pleiades stars and describes time as relative.
+
+Attributed to **Anéeka; Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Las Pléyades NO son demasiado "jóvenes" para tener vida - Contacto Extraterrestre](https://swaruu.org/transcripts/las-pleyades-no-son-demasiado-jovenes-para-tener-vida-contacto-extraterrestre) (2023-05-12; es); passages p0004, p0005, p0006, p0011, p0012, p0013. [Structured record](../../records/src-afe6e8af2447.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-afe6e8af2447-c02
+
+In 2023, Yazhi reframes 3D and 5D as observer-dependent perceptions rather than actual densities. She says this changes how one interprets claims that human instruments cannot perceive Pleiadian life.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Las Pléyades NO son demasiado "jóvenes" para tener vida - Contacto Extraterrestre](https://swaruu.org/transcripts/las-pleyades-no-son-demasiado-jovenes-para-tener-vida-contacto-extraterrestre) (2023-05-12; es); passages p0015, p0016, p0017, p0021, p0023. [Structured record](../../records/src-afe6e8af2447.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bd13d89221e8-c04](consciousness-metaphysics.md#src-bd13d89221e8-c04) — Consciousness and metaphysics
@@ -917,6 +1007,29 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-1c56b7d9bf71-c03](human-biosuit-model.md#src-1c56b7d9bf71-c03) — Humanity as a shared biological suit
 - [src-d778f32d51ae-c02](consciousness-metaphysics.md#src-d778f32d51ae-c02) — Consciousness and metaphysics
 - [src-114eb7d82f29-c02](telepathic-channeling.md#src-114eb7d82f29-c02) — Telepathic channeling
+- [src-9922a742f77a-c01](consciousness-metaphysics.md#src-9922a742f77a-c01) — Consciousness and metaphysics
+- [src-7b4f6bfe2d36-c02](consciousness-metaphysics.md#src-7b4f6bfe2d36-c02) — Consciousness and metaphysics
+- [src-b11e21360ce7-c01](consciousness-metaphysics.md#src-b11e21360ce7-c01) — Consciousness and metaphysics
+- [src-dc983dd82033-c01](consciousness-metaphysics.md#src-dc983dd82033-c01) — Consciousness and metaphysics
+- [src-dc983dd82033-c03](consciousness-metaphysics.md#src-dc983dd82033-c03) — Consciousness and metaphysics
+- [src-f22ac19341d2-c01](consciousness-metaphysics.md#src-f22ac19341d2-c01) — Consciousness and metaphysics
+- [src-f22ac19341d2-c03](consciousness-metaphysics.md#src-f22ac19341d2-c03) — Consciousness and metaphysics
+- [src-3535c43ff865-c02](consciousness-metaphysics.md#src-3535c43ff865-c02) — Consciousness and metaphysics
+- [src-3535c43ff865-c03](consciousness-metaphysics.md#src-3535c43ff865-c03) — Consciousness and metaphysics
+- [src-39d2bef39243-c01](starseeds.md#src-39d2bef39243-c01) — Starseeds
+- [src-d522bad591d5-c01](shadow-people.md#src-d522bad591d5-c01) — Shadow People
+- [src-d522bad591d5-c03](shadow-people.md#src-d522bad591d5-c03) — Shadow People
+- [src-bac03b977073-c03](consciousness-metaphysics.md#src-bac03b977073-c03) — Consciousness and metaphysics
+- [src-9987cea5f9c3-c03](reincarnation-cycles.md#src-9987cea5f9c3-c03) — Reincarnation and karmic cycles
+- [src-359fd1aab210-c01](extraterrestrial-syndrome.md#src-359fd1aab210-c01) — Extraterrestrial syndrome
+- [src-359fd1aab210-c02](van-allen-belts.md#src-359fd1aab210-c02) — Van Allen belts
+- [src-5747f0ef36c2-c01](consciousness-metaphysics.md#src-5747f0ef36c2-c01) — Consciousness and metaphysics
+- [src-e10c7ec1d27f-c01](dimensional-mirroring.md#src-e10c7ec1d27f-c01) — Dimensional mirroring
+- [src-ddb96d2b4f51-c02](consciousness-metaphysics.md#src-ddb96d2b4f51-c02) — Consciousness and metaphysics
+- [src-ddb96d2b4f51-c03](consciousness-metaphysics.md#src-ddb96d2b4f51-c03) — Consciousness and metaphysics
+- [src-eeb5d9cc4e85-c03](consciousness-metaphysics.md#src-eeb5d9cc4e85-c03) — Consciousness and metaphysics
+- [src-d3b2c7f37ed1-c02](consciousness-metaphysics.md#src-d3b2c7f37ed1-c02) — Consciousness and metaphysics
+- [src-066afd308a37-c01](original-matrix.md#src-066afd308a37-c01) — Original Matrix
 
 ## Review flags
 
@@ -926,11 +1039,17 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Claims about elementals and gravity sensing are attributed to Athena.
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- Contains speaker claims about illness causation and cancer; preserve attribution.
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - Reptilian identity claim is an allegation by the speaker.
+- The article connects metaphysical claims to quantum mechanics without establishing a scientific basis.
+- The earlier speakers describe Pleiadian life as 5D and hidden from 3D perception; Yazhi's 2023 section says densities are only perceptions, presenting a chronological conceptual revision or tension.
+- The source also makes an unsupported cancer and dissociative-identity claim in p0052; it is omitted from the lore claims.
+- The source frames adversity through speculative metaphysical ideas; the author explicitly cautions that events need not have one definite purpose.
+- The source gives a metaphysical account of consciousness and spiritual development, retained as speaker attribution.
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts
 - Yazhi presents several perspective-dependent formulations of identity and integration

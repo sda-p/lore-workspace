@@ -116,6 +116,16 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Seres de luz, giro positivo, Parte dos, Federación Galáctica, Parte 6](https://swaruu.org/transcripts/seres-de-luz-giro-positivo-parte-dos-federacion-galactica-parte-6) (2023-03-31; es); passages p0004, p0005, p0006, p0010. [Structured record](../../records/src-e9a6108eaecc.json).
 
+### src-e29710d91597-c01
+
+Mari says Viera informed her group that a quadrant-level Federation delegation would audit Earth affairs in late 2023 or early 2024, reviewing orbiting races and terrestrial governments. The planned visit is dated in the 2023 source.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [La Federación Galactica Profunda llegará pronto cerca de la Tierra para una Auditoria General](https://swaruu.org/transcripts/la-federacion-galactica-profunda-llegara-pronto-cerca-de-la-tierra-para-una-auditoria-general) (2023-08-31; es); passages p0013, p0014, p0015, p0016. [Structured record](../../records/src-e29710d91597.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Viera](viera.md).
+
 ## Claims filed under other topics
 
 - [src-22febda7e5c0-c05](galactic-federation.md#src-22febda7e5c0-c05) — Galactic Federation
@@ -132,4 +142,5 @@ Source: [Seres de luz, giro positivo, Parte dos, Federación Galáctica, Parte 6
 - Yazhi’s statements on nuclear weapons and Hiroshima are unverified claims; she explicitly said there was no way to confirm them.
 - exopolitical and refugee claims are attributed to Alenym and not independently verified
 - lore-claims-attributed-to-Aneeka
+- time-bound-2023-forecast
 - translation-counterpart: src-d0398aec7731; close full translation; similar-title source src-ba29b281f533 is a distinct later essay

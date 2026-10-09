@@ -1,0 +1,89 @@
+{
+  "source_id": "src-afdc7253ce04",
+  "snapshot_sha256": "c2434c12d1ef5f0593d389d864e344c47ced4ad6458424e377d2970b3d698e7f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-afdc7253ce04-c01",
+      "assertion": "Mari says high-vibration starseeds disrupt low-astral patterns simply by existing, without direct confrontation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0010",
+        "p0019"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-afdc7253ce04-c02",
+      "assertion": "Mari says starseeds are expressions of Source whose values and focus shape their surroundings; she urges emotional self-control.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She associates strong manifestation with responsibility for one's thoughts and actions."
+    },
+    {
+      "id": "src-afdc7253ce04-c03",
+      "assertion": "Mari says telepathy and collective consciousness can influence thoughts and emotions, which people may mistake for their own.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "starseeds",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-afdc7253ce04-c04",
+      "assertion": "Mari says some starseeds share knowledge, help others, or enter astral realms to confront harmful entities.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "astral-military-units",
+      "topics": [
+        "astral-military-units",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about astral entities, telepathy, and manifestation are attributed to Mari."
+  ],
+  "coverage_gaps": [
+    "her descriptions of starseed resilience and protective Source energy"
+  ]
+}

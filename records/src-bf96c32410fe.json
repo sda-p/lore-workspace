@@ -1,0 +1,84 @@
+{
+  "source_id": "src-bf96c32410fe",
+  "snapshot_sha256": "0ef57c4bcbe7c6e03fb9ce892196216315a496544e1cce927fddf699956907e9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bf96c32410fe-c01",
+      "assertion": "Mari says about 900 cadets were training for Second Contact in languages, computing, exopolitics, and human interaction.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "project-second-contact",
+      "topics": [
+        "project-second-contact",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Launch was expected in late 2024."
+    },
+    {
+      "id": "src-bf96c32410fe-c02",
+      "assertion": "Mari reports a cyclone damaged homes, maglevs, shipyards, and Toleka's spaceport.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "No deaths were known; evacuees were reported."
+    },
+    {
+      "id": "src-bf96c32410fe-c03",
+      "assertion": "Mari describes Temmer as a tropical island planet with 0.8 Earth gravity and usually mild, rare cyclones.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The Toleka storm was exceptionally severe."
+    },
+    {
+      "id": "src-bf96c32410fe-c04",
+      "assertion": "Mari says Taygetan climate control is rarely used and mainly intended to prevent disasters.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0027",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "weather-control",
+      "topics": [
+        "weather-control",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "It did not activate before impact."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Mari's indirect, coded allegations about terrestrial atmospheric and agricultural contamination"
+  ]
+}

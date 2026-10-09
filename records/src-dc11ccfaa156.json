@@ -1,0 +1,43 @@
+{
+  "source_id": "src-dc11ccfaa156",
+  "snapshot_sha256": "a675ab493e34cee400f23760eb5d54c7bc88d7617754cf695ac863ebf165084c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dc11ccfaa156-c01",
+      "assertion": "Mari Swa uses alien for species harmful to human-Lyrians and extraterrestrial for people born off Earth, humanlike or not.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0002", "p0003"],
+      "primary_topic": "alien-species",
+      "topics": ["alien-species", "extraterrestrial-contact"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her preferred distinctions, not universal definitions."
+    },
+    {
+      "id": "src-dc11ccfaa156-c02",
+      "assertion": "Mari says off-world human-Lyrian peoples use familiar tools such as toothbrushes and wheels alongside advanced technology.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0022", "p0023", "p0024"],
+      "primary_topic": "alien-species",
+      "topics": ["alien-species", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says advanced devices do not always replace simple tools."
+    },
+    {
+      "id": "src-dc11ccfaa156-c03",
+      "assertion": "Mari says boundaries between humans and extraterrestrials are unclear and describes many listeners as star people like herself.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0025"],
+      "primary_topic": "starseeds",
+      "topics": ["starseeds", "extraterrestrial-contact"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says she was born off Earth but lived among humans."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["her critique of prior contact methods", "Federation limits on disclosure"]
+}

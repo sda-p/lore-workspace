@@ -26,8 +26,10 @@ Source: [Conversaciones con Anéeka - Tablillas Sumerias - El Mundo del misterio
 
 - [src-bb90b9018597-c01](ancient-egypt.md#src-bb90b9018597-c01) — Ancient Egypt
 - [src-bb90b9018597-c02](ancient-egypt.md#src-bb90b9018597-c02) — Ancient Egypt
+- [src-169d506f3fbd-c01](artificial-portals.md#src-169d506f3fbd-c01) — Artificial portals
 
 ## Review flags
 
+- Claims about the Iraq invasion and alleged portal transport rely on speaker assertion and cited witnesses.
 - reported-comparison-not-speaker-endorsement
 - speaker-attribution-inferred-from-robert-transcript

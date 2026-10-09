@@ -1,0 +1,96 @@
+{
+  "source_id": "src-742d06b0c285",
+  "snapshot_sha256": "0327b57a3eaffbadfe072aa1d8b5c32003a502f6f5e959238a2a09c510c223e3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-742d06b0c285-c01",
+      "assertion": "Athena describes Ekátá as a telepathic semi-amphibious slug in Viera; its origin is unknown.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Reportedly the last of its species."
+    },
+    {
+      "id": "src-742d06b0c285-c02",
+      "assertion": "Athena says MK Ultra trauma may cause souls to withdraw from bodies, distinct from fragmentation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-742d06b0c285-c03",
+      "assertion": "Athena says the Incas arose after a flood and Federation use of the region, from northern nomads and Pacific lowland immigrants.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "tiamat"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-742d06b0c285-c04",
+      "assertion": "Athena says Faraday cages need six-sided enclosure; hats leave heads incompletely shielded.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "aggressive-telepathy"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-742d06b0c285-c05",
+      "assertion": "Athena speculates aluminum hats may block telepathy, but says evidence is lacking.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0024"
+      ],
+      "primary_topic": "aggressive-telepathy",
+      "topics": [
+        "aggressive-telepathy",
+        "terrestrial-science"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She calls for laboratory testing."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about soul-body separation, telepathy, particle observation, and ancient history are attributed statements, not independently established facts."
+  ],
+  "coverage_gaps": [
+    "MK Ultra recovery advice",
+    "interpretation of particle-creation research"
+  ]
+}

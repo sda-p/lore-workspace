@@ -946,6 +946,34 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER - YAZHI - Sophia Swaruu](https://swaruu.org/transcripts/lo-que-no-te-cuentan-de-los-vehiculos-electricos-y-tienes-que-saber-yazhi-sophia-swaruu) (2022-10-11; es); passages p0002, p0003. [Structured record](../../records/src-28f04bff29fc.json).
 
+### src-3e6bb19f0b7f-c04
+
+Athena describes Serapeum stone chests as empty electrical-capacitor containers within a local free-energy distribution network, not sarcophagi.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ES EL ASTRAL EN DONDE SE GENERAN LOS COMBATES MÁS DECISIVOS Y OTRAS PREGUNTAS](https://swaruu.org/transcripts/es-el-astral-en-donde-se-generan-los-combates-mas-decisivos-y-otras-preguntas) (2023-08-16; es); passages p0029, p0030, p0034. [Structured record](../../records/src-3e6bb19f0b7f.json).
+
+### src-af28174da547-c04
+
+She says nonhuman civilizations use fueled antimatter reactors, which are less advanced than zero-point technology. She says ionizing radiation is low.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Materia Oscura y Antimateria - Informacion Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/materia-oscura-y-antimateria-informacion-extraterrestre-yazhi-swaruu) (2023-08-06; es); passages p0033, p0036, p0046. [Structured record](../../records/src-af28174da547.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-eb3d807278aa-c02
+
+She suspects decades-old lunar reactors power the hologram, Van Allen belts, and auxiliary systems, but says evidence is unclear.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [Reactores Humanos en la Luna - Examinando el Tema con Athena Swaruu](https://swaruu.org/transcripts/reactores-humanos-en-la-luna-examinando-el-tema-con-athena-swaruu) (2023-07-23; es); passages p0030, p0031, p0033, p0097, p0098. [Structured record](../../records/src-eb3d807278aa.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md), [Van Allen belts](van-allen-belts.md).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -1042,6 +1070,10 @@ Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER -
 - [src-14bbfbca9660-c01](taygetan-wireless-power-grid.md#src-14bbfbca9660-c01) — Taygetan wireless power grid
 - [src-14bbfbca9660-c02](taygetan-wireless-power-grid.md#src-14bbfbca9660-c02) — Taygetan wireless power grid
 - [src-db2abd569bd8-c03](electric-vehicles.md#src-db2abd569bd8-c03) — Electric vehicles
+- [src-b0f5fd41803e-c02](van-allen-belts.md#src-b0f5fd41803e-c02) — Van Allen belts
+- [src-af28174da547-c03](terrestrial-science.md#src-af28174da547-c03) — Terrestrial science
+- [src-c5820758bc75-c02](moon-matrix.md#src-c5820758bc75-c02) — Moon and terrestrial Matrix
+- [src-69f666d88c2e-c03](economics.md#src-69f666d88c2e-c03) — Economics and resources
 
 ## Review flags
 
@@ -1107,6 +1139,7 @@ Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER -
 - internal-count-conflict:swaruwnian-chromosomes
 - internal\_uncertainty
 - laboratory-virus-report-uncertain
+- lunar-data-inconsistent
 - lunar-reactor-age-origin-uncertainty
 - matrix-technology-attributed
 - medical-claims-unverified

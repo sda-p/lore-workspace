@@ -1,0 +1,67 @@
+{
+  "source_id": "src-a0e7e195133c",
+  "snapshot_sha256": "3dafbf379a9aa6f699dc6a8a5db974b7f5bdd5fccba781cfa9e64b9daf3fa522",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a0e7e195133c-c01",
+      "assertion": "Mari describes four combat pilots from Erra and Temmer with no Earth contact or human languages, culturally distinct from Earth-influenced Toleka crew.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "taygetan-language"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0e7e195133c-c02",
+      "assertion": "Mari says Taygetans tailor clothes and find mass production and money unfamiliar; the new crew was shocked by Earth poverty.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a0e7e195133c-c03",
+      "assertion": "Mari says ghosts are commonly accepted in Taygeta and its lower astral is peaceful, so the new crew did not fear paranormal activity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Solatian background and other cultural differences omitted"
+  ]
+}

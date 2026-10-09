@@ -122,14 +122,28 @@ Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
 
 Source: [Acuerdos del "alma", Omisión de acción, y cambiar la línea de tiempo de otro](https://swaruu.org/transcripts/acuerdos-del-alma-omision-de-accion-y-cambiar-la-linea-de-tiempo-de-otro) (2023-03-22; es); passages p0028, p0030, p0031. [Structured record](../../records/src-0e507b21433f.json).
 
+### src-359fd1aab210-c03
+
+She says ascension is individual and recommends inner work, forgiveness, and transcending duality rather than relying on material things for happiness. She frames happiness as arising within.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL MAL DE EXTRATERRESTRES LA MATRIX Y SUS FRECUENCIAS](https://swaruu.org/transcripts/el-mal-de-extraterrestres-la-matrix-y-sus-frecuencias) (2023-06-21; es); passages p0031, p0032, p0033. [Structured record](../../records/src-359fd1aab210.json).
+
+Related topics: [Shadow Work](shadow-work.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-12823666aeee-c02](holistic-society.md#src-12823666aeee-c02) — Holistic society
 - [src-90107b56d6ec-c01](consciousness-metaphysics.md#src-90107b56d6ec-c01) — Consciousness and metaphysics
 - [src-90107b56d6ec-c04](consciousness-metaphysics.md#src-90107b56d6ec-c04) — Consciousness and metaphysics
+- [src-39d2bef39243-c03](starseeds.md#src-39d2bef39243-c03) — Starseeds
+- [src-5dcb0e2a993c-c01](consciousness-metaphysics.md#src-5dcb0e2a993c-c01) — Consciousness and metaphysics
+- [src-d834e6dbdec7-c03](starseeds.md#src-d834e6dbdec7-c03) — Starseeds
 
 ## Review flags
 
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
+- Contains speaker claims about illness causation and cancer; preserve attribution.
 - Spiritual interpretations and timeline claims are attributed to Za’el, not independently verified.
 - lore-claims-attributed-to-Yazhi

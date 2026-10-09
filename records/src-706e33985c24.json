@@ -1,0 +1,43 @@
+{
+  "source_id": "src-706e33985c24",
+  "snapshot_sha256": "6b0f45f0f132830c3735391005879428c1cbc94bb4830581a13bf70f50f8f94b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-706e33985c24-c01",
+      "assertion": "Anéeka says starfarers near Earth follow Earth's dominant time, while Taygetan clocks desynchronize and telepathy helps people coordinate.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0004", "p0005", "p0007", "p0009"],
+      "primary_topic": "ship-internal-time",
+      "topics": ["ship-internal-time", "taygetans"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says stellar positions provide another approximate reference."
+    },
+    {
+      "id": "src-706e33985c24-c02",
+      "assertion": "Athena reports that one Temmer day now corresponds to nearly five Earth days, compared with 4.5:1 in 2019.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0046", "p0049"],
+      "primary_topic": "ship-internal-time",
+      "topics": ["ship-internal-time", "temporal-skipping"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents these ratios as localized and changing."
+    },
+    {
+      "id": "src-706e33985c24-c03",
+      "assertion": "Yazhi says each planet's collective consciousness shapes its temporal flow and frequency, which can guide stellar navigation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0067", "p0068", "p0069", "p0070", "p0075"],
+      "primary_topic": "ship-internal-time",
+      "topics": ["ship-internal-time", "frequency-map-navigation", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says changing consciousness changes experienced time."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["time-loop repetition", "Cyndriel's extreme temporal variation", "Schumann resonance claims"]
+}

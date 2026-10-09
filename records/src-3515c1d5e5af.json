@@ -1,0 +1,65 @@
+{
+  "source_id": "src-3515c1d5e5af",
+  "snapshot_sha256": "42abb57871adc365a0b5a0f9ad84a9e8187c5ffc3058eda2845b0863593b3413",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3515c1d5e5af-c01",
+      "assertion": "Mari says increased UFO reports did not correspond to unusual spacecraft traffic; she suggests reporting or media filtering may explain the rise.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says no unusual traffic was found."
+    },
+    {
+      "id": "src-3515c1d5e5af-c02",
+      "assertion": "Mari says Taygetans adopted birthday celebrations from Earth and hold parties aboard Toleka with food, music, and gifts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3515c1d5e5af-c03",
+      "assertion": "Mari says four of Toleka’s twelve engines required turbine-rotor replacement while the ship was in orbit.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this had not previously been done on a ship that large in space."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Space-traffic and engineering claims are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Other birthday details and asteroid claims"
+  ]
+}

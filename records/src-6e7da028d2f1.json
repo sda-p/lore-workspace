@@ -1,0 +1,47 @@
+{
+  "source_id": "src-6e7da028d2f1",
+  "snapshot_sha256": "7798230a53e96927b2d9309857791c5a2523cbf042d9d419a3a9fb38b115a9d4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6e7da028d2f1-c01",
+      "assertion": "Yazhi says personal and collective perceptions create Matrix explanations for unfamiliar people or events, including memories and documents.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0008", "p0013", "p0016", "p0018"],
+      "primary_topic": "moon-matrix",
+      "topics": ["moon-matrix", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She describes these as manifestations within differing levels of understanding."
+    },
+    {
+      "id": "src-6e7da028d2f1-c02",
+      "assertion": "Yazhi claims memories reside in a collective unconscious field and that frequency affects which memories a person can access.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0013", "p0034", "p0060"],
+      "primary_topic": "akashic-records",
+      "topics": ["akashic-records", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She links this account to the Akashic Records."
+    },
+    {
+      "id": "src-6e7da028d2f1-c03",
+      "assertion": "Yazhi attributes differing recollections, including Mandela effects, to shifts in collective Matrix dynamics and individual frequency.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0050", "p0053", "p0055", "p0056"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her metaphysical explanation of memory differences."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The dialogue presents metaphysical claims about memory, consciousness, and reality without independent verification."
+  ],
+  "coverage_gaps": [
+    "Further sections discuss entities, vibrational perception, and frequency containment."
+  ]
+}

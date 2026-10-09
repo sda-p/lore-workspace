@@ -1,0 +1,47 @@
+{
+  "source_id": "src-d8c144de6128",
+  "snapshot_sha256": "687ac4f0eff1e4ad2d47e2f925633f893ee2eff14a48725928ba32776012b614",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d8c144de6128-c01",
+      "assertion": "Mari Swa reports that a hurricane damaged more than 100 buildings in Toleka and destroyed 54 homes, with deaths and injuries across Temmer.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0008", "p0037", "p0038"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "terrestrial-science"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These figures are reported in her account, which says the storm appeared natural."
+    },
+    {
+      "id": "src-d8c144de6128-c02",
+      "assertion": "Mari says Toleka’s forest-integrated design left fallen trees and plants blocking roads and emergency hangar doors during the storm.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0009", "p0017", "p0022", "p0023"],
+      "primary_topic": "holistic-society",
+      "topics": ["holistic-society", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says this delayed rescue response."
+    },
+    {
+      "id": "src-d8c144de6128-c03",
+      "assertion": "Mari says she ordered weather-control systems activated to divert developing storms after the hurricane.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0030", "p0032"],
+      "primary_topic": "weather-control",
+      "topics": ["weather-control", "taygetans"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says some residents criticized the intervention."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source is an unverified first-person account framed as entertainment."
+  ],
+  "coverage_gaps": [
+    "The account also describes reconstruction, ecological tradeoffs, and remote immersion technology."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source_id": "src-878fcdc382ad",
+  "snapshot_sha256": "b14d47276bf1d8089d0b338801ce397dfc2c306b887c25370087f4b42e8b44e8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-878fcdc382ad-c01",
+      "assertion": "Mari says a person’s higher self acts as their guardian angel, guiding the embodied self across a non-linear afterlife perspective.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0028",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878fcdc382ad-c02",
+      "assertion": "Mari says other souls, including one’s spiritual family, may also guide and care for a person.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-878fcdc382ad-c03",
+      "assertion": "Mari says a starseed’s off-world family may monitor and assist them using drones.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0034"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Spiritual and metaphysical claims are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Guardian-angel anecdotes and alternate explanations"
+  ]
+}

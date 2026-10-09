@@ -1,0 +1,71 @@
+{
+  "source_id": "src-df9f65c0c57e",
+  "snapshot_sha256": "e3ed2a5a8d95b335dd6be033d34e72b96ca50a7ff0033cce55bd365ba6204bd3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-df9f65c0c57e-c01",
+      "assertion": "Mari Swa describes walk-ins as souls entering an existing Earth body, either through soul agreements or immersion technology.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as an extraterrestrial account."
+    },
+    {
+      "id": "src-df9f65c0c57e-c02",
+      "assertion": "Mari Swa alleges that some extraterrestrial actors manipulate walk-ins through identity claims, altered photographs, and implanted memories.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0024",
+        "p0026",
+        "p0034",
+        "p0031"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says such contact can also interfere with a person’s plans."
+    },
+    {
+      "id": "src-df9f65c0c57e-c03",
+      "assertion": "Mari Swa warns that claims about past lives and extraterrestrial identity can be used to gaslight vulnerable people.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0024",
+        "p0031",
+        "p0033",
+        "p0036"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "extraterrestrial-contact"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She advises judging reality using the best available information."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The video explicitly frames its extraterrestrial and immersion-technology claims as entertainment; they are unverified."
+  ],
+  "coverage_gaps": [
+    "The video also discusses past-life memory, Moon-related frequency claims, and alleged advanced image fabrication."
+  ]
+}

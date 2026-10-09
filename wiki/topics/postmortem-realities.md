@@ -1456,6 +1456,86 @@ Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
 
 Source: [¿Adónde vamos después de la muerte?](https://swaruu.org/transcripts/adonde-vamos-despues-de-la-muerte) (2023-04-13; es); passages p0010, p0015, p0016. [Structured record](../../records/src-e01eaa468a9c.json).
 
+### src-b11e21360ce7-c02
+
+Mari says astral experience varies by each being’s consciousness and vibration; shared realms arise through compatible perceptual agreements.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Astral. Parte 3, Importante recapitulación de conceptos básicos que lo describen todo](https://swaruu.org/transcripts/el-astral-parte-3-importante-recapitulacion-de-conceptos-basicos-que-lo-describen-todo) (2023-08-13; es); passages p0015, p0016, p0017, p0018, p0023. [Structured record](../../records/src-b11e21360ce7.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b11e21360ce7-c03
+
+She describes the lower astral as resembling the material world and generally inhabited by entities, egregors, and deceased beings strongly attached to it. Higher- or lower-frequency attention is said to manifest more pleasant or unpleasant realms.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Astral. Parte 3, Importante recapitulación de conceptos básicos que lo describen todo](https://swaruu.org/transcripts/el-astral-parte-3-importante-recapitulacion-de-conceptos-basicos-que-lo-describen-todo) (2023-08-13; es); passages p0021, p0022, p0023. [Structured record](../../records/src-b11e21360ce7.json).
+
+Related topics: [Egregors](egregors.md).
+
+### src-9d5a0a649d33-c01
+
+Mari says astral projection is a conscious out-of-body experience, occurring naturally, through practice, or by artificial induction; she distinguishes it from lucid dreaming. These descriptions are framed as beliefs.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Semillas Estelares, parte 7, Proyección y Abducciones Astrales, misiones nocturnas. Parte 1](https://swaruu.org/transcripts/semillas-estelares-parte-7-proyeccion-y-abducciones-astrales-misiones-nocturnas-parte-1) (2023-08-05; es); passages p0007, p0008, p0018. [Structured record](../../records/src-9d5a0a649d33.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9d5a0a649d33-c03
+
+Mari says astral realms reflect inhabitants’ perceptions and can affect the material world, which she describes as generated from them. Her metaphysical account.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares, parte 7, Proyección y Abducciones Astrales, misiones nocturnas. Parte 1](https://swaruu.org/transcripts/semillas-estelares-parte-7-proyeccion-y-abducciones-astrales-misiones-nocturnas-parte-1) (2023-08-05; es); passages p0005, p0015, p0016, p0023, p0024. [Structured record](../../records/src-9d5a0a649d33.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-39a9c48cca4f-c03
+
+Mari says deceased souls may retain astral bodies and interact with the living through strong attachments, but ultimately return to Source. She says some remain in lower astral realms temporarily.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Fantasmas, apariciones, espíritus y espectros, Contexto Necesario. Parte 1](https://swaruu.org/transcripts/fantasmas-apariciones-espiritus-y-espectros-contexto-necesario-parte-1) (2023-09-16; es); passages p0024, p0025, p0026, p0028. [Structured record](../../records/src-39a9c48cca4f.json).
+
+Related topics: [Astral entities](astral-entities.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8f1437f38d3a-c02
+
+Athena described dreams as experiences in other planes where manifestation is faster, rather than necessarily being soul fragmentation.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Agencia Cosmica - MiniTemas - Calaveras de Cristal, Elon Musk, y mucho mas](https://swaruu.org/transcripts/agencia-cosmica-minitemas-calaveras-de-cristal-elon-musk-y-mucho-mas) (2023-06-21; es); passages p0074, p0075. [Structured record](../../records/src-8f1437f38d3a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-fec70c265b7c-c02
+
+She distinguishes memories of advanced off-world societies from memories of higher astral realms. Either may cause a sense of not belonging on Earth.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Recordando haber vivido en reinos superiores. Semillas estelares y sus problemas. Parte 5](https://swaruu.org/transcripts/recordando-haber-vivido-en-reinos-superiores-semillas-estelares-y-sus-problemas-parte-5) (2023-07-30; es); passages p0006, p0012. [Structured record](../../records/src-fec70c265b7c.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-066afd308a37-c02
+
+Mari Swaruu says souls in astral realms view physical incarnations as simulations or learning experiences. She says this perspective contrasts with the seriousness and suffering experienced in physical life.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [El lado Astral, el mundo Físico y su Matrix, lo que los hace y lo que los define](https://swaruu.org/transcripts/el-lado-astral-el-mundo-fisico-y-su-matrix-lo-que-los-hace-y-lo-que-los-define) (2023-04-22; es); passages p0008, p0009. [Structured record](../../records/src-066afd308a37.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c01](consciousness-metaphysics.md#src-331beeab2088-c01) — Consciousness and metaphysics
@@ -1497,6 +1577,12 @@ Source: [¿Adónde vamos después de la muerte?](https://swaruu.org/transcripts/
 - [src-e01eaa468a9c-c02](consciousness-metaphysics.md#src-e01eaa468a9c-c02) — Consciousness and metaphysics
 - [src-e01eaa468a9c-c03](walk-in-phenomenon.md#src-e01eaa468a9c-c03) — Walk-in phenomenon
 - [src-e01eaa468a9c-c04](reincarnation-cycles.md#src-e01eaa468a9c-c04) — Reincarnation and karmic cycles
+- [src-3e51d50bca48-c02](consciousness-metaphysics.md#src-3e51d50bca48-c02) — Consciousness and metaphysics
+- [src-9d5a0a649d33-c02](immersion-pods.md#src-9d5a0a649d33-c02) — Immersion pods
+- [src-64deed76c0cf-c02](astral-entities.md#src-64deed76c0cf-c02) — Astral entities
+- [src-39a9c48cca4f-c01](astral-entities.md#src-39a9c48cca4f-c01) — Astral entities
+- [src-0c4c4d1e9b67-c02](archons-and-demons.md#src-0c4c4d1e9b67-c02) — Archons and demons
+- [src-d834e6dbdec7-c01](consciousness-metaphysics.md#src-d834e6dbdec7-c01) — Consciousness and metaphysics
 
 ## Review flags
 
@@ -1514,6 +1600,7 @@ Source: [¿Adónde vamos después de la muerte?](https://swaruu.org/transcripts/
 - Yazhi frames these as a limited explanatory viewpoint.
 - Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts
 - Yazhi notes possible linguistic ambiguity in her terminology.
+- Yazhi said she saw photographs rather than the crystal skulls firsthand; the claims are attributed.
 - afterlife-claims-are-source-model
 - afterlife-model-attributed
 - agenda\_term\_varies
@@ -1555,6 +1642,7 @@ Source: [¿Adónde vamos después de la muerte?](https://swaruu.org/transcripts/
 - speaker-shift-in-source
 - translation-counterpart-src-77b565b0b608-shared-2018-section
 - translation-counterpart:none-identified
+- unverified-military-claims
 - unverified\_biological\_claims
 - unverified\_paranormal\_claims
 - vision-narrative\_attributed

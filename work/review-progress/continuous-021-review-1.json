@@ -1,0 +1,19 @@
+{
+  "status": "partial-not-approval",
+  "checkpointed_at": "2026-10-09T05:27:43+00:00",
+  "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
+  "review_state": {
+    "batch_id": "continuous-021",
+    "reviewer": 1,
+    "reviewed_source_ids": [
+      "src-6651f8ddc19a",
+      "src-24efda7f42eb"
+    ],
+    "corrections": [],
+    "unresolved": []
+  },
+  "record_sha256": {
+    "src-6651f8ddc19a": "6110125277ade6620d4cc888d37b8f4ef9db2d5292ce50ab633c0ea105d967d2",
+    "src-24efda7f42eb": "64cb60be2b9932f48aed7e04877fab2aad3ec5fba076b5ab28fbba475151c4c5"
+  }
+}

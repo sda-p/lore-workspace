@@ -1,0 +1,105 @@
+{
+  "source_id": "src-21a91506e065",
+  "snapshot_sha256": "281ef16c8a9dff46357f4d564fdb4c3d1e46a9ae0a3aa0c7e1bae0e676f92bb4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-21a91506e065-c01",
+      "assertion": "Yazhi says Mari became 72nd princess-queen while Alenym remained 71st and senior.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Alenym would mentor her."
+    },
+    {
+      "id": "src-21a91506e065-c02",
+      "assertion": "Yazhi says investigators believe a genetic weapon awaited Alenym on a contaminated Mogh-yay.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0061",
+        "p0062",
+        "p0063",
+        "p0065"
+      ],
+      "primary_topic": "genetic-weapons",
+      "topics": [
+        "genetic-weapons",
+        "moghyay"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Nai'shara was affected muscularly but later declared healthy."
+    },
+    {
+      "id": "src-21a91506e065-c03",
+      "assertion": "Yazhi says separate ships would preserve one queen if the other's ship were attacked.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0049",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Nai'shara stayed with Alenym."
+    },
+    {
+      "id": "src-21a91506e065-c04",
+      "assertion": "Yazhi links human and Taygetan problems through starseed mirroring in astral reality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0035",
+        "p0040",
+        "p0042"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Solving Earth's problems helps Taygeta."
+    },
+    {
+      "id": "src-21a91506e065-c05",
+      "assertion": "Yazhi says the Alcyone Council supports humanity and opposes Federation rules concerning Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0060"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The account of the genetic weapon and its intended exposure route is attributed to Yazhi as investigators' belief, not established independently."
+  ],
+  "coverage_gaps": [
+    "Mari's succession qualifications and possible transition timing",
+    "other species' responses, astral-defense advice, and scheduled Federation meetings"
+  ]
+}

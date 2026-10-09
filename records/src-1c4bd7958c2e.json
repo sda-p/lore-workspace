@@ -1,0 +1,36 @@
+{
+  "source_id": "src-1c4bd7958c2e",
+  "snapshot_sha256": "00d041ea98745ad44df040ae95173a373c1cb601deff8f3dfc2bbad334297eb1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1c4bd7958c2e-c01",
+      "assertion": "Mari Swa says many psychics describe lives as planned before incarnation from a higher-consciousness perspective where time and space differ.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0015", "p0016", "p0017"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "timeline-branching"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She attributes the premise to psychic accounts and examines it ethically."
+    },
+    {
+      "id": "src-1c4bd7958c2e-c02",
+      "assertion": "Mari argues that a higher self planning suffering for an incarnated self raises an ethical problem because the embodied person lacks that broader knowledge.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0018", "p0019", "p0020", "p0023"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her moral interpretation of reincarnation accounts."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source discusses reincarnation and higher-self claims as spiritual perspectives, without independent verification."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss past-life memory, the veil of forgetting, and taking greater control while alive."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_id": "src-b353e2ebdf6f",
+  "snapshot_sha256": "55694c63698576945605fff7ea556e2aaaa7621ced6108a1b3837b629a06a485",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b353e2ebdf6f-c01",
+      "assertion": "Yazhi says solar radiation carries galactic frequencies that may support consciousness shifts and restore human DNA to an alleged 12-strand pattern.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0025", "p0027", "p0029", "p0030", "p0032"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "terrestrial-science"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She frames this as a frequency-based interpretation, not accepted terrestrial science."
+    },
+    {
+      "id": "src-b353e2ebdf6f-c02",
+      "assertion": "Yazhi says the Sun is naturally white and that atmospheric conditions affect its apparent color and intensity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0009", "p0012", "p0013"],
+      "primary_topic": "terrestrial-science",
+      "topics": ["terrestrial-science"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She rejects claims that the Sun itself has changed."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The dialogue includes unsupported claims about solar effects, DNA activation, and chemtrails."
+  ],
+  "coverage_gaps": [
+    "Other sections discuss astral interpretations of gravity and cosmic waves."
+  ]
+}

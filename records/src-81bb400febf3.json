@@ -1,0 +1,55 @@
+{
+  "source_id": "src-81bb400febf3",
+  "snapshot_sha256": "6b22365a2920ce08a45fff86d1ecf12040c373f10492f9d5b7100b19f7570c82",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-81bb400febf3-c01",
+      "assertion": "Yazhi claims Atlantean pyramids functioned as energy reactors and portals, with some using mercury to channel electrical differences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The transcript presents this as Taygetan-provided information, not established archaeology."
+    },
+    {
+      "id": "src-81bb400febf3-c02",
+      "assertion": "Yazhi says Reptilian controllers used captivity, education, and belief systems to alter Lyrian minds and create the modern human lineage.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0035"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is an unverified mythic-history account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source advances unverified claims about ancient civilizations, extraterrestrials, and human origins."
+  ],
+  "coverage_gaps": [
+    "Other passages discuss alleged mercury reactors, Lemuria, and pyramid sites."
+  ]
+}

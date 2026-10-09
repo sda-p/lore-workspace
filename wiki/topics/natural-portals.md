@@ -1100,6 +1100,16 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Naves Nodrizas de Orión Entrando la Tierra? No esta pasando NADA - Yazhi Swaruu](https://swaruu.org/transcripts/naves-nodrizas-de-orion-entrando-la-tierra-no-esta-pasando-nada-yazhi-swaruu) (2023-02-16; es); passages p0007. [Structured record](../../records/src-e2289d05d7a8.json).
 
+### src-46f3bf392b0e-c01
+
+Anéeka identifies Puma Punku as a 12,000-year-old multiracial Federation starbase, later inhabited by successive human cultures and covered with portal maps.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PUMA PUNKU ANTIGUA BASE ESTELAR Y SUS PORTALES ESTELARES - Aneeka de Temmer](https://swaruu.org/transcripts/puma-punku-antigua-base-estelar-y-sus-portales-estelares-aneeka-de-temmer) (2023-04-26; es); passages p0004, p0006, p0007, p0011, p0015. [Structured record](../../records/src-46f3bf392b0e.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Solar portal transit](solar-portal-transit.md).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -1165,6 +1175,8 @@ Source: [Naves Nodrizas de Orión Entrando la Tierra? No esta pasando NADA - Yaz
 - [src-9d897870bbf8-c01](spherical-drones.md#src-9d897870bbf8-c01) — Spherical drones
 - [src-690730c29818-c01](energy-generation.md#src-690730c29818-c01) — Energy generation technology
 - [src-cadb5ca8cdb8-c04](astral-entities.md#src-cadb5ca8cdb8-c04) — Astral entities
+- [src-f81260545800-c01](ley-line-energy-nodes.md#src-f81260545800-c01) — Ley-line energy nodes
+- [src-46f3bf392b0e-c02](solar-portal-transit.md#src-46f3bf392b0e-c02) — Solar portal transit
 
 ## Review flags
 
@@ -1176,6 +1188,7 @@ Source: [Naves Nodrizas de Orión Entrando la Tierra? No esta pasando NADA - Yaz
 - Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012.
 - Snapshot is an unattributed compilation; claims are not assigned to a specific Swaruu speaker
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
+- The source presents spiritual and paranormal claims as fact; preserve attribution.
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - Travel-time figures are speaker-provided examples and depend on vessel and route
 - ancient-history-reinterpretation

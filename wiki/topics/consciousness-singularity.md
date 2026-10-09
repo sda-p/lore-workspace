@@ -58,6 +58,10 @@ Source: [Conciencia - Individuo - Singularidad - Somos Múltiples Pasados y Múl
 
 Related topics: [Timeline branching](timeline-branching.md).
 
+## Claims filed under other topics
+
+- [src-e1f1481fbc58-c02](consciousness-metaphysics.md#src-e1f1481fbc58-c02) — Consciousness and metaphysics
+
 ## Review flags
 
 - expanded-and-bereaved-perspectives-attributed

@@ -154,6 +154,26 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [QUE ES LA MATERIA OSCURA ENERGÍA OSCURA Y ANTI-MATERIA](https://swaruu.org/transcripts/que-es-la-materia-oscura-energia-oscura-y-anti-materia) (2023-04-16; es); passages p0019. [Structured record](../../records/src-4adf86e67a88.json).
 
+### src-3b1c05f31acd-c01
+
+Mari says thoughts are frequencies generated in the etheric field, with the brain translating them into material experience; she describes living cells and DNA as receivers. Attributed to Mari’s metaphysical model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Campos Telepáticos](https://swaruu.org/transcripts/campos-telepaticos) (2023-06-14; es); passages p0012, p0013, p0014. [Structured record](../../records/src-3b1c05f31acd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-3b1c05f31acd-c02
+
+She says people broadcast thoughts into a shared field; common ideas reinforce their frequencies, and individuals tune to compatible patterns from others.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Campos Telepáticos](https://swaruu.org/transcripts/campos-telepaticos) (2023-06-14; es); passages p0015, p0016, p0017, p0025, p0026. [Structured record](../../records/src-3b1c05f31acd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-8808e760d7a4-c03](stellar-navigation.md#src-8808e760d7a4-c03) — Stellar navigation

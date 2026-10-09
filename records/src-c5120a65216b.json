@@ -1,0 +1,123 @@
+{
+  "source_id": "src-c5120a65216b",
+  "snapshot_sha256": "2e8518a0253b4f5106d7c2b05f66cf909028dce5a37faa4ebac6e3bcc602edc5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c5120a65216b-c01",
+      "assertion": "Mari says High Council crowned Alenym to block a Cabal-backed puppet-queen takeover.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5120a65216b-c02",
+      "assertion": "Alenym reversed Cabal propaganda and later stayed aboard Toleka for security.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0009",
+        "p0019"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "earth-cabal",
+        "toleka-class"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5120a65216b-c03",
+      "assertion": "Alcyone Council made Alenym its Federation envoy; she allied with Urmah.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0012",
+        "p0017"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5120a65216b-c04",
+      "assertion": "She sought a successor, fearing her removal could end Taygetan outreach and undo allies’ awareness.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5120a65216b-c05",
+      "assertion": "Mari portrays Federation propaganda as shaping other species’ views of Earth.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c5120a65216b-c06",
+      "assertion": "Mari alleges Earth Cabal is a Federation branch; Taygetan warships are stationed near Earth.",
+      "speaker": "Mari Swa (narrator)",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The political account is Mari's narrative and includes claims about infiltration, propaganda, and Federation control; preserve attribution."
+  ],
+  "coverage_gaps": [
+    "Alenym's Earth step-down period and removal",
+    "Cyndriel invasion history and the other star-nation conflicts"
+  ]
+}

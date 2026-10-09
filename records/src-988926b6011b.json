@@ -1,0 +1,72 @@
+{
+  "source_id": "src-988926b6011b",
+  "snapshot_sha256": "ebc6c8fc1d3dc1655463aaa4a0e4a8834cd2f78aa969029fc6bc0985afc5c9a5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-988926b6011b-c01",
+      "assertion": "Yazhi says that about 40,000 years ago Earth had few large seas, extensive green land, and five additional continents beneath today’s oceans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-988926b6011b-c02",
+      "assertion": "The account describes Atlantis as a planet-wide multiracial civilization and Lemuria as a Lyrian resistance civilization centered on Mu in Oceana.",
+      "speaker": "Taygetean account, relayed by Robert",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0028",
+        "p0029",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "lyrians"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-988926b6011b-c03",
+      "assertion": "The account interprets Nazca figures and lines as star maps and spacecraft routes, with landing zones and approach data linked to a subterranean control base.",
+      "speaker": "Taygetean account, relayed by Robert",
+      "paragraph_ids": [
+        "p0054",
+        "p0060",
+        "p0061",
+        "p0062",
+        "p0063",
+        "p0065",
+        "p0067"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport",
+        "stellar-navigation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "It says the mapping used base-12 mathematics."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about subterranean species and planetary history omitted"
+  ]
+}

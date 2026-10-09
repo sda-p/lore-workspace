@@ -1,0 +1,68 @@
+{
+  "source_id": "src-087e0abdd6c2",
+  "snapshot_sha256": "a7fc89cf927b2e596b932485ada858e4bd4a599fca4fec03db6dfb3eb97b865f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-087e0abdd6c2-c01",
+      "assertion": "Mari claims internet centralizes control over facts and perception, replaces older information, and enables surveillance of individuals.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "scalar-internet"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-087e0abdd6c2-c02",
+      "assertion": "Mari says digital information control is driving a civilizational reset, enabled by humanity’s supposed veil of forgetting and weakening historical memory.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0022"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She dates a prior reset to 1750–1850."
+    },
+    {
+      "id": "src-087e0abdd6c2-c03",
+      "assertion": "Mari says official Earth history is false and suspects a recent advanced, possibly interstellar civilization; she interprets Nazca as spacecraft guidance infrastructure.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "nazca-spaceport",
+      "topics": [
+        "nazca-spaceport",
+        "atlantis-lemuria"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about social agendas and the alleged Lemurian ship omitted"
+  ]
+}

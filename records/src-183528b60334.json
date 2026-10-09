@@ -1,0 +1,74 @@
+{
+  "source_id": "src-183528b60334",
+  "snapshot_sha256": "bf266d6020527e9e625c5f15c883a345402c182c543a599c2b2219804b20e937",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-183528b60334-c01",
+      "assertion": "Mari warns against recreational psychedelic use, while acknowledging possible therapeutic use under a competent physician.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says some can cause permanent physical or psychological harm."
+    },
+    {
+      "id": "src-183528b60334-c02",
+      "assertion": "Mari says psychedelics alter cellular frequencies; uneven neural responses can produce chaotic mixtures of hallucination, material perception and astral experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0024",
+        "p0025",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says effects vary by substance."
+    },
+    {
+      "id": "src-183528b60334-c03",
+      "assertion": "Mari claims psychedelic exposure can open lower-astral access, where entities exploit fear; she recommends meditation or natural astral travel instead.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0039",
+        "p0045",
+        "p0048"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "astral-travel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her metaphysical claims and advice."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "detailed claims about neural signaling and ego omitted"
+  ]
+}

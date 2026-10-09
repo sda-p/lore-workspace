@@ -1,0 +1,13 @@
+{
+  "source_id": "src-bb1546ca3954",
+  "snapshot_sha256": "905699098a9e60e6bb7b0a1d4da6ab4c8e24032bb76a9e1e47bb84e26ddb60d1",
+  "language": "es",
+  "claims": [
+    {"id":"src-bb1546ca3954-c01","assertion":"Gosia encourages people who feel alienated from society to question its imposed expectations and consider themselves potential creators of change.","speaker":"Gosia","paragraph_ids":["p0005","p0008","p0009","p0010"],"primary_topic":"holistic-society","topics":["holistic-society","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-bb1546ca3954-c02","assertion":"Gosia presents Space Academy as offering alternative perspectives, leaving listeners to decide whether they help explain their lives.","speaker":"Gosia","paragraph_ids":["p0012"],"primary_topic":"consciousness-metaphysics","topics":["consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":"She says she is not offering a new religion or imposed beliefs."},
+    {"id":"src-bb1546ca3954-c03","assertion":"Gosia urges listeners to trust intuition and question possible hidden agendas in government, education, science, religion, and medicine.","speaker":"Gosia","paragraph_ids":["p0013"],"primary_topic":"earth-cabal","topics":["earth-cabal","holistic-society"],"modality":"asserted","confidence":"high","qualifiers":"These are framed as questions and feelings to examine, not supported specific findings."}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["The introductory lesson advocates suspicion of institutions; its allegations are framed as prompts for questioning rather than substantiated evidence."],
+  "coverage_gaps": ["the opening description of dissatisfaction with routine and loneliness"]
+}

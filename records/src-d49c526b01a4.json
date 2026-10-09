@@ -1,0 +1,71 @@
+{
+  "source_id": "src-d49c526b01a4",
+  "snapshot_sha256": "dad97d30088ea3b9b46dd130963ae37fca0b34080b160ad254e2c603f9f69bb3",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d49c526b01a4-c01",
+      "assertion": "Mari says alcohol depresses neural activity and lowers cellular frequencies, weakening the body’s connection to the soul and higher functions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0016",
+        "p0018",
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account includes metaphysical claims about soul signals."
+    },
+    {
+      "id": "src-d49c526b01a4-c02",
+      "assertion": "Mari claims alcohol makes users more compatible with lower-astral entities that can parasitize or possess them; stronger psychotropics may intensify this.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "interdimensional-parasites"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her spiritual interpretation."
+    },
+    {
+      "id": "src-d49c526b01a4-c03",
+      "assertion": "Mari says alcohol weakens higher mental functions, making people easier targets for entity influence and Cabal control; she advises avoiding it beyond food traces.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0034",
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0039"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "archons-and-demons"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as a warning."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "physiological details and her discussion of alcohol legality omitted"
+  ]
+}

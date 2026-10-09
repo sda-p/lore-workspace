@@ -1,0 +1,67 @@
+{
+  "source_id": "src-e1ec78bd0f7c",
+  "snapshot_sha256": "3fb1182834895aae1053f9bcf1ca11f4c610e994c56fa06401e08afff626dbe2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e1ec78bd0f7c-c01",
+      "assertion": "Mari says Ana diagnosed her with type 1 diabetes, then Urmah cats healed her at a ceremony; a ship surgeon confirmed recovery the next day.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "taygetan-medicine",
+      "topics": [
+        "taygetan-medicine"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1ec78bd0f7c-c02",
+      "assertion": "Mari reports mold spores in a car, followed by crew respiratory illness and food poisoning; she speculates an astral attack but says it cannot be proven.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "taygetan-medicine"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1ec78bd0f7c-c03",
+      "assertion": "Mari says 22 crew were hospitalized, Sadicleya was declared inoperable, command passed to Gori’el, and Alcyone forces extracted her.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "astral-military-units"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other illness details and subsequent medical treatment omitted"
+  ]
+}

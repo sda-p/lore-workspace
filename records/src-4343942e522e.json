@@ -1,0 +1,60 @@
+{
+  "source_id": "src-4343942e522e",
+  "snapshot_sha256": "28829e5c474dca61ba98e997749de0b1de9193f15aa3ca68e42d85e99215509a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4343942e522e-c01",
+      "assertion": "Mari interprets Akashic records as a higher-realm repository of all thoughts that have existed or will exist, while acknowledging her account is personal and may differ from others.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the ultimate Source has no levels, though limited perspectives can describe realms and levels."
+    },
+    {
+      "id": "src-4343942e522e-c02",
+      "assertion": "Mari says collective unconsciousness consists of shared concepts and perceptual agreements among like-minded souls, with a corresponding Akashic level for each existential realm.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4343942e522e-c03",
+      "assertion": "Mari says souls can access Akashic information only when their consciousness and vibration are compatible with it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Brain as filter and telepathy account omitted"
+  ]
+}

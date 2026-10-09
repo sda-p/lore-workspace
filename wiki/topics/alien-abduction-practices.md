@@ -62,6 +62,29 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [PROTOCOLOS DE EXTRACCIÓN EXTRATERRESTRE – CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/protocolos-de-extraccion-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-19; es); passages p0024, p0028, p0029, p0031, p0033. [Structured record](../../records/src-40a1c19238df.json).
 
+### src-e48edb1223b1-c02
+
+Athena distinguishes positive from invasive abductions, saying positive cases alter Lyrian bodies to function in Earth’s harsher gravity and atmosphere.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [HIBRIDACIÓN EXTRATERRESTRE Y ADN TERRESTRE - Athena Swaruu](https://swaruu.org/transcripts/hibridacion-extraterrestre-y-adn-terrestre-athena-swaruu) (2023-06-05; es); passages p0111, p0112. [Structured record](../../records/src-e48edb1223b1.json).
+
+Related topics: [Lyrian cellular-body model](lyrian-cellular-body.md).
+
+### src-ea66ccbb5872-c01
+
+She distinguishes planned consensual ship departures from abductions, where people are taken unwillingly and may disappear or be returned far away.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extracciones y sus problemas. Parte 1](https://swaruu.org/transcripts/extracciones-y-sus-problemas-parte-1) (2023-07-16; es); passages p0004, p0006, p0007. [Structured record](../../records/src-ea66ccbb5872.json).
+
+## Claims filed under other topics
+
+- [src-a69d54a0580b-c02](zeta-reticuli-gardeners.md#src-a69d54a0580b-c02) — Zeta Reticuli Gardeners
+- [src-ea66ccbb5872-c03](prime-directive.md#src-ea66ccbb5872-c03) — Prime Directive
+
 ## Review flags
 
 - Anéeka frames extraction as individually negotiated and says a fixed protocol does not apply.

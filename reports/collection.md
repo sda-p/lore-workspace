@@ -1,17 +1,17 @@
 # Continuous collection progress
 
-Updated: 2026-10-09T01:21:48+00:00
+Updated: 2026-10-09T05:27:43+00:00
 
 - Inventoried URLs: 2207
-- Independently reviewed source records: 1710
-- Source-specific claims: 7717
-- Original source words in reviewed records: 4,192,028
+- Independently reviewed source records: 1870
+- Source-specific claims: 8221
+- Original source words in reviewed records: 4,484,249
 - Original source words prepared for processing: 5,274,594
-- Reviewed record languages: {'en': 908, 'es': 802}
-- Released records awaiting completed independent review/integration: 132
+- Reviewed record languages: {'en': 908, 'es': 962}
+- Released records awaiting completed independent review/integration: 209
 - Exact duplicate URLs skipped: 0
 - Unassigned URLs: 0
-- Assigned records still needing work: 497
+- Assigned records still needing work: 337
 
 Source-record counts include retained language/revision variants and are not counts of independent corroborating accounts. Each record is a compact core extraction, not exhaustive coverage. English-first selection uses title heuristics plus coordinator review of ambiguous titles. Later cohorts process Spanish and remaining records; extracts are written in English, with original source language retained.
 
@@ -33,10 +33,10 @@ Source-record counts include retained language/revision variants and are not cou
 | continuous-015 | 160 | 160 | 160 | reviewed | 10 |
 | continuous-016 | 160 | 160 | 160 | reviewed | 22 |
 | continuous-017 | 160 | 160 | 160 | reviewed | 32 |
-| continuous-018 | 160 | 132 | 0 | running | 0 |
-| continuous-019 | 160 | 0 | 0 | running | 0 |
-| continuous-020 | 160 | 0 | 0 | running | 0 |
-| continuous-021 | 17 | 0 | 0 | running | 0 |
+| continuous-018 | 160 | 160 | 160 | reviewed | 29 |
+| continuous-019 | 160 | 113 | 0 | running | 0 |
+| continuous-020 | 160 | 93 | 0 | running | 0 |
+| continuous-021 | 17 | 3 | 0 | running | 0 |
 
 ## Resume
 

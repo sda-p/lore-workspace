@@ -1,0 +1,84 @@
+{
+  "source_id": "src-f720e13266de",
+  "snapshot_sha256": "6dc30e10b140631425f472df8f061d0caa90f2b14d57caa58f7edbbdf98e48cc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f720e13266de-c01",
+      "assertion": "Mari says Toleka's new spaceport section fits three or four additional large transports.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "taygetan-ecosystems",
+      "topics": [
+        "taygetan-ecosystems",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f720e13266de-c02",
+      "assertion": "Mari reports a 25-minute Temmer visit took over two hours aboard Sadicleya.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005"
+      ],
+      "primary_topic": "ship-internal-time",
+      "topics": [
+        "ship-internal-time",
+        "remote-presence-technology"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She attributes this to temporal drift."
+    },
+    {
+      "id": "src-f720e13266de-c03",
+      "assertion": "Mari says an Urmah intervention resolved her type 1 diabetes, though other health problems remained.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "taygetan-medicine",
+      "topics": [
+        "taygetan-medicine",
+        "urmah"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f720e13266de-c04",
+      "assertion": "Mari reports Alfrateans transported Federation delegates to central Australian meetings, allegedly attended by a Cabal representative.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "alfrateans",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She said the purpose was unknown."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The account of Australian meetings and the alleged attendee is unverified within the transcript."
+  ],
+  "coverage_gaps": [
+    "Mari's advice on media narratives and charitable organizations"
+  ]
+}

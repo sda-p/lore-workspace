@@ -1,0 +1,58 @@
+{
+  "source_id": "src-23338fda8765",
+  "snapshot_sha256": "8f3974b51963b8a48e024a2cf5c02e6cae57da01565f5e30245f8640ff61c669",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-23338fda8765-c01",
+      "assertion": "Mari defines a starseed as a soul with many incarnations in one extraterrestrial race that chooses brief human lives; a wanderer moves among races, while some souls reincarnate mostly as humans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says all souls are starseeds broadly and leaves personal identification to each individual."
+    },
+    {
+      "id": "src-23338fda8765-c02",
+      "assertion": "Mari says souls are not formed on particular planets but are holographic fragments of an everywhere-present Source.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-23338fda8765-c03",
+      "assertion": "Mari says Earth mixes beings of differing consciousness and vibration, bringing difficult interactions and potentially soul-nourishing experiences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Claims about soul withdrawal, illness, and reincarnation omitted"
+  ]
+}

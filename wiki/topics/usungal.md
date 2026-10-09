@@ -8,7 +8,15 @@ These are source-specific assertions; disagreement is preserved rather than reso
 
 ## Collected claims
 
-Primary assertions are filed under the linked topics below.
+### src-46f3bf392b0e-c03
+
+Anéeka says Usungal reptilians built Machu Picchu for human followers and dates it about 3,000 years before Puma Punku.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PUMA PUNKU ANTIGUA BASE ESTELAR Y SUS PORTALES ESTELARES - Aneeka de Temmer](https://swaruu.org/transcripts/puma-punku-antigua-base-estelar-y-sus-portales-estelares-aneeka-de-temmer) (2023-04-26; es); passages p0017, p0025, p0026, p0032. [Structured record](../../records/src-46f3bf392b0e.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 
 ## Claims filed under other topics
 

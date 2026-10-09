@@ -1,0 +1,68 @@
+{
+  "source_id": "src-89492330f9ab",
+  "snapshot_sha256": "5381c1edcc1614a67400e6db3429e5a65242e57ffdb70cd49bb723f562bd2790",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-89492330f9ab-c01",
+      "assertion": "Gosia says her first written contact with Swaruu de Erra began on December 17, 2017, after an intermediary introduced Robert and then her.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Swaruu was aboard Toleka near Earth."
+    },
+    {
+      "id": "src-89492330f9ab-c02",
+      "assertion": "Gosia says they began sharing contact conversations in 2018 through Robert’s and her YouTube channels.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "They decided the information should be shared with the world."
+    },
+    {
+      "id": "src-89492330f9ab-c03",
+      "assertion": "Gosia says Yazhi arrived at Toleka from another timeline in early 2020, aged about seven or eight.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0055",
+        "p0056",
+        "p0060",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "sophia-swaruu",
+      "topics": [
+        "sophia-swaruu",
+        "timeline-branching"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Yazhi carried earlier Swaruus’ memories but remained distinct."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "later public-contact milestones",
+    "community and multilingual distribution"
+  ]
+}

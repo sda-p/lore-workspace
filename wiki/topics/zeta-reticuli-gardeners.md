@@ -114,6 +114,16 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [Abducciones Extraterrestres - Porque se Producen? Anéeka de Temmer (Taygeta - Pleyades)](https://swaruu.org/transcripts/abducciones-extraterrestres-porque-se-producen-aneeka-de-temmer-taygeta-pleyades) (2020-12-01; es); passages p0084, p0088, p0090, p0098. [Structured record](../../records/src-3902c9520a94.json).
 
+### src-a69d54a0580b-c02
+
+She says Zeta Reticuli “Little Gardeners” preserve Earth species’ DNA, repair abductees, and seed other planets with suitable life. Their actions may frighten abductees.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alienígenas Grises. Parte 1, Jardineros pequeños y los Maitré](https://swaruu.org/transcripts/alienigenas-grises-parte-1-jardineros-pequenos-y-los-maitre) (2023-07-28; es); passages p0010, p0011, p0012, p0013, p0014. [Structured record](../../records/src-a69d54a0580b.json).
+
+Related topics: [Planetary DNA Arks](planetary-dna-arks.md), [Alien abduction practices](alien-abduction-practices.md).
+
 ## Claims filed under other topics
 
 - [src-03651da1738e-c02](orion-grays.md#src-03651da1738e-c02) — Orion Grays
@@ -121,6 +131,7 @@ Source: [Abducciones Extraterrestres - Porque se Producen? Anéeka de Temmer (Ta
 - [src-3902c9520a94-c02](alien-abduction-practices.md#src-3902c9520a94-c02) — Alien abduction practices
 - [src-3902c9520a94-c03](alien-abduction-practices.md#src-3902c9520a94-c03) — Alien abduction practices
 - [src-3902c9520a94-c04](alien-abduction-practices.md#src-3902c9520a94-c04) — Alien abduction practices
+- [src-a69d54a0580b-c01](alien-species.md#src-a69d54a0580b-c01) — Alien species and distinctions
 
 ## Review flags
 

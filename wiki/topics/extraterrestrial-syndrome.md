@@ -35,3 +35,17 @@ Athena said authentic spacecraft encounters should produce lasting shock and emo
 Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: medium.
 
 Source: [Contacto Extraterrestre Controlado por la CIA - Sophia Swaruu](https://swaruu.org/transcripts/contacto-extraterrestre-controlado-por-la-cia-sophia-swaruu) (2022-04-11; es); passages p0005, p0006, p0009, p0015, p0017. [Structured record](../../records/src-0988c92dc407.json).
+
+### src-359fd1aab210-c01
+
+Yazhi describes “extraterrestrial sickness” as body-consciousness frequency mismatch and characterizes illness, including mental illness, as disalignment from Source. She presents this as her explanatory framework.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL MAL DE EXTRATERRESTRES LA MATRIX Y SUS FRECUENCIAS](https://swaruu.org/transcripts/el-mal-de-extraterrestres-la-matrix-y-sus-frecuencias) (2023-06-21; es); passages p0006, p0008, p0010, p0012, p0015, p0016. [Structured record](../../records/src-359fd1aab210.json).
+
+Related topics: [Perceptual density](perceptual-density.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+## Review flags
+
+- Contains speaker claims about illness causation and cancer; preserve attribution.

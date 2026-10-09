@@ -486,6 +486,16 @@ Source: [Aneeka de Temmer - Puma Punku, Machu Pichu y mas - Bases Extraterrestre
 
 Related topics: [Usungal](usungal.md).
 
+### src-2708f7850928-c03
+
+She describes Lemuria as multicultural, with a large Taygetan-colony component, possibly rooted in people who fled Atlantis.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [REVELACIONES DE UNA MUJER EXTRATERRESTRE DE TAYGETA - Aneeka de Temmer](https://swaruu.org/transcripts/revelaciones-de-una-mujer-extraterrestre-de-taygeta-aneeka-de-temmer) (2023-06-27; es); passages p0013, p0015. [Structured record](../../records/src-2708f7850928.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-4edf6c848c69-c03](tiamat.md#src-4edf6c848c69-c03) — Tiamat
@@ -515,6 +525,8 @@ Related topics: [Usungal](usungal.md).
 - [src-7e10fbdcd1c5-c01](tiamat.md#src-7e10fbdcd1c5-c01) — Tiamat
 - [src-b0c5455056ea-c03](ishtar-genetic-project.md#src-b0c5455056ea-c03) — Ishtar genetic project
 - [src-690730c29818-c01](energy-generation.md#src-690730c29818-c01) — Energy generation technology
+- [src-46f3bf392b0e-c03](usungal.md#src-46f3bf392b0e-c03) — Usungal
+- [src-2708f7850928-c02](tiamat.md#src-2708f7850928-c02) — Tiamat
 
 ## Review flags
 
@@ -524,6 +536,7 @@ Related topics: [Usungal](usungal.md).
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Opening Atlantis chronology is Robert’s condensed paraphrase of Swaruu, not a direct quotation. No equivalent English follow-up identified; related longer Enki/Enlil articles are distinct.
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
+- Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka.
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - alternate-history\_claims\_attributed
 - ancient-history-reinterpretation

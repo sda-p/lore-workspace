@@ -1,0 +1,63 @@
+{
+  "source_id": "src-8124b6b5da72",
+  "snapshot_sha256": "7a713a1a5df9945506a01e71a0a44fe547d6b3cda89a4a514c412b0443d18c3c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8124b6b5da72-c01",
+      "assertion": "Yazhi describes the brain as an ether-to-physical translator that limits perception, though she says those limits can be exceeded.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8124b6b5da72-c02",
+      "assertion": "Yazhi says people are distinct yet aspects of one mind and shared energy, with her own identity encompassing the collective.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0043",
+        "p0045",
+        "p0058"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this does not make her superior to others."
+    },
+    {
+      "id": "src-8124b6b5da72-c03",
+      "assertion": "Yazhi advises rest and solitude when expanded perceptions or social input feel overwhelming, saying this helps normalize the experience.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0026",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Further discussion of Gosia’s experience and identity omitted"
+  ]
+}

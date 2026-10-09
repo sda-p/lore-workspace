@@ -1,0 +1,76 @@
+{
+  "source_id": "src-d0e9644dbc32",
+  "snapshot_sha256": "2bd89a2650eb1c7237e09514571fc18a21497c3645a7cc140f2d950e33dc04b8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d0e9644dbc32-c01",
+      "assertion": "Mari defines karma narrowly as action’s consequences and broadly as accumulated life and past-life experience shaping a unique soul.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "karma-and-dharma",
+      "topics": [
+        "karma-and-dharma",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the broader meaning makes karma inescapable."
+    },
+    {
+      "id": "src-d0e9644dbc32-c02",
+      "assertion": "One view treats karma as something to minimize to avoid further reincarnation; another says rich experience can reduce the need to return.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0020",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "karma-and-dharma"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari contrasts two spiritual approaches."
+    },
+    {
+      "id": "src-d0e9644dbc32-c03",
+      "assertion": "Mari favors living fully and responsibly, learning from others, forgiving oneself and others, and using wisdom to avoid serious mistakes without fearing karma.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034"
+      ],
+      "primary_topic": "karma-and-dharma",
+      "topics": [
+        "karma-and-dharma",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "claims about religious teachings and rodina omitted"
+  ]
+}

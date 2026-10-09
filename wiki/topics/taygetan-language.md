@@ -178,6 +178,16 @@ Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
 
 Source: [Alpha Dracos, Dragones, y Lengua Taygeteana - Minitemas con Gosia](https://swaruu.org/transcripts/alpha-dracos-dragones-y-lengua-taygeteana-minitemas-con-gosia) (2023-04-21; es); passages p0042, p0043, p0044. [Structured record](../../records/src-84a01b336feb.json).
 
+### src-afbb59548515-c01
+
+Anéeka says speaking a human language entails absorbing its culture, shaping the Taygetans' adapted presentation. She says observers see this adapted side, not their full identity.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA DESINTEGRACIÓN DE LA MATRIX EL DESPERTAR DE LA MATRIX](https://swaruu.org/transcripts/la-desintegracion-de-la-matrix-el-despertar-de-la-matrix) (2023-06-14; es); passages p0004, p0005. [Structured record](../../records/src-afbb59548515.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c03](urmah.md#src-5e6c8ea2cb2c-c03) — Urmah

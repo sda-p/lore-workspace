@@ -406,6 +406,36 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [PROTOCOLOS DE EXTRACCIÓN EXTRATERRESTRE – CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/protocolos-de-extraccion-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-19; es); passages p0039, p0040, p0042. [Structured record](../../records/src-40a1c19238df.json).
 
+### src-59758ad652fa-c02
+
+Yazhi says immersive-avatar memories become the experiencer’s own; their original owner may be clear, uncertain, or impossible to identify.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Mini Temas - Información de las Personas Extraterrestres - Taygeta, Pléyades](https://swaruu.org/transcripts/mini-temas-informacion-de-las-personas-extraterrestres-taygeta-pleyades) (2023-08-28; es); passages p0011, p0012, p0014, p0016, p0017. [Structured record](../../records/src-59758ad652fa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9d5a0a649d33-c02
+
+Mari alleges militaries induce astral projection using drugs, deprivation, and sensory-isolation capsules, then use astral units for remote viewing or facility defense. Unverified claim.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Semillas Estelares, parte 7, Proyección y Abducciones Astrales, misiones nocturnas. Parte 1](https://swaruu.org/transcripts/semillas-estelares-parte-7-proyeccion-y-abducciones-astrales-misiones-nocturnas-parte-1) (2023-08-05; es); passages p0019, p0020, p0021, p0022. [Structured record](../../records/src-9d5a0a649d33.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-e0d85326bb47-c03
+
+Mari describes immersion pods that shift a user's mental frequency to a chosen astral realm or to a compatible body for a simulated Earth life. She compares the latter process to the film Avatar.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares. Parte 8, Proyección y Abducciones Astrales, misiones nocturnas. Parte 2](https://swaruu.org/transcripts/semillas-estelares-parte-8-proyeccion-y-abducciones-astrales-misiones-nocturnas-parte-2) (2023-08-07; es); passages p0023, p0024. [Structured record](../../records/src-e0d85326bb47.json).
+
+Related topics: [Astral Travel](astral-travel.md).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c02](urmah.md#src-5e6c8ea2cb2c-c02) — Urmah
@@ -416,6 +446,7 @@ Source: [PROTOCOLOS DE EXTRACCIÓN EXTRATERRESTRE – CONTACTO EXTRATERRESTRE - 
 - [src-83d0afc07ef6-c01](starseeds.md#src-83d0afc07ef6-c01) — Starseeds
 - [src-dff574e82d59-c02](starseed-guides.md#src-dff574e82d59-c02) — Starseed guides
 - [src-83e6eecc2c25-c01](total-immersion-simulations.md#src-83e6eecc2c25-c01) — Total-immersion simulations
+- [src-19104df37e32-c01](astral-military-units.md#src-19104df37e32-c01) — Astral military units
 
 ## Review flags
 
@@ -436,5 +467,6 @@ Source: [PROTOCOLOS DE EXTRACCIÓN EXTRATERRESTRE – CONTACTO EXTRATERRESTRE - 
 - source-disputes-current-liberation-narrative
 - speaker-model-divergence-Athena-vs-Swaruu9
 - translated-from-Spanish-original-not-available
+- unverified-military-claims
 - unverified\_extraterrestrial\_claims
 - unverified\_technology\_claims

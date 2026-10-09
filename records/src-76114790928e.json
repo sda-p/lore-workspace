@@ -1,0 +1,14 @@
+{
+  "source_id": "src-76114790928e",
+  "snapshot_sha256": "1426e0e23f8235e4c2b1ff15bd40a33b6a04527e5210777f2dccc15134c72d08",
+  "language": "es",
+  "claims": [
+    {"id":"src-76114790928e-c01","assertion":"Mari says dimensions and densities reflect individual or shared perception, consciousness, and agreements rather than objective external realms.","speaker":"Mari Swa","paragraph_ids":["p0010","p0011","p0012","p0013"],"primary_topic":"perceptual-density","topics":["perceptual-density","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-76114790928e-c02","assertion":"Mari concludes extraterrestrials are also interdimensional, with degree shaped by cultural isolation and differing perceptions.","speaker":"Mari Swa","paragraph_ids":["p0014","p0016","p0017","p0018"],"primary_topic":"alien-species","topics":["alien-species","perceptual-density","galactic-federation"],"modality":"asserted","confidence":"high","qualifiers":"She says the Federation helps synchronize member perceptions."},
+    {"id":"src-76114790928e-c03","assertion":"Mari says faster-than-light spacecraft move vessels and occupants across dimensions, while some beings can do so mentally.","speaker":"Mari Swa","paragraph_ids":["p0021"],"primary_topic":"supraluminal-hyperdrive","topics":["supraluminal-hyperdrive","perceptual-density"],"modality":"asserted","confidence":"high","qualifiers":""},
+    {"id":"src-76114790928e-c04","assertion":"Mari claims life is common across the universe, including isolated intelligent species with distinct social and perceptual realities.","speaker":"Mari Swa","paragraph_ids":["p0014","p0015","p0016"],"primary_topic":"alien-species","topics":["alien-species","perceptual-density"],"modality":"asserted","confidence":"high","qualifiers":""}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["Cosmological and consciousness claims are attributed to Mari."],
+  "coverage_gaps": ["her criticism of flat-Earth narratives and discussion of species-level shared perception"]
+}

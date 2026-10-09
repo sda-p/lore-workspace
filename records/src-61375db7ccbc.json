@@ -1,0 +1,63 @@
+{
+  "source_id": "src-61375db7ccbc",
+  "snapshot_sha256": "7aeaab1c8aefb7fff4817d52dcdb831b7c1ccc253f9fbaf9b08f3220eda0b399",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-61375db7ccbc-c01",
+      "assertion": "Gosia says humanoid extraterrestrials are common and many could pass unnoticed among humans, while differing species range from very similar to physically unfamiliar.",
+      "speaker": "Gosia",
+      "paragraph_ids": [
+        "p0003",
+        "p0005"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61375db7ccbc-c02",
+      "assertion": "Gosia presents “Lyrans” as a shared humanoid root spanning Earth and extraterrestrial populations, which she says did not evolve on one planet alone.",
+      "speaker": "Gosia, citing Mari Swa",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "lyrians",
+      "topics": [
+        "lyrians",
+        "alien-species"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-61375db7ccbc-c03",
+      "assertion": "Gosia says spacefaring cultures exchange ideas through travel and reincarnation, and that shared cultural concepts also arise through a collective unconscious.",
+      "speaker": "Gosia, relaying Taygetan views",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Claims about spacecraft, alien presence in orbit, and contact knowledge omitted"
+  ]
+}

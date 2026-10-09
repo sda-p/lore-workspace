@@ -1,0 +1,48 @@
+{
+  "source_id": "src-79611c401c60",
+  "snapshot_sha256": "a4ab354729c703e4d06720766efb98408de274219bacebc6e9bdaab314897b86",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-79611c401c60-c01",
+      "assertion": "Mari says matter’s particles are ideas or patterns expressed within a greater consciousness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This reflects her perspective, not Earth science’s account."
+    },
+    {
+      "id": "src-79611c401c60-c02",
+      "assertion": "Mari says people cannot be forced to adopt another level of understanding; they can only share information and remain open to revising their own ideas.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Metaphysical claims are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Her account of social influence during spiritual development"
+  ]
+}

@@ -1681,11 +1681,15 @@ Related topics: [Frequency-map navigation](frequency-map-navigation.md).
 - [src-f10960087bcd-c02](frequency-map-navigation.md#src-f10960087bcd-c02) — Frequency-map navigation
 - [src-9b0e688f41d9-c02](frequency-map-navigation.md#src-9b0e688f41d9-c02) — Frequency-map navigation
 - [src-d8bc3b414a4c-c02](solar-portal-transit.md#src-d8bc3b414a4c-c02) — Solar portal transit
+- [src-c8d611b2d82a-c03](cyndriel.md#src-c8d611b2d82a-c03) — Cyndriel
+- [src-97c055d470ab-c03](hanare-scimitar-fighters.md#src-97c055d470ab-c03) — Hanáre / Scimitar fighters
+- [src-46f3bf392b0e-c02](solar-portal-transit.md#src-46f3bf392b0e-c02) — Solar portal transit
 
 ## Review flags
 
 - A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
 - Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age
+- All spacecraft specifications and operational claims are attributed to Athena.
 - Anéeka explicitly distinguishes “gravity holes” from black holes.
 - Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic

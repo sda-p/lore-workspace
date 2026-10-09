@@ -1,0 +1,36 @@
+{
+  "source_id": "src-e255ad18cc7a",
+  "snapshot_sha256": "9f257274dcd2e44f7a2b7f9f4b5b902c18e1553b69dd8419060a3ca97c824811",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e255ad18cc7a-c01",
+      "assertion": "Yazhi describes tulpas and ordinary reality alike as ideas sustained through perception and shared agreements.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0003", "p0004", "p0005", "p0007"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "astral-entities"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She presents this as her own metaphysical view."
+    },
+    {
+      "id": "src-e255ad18cc7a-c02",
+      "assertion": "Yazhi says ideas and entities formed through experience can carry across incarnations or between density levels.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0015", "p0016", "p0017", "p0036"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "consciousness-metaphysics"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She includes both positive and negative ideas in this account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The interview presents metaphysical claims about reality, tulpas, and reincarnation without independent verification."
+  ],
+  "coverage_gaps": [
+    "The discussion also distinguishes the Source from ideas and explores negative entities."
+  ]
+}

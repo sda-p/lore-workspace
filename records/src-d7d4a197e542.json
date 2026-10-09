@@ -1,0 +1,38 @@
+{
+  "source_id": "src-d7d4a197e542",
+  "snapshot_sha256": "fe2519953f715a97251d66070bac1c9c5ce1e16847062f6dfa665a3dfccf0531",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d7d4a197e542-c01",
+      "assertion": "Mari’s astral model describes hostile entities as monitoring positive “starseeds,” sometimes through close human relationships, to hinder their plans and development.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0005",
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "starseeds",
+        "moon-matrix"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents these as her interpretation of astral events, not independently established evidence."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source frames everyday relationships and setbacks as alleged supernatural monitoring; preserve explicit attribution"
+  ],
+  "coverage_gaps": [
+    "claimed consent rules for entities entering homes",
+    "advice on privacy and invitations"
+  ]
+}

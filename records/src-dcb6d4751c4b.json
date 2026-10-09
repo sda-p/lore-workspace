@@ -1,0 +1,36 @@
+{
+  "source_id": "src-dcb6d4751c4b",
+  "snapshot_sha256": "1629b04d45500e16fac34a90a3c7b5c1602c993b9617034813823ef309817deb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dcb6d4751c4b-c01",
+      "assertion": "Mari Swa claims US and Russian agencies have used trained astral travelers for remote viewing and developed astral guards for sensitive sites.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0008", "p0010", "p0011", "p0012"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "earth-cabal"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says these projects are highly classified."
+    },
+    {
+      "id": "src-dcb6d4751c4b-c02",
+      "assertion": "Mari says extraterrestrial agents and Federation factions also use astral travel, sometimes crossing paths with terrestrial intelligence operations.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": ["p0014", "p0015", "p0017", "p0018"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "galactic-federation"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her account of astral activity and intergroup conflict."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The video presents unverified paranormal and intelligence claims as entertainment."
+  ],
+  "coverage_gaps": [
+    "Other sections recount claims about multilevel travel and alleged bodily control."
+  ]
+}

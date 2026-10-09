@@ -1,0 +1,90 @@
+{
+  "source_id": "src-6651f8ddc19a",
+  "snapshot_sha256": "3b44eb31ec36b846e6a734593a2c237da40025ccf212365c9f8f3ec0f05331ee",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6651f8ddc19a-c01",
+      "assertion": "Yazhi says she was biologically eight and not the same species as Taygetans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0061",
+        "p0135"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "swaruunians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6651f8ddc19a-c02",
+      "assertion": "Yazhi planned a three-month pod treatment during a temporal jump, returning within hours for others.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0137",
+        "p0139",
+        "p0141",
+        "p0145",
+        "p0149",
+        "p0151"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "immersion-pods",
+        "suzy-class-starships"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She said Suzy could return her to the same timeline."
+    },
+    {
+      "id": "src-6651f8ddc19a-c03",
+      "assertion": "Alenym reported Yazhi appeared under fourteen after claiming the pod made her twenty.",
+      "speaker": "Alenym, reporting Yazhi's account",
+      "paragraph_ids": [
+        "p0233",
+        "p0243",
+        "p0246",
+        "p0248"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "temporal-skipping"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Alenym could not explain the difference."
+    },
+    {
+      "id": "src-6651f8ddc19a-c04",
+      "assertion": "Yazhi describes her aim as peace, teaching that thoughts shape reality and that suffering is unnecessary.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0062",
+        "p0063",
+        "p0064"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi's account of the pod outcome conflicts with Alenym's observation of her apparent age; the transcript does not resolve this."
+  ],
+  "coverage_gaps": [
+    "the interpersonal conflict aboard ship and Yazhi's later discussion of growing up"
+  ]
+}

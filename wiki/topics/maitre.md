@@ -192,6 +192,16 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [EL HOMO CAPENSIS TIENEN TRATADOS CON LOS REPTILES - Aneeka de Temmer - Taygeta](https://swaruu.org/transcripts/el-homo-capensis-tienen-tratados-con-los-reptiles-aneeka-de-temmer-taygeta) (2022-02-04; es); passages p0033, p0035, p0037. [Structured record](../../records/src-fb8fca342865.json).
 
+### src-a69d54a0580b-c03
+
+Mari describes Maitre as reptilian-derived high Greys but doubts claims they control opposing Earth blocs, proposing they may be an egregor. She says evidence is scant.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alienígenas Grises. Parte 1, Jardineros pequeños y los Maitré](https://swaruu.org/transcripts/alienigenas-grises-parte-1-jardineros-pequenos-y-los-maitre) (2023-07-28; es); passages p0019, p0023, p0024, p0027, p0028. [Structured record](../../records/src-a69d54a0580b.json).
+
+Related topics: [Egregors](egregors.md), [Reptilians](reptilians.md).
+
 ## Claims filed under other topics
 
 - [src-72696c075fca-c04](galactic-federation.md#src-72696c075fca-c04) — Galactic Federation
@@ -209,6 +219,7 @@ Source: [EL HOMO CAPENSIS TIENEN TRATADOS CON LOS REPTILES - Aneeka de Temmer - 
 - [src-dff574e82d59-c04](mars.md#src-dff574e82d59-c04) — Mars
 - [src-e9adfed45e60-c01](alien-species.md#src-e9adfed45e60-c01) — Alien species and distinctions
 - [src-e9adfed45e60-c03](earth-cabal.md#src-e9adfed45e60-c03) — Earth Cabal and power structures
+- [src-6d5ee8028d87-c03](alien-species.md#src-6d5ee8028d87-c03) — Alien species and distinctions
 
 ## Review flags
 

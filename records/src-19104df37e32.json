@@ -1,0 +1,43 @@
+{
+  "source_id": "src-19104df37e32",
+  "snapshot_sha256": "dfccd1277a7c1cb45da24d59a3be167c99415f951549be6d863837b984734ede",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-19104df37e32-c01",
+      "assertion": "Yazhi says some astral combatants are humans entering the astral artificially through immersion pods.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0005", "p0007", "p0009"],
+      "primary_topic": "astral-military-units",
+      "topics": ["astral-military-units", "immersion-pods"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes these recent artificial entrants from older astral fighting described as angels against demons."
+    },
+    {
+      "id": "src-19104df37e32-c02",
+      "assertion": "Yazhi calls flat-Earth belief a disinformation agenda meant to distract awakened people from extraterrestrial topics.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0016", "p0021", "p0026"],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": ["extraterrestrial-contact", "terrestrial-science"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She affirms it can also discredit extraterrestrial claims."
+    },
+    {
+      "id": "src-19104df37e32-c03",
+      "assertion": "Yazhi interprets the biblical dome as the Van Allen belts rather than a solid cover over Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0022", "p0024"],
+      "primary_topic": "van-allen-belts",
+      "topics": ["van-allen-belts", "terrestrial-science"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as an interpretation of biblical imagery."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Tiamat and its alleged legacy", "extraterrestrial invasion narrative"]
+}

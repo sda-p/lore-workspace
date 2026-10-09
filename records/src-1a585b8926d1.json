@@ -1,0 +1,54 @@
+{
+  "source_id": "src-1a585b8926d1",
+  "snapshot_sha256": "2b45409c5983eeddddf68d54f1c1934e9934ce058e1417c3d55aa66bd8961379",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1a585b8926d1-c01",
+      "assertion": "Mari describes starship time travel as changing the vessel’s gravity-mass-energy pattern to match a destination; she equates this with becoming vibrationally compatible with that place and time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "starship-systems",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She interprets ship technology as an imitation of consciousness."
+    },
+    {
+      "id": "src-1a585b8926d1-c02",
+      "assertion": "Mari says multiple pasts and futures continue to exist and claims mind alone can revisit a time by matching its frequency, without a spacecraft.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "frequency-map-navigation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents time and space as mental perceptions."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "death and Source-consciousness claims",
+    "Pleiadian merkaba discussion"
+  ]
+}

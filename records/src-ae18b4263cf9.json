@@ -1,0 +1,94 @@
+{
+  "source_id": "src-ae18b4263cf9",
+  "snapshot_sha256": "8fa8328bc5b85f846478f96b6b64bdcde26e95d735aff079078bcdc776594724",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ae18b4263cf9-c01",
+      "assertion": "Swaruu says a five-hour mission sought radar visibility while respecting US airspace.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0020"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Six Taygetan ships took part."
+    },
+    {
+      "id": "src-ae18b4263cf9-c02",
+      "assertion": "Swaruu says Suzy variants share interchangeable parts, while the Block 3 version improves rear sensors and maneuvering over Block 1.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0067",
+        "p0071",
+        "p0076",
+        "p0077",
+        "p0070"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae18b4263cf9-c03",
+      "assertion": "Yazhi says Suzy’s polymorphic metal must be precision cast in zero gravity and cannot be replicated; a nose piece uses 1% of Toleka’s reserves.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0087",
+        "p0092",
+        "p0093",
+        "p0099",
+        "p0101"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ae18b4263cf9-c04",
+      "assertion": "Yazhi said she planned to release Suzy to a 13-year-old alternate Swaruu, though she was uncertain; a 2024 update says the ship is gone.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0103",
+        "p0105",
+        "p0127",
+        "p0129",
+        "p0134",
+        "p0135"
+      ],
+      "primary_topic": "suzy-fighter-craft",
+      "topics": [
+        "suzy-fighter-craft",
+        "starship-systems"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about ships and events are attributed to the named speaker."
+  ],
+  "coverage_gaps": [
+    "Flight mechanics and personal anecdotes"
+  ]
+}

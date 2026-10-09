@@ -1,0 +1,68 @@
+{
+  "source_id": "src-6b93fc9acdf1",
+  "snapshot_sha256": "8466bd2b6259e3e8705a6194203de7ad77be9b8961f16296e42ca2426ed4eadf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6b93fc9acdf1-c01",
+      "assertion": "Mari says disc craft use electromagnetic engines that can create an external plasma sheath; the disc shape helps distribute the field.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0024"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says powerful engines allow other hull shapes."
+    },
+    {
+      "id": "src-6b93fc9acdf1-c02",
+      "assertion": "Mari says ships jump by matching their vibration frequency to the destination.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Their maps encode mass, energy, frequency, and gravity."
+    },
+    {
+      "id": "src-6b93fc9acdf1-c03",
+      "assertion": "Mari says high-energy radar pulses can disable disc-craft navigation sensors, while larger combat ships use multiple propulsion systems.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "disc-shaped-shuttles"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She claims these pulses have caused crashes."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "disc craft sizes and utility",
+    "inertial dampers",
+    "reaction propulsion"
+  ]
+}

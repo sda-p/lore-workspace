@@ -1,0 +1,64 @@
+{
+  "source_id": "src-309667cbe10f",
+  "snapshot_sha256": "1314bd1e0798ea786f1057815d718e009337ccfbc71c0a1b25e81a290bd9aefe",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-309667cbe10f-c01",
+      "assertion": "Yazhi says she can alter her density to avoid disturbance and describes this as a personal “stealth mode.”",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says her five-day meditation was not intentional time travel."
+    },
+    {
+      "id": "src-309667cbe10f-c02",
+      "assertion": "Dhor Káal’el says Yazhi uses Maria Island as a conduit to raise Earth’s frequency through a ley-line network linking Giza and other pyramids.",
+      "speaker": "Dhor Káal’el",
+      "paragraph_ids": [
+        "p0058",
+        "p0059",
+        "p0060"
+      ],
+      "primary_topic": "ley-line-energy-nodes",
+      "topics": [
+        "ley-line-energy-nodes",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-309667cbe10f-c03",
+      "assertion": "Alenym and Nai’Shara say information comes to Yazhi as downloads that she experiences emotionally, leaving her overwhelmed.",
+      "speaker": "Alenym and Nai’Shara",
+      "paragraph_ids": [
+        "p0070",
+        "p0071",
+        "p0072",
+        "p0074"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other claims about Yazhi’s identity and early experiences omitted"
+  ]
+}

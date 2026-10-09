@@ -1,0 +1,64 @@
+{
+  "source_id": "src-fec70c265b7c",
+  "snapshot_sha256": "bbcf7142b2b045bfb91f8e266922932cd0e9da0b2688dfaf6ccd6ca245917c0f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fec70c265b7c-c01",
+      "assertion": "Mari Swaruu calls someone a starseed if they are human on Earth after a recent life as another extraterrestrial species.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Broadly, she says every soul is a starseed."
+    },
+    {
+      "id": "src-fec70c265b7c-c02",
+      "assertion": "She distinguishes memories of advanced off-world societies from memories of higher astral realms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0012"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Either may cause a sense of not belonging on Earth."
+    },
+    {
+      "id": "src-fec70c265b7c-c03",
+      "assertion": "She says extraction to another planet may not resolve a starseed’s problems.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "extraterrestrial-contact"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "That world remains material; the desired idyll belongs to astral afterlife realms."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "manifestation and interpretation of experience",
+    "emotional effects of homesickness"
+  ]
+}

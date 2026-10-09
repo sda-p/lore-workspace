@@ -58,6 +58,16 @@ Source: [Federacion Galactica los Amos del Mundo - Preguntas y Respuestas - Anee
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-fc7b65e81f10-c02
+
+He alleges the Federation guided a Centauri civilizational reset and fabricated reptilian-invasion stories, while accepting exploitation may have occurred.
+
+Attributed to **Arishah (interviewee; translated by Mari Swaruu)**; asserted; extraction confidence: high.
+
+Source: [Entrevista a un Urmah. Arishah el Tigre. Parte 1](https://swaruu.org/transcripts/entrevista-a-un-urmah-arishah-el-tigre-parte-1) (2023-09-06; es); passages p0017, p0018, p0019, p0020, p0021. [Structured record](../../records/src-fc7b65e81f10.json).
+
+Related topics: [Alfrateans](alfrateans.md), [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-075f03199db3-c02](galactic-federation.md#src-075f03199db3-c02) — Galactic Federation

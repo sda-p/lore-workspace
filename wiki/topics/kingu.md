@@ -129,6 +129,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - [src-aac42554ceb6-c02](tulpas.md#src-aac42554ceb6-c02) — Tulpas
 - [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
 - [src-5c6ca52aaabd-c01](intraterrestrial-civilizations.md#src-5c6ca52aaabd-c01) — Intraterrestrial civilizations
+- [src-6d5ee8028d87-c01](orion-grays.md#src-6d5ee8028d87-c01) — Orion Grays
 
 ## Review flags
 

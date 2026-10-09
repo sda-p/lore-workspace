@@ -1,0 +1,71 @@
+{
+  "source_id": "src-5d854683ebbf",
+  "snapshot_sha256": "e592e7dd2dde86ad52f3db8acd7a2e700a1eab889e3b6174163a694f4891a2aa",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5d854683ebbf-c01",
+      "assertion": "Mari says resource-poor breakaway micro-civilizations may raid vulnerable settlements and slow-moving ships in lower material densities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5d854683ebbf-c02",
+      "assertion": "Mari alleges Federation politicians sometimes use pirates to pressure independent emerging societies into joining for protection.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0030",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says these claims draw on Taygetan and Urmah accounts."
+    },
+    {
+      "id": "src-5d854683ebbf-c03",
+      "assertion": "Mari says Toleka and Avyon 1 internet links were sabotaged three times; she suspects Federation insiders or others opposed to her disclosures.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0036",
+        "p0040",
+        "p0041",
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the Federation denied responsibility and repaired the systems."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Allegations of political abuse and sabotage are attributed to Mari and are unverified."
+  ],
+  "coverage_gaps": [
+    "Federation density structure and channeling claims"
+  ]
+}

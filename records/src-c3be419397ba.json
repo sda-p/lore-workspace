@@ -1,0 +1,53 @@
+{
+  "source_id": "src-c3be419397ba",
+  "snapshot_sha256": "6a9d1290db5616c8b5b8c69088f32d1fa89f0e4609ae6f0fc84ac67064a0b465",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c3be419397ba-c01",
+      "assertion": "Mari claims public-facing elites cannot leave Earth because Federation controls space traffic, while a hidden power tier can travel offworld with Federation cooperation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She portrays public collapse rumors as fear-inducing messaging."
+    },
+    {
+      "id": "src-c3be419397ba-c02",
+      "assertion": "Mari says the hidden elite use deep underground bases linked by high-speed trains and portals, including routes to Federation ports in Antarctica.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "deep-underground-military-bases",
+      "topics": [
+        "deep-underground-military-bases",
+        "artificial-portals",
+        "antarctica-federation-bases"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are her claims about concealed infrastructure."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "source advances unsupported conspiracy claims about hidden elites, secret space travel, and subterranean portal networks"
+  ],
+  "coverage_gaps": [
+    "rumors about bunker construction and apocalyptic messaging"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "source_id": "src-8736a59bfcab",
+  "snapshot_sha256": "79b95cdae7d2b01686d0c8cbdd173ac660fea396fa9e3d64a752899bca15bc39",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8736a59bfcab-c01",
+      "assertion": "Mari says the astral is not a place but a unified expression of consciousness, and the physical body is its mental manifestation.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8736a59bfcab-c02",
+      "assertion": "Mari says the veil of forgetting supports embodied life; an astral focus makes death less frightening but does not let people escape their problems.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8736a59bfcab-c03",
+      "assertion": "Mari says pre-birth agreements shape the body through the unconscious, which can be changed; she says Yazhi chose to remain nine while Mari chose to grow.",
+      "speaker": "Mari Swa, describing Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other discussion of astral dreams and egregors omitted"
+  ]
+}

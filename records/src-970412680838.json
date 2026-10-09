@@ -1,0 +1,61 @@
+{
+  "source_id": "src-970412680838",
+  "snapshot_sha256": "d459755bf76114ab345a035ae47d09a8ccfdc67530ce0503bdbf0527899ff156",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-970412680838-c01",
+      "assertion": "Mari says Taygetan devices depend on specialized alloys, smart metals, and durable resins absent on Earth, making plans alone insufficient to reproduce them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-970412680838-c02",
+      "assertion": "Mari says Federation rules, including the Prime Directive, and Earth governments would restrict direct, practical disclosure of advanced technology.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-970412680838-c03",
+      "assertion": "Mari claims Earth power structures suppress public access to advanced technology, and says useful disclosures would benefit powerful institutions and companies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0012"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Additional claims about surveillance and technology as social control omitted"
+  ]
+}

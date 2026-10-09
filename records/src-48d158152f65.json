@@ -1,0 +1,43 @@
+{
+  "source_id": "src-48d158152f65",
+  "snapshot_sha256": "201e48ac309cda50a285f4fee3bd1a4ec6143046b77399db4abe55465a771047",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-48d158152f65-c01",
+      "assertion": "Za'el says harmful surroundings can erode a person's frequency and draw them toward increasingly difficult experiences.",
+      "speaker": "Za'el",
+      "paragraph_ids": ["p0003", "p0004", "p0005", "p0006", "p0007"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "frequency-map-navigation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He explicitly says this does not make the harmed person responsible."
+    },
+    {
+      "id": "src-48d158152f65-c02",
+      "assertion": "Za'el advises examining one's feelings, leaving harmful people when possible, and rebuilding inner strength when circumstances cannot change.",
+      "speaker": "Za'el",
+      "paragraph_ids": ["p0011", "p0013", "p0014", "p0016", "p0017", "p0018"],
+      "primary_topic": "shadow-work",
+      "topics": ["shadow-work", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He prioritizes personal wellbeing over forcing others to change."
+    },
+    {
+      "id": "src-48d158152f65-c03",
+      "assertion": "Arien frames some difficult circumstances as pre-incarnation learning challenges that can trigger emotional shadows.",
+      "speaker": "Arien de Erra",
+      "paragraph_ids": ["p0021", "p0022", "p0023"],
+      "primary_topic": "starseeds",
+      "topics": ["starseeds", "reincarnation-cycles"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says changing one's response can reduce their impact even if others remain unchanged."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Arien's Mirror Law framing", "scenarios where external danger cannot be changed"]
+}

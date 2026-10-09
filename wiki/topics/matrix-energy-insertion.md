@@ -38,6 +38,36 @@ Source: [EL ÉTER - LA FUENTE ORIGINAL – ATHENA SWARUU](https://swaruu.org/tra
 
 Related topics: [Original Matrix](original-matrix.md).
 
+### src-71cb5bec1f23-c01
+
+Mari argues objects and situations follow mathematically linked sequences of prior events, which can be modeled and used to predict outcomes.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matemáticas básicas detras del Fenómeno de Reflejos Dimensionales](https://swaruu.org/transcripts/matematicas-basicas-detras-del-fenomeno-de-reflejos-dimensionales) (2023-06-06; es); passages p0005, p0007, p0008, p0009, p0010. [Structured record](../../records/src-71cb5bec1f23.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-71cb5bec1f23-c02
+
+In her model, Earth’s semi-closed Matrix adjusts energy and mass relations around an outsider, generating a history that justifies its presence.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matemáticas básicas detras del Fenómeno de Reflejos Dimensionales](https://swaruu.org/transcripts/matematicas-basicas-detras-del-fenomeno-de-reflejos-dimensionales) (2023-06-06; es); passages p0015, p0016, p0017, p0019, p0020. [Structured record](../../records/src-71cb5bec1f23.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
+### src-71cb5bec1f23-c03
+
+She says brief foreign presence perturbs a field; successful insertion into another Matrix requires sustained, coherent energy to overcome its patterns.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Matemáticas básicas detras del Fenómeno de Reflejos Dimensionales](https://swaruu.org/transcripts/matematicas-basicas-detras-del-fenomeno-de-reflejos-dimensionales) (2023-06-06; es); passages p0018, p0022. [Structured record](../../records/src-71cb5bec1f23.json).
+
+Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
+
 ## Claims filed under other topics
 
 - [src-7ff15150434a-c04](holistic-society.md#src-7ff15150434a-c04) — Holistic society

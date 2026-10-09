@@ -742,6 +742,60 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER - YAZHI - Sophia Swaruu](https://swaruu.org/transcripts/lo-que-no-te-cuentan-de-los-vehiculos-electricos-y-tienes-que-saber-yazhi-sophia-swaruu) (2022-10-11; es); passages p0013, p0020. [Structured record](../../records/src-28f04bff29fc.json).
 
+### src-5d73de03dc67-c03
+
+Mari Swaruu describes money as a tool that can support good or harmful ends, and says it remains necessary on Earth despite post-scarcity societies elsewhere. Her economic model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Semillas Estelares y sus Problemas, parte 4, Problemas de Dinero](https://swaruu.org/transcripts/semillas-estelares-y-sus-problemas-parte-4-problemas-de-dinero) (2023-06-08; es); passages p0024, p0025, p0026, p0027, p0028. [Structured record](../../records/src-5d73de03dc67.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-69f666d88c2e-c01
+
+Mari Swaruu says many off-world civilizations use some form of money for transactions and cooperation. She draws on Federation and Taygetan archives; these are not necessarily Earth-style economies.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [El invento del dinero y su aplicación en diferentes sociedades.](https://swaruu.org/transcripts/el-invento-del-dinero-y-su-aplicacion-en-diferentes-sociedades) (2023-05-14; es); passages p0014, p0023, p0024. [Structured record](../../records/src-69f666d88c2e.json).
+
+### src-69f666d88c2e-c03
+
+Mari Swaruu says off-world societies often value original, rare artworks as exchange goods, while replicable gold may serve industrial uses. Originals outrank copies; replicated gold is used industrially.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El invento del dinero y su aplicación en diferentes sociedades.](https://swaruu.org/transcripts/el-invento-del-dinero-y-su-aplicacion-en-diferentes-sociedades) (2023-05-14; es); passages p0015, p0016, p0018. [Structured record](../../records/src-69f666d88c2e.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-8582fea5414c-c02
+
+Mari alleges the Federation ultimately controls Earth’s money and regional budgets because money is a key tool for planetary control.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Federación Galáctica y el Dinero.](https://swaruu.org/transcripts/la-federacion-galactica-y-el-dinero) (2023-05-16; es); passages p0015, p0018, p0019. [Structured record](../../records/src-8582fea5414c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-13154e3227fd-c01
+
+Swaruu X (Athena) says corporations intensify scarcity by monopolizing water and diverting supplies from cities to higher bidders.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA ESCASEZ DEL AGUA EL NEGOCIO OCULTO - Athena Swaruu](https://swaruu.org/transcripts/la-escasez-del-agua-el-negocio-oculto-athena-swaruu) (2023-05-18; es); passages p0003, p0004. [Structured record](../../records/src-13154e3227fd.json).
+
+### src-13154e3227fd-c02
+
+Swaruu X (Athena) says governments exaggerate scarcity to raise prices, curb public use, and boost corporate sales.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [LA ESCASEZ DEL AGUA EL NEGOCIO OCULTO - Athena Swaruu](https://swaruu.org/transcripts/la-escasez-del-agua-el-negocio-oculto-athena-swaruu) (2023-05-18; es); passages p0005, p0007. [Structured record](../../records/src-13154e3227fd.json).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -811,6 +865,12 @@ Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER -
 - [src-773f342a04a2-c01](artificial-intelligence.md#src-773f342a04a2-c01) — Artificial intelligence
 - [src-52f3828b6f14-c02](earth-cabal.md#src-52f3828b6f14-c02) — Earth Cabal and power structures
 - [src-db2abd569bd8-c02](electric-vehicles.md#src-db2abd569bd8-c02) — Electric vehicles
+- [src-5d73de03dc67-c01](starseeds.md#src-5d73de03dc67-c01) — Starseeds
+- [src-5d73de03dc67-c02](starseeds.md#src-5d73de03dc67-c02) — Starseeds
+- [src-69f666d88c2e-c02](holistic-society.md#src-69f666d88c2e-c02) — Holistic society
+- [src-45654a10b21a-c04](holistic-society.md#src-45654a10b21a-c04) — Holistic society
+- [src-8582fea5414c-c03](galactic-federation.md#src-8582fea5414c-c03) — Galactic Federation
+- [src-13154e3227fd-c03](terrestrial-science.md#src-13154e3227fd-c03) — Terrestrial science
 
 ## Review flags
 
@@ -830,6 +890,7 @@ Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER -
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - The alleged CIA organization is explicitly called speculation and unsupported by precise evidence in the interview.
+- The author’s claims about starseeds and social economic control are unverified and attributed.
 - These are Mari Swaruu’s autobiographical and extraterrestrial claims, not independently verified.
 - Yazhi proposes nonhuman tutoring, then says people should not wait for outside help.
 - approximate-age-estimate

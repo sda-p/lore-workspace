@@ -1,0 +1,14 @@
+{
+  "source_id": "src-bbcda30708c9",
+  "snapshot_sha256": "567da0d196e028eca373616cf29d640884278448b8ea96ba5abe25f2e4bb6b15",
+  "language": "es",
+  "claims": [
+    {"id":"src-bbcda30708c9-c01","assertion":"Mari reports the Federation argued souls choose Earth hardship for spiritual growth through resistance.","speaker":"Galactic Federation representatives, as reported by Gori'el and Mari","paragraph_ids":["p0014","p0019","p0021","p0022"],"primary_topic":"galactic-federation","topics":["galactic-federation","individual-ascension"],"modality":"reported","confidence":"high","qualifiers":""},
+    {"id":"src-bbcda30708c9-c02","assertion":"Mari says Federation presenters argued Earth's destructive ideas, tulpas, and egregores must remain isolated from stellar societies.","speaker":"Alpha Centauri presenters representing the Galactic Federation, as reported by Mari","paragraph_ids":["p0026"],"primary_topic":"galactic-federation","topics":["galactic-federation","tulpas","egregors"],"modality":"reported","confidence":"high","qualifiers":""},
+    {"id":"src-bbcda30708c9-c03","assertion":"Mari reports the presenters warned direct, unguided contact could collapse Earth's Matrix and remove its dualistic incarnation setting.","speaker":"Alpha Centauri presenters representing the Galactic Federation, as reported by Mari","paragraph_ids":["p0027","p0028"],"primary_topic":"galactic-federation","topics":["galactic-federation","moon-matrix","prime-directive"],"modality":"reported","confidence":"high","qualifiers":""},
+    {"id":"src-bbcda30708c9-c04","assertion":"Mari counters that suffering can trap souls in a cycle of further suffering, while more evolved souls may grow through peace.","speaker":"Mari Swa","paragraph_ids":["p0023","p0024","p0025"],"primary_topic":"individual-ascension","topics":["individual-ascension","consciousness-metaphysics"],"modality":"asserted","confidence":"high","qualifiers":""}
+  ],
+  "proposed_topics": [],
+  "review_flags": ["The Federation's stated rationale is relayed by Mari from Gori'el's account of the conference; it is not endorsed as fact."],
+  "coverage_gaps": ["conference attendance and the suspicion that species were separated to limit coordination"]
+}

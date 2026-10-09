@@ -36,6 +36,16 @@ Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
 
 Source: [Navegación Estelar, Conceptos Básicos](https://swaruu.org/transcripts/navegacion-estelar-conceptos-basicos) (2022-12-23; es); passages p0015, p0018, p0019. [Structured record](../../records/src-877d9746441a.json).
 
+### src-1890fe5b32b8-c03
+
+She says densities and astral levels form one continuum, and starships travel through it by matching their frequencies to destinations.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Astral. Parte 2](https://swaruu.org/transcripts/el-astral-parte-2) (2023-08-11; es); passages p0011, p0012, p0013. [Structured record](../../records/src-1890fe5b32b8.json).
+
+Related topics: [Astral Travel](astral-travel.md).
+
 ## Review flags
 
 - Navigation and propulsion descriptions are attributed to Mari Swaruu, not independently verified.

@@ -1,0 +1,49 @@
+{
+  "source_id": "src-f15dd35a07c7",
+  "snapshot_sha256": "4fe33bc492e30851d8c59537de96a479dbc5518a1ff5a68f30b275533343a4ad",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f15dd35a07c7-c01",
+      "assertion": "Mari says reincarnation need not follow Earth’s chronology: souls may enter a body in the apparent past or inhabit overlapping lives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributes this to time being perceived differently beyond Earth’s system."
+    },
+    {
+      "id": "src-f15dd35a07c7-c02",
+      "assertion": "Mari says planetary systems can have different time rates, creating synchronization problems she calls time slippage; muon gravity-pulse transmissions exposed the differences.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "temporal-skipping",
+      "topics": [
+        "temporal-skipping",
+        "muonic-gravitational-communications"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the transmissions are virtually instantaneous."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "time as a three-dimensional phenomenon",
+    "perception-dependent present"
+  ]
+}

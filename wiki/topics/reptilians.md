@@ -247,6 +247,8 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-2e44af6cf865-c02](kingu.md#src-2e44af6cf865-c02) — Kingu
 - [src-e2289d05d7a8-c01](viera.md#src-e2289d05d7a8-c01) — Viera
 - [src-52f3828b6f14-c03](hashmallim.md#src-52f3828b6f14-c03) — Hashmallim
+- [src-a69d54a0580b-c03](maitre.md#src-a69d54a0580b-c03) — Maitre
+- [src-4ae11aa0469c-c03](false-alien-invasion.md#src-4ae11aa0469c-c03) — False alien invasion scenarios
 
 ## Review flags
 

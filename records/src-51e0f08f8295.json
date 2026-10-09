@@ -1,0 +1,65 @@
+{
+  "source_id": "src-51e0f08f8295",
+  "snapshot_sha256": "d26406e3e94d276a589e10fad392c9a688b1def9ca8af401b11ba89fc7cb5d42",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-51e0f08f8295-c01",
+      "assertion": "Yazhi says frequency pods raise a person’s vibration so they no longer match astral entities, but lasting removal requires inner work and sustained changes in thought and habits.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0013",
+        "p0019"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Otherwise, she says, entities may return."
+    },
+    {
+      "id": "src-51e0f08f8295-c02",
+      "assertion": "Yazhi says a person's frequency influences which extraterrestrial species or star people they may contact.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This affects compatibility and likelihood."
+    },
+    {
+      "id": "src-51e0f08f8295-c03",
+      "assertion": "Yazhi rejects a literal solid dome over Earth, describing the Van Allen belts as the closest physical analogue.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the Moon alters the magnetosphere to enhance them."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "frequency-pod design",
+    "consciousness and time",
+    "stages of spiritual evolution"
+  ]
+}

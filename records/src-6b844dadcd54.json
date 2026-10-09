@@ -1,0 +1,67 @@
+{
+  "source_id": "src-6b844dadcd54",
+  "snapshot_sha256": "76fc211481b5794ab69986ecbeb9aa00690f7e68fcc169fb935a340ead07ee06",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6b844dadcd54-c01",
+      "assertion": "Yazhi says there is no positive agenda because “agenda” implies manipulation; she describes the positive side’s aim as soul evolution and relieving suffering.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012",
+        "p0059"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her characterization."
+    },
+    {
+      "id": "src-6b844dadcd54-c02",
+      "assertion": "Yazhi says learning through suffering depends on awareness: higher awareness reduces the need for hardship.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6b844dadcd54-c03",
+      "assertion": "Yazhi argues extreme oppressive plans would undermine themselves by driving people to collapse the system.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as her expectation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Metaphysical and political interpretations are attributed to Yazhi."
+  ],
+  "coverage_gaps": [
+    "Other metaphysical and political claims in the discussion"
+  ]
+}

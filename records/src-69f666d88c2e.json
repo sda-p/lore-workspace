@@ -1,0 +1,66 @@
+{
+  "source_id": "src-69f666d88c2e",
+  "snapshot_sha256": "819e5dc0532e05b5417fe05e312d6807c8ac072d07726faef66cb0b1bec4ae1d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-69f666d88c2e-c01",
+      "assertion": "Mari Swaruu says many off-world civilizations use some form of money for transactions and cooperation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She draws on Federation and Taygetan archives; these are not necessarily Earth-style economies."
+    },
+    {
+      "id": "src-69f666d88c2e-c02",
+      "assertion": "In her account, advanced off-world societies use money only when needed; internally they share abundant resources without an economy.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Remaining exchanges are friendly barter with little value compensation."
+    },
+    {
+      "id": "src-69f666d88c2e-c03",
+      "assertion": "Mari Swaruu says off-world societies often value original, rare artworks as exchange goods, while replicable gold may serve industrial uses.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Originals outrank copies; replicated gold is used industrially."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "terrestrial monetary history",
+    "three categories of gold"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "source_id": "src-8cfcc037b641",
+  "snapshot_sha256": "9b0b2cc16d2f021769fa53a44bec01ce196cd8a9a84d8bbca6e54b11593bd8ac",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8cfcc037b641-c01",
+      "assertion": "Mari describes moghyay as cat-sized, wingless, four-limbed, fruit-eating, warm-bodied animals native to some Temmer islands.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "moghyay",
+      "topics": [
+        "moghyay",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8cfcc037b641-c02",
+      "assertion": "Mari says muon-based remote presence let her appear and sense herself on Temmer while her physical body remained aboard Toleka near Earth.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "muonic-gravitational-communications",
+      "topics": [
+        "muonic-gravitational-communications",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes the system as instantaneous and using full-sensory holographic projection."
+    },
+    {
+      "id": "src-8cfcc037b641-c03",
+      "assertion": "Mari says she represented ill Queen Alenym at an agricultural treaty signing with Mollusc Maya representatives, her first official government appearance as heir.",
+      "speaker": "Mari Swa",
+      "paragraph_ids": [
+        "p0015",
+        "p0023",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Other details about the food contamination incident and the Second Contact project omitted"
+  ]
+}

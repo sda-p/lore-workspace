@@ -1,0 +1,43 @@
+{
+  "source_id": "src-61705721c8a4",
+  "snapshot_sha256": "cb0054deee60586a343fe8dad0150a65a2d464ade6749fa626f45571c6db8532",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-61705721c8a4-c01",
+      "assertion": "Mari defines natural walk-ins as consensual exchanges: an original soul leaves a living body and another enters.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0004", "p0005", "p0006", "p0023", "p0024", "p0025", "p0035"],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": ["walk-in-phenomenon", "reincarnation-cycles"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She cautions that abrupt personality changes alone do not establish a walk-in."
+    },
+    {
+      "id": "src-61705721c8a4-c02",
+      "assertion": "Mari says an incoming soul may inherit most of the body's memories but interpret them differently.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0027", "p0028", "p0030", "p0031"],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": ["walk-in-phenomenon", "memory-veil"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says memory gaps can remain."
+    },
+    {
+      "id": "src-61705721c8a4-c03",
+      "assertion": "Mari says immersion pods can use DNA-linked frequencies to force an incompatible soul into a body, overriding its original occupant.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0012", "p0013", "p0014", "p0015", "p0016"],
+      "primary_topic": "immersion-pods",
+      "topics": ["immersion-pods", "walk-in-phenomenon"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes this as a hostile, unethical takeover."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": ["The source includes claims about soul replacement and criminal behavior; these are presented as the speaker's metaphysical account."],
+  "coverage_gaps": ["distinctions between natural walk-ins and possession", "memory recovery after a walk-in"]
+}

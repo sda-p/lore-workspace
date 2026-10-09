@@ -1,0 +1,228 @@
+{
+  "batch_id": "continuous-018",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-3e414790b429",
+    "src-536cd29a42e2",
+    "src-59758ad652fa",
+    "src-7fe18cd69157",
+    "src-8a37a5eaeb7b",
+    "src-d9bbb3c4038b",
+    "src-fb36af989f4a",
+    "src-86a4669c182d",
+    "src-b11e21360ce7",
+    "src-024defbdba5d",
+    "src-06cd5c8d1a9d",
+    "src-3163ad7ea9b7",
+    "src-3e6bb19f0b7f",
+    "src-0aac3dd46daa",
+    "src-2b5e44407f31",
+    "src-45654a10b21a",
+    "src-5d9ef87c7059",
+    "src-6666d1d0f467",
+    "src-e48edb1223b1",
+    "src-eb3d807278aa",
+    "src-6f4abd2348fc",
+    "src-a58e748ec5c5",
+    "src-bfdd0f4cda51",
+    "src-6f1a8a7d6452",
+    "src-79f4ea058b24",
+    "src-ebaafb2f5974",
+    "src-ab60202e760e",
+    "src-1b58a21e9def",
+    "src-5699fcba6376",
+    "src-c770aad74bc9",
+    "src-e0d85326bb47",
+    "src-6d5ee8028d87",
+    "src-7b4f6bfe2d36",
+    "src-9d5a0a649d33",
+    "src-ea66ccbb5872",
+    "src-d899310fae70",
+    "src-79a34eaa59b0",
+    "src-06b35bd6dc5f",
+    "src-0c64b4d8967b",
+    "src-ac04705c7e8d",
+    "src-aaf321b17830",
+    "src-a69d54a0580b",
+    "src-64deed76c0cf",
+    "src-429d15872426",
+    "src-7fecc6636778",
+    "src-71cb5bec1f23",
+    "src-39d2bef39243",
+    "src-d6433743ab20",
+    "src-e285065c4098",
+    "src-7ab85bafab6b",
+    "src-cdc082ef32a2",
+    "src-8c52d17e6496",
+    "src-e10c7ec1d27f",
+    "src-52a4911db286",
+    "src-2e200138040b",
+    "src-88fb6a09e00c",
+    "src-5d73de03dc67",
+    "src-ddb96d2b4f51",
+    "src-eeb5d9cc4e85",
+    "src-97662b957563",
+    "src-b39d4a7a2cd4",
+    "src-18f0726037ac",
+    "src-8224fa1e656e",
+    "src-e473d0c4d7a7",
+    "src-2f1a34ed22b2",
+    "src-d1722a36e342",
+    "src-7de438650c41",
+    "src-c504ffb5de14",
+    "src-a602cffec533",
+    "src-359fd1aab210",
+    "src-fec70c265b7c",
+    "src-e30c581bf65b",
+    "src-51e0f08f8295",
+    "src-8f74656f7646",
+    "src-169d506f3fbd",
+    "src-066afd308a37",
+    "src-5dcb0e2a993c",
+    "src-4a182e4f47a1",
+    "src-c1b0bd64ba3b",
+    "src-afbb59548515"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-b11e21360ce7",
+      "claim_id": "src-b11e21360ce7-c03",
+      "problem": "“Attracting” implied a causal action absent from the cited description; realm-quality qualification also lacked its direct passage.",
+      "action": "Replaced with the source’s general-inhabitance scope and added the passage on perceived realm qualities.",
+      "paragraph_ids": [
+        "p0022",
+        "p0023"
+      ]
+    },
+    {
+      "source_id": "src-024defbdba5d",
+      "claim_id": "src-024defbdba5d-c03",
+      "problem": "The claim is attributed to Gosia but one cited passage (p0022) is Yazhi’s separate response.",
+      "action": "Removed p0022 so the attribution rests only on Gosia’s own statement in p0020.",
+      "paragraph_ids": [
+        "p0020"
+      ]
+    },
+    {
+      "source_id": "src-1b58a21e9def",
+      "claim_id": "src-1b58a21e9def-c02",
+      "problem": "The cited p0027 is a bare confirmation and omits the speaker’s question stating the origin/destination frequency premise.",
+      "action": "Added p0026 so the affirmed frequency-matching claim has its full question-and-answer context.",
+      "paragraph_ids": [
+        "p0026",
+        "p0027"
+      ]
+    },
+    {
+      "source_id": "src-d899310fae70",
+      "claim_id": "src-d899310fae70-c02",
+      "problem": "p0014 is the interviewer’s question and not evidence for Athena’s answer.",
+      "action": "Removed the question, retaining Athena’s response and caveat passages.",
+      "paragraph_ids": [
+        "p0007",
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-79a34eaa59b0",
+      "claim_id": "src-79a34eaa59b0-c02",
+      "problem": "p0014 concerns Federation complicity, which is outside this claim, and is a response to p0013.",
+      "action": "Removed the unrelated passage; the reported claim and explicit uncertainty are directly supported by p0012.",
+      "paragraph_ids": [
+        "p0012"
+      ]
+    },
+    {
+      "source_id": "src-06b35bd6dc5f",
+      "claim_id": "src-06b35bd6dc5f-c02",
+      "problem": "The qualifier about fabricated accounts was supported by an unlisted passage.",
+      "action": "Added the passage where Mari acknowledges numerous lies and invented stories.",
+      "paragraph_ids": [
+        "p0022"
+      ]
+    },
+    {
+      "source_id": "src-a69d54a0580b",
+      "claim_id": "src-a69d54a0580b-c02",
+      "problem": "The qualifier that the Gardeners’ actions may frighten abductees was not cited.",
+      "action": "Added the passage explaining they may frighten subjects despite beneficial intent.",
+      "paragraph_ids": [
+        "p0012"
+      ]
+    },
+    {
+      "source_id": "src-e285065c4098",
+      "claim_id": "src-e285065c4098-c03",
+      "problem": "The lunar frequency link is framed tentatively (“parece o hay evidencia que sugiere”), but was marked asserted.",
+      "action": "Changed modality to speculative to preserve the source’s uncertainty.",
+      "paragraph_ids": [
+        "p0050"
+      ]
+    },
+    {
+      "source_id": "src-7ab85bafab6b",
+      "claim_id": "src-7ab85bafab6b-c03",
+      "problem": "The lunar frequency link is framed tentatively (“parece o hay evidencia que sugiere”), but was marked asserted.",
+      "action": "Changed modality to speculative to preserve the source’s uncertainty.",
+      "paragraph_ids": [
+        "p0049"
+      ]
+    },
+    {
+      "source_id": "src-e473d0c4d7a7",
+      "claim_id": "src-e473d0c4d7a7-c01",
+      "problem": "The claim describes Avyon01 as large and heavy, but the prior citations did not include Yazhi’s direct size/weight description; the shape answers also rely on the preceding question for their context.",
+      "action": "Added Yazhi’s direct size/weight description and retained the directly supporting shape and window passages.",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0011"
+      ]
+    },
+    {
+      "source_id": "src-51e0f08f8295",
+      "claim_id": "src-51e0f08f8295-c01",
+      "problem": "“Dislodge” overstated what p0009 says; the device raises the subject’s frequency so they no longer match the entities, and the source distinguishes temporary effects from permanent removal.",
+      "action": "Rephrased to the source-supported frequency mismatch and lasting-removal conditions.",
+      "paragraph_ids": [
+        "p0009",
+        "p0013",
+        "p0019"
+      ]
+    },
+    {
+      "source_id": "src-8f74656f7646",
+      "claim_id": "src-8f74656f7646-c01",
+      "problem": "“Dislodge” implies physical removal not directly stated in the cited description; source says the pod raises frequency and breaks compatibility, with machine effects temporary.",
+      "action": "Rephrased to frequency mismatch and lasting-removal condition.",
+      "paragraph_ids": [
+        "p0007",
+        "p0011",
+        "p0014"
+      ]
+    },
+    {
+      "source_id": "src-169d506f3fbd",
+      "claim_id": "src-169d506f3fbd-c02",
+      "problem": "The claim states current portal operation is unknown and alleges reverse-engineering; cited paragraphs did not include the direct Q&A about current operation or the statement of reverse-engineering intent.",
+      "action": "Added the question-and-answer context for current operation and the direct statement about reverse-engineering and withholding portals.",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0037"
+      ]
+    },
+    {
+      "source_id": "src-4a182e4f47a1",
+      "claim_id": "src-4a182e4f47a1-c01",
+      "problem": "The qualifier that testimony counts as evidence was supported by p0014, which was not cited.",
+      "action": "Added the passage where Athena says the public evidence is that officials said what they said.",
+      "paragraph_ids": [
+        "p0014"
+      ]
+    }
+  ],
+  "unresolved": []
+}
