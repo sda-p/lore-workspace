@@ -1,0 +1,78 @@
+{
+  "source_id": "src-8f1437f38d3a",
+  "snapshot_sha256": "b51392164adad417f59962d32acc2ba6b9d63b3a5a4a2cd76cc6dcd56e6224d2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8f1437f38d3a-c01",
+      "assertion": "Yazhi said crystal skulls are extraterrestrial crystal archives, not necessarily actual skulls; she cited Taygetan records mentioning about 13, while acknowledging replicas and frauds.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0051",
+        "p0054",
+        "p0058",
+        "p0062",
+        "p0066",
+        "p0068"
+      ],
+      "primary_topic": "crystal-skulls",
+      "topics": [
+        "crystal-skulls",
+        "sentient-crystals"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said she had seen photos, not the objects firsthand."
+    },
+    {
+      "id": "src-8f1437f38d3a-c02",
+      "assertion": "Athena described dreams as experiences in other planes where manifestation is faster, rather than necessarily being soul fragmentation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0074",
+        "p0075"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8f1437f38d3a-c03",
+      "assertion": "Athena said chakras or energy centers exist, but should not be treated as the sole map of the body, which functions as a whole.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0097",
+        "p0099"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "crystal-skulls",
+      "name": "Crystal skulls",
+      "kind": "artifact claim",
+      "aliases": [
+        "extraterrestrial crystal skulls"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Yazhi said she saw photographs rather than the crystal skulls firsthand; the claims are attributed."
+  ],
+  "coverage_gaps": [
+    "Her statement about trauma-related dissociation in MK Ultra"
+  ]
+}

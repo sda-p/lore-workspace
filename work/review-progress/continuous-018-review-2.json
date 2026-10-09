@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:57:14+00:00",
+  "checkpointed_at": "2026-10-09T01:21:48+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-018",
@@ -24,9 +24,129 @@
       "src-c79c521e2617",
       "src-720349fd0c8e",
       "src-792d96d276c2",
-      "src-9922a742f77a"
+      "src-9922a742f77a",
+      "src-af28174da547",
+      "src-082f8780849b",
+      "src-c8d611b2d82a",
+      "src-e62f2a423b11",
+      "src-b4532dd6ab33",
+      "src-531dd2c83cf3",
+      "src-c5820758bc75",
+      "src-8582fea5414c",
+      "src-fc7b65e81f10",
+      "src-8c823a56ddaf",
+      "src-97c055d470ab",
+      "src-05476d7782cb",
+      "src-8f1437f38d3a",
+      "src-5747f0ef36c2",
+      "src-f81260545800",
+      "src-bd9e003dba4d",
+      "src-65222f668774",
+      "src-46f3bf392b0e",
+      "src-2dc5849bd700",
+      "src-dc983dd82033"
     ],
-    "corrections": [],
+    "corrections": [
+      {
+        "source_id": "src-b4532dd6ab33",
+        "claim_id": "src-b4532dd6ab33-c01",
+        "problem": "The original assertion presented self-destruction as a definite exception and did not preserve Mari’s framing of the model as non-absolute and imprecise.",
+        "action": "Restored her uncertainty and provisional framing, with concise edits preserving the 85-word article limit; validated full record.",
+        "paragraph_ids": [
+          "p0003",
+          "p0005"
+        ]
+      },
+      {
+        "source_id": "src-c5820758bc75",
+        "claim_id": "src-c5820758bc75-c03",
+        "problem": "The qualifier overstated Mari’s partial disagreement as rejection of the Van Allen barrier account.",
+        "action": "Narrowed the qualifier to her stated doubt that Van Allen prevents souls from leaving; validated full record.",
+        "paragraph_ids": [
+          "p0030",
+          "p0031"
+        ]
+      },
+      {
+        "source_id": "src-8c823a56ddaf",
+        "claim_id": "src-8c823a56ddaf-c03",
+        "problem": "The frequency distinctions cited response paragraphs without the questions specifying mass-related frequency and attention of consciousness.",
+        "action": "Added p0052 and p0056 to preserve the conceptual definitions being answered; validated full record.",
+        "paragraph_ids": [
+          "p0052",
+          "p0053",
+          "p0056",
+          "p0057",
+          "p0058"
+        ]
+      },
+      {
+        "source_id": "src-97c055d470ab",
+        "claim_id": "src-97c055d470ab-c03",
+        "problem": "The claim cited answers about hyperspace and pilot staffing without their questions.",
+        "action": "Added p0082 and p0086 so the interstellar capability and single-pilot answers retain context; validated full record.",
+        "paragraph_ids": [
+          "p0082",
+          "p0083",
+          "p0085",
+          "p0086",
+          "p0087"
+        ]
+      },
+      {
+        "source_id": "src-05476d7782cb",
+        "claim_id": "src-05476d7782cb-c01",
+        "problem": "The summarized responses about Moon rotation, hologram placement, and phases omitted the questions establishing their scope.",
+        "action": "Added p0002, p0004, p0006, and p0008 to retain the context for each answer; validated full record.",
+        "paragraph_ids": [
+          "p0002",
+          "p0003",
+          "p0004",
+          "p0005",
+          "p0006",
+          "p0007",
+          "p0008",
+          "p0009"
+        ]
+      },
+      {
+        "source_id": "src-05476d7782cb",
+        "claim_id": "src-05476d7782cb-c02",
+        "problem": "The cited reference to event insertion did not include the question and the passage that recalled Anéeka’s earlier account.",
+        "action": "Added p0016–p0017 alongside Athena’s response and her later uncertainty; validated full record.",
+        "paragraph_ids": [
+          "p0016",
+          "p0017",
+          "p0018",
+          "p0019",
+          "p0020",
+          "p0022",
+          "p0037"
+        ]
+      },
+      {
+        "source_id": "src-05476d7782cb",
+        "claim_id": "src-05476d7782cb-c03",
+        "problem": "The two-systems distinction was cited from answers without the question asking whether removing belts would affect the hologram.",
+        "action": "Added p0070 and p0072 to preserve the distinction’s context; validated full record.",
+        "paragraph_ids": [
+          "p0070",
+          "p0071",
+          "p0072",
+          "p0073"
+        ]
+      },
+      {
+        "source_id": "src-f81260545800",
+        "claim_id": "src-f81260545800-c01",
+        "problem": "The transcript introduction explicitly identifies the content as authored by Swaruu de Erra and read aloud by Mari; all claims were attributed to the presenter.",
+        "action": "Changed all claim speakers to “Swaruu de Erra (text read by Mari Swaruu)” to preserve authorship and presentation distinction.",
+        "paragraph_ids": [
+          "p0003",
+          "p0004"
+        ]
+      }
+    ],
     "unresolved": []
   },
   "record_sha256": {
@@ -48,6 +168,26 @@
     "src-c79c521e2617": "701fc76d2eb93f6834b7e0e217dde2c94341139f19cefbc28a6e14616789f1c1",
     "src-720349fd0c8e": "5a42fb238f076a62f9cde2a158403d962181906f651b439917b5ba2c769ddb01",
     "src-792d96d276c2": "c7086753ef873134213d0e269339ca17f9ab7ad8c75b6e462caffb5288b24619",
-    "src-9922a742f77a": "d17d80375690ba31a02d443e14dfbd711273eee6e2cabc7b862231d38e24e105"
+    "src-9922a742f77a": "d17d80375690ba31a02d443e14dfbd711273eee6e2cabc7b862231d38e24e105",
+    "src-af28174da547": "92f3e26e47876fba90d139d35fb74bc888e0964dfcc91d20c60714cd667c09e3",
+    "src-082f8780849b": "80ed8a95bc4130f75bdd0bb0bd6fae8d4a0cd9abf2a78ef1c012af1481067485",
+    "src-c8d611b2d82a": "3e00d53110f0c983c38cce51c61674640f14798459dae4c66451565bbf69a89f",
+    "src-e62f2a423b11": "73e1e8561bf0504dfbbdc48f52dc119f715f277f55b13e23328bf3e395c592f8",
+    "src-b4532dd6ab33": "3b6ea4adc23c03339bcf700a460605a603316b3905c5344064b274f3d4dd5d70",
+    "src-531dd2c83cf3": "b4b7b1fded949d84fc7ef37792ae7e7df14193abaa03e25b90f8b4ecae5ef7e4",
+    "src-c5820758bc75": "5c8a011c015915a45a85244d1ed1e1f9cf1eb1b2650eb358bcc918477a914b50",
+    "src-8582fea5414c": "a9f410de936b194c0ec2ed329a9f005fd16179682e67d9a409875adb6e426c75",
+    "src-fc7b65e81f10": "a076342425e463d559c331de2bbf0c18c0274c88ca895143e7e13c8a8f1c1555",
+    "src-8c823a56ddaf": "860161a780b10da5c7147b06c7c9942c55cfb7b7c10c0cb5a0e9a7aa38fa0fd5",
+    "src-97c055d470ab": "11d18ae9aa470695b9edadd3eaa78f007159b92e4768c17a1b45bdc192029b22",
+    "src-05476d7782cb": "07d4ac7808080c052db3d9530020959d3c63a300e093b6d840d4a1f5bec4d154",
+    "src-8f1437f38d3a": "0ae9380e28444277ea7cc0f4d60ff13b2bcb010cf4dd723289a18d63a45eab8d",
+    "src-5747f0ef36c2": "dc2116eee5b7cedd5701e1a995187a37aae96ca5124362fdbed8c2ee40e44926",
+    "src-f81260545800": "9a7d83eed8442ce5043f5919054a0545bd913b5fe7783ba993ee19ad919bd915",
+    "src-bd9e003dba4d": "dcbd2764edc4c110ba2157f9457971ed0bf5f29c2ec43ea3a85432efd0b3d0c7",
+    "src-65222f668774": "93ae752cedf120f0e7c4aa79d81285abdc459db3f108e4d1a19700866481ab71",
+    "src-46f3bf392b0e": "01140a056129bc5b981047f1385dcc43ba52e1dd8e7886b97471a5102b55049d",
+    "src-2dc5849bd700": "8b176ad8d3ea42dc9639c33e8f6104b9c9aa524d7f78639d3fe3cda2bf5910a5",
+    "src-dc983dd82033": "1eb1b88967b411634feebfd08eb931b9dbb3dd4a818d54a8c6b7f48bb5bcb8b3"
   }
 }

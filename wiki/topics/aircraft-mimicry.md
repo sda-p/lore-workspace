@@ -44,6 +44,15 @@ Source: [Transcripcion de una Entrevista a un Extraterrestre de la Estrella Tayg
 
 Related topics: [Suzy fighter craft](suzy-fighter-craft.md).
 
+### src-0eb13f79d3c3-c01
+
+Swaruu X (Athena) identifies a depicted UFO-like object as possibly an external military reconnaissance pod, citing an F-105-era example. She says a sealed, lightweight model could float, depending on its design.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [LO DE LOS OVNIS ES UNA TAPADERA O DISTRACTOR PARA OTROS EVENTOS - Athena Swaruu](https://swaruu.org/transcripts/lo-de-los-ovnis-es-una-tapadera-o-distractor-para-otros-eventos-athena-swaruu) (2023-02-18; es); passages p0015, p0017, p0021, p0023. [Structured record](../../records/src-0eb13f79d3c3.json).
+
 ## Review flags
 
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
+- contested-object-identification

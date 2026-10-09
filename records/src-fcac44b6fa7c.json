@@ -1,0 +1,68 @@
+{
+  "source_id": "src-fcac44b6fa7c",
+  "snapshot_sha256": "ab6463f646e405e28ce892eda1b0e5988e06948eec6d96a31fcfd3c75f583c91",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fcac44b6fa7c-c01",
+      "assertion": "Yazhi attributes missing mass in terrestrial calculations to other densities and parallel worlds interwoven with perceived 3D.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her proposed explanation."
+    },
+    {
+      "id": "src-fcac44b6fa7c-c02",
+      "assertion": "She describes gravity as high-frequency ether flow and says concentrated gravity causes mass, rather than mass producing gravity.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "In her model."
+    },
+    {
+      "id": "src-fcac44b6fa7c-c03",
+      "assertion": "Yazhi says light speed and gravity vary, appearing constant only within Earth’s 3D perceptual agreements.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her criticism of terrestrial physics."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "astrology connection"
+  ]
+}

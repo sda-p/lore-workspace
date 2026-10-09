@@ -18,6 +18,17 @@ Source: [Gran Inundacion y Guerras de Tiamat - \*\*SIN VIDEO\*\*](https://swaruu
 
 Related topics: [Atlantis and Lemuria](atlantis-lemuria.md).
 
+### src-f3083d830387-c01
+
+Swaruu (9) says the Agartha resistance against reptilian invasion accepts some surface inhabitants, with admission decided individually. She says acceptance is selective rather than general.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Evacuación de los Humanos de la Tierra - Opinión de Yazhi Swaruu](https://swaruu.org/transcripts/evacuacion-de-los-humanos-de-la-tierra-opinion-de-yazhi-swaruu) (2022-11-08; es); passages p0007. [Structured record](../../records/src-f3083d830387.json).
+
+Related topics: [Agarthians](agarthians.md), [Reptilian invaders](reptilian-invaders.md).
+
 ## Review flags
 
 - cataclysm-history-attributed
+- limited-evidence-extraction-account

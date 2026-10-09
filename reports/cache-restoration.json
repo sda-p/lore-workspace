@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-08T23:03:23+00:00",
+  "cohorts": [
+    "continuous-016",
+    "continuous-017",
+    "continuous-018",
+    "continuous-019",
+    "continuous-020",
+    "continuous-021"
+  ],
+  "checked_snapshots": 817,
+  "matching_snapshots": 817,
+  "errors": [],
+  "policy": "Retained body hashes and line-passages-v1 identities validated; raw snapshots remain outside the repository."
+}

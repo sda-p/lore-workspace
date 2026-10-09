@@ -18,6 +18,10 @@ Source: [ADAN Y EVA - EL CONTROL MENTAL - LAS GUERRAS DE ORIÓN - PARTE 4 \*\*SI
 
 Related topics: [Gravity harmonics](gravity-harmonics.md), [Energy generation technology](energy-generation.md).
 
+## Claims filed under other topics
+
+- [src-66fb35352fc6-c02](spherical-drones.md#src-66fb35352fc6-c02) — Spherical drones
+
 ## Review flags
 
 - ancient-texts-as-racial-symbolism-attributed

@@ -1,0 +1,72 @@
+{
+  "source_id": "src-9987cea5f9c3",
+  "snapshot_sha256": "1281721fac5ad13610463e6818b5bb049d0a3c40ad702e85084e1f2b58b2ec45",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9987cea5f9c3-c01",
+      "assertion": "Athena says the Federation applies its nonintervention directive selectively and controls Earth, while presenting this as containment for souls’ development.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her portrayal is mixed."
+    },
+    {
+      "id": "src-9987cea5f9c3-c02",
+      "assertion": "Athena says timeline divisions reflect groups’ shared perceptions rather than physical boundaries; 5D awakening is a personal process that can form like-minded groups.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She defines it as shared awakening."
+    },
+    {
+      "id": "src-9987cea5f9c3-c03",
+      "assertion": "Athena says souls may naturally leave Earth after reaching high vibration; she attributes repeated incarnation to attachment and compatibility, not external imprisonment.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "perceptual-density",
+        "van-allen-belts"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this occurs by personal will."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "claims about starseed numbers and resets",
+    "Alzheimer’s and immersion-pod answers"
+  ]
+}

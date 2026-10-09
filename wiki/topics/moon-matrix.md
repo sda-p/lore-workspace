@@ -1996,6 +1996,104 @@ Source: [LA NASA - MISIONES ARTEMISA - ES INVIABLE QUE EL HOMBRE LLEGUE A LA LUN
 
 Related topics: [Energy generation technology](energy-generation.md).
 
+### src-c1919a47291a-c01
+
+Mari Swaruu defines a personal Matrix as the world a conscious being interprets through its identity and shared perceptual agreements, carried wherever it goes. She distinguishes it from the literal numerical universe.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Por qué nadie puede escapar de Matrix. Parte 2](https://swaruu.org/transcripts/por-que-nadie-puede-escapar-de-matrix-parte-2) (2023-04-08; es); passages p0007, p0009, p0011, p0012, p0013. [Structured record](../../records/src-c1919a47291a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b313da868dad-c01
+
+Mari Swaruu describes Earth's Matrix as one of nested mental realities, each formed by shared perceptual agreements and having both distinct rules and common elements. She says Earth's Matrix is a sub-Matrix within wider stellar and cosmic systems.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escapar de la Matrix, video numero 2](https://swaruu.org/transcripts/escapar-de-la-matrix-video-numero-2) (2023-01-04; es); passages p0004, p0005. [Structured record](../../records/src-b313da868dad.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-9b0e688f41d9-c03
+
+She says the artificial Moon, operated by the Federation from Saturn, emits frequencies disrupting human psychic connection and astrology.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Astrología - Plutón entrando en Acuario - Perspectiva Extraterrestre](https://swaruu.org/transcripts/astrologia-pluton-entrando-en-acuario-perspectiva-extraterrestre) (2023-02-05; es); passages p0090, p0092, p0108. [Structured record](../../records/src-9b0e688f41d9.json).
+
+Related topics: [Frequency-based astrology](frequency-astrology.md).
+
+### src-85324cf8988c-c02
+
+She says Dieslientiplex seek lunar forward bases for many species, parking space and recyclable materials.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Comunidad de "Expertos" de Extraterrestres es una organización HUMANA - MiniTemas](https://swaruu.org/transcripts/comunidad-de-expertos-de-extraterrestres-es-una-organizacion-humana-minitemas) (2022-11-04; es); passages p0025, p0027, p0031. [Structured record](../../records/src-85324cf8988c.json).
+
+Related topics: [Dieslientiplex](dieslientiplex.md).
+
+### src-651f2f5ca73c-c01
+
+Swaruu X says lunar mass and imposed frequencies raised Earth’s density, stabilizing its orbit and the wider system.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ASTRONOMIA PORQUE LA TIERRA TIENE UNA LUNA - Athena Swaruu](https://swaruu.org/transcripts/astronomia-porque-la-tierra-tiene-una-luna-athena-swaruu) (2022-10-10; es); passages p0004, p0011, p0013. [Structured record](../../records/src-651f2f5ca73c.json).
+
+### src-34307f448bda-c01
+
+Mari Swaruu says the Matrix is each soul’s reflected reality, not a place; extraction moves people between Matrix levels, not to a suffering-free promised land.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Por qué nadie puede escapar de la Matrix](https://swaruu.org/transcripts/por-que-nadie-puede-escapar-de-la-matrix) (2023-04-04; es); passages p0015, p0018, p0019, p0020, p0027. [Structured record](../../records/src-34307f448bda.json).
+
+### src-1e383a05d9f2-c02
+
+She frames Van Allen bands as a consequence, not the purpose, of lunar stabilization; imposed frequencies fostered low-frequency egregors.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [CRONOLOGÍA PLANETARIA DESDE LOS ULTIMOS 13.000 AÑOS - Athena Swaruu](https://swaruu.org/transcripts/cronologia-planetaria-desde-los-ultimos-13-000-anos-athena-swaruu) (2022-10-06; es); passages p0024, p0025, p0026. [Structured record](../../records/src-1e383a05d9f2.json).
+
+### src-a72352046ce4-c02
+
+She frames terrestrial good-versus-evil and alien-war narratives as human projections in a self-contained Matrix, where friction may teach souls.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sombreros Blancos - Mensaje de Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/sombreros-blancos-mensaje-de-sophia-swaruu-yazhi) (2022-12-14; es); passages p0005, p0006, p0007. [Structured record](../../records/src-a72352046ce4.json).
+
+### src-d2f26274ed8a-c02
+
+She describes alien liberation and good-versus-evil conflicts as reflections of human mentality in a self-contained Matrix where friction may foster learning.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LOS SOBREROS BLANCOS - HERMANDAD DEL DRAGÓN BLANCO – YAZHI – SOPHIA SWARUU](https://swaruu.org/transcripts/los-sobreros-blancos-hermandad-del-dragon-blanco-yazhi-sophia-swaruu) (2022-12-05; es); passages p0004, p0005, p0007, p0008, p0009. [Structured record](../../records/src-d2f26274ed8a.json).
+
+### src-5a2bf7cc12f6-c01
+
+Yazhi says Earth-sized planets rarely retain natural moons; she regards the unusually large Earth Moon as artificial.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA TIERRA NO ES PROPICIA PARA TENER SATÉLITES NATURALES - Yazhi Swaruu](https://swaruu.org/transcripts/la-tierra-no-es-propicia-para-tener-satelites-naturales-yazhi-swaruu) (2023-03-03; es); passages p0027, p0029. [Structured record](../../records/src-5a2bf7cc12f6.json).
+
+### src-97d1cf163a44-c05
+
+Anéeka says mental control, rather than a specific gene deletion, limits abilities such as telepathy.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TENEMOS ADN EXTRATERRESTRE - CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/tenemos-adn-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-31; es); passages p0058, p0060, p0061. [Structured record](../../records/src-97d1cf163a44.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c05](black-goo.md#src-d47faace954b-c05) — Black goo
@@ -2131,8 +2229,15 @@ Related topics: [Energy generation technology](energy-generation.md).
 - Federation-policy\_claims\_attributed
 - High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- Mari Swaruu distinguishes physical pain, which she says ends, from psychological pain that may persist after death.
+- Metaphysical genetics and the 22-lineage account are attributed claims; the speaker calls the lab-origin explanation simplistic.
+- Pluto-Shiva-identification-attributed-to-Federation-records
+- Swaruu X explicitly rejects the interpretation that the Moon was placed primarily to imprison regressive races.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
 - Transcript combines several speakers and dates; claims preserve speaker attribution
+- Yazhi acknowledges some individuals may work in humanity’s favor but portrays White Hat organizations as part of the same structure.
+- Yazhi distinguishes her portal-technology claim, which does not require alignment, from alignment used in rituals.
+- Yazhi distinguishes individuals who may work for the public from organizations she says are part of the same power structure.
 - afterlife\_model
 - agency\_and\_noninterference
 - agenda21-assertion
@@ -2194,6 +2299,7 @@ Related topics: [Energy generation technology](energy-generation.md).
 - federation-control-and-nonintervention-tension
 - federation-intentions-and-collective-choice-tension
 - federation-noninterference-tension
+- federation-policy-and-metaphysical-account
 - federation-purpose-vs-collective-choice-tension
 - federation-role-contradiction
 - federation-role-speaker-contrast
@@ -2222,6 +2328,7 @@ Related topics: [Energy generation technology](energy-generation.md).
 - metaphysical-claims-attributed
 - metaphysical-model\_attributed
 - moon-conspiracy-claims
+- nested-matrix-cosmology
 - nonhuman-human-boundary-claims
 - nonphysical-memory-mechanism-claims
 - nonstandard-biology-claims
@@ -2235,10 +2342,12 @@ Related topics: [Energy generation technology](energy-generation.md).
 - perspective-variation
 - planetary-reset-cycle-attributed
 - positronic-wave-source-disputed-with-alcyone-claims
+- quarantine-policy-vs-practice
 - reincarnation-and-catholic-control-claim
 - reincarnation-model-metaphysical
 - related\_series\_part
 - religion-personal-benefit-versus-social-harm
+- reported-UFO-community-allegation
 - reset-sequence-and-dating-unclear
 - same-language-counterpart:src-cb51273860c3-wording-diff-agresivos
 - satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified

@@ -202,6 +202,82 @@ Attributed to **Anéeka**; reported; extraction confidence: high.
 
 Source: [Ataque a una Nave Centauri - Armas - Aneeka de Temmer Explica el Incidente](https://swaruu.org/transcripts/ataque-a-una-nave-centauri-armas-aneeka-de-temmer-explica-el-incidente) (2022-03-03; es); passages p0008, p0015. [Structured record](../../records/src-53d3d8f6b1c3.json).
 
+### src-756b0758c451-c01
+
+Yazhi says Toleka-class ships can open large hangar panels to space while shields maintain onboard air and 1.2-bar pressure. She identifies the shields as the primary source of pressurization.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [MUJERES EXTRATERRESTRES ME HABLAN DE LA TIERRA SU NAVE Y DE MAS COSAS - Sophia Swaruu - Aneeka](https://swaruu.org/transcripts/mujeres-extraterrestres-me-hablan-de-la-tierra-su-nave-y-de-mas-cosas-sophia-swaruu-aneeka) (2022-09-22; es); passages p0007, p0013. [Structured record](../../records/src-756b0758c451.json).
+
+Related topics: [Harmonic shields](harmonic-shields.md).
+
+### src-756b0758c451-c02
+
+Anéeka says the fleet includes nine Toleka heavy cruisers and nine Sadicleya light cruisers built at one-third their size. Anéeka says Rashell ordered a flat top on Ritol so it could carry another large ship.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [MUJERES EXTRATERRESTRES ME HABLAN DE LA TIERRA SU NAVE Y DE MAS COSAS - Sophia Swaruu - Aneeka](https://swaruu.org/transcripts/mujeres-extraterrestres-me-hablan-de-la-tierra-su-nave-y-de-mas-cosas-sophia-swaruu-aneeka) (2022-09-22; es); passages p0018, p0022. [Structured record](../../records/src-756b0758c451.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-8ec5d64a368a-c01
+
+Anéeka described Toleka as a 1,734-meter heavy cruiser, the fleet flagship and queen’s yacht, designed for 1,800 crew and calculated as built in 1935.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 1 - Toleka - Nave Estelar de Taygeta (Pleyades)](https://swaruu.org/transcripts/vida-interestelar-1-toleka-nave-estelar-de-taygeta-pleyades) (2023-02-25; es); passages p0015, p0205, p0209, p0210, p0212, p0215. [Structured record](../../records/src-8ec5d64a368a.json).
+
+### src-8ec5d64a368a-c02
+
+Anéeka said Toleka has modular interiors whose prefabricated sections can be rearranged for different missions.
+
+Attributed to **Anéeka**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 1 - Toleka - Nave Estelar de Taygeta (Pleyades)](https://swaruu.org/transcripts/vida-interestelar-1-toleka-nave-estelar-de-taygeta-pleyades) (2023-02-25; es); passages p0007, p0032, p0228. [Structured record](../../records/src-8ec5d64a368a.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-dcfd5493c3df-c01
+
+Mari described the Toleka as a 1,734-meter former battle cruiser converted into a multipurpose deep-space yacht, with about 30 people aboard instead of its original 1,800.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Yazhi y el juego de niños](https://swaruu.org/transcripts/yazhi-y-el-juego-de-ninos) (2023-01-02; es); passages p0003, p0004. [Structured record](../../records/src-dcfd5493c3df.json).
+
+### src-0507724a6bee-c01
+
+Mari says she uses Minecraft to show parts of the 1,734-meter Toleka because direct images would violate the First Directive. She says Taygetans permit only selected areas because the model contains sensitive ship details.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Porqué Minecraft, Área de albercas y Jardín Central](https://swaruu.org/transcripts/porque-minecraft-area-de-albercas-y-jardin-central) (2023-01-28; es); passages p0004, p0005, p0014, p0015. [Structured record](../../records/src-0507724a6bee.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-0507724a6bee-c02
+
+Seven crew members built the Minecraft Toleka over several months as a playable, detailed model.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Porqué Minecraft, Área de albercas y Jardín Central](https://swaruu.org/transcripts/porque-minecraft-area-de-albercas-y-jardin-central) (2023-01-28; es); passages p0010, p0013, p0016. [Structured record](../../records/src-0507724a6bee.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-0507724a6bee-c03
+
+The Toleka’s lower habitable deck includes spa, gym, pool, and dance spaces; handholds assist movement if artificial gravity fails.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Porqué Minecraft, Área de albercas y Jardín Central](https://swaruu.org/transcripts/porque-minecraft-area-de-albercas-y-jardin-central) (2023-01-28; es); passages p0019, p0020, p0023. [Structured record](../../records/src-0507724a6bee.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation
@@ -215,6 +291,8 @@ Source: [Ataque a una Nave Centauri - Armas - Aneeka de Temmer Explica el Incide
 - [src-9d6224eacf32-c01](taygetans.md#src-9d6224eacf32-c01) — Taygetans
 - [src-d328a6c23916-c03](ship-internal-time.md#src-d328a6c23916-c03) — Ship internal time
 - [src-74cf1c7706e3-c04](ship-internal-time.md#src-74cf1c7706e3-c04) — Ship internal time
+- [src-2e44af6cf865-c03](taygetan-ecosystems.md#src-2e44af6cf865-c03) — Taygetan ecosystems
+- [src-5cc044e9f243-c02](taygetan-first-contact-project.md#src-5cc044e9f243-c02) — Taygetan First Contact Project
 
 ## Review flags
 
@@ -222,16 +300,21 @@ Source: [Ataque a una Nave Centauri - Armas - Aneeka de Temmer Explica el Incide
 - Alenym-retirement-not-decided
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
+- Past-life memories are claims reported by Mari, not independently verified.
 - The alleged strike and factional attribution are unverified within the source
+- The ship’s layout and current equipment are described at different dates and may have changed.
 - Travel-time figures are speaker-provided examples and depend on vessel and route
 - cataclysm-history-attributed
 - conspiratorial-claims
 - fleet-status\_as-reported
+- food-claims-context
 - identity-uncertainty
 - narrator\_claims
 - near-duplicate:src-d328a6c23916
 - online-AI-control-conspiracy-claims
+- project-dates-reported-with-variant
 - serious\_allegations\_attributed
+- speaker-labels-preserved
 - succession-report\_attributed
 - succession-rules\_attributed
 - translation-equivalence-unverified

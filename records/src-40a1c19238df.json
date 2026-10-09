@@ -1,0 +1,88 @@
+{
+  "source_id": "src-40a1c19238df",
+  "snapshot_sha256": "e3659a4a577e93eb918ad38bbcd79d937066bd7f1799c03767cfb660226e549f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-40a1c19238df-c01",
+      "assertion": "Anéeka describes rapid tractor-beam extraction or a consensual pickup at a prearranged, discreet site.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0010"
+      ],
+      "primary_topic": "alien-abduction-practices",
+      "topics": [
+        "alien-abduction-practices"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-40a1c19238df-c02",
+      "assertion": "She says candidates must be mentally ready and have no real dependents unless those people agree; protocols vary by individual.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0042",
+        "p0044",
+        "p0046",
+        "p0056"
+      ],
+      "primary_topic": "alien-abduction-practices",
+      "topics": [
+        "alien-abduction-practices"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-40a1c19238df-c03",
+      "assertion": "She says arrivals receive onboard supervision and adapt gradually; biological changes may take about seven years.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0024",
+        "p0028",
+        "p0029",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "alien-abduction-practices",
+      "topics": [
+        "alien-abduction-practices"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-40a1c19238df-c04",
+      "assertion": "For immersion participants, she says the usual outcome is waking in their home pod after Earth life ends; traditional extraction is possible but creates a difficult dual-body state.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0039",
+        "p0040",
+        "p0042"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Anéeka frames extraction as individually negotiated and says a fixed protocol does not apply."
+  ],
+  "coverage_gaps": [
+    "extraction transport craft details",
+    "post-extraction contact restrictions",
+    "long-term offworld age and psychological adjustment"
+  ]
+}

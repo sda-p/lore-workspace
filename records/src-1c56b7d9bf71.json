@@ -1,0 +1,68 @@
+{
+  "source_id": "src-1c56b7d9bf71",
+  "snapshot_sha256": "a3e1bfedcbc241b5228851e693f4726b9225a1781af817661b9f71f8f417d84d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1c56b7d9bf71-c01",
+      "assertion": "Anéeka said entering 3D reduces a being from 24 chromosomes and 12 DNA strands to 23 chromosomes and two strands, attributing this to density simplification.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0016"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "human-biosuit-model"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said consciousness drives this change."
+    },
+    {
+      "id": "src-1c56b7d9bf71-c02",
+      "assertion": "Yazhi called the genetic change adaptation rather than degradation; she said a Taygetan Step Down’s brain and organs do not transform, and children with humans may be human.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "human-biosuit-model",
+      "topics": [
+        "human-biosuit-model",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c56b7d9bf71-c03",
+      "assertion": "Yazhi said a strong extraterrestrial mindset sustains DNA; becoming Matrix is needed for genetic change, while space exposure can activate DNA by disrupting Earth’s mental agreements.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "human-biosuit-model",
+      "topics": [
+        "human-biosuit-model",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Chromosome and DNA claims are attributed to Anéeka and Yazhi."
+  ],
+  "coverage_gaps": [
+    "Her discussion of temporal present and changing interpretations of past"
+  ]
+}

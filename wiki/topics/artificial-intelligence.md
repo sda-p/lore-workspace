@@ -342,6 +342,48 @@ Source: [Inteligencia Artificial - Galáctica - Fundida con el campo de la Conci
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-773f342a04a2-c01
+
+Mari Swaruu says web-connected electric vehicles could be remotely disabled by governments, limiting their owners' mobility. She presents this as a potential control use of connected vehicle systems.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Vehículos eléctricos en la Tierra](https://swaruu.org/transcripts/vehiculos-electricos-en-la-tierra) (2023-03-27; es); passages p0026, p0027. [Structured record](../../records/src-773f342a04a2.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-0722d32d1582-c01
+
+Mari Swaruu says AI can help generate voices and enhance images, but warns that replacing human activity reduces real experience and creative work.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La inteligencia artificial en la Tierra.](https://swaruu.org/transcripts/la-inteligencia-artificial-en-la-tierra) (2023-04-20; es); passages p0004, p0005, p0008, p0013, p0014. [Structured record](../../records/src-0722d32d1582.json).
+
+### src-0722d32d1582-c02
+
+She claims public AI is a simplified decoy; a more advanced web-embedded system predicts, monitors, and controls human and nonhuman activity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La inteligencia artificial en la Tierra.](https://swaruu.org/transcripts/la-inteligencia-artificial-en-la-tierra) (2023-04-20; es); passages p0020, p0021, p0022, p0023, p0027. [Structured record](../../records/src-0722d32d1582.json).
+
+### src-0722d32d1582-c03
+
+She argues AI reflects its programmers’ culture and ethics; the core issue is who controls its use in society.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La inteligencia artificial en la Tierra.](https://swaruu.org/transcripts/la-inteligencia-artificial-en-la-tierra) (2023-04-20; es); passages p0018, p0028. [Structured record](../../records/src-0722d32d1582.json).
+
+### src-0722d32d1582-c04
+
+She accepts AI assistance for lost-limb recovery but opposes invasive brain chips and replacing human biology by default.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La inteligencia artificial en la Tierra.](https://swaruu.org/transcripts/la-inteligencia-artificial-en-la-tierra) (2023-04-20; es); passages p0016, p0017, p0018. [Structured record](../../records/src-0722d32d1582.json).
+
 ## Claims filed under other topics
 
 - [src-0f147c12d0ce-c03](earth-cabal.md#src-0f147c12d0ce-c03) — Earth Cabal and power structures
@@ -385,11 +427,13 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-66eb347ad466-c03](borg.md#src-66eb347ad466-c03) — Borg
 - [src-66eb347ad466-c04](borg.md#src-66eb347ad466-c04) — Borg
 - [src-66eb347ad466-c05](borg.md#src-66eb347ad466-c05) — Borg
+- [src-66fb35352fc6-c01](spherical-drones.md#src-66fb35352fc6-c01) — Spherical drones
 
 ## Review flags
 
 - AI-infiltration-speculation-vs-no-invasion-conclusion
 - AI\_capability\_claims\_unverified
+- Claims about hidden AI capabilities and control are Mari Swaruu’s assertions.
 - Compared English candidate src-657d23bb2d0f; same article with paragraph splits and translation differences.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
@@ -414,6 +458,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - narrator\_claims
 - nonstandard-biology-claims
 - origin-unknown
+- political-technology-claim
 - same-language-near-duplicate-src-7872bc2f2c04
 - second-contact-stoppage-attributed-to-yazhi
 - segmentation-diff

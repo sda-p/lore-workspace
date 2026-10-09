@@ -1,0 +1,75 @@
+{
+  "source_id": "src-cdc082ef32a2",
+  "snapshot_sha256": "040006dd0f59e1ef38bfb12c9ade4959ca318fe2ec9129a287d4b9615660dae2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cdc082ef32a2-c01",
+      "assertion": "Athena says twins share an origin but become distinct souls through different life experiences; an “old soul” means wisdom gained, not many incarnations.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdc082ef32a2-c02",
+      "assertion": "Yazhi says memory is not bodily; reduced Source connection on Earth creates a forgetting veil and separate ego identity.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cdc082ef32a2-c03",
+      "assertion": "Athena says partners are not predetermined; compatibility and mutual adjustment matter. If fragments want one partner, the closer frequency match prevails and the other withdraws.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0034",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "soulmates",
+      "topics": [
+        "soulmates",
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source combines separate April 2021 and 2023 excerpts; speakers are attributed by passage."
+  ],
+  "coverage_gaps": [
+    "Definitions of new souls and first Earth incarnation",
+    "Conscious versus subconscious memory and the forgetting process"
+  ]
+}

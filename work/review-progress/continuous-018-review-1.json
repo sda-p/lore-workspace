@@ -1,6 +1,6 @@
 {
   "status": "partial-not-approval",
-  "checkpointed_at": "2026-10-08T17:57:14+00:00",
+  "checkpointed_at": "2026-10-09T01:21:48+00:00",
   "resume_policy": "Reuse only after matching assigned IDs, release markers, retained source hashes and these record hashes. Re-review changed records. Final cohort reports remain required.",
   "review_state": {
     "batch_id": "continuous-018",
@@ -14,7 +14,53 @@
       "src-d9bbb3c4038b",
       "src-fb36af989f4a",
       "src-86a4669c182d",
-      "src-b11e21360ce7"
+      "src-b11e21360ce7",
+      "src-024defbdba5d",
+      "src-06cd5c8d1a9d",
+      "src-3163ad7ea9b7",
+      "src-3e6bb19f0b7f",
+      "src-0aac3dd46daa",
+      "src-2b5e44407f31",
+      "src-45654a10b21a",
+      "src-5d9ef87c7059",
+      "src-6666d1d0f467",
+      "src-e48edb1223b1",
+      "src-eb3d807278aa",
+      "src-6f4abd2348fc",
+      "src-a58e748ec5c5",
+      "src-bfdd0f4cda51",
+      "src-6f1a8a7d6452",
+      "src-79f4ea058b24",
+      "src-ebaafb2f5974",
+      "src-ab60202e760e",
+      "src-1b58a21e9def",
+      "src-5699fcba6376",
+      "src-c770aad74bc9",
+      "src-e0d85326bb47",
+      "src-6d5ee8028d87",
+      "src-7b4f6bfe2d36",
+      "src-9d5a0a649d33",
+      "src-ea66ccbb5872",
+      "src-d899310fae70",
+      "src-79a34eaa59b0",
+      "src-06b35bd6dc5f",
+      "src-0c64b4d8967b",
+      "src-ac04705c7e8d",
+      "src-aaf321b17830",
+      "src-a69d54a0580b",
+      "src-64deed76c0cf",
+      "src-429d15872426",
+      "src-7fecc6636778",
+      "src-71cb5bec1f23",
+      "src-39d2bef39243",
+      "src-d6433743ab20",
+      "src-e285065c4098",
+      "src-7ab85bafab6b",
+      "src-cdc082ef32a2",
+      "src-8c52d17e6496",
+      "src-e10c7ec1d27f",
+      "src-52a4911db286",
+      "src-2e200138040b"
     ],
     "corrections": [
       {
@@ -25,6 +71,80 @@
         "paragraph_ids": [
           "p0022",
           "p0023"
+        ]
+      },
+      {
+        "source_id": "src-024defbdba5d",
+        "claim_id": "src-024defbdba5d-c03",
+        "problem": "The claim is attributed to Gosia but one cited passage (p0022) is Yazhi’s separate response.",
+        "action": "Removed p0022 so the attribution rests only on Gosia’s own statement in p0020.",
+        "paragraph_ids": [
+          "p0020"
+        ]
+      },
+      {
+        "source_id": "src-1b58a21e9def",
+        "claim_id": "src-1b58a21e9def-c02",
+        "problem": "The cited p0027 is a bare confirmation and omits the speaker’s question stating the origin/destination frequency premise.",
+        "action": "Added p0026 so the affirmed frequency-matching claim has its full question-and-answer context.",
+        "paragraph_ids": [
+          "p0026",
+          "p0027"
+        ]
+      },
+      {
+        "source_id": "src-d899310fae70",
+        "claim_id": "src-d899310fae70-c02",
+        "problem": "p0014 is the interviewer’s question and not evidence for Athena’s answer.",
+        "action": "Removed the question, retaining Athena’s response and caveat passages.",
+        "paragraph_ids": [
+          "p0007",
+          "p0015"
+        ]
+      },
+      {
+        "source_id": "src-79a34eaa59b0",
+        "claim_id": "src-79a34eaa59b0-c02",
+        "problem": "p0014 concerns Federation complicity, which is outside this claim, and is a response to p0013.",
+        "action": "Removed the unrelated passage; the reported claim and explicit uncertainty are directly supported by p0012.",
+        "paragraph_ids": [
+          "p0012"
+        ]
+      },
+      {
+        "source_id": "src-06b35bd6dc5f",
+        "claim_id": "src-06b35bd6dc5f-c02",
+        "problem": "The qualifier about fabricated accounts was supported by an unlisted passage.",
+        "action": "Added the passage where Mari acknowledges numerous lies and invented stories.",
+        "paragraph_ids": [
+          "p0022"
+        ]
+      },
+      {
+        "source_id": "src-a69d54a0580b",
+        "claim_id": "src-a69d54a0580b-c02",
+        "problem": "The qualifier that the Gardeners’ actions may frighten abductees was not cited.",
+        "action": "Added the passage explaining they may frighten subjects despite beneficial intent.",
+        "paragraph_ids": [
+          "p0012"
+        ]
+      },
+      {
+        "source_id": "src-e285065c4098",
+        "claim_id": "src-e285065c4098-c03",
+        "problem": "The lunar frequency link is framed tentatively (“parece o hay evidencia que sugiere”), but was marked asserted.",
+        "action": "Changed modality to speculative to preserve the source’s uncertainty.",
+        "paragraph_ids": [
+          "p0050"
+        ]
+      },
+      {
+        "source_id": "src-7ab85bafab6b",
+        "claim_id": "src-7ab85bafab6b-c03",
+        "problem": "The lunar frequency link is framed tentatively (“parece o hay evidencia que sugiere”), but was marked asserted.",
+        "action": "Changed modality to speculative to preserve the source’s uncertainty.",
+        "paragraph_ids": [
+          "p0049"
         ]
       }
     ],
@@ -39,6 +159,52 @@
     "src-d9bbb3c4038b": "49a8d8e2c60bc1085986598fd0119242573fde21bf5d3c8810a98a14fa858f09",
     "src-fb36af989f4a": "cfcf7d9697ce60da8ffdf634b466cdca2201696bcb528a0d79d545aa09f0ec43",
     "src-86a4669c182d": "3986c0d678f492a10efa4fa601298bca3d63fdaebab7246c7c18782d907d65be",
-    "src-b11e21360ce7": "1f32ed7bea28bb7c7b3f269bff94d9aadea0c5110766904471efab9d503f7594"
+    "src-b11e21360ce7": "1f32ed7bea28bb7c7b3f269bff94d9aadea0c5110766904471efab9d503f7594",
+    "src-024defbdba5d": "78f850f5153bf2b6dd65810fa8d8a4ed27e4a8055cb9135f6eeb7b629916ff5b",
+    "src-06cd5c8d1a9d": "32074c880089e898e6ee40a68e5c54cc20ca6ed60dbb9c353f437897df124a2e",
+    "src-3163ad7ea9b7": "b800348bce3afebe8b5a9c41b16feea3a64b934a65e73587ff3d1012002f5db7",
+    "src-3e6bb19f0b7f": "e3b22714735e812899d34cad306035c226f43caa6a27655bb79d8aefbe89af88",
+    "src-0aac3dd46daa": "0c9cd0060e15fa351614777c8f0d969bb2e8ba1faaa0b1b9c481d81d76f90fdc",
+    "src-2b5e44407f31": "e87a19d27b755391cad4abd57627ea1fc32f465bb7d058bc05fbb1425c103091",
+    "src-45654a10b21a": "2226970f7af6530f99c07345334ecdcecfa23587b7a74c1c4b9515b682d51f7a",
+    "src-5d9ef87c7059": "b8329c5dff0bf519596835b26db28311ccd8557278b979e0a57d7cb17668397a",
+    "src-6666d1d0f467": "0cef25a06c681efd0da016beb5a7a4a85cf1fe14a3eca6b49befa34812b0855d",
+    "src-e48edb1223b1": "d5860303ecf2b068cff273bc83c8b09270e558eef971dda9c829653c69cac109",
+    "src-eb3d807278aa": "d00ce7ff2faed2613d1d495a7a28e04744833ec607a50283810f5cb579421d73",
+    "src-6f4abd2348fc": "86098af1980b9199b7526910e65e967f363f92968ee3c4d241b0cfeeb002c719",
+    "src-a58e748ec5c5": "1f2f120ee8b441ff4b330b9b7106ac959162d44c42f68966e6819eb997f7f618",
+    "src-bfdd0f4cda51": "4035fdae34bdd7d1624823da104bf0dad23722b040a2b369681fb52c44db2cd3",
+    "src-6f1a8a7d6452": "f10e86d36206ef29fda8add1715828ac8ab2b88e82e071d1f1d24ad106263145",
+    "src-79f4ea058b24": "a2b8f5c8326fcd86fce873c0e37b0312aaa5c50bd56187bf136bd50f4f2fb628",
+    "src-ebaafb2f5974": "b6a667d3fa6b834436db89e5425ac87d5a214002f1d8dc08dda7adaa11763c54",
+    "src-ab60202e760e": "3a48d98ded0954286745dabe9ebc802ca14c7adb5df1f411c23c55c6bd9c548e",
+    "src-1b58a21e9def": "b6c6ceb9755a669ef60bdcd13011ea9cd5a751e0447f73d5c35c921b4779a781",
+    "src-5699fcba6376": "abe3f4963ce097ea77120e016e1f1cdbd66fb4f120be26ff523ce8b57ab18081",
+    "src-c770aad74bc9": "b17f098be82358f4ceccd4f100e1df0cc592ac754eb6accac99fd3c549a8d7a1",
+    "src-e0d85326bb47": "82ac609393639f0f2a7c826fc398ce6558b54c512367480a260be4fb0c172a2c",
+    "src-6d5ee8028d87": "67106c1a48a7b059d1cb25f2cc9ea7232179140fb6186e49825b10d16b4b9c66",
+    "src-7b4f6bfe2d36": "e097cf3db6522a8e63bbadcdb3b130b57d5b56fbeee8f05bd1890b9d8bd574e9",
+    "src-9d5a0a649d33": "2ad6665a15919e1537e1f97bb7589ccd461c826c0b169f8ab72e9179ee2c9397",
+    "src-ea66ccbb5872": "98ea3573d748a0fcd53e8dd5c3445d41049dd72a28442b095b284d2b8fc6dc42",
+    "src-d899310fae70": "d22b10786bd1a6ad2850939a2ac9475e5f40d629bc311bb4a555313c4cd17813",
+    "src-79a34eaa59b0": "f77726391cab73a2bd78908a92df304338fcd83fdcbfd5d628be8061d1468cbe",
+    "src-06b35bd6dc5f": "7ce7b4fdb563aa24d30522371173d112b6c98f5de3d6318353b8465a7be615ff",
+    "src-0c64b4d8967b": "4b36254206199a65d612deecf0e9e92e94b1568ca4825b7d5aaa4efd8265319a",
+    "src-ac04705c7e8d": "7c7c1c41b4a7a3534998be51a843b31d082a10a533392c82dd3aad458bff3702",
+    "src-aaf321b17830": "1293bc4d5c72600f8002b3cbceab4aa7d47b8fc85e40afbcff731fd7ca2bd921",
+    "src-a69d54a0580b": "ab5f6a7429e02d75ffe19101d903dee9a8adc41931bac70e15e67e9e67a7bceb",
+    "src-64deed76c0cf": "88e8ddaf740bfdd0b97dae6a5e898512f6c91ae9031c2c3255bbe8ddbee4c61c",
+    "src-429d15872426": "36a875e29612c7aaba14981dd4cb2a344a92be93944e0fe0da5a7ef13bced454",
+    "src-7fecc6636778": "24ef141c67f86cd3cfa3977893502cc27e6319300fedb633243d880c0ed58317",
+    "src-71cb5bec1f23": "c20cc4dbb2f763792405e106fe21e8dd7955998147205ab83f4accff4149608b",
+    "src-39d2bef39243": "fb9b990500480734fcdc29da0e604e602b6c363b585d86e8fcef6cd830881c21",
+    "src-d6433743ab20": "3975124c85e10b814a6352c33e52b809a94f01141fb47e768449919772738bed",
+    "src-e285065c4098": "eaeb5a7800aa54519da703ae0240bc9588534170232295e6a7eda31c8be8fd6b",
+    "src-7ab85bafab6b": "3d93089dd66d9c0187333829f50890aeabbddd5a6840363a27246edb8cb29287",
+    "src-cdc082ef32a2": "55dce1b13691e8434f939acb773a5d5b299f4ea679f6b5d7f087eb978ca4c7a7",
+    "src-8c52d17e6496": "6222b0c50830cf938ac633ece9df0da4a6387c9cd96f6b6a454356d30c45ede3",
+    "src-e10c7ec1d27f": "5189dde05a97e662d862eaeee9a0724b45e857c36aa875946749730e897f5840",
+    "src-52a4911db286": "19c0d6d52a0a830696256e90a679c4d7e1f8201f64e8e8bfcea2c94c45cb1e37",
+    "src-2e200138040b": "8d89727a331bc2d0a47d354d0b83743863cc10c5cf54843050b5c317c58ade5d"
   }
 }

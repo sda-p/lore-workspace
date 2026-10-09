@@ -1,0 +1,78 @@
+{
+  "source_id": "src-79a34eaa59b0",
+  "snapshot_sha256": "47e68500f2bf1e534966d001bbeef358e115fff29d3ee5884cfe102f2475bb0c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-79a34eaa59b0-c01",
+      "assertion": "Yazhi alleges the Federation imposes false Earth history in its records, since it controls Earth.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-79a34eaa59b0-c02",
+      "assertion": "Yazhi says the Federation created Earth culture as an experience for souls; she suspects humans are food for nonhumans, without proof.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0012"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-79a34eaa59b0-c03",
+      "assertion": "Yazhi says mismatched temporal calculations prove to her that Earth’s historical chronology is falsified.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-79a34eaa59b0-c04",
+      "assertion": "Yazhi says falsification of other planets’ histories remains unverified; separate planetary timelines would make such manipulation harder.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Taygetan research activity",
+    "the cats’ parallel investigation"
+  ]
+}

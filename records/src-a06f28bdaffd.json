@@ -1,0 +1,43 @@
+{
+  "source_id": "src-a06f28bdaffd",
+  "snapshot_sha256": "7489051a88276449c7e739679b9f57662aefa70fa0abd60d637cd6ff082148e9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a06f28bdaffd-c01",
+      "assertion": "Mari describes Taygeteans as humanoid Lyrians and Swaruunianas as a genetically distinct, all-female Taygetan variant.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0004", "p0005"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "alien-species", "crystalline-dna"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She cites 24-strand DNA and 24 chromosomes for Swaruunianas."
+    },
+    {
+      "id": "src-a06f28bdaffd-c02",
+      "assertion": "She says Taygetan expedition members began a human Internet first-contact program in 2016, seeking person-to-person communication and friendship.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0006"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The account says hundreds would participate."
+    },
+    {
+      "id": "src-a06f28bdaffd-c03",
+      "assertion": "Mari says this channel will publish Taygetan and Swaruunian conversations directly, without human interpreters' commentary.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0008", "p0009"],
+      "primary_topic": "taygetans",
+      "topics": ["taygetans", "alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She cites prior publishers' distortions and incomplete interpretations."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["ancient and modern cultural influence claim"]
+}

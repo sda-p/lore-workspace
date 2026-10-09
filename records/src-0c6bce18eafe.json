@@ -1,0 +1,87 @@
+{
+  "source_id": "src-0c6bce18eafe",
+  "snapshot_sha256": "5bdc4a745947a52752c9cc75b5a5a416aba1658984121f020035917aebb1a205",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0c6bce18eafe-c01",
+      "assertion": "Yazhi says DNA is a physical expression of consciousness, memory, and spiritual energy; activation involves memory and cellular processes.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009",
+        "p0040"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c6bce18eafe-c02",
+      "assertion": "She attributes partial DNA activation on Earth to collective human influence; leaving does not immediately sever these psychological ties.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0019",
+        "p0021",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c6bce18eafe-c03",
+      "assertion": "She says sufficient mental strength or an isolated, different environment can alter the effects of shared beliefs.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0024",
+        "p0026",
+        "p0030",
+        "p0033"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c6bce18eafe-c04",
+      "assertion": "She says ship computers use hull interferometers to sample local and onboard frequencies; gradual transitions let the Toleka reach Temmer in about seven hours.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The dialogue distinguishes an individual’s mental state from collective psychic influence; the author says effects are psychological, not physical."
+  ],
+  "coverage_gaps": [
+    "activation of telepathy and other abilities",
+    "DUMB simulation example",
+    "spiritual DNA distinction"
+  ]
+}

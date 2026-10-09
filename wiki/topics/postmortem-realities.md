@@ -1406,6 +1406,56 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [No hay Mundo Material - Parte 2 - Mundo de los Espiritus vs de los Vivos - Yazhi Swaruu](https://swaruu.org/transcripts/no-hay-mundo-material-parte-2-mundo-de-los-espiritus-vs-de-los-vivos-yazhi-swaruu) (2021-12-07; es); passages p0026, p0030, p0031. [Structured record](../../records/src-4ea4379f95bf.json).
 
+### src-320487aa2d60-c01
+
+Mari Swaruu describes a soul as a cluster of concepts held by consciousness; death dissolves body-based perceptual agreements and returns identity to the wider spiritual realm. She frames death as a return to the Source, not loss of identity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escapar de la matrix 3, tu cuerpo y la muerte.](https://swaruu.org/transcripts/escapar-de-la-matrix-3-tu-cuerpo-y-la-muerte) (2023-02-11; es); passages p0013, p0015, p0016, p0018. [Structured record](../../records/src-320487aa2d60.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-62d1807bede8-c03
+
+She says postmortem focus shapes experience: trauma or guilt may create a lower-astral state, but souls are not objectively trapped; ghosts may be echoes or time anomalies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Muerte y el Ego](https://swaruu.org/transcripts/la-muerte-y-el-ego) (2023-03-11; es); passages p0023, p0024, p0025, p0026. [Structured record](../../records/src-62d1807bede8.json).
+
+### src-34307f448bda-c02
+
+She says psychological pain can persist after death and suicide does not escape it; physical pain alone ends.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Por qué nadie puede escapar de la Matrix](https://swaruu.org/transcripts/por-que-nadie-puede-escapar-de-la-matrix) (2023-04-04; es); passages p0016, p0017, p0021. [Structured record](../../records/src-34307f448bda.json).
+
+### src-b96ee429d62e-c03
+
+She says consciousness survives death with ego identity intact; personal vibration shapes postmortem experience, and reincarnation remains possible.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No eres tu cuerpo por lo tanto eres inmortal. La memoria no está en el cuerpo](https://swaruu.org/transcripts/no-eres-tu-cuerpo-por-lo-tanto-eres-inmortal-la-memoria-no-esta-en-el-cuerpo) (2023-04-18; es); passages p0005, p0017, p0021, p0026. [Structured record](../../records/src-b96ee429d62e.json).
+
+### src-5396b3e5a9fd-c01
+
+Mari says physical negatives may be reinterpreted positively after death, while positives remain positive. She says interpretations vary; do not generalize.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Mismos eventos, distintos significados - Lado físico/espiritual](https://swaruu.org/transcripts/mismos-eventos-distintos-significados-lado-fisico-espiritual) (2023-03-08; es); passages p0003, p0005, p0006. [Structured record](../../records/src-5396b3e5a9fd.json).
+
+### src-e01eaa468a9c-c01
+
+Za’el says postmortem attention follows a person’s ideas; afterlife settings need not be fixed or shared.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [¿Adónde vamos después de la muerte?](https://swaruu.org/transcripts/adonde-vamos-despues-de-la-muerte) (2023-04-13; es); passages p0010, p0015, p0016. [Structured record](../../records/src-e01eaa468a9c.json).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c01](consciousness-metaphysics.md#src-331beeab2088-c01) — Consciousness and metaphysics
@@ -1444,6 +1494,9 @@ Source: [No hay Mundo Material - Parte 2 - Mundo de los Espiritus vs de los Vivo
 - [src-d5687a897b3a-c02](consciousness-metaphysics.md#src-d5687a897b3a-c02) — Consciousness and metaphysics
 - [src-9e56879471e5-c06](consciousness-metaphysics.md#src-9e56879471e5-c06) — Consciousness and metaphysics
 - [src-ba1c5a843ad1-c03](immersion-pods.md#src-ba1c5a843ad1-c03) — Immersion pods
+- [src-e01eaa468a9c-c02](consciousness-metaphysics.md#src-e01eaa468a9c-c02) — Consciousness and metaphysics
+- [src-e01eaa468a9c-c03](walk-in-phenomenon.md#src-e01eaa468a9c-c03) — Walk-in phenomenon
+- [src-e01eaa468a9c-c04](reincarnation-cycles.md#src-e01eaa468a9c-c04) — Reincarnation and karmic cycles
 
 ## Review flags
 
@@ -1451,7 +1504,11 @@ Source: [No hay Mundo Material - Parte 2 - Mundo de los Espiritus vs de los Vivo
 - Contradictory descriptions may be valid from different perspectives.
 - English source src-efce96683138 closely translates the full Spanish article; no substantive additions found.
 - Federation-arguments\_reported
+- Mari Swaruu distinguishes physical pain, which she says ends, from psychological pain that may persist after death.
+- Mari Swaruu presents different possible outcomes after death as depending on the individual’s perception and outlook.
 - Reincarnation is explicitly an assumed premise; psychic account is reported, while ethical critique is Mari’s
+- The author presents the memory-location and disease examples as metaphysical claims.
+- The transcript makes spiritual claims about death and reincarnation; they are attributed to Za’el and not verified.
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - Vaccine causation and medical claims omitted.
 - Yazhi frames these as a limited explanatory viewpoint.
@@ -1488,6 +1545,7 @@ Source: [No hay Mundo Material - Parte 2 - Mundo de los Espiritus vs de los Vivo
 - post-eclipse-causal-attribution
 - postmortem-consciousness-doctrine-attributed
 - postmortem-identity-ambiguity
+- postmortem-metaphysics
 - postmortem-perception-and-reincarnation-model
 - reincarnation-cosmology
 - related-starseed-material-overlap

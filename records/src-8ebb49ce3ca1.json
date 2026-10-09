@@ -1,0 +1,77 @@
+{
+  "source_id": "src-8ebb49ce3ca1",
+  "snapshot_sha256": "532f639e29a9080237e25055f009dcb10015d1e2590803d1b2bfd9d916789361",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8ebb49ce3ca1-c01",
+      "assertion": "Mari said karma can mean cause and effect, but she defined “living in karma” as obeying imposed rules in fear and guilt, surrendering personal judgment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0011",
+        "p0014"
+      ],
+      "primary_topic": "karma-and-dharma",
+      "topics": [
+        "karma-and-dharma",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ebb49ce3ca1-c02",
+      "assertion": "She defined dharma as living according to one’s authentic self with personal responsibility, saying ethical standards evolve with consciousness and knowledge.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "karma-and-dharma",
+      "topics": [
+        "karma-and-dharma",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ebb49ce3ca1-c03",
+      "assertion": "Mari argued that sustainable service to others requires responsible self-care and reciprocal cooperation, including among like-minded people living far apart.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "karma-and-dharma"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "karma-and-dharma",
+      "name": "Karma and dharma",
+      "kind": "spiritual concepts",
+      "aliases": [
+        "karma",
+        "dharma"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Her claim that personal manifestation changes the wider world"
+  ]
+}

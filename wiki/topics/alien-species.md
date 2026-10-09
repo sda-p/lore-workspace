@@ -3506,6 +3506,70 @@ Source: [NOTICIAS ESPACIALES - Programa Espacial Secreto](https://swaruu.org/tra
 
 Related topics: [Karistus](karistus.md), [Maitre](maitre.md).
 
+### src-e1a6716ab196-c01
+
+Yazhi describes species ranging from human-like Alfrateans to nonhuman Xenomorphs.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [EXTRATERRESTRES HIBRIDANDOSE CON HUMANOS - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestres-hibridandose-con-humanos-yazhi-swaruu) (2022-10-26; es); passages p0003. [Structured record](../../records/src-e1a6716ab196.json).
+
+### src-e1a6716ab196-c03
+
+Andromedans reportedly regard humans as genetically stable, adaptable and compatible with many souls and habitats.
+
+Attributed to **Yazhi (attributing assessment to Andromedans)**; reported; extraction confidence: medium.
+
+Source: [EXTRATERRESTRES HIBRIDANDOSE CON HUMANOS - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestres-hibridandose-con-humanos-yazhi-swaruu) (2022-10-26; es); passages p0016, p0018, p0019. [Structured record](../../records/src-e1a6716ab196.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-e1a6716ab196-c04
+
+She rejects Grey-human future ancestry and says Greys are biologically distinct from humans.
+
+Attributed to **Yazhi**; asserted; extraction confidence: medium.
+
+Source: [EXTRATERRESTRES HIBRIDANDOSE CON HUMANOS - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestres-hibridandose-con-humanos-yazhi-swaruu) (2022-10-26; es); passages p0036, p0039, p0042, p0045. [Structured record](../../records/src-e1a6716ab196.json).
+
+### src-f9515d45df63-c01
+
+Mari says the Taygeteans found no unusual nearby spacecraft activity and attributed reported UFO events to human activity. She says Andromedans monitor nearby ships.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Sobre todo el rumor de ovnis en los medios](https://swaruu.org/transcripts/sobre-todo-el-rumor-de-ovnis-en-los-medios) (2023-02-16; es); passages p0004, p0005, p0006. [Structured record](../../records/src-f9515d45df63.json).
+
+Related topics: [False alien invasion scenarios](false-alien-invasion.md).
+
+### src-8c403e396292-c02
+
+She said human-looking offworld visitors can blend into populations and go unrecognized because they do not match popular alien stereotypes. She said Latin-looking visitors were numerous.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA RAZA NEGRA Y LAS FOTOS QUE NO DEBERIAN EXISTIR DE LA ESFINGE DE GIZA -Yazhi Swaruu](https://swaruu.org/transcripts/la-raza-negra-y-las-fotos-que-no-deberian-existir-de-la-esfinge-de-giza-yazhi-swaruu) (2022-11-04; es); passages p0025, p0027. [Structured record](../../records/src-8c403e396292.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-a688a6bed26b-c01
+
+Yazhi says “Anunnaki” refers to multiple groups, not one species or only Reptilians. Her interpretation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Anunnaki - Quienes son realmente? Perspectiva Extraterrestre](https://swaruu.org/transcripts/anunnaki-quienes-son-realmente-perspectiva-extraterrestre) (2023-03-09; es); passages p0004, p0005. [Structured record](../../records/src-a688a6bed26b.json).
+
+### src-a688a6bed26b-c03
+
+Athena defines Anunnaki broadly as those who came to Earth and seeded knowledge, including Taygetans. Her group’s definition.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Anunnaki - Quienes son realmente? Perspectiva Extraterrestre](https://swaruu.org/transcripts/anunnaki-quienes-son-realmente-perspectiva-extraterrestre) (2023-03-09; es); passages p0010, p0011. [Structured record](../../records/src-a688a6bed26b.json).
+
+Related topics: [Taygetans](taygetans.md).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c03](galactic-federation.md#src-239a41640463-c03) — Galactic Federation
@@ -3744,6 +3808,14 @@ Related topics: [Karistus](karistus.md), [Maitre](maitre.md).
 - [src-85df30bab80f-c04](holistic-society.md#src-85df30bab80f-c04) — Holistic society
 - [src-65e909f41f9a-c04](consciousness-metaphysics.md#src-65e909f41f9a-c04) — Consciousness and metaphysics
 - [src-5e5e29eb902e-c01](taygetans.md#src-5e5e29eb902e-c01) — Taygetans
+- [src-f344c5152e16-c01](cultivated-meat.md#src-f344c5152e16-c01) — Cultivated meat
+- [src-f344c5152e16-c03](kingu.md#src-f344c5152e16-c03) — Kingu
+- [src-f344c5152e16-c04](kingu.md#src-f344c5152e16-c04) — Kingu
+- [src-8888db924950-c02](earth-cabal.md#src-8888db924950-c02) — Earth Cabal and power structures
+- [src-a06f28bdaffd-c01](taygetans.md#src-a06f28bdaffd-c01) — Taygetans
+- [src-a06f28bdaffd-c02](taygetans.md#src-a06f28bdaffd-c02) — Taygetans
+- [src-a06f28bdaffd-c03](taygetans.md#src-a06f28bdaffd-c03) — Taygetans
+- [src-a688a6bed26b-c02](taygetans.md#src-a688a6bed26b-c02) — Taygetans
 
 ## Review flags
 
@@ -3756,10 +3828,12 @@ Related topics: [Karistus](karistus.md), [Maitre](maitre.md).
 - Billy\_Meier\_photo\_authenticity\_uncertain
 - Collision account is Mari’s later interpretation; she says the initial fault assignment was incomplete
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
+- Contains extraordinary extraterrestrial and historical claims; attribute to speakers, not verified history.
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Genetic and chromosome claims are attributed fictional-world assertions
+- Grey-ancestry-uncertainty
 - Higher-level free-will explanation is challenged by Gosia
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Maitre\_relationship\_with\_Reptilians
@@ -3767,6 +3841,7 @@ Related topics: [Karistus](karistus.md), [Maitre](maitre.md).
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Proposed intervention remains conditional and internally qualified
+- Racial and archaeological claims are attributed to Yazhi and are not established findings.
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - Species summaries are broad and based on accounts attributed to orbital sources
@@ -3911,6 +3986,7 @@ Related topics: [Karistus](karistus.md), [Maitre](maitre.md).
 - matrix\_scope
 - medical-claims-unverified
 - medical-conspiracy-claims
+- medical-diet-claims
 - medical-misinformation-claims
 - medical\_claims
 - medical\_claims\_omitted
@@ -3921,6 +3997,7 @@ Related topics: [Karistus](karistus.md), [Maitre](maitre.md).
 - metaphysical\_worldview
 - meteorite\_claim\_omitted
 - miranda-no-bases-versus-other-moon-bases
+- multi-speaker-source
 - multiple-lyrian-origin-traditions
 - multiple\_futures\_claim
 - name-variant-review
@@ -3984,6 +4061,7 @@ Related topics: [Karistus](karistus.md), [Maitre](maitre.md).
 - species-taxonomy-contradiction
 - species-threat-description
 - species-trait-generalizations-attributed
+- species-variation-within-reptilians
 - species\_specific\_reproduction
 - speculative-biology-and-blood-group-claims
 - starlink-observation-scope-ambiguity
@@ -4023,4 +4101,5 @@ Related topics: [Karistus](karistus.md), [Maitre](maitre.md).
 - warrior\_symbolism
 - wartime-conspiracy-claims
 - weather\_claims
+- worldview-claims-attributed-to-Mari
 - wreck-origin\_uncertain

@@ -1,0 +1,221 @@
+{
+  "batch_id": "continuous-017",
+  "reviewer": 1,
+  "reviewed_source_ids": [
+    "src-0a8abe9de1b2",
+    "src-0c79139fd20c",
+    "src-0eb13f79d3c3",
+    "src-2e44af6cf865",
+    "src-320487aa2d60",
+    "src-509a0d643adf",
+    "src-607024b7b198",
+    "src-690730c29818",
+    "src-756b0758c451",
+    "src-75919d9e49b8",
+    "src-773f342a04a2",
+    "src-8035db074017",
+    "src-828dc82b2ca2",
+    "src-940c7e2fa72b",
+    "src-9d897870bbf8",
+    "src-b01e12100c02",
+    "src-b154bcb601b1",
+    "src-b313da868dad",
+    "src-b5be7120aaf2",
+    "src-b6f00e97482c",
+    "src-c3edb79b5f6c",
+    "src-e296ebcd3f46",
+    "src-e30d1897bec1",
+    "src-f10960087bcd",
+    "src-f135e721d9ac",
+    "src-f3083d830387",
+    "src-fc83e68676a4",
+    "src-85324cf8988c",
+    "src-be4d6a42f7c2",
+    "src-e1a6716ab196",
+    "src-7518b246ebb6",
+    "src-651f2f5ca73c",
+    "src-1e383a05d9f2",
+    "src-a1853102a8f0",
+    "src-ce97d34c532b",
+    "src-bc05542885cf",
+    "src-1499197325d7",
+    "src-2be77fc03489",
+    "src-62d1807bede8",
+    "src-7951d6bf342c",
+    "src-d8bc3b414a4c",
+    "src-7d76d15d2444",
+    "src-ab88a977b658",
+    "src-0722d32d1582",
+    "src-a72352046ce4",
+    "src-e46783afa12c",
+    "src-f994e07a2582",
+    "src-0c6bce18eafe",
+    "src-97d1cf163a44",
+    "src-cadb5ca8cdb8",
+    "src-d2f26274ed8a",
+    "src-5b26b34d728c",
+    "src-b48ede308895",
+    "src-c1b49a077026",
+    "src-eba1fa9a8f38",
+    "src-4adf86e67a88",
+    "src-393a848bb064",
+    "src-5396b3e5a9fd",
+    "src-04de255f76ef",
+    "src-f5165a17d17e",
+    "src-fcac44b6fa7c",
+    "src-b921ccc1aa2f",
+    "src-f9515d45df63",
+    "src-6ddd10d07e76",
+    "src-877d9746441a",
+    "src-43d84fdc44fd",
+    "src-aa6ac84fc7df",
+    "src-dfba9e89b971",
+    "src-31d3f67e1ea0",
+    "src-36aedc9049dc",
+    "src-0c295f560205",
+    "src-1976178fe747",
+    "src-07f9f86e1027",
+    "src-dcfd5493c3df",
+    "src-a02f81bbff4a",
+    "src-0e507b21433f",
+    "src-e54847d402e6",
+    "src-ddff20dff5fd",
+    "src-bf552b7ac9aa",
+    "src-a688a6bed26b"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-b01e12100c02",
+      "claim_id": "src-b01e12100c02-c01",
+      "problem": "Cited passages support star-map positions as interpretive and scheduling references but do not describe them as frequency-based identity profiles.",
+      "action": "Removed the unsupported frequency framing and retained the supported functions and non-determinist caveat.",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0019"
+      ]
+    },
+    {
+      "source_id": "src-9d897870bbf8",
+      "claim_id": "src-9d897870bbf8-c01",
+      "problem": "Cited detection passage identifies an invisible portal but the lower-astral type appears in the following paragraph.",
+      "action": "Added the paragraph that explicitly classifies the portal.",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ]
+    },
+    {
+      "source_id": "src-fc83e68676a4",
+      "claim_id": "src-fc83e68676a4-c01",
+      "problem": "“Access Earth” could imply physical entry; source specifically restricts access to communications on Earth for those in orbit.",
+      "action": "Specified communications access and scope.",
+      "paragraph_ids": [
+        "p0009"
+      ]
+    },
+    {
+      "source_id": "src-b6f00e97482c",
+      "claim_id": "src-b6f00e97482c-c01",
+      "problem": "“Sensors read locations at molecular scale” could imply location-resolution precision; source says harmonic mapping at molecular level.",
+      "action": "Clarified what the molecular-level measurement describes.",
+      "paragraph_ids": [
+        "p0005",
+        "p0007"
+      ]
+    },
+    {
+      "source_id": "src-e30d1897bec1",
+      "claim_id": "src-e30d1897bec1-c01",
+      "problem": "Claim attributed Yazhi’s frequency-modulation recommendation to Dale and omitted its passage.",
+      "action": "Separated speaker attribution and added Yazhi’s direct passage, retaining Dale’s subsequent agreement.",
+      "paragraph_ids": [
+        "p0026",
+        "p0032",
+        "p0034"
+      ]
+    },
+    {
+      "source_id": "src-be4d6a42f7c2",
+      "claim_id": "src-be4d6a42f7c2-c02",
+      "problem": "Claim summarized two machine-reading methods but cited only the overview and conclusion, omitting their operational descriptions.",
+      "action": "Added the passages on neural-signal mapping and behavioral/profile inputs.",
+      "paragraph_ids": [
+        "p0056",
+        "p0057"
+      ]
+    },
+    {
+      "source_id": "src-7951d6bf342c",
+      "claim_id": "src-7951d6bf342c-c04",
+      "problem": "The completion marker predates a post-release extraction edit; the initial released c04 cited irrelevant passages.",
+      "action": "Documented the release-order issue and independently re-reviewed the current record. The corrected c04 cites p0032 and p0035, and all claims, evidence, record validation, and source snapshot hashes pass; the sequence issue is resolved.",
+      "paragraph_ids": [
+        "p0032",
+        "p0035"
+      ]
+    },
+    {
+      "source_id": "src-e46783afa12c",
+      "claim_id": "src-e46783afa12c-c01",
+      "problem": "The original weight-gain and insulin assertion was not supported by its cited passages, which discussed dietary variability and metabolism.",
+      "action": "Replaced it with the specific carbohydrate-diet and digestive-capacity connection Yazhi makes in p0027.",
+      "paragraph_ids": [
+        "p0027"
+      ]
+    },
+    {
+      "source_id": "src-a72352046ce4",
+      "claim_id": "src-a72352046ce4-c04",
+      "problem": "The cited paragraphs discuss soul/reality and Earth-based distortions, not physical extractions or a promised paradise.",
+      "action": "Removed the unsupported claim rather than inferring an unrelated extraction topic.",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ]
+    },
+    {
+      "source_id": "src-5396b3e5a9fd",
+      "claim_id": "src-5396b3e5a9fd-c04",
+      "problem": "The attribution to personal attachment and rejection of coercive entities was cited only to the paragraph about incomplete life experiences.",
+      "action": "Added the direct passage where Mari explicitly attributes reincarnation to personal attachments and says coercive entities do not force it.",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-5396b3e5a9fd",
+      "claim_id": "src-5396b3e5a9fd-c05",
+      "problem": "The claim included creating a personal paradise and perseverance without citing those passages.",
+      "action": "Added the passages that describe creating a paradise, persevering, and self-kindness.",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0039",
+        "p0041"
+      ]
+    },
+    {
+      "source_id": "src-1976178fe747",
+      "claim_id": "src-1976178fe747-c03",
+      "problem": "“Identities” in the claim was unsupported by the cited paragraphs.",
+      "action": "Removed the unsupported identity detail and retained the supported account of crews using human vehicles and buying or stealing supplies.",
+      "paragraph_ids": [
+        "p0024",
+        "p0026"
+      ]
+    },
+    {
+      "source_id": "src-a02f81bbff4a",
+      "claim_id": "src-a02f81bbff4a-c02",
+      "problem": "p0010 is the interviewer’s clarifying question, not evidence for Athena’s response.",
+      "action": "Removed the question and retained Athena’s answer and consequence passages as evidence.",
+      "paragraph_ids": [
+        "p0011",
+        "p0016"
+      ]
+    }
+  ],
+  "unresolved": []
+}

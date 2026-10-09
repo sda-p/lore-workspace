@@ -110,6 +110,24 @@ Source: [Naves Extraterrestres salen del sol - Athena Swaruu - Taygeta](https://
 
 Related topics: [Natural and artificial portals](natural-portals.md), [Stellar navigation](stellar-navigation.md).
 
+### src-d8bc3b414a4c-c01
+
+Anéeka describes Puma Punku as a multi-species Federation base, with sound-and-gravity-cut stones and maps for solar portals.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka de Temmer - Puma Punku, Machu Pichu y mas - Bases Extraterrestres](https://swaruu.org/transcripts/aneeka-de-temmer-puma-punku-machu-pichu-y-mas-bases-extraterrestres) (2023-04-17; es); passages p0004, p0005, p0006, p0007. [Structured record](../../records/src-d8bc3b414a4c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Starship systems](starship-systems.md).
+
+### src-5a2bf7cc12f6-c03
+
+She claims CERN repeatedly opens portals through which dark entities pass; rituals allegedly tune local frequencies to them, without requiring planetary alignment.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA TIERRA NO ES PROPICIA PARA TENER SATÉLITES NATURALES - Yazhi Swaruu](https://swaruu.org/transcripts/la-tierra-no-es-propicia-para-tener-satelites-naturales-yazhi-swaruu) (2023-03-03; es); passages p0011, p0013. [Structured record](../../records/src-5a2bf7cc12f6.json).
+
 ## Claims filed under other topics
 
 - [src-a67fb92e8975-c04](starship-systems.md#src-a67fb92e8975-c04) — Starship systems
@@ -119,7 +137,9 @@ Related topics: [Natural and artificial portals](natural-portals.md), [Stellar n
 
 ## Review flags
 
+- A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
 - Eye of Horus interpretation is attributed to Swaruu 9.
+- Yazhi distinguishes her portal-technology claim, which does not require alignment, from alignment used in rituals.
 - lore-claims-attributed
 - portal-count-unverified
 - pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified

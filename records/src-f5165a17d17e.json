@@ -1,0 +1,105 @@
+{
+  "source_id": "src-f5165a17d17e",
+  "snapshot_sha256": "ac65a7d19924c5d0932231552696c46e6356a4800255544a0d6ade5f0499caac",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f5165a17d17e-c01",
+      "assertion": "Yazhi argues nuclear detonations are impossible as described because gravity generates matter.",
+      "speaker": "Yazhi Swaruu (Sophia)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0039",
+        "p0045"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "atomic-wave-structure"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "This is her model."
+    },
+    {
+      "id": "src-f5165a17d17e-c02",
+      "assertion": "She claims Hiroshima and Nagasaki may have used conventional explosives, possibly with radioactive material.",
+      "speaker": "Yazhi Swaruu (Sophia)",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "atomic-wave-structure"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents this as an alternative."
+    },
+    {
+      "id": "src-f5165a17d17e-c03",
+      "assertion": "She says weapons called nuclear may instead be directed-energy weapons powered by zero-point reactors.",
+      "speaker": "Yazhi Swaruu (Sophia)",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0052",
+        "p0054",
+        "p0056"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "atomic-wave-structure"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5165a17d17e-c04",
+      "assertion": "She says radioactive facilities are dangerous and their radiation has scalar effects.",
+      "speaker": "Yazhi Swaruu (Sophia)",
+      "paragraph_ids": [
+        "p0030",
+        "p0032"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "atomic-wave-structure"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f5165a17d17e-c05",
+      "assertion": "She calls nuclear fear a population-control tactic; the Federation reportedly fears dismissing it could make people careless.",
+      "speaker": "Yazhi Swaruu (Sophia)",
+      "paragraph_ids": [
+        "p0019",
+        "p0050",
+        "p0052"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript contradicts established nuclear physics and history; claims are recorded as Yazhi’s assertions, not verified facts."
+  ],
+  "coverage_gaps": [
+    "directed-energy weapon mechanisms",
+    "Das Glocke and Nazi technology claims"
+  ]
+}

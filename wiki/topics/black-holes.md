@@ -124,6 +124,32 @@ Source: [Extraterrestres Navegando los Portales - Sol y Agujeros de Gusano - Ath
 
 Related topics: [Natural and artificial portals](natural-portals.md), [Solar portal transit](solar-portal-transit.md).
 
+### src-c4eea8caf581-c01
+
+Yazhi posits an inverse counterpart universe with reversed energy and gravity flows, where stars correspond to black holes and vice versa.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRE ME CUENTA UN INCREÍBLE RELATO SOBRE EL LUGAR MAS ATERRADOR - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestre-me-cuenta-un-increible-relato-sobre-el-lugar-mas-aterrador-yazhi-swaruu) (2022-12-22; es); passages p0008, p0009, p0013. [Structured record](../../records/src-c4eea8caf581.json).
+
+### src-04168227bd18-c02
+
+Yazhi described each galaxy as a conscious being whose central black hole is its focus of attention.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Galaxias - Información Aportada por Mujeres Extraterrestres](https://swaruu.org/transcripts/galaxias-informacion-aportada-por-mujeres-extraterrestres) (2022-12-06; es); passages p0054, p0055, p0056, p0057, p0058, p0061, p0062, p0063, p0065. [Structured record](../../records/src-04168227bd18.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-04168227bd18-c03
+
+Yazhi said galaxies merge harmoniously into larger systems over trillions of years, gradually affecting Earth rather than causing sudden destruction.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Galaxias - Información Aportada por Mujeres Extraterrestres](https://swaruu.org/transcripts/galaxias-informacion-aportada-por-mujeres-extraterrestres) (2022-12-06; es); passages p0080, p0081, p0082, p0087, p0088, p0089, p0090. [Structured record](../../records/src-04168227bd18.json).
+
 ## Claims filed under other topics
 
 - [src-424a779240f3-c01](natural-portals.md#src-424a779240f3-c01) — Natural and artificial portals
@@ -136,10 +162,12 @@ Related topics: [Natural and artificial portals](natural-portals.md), [Solar por
 - [src-630d64c41a85-c01](natural-portals.md#src-630d64c41a85-c01) — Natural and artificial portals
 - [src-9b690db81851-c03](sunspot-portals.md#src-9b690db81851-c03) — Sunspot portals
 - [src-528175452786-c05](sunspot-portals.md#src-528175452786-c05) — Sunspot portals
+- [src-c3edb79b5f6c-c01](galactic-consciousness.md#src-c3edb79b5f6c-c01) — Galactic consciousness
 
 ## Review flags
 
 - Anéeka explicitly distinguishes “gravity holes” from black holes.
+- The transcript presents the reverse-universe account as Yazhi’s cosmological claim and acknowledges she lacks a complete technical explanation.
 - Time model rejects fixed linear time; do not reconcile with other accounts.
 - black-hole-ether-model
 - conspiracy-claims
@@ -149,6 +177,7 @@ Related topics: [Natural and artificial portals](natural-portals.md), [Solar por
 - extraordinary\_astronomical\_claims
 - extraordinary\_cosmology\_claims
 - frequency-portal-physics-claims
+- galactic-metaphor-and-timescale-account
 - internal-date-tension
 - metaphysical-claims
 - portal-time-travel-risk

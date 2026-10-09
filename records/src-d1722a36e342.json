@@ -1,0 +1,71 @@
+{
+  "source_id": "src-d1722a36e342",
+  "snapshot_sha256": "ebf10a7ba3585322dbb688b8a0cd065ffeb5c0d0a3d8d0c4dec699ae41fb5600",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d1722a36e342-c01",
+      "assertion": "Mari says people choose Earth’s challenges for learning; extracting someone may interrupt their life plan and lead to a harder repeated incarnation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her perspective."
+    },
+    {
+      "id": "src-d1722a36e342-c02",
+      "assertion": "She advises checking whether someone is fleeing a problem and waiting years to assess whether extraction fits their life plan; hardship alone is insufficient.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She allows exceptions when clearly necessary."
+    },
+    {
+      "id": "src-d1722a36e342-c03",
+      "assertion": "Mari says extraction permanently ends return to Earth, requiring major adaptation and careful review of the person’s needs, attachments, and resources.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She compares it to ending an incarnation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "prevalence of suicidality in Earth experience",
+    "requirements for leaving Earth after extraction"
+  ]
+}

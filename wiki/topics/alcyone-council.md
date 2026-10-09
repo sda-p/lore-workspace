@@ -442,6 +442,16 @@ Source: [Federacion Galactica los Amos del Mundo - Preguntas y Respuestas - Anee
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-20ced54c4865-c02
+
+She denied Alcyone is in charge, saying that would place Alenym in local control, which she said is not the case.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Yazhi esta de Vuelta en Comunicación - Noticias - Directo con Gosia](https://swaruu.org/transcripts/yazhi-esta-de-vuelta-en-comunicacion-noticias-directo-con-gosia) (2022-10-04; es); passages p0011. [Structured record](../../records/src-20ced54c4865.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c08](galactic-federation.md#src-a5811312e55c-c08) — Galactic Federation
@@ -488,6 +498,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Senetre-diagnosed-weapon-route-suspected
 - Yazhi-interview-report
+- Yazhi’s statements on nuclear weapons and Hiroshima are unverified claims; she explicitly said there was no way to confirm them.
 - attack-theory\_speculative
 - black-knight-loss-details-provisional
 - blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified

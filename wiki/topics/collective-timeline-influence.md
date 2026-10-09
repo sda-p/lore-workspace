@@ -186,6 +186,16 @@ Source: [Conciencia - Individuo - Singularidad - Somos Múltiples Pasados y Múl
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-e33e26096a8a-c01
+
+Yazhi said shared agreements shape collective perception, while different groups can experience fractured timelines; she attributed this to differing reality rules.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Historia - Romanos y Renacimiento a la Vez - Yazhi Swaruu (Sophia) Explica Porque](https://swaruu.org/transcripts/historia-romanos-y-renacimiento-a-la-vez-yazhi-swaruu-sophia-explica-porque) (2022-09-22; es); passages p0004, p0007, p0008. [Structured record](../../records/src-e33e26096a8a.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
 ## Claims filed under other topics
 
 - [src-775d18ade5d9-c04](timeline-branching.md#src-775d18ade5d9-c04) — Timeline branching
@@ -204,6 +214,8 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-2aeaa7622c61-c01](starseeds.md#src-2aeaa7622c61-c01) — Starseeds
 - [src-2997017bfd28-c01](timeline-branching.md#src-2997017bfd28-c01) — Timeline branching
 - [src-ca97c59fa762-c02](timeline-branching.md#src-ca97c59fa762-c02) — Timeline branching
+- [src-800716c5fe32-c02](starseeds.md#src-800716c5fe32-c02) — Starseeds
+- [src-800716c5fe32-c03](starseeds.md#src-800716c5fe32-c03) — Starseeds
 
 ## Review flags
 
@@ -211,6 +223,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Consciousness-based manifestation and hyperspace are presented as the speakers’ model; the source says manifestation is not effortless or automatic
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - Earth’s purpose is explicitly undetermined.
+- Numerical influence estimates and the measurement interpretation are attributed to Alahi.
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - ascension-model-attributed
 - claims about fabricated histories and public events are attributed lore, not independently substantiated

@@ -1,0 +1,88 @@
+{
+  "source_id": "src-62d1807bede8",
+  "snapshot_sha256": "dab6d649ac3ec8f40b83ef11b10c1915c03af84504813badac4286274058e540",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-62d1807bede8-c01",
+      "assertion": "Mari Swaruu says bodily limits and the memory veil create ego and death fear by obscuring broader soul consciousness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62d1807bede8-c02",
+      "assertion": "She says psychological pain can persist after death and prompt reincarnation; suicide does not escape it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62d1807bede8-c03",
+      "assertion": "She says postmortem focus shapes experience: trauma or guilt may create a lower-astral state, but souls are not objectively trapped; ghosts may be echoes or time anomalies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-62d1807bede8-c04",
+      "assertion": "She says experience and interpretation build the soul; heaven and hell are self-created states, not destinations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Mari Swaruu presents different possible outcomes after death as depending on the individual’s perception and outlook."
+  ],
+  "coverage_gaps": [
+    "past-life memories",
+    "spiritual work after death",
+    "temporal-anomaly account of ghosts"
+  ]
+}

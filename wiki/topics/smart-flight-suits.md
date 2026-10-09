@@ -24,8 +24,19 @@ Source: [Escudos de Energía - Ingeniería y Navegación de Naves Espaciales-Yaz
 
 Related topics: [Energy generation technology](energy-generation.md).
 
+### src-31d3f67e1ea0-c05
+
+Magnetic boots aid movement without gravity; enhanced boots allow flight but are mainly used for maintenance. She says they are unsuitable for high climbs without added oxygen and thermal protection.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Tecnología Taygeteana: Parte 1 - Trajes y Botas](https://swaruu.org/transcripts/tecnologia-taygeteana-parte-1-trajes-y-botas) (2023-02-19; es); passages p0022, p0023, p0025, p0026. [Structured record](../../records/src-31d3f67e1ea0.json).
+
+Related topics: [Taygetan flight suits and boots](taygetan-flight-suits.md).
+
 ## Review flags
 
+- Technology descriptions are attributed to Mari Swaruu and not independently verified.
 - frequency-navigation-model
 - polymorphic-alloy-claims
 - shield-mechanics-claims

@@ -1,0 +1,73 @@
+{
+  "source_id": "src-a5922967f589",
+  "snapshot_sha256": "e0ed920517192b3c1e77ac456bbc9ae759e14f822262c7d767889606aeef0a70",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a5922967f589-c01",
+      "assertion": "Yazhi described DNA as a changing crystalline antenna that translates etheric consciousness into the body through every cell.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0017",
+        "p0018",
+        "p0038",
+        "p0191"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "crystalline-dna"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a5922967f589-c02",
+      "assertion": "Yazhi said DNA may retain relevant past-life memories, but interpretation requires a prior frequency reference and not every experience is recorded.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0068",
+        "p0074",
+        "p0078",
+        "p0094",
+        "p0096"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a5922967f589-c03",
+      "assertion": "Yazhi said ancestry-like DNA frequencies can reflect compatibility rather than literal descent or a past life in that region.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0133",
+        "p0136",
+        "p0144",
+        "p0146",
+        "p0148"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Some cases may reflect actual experience."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "DNA cloning and seed detection claims",
+    "walk-in memory and alteration model"
+  ]
+}

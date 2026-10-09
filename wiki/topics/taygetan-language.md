@@ -154,6 +154,30 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [Minitemas con Gosia - Información Extraterrestre - Divulgacion Taygeteana](https://swaruu.org/transcripts/minitemas-con-gosia-informacion-extraterrestre-divulgacion-taygeteana) (2022-06-18; es); passages p0055, p0058, p0060, p0061. [Structured record](../../records/src-49942a75e76b.json).
 
+### src-84a01b336feb-c03
+
+She says Taygetan evolved from ancient Solatian, itself said to derive from Lyrian.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [Alpha Dracos, Dragones, y Lengua Taygeteana - Minitemas con Gosia](https://swaruu.org/transcripts/alpha-dracos-dragones-y-lengua-taygeteana-minitemas-con-gosia) (2023-04-21; es); passages p0035, p0036. [Structured record](../../records/src-84a01b336feb.json).
+
+### src-84a01b336feb-c04
+
+She describes spoken Taygetan as telepathic, with contextual meaning and flexible word order. Written language can mark some words with fixed meanings.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alpha Dracos, Dragones, y Lengua Taygeteana - Minitemas con Gosia](https://swaruu.org/transcripts/alpha-dracos-dragones-y-lengua-taygeteana-minitemas-con-gosia) (2023-04-21; es); passages p0037, p0039, p0040, p0041. [Structured record](../../records/src-84a01b336feb.json).
+
+### src-84a01b336feb-c05
+
+She says Taygetan concepts lack direct human equivalents, making translation conceptual.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alpha Dracos, Dragones, y Lengua Taygeteana - Minitemas con Gosia](https://swaruu.org/transcripts/alpha-dracos-dragones-y-lengua-taygeteana-minitemas-con-gosia) (2023-04-21; es); passages p0042, p0043, p0044. [Structured record](../../records/src-84a01b336feb.json).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c03](urmah.md#src-5e6c8ea2cb2c-c03) — Urmah
@@ -162,6 +186,7 @@ Source: [Minitemas con Gosia - Información Extraterrestre - Divulgacion Taygete
 
 ## Review flags
 
+- Alpha Draco and linguistic-history claims are attributed to Yazhi and are not independently verified.
 - Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
 - historical-claims-unverified
 - language-claims-unverified

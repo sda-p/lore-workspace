@@ -1,0 +1,65 @@
+{
+  "source_id": "src-8c52d17e6496",
+  "snapshot_sha256": "4a92d147460d4f4d7cbf9d49d8c8d5b424c98059d08e962219716aa88436a193",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8c52d17e6496-c01",
+      "assertion": "Za’el argues that authorities and mass media impose acceptable perceptions, while dissenters may be censored, ridiculed, or marginalized.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as the author’s analysis."
+    },
+    {
+      "id": "src-8c52d17e6496-c02",
+      "assertion": "Za’el says repeated campaigns in advertising, politics, and entertainment can normalize social values even when many people initially disagree.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her interpretation of societal change."
+    },
+    {
+      "id": "src-8c52d17e6496-c03",
+      "assertion": "Za’el cites Athena Swaruu as distinguishing legality from justice and arguing that laws protect corporate interests over individuals.",
+      "speaker": "Za’el de Erra, citing Athena Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Attributed by Za’el to Athena Swaruu."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The article contains conspiracy narratives about health policy and institutions; these are not included as factual claims."
+  ],
+  "coverage_gaps": [
+    "Health-policy allegations, extraterrestrial disclosure, and religious-sect comparisons omitted."
+  ]
+}

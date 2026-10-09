@@ -436,6 +436,14 @@ Source: [SUBE EL PRECIO DEL COMBUSTIBLE LO QUE TIENES QUE SABER - EL PETROLEO ES
 
 Related topics: [DNA and metaphysical patterns](dna-metaphysics.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-f994e07a2582-c04
+
+She says inner magma, pressurized water, and black goo circulate; Toleka sensors indicate no core stoppage, only natural variation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Núcleo de la Tierra - es Nuestro Planeta Hueco? - Información Extraterrestre](https://swaruu.org/transcripts/nucleo-de-la-tierra-es-nuestro-planeta-hueco-informacion-extraterrestre) (2023-02-10; es); passages p0031, p0032, p0033, p0038, p0041. [Structured record](../../records/src-f994e07a2582.json).
+
 ## Claims filed under other topics
 
 - [src-6bb3f5207f8d-c01](terrestrial-science.md#src-6bb3f5207f8d-c01) — Terrestrial science
@@ -456,6 +464,7 @@ Related topics: [DNA and metaphysical patterns](dna-metaphysics.md), [Consciousn
 
 - Claims about invasive AI and Borg are attributed to the speakers; the transcript provides no independent evidence.
 - Related Spanish and English articles cover overlapping material but have different scopes; translation equivalence is unconfirmed.
+- Yazhi states that her information about Antarctic Vulcans and deep-cavern beings is limited or partly uncorroborated.
 - attributed-medical-conspiracy-claims
 - claim: extraordinary abduction and biology account
 - conspiracy-claims

@@ -378,6 +378,48 @@ Source: [Yazhi Swaruu y los Asuntos del Pasado Humano - Influencias Perceptuales
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-1e383a05d9f2-c01
+
+She places Giza and Atlantis before Tiamat’s destruction, followed by system disruption, floods, Earth’s axis shift, and lunar placement to stabilize Earth.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [CRONOLOGÍA PLANETARIA DESDE LOS ULTIMOS 13.000 AÑOS - Athena Swaruu](https://swaruu.org/transcripts/cronologia-planetaria-desde-los-ultimos-13-000-anos-athena-swaruu) (2022-10-06; es); passages p0015, p0016, p0017, p0018, p0019, p0021, p0022, p0023. [Structured record](../../records/src-1e383a05d9f2.json).
+
+### src-5a2bf7cc12f6-c02
+
+She identifies the asteroid belt as remains of destroyed Tiamat and describes it as mostly dirty ice; the Kuiper Belt gathers inbound debris.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA TIERRA NO ES PROPICIA PARA TENER SATÉLITES NATURALES - Yazhi Swaruu](https://swaruu.org/transcripts/la-tierra-no-es-propicia-para-tener-satelites-naturales-yazhi-swaruu) (2023-03-03; es); passages p0035, p0037. [Structured record](../../records/src-5a2bf7cc12f6.json).
+
+### src-a02f81bbff4a-c03
+
+Athena said pole shifts require a major catastrophe or strong external influence; she attributed the last shift to Tiamat’s waters causing a great flood.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Porque se esta Debilitando el Campo Magnético Terrestre? Deberíamos preocuparnos? (Athena Swaruu)](https://swaruu.org/transcripts/porque-se-esta-debilitando-el-campo-magnetico-terrestre-deberiamos-preocuparnos-athena-swaruu) (2023-03-21; es); passages p0008. [Structured record](../../records/src-a02f81bbff4a.json).
+
+Related topics: [Earth magnetic field cycles](geomagnetic-cycles.md).
+
+### src-cadb5ca8cdb8-c02
+
+Yazhi says the asteroid belt consists largely of debris from the destroyed planet Tiamat.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Información Extraterrestre - Minitemas con Gosia de Agencia Cósmica](https://swaruu.org/transcripts/informacion-extraterrestre-minitemas-con-gosia-de-agencia-cosmica) (2023-02-14; es); passages p0025, p0028. [Structured record](../../records/src-cadb5ca8cdb8.json).
+
+### src-3f5e32e319ee-c04
+
+She says a major polar shift requires catastrophe, and attributes the last one to Tiamat’s waters. This is her account, not established history.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLARES](https://swaruu.org/transcripts/el-debilitamiento-del-campo-magnetico-de-la-tierra-y-los-cambios-polares) (2023-03-30; es); passages p0007. [Structured record](../../records/src-3f5e32e319ee.json).
+
 ## Claims filed under other topics
 
 - [src-d47faace954b-c02](black-goo.md#src-d47faace954b-c02) — Black goo
@@ -404,17 +446,23 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-c57cf7f12530-c01](mars.md#src-c57cf7f12530-c01) — Mars
 - [src-906e32a9d0d6-c01](moon-biosphere-ship.md#src-906e32a9d0d6-c01) — The Moon as a biosphere ship
 - [src-b0c5455056ea-c01](ishtar-genetic-project.md#src-b0c5455056ea-c01) — Ishtar genetic project
+- [src-e296ebcd3f46-c01](antarctica-federation-bases.md#src-e296ebcd3f46-c01) — Antarctic Federation bases
+- [src-a02f81bbff4a-c01](geomagnetic-cycles.md#src-a02f81bbff4a-c01) — Earth magnetic field cycles
 
 ## Review flags
 
 - Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age
 - Alternative ancient-history narrative; no independent corroboration in source.
+- Contains unsupported geophysical, climate, and historical claims; attribute to Athena.
 - Different trauma explanations are attributed separately to Swaruu and Yazhi.
+- Geophysical claims and the Tiamat flood account are attributed to Athena.
 - Nibiru\_claim\_conflicts\_with\_other\_sources
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012.
+- Swaruu X explicitly rejects the interpretation that the Moon was placed primarily to imprison regressive races.
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - Transcript combines several speakers and dates; claims preserve speaker attribution
+- Yazhi distinguishes her portal-technology claim, which does not require alignment, from alignment used in rituals.
 - alternative-cosmology-and-chronology-claims
 - approximate\_dates
 - attributed-medical-conspiracy-claims
@@ -452,3 +500,4 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - translation-equivalence-review
 - triton-placement-attributed-to-andromedans
 - unproven-historical-speculation
+- unverified-polar-infrastructure-account

@@ -45,9 +45,13 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-e0a9693e485e-c02](human-clones.md#src-e0a9693e485e-c02) — Human clones and manufactured persons
 - [src-f698e76aaac9-c01](memory-veil.md#src-f698e76aaac9-c01) — Memory Veil
 - [src-f698e76aaac9-c04](consciousness-metaphysics.md#src-f698e76aaac9-c04) — Consciousness and metaphysics
+- [src-ff3b3864b466-c02](civilizational-resets.md#src-ff3b3864b466-c02) — Civilizational resets
+- [src-0eee68ce5b31-c02](earth-cabal.md#src-0eee68ce5b31-c02) — Earth Cabal and power structures
 
 ## Review flags
 
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about secret societies, media manipulation, and resets are attributed to Mari Swaruu.
+- Metaphysical and political claims are attributed to Mari Swaruu.
 - Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved
 - claims about fabricated histories and public events are attributed lore, not independently substantiated

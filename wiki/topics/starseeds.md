@@ -322,6 +322,86 @@ Source: [Liberación de Mundos, Planetas, Tierra - Que dice del tema Athena Swar
 
 Related topics: [Immersion pods](immersion-pods.md), [Extraterrestrial step-downs](extraterrestrial-stepdowns.md).
 
+### src-b39ca55c43a5-c01
+
+Yazhi says extraterrestrial groups have accelerated retrieval of their Earth-based starseeds and operatives amid tightening Federation rules. She says the rule changes govern travel, incarnations, visits, and contact.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EVACUACION PLANETARIA POR EXTRATERRESTRES - Yazhi Swaruu](https://swaruu.org/transcripts/evacuacion-planetaria-por-extraterrestres-yazhi-swaruu) (2022-10-15; es); passages p0003, p0004. [Structured record](../../records/src-b39ca55c43a5.json).
+
+Related topics: [Prime Directive](prime-directive.md), [Galactic Federation](galactic-federation.md).
+
+### src-b154bcb601b1-c01
+
+Gosia calls Earth starseeds an elite “special forces” group and says their individual soul qualities are gifts they bring to humanity; she urges them to recognize their worth while alive. Framed as Gosia’s encouragement to readers.
+
+Attributed to **Gosia**; asserted; extraction confidence: high.
+
+Source: [Corto Mensaje de Gosia para las Semillas Estelares](https://swaruu.org/transcripts/corto-mensaje-de-gosia-para-las-semillas-estelares) (2022-12-03; es); passages p0004, p0005, p0007. [Structured record](../../records/src-b154bcb601b1.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c6671f7e71b0-c01
+
+Athena said Earth matters chiefly because many species’ souls share human lives there and can develop rapidly, not because of resources or strategic location.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [PORQUE LOS EXTRATERRESTRES DESEAN EL PLANETA TIERRA - Athena - Yazhi](https://swaruu.org/transcripts/porque-los-extraterrestres-desean-el-planeta-tierra-athena-yazhi) (2023-01-27; es); passages p0005, p0007, p0009, p0011, p0027. [Structured record](../../records/src-c6671f7e71b0.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-c6671f7e71b0-c03
+
+Yazhi said offworlders care because loved ones are on Earth, but should support rather than impose, leaving souls to choose how their world changes.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [PORQUE LOS EXTRATERRESTRES DESEAN EL PLANETA TIERRA - Athena - Yazhi](https://swaruu.org/transcripts/porque-los-extraterrestres-desean-el-planeta-tierra-athena-yazhi) (2023-01-27; es); passages p0086, p0087, p0088, p0089, p0090. [Structured record](../../records/src-c6671f7e71b0.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-f98eceaf4634-c01
+
+Athena said Earth’s importance lies in its human population and the learning of souls from many species sharing human lives, not resources or strategic value.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [La Tierra - Porque les Importa a los Extraterrestres? Athena y Yazhi Swaruu](https://swaruu.org/transcripts/la-tierra-porque-les-importa-a-los-extraterrestres-athena-y-yazhi-swaruu) (2023-01-21; es); passages p0005, p0010, p0012, p0026. [Structured record](../../records/src-f98eceaf4634.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-f98eceaf4634-c03
+
+Yazhi said offworlders care about Earth’s people but should guide them rather than impose solutions; change should come from souls’ own values.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Tierra - Porque les Importa a los Extraterrestres? Athena y Yazhi Swaruu](https://swaruu.org/transcripts/la-tierra-porque-les-importa-a-los-extraterrestres-athena-y-yazhi-swaruu) (2023-01-21; es); passages p0072, p0073, p0074, p0075, p0084. [Structured record](../../records/src-f98eceaf4634.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-800716c5fe32-c02
+
+Alahi claimed an average starseed influences the collective field about as much as 1,500 ordinary humans; highly awakened ones may affect tens of thousands or more. He described these as estimates from his measurements.
+
+Attributed to **Alahi Eshtar de Erra**; asserted; extraction confidence: high.
+
+Source: [LA VERDADERA INFLUENCIA DE LAS SEMILLAS ESTELARES EN LA TIERRA](https://swaruu.org/transcripts/la-verdadera-influencia-de-las-semillas-estelares-en-la-tierra) (2023-03-28; es); passages p0021, p0029. [Structured record](../../records/src-800716c5fe32.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
+### src-800716c5fe32-c03
+
+He said starseeds influence Earth’s collective field simply by existing; connecting with peers amplifies them, though the human average can pull them down.
+
+Attributed to **Alahi Eshtar de Erra**; asserted; extraction confidence: high.
+
+Source: [LA VERDADERA INFLUENCIA DE LAS SEMILLAS ESTELARES EN LA TIERRA](https://swaruu.org/transcripts/la-verdadera-influencia-de-las-semillas-estelares-en-la-tierra) (2023-03-28; es); passages p0038, p0039, p0043. [Structured record](../../records/src-800716c5fe32.json).
+
+Related topics: [Collective timeline influence](collective-timeline-influence.md).
+
 ## Claims filed under other topics
 
 - [src-10009bbe55a5-c01](lyran-expansion.md#src-10009bbe55a5-c01) — Lyran expansion
@@ -338,9 +418,18 @@ Related topics: [Immersion pods](immersion-pods.md), [Extraterrestrial step-down
 - [src-f692b0750026-c04](galactic-federation.md#src-f692b0750026-c04) — Galactic Federation
 - [src-0669cfd94f43-c01](consciousness-metaphysics.md#src-0669cfd94f43-c01) — Consciousness and metaphysics
 - [src-63eb2c3859f8-c02](higher-federation-councils.md#src-63eb2c3859f8-c02) — Higher Federation councils
+- [src-b39ca55c43a5-c02](tractor-beams.md#src-b39ca55c43a5-c02) — Tractor beams
+- [src-c1919a47291a-c02](galactic-federation.md#src-c1919a47291a-c02) — Galactic Federation
+- [src-800716c5fe32-c01](consciousness-metaphysics.md#src-800716c5fe32-c01) — Consciousness and metaphysics
+- [src-8c403e396292-c01](human-biosuit-model.md#src-8c403e396292-c01) — Humanity as a shared biological suit
+- [src-8c403e396292-c02](alien-species.md#src-8c403e396292-c02) — Alien species and distinctions
+- [src-dd739a4e04c6-c01](extraterrestrial-stepdowns.md#src-dd739a4e04c6-c01) — Extraterrestrial step-downs
 
 ## Review flags
 
+- Extraterrestrial identity claims are Mari Swaruu’s perspective and are not independently verified.
+- Numerical influence estimates and the measurement interpretation are attributed to Alahi.
+- Racial and archaeological claims are attributed to Yazhi and are not established findings.
 - Source also contains unextracted real-world political and health claims.
 - Yazhi’s account of higher-council governance and intervention is internally framed as perspective-dependent
 - agenda21-assertion
@@ -356,6 +445,7 @@ Related topics: [Immersion pods](immersion-pods.md), [Extraterrestrial step-down
 - federation-control-allegations-versus-collective-consent-model
 - federation-intervention:influence-without-rescue
 - federation-level-claims-attributed
+- federation-policy-and-metaphysical-account
 - federation-role-variation
 - higher-and-human-conflict-levels-distinguished
 - human-civilization-containment-claim
@@ -371,5 +461,6 @@ Related topics: [Immersion pods](immersion-pods.md), [Extraterrestrial step-down
 - personal-responsibility-model-retains-victim-perspective
 - reincarnation-and-catholic-control-claim
 - related-starseed-material-overlap
+- speculative-extraction-account
 - starseed-identity-and-mission-attributed
 - translation-counterpart: src-d0398aec7731; close full translation; similar-title source src-ba29b281f533 is a distinct later essay

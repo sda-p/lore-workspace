@@ -1,0 +1,74 @@
+{
+  "source_id": "src-39d2bef39243",
+  "snapshot_sha256": "ad5592b2b599e445fc638bb77bb5f972d58cf60591512a43b9606e4496ee9977",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-39d2bef39243-c01",
+      "assertion": "Mari says starseeds may remember prior lives or feel they belong elsewhere; she attributes memory gaps to frequency incompatibility, not technological erasure.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "memory-veil",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes her own understanding."
+    },
+    {
+      "id": "src-39d2bef39243-c02",
+      "assertion": "She says starseeds may face ridicule and self-denial, then learn to live privately by their values and connect with like-minded people.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says experiences vary."
+    },
+    {
+      "id": "src-39d2bef39243-c03",
+      "assertion": "Mari says a starseed’s presence may itself fulfill a life mission; each person must discover their own path and identity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says others can guide but not identify it for them."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "claimed starseed arrivals and prior-life dream memories",
+    "strategies for functioning in Earth society"
+  ]
+}

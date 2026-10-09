@@ -38,7 +38,32 @@ Source: [Abducciones Extraterrestres - Porque se Producen? Anéeka de Temmer (Ta
 
 Related topics: [Zeta Reticuli Gardeners](zeta-reticuli-gardeners.md).
 
+### src-40a1c19238df-c01
+
+Anéeka describes rapid tractor-beam extraction or a consensual pickup at a prearranged, discreet site.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PROTOCOLOS DE EXTRACCIÓN EXTRATERRESTRE – CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/protocolos-de-extraccion-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-19; es); passages p0002, p0003, p0010. [Structured record](../../records/src-40a1c19238df.json).
+
+### src-40a1c19238df-c02
+
+She says candidates must be mentally ready and have no real dependents unless those people agree; protocols vary by individual.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PROTOCOLOS DE EXTRACCIÓN EXTRATERRESTRE – CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/protocolos-de-extraccion-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-19; es); passages p0018, p0042, p0044, p0046, p0056. [Structured record](../../records/src-40a1c19238df.json).
+
+### src-40a1c19238df-c03
+
+She says arrivals receive onboard supervision and adapt gradually; biological changes may take about seven years.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PROTOCOLOS DE EXTRACCIÓN EXTRATERRESTRE – CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/protocolos-de-extraccion-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-19; es); passages p0024, p0028, p0029, p0031, p0033. [Structured record](../../records/src-40a1c19238df.json).
+
 ## Review flags
 
+- Anéeka frames extraction as individually negotiated and says a fixed protocol does not apply.
 - abduction-and-medical-claims
 - grey-gardener-biological-classification

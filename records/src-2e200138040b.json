@@ -1,0 +1,70 @@
+{
+  "source_id": "src-2e200138040b",
+  "snapshot_sha256": "b17059b01dd6405dd1f26d9ec7b1823767b3fcd8618836f232327e7a5ce15af9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2e200138040b-c01",
+      "assertion": "Mari Swaruu says Taygetans and Urmah have plans to remove the Earth Cabal, but argues its sudden elimination could cause chaos.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0031"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "taygetans",
+        "urmah"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her political narrative."
+    },
+    {
+      "id": "src-2e200138040b-c02",
+      "assertion": "Mari Swaruu argues that Earth would need transitional tutelage by advanced star societies, favoring empathic Lyrian peoples and the Urmah as mentors.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "urmah",
+        "lyrians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her proposed political model."
+    },
+    {
+      "id": "src-2e200138040b-c03",
+      "assertion": "Mari Swaruu claims the Cabal could transform rather than disappear, since sudden removal would cause unnecessary human suffering.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her prediction about a gradual transition."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The article promotes a conspiratorial political framework and extraterrestrial governance; claims are retained as attributed lore."
+  ],
+  "coverage_gaps": [
+    "The source’s detailed allegations about historical events and secret societies are omitted."
+  ]
+}

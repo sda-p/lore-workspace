@@ -1,0 +1,73 @@
+{
+  "source_id": "src-ec30a0b94013",
+  "snapshot_sha256": "8449145c8db7df23081c69349a9d36cbec0849862a0275c8fdea0136bf9f9a78",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ec30a0b94013-c01",
+      "assertion": "Athena said the West used Ukraine as a proxy war to weaken Russia and oust Putin with a Western-backed government.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She said conclusions came from a year of research and included unresolved inconsistencies."
+    },
+    {
+      "id": "src-ec30a0b94013-c02",
+      "assertion": "She reported a Kyiv–Moscow ceasefire in March 2022, which she said Ukrainian forces broke; she alleged the West instructed Zelensky to reject further deals.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ec30a0b94013-c03",
+      "assertion": "Athena called the report pro-Putin and said Russia was tactically stronger, but she did not fully trust Putin.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0026",
+        "p0030"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She added that deeper Cabal controls both sides."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Political and military claims are attributed to the report and its sources."
+  ],
+  "coverage_gaps": [
+    "estimated population losses and destruction",
+    "Nord Stream and sanctions claims"
+  ]
+}

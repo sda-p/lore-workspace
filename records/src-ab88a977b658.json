@@ -1,0 +1,88 @@
+{
+  "source_id": "src-ab88a977b658",
+  "snapshot_sha256": "91d49993693bd0806e86cb3ca98fbd043718527c4228605f5048d69c33745885",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ab88a977b658-c01",
+      "assertion": "Za’el says people at these densities hold both light and dark traits, which she defines as benevolence versus envy, fear, resentment, and harmful intent.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab88a977b658-c02",
+      "assertion": "She distinguishes useful learning from trauma: trauma occurs when fear overrules logical decisions, though fear itself is normal.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "shadow-work",
+      "topics": [
+        "shadow-work"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab88a977b658-c03",
+      "assertion": "She says self-protection and setting limits are not wickedness or people-pleasing, even if another person reacts negatively.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "shadow-work",
+      "topics": [
+        "shadow-work"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab88a977b658-c04",
+      "assertion": "She says becoming a “light being” requires accepting and integrating one’s darker traits while choosing how to act.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0022",
+        "p0024",
+        "p0027",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "shadow-work",
+      "topics": [
+        "shadow-work"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "personal relationship advice",
+    "handling failure and recovery",
+    "turning emotions into constructive action"
+  ]
+}

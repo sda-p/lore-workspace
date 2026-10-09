@@ -1,0 +1,88 @@
+{
+  "source_id": "src-04de255f76ef",
+  "snapshot_sha256": "66c6f24181ea9ac80f62943c9e2ecca86cd9f38616b5afc14afa97c5ae37ecde",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-04de255f76ef-c01",
+      "assertion": "Swaruu X says CIC blamed Western efforts to remove Putin, using Ukraine as a proxy.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says the yearlong assessment used observation, involved sources, and Russian public opinion."
+    },
+    {
+      "id": "src-04de255f76ef-c02",
+      "assertion": "She alleges a 2022 ceasefire failed and Western military support prolonged the war.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are her report’s claims."
+    },
+    {
+      "id": "src-04de255f76ef-c03",
+      "assertion": "She says Ukrainian civilians and towns suffered heavy destruction, while acknowledging Russian bombardments too.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0040",
+        "p0042"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "earth-cabal"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-04de255f76ef-c04",
+      "assertion": "She says regional escalation could follow Russian weakening; Russian strength might deter it.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0044",
+        "p0048"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "This is her assessment, not an established forecast."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The report makes contested geopolitical allegations; claims are recorded as attributed statements, not verified facts."
+  ],
+  "coverage_gaps": [
+    "military balance claims",
+    "Nord Stream allegations",
+    "internal Russian political factions"
+  ]
+}

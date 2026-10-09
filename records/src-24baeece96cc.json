@@ -1,0 +1,63 @@
+{
+  "source_id": "src-24baeece96cc",
+  "snapshot_sha256": "e94ff0b4da68245a50e31e72c15f0028db01bdb1155ff7ba86b9db7f301ac441",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-24baeece96cc-c01",
+      "assertion": "Mari described Earth as a collective and personal Matrix shaped by souls’ frequencies and life plans formed outside linear time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-24baeece96cc-c02",
+      "assertion": "She said the Federation leaves Earth’s souls to resolve their problems so they can learn, though she criticized this policy as overly permissive.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-24baeece96cc-c03",
+      "assertion": "Mari said dark astral entities do not generally force reincarnation; she claimed they can exploit embodied people’s manifestation by sustaining low vibrational states.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "soul-loop-reincarnation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She described this as an exception to her broader explanation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Astral guidance as expanded aspects of the self and Federation quarantine rationale"
+  ]
+}

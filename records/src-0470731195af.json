@@ -1,0 +1,81 @@
+{
+  "source_id": "src-0470731195af",
+  "snapshot_sha256": "53d4c4bd5a972c84512e0c4b98f311f2b80f5787c85d1c0538eea940056596b5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0470731195af-c01",
+      "assertion": "Arién says beings exchange influences within a shared frequency field; collective negativity may destabilize people when they are mentally vulnerable.",
+      "speaker": "Arién de Erra",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0470731195af-c02",
+      "assertion": "She says fear often loops around imagined outcomes, and focusing on feared events can help manifest them.",
+      "speaker": "Arién de Erra",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0014"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0470731195af-c03",
+      "assertion": "She says starseeds may feel unlike others because of stronger Source connection, while Earth’s collective frequency pressures them to conform.",
+      "speaker": "Arién de Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "starseed-guides",
+      "topics": [
+        "starseed-guides"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0470731195af-c04",
+      "assertion": "She says postmortem perspective can recast earthly suffering as growth, and souls may choose another incarnation.",
+      "speaker": "Arién de Erra",
+      "paragraph_ids": [
+        "p0015",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "fear and logical risk assessment",
+    "self-responsibility in decisions",
+    "motivation as guide"
+  ]
+}

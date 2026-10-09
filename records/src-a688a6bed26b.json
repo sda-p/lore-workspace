@@ -1,0 +1,81 @@
+{
+  "source_id": "src-a688a6bed26b",
+  "snapshot_sha256": "95b37db50f59b2094eeac59d63e41e18b4b3c2e7f6cb8d715cec22cc0816f4a4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a688a6bed26b-c01",
+      "assertion": "Yazhi says “Anunnaki” refers to multiple groups, not one species or only Reptilians.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her interpretation."
+    },
+    {
+      "id": "src-a688a6bed26b-c02",
+      "assertion": "She identifies Taygetans and Elohi among groups called Anunnaki, based on Taygetan historical understanding.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Not presented as established history."
+    },
+    {
+      "id": "src-a688a6bed26b-c03",
+      "assertion": "Athena defines Anunnaki broadly as those who came to Earth and seeded knowledge, including Taygetans.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her group’s definition."
+    },
+    {
+      "id": "src-a688a6bed26b-c04",
+      "assertion": "Athena calls terrestrial Sumerian interpretations valid, while proposing additional symbolic readings.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of religious texts."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Contains extraordinary extraterrestrial and historical claims; attribute to speakers, not verified history."
+  ],
+  "coverage_gaps": [
+    "Yazhi also disputes Zecharia Sitchin’s work."
+  ]
+}

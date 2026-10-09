@@ -6,6 +6,12 @@ Aliases: Antarctic bases, Antarctic interior
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Antarctic Federation bases](antarctica-federation-bases.md)
+
 ## Collected claims
 
 ### src-de22732f48f1-c01

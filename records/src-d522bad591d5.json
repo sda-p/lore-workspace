@@ -1,0 +1,74 @@
+{
+  "source_id": "src-d522bad591d5",
+  "snapshot_sha256": "d2e6594d691ab44519a8fb38aa891fb43516180481954803e80a2de5e32058ce",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d522bad591d5-c01",
+      "assertion": "Yazhi describes shadow people as semi-physical, semi-astral beings rather than egregors, with most existence in the astral and some in the physical.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0032",
+        "p0046",
+        "p0048"
+      ],
+      "primary_topic": "shadow-people",
+      "topics": [
+        "shadow-people",
+        "astral-entities",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She offers this as her best explanation."
+    },
+    {
+      "id": "src-d522bad591d5-c02",
+      "assertion": "She says they exploit low visibility and seek resources such as food, electricity, and heat; some may also use human energy.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0026",
+        "p0028",
+        "p0052",
+        "p0054",
+        "p0058",
+        "p0060"
+      ],
+      "primary_topic": "shadow-people",
+      "topics": [
+        "shadow-people",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says resources matter more than creative energy."
+    },
+    {
+      "id": "src-d522bad591d5-c03",
+      "assertion": "Yazhi says special cameras can detect them, and they are more easily noticed in higher-frequency places where they stand out.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "shadow-people",
+      "topics": [
+        "shadow-people",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says they mostly avoid such places."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "their reported ability to speak and interact physically",
+    "claims about low-light visibility and individual differences"
+  ]
+}

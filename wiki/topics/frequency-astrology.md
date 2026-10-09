@@ -68,11 +68,45 @@ Source: [ASTROLOGÍA TAYGETEANA - PLEYADES M45 - TAYGETA TAU-19 -ANEEKA DE TEMME
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-b01e12100c02-c01
+
+Yazhi says star maps record birth time and place, which can help interpret a person and coordinate dates across species; stars reflect rather than determine character. She says the stars reflect rather than determine a person's character.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Pluton y Shiva - Astrologia](https://swaruu.org/transcripts/pluton-y-shiva-astrologia) (2023-02-06; es); passages p0012, p0013, p0019. [Structured record](../../records/src-b01e12100c02.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-9b0e688f41d9-c01
+
+Yazhi says astrology maps a person’s frequency; star positions mirror rather than determine them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Astrología - Plutón entrando en Acuario - Perspectiva Extraterrestre](https://swaruu.org/transcripts/astrologia-pluton-entrando-en-acuario-perspectiva-extraterrestre) (2023-02-05; es); passages p0006, p0007, p0014. [Structured record](../../records/src-9b0e688f41d9.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-cadb5ca8cdb8-c03
+
+Yazhi says changing birth timing can encourage a different soul to enter, while gestation and birth dates are linked.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Información Extraterrestre - Minitemas con Gosia de Agencia Cósmica](https://swaruu.org/transcripts/informacion-extraterrestre-minitemas-con-gosia-de-agencia-cosmica) (2023-02-14; es); passages p0039, p0041, p0043, p0046. [Structured record](../../records/src-cadb5ca8cdb8.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
 ## Claims filed under other topics
 
 - [src-6d89e231f729-c05](moon-matrix.md#src-6d89e231f729-c05) — Moon and terrestrial Matrix
 - [src-bfaf065e0281-c02](archons-and-demons.md#src-bfaf065e0281-c02) — Archons and demons
+- [src-b01e12100c02-c02](moon-biosphere-ship.md#src-b01e12100c02-c02) — The Moon as a biosphere ship
+- [src-9b0e688f41d9-c03](moon-matrix.md#src-9b0e688f41d9-c03) — Moon and terrestrial Matrix
 
 ## Review flags
 
+- Pluto-Shiva-identification-attributed-to-Federation-records
 - medical-and-abduction-claims-excluded
+- metaphysical-claims

@@ -1,0 +1,80 @@
+{
+  "source_id": "src-90107b56d6ec",
+  "snapshot_sha256": "c80f66e91890e26f71118ce7f1480ff7276a00c6a53d3611f19a002085d05c1f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-90107b56d6ec-c01",
+      "assertion": "Za’el recommends identifying painful “shadows,” examining their causes, and deciding what to change or accept.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90107b56d6ec-c02",
+      "assertion": "He recommends combining objective self-examination with self-compassion to understand mistakes and change.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-90107b56d6ec-c03",
+      "assertion": "He says recognizing strengths, humility, and learning from mistakes can support personal growth and helping others.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0019"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He says others can be helped only when willing to cooperate."
+    },
+    {
+      "id": "src-90107b56d6ec-c04",
+      "assertion": "He urges caution, dignity, and boundaries when dealing with hostile people, including limiting what one reveals.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0020",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "his distinctions between light and dark motives",
+    "recognizing and responding to another’s shadows"
+  ]
+}

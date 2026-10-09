@@ -60,6 +60,30 @@ Source: [LO QUE LES VENDEN POR \#ASCENSIÓN PLANETARIA - La Quinta Densidad - \#
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-ab88a977b658-c02
+
+She distinguishes useful learning from trauma: trauma occurs when fear overrules logical decisions, though fear itself is normal.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [La Luz y la Oscuridad en tu interior / Traumas y Límites](https://swaruu.org/transcripts/la-luz-y-la-oscuridad-en-tu-interior-traumas-y-limites) (2023-04-03; es); passages p0009, p0010, p0011, p0012, p0015. [Structured record](../../records/src-ab88a977b658.json).
+
+### src-ab88a977b658-c03
+
+She says self-protection and setting limits are not wickedness or people-pleasing, even if another person reacts negatively.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [La Luz y la Oscuridad en tu interior / Traumas y Límites](https://swaruu.org/transcripts/la-luz-y-la-oscuridad-en-tu-interior-traumas-y-limites) (2023-04-03; es); passages p0017, p0018, p0019, p0020, p0021. [Structured record](../../records/src-ab88a977b658.json).
+
+### src-ab88a977b658-c04
+
+She says becoming a “light being” requires accepting and integrating one’s darker traits while choosing how to act.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [La Luz y la Oscuridad en tu interior / Traumas y Límites](https://swaruu.org/transcripts/la-luz-y-la-oscuridad-en-tu-interior-traumas-y-limites) (2023-04-03; es); passages p0022, p0024, p0027, p0032, p0033. [Structured record](../../records/src-ab88a977b658.json).
+
 ## Review flags
 
 - spiritual-psychology-attributed

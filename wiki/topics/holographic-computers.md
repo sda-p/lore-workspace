@@ -551,6 +551,7 @@ Related topics: [Frequency-holding sample containers](frequency-holding-containe
 - [src-e0aac48a5c49-c01](starship-systems.md#src-e0aac48a5c49-c01) — Starship systems
 - [src-fd0bbccdb853-c02](frequency-map-navigation.md#src-fd0bbccdb853-c02) — Frequency-map navigation
 - [src-906e32a9d0d6-c05](moon-biosphere-ship.md#src-906e32a9d0d6-c05) — The Moon as a biosphere ship
+- [src-be4d6a42f7c2-c02](terrestrial-science.md#src-be4d6a42f7c2-c02) — Terrestrial science
 
 ## Review flags
 
@@ -561,6 +562,7 @@ Related topics: [Frequency-holding sample containers](frequency-holding-containe
 - EMP-intervention-field-unknown
 - Transcript combines several speakers and dates; claims preserve speaker attribution
 - ai-clone-claims-attributed
+- attributed-lore-claims
 - biomedical-claims-not-independently-supported
 - blockade-and-biology-attributed
 - computer-throughput-claim-attributed

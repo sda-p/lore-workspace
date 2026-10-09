@@ -1,0 +1,83 @@
+{
+  "source_id": "src-a82352157b1a",
+  "snapshot_sha256": "a97e43e9291881b92cced96c316a789e57468d78acd0b4741c62853d5ce8cd78",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a82352157b1a-c01",
+      "assertion": "Athena says the Federation has no full star-family disclosure plan; a controlled false invasion could imitate one but is not expected soon.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a82352157b1a-c02",
+      "assertion": "She says genuine disclosure would dissolve the Matrix, expose humanity’s stellar ties and free technologies, and destabilize economies.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0041"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a82352157b1a-c03",
+      "assertion": "Athena characterizes the “quantum financial system” as a sales pitch for more restrictive finance; she says economic change will digitize life without benefiting the public.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a82352157b1a-c04",
+      "assertion": "Athena says messaging about dissolving conventional governments sugarcoats a new world order; people retain power but surrender it to authoritarianism.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0035",
+        "p0037"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The document also contains a separate 2021 Aneeka conversation; claims here are attributed only to the named speakers."
+  ],
+  "coverage_gaps": [
+    "Yazhi’s flat-Earth, NPC and Trump claims",
+    "Antarctica disclosure and Aneeka’s disclosure rationale"
+  ]
+}

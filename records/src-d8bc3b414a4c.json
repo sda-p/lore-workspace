@@ -1,0 +1,93 @@
+{
+  "source_id": "src-d8bc3b414a4c",
+  "snapshot_sha256": "844029076c3486e2731924c72fb169fb161dc9fcad672bdcdad9edff2203f1bd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d8bc3b414a4c-c01",
+      "assertion": "Anéeka describes Puma Punku as a multi-species Federation base, with sound-and-gravity-cut stones and maps for solar portals.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "galactic-federation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d8bc3b414a4c-c02",
+      "assertion": "She says its principal gate encodes portal instructions, including exact solar-date timing, starship technology, and powerful computers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0011",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit",
+        "stellar-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d8bc3b414a4c-c03",
+      "assertion": "She dates Machu Picchu to over 15,000 years ago, links it to Atlantis, and attributes its construction to Usungal Reptilians for human followers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017",
+        "p0026",
+        "p0032"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "usungal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d8bc3b414a4c-c04",
+      "assertion": "She describes the Sun as a busy transit zone in a linked solar-portal system; ships jump by frequency and gravity rather than bending space.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0054",
+        "p0056",
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "solar-portal-transit",
+      "topics": [
+        "solar-portal-transit",
+        "starship-systems",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct."
+  ],
+  "coverage_gaps": [
+    "Federation base activity and destruction history",
+    "Machu Picchu/Sumerian correlations",
+    "human species origins"
+  ]
+}

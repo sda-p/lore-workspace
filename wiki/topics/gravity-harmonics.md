@@ -268,6 +268,24 @@ Source: [RESPUESTAS AL TERRAPLANISMO – ANEEKA DE TEMMER \#latierraplana](https
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-c1b49a077026-c02
+
+She defines gravity as consciousness-attention flow that concentrates potential energy into mass, rather than mass producing gravity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conciencia, Unidad, Gravedad y el Universo Numérico.](https://swaruu.org/transcripts/conciencia-unidad-gravedad-y-el-universo-numerico) (2022-12-19; es); passages p0008, p0009, p0010. [Structured record](../../records/src-c1b49a077026.json).
+
+### src-f5165a17d17e-c01
+
+Yazhi argues nuclear detonations are impossible as described because gravity generates matter. This is her model.
+
+Attributed to **Yazhi Swaruu (Sophia)**; speculative; extraction confidence: high.
+
+Source: [Bombas Nucleares - Bombas de Energia que Fingen ser Nucleares - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/bombas-nucleares-bombas-de-energia-que-fingen-ser-nucleares-yazhi-swaruu-sophia) (2022-11-23; es); passages p0003, p0004, p0039, p0045. [Structured record](../../records/src-f5165a17d17e.json).
+
+Related topics: [Taygetan atomic wave structure](atomic-wave-structure.md).
+
 ## Claims filed under other topics
 
 - [src-30d632b02db6-c04](frequency-map-navigation.md#src-30d632b02db6-c04) — Frequency-map navigation
@@ -301,12 +319,22 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-e10b7b1c1712-c03](great-pyramid-of-giza.md#src-e10b7b1c1712-c03) — Great Pyramid of Giza
 - [src-88e6a66d5551-c01](taygetan-base-12-mathematics.md#src-88e6a66d5551-c01) — Taygetan Base-12 Mathematics
 - [src-88e6a66d5551-c03](atomic-wave-structure.md#src-88e6a66d5551-c03) — Taygetan atomic wave structure
+- [src-690730c29818-c02](nuclear-magnetic-engines.md#src-690730c29818-c02) — Nuclear-magnetic engines
+- [src-b5be7120aaf2-c01](consciousness-metaphysics.md#src-b5be7120aaf2-c01) — Consciousness and metaphysics
+- [src-d8bc3b414a4c-c04](solar-portal-transit.md#src-d8bc3b414a4c-c04) — Solar portal transit
+- [src-d778f32d51ae-c03](elementals.md#src-d778f32d51ae-c03) — Elementals
+- [src-eba1fa9a8f38-c01](dimensional-mirroring.md#src-eba1fa9a8f38-c01) — Dimensional mirroring
 
 ## Review flags
 
+- A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
+- Claims about elementals and gravity sensing are attributed to Athena.
+- Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
 - Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
+- Mari Swaruu explicitly contrasts her gravity model with conventional terrestrial physics.
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
 - The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
+- The transcript contradicts established nuclear physics and history; claims are recorded as Yazhi’s assertions, not verified facts.
 - ancient-texts-as-racial-symbolism-attributed
 - attributed-seti-military-purpose-claim
 - base-12, zero-point-reactor, and matter-wave claims are attributed to Athena and are not independently verified
@@ -314,9 +342,11 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - crystal data storage and stellar reactor mechanisms are attributed claims from Yazhi, not independently verified
 - distinct-speaker-models-attributed
 - earthly-cern-portal-claim-not-included
+- fictional-ancient-energy-and-propulsion-claims
 - gravity-propulsion-attributed
 - lore-claims-attributed-to-Yazhi
 - mental-health-and-protection-advice-excluded
+- metaphysical-frequency-model
 - metaphysical-model\_attributed
 - navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
 - nonhuman-technology\_claims\_attributed

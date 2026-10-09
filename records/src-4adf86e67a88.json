@@ -1,0 +1,82 @@
+{
+  "source_id": "src-4adf86e67a88",
+  "snapshot_sha256": "07c37f709dc19bdc420cf4f4b4c0042a6a8ec0fe5e87b2e1e130fb60d14c070c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4adf86e67a88-c01",
+      "assertion": "Yazhi says dark matter and dark energy are ether like all matter, labels for effects outside human measurement; star civilizations call them other densities.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4adf86e67a88-c02",
+      "assertion": "She defines antimatter as ordinary matter with opposite charge and frequency that annihilates on contact with matter.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4adf86e67a88-c03",
+      "assertion": "She says nonhuman reactors use controlled matter-antimatter fuel, producing strong energy with little ionizing radiation but requiring refueling and underperforming zero-point systems.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0028"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4adf86e67a88-c04",
+      "assertion": "She says antimatter can be stored under vacuum with artificial gravity, while manipulated dark matter ceases to be dark.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "ether-field",
+      "topics": [
+        "ether-field"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi distinguishes antimatter, which she describes as physical and recognized by star civilizations, from human dark-matter terminology."
+  ],
+  "coverage_gaps": [
+    "neutrino interpretation",
+    "dark matter perception examples",
+    "matter-antimatter energy values"
+  ]
+}

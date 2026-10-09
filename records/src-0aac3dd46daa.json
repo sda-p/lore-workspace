@@ -1,0 +1,54 @@
+{
+  "source_id": "src-0aac3dd46daa",
+  "snapshot_sha256": "0e95d5779975e0c9d22ce279cedd85fe0d49e9760682eaf53d139456f86a7ca5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0aac3dd46daa-c01",
+      "assertion": "Athena describes each person as a frequency-linked collective in an interwoven etheric field where souls influence one another.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0008", "p0009", "p0041", "p0042"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "astral-entities"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0aac3dd46daa-c02",
+      "assertion": "Athena says elementals straddle physical and spirit realms; sirens, fairies, dragons, and goblins can manipulate objects and affect people.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0011", "p0012", "p0013", "p0014", "p0015", "p0016", "p0018"],
+      "primary_topic": "elementals",
+      "topics": ["elementals", "astral-entities"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says people may be affected without seeing them."
+    },
+    {
+      "id": "src-0aac3dd46daa-c03",
+      "assertion": "Athena says low-frequency states invite negative entities that implant thoughts or manipulate energy, while higher-frequency connections may be supportive.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0010", "p0020", "p0021"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0aac3dd46daa-c04",
+      "assertion": "Athena recommends self-analysis, shadow work, emotional awareness, and willpower to resist moods she attributes to others.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0059", "p0060", "p0062", "p0064"],
+      "primary_topic": "shadow-work",
+      "topics": ["shadow-work", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["claimed possession and MK Ultra mechanisms", "elemental habitat and behaviors", "empath sensitivity"]
+}

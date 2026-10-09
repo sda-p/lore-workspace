@@ -1,0 +1,68 @@
+{
+  "source_id": "src-7ab85bafab6b",
+  "snapshot_sha256": "98919efad0951ceeec676bf670d3222254f8e7ef491c6636856ec451c50bdaa0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7ab85bafab6b-c01",
+      "assertion": "Yazhi describes the Moon as an artificial, layered vessel with central reactors and says the Federation oversees its orbit.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0020"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account conflicts with terrestrial astronomy."
+    },
+    {
+      "id": "src-7ab85bafab6b-c02",
+      "assertion": "Yazhi says four or fewer of twelve old ionizing reactors power the lunar hologram and Van Allen belts, with surface lenses generating the hologram.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "van-allen-belts"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as her cosmology."
+    },
+    {
+      "id": "src-7ab85bafab6b-c03",
+      "assertion": "Yazhi claims lunar frequencies affect human reproductive cycles and says some Lyrian women can control fertility mentally.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0049",
+        "p0050",
+        "p0052",
+        "p0053"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "lyrians"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "Unverified biological claims, retained as attributed lore."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Lunar, Van Allen, and reproductive-biology claims contradict established terrestrial science and are retained only as attributed lore."
+  ],
+  "coverage_gaps": [
+    "Discussion of Tiamat, portals, sunlight, and other lunar technologies omitted."
+  ]
+}

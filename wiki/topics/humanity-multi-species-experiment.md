@@ -38,11 +38,45 @@ Source: [Yazhi Swaruu y los Asuntos del Pasado Humano - Influencias Perceptuales
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-07f9f86e1027-c01
+
+Mari claimed at least 400,000 human-like civilizations exist in her galactic sector, including populations genetically similar to terrestrial humans.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Orígenes de la Raza Lyriana / Humana](https://swaruu.org/transcripts/origenes-de-la-raza-lyriana-humana) (2022-12-16; es); passages p0012, p0013. [Structured record](../../records/src-07f9f86e1027.json).
+
+Related topics: [Lyrians](lyrians.md).
+
+### src-97d1cf163a44-c01
+
+Anéeka says 22 identifiable lineages in human DNA do not mean humans were assembled from them in a laboratory; each lineage contains many others.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TENEMOS ADN EXTRATERRESTRE - CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/tenemos-adn-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-31; es); passages p0009, p0018, p0025, p0032, p0034. [Structured record](../../records/src-97d1cf163a44.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-97d1cf163a44-c03
+
+Anéeka says a species forms through shared soul experiences and recurring perceptual agreements.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TENEMOS ADN EXTRATERRESTRE - CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/tenemos-adn-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-31; es); passages p0006, p0007. [Structured record](../../records/src-97d1cf163a44.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-4bd203cbfe4d-c01](karistus.md#src-4bd203cbfe4d-c01) — Karistus
+- [src-36aedc9049dc-c02](human-biosuit-model.md#src-36aedc9049dc-c02) — Humanity as a shared biological suit
 
 ## Review flags
 
+- Claims about genetic hybridization and nonhuman species are attributed to Yazhi.
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
+- Metaphysical genetics and the 22-lineage account are attributed claims; the speaker calls the lab-origin explanation simplistic.
+- The author explicitly framed this material as entertainment or science fiction; claims are attributed to Mari.
 - federation-intervention:influence-without-rescue

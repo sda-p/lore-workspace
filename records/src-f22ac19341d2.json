@@ -1,0 +1,43 @@
+{
+  "source_id": "src-f22ac19341d2",
+  "snapshot_sha256": "d09ab116a00289ada9407c1178d3afc2b0c1fc12364956b54bfec8904ae72761",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f22ac19341d2-c01",
+      "assertion": "Mari says the astral encompasses all existence, while biological senses filter a limited material-world experience within it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0008", "p0009", "p0010", "p0011", "p0015", "p0016"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "perceptual-density"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents the physical world as an experience shaped by perception."
+    },
+    {
+      "id": "src-f22ac19341d2-c02",
+      "assertion": "She describes lower astral realms as low-frequency and aligned with separation and fear, while higher realms approach Source-like love and integration.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0021", "p0022", "p0023"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says entities match realms through compatible vibration."
+    },
+    {
+      "id": "src-f22ac19341d2-c03",
+      "assertion": "Mari says souls inhabit realms matching their perception and can shift frequency through thoughts and interpretation, creating their own heaven or hell.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0024", "p0027", "p0029", "p0030"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "perceptual-density"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says awareness survives bodily death."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["astral rules and risks", "dreamlike astral embodiment"]
+}

@@ -1,0 +1,94 @@
+{
+  "source_id": "src-e46783afa12c",
+  "snapshot_sha256": "139cb244452fa537ba58f96418bd3bdbebb946aa8fbb9d9c5fc416824e822ad7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e46783afa12c-c01",
+      "assertion": "Yazhi links long-term carbohydrate-heavy diets to reduced digestive capacity for animal fats and diabetic or prediabetic conditioning.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0027"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e46783afa12c-c02",
+      "assertion": "Yazhi favors high-fat animal protein, little sugar, and ketogenic eating.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0022",
+        "p0074"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames it as her conclusion, not universal advice."
+    },
+    {
+      "id": "src-e46783afa12c-c03",
+      "assertion": "Yazhi describes humans as mixed-diet eaters with a carnivorous tendency, while allowing some fruits and vegetables.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0055",
+        "p0057"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e46783afa12c-c04",
+      "assertion": "Anéeka says avoiding meat is an ethical choice, not a karmic necessity.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e46783afa12c-c05",
+      "assertion": "Yazhi says tolerance for vegan diets varies, and some people may do well on them but not everyone.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0038",
+        "p0039"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Dietary and health assertions are attributed to the speakers."
+  ],
+  "coverage_gaps": [
+    "Claims about industrial contaminants, supplements, cholesterol, and specific foods omitted"
+  ]
+}

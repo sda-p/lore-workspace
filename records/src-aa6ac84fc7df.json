@@ -1,0 +1,94 @@
+{
+  "source_id": "src-aa6ac84fc7df",
+  "snapshot_sha256": "f3df87576e6c84ee6be4a7c268de52ee244edb6ff5df86cd1c407dbeb402f552",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-aa6ac84fc7df-c01",
+      "assertion": "Mari attributes increased postwar UFO reports to World War II and global communications, not increased nonhuman traffic.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aa6ac84fc7df-c02",
+      "assertion": "She says UFO reports range from spacecraft to misunderstandings, with over 95% hoaxes or misidentifications.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aa6ac84fc7df-c03",
+      "assertion": "She alleges agencies use Project Blue Book and other efforts to steer public perceptions of UFOs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0014"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her claims."
+    },
+    {
+      "id": "src-aa6ac84fc7df-c04",
+      "assertion": "She criticizes accepted UFO groups for reducing reports to materialist science and dismissing anomalies.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0023"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aa6ac84fc7df-c05",
+      "assertion": "Mari says official recognition is unlikely and that she does not seek it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0029"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Conspiracy and UFO claims are attributed to Mari Swaruu and are not independently verified."
+  ],
+  "coverage_gaps": [
+    "claims about group targeting and infiltration",
+    "her views on religious UFO groups"
+  ]
+}

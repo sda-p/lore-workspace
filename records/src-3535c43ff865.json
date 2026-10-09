@@ -1,0 +1,75 @@
+{
+  "source_id": "src-3535c43ff865",
+  "snapshot_sha256": "425cda47d822c411dd55f32dac6cea6fde8e246ad329b264b82ef67181f55545",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3535c43ff865-c01",
+      "assertion": "Yazhi says local frequency averages reflect inhabitants’ consciousness, though mixed-frequency pockets can coexist; interferometers can measure a field.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Averages predominate."
+    },
+    {
+      "id": "src-3535c43ff865-c02",
+      "assertion": "She says all matter has consciousness; minerals retain influences, and a person’s stronger aura can shift nearby objects’ frequency.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Effects depend on context."
+    },
+    {
+      "id": "src-3535c43ff865-c03",
+      "assertion": "Yazhi says consciousness generates harmonics that transmit as gravity; measurements need interpretation, and consciousness cannot be 3D while its frequency is 5D.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0038",
+        "p0045",
+        "p0047",
+        "p0049",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "gravity-harmonics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says dimension numbers are referential."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "other speakers’ comments about aura measurement units"
+  ]
+}

@@ -78,6 +78,44 @@ Source: [Implantes de Memorias - Manejo de la Matrix 3D - Información Extraterr
 
 Related topics: [Memory implantation](memory-implantation.md).
 
+### src-2be77fc03489-c05
+
+Walk-ins may have their host DNA frequencies adjusted for the incoming soul.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - REFLEJO DE LA CONSCIENCIA - YAZHI SWARUU](https://swaruu.org/transcripts/adn-reflejo-de-la-consciencia-yazhi-swaruu) (2023-03-18; es); passages p0176, p0177, p0181. [Structured record](../../records/src-2be77fc03489.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md), [Neural frequency and genetic engineering](neural-frequency-genetic-engineering.md).
+
+### src-7951d6bf342c-c05
+
+Yazhi says immersion technology can adjust a walk-in's frequencies to fit a human body without parental frequency compatibility.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - Registro de Quienes Somos - Preguntas del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/adn-registro-de-quienes-somos-preguntas-del-publico-yazhi-swaruu) (2023-03-25; es); passages p0120, p0121, p0123. [Structured record](../../records/src-7951d6bf342c.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-e01eaa468a9c-c03
+
+He proposes a deceased person may “walk in” to another’s life when their circumstances align. He says the existing person retains their history.
+
+Attributed to **Za’el de Erra**; speculative; extraction confidence: high.
+
+Source: [¿Adónde vamos después de la muerte?](https://swaruu.org/transcripts/adonde-vamos-despues-de-la-muerte) (2023-04-13; es); passages p0022, p0023, p0024. [Structured record](../../records/src-e01eaa468a9c.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
+### src-93080c6ab938-c03
+
+She says a walk-in may enter a supposedly unreal body, making it real from that point.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Gente No Real volviéndose todo Reales - Es cierto ese rumor? Yazhi Swaruu opina](https://swaruu.org/transcripts/gente-no-real-volviendose-todo-reales-es-cierto-ese-rumor-yazhi-swaruu-opina) (2022-12-29; es); passages p0012. [Structured record](../../records/src-93080c6ab938.json).
+
 ## Claims filed under other topics
 
 - [src-4af520912230-c05](lyrian-cellular-body.md#src-4af520912230-c05) — Lyrian cellular-body model
@@ -86,10 +124,15 @@ Related topics: [Memory implantation](memory-implantation.md).
 - [src-39f1f606d12b-c05](human-clones.md#src-39f1f606d12b-c05) — Human clones and manufactured persons
 - [src-aa6e0d670c42-c04](earth-cabal.md#src-aa6e0d670c42-c04) — Earth Cabal and power structures
 - [src-54359f164bb6-c03](consciousness-metaphysics.md#src-54359f164bb6-c03) — Consciousness and metaphysics
+- [src-83e6eecc2c25-c03](total-immersion-simulations.md#src-83e6eecc2c25-c03) — Total-immersion simulations
 
 ## Review flags
 
+- Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
+- The article presents metaphysical DNA interpretations attributed to the speakers.
+- The source’s “real” versus “unreal” distinction concerns people and is an attributed metaphysical claim, not an objective assessment of anyone.
+- The transcript makes spiritual claims about death and reincarnation; they are attributed to Za’el and not verified.
 - claims about fabricated histories and public events are attributed lore, not independently substantiated
 - factional-claims-attributed
 - federation-authority-critique

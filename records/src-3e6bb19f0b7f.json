@@ -1,0 +1,54 @@
+{
+  "source_id": "src-3e6bb19f0b7f",
+  "snapshot_sha256": "e87103858d5394777ef71276a4d7f5b02475d3142e11b9e6f85cbfcbf181e2a8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3e6bb19f0b7f-c01",
+      "assertion": "Athena says decisive conflicts occur in the astral, with physical wars generating energy that feeds astral beings.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0003", "p0007", "p0009"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "astral-travel"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e6bb19f0b7f-c02",
+      "assertion": "Athena attributes false-invasion plans to a deep Cabal layer using fear to secure obedience and impose a world order; she calls the Federation permissive.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0012", "p0013", "p0014"],
+      "primary_topic": "false-alien-invasion",
+      "topics": ["false-alien-invasion", "earth-cabal", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e6bb19f0b7f-c03",
+      "assertion": "Athena says a proposed Earth world government would systematize human exploitation and suffering, despite ending wars.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0015", "p0016"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal", "engineered-social-unrest"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3e6bb19f0b7f-c04",
+      "assertion": "Athena describes Serapeum stone chests as empty electrical-capacitor containers within a local free-energy distribution network, not sarcophagi.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0029", "p0030", "p0034"],
+      "primary_topic": "energy-generation",
+      "topics": ["energy-generation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["temporal-ratio discussion", "Mexican military activity", "scarab symbolism"]
+}

@@ -222,6 +222,16 @@ Source: [Sociedad Holística - Respuestas de Athena y Yazhi - Resumiendo Puntos 
 
 Related topics: [Memory implantation](memory-implantation.md), [Earth Cabal and power structures](earth-cabal.md).
 
+### src-e1a6716ab196-c02
+
+She says hybrids may be temporary; lasting artificial changes require consciousness aligned with the hybrid signal.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES HIBRIDANDOSE CON HUMANOS - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestres-hibridandose-con-humanos-yazhi-swaruu) (2022-10-26; es); passages p0006, p0008, p0009. [Structured record](../../records/src-e1a6716ab196.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-73356320550c-c01](consciousness-metaphysics.md#src-73356320550c-c01) — Consciousness and metaphysics
@@ -239,6 +249,7 @@ Related topics: [Memory implantation](memory-implantation.md), [Earth Cabal and 
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
 - Compared English candidate src-f22366424c26; same Biology III material with translation and paragraph segmentation differences.
 - Genetic and chromosome claims are attributed fictional-world assertions
+- Grey-ancestry-uncertainty
 - Leader-contact claim is attributed to Asket in this transcript.
 - The cloning and genetic-control statements are Swaruu’s claims.
 - abduction-mutilation-claims
@@ -250,5 +261,6 @@ Related topics: [Memory implantation](memory-implantation.md), [Earth Cabal and 
 - death-account:medical-cause-and-ether-dissolution
 - disputed-contact-authenticity-narrative
 - species-labels-uncertain
+- species-variation-within-reptilians
 - timeline-model-variant:personal-vs-collective
 - translation-counterpart:src-06a1e5437c02-close-full

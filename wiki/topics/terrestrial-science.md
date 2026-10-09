@@ -2312,6 +2312,294 @@ Source: [LA NASA - MISIONES ARTEMISA - ES INVIABLE QUE EL HOMBRE LLEGUE A LA LUN
 
 Related topics: [Secret Space Program](secret-space-program.md).
 
+### src-4297ae6b09e2-c02
+
+Yazhi distinguishes weak, touch-dissolving silicate fibers from stronger web-like fibers, which she says are probably graphene; she says laboratory analysis is needed to distinguish them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Cabello de Ángel - Informe Taygeteano - Misteriosas Fibras - Que son?](https://swaruu.org/transcripts/cabello-de-angel-informe-taygeteano-misteriosas-fibras-que-son) (2022-12-10; es); passages p0018, p0019, p0020. [Structured record](../../records/src-4297ae6b09e2.json).
+
+### src-940c7e2fa72b-c02
+
+Yazhi attributes the quake to directed energy shifting tectonic plates, saying the resulting energy and atmospheric water form clouds; she says official explanations reverse this causal order. Presented as Yazhi’s account, not independently established.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Terremoto en Turquía - corta conversación con Yazhi Swaruu](https://swaruu.org/transcripts/terremoto-en-turquia-corta-conversacion-con-yazhi-swaruu) (2023-02-20; es); passages p0008, p0010. [Structured record](../../records/src-940c7e2fa72b.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-be4d6a42f7c2-c02
+
+She describes machine mind-reading through neural-signal mapping or behavioral profiles combining voice, face and online data.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Reptiles, Moldavita, y mas - MINI TEMAS - Información Extraterrestre](https://swaruu.org/transcripts/reptiles-moldavita-y-mas-mini-temas-informacion-extraterrestre) (2022-12-22; es); passages p0055, p0058, p0059, p0056, p0057. [Structured record](../../records/src-be4d6a42f7c2.json).
+
+Related topics: [Holographic computers](holographic-computers.md).
+
+### src-8888db924950-c01
+
+Mari says human controllers enforce public science as dogma through universities, ostracism and accepted hierarchies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El problema con la Ciencia en la Tierra](https://swaruu.org/transcripts/el-problema-con-la-ciencia-en-la-tierra) (2023-01-31; es); passages p0023, p0024, p0025, p0044. [Structured record](../../records/src-8888db924950.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-8888db924950-c03
+
+Mari says internet information overload obscures truth and pushes people toward official sources for stability.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El problema con la Ciencia en la Tierra](https://swaruu.org/transcripts/el-problema-con-la-ciencia-en-la-tierra) (2023-01-31; es); passages p0040, p0041. [Structured record](../../records/src-8888db924950.json).
+
+### src-7518b246ebb6-c03
+
+She describes nuclear plants as radioactive and dangerous, but alleges they provide little grid electricity and mainly generate environmental frequencies; she says observers monitor them.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LAS BOMBAS NUCLEARES NO FUNCIONAN COMO SE LES DICE - YAZHI SWARUU](https://swaruu.org/transcripts/las-bombas-nucleares-no-funcionan-como-se-les-dice-yazhi-swaruu) (2022-11-07; es); passages p0027, p0028, p0030. [Structured record](../../records/src-7518b246ebb6.json).
+
+### src-cdacb8b863b2-c02
+
+She says blue LEDs can disrupt circadian rhythms and speculates that mandated household lighting serves population-control aims; she says infrared light can help normalize rhythms.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [FIBRAS QUE CAEN DEL CIELO - LUCES AZULES - EL MUNDIAL 2022 - CRIPTOMONEDAS - Yazhi Swaruu](https://swaruu.org/transcripts/fibras-que-caen-del-cielo-luces-azules-el-mundial-2022-criptomonedas-yazhi-swaruu) (2022-12-10; es); passages p0028, p0029. [Structured record](../../records/src-cdacb8b863b2.json).
+
+### src-f994e07a2582-c01
+
+Anéeka and Yazhi describe Earth’s hot, liquid iron core; Anéeka adds vast interior seas.
+
+Attributed to **Anéeka and Yazhi**; asserted; extraction confidence: high.
+
+Source: [Núcleo de la Tierra - es Nuestro Planeta Hueco? - Información Extraterrestre](https://swaruu.org/transcripts/nucleo-de-la-tierra-es-nuestro-planeta-hueco-informacion-extraterrestre) (2023-02-10; es); passages p0005, p0007, p0031. [Structured record](../../records/src-f994e07a2582.json).
+
+### src-d2f26274ed8a-c03
+
+She says official claims, including atomic energy, are context-dependent Matrix truths rather than universal truths.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LOS SOBREROS BLANCOS - HERMANDAD DEL DRAGÓN BLANCO – YAZHI – SOPHIA SWARUU](https://swaruu.org/transcripts/los-sobreros-blancos-hermandad-del-dragon-blanco-yazhi-sophia-swaruu) (2022-12-05; es); passages p0010. [Structured record](../../records/src-d2f26274ed8a.json).
+
+### src-4adf86e67a88-c02
+
+She defines antimatter as ordinary matter with opposite charge and frequency that annihilates on contact with matter.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [QUE ES LA MATERIA OSCURA ENERGÍA OSCURA Y ANTI-MATERIA](https://swaruu.org/transcripts/que-es-la-materia-oscura-energia-oscura-y-anti-materia) (2023-04-16; es); passages p0011, p0013. [Structured record](../../records/src-4adf86e67a88.json).
+
+### src-fcac44b6fa7c-c03
+
+Yazhi says light speed and gravity vary, appearing constant only within Earth’s 3D perceptual agreements. Her criticism of terrestrial physics.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [DESCUBRIENDO LA VERDAD DETRÁS DE LA MATERIA OSCURA - Yazhi Swaruu](https://swaruu.org/transcripts/descubriendo-la-verdad-detras-de-la-materia-oscura-yazhi-swaruu) (2023-04-10; es); passages p0006, p0008, p0009, p0010, p0011. [Structured record](../../records/src-fcac44b6fa7c.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-901c303678fd-c01
+
+Yazhi attributes weight gain mainly to insulin responses, especially from wheat and refined carbohydrates, rather than calories.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Charlas sobre Nutrición y Dieta - Hablando con Swaruu, Aneeka y Yazhi sobre que Comer](https://swaruu.org/transcripts/charlas-sobre-nutricion-y-dieta-hablando-con-swaruu-aneeka-y-yazhi-sobre-que-comer) (2022-10-16; es); passages p0004, p0010, p0012. [Structured record](../../records/src-901c303678fd.json).
+
+### src-901c303678fd-c02
+
+Yazhi recommends reducing wheat and processed foods and favors unprocessed alternatives.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Charlas sobre Nutrición y Dieta - Hablando con Swaruu, Aneeka y Yazhi sobre que Comer](https://swaruu.org/transcripts/charlas-sobre-nutricion-y-dieta-hablando-con-swaruu-aneeka-y-yazhi-sobre-que-comer) (2022-10-16; es); passages p0013, p0024, p0029. [Structured record](../../records/src-901c303678fd.json).
+
+### src-901c303678fd-c04
+
+Anéeka attributes high blood pressure to chronic stress restricting organ blood flow and says medication does not address that cause.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Charlas sobre Nutrición y Dieta - Hablando con Swaruu, Aneeka y Yazhi sobre que Comer](https://swaruu.org/transcripts/charlas-sobre-nutricion-y-dieta-hablando-con-swaruu-aneeka-y-yazhi-sobre-que-comer) (2022-10-16; es); passages p0076, p0078, p0080. [Structured record](../../records/src-901c303678fd.json).
+
+### src-e46783afa12c-c01
+
+Yazhi links long-term carbohydrate-heavy diets to reduced digestive capacity for animal fats and diabetic or prediabetic conditioning.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Veganismo - Yazhi Swaruu Responde Preguntas del Publico](https://swaruu.org/transcripts/veganismo-yazhi-swaruu-responde-preguntas-del-publico) (2022-10-09; es); passages p0027. [Structured record](../../records/src-e46783afa12c.json).
+
+### src-e46783afa12c-c02
+
+Yazhi favors high-fat animal protein, little sugar, and ketogenic eating. She frames it as her conclusion, not universal advice.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Veganismo - Yazhi Swaruu Responde Preguntas del Publico](https://swaruu.org/transcripts/veganismo-yazhi-swaruu-responde-preguntas-del-publico) (2022-10-09; es); passages p0018, p0022, p0074. [Structured record](../../records/src-e46783afa12c.json).
+
+### src-e46783afa12c-c03
+
+Yazhi describes humans as mixed-diet eaters with a carnivorous tendency, while allowing some fruits and vegetables.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Veganismo - Yazhi Swaruu Responde Preguntas del Publico](https://swaruu.org/transcripts/veganismo-yazhi-swaruu-responde-preguntas-del-publico) (2022-10-09; es); passages p0055, p0057. [Structured record](../../records/src-e46783afa12c.json).
+
+### src-e46783afa12c-c04
+
+Anéeka says avoiding meat is an ethical choice, not a karmic necessity.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Veganismo - Yazhi Swaruu Responde Preguntas del Publico](https://swaruu.org/transcripts/veganismo-yazhi-swaruu-responde-preguntas-del-publico) (2022-10-09; es); passages p0004. [Structured record](../../records/src-e46783afa12c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-e46783afa12c-c05
+
+Yazhi says tolerance for vegan diets varies, and some people may do well on them but not everyone.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Veganismo - Yazhi Swaruu Responde Preguntas del Publico](https://swaruu.org/transcripts/veganismo-yazhi-swaruu-responde-preguntas-del-publico) (2022-10-09; es); passages p0038, p0039. [Structured record](../../records/src-e46783afa12c.json).
+
+### src-f5165a17d17e-c02
+
+She claims Hiroshima and Nagasaki may have used conventional explosives, possibly with radioactive material. She presents this as an alternative.
+
+Attributed to **Yazhi Swaruu (Sophia)**; speculative; extraction confidence: high.
+
+Source: [Bombas Nucleares - Bombas de Energia que Fingen ser Nucleares - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/bombas-nucleares-bombas-de-energia-que-fingen-ser-nucleares-yazhi-swaruu-sophia) (2022-11-23; es); passages p0006, p0008. [Structured record](../../records/src-f5165a17d17e.json).
+
+Related topics: [Taygetan atomic wave structure](atomic-wave-structure.md).
+
+### src-f5165a17d17e-c04
+
+She says radioactive facilities are dangerous and their radiation has scalar effects.
+
+Attributed to **Yazhi Swaruu (Sophia)**; asserted; extraction confidence: high.
+
+Source: [Bombas Nucleares - Bombas de Energia que Fingen ser Nucleares - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/bombas-nucleares-bombas-de-energia-que-fingen-ser-nucleares-yazhi-swaruu-sophia) (2022-11-23; es); passages p0030, p0032. [Structured record](../../records/src-f5165a17d17e.json).
+
+Related topics: [Taygetan atomic wave structure](atomic-wave-structure.md).
+
+### src-87046594a8f8-c03
+
+She rejects the standard chain-reaction explanation, while acknowledging nuclear power can produce heat and electricity. These are her claims.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [ENERGÍA LIBRE CAMUFLADA EN ARMAS NUCLEARES - Yazhi Swaruu](https://swaruu.org/transcripts/energia-libre-camuflada-en-armas-nucleares-yazhi-swaruu) (2022-11-28; es); passages p0026, p0029, p0032. [Structured record](../../records/src-87046594a8f8.json).
+
+Related topics: [Taygetan atomic wave structure](atomic-wave-structure.md).
+
+### src-aa6ac84fc7df-c01
+
+Mari attributes increased postwar UFO reports to World War II and global communications, not increased nonhuman traffic.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El problema con los investigadores de ovnis.](https://swaruu.org/transcripts/el-problema-con-los-investigadores-de-ovnis) (2023-02-04; es); passages p0007, p0008. [Structured record](../../records/src-aa6ac84fc7df.json).
+
+### src-aa6ac84fc7df-c02
+
+She says UFO reports range from spacecraft to misunderstandings, with over 95% hoaxes or misidentifications.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El problema con los investigadores de ovnis.](https://swaruu.org/transcripts/el-problema-con-los-investigadores-de-ovnis) (2023-02-04; es); passages p0010. [Structured record](../../records/src-aa6ac84fc7df.json).
+
+### src-aa6ac84fc7df-c04
+
+She criticizes accepted UFO groups for reducing reports to materialist science and dismissing anomalies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El problema con los investigadores de ovnis.](https://swaruu.org/transcripts/el-problema-con-los-investigadores-de-ovnis) (2023-02-04; es); passages p0018, p0023. [Structured record](../../records/src-aa6ac84fc7df.json).
+
+### src-aa6ac84fc7df-c05
+
+Mari says official recognition is unlikely and that she does not seek it.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El problema con los investigadores de ovnis.](https://swaruu.org/transcripts/el-problema-con-los-investigadores-de-ovnis) (2023-02-04; es); passages p0025, p0029. [Structured record](../../records/src-aa6ac84fc7df.json).
+
+### src-e85dbc213420-c04
+
+She says accepted ufologists’ shared conclusions are self-validating interpretations, not absolute objective accounts.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [CONTACTADOS EXTRATERRESTRES Y UFOLOGOS MATRIX 3D - YAZHI SWARUU](https://swaruu.org/transcripts/contactados-extraterrestres-y-ufologos-matrix-3d-yazhi-swaruu) (2023-02-12; es); passages p0015, p0025, p0028. [Structured record](../../records/src-e85dbc213420.json).
+
+### src-28f04bff29fc-c03
+
+Yazhi alleges governments could remotely disable connected electric vehicles to restrict mobility.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER - YAZHI - Sophia Swaruu](https://swaruu.org/transcripts/lo-que-no-te-cuentan-de-los-vehiculos-electricos-y-tienes-que-saber-yazhi-sophia-swaruu) (2022-10-11; es); passages p0010, p0013. [Structured record](../../records/src-28f04bff29fc.json).
+
+### src-28f04bff29fc-c05
+
+Yazhi claims heavier electric vehicles increase crash danger for occupants of lighter conventional cars.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER - YAZHI - Sophia Swaruu](https://swaruu.org/transcripts/lo-que-no-te-cuentan-de-los-vehiculos-electricos-y-tienes-que-saber-yazhi-sophia-swaruu) (2022-10-11; es); passages p0019. [Structured record](../../records/src-28f04bff29fc.json).
+
+### src-13bbf23ca89e-c01
+
+Athena claims transfusions strongly alter recipients’ genetics, though terrestrial tests supposedly miss it. Unverified health claim.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Transfusiones de Sangre - Como afectan al Recipiente? - Contestan Mujeres Extraterrestres](https://swaruu.org/transcripts/transfusiones-de-sangre-como-afectan-al-recipiente-contestan-mujeres-extraterrestres) (2023-04-10; es); passages p0003, p0004, p0006. [Structured record](../../records/src-13bbf23ca89e.json).
+
+### src-13bbf23ca89e-c04
+
+In an earlier exchange, Swaruu (9) calls transfusions necessary without alternatives, yet energetically inadvisable except in life-threatening cases. This is her stated view, not medical guidance.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Transfusiones de Sangre - Como afectan al Recipiente? - Contestan Mujeres Extraterrestres](https://swaruu.org/transcripts/transfusiones-de-sangre-como-afectan-al-recipiente-contestan-mujeres-extraterrestres) (2023-04-10; es); passages p0028, p0029, p0034. [Structured record](../../records/src-13bbf23ca89e.json).
+
+### src-3f5e32e319ee-c01
+
+Athena says Earth’s magnetic field fluctuates naturally and rejects claims that current changes are dangerous. Her claims are not independently verified here.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLARES](https://swaruu.org/transcripts/el-debilitamiento-del-campo-magnetico-de-la-tierra-y-los-cambios-polares) (2023-03-30; es); passages p0006, p0010, p0013. [Structured record](../../records/src-3f5e32e319ee.json).
+
+### src-3f5e32e319ee-c02
+
+She disputes a 12,000-year cycle, saying fluctuations occur more often through planetary interactions.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLARES](https://swaruu.org/transcripts/el-debilitamiento-del-campo-magnetico-de-la-tierra-y-los-cambios-polares) (2023-03-30; es); passages p0012, p0013. [Structured record](../../records/src-3f5e32e319ee.json).
+
+### src-a688a6bed26b-c04
+
+Athena calls terrestrial Sumerian interpretations valid, while proposing additional symbolic readings. Her account of religious texts.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Anunnaki - Quienes son realmente? Perspectiva Extraterrestre](https://swaruu.org/transcripts/anunnaki-quienes-son-realmente-perspectiva-extraterrestre) (2023-03-09; es); passages p0012, p0013, p0014. [Structured record](../../records/src-a688a6bed26b.json).
+
 ## Claims filed under other topics
 
 - [src-d16fe289eee6-c05](earth-cabal.md#src-d16fe289eee6-c05) — Earth Cabal and power structures
@@ -2444,17 +2732,37 @@ Related topics: [Secret Space Program](secret-space-program.md).
 - [src-5b52df948628-c01](subterranean-ocean-networks.md#src-5b52df948628-c01) — Subterranean ocean networks
 - [src-ed015e2bb945-c02](energy-generation.md#src-ed015e2bb945-c02) — Energy generation technology
 - [src-ed015e2bb945-c03](galactic-federation.md#src-ed015e2bb945-c03) — Galactic Federation
+- [src-940c7e2fa72b-c01](earth-cabal.md#src-940c7e2fa72b-c01) — Earth Cabal and power structures
+- [src-fcac44b6fa7c-c01](perceptual-density.md#src-fcac44b6fa7c-c01) — Perceptual density
+- [src-fcac44b6fa7c-c02](consciousness-metaphysics.md#src-fcac44b6fa7c-c02) — Consciousness and metaphysics
+- [src-93ba3a32ef40-c01](energy-generation.md#src-93ba3a32ef40-c01) — Energy generation technology
+- [src-901c303678fd-c03](taygetan-ecosystems.md#src-901c303678fd-c03) — Taygetan ecosystems
+- [src-901c303678fd-c05](consciousness-metaphysics.md#src-901c303678fd-c05) — Consciousness and metaphysics
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - Antarctica and Cabal allegations are attributed to Dhor Káal’él and are not independently evidenced in the transcript.
+- Conspiracy and UFO claims are attributed to Mari Swaruu and are not independently verified.
+- Contains disputed environmental, market, vehicle safety, and government-control claims; attribute to Yazhi, not established findings.
+- Contains extraordinary extraterrestrial and historical claims; attribute to speakers, not verified history.
+- Contains unsupported claims about transfusions, genetics, donor memories, and spiritual effects; do not treat as medical evidence.
+- Contains unsupported geophysical, climate, and historical claims; attribute to Athena.
+- Dietary and health assertions are attributed to the speakers.
+- Dietary and medical statements are attributed to the speakers and are not established facts.
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - ISS-and-station-fabrication-allegation
 - Mari revises the earlier “gravity as consciousness flow” phrasing during this monologue
 - Nibiru\_claim\_conflicts\_with\_other\_sources
+- The source disputes established nuclear science; content is attributed to Yazhi and not verified.
+- The transcript contradicts established nuclear physics and history; claims are recorded as Yazhi’s assertions, not verified facts.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- Yazhi distinguishes alleged energy weapons from radioactive materials and nuclear plants.
+- Yazhi distinguishes antimatter, which she describes as physical and recognized by star civilizations, from human dark-matter terminology.
+- Yazhi distinguishes individuals who may work for the public from organizations she says are part of the same power structure.
+- Yazhi states that her information about Antarctic Vulcans and deep-cavern beings is limited or partly uncorroborated.
+- Yazhi’s denial of man-eating Reptilians outside the Earth Matrix conflicts with earlier source claims.
 - alleged-pandemic-cabal-plot
 - alternative-biology-claim
 - alternative-weapons-claims
@@ -2463,6 +2771,7 @@ Related topics: [Secret Space Program](secret-space-program.md).
 - astronomical-claims-unverified
 - attributed-climate-conspiracy-claims
 - attributed-covid-and-5g-conspiracy-claims
+- attributed-lore-claims
 - attributed-seti-military-purpose-claim
 - attributed-vaccine-claims
 - attributed-virus-and-vaccine-claims
@@ -2496,6 +2805,7 @@ Related topics: [Secret Space Program](secret-space-program.md).
 - directed-energy-attack-claims
 - disputed\_specimen
 - earth\_science\_claims\_unverified
+- earthquake-causation-contested
 - entertainment-disclaimer
 - extraordinary\_biological\_claims
 - extraordinary\_conflict\_claims
@@ -2625,3 +2935,4 @@ Related topics: [Secret Space Program](secret-space-program.md).
 - war\_scale\_uncertainty
 - wartime-conspiracy-claims
 - weather\_claims
+- worldview-claims-attributed-to-Mari

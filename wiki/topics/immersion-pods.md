@@ -398,6 +398,14 @@ Source: [LA TRAMPA DE LAS ALMAS – ES VERDAD? - Athena Swaruu - Sophia Swaruu -
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-40a1c19238df-c04
+
+For immersion participants, she says the usual outcome is waking in their home pod after Earth life ends; traditional extraction is possible but creates a difficult dual-body state.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [PROTOCOLOS DE EXTRACCIÓN EXTRATERRESTRE – CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/protocolos-de-extraccion-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-19; es); passages p0039, p0040, p0042. [Structured record](../../records/src-40a1c19238df.json).
+
 ## Claims filed under other topics
 
 - [src-5e6c8ea2cb2c-c02](urmah.md#src-5e6c8ea2cb2c-c02) — Urmah
@@ -407,10 +415,12 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-2496c5717d1f-c02](reincarnation-cycles.md#src-2496c5717d1f-c02) — Reincarnation and karmic cycles
 - [src-83d0afc07ef6-c01](starseeds.md#src-83d0afc07ef6-c01) — Starseeds
 - [src-dff574e82d59-c02](starseed-guides.md#src-dff574e82d59-c02) — Starseed guides
+- [src-83e6eecc2c25-c01](total-immersion-simulations.md#src-83e6eecc2c25-c01) — Total-immersion simulations
 
 ## Review flags
 
 - AI-sentience-claims
+- Anéeka frames extraction as individually negotiated and says a fixed protocol does not apply.
 - Swaruu 9 describes frequency-controlled containers while Athena rejects literal soul traps; their different framings should remain unresolved
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - aliens-removed-from-quadrant-claim

@@ -1,0 +1,87 @@
+{
+  "source_id": "src-c7881cf94a2e",
+  "snapshot_sha256": "7a611696cc02a0b96cc26756e64cfa112d8224715f8c82d61530c71065b62c8f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c7881cf94a2e-c01",
+      "assertion": "Mari presents time as a perception produced by conscious thought’s rhythm and frequency; each soul therefore experiences time uniquely.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c7881cf94a2e-c02",
+      "assertion": "She says shared but imperfect perceptions form realms; Earth clocks synchronize people by day-night cycles, reinforcing the Matrix’s concept of constant time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c7881cf94a2e-c03",
+      "assertion": "She argues time-unit duration depends on the measuring context and observer; observers in different frames may assign different durations to the same interval.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c7881cf94a2e-c04",
+      "assertion": "She links linear time with regret and anxiety, and says work culture can leave retirees too old to enjoy free time.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Critique of terrestrial physical models and mathematics",
+    "Time as awareness of one’s own thoughts"
+  ]
+}

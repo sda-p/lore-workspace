@@ -28,7 +28,32 @@ Source: [My Undercover Trip to Temmer (English)](https://swaruu.org/transcripts/
 
 Related topics: [Energy generation technology](energy-generation.md).
 
+### src-14bbfbca9660-c01
+
+Mari said Taygetan electric vehicles draw power wirelessly from planetary towers on Erra and Temmer, with small zero-point reactors as backup.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Vehículos eléctricos en Taygeta y en la Tierra](https://swaruu.org/transcripts/vehiculos-electricos-en-taygeta-y-en-la-tierra) (2023-04-02; es); passages p0015, p0016, p0018. [Structured record](../../records/src-14bbfbca9660.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-14bbfbca9660-c02
+
+She said vehicles can feed surplus power back into the planetary network and use magnetic bearings to reduce wheel and motor friction.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Vehículos eléctricos en Taygeta y en la Tierra](https://swaruu.org/transcripts/vehiculos-electricos-en-taygeta-y-en-la-tierra) (2023-04-02; es); passages p0019, p0021. [Structured record](../../records/src-14bbfbca9660.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
 ## Claims filed under other topics
 
 - [src-f97a14514a47-c04](taygetan-ecosystems.md#src-f97a14514a47-c04) — Taygetan ecosystems
 - [src-7288ab90f589-c05](toleka-class.md#src-7288ab90f589-c05) — Toleka-class starships
+- [src-14bbfbca9660-c03](holistic-society.md#src-14bbfbca9660-c03) — Holistic society
+
+## Review flags
+
+- Claims about Taygetan technology and Earth EV policy are attributed to Mari Swaruu.

@@ -1,0 +1,65 @@
+{
+  "source_id": "src-07f9f86e1027",
+  "snapshot_sha256": "4e8a5e63e87fe03aac1c6fcf1ec8db678b3affe9eca31fb04c1cf8cf4e8ba820",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-07f9f86e1027-c01",
+      "assertion": "Mari claimed at least 400,000 human-like civilizations exist in her galactic sector, including populations genetically similar to terrestrial humans.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "humanity-multi-species-experiment",
+      "topics": [
+        "humanity-multi-species-experiment",
+        "lyrians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-07f9f86e1027-c02",
+      "assertion": "She said non-Earth human civilizations commonly trace human origins to planets around Vega in Lyra and associate their migration with the Great Expansion and Orion Wars.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015"
+      ],
+      "primary_topic": "lyrians",
+      "topics": [
+        "lyrians",
+        "lyran-expansion",
+        "orion-wars"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She added humans existed earlier and elsewhere too."
+    },
+    {
+      "id": "src-07f9f86e1027-c03",
+      "assertion": "Mari said Taygeta attributes most human genetic alteration to mental and perceptual control, which she claimed can be reversed through individual consciousness expansion.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "neural-frequency-genetic-engineering",
+      "topics": [
+        "neural-frequency-genetic-engineering",
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The author explicitly framed this material as entertainment or science fiction; claims are attributed to Mari."
+  ],
+  "coverage_gaps": [
+    "Her claims about scientific method and the Matrix, and the non-linear view of time"
+  ]
+}

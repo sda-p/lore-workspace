@@ -48,9 +48,12 @@ Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-
 
 - [src-eb63ff9a2c19-c01](vaccine-inoculation-claims.md#src-eb63ff9a2c19-c01) — Inoculation and genetic alteration claims
 - [src-eb63ff9a2c19-c02](vaccine-inoculation-claims.md#src-eb63ff9a2c19-c02) — Inoculation and genetic alteration claims
+- [src-0c295f560205-c01](electromagnetic-mind-influence.md#src-0c295f560205-c01) — Electromagnetic influence on perception
+- [src-0c295f560205-c02](electromagnetic-mind-influence.md#src-0c295f560205-c02) — Electromagnetic influence on perception
 
 ## Review flags
 
+- The article revises its initial speculation: it reports no direct evidence of animal-specific control.
 - attributed-covid-and-5g-conspiracy-claims
 - attributed-vaccine-claims
 - potentially-harmful-device-experiment-claims

@@ -1,0 +1,54 @@
+{
+  "source_id": "src-531dd2c83cf3",
+  "snapshot_sha256": "766a1cbf69c84f846e6c8193ce341d46171c1e05eae61aa9606f4b2f582c1628",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-531dd2c83cf3-c01",
+      "assertion": "Yazhi calls Earth a soul game with self-chosen challenges; people choose whether to fight and should care for themselves and loved ones.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0003", "p0005", "p0007", "p0009"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-531dd2c83cf3-c02",
+      "assertion": "She says starseeds accept challenges and offer alternatives, but are not responsible for changing others or defeating the Cabal.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0015", "p0017", "p0019", "p0020"],
+      "primary_topic": "starseed-guides",
+      "topics": ["starseed-guides", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-531dd2c83cf3-c03",
+      "assertion": "Yazhi says fighting the Cabal feeds it and risks becoming a new Cabal; she favors offering alternatives.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0009", "p0015", "p0017"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-531dd2c83cf3-c04",
+      "assertion": "Yazhi suspects military operations are psychological, says no source has all truth, and admits lacking facts on individual operations.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0048", "p0049", "p0050"],
+      "primary_topic": "earth-cabal",
+      "topics": ["earth-cabal"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["perceptual choices and new Earth", "starseed soul-development claims"]
+}

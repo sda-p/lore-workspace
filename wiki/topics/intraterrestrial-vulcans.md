@@ -28,6 +28,14 @@ Source: [EL SISTEMA SOLAR - EL PLANETA TIERRA](https://swaruu.org/transcripts/el
 
 Related topics: [Reptilians](reptilians.md), [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-f994e07a2582-c03
+
+She describes underground fauna and humanoids, including Antarctic Vulcans facing Kingu Reptilian incursions; information is limited. Yazhi says the Vulcan society is poorly documented.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Núcleo de la Tierra - es Nuestro Planeta Hueco? - Información Extraterrestre](https://swaruu.org/transcripts/nucleo-de-la-tierra-es-nuestro-planeta-hueco-informacion-extraterrestre) (2023-02-10; es); passages p0018, p0019. [Structured record](../../records/src-f994e07a2582.json).
+
 ## Claims filed under other topics
 
 - [src-ba6a1792fd69-c04](agarthians.md#src-ba6a1792fd69-c04) — Agarthians
@@ -35,5 +43,6 @@ Related topics: [Reptilians](reptilians.md), [Moon and terrestrial Matrix](moon-
 
 ## Review flags
 
+- Yazhi states that her information about Antarctic Vulcans and deep-cavern beings is limited or partly uncorroborated.
 - contested-history
 - date-discrepancy

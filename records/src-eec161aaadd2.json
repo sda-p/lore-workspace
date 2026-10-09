@@ -1,0 +1,89 @@
+{
+  "source_id": "src-eec161aaadd2",
+  "snapshot_sha256": "046008a3622dcda5ae6c716011fbe0f2ccda98deb6d0cdbbbb498acbf4faf3a2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-eec161aaadd2-c01",
+      "assertion": "Athena says other selves do not prescribe one’s path; dissatisfaction may signal a direction to pursue what one enjoys.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eec161aaadd2-c02",
+      "assertion": "She says psychics mainly see their own timeline; readings of others reflect the reader’s interpretation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Guidance must come from the person."
+    },
+    {
+      "id": "src-eec161aaadd2-c03",
+      "assertion": "She says access to other selves depends on frequency compatibility and describes a multidimensional unconscious linking timelines.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-eec161aaadd2-c04",
+      "assertion": "Athena defines channeling as telepathic exchange and warns of misinterpretation; Swaruu (9) says archons may intervene.",
+      "speaker": "Swaruu X (Athena) and Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Some channels stay positive; messages may be manipulated."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about psychics, telepathy, and entities are attributed to the named speakers, not independently verified."
+  ],
+  "coverage_gaps": [
+    "mysterious visitor who predicted a family’s future",
+    "why channelers connect to compatible entities"
+  ]
+}

@@ -758,6 +758,50 @@ Source: [ERES EL UNIVERSO TODOS ESTAMOS CONECTADOS POR ESO TODOS SOMOS UNO - Sop
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-155778a65ec3-c02
+
+Yazhi says historical records can reflect multiple timelines rather than one linear past, complicating agreement about chronology. She contrasts this with a simple arrow-like model of time.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EL RESURGIMIENTO DE UNA CIVILIZACIÓN AVANZADA - Yazhi - Sophia Swaruu](https://swaruu.org/transcripts/el-resurgimiento-de-una-civilizacion-avanzada-yazhi-sophia-swaruu) (2023-01-02; es); passages p0007, p0008. [Structured record](../../records/src-155778a65ec3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-eba1fa9a8f38-c02
+
+Yazhi says time is nonlinear and some present events may be caused by future events.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Mundo al Revés y el Futuro influenciando el Pasado - Charlas metafísicas con Yazhi Swaruu](https://swaruu.org/transcripts/mundo-al-reves-y-el-futuro-influenciando-el-pasado-charlas-metafisicas-con-yazhi-swaruu) (2022-12-18; es); passages p0039, p0041. [Structured record](../../records/src-eba1fa9a8f38.json).
+
+### src-eba1fa9a8f38-c03
+
+Yazhi says parallel timelines converge into the present, combining experiences that shape a person's identity.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Mundo al Revés y el Futuro influenciando el Pasado - Charlas metafísicas con Yazhi Swaruu](https://swaruu.org/transcripts/mundo-al-reves-y-el-futuro-influenciando-el-pasado-charlas-metafisicas-con-yazhi-swaruu) (2022-12-18; es); passages p0062, p0063, p0064. [Structured record](../../records/src-eba1fa9a8f38.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-0e507b21433f-c04
+
+He suggests helping another may create a shared positive timeline, while saying this cannot be known with certainty.
+
+Attributed to **Za’el de Erra**; speculative; extraction confidence: high.
+
+Source: [Acuerdos del "alma", Omisión de acción, y cambiar la línea de tiempo de otro](https://swaruu.org/transcripts/acuerdos-del-alma-omision-de-accion-y-cambiar-la-linea-de-tiempo-de-otro) (2023-03-22; es); passages p0032. [Structured record](../../records/src-0e507b21433f.json).
+
+### src-eec161aaadd2-c02
+
+She says psychics mainly see their own timeline; readings of others reflect the reader’s interpretation. Guidance must come from the person.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Videntes - Podrian Decirme Que Debo Hacer? - Athena Swaruu responde](https://swaruu.org/transcripts/videntes-podrian-decirme-que-debo-hacer-athena-swaruu-responde) (2023-03-02; es); passages p0010, p0011, p0013, p0015. [Structured record](../../records/src-eec161aaadd2.json).
+
 ## Claims filed under other topics
 
 - [src-4d14ae46991f-c04](consciousness-metaphysics.md#src-4d14ae46991f-c04) — Consciousness and metaphysics
@@ -822,12 +866,17 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-d0de3dcb86df-c04](temporal-skipping.md#src-d0de3dcb86df-c04) — Temporal skipping
 - [src-bb099276c98e-c02](consciousness-metaphysics.md#src-bb099276c98e-c02) — Consciousness and metaphysics
 - [src-b6d4df9b3066-c02](consciousness-metaphysics.md#src-b6d4df9b3066-c02) — Consciousness and metaphysics
+- [src-155778a65ec3-c01](lyran-expansion.md#src-155778a65ec3-c01) — Lyran expansion
+- [src-e33e26096a8a-c01](collective-timeline-influence.md#src-e33e26096a8a-c01) — Collective timeline influence
+- [src-eba1fa9a8f38-c05](consciousness-metaphysics.md#src-eba1fa9a8f38-c05) — Consciousness and metaphysics
 
 ## Review flags
 
 - Abilities, body control, and density model are Yazhi’s self-reports
 - Athena’s multiverse/relationship-variant model and Swaruu (9)’s older soulmate model are distinct source sections
+- Claims about psychics, telepathy, and entities are attributed to the named speakers, not independently verified.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - English source src-62f745a4f503 is a close translation of the full Spanish article; paragraph segmentation differs, with no substantive additions found.
 - English source src-dd0d7340a655 closely translates the complete Spanish article; paragraph segmentation differs, with no substantive additions found.
@@ -835,6 +884,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Minerva’s claims about souls, vaccine effects, and astral conflict are metaphysical testimony; omitted health claims
 - Outcome scenarios and Federation response are predictions in a 2020 source, not established outcomes
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
+- Spiritual interpretations and timeline claims are attributed to Za’el, not independently verified.
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
 - Time model rejects fixed linear time; do not reconcile with other accounts.
 - Timeline travel described as branching/lateral; source does not quantify coordinates.
@@ -876,6 +926,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - metaphysical-model\_attributed
 - mirror-identity-varies
 - near-duplicate-of-src-051532dd5b50
+- nonlinear-history-claims
 - nonlinear-time-model-attributed
 - numerical influence comparisons are illustrative, not fixed ratios
 - objective-versus-personal-reality-framing

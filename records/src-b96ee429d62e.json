@@ -1,0 +1,83 @@
+{
+  "source_id": "src-b96ee429d62e",
+  "snapshot_sha256": "ac6b8ca57b0c6c25851bb93ca280c7f65d7b23b2a24fe216c51b084f125c6658",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b96ee429d62e-c01",
+      "assertion": "Mari Swaruu says the body filters spiritual awareness into a narrow material band; personal memory resides in an etheric field, not the brain.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b96ee429d62e-c02",
+      "assertion": "She describes DNA and cellular crystal structures as frequency antennas tuned to an individual soul, with brain and nervous system translating experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b96ee429d62e-c03",
+      "assertion": "She says consciousness survives death with ego identity intact; personal vibration shapes postmortem experience, and reincarnation remains possible.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0017",
+        "p0021",
+        "p0026"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b96ee429d62e-c04",
+      "assertion": "She says some dark entities may be collective-unconscious egregors; materialist denial lets them exploit people.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The author presents the memory-location and disease examples as metaphysical claims."
+  ],
+  "coverage_gaps": [
+    "brain injury and Alzheimer’s claims",
+    "reincarnation history",
+    "protective practices"
+  ]
+}

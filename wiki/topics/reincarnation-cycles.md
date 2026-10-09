@@ -6,6 +6,12 @@ Aliases: ciclos de reencarnación, karma
 
 These are source-specific assertions; disagreement is preserved rather than resolved by publication order.
 
+## Related topic collections
+
+These collections share labels; that alone does not establish identical entities or concepts.
+
+- [Karma and dharma](karma-and-dharma.md)
+
 ## Collected claims
 
 ### src-6c81d51e9d7c-c01
@@ -190,6 +196,60 @@ Source: [Yazhi Swaruu y los Asuntos del Pasado Humano - Influencias Perceptuales
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-9b0e688f41d9-c05
+
+Yazhi says controllers manipulate reincarnation through guilt, though souls also return voluntarily for Earth’s experiences.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [Astrología - Plutón entrando en Acuario - Perspectiva Extraterrestre](https://swaruu.org/transcripts/astrologia-pluton-entrando-en-acuario-perspectiva-extraterrestre) (2023-02-05; es); passages p0059, p0060, p0061. [Structured record](../../records/src-9b0e688f41d9.json).
+
+### src-c6671f7e71b0-c02
+
+Yazhi said Earth lives are voluntary soul experiences that use limited memory and uncertainty to practice emotions; misinformation may still shape choices.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [PORQUE LOS EXTRATERRESTRES DESEAN EL PLANETA TIERRA - Athena - Yazhi](https://swaruu.org/transcripts/porque-los-extraterrestres-desean-el-planeta-tierra-athena-yazhi) (2023-01-27; es); passages p0021, p0022, p0023, p0049, p0052, p0054, p0066, p0074, p0083. [Structured record](../../records/src-c6671f7e71b0.json).
+
+Related topics: [Memory Veil](memory-veil.md).
+
+### src-f98eceaf4634-c02
+
+Yazhi described incarnations as voluntary soul experiences, with memory limits and uncertainty used to intensify emotion and test personal growth. She said each soul’s reasons and degree of choice vary.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [La Tierra - Porque les Importa a los Extraterrestres? Athena y Yazhi Swaruu](https://swaruu.org/transcripts/la-tierra-porque-les-importa-a-los-extraterrestres-athena-y-yazhi-swaruu) (2023-01-21; es); passages p0043, p0044, p0047, p0053, p0056, p0057. [Structured record](../../records/src-f98eceaf4634.json).
+
+Related topics: [Memory Veil](memory-veil.md).
+
+### src-5396b3e5a9fd-c02
+
+She says reluctance to reincarnate may change after death, when physical life seems temporary.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Mismos eventos, distintos significados - Lado físico/espiritual](https://swaruu.org/transcripts/mismos-eventos-distintos-significados-lado-fisico-espiritual) (2023-03-08; es); passages p0020, p0023. [Structured record](../../records/src-5396b3e5a9fd.json).
+
+### src-5396b3e5a9fd-c04
+
+She attributes repeated reincarnation to personal attachments, not coercive entities. Letting go and forgiveness may help avoid repetition.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Mismos eventos, distintos significados - Lado físico/espiritual](https://swaruu.org/transcripts/mismos-eventos-distintos-significados-lado-fisico-espiritual) (2023-03-08; es); passages p0030, p0032, p0031. [Structured record](../../records/src-5396b3e5a9fd.json).
+
+### src-e01eaa468a9c-c04
+
+Za’el urges people in despair to keep going and care for themselves, claiming death may repeat distress or lead to a matching life. This is his spiritual claim, not verified fact.
+
+Attributed to **Za’el de Erra**; reported; extraction confidence: high.
+
+Source: [¿Adónde vamos después de la muerte?](https://swaruu.org/transcripts/adonde-vamos-despues-de-la-muerte) (2023-04-13; es); passages p0026, p0029, p0030. [Structured record](../../records/src-e01eaa468a9c.json).
+
+Related topics: [Postmortem realities](postmortem-realities.md).
+
 ## Claims filed under other topics
 
 - [src-de139e50d05b-c02](postmortem-realities.md#src-de139e50d05b-c02) — Postmortem realities
@@ -210,17 +270,35 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-2496c5717d1f-c01](perceptual-density.md#src-2496c5717d1f-c01) — Perceptual density
 - [src-2496c5717d1f-c03](immersion-pods.md#src-2496c5717d1f-c03) — Immersion pods
 - [src-9021de63c829-c04](astral-entities.md#src-9021de63c829-c04) — Astral entities
+- [src-8035db074017-c02](sophia-swaruu.md#src-8035db074017-c02) — Sophia Swaruu
+- [src-a5922967f589-c02](dna-metaphysics.md#src-a5922967f589-c02) — DNA and metaphysical patterns
+- [src-c6671f7e71b0-c01](starseeds.md#src-c6671f7e71b0-c01) — Starseeds
+- [src-f98eceaf4634-c01](starseeds.md#src-f98eceaf4634-c01) — Starseeds
+- [src-2be77fc03489-c02](dna-metaphysics.md#src-2be77fc03489-c02) — DNA and metaphysical patterns
+- [src-2be77fc03489-c03](dna-metaphysics.md#src-2be77fc03489-c03) — DNA and metaphysical patterns
+- [src-2be77fc03489-c06](dna-metaphysics.md#src-2be77fc03489-c06) — DNA and metaphysical patterns
+- [src-7951d6bf342c-c02](dna-metaphysics.md#src-7951d6bf342c-c02) — DNA and metaphysical patterns
+- [src-cadb5ca8cdb8-c03](frequency-astrology.md#src-cadb5ca8cdb8-c03) — Frequency-based astrology
+- [src-97d1cf163a44-c02](dna-metaphysics.md#src-97d1cf163a44-c02) — DNA and metaphysical patterns
+- [src-eba1fa9a8f38-c04](soul-loop-reincarnation.md#src-eba1fa9a8f38-c04) — Soul-loop reincarnation
 
 ## Review flags
 
 - Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
+- Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
+- Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
 - DNA-consciousness-causality-claim
+- Metaphysical genetics and the 22-lineage account are attributed claims; the speaker calls the lab-origin explanation simplistic.
+- Pluto-Shiva-identification-attributed-to-Federation-records
+- The article presents metaphysical DNA interpretations attributed to the speakers.
+- The transcript makes spiritual claims about death and reincarnation; they are attributed to Za’el and not verified.
 - afterlife-claims-are-source-model
 - anti-vaccine-conspiracy-claims
 - astral-memory-frequency-claim
 - collective-self-perspective-attributed
 - death-account:medical-cause-and-ether-dissolution
 - expanded-and-bereaved-perspectives-attributed
+- extraordinary-character-abilities
 - federation-level-claims-attributed
 - federation-noninterference-tension
 - genocide-and-elite-conspiracy-allegations

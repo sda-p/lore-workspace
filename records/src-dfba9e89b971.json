@@ -1,0 +1,87 @@
+{
+  "source_id": "src-dfba9e89b971",
+  "snapshot_sha256": "5ded9cc8444bd29efad013f6b702f4b0a3a22902cd77b335b6931b7e98d282c6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dfba9e89b971-c01",
+      "assertion": "Mari quotes the First Directive as barring interference with non-interstellar cultures and introducing superior knowledge or technology.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dfba9e89b971-c02",
+      "assertion": "She says it forbids proof of Federation existence; exceptions allow correction of prior violations or contamination.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dfba9e89b971-c03",
+      "assertion": "She says a 2009 First Contact project used only human technology and no direct proof to assess public acceptance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "taygetan-first-contact-project",
+      "topics": [
+        "taygetan-first-contact-project",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dfba9e89b971-c04",
+      "assertion": "Mari argues the Directive is inconsistent because she believes the Federation already directs Earth society and technology.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this makes the Federation complicit in Earth’s suffering."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Federation policies and Earth-intervention allegations are reported by Mari Swaruu, not independently verified."
+  ],
+  "coverage_gaps": [
+    "prior violations and contamination exception",
+    "contact restrictions discussed in the next video"
+  ]
+}

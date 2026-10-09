@@ -1,0 +1,86 @@
+{
+  "source_id": "src-e9a6108eaecc",
+  "snapshot_sha256": "a997475e602488311e076a2347b4014917e466d50702a30e2922ff9e485d6f43",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e9a6108eaecc-c01",
+      "assertion": "Mari Swaruu distinguishes a nonphysical higher Federation of expanded selves and guides, existing beyond space-time, from the physical Galactic Federation.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0010"
+      ],
+      "primary_topic": "higher-federation-councils",
+      "topics": [
+        "higher-federation-councils"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e9a6108eaecc-c02",
+      "assertion": "She says the physical Federation remains material, but interprets events from a broader perspective; New Age accounts blend it with the higher group.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e9a6108eaecc-c03",
+      "assertion": "She says events viewed negatively in physical life may later be understood as learning opportunities from an expanded perspective.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e9a6108eaecc-c04",
+      "assertion": "She says souls are beings of light, while egregors arise from collective or personal unconscious fears without direct connection to Source.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source explicitly separates the spiritual higher Federation from the physical Galactic Federation."
+  ],
+  "coverage_gaps": [
+    "Light-being abilities and nonlocality",
+    "guides incarnating among humans",
+    "telepathic higher-group communication"
+  ]
+}

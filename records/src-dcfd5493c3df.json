@@ -1,0 +1,68 @@
+{
+  "source_id": "src-dcfd5493c3df",
+  "snapshot_sha256": "3a53e7407a51bf608310ade9e078a3db8d772c0dc5fe46b5e842aa2f3b792f34",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dcfd5493c3df-c01",
+      "assertion": "Mari described the Toleka as a 1,734-meter former battle cruiser converted into a multipurpose deep-space yacht, with about 30 people aboard instead of its original 1,800.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-dcfd5493c3df-c02",
+      "assertion": "Mari said Yazhi remembers more than 12 past lives in detail, including repeated deaths, and finds the memories emotionally burdensome.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "memory-veil"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Mari said only Yazhi knows the exact number."
+    },
+    {
+      "id": "src-dcfd5493c3df-c03",
+      "assertion": "Anéeka viewed children’s play as a way to learn and practice controlling the world; Yazhi said she played to forget.",
+      "speaker": "Anéeka and Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "holistic-society"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Past-life memories are claims reported by Mari, not independently verified."
+  ],
+  "coverage_gaps": [
+    "The toy setup and details of the Toleka garden hall"
+  ]
+}

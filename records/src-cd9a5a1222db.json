@@ -1,0 +1,71 @@
+{
+  "source_id": "src-cd9a5a1222db",
+  "snapshot_sha256": "14d7568264c306e54709039daafa9bab3a21092ebb3018af68ca19f74d815263",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-cd9a5a1222db-c01",
+      "assertion": "Yazhi said she had no evidence of downed nonhuman craft or unusually high drone traffic; she speculated the reports might serve a false-invasion agenda.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0008",
+        "p0011",
+        "p0031"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "nonhuman-surveillance-drones"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She said this was one possible agenda, not a prediction."
+    },
+    {
+      "id": "src-cd9a5a1222db-c02",
+      "assertion": "Yazhi said the “Galactic Federation of Light” is a human-made narrative, distinct from the United Planets Federation, and would not represent genuine Federation intervention.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0033",
+        "p0035",
+        "p0037",
+        "p0042"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-cd9a5a1222db-c03",
+      "assertion": "She speculated a staged alien threat and rescue could justify digital IDs, restrictions, and a New World Order; promised technology might be used to trade away freedoms.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0058",
+        "p0060",
+        "p0061"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about alien craft, agencies, and political agendas are attributed speculation."
+  ],
+  "coverage_gaps": [
+    "Possible manufactured video leaks and vehicle policy claims"
+  ]
+}

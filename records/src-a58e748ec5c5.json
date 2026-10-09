@@ -1,0 +1,54 @@
+{
+  "source_id": "src-a58e748ec5c5",
+  "snapshot_sha256": "c3106f6904863656ae9940f772f9b238f8234e523f3a81c614487919e9222fb4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a58e748ec5c5-c01",
+      "assertion": "Mari describes timelines as energetic sequences shaped by conscious observation and choices; people with similar perceptions can share one.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0004", "p0005", "p0007", "p0008", "p0016"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "frequency-map-navigation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a58e748ec5c5-c02",
+      "assertion": "She says attention, interpretation, and emotional frequency influence lived timelines; higher-frequency people shape shared reality more strongly.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0018", "p0021", "p0023", "p0025"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a58e748ec5c5-c03",
+      "assertion": "Mari says starships use navigation maps and high-energy toroidal fields to emulate minds and shift the ship’s frequencies to match a destination.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0027", "p0028"],
+      "primary_topic": "frequency-map-navigation",
+      "topics": ["frequency-map-navigation", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a58e748ec5c5-c04",
+      "assertion": "Mari equates hyperspace and time travel as navigation, with similar energy costs for spatial and temporal movement, but warns of ethical risks.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0029", "p0030", "p0031", "p0032"],
+      "primary_topic": "temporal-skipping",
+      "topics": ["temporal-skipping", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["mind-only timeline shifts", "ethical consequences of time travel"]
+}

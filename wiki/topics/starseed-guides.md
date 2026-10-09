@@ -44,6 +44,24 @@ Source: [Los Extraterrestres. Porque estan aqui ? - Taygeteanas - Swaruunianas -
 
 Related topics: [Prime Directive](prime-directive.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-0470731195af-c03
+
+She says starseeds may feel unlike others because of stronger Source connection, while Earth’s collective frequency pressures them to conform.
+
+Attributed to **Arién de Erra**; asserted; extraction confidence: high.
+
+Source: [El Miedo y la Actitud frente a la Vida](https://swaruu.org/transcripts/el-miedo-y-la-actitud-frente-a-la-vida) (2023-03-28; es); passages p0011, p0012. [Structured record](../../records/src-0470731195af.json).
+
+### src-e54847d402e6-c02
+
+Za’el said off-world individuals may come to Earth to help loved ones, encourage positive change, observe, or live among people; he said he once lived in southern Spain. He presented this as his personal account.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Presentación (Za'el)](https://swaruu.org/transcripts/presentacion-za-el) (2023-02-26; es); passages p0007, p0008, p0009. [Structured record](../../records/src-e54847d402e6.json).
+
+Related topics: [Swaruunians](swaruunians.md).
+
 ## Claims filed under other topics
 
 - [src-5e8b4d828ea6-c03](taygetans.md#src-5e8b4d828ea6-c03) — Taygetans
@@ -54,6 +72,7 @@ Related topics: [Prime Directive](prime-directive.md), [Consciousness and metaph
 ## Review flags
 
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
+- The author explicitly invited readers to treat the content as fiction or entertainment.
 - account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
 - claims-attributed-to-Athena
 - exopolitical and refugee claims are attributed to Alenym and not independently verified

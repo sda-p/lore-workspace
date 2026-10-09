@@ -1,0 +1,75 @@
+{
+  "source_id": "src-6d5ee8028d87",
+  "snapshot_sha256": "fff0850dd75ba22192a1ee03506282555ef6fe9d6d2de870dcdae2cd76c5c08f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6d5ee8028d87-c01",
+      "assertion": "Mari describes Orion Greys as short, amoral contractors who serve factions for resources and cooperate with Reptilians from underground bases.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "orion-grays",
+      "topics": [
+        "orion-grays",
+        "kingu",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6d5ee8028d87-c02",
+      "assertion": "She describes Etortans as telepathic, genderless gardeners from Betelgeuse who terraform worlds, heal biology, and hold influence in Earth's Federation council.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0023",
+        "p0026"
+      ],
+      "primary_topic": "etorthans",
+      "topics": [
+        "etorthans",
+        "galactic-federation",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls them positive but warns their rigid logic can cause suffering."
+    },
+    {
+      "id": "src-6d5ee8028d87-c03",
+      "assertion": "Mari says bio-robotic Greys are engineered, soulless task-specific beings, but doubts they exist as a distinct species rather than fear egregors.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "egregors",
+        "maitre"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says abductees may confuse them with other Greys."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Etortan leadership style and feline opposition",
+    "abduction accounts and supervising species"
+  ]
+}

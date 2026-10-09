@@ -672,6 +672,24 @@ Attributed to **Yazhi**; speculative; extraction confidence: medium.
 
 Source: [Memorias de Vidas Pasadas - Contemplaciones con Athena, Yazhi, y Gosia](https://swaruu.org/transcripts/memorias-de-vidas-pasadas-contemplaciones-con-athena-yazhi-y-gosia) (2022-08-12; es); passages p0018, p0021, p0025. [Structured record](../../records/src-daa6375b23e6.json).
 
+### src-ca54384ffa82-c01
+
+Mari Swaruu says Suzy-class jumps leave a detectable field disturbance for seconds or minutes; combat pilots can randomize jumps through space and time to evade pursuit. She calls the combined spatial and temporal maneuver Space Skipping.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo llegó aquí Mari Swaruu. Mi llegada.](https://swaruu.org/transcripts/como-llego-aqui-mari-swaruu-mi-llegada) (2023-01-13; es); passages p0017, p0018, p0019, p0020. [Structured record](../../records/src-ca54384ffa82.json).
+
+Related topics: [Suzy fighter craft](suzy-fighter-craft.md), [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-393a848bb064-c03
+
+She proposes timelines and locations as coded context; temporal travel requires enough details to select the intended variant.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Qué es el Tiempo y Cómo Funciona - Parte 1: Los datos de tu contexto](https://swaruu.org/transcripts/que-es-el-tiempo-y-como-funciona-parte-1-los-datos-de-tu-contexto) (2023-03-04; es); passages p0016, p0017, p0018, p0019. [Structured record](../../records/src-393a848bb064.json).
+
 ## Claims filed under other topics
 
 - [src-c72b629726c7-c01](stellar-navigation.md#src-c72b629726c7-c01) — Stellar navigation
@@ -723,6 +741,7 @@ Source: [Memorias de Vidas Pasadas - Contemplaciones con Athena, Yazhi, y Gosia]
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - Timeline travel described as branching/lateral; source does not quantify coordinates.
 - Van Allen belts both set a baseline and can be transcended; preserve distinction.
+- Za’el presents this as her own model for understanding time.
 - black-hole-ether-model
 - consciousness-gravity-model
 - conspiracy\_claims
@@ -744,6 +763,7 @@ Source: [Memorias de Vidas Pasadas - Contemplaciones con Athena, Yazhi, y Gosia]
 - near-duplicate:src-d328a6c23916
 - perception-model-uses-and-rejects-literal-timeline-terms
 - personal-ability-claims-attributed
+- personal-narrative-of-temporal-travel
 - personal\_metaphysics
 - perspective-conflict:time-jump-effects
 - portal-time-travel-risk

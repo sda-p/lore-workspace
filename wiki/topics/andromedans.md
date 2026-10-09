@@ -67,6 +67,7 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - [src-89c87eaf0e6d-c02](consciousness-metaphysics.md#src-89c87eaf0e6d-c02) — Consciousness and metaphysics
 - [src-89c87eaf0e6d-c03](alien-species.md#src-89c87eaf0e6d-c03) — Alien species and distinctions
 - [src-56668c63592b-c01](galactic-federation.md#src-56668c63592b-c01) — Galactic Federation
+- [src-607024b7b198-c01](moon-biosphere-ship.md#src-607024b7b198-c01) — The Moon as a biosphere ship
 
 ## Review flags
 
@@ -74,5 +75,6 @@ Related topics: [Galactic Federation](galactic-federation.md).
 - conspiracy-claims
 - contested-claims
 - intervention-position-varies-across-dialogues
+- lunar-vessel-account
 - quoted-speaker-attribution:NaiShara-quotes-Yazhi
 - species-trait-generalizations-attributed

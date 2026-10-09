@@ -104,6 +104,26 @@ Source: [Espiritualidad con Minerva Swaruu - Bienvenida Abordo - Joven Extraterr
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-8035db074017-c01
+
+Mari Swaruu says Sophia was born aboard a fast-moving starship in hyperspace, away from planets, to limit collective-perception influences. Mari says her mother and grandmother minimized planetary exposure during gestation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Quién es Sophi (Sophia Swaruu)](https://swaruu.org/transcripts/quien-es-sophi-sophia-swaruu) (2023-02-14; es); passages p0010, p0016. [Structured record](../../records/src-8035db074017.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-8035db074017-c02
+
+Mari Swaruu says Sophia remembers at least twelve past incarnations and can pass through solid walls by treating her body as spirit. Mari presents these as Sophia's reported abilities and understanding.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Quién es Sophi (Sophia Swaruu)](https://swaruu.org/transcripts/quien-es-sophi-sophia-swaruu) (2023-02-14; es); passages p0019, p0025, p0026. [Structured record](../../records/src-8035db074017.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-c3f4e5261a9c-c03](consciousness-metaphysics.md#src-c3f4e5261a9c-c03) — Consciousness and metaphysics
@@ -120,6 +140,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
 - Minerva’s claims about souls, vaccine effects, and astral conflict are metaphysical testimony; omitted health claims
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
+- extraordinary-character-abilities
 - metaphysical-genetics-unverified
 - reincarnation-cosmology
 - second-contact-stoppage-attributed-to-yazhi

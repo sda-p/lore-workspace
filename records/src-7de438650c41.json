@@ -1,0 +1,85 @@
+{
+  "source_id": "src-7de438650c41",
+  "snapshot_sha256": "eaa6fb20ab78ca31b0986b6e9e40cb14e224df8e592b089939e9634ecc2927c8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7de438650c41-c01",
+      "assertion": "Athena alleges intelligence services infiltrate spiritual and ufology movements, elevating trusted insiders and discrediting people whose claims conflict with their agenda.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "secret-society-hierarchy"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7de438650c41-c02",
+      "assertion": "Anéeka says flat-Earth content creates confusion by flooding networks with conflicting explanations, sometimes using a true premise to support falsehoods.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7de438650c41-c03",
+      "assertion": "She says authorities use public metadata and interests to tailor messages and control groups; she characterizes New Age spirituality as controlled religion.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7de438650c41-c04",
+      "assertion": "Anéeka defines “extraterrestrial” and “alien” as non-Earth biological origins with friendly versus hostile connotations; UAP is a formalized label for UFOs.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The CIA and New Age infiltration statements are attributed allegations by the speakers."
+  ],
+  "coverage_gaps": [
+    "Claims about the CIA’s institutional role and Vatican contacts",
+    "Flat-Earth arguments and extraterrestrial terminology context"
+  ]
+}

@@ -75,6 +75,7 @@ Related topics: [Orion Wars](orion-wars.md).
 - [src-7ee742c5e8d8-c03](reptilians.md#src-7ee742c5e8d8-c03) — Reptilians
 - [src-de22732f48f1-c01](antarctica.md#src-de22732f48f1-c01) — Antarctica
 - [src-c57cf7f12530-c03](maitre.md#src-c57cf7f12530-c03) — Maitre
+- [src-2e44af6cf865-c01](cultivated-meat.md#src-2e44af6cf865-c01) — Cultivated meat
 
 ## Review flags
 
@@ -83,6 +84,7 @@ Related topics: [Orion Wars](orion-wars.md).
 - egregor-versus-species-distinction
 - exopolitical-faction-claims
 - federation-seizure-claim
+- food-claims-context
 - hidden-inner-earth-entrance-claim
 - metaphysical-collective-reality-model
 - reptilian-soul-claims

@@ -1,0 +1,74 @@
+{
+  "source_id": "src-4531380816aa",
+  "snapshot_sha256": "5b28d6d6dc5ed61c06257983b04f063432f7cb17f66806a6fbe83e7409ac4cf5",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-4531380816aa-c01",
+      "assertion": "Yazhi said density-frequency ranges are not fixed because densities describe personal consciousness; an unembodied soul has no measurable frequency, unlike a body’s limited range.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4531380816aa-c02",
+      "assertion": "Yazhi said extraterrestrial craft use tractor beams to move people; atmospheric ionization can make a gravity beam glow, though she could not identify what specific videos showed.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "tractor-beams",
+      "topics": [
+        "tractor-beams"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-4531380816aa-c03",
+      "assertion": "Yazhi alleged Elizabeth II was reptilian and projected a human appearance mainly through mind and technology; she said relatives had lesser abilities.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0037",
+        "p0039",
+        "p0040",
+        "p0046",
+        "p0047",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "She said such appearance could be sustained under ordinary human perception."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Reptilian identity claim is an allegation by the speaker."
+  ],
+  "coverage_gaps": [
+    "other Earth-influence and current-event claims"
+  ]
+}

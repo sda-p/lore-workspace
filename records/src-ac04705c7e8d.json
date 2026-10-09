@@ -1,0 +1,54 @@
+{
+  "source_id": "src-ac04705c7e8d",
+  "snapshot_sha256": "4f887792d7f83fd97a26939692e928bb5093c38e911209b375c683ce2a9cfcb1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ac04705c7e8d-c01",
+      "assertion": "Athena claims Urmah from Avyon-uno destroyed a Pfizer vaccine warehouse with a controlled-gravity tractor beam, believing it held phase-two pandemic vaccines.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0003", "p0005", "p0008", "p0012"],
+      "primary_topic": "tractor-beams",
+      "topics": ["tractor-beams", "urmah", "starship-systems"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is Athena’s account of the Urmah’s stated rationale."
+    },
+    {
+      "id": "src-ac04705c7e8d-c02",
+      "assertion": "Athena says the Federation condemned the Urmah for violating the Prime Directive through direct intervention.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0006", "p0014"],
+      "primary_topic": "prime-directive",
+      "topics": ["prime-directive", "galactic-federation", "urmah"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac04705c7e8d-c03",
+      "assertion": "Athena says Urmah follow their own agendas and represent Avyon Council, a feline confederation rivaling the Galactic Federation.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0018", "p0025", "p0026"],
+      "primary_topic": "urmah",
+      "topics": ["urmah", "galactic-federation", "alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ac04705c7e8d-c04",
+      "assertion": "Athena describes Avyon-uno as the Urmah fleet’s flagship, slightly larger than a Toleka, with its own intelligence network.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": ["p0022", "p0024"],
+      "primary_topic": "urmah",
+      "topics": ["urmah", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["claimed laboratories and additional vaccines", "Urmah proximity to Toleka"]
+}

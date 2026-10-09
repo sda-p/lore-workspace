@@ -1,0 +1,87 @@
+{
+  "source_id": "src-0722d32d1582",
+  "snapshot_sha256": "ee56e8d3c1594b5c799fc5ea6bca565fed5ac606979f1b389592561c4ad57373",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0722d32d1582-c01",
+      "assertion": "Mari Swaruu says AI can help generate voices and enhance images, but warns that replacing human activity reduces real experience and creative work.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0008",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0722d32d1582-c02",
+      "assertion": "She claims public AI is a simplified decoy; a more advanced web-embedded system predicts, monitors, and controls human and nonhuman activity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0027"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0722d32d1582-c03",
+      "assertion": "She argues AI reflects its programmers’ culture and ethics; the core issue is who controls its use in society.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0028"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0722d32d1582-c04",
+      "assertion": "She accepts AI assistance for lost-limb recovery but opposes invasive brain chips and replacing human biology by default.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "artificial-intelligence",
+      "topics": [
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about hidden AI capabilities and control are Mari Swaruu’s assertions."
+  ],
+  "coverage_gaps": [
+    "AI fear narratives",
+    "mass adoption and dating systems",
+    "public-facing AI’s programmed constraints"
+  ]
+}

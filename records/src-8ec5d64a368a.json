@@ -1,0 +1,87 @@
+{
+  "source_id": "src-8ec5d64a368a",
+  "snapshot_sha256": "dceab94796e82213d92499ced0b447af2486496ed166db5a2aa81a248fa4a7d4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8ec5d64a368a-c01",
+      "assertion": "Anéeka described Toleka as a 1,734-meter heavy cruiser, the fleet flagship and queen’s yacht, designed for 1,800 crew and calculated as built in 1935.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0205",
+        "p0209",
+        "p0210",
+        "p0212",
+        "p0215"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ec5d64a368a-c02",
+      "assertion": "Anéeka said Toleka has modular interiors whose prefabricated sections can be rearranged for different missions.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0007",
+        "p0032",
+        "p0228"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ec5d64a368a-c03",
+      "assertion": "Yazhi said Toleka’s shields preserve air pressure at 1.2 bar while large hangar panels open to space.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0140",
+        "p0141",
+        "p0142"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8ec5d64a368a-c04",
+      "assertion": "Anéeka said Taygetan flight suits regulate temperature and resist fire, bullets, laser, plasma, sound, and electromagnetic weapons.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0162",
+        "p0163",
+        "p0165",
+        "p0166"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Gloves and boots have the same properties."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The ship’s layout and current equipment are described at different dates and may have changed."
+  ],
+  "coverage_gaps": [
+    "internal decks and crew leisure spaces"
+  ]
+}

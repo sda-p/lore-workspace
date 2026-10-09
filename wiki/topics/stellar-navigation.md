@@ -1544,6 +1544,26 @@ Source: [Mini Temas - Información Extraterrestre - Tertulia con Gosia](https://
 
 Related topics: [Alcyone Council](alcyone-council.md), [Cyndriel](cyndriel.md).
 
+### src-877d9746441a-c03
+
+She says large ships exit jumps up to one-third AU away, then approach below light speed; exits emit detectable gamma bursts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar, Conceptos Básicos](https://swaruu.org/transcripts/navegacion-estelar-conceptos-basicos) (2022-12-23; es); passages p0020, p0021, p0022. [Structured record](../../records/src-877d9746441a.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-877d9746441a-c04
+
+She says jump wakes may reveal a ship’s route, while space-skipping can mask its trail in combat.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar, Conceptos Básicos](https://swaruu.org/transcripts/navegacion-estelar-conceptos-basicos) (2022-12-23; es); passages p0023, p0025. [Structured record](../../records/src-877d9746441a.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
 ## Claims filed under other topics
 
 - [src-62f745a4f503-c03](consciousness-metaphysics.md#src-62f745a4f503-c03) — Consciousness and metaphysics
@@ -1657,9 +1677,14 @@ Related topics: [Alcyone Council](alcyone-council.md), [Cyndriel](cyndriel.md).
 - [src-2b1192891e85-c02](starship-systems.md#src-2b1192891e85-c02) — Starship systems
 - [src-b6d4df9b3066-c04](muon-gravity-communications.md#src-b6d4df9b3066-c04) — Muon-triggered gravity communications
 - [src-e10b7b1c1712-c01](great-pyramid-of-giza.md#src-e10b7b1c1712-c01) — Great Pyramid of Giza
+- [src-b01e12100c02-c01](frequency-astrology.md#src-b01e12100c02-c01) — Frequency-based astrology
+- [src-f10960087bcd-c02](frequency-map-navigation.md#src-f10960087bcd-c02) — Frequency-map navigation
+- [src-9b0e688f41d9-c02](frequency-map-navigation.md#src-9b0e688f41d9-c02) — Frequency-map navigation
+- [src-d8bc3b414a4c-c02](solar-portal-transit.md#src-d8bc3b414a4c-c02) — Solar portal transit
 
 ## Review flags
 
+- A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
 - Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age
 - Anéeka explicitly distinguishes “gravity holes” from black holes.
 - Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
@@ -1668,9 +1693,11 @@ Related topics: [Alcyone Council](alcyone-council.md), [Cyndriel](cyndriel.md).
 - Federation-policy\_claims\_attributed
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
+- Navigation and propulsion descriptions are attributed to Mari Swaruu, not independently verified.
 - No English counterpart found in the cached sources.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
+- Pluto-Shiva-identification-attributed-to-Federation-records
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
@@ -1763,6 +1790,7 @@ Related topics: [Alcyone Council](alcyone-council.md), [Cyndriel](cyndriel.md).
 - translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
 - two-sphinx-vs-two-kingdom-symbolism
 - unmapped\_regions\_and\_return\_risk
+- unverified-cosmology-and-energy-claims
 - unverified-reset-claims
 - unverified\_ancient\_technology\_claims
 - unverified\_archaeology

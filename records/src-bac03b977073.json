@@ -1,0 +1,72 @@
+{
+  "source_id": "src-bac03b977073",
+  "snapshot_sha256": "5549be1f373510773826ec71ca4caccc8c81a88bf7320424fe6b36f1a13c81bc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bac03b977073-c01",
+      "assertion": "Arien says Earth’s frequency can influence outsiders through thought and shared ideas; trauma may make distant beings more compatible with Earth’s lower state.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Physical proximity is unnecessary."
+    },
+    {
+      "id": "src-bac03b977073-c02",
+      "assertion": "She says human limitations can stimulate creativity, resourcefulness, and soul growth by requiring people to solve problems with fewer tools.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her interpretation."
+    },
+    {
+      "id": "src-bac03b977073-c03",
+      "assertion": "Arien says Earth’s negative experiences can affect outsiders but may teach emotional control and broaden understanding when faced constructively.",
+      "speaker": "Arien",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames this as an opportunity for growth."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "collective unconscious and telepathic thought influence",
+    "how Earth culture may carry knowledge from prior lives"
+  ]
+}

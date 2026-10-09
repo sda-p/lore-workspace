@@ -1,0 +1,94 @@
+{
+  "source_id": "src-28f04bff29fc",
+  "snapshot_sha256": "180e3721a644f7861db5efacdb03d4a618fed78fc2a78ff57bd942c26d06a851",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-28f04bff29fc-c01",
+      "assertion": "Yazhi argues electric vehicles can cause environmental harm despite appearing clean.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28f04bff29fc-c02",
+      "assertion": "She predicts lithium scarcity and battery demand will raise electric vehicle prices and reduce product quality.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28f04bff29fc-c03",
+      "assertion": "Yazhi alleges governments could remotely disable connected electric vehicles to restrict mobility.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28f04bff29fc-c04",
+      "assertion": "She says terrestrial electric vehicles are costly, poorly made, disposable, and difficult to repair independently.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0013",
+        "p0020"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-28f04bff29fc-c05",
+      "assertion": "Yazhi claims heavier electric vehicles increase crash danger for occupants of lighter conventional cars.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Contains disputed environmental, market, vehicle safety, and government-control claims; attribute to Yazhi, not established findings."
+  ],
+  "coverage_gaps": [
+    "The transcript also discusses battery fires and repair hazards without independent support."
+  ]
+}

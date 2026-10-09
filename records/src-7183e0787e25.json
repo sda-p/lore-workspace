@@ -1,0 +1,98 @@
+{
+  "source_id": "src-7183e0787e25",
+  "snapshot_sha256": "ecd4951ebe2e1c42133772207d76dc793036cf4185e2f6140f8b8670c6893134",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7183e0787e25-c01",
+      "assertion": "Swaruu (9) calls an 11-meter disc a Class II shuttle and says Toleka carried twenty.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7183e0787e25-c02",
+      "assertion": "Anéeka says small discs distribute electromagnetic fields, while larger ships are shaped for their function.",
+      "speaker": "Anéeka de Temmer",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7183e0787e25-c03",
+      "assertion": "Athena says legacy Type II discs serve as escape pods and are rarely used as ships.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7183e0787e25-c04",
+      "assertion": "Athena says disc craft use gravity and magnetic engines, lacking large plasma-jet protection and remaining vulnerable.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0030",
+        "p0036",
+        "p0038"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems",
+        "disc-shaped-shuttles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7183e0787e25-c05",
+      "assertion": "She says discs are common and easy to build; Zeta Greys are their most common users.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0050",
+        "p0058",
+        "p0060"
+      ],
+      "primary_topic": "disc-shaped-shuttles",
+      "topics": [
+        "disc-shaped-shuttles"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says ownership is hard to identify."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Accounts come from different speakers and conversations; claims remain attributed to each speaker."
+  ],
+  "coverage_gaps": [
+    "differences between shuttles and larger ships",
+    "their use in flight schools and construction"
+  ]
+}

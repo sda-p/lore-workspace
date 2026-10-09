@@ -74,11 +74,62 @@ Source: [LO QUE LES VENDEN POR \#ASCENSIÓN PLANETARIA - La Quinta Densidad - \#
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-5396b3e5a9fd-c05
+
+She frames life as spiritual growth and creating paradise, urging perseverance and self-kindness. She presents this as possible.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Mismos eventos, distintos significados - Lado físico/espiritual](https://swaruu.org/transcripts/mismos-eventos-distintos-significados-lado-fisico-espiritual) (2023-03-08; es); passages p0035, p0036, p0039, p0041. [Structured record](../../records/src-5396b3e5a9fd.json).
+
+### src-43d84fdc44fd-c04
+
+She recommends humility, revising beliefs, and meditation to reduce foolish actions; she calls enlightenment an antidote.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [La estupidez y el Ego, una perspectiva espiritual](https://swaruu.org/transcripts/la-estupidez-y-el-ego-una-perspectiva-espiritual) (2023-03-05; es); passages p0025, p0028, p0030. [Structured record](../../records/src-43d84fdc44fd.json).
+
+### src-90107b56d6ec-c02
+
+He recommends combining objective self-examination with self-compassion to understand mistakes and change.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Cómo convertirte en la mejor versión de ti mismo/a - Potenciar tu Luz](https://swaruu.org/transcripts/como-convertirte-en-la-mejor-version-de-ti-mismo-a-potenciar-tu-luz) (2023-04-21; es); passages p0010, p0012. [Structured record](../../records/src-90107b56d6ec.json).
+
+### src-90107b56d6ec-c03
+
+He says recognizing strengths, humility, and learning from mistakes can support personal growth and helping others. He says others can be helped only when willing to cooperate.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Cómo convertirte en la mejor versión de ti mismo/a - Potenciar tu Luz](https://swaruu.org/transcripts/como-convertirte-en-la-mejor-version-de-ti-mismo-a-potenciar-tu-luz) (2023-04-21; es); passages p0015, p0016, p0019. [Structured record](../../records/src-90107b56d6ec.json).
+
+### src-0e507b21433f-c02
+
+He says life’s purpose is living and recommends reflecting on what brings fulfillment before choosing a path.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Acuerdos del "alma", Omisión de acción, y cambiar la línea de tiempo de otro](https://swaruu.org/transcripts/acuerdos-del-alma-omision-de-accion-y-cambiar-la-linea-de-tiempo-de-otro) (2023-03-22; es); passages p0011, p0019, p0021, p0022. [Structured record](../../records/src-0e507b21433f.json).
+
+### src-0e507b21433f-c03
+
+He argues trauma should be addressed before endorsing someone’s wish to leave Earth; abandoning them in suffering is punitive.
+
+Attributed to **Za’el de Erra**; asserted; extraction confidence: high.
+
+Source: [Acuerdos del "alma", Omisión de acción, y cambiar la línea de tiempo de otro](https://swaruu.org/transcripts/acuerdos-del-alma-omision-de-accion-y-cambiar-la-linea-de-tiempo-de-otro) (2023-03-22; es); passages p0028, p0030, p0031. [Structured record](../../records/src-0e507b21433f.json).
+
 ## Claims filed under other topics
 
 - [src-12823666aeee-c02](holistic-society.md#src-12823666aeee-c02) — Holistic society
+- [src-90107b56d6ec-c01](consciousness-metaphysics.md#src-90107b56d6ec-c01) — Consciousness and metaphysics
+- [src-90107b56d6ec-c04](consciousness-metaphysics.md#src-90107b56d6ec-c04) — Consciousness and metaphysics
 
 ## Review flags
 
 - Anéeka distinguishes her perspective on awakening from Yazhi’s expanded account.
+- Spiritual interpretations and timeline claims are attributed to Za’el, not independently verified.
 - lore-claims-attributed-to-Yazhi

@@ -4702,6 +4702,152 @@ Source: [Federacion Galactica los Amos del Mundo - Preguntas y Respuestas - Anee
 
 Related topics: [Alcyone Council](alcyone-council.md).
 
+### src-c11556ffe9e3-c01
+
+Mari Swaruu says the Galactic Federation controls events on Earth and would prevent global nuclear destruction because no one benefits from losing the planet. She distinguishes this from permitted regional conflicts.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Miedo nuclear, no te preocupes](https://swaruu.org/transcripts/miedo-nuclear-no-te-preocupes) (2023-02-28; es); passages p0019, p0021, p0017. [Structured record](../../records/src-c11556ffe9e3.json).
+
+### src-c11556ffe9e3-c02
+
+Mari Swaruu says the Federation permits Earth’s population to create its own reality, framing the planet as a school of varied experience. She says individual experience varies with consciousness and personal manifestation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Miedo nuclear, no te preocupes](https://swaruu.org/transcripts/miedo-nuclear-no-te-preocupes) (2023-02-28; es); passages p0025, p0026. [Structured record](../../records/src-c11556ffe9e3.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-c1919a47291a-c02
+
+Mari Swaruu says the Federation restricts Earth's interstellar access to prevent exporting its collective values, while also constraining more advanced starseeds who seek to return to their stellar families. She describes the restriction on advanced individuals as unjust and unethical.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Por qué nadie puede escapar de Matrix. Parte 2](https://swaruu.org/transcripts/por-que-nadie-puede-escapar-de-matrix-parte-2) (2023-04-08; es); passages p0014, p0015, p0016, p0017, p0018, p0019. [Structured record](../../records/src-c1919a47291a.json).
+
+Related topics: [Prime Directive](prime-directive.md), [Starseeds](starseeds.md).
+
+### src-f135e721d9ac-c01
+
+Mari Swaruu distinguishes the physical Galactic Federation, an organization of embodied star beings, from higher-plane spiritual guides often conflated with it on Earth. She says its members have embodied limits similar to humans, despite different species and perceptions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conclusiones 01, Federación Galáctica](https://swaruu.org/transcripts/conclusiones-01-federacion-galactica) (2023-04-06; es); passages p0004, p0005, p0012. [Structured record](../../records/src-f135e721d9ac.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-f135e721d9ac-c02
+
+Mari Swaruu says physical Federation representatives bear direct responsibility for guiding events on Earth, despite claiming humans and higher beings guide it. She characterizes their limited assistance as a convenient excuse.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conclusiones 01, Federación Galáctica](https://swaruu.org/transcripts/conclusiones-01-federacion-galactica) (2023-04-06; es); passages p0009, p0010, p0011, p0012. [Structured record](../../records/src-f135e721d9ac.json).
+
+### src-85324cf8988c-c01
+
+Yazhi says Federation quarantine officially bars all entry and exit, but enforcement fails; Hashmallim conduct limited, sometimes covert interventions. She says some such missions may be officially illegal.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Comunidad de "Expertos" de Extraterrestres es una organización HUMANA - MiniTemas](https://swaruu.org/transcripts/comunidad-de-expertos-de-extraterrestres-es-una-organizacion-humana-minitemas) (2022-11-04; es); passages p0008, p0010, p0012, p0014, p0018. [Structured record](../../records/src-85324cf8988c.json).
+
+Related topics: [Hashmallim](hashmallim.md).
+
+### src-e9a6108eaecc-c02
+
+She says the physical Federation remains material, but interprets events from a broader perspective; New Age accounts blend it with the higher group.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Seres de luz, giro positivo, Parte dos, Federación Galáctica, Parte 6](https://swaruu.org/transcripts/seres-de-luz-giro-positivo-parte-dos-federacion-galactica-parte-6) (2023-03-31; es); passages p0010, p0011, p0013. [Structured record](../../records/src-e9a6108eaecc.json).
+
+### src-93ba3a32ef40-c02
+
+Yazhi rejected the claim that extraterrestrials first came to Earth because humans developed nuclear weapons, saying they had already been present. She said claims about intervention and nuclear testing may use misleading terminology.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Bombas "Nucleares" - Bombas de Energia - Parte 2 - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/bombas-nucleares-bombas-de-energia-parte-2-yazhi-swaruu-sophia) (2022-11-28; es); passages p0004, p0005, p0011, p0015, p0017. [Structured record](../../records/src-93ba3a32ef40.json).
+
+Related topics: [Energy generation technology](energy-generation.md).
+
+### src-24baeece96cc-c02
+
+She said the Federation leaves Earth’s souls to resolve their problems so they can learn, though she criticized this policy as overly permissive.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Giro Positivo, Parte Uno, Federación Galáctica Parte 5](https://swaruu.org/transcripts/giro-positivo-parte-uno-federacion-galactica-parte-5) (2023-03-29; es); passages p0013, p0014. [Structured record](../../records/src-24baeece96cc.json).
+
+Related topics: [Prime Directive](prime-directive.md).
+
+### src-f138a70a4ff8-c01
+
+Mari said Federation councils escalate unresolved issues and seek expert ethical consensus rather than vote.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica, UFoP, estructura interna. Parte 3](https://swaruu.org/transcripts/federacion-galactica-ufop-estructura-interna-parte-3) (2023-03-23; es); passages p0003, p0005, p0006, p0008. [Structured record](../../records/src-f138a70a4ff8.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-f138a70a4ff8-c02
+
+She placed a Viera Earth council behind the Moon and said it advises; a Saturn council handles system-level decisions. These locations and functions are her account.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Federación Galáctica, UFoP, estructura interna. Parte 3](https://swaruu.org/transcripts/federacion-galactica-ufop-estructura-interna-parte-3) (2023-03-23; es); passages p0011, p0014, p0018, p0020. [Structured record](../../records/src-f138a70a4ff8.json).
+
+Related topics: [The Moon as a biosphere ship](moon-biosphere-ship.md), [Saturnian orbital bases](saturn-bases.md).
+
+### src-20ced54c4865-c01
+
+Yazhi said the Federation still dominates the region but its local branch no longer controls events on Earth; she said the current controller is unknown. She said the identity of the controller was speculative.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [Yazhi esta de Vuelta en Comunicación - Noticias - Directo con Gosia](https://swaruu.org/transcripts/yazhi-esta-de-vuelta-en-comunicacion-noticias-directo-con-gosia) (2022-10-04; es); passages p0008, p0009. [Structured record](../../records/src-20ced54c4865.json).
+
+Related topics: [Higher Federation councils](higher-federation-councils.md).
+
+### src-f5165a17d17e-c05
+
+She calls nuclear fear a population-control tactic; the Federation reportedly fears dismissing it could make people careless.
+
+Attributed to **Yazhi Swaruu (Sophia)**; reported; extraction confidence: high.
+
+Source: [Bombas Nucleares - Bombas de Energia que Fingen ser Nucleares - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/bombas-nucleares-bombas-de-energia-que-fingen-ser-nucleares-yazhi-swaruu-sophia) (2022-11-23; es); passages p0019, p0050, p0052. [Structured record](../../records/src-f5165a17d17e.json).
+
+### src-87046594a8f8-c02
+
+She says extraterrestrials did not come only after nuclear tests, claiming the Federation had always remained on Earth.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [ENERGÍA LIBRE CAMUFLADA EN ARMAS NUCLEARES - Yazhi Swaruu](https://swaruu.org/transcripts/energia-libre-camuflada-en-armas-nucleares-yazhi-swaruu) (2022-11-28; es); passages p0008. [Structured record](../../records/src-87046594a8f8.json).
+
+### src-b7eb9ccdc2c5-c01
+
+Mari says the Federation ultimately controls Earth and is responsible for events there. She calls this her view.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo ve la Federación Galáctica lo que sucede en la Tierra. Primera parte, 1](https://swaruu.org/transcripts/como-ve-la-federacion-galactica-lo-que-sucede-en-la-tierra-primera-parte-1) (2023-03-17; es); passages p0015, p0019. [Structured record](../../records/src-b7eb9ccdc2c5.json).
+
+### src-b7eb9ccdc2c5-c02
+
+She says Earth is mapped in Federation space and faces no hidden-invasion threat. This is her assessment.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo ve la Federación Galáctica lo que sucede en la Tierra. Primera parte, 1](https://swaruu.org/transcripts/como-ve-la-federacion-galactica-lo-que-sucede-en-la-tierra-primera-parte-1) (2023-03-17; es); passages p0017, p0018. [Structured record](../../records/src-b7eb9ccdc2c5.json).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c02](urmah.md#src-a5811312e55c-c02) — Urmah
@@ -5022,11 +5168,36 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - [src-87bee905e958-c01](planetary-matrix-resets.md#src-87bee905e958-c01) — Planetary Matrix resets
 - [src-87bee905e958-c03](alcyone-council.md#src-87bee905e958-c03) — Alcyone Council
 - [src-87bee905e958-c05](earth-cabal.md#src-87bee905e958-c05) — Earth Cabal and power structures
+- [src-b39ca55c43a5-c01](starseeds.md#src-b39ca55c43a5-c01) — Starseeds
+- [src-fc83e68676a4-c01](viera.md#src-fc83e68676a4-c01) — Viera
+- [src-fc83e68676a4-c02](prime-directive.md#src-fc83e68676a4-c02) — Prime Directive
+- [src-607024b7b198-c02](moon-biosphere-ship.md#src-607024b7b198-c02) — The Moon as a biosphere ship
+- [src-e296ebcd3f46-c01](antarctica-federation-bases.md#src-e296ebcd3f46-c01) — Antarctic Federation bases
+- [src-e296ebcd3f46-c02](antarctica-federation-bases.md#src-e296ebcd3f46-c02) — Antarctic Federation bases
+- [src-5cc044e9f243-c01](taygetan-first-contact-project.md#src-5cc044e9f243-c01) — Taygetan First Contact Project
+- [src-5cc044e9f243-c02](taygetan-first-contact-project.md#src-5cc044e9f243-c02) — Taygetan First Contact Project
+- [src-85324cf8988c-c04](earth-cabal.md#src-85324cf8988c-c04) — Earth Cabal and power structures
+- [src-d8bc3b414a4c-c01](artificial-portals.md#src-d8bc3b414a4c-c01) — Artificial portals
+- [src-a1fd5a2d5862-c01](prime-directive.md#src-a1fd5a2d5862-c01) — Prime Directive
+- [src-a1fd5a2d5862-c02](prime-directive.md#src-a1fd5a2d5862-c02) — Prime Directive
+- [src-a1fd5a2d5862-c03](prime-directive.md#src-a1fd5a2d5862-c03) — Prime Directive
+- [src-cd9a5a1222db-c02](false-alien-invasion.md#src-cd9a5a1222db-c02) — False alien invasion scenarios
+- [src-ff3b3864b466-c03](civilizational-resets.md#src-ff3b3864b466-c03) — Civilizational resets
+- [src-20ced54c4865-c02](alcyone-council.md#src-20ced54c4865-c02) — Alcyone Council
+- [src-b7eb9ccdc2c5-c03](van-allen-belts.md#src-b7eb9ccdc2c5-c03) — Van Allen belts
+- [src-b7eb9ccdc2c5-c04](moon-biosphere-ship.md#src-b7eb9ccdc2c5-c04) — The Moon as a biosphere ship
+- [src-dfba9e89b971-c01](prime-directive.md#src-dfba9e89b971-c01) — Prime Directive
+- [src-dfba9e89b971-c02](prime-directive.md#src-dfba9e89b971-c02) — Prime Directive
+- [src-dfba9e89b971-c03](taygetan-first-contact-project.md#src-dfba9e89b971-c03) — Taygetan First Contact Project
+- [src-dfba9e89b971-c04](prime-directive.md#src-dfba9e89b971-c04) — Prime Directive
+- [src-e85dbc213420-c01](reptilians.md#src-e85dbc213420-c01) — Reptilians
+- [src-88d2f8fd434d-c01](pluto.md#src-88d2f8fd434d-c01) — Pluto
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - 3d-vs-higher-density-wishes
+- A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
 - AI-infiltration-speculation-vs-no-invasion-conclusion
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
 - Anéeka says Andromedans dominate councils but denies formal rulership.
@@ -5034,17 +5205,22 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - Australian-traffic-purpose-unknown
 - COVID-and-vaccine-claims-omitted
 - Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
+- Claims about alien craft, agencies, and political agendas are attributed speculation.
 - Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
+- Claims about hidden councils and planetary bases are attributed to Mari Swaruu.
 - Claims about invasive AI and Borg are attributed to the speakers; the transcript provides no independent evidence.
 - Claims about invasive AI and the galactic network are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about secret societies, media manipulation, and resets are attributed to Mari Swaruu.
 - Claims describe Mari’s spiritual model of the Federation and reincarnation
 - Claims-about-PCR-swab-nanotechnology-conflict-with-later-human-origin-possibility
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Contact directives are described from Anéeka’s 2020 perspective.
+- Contains unsupported claims about Pluto bases, Federation classifications, motives, and Shiva’s identity; attribute to Swaruu (9).
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - Federation and New Age claims are Mari’s allegations and interpretations
 - Federation opacity and Alfratan conduct are Mari’s account; she says the meeting’s entry procedure was unclear
+- Federation policies and Earth-intervention allegations are reported by Mari Swaruu, not independently verified.
 - Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-arguments\_reported
 - Federation-as-controller claim conflicts with mentor framing within transcript
@@ -5071,11 +5247,18 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
 - The alleged strike and factional attribution are unverified within the source
+- The source disputes established nuclear science; content is attributed to Yazhi and not verified.
+- The source explicitly separates the spiritual higher Federation from the physical Galactic Federation.
+- The transcript contradicts established nuclear physics and history; claims are recorded as Yazhi’s assertions, not verified facts.
+- The two exchanges differ on the number of Federation bases on Pluto: p0003 says at least three, while p0009 describes one large base as the only physical feature; the discrepancy is unresolved.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
+- These are Mari Swaruu’s extraterrestrial claims and estimates, not independently verified.
 - These are Yazhi’s claims; she says reactor output may be low and portal effects sporadic
 - Weapon and defense capabilities are source-attributed technical claims
 - Yazhi distinguishes speculative infiltration by weapons AI from a galaxy-level shared consciousness
 - Yazhi’s account of higher-council governance and intervention is internally framed as perspective-dependent
+- Yazhi’s denial of man-eating Reptilians outside the Earth Matrix conflicts with earlier source claims.
+- Yazhi’s statements on nuclear weapons and Hiroshima are unverified claims; she explicitly said there was no way to confirm them.
 - abduction-motive-varies
 - agenda21-assertion
 - aliens-removed-from-quadrant-claim
@@ -5195,9 +5378,11 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - federation-noninterference-tension
 - federation-nonintervention
 - federation-nonintervention-rationale
+- federation-policy-and-metaphysical-account
 - federation-purpose-disputed
 - federation-purpose-vs-collective-choice-tension
 - federation-role-contradiction
+- federation-role-described-as-contradictory
 - federation-role-speaker-contrast
 - federation-role-variation
 - federation-role:involvement-vs-permissiveness
@@ -5208,6 +5393,7 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - federation\_dispute
 - fence-control-theory-unconfirmed
 - field-procedure-account-attributed-to-mari
+- first-directive-policy-description
 - fleet-status\_as-reported
 - forecast-in-retrospect
 - frequency\_health\_claims\_unverified
@@ -5250,6 +5436,7 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - long conversation contains disputed health claims not included in core extraction
 - lore-claims-attributed-to-Aneeka
 - lunar-reactor-age-origin-uncertainty
+- lunar-vessel-account
 - maitre\_claims\_conflicting\_and\_uncertain
 - mass-explanation-variation
 - matrix-collapse-and-human-choice
@@ -5292,6 +5479,7 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - political-claims
 - political-claims-unverified
 - political-claims\_attributed
+- political-metaphysical-account
 - political-narrative\_attributed
 - political-structure-unverified
 - political\_claims
@@ -5299,11 +5487,14 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - portal-time-travel-risk
 - prime-directive-attributed
 - procyon-proceon-name-distinction
+- project-dates-reported-with-variant
 - pyramid-age-and-function-unverified
 - pyramid-technology-claims
+- quarantine-policy-vs-practice
 - related\_series\_part
 - religious-control-claims
 - reported arrival date conflicts with article chronology
+- reported-UFO-community-allegation
 - reported-claims\_by\_Ari
 - reported:pilot-encounters
 - reported\_plan
@@ -5339,6 +5530,7 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - species-emotional-ranges-attributed
 - species-trait-generalizations-attributed
 - speculation:federation-experiments
+- speculative-extraction-account
 - spiritual-warfare-claims
 - starlink-observation-scope-ambiguity
 - succession-report\_attributed
@@ -5360,6 +5552,7 @@ Related topics: [Alcyone Council](alcyone-council.md).
 - unverified-contact-claims
 - unverified-eclipse-portal-theory
 - unverified-nonhuman-intervention-narrative
+- unverified-polar-infrastructure-account
 - unverified-reset-claims
 - unverified-technology-claims
 - unverified\_agency\_claims

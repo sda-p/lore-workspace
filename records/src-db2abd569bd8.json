@@ -1,0 +1,79 @@
+{
+  "source_id": "src-db2abd569bd8",
+  "snapshot_sha256": "a7b1eb2879245a6597fe3c5114776b3f5b1922b30db9d8860a842c1bd4ab7d14",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-db2abd569bd8-c01",
+      "assertion": "Yazhi said she was not opposed to electric vehicles generally, but claimed terrestrial EVs can be remotely disabled and used to restrict public mobility.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "electric-vehicles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her argument about their terrestrial use."
+    },
+    {
+      "id": "src-db2abd569bd8-c02",
+      "assertion": "She argued that high costs, planned obsolescence, and lithium scarcity would leave private EV ownership mainly to wealthy people after restrictions on combustion cars.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0011"
+      ],
+      "primary_topic": "electric-vehicles",
+      "topics": [
+        "electric-vehicles",
+        "economics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-db2abd569bd8-c03",
+      "assertion": "Yazhi claimed lithium extraction, battery production, and disposal make EVs environmentally damaging despite their clean image.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0019",
+        "p0022"
+      ],
+      "primary_topic": "electric-vehicles",
+      "topics": [
+        "electric-vehicles",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This environmental assessment is her claim."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "electric-vehicles",
+      "name": "Electric vehicles",
+      "kind": "technology",
+      "aliases": [
+        "EVs",
+        "electric cars"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Remote-shutdown and environmental claims are attributed to Yazhi and not presented as established facts."
+  ],
+  "coverage_gaps": [
+    "Climate science claims and vehicle collision or repair risks"
+  ]
+}

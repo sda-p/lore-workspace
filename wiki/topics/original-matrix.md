@@ -434,6 +434,60 @@ Source: [NO HAY Y NO PUEDE HABER \#MUNDO MATERIAL Y MUNDO](https://swaruu.org/tr
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-c1b49a077026-c01
+
+Mari Swaruu describes the universe as one timeless potential-energy field, likened to highly vibrational water, with consciousness generating forms and distinctions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Conciencia, Unidad, Gravedad y el Universo Numérico.](https://swaruu.org/transcripts/conciencia-unidad-gravedad-y-el-universo-numerico) (2022-12-19; es); passages p0004, p0005, p0006, p0007. [Structured record](../../records/src-c1b49a077026.json).
+
+### src-0eee68ce5b31-c03
+
+Mari said a social Matrix can emerge without advanced technology as authorities inherit and repeat convenient falsehoods; questioning imposed truths begins escape.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Una perspectiva sobre la formación básica de una Matrix física.](https://swaruu.org/transcripts/una-perspectiva-sobre-la-formacion-basica-de-una-matrix-fisica) (2023-04-12; es); passages p0017, p0018, p0019. [Structured record](../../records/src-0eee68ce5b31.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-ddff20dff5fd-c01
+
+Mari said escaping the Matrix requires personal criteria and integrity, even if this means distancing from loved ones; she urged kindness and acknowledged differing soul missions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escapar de la Matrix - parte 01](https://swaruu.org/transcripts/https-www-youtube-com-watch-v-o-yndjft-3m-t-40s) (2022-12-14; es); passages p0002, p0003. [Structured record](../../records/src-ddff20dff5fd.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-ddff20dff5fd-c02
+
+She said social consensus does not guarantee truth and advised functioning within accepted society while maintaining one’s own values consistently.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Escapar de la Matrix - parte 01](https://swaruu.org/transcripts/https-www-youtube-com-watch-v-o-yndjft-3m-t-40s) (2022-12-14; es); passages p0004, p0006. [Structured record](../../records/src-ddff20dff5fd.json).
+
+Related topics: [Holistic society](holistic-society.md).
+
+### src-93080c6ab938-c04
+
+She describes Earth and extraterrestrial realities as one continuous Matrix with no clear human–ET boundary.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Gente No Real volviéndose todo Reales - Es cierto ese rumor? Yazhi Swaruu opina](https://swaruu.org/transcripts/gente-no-real-volviendose-todo-reales-es-cierto-ese-rumor-yazhi-swaruu-opina) (2022-12-29; es); passages p0018, p0021, p0023. [Structured record](../../records/src-93080c6ab938.json).
+
+### src-e85dbc213420-c02
+
+She says Earth’s collective fears shape its Matrix and UFO beliefs, which may differ from extraterrestrial reality.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [CONTACTADOS EXTRATERRESTRES Y UFOLOGOS MATRIX 3D - YAZHI SWARUU](https://swaruu.org/transcripts/contactados-extraterrestres-y-ufologos-matrix-3d-yazhi-swaruu) (2023-02-12; es); passages p0006, p0008, p0010. [Structured record](../../records/src-e85dbc213420.json).
+
 ## Claims filed under other topics
 
 - [src-bb4c17621e1a-c02](moon-matrix.md#src-bb4c17621e1a-c02) — Moon and terrestrial Matrix
@@ -475,15 +529,21 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-0a7a9d2fed72-c03](earth-cabal.md#src-0a7a9d2fed72-c03) — Earth Cabal and power structures
 - [src-79f31e8f23bd-c04](consciousness-metaphysics.md#src-79f31e8f23bd-c04) — Consciousness and metaphysics
 - [src-f47ad5f1276b-c04](matrix-energy-insertion.md#src-f47ad5f1276b-c04) — Matrix energy insertion
+- [src-24baeece96cc-c01](consciousness-metaphysics.md#src-24baeece96cc-c01) — Consciousness and metaphysics
+- [src-0eee68ce5b31-c01](consciousness-metaphysics.md#src-0eee68ce5b31-c01) — Consciousness and metaphysics
 
 ## Review flags
 
 - Claims describe Mari’s spiritual model of the Federation and reincarnation
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- Mari Swaruu explicitly contrasts her gravity model with conventional terrestrial physics.
+- Metaphysical and political claims are attributed to Mari Swaruu.
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
+- The source’s “real” versus “unreal” distinction concerns people and is an attributed metaphysical claim, not an objective assessment of anyone.
 - Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts
 - Yazhi presents several perspective-dependent formulations of identity and integration
+- Yazhi’s denial of man-eating Reptilians outside the Earth Matrix conflicts with earlier source claims.
 - agency\_and\_noninterference
 - archon-scope-is-broad
 - astral-perception-agenda-claim

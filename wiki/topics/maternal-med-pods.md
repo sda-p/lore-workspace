@@ -100,6 +100,46 @@ Attributed to **Mari Swaruu**; reported; extraction confidence: medium.
 
 Source: [Space News, 29, June 24, 2024, Hurricane in Temmer, Fluffy Cotton in the Sky (English)](https://swaruu.org/transcripts/space-news-29-june-24-2024-hurricane-in-temmer-fluffy-cotton-in-the-sky-english) (2024-06-24; en); passages p0004. [Structured record](../../records/src-ff4973c6a444.json).
 
+### src-ce97d34c532b-c01
+
+Yazhi says stored individual DNA could guide medical pods in repairing traumatic damage, while recurring metabolic conditions are harder to correct.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ESTÁN ALMACENANDO TU ADN – EXTRATERRESTRE ME HABLA DEL GENOMA HUMANO - Yazhi Swaruu](https://swaruu.org/transcripts/estan-almacenando-tu-adn-extraterrestre-me-habla-del-genoma-humano-yazhi-swaruu) (2022-12-13; es); passages p0010. [Structured record](../../records/src-ce97d34c532b.json).
+
+### src-9d54420420a2-c01
+
+Anéeka describes maternal pods as liquid-filled incubators using life support, nutrients, and holograms to guide stem-cell development.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods Medicos Maternales - Taygeta (Pleyades) - Informacion Extraterrestre](https://swaruu.org/transcripts/pods-medicos-maternales-taygeta-pleyades-informacion-extraterrestre) (2023-01-13; es); passages p0019, p0020, p0021, p0023. [Structured record](../../records/src-9d54420420a2.json).
+
+### src-9d54420420a2-c02
+
+She says pod gestation lasts three months, producing an infant with a body developed to about 15 months but newborn-like behavior.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods Medicos Maternales - Taygeta (Pleyades) - Informacion Extraterrestre](https://swaruu.org/transcripts/pods-medicos-maternales-taygeta-pleyades-informacion-extraterrestre) (2023-01-13; es); passages p0022, p0025, p0027. [Structured record](../../records/src-9d54420420a2.json).
+
+### src-9d54420420a2-c03
+
+She says some incoming stellar seeds risk maternal rejection from genetic and frequency mismatch; uterine-frequency nanochips maintain gestation. She says this occurs in many, but not all, cases.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods Medicos Maternales - Taygeta (Pleyades) - Informacion Extraterrestre](https://swaruu.org/transcripts/pods-medicos-maternales-taygeta-pleyades-informacion-extraterrestre) (2023-01-13; es); passages p0014, p0016. [Structured record](../../records/src-9d54420420a2.json).
+
+### src-9d54420420a2-c04
+
+She says adoptive carers provide contact and laboratory-produced breastmilk replicated from maternal cells.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods Medicos Maternales - Taygeta (Pleyades) - Informacion Extraterrestre](https://swaruu.org/transcripts/pods-medicos-maternales-taygeta-pleyades-informacion-extraterrestre) (2023-01-13; es); passages p0027, p0028. [Structured record](../../records/src-9d54420420a2.json).
+
 ## Claims filed under other topics
 
 - [src-f6a0faeb1f8f-c02](taygetans.md#src-f6a0faeb1f8f-c02) — Taygetans
@@ -110,6 +150,8 @@ Source: [Space News, 29, June 24, 2024, Hurricane in Temmer, Fluffy Cotton in th
 ## Review flags
 
 - Alenym-retirement-not-decided
+- Anéeka distinguishes medically repaired pods from maternal pods with an umbilical nutrient and life-support system.
+- DNA collection and nonhuman-identification claims are presented as Yazhi’s assertions.
 - Senetre-diagnosed-weapon-route-suspected
 - clone-technology-attributed
 - immersion-metaphysics-claims

@@ -1,0 +1,88 @@
+{
+  "source_id": "src-7fecc6636778",
+  "snapshot_sha256": "acb68613155203e4ea41a38e05ede380deebe3d75820e3fbdba03ce5c2d873e9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7fecc6636778-c01",
+      "assertion": "Mari argues government disclosure may be curated or falsified to steer public beliefs; she says official photos and videos are unreliable evidence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "false-alien-invasion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7fecc6636778-c02",
+      "assertion": "She outlines hostile-invasion and benevolent-Federation narratives, both used to justify restrictions and removal of civil rights.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "galactic-federation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7fecc6636778-c03",
+      "assertion": "She cautions the false-invasion scenarios may never occur; authorities may keep options open or use disclosure fears as a distraction.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018",
+        "p0024"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7fecc6636778-c04",
+      "assertion": "She says a real invasion is unlikely because Earth has been under Federation control for at least 12,500 years, presenting this as her group’s view.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "false-alien-invasion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Invasion and government-control claims are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Advice about investigating claims independently",
+    "Competing disclosure narratives and public validation"
+  ]
+}

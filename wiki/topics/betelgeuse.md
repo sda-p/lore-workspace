@@ -21,6 +21,7 @@ Related topics: [Stellar navigation](stellar-navigation.md), [Natural and artifi
 ## Claims filed under other topics
 
 - [src-8253dcdfe3e7-c01](galactic-high-energy-arms.md#src-8253dcdfe3e7-c01) — Galactic high-energy arms
+- [src-04168227bd18-c01](galactic-high-energy-arms.md#src-04168227bd18-c01) — Galactic high-energy arms
 
 ## Review flags
 

@@ -1,0 +1,64 @@
+{
+  "source_id": "src-d899310fae70",
+  "snapshot_sha256": "37856c4a131f6745806fbb538cf5f3965f293ddf731ee37bb6ecb1d3abd5e5a6",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d899310fae70-c01",
+      "assertion": "Athena alleges Greer is a CIA asset using staged opposition to boost credibility; she defines negative priming as appearing opposed while cooperating with an alleged opponent.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0009",
+        "p0013"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are Athena’s allegations."
+    },
+    {
+      "id": "src-d899310fae70-c02",
+      "assertion": "Athena says Greer helps prepare a false alien-invasion narrative by normalizing extraterrestrials; she rejects the claim that all extraterrestrials are benevolent.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0015"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion",
+        "alien-species"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the plan’s eventual form is unknown."
+    },
+    {
+      "id": "src-d899310fae70-c03",
+      "assertion": "Athena says her group’s own public contact may also support the false-invasion plan, while cautioning that they lack all the pieces.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0019"
+      ],
+      "primary_topic": "false-alien-invasion",
+      "topics": [
+        "false-alien-invasion"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Greer’s supposed reptilian identity",
+    "Athena’s claimed information sources"
+  ]
+}

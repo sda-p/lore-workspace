@@ -1,6 +1,6 @@
 {
   "batch": "continuous-021",
-  "updated_at": "2026-10-08T22:30:34+00:00",
+  "updated_at": "2026-10-09T01:17:37+00:00",
   "active_source_ids": [
     "src-fedf11ef16ee",
     "src-41a031f2b0d7",
@@ -18562,1124 +18562,1924 @@
       "paraphrase_words": 61
     },
     "src-2e44af6cf865": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "94566dbb42ea0a8ba1d5b032d34a6639a7dd47f18e31036fd3e6fbd05e6490ab",
+      "record_sha256": "317018691e460880daab15402352315c6086439d562ca47ffdb509a6c9d364e6",
+      "claim_count": 3,
+      "paraphrase_words": 70
     },
     "src-b01e12100c02": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "c2fceec690b6714a7e1edb7536cde9aa9b878f3237ad4d736d47fa90c4f046c1",
+      "record_sha256": "40d0d7ce7384b42884e7ed68ca668741cb62dd7bea0b3ebf8b3bc02ec8a21c75",
+      "claim_count": 2,
+      "paraphrase_words": 66
     },
     "src-f10960087bcd": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "f074756effd6ac0aea9b4132712e119136f53e4285141eb668f0d8006f7922a6",
+      "record_sha256": "8eb6c6314836e0997d02ea7d76a77ad760b0f110ece58f1b7c59316c0a0cdcf6",
+      "claim_count": 3,
+      "paraphrase_words": 79
     },
     "src-376a695bb789": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "af1c6be9f25c45deeba0c805f655625dbf773325c295b8396974ae79d84d3b46",
+      "record_sha256": "16fc20c3ced3bb988088bf37d82982c9366fcfb556200ff20a0b8b53a385d83f",
+      "claim_count": 2,
+      "paraphrase_words": 50
     },
     "src-b39ca55c43a5": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "7222c9385d7bde695897917c781f4fc1b86f64c5073ea2e35e9bd5402d4e31c3",
+      "record_sha256": "e14b335ed4070b6449777ebf0938ce8180cbce35b8d7b751f2bdb3adb3532e34",
+      "claim_count": 2,
+      "paraphrase_words": 61
     },
     "src-75a895ec7e8f": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "f70eefb8e3dfa5e27f984ae90966b6fe0e892aa1bcb8ec5a2097244097dcd69d",
+      "record_sha256": "9181a57ceee5333fff4a82e69baf6bf817b640ebf10ea40f7a64b1237e729b77",
+      "claim_count": 1,
+      "paraphrase_words": 28
     },
     "src-9d897870bbf8": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "4ce01a7fa03b9b631232efcf0e289e6b1511d74877da59cb5d5234f3b07500ca",
+      "record_sha256": "67aebfd27407e3a29ca15153daec7e911296f2ff3d4cb61b6cee76cefdd0d682",
+      "claim_count": 2,
+      "paraphrase_words": 58
     },
     "src-8035db074017": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "48caa3a2dfafafcafb5c698a4f93fd667ed16ff08123f3c65f4c2b82e0ff977e",
+      "record_sha256": "68942d2e30ba2f8481c5443dd29dd571aedd2dda82aa7b81ea0024cbe650d925",
+      "claim_count": 2,
+      "paraphrase_words": 61
     },
     "src-756b0758c451": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "8b0fe2762d6e841574bea3d3a6e98b75285eaf1a8fee4752021564aed1224a3d",
+      "record_sha256": "2074a84ff11067b02a8741d0d6464231f8b827af6b19e808f9695ace37101101",
+      "claim_count": 2,
+      "paraphrase_words": 64
     },
     "src-ca54384ffa82": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "c9047775895f5ccc556ffe12842db7d1224c17fec63ca735531a06e8fcd36871",
+      "record_sha256": "23ae681f531c29c0d11b253ee4db043de9a121b18b32e93e75a3deaf72cdf5e4",
+      "claim_count": 2,
+      "paraphrase_words": 71
     },
     "src-f3083d830387": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "444fff3263c721db5640f2d8fe6dc39f9101b306503f5bd149257076478d340f",
+      "record_sha256": "d5c6dc0e1d4045fc013094c0fb2d8d1b551599e0d4bd2b978b92774dd548bede",
+      "claim_count": 2,
+      "paraphrase_words": 63
     },
     "src-fc83e68676a4": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "fbca16d05d3f49c4254b0419ee766ff71b01cbc55e7de8df6fc1fa8d2bbd224b",
+      "record_sha256": "0e8eaa230757eccda7dba88136f4c154641d0ace91a1148dbdf9bf648ca740e1",
+      "claim_count": 2,
+      "paraphrase_words": 76
     },
     "src-509a0d643adf": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "9bc3ec0e23f2e90edf782ffd80bf6d0968f77e3f5bf2d6f53d7f299740b71fc4",
+      "record_sha256": "f885817a6b9c70e3dca4287c055d9e4e63d73ee3db48520feb553688ac9cec18",
+      "claim_count": 2,
+      "paraphrase_words": 69
     },
     "src-607024b7b198": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "0adb4cdff844a3cb05d2872e77d571c58264420eb12e91594b039ab0049bc7b0",
+      "record_sha256": "2e59154b333d3f72cd6e820870d29352c7a440ba3a8aaab7387aa5c18b8c1bba",
+      "claim_count": 2,
+      "paraphrase_words": 61
     },
     "src-0c79139fd20c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "312009394a3608e097dcb214cf50eecfcba210b39ca943f1f375bb81a9e84d40",
+      "record_sha256": "88190fe784df85fdd3c6931ebd9724208303432e84ef5d2840bf65c1a765cbb5",
+      "claim_count": 2,
+      "paraphrase_words": 66
     },
     "src-c11556ffe9e3": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "bbbe57c3be78eadae412b3eeb073e757a1437df827be93b0ccb96012b787833c",
+      "record_sha256": "5f0ab3778d18773017ecb1fd1288ff368fd923632e0c9615ba38bf0f101195f8",
+      "claim_count": 2,
+      "paraphrase_words": 63
     },
     "src-773f342a04a2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "70a198e2ca9958ec9e13f15010ad89bdbf6e56316c7f625e3ed5fc036ece2b07",
+      "record_sha256": "3778901fc8bee008da155978f129e3f29942b3b5a331f2e1ee41578a34800f30",
+      "claim_count": 1,
+      "paraphrase_words": 28
     },
     "src-e296ebcd3f46": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "0cd3810d33ea2238898c44fcdca752f99ccd835fac22b590c67e260e829d270b",
+      "record_sha256": "1e4e47d0d9e3abb550352c6b6205695a1dae9231aa4c4eba04cc32db5990e642",
+      "claim_count": 2,
+      "paraphrase_words": 64
     },
     "src-5cc044e9f243": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "8a20b192a6d0eed5cd54019e5e6e428158a548c3a5eef84f360e194636d5f316",
+      "record_sha256": "5b71b9b2ea0c6e46743885b43833f964e415490a3596976c84a8c0786c03ec67",
+      "claim_count": 2,
+      "paraphrase_words": 66
     },
     "src-026b0b5b32ce": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e609a3a75b1ecafef5ef1218518e77e3bb4b18ec4d017b238f49a4272cd746cf",
+      "record_sha256": "e877065b608a9c7dfdec61f6a4a70c7ec1d6b372563a9c2406ecf0f4868e775f",
+      "claim_count": 2,
+      "paraphrase_words": 53
     },
     "src-5ed98072b8ce": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "7277ca738b45b09eb1b7af79d84aceda6597ccaf43a593e57359b05fda260de3",
+      "record_sha256": "2ce0e006ec71da23e99d78f99f07bde2e15fd1fd1b49794ee147c6b7e5f5a060",
+      "claim_count": 2,
+      "paraphrase_words": 62
     },
     "src-690730c29818": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "435ca851ed42db2f7cc94ec158a220c7bd953d5f074465b3bdc810967367ece6",
+      "record_sha256": "6d61176a25886884762eae315e54e43bd884f3725133c9067e398052808230d0",
+      "claim_count": 2,
+      "paraphrase_words": 61
     },
     "src-828dc82b2ca2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "2c8f61f0a4a227910c05722815b944ee4da7f0ee60f58ae9751ac69d7421301f",
+      "record_sha256": "8c28842203b6641e0af83f126df2ffd1f5bce381b7cda6fb7303ecf338f72337",
+      "claim_count": 1,
+      "paraphrase_words": 34
     },
     "src-b6f00e97482c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "0274ef2e13a8fae5a8a4a5be028be644ae0325682adffd63028b4016003a2c6f",
+      "record_sha256": "edae7f92d1fa66aa6454c560b9cad9a7626e699ba30e509f36605a9cd6b1b959",
+      "claim_count": 2,
+      "paraphrase_words": 66
     },
     "src-b5be7120aaf2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "aef6d8124a2f344c72640e8600ff9f88e02afc8cc58319613a157e4ccbc4f093",
+      "record_sha256": "4b3328db28871bb320c97836bf34323b2963775fb281bbf50df1c03e6fbd00d4",
+      "claim_count": 2,
+      "paraphrase_words": 60
     },
     "src-c1919a47291a": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "adfa2ce338cfbc5487c4b85e52925f9cac1a1c79dd9afa98a4095acbbef9b863",
+      "record_sha256": "66b9e07e8d55a29902d69cb0fd97d72a435dca2a0bd442664df5ce04743e97bd",
+      "claim_count": 2,
+      "paraphrase_words": 72
     },
     "src-4e74e1caea83": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "d79c821448bdd8c272fedd1237ffa70288abe43eeeba56baeb19d1c466e6a2c0",
+      "record_sha256": "da69c656c66cfa0c6996b0f00d5feaafcdcabe4800d876e709d21d79ba7257e2",
+      "claim_count": 2,
+      "paraphrase_words": 72
     },
     "src-75919d9e49b8": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "164bf49476d9668d652028522d0f8f00044e0f8fa258f3dc62d127ec81ff6c2b",
+      "record_sha256": "422773d42b79806963fce9ee654f435edbaad83a0bd601727c694b6f744dd126",
+      "claim_count": 2,
+      "paraphrase_words": 64
     },
     "src-320487aa2d60": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "bb234f834112fe120dd95085fa25a48f30914c709ab4ce22427786d23e8dd708",
+      "record_sha256": "1395104885ce4d817db30a277e25ac92b9fe95903a54f98aa4ec6a9203996a64",
+      "claim_count": 1,
+      "paraphrase_words": 39
     },
     "src-f135e721d9ac": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "accbec0a8bf6b392e99ca582421d76b85ff37d62b08c4444a4a385327651ff04",
+      "record_sha256": "797fead3c64ce050f3eed8d1c625664bc9e53c65f34887512a284ca7b0b681d0",
+      "claim_count": 2,
+      "paraphrase_words": 69
     },
     "src-e30d1897bec1": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "7f9504d350d916c98ca43e7a053d98e9144ad2845e68b3e10192fbc211122a7f",
+      "record_sha256": "a562ba93a6187e7629cb8a86b190a27596709ff2cc053a5a4cb3d91071443511",
+      "claim_count": 1,
+      "paraphrase_words": 46
     },
     "src-0a8abe9de1b2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e3ea9be7c198816113f4bc45a19054ef14894d442fd5be9f33aafac0f495f06c",
+      "record_sha256": "9bcc85087aa14c7ff493ef99f9c0d77e733f541f8b58e47397baf8b29e670c08",
+      "claim_count": 1,
+      "paraphrase_words": 26
     },
     "src-c3edb79b5f6c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "000efabec8278bd87966899c76191ff6d55175ec7a46e2354e776e2fc5923d50",
+      "record_sha256": "dba55d8e200e9eb4371b1bf0bca7d57ae42aa755e6fdd0dbe7e912ca7a1a2558",
+      "claim_count": 2,
+      "paraphrase_words": 67
     },
     "src-b313da868dad": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "0865129bc5f433dbf05c516168b28fd64dce85b9c7c9dc52a51412c2782416a5",
+      "record_sha256": "9c2a7def25fa039858be2132228910fbdfbb0e57d93f87b2a1ae12a727647980",
+      "claim_count": 1,
+      "paraphrase_words": 38
     },
     "src-0eb13f79d3c3": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "7870e73ce5e9ca571d15b761047e70f6fc9ac893b1cb3dd8ec1c8b6c24686b15",
+      "record_sha256": "8ecf252c4ee2c67a93f5a173b4d7491731106fda4d7a0cfc709e8d6f1520a92e",
+      "claim_count": 1,
+      "paraphrase_words": 31
     },
     "src-e2289d05d7a8": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "708050f277bbbe14aa41e0c225e61fe0ebd9c4b1dd376562872c12c47ef9a7e8",
+      "record_sha256": "418c4c8d0cf8ea189507924c9c951779b6e01e01098193b5ffdf1544e5844635",
+      "claim_count": 2,
+      "paraphrase_words": 62
     },
     "src-155778a65ec3": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "7fa5140ab31d22fa5c3b59fbc38974cac28aa80dc7002bc4e4a6cc6f8c28b30e",
+      "record_sha256": "219143c56dabcb83a18d5021d8a40d7be04fd1589c3468fb16300576a0a14b87",
+      "claim_count": 2,
+      "paraphrase_words": 65
     },
     "src-4297ae6b09e2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "effc97b45e12ccffe166a3325c2fe8461043d63c79c3252b866eb3f6a9b6f7d7",
+      "record_sha256": "ec0c46ca7473360a0d85f74133b0616f0d48c52439528c7453ce004d072ca0bd",
+      "claim_count": 2,
+      "paraphrase_words": 49
     },
     "src-940c7e2fa72b": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "6566d1e26689901331b20aca2612d03781570ed3546359d660ec4ffe6bf0d894",
+      "record_sha256": "5d340d799ebc6b5ef36c3a749503c76217b7b782571cb69d788d7171275bcc70",
+      "claim_count": 2,
+      "paraphrase_words": 72
     },
     "src-b154bcb601b1": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 1,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "45790d7ed378e3138d430956674ade13ee62ff17e3144632abc8a0b91e8fce5f",
+      "record_sha256": "9a4be67badf0f52d79b7578ac4427a0d85da3ba9f48d6d7af5a3eb97c5a70e21",
+      "claim_count": 1,
+      "paraphrase_words": 36
     },
     "src-f344c5152e16": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "219d807c861e294bbde1737d83e01c0cfe5b7ecae4cf127e7324aa13292455f7",
+      "record_sha256": "3928cba28a7977f592d1657e083c11498b0b9f3425f9b625f6d67b8d7d077eea",
+      "claim_count": 5,
+      "paraphrase_words": 79
     },
     "src-9b0e688f41d9": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "f71e163c98352e236e1b5fff1cc407b46ae6aa3faf5dee16f7b2f17449b90336",
+      "record_sha256": "7b0f67a762899c5e218e0372afd0ee273d993d3e7e350d6d542c71351ac8888e",
+      "claim_count": 5,
+      "paraphrase_words": 78
     },
     "src-fa7665e5b209": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "97c8eb7142b6f042623315bf9165e2d3ab2e1ec128e2b38677b13eff7a95a998",
+      "record_sha256": "8cefd7ec256787bf0b1f0a16f24d6427923ac6a200166e001a6f657aa12de4d4",
+      "claim_count": 6,
+      "paraphrase_words": 82
     },
     "src-85324cf8988c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "40558394dc7ab31beea98a538257271826242ac010244ab86619d0685d8c5167",
+      "record_sha256": "7afa9ba873b0208b6ef9d625ea6ccaeda41733bcc4cdfa97841f3c6e625cea56",
+      "claim_count": 4,
+      "paraphrase_words": 71
     },
     "src-be4d6a42f7c2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "9bf72f14989e7e849ed416091215671d3f70a8ed8924cde9fd6997b200d9e449",
+      "record_sha256": "15f459ffdf93279dd1fc734d88e913b53c15434224fe0d51c70743e15f9ea209",
+      "claim_count": 5,
+      "paraphrase_words": 85
     },
     "src-e1a6716ab196": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "9994d97497e43b45b123a2d06968f57e37aedd5d5eb3d4893d04cb444115130a",
+      "record_sha256": "4b3768055ce5994b9234c8f4e3b06aed2e5db4fe0eda04d1100e1525d708fed3",
+      "claim_count": 6,
+      "paraphrase_words": 81
     },
     "src-8888db924950": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "6837adeded28e34cc3124e2a1311750a57b0f2383e7932f315970b7243986603",
+      "record_sha256": "2d39c0a93f9c54252f834fa33229bc2821cc2f7b4932e1e83e92c8bfdd24f979",
+      "claim_count": 4,
+      "paraphrase_words": 65
     },
     "src-c4eea8caf581": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "69597951aa9689985cf584e419cccb4f5746a0ae973003c215791626d2267371",
+      "record_sha256": "cdc8c581e96d04c5d904699f96c4c673046b1c41827fb395eb79e65f1eb37a10",
+      "claim_count": 4,
+      "paraphrase_words": 81
     },
     "src-6338db41254a": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "9042e7e2d79433a3681d7d5388647ab1ba6d754bb309ee615a3caf3843a632ad",
+      "record_sha256": "f604a1a4d1cc12c7f405781f1fdb0dfb1c4bb15c3d85bed04c8bf909d5a4e666",
+      "claim_count": 4,
+      "paraphrase_words": 83
     },
     "src-62d1807bede8": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "dab6d649ac3ec8f40b83ef11b10c1915c03af84504813badac4286274058e540",
+      "record_sha256": "e471ea0aca8fc1a3208bd5fded81b0ad0066063d3d1727d4e2787ff2567ebc3a",
+      "claim_count": 4,
+      "paraphrase_words": 78
     },
     "src-40a1c19238df": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e3659a4a577e93eb918ad38bbcd79d937066bd7f1799c03767cfb660226e549f",
+      "record_sha256": "1563d8806fecce2f2f7bfb5495570c8c0b252ee6619cee092a387a3b5e49d9c5",
+      "claim_count": 4,
+      "paraphrase_words": 78
     },
     "src-7518b246ebb6": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ee3d5059e52f7796d90e5eea4b3ae5824d97a14a01f84c60d120b127a52fadd4",
+      "record_sha256": "81478a6ae8d9fc8ba6da55af27a2ff950be1d98e7530bec3fe53225973189c9d",
+      "claim_count": 3,
+      "paraphrase_words": 67
     },
     "src-651f2f5ca73c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "74847a193e38a4d73199e0b75d78070aeb28d952cdb0082b7c58ca76c1c01282",
+      "record_sha256": "2c491ee4d4c5910af81fb67477fc28cf2f5992e86d643eef8bf66b2fbb791e65",
+      "claim_count": 4,
+      "paraphrase_words": 82
     },
     "src-34307f448bda": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "104f2a11dc5d8b2bada2b0fce9fade3ea640a3a7ede84a01329a60555fba2916",
+      "record_sha256": "ce2f8cb45e883179b0fee77f2743e3705f1de676d9736a2109cdcb09f8c01899",
+      "claim_count": 4,
+      "paraphrase_words": 76
     },
     "src-1e383a05d9f2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "d9fc176010bdf58a714f6c0a175f499526daeb30c3b7773e279d143710e906a3",
+      "record_sha256": "3cbd9bfe2dd7359a1188800610bdc8d0957a74b5b34eb78d4e1edf63d97f057d",
+      "claim_count": 4,
+      "paraphrase_words": 79
     },
     "src-d8bc3b414a4c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "844029076c3486e2731924c72fb169fb161dc9fcad672bdcdad9edff2203f1bd",
+      "record_sha256": "3a3d4bdf56c79ce5c851e76fdf68815cbb5289cfec2e0d5c51268456cba2d28d",
+      "claim_count": 4,
+      "paraphrase_words": 81
     },
     "src-cdacb8b863b2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "1a373f7d8508babd8b3ba127cbea4df2eb1f418eb33d16369aa887ac33a726cb",
+      "record_sha256": "f5f856e1ee335bcd023c4d430747bd672a4eb264a0344892cbd1e7f7aa920ffe",
+      "claim_count": 4,
+      "paraphrase_words": 79
     },
     "src-b96ee429d62e": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ac6b8ca57b0c6c25851bb93ca280c7f65d7b23b2a24fe216c51b084f125c6658",
+      "record_sha256": "05171278e0456802ee095aeba9e93aedde018a03c97fb01ed08a7bef43b035e4",
+      "claim_count": 4,
+      "paraphrase_words": 78
     },
     "src-ab88a977b658": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "91d49993693bd0806e86cb3ca98fbd043718527c4228605f5048d69c33745885",
+      "record_sha256": "595e3b9b228ad34a7cc1946ae1a316fcb9cb6bdd6cd7e33ece053fc454746600",
+      "claim_count": 4,
+      "paraphrase_words": 77
     },
     "src-e9a6108eaecc": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "a997475e602488311e076a2347b4014917e466d50702a30e2922ff9e485d6f43",
+      "record_sha256": "9761e5e564135ef0c7108d71011b284296ca80c58e1659ca6edf39ce1b97ea6d",
+      "claim_count": 4,
+      "paraphrase_words": 83
     },
     "src-7d76d15d2444": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ac5d8987f2c0661b03495aa07fc094fdc6ecefcd3b63455ea2afe6121e8a0849",
+      "record_sha256": "45ebd1e0e5781adb5e471c31cca5b1094d5c3d0e8c7b48354edf9342f14d1763",
+      "claim_count": 4,
+      "paraphrase_words": 82
     },
     "src-0722d32d1582": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ee56e8d3c1594b5c799fc5ea6bca565fed5ac606979f1b389592561c4ad57373",
+      "record_sha256": "7bdb7145d89c40180c99c15cc55235b9e13edece4f51947ff584852d538b35e4",
+      "claim_count": 4,
+      "paraphrase_words": 81
     },
     "src-a1853102a8f0": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "24acf8f14bfdcc9d757707910a20355636f0aa374441bbc211f4a19423d785e8",
+      "record_sha256": "d6cb6b1e884aaf866302102304121bfb0121ddbdc9ab097ba2c733bcad0ce73b",
+      "claim_count": 4,
+      "paraphrase_words": 83
     },
     "src-ce97d34c532b": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "7407753a6b9bda0d191a8ce08b7803c045f39d0b9d6a4f18a8d2236627489902",
+      "record_sha256": "796bedfbdec68fbd3e89e742239a0e66aceb9cf62960ea9468129b10fc179f24",
+      "claim_count": 4,
+      "paraphrase_words": 82
     },
     "src-a72352046ce4": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "4a2f1a5c225dcb8628305ee855b37fbfa408b7a14876e96b0f9154bb9669d99c",
+      "record_sha256": "c6c18826a6b90bd2eb5515bca8851e354cb40ad41ed41bae4696e4b7106d556d",
+      "claim_count": 3,
+      "paraphrase_words": 60
     },
     "src-f994e07a2582": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ee0a6d131339402f85fa795a3c0dd3a5b3f2cc33075cbc4b83de2e4f877277a2",
+      "record_sha256": "4a5f9db508136e5bf7bdb135e9e014b6a8742463754d4749d1b13b94b0bd6173",
+      "claim_count": 4,
+      "paraphrase_words": 74
     },
     "src-0c6bce18eafe": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "5bdc4a745947a52752c9cc75b5a5a416aba1658984121f020035917aebb1a205",
+      "record_sha256": "a6bb0661f1fdb53491752b4bb991cb7814dfb3a649d05e8a208531fd2758a68d",
+      "claim_count": 4,
+      "paraphrase_words": 79
     },
     "src-0470731195af": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "53d4c4bd5a972c84512e0c4b98f311f2b80f5787c85d1c0538eea940056596b5",
+      "record_sha256": "311cc948550428f307e37001db74c11ecf8d78b56b18cb25c2f91fc21c9483e2",
+      "claim_count": 4,
+      "paraphrase_words": 73
     },
     "src-d2f26274ed8a": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "51e8cae2d98dde1c9bc639c4f19215232f15824f5694630653be9e83d8b027a2",
+      "record_sha256": "e2130ea23822ef547230fb846ca0a8d8ec82d19e883c35369d6d27daa67a8042",
+      "claim_count": 3,
+      "paraphrase_words": 64
     },
     "src-c1b49a077026": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "d3f17c9fd8881bf2671791f296c0eaeff60521edfc5b816a70e8cc30a45606ac",
+      "record_sha256": "ecd81612155b5d270a0ead40f8da3a4199926da436794420adbc367569da32c3",
+      "claim_count": 4,
+      "paraphrase_words": 83
     },
     "src-bc05542885cf": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e7bf0e51c82dc7485e4e03404ebf3e8386f3a6c5b510cd8030f55ce574645cfd",
+      "record_sha256": "c800f7c33b60060c76e7c48b825290dc7e257b4f83b27649cc377c2053870d10",
+      "claim_count": 2,
+      "paraphrase_words": 73
     },
     "src-5b26b34d728c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "f0c8e7d6064e8aea8c6973b7ac1bc5dbf1b08bd5c723013f9919e0b443d7ab82",
+      "record_sha256": "a995f6bbda85dc41f6ade5c4922dfde804d71c99f45ddde363b1776b9e899c15",
+      "claim_count": 4,
+      "paraphrase_words": 74
     },
     "src-4adf86e67a88": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "07c37f709dc19bdc420cf4f4b4c0042a6a8ec0fe5e87b2e1e130fb60d14c070c",
+      "record_sha256": "8f2bdfadba4dfee63d0243477ba8c8af5ba4121c5dffb996352d72ac48238b4f",
+      "claim_count": 4,
+      "paraphrase_words": 82
     },
     "src-5a2bf7cc12f6": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "95a4ed65e90170ff4f33c0dc8c85b5e0ca7e9feb346fd75fa5eed0c6bf32f30e",
+      "record_sha256": "5b40365197d3c91c9bf22575c68f578d31f5911f6f0d3039e5f95baaf31a456c",
+      "claim_count": 4,
+      "paraphrase_words": 79
     },
     "src-9d54420420a2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "a0dfb2a0a69dedec174a11dfb128bc52e4b6c60f7ae18101d6d34812234c8b49",
+      "record_sha256": "9ebff33d1024ed0b56c37556176ce91fa112960a859c07118c06180c65d4424d",
+      "claim_count": 4,
+      "paraphrase_words": 79
     },
     "src-393a848bb064": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "7ccba77d09a1b9fffb49713f3e947b8eb8b1ecde0017ff9563cb22d592abe7f9",
+      "record_sha256": "2f2ce1e781e2de673ae7e8e1b747ed6393b2d79f120aa4d6c7b81c6215ca5833",
+      "claim_count": 3,
+      "paraphrase_words": 56
     },
     "src-fcac44b6fa7c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ab6463f646e405e28ce892eda1b0e5988e06948eec6d96a31fcfd3c75f583c91",
+      "record_sha256": "eff3a21c860908cf467512c8da0ba9177e9acc636dfe8587e05a9291f44dbad0",
+      "claim_count": 3,
+      "paraphrase_words": 61
     },
     "src-f9515d45df63": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "a0a1b7df249a42f38a114d5a39bf4e7ea836322bb09d20cc070df695527ad959",
+      "record_sha256": "361e695471b34620154565ea00a2ea710a7c070fb5d9e1328f19aa485c3b5f1c",
+      "claim_count": 3,
+      "paraphrase_words": 74
     },
     "src-a06f28bdaffd": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "7489051a88276449c7e739679b9f57662aefa70fa0abd60d637cd6ff082148e9",
+      "record_sha256": "e74e7db6db2736c3b597ed051b0e9cfc48ea6f7733028c95a51a746a292b9356",
+      "claim_count": 3,
+      "paraphrase_words": 71
     },
     "src-a1fd5a2d5862": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 2,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "c569aad64564351090a27b90a8a7080ff6fc54ce226ebd6047a765652092be53",
+      "record_sha256": "ad2634f1784920fafe8b87e2a076c63d3d7a6ebeaaf820fafbadfe00dcd9ed58",
+      "claim_count": 3,
+      "paraphrase_words": 79
     },
     "src-a5922967f589": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e0ed920517192b3c1e77ac456bbc9ae759e14f822262c7d767889606aeef0a70",
+      "record_sha256": "ee70b0161538fb3147ca598086c8ef1d4df1fb6f94c088319e0d9d95861d4583",
+      "claim_count": 3,
+      "paraphrase_words": 64
     },
     "src-8ec5d64a368a": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "dceab94796e82213d92499ced0b447af2486496ed166db5a2aa81a248fa4a7d4",
+      "record_sha256": "fb961af6e9a9e45e1a48d5458edceef3727229d156d9997d1ffe98a9b883b23b",
+      "claim_count": 4,
+      "paraphrase_words": 80
     },
     "src-1499197325d7": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ead9a0eb5c2d3d3de9b4f0badc14b8effa7178f003ef0a40dd123dfb6d5b24d9",
+      "record_sha256": "75c18276f91f0d7b05ca4e653070a46e06dc11c44a4656378c77dfb1988a9c35",
+      "claim_count": 3,
+      "paraphrase_words": 70
     },
     "src-8c1056201ab7": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "63f787a78ebc755b1c4282b501f623073cd45093b7bc86e90f415c6e26b8d396",
+      "record_sha256": "e14d0094f5cac8f0c843dfbcd5065031d7ebfdb7a9245a13084b1bdd5cf3dac6",
+      "claim_count": 3,
+      "paraphrase_words": 83
     },
     "src-c6671f7e71b0": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "818e3f58db09a7facccc97a98726e567b728f9727e06c7e0cd1f34bfb5f0e25d",
+      "record_sha256": "42e8e32674ffb58bc22e467681e2b64c1d73aa89c15e807c211541e5c243657b",
+      "claim_count": 3,
+      "paraphrase_words": 70
     },
     "src-f98eceaf4634": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "356b238626ad16fc5b5f888e9e0e0e52b779bfd73e21e79cac83e65aa1a1d860",
+      "record_sha256": "6590fc9fee2dbe822634cf8ce9471c3d99353918610f6d65bbeafd47a3d040ef",
+      "claim_count": 3,
+      "paraphrase_words": 77
     },
     "src-2550a101a222": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "74b49243b6a2f8d9d7a44bd66c9b7c68446a1b883af6ecc0b619f467bd5c28bd",
+      "record_sha256": "496ec21c8f9484908b424799cb14115935cc4bbba9dcab74c49dfcafe116f7b3",
+      "claim_count": 3,
+      "paraphrase_words": 82
     },
     "src-04168227bd18": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "0463a5c031ce6c9357f182fe81b54c0aad5d55479c91fbe5df0cf0fd9dd494cb",
+      "record_sha256": "c179673a659c9da016caa60efab0fb0ecd2cb393dabcee02e563a4330146925b",
+      "claim_count": 3,
+      "paraphrase_words": 54
     },
     "src-4531380816aa": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "5b28d6d6dc5ed61c06257983b04f063432f7cb17f66806a6fbe83e7409ac4cf5",
+      "record_sha256": "45fa18dcc6a02c79a630035a0f6f04e4f7bf7f88b6756f1c0d5fb19fd211b654",
+      "claim_count": 3,
+      "paraphrase_words": 84
     },
     "src-93ba3a32ef40": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "d527ddaf15f1450095de1f695b48717d3521ad72907bdb0bc4b0cb5518a26072",
+      "record_sha256": "ab1821ad66e5bcb71aca12f782685fbcacee943bf6179f5bbe4274f936c113fb",
+      "claim_count": 3,
+      "paraphrase_words": 81
     },
     "src-ec30a0b94013": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "8449145c8db7df23081c69349a9d36cbec0849862a0275c8fdea0136bf9f9a78",
+      "record_sha256": "bd1c206ed5c53c72560d7b34efdc902c70a4f5d05d85169793092b03acaad057",
+      "claim_count": 3,
+      "paraphrase_words": 83
     },
     "src-e33e26096a8a": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e0cff5b56d459e5d064dfeeae92d680600e399b6e634ad94271145a144b866a8",
+      "record_sha256": "7632aa44ebca5a23bc09436a7520676ca111118d92771dea85de33ec95c5b242",
+      "claim_count": 3,
+      "paraphrase_words": 60
     },
     "src-66fb35352fc6": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "b868f8f691c74a5edd107735eb041c8c91e822b2a14476ba5f05461e335bec46",
+      "record_sha256": "ced37a89567331bcd9786e41203329a5142e071191f8cf5fd1a610093a13b1f3",
+      "claim_count": 3,
+      "paraphrase_words": 84
     },
     "src-83e6eecc2c25": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "930d00c46e6bce33d13126f6c384eb5a4a5b5fb79e3e84ef7ee1fe363ca74e69",
+      "record_sha256": "a9737dc47d1eb24ed0f8892d184e26ae383421001d5bed2b4c7d6dcc138d37eb",
+      "claim_count": 3,
+      "paraphrase_words": 74
     },
     "src-1c99be09ad1a": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "f6c049f916a2ca1fdf09ef48d9a1c6d9877ba43ae635a40d57379f6c41d26a31",
+      "record_sha256": "ed5795b343e93a299bfa7722e66a8bfa153fa556505053373566d6d1423262d1",
+      "claim_count": 3,
+      "paraphrase_words": 78
     },
     "src-cd9a5a1222db": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "14d7568264c306e54709039daafa9bab3a21092ebb3018af68ca19f74d815263",
+      "record_sha256": "e63e5361b2274461117cf948a6dc1941d8f928debfedb2aec0c0324d2071e319",
+      "claim_count": 3,
+      "paraphrase_words": 85
     },
     "src-b921ccc1aa2f": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "32cf18e161c7082e543b54906613363a0c205ba12d61aa6587852e60e0abc196",
+      "record_sha256": "b8cb013aa48faaa116cf37189d8ac75f75c0073aba0446705bbc8587785ce31f",
+      "claim_count": 3,
+      "paraphrase_words": 83
     },
     "src-52f3828b6f14": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "4dc7c0a57a25235db4a53931001d9bb778802db9bd59a56df586c879d46f9ab0",
+      "record_sha256": "2b919f96c6ec356528ec9d98c40c01dff3d27f7be8c21e57a9066d71afc9067d",
+      "claim_count": 3,
+      "paraphrase_words": 79
     },
     "src-ff3b3864b466": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "1da8086612a8fab557fb8cf6e23f0cbec08084dfead38c7d412705fdde83f864",
+      "record_sha256": "28e6e97858b445b9eef10201287584c669cfad4581020416c92ed60664d08a32",
+      "claim_count": 3,
+      "paraphrase_words": 72
     },
     "src-6ddd10d07e76": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "c9af1cef6f683300e166f48c5d9e8c876ea3f67509bc18fba18663b30fbcad2f",
+      "record_sha256": "e7af733710b205393c0f503d0c8bf1ef7425b3244811094fa66cd130cf2bb122",
+      "claim_count": 3,
+      "paraphrase_words": 72
     },
     "src-24baeece96cc": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e94ff0b4da68245a50e31e72c15f0028db01bdb1155ff7ba86b9db7f301ac441",
+      "record_sha256": "68b9ca824186cbe9e3f39597747a016c12e87b71b06dc6ce76df40df8e0c2b86",
+      "claim_count": 3,
+      "paraphrase_words": 76
     },
     "src-f138a70a4ff8": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "64e8c16c04443ba9e3b3ddfe16d7608974a0a0b75fcba175a8c1fa1a272ddc21",
+      "record_sha256": "27274d0a8fdbda6349f61da644bc3ad3fbdd295a584d1609a8c9825503b433c5",
+      "claim_count": 3,
+      "paraphrase_words": 62
     },
     "src-800716c5fe32": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "2459ba3316a1b9ad4cd110df3ee6f9e28a8d7cacf97c81bdcb77cba0528a075c",
+      "record_sha256": "824f4c80ba21a6ee8a8f54ab0e4acecbf93f1b95b6083ef9f18428964af4d29d",
+      "claim_count": 3,
+      "paraphrase_words": 80
     },
     "src-8ebb49ce3ca1": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "532f639e29a9080237e25055f009dcb10015d1e2590803d1b2bfd9d916789361",
+      "record_sha256": "cef8084b9a79f860b4e56ecbfd136f96df855f27063f8cad2818835ee3073ca8",
+      "claim_count": 3,
+      "paraphrase_words": 66
     },
     "src-14bbfbca9660": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "aca90517b41cab7191acee9f24e5769781ba4b1c7dfedb3bdf4e0c0df19ec4a8",
+      "record_sha256": "1f892ae8bf19904335d7e5869d75e404792a784e27fcedbbc9e722b004b9b7ee",
+      "claim_count": 3,
+      "paraphrase_words": 77
     },
     "src-db2abd569bd8": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "a7b1eb2879245a6597fe3c5114776b3f5b1922b30db9d8860a842c1bd4ab7d14",
+      "record_sha256": "5de474875d31a16e35af0ed942ce10fd30080e526ab42f2018bb424c5579e141",
+      "claim_count": 3,
+      "paraphrase_words": 78
     },
     "src-36aedc9049dc": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "aea9605150861ed2c5d23b2305881c7d5ae7e6453f53ae2fd94236a089321255",
+      "record_sha256": "7989093723b9f47e433d3badb5dcaa048b4edb48eaa25534a17c4d95f82ce67b",
+      "claim_count": 3,
+      "paraphrase_words": 76
     },
     "src-0c295f560205": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "180f0f01afd7e0286d91c387d3a429a59beed14d8f5b2b222c04fffd69c76a1e",
+      "record_sha256": "35565dcb56d690cd314cc1e3c8c2f77dbc7726ba61af786cedc8ba056c8d3978",
+      "claim_count": 3,
+      "paraphrase_words": 62
     },
     "src-1c56b7d9bf71": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "a3e1bfedcbc241b5228851e693f4726b9225a1781af817661b9f71f8f417d84d",
+      "record_sha256": "bdf86f0a6f7cc1a2acba83d8b7ec45e3babc30946f062ebb1de53fed165d99a0",
+      "claim_count": 3,
+      "paraphrase_words": 85
     },
     "src-0eee68ce5b31": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "b22b7c8fd8fb076bbb80b61c1d74cd12f9e47de4e2e7671faf5539409ab6b04f",
+      "record_sha256": "da8abda3c79e0ff2987539c3036015e29fcafb05d4f5dfe647200681c808537b",
+      "claim_count": 3,
+      "paraphrase_words": 66
     },
     "src-80f4a17fe00d": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "f4da37bb01db45e14c8ba0384acf784d3b490c5da820f045f7ea26fdc5d5769c",
+      "record_sha256": "a4a695c85d4f6e8c95cb8c91551501f13620a325d9f1df312b7157c06d45ab2d",
+      "claim_count": 3,
+      "paraphrase_words": 68
     },
     "src-d778f32d51ae": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "7655d405fa72d3791d5838051b74e035e2ff7cfa04365a40896508ecea29bbeb",
+      "record_sha256": "ec2d47055f970a566cd4dafac657228be7a154596b8220ba38bd3324ab156727",
+      "claim_count": 3,
+      "paraphrase_words": 71
     },
     "src-8c403e396292": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "db83803f7eb26fe6046f9d674b37fa6e245d68f433165b630faf52c824db4e4f",
+      "record_sha256": "1cf305c8e7c2b3f178a93c69bc2cf4884ed81d58aa02111bb5cb7b00e858e665",
+      "claim_count": 3,
+      "paraphrase_words": 83
     },
     "src-07f9f86e1027": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "4e8a5e63e87fe03aac1c6fcf1ec8db678b3affe9eca31fb04c1cf8cf4e8ba820",
+      "record_sha256": "00a69ef40e47bb32dc29ad4ed2916bf2533a7d0eb7b0bdfe13b44926cf6535cf",
+      "claim_count": 3,
+      "paraphrase_words": 76
     },
     "src-dcfd5493c3df": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "3a53e7407a51bf608310ade9e078a3db8d772c0dc5fe46b5e842aa2f3b792f34",
+      "record_sha256": "4ea203149d0d7be4917e38aad60592595548a9a84fc5e36b3ff78733df3aa5ff",
+      "claim_count": 3,
+      "paraphrase_words": 74
     },
     "src-20ced54c4865": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "218a0ae37b689e11750c3808291d9ccc461b8fa29d2b4c5675ba37274585e1c2",
+      "record_sha256": "21d3daa4e6905787e035081f036a7293e2022599ae73a48a52a705f71a21921b",
+      "claim_count": 3,
+      "paraphrase_words": 73
     },
     "src-a02f81bbff4a": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "1030f6e2a603ace42de042a41b6830e1728c1898ee97ec54e5d14f1e89c73941",
+      "record_sha256": "5d5ae2a38b0aa9724251f5dce096fef591d1b7388aff3b5840b1dd4e4eef2815",
+      "claim_count": 3,
+      "paraphrase_words": 75
     },
     "src-114eb7d82f29": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "663cdfc92b5a5c1db7c0b4d0fafe2ceb9aaff2228bc9f8c9841ccb180a233928",
+      "record_sha256": "b96fc2fba19339ac1d6ba623aa65017af1080870e05223f54a7c58bacbdf3ce0",
+      "claim_count": 2,
+      "paraphrase_words": 44
     },
     "src-e54847d402e6": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e27b6f3127089fc9964a321156188449b1411d92b4e447b410c3bf59a61b328a",
+      "record_sha256": "5a540b6b8be8a6e849b666842ac0152cb360772db0623c6c666ee8f2177ac688",
+      "claim_count": 2,
+      "paraphrase_words": 67
     },
     "src-ddff20dff5fd": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 3,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "5e0c1d26afb79aebc9a1a47c424190b673747f5016abc406cc176e99ccd7a65c",
+      "record_sha256": "2168190efeddd1f98749b3d99a601319f8ee21344fb3db54651e540fbf8e4034",
+      "claim_count": 2,
+      "paraphrase_words": 46
     },
     "src-2be77fc03489": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "61edc5cbb686f57163c0189c3031d75eb100583c472bd4b715a091a3377a9862",
+      "record_sha256": "ba6e387d2bce6b6bbdb5f0233d5839fdcf34135f6b4eb5354277366926b6723c",
+      "claim_count": 6,
+      "paraphrase_words": 73
     },
     "src-7951d6bf342c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "1969a89303eca66ac4e3b760a0e46a6f63d14dd8a5d05c49abfebb4b04f8f90f",
+      "record_sha256": "ad0cc295c6e63d15889057eabcced71cba405f82b49600478dc72ad64f67e186",
+      "claim_count": 5,
+      "paraphrase_words": 77
     },
     "src-901c303678fd": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "0dc2d239708b7bed73a1a3db8a333389f2cc52708f2b974cc03fbf32add29c81",
+      "record_sha256": "111d7d27ea31232d32d6d216d8a86f4f9065fc41f3713edabf613b9aa236a4c5",
+      "claim_count": 5,
+      "paraphrase_words": 75
     },
     "src-e46783afa12c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "139cb244452fa537ba58f96418bd3bdbebb946aa8fbb9d9c5fc416824e822ad7",
+      "record_sha256": "04c925cb61e52892664e046c001e54116bad0b0e6194f0b9a15d29b23d0bda7d",
+      "claim_count": 5,
+      "paraphrase_words": 82
     },
     "src-cadb5ca8cdb8": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e9bdf73a1fc9a35caff43796156b8bf416ea8b3d11f72ed428077b123bf43380",
+      "record_sha256": "27fc52707b21d34f4390404add366e4a69657b0769ce91ea9ada6459966a2288",
+      "claim_count": 5,
+      "paraphrase_words": 82
     },
     "src-97d1cf163a44": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "29a057b472d31ea82db2ac1f75cb6376f5931ddfd682311160a914b59db364a7",
+      "record_sha256": "cae99da2f6a81a482b63d0d4dce959bd7ccf64e93efc5bae3e5c6997d1f149a2",
+      "claim_count": 5,
+      "paraphrase_words": 75
     },
     "src-b48ede308895": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "c23d4f12f50721c20b800d08da7f9a2b348954d9557eb34ac00416a62efd7f97",
+      "record_sha256": "0ee74d494d247a0779ebb1e25c1fd3f488101883b661c096b3e62fc6075f6f91",
+      "claim_count": 5,
+      "paraphrase_words": 85
     },
     "src-eba1fa9a8f38": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ed5b49e5dd99966a5d422e85a983a84553fb4990c279d3e7695974d84f91477c",
+      "record_sha256": "f7ddc8f6d6b91a5caf5656e495f6765f84a2f924fc05b33112611e69e8c776ea",
+      "claim_count": 5,
+      "paraphrase_words": 76
     },
     "src-5396b3e5a9fd": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "026363408cafb379e98cac170dc4032e85240ec5bfbfbb37d2a65b22d9bcb498",
+      "record_sha256": "3b8fdb229f64cc4fe7cb3080c72df530f30c427bc49bfed4a3d6ef3b65272849",
+      "claim_count": 5,
+      "paraphrase_words": 85
     },
     "src-04de255f76ef": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "66c6f24181ea9ac80f62943c9e2ecca86cd9f38616b5afc14afa97c5ae37ecde",
+      "record_sha256": "5858442d832785c9755d69c56367f6415fd9d3cdfd64eb557608eed74792e725",
+      "claim_count": 4,
+      "paraphrase_words": 81
     },
     "src-f5165a17d17e": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ac65a7d19924c5d0932231552696c46e6356a4800255544a0d6ade5f0499caac",
+      "record_sha256": "b894b704aa85790bc48c3ab6fd8b2239b12ca9f458cda6f332e9eb8653e0a34d",
+      "claim_count": 5,
+      "paraphrase_words": 79
     },
     "src-87046594a8f8": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e2cbe06c29f189edc4b7d348c0ef92b6e7d98582902f0035f5e9fc3a87279bbc",
+      "record_sha256": "86a852e8ee033144ba718c9b32325e198a64d226ee299354fa7933e400cea44b",
+      "claim_count": 4,
+      "paraphrase_words": 78
     },
     "src-0507724a6bee": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e0983badd8e080f3211ac767b9d9e5d08d259a81a27958d1041e0aeb62af36fc",
+      "record_sha256": "23da6a4af931a6843f2b6573e9e1a8df06b0522cb1fb14d1402a873e3de43266",
+      "claim_count": 4,
+      "paraphrase_words": 84
     },
     "src-877d9746441a": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "c88a94c23258275dbafecfbba7158c95aa6632bdad5dd9f7bbfd94f25810f4db",
+      "record_sha256": "2a0a0bc4623d64784aac1bcad3c48c1eba241975468e4cbcf348cd7076bf3942",
+      "claim_count": 5,
+      "paraphrase_words": 80
     },
     "src-b7eb9ccdc2c5": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "1e3da27b561085b1d9321791cd7e20afda97a52ba8e96af8b47381028960622b",
+      "record_sha256": "60f0e443dd7b3eedb3905e4499f01df545b64a0df06905bbef28612b7cc0c7ec",
+      "claim_count": 4,
+      "paraphrase_words": 79
     },
     "src-43d84fdc44fd": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "3c29fc4dde157b30b8462abf7c90805e1f804429d5fc5abc0f7d1720bf6860d8",
+      "record_sha256": "ae4fd31f83d096adbbe36316c9618f9b0270151f09f09d7757a4e73f3209f0e2",
+      "claim_count": 4,
+      "paraphrase_words": 73
     },
     "src-dd739a4e04c6": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "464be45f116e6403c5ec20ae9b1ce5bfd69ed2055b4e1fd3a538833363274675",
+      "record_sha256": "bfc44de224e04ec1d85981f0c5da92215b15f9818e1d1ad7903da9b7f3c4efda",
+      "claim_count": 4,
+      "paraphrase_words": 71
     },
     "src-aa6ac84fc7df": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "f3df87576e6c84ee6be4a7c268de52ee244edb6ff5df86cd1c407dbeb402f552",
+      "record_sha256": "7deae795a16e0b7564cc33001c5dd3a71cc2ce196b563ace507a97be5cd7118a",
+      "claim_count": 5,
+      "paraphrase_words": 79
     },
     "src-dfba9e89b971": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "5ded9cc8444bd29efad013f6b702f4b0a3a22902cd77b335b6931b7e98d282c6",
+      "record_sha256": "f7f31c01f4f771d687642c18c6b16b0022a246e4862c5302cfb1a803ac1957e1",
+      "claim_count": 4,
+      "paraphrase_words": 79
     },
     "src-31d3f67e1ea0": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "6cd69c1353ca7329c09f5133dbc9870224f4028355aea25a2dda01e2466ad03b",
+      "record_sha256": "c37aa4f1c9a9f6e7bdb6aa27e116975c573813aa62e2f56595f6e64ee22f62ee",
+      "claim_count": 5,
+      "paraphrase_words": 85
     },
     "src-1976178fe747": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "95a48e4e160d367c888dc302abba353d59e6b54848a18f23540efdb36c3a81ff",
+      "record_sha256": "3c4847cf21cb3643e87ae9bf4c7c876f7e8a10bac15f52cd2fd2328dcc0e1420",
+      "claim_count": 4,
+      "paraphrase_words": 78
     },
     "src-7183e0787e25": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ecd4951ebe2e1c42133772207d76dc793036cf4185e2f6140f8b8670c6893134",
+      "record_sha256": "c3600571e991aa22e9c7bba38762cebb9d8cd2481e6dadcd873c15b51c316430",
+      "claim_count": 5,
+      "paraphrase_words": 85
     },
     "src-e01eaa468a9c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e7b94efa00c37edf995df5a7aa0733463a97fbf1b0e5da93b2ee7e82b74d6cdf",
+      "record_sha256": "cf8fb4906c7f753406f4aac6d0e2b8c1eb9556348abb4f3555f47f2fec5b69ad",
+      "claim_count": 4,
+      "paraphrase_words": 85
     },
     "src-90107b56d6ec": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "c80f66e91890e26f71118ce7f1480ff7276a00c6a53d3611f19a002085d05c1f",
+      "record_sha256": "4ae08188284a64174fa6a27178446d1913d771100629510e9b58761dc2eb8b37",
+      "claim_count": 4,
+      "paraphrase_words": 70
     },
     "src-84a01b336feb": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "22f2eae623188d376ca517b2c6443ce7d1136c58b2d3b32aa234e7f2831725b6",
+      "record_sha256": "f85204ae1313d441cfec914cb357cb76f11f5e8e5af2b49b1bb2f0ae45b6d429",
+      "claim_count": 5,
+      "paraphrase_words": 80
     },
     "src-0e507b21433f": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "73da7f0522aa2d7cc6a66dd419e01436290c2e9dabad3c53c2282a1ef6fa7118",
+      "record_sha256": "ecc7ea26d69ea0a2ea1b2cd70ccaa395342a2fe854460002410275a3bb503a9d",
+      "claim_count": 4,
+      "paraphrase_words": 67
     },
     "src-aabe7f4a77ff": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "ccf95f3423a41d12dd4f659c6e1fc7fae2a76b125128c0f882e05ba92d5217b4",
+      "record_sha256": "23a8bf8e1ea67ea343fbd87666e6896bd45654b9789bb7ccb3d8c9d32a3bc45e",
+      "claim_count": 4,
+      "paraphrase_words": 80
     },
     "src-93080c6ab938": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "e6db05c0fe2f311c65a207e27db050be478d1bc2783e912771ff9baab460366d",
+      "record_sha256": "1b6a21d6d696c6de68698cf14700f6e8826fdddbec8ff6e733b5c48002e22c23",
+      "claim_count": 4,
+      "paraphrase_words": 70
     },
     "src-e85dbc213420": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "1f70f2f54e7f5870a6a53a81675804772cf9f71da13c5779654a2822c870f37d",
+      "record_sha256": "182e3ac0e621090ea9d65a96c911400461604d5c634684976ec139f1c744d5aa",
+      "claim_count": 4,
+      "paraphrase_words": 76
     },
     "src-eec161aaadd2": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "046008a3622dcda5ae6c716011fbe0f2ccda98deb6d0cdbbbb498acbf4faf3a2",
+      "record_sha256": "44b5374d9a0f52b89f837314c90b93c5d21014de6da4f0d85a7be532d3f4104b",
+      "claim_count": 4,
+      "paraphrase_words": 81
     },
     "src-22af298b0f43": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "c079b3cf76dba06b3032033f2f5e6ee5a8706d279c1ffc861b6b515ff0f8047d",
+      "record_sha256": "842a4e6a0de0f4afd5d1f32a79617805a2ac707eccaa0abaea95f921aba013ff",
+      "claim_count": 5,
+      "paraphrase_words": 76
     },
     "src-6be31ff84a2c": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "5b895b7832349bcf5422ad9c9fba9f4432f1e1c8cd5bc7ca813bce2fd619f9bb",
+      "record_sha256": "a1345182c45add50c67cb2942c63ef90d4a5d5fc51923613514682581029932f",
+      "claim_count": 4,
+      "paraphrase_words": 80
     },
     "src-a992e9329c4b": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "6fa036cb0fd59376a3aaf59e25e3e805a3882ed0521db213e0de15e1cf5bad82",
+      "record_sha256": "2a617006abb8d7d34ea986033aae0191caea732867c4d4e0ad5b3e11f4133452",
+      "claim_count": 5,
+      "paraphrase_words": 78
     },
     "src-28f04bff29fc": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "180e3721a644f7861db5efacdb03d4a618fed78fc2a78ff57bd942c26d06a851",
+      "record_sha256": "4227f0f2de614f05c7382e041d6035527585e5155f6517c4f75ee017575b32e7",
+      "claim_count": 5,
+      "paraphrase_words": 68
     },
     "src-13bbf23ca89e": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "3753c16169408346aab85fae834bdb1933e931a30d2fba9b6959f9b21ebae057",
+      "record_sha256": "b3815d7c2ad2d8e7064ad0a78039ae272c81580b1b7152d9a2f6439fa4eb6211",
+      "claim_count": 4,
+      "paraphrase_words": 73
     },
     "src-bf552b7ac9aa": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "fc62521bfb9da30903ffa7116fda3d60a83dfd414c0042e0f459926c47a7530c",
+      "record_sha256": "66fd0bfd17bb97bbcc79a0d03438a2445c4613ea170d55a2e4b8271c656817e4",
+      "claim_count": 4,
+      "paraphrase_words": 62
     },
     "src-3f5e32e319ee": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "1c56f4970864db72bf531ce7181c591363eea26be99e4a3cb8fda0ecba8f118d",
+      "record_sha256": "12f7e11b9f24d6514655ac24a3f34298c83df7221d9d002298539ce1f901439f",
+      "claim_count": 4,
+      "paraphrase_words": 74
     },
     "src-a688a6bed26b": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "95b37db50f59b2094eeac59d63e41e18b4b3c2e7f6cb8d715cec22cc0816f4a4",
+      "record_sha256": "8daa9e91e2fb97c0cce2c6e79ee23c8a4719cff72faae6cfb1b2c2168485efce",
+      "claim_count": 4,
+      "paraphrase_words": 68
     },
     "src-88d2f8fd434d": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "4935f04db41132c9673e243675413bed85338365a614d45d2ad557c90059406c",
+      "record_sha256": "62a04dae0afd05988d8d6d2e0105eed4166632a66c783bdf860520a83a551ec5",
+      "claim_count": 4,
+      "paraphrase_words": 69
     },
     "src-b00522037437": {
-      "status": "running",
+      "status": "reviewed",
       "attempts": 1,
       "worker": 4,
       "batch_id": "continuous-017",
-      "started_at": "2026-10-08T15:44:08+00:00"
+      "started_at": "2026-10-08T15:44:08+00:00",
+      "reviewed_at": "2026-10-09T01:17:37+00:00",
+      "snapshot_sha256": "9fbd26b332f47de8043e6c65675fda0c22c59fff50b273209d672ef2fa09054c",
+      "record_sha256": "3a24054ca62bbb86e952153906e552331b0613098bd2017d44b779840cceea48",
+      "claim_count": 4,
+      "paraphrase_words": 68
     },
     "src-59758ad652fa": {
       "status": "running",

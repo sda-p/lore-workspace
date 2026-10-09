@@ -1,0 +1,82 @@
+{
+  "source_id": "src-1976178fe747",
+  "snapshot_sha256": "95a48e4e160d367c888dc302abba353d59e6b54848a18f23540efdb36c3a81ff",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1976178fe747-c01",
+      "assertion": "Mari recounts arriving on Earth as a child with her mother, who worked as a fitness and martial-arts instructor.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0012",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "swaruunians",
+      "topics": [
+        "swaruunians",
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1976178fe747-c02",
+      "assertion": "She says her mother forbade her to leave school alone or reveal her origin.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Teachers considered her disruptive."
+    },
+    {
+      "id": "src-1976178fe747-c03",
+      "assertion": "She says some visiting crews use human vehicles to shop for supplies; some also steal goods openly and sometimes leave disproportionate payment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0026"
+      ],
+      "primary_topic": "extraterrestrial-stepdowns",
+      "topics": [
+        "extraterrestrial-stepdowns"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1976178fe747-c04",
+      "assertion": "She says crews once hacked banks for money, but security advances made it harder; long-term visitors learn ordinary work.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "These are Mari Swaruu’s autobiographical and extraterrestrial claims, not independently verified."
+  ],
+  "coverage_gaps": [
+    "her school isolation and identity conflict",
+    "human goods accumulated aboard ships"
+  ]
+}

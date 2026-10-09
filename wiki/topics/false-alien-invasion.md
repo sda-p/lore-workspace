@@ -244,6 +244,64 @@ Source: [Federación Galáctica, CIA Infiltrando en Comunidad OVNI, Falsa Bander
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md), [Galactic Federation](galactic-federation.md).
 
+### src-026b0b5b32ce-c02
+
+Yazhi speculates that a staged alien-invasion narrative could unite humanity and justify digital identifiers, but says she does not predict it will happen. She presents this as one of several possible agendas.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Derribaron "Naves Extraterrestres" - Que opina Yazhi y Athena Swaruu?](https://swaruu.org/transcripts/derribaron-naves-extraterrestres-que-opina-yazhi-y-athena-swaruu) (2023-02-17; es); passages p0010, p0011. [Structured record](../../records/src-026b0b5b32ce.json).
+
+Related topics: [Engineered social unrest](engineered-social-unrest.md).
+
+### src-f9515d45df63-c02
+
+She proposes a government or Cabal psychological operation, either to test a false-invasion narrative or divert attention from terrestrial events. She presents two possible motives.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Sobre todo el rumor de ovnis en los medios](https://swaruu.org/transcripts/sobre-todo-el-rumor-de-ovnis-en-los-medios) (2023-02-16; es); passages p0007, p0008, p0009. [Structured record](../../records/src-f9515d45df63.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-f9515d45df63-c03
+
+Mari says the public UFO narrative may fade, or continued events may indicate preparation for a false alien invasion. She is uncertain about what follows.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [Sobre todo el rumor de ovnis en los medios](https://swaruu.org/transcripts/sobre-todo-el-rumor-de-ovnis-en-los-medios) (2023-02-16; es); passages p0011, p0012. [Structured record](../../records/src-f9515d45df63.json).
+
+### src-cd9a5a1222db-c01
+
+Yazhi said she had no evidence of downed nonhuman craft or unusually high drone traffic; she speculated the reports might serve a false-invasion agenda. She said this was one possible agenda, not a prediction.
+
+Attributed to **Yazhi Swaruu**; speculative; extraction confidence: high.
+
+Source: [OVNIS DERRIBADOS INVESTIGADORES - YAZHI SWARUU](https://swaruu.org/transcripts/ovnis-derribados-investigadores-yazhi-swaruu) (2023-02-15; es); passages p0003, p0008, p0011, p0031. [Structured record](../../records/src-cd9a5a1222db.json).
+
+Related topics: [Nonhuman surveillance drones](nonhuman-surveillance-drones.md).
+
+### src-cd9a5a1222db-c02
+
+Yazhi said the “Galactic Federation of Light” is a human-made narrative, distinct from the United Planets Federation, and would not represent genuine Federation intervention.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [OVNIS DERRIBADOS INVESTIGADORES - YAZHI SWARUU](https://swaruu.org/transcripts/ovnis-derribados-investigadores-yazhi-swaruu) (2023-02-15; es); passages p0033, p0035, p0037, p0042. [Structured record](../../records/src-cd9a5a1222db.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-cd9a5a1222db-c03
+
+She speculated a staged alien threat and rescue could justify digital IDs, restrictions, and a New World Order; promised technology might be used to trade away freedoms.
+
+Attributed to **Yazhi Swaruu**; speculative; extraction confidence: high.
+
+Source: [OVNIS DERRIBADOS INVESTIGADORES - YAZHI SWARUU](https://swaruu.org/transcripts/ovnis-derribados-investigadores-yazhi-swaruu) (2023-02-15; es); passages p0016, p0058, p0060, p0061. [Structured record](../../records/src-cd9a5a1222db.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
 ## Claims filed under other topics
 
 - [src-19b9c2bb57a1-c04](earth-cabal.md#src-19b9c2bb57a1-c04) — Earth Cabal and power structures
@@ -251,9 +309,11 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md), [Galactic Fe
 - [src-7935e066946e-c02](galactic-federation.md#src-7935e066946e-c02) — Galactic Federation
 - [src-6d9b90ab765b-c02](consciousness-metaphysics.md#src-6d9b90ab765b-c02) — Consciousness and metaphysics
 - [src-a8d6c63dc563-c01](galactic-federation.md#src-a8d6c63dc563-c01) — Galactic Federation
+- [src-f9515d45df63-c01](alien-species.md#src-f9515d45df63-c01) — Alien species and distinctions
 
 ## Review flags
 
+- Claims about alien craft, agencies, and political agendas are attributed speculation.
 - conspiracy\_claims
 - disclosure-agenda-speculative
 - disputed\_specimen
@@ -261,6 +321,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md), [Galactic Fe
 - federation-role:uncertain-human-propaganda-vs-permissive-oversight
 - pentagon-disclosure-motive-speculation
 - secret-aircraft-identification-uncertain
+- speculative-false-invasion-scenario
 - unverified\_conspiracy\_claims
 - unverified\_extraordinary\_claims
 - unverified\_extraterrestrial\_claims

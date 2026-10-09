@@ -1,0 +1,83 @@
+{
+  "source_id": "src-0e507b21433f",
+  "snapshot_sha256": "73da7f0522aa2d7cc6a66dd419e01436290c2e9dabad3c53c2282a1ef6fa7118",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0e507b21433f-c01",
+      "assertion": "Za’el rejects fixed prenatal contracts, saying desires can change in a continual present.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0e507b21433f-c02",
+      "assertion": "He says life’s purpose is living and recommends reflecting on what brings fulfillment before choosing a path.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0019",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0e507b21433f-c03",
+      "assertion": "He argues trauma should be addressed before endorsing someone’s wish to leave Earth; abandoning them in suffering is punitive.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0028",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0e507b21433f-c04",
+      "assertion": "He suggests helping another may create a shared positive timeline, while saying this cannot be known with certainty.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0032"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Spiritual interpretations and timeline claims are attributed to Za’el, not independently verified."
+  ],
+  "coverage_gaps": [
+    "whether changing another’s timeline is possible",
+    "his nuanced discussion of current desires versus past intentions"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source_id": "src-ea66ccbb5872",
+  "snapshot_sha256": "b729f62154ad6a2250a354c57a2537a4325c55ec6203ee192a085ab7363d53d7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ea66ccbb5872-c01",
+      "assertion": "She distinguishes planned consensual ship departures from abductions, where people are taken unwillingly and may disappear or be returned far away.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "alien-abduction-practices",
+      "topics": [
+        "alien-abduction-practices"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ea66ccbb5872-c02",
+      "assertion": "She says nonhuman flights file plans with Viera and Antarctic traffic control; permits can make human forces and radars ignore ships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "viera",
+      "topics": [
+        "viera",
+        "antarctica",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ea66ccbb5872-c03",
+      "assertion": "She says human extraction requires a prior relationship, informed consent, no dependents left behind, and Federation oversight.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0027"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation",
+        "alien-abduction-practices"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She lists additional case-specific conditions."
+    },
+    {
+      "id": "src-ea66ccbb5872-c04",
+      "assertion": "She warns offworld life is no cure-all; cultural displacement and long shipboard stays bring social and psychological strain.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031",
+        "p0034"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Extraction craft and procedural details",
+    "Ecological restrictions and crew selection"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "source_id": "src-0c4c4d1e9b67",
+  "snapshot_sha256": "80356e9715a49f230addf3f2eed2433bf1a178c0a35241b69327067b3a1aebf7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0c4c4d1e9b67-c01",
+      "assertion": "Mari says realms are defined by each soul’s perception; shared worlds arise from overlapping ideas, while physical embodiment filters astral experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says individual experiences still differ."
+    },
+    {
+      "id": "src-0c4c4d1e9b67-c02",
+      "assertion": "She defines demons as highly narcissistic lower-astral beings, often deceased people whose attachments or cruel traits persist after death.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "postmortem-realities",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says contact requires matching frequencies."
+    },
+    {
+      "id": "src-0c4c4d1e9b67-c03",
+      "assertion": "Mari says repeated negative thoughts and emotions can lower frequency and create vulnerability that demons exploit, especially through fear.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018",
+        "p0020",
+        "p0021",
+        "p0025"
+      ],
+      "primary_topic": "archons-and-demons",
+      "topics": [
+        "archons-and-demons",
+        "consciousness-metaphysics",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes persistent patterns from brief thoughts."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "claims about short thought durations and manifestation",
+    "examples of obsessive vulnerabilities"
+  ]
+}

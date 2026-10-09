@@ -1,0 +1,74 @@
+{
+  "source_id": "src-5d73de03dc67",
+  "snapshot_sha256": "fd3990a6a95c1004ddb8d407a917a96cc74cd174d7623a1b4901abb53cccd1a9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5d73de03dc67-c01",
+      "assertion": "Mari Swaruu says starseeds may find conventional jobs incompatible and struggle to remain in them, so she recommends seeking income through enjoyable work.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of starseed experience."
+    },
+    {
+      "id": "src-5d73de03dc67-c02",
+      "assertion": "Mari Swaruu argues that social attitudes stigmatize earning money from spiritual, healing, or extraterrestrial work, limiting starseeds’ income.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "economics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her social critique."
+    },
+    {
+      "id": "src-5d73de03dc67-c03",
+      "assertion": "Mari Swaruu describes money as a tool that can support good or harmful ends, and says it remains necessary on Earth despite post-scarcity societies elsewhere.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "economics",
+      "topics": [
+        "economics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her economic model."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The author’s claims about starseeds and social economic control are unverified and attributed."
+  ],
+  "coverage_gaps": [
+    "Specific claims about infiltration and control of spiritual organizations omitted."
+  ]
+}

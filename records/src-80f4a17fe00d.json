@@ -1,0 +1,67 @@
+{
+  "source_id": "src-80f4a17fe00d",
+  "snapshot_sha256": "f4da37bb01db45e14c8ba0384acf784d3b490c5da820f045f7ea26fdc5d5769c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-80f4a17fe00d-c01",
+      "assertion": "Arien said past lives are simultaneous moments and that attention focuses on one life while setting others aside to support the soul’s growth.",
+      "speaker": "Arien de Erra",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "memory-veil"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-80f4a17fe00d-c02",
+      "assertion": "She said past-life memories may surface as inner knowledge or emotion, and retrieval varies by person and can take months or years.",
+      "speaker": "Arien de Erra",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "soul-loop-reincarnation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-80f4a17fe00d-c03",
+      "assertion": "Arien urged self-trust with discernment and respect, saying people should not impose their interpretations or rely on others to do their inner work.",
+      "speaker": "Arien de Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "soul-loop-reincarnation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Examples connecting emotional patterns to health and personal history"
+  ]
+}

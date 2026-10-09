@@ -92,6 +92,36 @@ Attributed to **Gosia**; reported; extraction confidence: medium.
 
 Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 017](https://swaruu.org/transcripts/who-is-involved-with-earth-a-guide-to-extraterrestrial-races-class-017) (2026-08-07; en); passages p0057, p0058. [Structured record](../../records/src-c1f323f128a9.json).
 
+### src-fc83e68676a4-c01
+
+Mari Swaruu says communications arriving from space pass through Andromedan biosphere ship Viera, and the Federation requires everyone in Earth orbit to access Earth communications through the Internet, enabling centralized monitoring and censorship. She says this centralizes and enables monitoring and censorship of communications.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo ve la Tierra la Federación Galáctica, Parte 4, Restricciones](https://swaruu.org/transcripts/como-ve-la-tierra-la-federacion-galactica-parte-4-restricciones) (2023-03-25; es); passages p0009. [Structured record](../../records/src-fc83e68676a4.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-026b0b5b32ce-c01
+
+Yazhi says Viera's traffic-control data showed no unusual nonhuman craft activity during the reported shootdowns. She says routine drone traffic continued.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Derribaron "Naves Extraterrestres" - Que opina Yazhi y Athena Swaruu?](https://swaruu.org/transcripts/derribaron-naves-extraterrestres-que-opina-yazhi-y-athena-swaruu) (2023-02-17; es); passages p0005, p0008. [Structured record](../../records/src-026b0b5b32ce.json).
+
+Related topics: [Nonhuman surveillance drones](nonhuman-surveillance-drones.md).
+
+### src-e2289d05d7a8-c01
+
+Yazhi says Viera's space-traffic center reported no unusual arrivals, despite routine traffic that includes many Orion and Reptilian vessels. She says many Reptilian vessels are nonhostile and some belong to the Federation.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [Naves Nodrizas de Orión Entrando la Tierra? No esta pasando NADA - Yazhi Swaruu](https://swaruu.org/transcripts/naves-nodrizas-de-orion-entrando-la-tierra-no-esta-pasando-nada-yazhi-swaruu) (2023-02-16; es); passages p0004, p0006. [Structured record](../../records/src-e2289d05d7a8.json).
+
+Related topics: [Reptilians](reptilians.md).
+
 ## Claims filed under other topics
 
 - [src-45558fcded2a-c01](galactic-federation.md#src-45558fcded2a-c01) — Galactic Federation
@@ -107,8 +137,11 @@ Source: [Who Is Involved With Earth? A Guide to Extraterrestrial Races - CLASS 0
 - Species summaries are broad and based on accounts attributed to orbital sources
 - broad-exopolitical-allegations
 - federation-role-variation
+- first-directive-policy-description
 - forecast-in-retrospect
 - intra-source-policy-tension
 - lunar-reactor-age-origin-uncertainty
 - ship-specifications\_attributed
+- species-and-hostility-distinctions-preserved
+- speculative-false-invasion-scenario
 - unverified-contact-claims

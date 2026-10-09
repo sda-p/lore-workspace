@@ -1,0 +1,69 @@
+{
+  "source_id": "src-a72352046ce4",
+  "snapshot_sha256": "4a2f1a5c225dcb8628305ee855b37fbfa408b7a14876e96b0f9154bb9669d99c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a72352046ce4-c01",
+      "assertion": "Yazhi says White Hats are controlled opposition within the same Cabal, though individual insiders may help; she says true opponents would inform the public.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0021",
+        "p0029"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a72352046ce4-c02",
+      "assertion": "She frames terrestrial good-versus-evil and alien-war narratives as human projections in a self-contained Matrix, where friction may teach souls.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a72352046ce4-c03",
+      "assertion": "She says experience and the soul are real, while each person decides what else counts as real.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi acknowledges some individuals may work in humanity’s favor but portrays White Hat organizations as part of the same structure."
+  ],
+  "coverage_gaps": [
+    "examples of controlled opposition",
+    "limits placed on public communication",
+    "specific leaders named"
+  ]
+}

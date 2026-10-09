@@ -1,0 +1,74 @@
+{
+  "source_id": "src-a02f81bbff4a",
+  "snapshot_sha256": "1030f6e2a603ace42de042a41b6830e1728c1898ee97ec54e5d14f1e89c73941",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a02f81bbff4a-c01",
+      "assertion": "Athena said Earth’s magnetic field fluctuates frequently through natural cycles and interactions with nearby planets and stars, disputing a regular 12,000-year cycle.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007",
+        "p0014"
+      ],
+      "primary_topic": "geomagnetic-cycles",
+      "topics": [
+        "geomagnetic-cycles",
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said she did not know the basis for that cycle claim."
+    },
+    {
+      "id": "src-a02f81bbff4a-c02",
+      "assertion": "Athena said current magnetic fluctuations pose no danger, perhaps bringing slightly more cosmic radiation or solar-wind particles.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0011",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "geomagnetic-cycles",
+      "topics": [
+        "geomagnetic-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-a02f81bbff4a-c03",
+      "assertion": "Athena said pole shifts require a major catastrophe or strong external influence; she attributed the last shift to Tiamat’s waters causing a great flood.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "geomagnetic-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "geomagnetic-cycles",
+      "name": "Earth magnetic field cycles",
+      "kind": "planetary phenomenon",
+      "aliases": [
+        "geomagnetic field fluctuations",
+        "magnetic pole shifts"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Geophysical claims and the Tiamat flood account are attributed to Athena."
+  ],
+  "coverage_gaps": [
+    "Her claims about artificial climate modification and media fear campaigns"
+  ]
+}

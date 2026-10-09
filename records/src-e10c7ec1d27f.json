@@ -1,0 +1,73 @@
+{
+  "source_id": "src-e10c7ec1d27f",
+  "snapshot_sha256": "0a651919a159376ab854c629840e7bfc052f143c7eee8849c2f0dc49f48bc7eb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e10c7ec1d27f-c01",
+      "assertion": "Mari Swaruu describes a “mirror effect” in which events, people, or objects may repeat across isolated existential realms, such as Earth and space.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the mechanism is not fully understood."
+    },
+    {
+      "id": "src-e10c7ec1d27f-c02",
+      "assertion": "Mari Swaruu says closely connected people in different realms may experience parallel event sequences, and apparent doubles may reflect shared soul connections.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her metaphysical explanation."
+    },
+    {
+      "id": "src-e10c7ec1d27f-c03",
+      "assertion": "Mari Swaruu proposes frequency compatibility and quantum entanglement as possible explanations for mirrored events between realms.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "dimensional-mirroring",
+      "topics": [
+        "dimensional-mirroring",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "The proposed link to quantum mechanics is her speculation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The article connects metaphysical claims to quantum mechanics without establishing a scientific basis."
+  ],
+  "coverage_gaps": [
+    "Examples involving time travel, starship drives, photographs, and timeline theory omitted."
+  ]
+}

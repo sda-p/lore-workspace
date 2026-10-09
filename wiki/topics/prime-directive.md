@@ -560,6 +560,76 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
 
 Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://swaruu.org/transcripts/contacto-con-mujeres-extraterrestres-la-estrella-taygeta) (2018-12-15; es); passages p0056, p0057. [Structured record](../../records/src-f3da65ca7f6c.json).
 
+### src-fc83e68676a4-c02
+
+Mari Swaruu says Federation rules treat a starship crew member on Earth's surface as human for communications and conduct restrictions. She says the classification appears to depend more on location than identity.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo ve la Tierra la Federación Galáctica, Parte 4, Restricciones](https://swaruu.org/transcripts/como-ve-la-tierra-la-federacion-galactica-parte-4-restricciones) (2023-03-25; es); passages p0017, p0019. [Structured record](../../records/src-fc83e68676a4.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a1fd5a2d5862-c01
+
+Mari's quoted First Directive applies to planetary cultures that have not achieved interstellar travel. She cites Federation statutes, Chapter One, Article Two, Paragraph Seven.
+
+Attributed to **Mari Swaruu, quoting the Federation First Directive**; reported; extraction confidence: high.
+
+Source: [Primera Directiva (núcleo) para una fácil referencia](https://swaruu.org/transcripts/primera-directiva-nucleo-para-una-facil-referencia) (2023-03-21; es); passages p0004, p0005. [Structured record](../../records/src-a1fd5a2d5862.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a1fd5a2d5862-c02
+
+The directive forbids introducing superior knowledge, force, technology, or contact that disrupts a less-developed culture's normal development. Exceptions: prior violations, accidental contamination, or external threat.
+
+Attributed to **Mari Swaruu, quoting the Federation First Directive**; reported; extraction confidence: high.
+
+Source: [Primera Directiva (núcleo) para una fácil referencia](https://swaruu.org/transcripts/primera-directiva-nucleo-para-una-facil-referencia) (2023-03-21; es); passages p0007, p0008, p0009. [Structured record](../../records/src-a1fd5a2d5862.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-a1fd5a2d5862-c03
+
+It bars showing less-developed peoples proof of the Federation or its technology and calls for suppressing rumors of its existence. The stated aim is preserving natural cultural and technological progression.
+
+Attributed to **Mari Swaruu, quoting the Federation First Directive**; reported; extraction confidence: high.
+
+Source: [Primera Directiva (núcleo) para una fácil referencia](https://swaruu.org/transcripts/primera-directiva-nucleo-para-una-facil-referencia) (2023-03-21; es); passages p0010. [Structured record](../../records/src-a1fd5a2d5862.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-dfba9e89b971-c01
+
+Mari quotes the First Directive as barring interference with non-interstellar cultures and introducing superior knowledge or technology.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Cómo la Federación de Planetas Unidos ve la Tierra, Parte 2, Primera Directiva](https://swaruu.org/transcripts/como-la-federacion-de-planetas-unidos-ve-la-tierra-parte-2-primera-directiva) (2023-03-19; es); passages p0011, p0012, p0013, p0015. [Structured record](../../records/src-dfba9e89b971.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-dfba9e89b971-c02
+
+She says it forbids proof of Federation existence; exceptions allow correction of prior violations or contamination.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Cómo la Federación de Planetas Unidos ve la Tierra, Parte 2, Primera Directiva](https://swaruu.org/transcripts/como-la-federacion-de-planetas-unidos-ve-la-tierra-parte-2-primera-directiva) (2023-03-19; es); passages p0014, p0017, p0018. [Structured record](../../records/src-dfba9e89b971.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-dfba9e89b971-c04
+
+Mari argues the Directive is inconsistent because she believes the Federation already directs Earth society and technology. She says this makes the Federation complicit in Earth’s suffering.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo la Federación de Planetas Unidos ve la Tierra, Parte 2, Primera Directiva](https://swaruu.org/transcripts/como-la-federacion-de-planetas-unidos-ve-la-tierra-parte-2-primera-directiva) (2023-03-19; es); passages p0024, p0026, p0028. [Structured record](../../records/src-dfba9e89b971.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-a5811312e55c-c04](galactic-federation.md#src-a5811312e55c-c04) — Galactic Federation
@@ -599,12 +669,18 @@ Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://s
 - [src-f94fd5d77808-c03](jupiter.md#src-f94fd5d77808-c03) — Jupiter
 - [src-5e8b4d828ea6-c03](taygetans.md#src-5e8b4d828ea6-c03) — Taygetans
 - [src-5e8b4d828ea6-c04](starseed-guides.md#src-5e8b4d828ea6-c04) — Starseed guides
+- [src-b39ca55c43a5-c01](starseeds.md#src-b39ca55c43a5-c01) — Starseeds
+- [src-c1919a47291a-c02](galactic-federation.md#src-c1919a47291a-c02) — Galactic Federation
+- [src-c6671f7e71b0-c03](starseeds.md#src-c6671f7e71b0-c03) — Starseeds
+- [src-f98eceaf4634-c03](starseeds.md#src-f98eceaf4634-c03) — Starseeds
+- [src-24baeece96cc-c02](galactic-federation.md#src-24baeece96cc-c02) — Galactic Federation
 
 ## Review flags
 
 - 3D containment rationale shifts across speakers and passages
 - AI\_capability\_claims\_unverified
 - Alenym poisoning and Federation culpability are Mari’s allegations; the representative’s initial response notes prior Taygetan opposition
+- Federation policies and Earth-intervention allegations are reported by Mari Swaruu, not independently verified.
 - Federation-as-controller claim conflicts with mentor framing within transcript
 - Leader-contact claim is attributed to Asket in this transcript.
 - Yazhi-interview-report
@@ -625,6 +701,8 @@ Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://s
 - federation-authority-critique
 - federation-history-attributed
 - federation-noninterference-tension
+- federation-policy-and-metaphysical-account
+- first-directive-policy-description
 - historical-allegations
 - historical-claims-unverified
 - internal\_tension
@@ -641,6 +719,7 @@ Source: [CONTACTO CON MUJERES EXTRATERRESTRES – LA ESTRELLA TAYGETA](https://s
 - project-guidance-attributed-to-mari
 - self\_description
 - social-media-project\_details\_speculative
+- speculative-extraction-account
 - terrestrial-history-contradiction
 - time\_travel\_risks
 - translated-from-Spanish-original-not-available

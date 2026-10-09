@@ -872,6 +872,80 @@ Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
 
 Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https://swaruu.org/transcripts/la-energia-de-las-centrales-nucleares-lineas-lei-athena-swaruu) (2022-04-22; es); passages p0030, p0031, p0033. [Structured record](../../records/src-a3598fbda73f.json).
 
+### src-690730c29818-c01
+
+Yazhi says Atlantean pyramids formed a wireless zero-point power grid, though some served only as subtle-energy condensers or portals. She distinguishes mercury-based Atlantean and Mesoamerican designs from water-based Federation and Lemurian pyramids.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ARQUEOLOGÍA LAS PIRÁMIDES DE LA TIERRA Y EL MERCURIO -Yazhi Swaruu](https://swaruu.org/transcripts/arqueologia-las-piramides-de-la-tierra-y-el-mercurio-yazhi-swaruu) (2022-12-26; es); passages p0002, p0003, p0004, p0006. [Structured record](../../records/src-690730c29818.json).
+
+Related topics: [Atlantis and Lemuria](atlantis-lemuria.md), [Natural and artificial portals](natural-portals.md).
+
+### src-4adf86e67a88-c03
+
+She says nonhuman reactors use controlled matter-antimatter fuel, producing strong energy with little ionizing radiation but requiring refueling and underperforming zero-point systems.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [QUE ES LA MATERIA OSCURA ENERGÍA OSCURA Y ANTI-MATERIA](https://swaruu.org/transcripts/que-es-la-materia-oscura-energia-oscura-y-anti-materia) (2023-04-16; es); passages p0015, p0028. [Structured record](../../records/src-4adf86e67a88.json).
+
+### src-93ba3a32ef40-c01
+
+Yazhi argued that human “nuclear weapons” are energy weapons, disputing the conventional fission-chain model while acknowledging radioactive decay can release heat.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Bombas "Nucleares" - Bombas de Energia - Parte 2 - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/bombas-nucleares-bombas-de-energia-parte-2-yazhi-swaruu-sophia) (2022-11-28; es); passages p0007, p0008, p0009, p0025, p0026, p0027. [Structured record](../../records/src-93ba3a32ef40.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-93ba3a32ef40-c03
+
+Yazhi speculated that some purported nuclear-explosion footage may be staged and interpreted its heat as plasma expansion or zero-point energy. She said the footage’s authenticity was uncertain.
+
+Attributed to **Yazhi Swaruu**; speculative; extraction confidence: medium.
+
+Source: [Bombas "Nucleares" - Bombas de Energia - Parte 2 - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/bombas-nucleares-bombas-de-energia-parte-2-yazhi-swaruu-sophia) (2022-11-28; es); passages p0041, p0042, p0043, p0044. [Structured record](../../records/src-93ba3a32ef40.json).
+
+### src-f5165a17d17e-c03
+
+She says weapons called nuclear may instead be directed-energy weapons powered by zero-point reactors.
+
+Attributed to **Yazhi Swaruu (Sophia)**; reported; extraction confidence: high.
+
+Source: [Bombas Nucleares - Bombas de Energia que Fingen ser Nucleares - Yazhi Swaruu (Sophia)](https://swaruu.org/transcripts/bombas-nucleares-bombas-de-energia-que-fingen-ser-nucleares-yazhi-swaruu-sophia) (2022-11-23; es); passages p0021, p0023, p0052, p0054, p0056. [Structured record](../../records/src-f5165a17d17e.json).
+
+Related topics: [Taygetan atomic wave structure](atomic-wave-structure.md).
+
+### src-87046594a8f8-c04
+
+Yazhi interpreted an explosion as a zero-point/plasma expansion, said footage might be staged, and declined to explain the process.
+
+Attributed to **Yazhi Swaruu**; speculative; extraction confidence: high.
+
+Source: [ENERGÍA LIBRE CAMUFLADA EN ARMAS NUCLEARES - Yazhi Swaruu](https://swaruu.org/transcripts/energia-libre-camuflada-en-armas-nucleares-yazhi-swaruu) (2022-11-28; es); passages p0046, p0051, p0052. [Structured record](../../records/src-87046594a8f8.json).
+
+Related topics: [Taygetan atomic wave structure](atomic-wave-structure.md).
+
+### src-aabe7f4a77ff-c04
+
+She says vacuum and high-voltage plasma vaporize sewage, producing electricity that exceeds toilet use. She also says nonrecyclable trash can be vaporized into power.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Naves Taygeteanas, Habitaciones y aseos](https://swaruu.org/transcripts/naves-taygeteanas-habitaciones-y-aseos) (2023-03-03; es); passages p0024, p0028, p0031, p0025, p0027. [Structured record](../../records/src-aabe7f4a77ff.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-28f04bff29fc-c01
+
+Yazhi argues electric vehicles can cause environmental harm despite appearing clean.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER - YAZHI - Sophia Swaruu](https://swaruu.org/transcripts/lo-que-no-te-cuentan-de-los-vehiculos-electricos-y-tienes-que-saber-yazhi-sophia-swaruu) (2022-10-11; es); passages p0002, p0003. [Structured record](../../records/src-28f04bff29fc.json).
+
 ## Claims filed under other topics
 
 - [src-cf7bf2726e68-c06](consciousness-metaphysics.md#src-cf7bf2726e68-c06) — Consciousness and metaphysics
@@ -961,23 +1035,37 @@ Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https
 - [src-e10b7b1c1712-c02](pyramid-network.md#src-e10b7b1c1712-c02) — Pyramid energy and portal network
 - [src-a3598fbda73f-c02](deep-underground-military-bases.md#src-a3598fbda73f-c02) — Deep underground military bases
 - [src-80bdf93897ea-c03](deep-underground-military-bases.md#src-80bdf93897ea-c03) — Deep underground military bases
+- [src-f10960087bcd-c03](etheric-load-heaters.md#src-f10960087bcd-c03) — Etheric load heaters
+- [src-509a0d643adf-c01](holistic-society.md#src-509a0d643adf-c01) — Holistic society
+- [src-5ed98072b8ce-c01](replicators.md#src-5ed98072b8ce-c01) — Replicators
+- [src-93ba3a32ef40-c02](galactic-federation.md#src-93ba3a32ef40-c02) — Galactic Federation
+- [src-14bbfbca9660-c01](taygetan-wireless-power-grid.md#src-14bbfbca9660-c01) — Taygetan wireless power grid
+- [src-14bbfbca9660-c02](taygetan-wireless-power-grid.md#src-14bbfbca9660-c02) — Taygetan wireless power grid
+- [src-db2abd569bd8-c03](electric-vehicles.md#src-db2abd569bd8-c03) — Electric vehicles
 
 ## Review flags
 
 - Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
 - Claims about Tartaria and nuclear tests are attributed to Athena and presented as speculation; the transcript provides no independent evidence.
+- Claims about Taygetan technology and Earth EV policy are attributed to Mari Swaruu.
 - Compared English candidate src-622099cec238; article substantially matches but has paragraph segmentation/translation differences.
+- Contains disputed environmental, market, vehicle safety, and government-control claims; attribute to Yazhi, not established findings.
 - Core technology described as extraterrestrial; source offers no engineering measurements.
 - EMP-intervention-field-unknown
 - High-impact claims about nuclear energy, radiation, and historical sabotage are attributed to Anéeka; the transcript provides no independent evidence.
 - ISS-and-station-fabrication-allegation
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
+- Remote-shutdown and environmental claims are attributed to Yazhi and not presented as established facts.
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - Same-language near-duplicate src-ab81c3f220ab has identical 60-paragraph body with changed title; compared full text, no substantive additions detected.
 - Tartaria chronology and destruction are presented as disputed source claims
+- Technology and energy claims are attributed to Mari Swaruu and are not independently verified.
+- The source disputes established nuclear science; content is attributed to Yazhi and not verified.
 - The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
+- The transcript contradicts established nuclear physics and history; claims are recorded as Yazhi’s assertions, not verified facts.
 - The underground-generation explanation is explicitly an inference, not an observed facility.
 - These are attributed dialogue claims; terminology for Hyades varies by convention
+- Yazhi distinguishes antimatter, which she describes as physical and recognized by star civilizations, from human dark-matter terminology.
 - aircraft-identity-ambiguity
 - alternative-weapons-claims
 - ancient-history-reinterpretation
@@ -987,6 +1075,7 @@ Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https
 - author-signature-attribution
 - biology-claim
 - climate-claims
+- composite-english-spanish-transcript
 - conflicting-pyramid-dates
 - conflicting\_primary\_purpose\_claims
 - conspiracy-claims
@@ -1008,6 +1097,7 @@ Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https
 - extraordinary\_physics\_claims
 - extraordinary\_technology\_claims
 - federation\_dispute
+- fictional-ancient-energy-and-propulsion-claims
 - flight-19-explanation-uncertain
 - frequency-navigation-model
 - giza-base-account
@@ -1037,6 +1127,7 @@ Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https
 - pyramid-technology-claims
 - quantum-mechanics-reinterpretation
 - reactor-mechanism-attributed
+- replicator-technology-account
 - reported\_plan
 - same-language-near-duplicate-src-7872bc2f2c04
 - satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
@@ -1063,6 +1154,7 @@ Source: [La Energia de las Centrales Nucleares Lineas Lei - Athena Swaruu](https
 - translation-counterpart:src-ce6ea4ce1c3c-close
 - translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
 - transport\_safety\_and\_policy\_claims\_unverified
+- unverified-cosmology-and-energy-claims
 - unverified\_ancient\_technology\_claims
 - unverified\_biological\_claims
 - unverified\_energy\_claims

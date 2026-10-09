@@ -1,0 +1,70 @@
+{
+  "source_id": "src-06b35bd6dc5f",
+  "snapshot_sha256": "3c86deaa86ad503d05b17069757e0f2f23186cac25a965cbe0a4d70ccfbb2a95",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-06b35bd6dc5f-c01",
+      "assertion": "Mari says Earth’s controllers use controlled opposition and selective UFO disclosure to steer public understanding and retain control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0018",
+        "p0026"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "false-alien-invasion"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her view."
+    },
+    {
+      "id": "src-06b35bd6dc5f-c02",
+      "assertion": "She says authorities flood media with UFO narratives, making truth harder to distinguish, and regards large groups and official statements as less credible.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She notes that many accounts are fabricated."
+    },
+    {
+      "id": "src-06b35bd6dc5f-c03",
+      "assertion": "Mari urges listeners to research broadly, draw their own conclusions, and avoid depending on one source or authority.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She shares her perspective."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "individual public figures and named disclosure programs",
+    "government authority and public trust claims"
+  ]
+}

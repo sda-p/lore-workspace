@@ -1,0 +1,86 @@
+{
+  "source_id": "src-d0dc341815a0",
+  "snapshot_sha256": "fa938b69e9439260906f95b21a020c76de3935f5b59a6ac2f5ba849eb2da7732",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d0dc341815a0-c01",
+      "assertion": "Mari alleges the Maui wildfires were a false-flag attack, claiming conventional flamethrower drones and advanced energy-weapon drones caused them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d0dc341815a0-c02",
+      "assertion": "She says police and coast guard blocked residents fleeing and civilian aid, and cites FEMA’s early arrival as evidence of prior knowledge.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d0dc341815a0-c03",
+      "assertion": "She alleges fires selectively destroyed working-class homes, museums and libraries while sparing elite properties; she links destruction to planned controlled-city rebuilding.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d0dc341815a0-c04",
+      "assertion": "She alleges investors and government exploited the aftermath to acquire local property cheaply, and accuses the Federation of allowing known harm.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0031"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source’s allegations about the Maui disaster and named agencies are unverified and are recorded only as the speaker’s claims."
+  ],
+  "coverage_gaps": [
+    "Claimed casualty counts and additional fire-pattern details",
+    "Claims about sacrifices, entities and broader global events"
+  ]
+}

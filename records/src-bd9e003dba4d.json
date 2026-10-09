@@ -1,0 +1,67 @@
+{
+  "source_id": "src-bd9e003dba4d",
+  "snapshot_sha256": "9462d1d501d572c5d3e55f40a797df5b357752b1f1421b04b83bd25dcf3d074d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bd9e003dba4d-c01",
+      "assertion": "Anéeka says the human brain’s divided hemispheres reflect a tendency toward dualistic thought repeated across incarnations.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "lyran-unified-brain"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account links metaphysics and biology."
+    },
+    {
+      "id": "src-bd9e003dba4d-c02",
+      "assertion": "Swaruu (9) says people in comas may experience other planes and return to bodily awareness only if a reason or physical connection permits.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of coma consciousness."
+    },
+    {
+      "id": "src-bd9e003dba4d-c03",
+      "assertion": "Swaruu (9) claims cremation releases residual life energy that feeds lower-astral entities.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0053",
+        "p0055",
+        "p0056",
+        "p0058"
+      ],
+      "primary_topic": "lush-feeding-entities",
+      "topics": [
+        "lush-feeding-entities",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as spiritual lore."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Biological, medical, and paranormal claims are attributed to the named speakers and are not established facts."
+  ],
+  "coverage_gaps": [
+    "Other discussions of paranormal events, organ cultivation, cellular death, and burial omitted."
+  ]
+}

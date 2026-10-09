@@ -138,6 +138,22 @@ Source: [EL ÉTER - LA FUENTE ORIGINAL – ATHENA SWARUU](https://swaruu.org/tra
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-4adf86e67a88-c01
+
+Yazhi says dark matter and dark energy are ether like all matter, labels for effects outside human measurement; star civilizations call them other densities.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [QUE ES LA MATERIA OSCURA ENERGÍA OSCURA Y ANTI-MATERIA](https://swaruu.org/transcripts/que-es-la-materia-oscura-energia-oscura-y-anti-materia) (2023-04-16; es); passages p0003, p0004, p0007, p0025, p0026. [Structured record](../../records/src-4adf86e67a88.json).
+
+### src-4adf86e67a88-c04
+
+She says antimatter can be stored under vacuum with artificial gravity, while manipulated dark matter ceases to be dark.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [QUE ES LA MATERIA OSCURA ENERGÍA OSCURA Y ANTI-MATERIA](https://swaruu.org/transcripts/que-es-la-materia-oscura-energia-oscura-y-anti-materia) (2023-04-16; es); passages p0019. [Structured record](../../records/src-4adf86e67a88.json).
+
 ## Claims filed under other topics
 
 - [src-8808e760d7a4-c03](stellar-navigation.md#src-8808e760d7a4-c03) — Stellar navigation
@@ -167,6 +183,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
 - The transcript combines Swaruu 9, Yazhi, and Athena passages; claims retain speaker distinctions
 - Time model rejects fixed linear time; do not reconcile with other accounts.
+- Yazhi distinguishes antimatter, which she describes as physical and recognized by star civilizations, from human dark-matter terminology.
 - astral-perception-agenda-claim
 - blood, metaphysical, astronomical, and species claims are attributed to Anéeka, not independently verified
 - claims about memory, brain structure, consciousness, and Van Allen belts are attributed lore, not independently verified facts

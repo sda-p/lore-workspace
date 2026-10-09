@@ -138,6 +138,34 @@ Source: [Navegación Estelar 3 PARTE 2 - Éter - Insertando Objetos en la Matrix
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-b39ca55c43a5-c02
+
+Yazhi describes a possible partial evacuation using tractor beams, with individuals removed discreetly rather than in a mass event. She says no destination planet is required and she does not expect large-scale evacuation.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [EVACUACION PLANETARIA POR EXTRATERRESTRES - Yazhi Swaruu](https://swaruu.org/transcripts/evacuacion-planetaria-por-extraterrestres-yazhi-swaruu) (2022-10-15; es); passages p0012, p0014, p0025. [Structured record](../../records/src-b39ca55c43a5.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-4297ae6b09e2-c01
+
+Yazhi says Taygetan magnetic-impulse craft can condense suspended atmospheric silicates into fragile borosilicate fibers through controlled plasma-jet frequencies and heat; particulates must be present.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Cabello de Ángel - Informe Taygeteano - Misteriosas Fibras - Que son?](https://swaruu.org/transcripts/cabello-de-angel-informe-taygeteano-misteriosas-fibras-que-son) (2022-12-10; es); passages p0005, p0006, p0007, p0008, p0012, p0014. [Structured record](../../records/src-4297ae6b09e2.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-4531380816aa-c02
+
+Yazhi said extraterrestrial craft use tractor beams to move people; atmospheric ionization can make a gravity beam glow, though she could not identify what specific videos showed.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: medium.
+
+Source: [MiniTemas - Variedad de Información - Reptiles y Extraterrestres entre los Humanos y Mas](https://swaruu.org/transcripts/minitemas-variedad-de-informacion-reptiles-y-extraterrestres-entre-los-humanos-y-mas) (2022-10-12; es); passages p0010, p0011, p0012. [Structured record](../../records/src-4531380816aa.json).
+
 ## Claims filed under other topics
 
 - [src-cb6267c7760f-c04](starship-systems.md#src-cb6267c7760f-c04) — Starship systems
@@ -152,6 +180,7 @@ Related topics: [Starship systems](starship-systems.md).
 ## Review flags
 
 - Claims are speaker-specific; aircraft-shaped spacecraft, modified real aircraft, and projected camouflage are distinct systems
+- Reptilian identity claim is an allegation by the speaker.
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - earthly-cern-portal-claim-not-included
 - extraordinary-ability-claims
@@ -160,6 +189,7 @@ Related topics: [Starship systems](starship-systems.md).
 - portal-energy-estimates-attributed
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker\_attribution
+- speculative-extraction-account
 - tractor-beam-technology-attributed
 - translated-from-Spanish-original-not-available
 - translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions

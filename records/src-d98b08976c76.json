@@ -1,0 +1,85 @@
+{
+  "source_id": "src-d98b08976c76",
+  "snapshot_sha256": "53ccf9009b37011ac08bdb55935b52a58c6b55024af554de85d00a507d5c409e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d98b08976c76-c01",
+      "assertion": "Mari says past events shape present identity, so she favors accepting good and bad experiences and learning from them.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0010",
+        "p0011",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d98b08976c76-c02",
+      "assertion": "In her model, changing an event through time travel creates an alternate timeline; it does not alter the traveler’s remembered origin line.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is the Taygetan time-travel model she describes."
+    },
+    {
+      "id": "src-d98b08976c76-c03",
+      "assertion": "She says decisions create timeline branches, events occur once within each line, and paradoxes therefore cannot form.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d98b08976c76-c04",
+      "assertion": "She considers imagined-past revision a limited but potentially useful coping tool, with effectiveness varying by person.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Her personal account of childhood events and alternate timelines",
+    "Gratitude and scarcity mindset"
+  ]
+}

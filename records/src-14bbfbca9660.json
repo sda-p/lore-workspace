@@ -1,0 +1,67 @@
+{
+  "source_id": "src-14bbfbca9660",
+  "snapshot_sha256": "aca90517b41cab7191acee9f24e5769781ba4b1c7dfedb3bdf4e0c0df19ec4a8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-14bbfbca9660-c01",
+      "assertion": "Mari said Taygetan electric vehicles draw power wirelessly from planetary towers on Erra and Temmer, with small zero-point reactors as backup.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "taygetan-wireless-power-grid",
+      "topics": [
+        "taygetan-wireless-power-grid",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-14bbfbca9660-c02",
+      "assertion": "She said vehicles can feed surplus power back into the planetary network and use magnetic bearings to reduce wheel and motor friction.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "taygetan-wireless-power-grid",
+      "topics": [
+        "taygetan-wireless-power-grid",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-14bbfbca9660-c03",
+      "assertion": "Mari said Taygetan manufacturing avoids planned obsolescence and uses durable, sometimes self-repairing materials; she contrasted this with Earth EVs, which she views as reducing autonomy.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetan-wireless-power-grid"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her claims about Earth EV policy are her opinion."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about Taygetan technology and Earth EV policy are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Vehicle types, rail network, and claimed societal ownership model"
+  ]
+}

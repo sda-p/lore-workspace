@@ -1,0 +1,85 @@
+{
+  "source_id": "src-f994e07a2582",
+  "snapshot_sha256": "ee0a6d131339402f85fa795a3c0dd3a5b3f2cc33075cbc4b83de2e4f877277a2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f994e07a2582-c01",
+      "assertion": "Anéeka and Yazhi describe Earth’s hot, liquid iron core; Anéeka adds vast interior seas.",
+      "speaker": "Anéeka and Yazhi",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0031"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f994e07a2582-c02",
+      "assertion": "Yazhi says Earth is a gruyere-like cavern system, lit by magma and photoluminescence, without a central sun.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0021",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "intraterrestrial-civilizations",
+      "topics": [
+        "intraterrestrial-civilizations"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f994e07a2582-c03",
+      "assertion": "She describes underground fauna and humanoids, including Antarctic Vulcans facing Kingu Reptilian incursions; information is limited.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "intraterrestrial-vulcans",
+      "topics": [
+        "intraterrestrial-vulcans"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "Yazhi says the Vulcan society is poorly documented."
+    },
+    {
+      "id": "src-f994e07a2582-c04",
+      "assertion": "She says inner magma, pressurized water, and black goo circulate; Toleka sensors indicate no core stoppage, only natural variation.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0038",
+        "p0041"
+      ],
+      "primary_topic": "black-goo",
+      "topics": [
+        "black-goo"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi states that her information about Antarctic Vulcans and deep-cavern beings is limited or partly uncorroborated."
+  ],
+  "coverage_gaps": [
+    "polar openings and aurora connections",
+    "internal pressure and petroleum formation",
+    "individual inner-Earth species details"
+  ]
+}

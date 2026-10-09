@@ -1,0 +1,90 @@
+{
+  "source_id": "src-0c64b4d8967b",
+  "snapshot_sha256": "dbfec046db7b0449496aadcf49d976140aada706be270a9ee88458dd370fa706",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0c64b4d8967b-c01",
+      "assertion": "Mari describes nexus souls as composites of multiple points of attention, with expansion measured by consciousness and understanding rather than stored facts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c64b4d8967b-c02",
+      "assertion": "She says advanced souls influence similar-frequency people and regions, potentially raising a planet’s energy through their presence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c64b4d8967b-c03",
+      "assertion": "She proposes less advanced souls may have been advanced souls’ past incarnations; because time is non-linear, identities can coexist.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "nexus-souls"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c64b4d8967b-c04",
+      "assertion": "She says connected group members can share emotions telepathically, influence is reciprocal, and some advanced souls isolate to manage these effects.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "nexus-souls",
+      "topics": [
+        "nexus-souls",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Collective and religious leader hive-mind examples",
+    "Difficult incarnations and starseed family circumstances"
+  ]
+}

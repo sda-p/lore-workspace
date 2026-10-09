@@ -1,0 +1,68 @@
+{
+  "source_id": "src-429d15872426",
+  "snapshot_sha256": "7635da81833e04507b72873c0f4d4ad1717ee21b322dd95c2234722d41298d7a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-429d15872426-c01",
+      "assertion": "Yazhi said an upper self can split attention into several concurrent experiences, such as different life paths, and be nourished by all of them.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation",
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-429d15872426-c02",
+      "assertion": "She said past-life memories are not necessary for expansion; present experience matters, and imagination and learning can broaden the self.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "soul-loop-reincarnation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-429d15872426-c03",
+      "assertion": "Yazhi said she, Mari, and Ekata are “nexus beings” able to alter realities; she described Ekata as mentally present across multiple timelines and universes.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0056",
+        "p0061"
+      ],
+      "primary_topic": "nexus-beings",
+      "topics": [
+        "nexus-beings",
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said the Federation rates them danger level 10."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about concurrent lives and nexus beings are attributed to Yazhi."
+  ],
+  "coverage_gaps": [
+    "Yazhi’s account of self-expansion into other people and experience of post-life integration"
+  ]
+}

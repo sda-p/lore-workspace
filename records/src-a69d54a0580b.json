@@ -1,0 +1,73 @@
+{
+  "source_id": "src-a69d54a0580b",
+  "snapshot_sha256": "6e398718e49ff127e36ac940bfa36c10002fa58db183cc693a1086e3514df9ce",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a69d54a0580b-c01",
+      "assertion": "Mari says gray aliens comprise at least 165 variants; she describes Orion groups as generally regressive and Zeta Reticuli groups as generally benign.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "orion-grays",
+        "zeta-reticuli-gardeners"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account generalizes."
+    },
+    {
+      "id": "src-a69d54a0580b-c02",
+      "assertion": "She says Zeta Reticuli “Little Gardeners” preserve Earth species’ DNA, repair abductees, and seed other planets with suitable life.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "zeta-reticuli-gardeners",
+      "topics": [
+        "zeta-reticuli-gardeners",
+        "planetary-dna-arks",
+        "alien-abduction-practices"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Their actions may frighten abductees."
+    },
+    {
+      "id": "src-a69d54a0580b-c03",
+      "assertion": "Mari describes Maitre as reptilian-derived high Greys but doubts claims they control opposing Earth blocs, proposing they may be an egregor.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0023",
+        "p0024",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "maitre",
+      "topics": [
+        "maitre",
+        "egregors",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says evidence is scant."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "biological details of different Grey variants",
+    "claimed Maitre history and habitats"
+  ]
+}

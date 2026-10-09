@@ -96,6 +96,36 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [No Localidad - No Hay Espacio - Todo esta AQUI - Yazhi Swaruu (Contacto Extraterrestre)](https://swaruu.org/transcripts/no-localidad-no-hay-espacio-todo-esta-aqui-yazhi-swaruu-contacto-extraterrestre) (2021-10-17; es); passages p0025. [Structured record](../../records/src-8d4ade03c4a5.json).
 
+### src-0c79139fd20c-c01
+
+Mari Swaruu says mapped sunspots and coronal holes can serve as starship portals in a wormhole transit network between stars. She says black holes are theoretically entry-only portals but are not used because transit is dangerous and unpredictable.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El Sol y sus portales.](https://swaruu.org/transcripts/el-sol-y-sus-portales) (2023-02-07; es); passages p0012, p0013, p0021, p0022. [Structured record](../../records/src-0c79139fd20c.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-d8bc3b414a4c-c02
+
+She says its principal gate encodes portal instructions, including exact solar-date timing, starship technology, and powerful computers.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka de Temmer - Puma Punku, Machu Pichu y mas - Bases Extraterrestres](https://swaruu.org/transcripts/aneeka-de-temmer-puma-punku-machu-pichu-y-mas-bases-extraterrestres) (2023-04-17; es); passages p0009, p0011, p0039, p0041. [Structured record](../../records/src-d8bc3b414a4c.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-d8bc3b414a4c-c04
+
+She describes the Sun as a busy transit zone in a linked solar-portal system; ships jump by frequency and gravity rather than bending space.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka de Temmer - Puma Punku, Machu Pichu y mas - Bases Extraterrestres](https://swaruu.org/transcripts/aneeka-de-temmer-puma-punku-machu-pichu-y-mas-bases-extraterrestres) (2023-04-17; es); passages p0054, p0056, p0060, p0061. [Structured record](../../records/src-d8bc3b414a4c.json).
+
+Related topics: [Starship systems](starship-systems.md), [Gravity harmonics](gravity-harmonics.md).
+
 ## Claims filed under other topics
 
 - [src-df0b18054ec1-c02](ancient-egypt.md#src-df0b18054ec1-c02) — Ancient Egypt
@@ -104,11 +134,13 @@ Source: [No Localidad - No Hay Espacio - Todo esta AQUI - Yazhi Swaruu (Contacto
 
 ## Review flags
 
+- A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
 - Accounts-in-this-source-give-conflicting-date-estimates-for-the-last-ice-age
 - Anéeka explicitly distinguishes “gravity holes” from black holes.
 - No-locality is presented as an empirically used navigation principle and a metaphysical model.
 - ancient-symbol-interpretations-attributed
 - black-hole-ether-model
 - portal-time-travel-risk
+- solar-frequency-metaphysical-claims
 - speaker\_attribution
 - starspot-portal-model-spans-two-speakers

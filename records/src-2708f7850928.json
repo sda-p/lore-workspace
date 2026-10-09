@@ -1,0 +1,85 @@
+{
+  "source_id": "src-2708f7850928",
+  "snapshot_sha256": "3d0d85b198db4203c9685900c2aea2f6149e7fd7d045226b700b1a20e9473781",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2708f7850928-c01",
+      "assertion": "Anéeka says extraterrestrials include both less-physical, telepathic beings and physical civilizations like hers; her group is only a few levels above Earth.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2708f7850928-c02",
+      "assertion": "She links Sodom and Gomorrah to Tiamat-era ionizing nuclear wars; radioactive archaeological traces suggest about 12,000 years, though imprecisely.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat",
+        "atlantis-lemuria"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She says the dating is approximate."
+    },
+    {
+      "id": "src-2708f7850928-c03",
+      "assertion": "She describes Lemuria as multicultural, with a large Taygetan-colony component, possibly rooted in people who fled Atlantis.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "atlantis-lemuria",
+      "topics": [
+        "atlantis-lemuria",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2708f7850928-c04",
+      "assertion": "She says the Federation may recognize elected leaders through voter consent, not as ethical human spokespeople; contact can use Muon technology.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0028",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Statements about ancient warfare, archaeology, and electoral representation are attributed to Anéeka."
+  ],
+  "coverage_gaps": [
+    "Proposed causes of civilization collapse",
+    "Gravitational vortices and spacecraft navigation"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "source_id": "src-114eb7d82f29",
+  "snapshot_sha256": "663cdfc92b5a5c1db7c0b4d0fafe2ceb9aaff2228bc9f8c9841ccb180a233928",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-114eb7d82f29-c01",
+      "assertion": "Yazhi said telepathy is constrained by Earth’s perception agreements, so useful ability follows broad spiritual and consciousness development rather than isolated exercises.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-114eb7d82f29-c02",
+      "assertion": "She said encountering space can quickly disrupt terrestrial paradigms and develop telepathy; exercises may help but are not sufficient on their own.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "The requester’s belief that telepathy challenges Cabal control"
+  ]
+}

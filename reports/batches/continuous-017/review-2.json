@@ -1,0 +1,303 @@
+{
+  "batch_id": "continuous-017",
+  "reviewer": 2,
+  "reviewed_source_ids": [
+    "src-376a695bb789",
+    "src-b39ca55c43a5",
+    "src-75a895ec7e8f",
+    "src-ca54384ffa82",
+    "src-c11556ffe9e3",
+    "src-5cc044e9f243",
+    "src-026b0b5b32ce",
+    "src-5ed98072b8ce",
+    "src-c1919a47291a",
+    "src-4e74e1caea83",
+    "src-e2289d05d7a8",
+    "src-155778a65ec3",
+    "src-4297ae6b09e2",
+    "src-f344c5152e16",
+    "src-9b0e688f41d9",
+    "src-fa7665e5b209",
+    "src-8888db924950",
+    "src-c4eea8caf581",
+    "src-6338db41254a",
+    "src-cdacb8b863b2",
+    "src-a5922967f589",
+    "src-8ec5d64a368a",
+    "src-40a1c19238df",
+    "src-34307f448bda",
+    "src-8c1056201ab7",
+    "src-b96ee429d62e",
+    "src-c6671f7e71b0",
+    "src-e9a6108eaecc",
+    "src-901c303678fd",
+    "src-f98eceaf4634",
+    "src-2550a101a222",
+    "src-04168227bd18",
+    "src-93ba3a32ef40",
+    "src-0470731195af",
+    "src-4531380816aa",
+    "src-ec30a0b94013",
+    "src-5a2bf7cc12f6",
+    "src-9d54420420a2",
+    "src-e33e26096a8a",
+    "src-66fb35352fc6",
+    "src-83e6eecc2c25",
+    "src-1c99be09ad1a",
+    "src-cd9a5a1222db",
+    "src-a06f28bdaffd",
+    "src-87046594a8f8",
+    "src-52f3828b6f14",
+    "src-a1fd5a2d5862",
+    "src-0507724a6bee",
+    "src-ff3b3864b466",
+    "src-24baeece96cc",
+    "src-b7eb9ccdc2c5",
+    "src-f138a70a4ff8",
+    "src-dd739a4e04c6",
+    "src-800716c5fe32",
+    "src-8ebb49ce3ca1",
+    "src-14bbfbca9660",
+    "src-db2abd569bd8",
+    "src-1c56b7d9bf71",
+    "src-0eee68ce5b31",
+    "src-7183e0787e25",
+    "src-80f4a17fe00d",
+    "src-d778f32d51ae",
+    "src-8c403e396292",
+    "src-e01eaa468a9c",
+    "src-90107b56d6ec",
+    "src-20ced54c4865",
+    "src-84a01b336feb",
+    "src-114eb7d82f29",
+    "src-aabe7f4a77ff",
+    "src-93080c6ab938",
+    "src-e85dbc213420",
+    "src-eec161aaadd2",
+    "src-22af298b0f43",
+    "src-6be31ff84a2c",
+    "src-a992e9329c4b",
+    "src-28f04bff29fc",
+    "src-13bbf23ca89e",
+    "src-3f5e32e319ee",
+    "src-88d2f8fd434d",
+    "src-b00522037437"
+  ],
+  "corrections": [
+    {
+      "source_id": "src-376a695bb789",
+      "claim_id": "src-376a695bb789-c02",
+      "problem": "The transparent helmet and recycled-air pack detail was absent from the claim’s citations.",
+      "action": "Added the directly responsive breathing question and Anéeka answer (p0058–p0059); validated full record.",
+      "paragraph_ids": [
+        "p0058",
+        "p0059"
+      ]
+    },
+    {
+      "source_id": "src-4e74e1caea83",
+      "claim_id": "src-4e74e1caea83-c01",
+      "problem": "The source discusses humans alongside Taygetans and Engans; “other humanoid species” generalized beyond that context, and the secondary-status answer depended on an uncited interviewer prompt.",
+      "action": "Narrowed the claim to named comparison groups and added p0031/p0033 context, alongside the answer; validated.",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033",
+        "p0034"
+      ]
+    },
+    {
+      "source_id": "src-f344c5152e16",
+      "claim_id": "src-f344c5152e16-c03",
+      "problem": "Assertion attributed the seven-caste system to Anéeka, but cited p0099 labels Swaruu (9) as speaker.",
+      "action": "Changed assertion attribution to Swaruu and validated.",
+      "paragraph_ids": [
+        "p0099"
+      ]
+    },
+    {
+      "source_id": "src-fa7665e5b209",
+      "claim_id": "src-fa7665e5b209-c04",
+      "problem": "The source answers a direct question about free energy, but the citation omitted that question.",
+      "action": "Added p0068 before the answer p0069 to preserve context; revalidated.",
+      "paragraph_ids": [
+        "p0068",
+        "p0069"
+      ]
+    },
+    {
+      "source_id": "src-8ec5d64a368a",
+      "claim_id": "src-8ec5d64a368a-c01",
+      "problem": "The assertion added a current crew complement of about 30, which was not supported by its cited passages.",
+      "action": "Removed the unsupported current complement and retained only the vessel length, role, original design capacity, and construction-year estimate stated in the cited text.",
+      "paragraph_ids": [
+        "p0015",
+        "p0205",
+        "p0209",
+        "p0210",
+        "p0212",
+        "p0215"
+      ]
+    },
+    {
+      "source_id": "src-87046594a8f8",
+      "claim_id": "src-87046594a8f8-c04",
+      "problem": "The original claim generalized one speaker’s interpretation of an explosion to some weapons and did not preserve her explicit uncertainty.",
+      "action": "Narrowed the assertion to her interpretation of a depicted explosion, retained her note that footage might be staged, and marked the claim speculative.",
+      "paragraph_ids": [
+        "p0051",
+        "p0052"
+      ]
+    },
+    {
+      "source_id": "src-52f3828b6f14",
+      "claim_id": "src-52f3828b6f14-c01",
+      "problem": "The claim did not retain Yazhi’s explicit caveat that she was not fully certain about the Queen’s status.",
+      "action": "Added that uncertainty to qualifiers and marked the claim speculative.",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0025",
+        "p0027"
+      ]
+    },
+    {
+      "source_id": "src-8c403e396292",
+      "claim_id": "src-8c403e396292-c03",
+      "problem": "The cited answer recalling two Sphinx entrances lacked the immediately preceding question locating them between the paws.",
+      "action": "Added p0047 to retain the interviewer context for the answer at p0048; validated full record.",
+      "paragraph_ids": [
+        "p0047",
+        "p0048"
+      ]
+    },
+    {
+      "source_id": "src-e01eaa468a9c",
+      "claim_id": "src-e01eaa468a9c-c03",
+      "problem": "The proposed walk-in example was supported by references to the setup and later context, but omitted the exact explanation and Fernando-history clarification.",
+      "action": "Cited p0023–p0024 for the described transition, aligned circumstances, and Fernando retaining his own history; validated full record.",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ]
+    },
+    {
+      "source_id": "src-90107b56d6ec",
+      "claim_id": "src-90107b56d6ec-c03",
+      "problem": "The claim included humility and learning from mistakes, but its citations did not include the paragraph stating those details.",
+      "action": "Added p0016 for humility, accepting mistakes, and continuing to learn; validated full record.",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0019"
+      ]
+    },
+    {
+      "source_id": "src-84a01b336feb",
+      "claim_id": "src-84a01b336feb-c01",
+      "problem": "The claim said Alpha Dracos visited people worldwide, while the cited answer at p0013 relied on an uncited question specifying human contact.",
+      "action": "Added p0012 to preserve the question and context for Yazhi’s answer; validated full record.",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ]
+    },
+    {
+      "source_id": "src-aabe7f4a77ff",
+      "claim_id": "src-aabe7f4a77ff-c03",
+      "problem": "The claim included low water use, but the cited passages omitted that detail.",
+      "action": "Added p0020 for the small amount of water used; validated full record.",
+      "paragraph_ids": [
+        "p0018",
+        "p0020",
+        "p0021",
+        "p0023"
+      ]
+    },
+    {
+      "source_id": "src-aabe7f4a77ff",
+      "claim_id": "src-aabe7f4a77ff-c04",
+      "problem": "The assertion about generated electricity exceeding toilet consumption lacked the relevant output and comparison passages.",
+      "action": "Added p0025 and p0027, which describe conversion to electricity and the surplus over use; retained p0031 for its trash qualifier.",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0027",
+        "p0031"
+      ]
+    },
+    {
+      "source_id": "src-eec161aaadd2",
+      "claim_id": "src-eec161aaadd2-c01",
+      "problem": "The statement about what another self is not supposed to do lacked the question that defined the request.",
+      "action": "Added p0006 to anchor the response on retrieving guidance from alternate selves; validated full record.",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ]
+    },
+    {
+      "source_id": "src-eec161aaadd2",
+      "claim_id": "src-eec161aaadd2-c02",
+      "problem": "The psychic-reading response did not include the user question that it addresses.",
+      "action": "Added p0010 to preserve the context for Athena’s answer at p0011; validated full record.",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0015"
+      ]
+    },
+    {
+      "source_id": "src-eec161aaadd2",
+      "claim_id": "src-eec161aaadd2-c03",
+      "problem": "Descriptions of access to other selves and the multidimensional unconscious lacked their respective questions.",
+      "action": "Added p0020 and p0022 for the contexts of answers at p0021 and p0023; validated full record.",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ]
+    },
+    {
+      "source_id": "src-eec161aaadd2",
+      "claim_id": "src-eec161aaadd2-c04",
+      "problem": "The telepathy/channeling definition and danger passages omitted the questions that elicited each answer.",
+      "action": "Added p0025 and p0027 to preserve the context for p0026 and p0028; validated full record.",
+      "paragraph_ids": [
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0028",
+        "p0030"
+      ]
+    },
+    {
+      "source_id": "src-a992e9329c4b",
+      "claim_id": "src-a992e9329c4b-c04",
+      "problem": "Past-change claim omitted the source’s scope qualifier about future decisions and agreements.",
+      "action": "Clarified the conditional scope and retained the difficulty qualification; shortened the dream-time paraphrase to keep the article within 85 words.",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0009"
+      ]
+    },
+    {
+      "source_id": "src-88d2f8fd434d",
+      "claim_id": "src-88d2f8fd434d-c01",
+      "problem": "Separate exchanges differ on whether Pluto has at least three Federation bases or one large base as its only physical feature.",
+      "action": "Added a review flag preserving the internal discrepancy without resolving it.",
+      "paragraph_ids": [
+        "p0003",
+        "p0009"
+      ]
+    }
+  ],
+  "unresolved": []
+}

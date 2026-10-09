@@ -478,6 +478,38 @@ Source: [TORO APIS – SIMBOLISMO - PLEYADES – TAURO – EL OJO MORADO DE LOS 
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-75a895ec7e8f-c01
+
+Mari Swaruu describes egregors as entities formed from individual or collective belief; many act programmatically, while some astral entities exist independently. She notes the term has varying definitions.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Realidad, Egregores, Manifestación y lo Paranormal.](https://swaruu.org/transcripts/realidad-egregores-manifestacion-y-lo-paranormal) (2023-01-25; es); passages p0032, p0035. [Structured record](../../records/src-75a895ec7e8f.json).
+
+### src-b96ee429d62e-c04
+
+She says some dark entities may be collective-unconscious egregors; materialist denial lets them exploit people.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No eres tu cuerpo por lo tanto eres inmortal. La memoria no está en el cuerpo](https://swaruu.org/transcripts/no-eres-tu-cuerpo-por-lo-tanto-eres-inmortal-la-memoria-no-esta-en-el-cuerpo) (2023-04-18; es); passages p0023, p0024. [Structured record](../../records/src-b96ee429d62e.json).
+
+### src-e9a6108eaecc-c04
+
+She says souls are beings of light, while egregors arise from collective or personal unconscious fears without direct connection to Source.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Seres de luz, giro positivo, Parte dos, Federación Galáctica, Parte 6](https://swaruu.org/transcripts/seres-de-luz-giro-positivo-parte-dos-federacion-galactica-parte-6) (2023-03-31; es); passages p0017, p0018. [Structured record](../../records/src-e9a6108eaecc.json).
+
+### src-e85dbc213420-c03
+
+She calls man-eating Reptilians an Earth-collective egregore but says such beings do not exist outside that context. This conflicts with earlier claims in the lore.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [CONTACTADOS EXTRATERRESTRES Y UFOLOGOS MATRIX 3D - YAZHI SWARUU](https://swaruu.org/transcripts/contactados-extraterrestres-y-ufologos-matrix-3d-yazhi-swaruu) (2023-02-12; es); passages p0011, p0012, p0017, p0018. [Structured record](../../records/src-e85dbc213420.json).
+
 ## Claims filed under other topics
 
 - [src-331beeab2088-c03](postmortem-realities.md#src-331beeab2088-c03) — Postmortem realities
@@ -512,9 +544,12 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Source also contains unextracted real-world political and health claims.
+- The author presents the memory-location and disease examples as metaphysical claims.
+- The source explicitly separates the spiritual higher Federation from the physical Galactic Federation.
 - These are Mari’s metaphysical explanations; reincarnation motivation is explicitly speculative
 - These are Yazhi’s metaphysical claims; tulpa “reality” and cross-density transfer are framed within her model
 - Transcript combines several speakers and dates; claims preserve speaker attribution
+- Yazhi’s denial of man-eating Reptilians outside the Earth Matrix conflicts with earlier source claims.
 - anti-vaccine-conspiracy-claims
 - attributed-virus-and-vaccine-claims
 - claims about Cabal symbols, surveillance, and nonhuman technology are attributed to Athena and unverified
@@ -536,6 +571,7 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - metaphysical-claims\_attributed
 - metaphysical-collective-reality-model
 - metaphysical-entity-origin-claims
+- metaphysical-entity-taxonomy
 - metaphysical-model
 - metaphysical-self-identity-claim
 - paranormal-claims-unverified

@@ -1,0 +1,65 @@
+{
+  "source_id": "src-83e6eecc2c25",
+  "snapshot_sha256": "930d00c46e6bce33d13126f6c384eb5a4a5b5fb79e3e84ef7ee1fe363ca74e69",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-83e6eecc2c25-c01",
+      "assertion": "Anéeka described Earth immersion as a customized process: a pod sustains and isolates the body while consciousness attends another reality through frequency matching.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "immersion-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83e6eecc2c25-c02",
+      "assertion": "She said most Earth participants do not remember immersion, and the pods can support long avatar lives; dry pods can compress a week into decades subjectively.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0018",
+        "p0026"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "memory-veil"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-83e6eecc2c25-c03",
+      "assertion": "Anéeka said immersion can blur reality and become addictive; returning participants may face identity conflicts, so she recommended immersed people complete their Earth life cycle.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0029",
+        "p0030",
+        "p0033"
+      ],
+      "primary_topic": "total-immersion-simulations",
+      "topics": [
+        "total-immersion-simulations",
+        "walk-in-phenomenon"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Immersion entertainment, remote visits, and estimated Taygetan participants"
+  ]
+}

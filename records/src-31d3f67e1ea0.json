@@ -1,0 +1,98 @@
+{
+  "source_id": "src-31d3f67e1ea0",
+  "snapshot_sha256": "6cd69c1353ca7329c09f5133dbc9870224f4028355aea25a2dda01e2466ad03b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-31d3f67e1ea0-c01",
+      "assertion": "Mari describes a polymer one-piece suit as a Taygetan flight uniform and spacesuit underlayer.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31d3f67e1ea0-c02",
+      "assertion": "She says its AI regulates temperature and can stiffen it into an exoskeleton during impact.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31d3f67e1ea0-c03",
+      "assertion": "She says the suit can deflect bullets and energy weapons, but protection requires a helmet.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31d3f67e1ea0-c04",
+      "assertion": "She describes a zero-point reactor belt, communications, and self-repairing suit material.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "taygetan-flight-suits",
+      "topics": [
+        "taygetan-flight-suits"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-31d3f67e1ea0-c05",
+      "assertion": "Magnetic boots aid movement without gravity; enhanced boots allow flight but are mainly used for maintenance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "smart-flight-suits",
+      "topics": [
+        "smart-flight-suits",
+        "taygetan-flight-suits"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says they are unsuitable for high climbs without added oxygen and thermal protection."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Technology descriptions are attributed to Mari Swaruu and not independently verified."
+  ],
+  "coverage_gaps": [
+    "suit liner colors and crew roles",
+    "boot controls and stability belt"
+  ]
+}

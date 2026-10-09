@@ -224,6 +224,24 @@ Attributed to **Yazhi**; asserted; extraction confidence: medium.
 
 Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guerras de Orión - PARTE 5 - \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/primera-batalla-antigua-la-rebelion-del-jardin-del-eden-las-guerras-de-orion-parte-5-sin-video) (2021-05-29; es); passages p0015. [Structured record](../../records/src-4b86c5c36df0.json).
 
+### src-155778a65ec3-c01
+
+Yazhi says advanced Lyrian-human civilizations on Earth repeatedly rise, flourish, and collapse in cycles of roughly 5,000–10,000 years. She says Earth and human history are far older than conventional estimates and chronology is difficult because time is nonlinear.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EL RESURGIMIENTO DE UNA CIVILIZACIÓN AVANZADA - Yazhi - Sophia Swaruu](https://swaruu.org/transcripts/el-resurgimiento-de-una-civilizacion-avanzada-yazhi-sophia-swaruu) (2023-01-02; es); passages p0002, p0003. [Structured record](../../records/src-155778a65ec3.json).
+
+Related topics: [Timeline branching](timeline-branching.md).
+
+### src-f344c5152e16-c05
+
+She dates the Great Expansion to about one million years ago, when Lyrans fled Vega’s Reptilian invasion.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [Veganismo - Agendas - Investigación Taygeteana - NO recomendamos Dieta Vegana](https://swaruu.org/transcripts/veganismo-agendas-investigacion-taygeteana-no-recomendamos-dieta-vegana) (2022-09-29; es); passages p0222. [Structured record](../../records/src-f344c5152e16.json).
+
 ## Claims filed under other topics
 
 - [src-03f88504384a-c08](stellar-navigation.md#src-03f88504384a-c08) — Stellar navigation
@@ -248,6 +266,8 @@ Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guer
 - [src-a02207051534-c03](atlantis-lemuria.md#src-a02207051534-c03) — Atlantis and Lemuria
 - [src-848430840164-c02](taygetans.md#src-848430840164-c02) — Taygetans
 - [src-29ae7cdf0163-c01](galactic-federation.md#src-29ae7cdf0163-c01) — Galactic Federation
+- [src-f10960087bcd-c01](taygetans.md#src-f10960087bcd-c01) — Taygetans
+- [src-07f9f86e1027-c02](lyrians.md#src-07f9f86e1027-c02) — Lyrians
 
 ## Review flags
 
@@ -259,6 +279,7 @@ Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guer
 - Internal tension: p0032 describes uranium compression and chain reaction after earlier rejection of the Earth explanation; preserve unresolved
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- The author explicitly framed this material as entertainment or science fiction; claims are attributed to Mari.
 - ancient-solar-system-density-and-polity-claims
 - ancient-texts-as-racial-symbolism-attributed
 - approximate\_dates
@@ -273,7 +294,10 @@ Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guer
 - historical-conspiracy-claims-attributed
 - human-origin-model
 - intra-source-policy-tension
+- medical-diet-claims
+- multi-speaker-source
 - multiple-lyrian-origin-traditions
+- nonlinear-history-claims
 - nonlinear-human-origin-model
 - nonstandard-biology-claims
 - pandemic-claims-excluded
@@ -287,4 +311,5 @@ Source: [Primera batalla antigua - La rebelión del Jardín del Edén - Las guer
 - translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
 - translation-counterpart:src-cb985947b0e5-english-adds-p21-p22
 - translation\_approximation\_navajo\_inuit
+- unverified-cosmology-and-energy-claims
 - unverified\_extraterrestrial\_claims

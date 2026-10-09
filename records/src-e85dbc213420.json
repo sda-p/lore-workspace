@@ -1,0 +1,84 @@
+{
+  "source_id": "src-e85dbc213420",
+  "snapshot_sha256": "1f70f2f54e7f5870a6a53a81675804772cf9f71da13c5779654a2822c870f37d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e85dbc213420-c01",
+      "assertion": "Yazhi says frequent Reptilian ship traffic is not inherently hostile, though she also claims hostile Draconian ships use large Earth portals.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e85dbc213420-c02",
+      "assertion": "She says Earth’s collective fears shape its Matrix and UFO beliefs, which may differ from extraterrestrial reality.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e85dbc213420-c03",
+      "assertion": "She calls man-eating Reptilians an Earth-collective egregore but says such beings do not exist outside that context.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This conflicts with earlier claims in the lore."
+    },
+    {
+      "id": "src-e85dbc213420-c04",
+      "assertion": "She says accepted ufologists’ shared conclusions are self-validating interpretations, not absolute objective accounts.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0025",
+        "p0028"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi’s denial of man-eating Reptilians outside the Earth Matrix conflicts with earlier source claims."
+  ],
+  "coverage_gaps": [
+    "human-manifested reports of invasions and rescue fleets",
+    "other Reptilian factions and Federation ties"
+  ]
+}

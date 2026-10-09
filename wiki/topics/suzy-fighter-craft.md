@@ -126,6 +126,16 @@ Source: [NAVES EXTRATERRESTRES MOTORES DE PLASMA-JET -CANCELADORES DE GRABEDAD A
 
 Related topics: [Starship systems](starship-systems.md).
 
+### src-ca54384ffa82-c02
+
+Mari Swaruu says Athena docked two Suzy craft through ventral hatches and linked their computers so the second ship mirrored the first ship's guidance. The link let Mari transfer aboard while her ship followed Athena's.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo llegó aquí Mari Swaruu. Mi llegada.](https://swaruu.org/transcripts/como-llego-aqui-mari-swaruu-mi-llegada) (2023-01-13; es); passages p0027, p0029. [Structured record](../../records/src-ca54384ffa82.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
 ## Claims filed under other topics
 
 - [src-e29461ec4748-c03](stellar-navigation.md#src-e29461ec4748-c03) — Stellar navigation
@@ -133,9 +143,11 @@ Related topics: [Starship systems](starship-systems.md).
 - [src-fd419788ecbb-c02](aircraft-mimicry.md#src-fd419788ecbb-c02) — Aircraft Mimicry
 - [src-fd419788ecbb-c05](starship-systems.md#src-fd419788ecbb-c05) — Starship systems
 - [src-74fefae75775-c01](swaruunians.md#src-74fefae75775-c01) — Swaruunians
+- [src-ca54384ffa82-c01](temporal-skipping.md#src-ca54384ffa82-c01) — Temporal skipping
 
 ## Review flags
 
 - classified-details
+- personal-narrative-of-temporal-travel
 - time-travel-claims
 - translation-equivalence-unverified

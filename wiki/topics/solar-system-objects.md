@@ -40,8 +40,13 @@ Attributed to **Swaruu (9)**; asserted; extraction confidence: medium.
 
 Source: [CONTACTO Y CONTACTADOS EXTRATERRESTRES - NO EXISTE NIBIRU - Swaruu de Erra](https://swaruu.org/transcripts/contacto-y-contactados-extraterrestres-no-existe-nibiru-swaruu-de-erra) (2022-07-25; es); passages p0031, p0032. [Structured record](../../records/src-9a37f5242cc3.json).
 
+## Claims filed under other topics
+
+- [src-9b0e688f41d9-c04](astrotheology.md#src-9b0e688f41d9-c04) — Astrotheology
+
 ## Review flags
 
 - Meteor-intervention and Earth-consciousness claims are source-attributed.
+- Pluto-Shiva-identification-attributed-to-Federation-records
 - contested-claims
 - historical-claim

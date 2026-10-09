@@ -1,0 +1,104 @@
+{
+  "source_id": "src-7951d6bf342c",
+  "snapshot_sha256": "1969a89303eca66ac4e3b760a0e46a6f63d14dd8a5d05c49abfebb4b04f8f90f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-7951d6bf342c-c01",
+      "assertion": "Swaruu (9) says higher-frequency perception grants access to DNA information already present but inaccessible.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7951d6bf342c-c02",
+      "assertion": "Yazhi says inactive DNA contains past-life information, with access increasing as consciousness expands.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0018"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "reincarnation-cycles",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7951d6bf342c-c03",
+      "assertion": "Yazhi describes DNA as a physical reflection of the soul, with abilities reflecting rather than causing its development.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7951d6bf342c-c04",
+      "assertion": "Yazhi says audio tones do not directly repair DNA; any mood effects are indirect.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0032",
+        "p0035"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-7951d6bf342c-c05",
+      "assertion": "Yazhi says immersion technology can adjust a walk-in's frequencies to fit a human body without parental frequency compatibility.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0120",
+        "p0121",
+        "p0123"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The article presents metaphysical DNA interpretations attributed to the speakers."
+  ],
+  "coverage_gaps": [
+    "Claims about psychedelics, genetic inheritance, government DNA banks, and DNA testing omitted"
+  ]
+}

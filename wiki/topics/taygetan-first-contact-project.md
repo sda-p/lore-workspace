@@ -86,12 +86,55 @@ Source: [Los Extraterrestres. Porque estan aqui ? - Taygeteanas - Swaruunianas -
 
 Related topics: [Taygetans](taygetans.md).
 
+### src-509a0d643adf-c02
+
+Anéeka says the Taygetan First Contact project used the human Internet to introduce themselves and assess Earth's receptivity to direct contact. After the project ended in 2016, she studied Earth culture and supported shipboard information work.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka de Temmer - Porque llego a la Tierra? Su Trabajo y Nuestro Agradecimiento](https://swaruu.org/transcripts/aneeka-de-temmer-porque-llego-a-la-tierra-su-trabajo-y-nuestro-agradecimiento) (2022-12-01; es); passages p0014, p0015. [Structured record](../../records/src-509a0d643adf.json).
+
+Related topics: [Taygetans](taygetans.md).
+
+### src-5cc044e9f243-c01
+
+Mari Swaruu says the Federation-sponsored First Contact project ran from about 2008 to 2016, involving Alfratean, Antarian, and Taygetan participants, with Taygetans leading. She notes some participants date the project’s end to 2017.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [¿Por qué fracasó el Proyecto Primer Contacto?](https://swaruu.org/transcripts/por-que-fracaso-el-proyecto-primer-contacto) (2023-04-10; es); passages p0003, p0004. [Structured record](../../records/src-5cc044e9f243.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Taygetans](taygetans.md).
+
+### src-5cc044e9f243-c02
+
+Mari Swaruu says First Contact volunteers used Toleka computer decks to enter human social media, while a Federation server system monitored and censored orbital communications. They communicated by text under First Directive restrictions.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [¿Por qué fracasó el Proyecto Primer Contacto?](https://swaruu.org/transcripts/por-que-fracaso-el-proyecto-primer-contacto) (2023-04-10; es); passages p0007, p0009, p0010. [Structured record](../../records/src-5cc044e9f243.json).
+
+Related topics: [Toleka-class starships](toleka-class.md), [Galactic Federation](galactic-federation.md).
+
+### src-dfba9e89b971-c03
+
+She says a 2009 First Contact project used only human technology and no direct proof to assess public acceptance.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Cómo la Federación de Planetas Unidos ve la Tierra, Parte 2, Primera Directiva](https://swaruu.org/transcripts/como-la-federacion-de-planetas-unidos-ve-la-tierra-parte-2-primera-directiva) (2023-03-19; es); passages p0019, p0020. [Structured record](../../records/src-dfba9e89b971.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Review flags
 
+- Federation policies and Earth-intervention allegations are reported by Mari Swaruu, not independently verified.
 - account attributes extraterrestrial intervention programs and starseed mechanisms to Yazhi; claims are unverified
+- composite-english-spanish-transcript
 - computer-throughput-claim-attributed
 - contact-readiness-generalization
 - federation-briefing-vs-earth-experience
 - incarnation-and-extraction-claims
 - prime-directive-attributed
+- project-dates-reported-with-variant
 - terrestrial-censorship-claim

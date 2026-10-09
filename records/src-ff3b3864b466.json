@@ -1,0 +1,67 @@
+{
+  "source_id": "src-ff3b3864b466",
+  "snapshot_sha256": "1da8086612a8fab557fb8cf6e23f0cbec08084dfead38c7d412705fdde83f864",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ff3b3864b466-c01",
+      "assertion": "Mari Swaruu said powerful groups shape public history and truth through media; she said secret societies preserve selected facts unavailable to the public.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "secret-society-hierarchy",
+      "topics": [
+        "secret-society-hierarchy",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff3b3864b466-c02",
+      "assertion": "She described “soft resets” as generational cultural change through controlled information, erasure of older records, and schooling that installs new beliefs.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "civilizational-resets",
+      "topics": [
+        "civilizational-resets",
+        "memory-implantation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ff3b3864b466-c03",
+      "assertion": "Mari said more dramatic resets can eliminate most people and restart society; she named the Galactic Federation as the likely direct agent, while allowing natural cataclysms a role.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "civilizational-resets",
+      "topics": [
+        "civilizational-resets",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about secret societies, media manipulation, and resets are attributed to Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Mechanisms of full resets and links she draws to incarnation memory"
+  ]
+}

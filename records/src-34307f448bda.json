@@ -1,0 +1,89 @@
+{
+  "source_id": "src-34307f448bda",
+  "snapshot_sha256": "104f2a11dc5d8b2bada2b0fce9fade3ea640a3a7ede84a01329a60555fba2916",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-34307f448bda-c01",
+      "assertion": "Mari Swaruu says the Matrix is each soul’s reflected reality, not a place; extraction moves people between Matrix levels, not to a suffering-free promised land.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0027"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34307f448bda-c02",
+      "assertion": "She says psychological pain can persist after death and suicide does not escape it; physical pain alone ends.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0021"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34307f448bda-c03",
+      "assertion": "She suggests souls may choose traumatic lives for growth, while embodied people cannot see that wider perspective.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-34307f448bda-c04",
+      "assertion": "Her prescription is self-development: expand awareness, reinterpret circumstances, and use available opportunities rather than await escape.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0028",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Mari Swaruu distinguishes physical pain, which she says ends, from psychological pain that may persist after death."
+  ],
+  "coverage_gaps": [
+    "fear of death and ego dissolution",
+    "spiritual/material duality",
+    "specific reincarnation scenarios"
+  ]
+}

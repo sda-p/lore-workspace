@@ -1,0 +1,70 @@
+{
+  "source_id": "src-52f3828b6f14",
+  "snapshot_sha256": "4dc7c0a57a25235db4a53931001d9bb778802db9bd59a56df586c879d46f9ab0",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-52f3828b6f14-c01",
+      "assertion": "Yazhi claimed Queen Elizabeth was reptilian and said such beings project a human appearance through mind and technology; she speculated the Queen had changed bodies.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0012",
+        "p0014",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "reptilians",
+      "topics": [
+        "reptilians",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She said she was not fully certain."
+    },
+    {
+      "id": "src-52f3828b6f14-c02",
+      "assertion": "Yazhi predicted gradual losses of freedom, including limits on ownership and expiring income, and described them as a Cabal plan.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0037",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "economics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "This is her forecast."
+    },
+    {
+      "id": "src-52f3828b6f14-c03",
+      "assertion": "Yazhi said Hashmallim missions are limited to influencing selected individuals and may involve human disguises; she said the Queen mainly decides their missions.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0049",
+        "p0051",
+        "p0053"
+      ],
+      "primary_topic": "hashmallim",
+      "topics": [
+        "hashmallim",
+        "reptilians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Reptilian claims about a public figure are attributed to Yazhi and not independently verified."
+  ],
+  "coverage_gaps": [
+    "Earth quarantine rules and official versus practical enforcement"
+  ]
+}

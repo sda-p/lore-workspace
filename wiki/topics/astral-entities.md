@@ -66,9 +66,30 @@ Source: [Vacunas y los Peligros del Lado Astral - Solo texto](https://swaruu.org
 
 Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
 
+### src-24baeece96cc-c03
+
+Mari said dark astral entities do not generally force reincarnation; she claimed they can exploit embodied people’s manifestation by sustaining low vibrational states. She described this as an exception to her broader explanation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Giro Positivo, Parte Uno, Federación Galáctica Parte 5](https://swaruu.org/transcripts/giro-positivo-parte-uno-federacion-galactica-parte-5) (2023-03-29; es); passages p0020, p0021. [Structured record](../../records/src-24baeece96cc.json).
+
+Related topics: [Soul-loop reincarnation](soul-loop-reincarnation.md).
+
+### src-cadb5ca8cdb8-c04
+
+Yazhi says Ouija-board rituals open portals that may affect residents with compatible frequencies.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Información Extraterrestre - Minitemas con Gosia de Agencia Cósmica](https://swaruu.org/transcripts/informacion-extraterrestre-minitemas-con-gosia-de-agencia-cosmica) (2023-02-14; es); passages p0053, p0057, p0068, p0070. [Structured record](../../records/src-cadb5ca8cdb8.json).
+
+Related topics: [Natural and artificial portals](natural-portals.md).
+
 ## Claims filed under other topics
 
 - [src-70151b61ae43-c03](tulpas.md#src-70151b61ae43-c03) — Tulpas
+- [src-cadb5ca8cdb8-c05](consciousness-metaphysics.md#src-cadb5ca8cdb8-c05) — Consciousness and metaphysics
 
 ## Review flags
 

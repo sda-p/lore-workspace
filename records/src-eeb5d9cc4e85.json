@@ -1,0 +1,75 @@
+{
+  "source_id": "src-eeb5d9cc4e85",
+  "snapshot_sha256": "8ad1b547b0c8efbe5454345b2b43d28bc48ecd8baba5597d4e2f6309e3ed2156",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-eeb5d9cc4e85-c01",
+      "assertion": "Za’el says present identity and perception shape one’s path, and a single event may carry many possible meanings rather than one fixed purpose.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0007",
+        "p0010",
+        "p0011",
+        "p0013"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She cautions against assigning a definite purpose to every event."
+    },
+    {
+      "id": "src-eeb5d9cc4e85-c02",
+      "assertion": "Za’el suggests difficult experiences can open alternative life paths, while acknowledging that outcomes may remain difficult or uncertain.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0008",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "timeline-branching",
+      "topics": [
+        "timeline-branching",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents these as possibilities, not guaranteed outcomes."
+    },
+    {
+      "id": "src-eeb5d9cc4e85-c03",
+      "assertion": "Za’el argues that the meaning assigned to events and sustained attention toward a desired outcome help shape reality, requiring persistence in lower densities.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical model."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source frames adversity through speculative metaphysical ideas; the author explicitly cautions that events need not have one definite purpose."
+  ],
+  "coverage_gaps": [
+    "The extended construction metaphor and examples of alternative interpretations omitted."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_id": "src-3f5e32e319ee",
+  "snapshot_sha256": "1c56f4970864db72bf531ce7181c591363eea26be99e4a3cb8fda0ecba8f118d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-3f5e32e319ee-c01",
+      "assertion": "Athena says Earth’s magnetic field fluctuates naturally and rejects claims that current changes are dangerous.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her claims are not independently verified here."
+    },
+    {
+      "id": "src-3f5e32e319ee-c02",
+      "assertion": "She disputes a 12,000-year cycle, saying fluctuations occur more often through planetary interactions.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-3f5e32e319ee-c03",
+      "assertion": "Athena alleges media and human controllers amplify catastrophe fears to distract and control people.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0008"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her allegation."
+    },
+    {
+      "id": "src-3f5e32e319ee-c04",
+      "assertion": "She says a major polar shift requires catastrophe, and attributes the last one to Tiamat’s waters.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0007"
+      ],
+      "primary_topic": "tiamat",
+      "topics": [
+        "tiamat"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her account, not established history."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Contains unsupported geophysical, climate, and historical claims; attribute to Athena."
+  ],
+  "coverage_gaps": [
+    "Athena also makes claims about climate modification and solar radiation."
+  ]
+}

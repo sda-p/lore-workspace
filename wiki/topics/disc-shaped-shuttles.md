@@ -84,14 +84,48 @@ Attributed to **Swaruu**; asserted; extraction confidence: high.
 
 Source: [Sociedad Pleyadiana (Taygeta) PARTE 2: Mensaje Extraterrestre (17)](https://swaruu.org/transcripts/sociedad-pleyadiana-taygeta-parte-2-mensaje-extraterrestre-17) (2018-12-28; es); passages p0050, p0051. [Structured record](../../records/src-24ab9cb7ffa0.json).
 
+### src-7183e0787e25-c01
+
+Swaruu (9) calls an 11-meter disc a Class II shuttle and says Toleka carried twenty.
+
+Attributed to **Swaruu (9)**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 2 - Platillos Voladores - Información Extraterrestre](https://swaruu.org/transcripts/vida-interestelar-2-platillos-voladores-informacion-extraterrestre) (2023-04-14; es); passages p0005, p0006. [Structured record](../../records/src-7183e0787e25.json).
+
+### src-7183e0787e25-c02
+
+Anéeka says small discs distribute electromagnetic fields, while larger ships are shaped for their function.
+
+Attributed to **Anéeka de Temmer**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 2 - Platillos Voladores - Información Extraterrestre](https://swaruu.org/transcripts/vida-interestelar-2-platillos-voladores-informacion-extraterrestre) (2023-04-14; es); passages p0014, p0016. [Structured record](../../records/src-7183e0787e25.json).
+
+### src-7183e0787e25-c03
+
+Athena says legacy Type II discs serve as escape pods and are rarely used as ships.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 2 - Platillos Voladores - Información Extraterrestre](https://swaruu.org/transcripts/vida-interestelar-2-platillos-voladores-informacion-extraterrestre) (2023-04-14; es); passages p0022, p0024. [Structured record](../../records/src-7183e0787e25.json).
+
+### src-7183e0787e25-c05
+
+She says discs are common and easy to build; Zeta Greys are their most common users. She says ownership is hard to identify.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 2 - Platillos Voladores - Información Extraterrestre](https://swaruu.org/transcripts/vida-interestelar-2-platillos-voladores-informacion-extraterrestre) (2023-04-14; es); passages p0050, p0058, p0060. [Structured record](../../records/src-7183e0787e25.json).
+
 ## Claims filed under other topics
 
 - [src-96581cc2ca29-c03](starship-systems.md#src-96581cc2ca29-c03) — Starship systems
 - [src-555d02ebcd4e-c05](solatians.md#src-555d02ebcd4e-c05) — Solatians
 - [src-fad1597372f1-c02](starship-systems.md#src-fad1597372f1-c02) — Starship systems
+- [src-7183e0787e25-c04](starship-systems.md#src-7183e0787e25-c04) — Starship systems
 
 ## Review flags
 
+- Accounts come from different speakers and conversations; claims remain attributed to each speaker.
 - Billy\_Meier\_photo\_authenticity\_uncertain
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
 - approximate-age-estimate

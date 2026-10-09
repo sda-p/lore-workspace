@@ -1,0 +1,54 @@
+{
+  "source_id": "src-8582fea5414c",
+  "snapshot_sha256": "f02cb12e3e812df5a4f7c7bc3476d8a9679ca7c84748d87f5a9d8d94f60f8d9e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8582fea5414c-c01",
+      "assertion": "Mari says the Federation applies the Prime Directive selectively on Earth, an isolated realm with at least 900 large ships nearby.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0004", "p0005", "p0006"],
+      "primary_topic": "prime-directive",
+      "topics": ["prime-directive", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8582fea5414c-c02",
+      "assertion": "Mari alleges the Federation ultimately controls Earth’s money and regional budgets because money is a key tool for planetary control.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0015", "p0018", "p0019"],
+      "primary_topic": "economics",
+      "topics": ["economics", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8582fea5414c-c03",
+      "assertion": "Mari says Federation grants fund humanoid visitors’ Earth operations, with budgets that can be cut; Taygeta gets little, Swaruu none.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0024", "p0025", "p0026", "p0028", "p0029"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "economics", "taygetans"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8582fea5414c-c04",
+      "assertion": "She says Greys and other groups operate outside human money rules, sustaining hostile-alien and benevolent-Federation narratives.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0030", "p0031", "p0032", "p0033"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Earth as a soul experience", "manifestation as control", "specific Swaruu funding constraints"]
+}

@@ -166,6 +166,58 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/la-creacion-del-cabal-reptiles-y-manifestaciones-humanas) (2021-10-10; es); passages p0025, p0026, p0035. [Structured record](../../records/src-74df7085bcef.json).
 
+### src-be4d6a42f7c2-c01
+
+Yazhi says Reptilians may need mental effort to maintain altered forms; human blood tests could register their cover as human.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Reptiles, Moldavita, y mas - MINI TEMAS - Información Extraterrestre](https://swaruu.org/transcripts/reptiles-moldavita-y-mas-mini-temas-informacion-extraterrestre) (2022-12-22; es); passages p0022, p0026. [Structured record](../../records/src-be4d6a42f7c2.json).
+
+### src-e1a6716ab196-c05
+
+Yazhi says Reptilian shifting is mental; observers may perceive human aspects depending on frequency.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [EXTRATERRESTRES HIBRIDANDOSE CON HUMANOS - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestres-hibridandose-con-humanos-yazhi-swaruu) (2022-10-26; es); passages p0051, p0080. [Structured record](../../records/src-e1a6716ab196.json).
+
+### src-e1a6716ab196-c06
+
+She says some Reptilians are positive and oppressed; they should not be generalized.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EXTRATERRESTRES HIBRIDANDOSE CON HUMANOS - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestres-hibridandose-con-humanos-yazhi-swaruu) (2022-10-26; es); passages p0097, p0098, p0100. [Structured record](../../records/src-e1a6716ab196.json).
+
+### src-4531380816aa-c03
+
+Yazhi alleged Elizabeth II was reptilian and projected a human appearance mainly through mind and technology; she said relatives had lesser abilities. She said such appearance could be sustained under ordinary human perception.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: medium.
+
+Source: [MiniTemas - Variedad de Información - Reptiles y Extraterrestres entre los Humanos y Mas](https://swaruu.org/transcripts/minitemas-variedad-de-informacion-reptiles-y-extraterrestres-entre-los-humanos-y-mas) (2022-10-12; es); passages p0035, p0036, p0037, p0039, p0040, p0046, p0047, p0051, p0053. [Structured record](../../records/src-4531380816aa.json).
+
+### src-52f3828b6f14-c01
+
+Yazhi claimed Queen Elizabeth was reptilian and said such beings project a human appearance through mind and technology; she speculated the Queen had changed bodies. She said she was not fully certain.
+
+Attributed to **Yazhi Swaruu**; speculative; extraction confidence: high.
+
+Source: [SOBRE EL FUTURO Y LOS REPTILES PASANDO POR HUMANOS -Yazhi Swaruu](https://swaruu.org/transcripts/sobre-el-futuro-y-los-reptiles-pasando-por-humanos-yazhi-swaruu) (2022-10-22; es); passages p0010, p0012, p0014, p0025, p0027. [Structured record](../../records/src-52f3828b6f14.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-e85dbc213420-c01
+
+Yazhi says frequent Reptilian ship traffic is not inherently hostile, though she also claims hostile Draconian ships use large Earth portals.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [CONTACTADOS EXTRATERRESTRES Y UFOLOGOS MATRIX 3D - YAZHI SWARUU](https://swaruu.org/transcripts/contactados-extraterrestres-y-ufologos-matrix-3d-yazhi-swaruu) (2023-02-12; es); passages p0004, p0005. [Structured record](../../records/src-e85dbc213420.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-1fd1145b4a3b-c03](ancient-egypt.md#src-1fd1145b4a3b-c03) — Ancient Egypt
@@ -192,6 +244,9 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - [src-74e20b846c5e-c02](galactic-federation.md#src-74e20b846c5e-c02) — Galactic Federation
 - [src-c57cf7f12530-c02](mars.md#src-c57cf7f12530-c02) — Mars
 - [src-83d0afc07ef6-c03](mars.md#src-83d0afc07ef6-c03) — Mars
+- [src-2e44af6cf865-c02](kingu.md#src-2e44af6cf865-c02) — Kingu
+- [src-e2289d05d7a8-c01](viera.md#src-e2289d05d7a8-c01) — Viera
+- [src-52f3828b6f14-c03](hashmallim.md#src-52f3828b6f14-c03) — Hashmallim
 
 ## Review flags
 
@@ -199,10 +254,15 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - Claims-about-PCR-swab-nanotechnology-conflict-with-later-human-origin-possibility
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
 - Federation alternately described as Earth controller and nonultimate authority.
+- Grey-ancestry-uncertainty
+- Reptilian claims about a public figure are attributed to Yazhi and not independently verified.
+- Reptilian identity claim is an allegation by the speaker.
+- Yazhi’s denial of man-eating Reptilians outside the Earth Matrix conflicts with earlier source claims.
 - aircraft-identity-ambiguity
 - aliens-removed-from-quadrant-claim
 - antarctic-base-conspiracy-claims
 - ark-locations-and-status
+- attributed-lore-claims
 - biology-claim
 - consciousness-claims
 - conspiracy-claims
@@ -217,6 +277,7 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - factional-claims-attributed
 - federation-infiltration-allegations
 - federation-role:involvement-vs-permissiveness
+- food-claims-context
 - hidden-inner-earth-entrance-claim
 - higher-and-human-conflict-levels-distinguished
 - historical-claim
@@ -228,6 +289,8 @@ Source: [La Creacion del Cabal - Reptiles y Manifestaciones Humanas \*\*SIN VIDE
 - reptilian-soul-claims
 - reptilian-species-versus-reptile-egregor
 - rh-negative-identity-caveat
+- species-and-hostility-distinctions-preserved
+- species-variation-within-reptilians
 - speculative-biology-and-blood-group-claims
 - translation-counterpart:none-identified
 - translation-counterpart:src-70fb5038443a-close; English adds context and 13-planet claims

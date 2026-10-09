@@ -1,0 +1,74 @@
+{
+  "source_id": "src-64deed76c0cf",
+  "snapshot_sha256": "67524c5b066d58aa1ce558b2aa1cd258e157aebf04cc55686bddd1d3e3e10584",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-64deed76c0cf-c01",
+      "assertion": "Mari says beings with different frequencies can influence one another through shared compatible traits or thoughts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She illustrates this with human relationships."
+    },
+    {
+      "id": "src-64deed76c0cf-c02",
+      "assertion": "She describes astral beings as including energy-feeding parasites, larger intelligent entities, and disembodied souls attached to earthly life.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "interdimensional-parasites",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She notes ghostlike appearances may have multiple causes."
+    },
+    {
+      "id": "src-64deed76c0cf-c03",
+      "assertion": "She says astral parasites feed on fear and emotional energy; egregor-like entities may encourage addictive habits, complicating their removal.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "interdimensional-parasites",
+      "topics": [
+        "interdimensional-parasites",
+        "egregors",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She warns attachments may recur if conditions return."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "claims about instant gratification and dopamine",
+    "other astral entity varieties"
+  ]
+}

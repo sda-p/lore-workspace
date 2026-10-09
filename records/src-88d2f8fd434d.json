@@ -1,0 +1,84 @@
+{
+  "source_id": "src-88d2f8fd434d",
+  "snapshot_sha256": "4935f04db41132c9673e243675413bed85338365a614d45d2ad557c90059406c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-88d2f8fd434d-c01",
+      "assertion": "Swaruu (9) claims the United Federation of Planets maintains at least three bases on Pluto.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0003"
+      ],
+      "primary_topic": "pluto",
+      "topics": [
+        "pluto",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her claim."
+    },
+    {
+      "id": "src-88d2f8fd434d-c02",
+      "assertion": "She says Pluto remains a planet in Federation classifications, unlike human classifications.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007"
+      ],
+      "primary_topic": "pluto",
+      "topics": [
+        "pluto"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes differing definitions."
+    },
+    {
+      "id": "src-88d2f8fd434d-c03",
+      "assertion": "Swaruu (9) alleges esoteric motives explain Pluto’s downgrade and links it to a Federation base.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0012"
+      ],
+      "primary_topic": "pluto",
+      "topics": [
+        "pluto",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unsupported allegation."
+    },
+    {
+      "id": "src-88d2f8fd434d-c04",
+      "assertion": "She interprets Pluto astrologically as transformation and associates it with Shiva, whom she says was Andromedan.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0015"
+      ],
+      "primary_topic": "pluto",
+      "topics": [
+        "pluto",
+        "astrotheology"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her esoteric interpretation."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Contains unsupported claims about Pluto bases, Federation classifications, motives, and Shiva’s identity; attribute to Swaruu (9).",
+    "The two exchanges differ on the number of Federation bases on Pluto: p0003 says at least three, while p0009 describes one large base as the only physical feature; the discrepancy is unresolved."
+  ],
+  "coverage_gaps": [
+    "The transcript also links Pluto to collective and individual psychological change."
+  ]
+}

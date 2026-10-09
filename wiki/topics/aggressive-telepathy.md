@@ -18,6 +18,11 @@ Source: [Me Convierto en una Comadreja - Manejo de la Realidad - Yázhí Swaruu 
 
 Related topics: [Reptilians](reptilians.md).
 
+## Claims filed under other topics
+
+- [src-0c295f560205-c03](electromagnetic-mind-influence.md#src-0c295f560205-c03) — Electromagnetic influence on perception
+
 ## Review flags
 
+- The article revises its initial speculation: it reports no direct evidence of animal-specific control.
 - translation-counterpart:none-identified

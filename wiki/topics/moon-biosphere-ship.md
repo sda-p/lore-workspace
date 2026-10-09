@@ -146,6 +146,46 @@ Source: [El Diluvio Universial Tiamat Cronologia Terrestre de los 12.500 años �
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-b01e12100c02-c02
+
+Yazhi describes Earth's Moon as a Federation-operated ship based at Saturn that emits frequencies to disrupt psychic connection. She says its effects chiefly concern Earth and interfere with astrology.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Pluton y Shiva - Astrologia](https://swaruu.org/transcripts/pluton-y-shiva-astrologia) (2023-02-06; es); passages p0089, p0093, p0107. [Structured record](../../records/src-b01e12100c02.json).
+
+Related topics: [Frequency-based astrology](frequency-astrology.md), [Saturnian orbital bases](saturn-bases.md).
+
+### src-607024b7b198-c01
+
+Anéeka describes the Moon as an Andromedan biosphere ship named Creirddylad, built in nested layers with life-support and engineering systems around a central reactor. She says apparent surface structures are part of the ship's hull.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA LUNA ES UN SATÉLITE ARTIFICIAL UNA NAVE BIÓSFERA - CONTACTO EXTRATERRESTRE](https://swaruu.org/transcripts/la-luna-es-un-satelite-artificial-una-nave-biosfera-contacto-extraterrestre) (2022-12-28; es); passages p0002, p0003, p0006. [Structured record](../../records/src-607024b7b198.json).
+
+Related topics: [Andromedans](andromedans.md).
+
+### src-607024b7b198-c02
+
+Yazhi says the Federation maintains the Moon's artificial orbit, with control passing among Centauri, Taygeta, and current Arcturian-Dieslientiplex operators. She says the orbit requires periodic correction.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LA LUNA ES UN SATÉLITE ARTIFICIAL UNA NAVE BIÓSFERA - CONTACTO EXTRATERRESTRE](https://swaruu.org/transcripts/la-luna-es-un-satelite-artificial-una-nave-biosfera-contacto-extraterrestre) (2022-12-28; es); passages p0005, p0008. [Structured record](../../records/src-607024b7b198.json).
+
+Related topics: [Galactic Federation](galactic-federation.md), [Dieslientiplex](dieslientiplex.md).
+
+### src-b7eb9ccdc2c5-c04
+
+She describes an Andromedan biosphere ship behind the Moon and estimates 900–1,000 large ships near Earth monitoring starseed families.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Cómo ve la Federación Galáctica lo que sucede en la Tierra. Primera parte, 1](https://swaruu.org/transcripts/como-ve-la-federacion-galactica-lo-que-sucede-en-la-tierra-primera-parte-1) (2023-03-17; es); passages p0027, p0029, p0032. [Structured record](../../records/src-b7eb9ccdc2c5.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-357c482522d2-c03](moon-matrix.md#src-357c482522d2-c03) — Moon and terrestrial Matrix
@@ -153,10 +193,13 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - [src-543fe68707e6-c02](andromedans.md#src-543fe68707e6-c02) — Andromedans
 - [src-b0eb8093b751-c03](tiamat.md#src-b0eb8093b751-c03) — Tiamat
 - [src-906e32a9d0d6-c04](moon-matrix.md#src-906e32a9d0d6-c04) — Moon and terrestrial Matrix
+- [src-f138a70a4ff8-c02](galactic-federation.md#src-f138a70a4ff8-c02) — Galactic Federation
 
 ## Review flags
 
+- Claims about hidden councils and planetary bases are attributed to Mari Swaruu.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
+- These are Mari Swaruu’s extraterrestrial claims and estimates, not independently verified.
 - Transcript combines several speakers and dates; claims preserve speaker attribution
 - alternative-cosmology-and-chronology-claims
 - ancient-history-claim
@@ -165,6 +208,8 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - date-discrepancy
 - extraterrestrial-claims
 - lunar-artificial-structure-claims-attributed
+- lunar-vessel-account
+- metaphysical-claims
 - nonstandard-planetary-model
 - speaker-attribution-inferred-from-transcript
 - terrestrial-history-contradiction

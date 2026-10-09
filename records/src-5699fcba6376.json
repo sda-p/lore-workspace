@@ -1,0 +1,43 @@
+{
+  "source_id": "src-5699fcba6376",
+  "snapshot_sha256": "8067b361a45c898b071bf4c10654f5893d77f289ae2f193e0c37e3db84b8e2d8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5699fcba6376-c01",
+      "assertion": "Mari says humanity and extraterrestrial identity form a gradual continuum, with definitions depending on criteria and perspective.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0003", "p0004", "p0011"],
+      "primary_topic": "alien-species",
+      "topics": ["alien-species", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She rejects a fixed boundary between human and alien."
+    },
+    {
+      "id": "src-5699fcba6376-c02",
+      "assertion": "She distinguishes starseeds, whose souls originated elsewhere before Earth incarnation, from Step Downs who physically arrive from visiting starships.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0013", "p0014", "p0016", "p0017", "p0020"],
+      "primary_topic": "starseeds",
+      "topics": ["starseeds", "extraterrestrial-stepdowns"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says some starseeds recall past lives; others do not."
+    },
+    {
+      "id": "src-5699fcba6376-c03",
+      "assertion": "Mari describes a spectrum of Lyrian species, from outwardly human forms to increasingly distinctive morphologies, with varied internal anatomy.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0031", "p0032", "p0033", "p0034", "p0035"],
+      "primary_topic": "lyrians",
+      "topics": ["lyrians", "alien-species"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She distinguishes bodily appearance from the soul inhabiting a body."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["long-term visitors integrated into Earth societies", "non-Lyrian morphologies"]
+}

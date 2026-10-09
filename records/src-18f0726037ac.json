@@ -1,0 +1,71 @@
+{
+  "source_id": "src-18f0726037ac",
+  "snapshot_sha256": "66639338492e8c82fc8a6b80e651403639abd83a16dc68e63c36851f742ce906",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-18f0726037ac-c01",
+      "assertion": "Kassia says Earth’s forgetting veil can intensify soul fragmentation; someone recalling a 5D identity is a distinct person and does not inherit that being’s place.",
+      "speaker": "Kassia, message relayed by Mari Swaruu",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0008",
+        "p0012"
+      ],
+      "primary_topic": "memory-veil",
+      "topics": [
+        "memory-veil",
+        "nexus-souls"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-18f0726037ac-c02",
+      "assertion": "She warns fragmentary past-life memories may be misread: imagination fills gaps, and the brain may lack context to translate them accurately.",
+      "speaker": "Kassia, message relayed by Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "memory-veil"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-18f0726037ac-c03",
+      "assertion": "She urges people to keep their present identity and use memories of earlier selves as inspiration, not as a reason to replace themselves or claim another being’s life.",
+      "speaker": "Kassia, message relayed by Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "memory-veil"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Kassia’s message is written and prepared for publication by Mari Swaruu."
+  ],
+  "coverage_gaps": [
+    "Identical-body frequency sharing and ethical conflicts",
+    "Personal accounts of extracting people with remembered identities"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "source_id": "src-13bbf23ca89e",
+  "snapshot_sha256": "3753c16169408346aab85fae834bdb1933e931a30d2fba9b6959f9b21ebae057",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-13bbf23ca89e-c01",
+      "assertion": "Athena claims transfusions strongly alter recipients’ genetics, though terrestrial tests supposedly miss it.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unverified health claim."
+    },
+    {
+      "id": "src-13bbf23ca89e-c02",
+      "assertion": "Athena says donor frequencies may affect recipients, while the recipient’s original soul remains stronger.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-13bbf23ca89e-c03",
+      "assertion": "Athena says donor memories may be reported after transfusion but does not know if donor souls transfer.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-13bbf23ca89e-c04",
+      "assertion": "In an earlier exchange, Swaruu (9) calls transfusions necessary without alternatives, yet energetically inadvisable except in life-threatening cases.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0034"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her stated view, not medical guidance."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Contains unsupported claims about transfusions, genetics, donor memories, and spiritual effects; do not treat as medical evidence."
+  ],
+  "coverage_gaps": [
+    "The source also asserts organ-transplant and soul-mixing claims."
+  ]
+}

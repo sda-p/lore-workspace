@@ -1,0 +1,54 @@
+{
+  "source_id": "src-ab60202e760e",
+  "snapshot_sha256": "717f5b41c433e96c332589fcadcb340e2faf2a0fbbdfec725cd63f9b87b5ce1c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ab60202e760e-c01",
+      "assertion": "Mari says collective unconscious consists of shared perceptions transmitted telepathically, forming a culture’s reality bubble.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0006", "p0007", "p0013", "p0018"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab60202e760e-c02",
+      "assertion": "She says group belonging, rooted in past lives, is exploited by Earth’s chaos and fuels distress.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0008", "p0009", "p0010", "p0011"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab60202e760e-c03",
+      "assertion": "Mari says distinct-frequency starseeds may separate from collectives; stronger ones can reshape shared reality telepathically.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0015", "p0016", "p0021", "p0022"],
+      "primary_topic": "starseed-guides",
+      "topics": ["starseed-guides", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ab60202e760e-c04",
+      "assertion": "She says unexplained sadness may be telepathic; self-knowledge helps identify external feelings and maintain one’s chosen state.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0026", "p0027", "p0028"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "astral-entities"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["species-level collective unconscious", "cultural boundaries and memory", "lower-frequency egregors"]
+}

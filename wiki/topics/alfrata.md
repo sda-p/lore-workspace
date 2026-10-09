@@ -155,12 +155,14 @@ Related topics: [Galactic Federation](galactic-federation.md), [Holistic society
 - [src-a62abe01768e-c01](alien-species.md#src-a62abe01768e-c01) — Alien species and distinctions
 - [src-d9a04b018638-c02](urmah.md#src-d9a04b018638-c02) — Urmah
 - [src-7037a2d38c7d-c01](galactic-federation.md#src-7037a2d38c7d-c01) — Galactic Federation
+- [src-7d76d15d2444-c03](lyrians.md#src-7d76d15d2444-c03) — Lyrians
 
 ## Review flags
 
 - Athena-interview-original-English
 - Australian-traffic-purpose-unknown
 - Species summaries are broad and based on accounts attributed to orbital sources
+- Swaruu X presents multiple hybridization motives and acknowledges incomplete information about some groups.
 - biology-claim
 - black-knight-loss-details-provisional
 - eclipse-portal-claims-unverified

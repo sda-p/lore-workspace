@@ -456,6 +456,176 @@ Source: [Transmutación al Cuerpo de Silicio - Verdad? Minerva Swaruu - Punto de
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-75919d9e49b8-c01
+
+Anéeka says DNA encodes individual and past-life memory, with latent genes activated by expanded consciousness regardless of bodily location. She says DNA changes accompany consciousness awakening.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [LA ACTIVACIÓN DE ADN Y EL DESPERTAR DE LA HUMANIDAD – ATHENA SWARUU – ANEEKA DE TEMMER](https://swaruu.org/transcripts/la-activacion-de-adn-y-el-despertar-de-la-humanidad-athena-swaruu-aneeka-de-temmer) (2023-02-01; es); passages p0002, p0003. [Structured record](../../records/src-75919d9e49b8.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-b96ee429d62e-c02
+
+She describes DNA and cellular crystal structures as frequency antennas tuned to an individual soul, with brain and nervous system translating experience.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [No eres tu cuerpo por lo tanto eres inmortal. La memoria no está en el cuerpo](https://swaruu.org/transcripts/no-eres-tu-cuerpo-por-lo-tanto-eres-inmortal-la-memoria-no-esta-en-el-cuerpo) (2023-04-18; es); passages p0011, p0012. [Structured record](../../records/src-b96ee429d62e.json).
+
+### src-7d76d15d2444-c01
+
+Swaruu X says Earth’s human DNA combines many stellar lineages, making the planet a source for hybridization.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Hibridación - Población de Nuevos Planetas - Athena Swaruu](https://swaruu.org/transcripts/hibridacion-poblacion-de-nuevos-planetas-athena-swaruu) (2023-04-07; es); passages p0025, p0026. [Structured record](../../records/src-7d76d15d2444.json).
+
+Related topics: [Lyrians](lyrians.md).
+
+### src-ce97d34c532b-c04
+
+She says DNA shifts over time with consciousness and experience; small changes may require database updates beyond current human detection.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ESTÁN ALMACENANDO TU ADN – EXTRATERRESTRE ME HABLA DEL GENOMA HUMANO - Yazhi Swaruu](https://swaruu.org/transcripts/estan-almacenando-tu-adn-extraterrestre-me-habla-del-genoma-humano-yazhi-swaruu) (2022-12-13; es); passages p0016, p0021, p0022. [Structured record](../../records/src-ce97d34c532b.json).
+
+### src-0c6bce18eafe-c01
+
+Yazhi says DNA is a physical expression of consciousness, memory, and spiritual energy; activation involves memory and cellular processes.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EL ADN COMO REFLEJO DE LA CONSCIENCIA Y MAS COSAS - Yazhi Swaruu](https://swaruu.org/transcripts/el-adn-como-reflejo-de-la-consciencia-y-mas-cosas-yazhi-swaruu) (2023-03-08; es); passages p0009, p0040. [Structured record](../../records/src-0c6bce18eafe.json).
+
+### src-a5922967f589-c01
+
+Yazhi described DNA as a changing crystalline antenna that translates etheric consciousness into the body through every cell.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [ADN - Registro de Quienes Somos - Perspectiva Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/adn-registro-de-quienes-somos-perspectiva-extraterrestre-yazhi-swaruu) (2023-03-18; es); passages p0014, p0015, p0017, p0018, p0038, p0191. [Structured record](../../records/src-a5922967f589.json).
+
+Related topics: [Crystalline DNA and proto-silicon biology](crystalline-dna.md).
+
+### src-a5922967f589-c02
+
+Yazhi said DNA may retain relevant past-life memories, but interpretation requires a prior frequency reference and not every experience is recorded.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [ADN - Registro de Quienes Somos - Perspectiva Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/adn-registro-de-quienes-somos-perspectiva-extraterrestre-yazhi-swaruu) (2023-03-18; es); passages p0068, p0074, p0078, p0094, p0096. [Structured record](../../records/src-a5922967f589.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-a5922967f589-c03
+
+Yazhi said ancestry-like DNA frequencies can reflect compatibility rather than literal descent or a past life in that region. Some cases may reflect actual experience.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [ADN - Registro de Quienes Somos - Perspectiva Extraterrestre - Yazhi Swaruu](https://swaruu.org/transcripts/adn-registro-de-quienes-somos-perspectiva-extraterrestre-yazhi-swaruu) (2023-03-18; es); passages p0133, p0136, p0144, p0146, p0148. [Structured record](../../records/src-a5922967f589.json).
+
+### src-2be77fc03489-c01
+
+Yazhi describes DNA as crystalline antenna translating etheric consciousness into physical form.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - REFLEJO DE LA CONSCIENCIA - YAZHI SWARUU](https://swaruu.org/transcripts/adn-reflejo-de-la-consciencia-yazhi-swaruu) (2023-03-18; es); passages p0014, p0017, p0018. [Structured record](../../records/src-2be77fc03489.json).
+
+Related topics: [Crystalline DNA and proto-silicon biology](crystalline-dna.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2be77fc03489-c02
+
+She says DNA records prior experiences and reflects spiritual identity.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - REFLEJO DE LA CONSCIENCIA - YAZHI SWARUU](https://swaruu.org/transcripts/adn-reflejo-de-la-consciencia-yazhi-swaruu) (2023-03-18; es); passages p0015, p0016. [Structured record](../../records/src-2be77fc03489.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-2be77fc03489-c03
+
+Reading DNA memories requires frequency keys; only relevant memories may register.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - REFLEJO DE LA CONSCIENCIA - YAZHI SWARUU](https://swaruu.org/transcripts/adn-reflejo-de-la-consciencia-yazhi-swaruu) (2023-03-18; es); passages p0068, p0074, p0094, p0096. [Structured record](../../records/src-2be77fc03489.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-2be77fc03489-c06
+
+DNA may indicate frequency compatibility with a place, not ancestry or residence.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - REFLEJO DE LA CONSCIENCIA - YAZHI SWARUU](https://swaruu.org/transcripts/adn-reflejo-de-la-consciencia-yazhi-swaruu) (2023-03-18; es); passages p0133, p0146, p0148. [Structured record](../../records/src-2be77fc03489.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-7951d6bf342c-c01
+
+Swaruu (9) says higher-frequency perception grants access to DNA information already present but inaccessible.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [ADN - Registro de Quienes Somos - Preguntas del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/adn-registro-de-quienes-somos-preguntas-del-publico-yazhi-swaruu) (2023-03-25; es); passages p0004. [Structured record](../../records/src-7951d6bf342c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7951d6bf342c-c02
+
+Yazhi says inactive DNA contains past-life information, with access increasing as consciousness expands.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - Registro de Quienes Somos - Preguntas del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/adn-registro-de-quienes-somos-preguntas-del-publico-yazhi-swaruu) (2023-03-25; es); passages p0008, p0010, p0012, p0018. [Structured record](../../records/src-7951d6bf342c.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md), [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7951d6bf342c-c03
+
+Yazhi describes DNA as a physical reflection of the soul, with abilities reflecting rather than causing its development.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - Registro de Quienes Somos - Preguntas del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/adn-registro-de-quienes-somos-preguntas-del-publico-yazhi-swaruu) (2023-03-25; es); passages p0019, p0020, p0021, p0023, p0024. [Structured record](../../records/src-7951d6bf342c.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-7951d6bf342c-c04
+
+Yazhi says audio tones do not directly repair DNA; any mood effects are indirect.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - Registro de Quienes Somos - Preguntas del Publico - Yazhi Swaruu](https://swaruu.org/transcripts/adn-registro-de-quienes-somos-preguntas-del-publico-yazhi-swaruu) (2023-03-25; es); passages p0032, p0035. [Structured record](../../records/src-7951d6bf342c.json).
+
+### src-97d1cf163a44-c02
+
+Anéeka describes DNA as material memory of souls' experiences and identity across incarnations.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TENEMOS ADN EXTRATERRESTRE - CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/tenemos-adn-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-31; es); passages p0004, p0014, p0016, p0017. [Structured record](../../records/src-97d1cf163a44.json).
+
+Related topics: [Reincarnation and karmic cycles](reincarnation-cycles.md).
+
+### src-97d1cf163a44-c04
+
+Anéeka says attention and expanded consciousness activate latent DNA memories.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [TENEMOS ADN EXTRATERRESTRE - CONTACTO EXTRATERRESTRE - ANEEKA DE TEMMER](https://swaruu.org/transcripts/tenemos-adn-extraterrestre-contacto-extraterrestre-aneeka-de-temmer) (2023-01-31; es); passages p0048, p0049, p0053. [Structured record](../../records/src-97d1cf163a44.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-31e1b41b8c15-c01](consciousness-metaphysics.md#src-31e1b41b8c15-c01) — Consciousness and metaphysics
@@ -486,14 +656,31 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - [src-d8771f2c1186-c03](black-goo.md#src-d8771f2c1186-c03) — Black goo
 - [src-efa7ccfc79ce-c03](alien-species.md#src-efa7ccfc79ce-c03) — Alien species and distinctions
 - [src-ced4e51128ed-c01](consciousness-metaphysics.md#src-ced4e51128ed-c01) — Consciousness and metaphysics
+- [src-75919d9e49b8-c02](primary-secondary-species.md#src-75919d9e49b8-c02) — Primary and Secondary Species
+- [src-7d76d15d2444-c02](lyrians.md#src-7d76d15d2444-c02) — Lyrians
+- [src-ce97d34c532b-c02](earth-cabal.md#src-ce97d34c532b-c02) — Earth Cabal and power structures
+- [src-2be77fc03489-c04](neural-frequency-genetic-engineering.md#src-2be77fc03489-c04) — Neural frequency and genetic engineering
+- [src-2be77fc03489-c05](walk-in-phenomenon.md#src-2be77fc03489-c05) — Walk-in phenomenon
+- [src-7951d6bf342c-c05](walk-in-phenomenon.md#src-7951d6bf342c-c05) — Walk-in phenomenon
+- [src-97d1cf163a44-c01](humanity-multi-species-experiment.md#src-97d1cf163a44-c01) — Humanity as a multi-species experiment
+- [src-97d1cf163a44-c05](moon-matrix.md#src-97d1cf163a44-c05) — Moon and terrestrial Matrix
+- [src-b48ede308895-c04](medical-pods.md#src-b48ede308895-c04) — Medical regeneration pods
 
 ## Review flags
 
 - Chromosome, detection, targeting, and psychic claims are Anéeka’s unverified assertions, not scientific guidance
+- Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
 - Compared English candidate src-4ae3eab52e34; closely aligned translation with differences in segmentation and some explanatory detail.
+- DNA collection and nonhuman-identification claims are presented as Yazhi’s assertions.
 - Genetic and chromosome claims are attributed fictional-world assertions
+- Medical technology claims are attributed to Yazhi.
+- Metaphysical genetics and the 22-lineage account are attributed claims; the speaker calls the lab-origin explanation simplistic.
 - Resource-seeking distinction is level-dependent in Anéeka’s account
+- Swaruu X presents multiple hybridization motives and acknowledges incomplete information about some groups.
+- The article presents metaphysical DNA interpretations attributed to the speakers.
+- The author presents the memory-location and disease examples as metaphysical claims.
 - The cloning and genetic-control statements are Swaruu’s claims.
+- The dialogue distinguishes an individual’s mental state from collective psychic influence; the author says effects are psychological, not physical.
 - Van Allen belts both set a baseline and can be transcended; preserve distinction.
 - artificial-intelligence-attributed
 - attributed-medical-conspiracy-claims
@@ -519,6 +706,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - same-language-near-duplicate-src-7872bc2f2c04
 - segmentation-diff
 - self-described-species-transition
+- speaker-distinction-preserved
 - speaker-header-diff
 - speaker-shift-cic-to-mari
 - species-origin-model-attributed

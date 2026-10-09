@@ -1,0 +1,74 @@
+{
+  "source_id": "src-1b58a21e9def",
+  "snapshot_sha256": "ccdcc743fbedbb6ade091f732102d839082fde9ba5e1e70cc8f1d23fcadd0838",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1b58a21e9def-c01",
+      "assertion": "She says Egyptian and Mesoamerican pyramids belonged to one planetary energy network; sacrifice did not define Egyptian culture but occurred regularly in Mesoamerica.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0009"
+      ],
+      "primary_topic": "pyramid-network",
+      "topics": [
+        "pyramid-network",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1b58a21e9def-c02",
+      "assertion": "She identifies a Karnak structure as a portal marker. Seven doors and keys may indicate preset destinations or security levels; travel matches origin and destination frequencies.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0017",
+        "p0021",
+        "p0023",
+        "p0025",
+        "p0026",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "medium",
+      "qualifiers": "Alternatives are offered for the seven-door function."
+    },
+    {
+      "id": "src-1b58a21e9def-c03",
+      "assertion": "She says aquifers improve soil conductivity in pyramid zero-point systems; inactive portals leave no energy, but ley nodes and piezoelectric stone retain detectable molecular-frequency traces.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0055",
+        "p0059",
+        "p0061",
+        "p0062"
+      ],
+      "primary_topic": "atlantean-zero-point-pyramids",
+      "topics": [
+        "atlantean-zero-point-pyramids",
+        "ley-line-energy-nodes",
+        "ancient-egypt"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Karnak chronology and temple iconography",
+    "Egyptian royal and religious claims",
+    "Urmah presence and animal-headed depictions"
+  ]
+}

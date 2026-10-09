@@ -1,0 +1,92 @@
+{
+  "source_id": "src-a992e9329c4b",
+  "snapshot_sha256": "6fa036cb0fd59376a3aaf59e25e3e805a3882ed0521db213e0de15e1cf5bad82",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a992e9329c4b-c01",
+      "assertion": "Za’el says dream time can seem faster or slower than sleep duration.",
+      "speaker": "Za'el",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "His view."
+    },
+    {
+      "id": "src-a992e9329c4b-c02",
+      "assertion": "He compares imagining a dream future with sustaining attention on possible waking futures.",
+      "speaker": "Za'el",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Waking change takes longer."
+    },
+    {
+      "id": "src-a992e9329c4b-c03",
+      "assertion": "Za'el defines ‘soul’ as an attention point choosing incarnated characters.",
+      "speaker": "Za'el",
+      "paragraph_ids": [
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He calls this simplified."
+    },
+    {
+      "id": "src-a992e9329c4b-c04",
+      "assertion": "He says past events may change through conviction and mental power.",
+      "speaker": "Za'el",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Difficult, especially for future decisions and agreements."
+    },
+    {
+      "id": "src-a992e9329c4b-c05",
+      "assertion": "He proposes incarnations can overlap, with one life recalling another already present.",
+      "speaker": "Za'el",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "His reincarnation account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Further discussion of whether destiny is fixed, deferred to a later video."
+  ]
+}

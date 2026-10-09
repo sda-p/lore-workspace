@@ -46,12 +46,43 @@ Source: [COMO SON LOS VIAJES EN EL TIEMPO - SOPHIA SWARUU - YAZHI](https://swaru
 
 Related topics: [Memory Veil](memory-veil.md), [Tartaria](tartaria.md).
 
+### src-e33e26096a8a-c03
+
+Yazhi said humans repeat errors because past-life memories are unavailable and recorded history is manipulated; she described resets as a control method.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Historia - Romanos y Renacimiento a la Vez - Yazhi Swaruu (Sophia) Explica Porque](https://swaruu.org/transcripts/historia-romanos-y-renacimiento-a-la-vez-yazhi-swaruu-sophia-explica-porque) (2022-09-22; es); passages p0021, p0023, p0024. [Structured record](../../records/src-e33e26096a8a.json).
+
+Related topics: [Memory Veil](memory-veil.md), [Earth Cabal and power structures](earth-cabal.md).
+
+### src-ff3b3864b466-c02
+
+She described “soft resets” as generational cultural change through controlled information, erasure of older records, and schooling that installs new beliefs.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Formación de una matrix](https://swaruu.org/transcripts/formacion-de-una-matrix) (2023-04-14; es); passages p0023, p0026, p0027. [Structured record](../../records/src-ff3b3864b466.json).
+
+Related topics: [Memory implantation](memory-implantation.md).
+
+### src-ff3b3864b466-c03
+
+Mari said more dramatic resets can eliminate most people and restart society; she named the Galactic Federation as the likely direct agent, while allowing natural cataclysms a role.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Formación de una matrix](https://swaruu.org/transcripts/formacion-de-una-matrix) (2023-04-14; es); passages p0028, p0030. [Structured record](../../records/src-ff3b3864b466.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-52d2d3f49000-c02](tartaria.md#src-52d2d3f49000-c02) — Tartaria
 
 ## Review flags
 
+- Claims about secret societies, media manipulation, and resets are attributed to Mari Swaruu.
 - Tartaria chronology and destruction are presented as disputed source claims
 - claims about time, memory, history, and social control are attributed to Yazhi, not independently verified
 - reset-sequence-and-dating-unclear

@@ -1,0 +1,43 @@
+{
+  "source_id": "src-082f8780849b",
+  "snapshot_sha256": "b5f6666d1dfd3cbb885a4cc034d192e0b046aad76a4a1407bf7fa5ce69650463",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-082f8780849b-c01",
+      "assertion": "Mari says death ends bodily processes, not ego, identity, or consciousness; the astral body reflects the deceased person's self-concept.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0016", "p0017", "p0023"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "astral-entities"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of postmortem experience."
+    },
+    {
+      "id": "src-082f8780849b-c02",
+      "assertion": "She says low-astral groups exploit fearful living people and animals for energy and manifestation power.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0027", "p0028", "p0029"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "interdimensional-parasites"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes these groups as including entities that were never embodied."
+    },
+    {
+      "id": "src-082f8780849b-c03",
+      "assertion": "Mari says loving, recently deceased people may protect living relatives from negative astral entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0030", "p0031", "p0032"],
+      "primary_topic": "astral-entities",
+      "topics": ["astral-entities", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She attributes this to the deceased person's higher vibration."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["ghost time-loop explanation", "haunted-place frequency claims"]
+}

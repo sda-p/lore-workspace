@@ -1,0 +1,97 @@
+{
+  "source_id": "src-5396b3e5a9fd",
+  "snapshot_sha256": "026363408cafb379e98cac170dc4032e85240ec5bfbfbb37d2a65b22d9bcb498",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5396b3e5a9fd-c01",
+      "assertion": "Mari says physical negatives may be reinterpreted positively after death, while positives remain positive.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says interpretations vary; do not generalize."
+    },
+    {
+      "id": "src-5396b3e5a9fd-c02",
+      "assertion": "She says reluctance to reincarnate may change after death, when physical life seems temporary.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5396b3e5a9fd-c03",
+      "assertion": "She says experience, learning, and spiritual growth carry beyond death; possessions matter through experience.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5396b3e5a9fd-c04",
+      "assertion": "She attributes repeated reincarnation to personal attachments, not coercive entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0032",
+        "p0031"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Letting go and forgiveness may help avoid repetition."
+    },
+    {
+      "id": "src-5396b3e5a9fd-c05",
+      "assertion": "She frames life as spiritual growth and creating paradise, urging perseverance and self-kindness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0035",
+        "p0036",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents this as possible."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "near-death examples",
+    "material possessions and experience"
+  ]
+}

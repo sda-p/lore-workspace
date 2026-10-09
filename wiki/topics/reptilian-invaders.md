@@ -34,6 +34,16 @@ Source: [LOS ADORADORES DE SATANAS Y DUEÑOS DEL MUNDO - SOPHIA SWARUU XII -P1](
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md), [Economics and resources](economics.md).
 
+### src-f3083d830387-c02
+
+Swaruu (9) suspects reptiles lure people into DUMBs for slavery or food, sometimes disguising their ships as positive craft or Agartha vessels. She says her evidence is limited and gives no estimate of how many people are targeted.
+
+Attributed to **Swaruu (9)**; speculative; extraction confidence: high.
+
+Source: [Evacuación de los Humanos de la Tierra - Opinión de Yazhi Swaruu](https://swaruu.org/transcripts/evacuacion-de-los-humanos-de-la-tierra-opinion-de-yazhi-swaruu) (2022-11-08; es); passages p0004, p0008. [Structured record](../../records/src-f3083d830387.json).
+
+Related topics: [Deep underground military bases](deep-underground-military-bases.md).
+
 ## Claims filed under other topics
 
 - [src-357c482522d2-c01](atlantis-lemuria.md#src-357c482522d2-c01) — Atlantis and Lemuria
@@ -41,6 +51,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md), [Economics a
 - [src-f692b0750026-c05](galactic-federation.md#src-f692b0750026-c05) — Galactic Federation
 - [src-df0b18054ec1-c01](stellar-navigation.md#src-df0b18054ec1-c01) — Stellar navigation
 - [src-940f9935241e-c01](tiamat.md#src-940f9935241e-c01) — Tiamat
+- [src-f3083d830387-c01](intra-terrestrial-agartha.md#src-f3083d830387-c01) — Agartha resistance network
 
 ## Review flags
 
@@ -49,6 +60,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md), [Economics a
 - conspiracy-allegations
 - federation-level-claims-attributed
 - federation-role-contradiction
+- limited-evidence-extraction-account
 - medical-misinformation-claims
 - pandemic-claims-excluded
 - speaker-attribution-inferred-from-transcript

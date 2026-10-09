@@ -1,0 +1,86 @@
+{
+  "source_id": "src-b2b1511e840d",
+  "snapshot_sha256": "a66fc490d1c83fc319434e134e948a587cd7b13781f4a21872de12867e536dcb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b2b1511e840d-c01",
+      "assertion": "Za’el argues that moral relativism and excessive tolerance can let more aggressive, authoritarian people impose rules on peaceful others.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2b1511e840d-c02",
+      "assertion": "In his game analogy, the rule-setter determines who wins; powerful actors can similarly define or manipulate ethical rules and perceived reality.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2b1511e840d-c03",
+      "assertion": "He advises keeping one’s ethics and empathy while refusing passivity toward abuse or allowing others to control one’s circumstances.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b2b1511e840d-c04",
+      "assertion": "He urges examining multiple sides and recognizing wrongdoing without treating it as self-defining, then acting nobly while resisting harm.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Abusive power structures and the Earth Cabal example",
+    "Metaphysical explanation for denying wrongdoing"
+  ]
+}

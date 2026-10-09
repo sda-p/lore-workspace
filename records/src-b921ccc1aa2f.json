@@ -1,0 +1,75 @@
+{
+  "source_id": "src-b921ccc1aa2f",
+  "snapshot_sha256": "32cf18e161c7082e543b54906613363a0c205ba12d61aa6587852e60e0abc196",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b921ccc1aa2f-c01",
+      "assertion": "Swaruu (9) claimed tumors isolate dead and abnormal cells and the underlying toxic tissue condition; she advised against removal except when a tumor causes mechanical complications.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "cancer",
+      "topics": [
+        "cancer"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her medical claim, not established guidance."
+    },
+    {
+      "id": "src-b921ccc1aa2f-c02",
+      "assertion": "Anéeka attributed many cancers to psychosomatic or emotional stress and described substance-related cancers as toxic conditions, sometimes combining both factors.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0015",
+        "p0026",
+        "p0027",
+        "p0029"
+      ],
+      "primary_topic": "cancer",
+      "topics": [
+        "cancer"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-b921ccc1aa2f-c03",
+      "assertion": "Anéeka said she considered major lifestyle changes the most effective remedy for psychosomatic cancer and characterized cancer as a symptom rather than the root problem.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0025",
+        "p0028"
+      ],
+      "primary_topic": "cancer",
+      "topics": [
+        "cancer"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her claims."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "cancer",
+      "name": "Cancer claims",
+      "kind": "medical claims",
+      "aliases": [
+        "cancer"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Contains potentially harmful claims discouraging tumor removal and alleging cancer causation; attribute strictly and do not present as medical guidance."
+  ],
+  "coverage_gaps": [
+    "Swaruu (9) claims about emotions and organ-specific causes"
+  ]
+}

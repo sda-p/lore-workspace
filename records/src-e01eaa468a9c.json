@@ -1,0 +1,85 @@
+{
+  "source_id": "src-e01eaa468a9c",
+  "snapshot_sha256": "e7b94efa00c37edf995df5a7aa0733463a97fbf1b0e5da93b2ee7e82b74d6cdf",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e01eaa468a9c-c01",
+      "assertion": "Za’el says postmortem attention follows a person’s ideas; afterlife settings need not be fixed or shared.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0010",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e01eaa468a9c-c02",
+      "assertion": "He says attention after death may shift to a compatible context without an intermediate afterlife.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0013",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "postmortem-realities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e01eaa468a9c-c03",
+      "assertion": "He proposes a deceased person may “walk in” to another’s life when their circumstances align.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "postmortem-realities"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "He says the existing person retains their history."
+    },
+    {
+      "id": "src-e01eaa468a9c-c04",
+      "assertion": "Za’el urges people in despair to keep going and care for themselves, claiming death may repeat distress or lead to a matching life.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0026",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "postmortem-realities"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is his spiritual claim, not verified fact."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The transcript makes spiritual claims about death and reincarnation; they are attributed to Za’el and not verified."
+  ],
+  "coverage_gaps": [
+    "Source’s account of the Source as consciousness",
+    "attention fragments and reincarnates"
+  ]
+}

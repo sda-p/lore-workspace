@@ -1,0 +1,72 @@
+{
+  "source_id": "src-ebaafb2f5974",
+  "snapshot_sha256": "69d375f3c59a444c40b1f19d36954d6d01846d24ba87969b3058694f7321dcdb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ebaafb2f5974-c01",
+      "assertion": "Mari says telepathy is innate but atrophies without use; self-awareness and practice can rebuild it, while EM frequencies hinder it.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0011",
+        "p0014",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ebaafb2f5974-c02",
+      "assertion": "She compares telepathy to frequency tuning; it is strongest between close relations, while Taygetans use speech charged with telepathic meaning.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Intent can preserve thought privacy."
+    },
+    {
+      "id": "src-ebaafb2f5974-c03",
+      "assertion": "Mari claims her group sends telepathic messages to receptive humans, but cannot identify most recipients; she warns against false channeling.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027",
+        "p0028",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says claims are hard to verify."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "covert government research claims",
+    "telepathic contact identification details"
+  ]
+}

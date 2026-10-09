@@ -1,0 +1,74 @@
+{
+  "source_id": "src-52a4911db286",
+  "snapshot_sha256": "1788fe9aa1ad10f8a63caf82f1c6c50dda7225acb43ea45adaa649b9795967df",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-52a4911db286-c01",
+      "assertion": "Mari Swaruu says group telepathy creates a collective cognitive field that can synchronize members’ thoughts, values, and emotions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical model of group influence."
+    },
+    {
+      "id": "src-52a4911db286-c02",
+      "assertion": "Mari Swaruu claims collective fear concentrates attention and can steer individuals or groups toward matching timeline outcomes.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0022"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Presented as her theory of manifestation."
+    },
+    {
+      "id": "src-52a4911db286-c03",
+      "assertion": "Mari Swaruu describes egregors as collective or personal thought forms that may take physical or astral form and feed on fear.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0025",
+        "p0027",
+        "p0036"
+      ],
+      "primary_topic": "egregors",
+      "topics": [
+        "egregors",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Spiritual claims attributed to the speaker."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The author presents telepathy and thought-form manifestation as factual; these claims remain attributed."
+  ],
+  "coverage_gaps": [
+    "Practical advice for recognizing and recording catastrophic thought patterns omitted."
+  ]
+}

@@ -48,6 +48,31 @@ Source: [LOS SECRETOS DEL PLANETA URANO Y SUS LUNAS](https://swaruu.org/transcri
 
 Related topics: [Terrestrial science](terrestrial-science.md).
 
+### src-a1853102a8f0-c01
+
+Swaruu (9) describes Uranus as a gas giant with a progressively denser atmosphere and a solid diamond-like surface beneath extreme pressure.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Urano - Sistema Solar - Informacion de Swaruu de Erra (Taygeta - Pleyades)](https://swaruu.org/transcripts/urano-sistema-solar-informacion-de-swaruu-de-erra-taygeta-pleyades) (2022-12-25; es); passages p0003. [Structured record](../../records/src-a1853102a8f0.json).
+
+### src-a1853102a8f0-c02
+
+She says Miranda has under-ice animal and plant ecosystems sustained by geothermal vents, but no alien bases.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Urano - Sistema Solar - Informacion de Swaruu de Erra (Taygeta - Pleyades)](https://swaruu.org/transcripts/urano-sistema-solar-informacion-de-swaruu-de-erra-taygeta-pleyades) (2022-12-25; es); passages p0007, p0011, p0012. [Structured record](../../records/src-a1853102a8f0.json).
+
+### src-a1853102a8f0-c03
+
+She says other large Uranian moons host underground alien bases extracting mainly iron, carbon, gold, and alloy materials; the rings contain Tiamat debris.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Urano - Sistema Solar - Informacion de Swaruu de Erra (Taygeta - Pleyades)](https://swaruu.org/transcripts/urano-sistema-solar-informacion-de-swaruu-de-erra-taygeta-pleyades) (2022-12-25; es); passages p0006, p0022, p0032, p0039. [Structured record](../../records/src-a1853102a8f0.json).
+
 ## Review flags
 
+- The source distinguishes Miranda’s lack of bases from bases on other Uranian moons.
 - miranda-no-bases-versus-other-moon-bases

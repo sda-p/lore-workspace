@@ -1,0 +1,78 @@
+{
+  "source_id": "src-05476d7782cb",
+  "snapshot_sha256": "2c773534dee99c474346a1d4a41f9e3f86b2cab17956dc07c2f47f3c27235e07",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-05476d7782cb-c01",
+      "assertion": "Athena said the Moon rotates in synchronization with Earth, keeping the same side visible; its phases are real and its hologram is on the Earth-facing side.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-05476d7782cb-c02",
+      "assertion": "Although Athena acknowledged earlier accounts of lunar computers inserting events, she said consciousness manifests Earth’s Matrix and lunar systems only condition it.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019",
+        "p0020",
+        "p0022",
+        "p0024",
+        "p0037"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said their current view remains unclear."
+    },
+    {
+      "id": "src-05476d7782cb-c03",
+      "assertion": "Athena said the Moon alters Earth’s natural magnetosphere to generate Van Allen belts; she described the belts and lunar hologram as separate systems.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0070",
+        "p0071",
+        "p0072",
+        "p0073"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The article repeatedly marks lunar reactor details as speculative or unknown and includes earlier conflicting accounts of computer manipulation."
+  ],
+  "coverage_gaps": [
+    "Claims about alleged lunar reactors, access restrictions, and possible effects on memory"
+  ]
+}

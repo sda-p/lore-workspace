@@ -1,0 +1,77 @@
+{
+  "source_id": "src-6ddd10d07e76",
+  "snapshot_sha256": "c9af1cef6f683300e166f48c5d9e8c876ea3f67509bc18fba18663b30fbcad2f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6ddd10d07e76-c01",
+      "assertion": "Mari said earlier contactors overextended themselves by accommodating interviewers and sharing without boundaries, leading to exhaustion and conflicts over unmet expectations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0009",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ddd10d07e76-c02",
+      "assertion": "She said service-to-others can become exploitative in Earth’s scarcity mindset and argued that extraterrestrials also have ordinary needs rather than owing humanity rescue.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0016",
+        "p0018"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6ddd10d07e76-c03",
+      "assertion": "Mari said she would publish independently in a focused, gradual format to avoid repeating prior contactors’ errors; she identified other humans in space as the project’s central implication.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "extraterrestrial-contact",
+      "topics": [
+        "extraterrestrial-contact",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "extraterrestrial-contact",
+      "name": "Extraterrestrial contact and disclosure",
+      "kind": "contact practice",
+      "aliases": [
+        "online contact",
+        "contact project"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Her discussion of validation and public acceptance"
+  ]
+}

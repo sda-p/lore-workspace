@@ -164,6 +164,114 @@ Source: [No os Dejéis Engañar - Discernir y Ser Cautelosos - Consejo de Athena
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-0a8abe9de1b2-c01
+
+Swaruu X (Athena) characterizes the Ukraine conflict as beginning as an internal civil war before NATO became involved. This is her account of the conflict's origins.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ACTUALIDAD INFORME – UCRANIA-RUSIA](https://swaruu.org/transcripts/actualidad-informe-ucrania-rusia) (2023-03-10; es); passages p0004, p0023, p0025. [Structured record](../../records/src-0a8abe9de1b2.json).
+
+### src-ec30a0b94013-c01
+
+Athena said the West used Ukraine as a proxy war to weaken Russia and oust Putin with a Western-backed government. She said conclusions came from a year of research and included unresolved inconsistencies.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Guerra en Ucrania - Analisis - Marzo 2023 - Informe de Inteligencia Taygeteana](https://swaruu.org/transcripts/guerra-en-ucrania-analisis-marzo-2023-informe-de-inteligencia-taygeteana) (2023-03-05; es); passages p0003, p0004, p0005, p0026, p0027, p0028. [Structured record](../../records/src-ec30a0b94013.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-ec30a0b94013-c02
+
+She reported a Kyiv–Moscow ceasefire in March 2022, which she said Ukrainian forces broke; she alleged the West instructed Zelensky to reject further deals.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: medium.
+
+Source: [Guerra en Ucrania - Analisis - Marzo 2023 - Informe de Inteligencia Taygeteana](https://swaruu.org/transcripts/guerra-en-ucrania-analisis-marzo-2023-informe-de-inteligencia-taygeteana) (2023-03-05; es); passages p0006, p0007. [Structured record](../../records/src-ec30a0b94013.json).
+
+### src-ec30a0b94013-c03
+
+Athena called the report pro-Putin and said Russia was tactically stronger, but she did not fully trust Putin. She added that deeper Cabal controls both sides.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Guerra en Ucrania - Analisis - Marzo 2023 - Informe de Inteligencia Taygeteana](https://swaruu.org/transcripts/guerra-en-ucrania-analisis-marzo-2023-informe-de-inteligencia-taygeteana) (2023-03-05; es); passages p0018, p0020, p0021, p0022, p0026, p0030. [Structured record](../../records/src-ec30a0b94013.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-04de255f76ef-c01
+
+Swaruu X says CIC blamed Western efforts to remove Putin, using Ukraine as a proxy. She says the yearlong assessment used observation, involved sources, and Russian public opinion.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [INFORME DE CENTRO DE INFORMACIÓN Y CONTROL - UCRANIA RUSIA](https://swaruu.org/transcripts/informe-de-centro-de-informacion-y-control-ucrania-rusia) (2023-03-08; es); passages p0005, p0006, p0007, p0008. [Structured record](../../records/src-04de255f76ef.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-04de255f76ef-c02
+
+She alleges a 2022 ceasefire failed and Western military support prolonged the war. These are her report’s claims.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [INFORME DE CENTRO DE INFORMACIÓN Y CONTROL - UCRANIA RUSIA](https://swaruu.org/transcripts/informe-de-centro-de-informacion-y-control-ucrania-rusia) (2023-03-08; es); passages p0009. [Structured record](../../records/src-04de255f76ef.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-04de255f76ef-c03
+
+She says Ukrainian civilians and towns suffered heavy destruction, while acknowledging Russian bombardments too.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [INFORME DE CENTRO DE INFORMACIÓN Y CONTROL - UCRANIA RUSIA](https://swaruu.org/transcripts/informe-de-centro-de-informacion-y-control-ucrania-rusia) (2023-03-08; es); passages p0014, p0015, p0040, p0042. [Structured record](../../records/src-04de255f76ef.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-04de255f76ef-c04
+
+She says regional escalation could follow Russian weakening; Russian strength might deter it. This is her assessment, not an established forecast.
+
+Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
+
+Source: [INFORME DE CENTRO DE INFORMACIÓN Y CONTROL - UCRANIA RUSIA](https://swaruu.org/transcripts/informe-de-centro-de-informacion-y-control-ucrania-rusia) (2023-03-08; es); passages p0016, p0044, p0048. [Structured record](../../records/src-04de255f76ef.json).
+
+Related topics: [Earth Cabal and power structures](earth-cabal.md).
+
+### src-6be31ff84a2c-c01
+
+Athena says her group assessed Ukraine from the air and ground, comparing observations with sources.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ucrania - Informe CIC 2 - Experiencia Directa y Conclusiones](https://swaruu.org/transcripts/ucrania-informe-cic-2-experiencia-directa-y-conclusiones) (2023-03-10; es); passages p0003, p0004. [Structured record](../../records/src-6be31ff84a2c.json).
+
+### src-6be31ff84a2c-c02
+
+She reports residents in separatist regions described themselves as pro-Russian and viewed Russia as protective. This is her account of residents’ views.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ucrania - Informe CIC 2 - Experiencia Directa y Conclusiones](https://swaruu.org/transcripts/ucrania-informe-cic-2-experiencia-directa-y-conclusiones) (2023-03-10; es); passages p0008, p0009. [Structured record](../../records/src-6be31ff84a2c.json).
+
+### src-6be31ff84a2c-c03
+
+She alleges NATO caused substantial destruction, while saying shells from both sides harmed civilians. These allegations are not independently verified here.
+
+Attributed to **Swaruu X (Athena)**; reported; extraction confidence: high.
+
+Source: [Ucrania - Informe CIC 2 - Experiencia Directa y Conclusiones](https://swaruu.org/transcripts/ucrania-informe-cic-2-experiencia-directa-y-conclusiones) (2023-03-10; es); passages p0006, p0011. [Structured record](../../records/src-6be31ff84a2c.json).
+
+### src-6be31ff84a2c-c04
+
+She frames the war as a Western proxy effort to change Russia’s government and calls Western coverage propaganda. This is Athena’s analysis.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Ucrania - Informe CIC 2 - Experiencia Directa y Conclusiones](https://swaruu.org/transcripts/ucrania-informe-cic-2-experiencia-directa-y-conclusiones) (2023-03-10; es); passages p0005, p0010. [Structured record](../../records/src-6be31ff84a2c.json).
+
 ## Claims filed under other topics
 
 - [src-87bd832ea105-c01](earth-cabal.md#src-87bd832ea105-c01) — Earth Cabal and power structures
@@ -178,6 +286,10 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 ## Review flags
 
 - Geopolitical analysis includes explicitly labeled speculation and predictions.
+- Political and military claims are attributed to the report and its sources.
+- The report makes contested geopolitical allegations; claims are recorded as attributed statements, not verified facts.
+- This transcript makes contested wartime allegations and population estimates; all are attributed to Athena, not verified.
+- contested-geopolitical-history
 - translated-originally-Spanish
 - ukraine-war-conspiracy-claims-attributed
 - wartime-conspiracy-claims

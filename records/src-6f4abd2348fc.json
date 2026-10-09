@@ -1,0 +1,43 @@
+{
+  "source_id": "src-6f4abd2348fc",
+  "snapshot_sha256": "d224407d139ac883e9c9a19646e678e1d00355018bf549708779deeefd2d5439",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6f4abd2348fc-c01",
+      "assertion": "Yazhi says a higher self can divide into multiple incarnated selves to experience different paths at once.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": ["p0004", "p0005", "p0006", "p0008", "p0010"],
+      "primary_topic": "nexus-souls",
+      "topics": ["nexus-souls", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The higher self receives both experiences."
+    },
+    {
+      "id": "src-6f4abd2348fc-c02",
+      "assertion": "She describes identity as idea-based and says imagination and new knowledge can expand one's experienced self.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": ["p0014", "p0017", "p0018", "p0022", "p0023"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "nexus-souls"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She advises releasing limiting preconceptions."
+    },
+    {
+      "id": "src-6f4abd2348fc-c03",
+      "assertion": "Yazhi identifies Ekata as a unique, non-sexed being able to occupy multiple timelines and parallel universes mentally.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": ["p0056", "p0060", "p0061", "p0063", "p0067"],
+      "primary_topic": "nexus-beings",
+      "topics": ["nexus-beings", "timeline-branching"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says the Federation rates nexus beings a 10/10 danger level."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Ekata's Viera habitat and Andromedan association", "nexus beings' reality-altering capabilities"]
+}

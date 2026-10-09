@@ -1,0 +1,73 @@
+{
+  "source_id": "src-359fd1aab210",
+  "snapshot_sha256": "f246939629a0c7ec93edc53938d4073772e9abf4af81c419cfbcf50e6cb3fd43",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-359fd1aab210-c01",
+      "assertion": "Yazhi describes “extraterrestrial sickness” as body-consciousness frequency mismatch and characterizes illness, including mental illness, as disalignment from Source.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010",
+        "p0012",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "extraterrestrial-syndrome",
+      "topics": [
+        "extraterrestrial-syndrome",
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as her explanatory framework."
+    },
+    {
+      "id": "src-359fd1aab210-c02",
+      "assertion": "Yazhi says the Van Allen belts form a low-frequency torus that holds Earth in a lower vibration; without it, Earth would return to 5D.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-359fd1aab210-c03",
+      "assertion": "She says ascension is individual and recommends inner work, forgiveness, and transcending duality rather than relying on material things for happiness.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension",
+        "shadow-work",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She frames happiness as arising within."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Contains speaker claims about illness causation and cancer; preserve attribution."
+  ],
+  "coverage_gaps": [
+    "claims about multidimensional memory and alternate timelines",
+    "mind’s location in ether"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "source_id": "src-65222f668774",
+  "snapshot_sha256": "f9c2360bd54155314072d914bc8a071c56c3393743a60d8b019bcfd1946f21d4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-65222f668774-c01",
+      "assertion": "Mari says astral parasites attach through vibrational compatibility, often linked to persistent low emotions and destructive thought patterns.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0007", "p0008"],
+      "primary_topic": "interdimensional-parasites",
+      "topics": ["interdimensional-parasites", "astral-entities"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as her account of attachment."
+    },
+    {
+      "id": "src-65222f668774-c02",
+      "assertion": "She recommends meditation, thought control, music, water, wind, herbs, and crystals to remove or deter such entities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0009", "p0010", "p0011", "p0012", "p0015", "p0017", "p0022"],
+      "primary_topic": "interdimensional-parasites",
+      "topics": ["interdimensional-parasites", "astral-entities"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says meditation and emotional self-control are most effective."
+    },
+    {
+      "id": "src-65222f668774-c03",
+      "assertion": "Mari describes parasitic entities as physical egregors sustained by repetitive thought and attention; interrupting those patterns can end their influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0023", "p0024", "p0028", "p0029", "p0031", "p0035", "p0036"],
+      "primary_topic": "egregors",
+      "topics": ["egregors", "interdimensional-parasites", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says they depend on attention from people strongly connected to Source."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["wind and water cleansing details", "other astral entity classes"]
+}

@@ -1,0 +1,72 @@
+{
+  "source_id": "src-c2bd4709b67f",
+  "snapshot_sha256": "32b43ba41edb3ce6cedd6b6dab103695411f03f35cac5a1e039d82bfa2ce9bd7",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c2bd4709b67f-c01",
+      "assertion": "Za’el says harsh self-talk can damage self-esteem and reinforce self-sabotage because repeated words shape the unconscious and, in his view, reality.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0014",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He cites studies on negative comments."
+    },
+    {
+      "id": "src-c2bd4709b67f-c02",
+      "assertion": "He says words directed at others can encourage them or deepen distress, particularly when they feel mentally vulnerable.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0015",
+        "p0020"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He says the impact depends on the listener."
+    },
+    {
+      "id": "src-c2bd4709b67f-c03",
+      "assertion": "Za’el recommends objective, compassionate phrasing: describe difficulty rather than declaring failure, and name positive aspects without denying problems.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0025",
+        "p0027",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He recommends practicing this consistently."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "positive self-talk and self-worth examples",
+    "personal boundaries against harmful declarations"
+  ]
+}

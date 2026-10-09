@@ -1082,6 +1082,24 @@ Source: [NAVEGACIÓN ESTELAR IV SALTO AL HIPERESPACIO - Athena Swaruu](https://s
 
 Related topics: [Starship systems](starship-systems.md), [Ship internal time](ship-internal-time.md).
 
+### src-9d897870bbf8-c02
+
+Mari Swaruu says the same survey found other portals mainly inside or above government buildings, hospitals, and police stations. She attributes these findings to Taygetan drone scans.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Portales Paranormales, los portales que todos hacemos parte 3](https://swaruu.org/transcripts/portales-paranormales-los-portales-que-todos-hacemos-parte-3) (2023-01-22; es); passages p0029. [Structured record](../../records/src-9d897870bbf8.json).
+
+Related topics: [Spherical drones](spherical-drones.md).
+
+### src-e2289d05d7a8-c02
+
+Yazhi says hostile regressive groups use large portals and needle-nosed Draconian fighters; smaller Reptilian and non-Alpha-Draconian craft also move within Earth. She distinguishes these hostile elements from routine Reptilian traffic.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Naves Nodrizas de Orión Entrando la Tierra? No esta pasando NADA - Yazhi Swaruu](https://swaruu.org/transcripts/naves-nodrizas-de-orion-entrando-la-tierra-no-esta-pasando-nada-yazhi-swaruu) (2023-02-16; es); passages p0007. [Structured record](../../records/src-e2289d05d7a8.json).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c04](frequency-map-navigation.md#src-426ea469937a-c04) — Frequency-map navigation
@@ -1144,6 +1162,9 @@ Related topics: [Starship systems](starship-systems.md), [Ship internal time](sh
 - [src-947a557da420-c03](artificial-portals.md#src-947a557da420-c03) — Artificial portals
 - [src-6fff99fdbd26-c01](pyramid-network.md#src-6fff99fdbd26-c01) — Pyramid energy and portal network
 - [src-0f5047c8c5f2-c01](frequency-map-navigation.md#src-0f5047c8c5f2-c01) — Frequency-map navigation
+- [src-9d897870bbf8-c01](spherical-drones.md#src-9d897870bbf8-c01) — Spherical drones
+- [src-690730c29818-c01](energy-generation.md#src-690730c29818-c01) — Energy generation technology
+- [src-cadb5ca8cdb8-c04](astral-entities.md#src-cadb5ca8cdb8-c04) — Astral entities
 
 ## Review flags
 
@@ -1181,6 +1202,7 @@ Related topics: [Starship systems](starship-systems.md), [Ship internal time](sh
 - extraordinary\_claims
 - extraordinary\_cosmology\_claims
 - extraordinary\_history\_claims
+- fictional-ancient-energy-and-propulsion-claims
 - flight-19-explanation-uncertain
 - frequency-portal-physics-claims
 - giza-base-account
@@ -1192,6 +1214,7 @@ Related topics: [Starship systems](starship-systems.md), [Ship internal time](sh
 - navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
 - near-duplicate:src-d328a6c23916
 - paranormal-claims-unverified
+- paranormal-portal-claims
 - particle-vs-carrier-speed-distinction
 - portal-energy-estimates-attributed
 - portal-location-and-destination-vary
@@ -1213,6 +1236,7 @@ Related topics: [Starship systems](starship-systems.md), [Ship internal time](sh
 - speaker-accounts-of-monolith-origin-differ
 - speaker-shifts-Aneeka-Athena-Yazhi
 - speaker\_attribution
+- species-and-hostility-distinctions-preserved
 - species-taxonomy-ambiguous
 - starspot-portal-model-spans-two-speakers
 - symbolic-interpretation-attributed-to-Swaruu9

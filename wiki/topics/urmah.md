@@ -1153,6 +1153,7 @@ Related topics: [Combat doctrine](combat-doctrine.md).
 - [src-cfb8d4ba70e4-c01](galactic-federation.md#src-cfb8d4ba70e4-c01) — Galactic Federation
 - [src-33c7243bf8a8-c01](galactic-federation.md#src-33c7243bf8a8-c01) — Galactic Federation
 - [src-25df1865ec2d-c05](giza-labyrinth.md#src-25df1865ec2d-c05) — Giza Labyrinth
+- [src-2e44af6cf865-c01](cultivated-meat.md#src-2e44af6cf865-c01) — Cultivated meat
 
 ## Review flags
 
@@ -1183,6 +1184,7 @@ Related topics: [Combat doctrine](combat-doctrine.md).
 - federation-control-and-nonintervention-tension
 - federation-role-speaker-contrast
 - federation-role-variation
+- food-claims-context
 - genetic-weapon-causation-speculative
 - giza-base-account
 - historical-claims-unverified

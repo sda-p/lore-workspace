@@ -1,0 +1,92 @@
+{
+  "source_id": "src-c1b49a077026",
+  "snapshot_sha256": "d3f17c9fd8881bf2671791f296c0eaeff60521edfc5b816a70e8cc30a45606ac",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c1b49a077026-c01",
+      "assertion": "Mari Swaruu describes the universe as one timeless potential-energy field, likened to highly vibrational water, with consciousness generating forms and distinctions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1b49a077026-c02",
+      "assertion": "She defines gravity as consciousness-attention flow that concentrates potential energy into mass, rather than mass producing gravity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1b49a077026-c03",
+      "assertion": "She says coded harmonics create standing waves that form particles and give them unique attributes; apparent particle types are variations of one primordial field.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0019",
+        "p0020"
+      ],
+      "primary_topic": "atomic-wave-structure",
+      "topics": [
+        "atomic-wave-structure"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c1b49a077026-c04",
+      "assertion": "She treats density realms and parallel universes as mental divisions of one whole; objects and time arise through consciousness-based numerical relations.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Mari Swaruu explicitly contrasts her gravity model with conventional terrestrial physics."
+  ],
+  "coverage_gaps": [
+    "stationary-wave mechanics",
+    "harmonic fields as music",
+    "matter and energy distinctions"
+  ]
+}

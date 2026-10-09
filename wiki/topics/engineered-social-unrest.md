@@ -261,6 +261,8 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-f4178a54647e-c01](earth-cabal.md#src-f4178a54647e-c01) — Earth Cabal and power structures
 - [src-869fdf1c4001-c02](vlash-vlad-vrill-clans.md#src-869fdf1c4001-c02) — Vlash, Vlad and Vrill clans
 - [src-0f643414e014-c02](earth-cabal.md#src-0f643414e014-c02) — Earth Cabal and power structures
+- [src-026b0b5b32ce-c02](false-alien-invasion.md#src-026b0b5b32ce-c02) — False alien invasion scenarios
+- [src-e33e26096a8a-c02](holistic-society.md#src-e33e26096a8a-c02) — Holistic society
 
 ## Review flags
 
@@ -282,6 +284,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - medical-and-vaccine-misinformation-omitted
 - medical-lore
 - source makes disputed wartime claims based on an asserted brief observation; not independently verified
+- speculative-false-invasion-scenario
 - tension:planned-outcomes-vs-human-agency
 - translation-counterpart-unconfirmed
 - translation-counterpart:src-50afee47b8a2-close-full

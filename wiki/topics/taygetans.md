@@ -2914,6 +2914,74 @@ Source: [Mini Temas - Información Extraterrestre - Tertulia con Gosia](https://
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-f10960087bcd-c01
+
+Yazhi says Taygeta began during the Great Expansion with settlers who already had interstellar technology. She disputes an 850,000-year date as unmeasurable.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Informacion de los Extraterrestres - Minitemas con Gosia de Agencia Cosmica](https://swaruu.org/transcripts/informacion-de-los-extraterrestres-minitemas-con-gosia-de-agencia-cosmica) (2023-03-13; es); passages p0033, p0041. [Structured record](../../records/src-f10960087bcd.json).
+
+Related topics: [Lyran expansion](lyran-expansion.md), [Orion Wars](orion-wars.md).
+
+### src-a06f28bdaffd-c01
+
+Mari describes Taygeteans as humanoid Lyrians and Swaruunianas as a genetically distinct, all-female Taygetan variant. She cites 24-strand DNA and 24 chromosomes for Swaruunianas.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Presentación del canal](https://swaruu.org/transcripts/presentacion-del-canal) (2022-12-11; es); passages p0004, p0005. [Structured record](../../records/src-a06f28bdaffd.json).
+
+Related topics: [Alien species and distinctions](alien-species.md), [Crystalline DNA and proto-silicon biology](crystalline-dna.md).
+
+### src-a06f28bdaffd-c02
+
+She says Taygetan expedition members began a human Internet first-contact program in 2016, seeking person-to-person communication and friendship. The account says hundreds would participate.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Presentación del canal](https://swaruu.org/transcripts/presentacion-del-canal) (2022-12-11; es); passages p0006. [Structured record](../../records/src-a06f28bdaffd.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-a06f28bdaffd-c03
+
+Mari says this channel will publish Taygetan and Swaruunian conversations directly, without human interpreters' commentary. She cites prior publishers' distortions and incomplete interpretations.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Presentación del canal](https://swaruu.org/transcripts/presentacion-del-canal) (2022-12-11; es); passages p0008, p0009. [Structured record](../../records/src-a06f28bdaffd.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-a688a6bed26b-c02
+
+She identifies Taygetans and Elohi among groups called Anunnaki, based on Taygetan historical understanding. Not presented as established history.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Anunnaki - Quienes son realmente? Perspectiva Extraterrestre](https://swaruu.org/transcripts/anunnaki-quienes-son-realmente-perspectiva-extraterrestre) (2023-03-09; es); passages p0005, p0006. [Structured record](../../records/src-a688a6bed26b.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-b00522037437-c01
+
+Mari says the Saska supply ship replenished Toleka and other Taygetan deep-space vessels on February 15, 2023. Mari’s account.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/transcripts/za-el-y-arien-nuevos-companeros-en-la-toleka) (2023-02-25; es); passages p0002, p0003. [Structured record](../../records/src-b00522037437.json).
+
+Related topics: [Starship systems](starship-systems.md).
+
+### src-b00522037437-c04
+
+She says the cadets plan an independent YouTube channel under her guidance and have prior “Step Down” experience.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/transcripts/za-el-y-arien-nuevos-companeros-en-la-toleka) (2023-02-25; es); passages p0006, p0007. [Structured record](../../records/src-b00522037437.json).
+
 ## Claims filed under other topics
 
 - [src-7d64347f0d71-c04](prime-directive.md#src-7d64347f0d71-c04) — Prime Directive
@@ -3200,6 +3268,16 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - [src-4bd203cbfe4d-c03](karistus.md#src-4bd203cbfe4d-c03) — Karistus
 - [src-4bd203cbfe4d-c04](karistus.md#src-4bd203cbfe4d-c04) — Karistus
 - [src-e9adfed45e60-c04](galactic-federation.md#src-e9adfed45e60-c04) — Galactic Federation
+- [src-509a0d643adf-c02](taygetan-first-contact-project.md#src-509a0d643adf-c02) — Taygetan First Contact Project
+- [src-5cc044e9f243-c01](taygetan-first-contact-project.md#src-5cc044e9f243-c01) — Taygetan First Contact Project
+- [src-4e74e1caea83-c02](swaruunians.md#src-4e74e1caea83-c02) — Swaruunians
+- [src-4297ae6b09e2-c01](tractor-beams.md#src-4297ae6b09e2-c01) — Tractor beams
+- [src-e1a6716ab196-c03](alien-species.md#src-e1a6716ab196-c03) — Alien species and distinctions
+- [src-6ddd10d07e76-c02](holistic-society.md#src-6ddd10d07e76-c02) — Holistic society
+- [src-6ddd10d07e76-c03](extraterrestrial-contact.md#src-6ddd10d07e76-c03) — Extraterrestrial contact and disclosure
+- [src-e54847d402e6-c01](swaruunians.md#src-e54847d402e6-c01) — Swaruunians
+- [src-dd739a4e04c6-c03](swaruunians.md#src-dd739a4e04c6-c03) — Swaruunians
+- [src-a688a6bed26b-c03](alien-species.md#src-a688a6bed26b-c03) — Alien species and distinctions
 
 ## Review flags
 
@@ -3214,12 +3292,15 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
+- Contains extraordinary extraterrestrial and historical claims; attribute to speakers, not verified history.
 - Cyndriel time-difference mechanism remains unknown.
 - DNA-consciousness-causality-claim
+- Extraterrestrial identity claims are Mari Swaruu’s perspective and are not independently verified.
 - Federation-and-Taygetan-accounts-conflict-over-Earth-policy-and-consent
 - Federation-sanctions\_reported
 - Figures and ship status are Mari’s account as of August 2024
 - Genetic and chromosome claims are attributed fictional-world assertions
+- Grey-ancestry-uncertainty
 - Health and pathogen claims are Mari’s report; she expressly rejects conventional virus descriptions and alleges a spiritual attack
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
@@ -3232,6 +3313,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - Snapshot is English but marked originally in Spanish; no paired Spanish candidate is assigned
 - Species summaries are broad and based on accounts attributed to orbital sources
 - The account is Mari’s report; it describes a near-escalation without further reported consequences
+- The author explicitly invited readers to treat the content as fiction or entertainment.
 - The cloning and genetic-control statements are Swaruu’s claims.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
 - abduction-motive-varies
@@ -3258,6 +3340,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - cataclysm-history-attributed
 - causal-attribution-tension
 - claims-about-suppressed-contact-evidence
+- composite-english-spanish-transcript
 - computer-throughput-claim-attributed
 - conflict-causation-uncertain
 - conflicting\_origin\_accounts
@@ -3390,6 +3473,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - political-narrative\_attributed
 - prime-directive-attributed
 - procyon-proceon-name-distinction
+- project-dates-reported-with-variant
 - project-guidance-attributed-to-mari
 - quantum-mechanics-reinterpretation
 - quoted-speaker-attribution:NaiShara-quotes-Yazhi
@@ -3424,10 +3508,12 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - species-cosmology\_attributed
 - species-description\_attributed
 - species-emotional-ranges-attributed
+- species-genome-taxonomy-account
 - species-origin-model-attributed
 - species-taxonomy-contradiction
 - species-threat-description
 - species-trait-generalizations-attributed
+- species-variation-within-reptilians
 - species\_specific\_reproduction
 - speculative-biology-and-blood-group-claims
 - speculative-neurobiology-claims
@@ -3449,6 +3535,7 @@ Related topics: [Alien species and distinctions](alien-species.md).
 - translation-counterpart:src-cb985947b0e5-english-adds-p21-p22
 - translation\_approximation\_navajo\_inuit
 - unverified-contact-claims
+- unverified-cosmology-and-energy-claims
 - unverified-eclipse-portal-theory
 - unverified-encounter
 - unverified-historical-claims

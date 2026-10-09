@@ -110,6 +110,14 @@ Source: [RESPUESTAS AL TERRAPLANISMO – ANEEKA DE TEMMER \#latierraplana](https
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-cadb5ca8cdb8-c01
+
+Yazhi says HAARP operates continuously through distributed fixed and mobile units that combine signals to affect weather.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Información Extraterrestre - Minitemas con Gosia de Agencia Cósmica](https://swaruu.org/transcripts/informacion-extraterrestre-minitemas-con-gosia-de-agencia-cosmica) (2023-02-14; es); passages p0004, p0005, p0006, p0008. [Structured record](../../records/src-cadb5ca8cdb8.json).
+
 ## Claims filed under other topics
 
 - [src-5faa731bafee-c01](terrestrial-science.md#src-5faa731bafee-c01) — Terrestrial science

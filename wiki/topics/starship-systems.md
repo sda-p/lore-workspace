@@ -3256,6 +3256,112 @@ Source: [NAVEGACIÓN ESTELAR IV SALTO AL HIPERESPACIO - Athena Swaruu](https://s
 
 Related topics: [Gravity harmonics](gravity-harmonics.md).
 
+### src-85324cf8988c-c03
+
+Yazhi says replicators cannot make everything and may work better with material feedstock.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Comunidad de "Expertos" de Extraterrestres es una organización HUMANA - MiniTemas](https://swaruu.org/transcripts/comunidad-de-expertos-de-extraterrestres-es-una-organizacion-humana-minitemas) (2022-11-04; es); passages p0033. [Structured record](../../records/src-85324cf8988c.json).
+
+### src-c4eea8caf581-c02
+
+She says Swarupapriyananda inverted a ship’s frequencies to enter that realm, gathered readings, fled, and died as the vessel was destroyed.
+
+Attributed to **Yazhi**; reported; extraction confidence: high.
+
+Source: [EXTRATERRESTRE ME CUENTA UN INCREÍBLE RELATO SOBRE EL LUGAR MAS ATERRADOR - Yazhi Swaruu](https://swaruu.org/transcripts/extraterrestre-me-cuenta-un-increible-relato-sobre-el-lugar-mas-aterrador-yazhi-swaruu) (2022-12-22; es); passages p0012, p0023, p0025, p0030. [Structured record](../../records/src-c4eea8caf581.json).
+
+### src-cdacb8b863b2-c01
+
+Yazhi distinguishes chemtrail graphene from separate, mostly inert borosilicate strands she attributes to plasma-jet ships condensing atmospheric dust.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [FIBRAS QUE CAEN DEL CIELO - LUCES AZULES - EL MUNDIAL 2022 - CRIPTOMONEDAS - Yazhi Swaruu](https://swaruu.org/transcripts/fibras-que-caen-del-cielo-luces-azules-el-mundial-2022-criptomonedas-yazhi-swaruu) (2022-12-10; es); passages p0004, p0006, p0007, p0009, p0016, p0018. [Structured record](../../records/src-cdacb8b863b2.json).
+
+### src-0c6bce18eafe-c04
+
+She says ship computers use hull interferometers to sample local and onboard frequencies; gradual transitions let the Toleka reach Temmer in about seven hours.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [EL ADN COMO REFLEJO DE LA CONSCIENCIA Y MAS COSAS - Yazhi Swaruu](https://swaruu.org/transcripts/el-adn-como-reflejo-de-la-consciencia-y-mas-cosas-yazhi-swaruu) (2023-03-08; es); passages p0036, p0038. [Structured record](../../records/src-0c6bce18eafe.json).
+
+### src-8ec5d64a368a-c03
+
+Yazhi said Toleka’s shields preserve air pressure at 1.2 bar while large hangar panels open to space.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [Vida Interestelar 1 - Toleka - Nave Estelar de Taygeta (Pleyades)](https://swaruu.org/transcripts/vida-interestelar-1-toleka-nave-estelar-de-taygeta-pleyades) (2023-02-25; es); passages p0140, p0141, p0142. [Structured record](../../records/src-8ec5d64a368a.json).
+
+### src-0507724a6bee-c04
+
+Its central park has a recirculating river, plant-support lighting, and systems for wind, rain, and mist.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Porqué Minecraft, Área de albercas y Jardín Central](https://swaruu.org/transcripts/porque-minecraft-area-de-albercas-y-jardin-central) (2023-01-28; es); passages p0030, p0031, p0033. [Structured record](../../records/src-0507724a6bee.json).
+
+### src-877d9746441a-c05
+
+She describes counter-rotating plasma engines and superconducting circuits forming a protective toroid.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar, Conceptos Básicos](https://swaruu.org/transcripts/navegacion-estelar-conceptos-basicos) (2022-12-23; es); passages p0027, p0029, p0030. [Structured record](../../records/src-877d9746441a.json).
+
+### src-7183e0787e25-c04
+
+Athena says disc craft use gravity and magnetic engines, lacking large plasma-jet protection and remaining vulnerable.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [Vida Interestelar 2 - Platillos Voladores - Información Extraterrestre](https://swaruu.org/transcripts/vida-interestelar-2-platillos-voladores-informacion-extraterrestre) (2023-04-14; es); passages p0030, p0036, p0038. [Structured record](../../records/src-7183e0787e25.json).
+
+Related topics: [Disc-shaped shuttle craft](disc-shaped-shuttles.md).
+
+### src-aabe7f4a77ff-c01
+
+Mari says each Taygetan crew member has a private cabin; ship AI can control its door, except when disabled. She says door control may be retained for emergencies.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Naves Taygeteanas, Habitaciones y aseos](https://swaruu.org/transcripts/naves-taygeteanas-habitaciones-y-aseos) (2023-03-03; es); passages p0004, p0006, p0008. [Structured record](../../records/src-aabe7f4a77ff.json).
+
+### src-aabe7f4a77ff-c02
+
+She describes cabin windows made from transparent, adjustable-opacity polymorphic hull material.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Naves Taygeteanas, Habitaciones y aseos](https://swaruu.org/transcripts/naves-taygeteanas-habitaciones-y-aseos) (2023-03-03; es); passages p0010, p0011. [Structured record](../../records/src-aabe7f4a77ff.json).
+
+### src-aabe7f4a77ff-c03
+
+She says toilets use ultrasonic cleaning bubbles and little water, avoiding toilet paper and self-disinfecting after use.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Naves Taygeteanas, Habitaciones y aseos](https://swaruu.org/transcripts/naves-taygeteanas-habitaciones-y-aseos) (2023-03-03; es); passages p0018, p0021, p0023, p0020. [Structured record](../../records/src-aabe7f4a77ff.json).
+
+### src-b00522037437-c02
+
+She says supply visits sometimes return crew finishing rotations and bring replacement crew.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/transcripts/za-el-y-arien-nuevos-companeros-en-la-toleka) (2023-02-25; es); passages p0004. [Structured record](../../records/src-b00522037437.json).
+
+### src-b00522037437-c03
+
+Mari identifies Arien and Za'el as new cadets arriving to learn shipboard life and study Earth from orbit.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Za'el y Arien, nuevos compañeros en la Toleka](https://swaruu.org/transcripts/za-el-y-arien-nuevos-companeros-en-la-toleka) (2023-02-25; es); passages p0005. [Structured record](../../records/src-b00522037437.json).
+
 ## Claims filed under other topics
 
 - [src-167f70192bac-c06](alien-species.md#src-167f70192bac-c06) — Alien species and distinctions
@@ -3510,10 +3616,23 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 - [src-1301f08e45a8-c03](crystal-core-zero-point-reactors.md#src-1301f08e45a8-c03) — Crystal-core zero-point reactors
 - [src-0f5047c8c5f2-c02](ship-internal-time.md#src-0f5047c8c5f2-c02) — Ship internal time
 - [src-0f5047c8c5f2-c04](natural-portals.md#src-0f5047c8c5f2-c04) — Natural and artificial portals
+- [src-756b0758c451-c02](toleka-class.md#src-756b0758c451-c02) — Toleka-class starships
+- [src-ca54384ffa82-c02](suzy-fighter-craft.md#src-ca54384ffa82-c02) — Suzy fighter craft
+- [src-5ed98072b8ce-c02](replicators.md#src-5ed98072b8ce-c02) — Replicators
+- [src-d8bc3b414a4c-c01](artificial-portals.md#src-d8bc3b414a4c-c01) — Artificial portals
+- [src-d8bc3b414a4c-c04](solar-portal-transit.md#src-d8bc3b414a4c-c04) — Solar portal transit
+- [src-8ec5d64a368a-c02](toleka-class.md#src-8ec5d64a368a-c02) — Toleka-class starships
+- [src-0507724a6bee-c01](toleka-class.md#src-0507724a6bee-c01) — Toleka-class starships
+- [src-0507724a6bee-c02](toleka-class.md#src-0507724a6bee-c02) — Toleka-class starships
+- [src-0507724a6bee-c03](toleka-class.md#src-0507724a6bee-c03) — Toleka-class starships
+- [src-aabe7f4a77ff-c04](energy-generation.md#src-aabe7f4a77ff-c04) — Energy generation technology
+- [src-b00522037437-c01](taygetans.md#src-b00522037437-c01) — Taygetans
 
 ## Review flags
 
 - 3d-to-5d-transition
+- A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
+- Accounts come from different speakers and conversations; claims remain attributed to each speaker.
 - Alcohol claims and spiritual effects are Mari’s assertions; avoid generalizing to all Alfratans
 - Alenym-retirement-not-decided
 - Athena-interview-original-English
@@ -3530,12 +3649,17 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 - Federation-infiltration\_theory
 - ISS-and-station-fabrication-allegation
 - Maitre\_relationship\_with\_Reptilians
+- Navigation and propulsion descriptions are attributed to Mari Swaruu, not independently verified.
 - No English counterpart found in the cached sources.
 - Nuclear policy account leaves Hiroshima/Nagasaki exception unresolved; reported intervention evidence is qualified.
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
 - Senetre-diagnosed-weapon-route-suspected
 - Snapshot metadata says originally in Spanish, while supplied transcript is English; no paired candidate available
+- Technology and energy claims are attributed to Mari Swaruu and are not independently verified.
 - The alleged strike and factional attribution are unverified within the source
+- The dialogue distinguishes an individual’s mental state from collective psychic influence; the author says effects are psychological, not physical.
+- The ship’s layout and current equipment are described at different dates and may have changed.
+- The transcript presents the reverse-universe account as Yazhi’s cosmological claim and acknowledges she lacks a complete technical explanation.
 - Travel-time figures are speaker-provided examples and depend on vessel and route
 - Weapon and defense capabilities are source-attributed technical claims
 - Yazhi-interview-report
@@ -3640,6 +3764,7 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 - pathogen-claim\_attributed
 - pentagon-disclosure-motive-speculation
 - personal-childhood-anecdote
+- personal-narrative-of-temporal-travel
 - personal\_accusations
 - personal\_metaphysics
 - pilot-account-attributed
@@ -3653,10 +3778,13 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 - positronic-wave-source-disputed-with-alcyone-claims
 - possible-overlap-with-src-cd1fcaa78711
 - procedure-description
+- quarantine-policy-vs-practice
 - radiation-causation-allegations
 - reactor-mechanism-attributed
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related-frequency-navigation-source
+- replicator-technology-account
+- reported-UFO-community-allegation
 - same-language-near-duplicate-src-6a5223076196
 - same-language-near-duplicate-src-735f991fe169
 - satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
@@ -3674,6 +3802,7 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 - source-speaker-shift-dhor-to-yazhi
 - space\_suit\_claims\_unverified
 - spaceflight-science-misinformation-claims
+- speaker-labels-preserved
 - speaker-split: Anéeka initial claim; Swaruu follow-up explanation
 - speaker: interviewer prompts excluded as claims
 - species-description\_attributed

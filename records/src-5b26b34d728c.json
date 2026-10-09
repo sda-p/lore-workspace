@@ -1,0 +1,87 @@
+{
+  "source_id": "src-5b26b34d728c",
+  "snapshot_sha256": "f0c8e7d6064e8aea8c6973b7ac1bc5dbf1b08bd5c723013f9919e0b443d7ab82",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-5b26b34d728c-c01",
+      "assertion": "Za’el says destiny is both fixed and changeable by perspective: resisting a predicted outcome may itself have been part of one’s plan.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b26b34d728c-c02",
+      "assertion": "She argues present choices shape the future, and repeated hardship may continue until someone changes its meaning or underlying beliefs.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b26b34d728c-c03",
+      "assertion": "She says temporal linearity fades as perspective expands, though self-perception preserves an individual context.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0005",
+        "p0006"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-5b26b34d728c-c04",
+      "assertion": "She cautions that no one can know another’s soul agreements, so help should be supportive without becoming invasive.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0020",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "soul-loop-reincarnation",
+      "topics": [
+        "soul-loop-reincarnation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Za’el calls her account a personal view and says she is open to changing it."
+  ],
+  "coverage_gaps": [
+    "time’s relation to incarnations",
+    "specific destiny example",
+    "intervention in another person’s timeline"
+  ]
+}

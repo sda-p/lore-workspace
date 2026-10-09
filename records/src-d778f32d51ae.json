@@ -1,0 +1,71 @@
+{
+  "source_id": "src-d778f32d51ae",
+  "snapshot_sha256": "7655d405fa72d3791d5838051b74e035e2ff7cfa04365a40896508ecea29bbeb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d778f32d51ae-c01",
+      "assertion": "Athena called 3D and 5D human simplifications; she said individuals perceive personal frequency ranges and shared agreements create overlapping realities.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She noted her concepts differ from Taygetan views."
+    },
+    {
+      "id": "src-d778f32d51ae-c02",
+      "assertion": "Athena said “all is astral” from an expanded perspective, while distinguishing physical and astral realms remains valid from a practical Earth perspective.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d778f32d51ae-c03",
+      "assertion": "Athena said elementals may be imperceptible to ordinary senses yet interact physically; she claimed spacecraft gravity sensors can detect their mass.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "elementals",
+      "topics": [
+        "elementals",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims about elementals and gravity sensing are attributed to Athena."
+  ],
+  "coverage_gaps": [
+    "Her discussion of ego as a body and perceptual growth"
+  ]
+}

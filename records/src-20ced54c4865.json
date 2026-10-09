@@ -1,0 +1,76 @@
+{
+  "source_id": "src-20ced54c4865",
+  "snapshot_sha256": "218a0ae37b689e11750c3808291d9ccc461b8fa29d2b4c5675ba37274585e1c2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-20ced54c4865-c01",
+      "assertion": "Yazhi said the Federation still dominates the region but its local branch no longer controls events on Earth; she said the current controller is unknown.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "higher-federation-councils"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She said the identity of the controller was speculative."
+    },
+    {
+      "id": "src-20ced54c4865-c02",
+      "assertion": "She denied Alcyone is in charge, saying that would place Alenym in local control, which she said is not the case.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0011"
+      ],
+      "primary_topic": "alcyone-council",
+      "topics": [
+        "alcyone-council",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-20ced54c4865-c03",
+      "assertion": "Yazhi speculated that nuclear-threat displays could use conventional high-yield explosives instead; she said Hiroshima-related claims cannot be verified.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "nuclear-weapons-claims",
+      "topics": [
+        "nuclear-weapons-claims",
+        "earth-cabal"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "nuclear-weapons-claims",
+      "name": "Nuclear weapon claims",
+      "kind": "military technology claim",
+      "aliases": [
+        "nuclear threats",
+        "nuclear explosion claims"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Yazhi’s statements on nuclear weapons and Hiroshima are unverified claims; she explicitly said there was no way to confirm them."
+  ],
+  "coverage_gaps": [
+    "Her statements on insect diets and low-frequency organisms"
+  ]
+}

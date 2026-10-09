@@ -1,0 +1,88 @@
+{
+  "source_id": "src-6338db41254a",
+  "snapshot_sha256": "9042e7e2d79433a3681d7d5388647ab1ba6d754bb309ee615a3caf3843a632ad",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6338db41254a-c01",
+      "assertion": "Swaruu (9) says Triton’s subsurface life draws on geothermal energy; Andromedans allegedly towed it into retrograde orbit as a Neptune counterweight.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0010",
+        "p0014",
+        "p0018"
+      ],
+      "primary_topic": "neptune",
+      "topics": [
+        "neptune"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6338db41254a-c02",
+      "assertion": "She describes Ceres, formerly Tiamat’s moon, as hosting Federation bases and cities for ship resupply, repairs, and trade.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0025",
+        "p0028",
+        "p0038",
+        "p0047"
+      ],
+      "primary_topic": "ceres",
+      "topics": [
+        "ceres"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6338db41254a-c03",
+      "assertion": "She describes O’ha’lu as a subterranean Mantis civilization under tiered councils; despite claimed neutrality, it has negative treaties and Federation monitoring.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0075",
+        "p0090",
+        "p0103",
+        "p0107"
+      ],
+      "primary_topic": "o-halu",
+      "topics": [
+        "o-halu"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6338db41254a-c04",
+      "assertion": "She attributes the solar system’s apparent missing mass to Kuiper Belt debris plus O’ha’lu, but says this falls short of human gravitational estimates.",
+      "speaker": "Swaruu (9)",
+      "paragraph_ids": [
+        "p0092",
+        "p0093",
+        "p0095",
+        "p0096",
+        "p0097"
+      ],
+      "primary_topic": "o-halu",
+      "topics": [
+        "o-halu"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Swaruu (9) says the O’ha’lu Mantis are related to but distinct from Mars Mantis; she describes their role in human extraction as indirect through sauroid raiders’ use of their bases."
+  ],
+  "coverage_gaps": [
+    "Eris as protected life zone",
+    "Haumea mining",
+    "Neptune rings and asteroid capture"
+  ]
+}

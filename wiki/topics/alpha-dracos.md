@@ -14,7 +14,21 @@ These collections share labels; that alone does not establish identical entities
 
 ## Collected claims
 
-Primary assertions are filed under the linked topics below.
+### src-84a01b336feb-c01
+
+Yazhi says Alpha Draco spacecraft influenced Earth’s dragon legends and that they visited humans worldwide.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Alpha Dracos, Dragones, y Lengua Taygeteana - Minitemas con Gosia](https://swaruu.org/transcripts/alpha-dracos-dragones-y-lengua-taygeteana-minitemas-con-gosia) (2023-04-21; es); passages p0007, p0009, p0012, p0013. [Structured record](../../records/src-84a01b336feb.json).
+
+### src-84a01b336feb-c02
+
+She says Alpha Dracos sometimes cooperated with humans and sometimes enslaved them. Current local groups are positive, she says.
+
+Attributed to **Yazhi Swaruu**; reported; extraction confidence: high.
+
+Source: [Alpha Dracos, Dragones, y Lengua Taygeteana - Minitemas con Gosia](https://swaruu.org/transcripts/alpha-dracos-dragones-y-lengua-taygeteana-minitemas-con-gosia) (2023-04-21; es); passages p0015, p0017, p0019. [Structured record](../../records/src-84a01b336feb.json).
 
 ## Claims filed under other topics
 
@@ -23,4 +37,5 @@ Primary assertions are filed under the linked topics below.
 
 ## Review flags
 
+- Alpha Draco and linguistic-history claims are attributed to Yazhi and are not independently verified.
 - reptilian-species-versus-reptile-egregor

@@ -388,6 +388,24 @@ Source: [LOS GRANDES MISTERIOS DE LAS PIRÁMIDES EGIPCIAS Y LA GRAN ESFINGE DE G
 
 Related topics: [Great Pyramid of Giza](great-pyramid-of-giza.md).
 
+### src-9b0e688f41d9-c04
+
+Federation files, she says, identify Shiva as an Andromedan explorer; she links Shiva with exposing lies.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Astrología - Plutón entrando en Acuario - Perspectiva Extraterrestre](https://swaruu.org/transcripts/astrologia-pluton-entrando-en-acuario-perspectiva-extraterrestre) (2023-02-05; es); passages p0016, p0135. [Structured record](../../records/src-9b0e688f41d9.json).
+
+Related topics: [Distant Solar System Objects](solar-system-objects.md).
+
+### src-5a2bf7cc12f6-c04
+
+She says Shiva symbolizes exposing deception and speculates the Cabal tries to neutralize or redirect that energy.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [LA TIERRA NO ES PROPICIA PARA TENER SATÉLITES NATURALES - Yazhi Swaruu](https://swaruu.org/transcripts/la-tierra-no-es-propicia-para-tener-satelites-naturales-yazhi-swaruu) (2023-03-03; es); passages p0015, p0017. [Structured record](../../records/src-5a2bf7cc12f6.json).
+
 ## Claims filed under other topics
 
 - [src-8889af167782-c03](natural-portals.md#src-8889af167782-c03) — Natural and artificial portals
@@ -410,11 +428,16 @@ Related topics: [Great Pyramid of Giza](great-pyramid-of-giza.md).
 - [src-e62c02d313c5-c03](stellar-navigation.md#src-e62c02d313c5-c03) — Stellar navigation
 - [src-6fff99fdbd26-c03](great-pyramid-of-giza.md#src-6fff99fdbd26-c03) — Great Pyramid of Giza
 - [src-9c3e0642a4e2-c01](ritual-symbolism-in-media.md#src-9c3e0642a4e2-c01) — Ritual symbolism in toys and media
+- [src-88d2f8fd434d-c04](pluto.md#src-88d2f8fd434d-c04) — Pluto
 
 ## Review flags
 
+- Contains unsupported claims about Pluto bases, Federation classifications, motives, and Shiva’s identity; attribute to Swaruu (9).
 - No English translation counterpart identified; this source contains sweeping counter-historical claims, preserved here only as Swaruu’s attributed lore.
+- Pluto-Shiva-identification-attributed-to-Federation-records
 - Snapshot says originally in Spanish but supplies English transcript; no paired candidate compared
+- The two exchanges differ on the number of Federation bases on Pluto: p0003 says at least three, while p0009 describes one large base as the only physical feature; the discrepancy is unresolved.
+- Yazhi distinguishes her portal-technology claim, which does not require alignment, from alignment used in rituals.
 - alternate-interpretation-of-ancient-texts-attributed
 - alternative-history-claims-attributed
 - astronomical-claims-unverified

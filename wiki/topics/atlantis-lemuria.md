@@ -476,6 +476,16 @@ Source: [Atlantida y Lemuria - Invasion de Venus - Preguntas y Respuestas - \*\*
 
 Related topics: [Taygetans](taygetans.md), [Alcyone Council](alcyone-council.md).
 
+### src-d8bc3b414a4c-c03
+
+She dates Machu Picchu to over 15,000 years ago, links it to Atlantis, and attributes its construction to Usungal Reptilians for human followers.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Aneeka de Temmer - Puma Punku, Machu Pichu y mas - Bases Extraterrestres](https://swaruu.org/transcripts/aneeka-de-temmer-puma-punku-machu-pichu-y-mas-bases-extraterrestres) (2023-04-17; es); passages p0017, p0026, p0032. [Structured record](../../records/src-d8bc3b414a4c.json).
+
+Related topics: [Usungal](usungal.md).
+
 ## Claims filed under other topics
 
 - [src-4edf6c848c69-c03](tiamat.md#src-4edf6c848c69-c03) — Tiamat
@@ -504,9 +514,11 @@ Related topics: [Taygetans](taygetans.md), [Alcyone Council](alcyone-council.md)
 - [src-940f9935241e-c03](intra-terrestrial-agartha.md#src-940f9935241e-c03) — Agartha resistance network
 - [src-7e10fbdcd1c5-c01](tiamat.md#src-7e10fbdcd1c5-c01) — Tiamat
 - [src-b0c5455056ea-c03](ishtar-genetic-project.md#src-b0c5455056ea-c03) — Ishtar genetic project
+- [src-690730c29818-c01](energy-generation.md#src-690730c29818-c01) — Energy generation technology
 
 ## Review flags
 
+- A separate interjection by Yazhi attributes Tiahuanaco to Anunnaki/Sumerians; this record keeps Anéeka’s claims distinct.
 - Alternative ancient-history narrative; no independent corroboration in source.
 - Anéeka says surviving Tartaria evidence is regional and does not appear in offworld archives.
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
@@ -525,6 +537,7 @@ Related topics: [Taygetans](taygetans.md), [Alcyone Council](alcyone-council.md)
 - extraordinary\_conflict\_claims
 - extraordinary\_history\_claims
 - extraterrestrial-claims
+- fictional-ancient-energy-and-propulsion-claims
 - frequency\_health\_claims\_unverified
 - hidden-inner-earth-entrance-claim
 - highly-contested-history-claims-attributed

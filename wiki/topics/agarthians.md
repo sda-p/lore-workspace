@@ -28,6 +28,11 @@ Source: [RAZAS EXTRATERRESTRES en 5D (7) - AGARTHIANOS (Mensaje Pleyadiano-TAYGE
 
 Related topics: [Reptilians](reptilians.md), [Galactic Federation](galactic-federation.md).
 
+## Claims filed under other topics
+
+- [src-f3083d830387-c01](intra-terrestrial-agartha.md#src-f3083d830387-c01) — Agartha resistance network
+
 ## Review flags
 
 - contested-history
+- limited-evidence-extraction-account

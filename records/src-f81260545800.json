@@ -1,0 +1,68 @@
+{
+  "source_id": "src-f81260545800",
+  "snapshot_sha256": "d3e9d958387b19761522e6e0c40f12405ec24badadef5c2fda11c2dea0c9e88a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f81260545800-c01",
+      "assertion": "Churches and temples are described by Mari Swaruu as structures built over energetic sites and as potential portals to the lower astral.",
+      "speaker": "Swaruu de Erra (text read by Mari Swaruu)",
+      "paragraph_ids": [
+        "p0006",
+        "p0007",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "ley-line-energy-nodes",
+      "topics": [
+        "ley-line-energy-nodes",
+        "natural-portals",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as her spiritual cosmology."
+    },
+    {
+      "id": "src-f81260545800-c02",
+      "assertion": "Mari Swaruu warns that cemeteries may host lower-astral entities that can attach to living visitors, particularly children.",
+      "speaker": "Swaruu de Erra (text read by Mari Swaruu)",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her account, not established evidence."
+    },
+    {
+      "id": "src-f81260545800-c03",
+      "assertion": "Mari Swaruu says advanced civilizations can detect astral entities using interferometers, gravity and mass shifts, and advanced optical lenses; she suspects human systems can too.",
+      "speaker": "Swaruu de Erra (text read by Mari Swaruu)",
+      "paragraph_ids": [
+        "p0042",
+        "p0043"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities"
+      ],
+      "modality": "reported",
+      "confidence": "medium",
+      "qualifiers": "The human-technology claim is explicitly her suspicion."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source presents spiritual and paranormal claims as fact; preserve attribution."
+  ],
+  "coverage_gaps": [
+    "Other alleged dangerous locations and advice on alcohol, aura protection, and intuition omitted."
+  ]
+}

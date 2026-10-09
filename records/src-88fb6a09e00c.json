@@ -1,0 +1,77 @@
+{
+  "source_id": "src-88fb6a09e00c",
+  "snapshot_sha256": "88cff989b6cd3ec9199e8c743b0e68591d6aaf685708547af6e98f774590a3bd",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-88fb6a09e00c-c01",
+      "assertion": "Mari Swaruu describes replicators as machines that scan and copy objects but substitute available materials when exact components are absent.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0016",
+        "p0018",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "food-replicators",
+      "topics": [
+        "food-replicators"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of extraterrestrial technology."
+    },
+    {
+      "id": "src-88fb6a09e00c-c02",
+      "assertion": "Mari Swaruu claims replicated food may lack nutrients or contain toxic substitutes because complex organic structures cannot be accurately copied.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0023",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "food-replicators",
+      "topics": [
+        "food-replicators"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Unsupported food-safety claims, retained as attributed lore."
+    },
+    {
+      "id": "src-88fb6a09e00c-c03",
+      "assertion": "Mari Swaruu alleges food companies use replicators to mass-produce packaged foods, especially in China and large retail chains.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0026",
+        "p0027",
+        "p0030"
+      ],
+      "primary_topic": "food-replicators",
+      "topics": [
+        "food-replicators"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "An unsubstantiated allegation."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "food-replicators",
+      "name": "Food replicators",
+      "kind": "technology",
+      "aliases": [
+        "replicated food"
+      ]
+    }
+  ],
+  "review_flags": [
+    "The source makes unsupported food-toxicity and commercial-use claims; preserve attribution and do not present them as established food-safety facts."
+  ],
+  "coverage_gaps": [
+    "Other claims about additives and processed foods omitted."
+  ]
+}

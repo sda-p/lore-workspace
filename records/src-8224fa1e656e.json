@@ -1,0 +1,89 @@
+{
+  "source_id": "src-8224fa1e656e",
+  "snapshot_sha256": "4b0ae85fb1f0f38657e5fdf786e56ab293e76a5bac5610cff2e04da0ccb7a169",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8224fa1e656e-c01",
+      "assertion": "Za’el says people may settle on easy explanations from ignorance or fear, even when wise; truth-seeking requires patience and openness to error.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0005",
+        "p0006",
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0011",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8224fa1e656e-c02",
+      "assertion": "He advocates combining clear logic with self-knowledge to identify trauma, fear and bias before evaluating evidence.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0016",
+        "p0017",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8224fa1e656e-c03",
+      "assertion": "He regards intuition and telepathy as useful but fallible: personal expectations can shape signals, and telepathic communication may be blocked.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022",
+        "p0023"
+      ],
+      "primary_topic": "telepathic-channeling",
+      "topics": [
+        "telepathic-channeling",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8224fa1e656e-c04",
+      "assertion": "He says self-knowledge and shadow work help balance logic, intuition and heart in an open-ended search for truth.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Distress and survival responses behind avoidance",
+    "Telepathy as a skill and the risks of interpretive habits"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source_id": "src-43d84fdc44fd",
+  "snapshot_sha256": "3c29fc4dde157b30b8462abf7c90805e1f804429d5fc5abc0f7d1720bf6860d8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-43d84fdc44fd-c01",
+      "assertion": "Mari uses a definition of stupidity as harming oneself and others without apparent reason or personal benefit.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0011"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says this is a reference definition, not her own."
+    },
+    {
+      "id": "src-43d84fdc44fd-c02",
+      "assertion": "She links foolish actions to ego, overconfidence, and attachment to ideas that people defend personally.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0021"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43d84fdc44fd-c03",
+      "assertion": "She says helping others without personal stability can exhaust the helper, and urges setting limits.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0015"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-43d84fdc44fd-c04",
+      "assertion": "She recommends humility, revising beliefs, and meditation to reduce foolish actions; she calls enlightenment an antidote.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0028",
+        "p0030"
+      ],
+      "primary_topic": "individual-ascension",
+      "topics": [
+        "individual-ascension"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "emotional stability as a trigger",
+    "possible influence of entities"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "source_id": "src-e33e26096a8a",
+  "snapshot_sha256": "e0cff5b56d459e5d064dfeeae92d680600e399b6e634ad94271145a144b866a8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e33e26096a8a-c01",
+      "assertion": "Yazhi said shared agreements shape collective perception, while different groups can experience fractured timelines; she attributed this to differing reality rules.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0007",
+        "p0008"
+      ],
+      "primary_topic": "collective-timeline-influence",
+      "topics": [
+        "collective-timeline-influence",
+        "timeline-branching"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e33e26096a8a-c02",
+      "assertion": "Yazhi said social differences enrich culture, but fear-driven clashes between ideologies make society harmful and deepen conflict.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "holistic-society",
+      "topics": [
+        "holistic-society",
+        "engineered-social-unrest"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e33e26096a8a-c03",
+      "assertion": "Yazhi said humans repeat errors because past-life memories are unavailable and recorded history is manipulated; she described resets as a control method.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "civilizational-resets",
+      "topics": [
+        "civilizational-resets",
+        "memory-veil",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Time perception outside Earth and claims about personal powers"
+  ]
+}

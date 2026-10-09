@@ -1,0 +1,70 @@
+{
+  "source_id": "src-66fb35352fc6",
+  "snapshot_sha256": "b868f8f691c74a5edd107735eb041c8c91e822b2a14476ba5f05461e335bec46",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-66fb35352fc6-c01",
+      "assertion": "Mari Swaruu described Taygetan sphere drones as surveillance craft with autonomous AI; they can operate alone and communicate telemetry and video to a crewed mothership.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-66fb35352fc6-c02",
+      "assertion": "She described the common sphere as 110 cm wide, with a self-repairing polymorphic titanium shell, crystal-core zero-point reactor, and counter-rotating mercury-based turbines generating a toroidal gravity-distorting field.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0032",
+        "p0033"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "crystal-core-zero-point-reactors",
+        "red-mercury-gravity-turbines"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "The shell repairs only minor to moderate damage."
+    },
+    {
+      "id": "src-66fb35352fc6-c03",
+      "assertion": "Mari said Taygeta uses three drone sizes, from portable tactical spheres to larger craft; its common model has retractable plasma cannons but mainly monitors.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0035",
+        "p0036",
+        "p0037"
+      ],
+      "primary_topic": "spherical-drones",
+      "topics": [
+        "spherical-drones",
+        "black-raven-uav"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Crop-circle purposes and claimed starseed monitoring role"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source_id": "src-e1f1481fbc58",
+  "snapshot_sha256": "b615af942854e57d8caf7cfa8c37c8e554b696a4c952c13d319ecbf2e4500c3a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e1f1481fbc58-c01",
+      "assertion": "Mari uses “soul,” adma and katra without religious connotations, as accessible terms for a conscious point that can manifest reality.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0007"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1f1481fbc58-c02",
+      "assertion": "Her model describes souls as the Source itself, not smaller fragments, expressed as multiple points of attention within existence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0018",
+        "p0022",
+        "p0025"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "consciousness-singularity"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her metaphysical definition."
+    },
+    {
+      "id": "src-e1f1481fbc58-c03",
+      "assertion": "She says identity and perceived limits come from ideas and attachments; loosening ego-identification can enable enlightenment.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e1f1481fbc58-c04",
+      "assertion": "She says no words fully define a soul; it is directly experienced as consciousness.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "The holographic vase analogy",
+    "Time, other people and bodies without souls in her account"
+  ]
+}

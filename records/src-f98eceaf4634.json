@@ -1,0 +1,72 @@
+{
+  "source_id": "src-f98eceaf4634",
+  "snapshot_sha256": "356b238626ad16fc5b5f888e9e0e0e52b779bfd73e21e79cac83e65aa1a1d860",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f98eceaf4634-c01",
+      "assertion": "Athena said Earth’s importance lies in its human population and the learning of souls from many species sharing human lives, not resources or strategic value.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0010",
+        "p0012",
+        "p0026"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-f98eceaf4634-c02",
+      "assertion": "Yazhi described incarnations as voluntary soul experiences, with memory limits and uncertainty used to intensify emotion and test personal growth.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0043",
+        "p0044",
+        "p0047",
+        "p0053",
+        "p0056",
+        "p0057"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "memory-veil"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said each soul’s reasons and degree of choice vary."
+    },
+    {
+      "id": "src-f98eceaf4634-c03",
+      "assertion": "Yazhi said offworlders care about Earth’s people but should guide them rather than impose solutions; change should come from souls’ own values.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0072",
+        "p0073",
+        "p0074",
+        "p0075",
+        "p0084"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Federation oversight and misinformation about Earth"
+  ]
+}

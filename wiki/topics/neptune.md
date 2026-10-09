@@ -28,6 +28,15 @@ Source: [LOS SECRETOS DEL PLANETA NEPTUNO SUS LUNAS Y EL ASTEROIDE CERES ANTIGUA
 
 Related topics: [Tiamat](tiamat.md), [Andromeda Council](andromeda-council.md).
 
+### src-6338db41254a-c01
+
+Swaruu (9) says Triton’s subsurface life draws on geothermal energy; Andromedans allegedly towed it into retrograde orbit as a Neptune counterweight.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Neptuno, Ceres, y mas - Sistema Solar - Swaruu de Erra](https://swaruu.org/transcripts/neptuno-ceres-y-mas-sistema-solar-swaruu-de-erra) (2023-01-25; es); passages p0010, p0014, p0018. [Structured record](../../records/src-6338db41254a.json).
+
 ## Review flags
 
+- Swaruu (9) says the O’ha’lu Mantis are related to but distinct from Mars Mantis; she describes their role in human extraction as indirect through sauroid raiders’ use of their bases.
 - triton-placement-attributed-to-andromedans

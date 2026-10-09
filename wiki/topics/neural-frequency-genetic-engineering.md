@@ -38,12 +38,35 @@ Source: [Grafeno en las Vacunas - Anéeka de Temmer](https://swaruu.org/transcri
 
 Related topics: [Inoculation and genetic alteration claims](vaccine-inoculation-claims.md).
 
+### src-07f9f86e1027-c03
+
+Mari said Taygeta attributes most human genetic alteration to mental and perceptual control, which she claimed can be reversed through individual consciousness expansion.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Orígenes de la Raza Lyriana / Humana](https://swaruu.org/transcripts/origenes-de-la-raza-lyriana-humana) (2022-12-16; es); passages p0017, p0018. [Structured record](../../records/src-07f9f86e1027.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-2be77fc03489-c04
+
+Yazhi says DNA alteration can affect spiritual access and life plans, though changes may be preselected.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ADN - REFLEJO DE LA CONSCIENCIA - YAZHI SWARUU](https://swaruu.org/transcripts/adn-reflejo-de-la-consciencia-yazhi-swaruu) (2023-03-18; es); passages p0019, p0021, p0033. [Structured record](../../records/src-2be77fc03489.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bd6721b51e72-c03](vaccine-inoculation-claims.md#src-bd6721b51e72-c03) — Inoculation and genetic alteration claims
 - [src-9021de63c829-c01](vaccine-inoculation-claims.md#src-9021de63c829-c01) — Inoculation and genetic alteration claims
+- [src-2be77fc03489-c05](walk-in-phenomenon.md#src-2be77fc03489-c05) — Walk-in phenomenon
 
 ## Review flags
 
 - Claims about vaccines, DNA, and astral entities are attributed to Yazhi.
+- Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
 - Medical and genetic allegations are attributed claims; the speaker notes reliance on simulations rather than patient samples.
+- The author explicitly framed this material as entertainment or science fiction; claims are attributed to Mari.

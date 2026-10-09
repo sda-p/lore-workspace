@@ -1,0 +1,65 @@
+{
+  "source_id": "src-06cd5c8d1a9d",
+  "snapshot_sha256": "c31ed5bc5bde5eaa4609933428e331536a6aac89a7764e3612421e04bbc16ebb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-06cd5c8d1a9d-c01",
+      "assertion": "Yazhi defines souls or katras as perceptual ideas delimiting consciousness; all beings remain part of unified Source.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0003", "p0004", "p0006", "p0007"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "original-matrix"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06cd5c8d1a9d-c02",
+      "assertion": "She says forgetting enables distinct ego identity, which draws on present and past-life experiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0008", "p0010", "p0012", "p0015"],
+      "primary_topic": "memory-veil",
+      "topics": ["memory-veil", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06cd5c8d1a9d-c03",
+      "assertion": "Yazhi describes identical twins as one katra splitting into distinct identities through separate life experiences.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0018", "p0020", "p0021", "p0024"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "soul-loop-reincarnation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06cd5c8d1a9d-c04",
+      "assertion": "She says much soul fragmentation and fusion occurs between lives as empathetic katras share experiences and shape prenatal plans.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0025", "p0026", "p0027", "p0028", "p0036", "p0037"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "soul-loop-reincarnation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-06cd5c8d1a9d-c05",
+      "assertion": "Yazhi says indecision branches katras into multiple paths; between lives, perceived timelines overlap beyond ordinary time.",
+      "speaker": "Yazhi",
+      "paragraph_ids": ["p0039", "p0041", "p0042", "p0043", "p0044", "p0045"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "soul-loop-reincarnation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["twin telepathy and similar traits", "the unification of souls beyond fragmentation"]
+}

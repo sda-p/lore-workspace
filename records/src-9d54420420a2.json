@@ -1,0 +1,83 @@
+{
+  "source_id": "src-9d54420420a2",
+  "snapshot_sha256": "a0dfb2a0a69dedec174a11dfb128bc52e4b6c60f7ae18101d6d34812234c8b49",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-9d54420420a2-c01",
+      "assertion": "Anéeka describes maternal pods as liquid-filled incubators using life support, nutrients, and holograms to guide stem-cell development.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021",
+        "p0023"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d54420420a2-c02",
+      "assertion": "She says pod gestation lasts three months, producing an infant with a body developed to about 15 months but newborn-like behavior.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0022",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-9d54420420a2-c03",
+      "assertion": "She says some incoming stellar seeds risk maternal rejection from genetic and frequency mismatch; uterine-frequency nanochips maintain gestation.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0014",
+        "p0016"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says this occurs in many, but not all, cases."
+    },
+    {
+      "id": "src-9d54420420a2-c04",
+      "assertion": "She says adoptive carers provide contact and laboratory-produced breastmilk replicated from maternal cells.",
+      "speaker": "Anéeka",
+      "paragraph_ids": [
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "maternal-med-pods",
+      "topics": [
+        "maternal-med-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Anéeka distinguishes medically repaired pods from maternal pods with an umbilical nutrient and life-support system."
+  ],
+  "coverage_gaps": [
+    "pod types",
+    "implantation marks and chips",
+    "postnatal development"
+  ]
+}

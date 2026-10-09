@@ -108,17 +108,28 @@ Source: [Exopolítica con Alenym de Temmer - Liberación de la Tierra NO funcion
 
 Related topics: [Galactic Federation](galactic-federation.md), [Sentient starship AI](sentient-starship-ai.md).
 
+### src-e9a6108eaecc-c01
+
+Mari Swaruu distinguishes a nonphysical higher Federation of expanded selves and guides, existing beyond space-time, from the physical Galactic Federation.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Seres de luz, giro positivo, Parte dos, Federación Galáctica, Parte 6](https://swaruu.org/transcripts/seres-de-luz-giro-positivo-parte-dos-federacion-galactica-parte-6) (2023-03-31; es); passages p0004, p0005, p0006, p0010. [Structured record](../../records/src-e9a6108eaecc.json).
+
 ## Claims filed under other topics
 
 - [src-22febda7e5c0-c05](galactic-federation.md#src-22febda7e5c0-c05) — Galactic Federation
 - [src-598faa62de95-c01](galactic-federation.md#src-598faa62de95-c01) — Galactic Federation
 - [src-a8d6c63dc563-c02](galactic-federation.md#src-a8d6c63dc563-c02) — Galactic Federation
+- [src-20ced54c4865-c01](galactic-federation.md#src-20ced54c4865-c01) — Galactic Federation
 
 ## Review flags
 
 - Claims about Federation bureaucracy and a galactic AI network are attributed to Alenym; the transcript provides no independent evidence.
 - Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
+- The source explicitly separates the spiritual higher Federation from the physical Galactic Federation.
 - Yazhi’s account of higher-council governance and intervention is internally framed as perspective-dependent
+- Yazhi’s statements on nuclear weapons and Hiroshima are unverified claims; she explicitly said there was no way to confirm them.
 - exopolitical and refugee claims are attributed to Alenym and not independently verified
 - lore-claims-attributed-to-Aneeka
 - translation-counterpart: src-d0398aec7731; close full translation; similar-title source src-ba29b281f533 is a distinct later essay

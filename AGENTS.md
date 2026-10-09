@@ -4,6 +4,8 @@
 
 The user authorized Luna subagents for this lore-collection project. Extraction workers own only their assigned `records/<source-id>.json` files. Do not modify the ledger, shared topic registry, scripts, or Git state. The coordinator owns integration and publication. Topic editors own explicitly assigned wiki sections only.
 
+The user explicitly authorized pushing the current and all future collection checkpoints to `sda-p/lore-workspace`. Publish through the connected GitHub tools when command-line credentials are unavailable. Keep source transcript caches private, and check the remote branch head before advancing it.
+
 Original assignment files remain historical. Confirmed transfers of untouched sources are recorded by the coordinator in `work/handoffs.json` after the previous owner relinquishes them. `continuous.py shard-progress --batch <cohort> --worker <n>` applies this ownership overlay; its remaining source IDs are authoritative for extraction. Independent review assignments do not change with extraction handoffs.
 
 The coordinator owns shared partial checkpoints under `work/review-progress/`. Reviewers may run `review_checkpoint.py --check-only` to validate their private notes and obtain measured counts without writing shared files. Only the coordinator runs its mutating checkpoint mode.

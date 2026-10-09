@@ -1,0 +1,68 @@
+{
+  "source_id": "src-2dc5849bd700",
+  "snapshot_sha256": "45b7ed9ad48d9db8a9fec0f155b4c419a4e9285ec2b3401c00a602871df79124",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2dc5849bd700-c01",
+      "assertion": "Mari Swaruu identifies herself as a Swaruunian, a Taygetan genetic variant, and names Erra as her home planet in the Pleiades system.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "swaruunians",
+      "topics": [
+        "swaruunians",
+        "taygetans",
+        "taygetan-ecosystems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her self-description."
+    },
+    {
+      "id": "src-2dc5849bd700-c02",
+      "assertion": "Mari Swaruu says she lived on Earth as a “Step Down” from ages eight to thirteen before returning to her family aboard an orbiting mothership.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010"
+      ],
+      "primary_topic": "taygetans",
+      "topics": [
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her autobiographical account."
+    },
+    {
+      "id": "src-2dc5849bd700-c03",
+      "assertion": "Mari Swaruu says the Prime Directive restricts nonhumans from sharing advanced technology or decisive evidence, while allowing indirect inspiration through communication and telepathy.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0027",
+        "p0028"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation",
+        "telepathic-channeling"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of contact rules."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The first-person extraterrestrial identity and contact-policy claims are preserved as speaker claims."
+  ],
+  "coverage_gaps": [
+    "She also describes channel production, claimed languages, research sources, and personal experiences omitted."
+  ]
+}

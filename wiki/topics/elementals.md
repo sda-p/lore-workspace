@@ -76,6 +76,16 @@ Source: [ENERGÍAS NEGATIVAS COMO COMBATIRLAS Proteccion Espiritual - Sophia Swa
 
 Related topics: [Gravity harmonics](gravity-harmonics.md).
 
+### src-d778f32d51ae-c03
+
+Athena said elementals may be imperceptible to ordinary senses yet interact physically; she claimed spacecraft gravity sensors can detect their mass.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DENSIDADES CONVERSACIÓN METAFÍSICA – CONTACTO EXTRATERRESTRE- ATHENA SWARUU](https://swaruu.org/transcripts/densidades-conversacion-metafisica-contacto-extraterrestre-athena-swaruu) (2023-01-17; es); passages p0020, p0021, p0022, p0023. [Structured record](../../records/src-d778f32d51ae.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
 ## Claims filed under other topics
 
 - [src-4a19348a3734-c01](druidic-traditions.md#src-4a19348a3734-c01) — Druidic traditions
@@ -83,6 +93,7 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 
 ## Review flags
 
+- Claims about elementals and gravity sensing are attributed to Athena.
 - distinct-speaker-models-attributed
 - mental-health-and-protection-advice-excluded
 - paranormal-entity-claims-attributed

@@ -1,0 +1,124 @@
+{
+  "source_id": "src-2be77fc03489",
+  "snapshot_sha256": "61edc5cbb686f57163c0189c3031d75eb100583c472bd4b715a091a3377a9862",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-2be77fc03489-c01",
+      "assertion": "Yazhi describes DNA as crystalline antenna translating etheric consciousness into physical form.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "crystalline-dna",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2be77fc03489-c02",
+      "assertion": "She says DNA records prior experiences and reflects spiritual identity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0015",
+        "p0016"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2be77fc03489-c03",
+      "assertion": "Reading DNA memories requires frequency keys; only relevant memories may register.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0068",
+        "p0074",
+        "p0094",
+        "p0096"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2be77fc03489-c04",
+      "assertion": "Yazhi says DNA alteration can affect spiritual access and life plans, though changes may be preselected.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0019",
+        "p0021",
+        "p0033"
+      ],
+      "primary_topic": "neural-frequency-genetic-engineering",
+      "topics": [
+        "neural-frequency-genetic-engineering",
+        "dna-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2be77fc03489-c05",
+      "assertion": "Walk-ins may have their host DNA frequencies adjusted for the incoming soul.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0176",
+        "p0177",
+        "p0181"
+      ],
+      "primary_topic": "walk-in-phenomenon",
+      "topics": [
+        "walk-in-phenomenon",
+        "dna-metaphysics",
+        "neural-frequency-genetic-engineering"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-2be77fc03489-c06",
+      "assertion": "DNA may indicate frequency compatibility with a place, not ancestry or residence.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0133",
+        "p0146",
+        "p0148"
+      ],
+      "primary_topic": "dna-metaphysics",
+      "topics": [
+        "dna-metaphysics",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology."
+  ],
+  "coverage_gaps": [
+    "Claims about cloning, DNA scanning, and Taygetan technology omitted"
+  ]
+}

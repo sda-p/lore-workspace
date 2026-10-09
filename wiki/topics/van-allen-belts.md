@@ -94,6 +94,24 @@ Source: [LA NASA - MISIONES ARTEMISA - ES INVIABLE QUE EL HOMBRE LLEGUE A LA LUN
 
 Related topics: [Starship systems](starship-systems.md), [Artificial portals](artificial-portals.md).
 
+### src-651f2f5ca73c-c03
+
+She says Van Allen bands prevent ordinary 3D organic beings from leaving Earth without total-immersion toroidal electromagnetic technology.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ASTRONOMIA PORQUE LA TIERRA TIENE UNA LUNA - Athena Swaruu](https://swaruu.org/transcripts/astronomia-porque-la-tierra-tiene-una-luna-athena-swaruu) (2022-10-10; es); passages p0030. [Structured record](../../records/src-651f2f5ca73c.json).
+
+### src-b7eb9ccdc2c5-c03
+
+She says Van Allen radiation is measurable, while its “etheric barrier” depends on perception. She says crossing may depend on spiritual state, but notes uncertainty.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Cómo ve la Federación Galáctica lo que sucede en la Tierra. Primera parte, 1](https://swaruu.org/transcripts/como-ve-la-federacion-galactica-lo-que-sucede-en-la-tierra-primera-parte-1) (2023-03-17; es); passages p0021, p0024, p0025. [Structured record](../../records/src-b7eb9ccdc2c5.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
 ## Claims filed under other topics
 
 - [src-af62f6070aa7-c02](consciousness-metaphysics.md#src-af62f6070aa7-c02) — Consciousness and metaphysics
@@ -103,6 +121,7 @@ Related topics: [Starship systems](starship-systems.md), [Artificial portals](ar
 
 - Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
 - English source src-9dba344806dc is a close translation of this article. It groups some Spanish paragraphs differently and explicitly labels the opening speaker as Swaruu (9); no substantive differences found.
+- These are Mari Swaruu’s extraterrestrial claims and estimates, not independently verified.
 - Van Allen belts both set a baseline and can be transcended; preserve distinction.
 - alternative-cosmology-and-chronology-claims
 - claims about memory, brain structure, consciousness, and Van Allen belts are attributed lore, not independently verified facts

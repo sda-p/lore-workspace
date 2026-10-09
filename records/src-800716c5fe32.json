@@ -1,0 +1,67 @@
+{
+  "source_id": "src-800716c5fe32",
+  "snapshot_sha256": "2459ba3316a1b9ad4cd110df3ee6f9e28a8d7cacf97c81bdcb77cba0528a075c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-800716c5fe32-c01",
+      "assertion": "Alahi said he compared residents’ electromagnetic frequencies with city and planetary measurements to test whether collective consciousness shapes Earth.",
+      "speaker": "Alahi Eshtar de Erra",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0020"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This tested Yazhi’s theory."
+    },
+    {
+      "id": "src-800716c5fe32-c02",
+      "assertion": "Alahi claimed an average starseed influences the collective field about as much as 1,500 ordinary humans; highly awakened ones may affect tens of thousands or more.",
+      "speaker": "Alahi Eshtar de Erra",
+      "paragraph_ids": [
+        "p0021",
+        "p0029"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He described these as estimates from his measurements."
+    },
+    {
+      "id": "src-800716c5fe32-c03",
+      "assertion": "He said starseeds influence Earth’s collective field simply by existing; connecting with peers amplifies them, though the human average can pull them down.",
+      "speaker": "Alahi Eshtar de Erra",
+      "paragraph_ids": [
+        "p0038",
+        "p0039",
+        "p0043"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "collective-timeline-influence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Numerical influence estimates and the measurement interpretation are attributed to Alahi."
+  ],
+  "coverage_gaps": [
+    "Regional estimates of starseed concentrations"
+  ]
+}

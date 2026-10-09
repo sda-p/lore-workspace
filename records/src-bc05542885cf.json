@@ -23,13 +23,14 @@
     },
     {
       "id": "src-bc05542885cf-c02",
-      "assertion": "She says birds may be especially susceptible because of magnetic navigation sensors, and that awareness can resist imposed signals, though sufficiently strong signals may overwhelm it.",
+      "assertion": "She says birds may be more susceptible because of magnetic navigation, while awareness can resist signals unless they are too strong.",
       "speaker": "Yazhi",
       "paragraph_ids": [
         "p0010",
         "p0016",
         "p0022",
-        "p0024"
+        "p0024",
+        "p0036"
       ],
       "primary_topic": "gwen-towers",
       "topics": [
@@ -37,7 +38,7 @@
       ],
       "modality": "speculative",
       "confidence": "high",
-      "qualifiers": ""
+      "qualifiers": "A later update reports no sensor evidence for animal-directed control."
     }
   ],
   "proposed_topics": [],

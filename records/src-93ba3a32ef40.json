@@ -1,0 +1,71 @@
+{
+  "source_id": "src-93ba3a32ef40",
+  "snapshot_sha256": "d527ddaf15f1450095de1f695b48717d3521ad72907bdb0bc4b0cb5518a26072",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-93ba3a32ef40-c01",
+      "assertion": "Yazhi argued that human “nuclear weapons” are energy weapons, disputing the conventional fission-chain model while acknowledging radioactive decay can release heat.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0025",
+        "p0026",
+        "p0027"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-93ba3a32ef40-c02",
+      "assertion": "Yazhi rejected the claim that extraterrestrials first came to Earth because humans developed nuclear weapons, saying they had already been present.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0011",
+        "p0015",
+        "p0017"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "energy-generation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said claims about intervention and nuclear testing may use misleading terminology."
+    },
+    {
+      "id": "src-93ba3a32ef40-c03",
+      "assertion": "Yazhi speculated that some purported nuclear-explosion footage may be staged and interpreted its heat as plasma expansion or zero-point energy.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0041",
+        "p0042",
+        "p0043",
+        "p0044"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation"
+      ],
+      "modality": "speculative",
+      "confidence": "medium",
+      "qualifiers": "She said the footage’s authenticity was uncertain."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "distinctions among atomic, hydrogen, and other energy weapons"
+  ]
+}

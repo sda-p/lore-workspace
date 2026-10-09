@@ -1,0 +1,71 @@
+{
+  "source_id": "src-e62f2a423b11",
+  "snapshot_sha256": "43ac355ea8faad6d1f8a03fac4e0b5cfe9944cd024110f5bec9b34bec5e30341",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e62f2a423b11-c01",
+      "assertion": "Arishah says the Federation manipulates human perceptions and desires, thereby causing events on Earth that it claims merely to preserve.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0024"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation",
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e62f2a423b11-c02",
+      "assertion": "Arishah calls Alfrata's liberation a staged reset and says its past resembles Earth's, with both worlds repeatedly controlled by the Federation.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0027",
+        "p0028",
+        "p0029"
+      ],
+      "primary_topic": "civilizational-resets",
+      "topics": [
+        "civilizational-resets",
+        "alfrata",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He says Earth needs no liberation from anyone but the Federation."
+    },
+    {
+      "id": "src-e62f2a423b11-c03",
+      "assertion": "Arishah says Urmah monitor human-bodied and feline-bodied Urmah starseeds; domestic cats help protect adoptive families from lower-astral entities.",
+      "speaker": "Arishah",
+      "paragraph_ids": [
+        "p0036",
+        "p0037",
+        "p0038",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "urmah",
+      "topics": [
+        "urmah",
+        "starseeds",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He says human-bodied starseeds are monitored telepathically without direct contact."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Urmah proposed intervention scenarios",
+    "historical dispute over Tiamat"
+  ]
+}

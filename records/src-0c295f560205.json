@@ -1,0 +1,77 @@
+{
+  "source_id": "src-0c295f560205",
+  "snapshot_sha256": "180f0f01afd7e0286d91c387d3a429a59beed14d8f5b2b222c04fffd69c76a1e",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0c295f560205-c01",
+      "assertion": "Yazhi first blamed mind-control technology but later said videos were probably compilations and there was no evidence of animal-targeted signals; she said crowd control existed.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0035",
+        "p0036"
+      ],
+      "primary_topic": "electromagnetic-mind-influence",
+      "topics": [
+        "electromagnetic-mind-influence",
+        "5g-electromagnetic-weapons"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0c295f560205-c02",
+      "assertion": "She proposed brain-frequency interference could alter spatial perception; birds may be susceptible because of magnetic navigation.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "electromagnetic-mind-influence",
+      "topics": [
+        "electromagnetic-mind-influence",
+        "5g-electromagnetic-weapons"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She later said there was no animal-specific evidence."
+    },
+    {
+      "id": "src-0c295f560205-c03",
+      "assertion": "She said awareness helps resist imposed signals, though stronger systems could bury thoughts.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "electromagnetic-mind-influence",
+      "topics": [
+        "electromagnetic-mind-influence",
+        "aggressive-telepathy"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "electromagnetic-mind-influence",
+      "name": "Electromagnetic influence on perception",
+      "kind": "technology claim",
+      "aliases": [
+        "brainwave frequency modulation",
+        "electromagnetic mind control"
+      ]
+    }
+  ],
+  "review_flags": [
+    "The article revises its initial speculation: it reports no direct evidence of animal-specific control."
+  ],
+  "coverage_gaps": [
+    "Her discussion of crowd behavior and claims about channeling"
+  ]
+}

@@ -26,6 +26,18 @@ Source: [Mercurio, Venus y Guerra de Vietnam - Que Hay en Venus? Información Di
 
 Related topics: [Mercury](mercury.md).
 
+### src-1e383a05d9f2-c03
+
+She says stellar cycles reflect complex interactions among many systems; Sirius matters, but exact histories cannot be reliably tracked. She invokes ether dynamics.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [CRONOLOGÍA PLANETARIA DESDE LOS ULTIMOS 13.000 AÑOS - Athena Swaruu](https://swaruu.org/transcripts/cronologia-planetaria-desde-los-ultimos-13-000-anos-athena-swaruu) (2022-10-06; es); passages p0005, p0006, p0007, p0009. [Structured record](../../records/src-1e383a05d9f2.json).
+
 ## Claims filed under other topics
 
 - [src-1422880235ff-c04](sunspot-portals.md#src-1422880235ff-c04) — Sunspot portals
+
+## Review flags
+
+- Swaruu X explicitly rejects the interpretation that the Moon was placed primarily to imprison regressive races.

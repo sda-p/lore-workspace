@@ -1,0 +1,81 @@
+{
+  "source_id": "src-36aedc9049dc",
+  "snapshot_sha256": "aea9605150861ed2c5d23b2305881c7d5ae7e6453f53ae2fd94236a089321255",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-36aedc9049dc-c01",
+      "assertion": "Yazhi said artificial hybridization occurs but usually lasts only a few generations unless consciousness stabilizes the change; she cited compatibility and life-experience goals as motives.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0006",
+        "p0008",
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "artificial-hybridization",
+      "topics": [
+        "artificial-hybridization",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36aedc9049dc-c02",
+      "assertion": "Yazhi said human bodies are genetically stable and adaptable across habitats, allowing diverse souls and frequencies to coexist and reproduce in one species.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0019",
+        "p0021"
+      ],
+      "primary_topic": "human-biosuit-model",
+      "topics": [
+        "human-biosuit-model",
+        "humanity-multi-species-experiment"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-36aedc9049dc-c03",
+      "assertion": "Yazhi rejected the human ufologist theory that Greys are degraded future humans, describing Greys as biologically diverse species instead.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0027",
+        "p0028",
+        "p0031",
+        "p0032"
+      ],
+      "primary_topic": "grey-gardeners",
+      "topics": [
+        "grey-gardeners",
+        "human-biosuit-model"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She framed the origin idea as a human theory."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "artificial-hybridization",
+      "name": "Artificial hybridization",
+      "kind": "biological process",
+      "aliases": [
+        "alien-human hybrids",
+        "genetic hybridization"
+      ]
+    }
+  ],
+  "review_flags": [
+    "Claims about genetic hybridization and nonhuman species are attributed to Yazhi."
+  ],
+  "coverage_gaps": [
+    "Her discussion of Windsor family claims and alleged abduction interventions"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "source_id": "src-97c055d470ab",
+  "snapshot_sha256": "6ed033455e28a0dc1fee3d883642d932e40b88058666b448c2dbbad7d1342a2d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-97c055d470ab-c01",
+      "assertion": "Athena described Hanáre/Scimitar fighters as A interceptors optimized for speed and B assault craft carrying troops and up to two armored vehicles.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0009",
+        "p0014",
+        "p0017",
+        "p0019",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "hanare-scimitar-fighters",
+      "topics": [
+        "hanare-scimitar-fighters",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "A variants are 50–55 meters long; B variants are 60 meters."
+    },
+    {
+      "id": "src-97c055d470ab-c02",
+      "assertion": "She said Scimitars use toroidal high-energy stealth to evade human visible-light, infrared, and microwave detection; gravitational-shift sensors could detect them.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0034",
+        "p0035"
+      ],
+      "primary_topic": "hanare-scimitar-fighters",
+      "topics": [
+        "hanare-scimitar-fighters",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said the Cabal lacked the latter technology."
+    },
+    {
+      "id": "src-97c055d470ab-c03",
+      "assertion": "Athena said Scimitars are fully interstellar; one person can pilot either variant, and their onboard AI can fly them autonomously.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0082",
+        "p0083",
+        "p0085",
+        "p0086",
+        "p0087"
+      ],
+      "primary_topic": "hanare-scimitar-fighters",
+      "topics": [
+        "hanare-scimitar-fighters",
+        "stellar-navigation",
+        "artificial-intelligence"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "hanare-scimitar-fighters",
+      "name": "Hanáre / Scimitar fighters",
+      "kind": "spacecraft class",
+      "aliases": [
+        "Hanáre",
+        "Scimitar A",
+        "Scimitar B"
+      ]
+    }
+  ],
+  "review_flags": [
+    "All spacecraft specifications and operational claims are attributed to Athena."
+  ],
+  "coverage_gaps": [
+    "Armor, shields, weapons, propulsion details, and hyperspace travel time"
+  ]
+}

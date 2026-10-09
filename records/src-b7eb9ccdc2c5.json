@@ -1,0 +1,83 @@
+{
+  "source_id": "src-b7eb9ccdc2c5",
+  "snapshot_sha256": "1e3da27b561085b1d9321791cd7e20afda97a52ba8e96af8b47381028960622b",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-b7eb9ccdc2c5-c01",
+      "assertion": "Mari says the Federation ultimately controls Earth and is responsible for events there.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0019"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She calls this her view."
+    },
+    {
+      "id": "src-b7eb9ccdc2c5-c02",
+      "assertion": "She says Earth is mapped in Federation space and faces no hidden-invasion threat.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "galactic-federation",
+      "topics": [
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her assessment."
+    },
+    {
+      "id": "src-b7eb9ccdc2c5-c03",
+      "assertion": "She says Van Allen radiation is measurable, while its “etheric barrier” depends on perception.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0024",
+        "p0025"
+      ],
+      "primary_topic": "van-allen-belts",
+      "topics": [
+        "van-allen-belts",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says crossing may depend on spiritual state, but notes uncertainty."
+    },
+    {
+      "id": "src-b7eb9ccdc2c5-c04",
+      "assertion": "She describes an Andromedan biosphere ship behind the Moon and estimates 900–1,000 large ships near Earth monitoring starseed families.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0029",
+        "p0032"
+      ],
+      "primary_topic": "moon-biosphere-ship",
+      "topics": [
+        "moon-biosphere-ship",
+        "galactic-federation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "These are Mari Swaruu’s extraterrestrial claims and estimates, not independently verified."
+  ],
+  "coverage_gaps": [
+    "Federation restrictions and First Directive",
+    "Federation’s role in Earth turmoil"
+  ]
+}

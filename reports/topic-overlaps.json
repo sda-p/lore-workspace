@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T22:30:38+00:00",
+  "checked_at": "2026-10-09T01:21:47+00:00",
   "collisions": [
     {
       "normalized_label": "alphadraconians",
@@ -14,6 +14,14 @@
       "topic_ids": [
         "alpha-draconians",
         "alpha-dracos"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "antarcticbases",
+      "topic_ids": [
+        "antarctica",
+        "antarctica-federation-bases"
       ],
       "status": "overlap-awaiting-reconciliation"
     },
@@ -82,10 +90,26 @@
       "status": "overlap-awaiting-reconciliation"
     },
     {
+      "normalized_label": "karma",
+      "topic_ids": [
+        "karma-and-dharma",
+        "reincarnation-cycles"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
       "normalized_label": "marymagdalene",
       "topic_ids": [
         "arsinoe-magdalene",
         "mary-magdalene"
+      ],
+      "status": "overlap-awaiting-reconciliation"
+    },
+    {
+      "normalized_label": "medicalpods",
+      "topic_ids": [
+        "medical-pods",
+        "resonance-medical-pods"
       ],
       "status": "overlap-awaiting-reconciliation"
     },

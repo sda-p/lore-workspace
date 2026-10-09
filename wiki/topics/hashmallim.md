@@ -108,9 +108,26 @@ Source: [Hashmallim - Taygetan Pleiadian Military Special Units - Archangels in 
 
 Related topics: [Stellar navigation](stellar-navigation.md).
 
+### src-52f3828b6f14-c03
+
+Yazhi said Hashmallim missions are limited to influencing selected individuals and may involve human disguises; she said the Queen mainly decides their missions.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [SOBRE EL FUTURO Y LOS REPTILES PASANDO POR HUMANOS -Yazhi Swaruu](https://swaruu.org/transcripts/sobre-el-futuro-y-los-reptiles-pasando-por-humanos-yazhi-swaruu) (2022-10-22; es); passages p0049, p0051, p0053. [Structured record](../../records/src-52f3828b6f14.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+## Claims filed under other topics
+
+- [src-85324cf8988c-c01](galactic-federation.md#src-85324cf8988c-c01) — Galactic Federation
+
 ## Review flags
 
+- Reptilian claims about a public figure are attributed to Yazhi and not independently verified.
 - attribution\_scope
 - military-claims\_attributed
 - pathogen-claim\_attributed
+- quarantine-policy-vs-practice
+- reported-UFO-community-allegation
 - unverified-encounter

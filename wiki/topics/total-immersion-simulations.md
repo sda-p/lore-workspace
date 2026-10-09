@@ -136,6 +136,36 @@ Source: [INFLUENCIA CULTURAL EXTRATERRESTRES Y HUMANOS – UFÓLOGOS – ANEEKA 
 
 Related topics: [Alien species and distinctions](alien-species.md).
 
+### src-83e6eecc2c25-c01
+
+Anéeka described Earth immersion as a customized process: a pod sustains and isolates the body while consciousness attends another reality through frequency matching.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods de Inmersiones - Entretenimiento y Entrada en la Tierra](https://swaruu.org/transcripts/pods-de-inmersiones-entretenimiento-y-entrada-en-la-tierra) (2023-01-18; es); passages p0014, p0015, p0017. [Structured record](../../records/src-83e6eecc2c25.json).
+
+Related topics: [Immersion pods](immersion-pods.md).
+
+### src-83e6eecc2c25-c02
+
+She said most Earth participants do not remember immersion, and the pods can support long avatar lives; dry pods can compress a week into decades subjectively.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods de Inmersiones - Entretenimiento y Entrada en la Tierra](https://swaruu.org/transcripts/pods-de-inmersiones-entretenimiento-y-entrada-en-la-tierra) (2023-01-18; es); passages p0018, p0026. [Structured record](../../records/src-83e6eecc2c25.json).
+
+Related topics: [Memory Veil](memory-veil.md).
+
+### src-83e6eecc2c25-c03
+
+Anéeka said immersion can blur reality and become addictive; returning participants may face identity conflicts, so she recommended immersed people complete their Earth life cycle.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [Pods de Inmersiones - Entretenimiento y Entrada en la Tierra](https://swaruu.org/transcripts/pods-de-inmersiones-entretenimiento-y-entrada-en-la-tierra) (2023-01-18; es); passages p0029, p0030, p0033. [Structured record](../../records/src-83e6eecc2c25.json).
+
+Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
+
 ## Claims filed under other topics
 
 - [src-03ea45d7d724-c03](spherical-drones.md#src-03ea45d7d724-c03) — Spherical drones

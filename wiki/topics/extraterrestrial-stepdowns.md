@@ -222,6 +222,40 @@ Source: [Infiltradas desde Fuera de la Tierra - Esto es mas Grande que Imaginái
 
 Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 
+### src-dd739a4e04c6-c01
+
+Mari distinguishes starseed “crawl-ins,” soul-replacement “step-ins,” and whole extraterrestrials who “step down.”
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extraterrestres viviendo entre humanos](https://swaruu.org/transcripts/extraterrestres-viviendo-entre-humanos) (2023-01-06; es); passages p0007, p0008, p0009. [Structured record](../../records/src-dd739a4e04c6.json).
+
+Related topics: [Starseeds](starseeds.md).
+
+### src-dd739a4e04c6-c02
+
+She says step-down visitors may stay briefly or for years, using prepared or borrowed human identities before ship pickup.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Extraterrestres viviendo entre humanos](https://swaruu.org/transcripts/extraterrestres-viviendo-entre-humanos) (2023-01-06; es); passages p0010, p0011. [Structured record](../../records/src-dd739a4e04c6.json).
+
+### src-1976178fe747-c02
+
+She says her mother forbade her to leave school alone or reveal her origin. Teachers considered her disruptive.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extraterrestres viviendo entre humanos, parte 2](https://swaruu.org/transcripts/extraterrestres-viviendo-entre-humanos-parte-2) (2023-01-09; es); passages p0017, p0018. [Structured record](../../records/src-1976178fe747.json).
+
+### src-1976178fe747-c03
+
+She says some visiting crews use human vehicles to shop for supplies; some also steal goods openly and sometimes leave disproportionate payment.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extraterrestres viviendo entre humanos, parte 2](https://swaruu.org/transcripts/extraterrestres-viviendo-entre-humanos-parte-2) (2023-01-09; es); passages p0024, p0026. [Structured record](../../records/src-1976178fe747.json).
+
 ## Claims filed under other topics
 
 - [src-e1b4f8c5afc0-c03](alien-species.md#src-e1b4f8c5afc0-c03) — Alien species and distinctions
@@ -233,12 +267,15 @@ Related topics: [Moon and terrestrial Matrix](moon-matrix.md).
 - [src-83d0afc07ef6-c01](starseeds.md#src-83d0afc07ef6-c01) — Starseeds
 - [src-6d9f789c718e-c04](consciousness-metaphysics.md#src-6d9f789c718e-c04) — Consciousness and metaphysics
 - [src-9d5476909933-c04](harmonic-shields.md#src-9d5476909933-c04) — Harmonic shields
+- [src-1976178fe747-c01](swaruunians.md#src-1976178fe747-c01) — Swaruunians
 
 ## Review flags
 
 - Anéeka says Reptilian exploitation is partial, not a complete account of Earth events.
+- Extraterrestrial identity claims are Mari Swaruu’s perspective and are not independently verified.
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
+- These are Mari Swaruu’s autobiographical and extraterrestrial claims, not independently verified.
 - aliens-removed-from-quadrant-claim
 - arrival-date discrepancy: remembered estimate differs from photo-based estimate
 - historical-claims-unverified

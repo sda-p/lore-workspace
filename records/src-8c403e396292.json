@@ -1,0 +1,70 @@
+{
+  "source_id": "src-8c403e396292",
+  "snapshot_sha256": "db83803f7eb26fe6046f9d674b37fa6e245d68f433165b630faf52c824db4e4f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8c403e396292-c01",
+      "assertion": "Yazhi rejected skin color as evidence of extraterrestrial lineage, saying starseed identity can occur across human pigmentation groups and describing pigmentation as solar adaptation.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0004",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "human-biosuit-model",
+      "topics": [
+        "human-biosuit-model",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-8c403e396292-c02",
+      "assertion": "She said human-looking offworld visitors can blend into populations and go unrecognized because they do not match popular alien stereotypes.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "alien-species",
+      "topics": [
+        "alien-species",
+        "starseeds"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She said Latin-looking visitors were numerous."
+    },
+    {
+      "id": "src-8c403e396292-c03",
+      "assertion": "Yazhi claimed an old Sphinx image showed two entrances near its paws, now covered, and said the ground in the image looked false.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0040",
+        "p0044",
+        "p0047",
+        "p0048",
+        "p0054"
+      ],
+      "primary_topic": "giza-labyrinth",
+      "topics": [
+        "giza-labyrinth",
+        "great-pyramid-of-giza"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "These are her claims about the image and her memory."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Racial and archaeological claims are attributed to Yazhi and are not established findings."
+  ],
+  "coverage_gaps": [
+    "Her claims about hidden subterranean sites and energy resources"
+  ]
+}

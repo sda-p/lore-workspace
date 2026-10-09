@@ -1,0 +1,102 @@
+{
+  "source_id": "src-877d9746441a",
+  "snapshot_sha256": "c88a94c23258275dbafecfbba7158c95aa6632bdad5dd9f7bbfd94f25810f4db",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-877d9746441a-c01",
+      "assertion": "Mari says starships use particle-frequency maps for long-distance navigation; conventional maps serve short, slow travel.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0013",
+        "p0014"
+      ],
+      "primary_topic": "frequency-map-navigation",
+      "topics": [
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-877d9746441a-c02",
+      "assertion": "She describes hyperspace as matching a ship’s frequency to its destination, rather than crossing distance.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0018",
+        "p0019"
+      ],
+      "primary_topic": "supraluminal-hyperdrive",
+      "topics": [
+        "supraluminal-hyperdrive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-877d9746441a-c03",
+      "assertion": "She says large ships exit jumps up to one-third AU away, then approach below light speed; exits emit detectable gamma bursts.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0020",
+        "p0021",
+        "p0022"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-877d9746441a-c04",
+      "assertion": "She says jump wakes may reveal a ship’s route, while space-skipping can mask its trail in combat.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "stellar-navigation",
+      "topics": [
+        "stellar-navigation",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-877d9746441a-c05",
+      "assertion": "She describes counter-rotating plasma engines and superconducting circuits forming a protective toroid.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0027",
+        "p0029",
+        "p0030"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Navigation and propulsion descriptions are attributed to Mari Swaruu, not independently verified."
+  ],
+  "coverage_gaps": [
+    "secondary gravity modulators",
+    "crew education aboard starships"
+  ]
+}

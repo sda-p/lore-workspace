@@ -1,0 +1,84 @@
+{
+  "source_id": "src-426c28844e08",
+  "snapshot_sha256": "1fec3e426d1946e74f7e3d5717a37871011b85e157dbf03be59d295aaa5dc0a9",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-426c28844e08-c01",
+      "assertion": "Mari presents her group’s view that pure consciousness exists beyond spacetime and manifests matter and energy through thought.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0009",
+        "p0010",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-426c28844e08-c02",
+      "assertion": "In her proposed model, calm consciousness creates potential ether; thought produces ether waves whose consistent harmonics form persistent standing waves.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "atomic-wave-structure",
+      "topics": [
+        "atomic-wave-structure",
+        "consciousness-metaphysics"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-426c28844e08-c03",
+      "assertion": "She says collective consciousness slows manifestation, while focused individuals can influence it; outcomes reflect who people are, including unconscious patterns.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-426c28844e08-c04",
+      "assertion": "She attributes simple consciousness to objects and crystals, which can retain molecular frequencies; observers assign objects meaning through sensory input and memory.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0021"
+      ],
+      "primary_topic": "sentient-crystals",
+      "topics": [
+        "sentient-crystals",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Materialist perspective and spiritual coping",
+    "Choices, desires and information shaping personal development"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "source_id": "src-ddff20dff5fd",
+  "snapshot_sha256": "5e0c1d26afb79aebc9a1a47c424190b673747f5016abc406cc176e99ccd7a65c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-ddff20dff5fd-c01",
+      "assertion": "Mari said escaping the Matrix requires personal criteria and integrity, even if this means distancing from loved ones; she urged kindness and acknowledged differing soul missions.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0002",
+        "p0003"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-ddff20dff5fd-c02",
+      "assertion": "She said social consensus does not guarantee truth and advised functioning within accepted society while maintaining one’s own values consistently.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006"
+      ],
+      "primary_topic": "original-matrix",
+      "topics": [
+        "original-matrix",
+        "holistic-society"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Her metaphysical claim that the universal self is the only real thing"
+  ]
+}

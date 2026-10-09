@@ -1,0 +1,51 @@
+{
+  "source_id": "src-e54847d402e6",
+  "snapshot_sha256": "e27b6f3127089fc9964a321156188449b1411d92b4e447b410c3bf59a61b328a",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e54847d402e6-c01",
+      "assertion": "Za’el said his channel would share information directly with viewers as an independent but parallel project, complementing other interview-based channels.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "swaruunians",
+      "topics": [
+        "swaruunians",
+        "taygetans"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He framed the material as science fiction or entertainment if viewers preferred."
+    },
+    {
+      "id": "src-e54847d402e6-c02",
+      "assertion": "Za’el said off-world individuals may come to Earth to help loved ones, encourage positive change, observe, or live among people; he said he once lived in southern Spain.",
+      "speaker": "Za’el de Erra",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "starseed-guides",
+      "topics": [
+        "starseed-guides",
+        "swaruunians"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "He presented this as his personal account."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The author explicitly invited readers to treat the content as fiction or entertainment."
+  ],
+  "coverage_gaps": [
+    "The channel’s planned topics and Za’el’s appeal to viewers"
+  ]
+}

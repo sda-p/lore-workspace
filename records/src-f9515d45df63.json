@@ -1,0 +1,43 @@
+{
+  "source_id": "src-f9515d45df63",
+  "snapshot_sha256": "a0a1b7df249a42f38a114d5a39bf4e7ea836322bb09d20cc070df695527ad959",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-f9515d45df63-c01",
+      "assertion": "Mari says the Taygeteans found no unusual nearby spacecraft activity and attributed reported UFO events to human activity.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0004", "p0005", "p0006"],
+      "primary_topic": "alien-species",
+      "topics": ["alien-species", "false-alien-invasion"],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Andromedans monitor nearby ships."
+    },
+    {
+      "id": "src-f9515d45df63-c02",
+      "assertion": "She proposes a government or Cabal psychological operation, either to test a false-invasion narrative or divert attention from terrestrial events.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0007", "p0008", "p0009"],
+      "primary_topic": "false-alien-invasion",
+      "topics": ["false-alien-invasion", "earth-cabal"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She presents two possible motives."
+    },
+    {
+      "id": "src-f9515d45df63-c03",
+      "assertion": "Mari says the public UFO narrative may fade, or continued events may indicate preparation for a false alien invasion.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0011", "p0012"],
+      "primary_topic": "false-alien-invasion",
+      "topics": ["false-alien-invasion"],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": "She is uncertain about what follows."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Ohio derailment and ritual-number speculation"]
+}

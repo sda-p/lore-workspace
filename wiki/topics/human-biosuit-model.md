@@ -28,10 +28,55 @@ Source: [LA FEDERACIÓN \#GALACTICA – FEDERACIÓN DE PLANETAS UNIDOS Y EL PLAN
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-36aedc9049dc-c02
+
+Yazhi said human bodies are genetically stable and adaptable across habitats, allowing diverse souls and frequencies to coexist and reproduce in one species.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Hibridación Humanos con ETs - Se Hace? Yazhi Swaruu](https://swaruu.org/transcripts/hibridacion-humanos-con-ets-se-hace-yazhi-swaruu) (2023-04-03; es); passages p0017, p0019, p0021. [Structured record](../../records/src-36aedc9049dc.json).
+
+Related topics: [Humanity as a multi-species experiment](humanity-multi-species-experiment.md).
+
+### src-1c56b7d9bf71-c02
+
+Yazhi called the genetic change adaptation rather than degradation; she said a Taygetan Step Down’s brain and organs do not transform, and children with humans may be human.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL PODER DEL AHORA: CÓMO VIVIR EN EL PRESENTE PUEDE TRANSFORMAR TU VIDA](https://swaruu.org/transcripts/el-poder-del-ahora-como-vivir-en-el-presente-puede-transformar-tu-vida) (2023-03-07; es); passages p0017, p0019, p0020, p0021, p0022. [Structured record](../../records/src-1c56b7d9bf71.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-1c56b7d9bf71-c03
+
+Yazhi said a strong extraterrestrial mindset sustains DNA; becoming Matrix is needed for genetic change, while space exposure can activate DNA by disrupting Earth’s mental agreements.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [EL PODER DEL AHORA: CÓMO VIVIR EN EL PRESENTE PUEDE TRANSFORMAR TU VIDA](https://swaruu.org/transcripts/el-poder-del-ahora-como-vivir-en-el-presente-puede-transformar-tu-vida) (2023-03-07; es); passages p0026, p0030, p0031. [Structured record](../../records/src-1c56b7d9bf71.json).
+
+Related topics: [Perceptual density](perceptual-density.md).
+
+### src-8c403e396292-c01
+
+Yazhi rejected skin color as evidence of extraterrestrial lineage, saying starseed identity can occur across human pigmentation groups and describing pigmentation as solar adaptation.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA RAZA NEGRA Y LAS FOTOS QUE NO DEBERIAN EXISTIR DE LA ESFINGE DE GIZA -Yazhi Swaruu](https://swaruu.org/transcripts/la-raza-negra-y-las-fotos-que-no-deberian-existir-de-la-esfinge-de-giza-yazhi-swaruu) (2022-11-04; es); passages p0002, p0004, p0007, p0011. [Structured record](../../records/src-8c403e396292.json).
+
+Related topics: [Starseeds](starseeds.md).
+
 ## Claims filed under other topics
 
 - [src-00bbf49a9a01-c03](venus.md#src-00bbf49a9a01-c03) — Venus
+- [src-36aedc9049dc-c03](grey-gardeners.md#src-36aedc9049dc-c03) — Grey gardeners
+- [src-1c56b7d9bf71-c01](perceptual-density.md#src-1c56b7d9bf71-c01) — Perceptual density
 
 ## Review flags
 
+- Chromosome and DNA claims are attributed to Anéeka and Yazhi.
+- Claims about genetic hybridization and nonhuman species are attributed to Yazhi.
+- Racial and archaeological claims are attributed to Yazhi and are not established findings.
 - venus-population:indigenous-and-imported-humans

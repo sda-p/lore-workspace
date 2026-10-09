@@ -1,0 +1,72 @@
+{
+  "source_id": "src-39a9c48cca4f",
+  "snapshot_sha256": "f95425e1b69a6333f80843692c6ef9e9716da48ec05fac95c95552887c412ab8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-39a9c48cca4f-c01",
+      "assertion": "Mari says ghosts and apparitions exist; some are deceased people’s astral bodies, while others may be hostile entities or egregors.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0003",
+        "p0004",
+        "p0007",
+        "p0009"
+      ],
+      "primary_topic": "astral-entities",
+      "topics": [
+        "astral-entities",
+        "postmortem-realities",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She acknowledges mysteries remain."
+    },
+    {
+      "id": "src-39a9c48cca4f-c02",
+      "assertion": "She says sustained, emotionally charged thoughts can manifest as material things or events, individually or collectively.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011",
+        "p0012",
+        "p0013"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "egregors"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says one person may suffice."
+    },
+    {
+      "id": "src-39a9c48cca4f-c03",
+      "assertion": "Mari says deceased souls may retain astral bodies and interact with the living through strong attachments, but ultimately return to Source.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0025",
+        "p0026",
+        "p0028"
+      ],
+      "primary_topic": "postmortem-realities",
+      "topics": [
+        "postmortem-realities",
+        "astral-entities",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says some remain in lower astral realms temporarily."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "time as a perceptual separation between realms",
+    "theories of biological aging"
+  ]
+}

@@ -112,6 +112,14 @@ Attributed to **Dhor Káal’el**; reported; extraction confidence: medium.
 
 Source: [Líneas de Nazca - Que Son? Explicado por un Piloto Extraterrestre - Taygeta (Pleyades)](https://swaruu.org/transcripts/lineas-de-nazca-que-son-explicado-por-un-piloto-extraterrestre-taygeta-pleyades) (2022-09-02; es); passages p0032, p0048, p0060, p0062. [Structured record](../../records/src-e41d4b9ab4a8.json).
 
+### src-f994e07a2582-c02
+
+Yazhi says Earth is a gruyere-like cavern system, lit by magma and photoluminescence, without a central sun.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Núcleo de la Tierra - es Nuestro Planeta Hueco? - Información Extraterrestre](https://swaruu.org/transcripts/nucleo-de-la-tierra-es-nuestro-planeta-hueco-informacion-extraterrestre) (2023-02-10; es); passages p0021, p0027, p0028. [Structured record](../../records/src-f994e07a2582.json).
+
 ## Claims filed under other topics
 
 - [src-0a2dec346e2d-c01](bigfoot-sasquatch.md#src-0a2dec346e2d-c01) — Bigfoot, Sasquatch and Yeti
@@ -136,6 +144,7 @@ Source: [Líneas de Nazca - Que Son? Explicado por un Piloto Extraterrestre - Ta
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - Tartaria chronology and destruction are presented as disputed source claims
+- Yazhi states that her information about Antarctic Vulcans and deep-cavern beings is limited or partly uncorroborated.
 - attribution:reported-from-records
 - climate-claims
 - entertainment-disclaimer

@@ -2509,5 +2509,127 @@
     "aliases": [
       "Ishtar healer plan"
     ]
+  },
+  {
+    "id": "nuclear-weapons-claims",
+    "name": "Nuclear weapon claims",
+    "kind": "military technology claim",
+    "aliases": [
+      "nuclear threats",
+      "nuclear explosion claims"
+    ]
+  },
+  {
+    "id": "taygetan-medicine",
+    "name": "Taygetan medicine",
+    "kind": "medical practice",
+    "aliases": [
+      "Taygeta health care"
+    ]
+  },
+  {
+    "id": "cancer",
+    "name": "Cancer claims",
+    "kind": "medical claims",
+    "aliases": [
+      "cancer"
+    ]
+  },
+  {
+    "id": "electric-vehicles",
+    "name": "Electric vehicles",
+    "kind": "technology",
+    "aliases": [
+      "EVs",
+      "electric cars"
+    ]
+  },
+  {
+    "id": "electromagnetic-mind-influence",
+    "name": "Electromagnetic influence on perception",
+    "kind": "technology claim",
+    "aliases": [
+      "brainwave frequency modulation",
+      "electromagnetic mind control"
+    ]
+  },
+  {
+    "id": "galactic-consciousness",
+    "name": "Galactic consciousness",
+    "kind": "cosmology",
+    "aliases": [
+      "galaxies as conscious beings"
+    ]
+  },
+  {
+    "id": "extraterrestrial-contact",
+    "name": "Extraterrestrial contact and disclosure",
+    "kind": "contact practice",
+    "aliases": [
+      "online contact",
+      "contact project"
+    ]
+  },
+  {
+    "id": "resonance-medical-pods",
+    "name": "Resonance-based medical pods",
+    "kind": "medical technology",
+    "aliases": [
+      "resonance therapy beds",
+      "medical pods"
+    ]
+  },
+  {
+    "id": "antarctica-federation-bases",
+    "name": "Antarctic Federation bases",
+    "kind": "infrastructure",
+    "aliases": [
+      "Antarctic bases",
+      "Antarctica Federation installations"
+    ]
+  },
+  {
+    "id": "replicators",
+    "name": "Replicators",
+    "kind": "technology",
+    "aliases": [
+      "matter replicators",
+      "industrial replicators"
+    ]
+  },
+  {
+    "id": "karma-and-dharma",
+    "name": "Karma and dharma",
+    "kind": "spiritual concepts",
+    "aliases": [
+      "karma",
+      "dharma"
+    ]
+  },
+  {
+    "id": "geomagnetic-cycles",
+    "name": "Earth magnetic field cycles",
+    "kind": "planetary phenomenon",
+    "aliases": [
+      "geomagnetic field fluctuations",
+      "magnetic pole shifts"
+    ]
+  },
+  {
+    "id": "artificial-hybridization",
+    "name": "Artificial hybridization",
+    "kind": "biological process",
+    "aliases": [
+      "alien-human hybrids",
+      "genetic hybridization"
+    ]
+  },
+  {
+    "id": "dark-matter-as-density",
+    "name": "Dark matter as other densities",
+    "kind": "cosmology",
+    "aliases": [
+      "Materia Oscura como otras densidades"
+    ]
   }
 ]

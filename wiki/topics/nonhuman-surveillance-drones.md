@@ -170,11 +170,14 @@ Related topics: [SETI surveillance operation](seti-surveillance.md).
 - [src-769b9ad6be07-c01](stellar-navigation.md#src-769b9ad6be07-c01) — Stellar navigation
 - [src-769b9ad6be07-c03](spherical-drones.md#src-769b9ad6be07-c03) — Spherical drones
 - [src-598faa62de95-c02](galactic-federation.md#src-598faa62de95-c02) — Galactic Federation
+- [src-026b0b5b32ce-c01](viera.md#src-026b0b5b32ce-c01) — Viera
+- [src-cd9a5a1222db-c01](false-alien-invasion.md#src-cd9a5a1222db-c01) — False alien invasion scenarios
 
 ## Review flags
 
 - 5g-covid-causality-distinction
 - Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
+- Claims about alien craft, agencies, and political agendas are attributed speculation.
 - Claims about hidden Federation coordination and space programs are attributed to Anéeka and are not independently evidenced in the transcript.
 - Personal anecdote; the surveillance episode is presented as a lesson about reciprocal privacy
 - claims-attributed-to-source-narrators
@@ -186,6 +189,7 @@ Related topics: [SETI surveillance operation](seti-surveillance.md).
 - post-eclipse-causal-attribution
 - rescue-anecdotes-unverified
 - satellite, spaceflight, lunar-base, and galactic-wave claims are attributed and unverified
+- speculative-false-invasion-scenario
 - starlink-observation-scope-ambiguity
 - translation-counterpart:src-af195906d27f-close-full
 - unverified-paranormal-claims

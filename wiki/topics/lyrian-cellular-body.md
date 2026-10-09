@@ -93,6 +93,7 @@ Source: [Biogenética trans-dimensional. Secretos - SWARUU - Sistema Taygeta - P
 - [src-6a1113ff029c-c04](taygetans.md#src-6a1113ff029c-c04) — Taygetans
 - [src-d9a04b018638-c01](taygetans.md#src-d9a04b018638-c01) — Taygetans
 - [src-d9a04b018638-c03](taygetans.md#src-d9a04b018638-c03) — Taygetans
+- [src-4e74e1caea83-c01](primary-secondary-species.md#src-4e74e1caea83-c01) — Primary and Secondary Species
 
 ## Review flags
 
@@ -106,5 +107,6 @@ Source: [Biogenética trans-dimensional. Secretos - SWARUU - Sistema Taygeta - P
 - personal-childhood-anecdote
 - second-contact-stoppage-attributed-to-yazhi
 - speaker-shift-cic-to-mari
+- species-genome-taxonomy-account
 - translated-from-Spanish-original-not-available
 - visitors-identified-as-key-returners

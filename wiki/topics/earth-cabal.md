@@ -3446,6 +3446,124 @@ Attributed to **Swaruu X (Athena)**; speculative; extraction confidence: high.
 
 Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Observaciones](https://swaruu.org/transcripts/camioneros-en-canada-posible-agenda-athena-swaruu-comparte-sus-observaciones) (2022-02-04; es); passages p0018, p0019. [Structured record](../../records/src-8fd97fb04d46.json).
 
+### src-940c7e2fa72b-c01
+
+Yazhi says the CIC identified the Turkey earthquake as artificial from its shock-wave signature; she lacks complete information but suggests it punished Turkey for insufficient alignment with the Cabal. Attributed account; Yazhi explicitly says she lacks complete information.
+
+Attributed to **Yazhi**; speculative; extraction confidence: high.
+
+Source: [Terremoto en Turquía - corta conversación con Yazhi Swaruu](https://swaruu.org/transcripts/terremoto-en-turquia-corta-conversacion-con-yazhi-swaruu) (2023-02-20; es); passages p0004, p0006. [Structured record](../../records/src-940c7e2fa72b.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-85324cf8988c-c04
+
+She alleges a human UFO organization imitates Federation structures to impose a monopoly of ideas.
+
+Attributed to **Yazhi**; reported; extraction confidence: medium.
+
+Source: [Comunidad de "Expertos" de Extraterrestres es una organización HUMANA - MiniTemas](https://swaruu.org/transcripts/comunidad-de-expertos-de-extraterrestres-es-una-organizacion-humana-minitemas) (2022-11-04; es); passages p0068, p0071. [Structured record](../../records/src-85324cf8988c.json).
+
+Related topics: [Galactic Federation](galactic-federation.md).
+
+### src-8888db924950-c02
+
+She says a hidden Cabal science works with advanced nonhuman species and releases technology publicly only when useful to controllers.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El problema con la Ciencia en la Tierra](https://swaruu.org/transcripts/el-problema-con-la-ciencia-en-la-tierra) (2023-01-31; es); passages p0037, p0038, p0039, p0040. [Structured record](../../records/src-8888db924950.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-651f2f5ca73c-c02
+
+Swaruu X says imposed low frequencies fostered Earth’s distinctive regressive egregor dynamic; she rejects that the Moon was meant to confine Reptiles. She describes the reptilian egregor as human-manifested.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [ASTRONOMIA PORQUE LA TIERRA TIENE UNA LUNA - Athena Swaruu](https://swaruu.org/transcripts/astronomia-porque-la-tierra-tiene-una-luna-athena-swaruu) (2022-10-10; es); passages p0024, p0026, p0027. [Structured record](../../records/src-651f2f5ca73c.json).
+
+### src-cdacb8b863b2-c03
+
+She portrays professional football as political theater and mass distraction, claiming bought players or referees can steer match outcomes.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [FIBRAS QUE CAEN DEL CIELO - LUCES AZULES - EL MUNDIAL 2022 - CRIPTOMONEDAS - Yazhi Swaruu](https://swaruu.org/transcripts/fibras-que-caen-del-cielo-luces-azules-el-mundial-2022-criptomonedas-yazhi-swaruu) (2022-12-10; es); passages p0034, p0036, p0040, p0042. [Structured record](../../records/src-cdacb8b863b2.json).
+
+### src-ce97d34c532b-c02
+
+She alleges DNA databases are centralized under Cabal control to identify nonhumans and enable population control using individual frequency data.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [ESTÁN ALMACENANDO TU ADN – EXTRATERRESTRE ME HABLA DEL GENOMA HUMANO - Yazhi Swaruu](https://swaruu.org/transcripts/estan-almacenando-tu-adn-extraterrestre-me-habla-del-genoma-humano-yazhi-swaruu) (2022-12-13; es); passages p0011, p0028, p0029. [Structured record](../../records/src-ce97d34c532b.json).
+
+Related topics: [DNA and metaphysical patterns](dna-metaphysics.md).
+
+### src-a72352046ce4-c01
+
+Yazhi says White Hats are controlled opposition within the same Cabal, though individual insiders may help; she says true opponents would inform the public.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Sombreros Blancos - Mensaje de Sophia Swaruu (Yazhi)](https://swaruu.org/transcripts/sombreros-blancos-mensaje-de-sophia-swaruu-yazhi) (2022-12-14; es); passages p0008, p0010, p0012, p0021, p0029. [Structured record](../../records/src-a72352046ce4.json).
+
+### src-d2f26274ed8a-c01
+
+Yazhi portrays White Hat and White Dragon groups as controlled opposition within the same Cabal, while allowing some individuals may help; she says genuine opponents would disclose more.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LOS SOBREROS BLANCOS - HERMANDAD DEL DRAGÓN BLANCO – YAZHI – SOPHIA SWARUU](https://swaruu.org/transcripts/los-sobreros-blancos-hermandad-del-dragon-blanco-yazhi-sophia-swaruu) (2022-12-05; es); passages p0011, p0012, p0013, p0014, p0019, p0023, p0025. [Structured record](../../records/src-d2f26274ed8a.json).
+
+### src-52f3828b6f14-c02
+
+Yazhi predicted gradual losses of freedom, including limits on ownership and expiring income, and described them as a Cabal plan. This is her forecast.
+
+Attributed to **Yazhi Swaruu**; speculative; extraction confidence: high.
+
+Source: [SOBRE EL FUTURO Y LOS REPTILES PASANDO POR HUMANOS -Yazhi Swaruu](https://swaruu.org/transcripts/sobre-el-futuro-y-los-reptiles-pasando-por-humanos-yazhi-swaruu) (2022-10-22; es); passages p0037, p0039, p0041. [Structured record](../../records/src-52f3828b6f14.json).
+
+Related topics: [Economics and resources](economics.md).
+
+### src-db2abd569bd8-c01
+
+Yazhi said she was not opposed to electric vehicles generally, but claimed terrestrial EVs can be remotely disabled and used to restrict public mobility. This is her argument about their terrestrial use.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Coches Eléctricos y Porque son Malos - Agendas del Cabal - Yazhi Swaruu](https://swaruu.org/transcripts/coches-electricos-y-porque-son-malos-agendas-del-cabal-yazhi-swaruu) (2022-11-13; es); passages p0010, p0011. [Structured record](../../records/src-db2abd569bd8.json).
+
+Related topics: [Electric vehicles](electric-vehicles.md).
+
+### src-0eee68ce5b31-c02
+
+She said social hierarchies teach obedience and allow those in power to shape accepted truths and historical memory to fit their interests.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Una perspectiva sobre la formación básica de una Matrix física.](https://swaruu.org/transcripts/una-perspectiva-sobre-la-formacion-basica-de-una-matrix-fisica) (2023-04-12; es); passages p0010, p0011, p0012. [Structured record](../../records/src-0eee68ce5b31.json).
+
+Related topics: [Memory implantation](memory-implantation.md).
+
+### src-aa6ac84fc7df-c03
+
+She alleges agencies use Project Blue Book and other efforts to steer public perceptions of UFOs. These are her claims.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [El problema con los investigadores de ovnis.](https://swaruu.org/transcripts/el-problema-con-los-investigadores-de-ovnis) (2023-02-04; es); passages p0012, p0014. [Structured record](../../records/src-aa6ac84fc7df.json).
+
+### src-3f5e32e319ee-c03
+
+Athena alleges media and human controllers amplify catastrophe fears to distract and control people. Her allegation.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [EL DEBILITAMIENTO DEL CAMPO MAGNÉTICO DE LA TIERRA Y LOS CAMBIOS POLARES](https://swaruu.org/transcripts/el-debilitamiento-del-campo-magnetico-de-la-tierra-y-los-cambios-polares) (2023-03-30; es); passages p0003, p0004, p0008. [Structured record](../../records/src-3f5e32e319ee.json).
+
 ## Claims filed under other topics
 
 - [src-239a41640463-c06](galactic-federation.md#src-239a41640463-c06) — Galactic Federation
@@ -3702,6 +3820,23 @@ Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Obser
 - [src-634b8cbc83b6-c02](ukraine.md#src-634b8cbc83b6-c02) — Ukraine
 - [src-634b8cbc83b6-c03](ukraine.md#src-634b8cbc83b6-c03) — Ukraine
 - [src-634b8cbc83b6-c04](ukraine.md#src-634b8cbc83b6-c04) — Ukraine
+- [src-940c7e2fa72b-c02](terrestrial-science.md#src-940c7e2fa72b-c02) — Terrestrial science
+- [src-f9515d45df63-c02](false-alien-invasion.md#src-f9515d45df63-c02) — False alien invasion scenarios
+- [src-ec30a0b94013-c01](ukraine.md#src-ec30a0b94013-c01) — Ukraine
+- [src-ec30a0b94013-c03](ukraine.md#src-ec30a0b94013-c03) — Ukraine
+- [src-e33e26096a8a-c03](civilizational-resets.md#src-e33e26096a8a-c03) — Civilizational resets
+- [src-cd9a5a1222db-c03](false-alien-invasion.md#src-cd9a5a1222db-c03) — False alien invasion scenarios
+- [src-52f3828b6f14-c01](reptilians.md#src-52f3828b6f14-c01) — Reptilians
+- [src-ff3b3864b466-c01](secret-society-hierarchy.md#src-ff3b3864b466-c01) — Secret-society hierarchy
+- [src-f138a70a4ff8-c03](saturn-bases.md#src-f138a70a4ff8-c03) — Saturnian orbital bases
+- [src-db2abd569bd8-c02](electric-vehicles.md#src-db2abd569bd8-c02) — Electric vehicles
+- [src-0eee68ce5b31-c03](original-matrix.md#src-0eee68ce5b31-c03) — Original Matrix
+- [src-20ced54c4865-c03](nuclear-weapons-claims.md#src-20ced54c4865-c03) — Nuclear weapon claims
+- [src-04de255f76ef-c01](ukraine.md#src-04de255f76ef-c01) — Ukraine
+- [src-04de255f76ef-c02](ukraine.md#src-04de255f76ef-c02) — Ukraine
+- [src-04de255f76ef-c03](ukraine.md#src-04de255f76ef-c03) — Ukraine
+- [src-04de255f76ef-c04](ukraine.md#src-04de255f76ef-c04) — Ukraine
+- [src-88d2f8fd434d-c03](pluto.md#src-88d2f8fd434d-c03) — Pluto
 
 ## Review flags
 
@@ -3712,12 +3847,19 @@ Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Obser
 - Athena distinguishes her sensor observations from uncertain explanations of Starlink-like lights
 - Australian-traffic-purpose-unknown
 - COVID-and-vaccine-claims-omitted
+- Claims about alien craft, agencies, and political agendas are attributed speculation.
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
+- Claims about hidden councils and planetary bases are attributed to Mari Swaruu.
+- Claims about secret societies, media manipulation, and resets are attributed to Mari Swaruu.
 - Claims about the 2022 war and alleged false flags are attributed to Swaruu X (Athena); her account is not independently evidenced in the transcript.
 - Claims about the 2022 war and alleged media staging are attributed to Swaruu X (Athena); the transcript provides no independent evidence.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
 - Compared English candidate src-eda7efcdb3ec; same interview, translated with paragraph consolidation and phrasing differences.
 - Compared English counterpart src-1db159fdbe8d in full; closely equivalent translation with paragraph segmentation shifts. Spanish p0052 specifies Taygetans coordinate militarily from 5D; English p0054 omits that detail.
+- Conspiracy and UFO claims are attributed to Mari Swaruu and are not independently verified.
+- Contains unsupported claims about Pluto bases, Federation classifications, motives, and Shiva’s identity; attribute to Swaruu (9).
+- Contains unsupported geophysical, climate, and historical claims; attribute to Athena.
+- DNA collection and nonhuman-identification claims are presented as Yazhi’s assertions.
 - EMP-intervention-field-unknown
 - Extraordinary historical claims are Swaruu (9)’s account; paragraph 0048 portal claim is framed as Cabal belief
 - Federation alternately described as Earth controller and nonultimate authority.
@@ -3731,18 +3873,27 @@ Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Obser
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - Leader-contact claim is attributed to Asket in this transcript.
 - Maitre\_relationship\_with\_Reptilians
+- Metaphysical and political claims are attributed to Mari Swaruu.
 - Orbital counts and faction allegations are Mari’s intelligence-based account; Orion impersonation is explicitly speculative
 - PCR and vaccine medical claims omitted.
+- Political and military claims are attributed to the report and its sources.
 - Political authority claims are Anéeka’s account of extraterrestrial relations.
 - Proposed intervention remains conditional and internally qualified
 - QAnon-and-COVID-claims-omitted
 - Related Spanish and English articles cover overlapping material but have different scopes; translation equivalence is unconfirmed.
+- Remote-shutdown and environmental claims are attributed to Yazhi and not presented as established facts.
+- Reptilian claims about a public figure are attributed to Yazhi and not independently verified.
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - The alleged CIA organization is explicitly called speculation and unsupported by precise evidence in the interview.
 - The discussion presents competing views on whether nonhuman influence counts as invasion.
+- The report makes contested geopolitical allegations; claims are recorded as attributed statements, not verified facts.
+- The two exchanges differ on the number of Federation bases on Pluto: p0003 says at least three, while p0009 describes one large base as the only physical feature; the discrepancy is unresolved.
 - These are Gosia’s account of orbital perspectives; negative/positive classification is explicitly perspective-dependent
 - Time-bound 2021 prediction; no outcome asserted.
+- Yazhi acknowledges some individuals may work in humanity’s favor but portrays White Hat organizations as part of the same structure.
+- Yazhi distinguishes individuals who may work for the public from organizations she says are part of the same power structure.
+- Yazhi’s statements on nuclear weapons and Hiroshima are unverified claims; she explicitly said there was no way to confirm them.
 - agenda21-assertion
 - agenda\_term\_varies
 - aircraft-identity-ambiguity
@@ -3841,6 +3992,7 @@ Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Obser
 - earth-control-claim-attributed
 - earth-population-claims
 - earth-reset-control-claim
+- earthquake-causation-contested
 - earthquake-causation-unverified
 - eclipse-portal-claims-unverified
 - egregor-vs-species-levels
@@ -3979,11 +4131,13 @@ Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Obser
 - post-eclipse-causal-attribution
 - prior\_statement\_conflict
 - protest\_operation\_allegations
+- quarantine-policy-vs-practice
 - reincarnation-cosmology
 - related English article src-ce9c92fd3b4e shares Mars division claim but covers a broader multi-planet topic; not a translation
 - related\_series\_part
 - religious-conspiracy-claims-omitted
 - religious-control-claims
+- reported-UFO-community-allegation
 - reported-comparison-not-speaker-endorsement
 - rescue-count-uncertain
 - review: claims on sexual orientation and depopulation
@@ -4067,5 +4221,6 @@ Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Obser
 - visitors-identified-as-key-returners
 - warrior\_symbolism
 - wartime-conspiracy-claims
+- worldview-claims-attributed-to-Mari
 - yemen-portal-claim
 - zero-point-mechanics

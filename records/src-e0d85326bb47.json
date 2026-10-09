@@ -1,0 +1,72 @@
+{
+  "source_id": "src-e0d85326bb47",
+  "snapshot_sha256": "84b217af36d992c5fb664cd9225a478ed6926f7c8cb3b373295a0b02f9aacda8",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-e0d85326bb47-c01",
+      "assertion": "Mari says secret astral military units fight entities, and many starseeds conduct nighttime missions they may not remember while awake.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0013",
+        "p0018"
+      ],
+      "primary_topic": "astral-military-units",
+      "topics": [
+        "astral-military-units",
+        "starseeds",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0d85326bb47-c02",
+      "assertion": "She says the Prime Directive limits direct intervention, so star races guide their Earth starseeds covertly or through inspiration, often using astral influence.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0014",
+        "p0020",
+        "p0022"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "starseeds",
+        "astral-military-units"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-e0d85326bb47-c03",
+      "assertion": "Mari describes immersion pods that shift a user's mental frequency to a chosen astral realm or to a compatible body for a simulated Earth life.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "immersion-pods",
+      "topics": [
+        "immersion-pods",
+        "astral-travel"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She compares the latter process to the film Avatar."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "astral fatigue and child experiences",
+    "hostile entities crossing into material reality"
+  ]
+}

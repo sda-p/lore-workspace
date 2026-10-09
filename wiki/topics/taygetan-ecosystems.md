@@ -338,6 +338,26 @@ Attributed to **Anéeka**; asserted; extraction confidence: high.
 
 Source: [CYNDRIEL - ALDEBARAN \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/cyndriel-aldebaran-sin-video) (2021-11-21; es); passages p0082, p0083. [Structured record](../../records/src-621113b9af49.json).
 
+### src-2e44af6cf865-c03
+
+Swaruu (9) says Toleka ships use aquaponics for supplemental kitchen produce, not crew subsistence. The plots provide small quantities.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LO QUE NO TE CUENTAN DEL VEGANISMO - SUS PELIGROS - TAYGETA](https://swaruu.org/transcripts/lo-que-no-te-cuentan-del-veganismo-sus-peligros-taygeta) (2022-09-29; es); passages p0131. [Structured record](../../records/src-2e44af6cf865.json).
+
+Related topics: [Toleka-class starships](toleka-class.md).
+
+### src-901c303678fd-c03
+
+Yazhi says diets should vary with digestive enzymes and plant antinutrients; Taygetans digest plants differently.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Charlas sobre Nutrición y Dieta - Hablando con Swaruu, Aneeka y Yazhi sobre que Comer](https://swaruu.org/transcripts/charlas-sobre-nutricion-y-dieta-hablando-con-swaruu-aneeka-y-yazhi-sobre-que-comer) (2022-10-16; es); passages p0123, p0124, p0126, p0127. [Structured record](../../records/src-901c303678fd.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
 ## Claims filed under other topics
 
 - [src-8ca54257f6a4-c03](cyndriel.md#src-8ca54257f6a4-c03) — Cyndriel
@@ -362,16 +382,21 @@ Source: [CYNDRIEL - ALDEBARAN \*\*SIN VIDEO\*\*](https://swaruu.org/transcripts/
 - [src-d3e73f956099-c01](holistic-society.md#src-d3e73f956099-c01) — Holistic society
 - [src-d3e73f956099-c03](frequency-astrology.md#src-d3e73f956099-c03) — Frequency-based astrology
 - [src-d3e73f956099-c04](ship-internal-time.md#src-d3e73f956099-c04) — Ship internal time
+- [src-7d76d15d2444-c03](lyrians.md#src-7d76d15d2444-c03) — Lyrians
+- [src-7d76d15d2444-c04](lyrians.md#src-7d76d15d2444-c04) — Lyrians
 
 ## Review flags
 
 - Anéeka explicitly distinguishes “gravity holes” from black holes.
 - Cyndriel’s surface–orbit time discrepancy is unexplained.
+- Dietary and medical statements are attributed to the speakers and are not established facts.
 - Health report is Mari’s account, not treatment guidance; meeting purpose is explicitly unknown
 - Senetre-diagnosed-weapon-route-suspected
+- Swaruu X presents multiple hybridization motives and acknowledges incomplete information about some groups.
 - Weaponized-weather attribution is explicitly speculative; the ship’s role is implied, not demonstrated
 - conflicting\_origin\_accounts
 - field-procedure-account-attributed-to-mari
+- food-claims-context
 - medical-and-abduction-claims-excluded
 - miranda-no-bases-versus-other-moon-bases
 - p0024–p0026 use an oblique coded allegory; interpretation is uncertain

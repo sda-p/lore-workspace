@@ -1,0 +1,75 @@
+{
+  "source_id": "src-1c99be09ad1a",
+  "snapshot_sha256": "f6c049f916a2ca1fdf09ef48d9a1c6d9877ba43ae635a40d57379f6c41d26a31",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-1c99be09ad1a-c01",
+      "assertion": "Yazhi said “dark matter” names effects known to human science without an identified substance; she attributed them to other densities, not a portal.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0011"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c99be09ad1a-c02",
+      "assertion": "She described densities as frequency states that affect perceived light; she said navigation between them requires a frequency map, while dark matter itself is not a place to enter.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0017",
+        "p0048"
+      ],
+      "primary_topic": "perceptual-density",
+      "topics": [
+        "perceptual-density",
+        "frequency-map-navigation"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-1c99be09ad1a-c03",
+      "assertion": "Yazhi extended “dark matter” to paranormal effects unknown to human science, but said magic does not manipulate it.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0032",
+        "p0033",
+        "p0037"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "perceptual-density"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This was her broader use of the label."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "dark-matter-as-density",
+      "name": "Dark matter as other densities",
+      "kind": "cosmology",
+      "aliases": [
+        "Materia Oscura como otras densidades"
+      ]
+    }
+  ],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Distinction from dark energy and discussion of the observable fraction of reality"
+  ]
+}

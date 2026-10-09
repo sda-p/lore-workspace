@@ -702,6 +702,46 @@ Source: [Camioneros en Canada - Posible Agenda? Athena Swaruu Comparte sus Obser
 
 Related topics: [Earth Cabal and power structures](earth-cabal.md).
 
+### src-be4d6a42f7c2-c05
+
+Yazhi warns cryptocurrency may aid cashless control, including digital funds with expiration dates.
+
+Attributed to **Yazhi**; speculative; extraction confidence: medium.
+
+Source: [Reptiles, Moldavita, y mas - MINI TEMAS - Información Extraterrestre](https://swaruu.org/transcripts/reptiles-moldavita-y-mas-mini-temas-informacion-extraterrestre) (2022-12-22; es); passages p0007, p0008. [Structured record](../../records/src-be4d6a42f7c2.json).
+
+### src-cdacb8b863b2-c04
+
+She calls cryptocurrencies a control tool that may enable expiration of digital funds and threaten people’s savings.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [FIBRAS QUE CAEN DEL CIELO - LUCES AZULES - EL MUNDIAL 2022 - CRIPTOMONEDAS - Yazhi Swaruu](https://swaruu.org/transcripts/fibras-que-caen-del-cielo-luces-azules-el-mundial-2022-criptomonedas-yazhi-swaruu) (2022-12-10; es); passages p0050, p0051. [Structured record](../../records/src-cdacb8b863b2.json).
+
+### src-1976178fe747-c04
+
+She says crews once hacked banks for money, but security advances made it harder; long-term visitors learn ordinary work.
+
+Attributed to **Mari Swaruu**; reported; extraction confidence: high.
+
+Source: [Extraterrestres viviendo entre humanos, parte 2](https://swaruu.org/transcripts/extraterrestres-viviendo-entre-humanos-parte-2) (2023-01-09; es); passages p0027, p0028. [Structured record](../../records/src-1976178fe747.json).
+
+### src-28f04bff29fc-c02
+
+She predicts lithium scarcity and battery demand will raise electric vehicle prices and reduce product quality.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER - YAZHI - Sophia Swaruu](https://swaruu.org/transcripts/lo-que-no-te-cuentan-de-los-vehiculos-electricos-y-tienes-que-saber-yazhi-sophia-swaruu) (2022-10-11; es); passages p0005, p0006, p0008. [Structured record](../../records/src-28f04bff29fc.json).
+
+### src-28f04bff29fc-c04
+
+She says terrestrial electric vehicles are costly, poorly made, disposable, and difficult to repair independently.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [LO QUE NO TE CUENTAN DE LOS VEHÍCULOS ELÉCTRICOS Y TIENES QUE SABER - YAZHI - Sophia Swaruu](https://swaruu.org/transcripts/lo-que-no-te-cuentan-de-los-vehiculos-electricos-y-tienes-que-saber-yazhi-sophia-swaruu) (2022-10-11; es); passages p0013, p0020. [Structured record](../../records/src-28f04bff29fc.json).
+
 ## Claims filed under other topics
 
 - [src-4c109f1e384a-c01](holistic-society.md#src-4c109f1e384a-c01) — Holistic society
@@ -767,11 +807,16 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - [src-226904c4f73e-c03](holistic-society.md#src-226904c4f73e-c03) — Holistic society
 - [src-d8771f2c1186-c01](terrestrial-science.md#src-d8771f2c1186-c01) — Terrestrial science
 - [src-9cde082f48c4-c03](ukraine.md#src-9cde082f48c4-c03) — Ukraine
+- [src-509a0d643adf-c01](holistic-society.md#src-509a0d643adf-c01) — Holistic society
+- [src-773f342a04a2-c01](artificial-intelligence.md#src-773f342a04a2-c01) — Artificial intelligence
+- [src-52f3828b6f14-c02](earth-cabal.md#src-52f3828b6f14-c02) — Earth Cabal and power structures
+- [src-db2abd569bd8-c02](electric-vehicles.md#src-db2abd569bd8-c02) — Electric vehicles
 
 ## Review flags
 
 - Claims about clones, mind control, and the Cabal are attributed to the speakers; the transcript provides no independent evidence.
 - Compared English candidate src-d16fe289eee6 in full: similar translated title but non-equivalent content and scope; English source is a separate, longer critique of terrestrial science.
+- Contains disputed environmental, market, vehicle safety, and government-control claims; attribute to Yazhi, not established findings.
 - Federation alternately described as Earth controller and nonultimate authority.
 - Federation-infiltration\_theory
 - Federation-sanctions\_reported
@@ -780,16 +825,21 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - Meteor-intervention and Earth-consciousness claims are source-attributed.
 - PCR and vaccine medical claims omitted.
 - Regional Sauroid control is distinct from Saturn itself; source dates its end to 2012.
+- Remote-shutdown and environmental claims are attributed to Yazhi and not presented as established facts.
+- Reptilian claims about a public figure are attributed to Yazhi and not independently verified.
 - Resource motives and fear-feeding are speaker-attributed metaphysical claims
 - Resource-seeking distinction is level-dependent in Anéeka’s account
 - The alleged CIA organization is explicitly called speculation and unsupported by precise evidence in the interview.
+- These are Mari Swaruu’s autobiographical and extraterrestrial claims, not independently verified.
 - Yazhi proposes nonhuman tutoring, then says people should not wait for outside help.
 - approximate-age-estimate
 - attack-theory\_speculative
+- attributed-lore-claims
 - attribution: media-code list relayed from Swaruu of Erra (p0023-p0046)
 - candidate-translation:src-04363d1ddca1; Spanish text substantially overlaps English, with terminology variation; review before merge
 - care-access-claims
 - competing-human-and-federation-perspectives-attributed
+- composite-english-spanish-transcript
 - conspiracy-allegations
 - conspiracy-claims
 - contested-claims
@@ -833,6 +883,7 @@ Related topics: [Earth Cabal and power structures](earth-cabal.md).
 - personal\_social\_theory
 - policy-claims-unverified
 - political-allegation
+- political-technology-claim
 - political\_claims
 - political\_structure\_claims
 - prior\_statement\_conflict

@@ -1,0 +1,93 @@
+{
+  "source_id": "src-c504ffb5de14",
+  "snapshot_sha256": "af16b692eadac860a764065e4eaa5019658ac4d5c17657ba6f104f852afa09f1",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c504ffb5de14-c01",
+      "assertion": "Athena argues flat-Earth narratives confuse people and deter them from astronomy and extraterrestrial life; she cites flight paths and constellations as contrary evidence.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0002",
+        "p0003",
+        "p0005",
+        "p0009",
+        "p0011",
+        "p0022",
+        "p0024"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c504ffb5de14-c02",
+      "assertion": "She says celestial bodies can influence people through their consciousness and collective nonlocality; mere lights have little consciousness.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0028",
+        "p0029",
+        "p0030",
+        "p0031"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c504ffb5de14-c03",
+      "assertion": "She distinguishes popular astrology as a shallow shell from a deeper, metaphysical astrology whose rationale she says is hidden from the public.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0032",
+        "p0034",
+        "p0035",
+        "p0036",
+        "p0039",
+        "p0041"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c504ffb5de14-c04",
+      "assertion": "She says extraterrestrials may be both nonterrestrial and interdimensional, but using a portal alone does not make a traveler interdimensional.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0018",
+        "p0020"
+      ],
+      "primary_topic": "artificial-portals",
+      "topics": [
+        "artificial-portals",
+        "alien-species",
+        "astral-entities"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Public astrology’s detailed mechanisms",
+    "Specific claims about star-ship size and the Federation"
+  ]
+}

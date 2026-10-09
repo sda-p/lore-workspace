@@ -746,6 +746,66 @@ Source: [¿Qué son las emociones? – CAMBIA TU LA REALIDAD – Sophia Swaruu -
 
 Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 
+### src-fcac44b6fa7c-c01
+
+Yazhi attributes missing mass in terrestrial calculations to other densities and parallel worlds interwoven with perceived 3D. Her proposed explanation.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [DESCUBRIENDO LA VERDAD DETRÁS DE LA MATERIA OSCURA - Yazhi Swaruu](https://swaruu.org/transcripts/descubriendo-la-verdad-detras-de-la-materia-oscura-yazhi-swaruu) (2023-04-10; es); passages p0003, p0004, p0014, p0015. [Structured record](../../records/src-fcac44b6fa7c.json).
+
+Related topics: [Terrestrial science](terrestrial-science.md).
+
+### src-4531380816aa-c01
+
+Yazhi said density-frequency ranges are not fixed because densities describe personal consciousness; an unembodied soul has no measurable frequency, unlike a body’s limited range.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [MiniTemas - Variedad de Información - Reptiles y Extraterrestres entre los Humanos y Mas](https://swaruu.org/transcripts/minitemas-variedad-de-informacion-reptiles-y-extraterrestres-entre-los-humanos-y-mas) (2022-10-12; es); passages p0003, p0004, p0005, p0006, p0007. [Structured record](../../records/src-4531380816aa.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1c99be09ad1a-c01
+
+Yazhi said “dark matter” names effects known to human science without an identified substance; she attributed them to other densities, not a portal.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA MATERIA OSCURA: UNA PUERTA A OTRAS DENSIDADES DEL UNIVERSO](https://swaruu.org/transcripts/la-materia-oscura-una-puerta-a-otras-densidades-del-universo) (2023-04-20; es); passages p0004, p0005, p0007, p0011. [Structured record](../../records/src-1c99be09ad1a.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
+### src-1c99be09ad1a-c02
+
+She described densities as frequency states that affect perceived light; she said navigation between them requires a frequency map, while dark matter itself is not a place to enter.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA MATERIA OSCURA: UNA PUERTA A OTRAS DENSIDADES DEL UNIVERSO](https://swaruu.org/transcripts/la-materia-oscura-una-puerta-a-otras-densidades-del-universo) (2023-04-20; es); passages p0017, p0048. [Structured record](../../records/src-1c99be09ad1a.json).
+
+Related topics: [Frequency-map navigation](frequency-map-navigation.md).
+
+### src-1c56b7d9bf71-c01
+
+Anéeka said entering 3D reduces a being from 24 chromosomes and 12 DNA strands to 23 chromosomes and two strands, attributing this to density simplification. She said consciousness drives this change.
+
+Attributed to **Anéeka**; asserted; extraction confidence: high.
+
+Source: [EL PODER DEL AHORA: CÓMO VIVIR EN EL PRESENTE PUEDE TRANSFORMAR TU VIDA](https://swaruu.org/transcripts/el-poder-del-ahora-como-vivir-en-el-presente-puede-transformar-tu-vida) (2023-03-07; es); passages p0016. [Structured record](../../records/src-1c56b7d9bf71.json).
+
+Related topics: [Humanity as a shared biological suit](human-biosuit-model.md).
+
+### src-d778f32d51ae-c01
+
+Athena called 3D and 5D human simplifications; she said individuals perceive personal frequency ranges and shared agreements create overlapping realities. She noted her concepts differ from Taygetan views.
+
+Attributed to **Swaruu X (Athena)**; asserted; extraction confidence: high.
+
+Source: [DENSIDADES CONVERSACIÓN METAFÍSICA – CONTACTO EXTRATERRESTRE- ATHENA SWARUU](https://swaruu.org/transcripts/densidades-conversacion-metafisica-contacto-extraterrestre-athena-swaruu) (2023-01-17; es); passages p0002, p0003, p0013, p0015. [Structured record](../../records/src-d778f32d51ae.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-bd13d89221e8-c04](consciousness-metaphysics.md#src-bd13d89221e8-c04) — Consciousness and metaphysics
@@ -849,17 +909,28 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - [src-9be5d7b8001c-c01](consciousness-metaphysics.md#src-9be5d7b8001c-c01) — Consciousness and metaphysics
 - [src-5b4daa64f189-c01](consciousness-metaphysics.md#src-5b4daa64f189-c01) — Consciousness and metaphysics
 - [src-4bd203cbfe4d-c05](karistus.md#src-4bd203cbfe4d-c05) — Karistus
+- [src-b6f00e97482c-c02](consciousness-metaphysics.md#src-b6f00e97482c-c02) — Consciousness and metaphysics
+- [src-b5be7120aaf2-c02](consciousness-metaphysics.md#src-b5be7120aaf2-c02) — Consciousness and metaphysics
+- [src-fcac44b6fa7c-c03](terrestrial-science.md#src-fcac44b6fa7c-c03) — Terrestrial science
+- [src-1c99be09ad1a-c03](consciousness-metaphysics.md#src-1c99be09ad1a-c03) — Consciousness and metaphysics
+- [src-1c56b7d9bf71-c02](human-biosuit-model.md#src-1c56b7d9bf71-c02) — Humanity as a shared biological suit
+- [src-1c56b7d9bf71-c03](human-biosuit-model.md#src-1c56b7d9bf71-c03) — Humanity as a shared biological suit
+- [src-d778f32d51ae-c02](consciousness-metaphysics.md#src-d778f32d51ae-c02) — Consciousness and metaphysics
+- [src-114eb7d82f29-c02](telepathic-channeling.md#src-114eb7d82f29-c02) — Telepathic channeling
 
 ## Review flags
 
 - 2018 Yeti-release account conflicts with Anéeka’s later 2019 murder/no-ship account.
 - Abilities, body control, and density model are Yazhi’s self-reports
+- Chromosome and DNA claims are attributed to Anéeka and Yazhi.
+- Claims about elementals and gravity sensing are attributed to Athena.
 - Compared English counterpart src-71d40c73482b in full; close translation with paragraph segmentation shifts and no substantive additions identified.
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - Different-models-of-time-and-density-are-explicitly-contrasted
 - Identity account shifts: Swaruu first says she cannot identify Gosia, later identifies her as Caroline and explains that her knowledge changed.
 - Karistus ownership, lineage, political relations, and combat claims are attributed and may not reflect other speakers’ accounts
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
+- Reptilian identity claim is an allegation by the speaker.
 - These are Mari’s metaphysical positions, not externally verified cosmology
 - Yazhi frames these cosmological claims as perspective-dependent, not imposed absolute facts
 - Yazhi presents several perspective-dependent formulations of identity and integration
@@ -890,12 +961,14 @@ Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
 - matrix-collapse-and-human-choice
 - matrix-reset-and-density-doctrine-attributed
 - metaphysical-entity-origin-claims
+- metaphysical-frequency-model
 - metaphysical-model
 - near-duplicate-of-src-051532dd5b50
 - numerical influence comparisons are illustrative, not fixed ratios
 - nutrition-medical-claims-omitted
 - objective-versus-personal-reality-framing
 - original-language:en
+- paranormal-technology-and-cosmology-claims
 - perception-model-uses-and-rejects-literal-timeline-terms
 - personal-ability-claims-attributed
 - personal\_metaphysics

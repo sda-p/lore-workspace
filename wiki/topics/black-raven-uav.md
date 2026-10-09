@@ -37,6 +37,7 @@ Related topics: [Terrestrial science](terrestrial-science.md).
 ## Claims filed under other topics
 
 - [src-41f6dbd41e06-c05](false-alien-invasion.md#src-41f6dbd41e06-c05) — False alien invasion scenarios
+- [src-66fb35352fc6-c03](spherical-drones.md#src-66fb35352fc6-c03) — Spherical drones
 
 ## Review flags
 

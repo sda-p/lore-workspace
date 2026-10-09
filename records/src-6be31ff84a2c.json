@@ -1,0 +1,79 @@
+{
+  "source_id": "src-6be31ff84a2c",
+  "snapshot_sha256": "5b895b7832349bcf5422ad9c9fba9f4432f1e1c8cd5bc7ca813bce2fd619f9bb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-6be31ff84a2c-c01",
+      "assertion": "Athena says her group assessed Ukraine from the air and ground, comparing observations with sources.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0003",
+        "p0004"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-6be31ff84a2c-c02",
+      "assertion": "She reports residents in separatist regions described themselves as pro-Russian and viewed Russia as protective.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her account of residents’ views."
+    },
+    {
+      "id": "src-6be31ff84a2c-c03",
+      "assertion": "She alleges NATO caused substantial destruction, while saying shells from both sides harmed civilians.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0006",
+        "p0011"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These allegations are not independently verified here."
+    },
+    {
+      "id": "src-6be31ff84a2c-c04",
+      "assertion": "She frames the war as a Western proxy effort to change Russia’s government and calls Western coverage propaganda.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0010"
+      ],
+      "primary_topic": "ukraine",
+      "topics": [
+        "ukraine"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is Athena’s analysis."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "This transcript makes contested wartime allegations and population estimates; all are attributed to Athena, not verified."
+  ],
+  "coverage_gaps": [
+    "claims about Kiev and other Ukrainian regions",
+    "claimed population loss and migration estimates"
+  ]
+}

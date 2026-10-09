@@ -52,7 +52,9 @@ Related topics: [Gravity harmonics](gravity-harmonics.md).
 
 - [src-e10b7b1c1712-c04](astrotheology.md#src-e10b7b1c1712-c04) — Astrotheology
 - [src-e10b7b1c1712-c05](astrotheology.md#src-e10b7b1c1712-c05) — Astrotheology
+- [src-8c403e396292-c03](giza-labyrinth.md#src-8c403e396292-c03) — Giza Labyrinth
 
 ## Review flags
 
+- Racial and archaeological claims are attributed to Yazhi and are not established findings.
 - pyramid engineering, power generation, and Sphinx chronology claims are attributed and unverified

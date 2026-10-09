@@ -41,7 +41,13 @@ Related topics: [Teleportation](teleportation.md).
 ## Claims filed under other topics
 
 - [src-f806bbf625d9-c05](lurkers.md#src-f806bbf625d9-c05) — Lurkers
+- [src-a06f28bdaffd-c01](taygetans.md#src-a06f28bdaffd-c01) — Taygetans
+- [src-a5922967f589-c01](dna-metaphysics.md#src-a5922967f589-c01) — DNA and metaphysical patterns
+- [src-2be77fc03489-c01](dna-metaphysics.md#src-2be77fc03489-c01) — DNA and metaphysical patterns
+- [src-b48ede308895-c02](medical-pods.md#src-b48ede308895-c02) — Medical regeneration pods
 
 ## Review flags
 
+- Claims describe Yazhi's metaphysical account of DNA and are not presented as established biology.
+- Medical technology claims are attributed to Yazhi.
 - internal-count-conflict:swaruwnian-chromosomes

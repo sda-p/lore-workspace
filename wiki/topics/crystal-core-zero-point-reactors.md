@@ -72,6 +72,7 @@ Related topics: [Taygetan Base-12 Mathematics](taygetan-base-12-mathematics.md).
 
 - [src-220efa38c406-c03](energy-generation.md#src-220efa38c406-c03) — Energy generation technology
 - [src-1301f08e45a8-c02](energy-generation.md#src-1301f08e45a8-c02) — Energy generation technology
+- [src-66fb35352fc6-c02](spherical-drones.md#src-66fb35352fc6-c02) — Spherical drones
 
 ## Review flags
 

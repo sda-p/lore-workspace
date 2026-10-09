@@ -1,0 +1,54 @@
+{
+  "source_id": "src-46f3bf392b0e",
+  "snapshot_sha256": "aa75550b5dc4098a2850ea0faa6442474fd482981a79d02b63334f1009d0af08",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-46f3bf392b0e-c01",
+      "assertion": "Anéeka identifies Puma Punku as a 12,000-year-old multiracial Federation starbase, later inhabited by successive human cultures and covered with portal maps.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0004", "p0006", "p0007", "p0011", "p0015"],
+      "primary_topic": "natural-portals",
+      "topics": ["natural-portals", "galactic-federation", "solar-portal-transit"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46f3bf392b0e-c02",
+      "assertion": "Anéeka says stones were cut using sound and gravity; Sun Gate portal use requires exact stellar timing, spacecraft, and powerful computers.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0005", "p0039", "p0041"],
+      "primary_topic": "solar-portal-transit",
+      "topics": ["solar-portal-transit", "natural-portals", "stellar-navigation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46f3bf392b0e-c03",
+      "assertion": "Anéeka says Usungal reptilians built Machu Picchu for human followers and dates it about 3,000 years before Puma Punku.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0017", "p0025", "p0026", "p0032"],
+      "primary_topic": "usungal",
+      "topics": ["usungal", "atlantis-lemuria"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-46f3bf392b0e-c04",
+      "assertion": "Anéeka describes the Sun as a gravity-based portal transit hub; ships jump frequencies by manipulating gravity rather than bending space.",
+      "speaker": "Anéeka",
+      "paragraph_ids": ["p0053", "p0055", "p0060"],
+      "primary_topic": "solar-portal-transit",
+      "topics": ["solar-portal-transit", "black-holes", "starship-systems"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Puma Punku’s multiple cultural layers", "Nazca and underwater Titicaca links", "nonhuman skull claims"]
+}

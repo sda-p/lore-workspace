@@ -1,0 +1,70 @@
+{
+  "source_id": "src-d2f26274ed8a",
+  "snapshot_sha256": "51e8cae2d98dde1c9bc639c4f19215232f15824f5694630653be9e83d8b027a2",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d2f26274ed8a-c01",
+      "assertion": "Yazhi portrays White Hat and White Dragon groups as controlled opposition within the same Cabal, while allowing some individuals may help; she says genuine opponents would disclose more.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012",
+        "p0013",
+        "p0014",
+        "p0019",
+        "p0023",
+        "p0025"
+      ],
+      "primary_topic": "earth-cabal",
+      "topics": [
+        "earth-cabal"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2f26274ed8a-c02",
+      "assertion": "She describes alien liberation and good-versus-evil conflicts as reflections of human mentality in a self-contained Matrix where friction may foster learning.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "moon-matrix",
+      "topics": [
+        "moon-matrix"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-d2f26274ed8a-c03",
+      "assertion": "She says official claims, including atomic energy, are context-dependent Matrix truths rather than universal truths.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "terrestrial-science",
+      "topics": [
+        "terrestrial-science"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Yazhi distinguishes individuals who may work for the public from organizations she says are part of the same power structure."
+  ],
+  "coverage_gaps": [
+    "specific examples of failed White Hat promises",
+    "Yazhi’s personal theory of suppressed technologies"
+  ]
+}

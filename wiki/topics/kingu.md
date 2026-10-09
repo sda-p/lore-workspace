@@ -86,6 +86,36 @@ Source: [Tulpas, Reptiles Kingu, Federación Galactica - Yazhi (Comunicacion Ext
 
 Related topics: [Reptilians](reptilians.md), [Tulpas](tulpas.md).
 
+### src-2e44af6cf865-c02
+
+Swaruu (9) describes Kingu society as seven castes, with slave labor below and White Kingu at the top. She compares middle-caste repression to Earth humans.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [LO QUE NO TE CUENTAN DEL VEGANISMO - SUS PELIGROS - TAYGETA](https://swaruu.org/transcripts/lo-que-no-te-cuentan-del-veganismo-sus-peligros-taygeta) (2022-09-29; es); passages p0099. [Structured record](../../records/src-2e44af6cf865.json).
+
+Related topics: [Reptilians](reptilians.md).
+
+### src-f344c5152e16-c03
+
+Swaruu says Reptilian society has seven castes, with slave labor below and white Kingu at the top.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: high.
+
+Source: [Veganismo - Agendas - Investigación Taygeteana - NO recomendamos Dieta Vegana](https://swaruu.org/transcripts/veganismo-agendas-investigacion-taygeteana-no-recomendamos-dieta-vegana) (2022-09-29; es); passages p0099. [Structured record](../../records/src-f344c5152e16.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
+### src-f344c5152e16-c04
+
+Swaruu says some Earth DUMB Kingu oppose human exploitation yet eat humans to survive; Reptilian society is also repressive.
+
+Attributed to **Swaruu 9**; reported; extraction confidence: medium.
+
+Source: [Veganismo - Agendas - Investigación Taygeteana - NO recomendamos Dieta Vegana](https://swaruu.org/transcripts/veganismo-agendas-investigacion-taygeteana-no-recomendamos-dieta-vegana) (2022-09-29; es); passages p0153, p0155, p0158. [Structured record](../../records/src-f344c5152e16.json).
+
+Related topics: [Alien species and distinctions](alien-species.md).
+
 ## Claims filed under other topics
 
 - [src-afa1873e4741-c02](alien-species.md#src-afa1873e4741-c02) — Alien species and distinctions
@@ -110,8 +140,11 @@ Related topics: [Reptilians](reptilians.md), [Tulpas](tulpas.md).
 - conspiracy-claims
 - definition\_varies
 - federation-infiltration-allegations
+- food-claims-context
 - hidden-inner-earth-entrance-claim
 - lunar-artificial-structure-claims-attributed
+- medical-diet-claims
 - metaphysical-entity-origin-claims
+- multi-speaker-source
 - reptilian-species-versus-reptile-egregor
 - species-labels-uncertain

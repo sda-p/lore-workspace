@@ -28,6 +28,15 @@ Source: [LOS SECRETOS DEL PLANETA NEPTUNO SUS LUNAS Y EL ASTEROIDE CERES ANTIGUA
 
 Related topics: [Galactic Federation](galactic-federation.md).
 
+### src-6338db41254a-c02
+
+She describes Ceres, formerly Tiamat’s moon, as hosting Federation bases and cities for ship resupply, repairs, and trade.
+
+Attributed to **Swaruu (9)**; asserted; extraction confidence: high.
+
+Source: [Neptuno, Ceres, y mas - Sistema Solar - Swaruu de Erra](https://swaruu.org/transcripts/neptuno-ceres-y-mas-sistema-solar-swaruu-de-erra) (2023-01-25; es); passages p0025, p0028, p0038, p0047. [Structured record](../../records/src-6338db41254a.json).
+
 ## Review flags
 
+- Swaruu (9) says the O’ha’lu Mantis are related to but distinct from Mars Mantis; she describes their role in human extraction as indirect through sauroid raiders’ use of their bases.
 - triton-placement-attributed-to-andromedans

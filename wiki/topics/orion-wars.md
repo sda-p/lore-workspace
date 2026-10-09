@@ -133,12 +133,15 @@ Related topics: [Lyran expansion](lyran-expansion.md), [Reptilians](reptilians.m
 - [src-ec0774773c92-c02](tiamat.md#src-ec0774773c92-c02) — Tiamat
 - [src-51b930d00866-c02](galactic-federation.md#src-51b930d00866-c02) — Galactic Federation
 - [src-791b660d5229-c01](alpha-draconians.md#src-791b660d5229-c01) — Alpha Draconians
+- [src-f10960087bcd-c01](taygetans.md#src-f10960087bcd-c01) — Taygetans
+- [src-07f9f86e1027-c02](lyrians.md#src-07f9f86e1027-c02) — Lyrians
 
 ## Review flags
 
 - Federation-infiltration\_theory
 - Passages p0004 and p0006 are unattributed narration; separated from Yazhi’s explicit statements
 - Text-only English translation from Spanish; no paired Spanish candidate in assigned batch
+- The author explicitly framed this material as entertainment or science fiction; claims are attributed to Mari.
 - ancient-solar-system-density-and-polity-claims
 - approximate\_dates
 - conflicting\_faction\_accounts
@@ -160,4 +163,5 @@ Related topics: [Lyran expansion](lyran-expansion.md), [Reptilians](reptilians.m
 - translated\_source
 - translation-counterpart:src-7f7f62c9391c-close-no-substantive-additions
 - unproven-historical-speculation
+- unverified-cosmology-and-energy-claims
 - unverified\_extraterrestrial\_claims

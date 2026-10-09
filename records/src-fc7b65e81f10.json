@@ -1,0 +1,54 @@
+{
+  "source_id": "src-fc7b65e81f10",
+  "snapshot_sha256": "fc103916b187d586e62553e49b9607b0121404bfab233cc8e4cd05d0687f50ac",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-fc7b65e81f10-c01",
+      "assertion": "Arishah says Urmah follow only logical Federation rules, preserve autonomy, and maintain a feline federation the Federation avoids challenging.",
+      "speaker": "Arishah (interviewee; translated by Mari Swaruu)",
+      "paragraph_ids": ["p0007", "p0008", "p0023", "p0024", "p0025", "p0026"],
+      "primary_topic": "urmah",
+      "topics": ["urmah", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc7b65e81f10-c02",
+      "assertion": "He alleges the Federation guided a Centauri civilizational reset and fabricated reptilian-invasion stories, while accepting exploitation may have occurred.",
+      "speaker": "Arishah (interviewee; translated by Mari Swaruu)",
+      "paragraph_ids": ["p0017", "p0018", "p0019", "p0020", "p0021"],
+      "primary_topic": "planetary-matrix-resets",
+      "topics": ["planetary-matrix-resets", "alfrateans", "galactic-federation"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc7b65e81f10-c03",
+      "assertion": "Arishah says Urmah are at peace with Alpha Dracos and use military strength to deter aggressive species from their region.",
+      "speaker": "Arishah (interviewee; translated by Mari Swaruu)",
+      "paragraph_ids": ["p0035", "p0036", "p0038", "p0040"],
+      "primary_topic": "urmah",
+      "topics": ["urmah", "alpha-dracos"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-fc7b65e81f10-c04",
+      "assertion": "Arishah opposes the Federation’s handling of Earth, alleging it manipulates the desires it claims to protect.",
+      "speaker": "Arishah (interviewee; translated by Mari Swaruu)",
+      "paragraph_ids": ["p0027", "p0028"],
+      "primary_topic": "galactic-federation",
+      "topics": ["galactic-federation", "earth-cabal"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["Urmah history and origins", "diplomatic treaty with Taygeta", "rejection of Great Expansion narrative"]
+}

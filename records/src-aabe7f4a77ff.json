@@ -1,0 +1,86 @@
+{
+  "source_id": "src-aabe7f4a77ff",
+  "snapshot_sha256": "ccf95f3423a41d12dd4f659c6e1fc7fae2a76b125128c0f882e05ba92d5217b4",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-aabe7f4a77ff-c01",
+      "assertion": "Mari says each Taygetan crew member has a private cabin; ship AI can control its door, except when disabled.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says door control may be retained for emergencies."
+    },
+    {
+      "id": "src-aabe7f4a77ff-c02",
+      "assertion": "She describes cabin windows made from transparent, adjustable-opacity polymorphic hull material.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0011"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aabe7f4a77ff-c03",
+      "assertion": "She says toilets use ultrasonic cleaning bubbles and little water, avoiding toilet paper and self-disinfecting after use.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0018",
+        "p0021",
+        "p0023",
+        "p0020"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-aabe7f4a77ff-c04",
+      "assertion": "She says vacuum and high-voltage plasma vaporize sewage, producing electricity that exceeds toilet use.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0024",
+        "p0028",
+        "p0031",
+        "p0025",
+        "p0027"
+      ],
+      "primary_topic": "energy-generation",
+      "topics": [
+        "energy-generation",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She also says nonrecyclable trash can be vaporized into power."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "Technology and energy claims are attributed to Mari Swaruu and are not independently verified."
+  ],
+  "coverage_gaps": [
+    "cabin layout and equipment",
+    "water generation and soap refilling"
+  ]
+}

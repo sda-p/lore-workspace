@@ -1,0 +1,77 @@
+{
+  "source_id": "src-c6671f7e71b0",
+  "snapshot_sha256": "818e3f58db09a7facccc97a98726e567b728f9727e06c7e0cd1f34bfb5f0e25d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-c6671f7e71b0-c01",
+      "assertion": "Athena said Earth matters chiefly because many species’ souls share human lives there and can develop rapidly, not because of resources or strategic location.",
+      "speaker": "Swaruu X (Athena)",
+      "paragraph_ids": [
+        "p0005",
+        "p0007",
+        "p0009",
+        "p0011",
+        "p0027"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "reincarnation-cycles"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c6671f7e71b0-c02",
+      "assertion": "Yazhi said Earth lives are voluntary soul experiences that use limited memory and uncertainty to practice emotions; misinformation may still shape choices.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0049",
+        "p0052",
+        "p0054",
+        "p0066",
+        "p0074",
+        "p0083"
+      ],
+      "primary_topic": "reincarnation-cycles",
+      "topics": [
+        "reincarnation-cycles",
+        "memory-veil"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-c6671f7e71b0-c03",
+      "assertion": "Yazhi said offworlders care because loved ones are on Earth, but should support rather than impose, leaving souls to choose how their world changes.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0086",
+        "p0087",
+        "p0088",
+        "p0089",
+        "p0090"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "prime-directive"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Federation oversight and threat scenarios",
+    "other reasons for extraterrestrial interest"
+  ]
+}

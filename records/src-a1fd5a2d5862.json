@@ -1,0 +1,63 @@
+{
+  "source_id": "src-a1fd5a2d5862",
+  "snapshot_sha256": "c569aad64564351090a27b90a8a7080ff6fc54ce226ebd6047a765652092be53",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-a1fd5a2d5862-c01",
+      "assertion": "Mari's quoted First Directive applies to planetary cultures that have not achieved interstellar travel.",
+      "speaker": "Mari Swaruu, quoting the Federation First Directive",
+      "paragraph_ids": [
+        "p0004",
+        "p0005"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She cites Federation statutes, Chapter One, Article Two, Paragraph Seven."
+    },
+    {
+      "id": "src-a1fd5a2d5862-c02",
+      "assertion": "The directive forbids introducing superior knowledge, force, technology, or contact that disrupts a less-developed culture's normal development.",
+      "speaker": "Mari Swaruu, quoting the Federation First Directive",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "Exceptions: prior violations, accidental contamination, or external threat."
+    },
+    {
+      "id": "src-a1fd5a2d5862-c03",
+      "assertion": "It bars showing less-developed peoples proof of the Federation or its technology and calls for suppressing rumors of its existence.",
+      "speaker": "Mari Swaruu, quoting the Federation First Directive",
+      "paragraph_ids": [
+        "p0010"
+      ],
+      "primary_topic": "prime-directive",
+      "topics": [
+        "prime-directive",
+        "galactic-federation"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "The stated aim is preserving natural cultural and technological progression."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "Federation coercive-measures exception in Chapter 6"
+  ]
+}

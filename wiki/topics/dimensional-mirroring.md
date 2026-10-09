@@ -212,6 +212,16 @@ Attributed to **Yazhi**; asserted; extraction confidence: high.
 
 Source: [No hay Mundo Material - Parte 2 - Mundo de los Espiritus vs de los Vivos - Yazhi Swaruu](https://swaruu.org/transcripts/no-hay-mundo-material-parte-2-mundo-de-los-espiritus-vs-de-los-vivos-yazhi-swaruu) (2021-12-07; es); passages p0065, p0068, p0070, p0071, p0072. [Structured record](../../records/src-4ea4379f95bf.json).
 
+### src-eba1fa9a8f38-c01
+
+Yazhi describes an inverse reality with reversed gravity and energy flows, where stars correspond to black holes.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Mundo al Revés y el Futuro influenciando el Pasado - Charlas metafísicas con Yazhi Swaruu](https://swaruu.org/transcripts/mundo-al-reves-y-el-futuro-influenciando-el-pasado-charlas-metafisicas-con-yazhi-swaruu) (2022-12-18; es); passages p0008, p0009, p0013. [Structured record](../../records/src-eba1fa9a8f38.json).
+
+Related topics: [Gravity harmonics](gravity-harmonics.md).
+
 ## Claims filed under other topics
 
 - [src-e1ef5c3d2bef-c01](original-matrix.md#src-e1ef5c3d2bef-c01) — Original Matrix
@@ -224,6 +234,7 @@ Source: [No hay Mundo Material - Parte 2 - Mundo de los Espiritus vs de los Vivo
 ## Review flags
 
 - Contradictory descriptions may be valid from different perspectives.
+- Cosmological claims are attributed to Yazhi; one disease example in the source is omitted.
 - Yazhi frames these as a limited explanatory viewpoint.
 - metaphysical-model\_attributed
 - mirror-identity-varies

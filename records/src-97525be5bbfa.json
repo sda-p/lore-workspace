@@ -1,0 +1,73 @@
+{
+  "source_id": "src-97525be5bbfa",
+  "snapshot_sha256": "d818e375d9d98f46a16036e40baff352811859a960c5491e3b8242e33d2571fb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-97525be5bbfa-c01",
+      "assertion": "Mari Swaruu tells viewers that an inner sense of extraterrestrial identity may indicate they are starseeds, whose deeper memories can remain subconscious.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0009",
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "memory-veil"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her spiritual belief and advice, not independently verifiable."
+    },
+    {
+      "id": "src-97525be5bbfa-c02",
+      "assertion": "Mari Swaruu says souls voluntarily choose Earth’s difficulties for growth and that empathy and sensitivity reflect connection to Source.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0013",
+        "p0014",
+        "p0015",
+        "p0016",
+        "p0017",
+        "p0018"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her metaphysical interpretation."
+    },
+    {
+      "id": "src-97525be5bbfa-c03",
+      "assertion": "Mari Swaruu advises starseeds to share spiritual information selectively and describes spiritual guides as expanded versions of oneself.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0021",
+        "p0022",
+        "p0023",
+        "p0024"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Spiritual advice and belief attributed to the speaker."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [
+    "The source affirms extraterrestrial identities based on subjective feelings; preserve attribution as the author’s belief."
+  ],
+  "coverage_gaps": [
+    "Additional motivational advice and claims about crystals and amulets omitted."
+  ]
+}

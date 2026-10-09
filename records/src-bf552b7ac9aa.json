@@ -1,0 +1,76 @@
+{
+  "source_id": "src-bf552b7ac9aa",
+  "snapshot_sha256": "fc62521bfb9da30903ffa7116fda3d60a83dfd414c0042e0f459926c47a7530c",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-bf552b7ac9aa-c01",
+      "assertion": "Yazhi says telepathy cannot be developed reliably through isolated exercises within Earth’s perceptual rules.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0006",
+        "p0008"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "Her account of telepathy."
+    },
+    {
+      "id": "src-bf552b7ac9aa-c02",
+      "assertion": "She presents telepathy as a byproduct of collective spiritual growth and expanded awareness.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0017"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-bf552b7ac9aa-c03",
+      "assertion": "Yazhi says perceived reality shifts after leaving Earth, helping some people transcend old paradigms.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0009"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "This is her claim."
+    },
+    {
+      "id": "src-bf552b7ac9aa-c04",
+      "assertion": "She later clarifies exercises can help, but are insufficient without broader personal change.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0014",
+        "p0015",
+        "p0018"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "The transcript does not provide a specific telepathy exercise."
+  ]
+}

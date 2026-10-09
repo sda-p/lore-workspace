@@ -528,6 +528,34 @@ Source: [NAVEGACIÓN ESTELAR IV SALTO AL HIPERESPACIO - Athena Swaruu](https://s
 
 Related topics: [Ship internal time](ship-internal-time.md), [Natural and artificial portals](natural-portals.md).
 
+### src-f10960087bcd-c02
+
+Yazhi says Taygetans navigate interstellar distances through frequency maps, using star charts as interpretive aids rather than precise navigation calculations. She says light-years remain a human-facing approximation.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Informacion de los Extraterrestres - Minitemas con Gosia de Agencia Cosmica](https://swaruu.org/transcripts/informacion-de-los-extraterrestres-minitemas-con-gosia-de-agencia-cosmica) (2023-03-13; es); passages p0124, p0125. [Structured record](../../records/src-f10960087bcd.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-9b0e688f41d9-c02
+
+She says star maps help coordinate interspecies events because local time varies by planet.
+
+Attributed to **Yazhi**; asserted; extraction confidence: high.
+
+Source: [Astrología - Plutón entrando en Acuario - Perspectiva Extraterrestre](https://swaruu.org/transcripts/astrologia-pluton-entrando-en-acuario-perspectiva-extraterrestre) (2023-02-05; es); passages p0020. [Structured record](../../records/src-9b0e688f41d9.json).
+
+Related topics: [Stellar navigation](stellar-navigation.md).
+
+### src-877d9746441a-c01
+
+Mari says starships use particle-frequency maps for long-distance navigation; conventional maps serve short, slow travel.
+
+Attributed to **Mari Swaruu**; asserted; extraction confidence: high.
+
+Source: [Navegación Estelar, Conceptos Básicos](https://swaruu.org/transcripts/navegacion-estelar-conceptos-basicos) (2022-12-23; es); passages p0010, p0011, p0013, p0014. [Structured record](../../records/src-877d9746441a.json).
+
 ## Claims filed under other topics
 
 - [src-426ea469937a-c01](stellar-navigation.md#src-426ea469937a-c01) — Stellar navigation
@@ -555,6 +583,13 @@ Related topics: [Ship internal time](ship-internal-time.md), [Natural and artifi
 - [src-23345f09145a-c02](ship-internal-time.md#src-23345f09145a-c02) — Ship internal time
 - [src-8372138cf73b-c03](sand-clock.md#src-8372138cf73b-c03) — Sand Clock
 - [src-2b1192891e85-c01](ship-internal-time.md#src-2b1192891e85-c01) — Ship internal time
+- [src-9d897870bbf8-c01](spherical-drones.md#src-9d897870bbf8-c01) — Spherical drones
+- [src-ca54384ffa82-c01](temporal-skipping.md#src-ca54384ffa82-c01) — Temporal skipping
+- [src-0c79139fd20c-c01](solar-portal-transit.md#src-0c79139fd20c-c01) — Solar portal transit
+- [src-b6f00e97482c-c01](spherical-drones.md#src-b6f00e97482c-c01) — Spherical drones
+- [src-1c99be09ad1a-c02](perceptual-density.md#src-1c99be09ad1a-c02) — Perceptual density
+- [src-877d9746441a-c03](stellar-navigation.md#src-877d9746441a-c03) — Stellar navigation
+- [src-877d9746441a-c04](stellar-navigation.md#src-877d9746441a-c04) — Stellar navigation
 
 ## Review flags
 
@@ -562,8 +597,10 @@ Related topics: [Ship internal time](ship-internal-time.md), [Natural and artifi
 - Compared full English counterpart src-30de3b7385d4. Core three mechanisms align, but English is substantially expanded with the Moon hologram’s purpose, a Federation/Egypt mission history, and a closing claim that the Matrix reads consciousness intentions; Spanish includes a short false-person opening absent from English.
 - Ether, gravity, and matter model is presented as Anéeka’s account, not independently measured.
 - Historical chronology and the reported overlap are source claims; exact dating remains uncertain
+- Navigation and propulsion descriptions are attributed to Mari Swaruu, not independently verified.
 - No-locality is presented as an empirically used navigation principle and a metaphysical model.
 - One English paragraph appears within the otherwise Spanish snapshot; dominant article language and snapshot metadata are Spanish. No separate English counterpart located.
+- Pluto-Shiva-identification-attributed-to-Federation-records
 - Tartaria chronology and destruction are presented as disputed source claims
 - ancient-symbol-interpretations-attributed
 - author-personal-philosophical-analysis
@@ -577,12 +614,16 @@ Related topics: [Ship internal time](ship-internal-time.md), [Natural and artifi
 - long conversation contains disputed health claims not included in core extraction
 - navigation and hyperdrive mechanisms are attributed claims from Athena, not independently verified
 - nonhuman-technology\_claims\_attributed
+- paranormal-portal-claims
+- paranormal-technology-and-cosmology-claims
+- personal-narrative-of-temporal-travel
 - planetary ascension is framed as perspective-dependent perception
 - portal-mechanics-overlap-src-6abed4268d57
 - post-eclipse-causal-attribution
 - psychological memory-rewriting discussion could be confused with clinical guidance
 - related-frequency-navigation-source
 - same-language-near-duplicate-src-6a5223076196
+- solar-frequency-metaphysical-claims
 - source-mixed-origin-en-reactor-and-spanish-engine-sections
 - speaker-shifts-Aneeka-Athena-Yazhi
 - suzy-thrust-rating-variant-review
@@ -593,6 +634,7 @@ Related topics: [Ship internal time](ship-internal-time.md), [Natural and artifi
 - translation-counterpart: none identified
 - translation-counterpart:src-ce6ea4ce1c3c-close
 - translation-time-note:Spanish correction p0056-p0058; English omits added arithmetic note
+- unverified-cosmology-and-energy-claims
 - unverified\_historical\_claims
 - unverified\_physics\_claims
 - unverified\_technical\_claims

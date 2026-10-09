@@ -1,0 +1,86 @@
+{
+  "source_id": "src-0507724a6bee",
+  "snapshot_sha256": "e0983badd8e080f3211ac767b9d9e5d08d259a81a27958d1041e0aeb62af36fc",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-0507724a6bee-c01",
+      "assertion": "Mari says she uses Minecraft to show parts of the 1,734-meter Toleka because direct images would violate the First Directive.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0014",
+        "p0015"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "She says Taygetans permit only selected areas because the model contains sensitive ship details."
+    },
+    {
+      "id": "src-0507724a6bee-c02",
+      "assertion": "Seven crew members built the Minecraft Toleka over several months as a playable, detailed model.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0010",
+        "p0013",
+        "p0016"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0507724a6bee-c03",
+      "assertion": "The Toleka’s lower habitable deck includes spa, gym, pool, and dance spaces; handholds assist movement if artificial gravity fails.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0019",
+        "p0020",
+        "p0023"
+      ],
+      "primary_topic": "toleka-class",
+      "topics": [
+        "toleka-class",
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-0507724a6bee-c04",
+      "assertion": "Its central park has a recirculating river, plant-support lighting, and systems for wind, rain, and mist.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0030",
+        "p0031",
+        "p0033"
+      ],
+      "primary_topic": "starship-systems",
+      "topics": [
+        "starship-systems"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": ""
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "simulated day-night cycle",
+    "ship dimensions and crew living spaces",
+    "Minecraft construction limits"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "source_id": "src-d6433743ab20",
+  "snapshot_sha256": "07f499819cdb45edca26b19f3acf078c5b5c50631e000337958c1ea5344d703f",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-d6433743ab20-c01",
+      "assertion": "Mari urges starseeds not to make disclosure or social change their life’s sole purpose, but to live and learn through Earth’s challenges.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0004",
+        "p0005",
+        "p0006",
+        "p0013",
+        "p0015"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says outcomes are uncertain."
+    },
+    {
+      "id": "src-d6433743ab20-c02",
+      "assertion": "She suggests starseeds may help by anchoring positive energy, guiding others, and making the Matrix less oppressive rather than ending it outright.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0009",
+        "p0010",
+        "p0012"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "earth-cabal",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She presents this as a possible role."
+    },
+    {
+      "id": "src-d6433743ab20-c03",
+      "assertion": "Mari says helping should come from one’s nature, not an expectation of saving humanity; she encourages living fully and caring for loved ones.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": [
+        "p0015",
+        "p0016",
+        "p0017"
+      ],
+      "primary_topic": "starseeds",
+      "topics": [
+        "starseeds",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She describes her own approach."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "suggested personal practices for maintaining one’s frequency",
+    "claims about long historical conflicts"
+  ]
+}

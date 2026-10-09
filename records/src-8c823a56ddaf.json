@@ -1,0 +1,70 @@
+{
+  "source_id": "src-8c823a56ddaf",
+  "snapshot_sha256": "5dda44db75467cef7da4a329869bb7722da789d0feabf8913c75f02e3d333808",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-8c823a56ddaf-c01",
+      "assertion": "Yazhi says souls reinforce collective negativity, especially when a powerful soul spirals; promoting negativity increases it.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0011",
+        "p0012"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She recommends focusing on meaningful, positive pursuits."
+    },
+    {
+      "id": "src-8c823a56ddaf-c02",
+      "assertion": "She describes a place's measurable frequency as the average created by nearby consciousness; a person can alter that average, while crystals retain influences and memories.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0016",
+        "p0020",
+        "p0027",
+        "p0032"
+      ],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": [
+        "consciousness-metaphysics",
+        "gravity-harmonics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says measurement depends on the surrounding field."
+    },
+    {
+      "id": "src-8c823a56ddaf-c03",
+      "assertion": "Yazhi distinguishes subatomic vibration, mass-related frequency, and consciousness-generated harmonics, which she says transmit as gravity.",
+      "speaker": "Yazhi",
+      "paragraph_ids": [
+        "p0051",
+        "p0052",
+        "p0053",
+        "p0056",
+        "p0057",
+        "p0058",
+        "p0066"
+      ],
+      "primary_topic": "gravity-harmonics",
+      "topics": [
+        "gravity-harmonics",
+        "consciousness-metaphysics"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says interferometers can measure values, but interpretation gives them meaning."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": [
+    "ego integration",
+    "mind's influence on dominant frequencies"
+  ]
+}

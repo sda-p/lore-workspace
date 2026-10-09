@@ -1,0 +1,110 @@
+{
+  "source_id": "src-22af298b0f43",
+  "snapshot_sha256": "c079b3cf76dba06b3032033f2f5e6ee5a8706d279c1ffc861b6b515ff0f8047d",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-22af298b0f43-c01",
+      "assertion": "Dale proposes resonant fields targeting diseased cells; Yazhi says frequencies should match tissues.",
+      "speaker": "Dale and Yazhi",
+      "paragraph_ids": [
+        "p0007",
+        "p0008",
+        "p0010",
+        "p0026"
+      ],
+      "primary_topic": "resonance-medical-pods",
+      "topics": [
+        "resonance-medical-pods"
+      ],
+      "modality": "speculative",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22af298b0f43-c02",
+      "assertion": "Yazhi says remove causes first and frames disease as somatized ideas.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0012",
+        "p0016",
+        "p0019"
+      ],
+      "primary_topic": "resonance-medical-pods",
+      "topics": [
+        "resonance-medical-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22af298b0f43-c03",
+      "assertion": "Dale distinguishes an EMP cylinder for bio/nanotech devices from a treatment bed.",
+      "speaker": "Dale Harder",
+      "paragraph_ids": [
+        "p0029",
+        "p0033",
+        "p0038"
+      ],
+      "primary_topic": "resonance-medical-pods",
+      "topics": [
+        "resonance-medical-pods"
+      ],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": ""
+    },
+    {
+      "id": "src-22af298b0f43-c04",
+      "assertion": "Yazhi links Philadelphia to unmodulated fields and says treatment fields require modulation.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0026",
+        "p0039",
+        "p0040"
+      ],
+      "primary_topic": "resonance-medical-pods",
+      "topics": [
+        "resonance-medical-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "These are her claims, not verified medical or historical findings."
+    },
+    {
+      "id": "src-22af298b0f43-c05",
+      "assertion": "Yazhi suggests raising body frequency may relieve ailments, especially cancer.",
+      "speaker": "Yazhi Swaruu",
+      "paragraph_ids": [
+        "p0045",
+        "p0047"
+      ],
+      "primary_topic": "resonance-medical-pods",
+      "topics": [
+        "resonance-medical-pods"
+      ],
+      "modality": "reported",
+      "confidence": "high",
+      "qualifiers": "This is her claim, not established treatment advice."
+    }
+  ],
+  "proposed_topics": [
+    {
+      "id": "resonance-medical-pods",
+      "name": "Resonance-based medical pods",
+      "kind": "medical technology",
+      "aliases": [
+        "resonance therapy beds",
+        "medical pods"
+      ]
+    }
+  ],
+  "review_flags": [
+    "The transcript includes unverified claims about cancer, disease causation, and healing technology; they are attributed to speakers and are not medical evidence."
+  ],
+  "coverage_gaps": [
+    "Dale’s specific sensor and electronics list",
+    "the EMP device’s metal restriction and field focusing"
+  ]
+}

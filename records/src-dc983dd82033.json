@@ -1,0 +1,43 @@
+{
+  "source_id": "src-dc983dd82033",
+  "snapshot_sha256": "fa2ea857b88b2ea811f7b6ec0c9521f2c6e2c98a9fb75d429b921ffdbb5c2dfb",
+  "language": "es",
+  "claims": [
+    {
+      "id": "src-dc983dd82033-c01",
+      "assertion": "Mari argues truth and knowledge are relative to perspective and circumstance; no viewpoint contains the complete picture.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0007", "p0008", "p0009", "p0019", "p0020"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "perceptual-density"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She situates these concepts within dualistic life."
+    },
+    {
+      "id": "src-dc983dd82033-c02",
+      "assertion": "She defines a timeline as an agreed sequence of events; greater consciousness can integrate contradictory sequences as different realities.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0011", "p0012", "p0013", "p0017", "p0018"],
+      "primary_topic": "timeline-branching",
+      "topics": ["timeline-branching", "consciousness-metaphysics"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She says fewer people perceive more expansive timelines."
+    },
+    {
+      "id": "src-dc983dd82033-c03",
+      "assertion": "Mari advises independent judgment and revising beliefs when a better perspective appears, including understanding views one rejects.",
+      "speaker": "Mari Swaruu",
+      "paragraph_ids": ["p0021", "p0022", "p0023", "p0025"],
+      "primary_topic": "consciousness-metaphysics",
+      "topics": ["consciousness-metaphysics", "perceptual-density"],
+      "modality": "asserted",
+      "confidence": "high",
+      "qualifiers": "She treats this as a way to expand awareness and knowledge."
+    }
+  ],
+  "proposed_topics": [],
+  "review_flags": [],
+  "coverage_gaps": ["war and conflict as attachment to truth", "solitude among more conscious beings"]
+}

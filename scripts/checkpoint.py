@@ -18,6 +18,7 @@ sub=parser.add_subparsers(dest='command',required=True)
 lister=sub.add_parser('list')
 lister.add_argument('--changed',action='store_true')
 lister.add_argument('--summary',action='store_true')
+lister.add_argument('--released-only',action='store_true',help='Exclude unreleased article drafts from the publication snapshot')
 reader=sub.add_parser('read')
 reader.add_argument('--path',required=True)
 reader.add_argument('--offset',type=int,default=0)
@@ -25,6 +26,8 @@ reader.add_argument('--length',type=int,default=12000)
 args=parser.parse_args()
 
 if args.command=='list':
+    ledger_path=ROOT/'work/ledger.json'
+    jobs=json.loads(ledger_path.read_text(encoding='utf-8')).get('jobs',{}) if args.released_only and ledger_path.exists() else {}
     if args.changed:
         tracked=subprocess.run(['git','diff','--name-only','--diff-filter=ACMRT','HEAD','-z'],cwd=ROOT,capture_output=True,check=True)
         untracked=subprocess.run(['git','ls-files','--others','--exclude-standard','-z'],cwd=ROOT,capture_output=True,check=True)
@@ -42,6 +45,10 @@ if args.command=='list':
         path=ROOT/name
         if not path.is_file() or name.endswith('.tmp'): continue
         if any(part.startswith('.tmp-') for part in Path(name).parts): continue
+        if args.released_only and name.startswith('records/') and path.suffix=='.json':
+            source_id=path.stem
+            if jobs.get(source_id,{}).get('status')!='reviewed' and not (ROOT/f'work/completed/{source_id}.json').exists():
+                continue
         if path.is_symlink(): raise ValueError('Refusing to publish symlinks')
         content=path.read_text(encoding='utf-8')
         target=SNAPSHOT/name

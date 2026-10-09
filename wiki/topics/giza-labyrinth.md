@@ -18,8 +18,19 @@ Source: [Pirámides - Cómo se Construyeron y Para qué Son? - Conocimiento Extr
 
 Related topics: [Galactic Federation](galactic-federation.md), [Urmah](urmah.md).
 
+### src-8c403e396292-c03
+
+Yazhi claimed an old Sphinx image showed two entrances near its paws, now covered, and said the ground in the image looked false. These are her claims about the image and her memory.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [LA RAZA NEGRA Y LAS FOTOS QUE NO DEBERIAN EXISTIR DE LA ESFINGE DE GIZA -Yazhi Swaruu](https://swaruu.org/transcripts/la-raza-negra-y-las-fotos-que-no-deberian-existir-de-la-esfinge-de-giza-yazhi-swaruu) (2022-11-04; es); passages p0040, p0044, p0047, p0048, p0054. [Structured record](../../records/src-8c403e396292.json).
+
+Related topics: [Great Pyramid of Giza](great-pyramid-of-giza.md).
+
 ## Review flags
 
+- Racial and archaeological claims are attributed to Yazhi and are not established findings.
 - conflicting-pyramid-dates
 - giza-base-account
 - pyramid-technology-claims

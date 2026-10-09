@@ -58,6 +58,24 @@ Source: [Gente No Real: Mensaje Extraterrestre (Pleyades - Taygeta) (7)](https:/
 
 Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 
+### src-828dc82b2ca2-c01
+
+Mari Swaruu describes Matrix-generated people as projections of collective belief, comparable to non-player characters in a simulated world. She says this is a viewpoint-dependent spiritual concept and need not be used to label individuals.
+
+Attributed to **Mari Swaruu**; speculative; extraction confidence: high.
+
+Source: [La Gente Falsa y Tú](https://swaruu.org/transcripts/la-gente-falsa-y-tu) (2023-04-16; es); passages p0025, p0027. [Structured record](../../records/src-828dc82b2ca2.json).
+
+### src-93080c6ab938-c02
+
+She claims some people are Matrix-generated and follow programmed reactions; she extends this idea beyond Earth. These are her claims, not verified facts.
+
+Attributed to **Yazhi Swaruu**; asserted; extraction confidence: high.
+
+Source: [Gente No Real volviéndose todo Reales - Es cierto ese rumor? Yazhi Swaruu opina](https://swaruu.org/transcripts/gente-no-real-volviendose-todo-reales-es-cierto-ese-rumor-yazhi-swaruu-opina) (2022-12-29; es); passages p0007, p0011, p0016, p0019. [Structured record](../../records/src-93080c6ab938.json).
+
+Related topics: [Consciousness and metaphysics](consciousness-metaphysics.md).
+
 ## Claims filed under other topics
 
 - [src-71526671dc28-c03](walk-in-phenomenon.md#src-71526671dc28-c03) — Walk-in phenomenon
@@ -67,10 +85,12 @@ Related topics: [Walk-in phenomenon](walk-in-phenomenon.md).
 
 ## Review flags
 
+- The source’s “real” versus “unreal” distinction concerns people and is an attributed metaphysical claim, not an objective assessment of anyone.
 - conceptual-revision:mind-reading-vs-perception
 - conspiracy-allegations
 - matrix-scope-differing-views
 - metaphysical-entity-origin-claims
+- metaphysical-personhood-claim
 - status-unverifiable
 - translated-originally-Spanish
 - treat-all-persons-equally
